@@ -1,14 +1,15 @@
-.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(2) {background-color: #fffacd;}
+/* CSS for the transition matrix table */
+.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(1) {background-color: #fffacd;}
+.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(2) {background-color: #ffb6c1;}
 .rst-content table.transition-matrix tr:nth-child(1) td:nth-child(3) {background-color: #ffb6c1;}
-.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(4) {background-color: #ffb6c1;}
-.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(5) {background-color: #ffb6c1; color: red}
+.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(4) {background-color: #ffb6c1; color: red}
+.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(5) {background-color: #ffb6c1;}
 .rst-content table.transition-matrix tr:nth-child(1) td:nth-child(6) {background-color: #ffb6c1;}
-.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(7) {background-color: #ffb6c1;}
 
-.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(2) {background-color: #90ee90;}
-.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(3) {background-color: #fffacd;}
-.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(4) {background-color: #90ee90;}
-.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(5) {background-color: #ffb6c1; color: red;}
+.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(1) {background-color: #90ee90;}
+.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(2) {background-color: #fffacd;}
+.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(3) {background-color: #90ee90;}
+.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(4) {background-color: #ffb6c1; color: red;}
+.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(5) {background-color: #ffb6c1;}
 .rst-content table.transition-matrix tr:nth-child(2) td:nth-child(6) {background-color: #ffb6c1;}
-.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(7) {background-color: #ffb6c1;}
 
