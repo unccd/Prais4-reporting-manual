@@ -10,6 +10,9 @@ Welcome to PRAIS4 Reporting Manual's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   introduction
+   country_profile
+   strategic_objectives
 
 
 Indices and tables
