@@ -28,7 +28,7 @@ Development Goal indicator 15.3.1). This information is also useful to investiga
 which could be potentially identified by the reduction in size of permanent water bodies, the disappearance of
 permanent water bodies and the loss of coastline.
 
-Total land area, water body area and total country area require respective estimates to be reported in km2 for
+Total land area, water body area and total country area require respective estimates to be reported in km<sup>2</sup> for
 the corresponding year. Land area data is pre-filled in the reporting template. The pre-filled data is editable
 and thus can be adjusted if these estimates have changed. Any changes are to be justified in the ‘Comments’
 column.
@@ -62,8 +62,6 @@ potential population pressures. Any additional disaggregated data should also be
 
 ![Image name](https://d33wubrfki0l68.cloudfront.net/eab45e25bb79970178fab7a2d10cba0209372a59/94d9e/assets/images/philly-magic-garden.jpg "This is the tooltip")
 
-![Internal image](/img/unccd_logo.png)
-
 ![Internal image 2](/img/80-CMEMS-TAC-WIND.png "Tooltip 2")
 
 
@@ -75,23 +73,63 @@ potential population pressures. Any additional disaggregated data should also be
 | Paragraph     | Text        |
 
 
+## Tables (RsT style)
+
+.. csv-table:: Frozen Delights!
+   :header: "Treat", "Quantity", "Description"
+   :widths: 15, 10, 30
+
+   "Albatross", 2.99, "On a stick!"
+   "Popcorn", 1.99, "Straight from the oven"
+
+
+## Basic formatting
+
+Use double asterisks for **bold text**. It also works with __double underscores__.
+Use single asterisks or underscores for *italic* _text_.
+Use three asterisks for ***really important*** text.
+
+
+## Blockquotes
+
+Blockquotes can contain multiple paragraphs. Add a > even on the blank lines between the paragraphs.
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+> Blockquotes can contain formatting such as **bold text** or lists:
+> - item 1
+> - item 2
+> 
+
+## Numbered lists
+
+Lines starting with numbers followed by periods are converted to numbered lists. You don't have to number each item manually, you can use number one for all items:
+
+1. First item
+2. Second item
+3. Third item
+
+
 ## Boxes
 
-```{admonition} Warning title
+```{admonition} Orange title
 :class: warning
 
 This is a warning
 ```
 
-```{admonition} Note title
+```{admonition} Blue title (default)
 This is a note
 ```
 
-```{admonition} Error title
+```{admonition} Red title
 :class: error
 This is an error
 ```
 
+```{note} This is a default note, without any arguments.
+```
 
 ## Definition lists
 
@@ -101,4 +139,18 @@ First Term
 Second Term
 : This is one definition of the second term.
 : This is another definition of the second term.
+
+
+## Definition lists v2
+
+
+Term 1
+    Definition
+Term 2
+    Definition paragraph 1.
+    Definition paragraph 2.
+Term 3
+    Definition paragraph A.
+
+    Definition paragraph B.
 
