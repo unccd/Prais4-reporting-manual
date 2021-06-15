@@ -84,3 +84,10 @@ html_logo = 'img/unccd_logo.png'
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
 html_favicon = 'imag/favicon.ico'
+
+# see https://docs.readthedocs.io/en/stable/guides/pdf-non-ascii-languages.html
+latex_engine = 'xelatex'
+
+pdf_documents = [
+    ('index', u'PRAIS4_user_manual', u'PRAIS4 User Manual', u'UNCCD', '2021-06-15'),
+]
