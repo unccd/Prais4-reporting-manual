@@ -107,6 +107,12 @@ Lines starting with numbers followed by periods are converted to numbered lists.
 ```{note} This is a default note, without any arguments.
 ```
 
+```{admonition} Blue title
+:class: note
+
+This is a note, but in a different way
+```
+
 ```{admonition} Orange title
 :class: warning
 
@@ -118,36 +124,10 @@ This is a warning
 This is an error
 ```
 
-```{admonition} Attention
-:class: attention
-This is a note
-```
-
-```{admonition} Caution
-:class: caution
-This is a note
-```
-
-```{admonition} Danger
-:class: danger
-This is a note
-```
-
-```{admonition} Hint
+```{admonition} Green title
 :class: hint
 This is a note
 ```
-
-```{admonition} Important
-:class: important
-This is a note
-```
-
-```{admonition} Tip
-:class: tip
-This is a note
-```
-
 
 ## Definition lists
 
