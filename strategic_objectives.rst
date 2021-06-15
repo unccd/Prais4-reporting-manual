@@ -3,8 +3,7 @@ Strategic objectives
 #####################
 
 *********************
-Strategic objective 1
-To improve the condition of affected ecosystems, combat desertification/land degradation, promote sustainable land management and contribute to land degradation neutrality
+Strategic objective 1: To improve the condition of affected ecosystems, combat desertification/land degradation, promote sustainable land management and contribute to land degradation neutrality
 *********************
 
 SO1-1 Trends in land cover
