@@ -80,7 +80,7 @@ Use single asterisks or underscores for *italic* _text_.
 Use three asterisks for ***really important*** text.
 
 
-## Blockquotes
+## Quoted text
 
 Blockquotes can contain multiple paragraphs. Add a > even on the blank lines between the paragraphs.
 
@@ -91,6 +91,13 @@ Blockquotes can contain multiple paragraphs. Add a > even on the blank lines bet
 > - item 1
 > - item 2
 > 
+
+Example 2:
+
+    Indenting text with 4 spaces or a tab shows the text as a code block.
+    The text can span across multiple lines.
+
+
 
 ## Numbered lists
 
