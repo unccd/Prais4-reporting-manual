@@ -145,3 +145,24 @@ Term 3
    "Albatross", 2.99, "On a stick!"
    "Popcorn", 1.99, "Straight from the oven"
 ```
+
+### Sidebars (RST style)
+
+The sidebar goes first, then the main text.
+
+```{eval-rst}
+
+.. sidebar:: Sidebar title
+
+    This is the sidebar text
+
+    .. image:: img/79-CMEMS-TAC-SST.png
+
+    *Caption* This is the image caption
+```
+
+If a land degradation map or a ‘support class’ map, which show which indicator or combination of
+indicators supports the classification of ‘degraded’ or ‘not degraded’ for a given pixel or land unit,
+were produced, they should be uploaded to the PRAIS. Any indicator datasets used to assess the
+proportion of land that is degraded, that have not already been included as part of the previous
+reporting on indicators SO1: 1-3, should be uploaded to the PRAIS
