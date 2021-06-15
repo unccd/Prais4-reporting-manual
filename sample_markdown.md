@@ -1,6 +1,8 @@
-# Country profile
+# Heading level 1
 
-## Purpose
+## Heading level 2
+
+### Heading level 3
 
 This information is required to facilitate analysis of the progress indicators for strategic objectives 1 and 2.
 
@@ -172,4 +174,15 @@ If a land degradation map or a ‘support class’ map, which show which indicat
 indicators supports the classification of ‘degraded’ or ‘not degraded’ for a given pixel or land unit,
 were produced, they should be uploaded to the PRAIS. Any indicator datasets used to assess the
 proportion of land that is degraded, that have not already been included as part of the previous
-reporting on indicators SO1: 1-3, should be uploaded to the PRAIS
+reporting on indicators SO1: 1-3, should be uploaded to the PRAIS.
+
+Voluntary targets can be set to achieve SO1 and therefore “to improve the condition of affected
+ecosystems, combat desertification/land degradation, promote sustainable land management and
+contribute to land degradation neutrality”. This includes the formulation by countries of LDN targets
+in accordance with their specific national circumstances and development priorities.
+
+The 2018 reporting will describe the countries’ level of ambition in achieving SO1.
+
+------
+
+End of sample text

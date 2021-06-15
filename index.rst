@@ -11,13 +11,10 @@ Welcome to PRAIS4 Reporting Manual's documentation!
    :caption: Contents:
 
    introduction
-   country_profile
-   strategic_objectives
+   sample_markdown
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
