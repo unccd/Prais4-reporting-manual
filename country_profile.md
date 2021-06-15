@@ -113,36 +113,25 @@ Lines starting with numbers followed by periods are converted to numbered lists.
 
 ## Boxes
 
-```{admonition} Orange title
+```{note} This is a default note, without any arguments.
+```
+
+```{note} Orange title
 :class: warning
 
 This is a warning
 ```
 
-```{admonition} Blue title (default)
-This is a note
-```
-
-```{admonition} Red title
+```{note} Red title
 :class: error
 This is an error
 ```
 
-```{note} This is a default note, without any arguments.
-```
-
 ## Definition lists
 
-First Term
-: This is the definition of the first term.
+To use definition lists and other formatting supported by ReStructuredText, use the `{eval-rst}` directive.
 
-Second Term
-: This is one definition of the second term.
-: This is another definition of the second term.
-
-
-## Definition lists v2
-
+```{eval-rst}
 
 Term 1
     Definition
@@ -154,3 +143,4 @@ Term 3
 
     Definition paragraph B.
 
+```
