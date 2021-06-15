@@ -1,6 +1,6 @@
 # Country profile
 
-## Purpose {#purpose}
+## Purpose
 
 This information is required to facilitate analysis of the progress indicators for strategic objectives 1 and 2.
 
