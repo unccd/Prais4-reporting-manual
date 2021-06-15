@@ -158,7 +158,6 @@ Term 3
 ### Tables (RST style)
 
 ```{eval-rst}
-
 .. list-table:: Table title
    :widths: 25 25 50
    :header-rows: 1
@@ -175,6 +174,7 @@ Term 3
      - Row 2, column 3
 ```
 
+```{eval-rst}
 .. list-table:: Transition Matrix
    :widths: auto
    :header-rows: 1
@@ -232,7 +232,6 @@ Term 3
      - Urban expansion
      - Stable
 ```
-
 
 ```{eval-rst}
 .. csv-table:: CSV Table - data can be stored in .CSV files
