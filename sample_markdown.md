@@ -173,8 +173,10 @@ Term 3
    * - Row 2, column 1
      - Row 2, column 2
      - Row 2, column 3
+```
 
 
+```{eval-rst}
 .. csv-table:: CSV Table - data can be stored in .CSV files
    :header: "Treat", "Quantity", "Description"
    :widths: 15, 10, 30
@@ -183,6 +185,15 @@ Term 3
    "Popcorn", 1.99, "Straight from the oven"
 
 
+```
+
+```
+.. csv-table:: CSV Table - data can be stored in .CSV files
+   :header: "Treat", "Quantity", "Description"
+   :widths: 15, 10, 30
+
+   "Albatross", 2.99, "On a stick!"
+   "Popcorn", 1.99, "Straight from the oven"
 ```
 
 ### Links
