@@ -13,3 +13,10 @@
 .rst-content table.transition-matrix tr:nth-child(2) td:nth-child(6) {background-color: #ffb6c1;}
 .rst-content table.transition-matrix tr:nth-child(2) td:nth-child(7) {background-color: #ffb6c1;}
 
+
+/* BLockquotes */
+.rst-content blockquote {
+  background-color: #f8f8f8;
+  border: 1px solid rgb(225, 228, 229);
+  padding: 1rem;
+}
