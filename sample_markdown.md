@@ -175,7 +175,7 @@ Term 3
 
 ### Links
 
-[This](https://duckduckgo.com) is a link to [google.com](https://www.google.com).
+[This](https://duckduckgo.com) is a link to <https://www.markdownguide.org>.
 
 HTML is also supported: <a href="http://example.com/" target="_blank">Hello, world!</a>.
 
