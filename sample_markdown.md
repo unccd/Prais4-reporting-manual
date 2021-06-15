@@ -175,6 +175,64 @@ Term 3
      - Row 2, column 3
 ```
 
+.. list-table:: Transition Matrix
+   :widths: auto
+   :header-rows: 1
+   :stub-columns: 1
+   :align: center
+   :class: transition-matrix
+
+   * - IPCC Class
+     - Forest Land
+     - Grassland
+     - Cropland
+     - Wetlands
+     - Settlements
+     - Other Land
+   * - Forest Land
+     - Stable
+     - Vegetation loss
+     - Deforestation
+     - Innundation
+     - Deforestation
+     - Vegetation loss
+   * - Grassland
+     - Aforestation
+     - Stable
+     - Agricultural expansion
+     - Innundation
+     - Urban expansion
+     - Vegetation loss
+   * - Cropland
+     - Aforestation
+     - Withdrawal of Agriculture
+     - Stable
+     - Innundation
+     - Urban expansion
+     - Vegetation loss
+   * - Wetlands
+     - Woody Encroachment
+     - Wetland drainage
+     - Wetland drainage
+     - Stable
+     - Wetland drainage
+     - Wetland drainage
+   * - Settlements
+     - Aforestation
+     - Vegetation establishment
+     - Agricultural expansion
+     - Wetland establishment
+     - Stable
+     - Withdrawal of Settlments
+   * - Other Land
+     - Aforestation
+     - Vegetation establishment
+     - Agricultural expansion
+     - Wetland establishment
+     - Urban expansion
+     - Stable
+```
+
 
 ```{eval-rst}
 .. csv-table:: CSV Table - data can be stored in .CSV files
