@@ -147,17 +147,36 @@ Term 3
 ### Tables (RST style)
 
 ```{eval-rst}
-.. csv-table:: Frozen Delights!
+
+.. list-table:: Table title
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Heading row 1, column 1
+     - Heading row 1, column 2
+     - Heading row 1, column 3
+   * - Row 1, column 1
+     -
+     - Row 1, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
+
+
+.. csv-table:: CSV Table - data can be stored in .CSV files
    :header: "Treat", "Quantity", "Description"
    :widths: 15, 10, 30
 
    "Albatross", 2.99, "On a stick!"
    "Popcorn", 1.99, "Straight from the oven"
+
+
 ```
 
 ### Links
 
-[This](https://duckduckgo.com) is a link to [google.com](https://www.google.com){:target="_blank"}
+[This](https://duckduckgo.com) is a link to [google.com](https://www.google.com).
+
 HTML is also supported: <a href="http://example.com/" target="_blank">Hello, world!</a>.
 
 
