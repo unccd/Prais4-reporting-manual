@@ -67,14 +67,6 @@ potential population pressures. Any additional disaggregated data should also be
 ![Internal image 2](/img/80-CMEMS-TAC-WIND.png "Tooltip 2")
 
 
-## Tables
-
-| Column 1 |   Column 2 |
-| -------- | ---------- |
-| Header     | Title       |
-| Paragraph     | Text        |
-
-
 ## Basic formatting
 
 Use double asterisks for **bold text**. It also works with __double underscores__.
@@ -143,6 +135,14 @@ Term 3
     Definition paragraph B.
 
 ```
+
+## Tables (Markdown style)
+
+| Column 1 |   Column 2 |
+| -------- | ---------- |
+| Header     | Title       |
+| Paragraph     | Text        |
+
 
 ### Tables (RST style)
 
