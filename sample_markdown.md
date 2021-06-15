@@ -49,8 +49,8 @@ Population estimates should be reported in thousand inhabitants. Population esti
 website of the United Nations, Department of Economic and Social Affairs, Population Division[^2] and/or from
 the World Bank website.[^3]
 
-[^2]: https://esa.un.org/unpd/wup/DataQuery/
-[^3]: https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AF
+[^2]: [https://esa.un.org/unpd/wup/DataQuery](https://esa.un.org/unpd/wup/DataQuery/)
+[^3]: [World Bank data](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AF)
 
 Countries should ensure that data on demographics is consistent with data on poverty and drinking water
 
@@ -154,6 +154,12 @@ Term 3
    "Albatross", 2.99, "On a stick!"
    "Popcorn", 1.99, "Straight from the oven"
 ```
+
+### Links
+
+[This](https://duckduckgo.com) is a link to [google.com](https://www.google.com){:target="_blank"}
+HTML is also supported: <a href="http://example.com/" target="_blank">Hello, world!</a>.
+
 
 ### Sidebars (RST style)
 
