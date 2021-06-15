@@ -62,7 +62,9 @@ potential population pressures. Any additional disaggregated data should also be
 
 ![Image name](https://d33wubrfki0l68.cloudfront.net/eab45e25bb79970178fab7a2d10cba0209372a59/94d9e/assets/images/philly-magic-garden.jpg "This is the tooltip")
 
-![Internal image)(/img/unccd_logo.png)
+![Internal image](/img/unccd_logo.png)
+
+![Internal image 2](/img/80-CMEMS-TAC-WIND.png "Tooltip 2")
 
 
 ## Tables
