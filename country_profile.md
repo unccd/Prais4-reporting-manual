@@ -59,6 +59,12 @@ from the World Bank. This disaggregated data may assist in the interpretation of
 potential population pressures. Any additional disaggregated data should also be uploaded to the PRAIS.
 
 
+## Tables
+
+| Column 1 |   Column 2 |
+| -------- | ---------- |
+| Header     | Title       |
+| Paragraph     | Text        |
 
 
 ## Boxes
