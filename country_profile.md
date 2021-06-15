@@ -106,13 +106,13 @@ Lines starting with numbers followed by periods are converted to numbered lists.
 ```{note} This is a default note, without any arguments.
 ```
 
-```{note} Orange title
+```{admonition} Orange title
 :class: warning
 
 This is a warning
 ```
 
-```{note} Red title
+```{admonition} Red title
 :class: error
 This is an error
 ```
