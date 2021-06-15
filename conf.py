@@ -52,6 +52,14 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 
+# Theme options are theme-specific and customize the look and feel of a theme
+# further.  For a list of options available for each theme, see the
+# documentation.
+html_theme_options = {
+    'style_nav_header_background': '#ff7100',
+    'collapse_navigation': False,
+}
+
 html_context = {
     "display_github": True,
     "github_user": "eaudeweb",
@@ -69,9 +77,9 @@ html_short_title = 'PRAIS4'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = '_static/img/unccd_logo.png'
+html_logo = 'img/unccd_logo.png'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-html_favicon = '_static/img/favicon.ico'
+html_favicon = 'imag/favicon.ico'
