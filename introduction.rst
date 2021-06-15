@@ -30,7 +30,7 @@ From 2018 on, UNCCD national reporting will monitor progress made in the impleme
 2018-2030 strategic framework. The reporting process and tools and the role and responsibilities of
 the CRIC in reviewing the reports are spelled out in decisions 13/COP.13 and 15/COP.13.
 
-------------
+------------------------------------------------------------
 
 Purpose
 ==========
@@ -49,9 +49,12 @@ agency for Sustainable Development Goal (SDG) indicator 15.3.1, is requested to 
 information submitted in the national reports as a contribution to the overall follow-up and review by the
 High-level Political Forum on Sustainable Development (HLPF).
 
-------------
+------------------------------------------------------------
 
-# Demo table
+
+
+Demo table
+------------
 
 .. csv-table:: Frozen Delights!
    :header: "Treat", "Quantity", "Description"
@@ -67,13 +70,14 @@ High-level Political Forum on Sustainable Development (HLPF).
 Definition Lists v1
 ----------------
 
-Term
+Term 1
     Definition
-Term : classifier
+Term 2
     Definition paragraph 1.
-
     Definition paragraph 2.
-Term
-    Definition
+Term 3
+    Definition paragraph A.
+
+    Definition paragraph B.
 
 
