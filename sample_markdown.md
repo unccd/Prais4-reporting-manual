@@ -62,9 +62,9 @@ potential population pressures. Any additional disaggregated data should also be
 
 ## Images
 
-![Image name](https://d33wubrfki0l68.cloudfront.net/eab45e25bb79970178fab7a2d10cba0209372a59/94d9e/assets/images/philly-magic-garden.jpg "This is the tooltip")
+![Alt-text for the first image](https://d33wubrfki0l68.cloudfront.net/eab45e25bb79970178fab7a2d10cba0209372a59/94d9e/assets/images/philly-magic-garden.jpg "This is the tooltip")
 
-![Internal image 2](/img/80-CMEMS-TAC-WIND.png "Tooltip 2")
+![Alt-text for the second image](/img/80-CMEMS-TAC-WIND.png "Tooltip 2")
 
 
 ## Basic formatting
@@ -117,6 +117,37 @@ This is a warning
 :class: error
 This is an error
 ```
+
+```{admonition} Attention
+:class: attention
+This is a note
+```
+
+```{admonition} Caution
+:class: caution
+This is a note
+```
+
+```{admonition} Danger
+:class: danger
+This is a note
+```
+
+```{admonition} Hint
+:class: hint
+This is a note
+```
+
+```{admonition} Important
+:class: important
+This is a note
+```
+
+```{admonition} Tip
+:class: tip
+This is a note
+```
+
 
 ## Definition lists
 
