@@ -162,7 +162,7 @@ Term 3
 .. list-table:: Table title
    :widths: 25 25 50
    :header-rows: 1
-   :table_style: align-center captionbelow booktabs
+   :align: center
 
    * - Heading row 1, column 1
      - Heading row 1, column 2
@@ -187,14 +187,6 @@ Term 3
 
 ```
 
-```
-.. csv-table:: CSV Table - data can be stored in .CSV files
-   :header: "Treat", "Quantity", "Description"
-   :widths: 15, 10, 30
-
-   "Albatross", 2.99, "On a stick!"
-   "Popcorn", 1.99, "Straight from the oven"
-```
 
 ### Links
 
