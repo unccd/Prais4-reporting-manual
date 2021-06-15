@@ -73,6 +73,11 @@ This is a warning
 This is a note
 ```
 
+```{admonition} Error title
+:class: error
+This is an error
+```
+
 
 ## Definition lists
 
