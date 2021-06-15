@@ -42,3 +42,17 @@ Second Term
 : This is one definition of the second term.
 : This is another definition of the second term.
 
+
+
+More Definition Lists
+----------------
+
+Term
+    Definition
+Term : classifier
+    Definition paragraph 1.
+
+    Definition paragraph 2.
+Term
+    Definition
+
