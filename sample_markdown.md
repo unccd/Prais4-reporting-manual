@@ -182,6 +182,7 @@ Term 3
 .. list-table:: Table title
    :widths: 25 25 50
    :header-rows: 1
+   :table_style: align-center captionbelow booktabs
 
    * - Heading row 1, column 1
      - Heading row 1, column 2
