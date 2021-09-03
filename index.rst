@@ -18,3 +18,8 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
+
+SO1 Land Cover 
+==============
+
+* :ref: `SO1 Land Cover`
