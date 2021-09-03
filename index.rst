@@ -13,7 +13,7 @@ Welcome to PRAIS4 Reporting Manual's documentation!
    introduction
    sample_markdown
 
-   SO1_LandCover 
+   SO1_LandCover
    land cover file
 
 Indices and tables
