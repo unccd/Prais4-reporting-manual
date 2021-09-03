@@ -13,13 +13,10 @@ Welcome to PRAIS4 Reporting Manual's documentation!
    introduction
    sample_markdown
 
+   SO1 Land Cover 
+   land cover file
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-
-SO1 Land Cover 
-==============
-
-* :ref: `SO1 Land Cover`
