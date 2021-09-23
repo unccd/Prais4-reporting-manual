@@ -75,4 +75,47 @@ Reporting on the implementation framework will be done through qualitative infor
 	</tbody>
 </table>
 
+<I>Table 2. Strategic objective (SO) 2 indicators and reporting attributions</I>
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+   <tr>
+      <td rowspan="2">Indicator code</td>
+      <td rowspan="2">Indicator name</td>
+      <td rowspan="2">Metrics/proxies</td>
+      <td rowspan="2">Adopted/proposed</td>
+      <td colspan="2">Reporting attribution</td>
+    </tr>
+		<tr>
+      <td>Affected country Parties</td>
+      <td>Developed country Parties</td>
+    </tr>
+    <tr>
+      <td>SO 2-1</td>
+      <td>Trends in population living below the relative poverty line and/or income inequality in affected areas</td>
+      <td><p>Proportion of the population below the international poverty line</p><p>OR</p><p>Income inequality</p></td>
+      <td>Indicator adopted in decision 7/COP.13</td>
+      <td>X</td>
+      <td>-</td>
+    </tr>
+		<tr>
+      <td>SO 2-2</td>
+      <td>Trends in access to safe drinking water in affected areas</td>
+      <td>Proportion of population using safely managed drinking water services</td>
+      <td>Indicator adopted in decision 7/COP.13</td>
+      <td>X</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>SO 2-3</td>
+      <td>Trends in the proportion of the population exposed to land degradation, disaggregated by sex</td>
+      <td>Proportion of the population exposed to land degradation, disaggregated by sex</td>
+      <td>Indicator proposed in response to decision 11/COP.14, which requested the Secretariat to align reporting for SOs 1– 5 with gender-responsive indicators </td>
+      <td>Optional</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
