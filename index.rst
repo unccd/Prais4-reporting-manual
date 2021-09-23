@@ -10,8 +10,7 @@ Welcome to PRAIS4 Reporting Manual's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   introduction
-   sample_markdown
+   Introduction
    SO1_LandCover
    
 Indices and tables
