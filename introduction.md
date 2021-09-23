@@ -30,7 +30,7 @@ Indicators used for reporting on progress towards the SOs are those adopted by P
 Reporting on the implementation framework will be done through qualitative information, largely by narratives on national experiences, and on a voluntary basis.
 
 <I>Table 1. Strategic objective (SO) 1 indicators and reporting attribution</I>
-<table>
+<table BORDER=3 BORDERCOLOR=RED>
 	<tbody>
 		<tr>
       <td  rowspan="2">Indicator code</td>
