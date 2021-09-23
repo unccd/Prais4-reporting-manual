@@ -31,8 +31,48 @@ Reporting on the implementation framework will be done through qualitative infor
 
 <I>Table 1. Strategic objective (SO) 1 indicators and reporting attribution</I>
 <table>
-  <tr>
-    <td class="border_l border_r border_t border_b selected" style="text-align: left;">
-      <div class="wrap"><div style="margin: 10px 5px;">
-        <p>
-          <span>Indicator code</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Indicator name&nbsp;&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Metrics/&nbsp;</span></p><p><span>proxies&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Adopted/&nbsp;</span></p><p><span>proposed&nbsp;</span></p></div></div></td><td colspan="2" class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Reporting attribution&nbsp;</span></p></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Affected country Parties&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Developed country Parties&nbsp;</span></p></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>SO&nbsp;1-1&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Trends in land cover&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Land cover change&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Indicator adopted in decision 7/COP.13&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>X&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Optional1&nbsp;</span></p></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>SO&nbsp;1-2&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Trends in land productivity or functioning of the land&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Land productivity dynamics&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Indicator adopted in decision 7/COP.13&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>X&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>SO&nbsp;1-3&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Trends in carbon stocks above and below ground&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Soil organic carbon stock&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Indicator adopted in decision 7/COP.13&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>X&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>SO&nbsp;1-4 (Sustainable&nbsp;Development&nbsp;Goal&nbsp;indicator&nbsp;15.3.1)&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Proportion of land that is degraded over total land area&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>-&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Background for&nbsp;indicator adopted in decision 9/COP.13&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>X&nbsp;</span></p></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;">Indicators under SO 1 and SDG indicator 15.3.1 are optional for reporting by developed country Parties. Developed country Parties may wish to submit information on these indicators on a voluntary basis for the purpose of reporting on progress towards the SDGs.</div></div></td></tr></table>
+	<tbody>
+		<tr>
+      <td  rowspan="2">Indicator code</td>
+      <td rowspan="2">Indicator name</td>
+      <td rowspan="2">Metrics/proxies</td>
+      <td rowspan="2">Adopted/proposed</td>
+      <td colspan="2">Reporting attribution</td>
+    </tr>
+		<tr>
+      <td>Affected country Parties</td>
+      <td>Developed country Parties</td>
+    </tr>
+    <tr>
+      <td>SO 1-1</td>
+      <td>Trends in land cover</td>
+      <td>Land cover change</td>
+      <td>Indicator adopted in decision 7/COP.13</td>
+      <td>X</td>
+      <td rowspan="4">Indicators under SO 1 and SDG indicator 15.3.1 are optional for reporting by developed country Parties. Developed country Parties may wish to submit        information on these indicators on a voluntary basis for the purpose of reporting on progress towards the SDGs</td>
+    </tr>
+		<tr>
+      <td>SO 1-2</td>
+      <td>Trends in land productivity or functioning of the land</td>
+      <td>Land productivity dynamics</td>
+      <td>Indicator adopted in decision 7/COP.13</td>
+      <td>X</td>
+    </tr>
+		<tr>
+      <td>SO 1-3</td>
+      <td>Trends in carbon stocks above and below ground</td>
+      <td>Soil organic carbon stock</td>
+      <td>Indicator adopted in decision 7/COP.13</td>
+      <td>X</td>
+    </tr>
+    		<tr>
+      <td>SO 1-4 (Sustainable Development Goal indicator 15.3.1)</td>
+      <td>Proportion of land that is degraded over total land area</td>
+      <td>-</td>
+      <td>Background for indicator adopted in decision 9/COP.13</td>
+      <td>X</td>
+    </tr>
+	</tbody>
+</table>
+
+
