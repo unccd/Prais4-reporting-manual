@@ -74,7 +74,8 @@ Reporting on the implementation framework will be done through qualitative infor
     </tr>
 	</tbody>
 </table>
-
+<p> </p>
+<p> </p>
 <I>Table 2. Strategic objective (SO) 2 indicators and reporting attributions</I>
 <table BORDER=3 BORDERCOLOR=BLACK>
   <tbody>
