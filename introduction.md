@@ -117,6 +117,151 @@ Reporting on the implementation framework will be done through qualitative infor
   </tbody>
 </table>
 
+<p> </p>
+<p> </p>
+<I>Table 3. Strategic objective (SO) 3 indicators and reporting attributions</I>
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+   <tr>
+      <td rowspan="2">Indicator code</td>
+      <td rowspan="2">Indicator name</td>
+      <td rowspan="2">Metrics/proxies</td>
+      <td rowspan="2">Adopted/proposed</td>
+      <td colspan="2">Reporting attribution</td>
+    </tr>
+		<tr>
+      <td>Affected country Parties</td>
+      <td>Developed country Parties</td>
+    </tr>
+    <tr>
+      <td>SO 3-1</td>
+      <td>Trends in the proportion of land under drought over the total land area</td>
+      <td>Proportion of land in each drought intensity class as defined by the Standardized Precipitation Index</td>
+      <td>Indicator adopted in decision 7/COP.14</td>
+      <td>X</td>
+      <td>-</td>
+    </tr>
+		<tr>
+      <td>SO 3-2</td>
+      <td>Trends in the proportion of the total population exposed to drought</td>
+      <td>Proportion of the population exposed to drought, disaggregated by sex</td>
+      <td>Indicator adopted in decision 7/COP.14</td>
+      <td>X</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>SO 3-3</td>
+      <td>Trends in the degree of drought vulnerability</td>
+      <td>Drought Vulnerability Index </td>
+      <td>Indicator adopted in decision 11/COP.14</td>
+      <td>Optional</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+<p> </p>
+<p> </p>
+<I>Table 4. Strategic objective (SO) 4 indicators and reporting attributions</I>
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+   <tr>
+      <td rowspan="2">Indicator code</td>
+      <td rowspan="2">Indicator name</td>
+      <td rowspan="2">Metrics/proxies</td>
+      <td rowspan="2">Adopted/proposed</td>
+      <td colspan="2">Reporting attribution</td>
+    </tr>
+		<tr>
+      <td>Affected country Parties</td>
+      <td>Developed country Parties</td>
+    </tr>
+    <tr>
+      <td>SO 4-1</td>
+      <td>Trends in carbon stocks above and below ground</td>
+      <td colspan="4">Trends in carbon stocks above and below ground is a multipurpose indicator used to measure progress towards both strategic objectives 1 and 4. See progress indicator SO 1-3.</td>
+    </tr>
+		<tr>
+      <td>SO 4-2</td>
+      <td>Trends in abundance and distribution of selected species</td>
+      <td>Red List Index</td>
+      <td>Indicator adopted in decision 7/COP.13</td>
+      <td>X</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>SO 4-3</td>
+      <td>Trends in protected area coverage of important biodiversity areas</td>
+      <td>Average proportion of Terrestrial Key Biodiversity Areas covered by protected areas</td>
+      <td>Complementary indicator and corresponding metric proposed in response to CRIC 17 recommendations and decision 7/COP.13.</td>
+      <td>Optional</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<p> </p>
+<p> </p>
+<I>Table 5. Strategic objective (SO) 5 indicators and reporting attributions</I>
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+   <tr>
+      <td rowspan="2">Indicator code</td>
+      <td rowspan="2">Indicator name</td>
+      <td rowspan="2">Metrics/proxies</td>
+      <td rowspan="2">Adopted/proposed</td>
+      <td colspan="2">Reporting attribution</td>
+    </tr>
+		<tr>
+      <td>Affected country Parties</td>
+      <td>Developed country Parties</td>
+    </tr>
+    <tr>
+      <td>SO 5-1</td>
+      <td>Bilateral and multilateral public resources</td>
+      <td>-</td>
+      <td>Indicator adopted in decision 7/COP.13 as ‘Trends in international bilateral and multilateral official development assistance’</td>
+      <td>-</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>SO 5-2</td>
+      <td>Domestic public resources</td>
+      <td>-</td>
+      <td>Indicator adopted in decision 7/COP.13 as ‘Trends in domestic public resources’</td>
+      <td>X</td>
+      <td>X</td>
+    </tr>
+    <tr>
+      <td>SO 5-3</td>
+      <td>International and domestic private resources</td>
+      <td>-</td>
+      <td rawspan="3">Indicators proposed in response to decision 11/COP.14, which requested the Global Mechanism to include additional quantitative data in the reporting template for SO 5 and provide information before the start of the next reporting process on the possible development of progress indicators on technology transfer under SO 5</td>
+      <td>Optional</td>
+      <td>Optional</td>
+    </tr>
+    <tr>
+      <td>SO 5-4</td>
+      <td>Technology transfer</td>
+      <td>-</td>
+      <td>Optional</td>
+      <td>Optional</td>
+    </tr>
+    <tr>
+      <td>SO 5-5</td>
+      <td>Future support for activities related to the implementation of the Convention</td>
+      <td>-</td>
+      <td>Optional</td>
+      <td>Optional</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
 
 
 
