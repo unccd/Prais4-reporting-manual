@@ -33,15 +33,15 @@ Reporting on the implementation framework will be done through qualitative infor
 <table BORDER=3 BORDERCOLOR=BLACK>
   <tbody>
    <tr>
-      <td rowspan="2">Indicator code</td>
-      <td rowspan="2">Indicator name</td>
-      <td rowspan="2">Metrics/proxies</td>
-      <td rowspan="2">Adopted/proposed</td>
-      <td colspan="2">Reporting attribution</td>
-    </tr>
-		<tr>
-      <td>Affected country Parties</td>
-      <td>Developed country Parties</td>
+      <th rowspan="2">Indicator code</th>
+      <th rowspan="2">Indicator name</th>
+      <th rowspan="2">Metrics/proxies</th>
+      <th rowspan="2">Adopted/proposed</th>
+      <th colspan="2">Reporting attribution</th>
+   </tr>
+   <tr>
+      <th>Affected country Parties</th>
+      <th>Developed country Parties</th>
     </tr>
     <tr>
       <td>SO 1-1</td>
@@ -80,15 +80,15 @@ Reporting on the implementation framework will be done through qualitative infor
 <table BORDER=3 BORDERCOLOR=BLACK>
   <tbody>
    <tr>
-      <td rowspan="2">Indicator code</td>
-      <td rowspan="2">Indicator name</td>
-      <td rowspan="2">Metrics/proxies</td>
-      <td rowspan="2">Adopted/proposed</td>
-      <td colspan="2">Reporting attribution</td>
+      <th rowspan="2">Indicator code</th>
+      <th rowspan="2">Indicator name</th>
+      <th rowspan="2">Metrics/proxies</th>
+      <th rowspan="2">Adopted/proposed</th>
+      <th colspan="2">Reporting attribution</th>
     </tr>
 		<tr>
-      <td>Affected country Parties</td>
-      <td>Developed country Parties</td>
+      <th>Affected country Parties</th>
+      <th>Developed country Parties</th>
     </tr>
     <tr>
       <td>SO 2-1</td>
@@ -123,15 +123,15 @@ Reporting on the implementation framework will be done through qualitative infor
 <table BORDER=3 BORDERCOLOR=BLACK>
   <tbody>
    <tr>
-      <td rowspan="2">Indicator code</td>
-      <td rowspan="2">Indicator name</td>
-      <td rowspan="2">Metrics/proxies</td>
-      <td rowspan="2">Adopted/proposed</td>
-      <td colspan="2">Reporting attribution</td>
+      <th rowspan="2">Indicator code</th>
+      <th rowspan="2">Indicator name</th>
+      <th rowspan="2">Metrics/proxies</th>
+      <th rowspan="2">Adopted/proposed</th>
+      <th colspan="2">Reporting attribution</th>
     </tr>
 		<tr>
-      <td>Affected country Parties</td>
-      <td>Developed country Parties</td>
+      <th>Affected country Parties</th>
+      <th>Developed country Parties</th>
     </tr>
     <tr>
       <td>SO 3-1</td>
@@ -166,15 +166,15 @@ Reporting on the implementation framework will be done through qualitative infor
 <table BORDER=3 BORDERCOLOR=BLACK>
   <tbody>
    <tr>
-      <td rowspan="2">Indicator code</td>
-      <td rowspan="2">Indicator name</td>
-      <td rowspan="2">Metrics/proxies</td>
-      <td rowspan="2">Adopted/proposed</td>
-      <td colspan="2">Reporting attribution</td>
+      <th rowspan="2">Indicator code</th>
+      <th rowspan="2">Indicator name</th>
+      <th rowspan="2">Metrics/proxies</th>
+      <th rowspan="2">Adopted/proposed</th>
+      <th colspan="2">Reporting attribution</th>
     </tr>
 		<tr>
-      <td>Affected country Parties</td>
-      <td>Developed country Parties</td>
+      <th>Affected country Parties</th>
+      <th>Developed country Parties</th>
     </tr>
     <tr>
       <td>SO 4-1</td>
@@ -207,15 +207,15 @@ Reporting on the implementation framework will be done through qualitative infor
 <table BORDER=3 BORDERCOLOR=BLACK>
   <tbody>
    <tr>
-      <td rowspan="2">Indicator code</td>
-      <td rowspan="2">Indicator name</td>
-      <td rowspan="2">Metrics/proxies</td>
-      <td rowspan="2">Adopted/proposed</td>
-      <td colspan="2">Reporting attribution</td>
+      <th rowspan="2">Indicator code</th>
+      <th rowspan="2">Indicator name</th>
+      <th rowspan="2">Metrics/proxies</th>
+      <th rowspan="2">Adopted/proposed</th>
+      <th colspan="2">Reporting attribution</th>
     </tr>
 		<tr>
-      <td>Affected country Parties</td>
-      <td>Developed country Parties</td>
+      <th>Affected country Parties</th>
+      <th>Developed country Parties</th>
     </tr>
     <tr>
       <td>SO 5-1</td>
@@ -327,8 +327,8 @@ By its decision 15/COP. 13, the COP approved a four-year frequency for national 
 <table BORDER=3 BORDERCOLOR=BLACK>
   <tbody>
    <tr>
-      <td>UNCCD Reporting Process</td>
-      <td>UNCCD Reporting Periods</td>
+      <th>UNCCD Reporting Process</th>
+      <th>UNCCD Reporting Periods</th>
     </tr>
     <tr>
       <td>2018</td>
