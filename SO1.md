@@ -127,10 +127,10 @@ Table 8 shows the conversion between the default UNCCD legend and the ESA CCI-LC
       <th colspan=2>European Space Agency Climate Change Initiative Land Cover</th>
     </tr>
     <tr>
-      <th colspan=2>Code</th>
-      <th colspan=2>Label</th>
-      <th colspan=2>Code</th>
-      <th colspan=2>Label</th>
+      <th>Code</th>
+      <th>Label</th>
+      <th>Code</th>
+      <th>Label</th>
     </tr>
     <tr>
       <td  rowspan=12>1</td>
@@ -197,26 +197,32 @@ Table 8 shows the conversion between the default UNCCD legend and the ESA CCI-LC
       <td>Shrubland evergreen</td>
     </tr>
     <tr>
-122	Shrubland deciduous
+      <td>122</td>
+      <td>Shrubland deciduous</td>
     </tr>
     <tr>
-		130	Grassland
+      <td>130</td>
+      <td>Grassland</td>
     </tr>
     <tr>
-		140	Lichen and mosses
+      <td>140</td>
+      <td>Lichen and mosses</td>
     </tr>
     <tr>
-		151	Sparse trees (<15%)
+      <td>151</td>
+      <td>Sparse trees (<15%)</td>
     </tr>
     <tr>
-		152	Sparse shrub (<15%)
+      <td>152</td>
+      <td>Sparse shrub (<15%)</td>
     </tr>
     <tr>
-		153	Sparse herbaceous cover (<15%)
+      <td>153</td>
+      <td>Sparse herbaceous cover (<15%)</td>
     </tr>
     <tr>
-
-						       3	Cropland	10	Cropland, rainfed
+      <td >3</td>	
+      <td>Cropland</td>	10	Cropland, rainfed
 		11	Herbaceous cover
 		12	Tree or shrub cover
 		20	Cropland, irrigated or post-flooding
