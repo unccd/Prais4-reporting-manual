@@ -11,7 +11,7 @@ Welcome to PRAIS4 Reporting Manual's documentation!
    :caption: Contents:
 
    introduction
-   SO1_LandCover
+   SO1
    
 Indices and tables
 ==================
