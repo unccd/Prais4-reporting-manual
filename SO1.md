@@ -90,5 +90,151 @@ Parties are invited to list the most relevant land cover change processes that a
     </tr>
 	</tbody>
 </table>
-<p> </p>
+Note: These are simplistic examples and attributing a change in state to degradation requires careful assessment at the national level.
+<p></p>
+
+<I>Step 3: Select a land cover legend</I>
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: table SO1-1.T3</I></td>
+    </tr>
+  </tbody>
+</table>
+
+Land cover information should be classified using either the default UNCCD legend comprising seven broad land cover classes for aggregate reporting, or a national land cover legend that allows key country-specific degradation processes to be monitored and which can be harmonized with the seven UNCCD land cover classes.
+
+The default UNCCD land cover legend includes the following seven classes: tree-covered areas, grassland, cropland, wetland, artificial surfaces, other land, and water bodies.  
+It is important to highlight that the objective of SO 1-1 reporting is to capture and document past and ongoing key land cover changes causing land degradation, not to report a fully comprehensive national land cover legend which lists all possible land cover classes occurring within a country. Accordingly, national land cover legends should be customized to only include the minimum number of classes needed to capture and monitor land degradation processes reported on in Step 2.
+
+If a country opts to use a national land cover legend, they should fill in table SO1-1.T3 with national land cover classes showing how they map to the default seven UNCCD land cover classes. Countries are strongly encouraged to build the legend with a limited number of relevant classes. This will make reporting more manageable and would reduce the transitions to be described and reported in Step 4. With reference to the Good Practice Guidance for SDG Indicator 15.3.1, the legend should be:
+
+- *Competent*, for capturing the degradation transitions identified as significant;
+
+- *Usable*, such that available observational data can distinguish between the classes in the legend; and
+
+- *Exhaustive*, such that the entire land area of the country can be attributed to classes from the legend and monitored through time.
+
+Wherever possible, UNCCD encourages Parties to use the Land Cover Meta Language (LCML) of the Food and Agriculture Organization of the United Nations (FAO), which provides a structured approach to land cover definition and interpretation. The LCML is the conceptual and structural backbone of various land cover classifications, including the land cover legend used by the ESA CCI-LC products. 
+
+Table 8 shows the conversion between the default UNCCD legend and the ESA CCI-LC legend.
+
+<I>Table 8. Default reclassification of the European Space Agency Climate Change Initiative Land Cover legend against the seven land cover classes needed for reporting to the UNCCD</I>
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <th colspan=2>UNCCD</th>
+      <th colspan=2>European Space Agency Climate Change Initiative Land Cover</th>
+    </tr>
+    <tr>
+      <th colspan=2>Code</th>
+      <th colspan=2>Label</th>
+      <th colspan=2>Code</th>
+      <th colspan=2>Label</th>
+    </tr>
+    <tr>
+      <td  rowspan=12>1</td>
+      <td  rowspan=12>Tree-covered areas</td>
+      <td>50</td>
+      <td>Tree cover, broadleaved, evergreen, closed to open (>15%)</td>
+    </tr>
+    <tr>
+      <td>60></td>
+      <td>Tree cover, broadleaved, deciduous, closed to open (>15%)</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>Tree cover, broadleaved, deciduous, closed (>40%)</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>Tree cover, broadleaved, deciduous, open (15–40%)</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>Tree cover, needle leaved, evergreen, closed to open (>15%)</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>Tree cover, needle leaved, evergreen, closed (>40%)</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>Tree cover, needle leaved, evergreen, open (15–40%)</td>
+    </tr>
+    <tr>	    
+      <td>80</td>
+      <td>Tree cover, needle leaved, deciduous, closed to open (>15%)</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>Tree cover, needle leaved, deciduous, closed (> 40%)</td>
+    </tr>
+    <tr>	    
+      <td>82</td>
+      <td>Tree cover, needle leaved, deciduous, open (15–40%)</td>
+    </tr>
+    <tr>	    
+      <td>90</td>
+      <td>Tree cover, mixed leaf type (broadleaved and needle leaved)</td>
+    </tr>
+    <tr>	    
+      <td>100</td>
+      <td>Mosaic tree and shrub (>50%)/herbaceous cover (< 50%)</td>
+    </tr>
+    <tr>	      
+      <td rowspan=9>2</td>
+      <td rowspan=9>Grassland</td>
+      <td>110</td>
+      <td>Mosaic herbaceous cover (>50%)/tree and shrub (<50%)</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>Shrubland</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>Shrubland evergreen</td>
+    </tr>
+    <tr>
+122	Shrubland deciduous
+    </tr>
+    <tr>
+		130	Grassland
+    </tr>
+    <tr>
+		140	Lichen and mosses
+    </tr>
+    <tr>
+		151	Sparse trees (<15%)
+    </tr>
+    <tr>
+		152	Sparse shrub (<15%)
+    </tr>
+    <tr>
+		153	Sparse herbaceous cover (<15%)
+    </tr>
+    <tr>
+
+						       3	Cropland	10	Cropland, rainfed
+		11	Herbaceous cover
+		12	Tree or shrub cover
+		20	Cropland, irrigated or post-flooding
+		30	Mosaic cropland (>50%)/natural vegetation (tree, shrub, herbaceous cover) (<50%)
+		40	Mosaic natural vegetation (tree, shrub, herbaceous cover) (>50%)/cropland (< 50%)
+4	Wetland	160	Tree cover, aquatic or regularly flooded in fresh or brackish water
+		170	Tree cover, aquatic, regularly flooded in salt or brackish water, mangroves
+		180	Shrub or herbaceous cover, flooded, fresh/brackish water
+5	Artificial surfaces	190	Urban areas
+6	Other land	200	Bare areas
+		201	Consolidated bare areas
+		202	Unconsolidated bare areas
+		220	Permanent snow and ice
+7	Water bodies	210	Water bodies
+
+    </tr>
+  </tbody>
+</table>
+
+
 
