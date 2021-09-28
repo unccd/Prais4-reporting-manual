@@ -24,3 +24,7 @@ National reporting is facilitated though the provision of: (i) default data deri
 ### 1.1.3. Reporting process and step-by-step procedure
 
 The step-by-step procedure for reporting is described in the following. If Parties decide to use the default data, steps 3, 4, 5 and 6 are unnecessary. 
+
+<I>Step 1: Report on land area</I>
+<Table>
+
