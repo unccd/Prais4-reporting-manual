@@ -794,7 +794,7 @@ For the purposes of calculating the land productivity sub-indicator, UNCCD recom
 
 _Productivity Performance_
 
-In contrast to Trend and State, which are temporal metrics, productivity Performance is a spatial metric involving benchmarking the level of local plant productivity relative to other land units (i.e.  other pixels) within the same [Land Cover/Ecosystem Functional Unit (LCEU)](a "The calculation of productivity Performance is strongly dependent on the definition of the LCEU. Unlike the Trend and State metrics, which assess changes over time, Performance is a spatial comparison, and the results may change if the extent over which the analysis is conducted changes."). 
+In contrast to Trend and State, which are temporal metrics, productivity Performance is a spatial metric involving benchmarking the level of local plant productivity relative to other land units (i.e.  other pixels) within the same [Land Cover/Ecosystem Functional Unit (LCEU)](a "The calculation of productivity Performance is strongly dependent on the definition of the LCEU. Unlike the Trend and State metrics, which assess changes over time, Performance is a spatial comparison, and the results may change if the extent over which the analysis is conducted changes.").
 
 Productivity Performance is calculated by comparing the mean annual productivity value per pixel with the maximum productivity index value observed within the same LCEU for a given assessment period. Pixels are considered degraded when their productivity potential is less than a half of the maximum value observed in a given LCEU. The maximum value is in turn defined as the 90th percentile of pixel values in the LCEU (NPPmax).  Therefore, productivity Performance values close to 1 represent pixels in which productivity is close to the highest level for that land unit in that period.
 
@@ -804,9 +804,88 @@ The resulting dataset would then include only two classes:
 
 The productivity Performance in the reporting periods should be calculated from the mean of the annual productivity assessments over the years between the previous (or baseline) assessment up to the current year.  
 
-Step 5: Combine productivity metrics to assess land productivity degradation in the baseline period
+_Step 5: Combine productivity metrics to assess land productivity degradation in the baseline period_
+
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: table SO1-2.T5</I></td>
+    </tr>
+  </tbody>
+</table>
 
 The outputs obtained from the three metrics are used to estimate the extent of the degraded land in the baseline period. 
+
 Table 12 below shows how to transform the outputs of the three metrics into two classes (degraded land/not degraded land) to assess the land productivity degradation status in the baseline period. In the table, ‘Y’ indicates degraded land and ‘N’ indicates land that is not degraded.
 
+_Table 12. Combination of productivity metrics to determine whether a pixel is degraded or not degraded in the baseline period_
+
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+   <tr>
+      <th>Class combination</th>
+      <th>Trend</th>
+      <th>State</th>
+      <th>Performance</th>
+      <th>Degraded</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Y</td>
+      <td>Y</td>
+      <td>Y</td>
+      <td>Y</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Y</td>
+      <td>Y</td>
+      <td>N</td>
+      <td>Y</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Y</td>
+      <td>N</td>
+      <td>Y</td>
+      <td>Y</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Y</td>
+      <td>N</td>
+      <td>N</td>
+      <td>Y</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>N</td>
+      <td>Y</td>
+      <td>Y</td>
+      <td>Y</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>N</td>
+      <td>Y</td>
+      <td>N</td>
+      <td>N</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>N</td>
+      <td>N</td>
+      <td>Y</td>
+      <td>N</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>N</td>
+      <td>N</td>
+      <td>N</td>
+      <td>N</td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 
