@@ -796,7 +796,7 @@ _Productivity Performance_
 
 In contrast to Trend and State, which are temporal metrics, productivity Performance is a spatial metric involving benchmarking the level of local plant productivity relative to other land units (i.e.  other pixels) within the same [Land Cover/Ecosystem Functional Unit (LCEU)](a "The calculation of productivity Performance is strongly dependent on the definition of the LCEU. Unlike the Trend and State metrics, which assess changes over time, Performance is a spatial comparison, and the results may change if the extent over which the analysis is conducted changes.").
 
-Productivity Performance is calculated by comparing the mean annual productivity value per pixel with the maximum productivity index value observed within the same LCEU for a given assessment period. Pixels are considered degraded when their productivity potential is less than a half of the maximum value observed in a given LCEU. The maximum value is in turn defined as the 90th percentile of pixel values in the LCEU (NPPmax).  Therefore, productivity Performance values close to 1 represent pixels in which productivity is close to the highest level for that land unit in that period.
+Productivity Performance is calculated by comparing the mean annual productivity value per pixel with the maximum productivity index value observed within the same LCEU for a given assessment period. Pixels are considered degraded when their productivity potential is less than a half of the maximum value observed in a given LCEU. [The maximum value is in turn defined as the 90th percentile of pixel values in the LCEU (NPPmax)](a "To avoid possible overestimation of the maximum value due to the presence of outliers, it is recommended to use the 90th percentile of the productivity values within the land unit as the actual maximum vegetation index value (NPPmax).").  Therefore, productivity Performance values close to 1 represent pixels in which productivity is close to the highest level for that land unit in that period.
 
 The resulting dataset would then include only two classes:
 - z-score < 0.5 NPPmax = degrading 
@@ -887,5 +887,7 @@ _Table 12. Combination of productivity metrics to determine whether a pixel is d
     </tr>
   </tbody>
 </table>
+_Note: Lookup table indicating combinations of productivity metrics to determine whether a pixel is degraded (‘Y’) or not degraded (‘N’): classes 1 to 5 show degradation. This table complies with the definition of land degradation adopted by the UNCCD, which includes a reduction of biological productivity (i.e. a significantly negative Trend constitutes degradation regardless of the State or Performance metrics)._
 <p></p>
+
 
