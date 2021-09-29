@@ -775,3 +775,38 @@ Parties should make the following calculations:
     </tr>
   </tbody>
 </table>
+<p></p>
+
+Class definitions for the Z scores are as follows:
+
+- z-score < –1.96 = degraded
+- z-score < –1.28 AND ≥ –1.96 = at risk of degrading
+- z-score ≥ –1.28 AND ≤ 1.28 = no significant change
+- z-score > 1.28 AND ≤ 1.96 = potentially improving
+- z-score > 1.96 = improving
+
+Similar to the productivity Trend, the above-mentioned five classes are reduced to three when reporting data to UNCCD:
+- z-score < –1.28 = degrading
+- z-score < –1.28 AND ≥ –1.28 = stable
+- z-score > 1.28 = improving
+
+For the purposes of calculating the land productivity sub-indicator, UNCCD recommends considering only the area of the lowest negative z-score level (< –1.96) as degraded. Areas in other z-score classes should be considered as not degraded.
+
+_Productivity Performance_
+
+In contrast to Trend and State, which are temporal metrics, productivity Performance is a spatial metric involving benchmarking the level of local plant productivity relative to other land units (i.e.  other pixels) within the same [Land Cover/Ecosystem Functional Unit (LCEU)](a "The calculation of productivity Performance is strongly dependent on the definition of the LCEU. Unlike the Trend and State metrics, which assess changes over time, Performance is a spatial comparison, and the results may change if the extent over which the analysis is conducted changes."). 
+
+Productivity Performance is calculated by comparing the mean annual productivity value per pixel with the maximum productivity index value observed within the same LCEU for a given assessment period. Pixels are considered degraded when their productivity potential is less than a half of the maximum value observed in a given LCEU. The maximum value is in turn defined as the 90th percentile of pixel values in the LCEU (NPPmax).  Therefore, productivity Performance values close to 1 represent pixels in which productivity is close to the highest level for that land unit in that period.
+
+The resulting dataset would then include only two classes:
+- z-score < 0.5 NPPmax = degrading 
+- z-score ≥ 0.5 NPPmax = improving
+
+The productivity Performance in the reporting periods should be calculated from the mean of the annual productivity assessments over the years between the previous (or baseline) assessment up to the current year.  
+
+Step 5: Combine productivity metrics to assess land productivity degradation in the baseline period
+
+The outputs obtained from the three metrics are used to estimate the extent of the degraded land in the baseline period. 
+Table 12 below shows how to transform the outputs of the three metrics into two classes (degraded land/not degraded land) to assess the land productivity degradation status in the baseline period. In the table, ‘Y’ indicates degraded land and ‘N’ indicates land that is not degraded.
+
+
