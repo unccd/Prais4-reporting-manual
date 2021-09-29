@@ -456,13 +456,119 @@ _Table 10. Data specifications for SO 1-1 indicator_
 </table>
 </p>
 
+_Step 6: Determine the baseline extent of land cover degradation_
 
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: tables SO1-1.T5, SO1-1.T6 and SO1-1.T8</I></td>
+    </tr>
+  </tbody>
+</table>
 
-Classification	36 land cover classes based on the Food and Agriculture Organization of the United Nations (FAO) Land Cover Classification System (LCCS). For reporting purposes, the 36 ESA CCI-LC classes are aggregated to the seven UNCCD classes (see table 8 of this document for aggregation rules).	A land cover classification compatible with the seven UNCCD default classes described in step 2. Ideally, the legend is based on the FAO LCCS/Land Cover Meta Language (LCML) methodology. However, the legend should be concise and only include land cover classes of relevance to the reported land degradation processes.
-Temporal coverage	Annual data from the year 2000 onward	Annual data from the year 2000 onward would be the best option. However, the bare minimum would be data for the years 2000 and 2015 (for the baseline) and the latest available year for the reporting period.
-Spatial resolution	300 metres (m)	The desired spatial resolution is 100m or finer. If such data is not available, it is recommended to use the default data or data with a resolution higher than that of the default data (300m).
-Accuracy	74%	To conform with the data quality of the default land cover product, it is recommended to ensure an overall mapping accuracy of at least 74%.
-Metadata	Metadata information is automatically generated with the default data in Trends.Earth. 	A list of minimum metadata information is listed in Annex II to this document.
+The baseline sets the benchmark against which change in the extent of land cover degradation is compared in subsequent reporting periods. Determining the baseline extent consists of comparing the land cover in the final year of the baseline period (the baseline year, i.e. 2015) with that of the initial year (2000) to estimate what changed (in terms of land cover transitions), calculate the net area change per land cover class and infer the land degradation status based on the transition matrix. Using a consistent baseline is extremely important since it affects the results of change calculations between the baseline and the reporting periods. These changes are used to monitor Parties’ progress on SO 1-1. 
 
+Default national estimates of land cover change and land cover degradation for the baseline period are made available in tables SO1-1.T6 and SO1-1.T8 of PRAIS 4, respectively. These estimates can be accepted, adjusted or replaced using national data, as appropriate. Supporting comments should be entered into in the comments box provided to justify the modification or replacement of default data. Countries opting to use national data are encouraged to use Trends.Earth for the preparation, analysis and transfer of their data to PRAIS 4. Trends.Earth includes tools to automatically estimate land cover changes and land cover degradation. 
+
+_Step 7: Estimate land cover degradation_
+
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: tables SO1-1.T1, SO1-1.T5, SO1-1.T7 and SO1-1.T9</I></td>
+    </tr>
+  </tbody>
+</table>
+
+Default national estimates of land cover change and land cover degradation for the reporting period are made available in tables SO1-1.T5 and SO1-1.T7, respectively. These estimates are calculated by comparing the land cover in the most recent available year of the reporting period (i.e. 2019 for the default data) with that of the initial year of the reporting period (2016). These estimates can be accepted, adjusted or replaced using national data, as appropriate.   
+
+Using the selected data, legend and transition matrix, Parties may produce national estimates of (i) land cover change; (ii) land cover degradation; (iii) land cover improvement; and (iv) no change for the reporting period through Trends.Earth and import the results to the PRAIS 4 platform, where the relevant maps can be created.
+
+_Step 8: Verify the results_
+
+The remote-sensing interpretation of land cover changes varies greatly across the globe, strongly influenced by the prevailing climatic conditions and land management practices. This may affect the reliability of applying estimates from global data sources to local areas and require inputs from national experts to identify and highlight situations where the confidence level of the obtained results might be low. This input would contribute to a qualitative assessment of the reliability of the estimates. 
+
+_Step 9: Generate reports_
+
+The PRAIS 4 platform enables the reporting of quantitative information on land cover, land cover changes and land cover degradation. In the absence of more accurate and detailed data at the national level, Parties may officially submit to UNCCD the default estimates. For estimates generated using national data, Parties should provide:
+
+- A description of the legend and transition matrix;
+
+- National land cover datasets for the baseline and the reporting period;
+
+- Land cover change information, including a land cover area change matrix and a spatial dataset that shows the areas subject to degradation, improvement or no change based on land cover data.
+
+Information on land cover, land cover changes and land cover degradation should be reported in km2 for the entire country. Reporting on affected areas only should be done via a separate set of forms on the PRAIS 4 platform. 
+
+If the default datasets have been replaced with national land cover data, countries are encouraged to upload the relevant geospatial data to PRAIS. Any spatial data uploaded to the system must be supported by appropriate metadata describing the spatial data, as indicated in the metadata upload form.
+
+Default maps or maps generated in Trends.Earth using national data representing land cover, land cover change and land cover degradation for the baseline/reporting period are made available in the PRAIS 4 platform. More specifically, the following maps will be available online:
+
+- Land cover map of the initial year of the baseline period (2000) 
+
+- Land cover map of the final year of the baseline period year (2015)
+
+- Land cover map of the latest reporting year
+
+- Land cover change in the baseline period	 
+
+- Land cover change in the reporting period
+
+- Land cover degradation in the baseline period 
+
+- Land cover degradation in the reporting period.
+
+Parties are also invited to submit narratives on methods and process used and to report on special cases and issues using the ‘General Comment’ field.
+
+### 1.1.4. Dependencies
+
+Land cover data is used not only to report on SO 1-1, but also to stratify the indicators on land productivity and soil organic carbon (SOC) (SO 1-2 and SO 1-3) and as one of the sub-indicators to calculate the proportion of land that is degraded over total land area (SO 1-4). 
+
+The total land area declared under table SO1-1.T1 drives the calculation of subsequent reporting elements across the SOs, which will be listed as dependent on table SO1-1.T1 in the respective section of the reporting manual.
+
+### 1.1.5. Challenges
+
+_Data availability and quality_
+- Spatial resolution of default data might not always be suitable to accurately represent land cover and its changes at national level, especially for small island developing States (SIDS) or mountainous countries, which need the highest spatial resolution data. Complementing/refining international data analysis with local-scale data, if available, can help improve the quality and reliability of the results.
+
+- For analysis and reporting of change in land cover, it is essential to have consistent data (i.e. data derived from the same data source using the same processing technique) over a long period of time; this is often a challenge at both the national and global levels. 
+
+- The validation of national land cover information may need to be cross-checked in the field, also in consultation with local experts. This might be a time consuming and expensive activity to undertake. Validation carried out using different methods and techniques (e.g. samples of field work with existing aerial photography, free high-resolution images available in Google Earth) could considerably reduce costs and resource allocation.
+
+_Land cover classification_
+- National land cover legends and transition matrices may be more accurate in capturing local degradation processes and land cover transitions, but might increase the number of possible land cover transitions to be described to an unmanageable amount. While it is important to include the key land cover transitions in a country, a balance between precision and manageability of the information should be considered.
+
+- Existing national land cover maps and data need to be converted to the seven UNCCD classes. The required aggregation of land cover classes to the seven UNCCD classes can partly degrade the quality of the original data. Documenting the uncertainties and generalizations applied to harmonize data with international standards may inform the conversion process and the accuracy of the outputs.
+
+- Land cover information provided to UNCCD should be consistent over time; changes in the land cover classification methodology require recalculations of previously submitted national estimates.
+
+### 1.1.6. Summary (main actions)
+
+Key actions for reporting on land cover changes are as follows:
+
+1.	Report on land area: Information on total land area, the area covered by water bodies and total country area is to be reported in table SO1-1.T1.
+
+2.	Identify the key land degradation processes through the appropriate consultative process and insert the results in table SO1-1.T2.
+
+3.	Select a land cover legend, ensuring compatibility with the UNCCD default legend. Insert the legend in table SO1-1.T3 if different from the UNCCD default legend.
+
+4.	Generate a transition matrix. For each land cover transition, indicate whether it is likely to lead to degradation, improvement or stable conditions. Enter this information in table SO1-1.T4a if the UNCCD land cover legend is used; otherwise use table SO1-1.T4b for national legends.
+
+5.	Select data to be used; ensure compliance with the minimum specifications listed in table 10.
+
+6.	Determine the baseline extent of land cover degradation using the selected data, legend and transition matrix for the baseline period 2000–2015. If national land cover data is used, run the calculations in Trends.Earth and enter this information in tables SO1-1.T5, SO1-1.T6 and SO1-1.T8. 
+
+7.	Estimate land cover degradation using the selected data, legend and transition matrix for the reporting period and based on an assessment of change from the baseline. If national land cover data is used, run the calculations in Trends.Earth and enter this information in tables SO1-1.T5, SO1-1.T7 and SO1-1.T9.
+
+8.	Verify the results: It is recommended that land cover and related land degradation estimates are verified by the concerned national authorities to assess the accuracy of the results and identify any false positive and negative situations which can be reported on in the SO 1-4 forms (SDG indicator 15.3.1). 
+
+9.	Generate reports: Verify the accuracy of the quantitative information entered in the report and include the narrative information on methods and process used.
+
+### 1.1.7. Further reading
+
+- Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 3: Land cover and land cover change.  
+
+- Di Gregorio, A., & Jansen, L.J.M. (2000). Land cover classification system (LCCS). Classification concepts and user manual for software version 1.0. Rome: FAO (http://www.fao.org/3/y7220e/y7220e00.htm).
+ 
 
 
