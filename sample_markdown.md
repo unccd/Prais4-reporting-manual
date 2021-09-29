@@ -181,6 +181,7 @@ Term 3
    :stub-columns: 1
    :align: center
    :class: transition-matrix
+   :name: transition-matrix-table-id
 
    * - IPCC Class
      - Forest Land
