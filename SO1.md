@@ -571,4 +571,140 @@ Key actions for reporting on land cover changes are as follows:
 - Di Gregorio, A., & Jansen, L.J.M. (2000). Land cover classification system (LCCS). Classification concepts and user manual for software version 1.0. Rome: FAO (http://www.fao.org/3/y7220e/y7220e00.htm).
  
 
+## 1.2. SO 1-2 – Trends in land productivity
+
+### 1.2.1. Introduction
+
+Land productivity is the biological productive capacity of the land: the principal source of the food, fiber and fuel that sustains humans. 
+The UNCCD methodology for estimating the proportion of land that is degraded over total land area (i.e. SDG indicator 15.3.1) uses changes in land productivity as an indicator of long-term variations in the health and productive capacity of the land. Land productivity reflects the net effects of changes in ecosystem functioning on plant and biomass growth. 
+
+Land productivity is calculated from Earth observation data representing net primary productivity (NPP). Vegetation indices, such as the Normalized Difference Vegetation Index (NDVI) or the Enhanced Vegetation Index (EVI), are often used as proxies for NPP. 
+
+The main output of the reporting process for indicator SO 1-2 is a set of officially verified estimates of the extent of five classes of persistent land productivity trajectories within each land cover type, their changes at national-level and their significance in terms of land degradation.
+
+National reporting is facilitated though the provision of default data derived from available global data sources, namely the Land Productivity Dynamics (LPD) dataset of the Joint Research Centre (JRC) of the European Commission. 
+
+### 1.2.2. Prerequisites for reporting
+
+- An in-depth reading of chapter 4 of the Good Practice Guidance for SDG Indicator 15.3.1 providing an overview on land productivity and detailing the methodology used to estimate land productivity changes;
+
+- Data complying with the specifications listed in table 11 below; 
+
+- A pool of national experts officially nominated by the national authorities to verify the consistency of the land productivity default data against the situation in the field, or to develop and implement a custom methodology to estimate the three land productivity metrics if national data are preferred to the defaults. Key institutions might include a country’s national statistical office, ministry of environment, ministry of agriculture, remote-sensing centre as well as universities and research centres.
+
+### 1.2.3. Reporting process and step-by-step procedure
+
+Estimating land productivity degradation entails:
+
+1)	Producing a land productivity degradation map as a binary representation of degraded/not degraded land in the baseline period;
+
+2)	Mapping land productivity dynamics in the reporting period, indicating areas that have degraded, improved or remained stable compared to the baseline.
+
+The step-by-step procedure for reporting is described in the following. If the default data is used, steps 2 to 6 are unnecessary.
+
+_Step 1: Select Earth observation dataset_
+
+UNCCD provides default data from the LPD dataset of the JRC. The LPD dataset represents five classes of land productivity dynamics from 2000 to 2019. This dataset has a spatial resolution of 1 kilometre, and it is derived from algorithms that combine NDVI time series data from various satellite sensors. 
+
+An alternative global dataset is Trends.Earth Land Productivity, derived from the Moderate Resolution Imaging Spectrometer (MODIS) data, which integrates NDVI observations at 250 metre (m) pixel resolution over 16-day periods between 18 February 2000 to now. 
+
+Both datasets are available in Trends.Earth.
+
+Parties may evaluate and use these or other datasets, provided they meet the specifications listed in table 11 below.
+
+Parties may also generate their own vegetation index time series directly from the satellite imagery assuming that those images have at least one red and one near infrared band with which to calculate the vegetation index. Depending on the vegetation index chosen, other spectral bands may also be needed.
+
+_Table 11. Data specifications for SO 1-2 indicator_
+
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <th rowspan=2>Item</th>
+      <th colspan=2>Specifications</th>
+    </tr>
+    <tr>
+      <th>Default data<p>(Land Productivity Dynamics (LPD) dataset produced by the Joint Research Centre (JRC) of the European Commission)</p></th>
+      <th>National data</th>
+    </tr>
+    <tr>
+      <td><P><B>Input data</B></P>(Data needed to generate land productivity estimates based on the three metrics described in Steps 2 and 3)</td>
+      <td>Time series of daily SPOT VGT Normalized Difference Vegetation Index (NDVI) satellite images composited for observation every 10 days (needed to generate the LPD-JRC data)</td>
+      <td>Time series of appropriate vegetation index derived from satellite images with at least one red and one near infrared spectral band, e.g. Trends.Earth Land Productivity (250m); Sentinel 3 (300m); or Sentinel 2 (10m, 20m and 60m).</td>
+    </tr>
+    <tr>
+      <td><P><B>Ouput data</B></P>(Gridded products resulting from the analysis and combination of the three metrics described in Step 3)</td>
+      <td>Five classes of persistent land productivity trajectories and land productivity degradation gridded data for the baseline period (2000–2015) and the reporting period (2004–2019)*</td>
+      <td>Five classes of persistent land productivity trajectories and land productivity degradation gridded data for the baseline period (2000–2015) and the reporting period (2004–2019)*</td>
+    </tr>
+    <tr>
+      <th>Classification</th>
+      <td>Five classes of persistent land productivity trajectories and one class for areas without valid land productivity data: 
+	      
+	1 - Declining 
+	2 - Moderate decline
+	3 - Stressed
+	4 - Stable
+	5 - Increasing
+	6 - No data
+</td>
+      <td>Six classes compatible with those used by the LPD-JRC:
+	      
+        1 - Declining 
+        2 - Moderate decline
+        3 - Stressed
+        4 - Stable
+        5 - Increasing
+        6 - No data
+</td>
+    </tr>  
+    <tr>
+      <th>Spatial resolution</th>
+      <td>1 km</td>
+      <td>The Trends.Earth Land Productivity data at 250m spatial resolution is recommended if data at a finer resolution is not available.</td>
+    </tr>
+    <tr>
+      <th>Quality</th>
+      <td>Specified in the metadata of the dataset. Overall, the assessed accuracy of the dataset is >80%.</td>
+      <td>To conform with the data quality of the default dataset, it is recommended to ensure an overall mapping accuracy of at least 80%.</td>
+    </tr>
+    <tr>
+      <th>Metadata</th>
+      <td>Metadata information is automatically generated with the default data.</td>
+      <td>Minimum metadata content as per the mandatory fields are listed in Annex II.</td>
+    </tr>
+  </tbody>
+</table>
+<I>* Version 2 of the Good Practice Guidance for SDG Indicator 15.3.1 recommends that productivity Trend is assessed over a period of 16 years for both the baseline and reporting periods. This provides a more consistent basis for the assessment of changes in the productivity Trend.</I>
+</p>
+
+_Step 2:  Select a productivity index_
+
+The NDVI is recommended as the default index for countries to use in the absence of evidence to indicate that an alternative index is better suited to their landscape. Although NDVI is the most widely used and well-known vegetation index, its main limitations are that it can be sensitive to variations in soil background conditions and that it tends to saturate at high vegetation cover and biomass levels. This can reduce the accuracy of NPP, biomass and green cover models in tropical rainforest or arid regions.
+
+Other indices, such as the EVI, may also be suitable. Although some of these indices may perform better than NDVI under some specific vegetation conditions, they may require additional adjustment when applied to vast areas and different land cover types. Consequently, despite its limitations, NDVI is currently considered the universal option for regional- and national-level land productivity calculation, considering that extensive research has demonstrated the strong relationship between NDVI and primary productivity. 
+
+_Step 3: Estimate annual productivity_
+
+The estimation of annual productivity should take into consideration that, due to the natural cycles of growth and senescence of vegetation, NPP is best represented by a time series of observations captured during the full growing season. Therefore, for each pixel location, the annual productivity will be the integral of values from the start to the end of the growing season of the selected productivity index. Areas with increasing NPP should be interpreted as improving, unless assessed otherwise at country level. 
+
+Further indications on options to estimate the start and length of the growing season are given in section 4.2.4.1 of the Good Practice Guidance for SDG Indicator 15.3.1. 
+
+_Step 4: Calculate land productivity metrics_
+
+Estimating changes in productivity over time is based on the multi-temporal analysis of the annual productivity using three metrics:
+
+1.	Trend: measures the trajectory of change in annual productivity over the long term per pixel;
+
+2.	State: compares the current to historical annual productivity per pixel;
+
+3.	Performance: indicates the level of local annual productivity over an area compared with other areas with a similar land productivity potential.
+
+The changes observed in each of the three metrics are combined to determine persistent land productivity trajectories represented in five classes comparable with the default dataset provided by JRC (see table 3 below). They are also used to determine whether a pixel is degraded or not degraded in the baseline period and whether a pixel is degrading, improving or stable in the reporting period (see Step 5). 
+
+_Productivity Trend_
+
+To calculate the productivity Trend, Parties should determine the trajectory of change in productivity over a 16-year time interval on a pixel level. The Trend metric is calculated over an interval of 16 years for both the baseline (2000–2015) and the reporting period (i.e. a 16-year period ending in the last year of data being reported (i.e. 2004–2019).
+
+The Trend metric is calculated by fitting a linear regression model to the time series and determining the significance of the trend slope by calculating its z-score. Positive z-scores indicate a trend of increasing productivity, while negative scores indicate decreasing productivity. Z-scores reflect the magnitude of the slope, with scores of higher magnitude indicating greater strength of the ongoing process.
+
 
