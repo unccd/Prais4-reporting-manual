@@ -120,6 +120,7 @@ Wherever possible, UNCCD encourages Parties to use the Land Cover Meta Language 
 Table 8 shows the conversion between the default UNCCD legend and the ESA CCI-LC legend.
 
 <I>Table 8. Default reclassification of the European Space Agency Climate Change Initiative Land Cover legend against the seven land cover classes needed for reporting to the UNCCD</I>
+
 <table BORDER=3 BORDERCOLOR=BLACK>
   <tbody>
     <tr>
@@ -889,5 +890,182 @@ _Table 12. Combination of productivity metrics to determine whether a pixel is d
 </table>
 _Note: Lookup table indicating combinations of productivity metrics to determine whether a pixel is degraded (‘Y’) or not degraded (‘N’): classes 1 to 5 show degradation. This table complies with the definition of land degradation adopted by the UNCCD, which includes a reduction of biological productivity (i.e. a significantly negative Trend constitutes degradation regardless of the State or Performance metrics)._
 <p></p>
+
+An alternative approach, suggesting a variant of the above metric combinations, is described in section 4.2.5 and table 4-5 of the Good Practice Guidance for SDG Indicator 15.3.1 for country Parties’ consideration.
+
+The total area of land productivity degradation in the baseline period should be reported in table SO1-2.T5 of the PRAIS 4 platform.
+
+_Step 6: Combine productivity metrics to assess land productivity degradation in the reporting period._
+
+The outputs obtained from the three metrics are used to estimate the extent of the degraded land in the reporting period. This process is entirely separate from the ‘One Out, All Out’ principle used to estimate SDG indicator 15.3.1.
+
+Table 13 summarizes the combinations of productivity metrics to determine the land productivity dynamics and the land productivity degradation status of each pixel and their relationships. The metrics can be combined into five classes of persistent land productivity trajectories and three classes of land productivity degradation in the reporting period (i.e. ‘improving’, ‘stable’, ‘degrading’).
+
+Parties may use this table to combine custom Trend, State and Performance results derived from national data to estimate land productivity dynamics and degradation. 
+
+_Table 13. Combination of productivity metrics to determine five classes of land productivity dynamics and three classes of land productivity degradation per pixel in the reporting period_
+
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <th></th>
+      <th colspan=3>Changes observed in the three input productivity metrics</th>
+      <th colspan=2>Land productivity dynamics and land productivity degradation status derived from the combination of the three productivity metrics</th>
+    </tr>
+    <tr>
+      <th>Class combination</th>
+      <th>Trend</th>
+      <th>State</th>
+      <th>Performance</th>
+	    <th><P>Land productivity dynamics</P> (5 classes)</th>
+	    <th>>P>Land productivity degradation status</P> (3 classes)</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Improving</td>
+      <td>Improving</td>
+      <td>Stable</td>
+      <td>Improving</td>
+      <td>Improving</td>	
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Improving</td>
+      <td>Improving</td>
+      <td>Degrading</td>
+      <td>Improving</td>
+      <td>Improving</td>	
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Improving</td>
+      <td>Stable</td>
+      <td>Stable</td>
+      <td>Improving</td>
+      <td>Improving</td>	
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Improving</td>
+      <td>Stable</td>
+      <td>Degrading</td>
+      <td>Improving</td>
+      <td>Improving</td>	
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Improving</td>
+      <td>Degrading</td>
+      <td>Stable</td>
+      <td>Improving</td>
+      <td>Improving</td>	
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Improving</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+      <td>Moderate decline</td>
+      <td>Degrading</td>	
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Stable</td>
+      <td>Improving</td>
+      <td>Stable</td>
+      <td>Stable</td>
+      <td>Stable</td>	
+    </tr>    
+    <tr>
+      <td>8</td>
+      <td>Stable</td>
+      <td>Improving</td>
+      <td>Degrading</td>
+      <td>Stable</td>
+      <td>Stable</td>	
+    </tr>    
+    <tr>
+      <td>9</td>
+      <td>Stable</td>
+      <td>Stable</td>
+      <td>Stable</td>
+      <td>Stable</td>
+      <td>Stable</td>	
+    </tr>     
+    <tr>
+      <td>10</td>
+      <td>Stable</td>
+      <td>Stable</td>
+      <td>Degrading</td>
+      <td>Stressed</td>
+      <td>Stable</td>	
+    </tr>    
+    <tr>
+      <td>11</td>
+      <td>Stable</td>
+      <td>Degrading</td>
+      <td>Stable</td>
+      <td>Moderate decline</td>
+      <td>Degrading</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Stable</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Degrading</td>
+      <td>Improving</td>
+      <td>Stable</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+    </tr>   
+    <tr>
+      <td>14</td>
+      <td>Degrading</td>
+      <td>Improving</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+    </tr>      
+    <tr>
+      <td>15</td>
+      <td>Degrading</td>
+      <td>Stable</td>
+      <td>Stable</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+    </tr>          
+    <tr>
+      <td>16</td>
+      <td>Degrading</td>
+      <td>Stable</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+    </tr>            
+    <tr>
+      <td>17</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+      <td>Stable</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+    </tr>      
+    <tr>
+      <td>18</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+      <td>Degrading</td>
+    </tr>  
+  </tbody>
+</table>
+</p>
 
 
