@@ -400,7 +400,18 @@ _Table 9. Example of a land cover transition matrix using the seven UNCCD land c
     </tr>
    </tbody>
 </table>
+<I>Note: Land cover change processes are color coded as improvement (green), stable (yellow) or degradation (red). Unlikely transitions are written in red. Note that this is an example of a transition matrix and should not be interpreted as appropriate for countries to adopt without consideration of local conditions and key degradation processes.</I>
 </p>
+Depending on the land cover legend selected in Step 3, Parties will need to provide their interpretation of land cover transitions using tables SO1-1.T4a or SO1-1.T4b for (i) UNCCD default land cover classes; (ii) or national land cover classes, respectively.
+
+The PRAIS 4 platform includes functions to modify the default transition matrix data and assign a ‘–’ or ‘+’ sign to each transition depending on whether it causes a degradation or improvement of the land according to national circumstances. However, if opting to modify the default transition matrix (i.e. table SO1-1.T4a), the transition matrix should first be edited in Trends.Earth so that the reported transitions can be integrated into the calculations of the SO 1-1 outputs and SDG indicator 15.3.1. Editing the transition matrix in PRAIS 4 alone will not result in a recalculation of the spatial data for SO 1-1.
+
+_Step 5: Assess available data_
+
+UNCCD provides prefilled default data in the PRAIS 4 platform derived from the latest ESA CCI-LC dataset to lighten the reporting burden. However, Parties may report their estimates using national land cover data if they meet the specifications listed in table 10.
+
+_Table 10. Data specifications for SO 1-1 indicator_
+
 
 
 
