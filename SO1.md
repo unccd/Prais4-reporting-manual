@@ -751,4 +751,27 @@ Productivity State is determined by comparing the mean annual NPP of the three m
 
 Parties should make the following calculations:
 
-
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+   <tr>
+      <th>Baseline</th>
+      <th>Reporting period</th>
+    </tr>
+    <tr>
+      <td>A = Mean annual NPP 2013–2015</td>
+      <td>A = Mean annual NPP of the 3 most recent years</td>
+    </tr>
+    <tr>
+      <td>B = Mean annual NPP 2000–2012</td>
+      <td>B = Mean annual NPP of the 13 preceding years</td>
+    </tr>
+    <tr>
+      <td>C = Standard deviation 2000–2012</td>
+      <td>C = Standard deviation of the 13 preceding years-2023</td>
+    </tr>
+    <tr>
+      <td>z-score = (A – B) / C </td>
+      <td>z-score = (A – B) / C -2027</td>
+    </tr>
+  </tbody>
+</table>
