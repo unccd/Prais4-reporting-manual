@@ -1170,15 +1170,290 @@ The influence of land use and management on SOC is different in mineral versus o
 
 A detailed description of the Tier 1 method is provided in section 5.2.6.1 of the Good Practice Guidance for SDG Indicator 15.3.1.
 
-- The Tier 2 method makes use of additional country-specific data to complement default values, such as country-specific change factors, reference SOC stocks, climate regions, soil types, and/or land management classification systems. Country-specific values may be derived for all of these components, or any subset which would then be combined with default values. Reference SOC stocks can be determined from national digital soil maps or from measurements taken from national soil surveys. 
+- The **Tier 2 method** makes use of additional country-specific data to complement default values, such as country-specific change factors, reference SOC stocks, climate regions, soil types, and/or land management classification systems. Country-specific values may be derived for all of these components, or any subset which would then be combined with default values. Reference SOC stocks can be determined from national digital soil maps or from measurements taken from national soil surveys. 
 
 A detailed description of the Tier 2 method is provided in section 5.2.6.2 of the Good Practice Guidance for SDG Indicator 15.3.1.
 
-- The Tier 3 method is the most complex, involving ground measurements and modelling, and it is only recommended for countries with adequate technical capacity and data. It incorporates more advanced methods which better capture annual variability in fluxes, such as country-specific digital soil mapping and time-series spatial land use/management and climate data, combined with calibrated and validated process-based models and/or a measurement-based inventory with a monitoring network.
+- The **Tier 3 method** is the most complex, involving ground measurements and modelling, and it is only recommended for countries with adequate technical capacity and data. It incorporates more advanced methods which better capture annual variability in fluxes, such as country-specific digital soil mapping and time-series spatial land use/management and climate data, combined with calibrated and validated process-based models and/or a measurement-based inventory with a monitoring network.
 
 _Step 2: Assess available data_
 
-UNCCD provides prefilled data in the PRAIS 4 platform. The ISRIC SoilGrids250m dataset is used to obtain a default SOC stock baseline. Default estimates of SOC stock changes are based on a modified Tier 1 method for mineral soils.  Since there are currently no known global data at a sufficient resolution to obtain information for the management and input change factors, the dynamic component informing SOC trends is land cover used as a proxy for land-use change.
+UNCCD provides prefilled data in the PRAIS 4 platform. The ISRIC SoilGrids250m dataset is used to obtain a default SOC stock baseline. Default estimates of SOC stock changes are based on a modified Tier 1 method for [mineral soils](a "For more information see: ‘Default data: methods and interpretation. A guidance document for 2018 UNCCD reporting’ available at: https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf.").  Since there are currently no known global data at a sufficient resolution to obtain information for the management and input change factors, the dynamic component informing SOC trends is land cover used as a proxy for land-use change.
+
 However, Parties may report their estimates using national SOC stock data (adopting the Tier 2 or Tier 3 approach) if they meet the specifications listed in table 1. 
 
-Table 14. Data specifications for SO 1-3 indicator
+_Table 14. Data specifications for SO 1-3 indicator_
+
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <th rowspan=2>Item</th>
+      <th colspan=2>Specifications</th>
+    </tr>
+    <tr>
+      <th>Default data</th>
+      <th>National data</th>
+    </tr>
+    <tr>
+      <td><P><B>Input data</B></P>(to generate the soil organic carbon (SOC) stock estimates)</td>
+      <td>International Soil Reference and Information Centre (ISRIC) SoilGrids250m dataset</td>
+      <td>Ground observations and measurements</td>
+    </tr>
+    <tr>
+      <td><P><B>Ouput data</B></P>(Gridded products of SOC stock estimates)</td>
+      <td>Annual gridded products of SOC stocks for the baseline and reporting periods</td>
+      <td>Gridded products of SOC stocks for the baseline and reporting periods, with as close to annual data as possible</td>
+    </tr>
+    <tr>
+      <th>Classification</th>
+	    <td><P>Continuous values of SOC content (tonnes) in the first 30 cm of soil.</P> An arbitrary >10% net reduction in SOC stocks in the first 30 cm of soil in 20 years is used as the threshold to determine degradation.</td>
+      <td>An arbitrary >10% net reduction in SOC stock in the first 30 cm of soil between the baseline and the reporting period is suggested as a threshold to determine degradation.</td>
+    </tr>  
+    <tr>
+      <th>Spatial resolution</th>
+      <td>250m</td>
+      <td>The desired spatial resolution is 100m or finer.</td>
+    </tr>
+    <tr>
+      <th>Quality</th>
+      <td>Accuracy of ISRIC’s SoilGrids250m dataset between 30% and 70%</td>
+      <td>Not less than the default data</td>
+    </tr>
+    <tr>
+      <th>Metadata</th>
+      <td>Metadata information is provided with default data in Trends.Earth. </td>
+      <td>Minimum metadata content as per the mandatory fields are listed in Annex II.</td>
+    </tr>
+  </tbody>
+</table>
+</p>
+
+Parties that are members of the Global Soil Partnership and are opting to use the Tier 2 method may also consider the [Global Soil Organic Carbon Map (GSOCmap)](http://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/global-soil-organic-carbon-map-gsocmap/en/)  as an alternative to the default SOC stock baseline data.
+
+Other relevant data sources are listed in Appendix C of the Good Practice Guidance for SDG Indicator 15.3.1.
+
+_Step 3: Determine the baseline soil organic carbon stock and degradation status_
+
+Estimating change in the extent of SOC degradation over time requires calculating the extent of SOC degradation in the baseline period. This involves comparing estimated SOC stocks in the year 2015 (the baseline year) with one other previous year (usually the year 2000) to measure change in SOC stocks for each land cover type. The absolute numerical value of the SOC stocks for each land cover class in the baseline period is quantified by averaging annual values across an extended (10–15 year) period prior to the year 2015 (t0). The availability of annual land cover products allows for the extrapolation of a trend fitted to historical SOC data.
+
+For example, in the default dataset provided for the baseline period, SOC changes were obtained from a combination of the SoilGrids250m data and the ESA CCI-LC annual data, and estimated using the IPCC change factors averaged over 20 years and then applied on an annual basis within the 2000−2015 period.
+
+The Good Practice Guidance for SDG Indicator 15.3.1 includes the following two options for estimating the initial baseline status (t0) at differing temporal scales for the SOC stocks metric:
+
+1.	Set a benchmark of SOC stocks with which to compare change, in other words, assess whether the average SOC stocks in the baseline period are low, high or average relative to some potential value for a given climate or soil type and determine the degradation status (i.e. degraded/not degraded). The updated IPCC reference (from the 2019 Refinement of the IPCC guidelines) for SOC stocks under native vegetation, reflecting default climate regions and soil types, could be considered a benchmark, but ideally, national benchmarks (e.g. derived from largely undisturbed systems) would be used. The determination of the initial baseline status would then be estimated by comparing the observed average value with the benchmark using defined upper and lower bounds. If the estimated SOC stocks are below the lower bound of the benchmark, the area is considered degraded. This option is affected by the accuracy of the updated 2019 IPCC defaults for SOC reference stocks, which, although they improve upon the 2006 IPCC default values, in some cases still carry significant errors.
+
+2.	Use the change/status over the baseline period (2000–2015) to set the initial baseline degradation status of each pixel (a similar approach to the one used for land productivity). Because SOC stocks are likely to change over longer (multi-annual to decadal) timeframes, the recommendation is to use ‘epochs’ (e.g. comparing 2013–2015 SOC stock with 2000–2002 SOC stock) rather than single year values to determine ‘trajectory’ and relative change. The two epochs are then compared to determine changes within the baseline period. Negative changes, with an arbitrary >10% decline in SOC, constitute SOC degradation. 
+
+At higher tiers, the assessment of SOC stock change for the baseline period may rely on the integration of geospatial data with diverse sources, such as field experiments, paired sites, monitoring sites, scientific studies, and land management surveys. In this context, baselines could be derived in two distinct ways:
+
+- As estimates of total SOC stocks for a particular land use/management stratification, which could be derived from global datasets by applying default values to the land cover data, or using a national approach where countries use national data and methods yielding results comparable to the ones generated by default methods;
+
+- As spatially explicit baselines, where the appropriate resolution would need to be defined (the suggested spatial resolution is 100m).
+The PRAIS 4 platform includes prefilled baseline SOC data per land cover class, but also allows Parties to enter their own SOC data in the reporting tables. 
+
+_Step 4: Estimate change in soil organic carbon stock_
+
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: tables SO1-3.T1, SO1-3.T2, SO1-3.T3 and SO1-3.T5</I></td>
+    </tr>
+  </tbody>
+</table>
+
+The recommended method to estimate SOC stock changes uses the trend (or the direction of change) of SOC stocks observed within the reporting period as well as the magnitude of the relative change in SOC stocks between the baseline and the reporting period. This approach only assesses whether there has been a (significant) negative change between the baseline and the reporting period and makes no assumptions about the initial status of SOC stocks. 
+
+Once the baseline SOC stocks (SOCt0) and the SOC stocks at the end of the reporting period (SOCtn) for a given reporting unit have been consistently estimated (using any of the Tier 1–3 methods), the relative percentage change in SOC stocks is calculated as follows:
+
+TSOC = (( SOCtn - SOCt0 )/ SOCt0) x 100
+
+Where:
+TSOC = relative change in soil organic carbon for reporting unit (%)
+SOCt0 = baseline soil organic carbon stock for reporting unit (tons of carbon per hectare) 
+SOCtn = soil organic carbon stock for final reporting period for reporting unit (tons of carbon per hectare).
+
+For assessing changes in SOC stocks, UNCCD suggests two alternative approaches:
+
+1.	The first method is based on tests for statistical significance and compares the average SOC stock with the upper and lower bounds of the average baseline SOC for the same unit of land. If the average for the same unit of land falls:
+
+    a.	Outside the lower bounds of the 95 per cent confidence interval (measured as twice the standard deviation), the area would be considered degraded (significant decline in SOC);
+    
+    b.	Outside the upper bounds of the 95 per cent confidence interval (measured as twice the standard deviation), the area would be considered improved (significant increase in SOC);
+    
+    c.	Within the 95 per cent confidence interval, the area would be considered stable (no transition).
+
+An alternative statistical approach would be to assess the 95 per cent confidence interval of the difference in SOC stocks between the baseline and the reporting period for each unit of land by combining uncertainties as described above. If the 95 per cent confidence interval of the difference does not cover zero, then the change is significant.
+
+Given the high spatial variability of the data for SOC stocks, it may happen that confidence intervals are large, and thus the two statistical approaches described above may not detect significant change even if degradation is occurring.
+
+2.	The second method is to assess both the direction of change and magnitude of the relative percentage change in SOC stocks, relative to some defined threshold, between the baseline and reporting period. Then, for SOC stocks, the method of determining the status of change will be defined as:
+
+     a.	Degraded: Reporting units with more than, for example, a 10 per cent average net reduction in SOC stocks between baseline and current observations;
+     
+     b.	Not degraded: Reporting units with less than, for example, a 10 per cent average net reduction, no change or an average net increase in SOC stocks between baseline and current observations.
+
+As a starting point, an arbitrary >10 per cent change threshold is suggested. Subsequent refinement and justification of this threshold value will be needed.
+
+Parties may decide to use a different threshold than 10 per cent based on their knowledge of the country and the analysis of national data.
+
+The PRAIS 4 platform includes prefilled data for the reporting period derived from the default data to be accepted by the Parties or replaced with national data. Parties opting to use their own SOC data are encouraged to use Trends.Earth to (i) estimate changes in SOC; and (ii) identify potentially degraded areas.
+
+
+_Step 5:  Verify the results_
+
+The default method draws on data generated from the assessment of land cover change in combination with reference and emission factors obtained from the IPCC default tables corresponding to broad continental land cover types and management regimes. As such, derived estimates provide limited resolution of how carbon stocks vary subnationally and have great uncertainty. This may affect the reliability of the estimates of SOC changes when applied to local areas. Therefore, inputs from national experts are necessary to detect and highlight situations where the confidence level of the obtained results might be low. This input would contribute to a qualitative assessment of the reliability of the estimates. 
+
+_Step 6: Generate reports_
+
+Parties adopting the Tier 1 approach may officially submit the default data made available in the PRAIS 4 platform. Table SO1-3.T1 of the PRAIS 4 platform displays pre-calculated estimates of SOC stocks in the topsoil (to 30 cm depth) per land cover class at national level expressed in tonnes/hectare. This default data should be verified by the Parties before submission, or replaced with alternative national data sources if opting for the Tier 2 or Tier 3 approach. 
+
+Changes in SOC stocks for each land cover change (calculated by Trends.Earth) are reported in tables SO1-3.T2 and SO1-3.T3. Data includes the net area change in km2 and the initial, final and change in SOC stocks both for the baseline and reporting periods. The results of the SOC degradation analysis based on SOC stock changes is reported in tables SO1-3.T4 and SO1-3.T5.
+
+Maps with default or national data representing SOC stocks, SOC stock changes and SOC degradation for the baseline and the reporting period are accessible via the PRAIS 4 platform. These include:  
+
+- SOC stock in the initial year of the baseline period (2000) 
+- SOC stock in the baseline year (2015)	 
+- SOC stock in the latest reporting year
+- Change in SOC stock in the baseline period 
+- Change in SOC stock in the reporting period
+- SOC degradation in the baseline period 
+- SOC degradation in the reporting period.
+
+For estimates derived from national data, Parties may also provide a description of the methodology used to estimate SOC stocks, SOC stock changes and the relative SOC degradation using the ‘General Comment’ field.
+
+### 1.3.4. Dependencies
+Estimates of SOC stock changes are dependent on the land cover data reported under SO 1-1 and the total land area reported in table SO1-1.T1.
+
+### 1.3.5. Challenges
+
+_Data availability_
+- Detailed data on SOC stock are generally unavailable both at global and national levels. Current data are derived from a combination of contemporary and legacy data and are not fully integrated and consistent over time. Future data improvements must include standardization, accessibility, higher spatial resolution and improved uncertainty estimates;
+
+- SOC stock changes are primarily computed from land cover changes, while management and input factors are often not included because of lack of data. Usable methods to consistently collect and process relevant data to include management factors in the estimations of SOC should be considered for future reporting.
+
+_Unresolved issues_
+- There is a challenge associated with drylands which lack topsoil. There is a need to update the methodology to take such special cases into full consideration and adjust the calculations accordingly;
+
+- Soil erosion and/or deposition may have significant effects on measured SOC stocks, but their effects on stock changes are included in the estimates of land-use and land-cover changes. Parties may consider including soil erosion and/or deposition as parameters for the implementation of the Tier 3 method.
+
+#### 1.3.6. Summary (main actions)
+
+Key actions for reporting on SOC changes are as follows:
+
+1.	**Select the estimation method:** Parties may opt for one of the three proposed Tier methods to report national data to UNCCD, depending on their technical capacity to estimate SOC stock changes and on the availability of national data;
+
+2.	**Assess available data:** Based on the Tier level deemed most appropriate for reporting in the respective country, evaluate the suitability of the default data. If unsuitable, select alternative data sources and ensure compliance with the minimum specifications listed in table 14 above;
+
+3.	**Determine the baseline SOC stock and degradation status:** Estimate the average SOC stock in the topsoil (0–30 cm) for each land cover class and infer the initial degradation status within the baseline period (t0) using one of the two options presented in Step 2. By default, the relative SOC change in the baseline period (2000–2015) will be used to determine the baseline degradation status;
+
+4.	**Estimate change in SOC stocks:** For the major land cover transitions, report the net change in SOC. Indicate whether there has been SOC degradation, improvement or no significant change (stable) based on the estimated SOC stock changes between the baseline and the reporting period. A statistical approach based on the significance of change or a relative approach based on the percentage change can be adopted. By default, land units with relative declines of >10 per cent in SOC stock between the baseline and reporting periods are considered degraded;
+
+5.	**Verify the results:** It is recommended that SOC changes and related land degradation estimates are verified by the concerned national authorities to assess the accuracy of the results and identify any false positive and negative situations which can be reported on in the SO 1-4 forms (SDG indicator 15.3.1);
+
+6.	**Generate reports:** Verify the default data provided in the PRAIS 4 platform (for the Tier 1 approach) or replace it with national data (for the Tier 2 or Tier 3 approaches). Include the narrative required to describe the national context of land degradation based on SOC changes.
+
+#### 1.3.7. Further reading
+
+- Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 4: Land productivity.  
+- IPCC, 2006. Eggleston, S., Buendia L., Miwa K., Ngara T., and Tanabe K. (Eds). 2006 IPCC Guidelines for National Greenhouse Gas Inventories. Intergovernmental Panel on Climate Change (IPCC)/Institute for Global Environmental Strategies (IGES), Hayama, Japan.
+- IPCC, 2013. Hiraishi, T., Krug, T., Tanabe, K., Srivastava, N., Baasansuren, J., Fukuda, M. and Troxler, T.G. (Eds). 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands. Intergovernmental Panel on Climate Change (IPCC), Switzerland.
+- IPCC. 2019. Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. In: Buendia, E., Tanabe, K., Kranjc, A., Baasansuren, J., Fukuda, M., Ngarize, S., Osako, A., Pyrozhenko, Y., Shermanau, P., Federici, S. (eds). Intergovernmental Panel on Climate Change, Geneva, Switzerland.
+- ‘Default data: methods and interpretation. A guidance document for 2018 UNCCD reporting’ (https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf).
+
+
+
+ 
+## 1.4. SO 1-4 – Proportion of land that is degraded over total land area (Sustainable Development Goal indicator 15.3.1)
+
+#### 1.4.1. Introduction 
+
+Land degradation is defined as ‘the reduction or loss of the biological or economic productivity and complexity of rainfed cropland, irrigated cropland, or range, pasture, forest and woodlands resulting from a combination of pressures, including land use and [management practices'](a "Article 1 of the United Nations Convention to Combat Desertification."). 
+
+Using the three indicators SO 1-1, SO 1-2 and SO 1-3 (hereinafter referred to as subindicators), UNCCD reporting will estimate the proportion of land that is degraded over total land area, which is also SDG indicator 15.3.1 and the only indicator used to track progress towards target 15.3: ‘By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land-degradation neutral world’. In line with decision 15/COP.13, the information compiled in national reports will be used by the secretariat, in its capacity as the custodian agency for SDG indicator 15.3.1, to contribute to the overall follow-up and review by the High-level Political Forum on Sustainable Development.
+
+Knowing the extent and location of degraded land is instrumental to achieving land degradation neutrality (LDN) at national level and supporting Parties in setting national voluntary targets.  
+
+SDG indicator 15.3.1 is reported as a single figure expressed in km2 quantifying the area of land that is degraded as a proportion of total land area, which is  defined as the total surface area of a country excluding the area covered by inland waters, like major rivers and lakes. 
+
+UNCCD facilitates reporting on SDG indicator 15.3.1 by providing pre-filled data in the PRAIS 4 platform with values derived from default datasets.
+
+Parties have the option to identify areas of ‘false negative’ or of ‘false positive’ errors in the identification of degradation. The reporting form in the PRAIS 4 platform allows for a full description of these sites, including their geographical locations, the delineation of their extents and the processes driving the false negative/false positive interpretations.
+
+Parties are also encouraged to identify ‘hotspots’ and ‘brightspots’ as areas experiencing the most evident and dramatic changes in (i) land degradation; and (ii) improvement, respectively.
+
+### 1.4.2. Prerequisites for reporting
+
+- An in-depth reading of chapter 2 of the Good Practice Guidance for SDG Indicator 15.3.1;
+
+- A pool of national experts officially nominated by the national authorities to verify the reliability of the land degradation estimates. Key institutions might include a country’s national statistical office, ministry of environment, ministry of agriculture, ministry of water resources, remote-sensing centre, as well as universities and research centers. Consultation with the national statistics office is particularly important given its responsibility to review and validate national estimates of SDG indicator 15.3.1 prior to the final submission to the United Nations Statistics Division for inclusion in the Sustainable Development Goals Report and the Global SDG Indicators Database.
+
+### 1.4.3. Reporting process and step-by-step procedure
+
+The step-by-step procedure for reporting is described in the following. If Parties decide to use the default data, steps 1 and 2 are unnecessary. 
+
+_Step 1. Calculate Sustainable Development Goal indicator 15.3.1_
+
+In order to calculate SDG indicator 15.3.1, the results of the degradation analysis for each of the subindicators are integrated using a One-Out All-Out (1OAO) method in which a significant reduction or negative change in any one of the three subindicators is considered to comprise land degradation. The result is a binary assessment where a land unit (pixel) is either degraded or not degraded.
+The analysis of change in degradation involves first establishing a baseline of land degradation. The baseline sets the benchmark extent of land degradation against which progress towards achieving SDG target 15.3 and LDN is assessed in the reporting period. 
+In practical terms, for the purposes of calculating SDG indicator 15.3.1, tracking change in the extent of degraded land is a three-step process:
+1.	Calculate the extent of degradation in the baseline period (t0) from 1 January 2000 to 31 December 2015 to set the benchmark for measuring progress towards achieving SDG target 15.3; 
+2.	Calculate the extent of degradation in the reporting period (tn) by summing (i) areas of land where changes in the subindicators are considered to indicate new degradation; and (ii) areas of land that have persisted in a degraded state since the baseline period (i.e. have not improved to a non-degraded state); 
+3.	Calculate the change in extent of degradation between the baseline and reporting periods. 
+The total area of degraded land for the baseline, the reporting period and the change of the area between the two periods should be reported in table SO1-4.T1. In addition, Parties can report additional information on the method used, for example if different from the 1OAO approach, as well as indicate the level of confidence of the estimates (high, medium or low). 
+
+Step 2. Estimate progress towards land degradation neutrality
+
+Progress made towards LDN should be reported as the net difference between areas improved (gains) in the reporting period compared to the baseline and areas degraded (losses) in the reporting period compared to the baseline (table SO1-4.T2). The difference in areas degraded and improved (km2) is reported in the LDN status field. Positive values indicate a net gain in improved land while negative values indicate that more land was degraded than improved. A value close to zero suggests that gains were balanced by losses and that LDN has been achieved.  Positive values demonstrate that LDN has been both achieved and exceeded. The values reported in table SO1-4.T2 should therefore help countries with LDN monitoring and target-setting.
+
+Step 3. Identify false positives and false negatives
+
+Parties have the option to identify areas of:
+•	‘False positive’ degradation, where the 1OAO process has incorrectly indicated that an area is not degraded even though the change in land condition is considered sufficiently negative to qualify as degraded in the context of SDG indicator 15.3.1; and
+•	‘False negative’ degradation, in which the outcome of the 1OAO process has incorrectly resulted in an area being identified as degraded. 
+
+What are false positives?
+An example is a woody weed invasion of a grassland, which may raise the apparent plant productivity even though the outcome in terms of the change in land condition would normally be negative. This is a false ‘positive’ or apparent improvement in land condition. In the 1OAO process, the area undergoing woody encroachment would be incorrectly indicated as not degraded even though the change in land condition is considered to be sufficiently negative to qualify as degraded in the context of SDG indicator 15.3.1. A similar outcome arises in lands invaded by alien plant species.
+
+What are false negatives?
+An example is the inverse of the above problem where woody weeds (or invasive plant species) are removed as part of a remediation process, causing a reduction in apparent productivity. This would normally lead to an indication of degradation even though the intention is to restore degraded lands. In the 1OAO process, the remediated area would be incorrectly labelled as being degraded.
+In areas where a false positive or false negative degradation outcome is identified, Parties can use the PRAIS 4 spatial data viewer to provide further spatial detail in addition to the reporting fields in table SO1-4.T3. Spatial delineation of false positive and negative areas should only be carried out where countries are confident that they know the timing, location and extent of these counterintuitive processes. However, in reporting spatially, Parties can then opt to recalculate the outcomes of the 1OAO process through Trends.Earth and import the recalculated results. Without spatial delineation of the false positive and/or negative area, there will be no material impact on the reporting data. 
+Reporting on false positive and negative extents using the PRAIS 4 platform requires filling in table SO1-4.T3. The PRAIS 4 spatial data viewer supports the filling in of this table with spatial information (in vector format). However, it remains an optional element and the table can still be filled in without the provision of spatial data. Information about the location of the sites, the areal extent of the site (auto-filled by the PRAIS 4 spatial data viewer, if used), the processes behind the false positive/false negative outcome and the basis for their judgement should be  reported in addition to the period when the false negative or false positive process started. For those Parties using the PRAIS 4 spatial data viewer to delineate the extents, an informative graphic can be used to interpret the percentage of the total area delineated that is degraded or improved per subindicator. This graphic chart should be used as a guide to understand what subindicator is driving the false positive or negative process being reported within the polygon extent provided. 
+
+Step 4. Assess hotspots and brightspots
+
+UNCCD encourages Parties to signal areas experiencing the most evident and dramatic change. These are defined as:
+•	Hotspots: areas that are highly vulnerable to degradation in the absence of urgent remediation activities;
+•	Brightspots: areas that do not exhibit any signs of degradation, or which have been remediated from a degraded state by implementing appropriate remediation activities or through land planning processes to prevent degradation.
+Knowledge about location and type of hotspots/brightspots may facilitate the development of plans of action to redress degradation, including through the conservation, rehabilitation, restoration and sustainable management of land resources. 
+Hotspots and brightspots are reported in tables SO1-1.T4 and SO1-1.T5 of the PRAIS 4 platform, respectively. Parties are invited to enter relevant information such as location, area, the adopted assessment process, the drivers/processes determining the status of the land, and remediation actions taken and planned. These are spatial tables and therefore should be completed with the support of the geographic information system tools available in the PRAIS 4 spatial data viewer. This is an additional and optional element, but such location-based information can strengthen spatial approaches to sustainable land management and help integrate responses to land degradation at the landscape scale. In addition, UNCCD can use these spatial data to create improved information products to demonstrate the impact of the Convention.
+
+Step 5. Generate reports
+Once verified by the Parties, the estimates of land degradation data for the reporting and baseline periods should be officially submitted to UNCCD. Special or anomalous situations and noticeable issues related to the data interpretation that may affect the reliability of the reported values should be described in the narrative. A ‘General Comment’ field is provided at the end of the reporting form of the PRAIS 4 platform for this purpose.
+Information on land degradation should be reported in km2 for the entire country. 
+Default maps or maps generated in Trends.Earth using national data representing land degradation for the baseline/reporting period are made available in the PRAIS 4 platform. More specifically, the following maps will be available online: 
+•	Proportion of land that is degraded over total land area (SDG indicator 15.3.1) in the baseline period 
+•	Proportion of land that is degraded over total land area (SDG indicator 15.3.1) in the reporting period 
+•	Progress towards LDN in the reporting period
+•	Degradation hotspots (for countries that provide spatial data in the PRAIS 4 platform)
+•	Improvement brightspots (for countries that provide spatial data in the PRAIS 4 platform).
+
+1.4.4. Dependencies
+SDG indicator 15.3.1 relies on the total land area reported in table SO1-1.T1. Modifying that number will therefore alter the indicator’s value. 
+The ‘Area’ fields of the spatial tables SO1-4.T3,  SO1-4.T4 and SO1-4.T5 have a dependency on spatial data created by countries using the PRAIS 4 spatial data viewer. However, they can also be filled in manually without providing supporting spatial data. 
+
+1.4.5. Summary (main actions)
+Key actions for reporting on the SDG indicator 15.3.1 are as follows:
+1.	Calculate the proportion of land that is degraded over total land area (SDG indicator 15.3.1): Using the 1OAO approach to combine the three subindicators, calculate the extent of degradation in the baseline period and in the reporting period. The extent of degradation in the reporting period is calculated by summing (i) areas of land where changes in the subindicators are considered to indicate new degradation; and (ii) areas of land that have persisted in a degraded state since the baseline period (i.e. have not improved to a non-degraded state). 
+2.	Estimate progress towards LDN: Calculate the difference between the extent of degraded land (losses) and the extent of improved land (gains) in the reporting period to determine if there has been a net gain, neutrality or a net loss. 
+3.	Identify false positive and false negative processes and provide the relevant justification to support their assessment. Where countries are confident in reporting the location and extent of these processes and in recalculating the 1OAO process for SDG indicator 15.3.1 with the identified areas accounted for, they should use the PRAIS 4 spatial data viewer to do so (table SO1-4.T3).
+4.	Assess hotspots of land degradation and brightspots of land improvement, indicating their locations, extents, and actions taken and/or planned to manage them and ensure the sustainable development of the areas (tables SO1-4.T4 and SO1-4.T5). Countries are encouraged to report on hotspots and brightspots using the PRAIS 4 spatial data viewer. 
+
+1.4.6. Further reading
+
+•	Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 2: SDG Indicator 15.3.1: Proportion of land that is degraded over total land area.  
+•	Scientific Conceptual Framework for Land Degradation Neutrality (https://knowledge.unccd.int/publication/ldn-scientific-conceptual-framework-land-degradation-neutrality-report-science-policy).
+
+
+
+
+
