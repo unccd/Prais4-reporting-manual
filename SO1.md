@@ -139,7 +139,7 @@ Table 8 shows the conversion between the default UNCCD legend and the ESA CCI-LC
       <td>Tree cover, broadleaved, evergreen, closed to open (>15%)</td>
     </tr>
     <tr>
-      <td>60></td>
+      <td>60</td>
       <td>Tree cover, broadleaved, deciduous, closed to open (>15%)</td>
     </tr>
     <tr>
@@ -221,23 +221,74 @@ Table 8 shows the conversion between the default UNCCD legend and the ESA CCI-LC
       <td>Sparse herbaceous cover (<15%)</td>
     </tr>
     <tr>
-      <td >3</td>	
-      <td>Cropland</td>	10	Cropland, rainfed
-		11	Herbaceous cover
-		12	Tree or shrub cover
-		20	Cropland, irrigated or post-flooding
-		30	Mosaic cropland (>50%)/natural vegetation (tree, shrub, herbaceous cover) (<50%)
-		40	Mosaic natural vegetation (tree, shrub, herbaceous cover) (>50%)/cropland (< 50%)
-4	Wetland	160	Tree cover, aquatic or regularly flooded in fresh or brackish water
-		170	Tree cover, aquatic, regularly flooded in salt or brackish water, mangroves
-		180	Shrub or herbaceous cover, flooded, fresh/brackish water
-5	Artificial surfaces	190	Urban areas
-6	Other land	200	Bare areas
-		201	Consolidated bare areas
-		202	Unconsolidated bare areas
-		220	Permanent snow and ice
-7	Water bodies	210	Water bodies
-
+      <td  rowspan=6>3</td>	
+      <td rowspan=6>Cropland</td>
+      <td>10</td>
+      <td>Cropland, rainfed</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Herbaceous cover</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Tree or shrub cover</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Cropland, irrigated or post-flooding</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>Mosaic cropland (>50%)/natural vegetation (tree, shrub, herbaceous cover) (<50%)</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>Mosaic natural vegetation (tree, shrub, herbaceous cover) (>50%)/cropland (< 50%)</td>
+    </tr>
+    <tr>
+      <td rowspan=3>4</td>	
+      <td rowspan=3>Wetland</td>
+      <td>160</td>
+      <td>Tree cover, aquatic or regularly flooded in fresh or brackish water</td>
+    </tr>
+    <tr>
+      <td>170</td>
+      <td>Tree cover, aquatic, regularly flooded in salt or brackish water, mangroves</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>Shrub or herbaceous cover, flooded, fresh/brackish water</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Artificial surfaces</td>
+      <td>190</td>
+      <td>Urban areas<td>
+    </tr>
+    <tr>	    
+      <td rowspan=4>6</td>
+      <td rowspan=4>Other land</td>
+      <td>200</td>
+      <td>Bare areas</td>
+    </tr>
+    <tr>	    
+      <td>201</td>
+      <td>Consolidated bare areas</td>
+    </tr>
+    <tr>	    
+      <td>202</td>
+      <td>Unconsolidated bare areas</td>
+    </tr>
+    <tr>	    
+      <td>220</td>
+      <td>Permanent snow and ice</td>
+    </tr>
+    <tr>	    
+      <td>7</td>
+      <td>Water bodies</td>
+      <td>210</td>
+      <td>Water bodies</td>
     </tr>
   </tbody>
 </table>
