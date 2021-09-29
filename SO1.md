@@ -729,3 +729,26 @@ Important facts about z-scores:
     </tr>
   </tbody>
 </table>
+
+As recommended in the Good Practice Guidance for SDG Indicator 15.3.1, z-score intervals may be set as follows: 
+
+- z-score < –1.96 = degrading
+- z-score < –1.28 AND ≥ –1.96 = potentially degrading
+- z-score ≥ –1.28 AND ≤ 1.28 = no significant change
+- z-score > 1.28 AND ≤ 1.96 = potentially improving
+- z-score > 1.96 = improving
+
+However, for the purposes of UNCCD reporting, the five classes above are simplified into the following three classes:
+- z-score < –1.28 = degrading
+- z-score < –1.28 AND ≥ –1.28 = stable
+- z-score > 1.28 = improving
+
+The pixels with the lowest negative z-score level (< –1.28) are considered degraded and other areas are considered not degraded.
+
+_Productivity State_
+
+Productivity State is determined by comparing the mean annual NPP of the three most recent years to the distribution of annual NPP values observed in the preceding 13 years. More specifically, this entails comparing values for the years 2013–2015 with the years 2000–2012 for the baseline, and the 3 most recent years with the preceding 13 years for the reporting period.
+
+Parties should make the following calculations:
+
+
