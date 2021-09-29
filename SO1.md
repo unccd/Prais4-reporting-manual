@@ -918,7 +918,7 @@ _Table 13. Combination of productivity metrics to determine five classes of land
       <th>State</th>
       <th>Performance</th>
 	    <th><P>Land productivity dynamics</P> (5 classes)</th>
-	    <th>>P>Land productivity degradation status</P> (3 classes)</th>
+	    <th><P>Land productivity degradation status</P> (3 classes)</th>
     </tr>
     <tr>
       <td>1</td>
@@ -1066,6 +1066,62 @@ _Table 13. Combination of productivity metrics to determine five classes of land
     </tr>  
   </tbody>
 </table>
+_Note: The last column illustrates how a pixel’s land productivity degradation status can be inferred from the class of land productivity dynamics obtained from the combination of the three input productivity metrics._
 </p>
 
+National estimates of land productivity dynamics by land cover type should be reported using tables SO1-2.T1 and SO1-2.T2 of the PRAIS 4 platform for the baseline and reporting periods, respectively. Additionally, national estimates of changes in land productivity dynamics for the main land cover transitions (by area) should be reported in tables SO1-2.T3 and SO1-2.T4 for the baseline and reporting periods, respectively. Land productivity degradation (i.e. derived from the three-class in the last column of table 13) in the reporting period should be reported in table SO1-2.T6.
+
+_Step 7:  Verify the results_
+
+The seasonal dynamics of productivity vary greatly across the globe, strongly influenced by the prevailing climatic conditions and land management practices. This may affect the reliability of applying estimates of land productivity from global data sources to local areas and require inputs from national experts to detect and highlight situations where the confidence level of the obtained results might be low. This input would contribute to a qualitative assessment of the reliability of the estimates. 
+
+_Step 8: Generate reports_
+
+Once verified by the Parties, the estimates of land productivity dynamics and land degradation for the reporting and baseline periods should be officially submitted to UNCCD. Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in case the estimates are derived from national data. It would also be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale to adopt a different methodology. A general comment field is provided at the end of the reporting form in the PRAIS 4 platform for this purpose.
+
+Information on land productivity dynamics and land productivity degradation should be reported in km2 for the entire country. 
+
+If the default datasets are replaced with national land cover data, countries are encouraged to make the relevant geospatial data and relevant metadata available in the PRAIS 4 platform. 
+
+Maps generated with default or national data on land productivity dynamics and land productivity degradation for the baseline and the reporting period will be created on the PRAIS 4 platform. These maps will include: 
+
+- Land productivity dynamics in the baseline period
+- Land productivity dynamics in the reporting period
+- Land productivity degradation in the baseline period
+- Land productivity degradation in the reporting period.
+
+
+### 1.2.4. Dependencies
+
+Land productivity data relies on the land cover data reported under SO 1-1 to disaggregate land productivity classes by the seven UNCCD land cover classes. The ‘per cent of total land area’ field in reporting tables SO1-2.T5 and SO1-2.T6 is dependent on the total land area reported in table SO1-1.T1.
+
+### 1.2.5. Challenges 
+
+Data availability and quality 
+
+- Spatial resolution of international data might not always be suitable to produce a sufficiently detailed representation of the land productivity dynamics at the national level, especially for SIDS or mountainous countries;
+- Land productivity in certain climatic zones where the annual growing season is highly variable or erratic, or where there is sparse or no vegetation, is difficult to accurately measure, resulting in no data for these areas. Areas of dense vegetation and year-round growth, as in the humid tropics, can also show little variation in productivity, making data unreliable. 
+Analytical approach
+- It is important to consider that applying a 16-year window for the reporting period of land productivity versus a 4-year window for land cover and SOC stock changes will likely increase the impact of productivity (compared to the other indicators) when they are combined to derive the SDG indicator 15.3.1.
+
+
+#### 1.2.6. Summary (main actions)
+
+Key actions for reporting on land productivity dynamics are as follows:
+
+1.	Select image dataset: UNCCD makes available default data, which may be verified and officially accepted. If Parties decide to use alternative data sources, they should verify the compliance with the minimum requirements listed table 11 and follow steps 2 to 6 below;
+2.	Select a productivity index: NDVI is recommended as the default index; however, countries may choose alternative indexes that are better suited to their local land productivity dynamics;
+3.	Estimate annual productivity: For each pixel, estimate the annual productivity as the integral of values from the start to the end of the growing season of the selected productivity index;
+4.	Calculate land productivity metrics: For each pixel, estimate Trend, State and Performance metrics;
+5.	Combine productivity metrics to assess land productivity degradation in the baseline period: Using table 12 as a guide, combine the metrics to assess whether a pixel is degraded or not degraded in the baseline period;
+6.	Combine productivity metrics to assess land productivity degradation in the reporting period: Using table 13 as a guide, combine the metrics to determine the land productivity dynamics (five classes of persistent land productivity trajectories) and the land productivity degradation status in the reporting period (three classes of degradation status). If national land productivity data is used, run the calculations in Trends.Earth and enter this information in tables SO1-2.T1 to SO1-2.T6;
+7.	Verify the results: It is recommended that land productivity and related land degradation estimates are verified by the concerned national authorities to assess the accuracy of the results and to identify any false positive and negative situations which can be reported on in the SO 1-4 forms (SDG indicator 15.3.1);
+8.	Generate reports: Once verified by the Parties, the data and supporting narrative for the reporting and baseline periods should be officially submitted to UNCCD.
+
+
+### 1.2.7. Further reading
+
+- Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 4: Land productivity.  
+- Cherlet, M., Hutchinson, C., Reynolds, J., Hill, J., Sommer, S., von Maltitz, G. (Eds.), World Atlas of Desertification, Publication Office of the European Union, Luxembourg, 2018. 
+- Trend.Earth website documentation (https://trends.earth/docs/en/).
 
