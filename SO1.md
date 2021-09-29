@@ -412,6 +412,57 @@ UNCCD provides prefilled default data in the PRAIS 4 platform derived from the l
 
 _Table 10. Data specifications for SO 1-1 indicator_
 
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <th rowspan=2>Item</th>
+      <th colspan=2>Specifications</th>
+    </tr>
+    <tr>
+      <th>Default data<p>(European Space Agency Climate Change Initiative Land Cover (ESA CCI-LC) product)</p></th>
+      <th>National data</th>
+    </tr>
+    <tr>
+      <th>Type of data</th>
+      <td>Based on AVHRR, SPOT, PROBA-V and Sentinel-3 satellite imagery</td>
+      <td>Satellite images of finer resolution from national and international sources, airborne imagery and/or field observation and national/provincial statistics</td>
+    </tr>
+    <tr>
+      <th>Classification</th>
+      <td>36 land cover classes based on the Food and Agriculture Organization of the United Nations (FAO) Land Cover Classification System (LCCS). For reporting purposes, the 36 ESA CCI-LC classes are aggregated to the seven UNCCD classes (see table 8 of this document for aggregation rules).</td>
+      <td>A land cover classification compatible with the seven UNCCD default classes described in step 2. Ideally, the legend is based on the FAO LCCS/Land Cover Meta Language (LCML) methodology. However, the legend should be concise and only include land cover classes of relevance to the reported land degradation processes.</td>
+    </tr>  
+    <tr>
+      <th>Temporal coverage</th>
+      <td>Annual data from the year 2000 onward</td>
+      <td>Annual data from the year 2000 onward would be the best option. However, the bare minimum would be data for the years 2000 and 2015 (for the baseline) and the latest available year for the reporting period.</td>
+    </tr>    
+    <tr>
+      <th>Spatial resolution</th>
+      <td>300 metres (m)</td>
+      <td>The desired spatial resolution is 100m or finer. If such data is not available, it is recommended to use the default data or data with a resolution higher than that of the default data (300m).</td>
+    </tr>
+    <tr>
+      <th>Accuracy</th>
+      <td>74%</td>
+      <td>To conform with the data quality of the default land cover product, it is recommended to ensure an overall mapping accuracy of at least 74%.</td>
+    </tr>
+    <tr>
+      <th>Metadata</th>
+      <td>Metadata information is automatically generated with the default data in Trends.Earth.</td>
+      <td>A list of minimum metadata information is listed in Annex II to this document.</td>
+    </tr>
+  </tbody>
+</table>
+</p>
+
+
+
+Classification	36 land cover classes based on the Food and Agriculture Organization of the United Nations (FAO) Land Cover Classification System (LCCS). For reporting purposes, the 36 ESA CCI-LC classes are aggregated to the seven UNCCD classes (see table 8 of this document for aggregation rules).	A land cover classification compatible with the seven UNCCD default classes described in step 2. Ideally, the legend is based on the FAO LCCS/Land Cover Meta Language (LCML) methodology. However, the legend should be concise and only include land cover classes of relevance to the reported land degradation processes.
+Temporal coverage	Annual data from the year 2000 onward	Annual data from the year 2000 onward would be the best option. However, the bare minimum would be data for the years 2000 and 2015 (for the baseline) and the latest available year for the reporting period.
+Spatial resolution	300 metres (m)	The desired spatial resolution is 100m or finer. If such data is not available, it is recommended to use the default data or data with a resolution higher than that of the default data (300m).
+Accuracy	74%	To conform with the data quality of the default land cover product, it is recommended to ensure an overall mapping accuracy of at least 74%.
+Metadata	Metadata information is automatically generated with the default data in Trends.Earth. 	A list of minimum metadata information is listed in Annex II to this document.
 
 
 
