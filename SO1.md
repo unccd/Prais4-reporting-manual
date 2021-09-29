@@ -133,8 +133,8 @@ Table 8 shows the conversion between the default UNCCD legend and the ESA CCI-LC
       <th>Label</th>
     </tr>
     <tr>
-      <td  rowspan=12>1</td>
-      <td  rowspan=12>Tree-covered areas</td>
+      <td rowspan=12>1</td>
+      <td rowspan=12>Tree-covered areas</td>
       <td>50</td>
       <td>Tree cover, broadleaved, evergreen, closed to open (>15%)</td>
     </tr>
@@ -292,6 +292,115 @@ Table 8 shows the conversion between the default UNCCD legend and the ESA CCI-LC
     </tr>
   </tbody>
 </table>
+</p>
+
+_Step 4: Generate a transition matrix_
+
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: tables SO1-1.T4a and SO1-1.T4b</I></td>
+    </tr>
+  </tbody>
+</table>
+
+Land degradation is context-specific and tightly dependent on the characteristics of the environment. Land degradation processes are not independent, and mitigating one may lead to an increase in another form of degradation. By defining a transition matrix, Parties must decide which land cover changes and processes are expected to cause land degradation, improvement or no change.
+
+Table 9 presents an example of a transition matrix for the default UNCCD land cover classes. The matrix shows suggested interpretations of changes in land cover that may result in land degradation or improvement. Parties might use this matrix as a preliminary framework to be evaluated and adjusted through a multi-stakeholder participatory process and in consideration of the national and local conditions.
+
+For completeness, water bodies are also included in the matrix, although the focus of reporting is on total land area for the purpose of calculating SDG indicator 15.3.1. All water body-related transitions are set as ‘stable’ by default, but Parties may alter these values if changes in the extent of water bodies during the baseline or the reporting period had a significant impact on land cover. It should be noted that any change in the extent of inland water bodies affects the total land area, which needs to be adjusted accordingly. 
+
+_Table 9. Example of a land cover transition matrix using the seven UNCCD land cover classes_ 
+
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <th rowspan=10>ORIGINAL CLASS</th>
+      <th colspan=9>FINAL CLASS</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Tree-covered areas</th>
+      <th>Grassland</th>
+      <th>Cropland</th>
+      <th>Wetland</th>
+      <th>Artificial surfaces</th>
+      <th>Other land</th>
+      <th>Water bodies</th>
+    </tr>	    
+    <tr>
+      <th>Tree-covered areas</th>
+      <td>Stable</td>
+      <td>Vegetation loss</td>
+      <td>Deforestation</td>      
+      <td>Inundation</td>
+      <td>Deforestation</td>
+      <td>Vegetation loss</td>
+      <td>Stable</td>
+    </tr>
+    <tr>
+      <th>Grassland</th>
+      <td>Afforestation</td>
+      <td>Stable</td>
+      <td>Agricultural expansion</td>
+      <td>Inundation</td>
+      <td>Urban expansion</td>
+      <td>Vegetation loss</td>
+      <td>Stable</td>
+    </tr>
+    <tr>
+      <th>Cropland</th>
+      <td>Afforestation</td>
+      <td>Withdrawal of agriculture</td>
+      <td>Stable</td>
+      <td>Inundation</td>
+      <td>Urban expansion</td>
+      <td>Vegetation loss</td>
+      <td>Stable</td>
+    </tr>    
+    <tr>
+      <th>Wetland</th>
+      <td>Woody encroachment</td>
+      <td>Wetland drainage</td>
+      <td>Wetland drainage</td>
+      <td>Stable</td>
+      <td>Wetland drainage</td>
+      <td>Wetland drainage</td>
+      <td>Stable</td>
+    </tr>
+    <tr>
+      <th>Artificial surfaces</th>
+      <td>Afforestation</td>
+      <td>Vegetation establishment</td>
+      <td>Agricultural expansion</td>
+      <td>Wetland establishment</td>
+      <td>Stable</td>
+      <td>Withdrawal of settlements</td>
+      <td>Stable</td>
+    </tr>  
+    <tr>
+      <th>Other land</th>
+      <td>Afforestation</td>
+      <td>Vegetation establishment</td>
+      <td>Agricultural expansion</td>
+      <td>Wetland establishment</td>
+      <td>Urban expansion</td>
+      <td>Stable</td>
+      <td>Stable</td>
+    </tr>  
+    <tr>
+      <th>Water bodies</th>
+      <td>Stable</td>
+      <td>Stable</td>
+      <td>Stable</td>
+      <td>Stable</td>
+      <td>Stable</td>
+      <td>Stable</td>
+      <td>Stable</td>
+    </tr>
+   </tbody>
+</table>
+</p>
 
 
 
