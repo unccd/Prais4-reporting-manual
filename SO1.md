@@ -888,7 +888,7 @@ _Table 12. Combination of productivity metrics to determine whether a pixel is d
     </tr>
   </tbody>
 </table>
-_Note: Lookup table indicating combinations of productivity metrics to determine whether a pixel is degraded (‘Y’) or not degraded (‘N’): classes 1 to 5 show degradation. This table complies with the definition of land degradation adopted by the UNCCD, which includes a reduction of biological productivity (i.e. a significantly negative Trend constitutes degradation regardless of the State or Performance metrics)._
+<I>Note: Lookup table indicating combinations of productivity metrics to determine whether a pixel is degraded (‘Y’) or not degraded (‘N’): classes 1 to 5 show degradation. This table complies with the definition of land degradation adopted by the UNCCD, which includes a reduction of biological productivity (i.e. a significantly negative Trend constitutes degradation regardless of the State or Performance metrics).</I>
 <p></p>
 
 An alternative approach, suggesting a variant of the above metric combinations, is described in section 4.2.5 and table 4-5 of the Good Practice Guidance for SDG Indicator 15.3.1 for country Parties’ consideration.
@@ -1066,7 +1066,7 @@ _Table 13. Combination of productivity metrics to determine five classes of land
     </tr>  
   </tbody>
 </table>
-_Note: The last column illustrates how a pixel’s land productivity degradation status can be inferred from the class of land productivity dynamics obtained from the combination of the three input productivity metrics._
+<I>Note: The last column illustrates how a pixel’s land productivity degradation status can be inferred from the class of land productivity dynamics obtained from the combination of the three input productivity metrics.</I>
 </p>
 
 National estimates of land productivity dynamics by land cover type should be reported using tables SO1-2.T1 and SO1-2.T2 of the PRAIS 4 platform for the baseline and reporting periods, respectively. Additionally, national estimates of changes in land productivity dynamics for the main land cover transitions (by area) should be reported in tables SO1-2.T3 and SO1-2.T4 for the baseline and reporting periods, respectively. Land productivity degradation (i.e. derived from the three-class in the last column of table 13) in the reporting period should be reported in table SO1-2.T6.
@@ -1125,3 +1125,60 @@ Key actions for reporting on land productivity dynamics are as follows:
 - Cherlet, M., Hutchinson, C., Reynolds, J., Hill, J., Sommer, S., von Maltitz, G. (Eds.), World Atlas of Desertification, Publication Office of the European Union, Luxembourg, 2018. 
 - Trend.Earth website documentation (https://trends.earth/docs/en/).
 
+
+## 1.3. SO 1-3 – Trends in carbon stocks above and below ground
+
+### 1.3.1. Introduction
+
+Carbon stocks reflect the integration of multiple processes affecting plant growth as well as decomposition, which together control the gains and losses from terrestrial organic matter pools. They are elementary to a wide range of ecosystem services, and their levels and dynamics are reflective of soil type, land use and management practices.
+
+As outlined in the UNCCD decision 22/COP.11, soil organic carbon (SOC) stock is the metric currently used to assess carbon stocks and will be replaced by total terrestrial system carbon stock once operational.
+
+The UNCCD methodology for estimating the proportion of land that is degraded over total land area (i.e. SDG indicator 15.3.1) uses SOC stock as an indicator of overall soil quality associated with soil nutrient cycling, soil aggregate stability and soil structure, with direct implications for water infiltration, vulnerability to erosion, and ultimately the productivity of vegetation, and in agricultural contexts, yields. 
+
+The main output of the reporting process for SO 1-3 is a set of officially verified estimates of SOC stock in the top 30 centimetres (cm) of soil (in tonnes per hectare) for each of the seven UNCCD land cover classes and land cover transitions, and their significance in terms of land degradation.
+
+National reporting is facilitated though the provision of default baseline data derived from the International Soil Reference and Information Centre (ISRIC) SoilGrids250m dataset, and default estimates of SOC stock changes are derived using a modified Tier 1 Intergovernmental Panel on Climate Change (IPCC) methodology for compiling national greenhouse gas inventories for mineral soils.
+
+Parties may complement/replace these data with national data (Tier 2 method), determining SOC stocks from high spatial resolution digital soil maps or from field measurements. Parties competent in more complex methods of reporting SOC stocks involving ground measurements and modelling can adopt the Tier 3 method.   
+
+### 1.3.2. Prerequisites for reporting
+
+- An in-depth reading of chapter 5 of the Good Practice Guidance for SDG Indicator 15.3.1, which provides basic information on the processes regulating the formation and release of SOC stocks and detailing the methodology used to estimate SOC changes; 
+
+- Data complying with the minimum standards listed in table 14 below;
+
+- A pool of national experts officially nominated by the national authorities to verify the results of the SOC analysis or develop and implement a custom methodology if national data is used instead of the defaults. Key institutions might include a country’s national statistical office, ministry of environment, ministry of agriculture (especially the soil department), remote-sensing centre, as well as universities and research centers;
+
+- An understanding of the Tier levels of reporting and a decision on what Tier level is appropriate for the country before attempting the reporting process.
+
+### 1.3.3. Reporting process and step-by-step procedure
+
+The step-by-step procedure for reporting is described in the following. If Parties decide to use the default data (i.e. adopt the Tier 1 method), steps 2, 3 and 4 are unnecessary.
+
+_Step 1: Select the estimation method_
+
+Parties may use three methods to determine baseline SOC stocks and estimate changes in SOC stocks. These methods are consistent with the IPCC guidelines  and include datasets and processing options with increasing levels of accuracy and complexity. 
+
+- The **Tier 1 method** uses broad methods with default data, and it is valuable where country-specific data and capacities are scarce or unavailable. SOC stock change estimates are informed by the equations in the IPCC guidelines, which are summarized in chapter 5 of the Good Practice Guidance for SDG Indicator 15.3.1. 
+
+The Tier 1 method assumes that following land use/management changes, carbon stock changes occur over a 20-year period, after which a new equilibrium stock is reached. The Tier 1 method uses information on land cover change, along with stock change factors (i.e. a land use factor, a management factor and an input factor, where available) to estimate changes in carbon stock. The SOC stock baseline is based on reference SOC stocks under natural vegetation, stratified by climate/soil type. As an alternative to IPCC default values, reference stocks can be determined from global digital maps of SOC.
+
+For change factors, the Tier 1 method is strongly reliant on land cover change and/or land management change to estimate changes in SOC stocks as well as the delineation of wetland areas as a proxy for organic soils.
+
+The influence of land use and management on SOC is different in mineral versus organic soil types. Carbon stocks in organic soils are not explicitly computed using the Tier 1 method, which estimates only annual carbon flux from organic soils. For organic soils, the method uses an annual emission factor to estimate the losses of carbon following drainage and/or fire. Losses from organic soils are estimated using an adaptation of Equation 2.2 from chapter 2 of the IPCC Wetlands Supplement.
+
+A detailed description of the Tier 1 method is provided in section 5.2.6.1 of the Good Practice Guidance for SDG Indicator 15.3.1.
+
+- The Tier 2 method makes use of additional country-specific data to complement default values, such as country-specific change factors, reference SOC stocks, climate regions, soil types, and/or land management classification systems. Country-specific values may be derived for all of these components, or any subset which would then be combined with default values. Reference SOC stocks can be determined from national digital soil maps or from measurements taken from national soil surveys. 
+
+A detailed description of the Tier 2 method is provided in section 5.2.6.2 of the Good Practice Guidance for SDG Indicator 15.3.1.
+
+- The Tier 3 method is the most complex, involving ground measurements and modelling, and it is only recommended for countries with adequate technical capacity and data. It incorporates more advanced methods which better capture annual variability in fluxes, such as country-specific digital soil mapping and time-series spatial land use/management and climate data, combined with calibrated and validated process-based models and/or a measurement-based inventory with a monitoring network.
+
+_Step 2: Assess available data_
+
+UNCCD provides prefilled data in the PRAIS 4 platform. The ISRIC SoilGrids250m dataset is used to obtain a default SOC stock baseline. Default estimates of SOC stock changes are based on a modified Tier 1 method for mineral soils.  Since there are currently no known global data at a sufficient resolution to obtain information for the management and input change factors, the dynamic component informing SOC trends is land cover used as a proxy for land-use change.
+However, Parties may report their estimates using national SOC stock data (adopting the Tier 2 or Tier 3 approach) if they meet the specifications listed in table 1. 
+
+Table 14. Data specifications for SO 1-3 indicator
