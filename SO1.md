@@ -707,4 +707,25 @@ To calculate the productivity Trend, Parties should determine the trajectory of 
 
 The Trend metric is calculated by fitting a linear regression model to the time series and determining the significance of the trend slope by calculating its z-score. Positive z-scores indicate a trend of increasing productivity, while negative scores indicate decreasing productivity. Z-scores reflect the magnitude of the slope, with scores of higher magnitude indicating greater strength of the ongoing process.
 
+_Box 1. What is a z-score_
 
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>A z-score measures how many standard deviations above or below the mean a data point is. The formula for calculating a z-score is reported below, where ‘z’ is the z-score:
+
+	             data point – mean
+
+	      z = ------------------------
+
+	            standard deviation
+
+Important facts about z-scores:
+- A positive z-score indicates that the data point is above average.
+- A negative z-score indicates that the data point is below average.
+- A z-score close to 0 indicates that the data point is close to average.
+- A data point can be considered unusual if its z-score is above or below 3.
+</I></td>
+    </tr>
+  </tbody>
+</table>
