@@ -46,3 +46,52 @@ Parties may also use national data, provided it complies with the data specifica
 
 _Table 15. Data specifications for SO 2-1 Indicator_
 
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <th rowspan=2>Item</th>
+      <th colspan=2>Specifications</th>
+    </tr>
+    <tr>
+      <th>Default data<p>((Sustainable Development Goal indicator 1.1.1 data and Gini index World Bank data))</p></th>
+      <th>National data</th>
+    </tr>
+    <tr>
+      <th>Type of data</th>
+      <td>Annual data on one of the two metrics for the period 2000–2019.</td>
+      <td>Annual data on one of the two metrics for the period from 2000 to the latest available year for the reporting period.</td>
+    </tr>
+    <tr>
+      <th>Spatial resolution</th>
+      <td>Country level</td>
+      <td>Country or sub-national levels</td>
+    </tr>
+    <tr>
+      <th>Quality</th>
+      <td>Specified in the datasets’ metadata.</td>
+      <td>TTo be indicated in the dataset metadata.</td>
+    </tr>
+    <tr>
+      <th>Metadata</th>
+      <td>Metadata information is provided with default data.</td>
+      <td>Minimum metadata content as per the mandatory fields listed in Annex II.</td>
+    </tr>
+  </tbody>
+</table>
+</p>
+
+_Step 3: Report national annual values of the chosen metric and interpret the data_
+
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: tables SO2-1.T1, SO2-1.T2 and SO2-1.T3</I></td>
+    </tr>
+  </tbody>
+</table>
+
+Parties opting to use an alternative source of national data may enter the relevant national annual values in tables SO2-1.T1 or SO2-1.T2, according to the chosen metric.
+
+To assist in the data interpretation, countries are encouraged to visualize their respective metrics by means of a graph (graphs for each country are available on the [World Bank website](https://datatopics.worldbank.org/sdgs/index.html or https://data.worldbank.org/indicator/SI.POV.GINI)).  While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table (i.e., Table SO2-1.T3).
+
+
