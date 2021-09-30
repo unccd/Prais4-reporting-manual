@@ -1393,65 +1393,119 @@ The step-by-step procedure for reporting is described in the following. If Parti
 
 _Step 1. Calculate Sustainable Development Goal indicator 15.3.1_
 
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: table SO1-4.T1</I></td>
+    </tr>
+  </tbody>
+</table>
+
 In order to calculate SDG indicator 15.3.1, the results of the degradation analysis for each of the subindicators are integrated using a One-Out All-Out (1OAO) method in which a significant reduction or negative change in any one of the three subindicators is considered to comprise land degradation. The result is a binary assessment where a land unit (pixel) is either degraded or not degraded.
+
 The analysis of change in degradation involves first establishing a baseline of land degradation. The baseline sets the benchmark extent of land degradation against which progress towards achieving SDG target 15.3 and LDN is assessed in the reporting period. 
 In practical terms, for the purposes of calculating SDG indicator 15.3.1, tracking change in the extent of degraded land is a three-step process:
+
 1.	Calculate the extent of degradation in the baseline period (t0) from 1 January 2000 to 31 December 2015 to set the benchmark for measuring progress towards achieving SDG target 15.3; 
+
 2.	Calculate the extent of degradation in the reporting period (tn) by summing (i) areas of land where changes in the subindicators are considered to indicate new degradation; and (ii) areas of land that have persisted in a degraded state since the baseline period (i.e. have not improved to a non-degraded state); 
+
 3.	Calculate the change in extent of degradation between the baseline and reporting periods. 
 The total area of degraded land for the baseline, the reporting period and the change of the area between the two periods should be reported in table SO1-4.T1. In addition, Parties can report additional information on the method used, for example if different from the 1OAO approach, as well as indicate the level of confidence of the estimates (high, medium or low). 
 
-Step 2. Estimate progress towards land degradation neutrality
+_Step 2. Estimate progress towards land degradation neutrality_
+
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: table SO1-4.T2</I></td>
+    </tr>
+  </tbody>
+</table>
 
 Progress made towards LDN should be reported as the net difference between areas improved (gains) in the reporting period compared to the baseline and areas degraded (losses) in the reporting period compared to the baseline (table SO1-4.T2). The difference in areas degraded and improved (km2) is reported in the LDN status field. Positive values indicate a net gain in improved land while negative values indicate that more land was degraded than improved. A value close to zero suggests that gains were balanced by losses and that LDN has been achieved.  Positive values demonstrate that LDN has been both achieved and exceeded. The values reported in table SO1-4.T2 should therefore help countries with LDN monitoring and target-setting.
 
-Step 3. Identify false positives and false negatives
+_Step 3. Identify false positives and false negatives_
+
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: : table SO1-4.T3</I></td>
+    </tr>
+  </tbody>
+</table>
 
 Parties have the option to identify areas of:
-•	‘False positive’ degradation, where the 1OAO process has incorrectly indicated that an area is not degraded even though the change in land condition is considered sufficiently negative to qualify as degraded in the context of SDG indicator 15.3.1; and
-•	‘False negative’ degradation, in which the outcome of the 1OAO process has incorrectly resulted in an area being identified as degraded. 
+
+- ‘False positive’ degradation, where the 1OAO process has incorrectly indicated that an area is not degraded even though the change in land condition is considered sufficiently negative to qualify as degraded in the context of SDG indicator 15.3.1; and
+- ‘False negative’ degradation, in which the outcome of the 1OAO process has incorrectly resulted in an area being identified as degraded. 
 
 What are false positives?
+
 An example is a woody weed invasion of a grassland, which may raise the apparent plant productivity even though the outcome in terms of the change in land condition would normally be negative. This is a false ‘positive’ or apparent improvement in land condition. In the 1OAO process, the area undergoing woody encroachment would be incorrectly indicated as not degraded even though the change in land condition is considered to be sufficiently negative to qualify as degraded in the context of SDG indicator 15.3.1. A similar outcome arises in lands invaded by alien plant species.
 
 What are false negatives?
+
 An example is the inverse of the above problem where woody weeds (or invasive plant species) are removed as part of a remediation process, causing a reduction in apparent productivity. This would normally lead to an indication of degradation even though the intention is to restore degraded lands. In the 1OAO process, the remediated area would be incorrectly labelled as being degraded.
+
 In areas where a false positive or false negative degradation outcome is identified, Parties can use the PRAIS 4 spatial data viewer to provide further spatial detail in addition to the reporting fields in table SO1-4.T3. Spatial delineation of false positive and negative areas should only be carried out where countries are confident that they know the timing, location and extent of these counterintuitive processes. However, in reporting spatially, Parties can then opt to recalculate the outcomes of the 1OAO process through Trends.Earth and import the recalculated results. Without spatial delineation of the false positive and/or negative area, there will be no material impact on the reporting data. 
+
 Reporting on false positive and negative extents using the PRAIS 4 platform requires filling in table SO1-4.T3. The PRAIS 4 spatial data viewer supports the filling in of this table with spatial information (in vector format). However, it remains an optional element and the table can still be filled in without the provision of spatial data. Information about the location of the sites, the areal extent of the site (auto-filled by the PRAIS 4 spatial data viewer, if used), the processes behind the false positive/false negative outcome and the basis for their judgement should be  reported in addition to the period when the false negative or false positive process started. For those Parties using the PRAIS 4 spatial data viewer to delineate the extents, an informative graphic can be used to interpret the percentage of the total area delineated that is degraded or improved per subindicator. This graphic chart should be used as a guide to understand what subindicator is driving the false positive or negative process being reported within the polygon extent provided. 
 
-Step 4. Assess hotspots and brightspots
+_Step 4. Assess hotspots and brightspots_
+
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: tables SO1-4.T4 and SO1-4.T5</I></td>
+    </tr>
+  </tbody>
+</table>
 
 UNCCD encourages Parties to signal areas experiencing the most evident and dramatic change. These are defined as:
-•	Hotspots: areas that are highly vulnerable to degradation in the absence of urgent remediation activities;
-•	Brightspots: areas that do not exhibit any signs of degradation, or which have been remediated from a degraded state by implementing appropriate remediation activities or through land planning processes to prevent degradation.
+
+- Hotspots: areas that are highly vulnerable to degradation in the absence of urgent remediation activities;
+
+- Brightspots: areas that do not exhibit any signs of degradation, or which have been remediated from a degraded state by implementing appropriate remediation activities or through land planning processes to prevent degradation.
+
 Knowledge about location and type of hotspots/brightspots may facilitate the development of plans of action to redress degradation, including through the conservation, rehabilitation, restoration and sustainable management of land resources. 
+
 Hotspots and brightspots are reported in tables SO1-1.T4 and SO1-1.T5 of the PRAIS 4 platform, respectively. Parties are invited to enter relevant information such as location, area, the adopted assessment process, the drivers/processes determining the status of the land, and remediation actions taken and planned. These are spatial tables and therefore should be completed with the support of the geographic information system tools available in the PRAIS 4 spatial data viewer. This is an additional and optional element, but such location-based information can strengthen spatial approaches to sustainable land management and help integrate responses to land degradation at the landscape scale. In addition, UNCCD can use these spatial data to create improved information products to demonstrate the impact of the Convention.
 
-Step 5. Generate reports
-Once verified by the Parties, the estimates of land degradation data for the reporting and baseline periods should be officially submitted to UNCCD. Special or anomalous situations and noticeable issues related to the data interpretation that may affect the reliability of the reported values should be described in the narrative. A ‘General Comment’ field is provided at the end of the reporting form of the PRAIS 4 platform for this purpose.
-Information on land degradation should be reported in km2 for the entire country. 
-Default maps or maps generated in Trends.Earth using national data representing land degradation for the baseline/reporting period are made available in the PRAIS 4 platform. More specifically, the following maps will be available online: 
-•	Proportion of land that is degraded over total land area (SDG indicator 15.3.1) in the baseline period 
-•	Proportion of land that is degraded over total land area (SDG indicator 15.3.1) in the reporting period 
-•	Progress towards LDN in the reporting period
-•	Degradation hotspots (for countries that provide spatial data in the PRAIS 4 platform)
-•	Improvement brightspots (for countries that provide spatial data in the PRAIS 4 platform).
+_Step 5. Generate reports_
 
-1.4.4. Dependencies
+Once verified by the Parties, the estimates of land degradation data for the reporting and baseline periods should be officially submitted to UNCCD. Special or anomalous situations and noticeable issues related to the data interpretation that may affect the reliability of the reported values should be described in the narrative. A ‘General Comment’ field is provided at the end of the reporting form of the PRAIS 4 platform for this purpose.
+
+Information on land degradation should be reported in km2 for the entire country. 
+
+Default maps or maps generated in Trends.Earth using national data representing land degradation for the baseline/reporting period are made available in the PRAIS 4 platform. More specifically, the following maps will be available online: 
+- Proportion of land that is degraded over total land area (SDG indicator 15.3.1) in the baseline period 
+- Proportion of land that is degraded over total land area (SDG indicator 15.3.1) in the reporting period 
+- Progress towards LDN in the reporting period
+- Degradation hotspots (for countries that provide spatial data in the PRAIS 4 platform)
+- Improvement brightspots (for countries that provide spatial data in the PRAIS 4 platform).
+
+### 1.4.4. Dependencies
+
 SDG indicator 15.3.1 relies on the total land area reported in table SO1-1.T1. Modifying that number will therefore alter the indicator’s value. 
 The ‘Area’ fields of the spatial tables SO1-4.T3,  SO1-4.T4 and SO1-4.T5 have a dependency on spatial data created by countries using the PRAIS 4 spatial data viewer. However, they can also be filled in manually without providing supporting spatial data. 
 
-1.4.5. Summary (main actions)
+### 1.4.5. Summary (main actions)
+
 Key actions for reporting on the SDG indicator 15.3.1 are as follows:
-1.	Calculate the proportion of land that is degraded over total land area (SDG indicator 15.3.1): Using the 1OAO approach to combine the three subindicators, calculate the extent of degradation in the baseline period and in the reporting period. The extent of degradation in the reporting period is calculated by summing (i) areas of land where changes in the subindicators are considered to indicate new degradation; and (ii) areas of land that have persisted in a degraded state since the baseline period (i.e. have not improved to a non-degraded state). 
-2.	Estimate progress towards LDN: Calculate the difference between the extent of degraded land (losses) and the extent of improved land (gains) in the reporting period to determine if there has been a net gain, neutrality or a net loss. 
-3.	Identify false positive and false negative processes and provide the relevant justification to support their assessment. Where countries are confident in reporting the location and extent of these processes and in recalculating the 1OAO process for SDG indicator 15.3.1 with the identified areas accounted for, they should use the PRAIS 4 spatial data viewer to do so (table SO1-4.T3).
-4.	Assess hotspots of land degradation and brightspots of land improvement, indicating their locations, extents, and actions taken and/or planned to manage them and ensure the sustainable development of the areas (tables SO1-4.T4 and SO1-4.T5). Countries are encouraged to report on hotspots and brightspots using the PRAIS 4 spatial data viewer. 
 
-1.4.6. Further reading
+1.	**Calculate the proportion of land that is degraded over total land area (SDG indicator 15.3.1)**: Using the 1OAO approach to combine the three subindicators, calculate the extent of degradation in the baseline period and in the reporting period. The extent of degradation in the reporting period is calculated by summing (i) areas of land where changes in the subindicators are considered to indicate new degradation; and (ii) areas of land that have persisted in a degraded state since the baseline period (i.e. have not improved to a non-degraded state). 
 
-•	Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 2: SDG Indicator 15.3.1: Proportion of land that is degraded over total land area.  
-•	Scientific Conceptual Framework for Land Degradation Neutrality (https://knowledge.unccd.int/publication/ldn-scientific-conceptual-framework-land-degradation-neutrality-report-science-policy).
+2.	**Estimate progress towards LDN**: Calculate the difference between the extent of degraded land (losses) and the extent of improved land (gains) in the reporting period to determine if there has been a net gain, neutrality or a net loss. 
+
+3.	**Identify false positive and false negative processes** and provide the relevant justification to support their assessment. Where countries are confident in reporting the location and extent of these processes and in recalculating the 1OAO process for SDG indicator 15.3.1 with the identified areas accounted for, they should use the PRAIS 4 spatial data viewer to do so (table SO1-4.T3).
+
+4.	**Assess hotspots of land degradation and brightspots of land improvement**, indicating their locations, extents, and actions taken and/or planned to manage them and ensure the sustainable development of the areas (tables SO1-4.T4 and SO1-4.T5). Countries are encouraged to report on hotspots and brightspots using the PRAIS 4 spatial data viewer. 
+
+### 1.4.6. Further reading
+
+- Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 2: SDG Indicator 15.3.1: Proportion of land that is degraded over total land area.  
+- Scientific Conceptual Framework for Land Degradation Neutrality (https://knowledge.unccd.int/publication/ldn-scientific-conceptual-framework-land-degradation-neutrality-report-science-policy).
 
 
 
