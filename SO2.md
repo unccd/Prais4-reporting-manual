@@ -187,7 +187,7 @@ _Table 16. Data specifications for SO 2-2 Indicator_
     <tr>
       <th>Quality</th>
       <td>Specified in the datasets’ metadata.</td>
-      <td>TTo be indicated in the dataset metadata.</td>
+      <td>To be indicated in the dataset metadata.</td>
     </tr>
     <tr>
       <th>Metadata</th>
@@ -248,5 +248,180 @@ Key actions for reporting on indicator SO 2-2 are as follows:
 ### 2.2.7. Further reading
 - SDG indicator 6.1.1 metadata (https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf)
  
+
+## 2.3. SO 2-3 – Trends in Population Exposure to Land Degradation Disaggregated by Sex
+
+### 2.3.1. Introduction
+
+Indicator SO 3-2 was developed in response to decision 11/COP.14 to align the reporting process for SO 1 to 5 with gender-responsive indicators and guidelines and ensure that the gender dimensions of land degradation are captured.
+
+The indicator estimates the proportion of populations exposed to land degradation, disaggregated by sex, as a first step towards addressing the gender data gap on land degradation within the UNCCD reporting framework. The methodology uses the spatial distribution of the population or sub-population group (i.e., by sex) to establish its exposure to land degradation, as determined by indicator SO 1-4 (i.e., SDG Indicator 15.3.1). 
+
+The indicator trends in the proportion of population exposed to land degradation, disaggregated by sex, uses the following metrics:
+
+- Percentage of the female population exposed to land degradation
+
+- Percentage of the male population exposed to land degradation
+
+- Percentage of the total (female and male) population exposed to land degradation
+
+National reporting is facilitated though the provision of default data derived from the Worldpop global dataset on population distributions, demographics and dynamics and the default indicator SO 1-4 estimates.
+
+### 2.3.2. Prerequisites for reporting
+
+- An in-depth reading of the methodological note for indicator SO 3-2 (see section 2.3.7).
+
+- Population data complying with the specifications listed in table 17.
+
+- A pool of national experts officially nominated by the national authorities to verify the suitability and consistency of the default data against the situation in their country, or to identify and compile data using national sources for the three metrics. Key institutions might include a country’s national statistical office, ministry of environment and ministry of agriculture, as well as universities and research centres.
+
+### 2.3.3. Reporting process and step-by-step procedure
+
+The step-by-step procedure for reporting is described in the following. If Parties decide to use the default data, steps 2 and 3 are unnecessary.
+
+_Step 1: Select the population dataset_
+
+Suitable data for the calculation of indicator SO 2-3 is a sex-disaggregated gridded count of the human population, or a georeferenced set of sub-national data that covers the full extent of the country. It must represent the number of male and female individuals per grid cell, ideally annually, in the time period in question (i.e., the date timestamp should be at least one of the years within the baseline and reporting period). 
+
+Among the publicly available population datasets at the global scale, the WorldPop dataset is used by default by the UNCCD for calculating indicator SO2-3 and provided to Parties in Trends.Earth. 
+
+An alternative dataset is the Gridded Population of the World, version 4 (GPWv4).
+
+Parties may also use national data, provided it complies with the data specifications listed in table 17. 
+
+_Table 17. Data specifications for SO 2-3 Indicator_
+
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <th rowspan=2>Item</th>
+      <th colspan=2>Specifications</th>
+    </tr>
+    <tr>
+      <th>Default data</th>
+      <th>National data</th>
+    </tr>
+    <tr>
+      <th><P>Input data</P>(Data needed to estimate the population exposed to land degradation)</th>
+      <td><P>WorldPop data disaggregated by sex for the baseline year (2015) and the latest available year of the reporting period (2019).</P> 
+Gridded data on land degradation as determined by indicator SO 1-4 for the baseline and reporting periods.
+</td>
+      <td><P>Gridded population products derived from national official statistics, disaggregated by sex for the baseline year (ideally the year 2015) and the latest available year of the reporting period (e.g., 2019).</P>
+Gridded data on land degradation as determined by indicator SO 1-4 for the baseline and reporting periods.
+</td>
+    </tr>
+    <tr>
+      <th><P>Output data</P>(Gridded products resulting from the analysis of the three metrics)</th>
+      <td>Gridded products of the female, male and total population exposed to land degradation in the baseline and reporting periods.</td>
+      <td>Gridded products of the female, male and total population exposed to land degradation in the baseline and reporting periods.</td>
+    </tr>    
+    <tr>
+      <th>Spatial resolution</th>
+      <td>3-arc seconds (~100 m)</td>
+      <td>Assessed by national authorities based on available data.</td>
+    </tr>
+    <tr>
+      <th>Quality</th>
+      <td>Specified in the datasets’ metadata.</td>
+      <td>To be indicated in the dataset metadata.</td>
+    </tr>
+    <tr>
+      <th>Metadata</th>
+      <td>Metadata information is provided with default data.</td>
+      <td>Minimum metadata content as per the mandatory fields listed in Annex II.</td>
+    </tr>
+  </tbody>
+</table>
+</p>
+
+_Step 2:  Standardize the selected datasets_
+
+The population and the land degradation datasets must be harmonized to the same grid cell size. For example, the WorldPop dataset and the SO 1-4 land degradation default dataset have resolutions of 100 and 250 metres, respectively. In such cases, grids must be resampled into a common grid size. The recommendation is to define the grid cell size for analysis at the smallest resolution level of the data inputs; in this case, the 100 metre resolution of the population dataset. Countries using national datasets should assess them in terms of projection and resolution and standardize them through a resampling process in order to be able to combine them in the analysis of population exposure to land degradation. 
+
+The resampling should take into consideration that, for datasets representing population counts, changes in cell size implies changes in the number of people in each cell; a resampling method that ensures the integrity of the continuous data should be used, such as bilinear interpolation (avoid nearest neighbour techniques).
+
+_Step 3: Estimate the female, male and total population count and percentage exposed to land degradation_
+
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: tables SO2-3.T1 and SO2-3.T2</I></td>
+    </tr>
+  </tbody>
+</table>
+
+The female and male population grids for the baseline and reporting periods are intersected with the respective land degradation grids. The values of the cells falling on degraded land are then combined to derive the female and male population exposed to land degradation. The total population exposed to land degradation is obtained by combining the obtained female and male population values.
+
+This analysis should be carried out over two time periods (i.e., the baseline and reporting period) in order to measure changes over time and report the observed change in table SO2-3.T2. However, it should be noted that the land degradation spatial dataset (i.e., the SO1-4 output) captures temporal trends in the three subindicators (land cover, land productivity and soil organic carbon (SOC)) over a certain number of years, whereas population data reflects the populations in specific years (e.g., 2015 and 2019). To increase accuracy in capturing the number of people exposed to land degradation in the two reference years (i.e., 2015 for the baseline and 2019 for reporting period), it is recommended that the population gird closest to the above-mentioned years be used.
+
+To calculate the percentage of female, male and total population exposed to land degradation, the respective populations exposed to land degradation are divided by the total populations of the corresponding sex types, multiplied by 100.
+
+_Step 4: Qualitatively assess the results_
+
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: table SO2-3.T3</I></td>
+    </tr>
+  </tbody>
+</table>
+
+Observed changes in the indicator and their interpretation may be described in the “Qualitative Assessment” table of the PRAIS 4 platform (table SO2-3.T3).
+
+It is important to note that changes in the proportion of population exposure to land degradation may not only be due to the expansion of land degradation but also to population growth, among other factors.
+
+_Step 5:  Verify the results_
+
+The reliability of the estimates from global data sources requires inputs from national experts to identify and highlight situations where the confidence level of the obtained results might be low. 
+
+_Step 6: Generate reports_
+
+Once verified by the Parties, the estimates of the female, male and total population exposed to land degradation should be officially submitted to the UNCCD.
+
+Default maps or maps generated in Trends.Earth using national data representing population exposure to land degradation by sex are made available in the PRAIS 4 platform. More specifically, the following maps will be available online:
+
+- Total population exposed to land degradation
+
+- Female population exposed to land degradation
+
+- Male population exposed to land degradation
+
+Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data. It would also be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale to adopt a different methodology. A “General comment” field is provided in the PRAIS 4 platform for this purpose.
+
+### 2.3.4. Dependencies
+
+Indicator SO 2-3 relies on the SO 4 indicator spatial datasets, both for the baseline and reporting periods, as a basis to identify degraded areas.
+
+### 2.3.5. Challenges 
+
+_Data availability and quality_
+- Spatial resolution of international data might not always be suitable to produce a sufficiently detailed representation of the population exposed to land degradation and its changes. More detailed sub-national data might be needed to represent local situations with a higher degree of accuracy. However, this will require downscaling of existing gridded population datasets to a finer resolution which might incur further errors. Capacity in performing downscaling processes is therefore required.
+- The WorldPop sex-disaggregated national datasets are presented as several individual rasters, each representing an age/sex class per year. This amounts to a large volume of spatial data in Geotiff format. Capacity in raster data processing and access to appropriate computing power, e.g., a cloud service, is required to store and process the data, especially for large countries. The UNCCD is developing a procedure for the bulk preprocessing of raster data, which will eventually make sex-disaggregated data available on the PRAIS 4 platform as default data. Parties will be notified when the challenge is solved and the forms pre-filled with the default data. 
+
+_Limitation of the analytical approach_
+- Sex-disaggregated data alone might not be sufficient to represent the gender dynamics and related issues in a specific region. Further socio-economic and demographic indicators are required to conduct gender analysis in order to better understand how and why specific populations are affected by land degradation. 
+- On-site exposed populations to land degradation may produce lower-bound estimates of the exposure of populations to land degradation. In fact, land degradation in a specific area affects not only populations residing on degraded land, but also – through environmental, economic and social linkages – populations elsewhere. In addition, further disaggregation of data in urban and rural populations could be useful to improve the indicator.
+- There are two challenges related to the temporality of the analysis: i) the land degradation spatial dataset (i.e., the SO1-4 output) captures temporal trends over a certain number of years, whereas population data reflects the populations in specific years; ii) changes in the proportion of population exposure to land degradation over time may not only be due to the expansion of land degradation but also to population growth, among other factors.
+
+### 2.3.6. Summary (main actions)
+
+Key actions for reporting on population exposure to land degradation are as follows:
+
+1.	**Select the population dataset**: Parties may decide to use the default data or alternative national sources, provided they comply with the data specifications listed in table 17.
+
+2.	**Standardize the selected datasets**: the land degradation datasets must be harmonized to the same grid cell size as the population gridded data (assuming it is the finer resolution) in order to combine them in the analysis of population exposure to land degradation.
+
+3.	**Estimate the number and percentage of the female, male and total population exposed to land degradation**: the male and female population grids are intersected with the land degradation grid to derive the total, male and female population exposed to land degradation and the percentage of the total population. Data should be entered in tables SO2-3.T1.
+
+4.	**Qualitatively assess the results**: changes in the proportion of populations exposed to land degradation as well as their direct or indirect drivers should be described in table SO2-3.T3. 
+
+5.	**Verify the results**: the reliability of the estimates from global data sources should be assessed in consultation with national experts.
+
+6.	**Generate reports**: once verified by the Parties, the data and supporting narrative should be officially submitted to the UNCCD.
+
+### 2.3.7. Further reading
+
+- Methodological note on trends in population exposure to land degradation (https://www.unccd.int/sites/default/files/inline-files/MethodologicalNote_PopExposureToLD.pdf)  
+
 
 
