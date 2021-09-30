@@ -12,6 +12,7 @@ Welcome to PRAIS4 Reporting Manual's documentation!
 
    introduction
    SO1
+   SO2
    
 Indices and tables
 ==================
