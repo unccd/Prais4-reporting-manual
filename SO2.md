@@ -23,17 +23,26 @@ Income inequality is a useful metric for both low-income and middle-income count
 National reporting is facilitated though the provision of default data. As the proportion of population below the international poverty line by sex, age, employment status and geographical location (urban/rural) is also a Sustainable Development Goal (SDG) indicator (SDG indicator 1.1.1), default data is pre-filled from the SDG database. For income inequality (i.e., the Gini index), default data is pre-filled from the [World Bank database](https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map). 
 
 ### 2.1.2. Prerequisites for reporting
-•	An in-depth reading of SDG indicator 1.1.1 metadata and Gini index metadata (see section 2.1.7). 
-•	Data complying with the specifications listed in table 15.
-•	A pool of national experts officially nominated by the national authorities to verify the suitability and consistency of the default data against the situation in their country, or to identify and compile data using national sources for the three metrics. Key institutions might include a country’s national statistical office and the ministry of finance, as well as universities and research centres.
 
-2.1.3. Reporting process and step-by-step procedure
+- An in-depth reading of SDG indicator 1.1.1 metadata and Gini index metadata (see section 2.1.7). 
+
+- Data complying with the specifications listed in table 15.
+
+- A pool of national experts officially nominated by the national authorities to verify the suitability and consistency of the default data against the situation in their country, or to identify and compile data using national sources for the three metrics. Key institutions might include a country’s national statistical office and the ministry of finance, as well as universities and research centres.
+
+### 2.1.3. Reporting process and step-by-step procedure
+
 The step-by-step procedure for reporting is described in the following.
-Step 1: Choose the most suitable metric 
+
+_Step 1: Choose the most suitable metric_
+
 Parties are invited to choose the most suitable metric to represent the well-being of the population in their countries.
 
-Step 2: Identify the relevant dataset
+_Step 2: Identify the relevant dataset_
+
 The proportion of population below the international poverty line data is pre-filled from the SDG database, while income inequality (Gini index) data is pre-filled from the World Bank database. 
+
 Parties may also use national data, provided it complies with the data specifications listed in table 15. 
 
-Table 15. Data specifications for SO 2-1 Indicator
+_Table 15. Data specifications for SO 2-1 Indicator_
+
