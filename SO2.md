@@ -92,6 +92,47 @@ _Step 3: Report national annual values of the chosen metric and interpret the da
 
 Parties opting to use an alternative source of national data may enter the relevant national annual values in tables SO2-1.T1 or SO2-1.T2, according to the chosen metric.
 
-To assist in the data interpretation, countries are encouraged to visualize their respective metrics by means of a graph (graphs for each country are available on the [World Bank website](https://datatopics.worldbank.org/sdgs/index.html or https://data.worldbank.org/indicator/SI.POV.GINI)).  While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table (i.e., Table SO2-1.T3).
+To assist in the data interpretation, countries are encouraged to visualize their respective metrics by means of a graph (graphs for each country are available on the [World Bank website](https://datatopics.worldbank.org/sdgs/index.html)).  While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table (i.e., Table SO2-1.T3).
 
+_Step 4:  Verify the results_
+
+The reliability of the estimates from global data sources requires inputs from national experts to detect and highlight situations where the confidence level of the obtained results might be low. This input would contribute to a qualitative assessment of the reliability of the estimates. 
+
+_Step 5: Generate reports_
+
+Once verified by the Parties, the estimates of the proportion of population below the international poverty line, or income inequality should be officially submitted to the United Nations Convention to Combat Desertification (UNCCD). Observed changes and their interpretation may be described in the “Qualitative Assessment” table of the PRAIS 4 platform. 
+
+Optionally, Parties may include additional information in the General Comment field to describe specific country situations. Sub-national disaggregated data (e.g., per administrative division, urban vs rural, affected areas or other socio-economic strata, e.g., sex-disaggregated data) may be useful to identify where the most significant poverty/income inequality hotspots/brightspots are located. 
+
+Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data. It would also be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale to adopt a different methodology.
+
+### 2.1.4. Dependencies
+
+Indicator SO 2-1 has no dependencies from other SO, however it could be used in the calculation of the Drought Vulnerability Index (DVI) for indicator SO 3-3.
+
+### 2.1.5. Challenges 
+
+_Data availability and quality_
+- International global data only generically describes the well-being of the population in a country and might not capture specific situations in need of consideration. More detailed sub-national data might be needed to represent the economic situation at the local level. 
+
+### 2.1.6. Summary (main actions)
+
+Key actions for reporting on indicator SO 2-1 are as follows:
+
+1.	**Choose the most suitable metric**: Parties are encouraged to choose the most suitable metric to represent the well-being of the population in their countries.
+
+2.	**Identify the relevant dataset**: Parties may decide to use the default data or alternative national sources.
+
+3.	**Report national annual values of the chosen metric and interpret the data**: Parties are invited to report, visualize and interpret the national annual data.
+
+4.	**Verify the results**: the reliability of the estimates from global data sources requires inputs from national experts to qualitatively assess the reliability of the estimates based on expert knowledge.
+
+5.	**Generate reports**: once verified by the Parties, the data and supporting narrative should be officially submitted to the UNCCD.
+
+### 2.1.7. Further reading
+
+- SDG indicator 1.1.1 metadata (https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf) 
+- Gini index metadata (https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SI.POV.GINI)
+
+ 
 
