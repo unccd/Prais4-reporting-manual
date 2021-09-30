@@ -53,7 +53,7 @@ _Table 15. Data specifications for SO 2-1 Indicator_
       <th colspan=2>Specifications</th>
     </tr>
     <tr>
-      <th>Default data<p>((Sustainable Development Goal indicator 1.1.1 data and Gini index World Bank data))</p></th>
+      <th>Default data<p>(Sustainable Development Goal indicator 1.1.1 data and Gini index World Bank data)</p></th>
       <th>National data</th>
     </tr>
     <tr>
@@ -134,5 +134,119 @@ Key actions for reporting on indicator SO 2-1 are as follows:
 - SDG indicator 1.1.1 metadata (https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf) 
 - Gini index metadata (https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SI.POV.GINI)
 
+## 2.2. SO 2-2 – Trends in access to safe drinking water in affected areas
+
+### 2.2.1. Introduction
+
+Having access to water is a key determinant of child survival, maternal and child health, family well-being and economic productivity. Accordingly, an increasing trend in access to safe drinking water would help improve the living conditions of affected populations.
+
+In order to quantify safely managed drinking water, the proportion of population using improved drinking water services is determined. This is currently being measured by the proportion of population using an improved basic drinking water source. ‘Improved’ drinking water sources are defined as piped (into dwellings, yards or plots; public taps or standpipes) and non-piped (boreholes or tube wells; protected dug wells; protected springs; rainwater; packaged or delivered water) sources which are located on the premises, available when needed, and free from fecal and priority chemical contamination.
+
+National reporting is facilitated through the provision of default data derived from the SDG database. The proportion of population using safely managed drinking water services is SDG indicator 6.1.1. The indicator is disaggregated by urban and rural populations, and expressed as a percentage. Custodian agencies for this indicator are the World Health Organization (WHO) and the United Nations Children's Fund (UNICEF) which, through the Joint Monitoring Programme (JMP) for Water, Sanitation and Hygiene (WASH), have produced regular estimates of national, regional and global progress on drinking water, sanitation and hygiene since 1990. 
+
+### 2.2.2. Prerequisites for reporting
+
+- An in-depth reading of the SDG indicator 6.1.1 metadata (see section 2.2.7).
+
+- Data complying with the specifications listed in table 16.
+
+- A pool of national experts officially nominated by the national authorities to verify the suitability and consistency of the default data against the situation in their country, or to identify and compile data using national sources for the three metrics. Key institutions might include a country’s national statistical office, ministry of health and ministry of water resources, as well as universities and research centres.
+
+### 2.2.3. Reporting process and step-by-step procedure
+
+The step-by-step procedure for reporting is described in the following.
+
+_Step 1: Identify the relevant dataset_
+
+Default data for this indicator is pre-filled from the SDG database (SDG indicator 6.1.1); estimates of the proportion of population using improved drinking water services are regularly produced by the WHO/UNICEF JMP. 
+
+Parties may also use national data, provided it complies with the data specifications listed in table 16. 
+
+_Table 16. Data specifications for SO 2-2 Indicator_
+
+<table BORDER=3 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <th rowspan=2>Item</th>
+      <th colspan=2>Specifications</th>
+    </tr>
+    <tr>
+      <th>Default data<p>(Sustainable Development Goal indicator 6.1.1 / World Health Organization / United Nations Children’s Fund Joint Monitoring Programme)</p></th>
+      <th>National data</th>
+    </tr>
+    <tr>
+      <th>Type of data</th>
+      <td>Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period 2000–2020.</td>
+      <td>Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period from 2000 to the latest available year for the reporting period.</td>
+    </tr>
+    <tr>
+      <th>Spatial resolution</th>
+      <td>Country level</td>
+      <td>Country or sub-national levels</td>
+    </tr>
+    <tr>
+      <th>Quality</th>
+      <td>Specified in the datasets’ metadata.</td>
+      <td>TTo be indicated in the dataset metadata.</td>
+    </tr>
+    <tr>
+      <th>Metadata</th>
+      <td>Metadata information is provided with default data.</td>
+      <td>Minimum metadata content as per the mandatory fields listed in Annex II.</td>
+    </tr>
+  </tbody>
+</table>
+</p>
+
+_Step 2: Report national annual values and interpret the data_
+
+<table BORDER=1 BORDERCOLOR=BLACK>
+  <tbody>
+    <tr>
+      <td><I>Related areas in the PRAIS 4 platform: tables SO2-2.T1 and SO2-2.T2</I></td>
+    </tr>
+  </tbody>
+</table>
+
+Parties opting to use an alternative source of national data may enter the relevant data in table SO2-2.T1. Parties may also provide information on the dominant change in the metric using the “Qualitative Assessment” table SO2-2.T2.
+
+To assist in the data interpretation, countries are encouraged to visualize their respective SDG Indicator 6.1.1 by means of a graph (graphs for each country, representing each disaggregation, i.e., % rural population, % urban population, % total population, are available to view and download from the [JMP](https://washdata.org/data/household#!/) and [World Bank](https://datatopics.worldbank.org/sdgs/index.html) websites).  While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table.
+
+_Step 3:  Verify the results_
+
+The reliability of the estimates from global data sources requires inputs from national experts to detect and highlight situations where the confidence level of the obtained results might be low. This input would contribute to a qualitative assessment of the reliability of the estimates. 
+
+_Step 4: Generate reports_
+
+Once verified by the Parties, the estimates of the proportion of population using safely managed drinking water services should be officially submitted to the UNCCD. 
+
+Disaggregated data for this metric (e.g., per administrative division, urban vs rural, affected areas or other socio-economic strata, e.g., sex-disaggregated data) may be useful to identify where the most significant hotspots/brightspots are located. Optionally, Parties may include additional information to describe specific country situations and provide more details on data interpretation.
+
+Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data. It would also be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale to adopt a different methodology. A General Comment field is provided in the PRAIS 4 platform for this purpose.
+
+### 2.2.4. Dependencies
+
+Indicator SO 2-2 has no dependencies from other SOs. However, it could be used in the calculation of the Drought Vulnerability Index (DVI) for indicator SO 3-3.
+
+### 2.2.5. Challenges 
+
+_Data availability and quality_
+- International global data only generically describes the well-being of the population in a country and might not capture specific situations in need of consideration. More detailed sub-national data might be needed to represent the economic situation at the local level. 
+
+### 2.2.6. Summary (main actions)
+
+Key actions for reporting on indicator SO 2-2 are as follows:
+
+1.	**Identify the relevant dataset**: Parties may decide to use the recommended default international data or alternative national sources.
+
+2.	**Report national annual values and interpret the data**: Parties are invited to report, visualize and interpret the national annual data.
+
+3.	**Verify the results**: the reliability of the estimates from global data sources requires inputs from national experts to qualitatively assess the reliability of the estimates based on expert knowledge.
+
+4.	**Generate reports**: once verified by the Parties, the data and supporting narrative should be officially submitted to the UNCCD.
+
+### 2.2.7. Further reading
+- SDG indicator 6.1.1 metadata (https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf)
  
+
 
