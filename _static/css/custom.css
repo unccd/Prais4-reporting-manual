@@ -20,3 +20,8 @@
   border: 1px solid rgb(225, 228, 229);
   padding: 1rem;
 }
+
+ins {
+  text-decoration: underline;
+  background-color: #fff;
+}

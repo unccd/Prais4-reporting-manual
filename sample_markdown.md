@@ -73,6 +73,12 @@ Use double asterisks for **bold text**. It also works with __double underscores_
 Use single asterisks or underscores for *italic* _text_.
 Use three asterisks for ***really important*** text.
 
+<ins>Underline text</ins> may work using the HTML `<ins>` tag.
+
+Same for <del>strikethrough</del> using the HTML `<del>` tag.
+
+Superscript <sup>text</sup> and subscript <sub>text</sub> can be produced using the `<sup>` and `<sub>` tags, respectively.
+
 
 ## Quoted text
 
