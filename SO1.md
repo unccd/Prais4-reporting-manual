@@ -567,7 +567,7 @@ Key actions for reporting on land cover changes are as follows:
 
 ### 1.1.7. Further reading
 
-- Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 3: Land cover and land cover change.  
+- Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 3: Land cover and land cover change (https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).  
 
 - Di Gregorio, A., & Jansen, L.J.M. (2000). Land cover classification system (LCCS). Classification concepts and user manual for software version 1.0. Rome: FAO (http://www.fao.org/3/y7220e/y7220e00.htm).
  
@@ -1121,7 +1121,7 @@ Key actions for reporting on land productivity dynamics are as follows:
 
 ### 1.2.7. Further reading
 
-- Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 4: Land productivity.  
+- Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 4: Land productivity (https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).  
 - Cherlet, M., Hutchinson, C., Reynolds, J., Hill, J., Sommer, S., von Maltitz, G. (Eds.), World Atlas of Desertification, Publication Office of the European Union, Luxembourg, 2018. 
 - Trend.Earth website documentation (https://trends.earth/docs/en/).
 
@@ -1354,7 +1354,7 @@ Key actions for reporting on SOC changes are as follows:
 
 #### 1.3.7. Further reading
 
-- Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 4: Land productivity.  
+- Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 5: Carbon Stock, Above and Below Ground (https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).  
 - IPCC, 2006. Eggleston, S., Buendia L., Miwa K., Ngara T., and Tanabe K. (Eds). 2006 IPCC Guidelines for National Greenhouse Gas Inventories. Intergovernmental Panel on Climate Change (IPCC)/Institute for Global Environmental Strategies (IGES), Hayama, Japan.
 - IPCC, 2013. Hiraishi, T., Krug, T., Tanabe, K., Srivastava, N., Baasansuren, J., Fukuda, M. and Troxler, T.G. (Eds). 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands. Intergovernmental Panel on Climate Change (IPCC), Switzerland.
 - IPCC. 2019. Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. In: Buendia, E., Tanabe, K., Kranjc, A., Baasansuren, J., Fukuda, M., Ngarize, S., Osako, A., Pyrozhenko, Y., Shermanau, P., Federici, S. (eds). Intergovernmental Panel on Climate Change, Geneva, Switzerland.
@@ -1504,7 +1504,7 @@ Key actions for reporting on the SDG indicator 15.3.1 are as follows:
 
 ### 1.4.6. Further reading
 
-- Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 2: SDG Indicator 15.3.1: Proportion of land that is degraded over total land area.  
+- Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 2: SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).  
 - Scientific Conceptual Framework for Land Degradation Neutrality (https://knowledge.unccd.int/publication/ldn-scientific-conceptual-framework-land-degradation-neutrality-report-science-policy).
 
 
