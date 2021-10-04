@@ -325,3 +325,111 @@ _Figure 4. Decision tree to help Parties choose the best tier of vulnerability a
 ![](/img/SO3_3b_Decision_tree.jpg "DVI: Drought Vulnerability Index
 VA: Vulnerability Assessment
 ")
+
+_Table 21. Data specifications for SO3-3 Indicator_
+
+**Table**
+
+_Step 2:  Factor normalization_
+
+In all tiers of VA, factors should be normalized before they can be compared and aggregated, as the vulnerability factors used are all measured using different units.
+
+The UNCCD recommends normalizing factors using the maximum and minimum values within the country using all historic data up to, and including, the reporting period. This provides the largest range possible, ensuring that the maximum and minimum values are representative for the country. 
+
+Each time the DVI is calculated to report indicator SO 3-3, the factor range (i.e., the minimum and maximum values) should be recalculated, and if values on the reporting periods fall out outside the range, the factor should be re-normalized using the new range.
+
+Where there is a positive correlation/relationship between vulnerability and the factor[^3]  (i.e., if the factor value increases, vulnerability also increases), the data should be normalized using the equation below: 
+
+Factor =  (Xi - Xmin)/(Xmax - Xmin)
+
+Where:
+Xi is the value of the considered factor in the year “i”
+Xmin is the minimum value of the considered factor observed in the entire time series
+Xmax is the maximum value of the considered factor observed in the entire time series
+
+In case of negative correlation/relationship between vulnerability and the factor, the equation is:
+
+Factor = 1 - ((Xi - Xmin)/(Xmax - Xmin))  
+
+After normalization, all factors have a value of between zero and one, relative to the historical maximum and minimum of the country.
+
+Normalization of sex-disaggregated data for Tier 1 and 2 VA uses the same formulas described above, applied once for each piece of sex-related data.
+
+For sub-national level data (Tier 3 VA), the calculation should be applied to the data from all spatial units (e.g., administrative units) combined, and the factor range should reflect the minimum and maximum values of the whole country.
+
+For the default DVI, each factor was normalized using the global maximum and minimum values, rather than historical ranges for the given country. Normalization at the global scale means the resulting vulnerability assessment is less sensitive to the local/in-country situation than when the national range is used.
+
+[^3]: See Table 13 of the Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3 indicating relationship of the 13 recommended factors with vulnerability
+
+_Step 3: Derive the Drought Vulnerability Index components_
+
+This step aims to derive aggregated values for each of the three DVI components. For Parties adopting the Tier 1 VA approach, the values of the factor normalized in Step 2 are also representative of the corresponding component. Instead, Tier 2 and Tier 3 VAs require the calculation of the arithmetic mean of the normalized factors to derive the aggregated value of each component.
+
+The result of this step is a single value for each component and each geographic unit of the country. If sex-disaggregated data is used, separate values for male and female are produced for each component. 
+
+Parties may assign weights to the vulnerability factors if their relative importance and relevance is known. It is recommended to apply the weights to the vulnerability factors and not to the three components.
+ 
+_Step 4:  Calculate the Drought Vulnerability Index_
+
+**Table**
+
+In all tiers of VA, the three components (Csocial, Ceconomic and Cinfrastructural) derived in the previous steps are used to produce the DVI by calculating their mean value.
+DVI = (Csocial + Ceconomic + Cinfrastructural) / 3
+
+The DVI ranges from 0 to 1, with 1 being the most vulnerable. 
+
+A Tier 1 VA would result in one DVI at country-level for each reporting period. For Tier 2 and 3 VAs, where sex-disaggregated factors are used, it is recommended that sex-specific DVIs are also calculated, in addition to the country-level DVI. Hence, a Party would report at least three DVI values for each reporting period, i.e., for the total, female and male populations. For sub-national or gridded components under Tier 3 VA, the DVI is to be calculated for the smallest spatial unit separately for males, females and total populations. 
+
+_Step 5:  Verify the results_
+
+The DVI method has not yet been validated at the local or national scale and, as such, may not accurately characterize vulnerability at these scales, either in terms of the factors most relevant to each country or the most effective factor weighting scheme. Therefore, Parties may verify the appropriateness of the default factors and add relevant ones as needed. The weighting scheme should also be thoroughly considered to improve results at national and subnational level.
+
+Moreover, the most vulnerable populations and underrepresented groups should be involved in the determination of the factors to be used to calculate the components, in order to develop a country-specific and more effective index. 
+
+_Step 6: Generate reports_
+
+Once verified by the Parties, the estimated vulnerability values for the reporting and baseline periods should be officially submitted to the UNCCD. Information on the method used (selected tier and factors per component) should be reported using the dedicated “Method” field in the PRAIS 4 platform. Observed changes and their interpretation may be described in the “Qualitative Assessment” table of the PRAIS 4 platform (table SO3-3.T2).  
+
+Maps generated in Trends.Earth using national data under Tier 3 VA and representing vulnerability to drought for the baseline/reporting period can be uploaded to the PRAIS 4 platform. More specifically, it is recommended to upload the following maps:
+
+- Drought Vulnerability in the baseline period (2000–2015)
+- Drought Vulnerability in the reporting period (2016–2019)
+
+Information on data sources, data accuracy and any weighting scheme applied to the vulnerability factors can be submitted using the “General Comment” field. It would also be beneficial to report on special cases and issues, describing situations where values might be less reliable and providing the rationale to include different factors. 
+
+### 3.3.4. Dependencies
+
+SO 2-1 and SO 2-2 can be used for the calculation of SO 3-3.
+
+### 3.3.5. Challenges 
+
+_Data availability and quality_
+
+- The availability of data for the considered factors varies substantially from country to country and the complete set of recommended data might not be accessible everywhere.  
+Methodological approach
+
+- The reliability of the DVI method at national and sub-national levels is still to be verified. 
+
+- Due to the methods used for factor normalization (i.e., using in-country historic data), DVI values should not be compared between countries.
+
+- Assuming a consistent methodology has been used over time, changes in the DVI may reflect the efficacy of drought mitigation and adaptation policies, but they may also reveal the impacts of social and economic changes disconnected from drought management measures.
+
+### 3.3.6. Summary (main actions)
+
+Key actions for reporting population vulnerable to drought hazard are as follows:
+
+1.	**Select tier of vulnerability assessment based on data availability**: Parties are encouraged to opt for one of the three Tiers of VA based on data availability. In the absence of data to calculate the minimum Tier 1 VA, Parties may use the default data. National/regional data products used to calculate the DVI should comply with the specifications listed in table 21. If Parties use national/regional data products, they should follow Steps 2 to 4 below:
+
+2.	**Factor normalization**: factors for each vulnerability component should be normalized before they can be compared and aggregated, as the vulnerability factors used are all measured using different units.
+
+3.	**Derive the DVI components**: the aggregated values for each of the three DVI components are calculated as the arithmetic mean of the normalized factors.
+
+4.	**Calculate the DVI**: the three components – social, economic and infrastructural – derived in the previous steps are used to produce the DVI by calculating their mean value.
+
+5.	**Verify the results**: aware of the fact that the DVI method has not yet been validated at the local or national scale, Parties may verify the appropriateness of the default factors and add relevant ones as needed before officially submitting estimates for UNCCD reporting.
+
+6.	**Generate reports**: once verified by the Parties, the data and supporting narrative for the reporting and baseline periods should be officially submitted to the UNCCD.
+
+### 3.3.7. Further reading
+
+- Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3. Chapter 3. Level 3 Indicator (https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf). 
