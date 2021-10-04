@@ -276,4 +276,41 @@ Key actions for reporting population exposure to drought hazard are as follows:
 ### 3.2.7. Further reading
 - Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3. Chapter 2. Level 2 Indicator (https://www.unccd.int/publications/good-practice-guidance-national-reporting-unccd-strategic-objective-3-mitigate-adapt)
 
+## 3.3. SO 3-3 – Trends in the degree of drought vulnerability
+
+### 3.3.1. Introduction
+
+The UNCCD approach to assessing drought vulnerability is based on a composite index, the Drought Vulnerability Index (DVI), which incorporates three components to reflect the vulnerability of the population of an individual country to drought: i) social, ii) economic and iii) infrastructural. The DVI does not, at present, address ecological or ecosystem vulnerability.
+
+The DVI may be derived through three alternative processes, corresponding to three increasing levels of computational complexity:
+
+- Tier 1 Vulnerability Assessment (VA) – uses at least one factor per vulnerability component, represented by country-level metrics.
+
+- Tier 2 VA – uses more than one factor per vulnerability component, where the factors are represented by country-level metrics, with the inclusion of sex-disaggregated data (where applicable).
+
+- Tier 3 VA – uses more than one factor per vulnerability component, where factors are represented by sub-national metrics (which may be gridded or for administrative regions  ), with the inclusion of sex-disaggregated data (where applicable).
+
+Parties may opt for the approach best suited to their current capacity to collect and process data, subject to data availability.
+
+The UNCCD provides Parties with default data derived from the global DVI dataset of the European Commission Joint Research Centre (JRC) to facilitate the reporting process. This data is based on globally available datasets and should be used in the absence of more accurate data at national level.
+
+### 3.3.2. Prerequisites for reporting
+
+- An in-depth reading of chapter 3 of the “Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3: To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems” detailing the methodology used to estimate drought vulnerability.
+
+- Data complying with the specifications listed in table 21.
+
+- A pool of national experts officially nominated by the national authorities to verify the consistency of the results of the reporting process against the situation in the field, or to develop and implement a custom methodology to estimate indicator SO 3-3 where national data is preferred to the default data. The key institution in this case is a country’s national statistical office, however universities and research centres may also provide valuable inputs.
+
+### 3.3.3. Reporting process and step-by-step procedure
+
+The step-by-step procedure for reporting is described in the following and applies to both the baseline and reporting periods. If the default data is used, Steps 2 to 4 are unnecessary.
+
+_Step 1: Select tier of vulnerability assessment based on data availability_
+
+The vulnerability factors recommended by the UNCCD to derive the DVI (listed in figure 3) provides a snapshot of a Party’s socio-economic vulnerability to drought. The three core factors that have been recommended for the minimum Tier 1 VA – ‘Literacy rate (% of people aged 15 and above)’, ‘Proportion of population below the international poverty line’ and the ‘Proportion of population using safely managed drinking water services’ – were selected because they were identified by experts as critical to understanding vulnerability and due to their use for other reporting requirements such as SO 2 and the Sustainable Development Goals.
+
+_Figure 3. Social, economic, and infrastructural components and their associated factors recommended for calculating the Drought Vulnerability Index_
+
+![](/img/SO3_3_Decision_tree.jpg)
 
