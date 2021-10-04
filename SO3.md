@@ -314,3 +314,12 @@ _Figure 3. Social, economic, and infrastructural components and their associated
 
 ![](/img/SO3_3_Decision_tree.jpg)
 
+The UNCCD provides default data from the global DVI dataset of the JRC. The method used to derive the default DVI is similar to the one presented in this manual and in the “Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3”, but presents some key differences in terms of the normalization method (see Step 2) and number of factors included. Two additional factors are used in the default DVI: “Disaster Prevention and Preparedness (US$/Year/Capital)” and “Global map of Accessibility: Travel time to major cities”. The default DVI value represents the median DVI across the country for the period 2000–2018.
+
+Country Parties that do not have data available to calculate the minimum Tier 1 VA can report using the default DVI data. However, it is recommended that efforts are made over successive reporting cycles to move up the tiers of VA in order to increase the sensitivity of the DVI and improve the granularity of the assessment. The decision tree in figure 4 helps Parties select the tier of VA based on data availability.
+
+National/regional data products used to calculate the DVI should conform with the specifications listed in table 21. 
+
+_Figure 4. Decision tree to help Parties choose the best tier of vulnerability assessment for the SO 3-3 Indicator reporting according to data availability_
+
+
