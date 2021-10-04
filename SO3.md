@@ -322,4 +322,6 @@ National/regional data products used to calculate the DVI should conform with th
 
 _Figure 4. Decision tree to help Parties choose the best tier of vulnerability assessment for the SO 3-3 Indicator reporting according to data availability_
 
-
+![](/img/SO3_3b_Decision_tree.jpg "DVI: Drought Vulnerability Index
+VA: Vulnerability Assessment
+")
