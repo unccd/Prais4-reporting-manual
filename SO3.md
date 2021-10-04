@@ -125,11 +125,11 @@ SO 3-1 outputs are also used as an input for calculating indicator SO 3-2.
 
 ### 3.1.5. Challenges 
 
-Data availability and quality
+_Data availability and quality_
 
 - Internationally available precipitation data might not be sufficiently accurate to estimate the intensity of drought hazard at national level. The use of national data is recommended because it is assumed to be more precise and reliable. However, national precipitation data might not be readily available in digital form and/or might be affected by gaps in the time series.
 
-Limitations of the SPI-based estimates
+_Limitations of the SPI-based estimates_
 
 - While the SPI is recommended as a well-established, flexible and robust drought index to quantify drought hazard on a global scale, it only quantifies the meteorological deficits, since it is solely based on precipitation, and other types of drought (e.g., hydrological, agricultural) may not be well captured. Moreover, in regions with very low and/or a high proportion of months with zero precipitation, the SPI values should be used and interpreted with caution; the application of the SPEI might be more appropriate in such regions. Being aware of this limitation, the national expert may highlight areas where estimates based on the SPI may not produce sufficiently accurate results and may base the estimates on alternative indexes.
 
@@ -141,19 +141,52 @@ Limitations of the SPI-based estimates
 
 Key actions for reporting drought hazard intensity values are as follows:
 
-1.	Select precipitation dataset: Parties may decide to use the default data or alternative national sources, provided they comply with the data specifications listed in table 18. If Parties decide to use alternative data sources, they should follow Steps 2 to 5 below:
+1.**Select precipitation dataset**: Parties may decide to use the default data or alternative national sources, provided they comply with the data specifications listed in table 18. If Parties decide to use alternative data sources, they should follow Steps 2 to 5 below:
 
-2.	Calculate the SPI: the SPI should be derived for all months in the full available time series; however, Parties may choose alternative indexes better suited to their local environmental conditions.
+2.	**Calculate the SPI**: the SPI should be derived for all months in the full available time series; however, Parties may choose alternative indexes better suited to their local environmental conditions.
 
-3.	Identify the drought intensity class of each grid cell: based on the SPI calculation, the number of cells belonging to each of the SPI drought intensity classes should be counted and converted to areas by projecting the drought intensity class grids into a suitable equal area projection, and calculating the total areas under each drought intensity class in km2. Data is then reported in table SO3-1.T1.
+3.	**Identify the drought intensity class of each grid cell**: based on the SPI calculation, the number of cells belonging to each of the SPI drought intensity classes should be counted and converted to areas by projecting the drought intensity class grids into a suitable equal area projection, and calculating the total areas under each drought intensity class in km2. Data is then reported in table SO3-1.T1.
 
-4.	Calculate proportion of land under drought: the proportion of land in each drought intensity class and the overall proportion of land under drought over the total land area are calculated for each reporting year and reported in tables SO3-1.T1 and SO3-1.T2.
+4.	**Calculate proportion of land under drought**: the proportion of land in each drought intensity class and the overall proportion of land under drought over the total land area are calculated for each reporting year and reported in tables SO3-1.T1 and SO3-1.T2.
 
-5.	Create a gridded spatial summary for the baseline and reporting periods: data for the entire time series from 2000 to 2019 should be summarized spatially using the gridded SPI-12 data in four-year intervals (2000–2003, 2004–2007, 2008–2011, 2012–2015 and 2016–2019) to map the most extreme conditions in each period.
+5.	**Create a gridded spatial summary for the baseline and reporting periods**: data for the entire time series from 2000 to 2019 should be summarized spatially using the gridded SPI-12 data in four-year intervals (2000–2003, 2004–2007, 2008–2011, 2012–2015 and 2016–2019) to map the most extreme conditions in each period.
 
-6.	Verify the results: aware of the limitations related to the adoption of the SPI for estimating drought intensity, Parties may verify the suitability of such an index to describe drought occurrence and intensity in their countries before officially submitting estimates for UNCCD reporting.
+6.	**Verify the results**: aware of the limitations related to the adoption of the SPI for estimating drought intensity, Parties may verify the suitability of such an index to describe drought occurrence and intensity in their countries before officially submitting estimates for UNCCD reporting.
 
-7.	Generate reports: once verified by the Parties, the data and supporting narrative for the reporting and baseline periods should be officially submitted to the UNCCD.
+7.	**Generate reports**: once verified by the Parties, the data and supporting narrative for the reporting and baseline periods should be officially submitted to the UNCCD.
 
 ### 3.1.7. Further reading
+
 - Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3. Chapter 1. Level 1 Indicator (https://www.unccd.int/publications/good-practice-guidance-national-reporting-unccd-strategic-objective-3-mitigate-adapt) 
+
+## 3.2. SO 3-2 – Trends in the proportion of the total population exposed to drought
+
+### 3.2.1. Introduction
+
+Indicator SO 3-2 defines the exposure of the population to drought hazard (identified by indicator SO 3-1) as the total count of people exposed as well as the percentage of the total population exposed. This indicator may be further disaggregated by sex if data is available. 
+
+The method of computation uses the spatial distribution of the population or sub-population group (i.e., by sex) to establish its exposure to drought, based on the location and extent of the drought intensity classes as determined by indicator SO 3-1. Using this information, the percentage of the total population located within each drought intensity class, as well as the percentage of the total population exposed to drought (i.e., to all drought intensity classes), is calculated and reported.
+National reporting is facilitated though the provision of default data.
+
+### 3.2.2. Prerequisites for reporting
+
+- An in-depth reading of chapter 2 of the “Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3: To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems” detailing the methodology used to estimate drought exposure.
+
+- Data complying with the specifications listed in figure 2 and table 20.
+
+- A pool of national experts officially nominated by the national authorities to verify the consistency of the results of the reporting process against the situation in the field, or to develop and implement a custom methodology to estimate indicator SO 3-2 where national data is preferred to default data. The key institution in this case is a country’s national statistical office, however universities and research centres may also provide valuable inputs.
+
+### 3.2.3. Reporting process and step-by-step procedure
+
+The step-by-step procedure for reporting is described in the following. If the default data is used, Steps 2 to 4 are unnecessary.
+
+_Step 1: Select the population dataset_
+
+Suitable data for the calculation of indicator SO 3-2 is a spatially gridded population product, or a georeferenced set of sub-national population data that covers the full extent of the country. It must represent the number of people living in each location (grid cell), ideally annually, within the baseline and reporting periods. Where possible, data should be disaggregated by sex.
+
+There are various publicly available, fine-resolution population datasets available at the global scale and two of these, WorldPop and Gridded Population of the World, version 4 (GPWv4), are recommended by the UNCCD for deriving indicator SO 3-2. However, WorldPop is provided to country Parties by default.  
+
+Parties wishing to use in-country or regional datasets can use the decision tree in figure 2 to assess whether the in-country (or regional) population data is more appropriate to derive indicator SO 3-2 over the globally available datasets.  
+
+_Figure 2. Decision tree to help Parties choose the best population data source to derive indicator SO 3-2_
+
