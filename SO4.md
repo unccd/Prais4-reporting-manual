@@ -93,4 +93,113 @@ Key actions for reporting on RLI are as follows:
 - Butchart et al (2010) Global Biodiversity: Indicators of Recent Declines, Science, 328 (5982), pp. 1164–1168 (https://science.sciencemag.org/content/328/5982/1164). 
 
 
+## 4.3. SO 4-3 Trends in protected area coverage of important biodiversity areas
+
+### 4.3.1. Introduction 
+
+Protecting important sites for biodiversity is critical to halting the decline in biodiversity and ensuring the long-term and sustainable use of terrestrial natural resources. Establishing protected areas is an important mechanism for achieving this aim, and this indicator measures progress toward the conservation, restoration and sustainable use of terrestrial ecosystems and their services.
+
+Protected areas as defined by the IUCN  are clearly defined geographical spaces, recognized, dedicated and managed, through legal or other effective means, to achieve the long-term conservation of nature with associated ecosystem services and cultural values. A variety of specific management objectives and levels of access are recognized within this definition, spanning conservation, restoration and sustainable use.
+
+In addition to protecting biodiversity, protected areas have high social and economic value because they support local livelihoods, protect watersheds from erosion, contain a wealth of genetic resources, support recreation and tourism industries, provide for science, research and education, and contain many cultural and other non-material values.
+
+The metric average proportion of terrestrial Key Biodiversity Areas (KBAs) covered by protected areas, which is SDG indicator 15.1.2b, shows temporal trends in the mean percentage of each important site for terrestrial biodiversity (i.e. those that contribute significantly to the global persistence of biodiversity) that is covered by designated protected areas. 
+
+The metadata for SDG indicator 15.1.2 includes other effective area-based conservation measures (OECMs) in addition to protected areas. OECMs are defined as ‘a geographically defined area other than a protected area, which is governed and managed in ways that achieve positive and sustained long-term outcomes for the in situ conservation of biodiversity, with associated ecosystem functions and services and where applicable, cultural, spiritual, socio-economic, and other locally relevant values’. 
+
+KBAs are sites that contribute significantly to the global persistence of biodiversity and are identified following global criteria  applied at national levels. The KBAs include:
+
+i.	Important bird and biodiversity areas, which are sites that contribute significantly to the global persistence of biodiversity, identified using data on birds, of which >13,000 sites in total have been identified from all of the world’s countries;
+
+ii.	Alliance for Zero Extinction sites, which are sites holding effectively the entire population of at least one species assessed as critically endangered or endangered on the IUCN Red List of Threatened Species. 853 sites have been identified for 1,483 species of mammals, birds, amphibians, reptiles, freshwater crustaceans, reef-building corals, conifers, cycads and other taxa; and
+
+iii.	KBAs identified using an earlier version of the KBA criteria, including those identified in ecosystem hotspot profiles developed with the support of the Critical Ecosystem Partnership Fund.
+
+Data on protected areas are managed in the World Database on Protected Areas by the UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC).  
+
+Data on OECMs are managed in the World Database on OECMs by the UNEP-WCMC. 
+
+Data on KBAs are managed in the World Database of Key Biodiversity Areas by BirdLife International on behalf of the Key Biodiversity Areas Partnership.  
+
+The main output of the reporting process for SO 4-3 is a set of officially verified annual estimates of the values of average proportion of terrestrial KBAs covered by protected areas for 2000–2020. National reporting is facilitated through the provision of default data pre-filled from the SDG database for indicator 15.1.2b.
+
+### 4.3.2. Prerequisites for reporting
+
+- An in-depth reading of the SDG indicator 15.1.2 metadata document;
+
+- Consultation with national experts on KBA and protected areas, CBD national focal points, national statistical offices, IUCN State Members and KBA regional focal points.
+
+### 4.3.3. Reporting process and step-by-step procedures
+
+The step-by-step procedure for reporting is described in the following.
+
+_Step 1: Report indicator data_
+
+**Table**
+
+Default data for this indicator is pre-filled in table SO4-3.T1 from the SDG database (SDG indicator 15.1.2b), including the national-level value as well as the upper and lower bounds of uncertainty around the national estimate.  For data specifications for the SO 4-3 indicator, see the official metadata for SDG indicator 15.1.2. 
+
+A Party may choose to report using the default data or alternative national data sources, if available. Any deviation from the guidance provided should be reported and justified in the ‘Comment’ column of the reporting table.
+
+_Step 2: Qualitatively assess the results_
+
+**Table**
+
+Parties are encouraged to provide comments on the interpretation of the indicator, including the direction of indicator change. While it may be difficult to attribute specific causal factors to changes in the indicator, countries are encouraged to indicate which direct and/or indirect drivers are presumably behind the observed changes using the comment box in table SO4-3.T2 in the PRAIS 4 platform.
+
+_Step 3: Verify the results_
+
+The reliability of the default SO 4-3 indicator data needs to be verified by national experts to detect and highlight situations where the confidence level of the obtained results might be low. This would qualitatively assess the reliability of the estimates based on expert knowledge and on a correct interpretation of the data. 
+
+_Step 4: Generate reports_
+
+Once verified by the Parties, the estimates of the SO 4-3 indicator as well as the qualitative assessment should be officially submitted to UNCCD.    
+
+Parties have the option to include additional information in the ‘General Comments’ field to add any relevant information or to report on specific country or regional situations. 
+
+### 4.3.4. Dependencies 
+
+The SO 4-3 indicator has no interdependencies with other SOs. 
+
+### 4.3.5. Challenges
+
+_Data availability and quality_
+
+- KBAs focus mainly on subsets of biodiversity such as birds and highly threatened species. There are plans to improve KBAs with wider taxonomic coverage.
+
+_Data interpretation_
+
+- This indicator and metric are very intuitive and only minor challenges exist. The reporting Party should understand where and why there are KBAs in their country, otherwise the metric will have less meaning. 
+
+- Data on KBAs and protected areas is generally widely available; however, challenges exist at the national level in ensuring the designated protected areas are effective at reducing biodiversity loss.
+
+### 4.3.6. Summary
+
+Key actions for reporting on RLI are as follows: 
+
+1.	**Report indicator data**: Parties can use the default data or can choose to report using national data.
+
+2.	**Qualitatively assess the results**: Changes in the indicator should be described in table SO4-3.T2. 
+
+3.	**Verify the results**: Aware of the limitations of the SO 4-3 indicator values, Parties may verify the accuracy and reliability of such indicator in their countries before officially submitting estimates for UNCCD reporting. 
+
+4.	**Generate reports**: Once verified by the Parties, the data and supporting narrative should be officially submitted to UNCCD.
+
+### 4.3.7. Further reading
+
+- SDG indicator 15.1.2 metadata document (https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf).
+
+- Butchart, S. H. M. et al. (2012). Protecting important sites for biodiversity contributes to meeting global conservation targets. PLoS One 7(3): e32529 (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032529).
+
+- Eken, G. et al. (2004). Key biodiversity areas as site conservation targets. BioScience 54: 1110–1118 (http://bioscience.oxfordjournals.org/content/54/12/1110.short).
+
+- IUCN (2016). A Global Standard for the Identification of Key Biodiversity Areas. International Union for Conservation of Nature, Gland, Switzerland (https://portals.iucn.org/library/node/46259). 
+
+- Donald, P. et al. (2018) Important Bird and Biodiversity Areas (IBAs): the development and characteristics of a global inventory of key sites for biodiversity. Bird Conservation International. 29:177–198. 
+
+- Ricketts, T. H. et al. (2005). Pinpointing and preventing imminent extinctions. Proceedings of the National Academy of Sciences of the U.S.A. 102: 18497–18501 (http://www.pnas.org/content/102/51/18497.short).
+
+- Langhammer, P. F. et al. (2007). Identification and Gap Analysis of Key Biodiversity Areas: Targets for Comprehensive Protected Area Systems. IUCN World Commission on Protected Areas Best Practice Protected Area Guidelines Series No. 15. IUCN, Gland, Switzerland (https://portals.iucn.org/library/node/9055).
+
+
 
