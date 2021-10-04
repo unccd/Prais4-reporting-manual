@@ -190,3 +190,90 @@ Parties wishing to use in-country or regional datasets can use the decision tree
 
 _Figure 2. Decision tree to help Parties choose the best population data source to derive indicator SO 3-2_
 
+![](/img/SO3_2_Decision_tree.jpg)
+
+This decision-making process should help Parties identify data that meets the specifications summarized in table 20. 
+
+_Table 20. Data Specifications for SO3-2 Indicator_
+
+**Table**
+
+_Step 2:  Overlay gridded population data with indicator SO 3-1 spatial output_
+
+Indicator SO 3-2 is calculated by overlaying the population data on the hazard intensity spatial data for each year. Gap years should be filled with the closest available population data. For example, if the 2019 data is missing, it should be replaced by the 2020 data (or the closest available year), then 2020 data would be used for both 2019 and 2020. In addition to the total population, sex-disaggregated population data grids, if available, should be used in the overlay process to generate sex-disaggregated drought exposure values.
+
+Population and drought hazard intensity data should have the same coordinate reference system and projection, which should be consistent across the reporting periods.
+ 
+_Step 3: Calculate the total population and the number and percentage of people within each drought intensity class_
+ 
+**Table**
+
+The yearly total population is obtained by adding the population residing in each land unit (e.g., grid cell) of a country area for each year within the baseline and the reporting periods (i.e., from 2000 to the reporting year). 
+
+Using the outputs of Step 2, the number of people falling within each of the four drought intensity classes, as well as the total number of people exposed to drought (i.e., to all drought intensity classes), can be estimated for each year. The respective percentages are then calculated out of the total population.
+
+Similarly, if sex disaggregated data is used, the number of males and females that lie within each drought intensity class, as well as the total number of males and females exposed to drought, can also be calculated. The percentage share between female and male is then calculated out of the total number of people exposed to each drought intensity class and to drought overall for each year. Note that the share within each drought intensity class should equal to 100 per cent.  
+
+_Step 4:  Create a gridded spatial summary in four-year epochs_
+
+In addition to the annual values of indicator SO 3-2, a gridded spatial summary for the entire reporting period is also produced. This gridded spatial summary output gives an indication of the number of people exposed to the most extreme drought intensity class over the four-year reporting period for each grid cell.
+
+To summarize the reporting period spatially, the most recent population dataset from the current reporting period is overlaid on the output generated for indicator SO 3-1 in Step 5, which represents the most extreme drought intensity class for each year within the reporting period.
+
+Similarly, baseline exposure summary spatial data products are generated for each of the four-year baseline periods (i.e., 2000–2003, 2004–2007, 2008–2011 and 2012–2015) by overlaying the most recent population data of each group of years on the output generated for indicator SO 3-1 in Step 5. 
+These gridded spatial summaries give an indication of the number of people exposed to the most extreme drought intensity class in four-year epochs. 
+
+_Step 5:  Verify the results_
+
+The methodology only considers population density and distribution and does not cover ecosystem exposure to drought. A more comprehensive measure of drought exposure may take into account other physical entities at risk, such as agricultural yields, livestock counts, sectoral water and certain types of vegetation. In addition, being exposed to drought does not equate to drought vulnerability. 
+
+Parties should be aware of these limitations and critically review the results before submitting the reports to the UNCCD.
+ 
+_Step 6: Generate reports_
+
+Once verified by the Parties, the estimated population exposure to drought hazard values for the reporting and baseline periods should be officially submitted to the UNCCD. Observed changes and their interpretation may be described in the “Qualitative Assessment” field of the PRAIS 4 platform. 
+
+Default maps or maps generated in Trends.Earth using national data representing population exposed to drought for the baseline/reporting period are made available in the PRAIS 4 platform. More specifically, the following maps will be available online:
+
+- Total population exposed to drought in first epoch of baseline period (2000–2003)
+- Total population exposed to drought in second epoch of baseline period (2004–2007)
+- Total population exposed to drought in third epoch of baseline period (2008–2011)
+- Total population exposed to drought in fourth epoch of baseline period (2012–2015)
+- Total population exposed to drought in the reporting period (2016–2019)
+
+These maps show the most extreme drought intensity class a population was exposed to within each epoch, as explained in Step 4.
+
+Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data using the “General Comment” field. It would also be beneficial to report on special cases and issues, describing situations where values might be less reliable and providing the rationale to adopt a different methodology
+
+### 3.2.4. Dependencies
+
+Drought exposure data relies on the SO 3-1 spatial outputs.
+
+### 3.2.5. Challenges 
+
+_Data availability and quality_
+
+- The WorldPop sex-disaggregated national datasets are offered as several individual rasters, each representing an age/sex class per year. This amounts to a large volume of spatial data in Geotiff format. Capacity in raster data processing and access to appropriate computing power, e.g., a cloud service, is required to store and process the data, especially for large countries. The UNCCD is developing a procedure for the bulk pre-processing of raster data, which will eventually make sex-disaggregated data available on the PRAIS 4 platform as default data. Parties will be notified when the challenge is solved and the forms pre-filled with the default data. 
+
+- Global data quality and resolution might not be sufficiently accurate for national population estimates. The integration of global and national data might improve the quality and accuracy of the results but will require additional processing capacity and technical skills.  
+ 
+### 3.2.6. Summary (main actions)
+
+Key actions for reporting population exposure to drought hazard are as follows:
+
+1.	**Select the population dataset**: Parties may decide to use the default data or alternative national sources, provided they comply with the data specifications listed in table 20. If Parties decide to use alternative data sources, they should follow Steps 2 to 4 below:
+
+2.	**Overlay population data on indicator SO 3-1 spatial output**: indicator SO 3-2 is calculated by overlaying the yearly population data on yearly hazard intensity data derived from the SO 3-1 analysis.
+
+3.	**Calculate the total population as well as the number and percentage of people within each drought intensity class**: the entire population exposed to drought and the population exposed to each of the drought intensity classes are estimated and reported as a population count and percentage of the total population. 
+
+4.	**Create a gridded spatial summary of indicator SO 3-2 in four-year epochs**: the gridded spatial summary for each four-year epoch provides information on the number of people exposed to the most extreme drought intensity class over each four-year epoch, from 2000 to the reporting year, at the scale of the grid cell. These four-year periods should be consistent with the gridded spatial summaries reported at SO 3-1.
+
+5.	**Verify the results**: aware of the limitations of the estimated values of drought exposure, Parties may verify the accuracy and reliability of such an indicator in their countries before officially submitting estimates for UNCCD reporting.
+
+6.	**Generate reports**: once verified by the Parties, the data and supporting narrative should be officially submitted to the UNCCD.
+
+### 3.2.7. Further reading
+- Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3. Chapter 2. Level 2 Indicator (https://www.unccd.int/publications/good-practice-guidance-national-reporting-unccd-strategic-objective-3-mitigate-adapt)
+
+
