@@ -35,6 +35,6 @@ Parties wishing to use in-country data provided by the NMHS or regional, rather 
 
 _Figure 1. Decision tree to help Parties chose the best precipitation data source to derive indicator SO 3-1_
 
-![Alt-text for the first image](/images/SO3 Decision tree.jpg "This is the tooltip")
+![Alt-text for the first image](/img/SO3 Decision tree.jpg "This is the tooltip")
 
 
