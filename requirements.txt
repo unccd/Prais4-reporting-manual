@@ -39,6 +39,8 @@ jinja2==3.0.1
     #   myst-parser
     #   readthedocs-sphinx-ext
     #   sphinx
+linkify-it-py==1.0.1
+    # via -r requirements.in
 markdown==3.3.4
     # via sphinx-markdown-tables
 markdown-it-py==1.1.0
@@ -104,6 +106,8 @@ typing-extensions==3.10.0.2
     # via
     #   importlib-metadata
     #   markdown-it-py
+uc-micro-py==1.0.1
+    # via linkify-it-py
 urllib3==1.26.7
     # via requests
 zipp==3.6.0

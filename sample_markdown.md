@@ -73,6 +73,7 @@ Use three asterisks for ***really important*** text.
 <ins>Underline text</ins> may work using the HTML `<ins>` tag.
 
 Same for {strike}`strikethrough` using the `{strike}` or `{del}` annotation.
+Or use this other way to add ~~strikethrough~~ text.
 
 Superscript {sup}`text` and subscript {sub}`text` can be produced using the `{sup}` and `{sub}` annotations, respectively.
 
@@ -147,12 +148,63 @@ Term 3
 
 ```
 
+## Definition lists - provided by `deflist` plugin
+
+See `myst_enable_extensions` in `conf.py`.
+
+Term 1
+: Definition
+
+Term 2
+: Definition
+
+## Math formulas
+
+{math}`x_{base}=it+is^{pow}`
+
+Or, using the `$` sign (provided by the `dollarmath` plugin): $x_{base}=it+is^{pow}$
+
 ## Tables (Markdown style)
 
 | Column 1 |   Column 2 |
 | -------- | ---------- |
 | Header     | Title       |
 | Paragraph     | Text        |
+
+## Grid table (allows colspan and rowspan)
+
+```{eval-rst}
++------------+------------+-----------+
+| Header 1   | Header 2   | Header 3  |
++============+============+===========+
+| body row 1 | column 2   | column 3  |
++------------+------------+-----------+
+| body row 2 | Cells may span columns.|
++------------+------------+-----------+
+| body row 3 | Cells may  | - Cells   |
++------------+ span rows. | - contain |
+| body row 4 |            | - blocks. |
++------------+------------+-----------+
+```
+
+### Tables (myst-parser style)
+
+```{list-table} Table title 2
+---
+widths: 25 25 50
+header-rows: 1
+align: center
+---
+   * - Heading row 1, column 1
+     - Heading row 1, column 2
+     - Heading row 1, column 3
+   * - Row 1, column 1
+     -
+     - Row 1, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
+```
 
 ### Tables (RST style)
 
@@ -270,6 +322,10 @@ indicators supports the classification of ‘degraded’ or ‘not degraded’ f
 were produced, they should be uploaded to the PRAIS. Any indicator datasets used to assess the
 proportion of land that is degraded, that have not already been included as part of the previous
 reporting on indicators SO1: 1-3, should be uploaded to the PRAIS.
+
+```{sidebar} Sidebar title
+Another kind of sidebar
+```
 
 Voluntary targets can be set to achieve SO1 and therefore “to improve the condition of affected
 ecosystems, combat desertification/land degradation, promote sustainable land management and

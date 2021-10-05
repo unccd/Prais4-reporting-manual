@@ -33,6 +33,17 @@ extensions = [
     'sphinxnotes.strike',
 ]
 
+myst_enable_extensions = [
+    "deflist", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#definition-lists
+    "dollarmath", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#math-shortcuts
+    "html_image", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#images
+    "linkify", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#linkify
+    "replacements", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#typography
+    "smartquotes", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#typography
+    # "substitution", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#substitutions-with-jinja2
+    "tasklist", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#task-lists
+]
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
