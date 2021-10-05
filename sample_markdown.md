@@ -30,7 +30,7 @@ Development Goal indicator 15.3.1). This information is also useful to investiga
 which could be potentially identified by the reduction in size of permanent water bodies, the disappearance of
 permanent water bodies and the loss of coastline.
 
-Total land area, water body area and total country area require respective estimates to be reported in km<sup>2</sup> for
+Total land area, water body area and total country area require respective estimates to be reported in km{sup}`2` for
 the corresponding year. Land area data is pre-filled in the reporting template. The pre-filled data is editable
 and thus can be adjusted if these estimates have changed. Any changes are to be justified in the ‘Comments’
 column.
@@ -75,10 +75,9 @@ Use three asterisks for ***really important*** text.
 
 <ins>Underline text</ins> may work using the HTML `<ins>` tag.
 
-Same for <del>strikethrough</del> using the HTML `<del>` tag.
+Same for {strike}`strikethrough` using the `{strike}` or `{del}` annotation.
 
-Superscript <sup>text</sup> and subscript <sub>text</sub> can be produced using the `<sup>` and `<sub>` tags, respectively.
-
+Superscript {sup}`text` and subscript {sub}`text` can be produced using the `{sup}` and `{sub}` annotations, respectively.
 
 ## Quoted text
 

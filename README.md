@@ -1,9 +1,10 @@
 # Prais4 reporting manual
 
-Documentation source code for https://prais4-reporting-manual.readthedocs.io/
+Documentation source code for <https://prais4-reporting-manual.readthedocs.io>
 
+PDF version is available [here](https://buildmedia.readthedocs.org/media/pdf/prais4-reporting-manual/latest/prais4-reporting-manual.pdf)
 
-# Local build
+## Local build
 
     python3.7 -m venv .venv
     source .venv/bin/activate
@@ -15,8 +16,7 @@ Documentation source code for https://prais4-reporting-manual.readthedocs.io/
     # cd _build/latex
     # latexmk -r latexmkrc -pdf -f -dvi- -ps- -jobname=prais4-reporting-manual -interaction=nonstopmode
 
-
-# Prerequisites for PDF build
+## Prerequisites for PDF build
 
     latexmk
     texlive-xetex
