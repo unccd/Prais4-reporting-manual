@@ -292,8 +292,55 @@ align: center
 
    "Albatross", 2.99, "On a stick!"
    "Popcorn", 1.99, "Straight from the oven"
+```
+
+### Tables (flat-table plugin)
 
 
+```{tabularcolumns} |p{1cm}|p{1.5cm}|p{1.5cm}|p{2.5cm}|p{1.5cm}|p{4cm}|
+```
+
+```{cssclass} table-1
+```
+
+```{flat-table} *__Table 1__. Strategic objective (SO) 1 indicators and reporting attribution*
+---
+header-rows: 2
+class: table123
+widths: 2 3 3 5 3 8
+---
+   * - {rspan}`1` Indicator code
+     - {rspan}`1` Indicator name
+     - {rspan}`1` Metrics / proxies
+     - {rspan}`1` Adopted / proposed
+     - {cspan}`1` Reporting attribution
+   * - Affected country Parties
+     - Developed country Parties
+   * - SO 1-1
+     - Trends in land cover
+     - Land cover change
+     - Indicator adopted in decision 7/COP.13
+     - X
+     - {rspan}`3` Indicators under SO 1 and SDG indicator 15.3.1 
+       are optional for reporting by developed country Parties. 
+       Developed country Parties may wish to submit information 
+       on these indicators on a voluntary basis for the purpose 
+       of reporting on progress towards the SDGs
+   * - SO 1-2
+     - Trends in land productivity or functioning of the land
+     - Land productivity dynamics
+     - Indicator adopted in decision 7/COP.13
+     - X
+   * - SO 1-3
+     - Trends in carbon stocks above and below ground
+     - Soil organic carbon stock
+     - Indicator adopted in decision 7/COP.13
+     - X
+   * - SO 1-4
+     - Proportion of land that is degraded over total land area
+     - \---
+     - Background for indicator adopted in decision 9/COP.13
+     - X
 ```
 
 ### Links

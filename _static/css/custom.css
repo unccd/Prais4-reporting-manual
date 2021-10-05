@@ -25,3 +25,16 @@ ins {
   text-decoration: underline;
   background-color: #fff;
 }
+
+
+.wy-table-responsive table td, .wy-table-responsive table th {
+  white-space: normal !important;
+}
+
+.wy-table-responsive table th {
+  text-align: center;
+}
+
+.rst-content table.docutils td, .rst-content table.docutils th, .rst-content table.field-list td, .rst-content table.field-list th, .wy-table td, .wy-table th {
+  padding: 4px 8px !important;
+}

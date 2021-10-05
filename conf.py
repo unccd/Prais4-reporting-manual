@@ -31,6 +31,7 @@ extensions = [
     'myst_parser',
     'sphinx.ext.autosummary',
     'sphinxnotes.strike',
+    'linuxdoc.rstFlatTable', # https://return42.github.io/linuxdoc/linuxdoc-howto/table-markup.html#flat-table
 ]
 
 myst_enable_extensions = [
@@ -43,6 +44,8 @@ myst_enable_extensions = [
     # "substitution", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#substitutions-with-jinja2
     "tasklist", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#task-lists
 ]
+
+# See also https://pypi.org/project/cloud_sptheme/
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -68,6 +71,12 @@ html_static_path = ['_static']
 html_css_files = [
     'css/custom.css',
 ]
+
+html_context = {
+    'css_files': [
+        '_static/custom.css',  # overrides for wide tables in RTD theme
+        ],
+    }
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -109,14 +118,21 @@ latex_use_modindex = False
 
 latex_elements = {
     'papersize': 'a4paper',
-    'pointsize': '11pt',
+    'pointsize': '10pt',
     'fncychap': '',
     'preamble': r'''
     \setcounter{secnumdepth}{-1}
     \setcounter{tocdepth}{0}
+    \usepackage{caption}
+    \captionsetup{labelformat=empty}
     '''
 }
 
 pdf_documents = [
     ('index', u'PRAIS4_user_manual', u'PRAIS4 User Manual', u'UNCCD', '2021-06-15'),
 ]
+
+numfig = False
+numfig_format = {
+    'table': 'Tabel %s',
+}

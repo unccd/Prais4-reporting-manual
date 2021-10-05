@@ -26,6 +26,8 @@ docutils==0.17.1
     #   recommonmark
     #   sphinx
     #   sphinx-rtd-theme
+fspath==20190323
+    # via linuxdoc
 future==0.18.2
     # via commonmark
 idna==3.2
@@ -40,6 +42,8 @@ jinja2==3.0.1
     #   readthedocs-sphinx-ext
     #   sphinx
 linkify-it-py==1.0.1
+    # via -r requirements.in
+linuxdoc==20210324
     # via -r requirements.in
 markdown==3.3.4
     # via sphinx-markdown-tables
@@ -75,6 +79,8 @@ requests==2.26.0
     # via
     #   readthedocs-sphinx-ext
     #   sphinx
+six==1.16.0
+    # via fspath
 snowballstemmer==2.1.0
     # via sphinx
 sphinx==4.2.0

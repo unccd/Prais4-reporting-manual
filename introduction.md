@@ -52,7 +52,7 @@ Reporting on the implementation framework will be done through qualitative infor
       <td>Land cover change</td>
       <td>Indicator adopted in decision 7/COP.13</td>
       <td>X</td>
-      <td rowspan="4">Indicators under SO 1 and SDG indicator 15.3.1 are optional for reporting by developed country Parties. Developed country Parties may wish to submit        information on these indicators on a voluntary basis for the purpose of reporting on progress towards the SDGs</td>
+      <td rowspan="4">Indicators under SO 1 and SDG indicator 15.3.1 are optional for reporting by developed country Parties. Developed country Parties may wish to submit information on these indicators on a voluntary basis for the purpose of reporting on progress towards the SDGs</td>
     </tr>
     <tr>
       <td>SO 1-2</td>
@@ -77,8 +77,53 @@ Reporting on the implementation framework will be done through qualitative infor
     </tr>
   </tbody>
 </table>
+
 <p> </p>
 <p> </p>
+
+```{tabularcolumns} |p{1cm}|p{2cm}|p{1.5cm}|p{3cm}|p{1.5cm}|p{5cm}|
+```
+
+```{flat-table} *__Table 1__. Strategic objective (SO) 1 indicators and reporting attribution*
+---
+header-rows: 2
+class: table123
+widths: 2 3 3 5 3 8
+---
+   * - {rspan}`1` Indicator code
+     - {rspan}`1` Indicator name
+     - {rspan}`1` Metrics / proxies
+     - {rspan}`1` Adopted / proposed
+     - {cspan}`1` Reporting attribution
+   * - Affected country Parties
+     - Developed country Parties
+   * - SO 1-1
+     - Trends in land cover
+     - Land cover change
+     - Indicator adopted in decision 7/COP.13
+     - X
+     - {rspan}`3` Indicators under SO 1 and SDG indicator 15.3.1
+       are optional for reporting by developed country Parties.
+       Developed country Parties may wish to submit information
+       on these indicators on a voluntary basis for the purpose
+       of reporting on progress towards the SDGs.
+   * - SO 1-2
+     - Trends in land productivity or functioning of the land
+     - Land productivity dynamics
+     - Indicator adopted in decision 7/COP.13
+     - X
+   * - SO 1-3
+     - Trends in carbon stocks above and below ground
+     - Soil organic carbon stock
+     - Indicator adopted in decision 7/COP.13
+     - X
+   * - SO 1-4
+     - Proportion of land that is degraded over total land area
+     - \---
+     - Background for indicator adopted in decision 9/COP.13
+     - X
+```
+
 <I>Table 2. Strategic objective (SO) 2 indicators and reporting attributions</I>
 <table BORDER=3 BORDERCOLOR=BLACK>
   <tbody>
