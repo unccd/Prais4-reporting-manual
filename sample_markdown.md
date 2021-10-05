@@ -6,7 +6,6 @@
 
 This information is required to facilitate analysis of the progress indicators for strategic objectives 1 and 2.
 
-
 ## About footnotes
 
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
@@ -20,7 +19,6 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
     `{ my code }`
 
     Add as many paragraphs as you like.
-
 
 ## Land area
 
@@ -66,7 +64,6 @@ potential population pressures. Any additional disaggregated data should also be
 
 ![Alt-text for the second image](/img/80-CMEMS-TAC-WIND.png "Tooltip 2")
 
-
 ## Basic formatting
 
 Use double asterisks for **bold text**. It also works with __double underscores__.
@@ -87,16 +84,15 @@ Blockquotes can contain multiple paragraphs. Add a > even on the blank lines bet
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 > Blockquotes can contain formatting such as **bold text** or lists:
+>
 > - item 1
 > - item 2
-> 
+>
 
 Example 2:
 
     Indenting text with 4 spaces or a tab shows the text as a code block.
     The text can span across multiple lines.
-
-
 
 ## Numbered lists
 
@@ -105,7 +101,6 @@ Lines starting with numbers followed by periods are converted to numbered lists.
 1. First item
 2. Second item
 3. Third item
-
 
 ## Boxes
 
@@ -158,7 +153,6 @@ Term 3
 | -------- | ---------- |
 | Header     | Title       |
 | Paragraph     | Text        |
-
 
 ### Tables (RST style)
 
@@ -250,13 +244,11 @@ Term 3
 
 ```
 
-
 ### Links
 
 [This](https://duckduckgo.com) is a link to <https://www.markdownguide.org>.
 
 HTML is also supported: <a href="http://example.com/" target="_blank">Hello, world!</a>.
-
 
 ### Sidebars (RST style)
 
