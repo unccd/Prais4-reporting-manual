@@ -87,7 +87,6 @@ Reporting on the implementation framework will be done through qualitative infor
 ```{flat-table} *__Table 1__. Strategic objective (SO) 1 indicators and reporting attribution*
 ---
 header-rows: 2
-class: table123
 widths: 2 3 3 5 3 8
 ---
    * - {rspan}`1` Indicator code

@@ -132,7 +132,10 @@ pdf_documents = [
     ('index', u'PRAIS4_user_manual', u'PRAIS4 User Manual', u'UNCCD', '2021-06-15'),
 ]
 
+# Enable numfig for automatic numbering of table
+# Also adjust captionsetup in latex_elements for the PDF output
 numfig = False
+
 numfig_format = {
-    'table': 'Tabel %s',
+    'table': 'Table %s',
 }
