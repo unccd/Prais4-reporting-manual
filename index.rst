@@ -15,8 +15,3 @@ Welcome to PRAIS4 Reporting Manual's documentation!
    SO2
    SO3
    SO4
-   
-Indices and tables
-==================
-
-* :ref:`genindex`

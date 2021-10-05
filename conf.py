@@ -100,6 +100,10 @@ latex_elements = {
     'papersize': 'a4paper',
     'pointsize': '11pt',
     'fncychap': '',
+    'preamble': r'''
+    \setcounter{secnumdepth}{-1}
+    \setcounter{tocdepth}{0}
+    '''
 }
 
 pdf_documents = [
