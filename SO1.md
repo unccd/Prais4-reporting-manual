@@ -5,9 +5,10 @@ To improve the condition of affected ecosystems, combat desertification/ land de
 ## 1.1. SO 1-1 – Trends in land cover
 
 ### 1.1.1. Introduction
-Land cover refers to the observed (bio)physical cover on the Earth’s surface. 
 
-The United Nations Convention to Combat Desertification (UNCCD) methodology for estimating the proportion of land that is degraded over total land area (i.e. Sustainable Development Goal (SDG) indicator 15.3.1) uses land cover change as an indicator of altered ecosystem dynamics resulting from natural and/or artificial drivers and factors. 
+Land cover refers to the observed (bio)physical cover on the Earth’s surface.
+
+The United Nations Convention to Combat Desertification (UNCCD) methodology for estimating the proportion of land that is degraded over total land area (i.e. Sustainable Development Goal (SDG) indicator 15.3.1) uses land cover change as an indicator of altered ecosystem dynamics resulting from natural and/or artificial drivers and factors.
 
 The main output of the reporting process for indicator SO1-1 is a set of officially verified estimates of the extent of land cover classes, their changes at national level and their significance in terms of land degradation.
 
@@ -23,7 +24,7 @@ National reporting is facilitated though the provision of: (i) default data deri
 
 ### 1.1.3. Reporting process and step-by-step procedure
 
-The step-by-step procedure for reporting is described in the following. If Parties decide to use the default data, steps 3, 4, 5 and 6 are unnecessary. 
+The step-by-step procedure for reporting is described in the following. If Parties decide to use the default data, steps 3, 4, 5 and 6 are unnecessary.
 
 <I>Step 1: Report on land area</I>
 <table BORDER=1 BORDERCOLOR=BLACK>
@@ -104,7 +105,10 @@ Note: These are simplistic examples and attributing a change in state to degrada
 
 Land cover information should be classified using either the default UNCCD legend comprising seven broad land cover classes for aggregate reporting, or a national land cover legend that allows key country-specific degradation processes to be monitored and which can be harmonized with the seven UNCCD land cover classes.
 
-The default UNCCD land cover legend includes the following seven classes: tree-covered areas, grassland, cropland, wetland, artificial surfaces, other land, and water bodies.  
+The default UNCCD land cover legend includes the following seven classes: tree-covered areas, grassland, cropland, wetland, artificial surfaces, other land, and water bodies[^1].
+
+[^1]: The default UNCCD land cover legend for aggregate reporting is a modified version of the Intergovernmental Panel on Climate Change land use categories, where ‘water bodies’ are separated from ‘wetlands’ and grouped in a seventh class including: lakes, rivers and streams (natural/artificial, standing/flowing, inland/sea), artificial reservoirs, coastal lagoons, and estuaries.
+
 It is important to highlight that the objective of SO 1-1 reporting is to capture and document past and ongoing key land cover changes causing land degradation, not to report a fully comprehensive national land cover legend which lists all possible land cover classes occurring within a country. Accordingly, national land cover legends should be customized to only include the minimum number of classes needed to capture and monitor land degradation processes reported on in Step 2.
 
 If a country opts to use a national land cover legend, they should fill in table SO1-1.T3 with national land cover classes showing how they map to the default seven UNCCD land cover classes. Countries are strongly encouraged to build the legend with a limited number of relevant classes. This will make reporting more manageable and would reduce the transitions to be described and reported in Step 4. With reference to the Good Practice Guidance for SDG Indicator 15.3.1, the legend should be:
@@ -795,9 +799,13 @@ For the purposes of calculating the land productivity sub-indicator, UNCCD recom
 
 _Productivity Performance_
 
-In contrast to Trend and State, which are temporal metrics, productivity Performance is a spatial metric involving benchmarking the level of local plant productivity relative to other land units (i.e.  other pixels) within the same [Land Cover/Ecosystem Functional Unit (LCEU)](a "The calculation of productivity Performance is strongly dependent on the definition of the LCEU. Unlike the Trend and State metrics, which assess changes over time, Performance is a spatial comparison, and the results may change if the extent over which the analysis is conducted changes.").
+In contrast to Trend and State, which are temporal metrics, productivity Performance is a spatial metric involving benchmarking the level of local plant productivity relative to other land units (i.e. other pixels) within the same Land Cover/Ecosystem Functional Unit (LCEU)[^2].
 
-Productivity Performance is calculated by comparing the mean annual productivity value per pixel with the maximum productivity index value observed within the same LCEU for a given assessment period. Pixels are considered degraded when their productivity potential is less than a half of the maximum value observed in a given LCEU. [The maximum value is in turn defined as the 90th percentile of pixel values in the LCEU (NPPmax)](a "To avoid possible overestimation of the maximum value due to the presence of outliers, it is recommended to use the 90th percentile of the productivity values within the land unit as the actual maximum vegetation index value (NPPmax).").  Therefore, productivity Performance values close to 1 represent pixels in which productivity is close to the highest level for that land unit in that period.
+[^2]: The calculation of productivity Performance is strongly dependent on the definition of the LCEU. Unlike the Trend and State metrics, which assess changes over time, Performance is a spatial comparison, and the results may change if the extent over which the analysis is conducted changes.
+
+Productivity Performance is calculated by comparing the mean annual productivity value per pixel with the maximum productivity index value observed within the same LCEU for a given assessment period. Pixels are considered degraded when their productivity potential is less than a half of the maximum value observed in a given LCEU. The maximum value is in turn defined as the 90th percentile of pixel values in the LCEU (NPP{sub}`max`)[^3]. Therefore, productivity Performance values close to 1 represent pixels in which productivity is close to the highest level for that land unit in that period.
+
+[^3]: To avoid possible overestimation of the maximum value due to the presence of outliers, it is recommended to use the 90th percentile of the productivity values within the land unit as the actual maximum vegetation index value (NPPmax).
 
 The resulting dataset would then include only two classes:
 - z-score < 0.5 NPPmax = degrading 
@@ -1105,7 +1113,7 @@ Analytical approach
 - It is important to consider that applying a 16-year window for the reporting period of land productivity versus a 4-year window for land cover and SOC stock changes will likely increase the impact of productivity (compared to the other indicators) when they are combined to derive the SDG indicator 15.3.1.
 
 
-#### 1.2.6. Summary (main actions)
+### 1.2.6. Summary (main actions)
 
 Key actions for reporting on land productivity dynamics are as follows:
 
@@ -1158,7 +1166,9 @@ The step-by-step procedure for reporting is described in the following. If Parti
 
 _Step 1: Select the estimation method_
 
-Parties may use three methods to determine baseline SOC stocks and estimate changes in SOC stocks. These methods are consistent with the IPCC guidelines  and include datasets and processing options with increasing levels of accuracy and complexity. 
+Parties may use three methods to determine baseline SOC stocks and estimate changes in SOC stocks. These methods are consistent with the IPCC guidelines[^4] and include datasets and processing options with increasing levels of accuracy and complexity.
+
+[^4]: 2006 IPCC Guidelines for National Greenhouse Gas Inventories and its 2019 Refinement, as well as the 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands.
 
 - The **Tier 1 method** uses broad methods with default data, and it is valuable where country-specific data and capacities are scarce or unavailable. SOC stock change estimates are informed by the equations in the IPCC guidelines, which are summarized in chapter 5 of the Good Practice Guidance for SDG Indicator 15.3.1. 
 
@@ -1178,9 +1188,11 @@ A detailed description of the Tier 2 method is provided in section 5.2.6.2 of th
 
 _Step 2: Assess available data_
 
-UNCCD provides prefilled data in the PRAIS 4 platform. The ISRIC SoilGrids250m dataset is used to obtain a default SOC stock baseline. Default estimates of SOC stock changes are based on a modified Tier 1 method for [mineral soils](a "For more information see: ‘Default data: methods and interpretation. A guidance document for 2018 UNCCD reporting’ available at: https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf.").  Since there are currently no known global data at a sufficient resolution to obtain information for the management and input change factors, the dynamic component informing SOC trends is land cover used as a proxy for land-use change.
+UNCCD provides prefilled data in the PRAIS 4 platform. The ISRIC SoilGrids250m dataset is used to obtain a default SOC stock baseline. Default estimates of SOC stock changes are based on a modified Tier 1 method for mineral soils[^5].
+Since there are currently no known global data at a sufficient resolution to obtain information for the management and input change factors, the dynamic component informing SOC trends is land cover used as a proxy for land-use change.
+[^5]: For more information see: ‘Default data: methods and interpretation. A guidance document for 2018 UNCCD reporting’ available at: https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf.").
 
-However, Parties may report their estimates using national SOC stock data (adopting the Tier 2 or Tier 3 approach) if they meet the specifications listed in table 1. 
+However, Parties may report their estimates using national SOC stock data (adopting the Tier 2 or Tier 3 approach) if they meet the specifications listed in table 1.
 
 _Table 14. Data specifications for SO 1-3 indicator_
 
@@ -1228,7 +1240,7 @@ _Table 14. Data specifications for SO 1-3 indicator_
 </table>
 </p>
 
-Parties that are members of the Global Soil Partnership and are opting to use the Tier 2 method may also consider the [Global Soil Organic Carbon Map (GSOCmap)](http://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/global-soil-organic-carbon-map-gsocmap/en/)  as an alternative to the default SOC stock baseline data.
+Parties that are members of the Global Soil Partnership and are opting to use the Tier 2 method may also consider the [Global Soil Organic Carbon Map (GSOCmap)](http://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/global-soil-organic-carbon-map-gsocmap/en/) as an alternative to the default SOC stock baseline data.
 
 Other relevant data sources are listed in Appendix C of the Good Practice Guidance for SDG Indicator 15.3.1.
 
@@ -1336,7 +1348,7 @@ _Unresolved issues_
 
 - Soil erosion and/or deposition may have significant effects on measured SOC stocks, but their effects on stock changes are included in the estimates of land-use and land-cover changes. Parties may consider including soil erosion and/or deposition as parameters for the implementation of the Tier 3 method.
 
-#### 1.3.6. Summary (main actions)
+### 1.3.6. Summary (main actions)
 
 Key actions for reporting on SOC changes are as follows:
 
@@ -1352,7 +1364,7 @@ Key actions for reporting on SOC changes are as follows:
 
 6.	**Generate reports:** Verify the default data provided in the PRAIS 4 platform (for the Tier 1 approach) or replace it with national data (for the Tier 2 or Tier 3 approaches). Include the narrative required to describe the national context of land degradation based on SOC changes.
 
-#### 1.3.7. Further reading
+### 1.3.7. Further reading
 
 - Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 5: Carbon Stock, Above and Below Ground (https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).  
 - IPCC, 2006. Eggleston, S., Buendia L., Miwa K., Ngara T., and Tanabe K. (Eds). 2006 IPCC Guidelines for National Greenhouse Gas Inventories. Intergovernmental Panel on Climate Change (IPCC)/Institute for Global Environmental Strategies (IGES), Hayama, Japan.
@@ -1365,9 +1377,10 @@ Key actions for reporting on SOC changes are as follows:
  
 ## 1.4. SO 1-4 – Proportion of land that is degraded over total land area (Sustainable Development Goal indicator 15.3.1)
 
-#### 1.4.1. Introduction 
+### 1.4.1. Introduction
 
-Land degradation is defined as ‘the reduction or loss of the biological or economic productivity and complexity of rainfed cropland, irrigated cropland, or range, pasture, forest and woodlands resulting from a combination of pressures, including land use and [management practices'](a "Article 1 of the United Nations Convention to Combat Desertification."). 
+Land degradation is defined as ‘the reduction or loss of the biological or economic productivity and complexity of rainfed cropland, irrigated cropland, or range, pasture, forest and woodlands resulting from a combination of pressures, including land use and management practices[^7]’.
+[^7]: Article 1 of the United Nations Convention to Combat Desertification.
 
 Using the three indicators SO 1-1, SO 1-2 and SO 1-3 (hereinafter referred to as subindicators), UNCCD reporting will estimate the proportion of land that is degraded over total land area, which is also SDG indicator 15.3.1 and the only indicator used to track progress towards target 15.3: ‘By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land-degradation neutral world’. In line with decision 15/COP.13, the information compiled in national reports will be used by the secretariat, in its capacity as the custodian agency for SDG indicator 15.3.1, to contribute to the overall follow-up and review by the High-level Political Forum on Sustainable Development.
 
