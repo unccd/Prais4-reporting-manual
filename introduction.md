@@ -81,7 +81,7 @@ Reporting on the implementation framework will be done through qualitative infor
 <p> </p>
 <p> </p>
 
-```{tabularcolumns} |p{1cm}|p{2cm}|p{1.5cm}|p{3cm}|p{1.5cm}|p{5cm}|
+```{tabularcolumns} |L|L|L|L|C|p{3cm}|
 ```
 
 ```{flat-table} *__Table 1__. Strategic objective (SO) 1 indicators and reporting attribution*
