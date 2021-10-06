@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PRAIS4 Reporting Manual's documentation!
-===================================================
+PRAIS4 Reporting Manual
+=======================
 
 .. toctree::
    :maxdepth: 2

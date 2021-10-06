@@ -33,8 +33,19 @@ ins {
 
 .wy-table-responsive table th {
   text-align: center;
+  vertical-align: middle;
 }
 
 .rst-content table.docutils td, .rst-content table.docutils th, .rst-content table.field-list td, .rst-content table.field-list th, .wy-table td, .wy-table th {
   padding: 4px 8px !important;
+}
+
+.align-right {
+  text-align: right;
+}
+.align-left {
+  text-align: left;
+}
+.align-center {
+  text-align: center;
 }

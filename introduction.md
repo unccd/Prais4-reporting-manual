@@ -32,59 +32,10 @@ Indicators used for reporting on progress towards the SOs are those adopted by P
 
 Reporting on the implementation framework will be done through qualitative information, largely by narratives on national experiences, and on a voluntary basis.
 
-<I>Table 1. Strategic objective (SO) 1 indicators and reporting attribution</I>
-<table BORDER=3 BORDERCOLOR=BLACK>
-  <tbody>
-   <tr>
-      <th rowspan="2">Indicator code</th>
-      <th rowspan="2">Indicator name</th>
-      <th rowspan="2">Metrics/proxies</th>
-      <th rowspan="2">Adopted/proposed</th>
-      <th colspan="2">Reporting attribution</th>
-   </tr>
-   <tr>
-      <th>Affected country Parties</th>
-      <th>Developed country Parties</th>
-    </tr>
-    <tr>
-      <td>SO 1-1</td>
-      <td>Trends in land cover</td>
-      <td>Land cover change</td>
-      <td>Indicator adopted in decision 7/COP.13</td>
-      <td>X</td>
-      <td rowspan="4">Indicators under SO 1 and SDG indicator 15.3.1 are optional for reporting by developed country Parties. Developed country Parties may wish to submit information on these indicators on a voluntary basis for the purpose of reporting on progress towards the SDGs</td>
-    </tr>
-    <tr>
-      <td>SO 1-2</td>
-      <td>Trends in land productivity or functioning of the land</td>
-      <td>Land productivity dynamics</td>
-      <td>Indicator adopted in decision 7/COP.13</td>
-      <td>X</td>
-    </tr>
-    <tr>
-      <td>SO 1-3</td>
-      <td>Trends in carbon stocks above and below ground</td>
-      <td>Soil organic carbon stock</td>
-      <td>Indicator adopted in decision 7/COP.13</td>
-      <td>X</td>
-    </tr>
-    <tr>
-      <td>SO 1-4 (Sustainable Development Goal indicator 15.3.1)</td>
-      <td>Proportion of land that is degraded over total land area</td>
-      <td>-</td>
-      <td>Background for indicator adopted in decision 9/COP.13</td>
-      <td>X</td>
-    </tr>
-  </tbody>
-</table>
-
-<p> </p>
-<p> </p>
-
 ```{tabularcolumns} |L|L|L|L|C|p{3cm}|
 ```
 
-```{flat-table} *__Table 1__. Strategic objective (SO) 1 indicators and reporting attribution*
+```{flat-table} *__Table 1__. Strategic objective (SO) 1 indicators and reporting attributions*
 ---
 header-rows: 2
 widths: 2 3 3 5 3 8
@@ -123,186 +74,153 @@ widths: 2 3 3 5 3 8
      - X
 ```
 
-<I>Table 2. Strategic objective (SO) 2 indicators and reporting attributions</I>
-<table BORDER=3 BORDERCOLOR=BLACK>
-  <tbody>
-   <tr>
-      <th rowspan="2">Indicator code</th>
-      <th rowspan="2">Indicator name</th>
-      <th rowspan="2">Metrics/proxies</th>
-      <th rowspan="2">Adopted/proposed</th>
-      <th colspan="2">Reporting attribution</th>
-    </tr>
-    <tr>
-      <th>Affected country Parties</th>
-      <th>Developed country Parties</th>
-    </tr>
-    <tr>
-      <td>SO 2-1</td>
-      <td>Trends in population living below the relative poverty line and/or income inequality in affected areas</td>
-      <td><p>Proportion of the population below the international poverty line</p><p>OR</p><p>Income inequality</p></td>
-      <td>Indicator adopted in decision 7/COP.13</td>
-      <td>X</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>SO 2-2</td>
-      <td>Trends in access to safe drinking water in affected areas</td>
-      <td>Proportion of population using safely managed drinking water services</td>
-      <td>Indicator adopted in decision 7/COP.13</td>
-      <td>X</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>SO 2-3</td>
-      <td>Trends in the proportion of the population exposed to land degradation, disaggregated by sex</td>
-      <td>Proportion of the population exposed to land degradation, disaggregated by sex</td>
-      <td>Indicator proposed in response to decision 11/COP.14, which requested the Secretariat to align reporting for SOs 1– 5 with gender-responsive indicators </td>
-      <td>Optional</td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
+```{flat-table} *__Table 2__. Strategic objective (SO) 2 indicators and reporting attributions*
+---
+header-rows: 2
+widths: 1 2 2 3 1 1
+---
+   * - {rspan}`1` Indicator code
+     - {rspan}`1` Indicator name
+     - {rspan}`1` Metrics / proxies
+     - {rspan}`1` Adopted / proposed
+     - {cspan}`1` Reporting attribution
+   * - Affected country Parties
+     - Developed country Parties
+   * - SO 2-1
+     - Trends in population living below the relative poverty line and/or income inequality in affected areas
+     - Proportion of the population below the international poverty line
 
-<p> </p>
-<p> </p>
-<I>Table 3. Strategic objective (SO) 3 indicators and reporting attributions</I>
-<table BORDER=3 BORDERCOLOR=BLACK>
-  <tbody>
-   <tr>
-      <th rowspan="2">Indicator code</th>
-      <th rowspan="2">Indicator name</th>
-      <th rowspan="2">Metrics/proxies</th>
-      <th rowspan="2">Adopted/proposed</th>
-      <th colspan="2">Reporting attribution</th>
-    </tr>
-    <tr>
-      <th>Affected country Parties</th>
-      <th>Developed country Parties</th>
-    </tr>
-    <tr>
-      <td>SO 3-1</td>
-      <td>Trends in the proportion of land under drought over the total land area</td>
-      <td>Proportion of land in each drought intensity class as defined by the Standardized Precipitation Index</td>
-      <td>Indicator adopted in decision 7/COP.14</td>
-      <td>X</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>SO 3-2</td>
-      <td>Trends in the proportion of the total population exposed to drought</td>
-      <td>Proportion of the population exposed to drought, disaggregated by sex</td>
-      <td>Indicator adopted in decision 7/COP.14</td>
-      <td>X</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>SO 3-3</td>
-      <td>Trends in the degree of drought vulnerability</td>
-      <td>Drought Vulnerability Index </td>
-      <td>Indicator adopted in decision 11/COP.14</td>
-      <td>Optional</td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
+       OR
 
-<p> </p>
-<p> </p>
-<I>Table 4. Strategic objective (SO) 4 indicators and reporting attributions</I>
-<table BORDER=3 BORDERCOLOR=BLACK>
-  <tbody>
-   <tr>
-      <th rowspan="2">Indicator code</th>
-      <th rowspan="2">Indicator name</th>
-      <th rowspan="2">Metrics/proxies</th>
-      <th rowspan="2">Adopted/proposed</th>
-      <th colspan="2">Reporting attribution</th>
-    </tr>
-    <tr>
-      <th>Affected country Parties</th>
-      <th>Developed country Parties</th>
-    </tr>
-    <tr>
-      <td>SO 4-1</td>
-      <td>Trends in carbon stocks above and below ground</td>
-      <td colspan="4">Trends in carbon stocks above and below ground is a multipurpose indicator used to measure progress towards both strategic objectives 1 and 4. See progress indicator SO 1-3.</td>
-    </tr>
-    <tr>
-      <td>SO 4-2</td>
-      <td>Trends in abundance and distribution of selected species</td>
-      <td>Red List Index</td>
-      <td>Indicator adopted in decision 7/COP.13</td>
-      <td>X</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>SO 4-3</td>
-      <td>Trends in protected area coverage of important biodiversity areas</td>
-      <td>Average proportion of Terrestrial Key Biodiversity Areas covered by protected areas</td>
-      <td>Complementary indicator and corresponding metric proposed in response to CRIC 17 recommendations and decision 7/COP.13.</td>
-      <td>Optional</td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
+       Income inequality
+     - Indicator adopted in decision 7/COP.13
+     - X
+     - \---
+   * - SO 2-2
+     - Trends in access to safe drinking water in affected areas
+     - Proportion of population using safely managed drinking water services
+     - Indicator adopted in decision 7/COP.13
+     - X
+     - \---
+   * - SO 2-3
+     - Trends in the proportion of the population exposed to land degradation, disaggregated by sex
+     - Proportion of the population exposed to land degradation, disaggregated by sex
+     - Indicator proposed in response to decision 11/COP.14, which requested the Secretariat
+       to align reporting for SOs 1– 5 with gender-responsive indicators
+     - Optional
+     - \---
+```
 
-<p> </p>
-<p> </p>
-<I>Table 5. Strategic objective (SO) 5 indicators and reporting attributions</I>
-<table BORDER=3 BORDERCOLOR=BLACK>
-  <tbody>
-   <tr>
-      <th rowspan="2">Indicator code</th>
-      <th rowspan="2">Indicator name</th>
-      <th rowspan="2">Metrics/proxies</th>
-      <th rowspan="2">Adopted/proposed</th>
-      <th colspan="2">Reporting attribution</th>
-    </tr>
-    <tr>
-      <th>Affected country Parties</th>
-      <th>Developed country Parties</th>
-    </tr>
-    <tr>
-      <td>SO 5-1</td>
-      <td>Bilateral and multilateral public resources</td>
-      <td>-</td>
-      <td>Indicator adopted in decision 7/COP.13 as ‘Trends in international bilateral and multilateral official development assistance’</td>
-      <td>-</td>
-      <td>X</td>
-    </tr>
-    <tr>
-      <td>SO 5-2</td>
-      <td>Domestic public resources</td>
-      <td>-</td>
-      <td>Indicator adopted in decision 7/COP.13 as ‘Trends in domestic public resources’</td>
-      <td>X</td>
-      <td>X</td>
-    </tr>
-    <tr>
-      <td>SO 5-3</td>
-      <td>International and domestic private resources</td>
-      <td>-</td>
-      <td rowspan="3">Indicators proposed in response to decision 11/COP.14, which requested the Global Mechanism to include additional quantitative data in the reporting template for SO 5 and provide information before the start of the next reporting process on the possible development of progress indicators on technology transfer under SO 5</td>
-      <td>Optional</td>
-      <td>Optional</td>
-    </tr>
-    <tr>
-      <td>SO 5-4</td>
-      <td>Technology transfer</td>
-      <td>-</td>
-      <td>Optional</td>
-      <td>Optional</td>
-    </tr>
-    <tr>
-      <td>SO 5-5</td>
-      <td>Future support for activities related to the implementation of the Convention</td>
-      <td>-</td>
-      <td>Optional</td>
-      <td>Optional</td>
-    </tr>
-  </tbody>
-</table>
+```{flat-table} *__Table 3__. Strategic objective (SO) 3 indicators and reporting attributions*
+---
+header-rows: 2
+widths: 1 2 3 2 1 1
+---
+   * - {rspan}`1` Indicator code
+     - {rspan}`1` Indicator name
+     - {rspan}`1` Metrics / proxies
+     - {rspan}`1` Adopted / proposed
+     - {cspan}`1` Reporting attribution
+   * - Affected country Parties
+     - Developed country Parties
+   * - SO 3-1
+     - Trends in the proportion of land under drought over the total land area
+     - Proportion of land in each drought intensity class as defined by the Standardized Precipitation Index
+     - Indicator adopted in decision 7/COP.14
+     - X
+     - \---
+   * - SO 3-2
+     - Trends in the proportion of the total population exposed to drought
+     - Proportion of the population exposed to drought, disaggregated by sex
+     - Indicator adopted in decision 7/COP.14
+     - X
+     - \---
+   * - SO 3-3
+     - Trends in the degree of drought vulnerability
+     - Drought Vulnerability Index
+     - Indicator adopted in decision 7/COP.14
+     - Optional
+     - \---
+```
+
+```{flat-table} *__Table 4__. Strategic objective (SO) 4 indicators and reporting attributions*
+---
+header-rows: 2
+widths: 1 2 2 3 1 1
+---
+   * - {rspan}`1` Indicator code
+     - {rspan}`1` Indicator name
+     - {rspan}`1` Metrics / proxies
+     - {rspan}`1` Adopted / proposed
+     - {cspan}`1` Reporting attribution
+   * - Affected country Parties
+     - Developed country Parties
+   * - SO 4-1
+     - Trends in carbon stocks above and below ground
+     - {cspan}`3` Trends in carbon stocks above and below ground is a multipurpose
+       indicator used to measure progress towards both strategic objectives 1 and 4.
+       See progress indicator SO 1-3.
+   * - SO 4-2
+     - Trends in abundance and distribution of selected species
+     - Red List Index
+     - Indicator adopted in decision 7/COP.13
+     - X
+     - \---
+   * - SO 4-3
+     - Trends in protected area coverage of important biodiversity areas
+     - Average proportion of Terrestrial Key Biodiversity Areas covered by protected areas
+     - Complementary indicator and corresponding metric proposed 
+       in response to CRIC 17 recommendations and decision 7/COP.13.
+     - Optional
+     - \---
+```
+
+```{flat-table} *__Table 5__. Strategic objective (SO) 5 indicators and reporting attributions*
+---
+header-rows: 2
+widths: 1 2 1 4 1 1
+---
+  * - {rspan}`1` Indicator code
+    - {rspan}`1` Indicator name
+    - {rspan}`1` Metrics / proxies
+    - {rspan}`1` Adopted / proposed
+    - {cspan}`1` Reporting attribution
+  * - Affected country Parties
+    - Developed country Parties
+  * - SO 5-1
+    - Bilateral and multilateral public resources
+    - \---
+    - Indicator adopted in decision 7/COP.13 as ‘Trends in international
+    bilateral and multilateral official development assistance’
+    - \---
+    - X
+  * - SO 5-2
+    - Domestic public resources
+    - \---
+    - Indicator adopted in decision 7/COP.13 as ‘Trends in domestic public resources’
+    - X
+    - X
+  * - SO 5-3
+    - International and domestic private resources
+    - \---
+    - {rspan}`2` Indicators proposed in response to decision 11/COP.14,
+    which requested the Global Mechanism to include additional quantitative data
+    in the reporting template for SO 5 and provide information before the start of 
+    the next reporting process on the possible development of progress indicators 
+    on technology transfer under SO 5
+    - Optional
+    - Optional
+  * - SO 5-4
+    - Technology transfer
+    - \---
+    - Optional
+    - Optional
+  * - SO 5-5
+    - Future support for activities related to the implementation of the Convention
+    - \---
+    - Optional
+    - Optional
+```
 
 ## Reporting tools
 
@@ -372,36 +290,26 @@ These options aim to empower country Parties reporting through PRAIS to set the 
 
 By its decision 15/COP. 13, the COP approved a four-year frequency for national reporting. During the first reporting process under the UNCCD 2018–2030 Strategic Framework in 2018, Parties reported data and information for the baseline period 2000–2015. From the 2022 reporting process onward, Parties will quantify the indicators and report national estimates for four-year reporting periods as indicated in table 6 below.
 
-<I>Table 6. UNCCD reporting process and corresponding reporting periods (current reporting process and period in bold)</I>
-
-<table BORDER=3 BORDERCOLOR=BLACK>
-  <tbody>
-   <tr>
-      <th>UNCCD Reporting Process</th>
-      <th>UNCCD Reporting Periods</th>
-    </tr>
-    <tr>
-      <td>2018</td>
-      <td>Baseline 2000-2015</td>
-    </tr>
-    <tr>
-      <td><b>2022</b></td>
-      <td><b>2016-2019</b)</td>
-    </tr>
-    <tr>
-      <td>2026</td>
-      <td>2020-2023</td>
-    </tr>
-    <tr>
-      <td>2030</td>
-      <td>2024-2027</td>
-    </tr>
-    <tr>
-      <td>2034</td>
-      <td>2028-2031</td>
-    </tr>
-  </tbody>
-</table>
+```{list-table} *__Table 6__. UNCCD reporting process and corresponding reporting periods (current reporting process and period in bold)*
+---
+widths: 50 50
+width: 80%
+header-rows: 1
+align: center
+---
+  * - UNCCD Reporting Process
+    - UNCCD Reporting Periods
+  * - 2018
+    - Baseline 2000-2015
+  * - __2022__
+    - __2016-2019__
+  * - 2026
+    - 2020-2023
+  * - 2030
+    - 2024-2027
+  * - 2034
+    - 2028-2031
+```
 
 ## Recalculations and time series consistency
 
