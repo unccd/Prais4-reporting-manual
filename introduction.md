@@ -74,6 +74,9 @@ widths: 2 3 3 5 3 8
      - X
 ```
 
+```{tabularcolumns} |p{1.5cm}|p{3cm}|p{3cm}|p{3cm}|p{1.5cm}|p{1.5cm}|
+```
+
 ```{flat-table} *__Table 2__. Strategic objective (SO) 2 indicators and reporting attributions*
 ---
 header-rows: 2

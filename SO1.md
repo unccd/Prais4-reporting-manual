@@ -26,82 +26,55 @@ National reporting is facilitated though the provision of: (i) default data deri
 
 The step-by-step procedure for reporting is described in the following. If Parties decide to use the default data, steps 3, 4, 5 and 6 are unnecessary.
 
-<I>Step 1: Report on land area</I>
-<table BORDER=1 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <td><I>Related areas in the PRAIS 4 platform: table SO1-1.T1</I></td>
-    </tr>
-  </tbody>
-</table>
+#### Step 1: Report on land area
+
+```{note}
+Related areas in the PRAIS 4 platform: table SO1-1.T1
+```
 
 Information on the total land area, area covered by water bodies, and total country area is required to calculate the proportion of land that is degraded over total land area (SDG indicator 15.3.1), but also to calculate indicators to track progress towards other SOs (e.g. SO 3-1: Trends in the proportion of land under drought over the total land area). This information is also useful to investigate possible climate impacts, which could potentially be identified by the reduction in size or disappearance of permanent water bodies and the loss of coastline.
 
 Total land area, total water bodies area and total country area require respective estimates to be reported in square kilometres (km2) every five years from 2000 to 2015, and then for the most recent reported year. Land area data is pre-filled in the reporting table SO1-1.T1. Estimates are based on the default land cover data and, as such, they could differ from official national statistics. The pre-filled data is editable and thus can be adjusted. However, it is important to ensure consistency with the land cover data and the SDG indicator 15.3.1 estimates. Any changes are to be justified in the ‘Comments’ column.
 
-<I>Step 2: Identify key degradation processes</I>
+#### Step 2: Identify key degradation processes
 
-<table BORDER=1 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <td><I>Related areas in the PRAIS 4 platform: table SO1-1.T2</I></td>
-    </tr>
-  </tbody>
-</table>
+```{note}
+Related areas in the PRAIS 4 platform: table SO1-1.T2
+```
 
 Parties are invited to list the most relevant land cover change processes that are likely to result in a depletion of land resources. Key processes might include deforestation, urban expansion or vegetation loss. Some of these processes may be detectable through the image analysis of land cover change, while others may only be evident with field observations. Table 7 shows examples of processes likely to cause land degradation and which are listed as options in the drop-down menu in table SO1-1.T2 of the PRAIS 4 platform. Other processes not covered in the menu can be reported on by selecting the ‘Other’ option.
 
-<I>Table 7. Example of degradation processes that may be identified by a country and the corresponding land cover transitions</I>
-<table BORDER=3 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <th>Degradation process</th>
-      <th>Starting land cover state</th>
-      <th>Ending land cover state</th>
-    </tr>
-    <tr>
-      <td>Urban expansion</td>
-      <td>Grassland, cropland, other land</td>
-      <td>Settlements</td>
-    </tr>
-    <tr>
-      <td>Deforestation</td>
-      <td>Forest land</td>
-      <td>Grassland, cropland, settlements</td>
-    </tr>
-    <tr>
-      <td>Vegetation loss (other)</td>
-      <td>Forest land, grassland, cropland</td>
-      <td>Other land</td>
-    </tr>
-    <tr>
-      <td>Inundation</td>
-      <td>Vegetated, settlements, bare soil</td>
-      <td>Wetland</td>
-    </tr>
-    <tr>
-      <td>Woody encroachment</td>
-      <td>Wetland, grassland</td>
-      <td>Forest land</td>
-    </tr>
-    <tr>
-      <td>Wetland drainage</td>
-      <td>Wetland</td>
-      <td>Grassland, cropland, settlements, other land</td>
-    </tr>
- </tbody>
-</table>
-Note: These are simplistic examples and attributing a change in state to degradation requires careful assessment at the national level.
-<p></p>
+```{list-table} *__Table 7__. Example of degradation processes that may be identified by a country and the corresponding land cover transitions*
+* - Degradation process
+  - Starting land cover state
+  - Ending land cover state
+* - Urban expansion
+  - Grassland, cropland, other land
+  - Settlements
+* - Deforestation
+  - Forest land
+  - Grassland, cropland, settlements
+* - Vegetation loss (other)
+  - Forest land, grassland, cropland
+  - Other land
+* - Inundation
+  - Vegetated, settlements, bare soil
+  - Wetland
+* - Woody encroachment
+  - Wetland, grassland
+  - Forest land
+* - Wetland drainage
+  - Wetland
+  - Grassland, cropland, settlements, other land
+```
 
-<I>Step 3: Select a land cover legend</I>
-<table BORDER=1 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <td><I>Related areas in the PRAIS 4 platform: table SO1-1.T3</I></td>
-    </tr>
-  </tbody>
-</table>
+*__Note__: These are simplistic examples and attributing a change in state to degradation requires careful assessment at the national level.*
+
+#### Step 3: Select a land cover legend
+
+```{note}
+Related areas in the PRAIS 4 platform: table SO1-1.T3
+```
 
 Land cover information should be classified using either the default UNCCD legend comprising seven broad land cover classes for aggregate reporting, or a national land cover legend that allows key country-specific degradation processes to be monitored and which can be harmonized with the seven UNCCD land cover classes.
 
@@ -123,191 +96,114 @@ Wherever possible, UNCCD encourages Parties to use the Land Cover Meta Language 
 
 Table 8 shows the conversion between the default UNCCD legend and the ESA CCI-LC legend.
 
-<I>Table 8. Default reclassification of the European Space Agency Climate Change Initiative Land Cover legend against the seven land cover classes needed for reporting to the UNCCD</I>
+```{tabularcolumns} |p{1cm}|p{3cm}|p{1cm}|p{9cm}|
+```
 
-<table BORDER=3 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <th colspan=2>UNCCD</th>
-      <th colspan=2>European Space Agency Climate Change Initiative Land Cover</th>
-    </tr>
-    <tr>
-      <th>Code</th>
-      <th>Label</th>
-      <th>Code</th>
-      <th>Label</th>
-    </tr>
-    <tr>
-      <td rowspan=12>1</td>
-      <td rowspan=12>Tree-covered areas</td>
-      <td>50</td>
-      <td>Tree cover, broadleaved, evergreen, closed to open (>15%)</td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>Tree cover, broadleaved, deciduous, closed to open (>15%)</td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>Tree cover, broadleaved, deciduous, closed (>40%)</td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>Tree cover, broadleaved, deciduous, open (15–40%)</td>
-    </tr>
-    <tr>
-      <td>70</td>
-      <td>Tree cover, needle leaved, evergreen, closed to open (>15%)</td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>Tree cover, needle leaved, evergreen, closed (>40%)</td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>Tree cover, needle leaved, evergreen, open (15–40%)</td>
-    </tr>
-    <tr>
-      <td>80</td>
-      <td>Tree cover, needle leaved, deciduous, closed to open (>15%)</td>
-    </tr>
-    <tr>
-      <td>81</td>
-      <td>Tree cover, needle leaved, deciduous, closed (> 40%)</td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>Tree cover, needle leaved, deciduous, open (15–40%)</td>
-    </tr>
-    <tr>
-      <td>90</td>
-      <td>Tree cover, mixed leaf type (broadleaved and needle leaved)</td>
-    </tr>
-    <tr>
-      <td>100</td>
-      <td>Mosaic tree and shrub (>50%)/herbaceous cover (< 50%)</td>
-    </tr>
-    <tr>
-      <td rowspan=9>2</td>
-      <td rowspan=9>Grassland</td>
-      <td>110</td>
-      <td>Mosaic herbaceous cover (>50%)/tree and shrub (<50%)</td>
-    </tr>
-    <tr>
-      <td>120</td>
-      <td>Shrubland</td>
-    </tr>
-    <tr>
-      <td>121</td>
-      <td>Shrubland evergreen</td>
-    </tr>
-    <tr>
-      <td>122</td>
-      <td>Shrubland deciduous</td>
-    </tr>
-    <tr>
-      <td>130</td>
-      <td>Grassland</td>
-    </tr>
-    <tr>
-      <td>140</td>
-      <td>Lichen and mosses</td>
-    </tr>
-    <tr>
-      <td>151</td>
-      <td>Sparse trees (<15%)</td>
-    </tr>
-    <tr>
-      <td>152</td>
-      <td>Sparse shrub (<15%)</td>
-    </tr>
-    <tr>
-      <td>153</td>
-      <td>Sparse herbaceous cover (<15%)</td>
-    </tr>
-    <tr>
-      <td  rowspan=6>3</td>
-      <td rowspan=6>Cropland</td>
-      <td>10</td>
-      <td>Cropland, rainfed</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>Herbaceous cover</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>Tree or shrub cover</td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>Cropland, irrigated or post-flooding</td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>Mosaic cropland (>50%)/natural vegetation (tree, shrub, herbaceous cover) (<50%)</td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>Mosaic natural vegetation (tree, shrub, herbaceous cover) (>50%)/cropland (< 50%)</td>
-    </tr>
-    <tr>
-      <td rowspan=3>4</td>
-      <td rowspan=3>Wetland</td>
-      <td>160</td>
-      <td>Tree cover, aquatic or regularly flooded in fresh or brackish water</td>
-    </tr>
-    <tr>
-      <td>170</td>
-      <td>Tree cover, aquatic, regularly flooded in salt or brackish water, mangroves</td>
-    </tr>
-    <tr>
-      <td>180</td>
-      <td>Shrub or herbaceous cover, flooded, fresh/brackish water</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Artificial surfaces</td>
-      <td>190</td>
-      <td>Urban areas<td>
-    </tr>
-    <tr>
-      <td rowspan=4>6</td>
-      <td rowspan=4>Other land</td>
-      <td>200</td>
-      <td>Bare areas</td>
-    </tr>
-    <tr>
-      <td>201</td>
-      <td>Consolidated bare areas</td>
-    </tr>
-    <tr>
-      <td>202</td>
-      <td>Unconsolidated bare areas</td>
-    </tr>
-    <tr>
-      <td>220</td>
-      <td>Permanent snow and ice</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Water bodies</td>
-      <td>210</td>
-      <td>Water bodies</td>
-    </tr>
-  </tbody>
-</table>
-</p>
+```{flat-table} *__Table 8__. Default reclassification of the European Space Agency Climate Change Initiative Land Cover legend against the seven land cover classes needed for reporting to the UNCCD*
+---
+header-rows: 2
+widths: 1 3 1 9
+---
+* - {cspan}`1` UNCCD
+  - {cspan}`1` European Space Agency 
+    Climate Change Initiative Land Cover
+* - Code
+  - Label
+  - Code
+  - Label
+* - {rspan}`11` 1
+  - {rspan}`11` Tree-covered areas
+  - 50
+  - Tree cover, broadleaved, evergreen, closed to open (>15%)
+* - 60
+  - Tree cover, broadleaved, deciduous, closed to open (>15%)
+* - 61
+  - Tree cover, broadleaved, deciduous, closed (>40%)
+* - 62
+  - Tree cover, broadleaved, deciduous, open (15–40%)
+* - 70
+  - Tree cover, needle leaved, evergreen, closed to open (>15%)
+* - 71
+  - Tree cover, needle leaved, evergreen, closed (>40%)
+* - 72
+  - Tree cover, needle leaved, evergreen, open (15–40%)
+* - 80
+  - Tree cover, needle leaved, deciduous, closed to open (>15%)
+* - 81
+  - Tree cover, needle leaved, deciduous, closed (> 40%)
+* - 82
+  - Tree cover, needle leaved, deciduous, open (15–40%)
+* - 90
+  - Tree cover, mixed leaf type (broadleaved and needle leaved)
+* - 100
+  - Mosaic tree and shrub (>50%)/herbaceous cover (< 50%)
+* - {rspan}`8` 2
+  - {rspan}`8` Grassland
+  - 110
+  - Mosaic herbaceous cover (>50%)/tree and shrub (<50%)
+* - 120
+  - Shrubland
+* - 121
+  - Shrubland evergreen
+* - 122
+  - Shrubland deciduous
+* - 130
+  - Grassland
+* - 140
+  - Lichen and mosses
+* - 151
+  - Sparse trees (<15%)
+* - 152
+  - Sparse shrub (<15%)
+* - 153
+  - Sparse herbaceous cover (<15%)
+* - {rspan}`5` 3
+  - {rspan}`5` Cropland
+  - 10
+  - Cropland, rainfed
+* - 11
+  - Herbaceous cover
+* - 12
+  - Tree or shrub cover
+* - 20
+  - Cropland, irrigated or post-flooding
+* - 30
+  - Mosaic cropland (>50%)/natural vegetation (tree, shrub, herbaceous cover) (<50%)
+* - 40
+  - Mosaic natural vegetation (tree, shrub, herbaceous cover) (>50%)/cropland (< 50%)
+* - {rspan}`2` 4
+  - {rspan}`2` Wetland
+  - 160
+  - Tree cover, aquatic or regularly flooded in fresh or brackish water
+* - 170
+  - Tree cover, aquatic, regularly flooded in salt or brackish water, mangroves
+* - 180
+  - Shrub or herbaceous cover, flooded, fresh/brackish water
+* - 5
+  - Artificial surfaces
+  - 190
+  - Urban areas
+* - {rspan}`3` 6
+  - {rspan}`3` Other land
+  - 200
+  - Bare areas
+* - 201
+  - Consolidated bare areas
+* - 202
+  - Unconsolidated bare areas
+* - 220
+  - Permanent snow and ice
+* - 7
+  - Water bodies
+  - 210
+  - Water bodies
+```
 
-_Step 4: Generate a transition matrix_
+#### Step 4: Generate a transition matrix
 
-<table BORDER=1 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <td><I>Related areas in the PRAIS 4 platform: tables SO1-1.T4a and SO1-1.T4b</I></td>
-    </tr>
-  </tbody>
-</table>
+```{note}
+Related areas in the PRAIS 4 platform: tables SO1-1.T4a and SO1-1.T4b
+```
 
 Land degradation is context-specific and tightly dependent on the characteristics of the environment. Land degradation processes are not independent, and mitigating one may lead to an increase in another form of degradation. By defining a transition matrix, Parties must decide which land cover changes and processes are expected to cause land degradation, improvement or no change.
 
@@ -315,103 +211,90 @@ Table 9 presents an example of a transition matrix for the default UNCCD land co
 
 For completeness, water bodies are also included in the matrix, although the focus of reporting is on total land area for the purpose of calculating SDG indicator 15.3.1. All water body-related transitions are set as ‘stable’ by default, but Parties may alter these values if changes in the extent of water bodies during the baseline or the reporting period had a significant impact on land cover. It should be noted that any change in the extent of inland water bodies affects the total land area, which needs to be adjusted accordingly.
 
-_Table 9. Example of a land cover transition matrix using the seven UNCCD land cover classes_
+```{flat-table} *__Table 9__. Example of a land cover transition matrix using the seven UNCCD land cover classes*
+---
+header-rows: 3
+stub-columns: 1
+widths: 1 1 1 1 1 1 1 1 1
+---
+* - {rspan}`1`
+  - {cspan}`7` FINAL CLASS
+* - Tree-covered areas
+  - Grassland
+  - Cropland
+  - Wetland
+  - Artificial surfaces
+  - Other land
+  - Water bodies
+* - ORIGINAL CLASS
+  - {cspan}`7`
+* - Tree-covered areas
+  - Stable
+  - Vegetation loss
+  - Deforestation
+  - Innundation
+  - Deforestation
+  - Vegetation loss
+  - Stable
+* - Grassland
+  - Afforestation
+  - Stable
+  - Agricultural expansion
+  - Inundation
+  - Urban expansion
+  - Vegetation loss
+  - Stable
+* - Cropland
+  - Afforestation
+  - Withdrawal of agriculture
+  - Stable
+  - Inundation
+  - Urban expansion
+  - Vegetation loss
+  - Stable
+* - Wetland
+  - Woody encroachment
+  - Wetland drainage
+  - Wetland drainage
+  - Stable
+  - Wetland drainage
+  - Wetland drainage
+  - Stable
+* - Artificial surfaces
+  - Afforestation
+  - Vegetation establishment
+  - Agricultural expansion
+  - Wetland establishment
+  - Stable
+  - Withdrawal of settlements
+  - Stable
+* - Other land
+  - Afforestation
+  - Vegetation establishment
+  - Agricultural expansion
+  - Wetland establishment
+  - Urban expansion
+  - Stable
+  - Stable
+* - Water bodies
+  - Stable
+  - Stable
+  - Stable
+  - Stable
+  - Stable
+  - Stable
+  - Stable
+```
 
-<table BORDER=3 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <th rowspan=10>ORIGINAL CLASS</th>
-      <th colspan=9>FINAL CLASS</th>
-    </tr>
-    <tr>
-      <th></th>
-      <th>Tree-covered areas</th>
-      <th>Grassland</th>
-      <th>Cropland</th>
-      <th>Wetland</th>
-      <th>Artificial surfaces</th>
-      <th>Other land</th>
-      <th>Water bodies</th>
-    </tr>
-    <tr>
-      <th>Tree-covered areas</th>
-      <td>Stable</td>
-      <td>Vegetation loss</td>
-      <td>Deforestation</td>
-      <td>Inundation</td>
-      <td>Deforestation</td>
-      <td>Vegetation loss</td>
-      <td>Stable</td>
-    </tr>
-    <tr>
-      <th>Grassland</th>
-      <td>Afforestation</td>
-      <td>Stable</td>
-      <td>Agricultural expansion</td>
-      <td>Inundation</td>
-      <td>Urban expansion</td>
-      <td>Vegetation loss</td>
-      <td>Stable</td>
-    </tr>
-    <tr>
-      <th>Cropland</th>
-      <td>Afforestation</td>
-      <td>Withdrawal of agriculture</td>
-      <td>Stable</td>
-      <td>Inundation</td>
-      <td>Urban expansion</td>
-      <td>Vegetation loss</td>
-      <td>Stable</td>
-    </tr>
-    <tr>
-      <th>Wetland</th>
-      <td>Woody encroachment</td>
-      <td>Wetland drainage</td>
-      <td>Wetland drainage</td>
-      <td>Stable</td>
-      <td>Wetland drainage</td>
-      <td>Wetland drainage</td>
-      <td>Stable</td>
-    </tr>
-    <tr>
-      <th>Artificial surfaces</th>
-      <td>Afforestation</td>
-      <td>Vegetation establishment</td>
-      <td>Agricultural expansion</td>
-      <td>Wetland establishment</td>
-      <td>Stable</td>
-      <td>Withdrawal of settlements</td>
-      <td>Stable</td>
-    </tr>  
-    <tr>
-      <th>Other land</th>
-      <td>Afforestation</td>
-      <td>Vegetation establishment</td>
-      <td>Agricultural expansion</td>
-      <td>Wetland establishment</td>
-      <td>Urban expansion</td>
-      <td>Stable</td>
-      <td>Stable</td>
-    </tr>  
-    <tr>
-      <th>Water bodies</th>
-      <td>Stable</td>
-      <td>Stable</td>
-      <td>Stable</td>
-      <td>Stable</td>
-      <td>Stable</td>
-      <td>Stable</td>
-      <td>Stable</td>
-    </tr>
-   </tbody>
-</table>
-<I>Note: Land cover change processes are color coded as improvement (green), stable (yellow) or degradation (red). Unlikely transitions are written in red. Note that this is an example of a transition matrix and should not be interpreted as appropriate for countries to adopt without consideration of local conditions and key degradation processes.</I>
-</p>
+```{note}
+Land cover change processes are color coded as improvement (green), stable (yellow) or degradation (red). Unlikely transitions are written in red. Note that this is an example of a transition matrix and should not be interpreted as appropriate for countries to adopt without consideration of local conditions and key degradation processes.
+```
+
 Depending on the land cover legend selected in Step 3, Parties will need to provide their interpretation of land cover transitions using tables SO1-1.T4a or SO1-1.T4b for (i) UNCCD default land cover classes; (ii) or national land cover classes, respectively.
 
 The PRAIS 4 platform includes functions to modify the default transition matrix data and assign a ‘–’ or ‘+’ sign to each transition depending on whether it causes a degradation or improvement of the land according to national circumstances. However, if opting to modify the default transition matrix (i.e. table SO1-1.T4a), the transition matrix should first be edited in Trends.Earth so that the reported transitions can be integrated into the calculations of the SO 1-1 outputs and SDG indicator 15.3.1. Editing the transition matrix in PRAIS 4 alone will not result in a recalculation of the spatial data for SO 1-1.
 
-_Step 5: Assess available data_
+#### Step 5: Assess available data
 
 UNCCD provides prefilled default data in the PRAIS 4 platform derived from the latest ESA CCI-LC dataset to lighten the reporting burden. However, Parties may report their estimates using national land cover data if they meet the specifications listed in table 10.
 
