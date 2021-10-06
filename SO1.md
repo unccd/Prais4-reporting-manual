@@ -1029,14 +1029,17 @@ Related areas in the PRAIS 4 platform: tables SO1-3.T1, SO1-3.T2, SO1-3.T3 and S
 
 The recommended method to estimate SOC stock changes uses the trend (or the direction of change) of SOC stocks observed within the reporting period as well as the magnitude of the relative change in SOC stocks between the baseline and the reporting period. This approach only assesses whether there has been a (significant) negative change between the baseline and the reporting period and makes no assumptions about the initial status of SOC stocks.
 
-Once the baseline SOC stocks (SOCt0) and the SOC stocks at the end of the reporting period (SOCtn) for a given reporting unit have been consistently estimated (using any of the Tier 1–3 methods), the relative percentage change in SOC stocks is calculated as follows:
+Once the baseline SOC stocks (SOC{sub}`t0`) and the SOC stocks at the end of the reporting period (SOC{sub}`tn`) for a given reporting unit have been consistently estimated (using any of the Tier 1–3 methods), the relative percentage change in SOC stocks is calculated as follows:
 
-TSOC = (( SOCtn - SOCt0 )/ SOCt0) x 100
+  > T{sub}`SOC` = (( SOC{sub}`tn` - SOC{sub}`t0` )/ SOC{sub}`t0`) x 100
 
 Where:
-TSOC = relative change in soil organic carbon for reporting unit (%)
-SOCt0 = baseline soil organic carbon stock for reporting unit (tons of carbon per hectare)
-SOCtn = soil organic carbon stock for final reporting period for reporting unit (tons of carbon per hectare).
+
+  > T{sub}`SOC` = relative change in soil organic carbon for reporting unit (%)
+  >
+  > SOC{sub}`t0` = baseline soil organic carbon stock for reporting unit (tons of carbon per hectare)
+  >
+  > SOC{sub}`tn` = soil organic carbon stock for final reporting period for reporting unit (tons of carbon per hectare).
 
 For assessing changes in SOC stocks, UNCCD suggests two alternative approaches:
 
