@@ -288,7 +288,7 @@ The DVI may be derived through three alternative processes, corresponding to thr
 
 - Tier 2 VA – uses more than one factor per vulnerability component, where the factors are represented by country-level metrics, with the inclusion of sex-disaggregated data (where applicable).
 
-- Tier 3 VA – uses more than one factor per vulnerability component, where factors are represented by sub-national metrics (which may be gridded or for administrative regions  ), with the inclusion of sex-disaggregated data (where applicable).
+- Tier 3 VA – uses more than one factor per vulnerability component, where factors are represented by sub-national metrics (which may be gridded or disaggregated by administrative regions  ), with the inclusion of sex-disaggregated data (where applicable).
 
 Parties may opt for the approach best suited to their current capacity to collect and process data, subject to data availability.
 
