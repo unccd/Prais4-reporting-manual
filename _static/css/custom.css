@@ -1,4 +1,4 @@
-/* CSS for the transition matrix table */
+/* CSS for the transition matrix table in sample_markdown */
 .rst-content table.transition-matrix tr:nth-child(1) td:nth-child(2) {background-color: #fffacd;}
 .rst-content table.transition-matrix tr:nth-child(1) td:nth-child(3) {background-color: #ffb6c1;}
 .rst-content table.transition-matrix tr:nth-child(1) td:nth-child(4) {background-color: #ffb6c1;}
@@ -74,6 +74,122 @@
 #id35 tr:nth-child(7) td:nth-child(7) {background-color: #FEFCCE;}
 #id35 tr:nth-child(7) td:nth-child(8) {background-color: #FEFCCE;}
 
+
+/* CSS for SO 1 - Table 13 - productivity metrix */
+
+#id39 tr td {
+  text-align: center;
+}
+
+#id39 tr:nth-child(1) td:nth-child(2) {background-color: lightgreen}
+#id39 tr:nth-child(1) td:nth-child(3) {background-color: lightgreen}
+#id39 tr:nth-child(1) td:nth-child(4) {background-color: #E5DFEC}
+#id39 tr:nth-child(1) td:nth-child(5) {background-color: lightgreen}
+#id39 tr:nth-child(1) td:nth-child(6) {background-color: lightgreen}
+
+#id39 tr:nth-child(2) td:nth-child(2) {background-color: lightgreen}
+#id39 tr:nth-child(2) td:nth-child(3) {background-color: lightgreen}
+#id39 tr:nth-child(2) td:nth-child(4) {background-color: red; color: black;}
+#id39 tr:nth-child(2) td:nth-child(5) {background-color: lightgreen}
+#id39 tr:nth-child(2) td:nth-child(6) {background-color: lightgreen}
+
+#id39 tr:nth-child(3) td:nth-child(2) {background-color: lightgreen}
+#id39 tr:nth-child(3) td:nth-child(3) {background-color: #E5DFEC}
+#id39 tr:nth-child(3) td:nth-child(4) {background-color: #E5DFEC}
+#id39 tr:nth-child(3) td:nth-child(5) {background-color: lightgreen}
+#id39 tr:nth-child(3) td:nth-child(6) {background-color: lightgreen}
+
+#id39 tr:nth-child(4) td:nth-child(2) {background-color: lightgreen}
+#id39 tr:nth-child(4) td:nth-child(3) {background-color: #E5DFEC}
+#id39 tr:nth-child(4) td:nth-child(4) {background-color: red; color: black;}
+#id39 tr:nth-child(4) td:nth-child(5) {background-color: lightgreen}
+#id39 tr:nth-child(4) td:nth-child(6) {background-color: lightgreen}
+
+#id39 tr:nth-child(5) td:nth-child(2) {background-color: lightgreen}
+#id39 tr:nth-child(5) td:nth-child(3) {background-color: red; color: black;}
+#id39 tr:nth-child(5) td:nth-child(4) {background-color: #E5DFEC}
+#id39 tr:nth-child(5) td:nth-child(5) {background-color: lightgreen}
+#id39 tr:nth-child(5) td:nth-child(6) {background-color: lightgreen}
+
+#id39 tr:nth-child(6) td:nth-child(2) {background-color: lightgreen}
+#id39 tr:nth-child(6) td:nth-child(3) {background-color: red; color: black;}
+#id39 tr:nth-child(6) td:nth-child(4) {background-color: red; color: black;}
+#id39 tr:nth-child(6) td:nth-child(5) {background-color: orange}
+#id39 tr:nth-child(6) td:nth-child(6) {background-color: red; color: black;}
+
+#id39 tr:nth-child(7) td:nth-child(2) {background-color: #E5DFEC}
+#id39 tr:nth-child(7) td:nth-child(3) {background-color: lightgreen}
+#id39 tr:nth-child(7) td:nth-child(4) {background-color: #E5DFEC}
+#id39 tr:nth-child(7) td:nth-child(5) {background-color: #E5DFEC}
+#id39 tr:nth-child(7) td:nth-child(6) {background-color: #E5DFEC}
+
+#id39 tr:nth-child(8) td:nth-child(2) {background-color: #E5DFEC}
+#id39 tr:nth-child(8) td:nth-child(3) {background-color: lightgreen}
+#id39 tr:nth-child(8) td:nth-child(4) {background-color: red; color: black;}
+#id39 tr:nth-child(8) td:nth-child(5) {background-color: #E5DFEC}
+#id39 tr:nth-child(8) td:nth-child(6) {background-color: #E5DFEC}
+
+#id39 tr:nth-child(9) td:nth-child(2) {background-color: #E5DFEC}
+#id39 tr:nth-child(9) td:nth-child(3) {background-color: #E5DFEC}
+#id39 tr:nth-child(9) td:nth-child(4) {background-color: #E5DFEC}
+#id39 tr:nth-child(9) td:nth-child(5) {background-color: #E5DFEC}
+#id39 tr:nth-child(9) td:nth-child(6) {background-color: #E5DFEC}
+
+#id39 tr:nth-child(10) td:nth-child(2) {background-color: #E5DFEC}
+#id39 tr:nth-child(10) td:nth-child(3) {background-color: #E5DFEC}
+#id39 tr:nth-child(10) td:nth-child(4) {background-color: red; color: black;}
+#id39 tr:nth-child(10) td:nth-child(5) {background-color: #CCC0D9}
+#id39 tr:nth-child(10) td:nth-child(6) {background-color: #E5DFEC}
+
+#id39 tr:nth-child(11) td:nth-child(2) {background-color: #E5DFEC}
+#id39 tr:nth-child(11) td:nth-child(3) {background-color: red; color: black;}
+#id39 tr:nth-child(11) td:nth-child(4) {background-color: #E5DFEC}
+#id39 tr:nth-child(11) td:nth-child(5) {background-color: orange}
+#id39 tr:nth-child(11) td:nth-child(6) {background-color: #E5DFEC}
+
+#id39 tr:nth-child(12) td:nth-child(2) {background-color: #E5DFEC}
+#id39 tr:nth-child(12) td:nth-child(3) {background-color: red; color: black;}
+#id39 tr:nth-child(12) td:nth-child(4) {background-color: red; color: black;}
+#id39 tr:nth-child(12) td:nth-child(5) {background-color: red; color: black;}
+#id39 tr:nth-child(12) td:nth-child(6) {background-color: red; color: black;}
+
+#id39 tr:nth-child(13) td:nth-child(2) {background-color: red; color: black;}
+#id39 tr:nth-child(13) td:nth-child(3) {background-color: lightgreen}
+#id39 tr:nth-child(13) td:nth-child(4) {background-color: #E5DFEC}
+#id39 tr:nth-child(13) td:nth-child(5) {background-color: red; color: black;}
+#id39 tr:nth-child(13) td:nth-child(6) {background-color: red; color: black;}
+
+#id39 tr:nth-child(14) td:nth-child(2) {background-color: red; color: black;}
+#id39 tr:nth-child(14) td:nth-child(3) {background-color: lightgreen}
+#id39 tr:nth-child(14) td:nth-child(4) {background-color: red; color: black;}
+#id39 tr:nth-child(14) td:nth-child(5) {background-color: red; color: black;}
+#id39 tr:nth-child(14) td:nth-child(6) {background-color: red; color: black;}
+
+#id39 tr:nth-child(15) td:nth-child(2) {background-color: red; color: black;}
+#id39 tr:nth-child(15) td:nth-child(3) {background-color: #E5DFEC}
+#id39 tr:nth-child(15) td:nth-child(4) {background-color: #E5DFEC}
+#id39 tr:nth-child(15) td:nth-child(5) {background-color: red; color: black;}
+#id39 tr:nth-child(15) td:nth-child(6) {background-color: red; color: black;}
+
+#id39 tr:nth-child(16) td:nth-child(2) {background-color: red; color: black;}
+#id39 tr:nth-child(16) td:nth-child(3) {background-color: #E5DFEC}
+#id39 tr:nth-child(16) td:nth-child(4) {background-color: red; color: black;}
+#id39 tr:nth-child(16) td:nth-child(5) {background-color: red; color: black;}
+#id39 tr:nth-child(16) td:nth-child(6) {background-color: red; color: black;}
+
+#id39 tr:nth-child(17) td:nth-child(2) {background-color: red; color: black;}
+#id39 tr:nth-child(17) td:nth-child(3) {background-color: red; color: black;}
+#id39 tr:nth-child(17) td:nth-child(4) {background-color: #E5DFEC}
+#id39 tr:nth-child(17) td:nth-child(5) {background-color: red; color: black;}
+#id39 tr:nth-child(17) td:nth-child(6) {background-color: red; color: black;}
+
+#id39 tr:nth-child(18) td:nth-child(2) {background-color: red; color: black;}
+#id39 tr:nth-child(18) td:nth-child(3) {background-color: red; color: black;}
+#id39 tr:nth-child(18) td:nth-child(4) {background-color: red; color: black;}
+#id39 tr:nth-child(18) td:nth-child(5) {background-color: red; color: black;}
+#id39 tr:nth-child(18) td:nth-child(6) {background-color: red; color: black;}
+
+
 /* BLockquotes */
 .rst-content blockquote {
   background-color: #f8f8f8;
@@ -116,6 +232,20 @@ h4 {
   font-weight: 500;
 }
 
+h5 {
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+}
+
 blockquote.pull-quote {
   padding-bottom: 0;
+}
+
+.font-style-italic {
+  font-style: italic;
+}
+
+.font-weight-bold {
+  font-weight: bold;
 }

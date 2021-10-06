@@ -32,6 +32,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinxnotes.strike',
     'linuxdoc.rstFlatTable', # https://return42.github.io/linuxdoc/linuxdoc-howto/table-markup.html#flat-table
+    # 'sphinx.ext.mathjax', # https://www.sphinx-doc.org/en/master/usage/extensions/math.html#module-sphinx.ext.mathjax
 ]
 
 myst_enable_extensions = [
@@ -125,6 +126,7 @@ latex_elements = {
     \setcounter{tocdepth}{0}
     \usepackage{caption}
     \captionsetup{labelformat=empty}
+    \protected\def\sphinxstyletheadfamily {\bfseries}
     '''
 }
 

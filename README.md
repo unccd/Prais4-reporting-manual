@@ -21,3 +21,4 @@ PDF version is available [here](https://buildmedia.readthedocs.org/media/pdf/pra
     latexmk
     texlive-xetex
     fonts-freefont-otf
+    texlive-fonts-extra
