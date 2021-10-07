@@ -16,6 +16,7 @@
 /* CSS for SO1 - table 9 */
 #id35 p {
   font-size: 0.8rem;
+  color: black;
 }
 
 #id35 tr:nth-child(1) td:nth-child(2) {background-color: #FEFCCE;}
