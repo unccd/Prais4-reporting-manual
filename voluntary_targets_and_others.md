@@ -1,4 +1,4 @@
-# Voluntary Targets
+#  6. Strategic objective 1 to 4: voluntary targets, additional indicators and affected areas
 
 ## 6.1. Voluntary targets for strategic objective 1 
 
