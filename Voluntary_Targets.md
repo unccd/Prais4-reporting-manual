@@ -92,4 +92,36 @@ National coordination
 - Achieving Land Degradation Neutrality at the Country Level: Building Blocks for LDN Target Setting (https://www.unccd.int/publications/achieving-land-degradation-neutrality-country-level-building-blocks-ldn-target-setting)
 - Goals and Commitments for the Restoration Decade. A global overview of countries’ restoration commitments under the Rio Conventions and other pledges. © PBL Netherlands Environmental Assessment Agency, The Hague, 2020, PBL publication number: 3906 (https://www.pbl.nl/sites/default/files/downloads/pbl-2020-goals-and-commitments-for-the-restoration-decade-3906.pdf)
 
+## 6.2. Voluntary targets for strategic objectives 2, 3 and 4
 
+### 6.2.1. Introduction
+
+Parties may wish to set national voluntary targets that contribute to the achievement of SOs 2, 3 and 4: 
+
+- SO 2: to improve the living conditions of affected populations;
+
+- SO 3: to mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems;
+
+- SO 4: to generate global environmental benefits through effective implementation of the UNCCD.
+
+The definition of voluntary targets should be based on best available data and knowledge. The assessment and estimation of the related indicators can play a key role in informing the decision-making process. 
+
+Targets need to be measurable to monitor progress. Parties are invited to formulate quantifiable, time-bound and, where relevant, geographically explicit targets.
+
+Voluntary targets and actions undertaken to achieve the UNCCD SOs can simultaneously contribute to climate change mitigation and adaptation, biodiversity conservation and multiple SDGs. Thus, there is considerable potential for synergies and it is very important that targets set under the UNCCD ensure policy coherence and alignment with other national commitments made under the SDGs, different Conventions and related initiatives.
+
+### 6.2.2. Reporting process and step-by-step procedure
+
+The step-by-step procedure for reporting is as follows.
+
+_Step 1. Declare national voluntary targets_
+
+Parties are invited to articulate, in quantifiable and time-bound terms, voluntary targets that contribute to the achievement of SOs 2, 3 and 4, and to include information on the expected year of achievement or actual year (if already achieved), the level of application (e.g., national, sub-national) and the implementation status (achieved, not achieved, ongoing, extended or postponed, partially achieved). 
+
+Delineating the SO 2, 3 and 4 target areas in PRAIS 4 is not requested at this stage. However, geographically explicit targets with distinct locations can help create realistic and purposeful sub-national commitments and plans.
+
+_Step 2. Provide any complementary information_
+
+Complementary information may be reported in the “General Comments” field. This may include whether the targets have been adopted or officially endorsed and if so, by which body (institution, government agency, regulation). Implemented action, such as target-related projects and initiatives on the ground can also be described. 
+
+Furthermore, Parties are encouraged to outline the linkages with the SDGs, indicate opportunities to create leverage and synergies with their countries’ socio-economic, infrastructural and biodiversity agendas, and collaborate with other multilateral environmental agreements.
