@@ -21,3 +21,75 @@ An example of a time-bound, measurable and geographically explicit LDN voluntary
 
 LDN is intended to be achieved at the national level. Countries typically aim to achieve this through the definition of a combination of national target(s) and complementary targets at the sub-national level for a specific indicator and/or a specific geographic area (i.e., a particular ecosystem, natural area, watershed or subnational administrative jurisdiction), which together contribute to realizing Parties’ ambitions in achieving or exceeding LDN at the national level. Generic examples of LDN targets at different levels of application are presented in table 26 below. 
 
+```{list-table} *__Table 26__. Generic examples of Land Degradation Neutrality targets at different levels of application*
+
+header-rows: 1
+
+* - Level of application
+  - Example
+* - National level (no net loss)
+  - “Achieve Land Degradation Neutrality (LDN) by 2030 compared to the 2015 baseline”
+* - National level (net gain)
+  - “Achieve LDN by 2030 compared to the 2015 baseline, plus an additional 10% of the national territory has improved”
+* - Sub-national level (no net loss)
+  - “Achieve LDN in the Western province of country X by 2030 compared to the 2015 baseline”
+* - Sub-national level (net gain)
+  -  “Achieve LDN in the Southern province of country X by 2030 compared to the 2015 baseline, plus an additional 25% of the province territory has improved”
+* - Specific target (to avoid land degradation)
+  - “Halt the conversion of forests and wetlands to other land cover classes by 2020”
+* - Specific target (to reduce land degradation)
+  - “Reduce the rate of soil sealing (conversion to artificial land cover) by 50% by 2030 compared to the 2015 baseline”
+* - Specific target (to reverse land degradation)
+  -  <P>“Improve productivity and Soil Organic Carbon stocks in cropland and grasslands by 2030 compared to the 2015 baseline”</P><P>“Rehabilitate X million hectares of degraded and abandoned land for crop production by 2030”</P>
+“Increase forest cover by 20% by 2030 compared to the 2015 baseline”
+```
+
+Voluntary targets and actions undertaken to address land degradation can simultaneously contribute to climate change mitigation and adaptation, biodiversity conservation and multiple Sustainable Development Goals (SDGs). Thus, there is considerable potential for synergies and it is very important that LDN targets ensure policy coherence and alignment with other national commitments made under different Conventions and related initiatives (i.e., Nationally Determined Contributions, National Adaptation Plans, National Biodiversity Strategies and Action Plans, land restoration commitments). In this context, LDN targets should be seen as an effective means of complementing and strengthening other country commitments and avoiding duplication of efforts.
+
+### 6.1.2. Prerequisites for reporting
+
+- An in-depth reading of the [LDN Target Setting technical guide](https://knowledge.unccd.int/publication/ldn-target-setting-technical-guide).
+
+- A pool of national experts that report across various Conventions and related initiatives to ensure alignment and coherence between LDN-relevant national commitments.
+
+- A spatial data file of the target areas or a good understanding of the location and extent of the targets, allowing them to be reported on in a spatially explicit manner using the PRAIS 4 spatial data viewer.
+
+### 6.1.3. Reporting process and step-by-step procedure
+
+The step-by-step procedure for reporting is as follows.
+
+_Step 1. Declare national voluntary targets_
+
+National voluntary targets are reported in table SO1-VT.T1 of the PRAIS 4 platform. Parties are invited to articulate, in quantifiable and time-bound terms, voluntary targets that contribute to LDN and/or SO 1 and to include information on the expected year of target achievement, location and total target area, type of LDN intervention (i.e., relevance of the target to the LDN response hierarchy), planned or ongoing measures to achieve the target, and the status of target achievement. Since targets set under the United Nations Convention to Combat Desertification (UNCCD) can also address commitments made under other Rio Conventions and associated initiatives, Parties may also indicate other existing goals of relevance for their LDN targets.
+
+Table SO1-VT.T1 is a spatial table and therefore should ideally be completed with the support of the Geographic Information System (GIS) tools available in PRAIS 4. The PRAIS 4 spatial data viewer enables Parties to delineate the location and extent of their targets, thereby making them geographically explicit, or to upload an existing spatial file (in vector format) of the target areas. This is an additional and optional element, but such location-based information can strengthen spatial approaches to sustainable land management and help integrate responses to land degradation at the landscape scale. 
+
+Additional information not included in the table may be reported in the “General Comment” field.
+
+_Step 2. Describe implemented actions relevant to the targets_
+
+Areas of implemented action (projects and initiatives on the ground) related to the targets can be reported on in table SO1.IA.T1. As for Step 1, areas of implemented action should ideally be delineated in the PRAIS 4 spatial data viewer. 
+
+Delineating voluntary targets and related actions currently under implementation can help track progress towards achieving LDN in a country by 2030, support the quantification of any remaining gaps and develop scenarios for closing those gaps. In addition, the UNCCD can use this spatial data to create information products to demonstrate the impact of the Convention and global progress towards LDN. 
+
+### 6.1.4. Dependencies
+
+Although there is no direct dependency between the voluntary targets and SO 1 indicators, it is expected that the results of the geospatial analyses for the estimation of the proportion of degraded land will inform the definition and spatial delineation of the voluntary targets and related projects and initiatives on the ground.
+
+There is a dependency between the targets set in table SO1-VT.T1 and the implemented actions reported in SO1.IA.T1; each reported action in table SO1.IA.T1 should correspond to one or more targets reported on in SO1-VT.T1      
+
+### 6.1.5. Challenges
+
+National coordination
+
+- With respect to the various plans and commitments formulated under the Rio Conventions and/or other related initiatives, there is the risk of lack of coherence, overlap and duplication of efforts. There is scope for better alignment on restoration in national plans between the three Rio Conventions, which could enhance planning and implementation.
+
+- National voluntary targets need to be well-defined, measurable and time-bound to monitor progress. The availability of GIS tools in PRAIS 4 may support the definition of more accurate and realistic targets in defined locations.
+
+### 6.1.6. Further reading
+
+- LDN Target Setting – A technical guide (https://knowledge.unccd.int/publication/ldn-target-setting-technical-guide)
+- Achieving Land Degradation Neutrality at the Country Level: Building Blocks for LDN Target Setting (https://www.unccd.int/publications/achieving-land-degradation-neutrality-country-level-building-blocks-ldn-target-setting)
+- Goals and Commitments for the Restoration Decade. A global overview of countries’ restoration commitments under the Rio Conventions and other pledges. © PBL Netherlands Environmental Assessment Agency, The Hague, 2020, PBL publication number: 3906 (https://www.pbl.nl/sites/default/files/downloads/pbl-2020-goals-and-commitments-for-the-restoration-decade-3906.pdf)
+
+
