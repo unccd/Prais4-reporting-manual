@@ -120,14 +120,14 @@ Related areas in the PRAIS 4 platform: table SO3-1.T2
 
 The proportion of land in each drought intensity class is calculated for each reporting year as a percentage of the total land area. 
 For each of the SPI-12 grids in the baseline and reporting period, the number of cells falling under each of the SPI drought intensity classes is counted (cellCount). Then, for each reporting year, the percentage of the total land area in each drought intensity class is calculated. The formula is as follows: 
-%cellCountij = (cellCountij / Total number of cells) × 100
+
+%cellCounti{sub}j = (cellCount{sub}ij / Total number of cells) × 100
 
 Where:
-
 “cellCount” is the number of pixels under a drought intensity class in one year
 “%cellCount” is the proportion of land under the related drought intensity class
-“i” is the drought intensity class
-“j” is the reporting year
+“{sub}i” is the drought intensity class
+“{sub}j” is the reporting year
 “Total number of cells’” is all the grid cells within the country Party’s land area.
 
 The total area falling under each of the drought intensity classes in each year is calculated by multiplying cellCount by the area of the cells (a constant value, since the drought intensity class grid was previously converted to an equal-area projection).
@@ -234,9 +234,31 @@ _Figure 2. Decision tree to help Parties choose the best population data source 
 
 This decision-making process should help Parties identify data that meets the specifications summarized in table 20. 
 
-_Table 20. Data Specifications for SO3-2 Indicator_
-
-**Table**
+```{flat-table} *__Table 20__. Data specifications for SO 3-2 Indicator*
+---
+header-rows: 2
+widths: 1 3 3
+---
+* - {rspan}`1` Item
+  - {cspan}`1` Specifications
+* - Default data
+  - National data
+* - Input data (Data needed to generate indicator SO 3-2, as described in Steps 2 to 4)
+  - <P>WorldPop data for the period 2000–2020, disaggregated by sex.</P>Drought intensity class data as determined by indicator SO 3-1.
+  - <P>Gridded population products derived from national official statistics from the year 2000 to the reporting year, ideally annual and, if available, disaggregated by sex.</P>Drought intensity class data as determined by indicator SO 3-1.
+* - Output data (Gridded products resulting from the analysis described in Steps 2 to 4)
+  - <P>Annual gridded products of total, female and male population exposed to the four drought intensity classes from the year 2000 to the reporting year.</P><P>Count and percentage of total, female and male population exposed to drought and to each drought intensity class.</P>Gridded spatial summary in four-year epochs.
+  - <P>Gridded population products derived from national official statistics from the year 2000 to the reporting year, ideally annual and, if available, disaggregated by sex.</P>Drought intensity class data as determined by indicator SO 3-1.
+* - Spatial resolution
+  - Worldpop: 3-arc seconds (~100 m)
+  - Assessed by national authorities based on available data.
+* - Quality
+  - Specified in the datasets’ metadata. 
+  - To be indicated in the dataset metadata.
+* - Metadata
+  - Metadata information is provided with default data. 
+  - Minimum metadata content as per the mandatory fields listed in Annex II. 
+```
 
 _Step 2:  Overlay gridded population data with indicator SO 3-1 spatial output_
 
@@ -246,7 +268,9 @@ Population and drought hazard intensity data should have the same coordinate ref
  
 _Step 3: Calculate the total population and the number and percentage of people within each drought intensity class_
  
-**Table**
+```{note}
+Related areas in the PRAIS 4 platform: tables SO3-2.T1, SO3-2.T2 and SO3-2.T3
+```
 
 The yearly total population is obtained by adding the population residing in each land unit (e.g., grid cell) of a country area for each year within the baseline and the reporting periods (i.e., from 2000 to the reporting year). 
 
@@ -362,13 +386,38 @@ National/regional data products used to calculate the DVI should conform with th
 
 _Figure 4. Decision tree to help Parties choose the best tier of vulnerability assessment for the SO 3-3 Indicator reporting according to data availability_
 
-![](/img/SO3_3b_Decision_tree.jpg "DVI: Drought Vulnerability Index
-VA: Vulnerability Assessment
-")
+![](/img/SO3_3b_Decision_tree.jpg)
+ _DVI: Drought Vulnerability Index
+VA: Vulnerability Assessment_
 
-_Table 21. Data specifications for SO3-3 Indicator_
-
-**Table**
+```{flat-table} *__Table 20__. Data specifications for SO 3-3 Indicator*
+---
+header-rows: 2
+widths: 1 3 3
+---
+* - {rspan}`1` Item
+  - {cspan}`1` Specifications
+* - Default data (Drought Vulnerability Index dataset produced by the Joint Research Centre)
+  - National data
+* - Input data (Data needed to generate indicator SO 3-3 as described in Steps 2 to 4)
+  - Input data used to calculate the default Drought Vulnerability Index (DVI) is drawn from various sources such as World Bank, Organisation for Economic Cooperation and Development, Food and Agriculture Organization of the United Nations, and Joint Research Centre.
+  - <P>Freely available datasets for the calculation of the factors needed to derive the DVI are listed in table 14 of the “[Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf)".</P>Alternatively, if available, in-country datasets with higher spatial resolution and fewer gaps over the baseline and reporting period.
+* - Output data (DVI indicator resulting from the analysis described in Steps 2 to 4)
+  - 2018 DVI for the baseline and the reporting period. Regions where droughts could be meaningless, such as deserts and cold areas, are masked.
+  - Annual or near-annual DVI for the baseline and reporting periods.
+* - Classification
+  - Continuous, fractional scale from 0 to 1 but classification based on quantiles to group the vulnerability classes.
+  - Continuous scale from 0 to 1.
+* - Spatial resolution
+  - Country level
+  - National and/or sub-national levels
+* - Quality
+  - Specified in the datasets’ metadata. 
+  - To be indicated in the dataset metadata.
+* - Metadata
+  - Metadata information is provided with default data. 
+  - Minimum metadata content as per the mandatory fields listed in Annex II. 
+```
 
 _Step 2:  Factor normalization_
 
