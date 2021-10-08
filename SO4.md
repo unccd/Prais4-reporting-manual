@@ -32,7 +32,9 @@ The step-by-step procedure for reporting is described in the following.
 
 _Step 1: Report Red List Index data_
 
-**Table**
+```{note}
+Related areas in the PRAIS 4 platform: table SO4-2.T1
+```
 
 The RLI is SDG indicator 15.5.1. Therefore, the RLI data are pre-filled from the SDG database, including the national-level index value as well as the upper and lower bounds of uncertainty around the national estimate. No further action is required if Parties choose to use the default data. 
 
@@ -46,7 +48,9 @@ Details on the customization of the RLI values should be reported in the ‘Gene
 
 _Step 2: Qualitatively assess the Red List Index data_
 
-**Table**
+```{note}
+Related areas in the PRAIS 4 platform: table SO4-2.T2
+```
 
 Countries are encouraged to identify and then rank which drivers directly or indirectly cause negative changes or downward trends. Countries are also encouraged to comment on the policy responses or levers that have caused positive changes, upward trends or reversal of negative trends in the RLI[^5]. 
 
@@ -99,7 +103,7 @@ Key actions for reporting on RLI are as follows:
 
 Protecting important sites for biodiversity is critical to halting the decline in biodiversity and ensuring the long-term and sustainable use of terrestrial natural resources. Establishing protected areas is an important mechanism for achieving this aim, and this indicator measures progress toward the conservation, restoration and sustainable use of terrestrial ecosystems and their services.
 
-Protected areas as defined by the IUCN  are clearly defined geographical spaces, recognized, dedicated and managed, through legal or other effective means, to achieve the long-term conservation of nature with associated ecosystem services and cultural values. A variety of specific management objectives and levels of access are recognized within this definition, spanning conservation, restoration and sustainable use.
+Protected areas as defined by the IUCN[^6]  are clearly defined geographical spaces, recognized, dedicated and managed, through legal or other effective means, to achieve the long-term conservation of nature with associated ecosystem services and cultural values. A variety of specific management objectives and levels of access are recognized within this definition, spanning conservation, restoration and sustainable use.
 
 In addition to protecting biodiversity, protected areas have high social and economic value because they support local livelihoods, protect watersheds from erosion, contain a wealth of genetic resources, support recreation and tourism industries, provide for science, research and education, and contain many cultural and other non-material values.
 
@@ -107,7 +111,7 @@ The metric average proportion of terrestrial Key Biodiversity Areas (KBAs) cover
 
 The metadata for SDG indicator 15.1.2 includes other effective area-based conservation measures (OECMs) in addition to protected areas. OECMs are defined as ‘a geographically defined area other than a protected area, which is governed and managed in ways that achieve positive and sustained long-term outcomes for the in situ conservation of biodiversity, with associated ecosystem functions and services and where applicable, cultural, spiritual, socio-economic, and other locally relevant values’. 
 
-KBAs are sites that contribute significantly to the global persistence of biodiversity and are identified following global criteria  applied at national levels. The KBAs include:
+KBAs are sites that contribute significantly to the global persistence of biodiversity and are identified following global criteria[^7]  applied at national levels. The KBAs include:
 
 i.	Important bird and biodiversity areas, which are sites that contribute significantly to the global persistence of biodiversity, identified using data on birds, of which >13,000 sites in total have been identified from all of the world’s countries;
 
@@ -115,13 +119,19 @@ ii.	Alliance for Zero Extinction sites, which are sites holding effectively the 
 
 iii.	KBAs identified using an earlier version of the KBA criteria, including those identified in ecosystem hotspot profiles developed with the support of the Critical Ecosystem Partnership Fund.
 
-Data on protected areas are managed in the World Database on Protected Areas by the UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC).  
+Data on protected areas are managed in the World Database on Protected Areas by the UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)[^8].  
 
-Data on OECMs are managed in the World Database on OECMs by the UNEP-WCMC. 
+Data on OECMs are managed in the World Database on OECMs by the UNEP-WCMC[^9]. 
 
-Data on KBAs are managed in the World Database of Key Biodiversity Areas by BirdLife International on behalf of the Key Biodiversity Areas Partnership.  
+Data on KBAs are managed in the World Database of Key Biodiversity Areas by BirdLife International on behalf of the Key Biodiversity Areas Partnership[^10].  
 
 The main output of the reporting process for SO 4-3 is a set of officially verified annual estimates of the values of average proportion of terrestrial KBAs covered by protected areas for 2000–2020. National reporting is facilitated through the provision of default data pre-filled from the SDG database for indicator 15.1.2b.
+
+[^6]: For an explanation of categories, see: https://www.iucn.org/theme/protected-areas/about/protected-area-categories.
+[^7]: For a detailed methodology, see: A Global Standard for the Identification of Key Biodiversity Areas (IUCN 2016). https://portals.iucn.org/library/sites/library/files/documents/2016-048.pdf.
+[^8]: See https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA.
+[^9]: www.protectedplanet.net/en/thematic-areas/oecms.
+[^10]: www.keybiodiversityareas.org/kba-data.
 
 ### 4.3.2. Prerequisites for reporting
 
@@ -135,15 +145,21 @@ The step-by-step procedure for reporting is described in the following.
 
 _Step 1: Report indicator data_
 
-**Table**
+```{note}
+Related areas in the PRAIS 4 platform: table SO4-3.T1
+```
 
-Default data for this indicator is pre-filled in table SO4-3.T1 from the SDG database (SDG indicator 15.1.2b), including the national-level value as well as the upper and lower bounds of uncertainty around the national estimate.  For data specifications for the SO 4-3 indicator, see the official metadata for SDG indicator 15.1.2. 
+Default data for this indicator is pre-filled in table SO4-3.T1 from the SDG database (SDG indicator 15.1.2b), including the national-level value as well as the upper and lower bounds of uncertainty around the national estimate[^11].  For data specifications for the SO 4-3 indicator, see the official metadata for SDG indicator 15.1.2. 
 
 A Party may choose to report using the default data or alternative national data sources, if available. Any deviation from the guidance provided should be reported and justified in the ‘Comment’ column of the reporting table.
 
+[^11]: SDG indicator 15.1.2b data is updated each November/December using the latest versions of the datasets on protected areas, OECMs and KBAs.
+
 _Step 2: Qualitatively assess the results_
 
-**Table**
+```{note}
+Related areas in the PRAIS 4 platform: table SO4-3.T2
+```
 
 Parties are encouraged to provide comments on the interpretation of the indicator, including the direction of indicator change. While it may be difficult to attribute specific causal factors to changes in the indicator, countries are encouraged to indicate which direct and/or indirect drivers are presumably behind the observed changes using the comment box in table SO4-3.T2 in the PRAIS 4 platform.
 
