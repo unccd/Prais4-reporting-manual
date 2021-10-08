@@ -56,6 +56,9 @@ widths: 1 3 3
 * - Default data
 (Sustainable Development Goal indicator 1.1.1 data and Gini index World Bank data)
   - National data
+* - Data type
+  - Annual data on one of the two metrics for the period 2000–2019.
+  - Annual data on one of the two metrics for the period from 2000 to the latest available year for the reporting period.
 * - Spatial resolution
   - Country level
   - Country or sub-national levels
