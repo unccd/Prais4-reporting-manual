@@ -16,3 +16,4 @@ PRAIS4 Reporting Manual
    SO3
    SO4
    Voluntary_Targets
+   additional_indicators
