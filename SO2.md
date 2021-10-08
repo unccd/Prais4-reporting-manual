@@ -20,7 +20,9 @@ The proportion of the population below the international poverty line is general
 
 Income inequality is a useful metric for both low-income and middle-income countries as it estimates the extent of wealth distribution in a region. It is estimated through the Gini index. The Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from perfectly equal distribution. A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.  
 
-National reporting is facilitated though the provision of default data. As the proportion of population below the international poverty line by sex, age, employment status and geographical location (urban/rural) is also a Sustainable Development Goal (SDG) indicator (SDG indicator 1.1.1), default data is pre-filled from the SDG database. For income inequality (i.e., the Gini index), default data is pre-filled from the [World Bank database](https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map). 
+National reporting is facilitated though the provision of default data. As the proportion of population below the international poverty line by sex, age, employment status and geographical location (urban/rural) is also a Sustainable Development Goal (SDG) indicator (SDG indicator 1.1.1), default data is pre-filled from the SDG database. For income inequality (i.e., the Gini index), default data is pre-filled from the World Bank database[^1].
+
+[^1]: https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map
 
 ### 2.1.2. Prerequisites for reporting
 
@@ -45,6 +47,29 @@ The proportion of population below the international poverty line data is pre-fi
 Parties may also use national data, provided it complies with the data specifications listed in table 15. 
 
 _Table 15. Data specifications for SO 2-1 Indicator_
+
+```{flat-table} *__Table 15__. Data specifications for SO 2-1 Indicator*
+---
+header-rows: 2
+widths: 1 3 3
+---
+* - {rspan}`1` Item
+  - {cspan}`1` Specifications
+* - Default data
+(Sustainable Development Goal indicator 1.1.1 data and Gini index World Bank data)
+  - National data
+* - Spatial resolution
+  - Country level
+  - Country or sub-national levels
+* - Quality
+  - Specified in the datasets’ metadata. 
+  - To be indicated in the dataset metadata.
+* - Metadata
+  - Metadata information is provided with default data. 
+  - Minimum metadata content as per the mandatory fields listed in Annex II. 
+```
+
+
 
 <table BORDER=3 BORDERCOLOR=BLACK>
   <tbody>
