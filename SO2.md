@@ -46,8 +46,6 @@ The proportion of population below the international poverty line data is pre-fi
 
 Parties may also use national data, provided it complies with the data specifications listed in table 15. 
 
-_Table 15. Data specifications for SO 2-1 Indicator_
-
 ```{flat-table} *__Table 15__. Data specifications for SO 2-1 Indicator*
 ---
 header-rows: 2
@@ -69,44 +67,7 @@ widths: 1 3 3
   - Minimum metadata content as per the mandatory fields listed in Annex II. 
 ```
 
-
-
-<table BORDER=3 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <th rowspan=2>Item</th>
-      <th colspan=2>Specifications</th>
-    </tr>
-    <tr>
-      <th>Default data<p>(Sustainable Development Goal indicator 1.1.1 data and Gini index World Bank data)</p></th>
-      <th>National data</th>
-    </tr>
-    <tr>
-      <th>Type of data</th>
-      <td>Annual data on one of the two metrics for the period 2000–2019.</td>
-      <td>Annual data on one of the two metrics for the period from 2000 to the latest available year for the reporting period.</td>
-    </tr>
-    <tr>
-      <th>Spatial resolution</th>
-      <td>Country level</td>
-      <td>Country or sub-national levels</td>
-    </tr>
-    <tr>
-      <th>Quality</th>
-      <td>Specified in the datasets’ metadata.</td>
-      <td>TTo be indicated in the dataset metadata.</td>
-    </tr>
-    <tr>
-      <th>Metadata</th>
-      <td>Metadata information is provided with default data.</td>
-      <td>Minimum metadata content as per the mandatory fields listed in Annex II.</td>
-    </tr>
-  </tbody>
-</table>
-</p>
-
 _Step 3: Report national annual values of the chosen metric and interpret the data_
-
 
 ```{note}
 Related areas in the PRAIS 4 platform: tables SO2-1.T1, SO2-1.T2 and SO2-1.T3
@@ -184,55 +145,42 @@ Default data for this indicator is pre-filled from the SDG database (SDG indicat
 
 Parties may also use national data, provided it complies with the data specifications listed in table 16. 
 
-_Table 16. Data specifications for SO 2-2 Indicator_
-
-<table BORDER=3 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <th rowspan=2>Item</th>
-      <th colspan=2>Specifications</th>
-    </tr>
-    <tr>
-      <th>Default data<p>(Sustainable Development Goal indicator 6.1.1 / World Health Organization / United Nations Children’s Fund Joint Monitoring Programme)</p></th>
-      <th>National data</th>
-    </tr>
-    <tr>
-      <th>Type of data</th>
-      <td>Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period 2000–2020.</td>
-      <td>Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period from 2000 to the latest available year for the reporting period.</td>
-    </tr>
-    <tr>
-      <th>Spatial resolution</th>
-      <td>Country level</td>
-      <td>Country or sub-national levels</td>
-    </tr>
-    <tr>
-      <th>Quality</th>
-      <td>Specified in the datasets’ metadata.</td>
-      <td>To be indicated in the dataset metadata.</td>
-    </tr>
-    <tr>
-      <th>Metadata</th>
-      <td>Metadata information is provided with default data.</td>
-      <td>Minimum metadata content as per the mandatory fields listed in Annex II.</td>
-    </tr>
-  </tbody>
-</table>
-</p>
+```{flat-table} *__Table 16__. Data specifications for SO 2-2 Indicator*
+---
+header-rows: 2
+widths: 1 3 3
+---
+* - {rspan}`1` Item
+  - {cspan}`1` Specifications
+* - Default data
+(Sustainable Development Goal indicator 6.1.1 / World Health Organization / United Nations Children’s Fund Joint Monitoring Programme)
+  - National data
+* - Type of data
+  - Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period 2000–2020.
+  - Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period from 2000 to the latest available year for the reporting period.
+* - Spatial resolution
+  - Country level
+  - Country or sub-national levels
+* - Quality
+  - Specified in the datasets’ metadata. 
+  - To be indicated in the dataset metadata.
+* - Metadata
+  - Metadata information is provided with default data. 
+  - Minimum metadata content as per the mandatory fields listed in Annex II. 
+```
 
 _Step 2: Report national annual values and interpret the data_
 
-<table BORDER=1 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <td><I>Related areas in the PRAIS 4 platform: tables SO2-2.T1 and SO2-2.T2</I></td>
-    </tr>
-  </tbody>
-</table>
+
+```{note}
+Related areas in the PRAIS 4 platform: tables SO2-2.T1 and SO2-2.T2
+```
 
 Parties opting to use an alternative source of national data may enter the relevant data in table SO2-2.T1. Parties may also provide information on the dominant change in the metric using the “Qualitative Assessment” table SO2-2.T2.
 
-To assist in the data interpretation, countries are encouraged to visualize their respective SDG Indicator 6.1.1 by means of a graph (graphs for each country, representing each disaggregation, i.e., % rural population, % urban population, % total population, are available to view and download from the [JMP](https://washdata.org/data/household#!/) and [World Bank](https://datatopics.worldbank.org/sdgs/index.html) websites).  While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table.
+To assist in the data interpretation, countries are encouraged to visualize their respective SDG Indicator 6.1.1 by means of a graph (graphs for each country, representing each disaggregation, i.e., % rural population, % urban population, % total population, are available to view and download from the JMP and World Bank websites)[^2].  While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table.
+
+[^2]:https://washdata.org/data/household#!/ and https://datatopics.worldbank.org/sdgs/index.html
 
 _Step 3:  Verify the results_
 
@@ -311,50 +259,32 @@ An alternative dataset is the Gridded Population of the World, version 4 (GPWv4)
 
 Parties may also use national data, provided it complies with the data specifications listed in table 17. 
 
-_Table 17. Data specifications for SO 2-3 Indicator_
-
-<table BORDER=3 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <th rowspan=2>Item</th>
-      <th colspan=2>Specifications</th>
-    </tr>
-    <tr>
-      <th>Default data</th>
-      <th>National data</th>
-    </tr>
-    <tr>
-      <th><P>Input data</P>(Data needed to estimate the population exposed to land degradation)</th>
-      <td><P>WorldPop data disaggregated by sex for the baseline year (2015) and the latest available year of the reporting period (2019).</P> 
+```{flat-table} *__Table 17__. Data specifications for SO 2-3 Indicator*
+---
+header-rows: 2
+widths: 1 3 3
+---
+* - {rspan}`1` Item
+  - {cspan}`1` Specifications
+* - Default data
+  - National data
+* - <P>Input data</P>(Data needed to estimate the population exposed to land degradation)
+  - <P>WorldPop data disaggregated by sex for the baseline year (2015) and the latest available year of the reporting period (2019).</P> 
 Gridded data on land degradation as determined by indicator SO 1-4 for the baseline and reporting periods.
-</td>
-      <td><P>Gridded population products derived from national official statistics, disaggregated by sex for the baseline year (ideally the year 2015) and the latest available year of the reporting period (e.g., 2019).</P>
-Gridded data on land degradation as determined by indicator SO 1-4 for the baseline and reporting periods.
-</td>
-    </tr>
-    <tr>
-      <th><P>Output data</P>(Gridded products resulting from the analysis of the three metrics)</th>
-      <td>Gridded products of the female, male and total population exposed to land degradation in the baseline and reporting periods.</td>
-      <td>Gridded products of the female, male and total population exposed to land degradation in the baseline and reporting periods.</td>
-    </tr>    
-    <tr>
-      <th>Spatial resolution</th>
-      <td>>WorldPop data: 3-arc seconds (~100 m)</td>
-      <td>Assessed by national authorities based on available data.</td>
-    </tr>
-    <tr>
-      <th>Quality</th>
-      <td>Specified in the datasets’ metadata.</td>
-      <td>To be indicated in the dataset metadata.</td>
-    </tr>
-    <tr>
-      <th>Metadata</th>
-      <td>Metadata information is provided with default data.</td>
-      <td>Minimum metadata content as per the mandatory fields listed in Annex II.</td>
-    </tr>
-  </tbody>
-</table>
-</p>
+  - <P>Gridded population products derived from national official statistics, disaggregated by sex for the baseline year (ideally the year 2015) and the latest available year of the reporting period (e.g., 2019).</P> Gridded data on land degradation as determined by indicator SO 1-4 for the baseline and reporting periods.
+* - <P>Output data</P>(Gridded products resulting from the analysis of the three metrics)
+  - Gridded products of the female, male and total population exposed to land degradation in the baseline and reporting periods.
+  - Gridded products of the female, male and total population exposed to land degradation in the baseline and reporting periods.
+* - Spatial resolution
+  - WorldPop data: 3-arc seconds (~100 m)
+  - Assessed by national authorities based on available data.
+* - Quality
+  - Specified in the datasets’ metadata.
+  - To be indicated in the dataset metadata.
+* - Metadata
+  - Metadata information is provided with default data.
+  - Minimum metadata content as per the mandatory fields listed in Annex II.
+```
 
 _Step 2:  Standardize the selected datasets_
 
@@ -364,13 +294,9 @@ The resampling should take into consideration that, for datasets representing po
 
 _Step 3: Estimate the female, male and total population count and percentage exposed to land degradation_
 
-<table BORDER=1 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <td><I>Related areas in the PRAIS 4 platform: tables SO2-3.T1 and SO2-3.T2</I></td>
-    </tr>
-  </tbody>
-</table>
+```{note}
+Related areas in the PRAIS 4 platform: tables SO2-3.T1 and SO2-3.T2
+```
 
 The female and male population grids for the baseline and reporting periods are intersected with the respective land degradation grids. The values of the cells falling on degraded land are then combined to derive the female and male population exposed to land degradation. The total population exposed to land degradation is obtained by combining the obtained female and male population values.
 
@@ -380,13 +306,9 @@ To calculate the percentage of female, male and total population exposed to land
 
 _Step 4: Qualitatively assess the results_
 
-<table BORDER=1 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <td><I>Related areas in the PRAIS 4 platform: table SO2-3.T3</I></td>
-    </tr>
-  </tbody>
-</table>
+```{note}
+Related areas in the PRAIS 4 platform: table SO2-3.T3
+```
 
 Observed changes in the indicator and their interpretation may be described in the “Qualitative Assessment” table of the PRAIS 4 platform (table SO2-3.T3).
 
