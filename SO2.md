@@ -317,7 +317,7 @@ Gridded data on land degradation as determined by indicator SO 1-4 for the basel
     </tr>    
     <tr>
       <th>Spatial resolution</th>
-      <td>3-arc seconds (~100 m)</td>
+      <td>>WorldPop data: 3-arc seconds (~100 m)</td>
       <td>Assessed by national authorities based on available data.</td>
     </tr>
     <tr>
@@ -336,7 +336,7 @@ Gridded data on land degradation as determined by indicator SO 1-4 for the basel
 
 _Step 2:  Standardize the selected datasets_
 
-The population and the land degradation datasets must be harmonized to the same grid cell size. For example, the WorldPop dataset and the SO 1-4 land degradation default dataset have resolutions of 100 and 250 metres, respectively. In such cases, grids must be resampled into a common grid size. The recommendation is to define the grid cell size for analysis at the smallest resolution level of the data inputs; in this case, the 100 metre resolution of the population dataset. Countries using national datasets should assess them in terms of projection and resolution and standardize them through a resampling process in order to be able to combine them in the analysis of population exposure to land degradation. 
+The population and the land degradation datasets must be harmonized to the same grid cell size. For example, the WorldPop dataset and the SO 1-4 land degradation default dataset have resolutions of 100 and 300 metres, respectively and should be resampled to a common grid cell size. For the default data, the grid cell size for the analysis is fixed at the 300 metre resolution of the land degradation dataset to which the population data is resampled. Countries using national datasets should assess them in terms of projection and resolution and standardize them through a resampling process in order to be able to combine them in the analysis of population exposure to land degradation.
 
 The resampling should take into consideration that, for datasets representing population counts, changes in cell size implies changes in the number of people in each cell; a resampling method that ensures the integrity of the continuous data should be used, such as bilinear interpolation (avoid nearest neighbour techniques).
 
