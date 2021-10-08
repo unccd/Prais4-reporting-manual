@@ -390,7 +390,7 @@ _Figure 4. Decision tree to help Parties choose the best tier of vulnerability a
  _DVI: Drought Vulnerability Index
 VA: Vulnerability Assessment_
 
-```{flat-table} *__Table 20__. Data specifications for SO 3-3 Indicator*
+```{flat-table} *__Table 21__. Data specifications for SO 3-3 Indicator*
 ---
 header-rows: 2
 widths: 1 3 3
@@ -429,16 +429,16 @@ Each time the DVI is calculated to report indicator SO 3-3, the factor range (i.
 
 Where there is a positive correlation/relationship between vulnerability and the factor[^3]  (i.e., if the factor value increases, vulnerability also increases), the data should be normalized using the equation below: 
 
-Factor =  (Xi - Xmin)/(Xmax - Xmin)
+Factor =  (X{sub}i - X{sub}min)/(X{sub}max - X{sub}min)
 
 Where:
-Xi is the value of the considered factor in the year “i”
-Xmin is the minimum value of the considered factor observed in the entire time series
-Xmax is the maximum value of the considered factor observed in the entire time series
+X{sub}i is the value of the considered factor in the year “i”
+X{sub}min is the minimum value of the considered factor observed in the entire time series
+X{sub}max is the maximum value of the considered factor observed in the entire time series
 
 In case of negative correlation/relationship between vulnerability and the factor, the equation is:
 
-Factor = 1 - ((Xi - Xmin)/(Xmax - Xmin))  
+Factor = 1 - ((X{sub}i - X{sub}min)/(X{sub}max - X{sub}min))  
 
 After normalization, all factors have a value of between zero and one, relative to the historical maximum and minimum of the country.
 
@@ -460,10 +460,13 @@ Parties may assign weights to the vulnerability factors if their relative import
  
 _Step 4:  Calculate the Drought Vulnerability Index_
 
-**Table**
+```{note}
+Related areas in the PRAIS 4 platform: table SO3-3.T1
+```
 
 In all tiers of VA, the three components (Csocial, Ceconomic and Cinfrastructural) derived in the previous steps are used to produce the DVI by calculating their mean value.
-DVI = (Csocial + Ceconomic + Cinfrastructural) / 3
+
+DVI = (C{sub}social + C{sub}economic + C{sub}infrastructural) / 3
 
 The DVI ranges from 0 to 1, with 1 being the most vulnerable. 
 
