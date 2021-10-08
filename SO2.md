@@ -48,7 +48,7 @@ Parties may also use national data, provided it complies with the data specifica
 
 _Table 15. Data specifications for SO 2-1 Indicator_
 
-```{flat-table} *__Table 15__. Data specifications for SO 2-1 Indicator*
+```{list-table} *__Table 15__. Data specifications for SO 2-1 Indicator*
 ---
 header-rows: 2
 widths: 1 3 3
