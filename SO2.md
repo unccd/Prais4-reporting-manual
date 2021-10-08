@@ -107,13 +107,10 @@ widths: 1 3 3
 
 _Step 3: Report national annual values of the chosen metric and interpret the data_
 
-<table BORDER=1 BORDERCOLOR=BLACK>
-  <tbody>
-    <tr>
-      <td><I>Related areas in the PRAIS 4 platform: tables SO2-1.T1, SO2-1.T2 and SO2-1.T3</I></td>
-    </tr>
-  </tbody>
-</table>
+
+```{note}
+Related areas in the PRAIS 4 platform: tables SO2-1.T1, SO2-1.T2 and SO2-1.T3
+```
 
 Parties opting to use an alternative source of national data may enter the relevant national annual values in tables SO2-1.T1 or SO2-1.T2, according to the chosen metric.
 
