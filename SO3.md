@@ -82,15 +82,29 @@ Default SPI data is available in Trends.Earth for the purposes of SO3 monitoring
 
 _Step 3: Identify the drought intensity class of each grid cell based on the calculated Standardized Precipitation Index value_
 
-**Table**
+```{note}
+Related areas in the PRAIS 4 platform: table SO3-1.T1
+```
 
 To assess the SPI time series for the baseline and reporting periods, the December SPI-12 values for each year should be extracted. The December SPI-12 values represent the precipitation deficits (or excesses) over the Gregorian (January–December) calendar year. 
 
 For each of the December SPI-12 grids, the number of cells belonging to each of the SPI drought intensity classes listed in table 19 should be counted. Positive SPI values are discarded, since they indicate that there was no drought in the given period.
 
-_Table 19.  Standardized Precipitation Index (SPI) drought intensity classes_
+```{list-table} *__Table 19__. Standardized Precipitation Index (SPI) drought intensity classes*
 
-**Table**
+header-rows: 1
+
+* - SPI values
+  - Drought intensity class
+* - 0 to -0.99
+  - Mild drought
+* - -1.0 to -1.49
+  - Moderate drought
+* - -1.5 to -1.99
+  - Severe drought
+* - -2 and less
+  - Extreme drought
+```
 
 The total area under each drought intensity class should be derived in a two-step process:
 
@@ -100,7 +114,9 @@ The total area under each drought intensity class should be derived in a two-ste
 
 _Step 4:  Calculate proportion of land under drought_
 
-**Table**
+```{note}
+Related areas in the PRAIS 4 platform: table SO3-1.T2
+```
 
 The proportion of land in each drought intensity class is calculated for each reporting year as a percentage of the total land area. 
 For each of the SPI-12 grids in the baseline and reporting period, the number of cells falling under each of the SPI drought intensity classes is counted (cellCount). Then, for each reporting year, the percentage of the total land area in each drought intensity class is calculated. The formula is as follows: 
