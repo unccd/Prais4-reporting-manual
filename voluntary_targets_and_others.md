@@ -125,3 +125,85 @@ _Step 2. Provide any complementary information_
 Complementary information may be reported in the “General Comments” field. This may include whether the targets have been adopted or officially endorsed and if so, by which body (institution, government agency, regulation). Implemented action, such as target-related projects and initiatives on the ground can also be described. 
 
 Furthermore, Parties are encouraged to outline the linkages with the SDGs, indicate opportunities to create leverage and synergies with their countries’ socio-economic, infrastructural and biodiversity agendas, and collaborate with other multilateral environmental agreements.
+
+## 6.3. Additional Indicators 
+
+### 6.3.1. Introduction
+
+Additional indicators at the national and sub-national levels can assist in both interpreting and understanding the common global indicators associated with each strategic objective, and address locally-relevant issues.
+
+### 6.3.2. Reporting process and step-by-step procedure
+
+The step-by-step procedure for reporting is as follows.
+
+_Step 1. Report any national additional indicators_
+
+Countries are encouraged to identify complementary indicators for SOs 1 to 4 to better address national and sub-national specificities. These can be additional progress indicators or process indicators to monitor whether actions are being implemented as planned. Additional indicators can be quantitative and qualitative.
+
+While sex-disaggregated data related to exposure of population to land degradation and drought are now collected through indicators SO 2-3 and SO 3-2, Parties are encouraged to identify further gender-responsive socio-economic and demographic indicators that may provide a better understanding of how and why specific populations are affected by land degradation and drought. 
+
+Additional indicators can be added on the PRAIS 4 platform via a dedicated form (referred to as AI for brevity in PRAIS 4).  Parties may specify the name of the indicators, the associated SOs and their direction of change. A brief description of the indicators and other relevant information may be reported in the “Comment” field.
+ 
+### 6.4. Affected Areas
+
+### 6.4.1. Introduction
+
+By its decision 11/COP.14, the Conference of the Parties requested the secretariat to further facilitate reporting on SOs 1, 2, 3 and 4 by, inter alia, including additional data fields specific to affected areas in the reporting system. 
+
+Therefore, PRAIS 4 facilitates countries that wish to report on affected areas as an additional and optional item to national reporting. Parties have the option to report on affected areas using a specific set of forms for SOs 1, 2, 3 and 4. The process, forms and tables to report on affected areas are the same as those used for national reporting. No default data is made available for affected area reporting. 
+
+### 6.4.2. Pre-requisite for reporting
+
+- Sub-national data specific to affected areas.
+
+### 6.4.3. Reporting process and step-by-step procedure
+
+The step-by-step procedure for reporting is as follows.
+
+_Step 1: Define affected areas_
+
+Parties wishing to report on affected areas are invited to specify the affected area definition in use in their country. In PRAIS 4, Parties may opt to use the definition of the affected areas contained in Article 1 of the Convention[^1],  or to provide the operational definition of affected area in use in their country. 
+
+Once this part of the form has been completed and saved, the reporting forms for SOs 1 to 4 specific to affected areas (referred to as AA for brevity in the reporting forms) will open. These forms will not contain pre-filled default data as provided for national reporting. Therefore, Parties will be required to produce the data specific to affected areas and report it in the forms as explained in Steps 2–4. 
+
+[^1]: ]Article 1 of the Convention defines as “affected areas” arid, semi-arid and/or dry sub-humid areas affected or threatened by desertification
+
+_Step 2: Delineate affected areas_
+
+Parties will be required to spatially delineate the area that corresponds to the definition provided in Step 1 above. Digitization tools in any GIS software (e.g., ArcGIS, QGIS) could be used for this purpose or Parties may have an existing spatial file of the affected area available (e.g., ESRI shapefile, GeoJSON or any widely accepted file format).
+
+_Step 3: Calculation of affected area estimates for all indicators_
+
+Using the shapefile of the affected area produced in Step 2, Parties should calculate affected area estimates of all indicators for SOs 1 to 4. 
+
+Trends.Earth can be used to run these calculations on any area of interest. When calculating the indicators in Trends.Earth, Parties should upload the shapefile of the affected area produced in Step 2 and use it as the area of analysis. Parties should refer to the Trends.Earth documentation for further information on how to use their own area file in the calculations. Once the processing is complete, Parties will be required to upload their results to the PRAIS 4 platform and/or manually fill in the affected area forms with the required information. 
+
+For non-geospatial indicators (e.g., SO2-1, SO2-2, SO4-2 andSO 4-3), Parties may wish to assess the availability of sub-national information specific to the affected areas defined in Step 1, and report it in the forms provided.
+
+_Step 4: Generate reports_
+
+All forms and tables on the PRAIS 4 platform for reporting the affected areas should be filled in and supporting data and information provided, if desired, through the upload tools in PRAIS. 
+
+Once completed and verified by the Parties, the indicators’ estimates for the reporting and baseline periods should be officially submitted to the UNCCD. Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy.
+
+### 6.4.4. Challenges
+
+_Data availability and quality_
+
+- Depending on the extent of the affected areas, spatial resolution of global default datasets available in Trends.Earth might not always be suitable to calculate indicators with enough sensitivity to spatial variation at sub-national level. Although higher spatial resolution data might be needed, Parties might be challenged by access to commercial satellite imagery, for example, where costs might be prohibitive.
+
+_Methodological approach_
+
+- Affected area definitions may vary across countries, limiting the comparability of results across regions and/or globally.
+
+### 6.4.5. Summary (main actions)
+
+Key actions for reporting on affected areas are as follows:
+
+1.	Define affected areas: Parties should specify the affected area definition in use in their country.
+
+2.	Delineate affected areas: Parties should spatially delineate the area that corresponds to the definition provided in Step 1.
+
+3.	Calculation of affected area estimates for all indicators: using the shapefile of the affected area produced in Step 2, Parties should calculate affected area estimates for all indicators.
+
+4.	Generate reports: Parties should fill in the reporting forms for SOs 1 to 4 specific to affected areas. 
