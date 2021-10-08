@@ -42,10 +42,34 @@ CHIRPS: Climate Hazards Group InfraRed Precipitation with Stations_
 
 This decision-making process should help Parties identify data that meets the specifications summarized in table 18.
 
-_Table 18. Data Specifications for SO 3-1 indicator_
-
-**Table**
-
+```{flat-table} *__Table 18__. Data specifications for SO 3-1 Indicator*
+---
+header-rows: 2
+widths: 1 3 3
+---
+* - {rspan}`1` Item
+  - {cspan}`1` Specifications
+* - Default data
+  - National data
+* - Input data (Data needed to generate drought hazard estimates based on the Standardized Precipitation Index (SPI) calculations described in Step 2)
+  - Global Precipitation Climatology Centre (GPCC) monthly precipitation products,1982–present.
+  - <P>Gridded products of monthly precipitation derived from national gauge networks. The dataset should ideally have a continuous record of at least 30 years, covering the period 1981–2010.</P>For countries in the 50°S to 50°N range: Climate Hazards Group InfraRed Precipitation with Stations (CHIRPS) monthly precipitation products, 1981–present, can be accessed in Trends.Earth.
+* - Output data (Intermediate and final gridded products resulting from the analysis described in Steps 2 to 4)
+  - <P>Annual December SPI-12 grids classified into four SPI drought intensity classes for the baseline and reporting periods.*</P><P>Total land area for each drought intensity class as well as proportion of total land area under drought.</P>Gridded spatial summary in four-year epochs.
+  - <P>Annual December SPI-12 grids classified into four SPI drought intensity classes for the baseline and reporting periods.*</P><P>Total land area for each drought intensity class as well as proportion of total land area under drought.</P>Gridded spatial summary in four-year epochs.
+* - Classification
+  - Four SPI drought intensity classes as per table 19.
+  - Four SPI drought intensity classes as per table 19.
+* - Spatial resolution
+  - GPCC: 1.0° x 1.0° (~111 km)
+  - CHIRPS: 0.05° x 0.05° (~5.55 km) or otherwise assessed by national authorities based on available data
+* - Quality
+  - Specified in the datasets’ metadata. 
+  - Data should be continuous where possible; where data completeness is less than 85%, Parties may consider filling data gaps in accordance with guidance from the World Meteorological Organization.
+* - Metadata
+  - Metadata information is provided with default data. 
+  - Minimum metadata content as per the mandatory fields listed in Annex II. 
+```
 _* As stated in Step 3, the December SPI-12 values represent the precipitation deficits (or excesses) over the Gregorian (January–December) calendar year._
 
 _Step 2:  Calculate the Standardized Precipitation Index_
