@@ -35,10 +35,10 @@ Parties wishing to use in-country data provided by the NMHS or regional, rather 
 
 _Figure 1. Decision tree to help Parties chose the best precipitation data source to derive indicator SO 3-1_
 
-![](/img/SO3_Decision_tree.jpg "GPCC: Global Precipitation Climatology Centre
+![](/img/SO3_Decision_tree.jpg)
+_GPCC: Global Precipitation Climatology Centre
 SPI: Standardized Precipitation Index
-CHIRPS: Climate Hazards Group InfraRed Precipitation with Stations
-")
+CHIRPS: Climate Hazards Group InfraRed Precipitation with Stations_
 
 This decision-making process should help Parties identify data that meets the specifications summarized in table 18.
 
