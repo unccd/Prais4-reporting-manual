@@ -30,7 +30,7 @@ The main output of the reporting process for SO 4-2 is a set of officially verif
 
 The step-by-step procedure for reporting is described in the following.
 
-***Step 1: Report Red List Index data***
+#### Step 1: Report Red List Index data
 
 ```{note}
 Related areas in the PRAIS 4 platform: table SO4-2.T1
@@ -46,7 +46,7 @@ Details on the customization of the RLI values should be reported in the ‘Gene
 
 [^4: ]https://www.iucnredlist.org/search. 
 
-***Step 2: Qualitatively assess the Red List Index data***
+#### Step 2: Qualitatively assess the Red List Index data
 
 ```{note}
 Related areas in the PRAIS 4 platform: table SO4-2.T2
@@ -56,11 +56,11 @@ Countries are encouraged to identify and then rank which drivers directly or ind
 
 [^5]: The direct and indirect drivers available for selection in the table and the levers which can reverse negative trends are summarized from the Intergovernmental Science-Policy Platform on Biodiversity (IPBES) (2019): Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. E. S. Brondizio, J. Settele, S. Díaz, and H. T. Ngo (editors). IPBES secretariat, Bonn, Germany. 1148 pages. Available at: https://ipbes.net/global-assessment.
 
-***Step 3:  Verify the results***
+#### Step 3:  Verify the results
 
 The reliability of the default RLI data needs to be verified by national experts to detect and highlight situations where the confidence level of the obtained results might be low. This would qualitatively assess the reliability of the estimates based on expert knowledge and on a correct interpretation of the data. 
  
-***Step 4: Generate reports***
+#### Step 4: Generate reports
 
 Once verified by the Parties, the estimates of the RLI indicator as well as the qualitative assessment should be officially submitted to UNCCD.    
 
@@ -143,7 +143,7 @@ The main output of the reporting process for SO 4-3 is a set of officially verif
 
 The step-by-step procedure for reporting is described in the following.
 
-***Step 1: Report indicator data***
+#### Step 1: Report indicator data
 
 ```{note}
 Related areas in the PRAIS 4 platform: table SO4-3.T1
@@ -155,7 +155,7 @@ A Party may choose to report using the default data or alternative national data
 
 [^11]: SDG indicator 15.1.2b data is updated each November/December using the latest versions of the datasets on protected areas, OECMs and KBAs.
 
-***Step 2: Qualitatively assess the results***
+#### Step 2: Qualitatively assess the results
 
 ```{note}
 Related areas in the PRAIS 4 platform: table SO4-3.T2
@@ -163,11 +163,11 @@ Related areas in the PRAIS 4 platform: table SO4-3.T2
 
 Parties are encouraged to provide comments on the interpretation of the indicator, including the direction of indicator change. While it may be difficult to attribute specific causal factors to changes in the indicator, countries are encouraged to indicate which direct and/or indirect drivers are presumably behind the observed changes using the comment box in table SO4-3.T2 in the PRAIS 4 platform.
 
-***Step 3: Verify the results***
+#### Step 3: Verify the results
 
 The reliability of the default SO 4-3 indicator data needs to be verified by national experts to detect and highlight situations where the confidence level of the obtained results might be low. This would qualitatively assess the reliability of the estimates based on expert knowledge and on a correct interpretation of the data. 
 
-***Step 4: Generate reports***
+#### Step 4: Generate reports
 
 Once verified by the Parties, the estimates of the SO 4-3 indicator as well as the qualitative assessment should be officially submitted to UNCCD.    
 
