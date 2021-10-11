@@ -54,19 +54,19 @@ widths: 1 3 3
 ---
 * - {rspan}`1` Item
   - {cspan}`1` Specifications
-* - Default data
+* - __Default data__
 (Sustainable Development Goal indicator 1.1.1 data and Gini index World Bank data)
-  - National data
+  - __National data__
 * - Data type
   - Annual data on one of the two metrics for the period 2000–2019.
   - Annual data on one of the two metrics for the period from 2000 to the latest available year for the reporting period.
-* - Spatial resolution
+* - __Spatial resolution__
   - Country level
   - Country or sub-national levels
-* - Quality
+* - __Quality__
   - Specified in the datasets’ metadata. 
   - To be indicated in the dataset metadata.
-* - Metadata
+* - __Metadata__
   - Metadata information is provided with default data. 
   - Minimum metadata content as per the mandatory fields listed in Annex II. 
 ```
@@ -158,19 +158,20 @@ widths: 1 3 3
 ---
 * - {rspan}`1` Item
   - {cspan}`1` Specifications
-* - Default data
-(Sustainable Development Goal indicator 6.1.1 / World Health Organization / United Nations Children’s Fund Joint Monitoring Programme)
-  - National data
-* - Type of data
+* - __Default data__
+    
+    (Sustainable Development Goal indicator 6.1.1 / World Health Organization / United Nations Children’s Fund Joint Monitoring Programme)
+  - __National data__
+* - __Type of data__
   - Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period 2000–2020.
   - Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period from 2000 to the latest available year for the reporting period.
-* - Spatial resolution
+* - __Spatial resolution__
   - Country level
   - Country or sub-national levels
-* - Quality
+* - __Quality__
   - Specified in the datasets’ metadata. 
   - To be indicated in the dataset metadata.
-* - Metadata
+* - __Metadata__
   - Metadata information is provided with default data. 
   - Minimum metadata content as per the mandatory fields listed in Annex II. 
 ```
