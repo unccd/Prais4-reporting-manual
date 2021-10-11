@@ -213,6 +213,14 @@ ins {
   vertical-align: middle;
 }
 
+.wy-table-responsive table td p, .wy-table-responsive table th p {
+  margin-bottom: 1rem !important;
+}
+
+.wy-table-responsive table td p:last-child, .wy-table-responsive table th p:last-child {
+  margin-bottom: 0 !important;
+}
+
 .rst-content table.docutils td, .rst-content table.docutils th, .rst-content table.field-list td, .rst-content table.field-list th, .wy-table td, .wy-table th {
   padding: 4px 8px !important;
 }
