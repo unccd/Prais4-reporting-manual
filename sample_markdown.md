@@ -383,4 +383,14 @@ The 2018 reporting will describe the countries’ level of ambition in achieving
 
 ------
 
+### Translated texts
+
+```{ifconfig} language == 'en'
+English version
+```
+
+```{ifconfig} language == 'fr'
+French version
+```
+
 End of sample text

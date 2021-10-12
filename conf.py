@@ -33,6 +33,7 @@ extensions = [
     'sphinxnotes.strike',
     'linuxdoc.rstFlatTable', # https://return42.github.io/linuxdoc/linuxdoc-howto/table-markup.html#flat-table
     # 'sphinx.ext.mathjax', # https://www.sphinx-doc.org/en/master/usage/extensions/math.html#module-sphinx.ext.mathjax
+    'sphinx.ext.ifconfig', # https://www.sphinx-doc.org/en/master/usage/extensions/ifconfig.html
 ]
 
 myst_enable_extensions = [
