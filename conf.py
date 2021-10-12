@@ -42,9 +42,20 @@ myst_enable_extensions = [
     "linkify", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#linkify
     "replacements", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#typography
     "smartquotes", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#typography
-    # "substitution", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#substitutions-with-jinja2
+    "substitution", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#substitutions-with-jinja2
     "tasklist", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#task-lists
 ]
+
+myst_substitutions = {
+  "br": """
+  ```{raw} html
+  <br>
+  ```
+  ```{raw} latex
+  \mbox{}\\newline
+  ```
+  """
+}
 
 # See also https://pypi.org/project/cloud_sptheme/
 
@@ -127,7 +138,8 @@ latex_elements = {
     \usepackage{caption}
     \captionsetup{labelformat=empty}
     \protected\def\sphinxstyletheadfamily {\bfseries}
-    '''
+    ''',
+    'figure_align': 'H',
 }
 
 pdf_documents = [

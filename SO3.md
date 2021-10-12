@@ -1,6 +1,4 @@
-# 3. Strategic objective 3
-
-To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems
+# 3. Strategic objective 3: To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems
 
 ## 3.1. SO 3-1 – Trends in the proportion of land under drought over the total land area
 
@@ -35,12 +33,16 @@ The UNCCD provides default data from the Global Precipitation Climatology Centre
 
 Parties wishing to use in-country data provided by the NMHS or regional, rather than global, precipitation products can use the decision tree in figure 1 to assess whether the in-country (or regional) precipitation data is more appropriate to derive indicator SO 3-1 over the globally available datasets.
 
-_Figure 1. Decision tree to help Parties chose the best precipitation data source to derive indicator SO 3-1_
+```{figure} /img/SO3_Decision_tree.jpg
+---
+align: center
+---
+Figure 1. Decision tree to help Parties chose the best precipitation data source to derive indicator SO 3-1
+```
 
-![](/img/SO3_Decision_tree.jpg)
-_GPCC: Global Precipitation Climatology Centre
-SPI: Standardized Precipitation Index
-CHIRPS: Climate Hazards Group InfraRed Precipitation with Stations_
+_GPCC: Global Precipitation Climatology Centre_{{br}}
+_SPI: Standardized Precipitation Index_{{br}}
+_CHIRPS: Climate Hazards Group InfraRed Precipitation with Stations_
 
 This decision-making process should help Parties identify data that meets the specifications summarized in table 18.
 
@@ -245,9 +247,12 @@ There are various publicly available, fine-resolution population datasets availa
 
 Parties wishing to use in-country or regional datasets can use the decision tree in figure 2 to assess whether the in-country (or regional) population data is more appropriate to derive indicator SO 3-2 over the globally available datasets.  
 
-_Figure 2. Decision tree to help Parties choose the best population data source to derive indicator SO 3-2_
-
-![](/img/SO3_2_Decision_tree.jpg)
+```{figure} /img/SO3_2_Decision_tree.jpg
+---
+align: center
+---
+Figure 2. Decision tree to help Parties choose the best population data source to derive indicator SO 3-2
+```
 
 This decision-making process should help Parties identify data that meets the specifications summarized in table 20.
 
@@ -402,9 +407,12 @@ The step-by-step procedure for reporting is described in the following and appli
 
 The vulnerability factors recommended by the UNCCD to derive the DVI (listed in figure 3) provides a snapshot of a Party’s socio-economic vulnerability to drought. The three core factors that have been recommended for the minimum Tier 1 VA – ‘Literacy rate (% of people aged 15 and above)’, ‘Proportion of population below the international poverty line’ and the ‘Proportion of population using safely managed drinking water services’ – were selected because they were identified by experts as critical to understanding vulnerability and due to their use for other reporting requirements such as SO 2 and the Sustainable Development Goals.
 
-_Figure 3. Social, economic, and infrastructural components and their associated factors recommended for calculating the Drought Vulnerability Index_
-
-![](/img/SO3_3_Decision_tree.jpg)
+```{figure} /img/SO3_3_Decision_tree.jpg
+---
+align: center
+---
+Figure 3. Social, economic, and infrastructural components and their associated factors recommended for calculating the Drought Vulnerability Index
+```
 
 The UNCCD provides default data from the global DVI dataset of the JRC. The method used to derive the default DVI is similar to the one presented in this manual and in the “Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3”, but presents some key differences in terms of the normalization method (see Step 2) and number of factors included. Two additional factors are used in the default DVI: “Disaster Prevention and Preparedness (US$/Year/Capital)” and “Global map of Accessibility: Travel time to major cities”. The default DVI value represents the median DVI across the country for the period 2000–2018.
 
@@ -412,11 +420,15 @@ Country Parties that do not have data available to calculate the minimum Tier 1 
 
 National/regional data products used to calculate the DVI should conform with the specifications listed in table 21.
 
-_Figure 4. Decision tree to help Parties choose the best tier of vulnerability assessment for the SO 3-3 Indicator reporting according to data availability_
+```{figure} /img/SO3_3b_Decision_tree.jpg
+---
+align: center
+---
+Figure 4. Decision tree to help Parties choose the best tier of vulnerability assessment for the SO 3-3 Indicator reporting according to data availability
+```
 
-![](/img/SO3_3b_Decision_tree.jpg)
- _DVI: Drought Vulnerability Index
-VA: Vulnerability Assessment_
+_DVI: Drought Vulnerability Index_{{br}}
+_VA: Vulnerability Assessment_
 
 ```{flat-table} *__Table 21__. Data specifications for SO 3-3 Indicator*
 ---

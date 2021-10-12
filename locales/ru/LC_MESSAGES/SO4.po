@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-07 18:23+0300\n"
+"POT-Creation-Date: 2021-10-12 20:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,7 +42,7 @@ msgid "4.2. SO 4-2 – Trends in abundance and distribution of selected species"
 msgstr ""
 
 #: ../../SO4.md:9
-msgid "4.2.1. \tIntroduction"
+msgid "4.2.1. Introduction"
 msgstr ""
 
 #: ../../SO4.md:11
@@ -92,7 +92,7 @@ msgid ""
 msgstr ""
 
 #: ../../SO4.md:21
-msgid "4.2.2. \tPrerequisites for reporting"
+msgid "4.2.2. Prerequisites for reporting"
 msgstr ""
 
 #: ../../SO4.md:23
@@ -111,26 +111,26 @@ msgstr ""
 msgid ""
 "Familiarity with the ‘Advanced Search’ function on the IUCN Red List "
 "website to enable customized calculation of the RLI: "
-"https://www.iucnredlist.org/search."
+"<https://www.iucnredlist.org/search>."
 msgstr ""
 
 #: ../../SO4.md:29
-msgid "4.2.3. \tReporting process and step-by-step procedures"
+msgid "4.2.3. Reporting process and step-by-step procedures"
 msgstr ""
 
-#: ../../SO4.md:31 ../../SO4.md:134
+#: ../../SO4.md:31 ../../SO4.md:143
 msgid "The step-by-step procedure for reporting is described in the following."
 msgstr ""
 
 #: ../../SO4.md:33
-msgid "_Step 1: Report Red List Index data_"
+msgid "Step 1: Report Red List Index data"
 msgstr ""
 
-#: ../../SO4.md:35 ../../SO4.md:49 ../../SO4.md:138 ../../SO4.md:146
-msgid "**Table**"
+#: ../../SO4.md:1
+msgid "Related areas in the PRAIS 4 platform: table SO4-2.T1"
 msgstr ""
 
-#: ../../SO4.md:37
+#: ../../SO4.md:39
 msgid ""
 "The RLI is SDG indicator 15.5.1. Therefore, the RLI data are pre-filled "
 "from the SDG database, including the national-level index value as well "
@@ -139,7 +139,7 @@ msgid ""
 "default data."
 msgstr ""
 
-#: ../../SO4.md:39
+#: ../../SO4.md:41
 msgid ""
 "Parties may decide to customize/complement the values to be reported in "
 "table SO4-2.T1. Customised RLI values can be produced from the Red List "
@@ -152,7 +152,7 @@ msgid ""
 " countries."
 msgstr ""
 
-#: ../../SO4.md:41
+#: ../../SO4.md:43
 msgid ""
 "Parties may want to report on regional-scale subsets of species that are "
 "more relevant to the implementation of the UNCCD. National experts on "
@@ -162,21 +162,21 @@ msgid ""
 "report."
 msgstr ""
 
-#: ../../SO4.md:43
+#: ../../SO4.md:45
 msgid ""
 "Details on the customization of the RLI values should be reported in the "
 "‘General Comments’ section provided in the PRAIS 4 platform."
 msgstr ""
 
-#: ../../SO4.md:45
-msgid "[^4: ]https://www.iucnredlist.org/search."
+#: ../../SO4.md:49
+msgid "Step 2: Qualitatively assess the Red List Index data"
 msgstr ""
 
-#: ../../SO4.md:47
-msgid "_Step 2: Qualitatively assess the Red List Index data_"
+#: ../../SO4.md:1
+msgid "Related areas in the PRAIS 4 platform: table SO4-2.T2"
 msgstr ""
 
-#: ../../SO4.md:51
+#: ../../SO4.md:55
 msgid ""
 "Countries are encouraged to identify and then rank which drivers directly"
 " or indirectly cause negative changes or downward trends. Countries are "
@@ -185,11 +185,11 @@ msgid ""
 "the RLI[^5]."
 msgstr ""
 
-#: ../../SO4.md:55
-msgid "_Step 3:  Verify the results_"
+#: ../../SO4.md:59
+msgid "Step 3:  Verify the results"
 msgstr ""
 
-#: ../../SO4.md:57
+#: ../../SO4.md:61
 msgid ""
 "The reliability of the default RLI data needs to be verified by national "
 "experts to detect and highlight situations where the confidence level of "
@@ -198,40 +198,40 @@ msgid ""
 "interpretation of the data."
 msgstr ""
 
-#: ../../SO4.md:59 ../../SO4.md:154
-msgid "_Step 4: Generate reports_"
+#: ../../SO4.md:63 ../../SO4.md:169
+msgid "Step 4: Generate reports"
 msgstr ""
 
-#: ../../SO4.md:61
+#: ../../SO4.md:65
 msgid ""
 "Once verified by the Parties, the estimates of the RLI indicator as well "
 "as the qualitative assessment should be officially submitted to UNCCD."
 msgstr ""
 
-#: ../../SO4.md:63
+#: ../../SO4.md:67
 msgid ""
 "Parties have the option to use the ‘General Comment’ field to add any "
 "relevant information, or to report on specific country or regional "
 "situations."
 msgstr ""
 
-#: ../../SO4.md:65
+#: ../../SO4.md:69
 msgid "4.2.4. Dependencies"
 msgstr ""
 
-#: ../../SO4.md:67
+#: ../../SO4.md:71
 msgid "The SO 4-2 indicator has no interdependencies with other SOs."
 msgstr ""
 
-#: ../../SO4.md:69
+#: ../../SO4.md:73
 msgid "4.2.5. Challenges"
 msgstr ""
 
-#: ../../SO4.md:71 ../../SO4.md:170
-msgid "_Data interpretation_"
+#: ../../SO4.md:75 ../../SO4.md:185
+msgid "Data interpretation"
 msgstr ""
 
-#: ../../SO4.md:73
+#: ../../SO4.md:77
 msgid ""
 "The main challenge is the interpretation of changes in the indicator and "
 "specifically understanding the drivers of trends in the indicator. The "
@@ -242,7 +242,7 @@ msgid ""
 "crucial for correct interpretation."
 msgstr ""
 
-#: ../../SO4.md:75
+#: ../../SO4.md:79
 msgid ""
 "There are also several sources of uncertainty in the RLI values and "
 "trends pertaining to lack of knowledge about species extinction risk, "
@@ -251,28 +251,28 @@ msgid ""
 "consulted for more information."
 msgstr ""
 
-#: ../../SO4.md:77
+#: ../../SO4.md:81
 msgid "4.2.6. Summary"
 msgstr ""
 
-#: ../../SO4.md:79 ../../SO4.md:178
+#: ../../SO4.md:83 ../../SO4.md:193
 msgid "Key actions for reporting on RLI are as follows:"
 msgstr ""
 
-#: ../../SO4.md:81
+#: ../../SO4.md:85
 msgid ""
 "**Report RLI data**: Parties can use the default data or can choose to "
 "report using customized RLI values."
 msgstr ""
 
-#: ../../SO4.md:83
+#: ../../SO4.md:87
 msgid ""
 "**Qualitatively assess the RLI data**: Parties can report on the direct "
 "and indirect drivers of trends in the RLI and any levers used to bring "
 "about positive and transformative change."
 msgstr ""
 
-#: ../../SO4.md:85
+#: ../../SO4.md:89
 msgid ""
 "**Verify the results**: Aware of the limitations of the RLI values, "
 "Parties may verify the accuracy and reliability of such indicators in "
@@ -280,48 +280,48 @@ msgid ""
 "reporting."
 msgstr ""
 
-#: ../../SO4.md:87 ../../SO4.md:186
+#: ../../SO4.md:91 ../../SO4.md:201
 msgid ""
 "**Generate reports**: Once verified by the Parties, the data and "
 "supporting narrative should be officially submitted to UNCCD."
 msgstr ""
 
-#: ../../SO4.md:89
+#: ../../SO4.md:93
 msgid "4.2.7. Further reading"
 msgstr ""
 
-#: ../../SO4.md:91
+#: ../../SO4.md:95
 msgid ""
 "SDG indicator 15.5.1 metadata document "
-"(https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf)."
+"(<https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf>)."
 msgstr ""
 
-#: ../../SO4.md:92
+#: ../../SO4.md:96
 msgid ""
 "Butchart et al. (2006) Biodiversity indicators based on trends in "
 "conservation status: strengths of the IUCN Red List Index. Conservation "
 "Biology 20: 579–581 "
-"(http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2006.00410.x/abstract)."
+"(<http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2006.00410.x/abstract>)."
 msgstr ""
 
-#: ../../SO4.md:93
+#: ../../SO4.md:97
 msgid ""
 "Butchart et al (2010) Global Biodiversity: Indicators of Recent Declines,"
 " Science, 328 (5982), pp. 1164–1168 "
-"(https://science.sciencemag.org/content/328/5982/1164)."
+"(<https://science.sciencemag.org/content/328/5982/1164>)."
 msgstr ""
 
-#: ../../SO4.md:96
+#: ../../SO4.md:99
 msgid ""
 "4.3. SO 4-3 Trends in protected area coverage of important biodiversity "
 "areas"
 msgstr ""
 
-#: ../../SO4.md:98
+#: ../../SO4.md:101
 msgid "4.3.1. Introduction"
 msgstr ""
 
-#: ../../SO4.md:100
+#: ../../SO4.md:103
 msgid ""
 "Protecting important sites for biodiversity is critical to halting the "
 "decline in biodiversity and ensuring the long-term and sustainable use of"
@@ -331,17 +331,17 @@ msgid ""
 "terrestrial ecosystems and their services."
 msgstr ""
 
-#: ../../SO4.md:102
+#: ../../SO4.md:105
 msgid ""
-"Protected areas as defined by the IUCN  are clearly defined geographical "
-"spaces, recognized, dedicated and managed, through legal or other "
-"effective means, to achieve the long-term conservation of nature with "
-"associated ecosystem services and cultural values. A variety of specific "
-"management objectives and levels of access are recognized within this "
-"definition, spanning conservation, restoration and sustainable use."
+"Protected areas as defined by the IUCN[^6]  are clearly defined "
+"geographical spaces, recognized, dedicated and managed, through legal or "
+"other effective means, to achieve the long-term conservation of nature "
+"with associated ecosystem services and cultural values. A variety of "
+"specific management objectives and levels of access are recognized within"
+" this definition, spanning conservation, restoration and sustainable use."
 msgstr ""
 
-#: ../../SO4.md:104
+#: ../../SO4.md:107
 msgid ""
 "In addition to protecting biodiversity, protected areas have high social "
 "and economic value because they support local livelihoods, protect "
@@ -350,7 +350,7 @@ msgid ""
 "education, and contain many cultural and other non-material values."
 msgstr ""
 
-#: ../../SO4.md:106
+#: ../../SO4.md:109
 msgid ""
 "The metric average proportion of terrestrial Key Biodiversity Areas "
 "(KBAs) covered by protected areas, which is SDG indicator 15.1.2b, shows "
@@ -360,7 +360,7 @@ msgid ""
 "protected areas."
 msgstr ""
 
-#: ../../SO4.md:108
+#: ../../SO4.md:111
 msgid ""
 "The metadata for SDG indicator 15.1.2 includes other effective area-based"
 " conservation measures (OECMs) in addition to protected areas. OECMs are "
@@ -371,24 +371,24 @@ msgid ""
 "cultural, spiritual, socio-economic, and other locally relevant values’."
 msgstr ""
 
-#: ../../SO4.md:110
+#: ../../SO4.md:113
 msgid ""
 "KBAs are sites that contribute significantly to the global persistence of"
-" biodiversity and are identified following global criteria  applied at "
-"national levels. The KBAs include:"
+" biodiversity and are identified following global criteria[^7]  applied "
+"at national levels. The KBAs include:"
 msgstr ""
 
-#: ../../SO4.md:112
+#: ../../SO4.md:115
 msgid ""
-"i.\tImportant bird and biodiversity areas, which are sites that "
-"contribute significantly to the global persistence of biodiversity, "
-"identified using data on birds, of which >13,000 sites in total have been"
-" identified from all of the world’s countries;"
+"i. Important bird and biodiversity areas, which are sites that contribute"
+" significantly to the global persistence of biodiversity, identified "
+"using data on birds, of which >13,000 sites in total have been identified"
+" from all of the world’s countries;"
 msgstr ""
 
-#: ../../SO4.md:114
+#: ../../SO4.md:117
 msgid ""
-"ii.\tAlliance for Zero Extinction sites, which are sites holding "
+"ii. Alliance for Zero Extinction sites, which are sites holding "
 "effectively the entire population of at least one species assessed as "
 "critically endangered or endangered on the IUCN Red List of Threatened "
 "Species. 853 sites have been identified for 1,483 species of mammals, "
@@ -396,32 +396,34 @@ msgid ""
 "corals, conifers, cycads and other taxa; and"
 msgstr ""
 
-#: ../../SO4.md:116
+#: ../../SO4.md:119
 msgid ""
-"iii.\tKBAs identified using an earlier version of the KBA criteria, "
+"iii. KBAs identified using an earlier version of the KBA criteria, "
 "including those identified in ecosystem hotspot profiles developed with "
 "the support of the Critical Ecosystem Partnership Fund."
 msgstr ""
 
-#: ../../SO4.md:118
+#: ../../SO4.md:121
 msgid ""
 "Data on protected areas are managed in the World Database on Protected "
 "Areas by the UN Environment Programme World Conservation Monitoring "
-"Centre (UNEP-WCMC)."
+"Centre (UNEP-WCMC)[^8]."
 msgstr ""
 
-#: ../../SO4.md:120
-msgid "Data on OECMs are managed in the World Database on OECMs by the UNEP-WCMC."
+#: ../../SO4.md:123
+msgid ""
+"Data on OECMs are managed in the World Database on OECMs by the UNEP-"
+"WCMC[^9]."
 msgstr ""
 
-#: ../../SO4.md:122
+#: ../../SO4.md:125
 msgid ""
 "Data on KBAs are managed in the World Database of Key Biodiversity Areas "
 "by BirdLife International on behalf of the Key Biodiversity Areas "
-"Partnership."
+"Partnership[^10]."
 msgstr ""
 
-#: ../../SO4.md:124
+#: ../../SO4.md:127
 msgid ""
 "The main output of the reporting process for SO 4-3 is a set of "
 "officially verified annual estimates of the values of average proportion "
@@ -430,39 +432,43 @@ msgid ""
 " from the SDG database for indicator 15.1.2b."
 msgstr ""
 
-#: ../../SO4.md:126
+#: ../../SO4.md:135
 msgid "4.3.2. Prerequisites for reporting"
 msgstr ""
 
-#: ../../SO4.md:128
+#: ../../SO4.md:137
 msgid "An in-depth reading of the SDG indicator 15.1.2 metadata document;"
 msgstr ""
 
-#: ../../SO4.md:130
+#: ../../SO4.md:139
 msgid ""
 "Consultation with national experts on KBA and protected areas, CBD "
 "national focal points, national statistical offices, IUCN State Members "
 "and KBA regional focal points."
 msgstr ""
 
-#: ../../SO4.md:132
+#: ../../SO4.md:141
 msgid "4.3.3. Reporting process and step-by-step procedures"
 msgstr ""
 
-#: ../../SO4.md:136
-msgid "_Step 1: Report indicator data_"
+#: ../../SO4.md:145
+msgid "Step 1: Report indicator data"
 msgstr ""
 
-#: ../../SO4.md:140
+#: ../../SO4.md:1
+msgid "Related areas in the PRAIS 4 platform: table SO4-3.T1"
+msgstr ""
+
+#: ../../SO4.md:151
 msgid ""
 "Default data for this indicator is pre-filled in table SO4-3.T1 from the "
 "SDG database (SDG indicator 15.1.2b), including the national-level value "
 "as well as the upper and lower bounds of uncertainty around the national "
-"estimate.  For data specifications for the SO 4-3 indicator, see the "
-"official metadata for SDG indicator 15.1.2."
+"estimate[^11].  For data specifications for the SO 4-3 indicator, see the"
+" official metadata for SDG indicator 15.1.2."
 msgstr ""
 
-#: ../../SO4.md:142
+#: ../../SO4.md:153
 msgid ""
 "A Party may choose to report using the default data or alternative "
 "national data sources, if available. Any deviation from the guidance "
@@ -470,11 +476,15 @@ msgid ""
 "reporting table."
 msgstr ""
 
-#: ../../SO4.md:144
-msgid "_Step 2: Qualitatively assess the results_"
+#: ../../SO4.md:157
+msgid "Step 2: Qualitatively assess the results"
 msgstr ""
 
-#: ../../SO4.md:148
+#: ../../SO4.md:1
+msgid "Related areas in the PRAIS 4 platform: table SO4-3.T2"
+msgstr ""
+
+#: ../../SO4.md:163
 msgid ""
 "Parties are encouraged to provide comments on the interpretation of the "
 "indicator, including the direction of indicator change. While it may be "
@@ -484,11 +494,11 @@ msgid ""
 "comment box in table SO4-3.T2 in the PRAIS 4 platform."
 msgstr ""
 
-#: ../../SO4.md:150
-msgid "_Step 3: Verify the results_"
+#: ../../SO4.md:165
+msgid "Step 3: Verify the results"
 msgstr ""
 
-#: ../../SO4.md:152
+#: ../../SO4.md:167
 msgid ""
 "The reliability of the default SO 4-3 indicator data needs to be verified"
 " by national experts to detect and highlight situations where the "
@@ -497,74 +507,74 @@ msgid ""
 "knowledge and on a correct interpretation of the data."
 msgstr ""
 
-#: ../../SO4.md:156
+#: ../../SO4.md:171
 msgid ""
 "Once verified by the Parties, the estimates of the SO 4-3 indicator as "
 "well as the qualitative assessment should be officially submitted to "
 "UNCCD."
 msgstr ""
 
-#: ../../SO4.md:158
+#: ../../SO4.md:173
 msgid ""
 "Parties have the option to include additional information in the ‘General"
 " Comments’ field to add any relevant information or to report on specific"
 " country or regional situations."
 msgstr ""
 
-#: ../../SO4.md:160
+#: ../../SO4.md:175
 msgid "4.3.4. Dependencies"
 msgstr ""
 
-#: ../../SO4.md:162
+#: ../../SO4.md:177
 msgid "The SO 4-3 indicator has no interdependencies with other SOs."
 msgstr ""
 
-#: ../../SO4.md:164
+#: ../../SO4.md:179
 msgid "4.3.5. Challenges"
 msgstr ""
 
-#: ../../SO4.md:166
-msgid "_Data availability and quality_"
+#: ../../SO4.md:181
+msgid "Data availability and quality"
 msgstr ""
 
-#: ../../SO4.md:168
+#: ../../SO4.md:183
 msgid ""
 "KBAs focus mainly on subsets of biodiversity such as birds and highly "
 "threatened species. There are plans to improve KBAs with wider taxonomic "
 "coverage."
 msgstr ""
 
-#: ../../SO4.md:172
+#: ../../SO4.md:187
 msgid ""
 "This indicator and metric are very intuitive and only minor challenges "
 "exist. The reporting Party should understand where and why there are KBAs"
 " in their country, otherwise the metric will have less meaning."
 msgstr ""
 
-#: ../../SO4.md:174
+#: ../../SO4.md:189
 msgid ""
 "Data on KBAs and protected areas is generally widely available; however, "
 "challenges exist at the national level in ensuring the designated "
 "protected areas are effective at reducing biodiversity loss."
 msgstr ""
 
-#: ../../SO4.md:176
+#: ../../SO4.md:191
 msgid "4.3.6. Summary"
 msgstr ""
 
-#: ../../SO4.md:180
+#: ../../SO4.md:195
 msgid ""
 "**Report indicator data**: Parties can use the default data or can choose"
 " to report using national data."
 msgstr ""
 
-#: ../../SO4.md:182
+#: ../../SO4.md:197
 msgid ""
 "**Qualitatively assess the results**: Changes in the indicator should be "
 "described in table SO4-3.T2."
 msgstr ""
 
-#: ../../SO4.md:184
+#: ../../SO4.md:199
 msgid ""
 "**Verify the results**: Aware of the limitations of the SO 4-3 indicator "
 "values, Parties may verify the accuracy and reliability of such indicator"
@@ -572,59 +582,60 @@ msgid ""
 "reporting."
 msgstr ""
 
-#: ../../SO4.md:188
+#: ../../SO4.md:203
 msgid "4.3.7. Further reading"
 msgstr ""
 
-#: ../../SO4.md:190
+#: ../../SO4.md:205
 msgid ""
 "SDG indicator 15.1.2 metadata document "
-"(https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf)."
+"(<https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf>)."
 msgstr ""
 
-#: ../../SO4.md:192
+#: ../../SO4.md:207
 msgid ""
 "Butchart, S. H. M. et al. (2012). Protecting important sites for "
 "biodiversity contributes to meeting global conservation targets. PLoS One"
 " 7(3): e32529 "
-"(http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032529)."
+"(<http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032529>)."
 msgstr ""
 
-#: ../../SO4.md:194
+#: ../../SO4.md:209
 msgid ""
 "Eken, G. et al. (2004). Key biodiversity areas as site conservation "
 "targets. BioScience 54: 1110–1118 "
-"(http://bioscience.oxfordjournals.org/content/54/12/1110.short)."
+"(<http://bioscience.oxfordjournals.org/content/54/12/1110.short>)."
 msgstr ""
 
-#: ../../SO4.md:196
+#: ../../SO4.md:211
 msgid ""
 "IUCN (2016). A Global Standard for the Identification of Key Biodiversity"
 " Areas. International Union for Conservation of Nature, Gland, "
-"Switzerland (https://portals.iucn.org/library/node/46259)."
+"Switzerland (<https://portals.iucn.org/library/node/46259>)."
 msgstr ""
 
-#: ../../SO4.md:198
+#: ../../SO4.md:213
 msgid ""
 "Donald, P. et al. (2018) Important Bird and Biodiversity Areas (IBAs): "
 "the development and characteristics of a global inventory of key sites "
 "for biodiversity. Bird Conservation International. 29:177–198."
 msgstr ""
 
-#: ../../SO4.md:200
+#: ../../SO4.md:215
 msgid ""
 "Ricketts, T. H. et al. (2005). Pinpointing and preventing imminent "
 "extinctions. Proceedings of the National Academy of Sciences of the "
-"U.S.A. 102: 18497–18501 (http://www.pnas.org/content/102/51/18497.short)."
+"U.S.A. 102: 18497–18501 "
+"(<http://www.pnas.org/content/102/51/18497.short>)."
 msgstr ""
 
-#: ../../SO4.md:202
+#: ../../SO4.md:217
 msgid ""
 "Langhammer, P. F. et al. (2007). Identification and Gap Analysis of Key "
 "Biodiversity Areas: Targets for Comprehensive Protected Area Systems. "
 "IUCN World Commission on Protected Areas Best Practice Protected Area "
 "Guidelines Series No. 15. IUCN, Gland, Switzerland "
-"(https://portals.iucn.org/library/node/9055)."
+"(<https://portals.iucn.org/library/node/9055>)."
 msgstr ""
 
 #: ../../SO4.md:17
@@ -634,17 +645,21 @@ msgstr ""
 #: ../../SO4.md:18
 msgid ""
 "IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1. "
-"https://www.iucnredlist.org."
+"<https://www.iucnredlist.org>."
 msgstr ""
 
 #: ../../SO4.md:19
 msgid ""
 "For methodology see: Butchart et al (2010) Global Biodiversity: "
 "Indicators of Recent Declines, Science, 328 (5982), pp. 1164–1168. "
-"https://science.sciencemag.org/content/328/5982/1164."
+"<https://science.sciencemag.org/content/328/5982/1164>."
 msgstr ""
 
-#: ../../SO4.md:53
+#: ../../SO4.md:47
+msgid "<https://www.iucnredlist.org/search>."
+msgstr ""
+
+#: ../../SO4.md:57
 msgid ""
 "The direct and indirect drivers available for selection in the table and "
 "the levers which can reverse negative trends are summarized from the "
@@ -653,6 +668,278 @@ msgid ""
 "Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem "
 "Services. E. S. Brondizio, J. Settele, S. Díaz, and H. T. Ngo (editors). "
 "IPBES secretariat, Bonn, Germany. 1148 pages. Available at: "
-"https://ipbes.net/global-assessment."
+"<https://ipbes.net/global-assessment>."
 msgstr ""
+
+#: ../../SO4.md:129
+msgid ""
+"For an explanation of categories, see: <https://www.iucn.org/theme"
+"/protected-areas/about/protected-area-categories>."
+msgstr ""
+
+#: ../../SO4.md:130
+msgid ""
+"For a detailed methodology, see: A Global Standard for the Identification"
+" of Key Biodiversity Areas (IUCN 2016). "
+"<https://portals.iucn.org/library/sites/library/files/documents/2016-048.pdf>."
+msgstr ""
+
+#: ../../SO4.md:131
+msgid "See <https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA>."
+msgstr ""
+
+#: ../../SO4.md:132
+msgid "www.protectedplanet.net/en/thematic-areas/oecms."
+msgstr ""
+
+#: ../../SO4.md:133
+msgid "www.keybiodiversityareas.org/kba-data."
+msgstr ""
+
+#: ../../SO4.md:155
+msgid ""
+"SDG indicator 15.1.2b data is updated each November/December using the "
+"latest versions of the datasets on protected areas, OECMs and KBAs."
+msgstr ""
+
+#~ msgid "4.2.1. \tIntroduction"
+#~ msgstr ""
+
+#~ msgid "4.2.2. \tPrerequisites for reporting"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Familiarity with the ‘Advanced Search’ "
+#~ "function on the IUCN Red List "
+#~ "website to enable customized calculation "
+#~ "of the RLI: https://www.iucnredlist.org/search."
+#~ msgstr ""
+
+#~ msgid "4.2.3. \tReporting process and step-by-step procedures"
+#~ msgstr ""
+
+#~ msgid "_Step 1: Report Red List Index data_"
+#~ msgstr ""
+
+#~ msgid "**Table**"
+#~ msgstr ""
+
+#~ msgid "[^4: ]https://www.iucnredlist.org/search."
+#~ msgstr ""
+
+#~ msgid "_Step 2: Qualitatively assess the Red List Index data_"
+#~ msgstr ""
+
+#~ msgid "_Step 3:  Verify the results_"
+#~ msgstr ""
+
+#~ msgid "_Step 4: Generate reports_"
+#~ msgstr ""
+
+#~ msgid "_Data interpretation_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "SDG indicator 15.5.1 metadata document "
+#~ "(https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Butchart et al. (2006) Biodiversity "
+#~ "indicators based on trends in "
+#~ "conservation status: strengths of the "
+#~ "IUCN Red List Index. Conservation "
+#~ "Biology 20: 579–581 "
+#~ "(http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2006.00410.x/abstract)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Butchart et al (2010) Global "
+#~ "Biodiversity: Indicators of Recent Declines,"
+#~ " Science, 328 (5982), pp. 1164–1168 "
+#~ "(https://science.sciencemag.org/content/328/5982/1164)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Protected areas as defined by the "
+#~ "IUCN  are clearly defined geographical "
+#~ "spaces, recognized, dedicated and managed, "
+#~ "through legal or other effective means,"
+#~ " to achieve the long-term "
+#~ "conservation of nature with associated "
+#~ "ecosystem services and cultural values. "
+#~ "A variety of specific management "
+#~ "objectives and levels of access are "
+#~ "recognized within this definition, spanning"
+#~ " conservation, restoration and sustainable "
+#~ "use."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "KBAs are sites that contribute "
+#~ "significantly to the global persistence "
+#~ "of biodiversity and are identified "
+#~ "following global criteria  applied at "
+#~ "national levels. The KBAs include:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "i.\tImportant bird and biodiversity "
+#~ "areas, which are sites that contribute"
+#~ " significantly to the global persistence"
+#~ " of biodiversity, identified using data "
+#~ "on birds, of which >13,000 sites "
+#~ "in total have been identified from "
+#~ "all of the world’s countries;"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "ii.\tAlliance for Zero Extinction sites,"
+#~ " which are sites holding effectively "
+#~ "the entire population of at least "
+#~ "one species assessed as critically "
+#~ "endangered or endangered on the IUCN "
+#~ "Red List of Threatened Species. 853 "
+#~ "sites have been identified for 1,483 "
+#~ "species of mammals, birds, amphibians, "
+#~ "reptiles, freshwater crustaceans, reef-"
+#~ "building corals, conifers, cycads and "
+#~ "other taxa; and"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "iii.\tKBAs identified using an earlier"
+#~ " version of the KBA criteria, "
+#~ "including those identified in ecosystem "
+#~ "hotspot profiles developed with the "
+#~ "support of the Critical Ecosystem "
+#~ "Partnership Fund."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Data on protected areas are managed "
+#~ "in the World Database on Protected "
+#~ "Areas by the UN Environment Programme"
+#~ " World Conservation Monitoring Centre "
+#~ "(UNEP-WCMC)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Data on OECMs are managed in the"
+#~ " World Database on OECMs by the "
+#~ "UNEP-WCMC."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Data on KBAs are managed in the"
+#~ " World Database of Key Biodiversity "
+#~ "Areas by BirdLife International on "
+#~ "behalf of the Key Biodiversity Areas "
+#~ "Partnership."
+#~ msgstr ""
+
+#~ msgid "_Step 1: Report indicator data_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Default data for this indicator is "
+#~ "pre-filled in table SO4-3.T1 from "
+#~ "the SDG database (SDG indicator "
+#~ "15.1.2b), including the national-level "
+#~ "value as well as the upper and "
+#~ "lower bounds of uncertainty around the"
+#~ " national estimate.  For data "
+#~ "specifications for the SO 4-3 indicator,"
+#~ " see the official metadata for SDG"
+#~ " indicator 15.1.2."
+#~ msgstr ""
+
+#~ msgid "_Step 2: Qualitatively assess the results_"
+#~ msgstr ""
+
+#~ msgid "_Step 3: Verify the results_"
+#~ msgstr ""
+
+#~ msgid "_Data availability and quality_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "SDG indicator 15.1.2 metadata document "
+#~ "(https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Butchart, S. H. M. et al. (2012)."
+#~ " Protecting important sites for "
+#~ "biodiversity contributes to meeting global "
+#~ "conservation targets. PLoS One 7(3): "
+#~ "e32529 "
+#~ "(http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032529)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Eken, G. et al. (2004). Key "
+#~ "biodiversity areas as site conservation "
+#~ "targets. BioScience 54: 1110–1118 "
+#~ "(http://bioscience.oxfordjournals.org/content/54/12/1110.short)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "IUCN (2016). A Global Standard for "
+#~ "the Identification of Key Biodiversity "
+#~ "Areas. International Union for Conservation"
+#~ " of Nature, Gland, Switzerland "
+#~ "(https://portals.iucn.org/library/node/46259)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Ricketts, T. H. et al. (2005). "
+#~ "Pinpointing and preventing imminent "
+#~ "extinctions. Proceedings of the National "
+#~ "Academy of Sciences of the U.S.A. "
+#~ "102: 18497–18501 "
+#~ "(http://www.pnas.org/content/102/51/18497.short)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Langhammer, P. F. et al. (2007). "
+#~ "Identification and Gap Analysis of Key"
+#~ " Biodiversity Areas: Targets for "
+#~ "Comprehensive Protected Area Systems. IUCN "
+#~ "World Commission on Protected Areas Best"
+#~ " Practice Protected Area Guidelines Series"
+#~ " No. 15. IUCN, Gland, Switzerland "
+#~ "(https://portals.iucn.org/library/node/9055)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "IUCN 2021. The IUCN Red List of"
+#~ " Threatened Species. Version 2021-1. "
+#~ "https://www.iucnredlist.org."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For methodology see: Butchart et al "
+#~ "(2010) Global Biodiversity: Indicators of "
+#~ "Recent Declines, Science, 328 (5982), "
+#~ "pp. 1164–1168. "
+#~ "https://science.sciencemag.org/content/328/5982/1164."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The direct and indirect drivers "
+#~ "available for selection in the table "
+#~ "and the levers which can reverse "
+#~ "negative trends are summarized from the"
+#~ " Intergovernmental Science-Policy Platform "
+#~ "on Biodiversity (IPBES) (2019): Global "
+#~ "assessment report on biodiversity and "
+#~ "ecosystem services of the Intergovernmental"
+#~ " Science-Policy Platform on Biodiversity"
+#~ " and Ecosystem Services. E. S. "
+#~ "Brondizio, J. Settele, S. Díaz, and "
+#~ "H. T. Ngo (editors). IPBES secretariat,"
+#~ " Bonn, Germany. 1148 pages. Available "
+#~ "at: https://ipbes.net/global-assessment."
+#~ msgstr ""
 
