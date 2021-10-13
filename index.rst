@@ -16,3 +16,5 @@ PRAIS4 Reporting Manual
    SO3
    SO4
    voluntary_targets_and_others
+   annex_I
+   annex_II
