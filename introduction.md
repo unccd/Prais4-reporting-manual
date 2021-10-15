@@ -245,7 +245,7 @@ The following reporting tools will be made available to country Parties in the s
 
 In addition, Parties can also refer to the following methodological reference documents (in English only):
 
-- Version 2 of the Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area;
+- Version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/sites/default/files/relevant-links/2021-03/Indicator_15.3.1_GPG_v2_29Mar_Advanced-version.pdf): Proportion of land that is degraded over total land area;
 
 - Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3.
 
