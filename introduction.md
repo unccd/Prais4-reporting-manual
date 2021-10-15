@@ -52,11 +52,7 @@ widths: 2 3 3 5 3 8
      - Land cover change
      - Indicator adopted in decision 7/COP.13
      - X
-     - {rspan}`3` Indicators under SO 1 and SDG indicator 15.3.1
-       are optional for reporting by developed country Parties.
-       Developed country Parties may wish to submit information
-       on these indicators on a voluntary basis for the purpose
-       of reporting on progress towards the SDGs.
+     - {rspan}`3` *[^1]
    * - SO 1-2
      - Trends in land productivity or functioning of the land
      - Land productivity dynamics
@@ -73,6 +69,8 @@ widths: 2 3 3 5 3 8
      - Background for indicator adopted in decision 9/COP.13
      - X
 ```
+
+[^1]: Indicators under SO 1 and SDG indicator 15.3.1 are optional for reporting by developed country Parties. Developed country Parties may wish to submit information on these indicators on a voluntary basis for the purpose of reporting on progress towards the SDGs.
 
 ```{tabularcolumns} |p{1.5cm}|p{3cm}|p{3cm}|p{3cm}|p{1.5cm}|p{1.5cm}|
 ```
