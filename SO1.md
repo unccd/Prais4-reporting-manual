@@ -14,7 +14,7 @@ National reporting is facilitated though the provision of: (i) default data deri
 
 ### 1.1.2. Prerequisites for reporting
 
-- An in-depth reading of chapter 3 of the Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2), which provides an overview of the land cover indicator, its definition and classifications, and the recommended methodology to assess land cover degradation;
+- An in-depth reading of chapter 3 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land): Proportion of land that is degraded over total land area (version 2), which provides an overview of the land cover indicator, its definition and classifications, and the recommended methodology to assess land cover degradation;
 
 - Data complying with the minimum standards listed in table 10 below;
 
@@ -82,7 +82,7 @@ The default UNCCD land cover legend includes the following seven classes: tree-c
 
 It is important to highlight that the objective of SO 1-1 reporting is to capture and document past and ongoing key land cover changes causing land degradation, not to report a fully comprehensive national land cover legend which lists all possible land cover classes occurring within a country. Accordingly, national land cover legends should be customized to only include the minimum number of classes needed to capture and monitor land degradation processes reported on in Step 2.
 
-If a country opts to use a national land cover legend, they should fill in table SO1-1.T3 with national land cover classes showing how they map to the default seven UNCCD land cover classes. Countries are strongly encouraged to build the legend with a limited number of relevant classes. This will make reporting more manageable and would reduce the transitions to be described and reported in Step 4. With reference to the Good Practice Guidance for SDG Indicator 15.3.1, the legend should be:
+If a country opts to use a national land cover legend, they should fill in table SO1-1.T3 with national land cover classes showing how they map to the default seven UNCCD land cover classes. Countries are strongly encouraged to build the legend with a limited number of relevant classes. This will make reporting more manageable and would reduce the transitions to be described and reported in Step 4. With reference to the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/sites/default/files/relevant-links/2021-03/Indicator_15.3.1_GPG_v2_29Mar_Advanced-version.pdf), the legend should be:
 
 - *Competent*, for capturing the degradation transitions identified as significant;
 
