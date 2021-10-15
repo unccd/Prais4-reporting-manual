@@ -233,7 +233,7 @@ Since the 2018 reporting process, the performance review and assessment of imple
 
 - New functionality to ingest and manage large geospatial datasets; this will permit the user to define, for instance, the location and boundaries of land degradation hotspots or zones of voluntary land degradation neutrality targets;
 
-- Analytical, synthesis and visualization functions for the submitted data.  
+- Analytical, synthesis and visualization functions for the submitted data [^2].  
 
 The following reporting tools will be made available to country Parties in the six official United Nations languages:
 
@@ -248,6 +248,8 @@ In addition, Parties can also refer to the following methodological reference do
 - Version 2 of the Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area;
 
 - Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3.
+
+[^2]: Delivery of analytical, synthesis and visualization functions expected in September - December 2022. 
 
 ## Data analytics tools
 
@@ -273,11 +275,13 @@ Trends.Earth is a free and open-source tool for monitoring indicators of land ch
 
 With a view to reducing the reporting burden and in accordance with the procedure established in decision 22/COP.11, the PRAIS 4 forms will be pre-filled with default national estimates based on available global data sources. Country Parties will have the possibility to verify or replace these national estimates using data sourced/computed nationally/locally.
 
-In order to provide national-level extracts of the global data sources for national reporting, the United Nations Geospatial Hub (hereinafter referred to as UN Map Data) was used, which is a worldwide geospatial database consisting of country and geographic name information and a coherent alignment of national boundaries for consistent representation on a global scale. UN Map Data includes geospatial web services, which aim to provide a contextual global webservices background to the international community. The current flagship United Nations geospatial service is entitled [Clear Map](https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887) (hereinafter referred to as UN Clear Map). UN Clear Map was originally designed and created for the use of the United Nations Secretariat and system for their website and related web products, but is now a publicly available resource subject to the terms of use. The UN Clear Map service is available in PRAIS 4 in different cartographic styles and web canvases to give countries context for the geospatial reporting data. However, the UN Clear Map has scale constraints, as it cannot be used beyond a map scale of 1:4.5 million. As the PRAIS 4 map view is fixed to the extent of the country boundaries, countries which are fixed at scales finer than this will not be able to use UN Clear Map. Alternative web map services are provided for context at finer scales to compensate for the scale constraints of UN Clear Map.
+In order to provide national-level extracts of the global data sources for national reporting, the United Nations Geospatial Hub (hereinafter referred to as UN Map Data) was used, which is a worldwide geospatial database consisting of country and geographic name information and a coherent alignment of national boundaries for consistent representation on a global scale. UN Map Data includes geospatial web services, which aim to provide a contextual global webservices background to the international community. The current flagship United Nations geospatial service is entitled [Clear Map](https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887) (hereinafter referred to as UN Clear Map). UN Clear Map was originally designed and created for the use of the United Nations Secretariat and system for their website and related web products, but is now a publicly available resource subject to the terms of use. The UN Clear Map service is available in PRAIS 4 in different cartographic styles and web canvases to give countries context for the geospatial reporting data. However, the UN Clear Map has scale constraints, as it cannot be used beyond a map scale of 1:4.5 million. As the PRAIS 4 map view is fixed to the extent of the country boundaries, countries which are fixed at scales finer than this will not be able to use UN Clear Map[^3]. Alternative web map services are provided for context at finer scales to compensate for the scale constraints of UN Clear Map.
 
 The UN Map Data has been prepared by the United Nations Geospatial Information Section (formerly Cartographic Section) in New York. The designations employed and the presentation of material contained in the UN Map Data do not imply the expression of any opinion whatsoever on the part of the UNCCD concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
 
 Countries wishing to replace the default national estimates using nationally or locally available data are advised and encouraged to use Trends.Earth for the preparation, analysis and transfer of their data into PRAIS. This includes the use of a national border which differs from the UN Map Data used for the preparation of the default datasets described above. Careful consideration should be given to the use of an alternative national border in that it must be consistent with the total land area reported under SO 1-1. Otherwise, discrepancies may arise in the reporting data derived from geospatial analysis using that border.
+
+[^3]: https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887.
 
 ## Open data sharing
 
