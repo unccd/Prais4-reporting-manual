@@ -245,7 +245,7 @@ The following reporting tools will be made available to country Parties in the s
 
 In addition, Parties can also refer to the following methodological reference documents (in English only):
 
-- Version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/sites/default/files/relevant-links/2021-03/Indicator_15.3.1_GPG_v2_29Mar_Advanced-version.pdf): Proportion of land that is degraded over total land area;
+- Version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land): Proportion of land that is degraded over total land area;
 
 - Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3.
 
@@ -257,7 +257,7 @@ In line with decision 11/COP.14, Conservation International has further enhanced
 
 Trends.Earth is a free and open-source tool for monitoring indicators of land change. More specifically, Trends.Earth supports:
 
-- The calculation of the SO 1 indicators, including SDG Indicator 15.3.1, following version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/sites/default/files/relevant-links/2021-03/Indicator_15.3.1_GPG_v2_29Mar_Advanced-version.pdf);
+- The calculation of the SO 1 indicators, including SDG Indicator 15.3.1, following version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land);
 
 - The recalculation of SDG indicator 15.3.1, accounting for any reported false positive and false negative degradation processes;
 
@@ -322,9 +322,9 @@ Advances in methodologies and data availability may require periodic recalculati
 
 In this reporting process, the key reasons for recalculation, accompanied by explanatory information (including the quantitative impact of the recalculation on (i) the baseline estimates compared with the baseline reported in 2018; and (ii) previously submitted national targets), should be reported. A separate reporting form has been created in PRAIS 4 for this purpose.
 
-For instance, given the evolution of the calculation methods presented in version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/sites/default/files/relevant-links/2021-03/Indicator_15.3.1_GPG_v2_29Mar_Advanced-version.pdf), it is recommended that previously submitted baseline estimates of all SO 1 indicators, including SDG Indicator 15.3.1, be recalculated and included in the national report to be submitted in 2022. Default national estimates provided through the PRAIS forms have already been recalculated for country Parties using the new calculation methods. Therefore, recalculation methods should only be reported if opting to use national datasets.
+For instance, given the evolution of the calculation methods presented in version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land), it is recommended that previously submitted baseline estimates of all SO 1 indicators, including SDG Indicator 15.3.1, be recalculated and included in the national report to be submitted in 2022. Default national estimates provided through the PRAIS forms have already been recalculated for country Parties using the new calculation methods. Therefore, recalculation methods should only be reported if opting to use national datasets.
 
-For a broader discussion on the issue of recalculations, see chapter 6 of version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/sites/default/files/relevant-links/2021-03/Indicator_15.3.1_GPG_v2_29Mar_Advanced-version.pdf).
+For a broader discussion on the issue of recalculations, see chapter 6 of version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).
 
 ## Process and schedule for the 2022 reporting process
 
