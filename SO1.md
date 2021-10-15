@@ -82,7 +82,7 @@ The default UNCCD land cover legend includes the following seven classes: tree-c
 
 It is important to highlight that the objective of SO 1-1 reporting is to capture and document past and ongoing key land cover changes causing land degradation, not to report a fully comprehensive national land cover legend which lists all possible land cover classes occurring within a country. Accordingly, national land cover legends should be customized to only include the minimum number of classes needed to capture and monitor land degradation processes reported on in Step 2.
 
-If a country opts to use a national land cover legend, they should fill in table SO1-1.T3 with national land cover classes showing how they map to the default seven UNCCD land cover classes. Countries are strongly encouraged to build the legend with a limited number of relevant classes. This will make reporting more manageable and would reduce the transitions to be described and reported in Step 4. With reference to the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/sites/default/files/relevant-links/2021-03/Indicator_15.3.1_GPG_v2_29Mar_Advanced-version.pdf), the legend should be:
+If a country opts to use a national land cover legend, they should fill in table SO1-1.T3 with national land cover classes showing how they map to the default seven UNCCD land cover classes. Countries are strongly encouraged to build the legend with a limited number of relevant classes. This will make reporting more manageable and would reduce the transitions to be described and reported in Step 4. With reference to the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land), the legend should be:
 
 - *Competent*, for capturing the degradation transitions identified as significant;
 
@@ -464,7 +464,7 @@ National reporting is facilitated though the provision of default data derived f
 
 ### 1.2.2. Prerequisites for reporting
 
-- An in-depth reading of chapter 4 of the Good Practice Guidance for SDG Indicator 15.3.1 providing an overview on land productivity and detailing the methodology used to estimate land productivity changes;
+- An in-depth reading of chapter 4 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) providing an overview on land productivity and detailing the methodology used to estimate land productivity changes;
 
 - Data complying with the specifications listed in table 11 below;
 
@@ -547,7 +547,7 @@ widths: 4 5 5
   - Minimum metadata content as per the mandatory fields are listed in Annex II.
 ```
 
-**\***_Version 2 of the Good Practice Guidance for SDG Indicator 15.3.1 recommends that productivity Trend is assessed over a period of 16 years for both the baseline and reporting periods. This provides a more consistent basis for the assessment of changes in the productivity Trend._
+**\***_Version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) recommends that productivity Trend is assessed over a period of 16 years for both the baseline and reporting periods. This provides a more consistent basis for the assessment of changes in the productivity Trend._
 
 #### Step 2:  Select a productivity index
 
@@ -559,7 +559,7 @@ Other indices, such as the EVI, may also be suitable. Although some of these ind
 
 The estimation of annual productivity should take into consideration that, due to the natural cycles of growth and senescence of vegetation, NPP is best represented by a time series of observations captured during the full growing season. Therefore, for each pixel location, the annual productivity will be the integral of values from the start to the end of the growing season of the selected productivity index. Areas with increasing NPP should be interpreted as improving, unless assessed otherwise at country level.
 
-Further indications on options to estimate the start and length of the growing season are given in section 4.2.4.1 of the Good Practice Guidance for SDG Indicator 15.3.1.
+Further indications on options to estimate the start and length of the growing season are given in section 4.2.4.1 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).
 
 #### Step 4: Calculate land productivity metrics
 
@@ -599,7 +599,7 @@ Important facts about z-scores:
 
 ````
 
-As recommended in the Good Practice Guidance for SDG Indicator 15.3.1, z-score intervals may be set as follows:
+As recommended in the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land), z-score intervals may be set as follows:
 
 - z-score < –1.96 = degrading
 - z-score < –1.28 AND ≥ –1.96 = potentially degrading
@@ -700,7 +700,7 @@ class: align-center
 
 _Note: Lookup table indicating combinations of productivity metrics to determine whether a pixel is degraded (‘Y’) or not degraded (‘N’): classes 1 to 5 show degradation. This table complies with the definition of land degradation adopted by the UNCCD, which includes a reduction of biological productivity (i.e. a significantly negative Trend constitutes degradation regardless of the State or Performance metrics)._
 
-An alternative approach, suggesting a variant of the above metric combinations, is described in section 4.2.5 and table 4-5 of the Good Practice Guidance for SDG Indicator 15.3.1 for country Parties’ consideration.
+An alternative approach, suggesting a variant of the above metric combinations, is described in section 4.2.5 and table 4-5 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) for country Parties’ consideration.
 
 The total area of land productivity degradation in the baseline period should be reported in table SO1-2.T5 of the PRAIS 4 platform.
 
@@ -919,7 +919,7 @@ Parties may complement/replace these data with national data (Tier 2 method), de
 
 ### 1.3.2. Prerequisites for reporting
 
-- An in-depth reading of chapter 5 of the Good Practice Guidance for SDG Indicator 15.3.1, which provides basic information on the processes regulating the formation and release of SOC stocks and detailing the methodology used to estimate SOC changes;
+- An in-depth reading of chapter 5 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land), which provides basic information on the processes regulating the formation and release of SOC stocks and detailing the methodology used to estimate SOC changes;
 
 - Data complying with the minimum standards listed in table 14 below;
 
@@ -937,7 +937,7 @@ Parties may use three methods to determine baseline SOC stocks and estimate chan
 
 [^4]: 2006 IPCC Guidelines for National Greenhouse Gas Inventories and its 2019 Refinement, as well as the 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands.
 
-- The **Tier 1 method** uses broad methods with default data, and it is valuable where country-specific data and capacities are scarce or unavailable. SOC stock change estimates are informed by the equations in the IPCC guidelines, which are summarized in chapter 5 of the Good Practice Guidance for SDG Indicator 15.3.1.
+- The **Tier 1 method** uses broad methods with default data, and it is valuable where country-specific data and capacities are scarce or unavailable. SOC stock change estimates are informed by the equations in the IPCC guidelines, which are summarized in chapter 5 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).
 
   The Tier 1 method assumes that following land use/management changes, carbon stock changes occur over a 20-year period, after which a new equilibrium stock is reached. The Tier 1 method uses information on land cover change, along with stock change factors (i.e. a land use factor, a management factor and an input factor, where available) to estimate changes in carbon stock. The SOC stock baseline is based on reference SOC stocks under natural vegetation, stratified by climate/soil type. As an alternative to IPCC default values, reference stocks can be determined from global digital maps of SOC.
 
@@ -945,11 +945,11 @@ Parties may use three methods to determine baseline SOC stocks and estimate chan
 
   The influence of land use and management on SOC is different in mineral versus organic soil types. Carbon stocks in organic soils are not explicitly computed using the Tier 1 method, which estimates only annual carbon flux from organic soils. For organic soils, the method uses an annual emission factor to estimate the losses of carbon following drainage and/or fire. Losses from organic soils are estimated using an adaptation of Equation 2.2 from chapter 2 of the IPCC Wetlands Supplement.
 
-  A detailed description of the Tier 1 method is provided in section 5.2.6.1 of the Good Practice Guidance for SDG Indicator 15.3.1.
+  A detailed description of the Tier 1 method is provided in section 5.2.6.1 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).
 
 - The **Tier 2 method** makes use of additional country-specific data to complement default values, such as country-specific change factors, reference SOC stocks, climate regions, soil types, and/or land management classification systems. Country-specific values may be derived for all of these components, or any subset which would then be combined with default values. Reference SOC stocks can be determined from national digital soil maps or from measurements taken from national soil surveys.
 
-  A detailed description of the Tier 2 method is provided in section 5.2.6.2 of the Good Practice Guidance for SDG Indicator 15.3.1.
+  A detailed description of the Tier 2 method is provided in section 5.2.6.2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).
 
 - The **Tier 3 method** is the most complex, involving ground measurements and modelling, and it is only recommended for countries with adequate technical capacity and data. It incorporates more advanced methods which better capture annual variability in fluxes, such as country-specific digital soil mapping and time-series spatial land use/management and climate data, combined with calibrated and validated process-based models and/or a measurement-based inventory with a monitoring network.
 
@@ -998,7 +998,7 @@ widths: 2 4 4
 
 Parties that are members of the Global Soil Partnership and are opting to use the Tier 2 method may also consider the [Global Soil Organic Carbon Map (GSOCmap)](http://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/global-soil-organic-carbon-map-gsocmap/en/) as an alternative to the default SOC stock baseline data.
 
-Other relevant data sources are listed in Appendix C of the Good Practice Guidance for SDG Indicator 15.3.1.
+Other relevant data sources are listed in Appendix C of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).
 
 #### Step 3: Determine the baseline soil organic carbon stock and degradation status
 
@@ -1006,7 +1006,7 @@ Estimating change in the extent of SOC degradation over time requires calculatin
 
 For example, in the default dataset provided for the baseline period, SOC changes were obtained from a combination of the SoilGrids250m data and the ESA CCI-LC annual data, and estimated using the IPCC change factors averaged over 20 years and then applied on an annual basis within the 2000−2015 period.
 
-The Good Practice Guidance for SDG Indicator 15.3.1 includes the following two options for estimating the initial baseline status (t0) at differing temporal scales for the SOC stocks metric:
+The [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) includes the following two options for estimating the initial baseline status (t0) at differing temporal scales for the SOC stocks metric:
 
 1. Set a benchmark of SOC stocks with which to compare change, in other words, assess whether the average SOC stocks in the baseline period are low, high or average relative to some potential value for a given climate or soil type and determine the degradation status (i.e. degraded/not degraded). The updated IPCC reference (from the 2019 Refinement of the IPCC guidelines) for SOC stocks under native vegetation, reflecting default climate regions and soil types, could be considered a benchmark, but ideally, national benchmarks (e.g. derived from largely undisturbed systems) would be used. The determination of the initial baseline status would then be estimated by comparing the observed average value with the benchmark using defined upper and lower bounds. If the estimated SOC stocks are below the lower bound of the benchmark, the area is considered degraded. This option is affected by the accuracy of the updated 2019 IPCC defaults for SOC reference stocks, which, although they improve upon the 2006 IPCC default values, in some cases still carry significant errors.
 
@@ -1151,7 +1151,7 @@ Parties are also encouraged to identify ‘hotspots’ and ‘brightspots’ as 
 
 ### 1.4.2. Prerequisites for reporting
 
-- An in-depth reading of chapter 2 of the Good Practice Guidance for SDG Indicator 15.3.1;
+- An in-depth reading of chapter 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land);
 
 - A pool of national experts officially nominated by the national authorities to verify the reliability of the land degradation estimates. Key institutions might include a country’s national statistical office, ministry of environment, ministry of agriculture, ministry of water resources, remote-sensing centre, as well as universities and research centers. Consultation with the national statistics office is particularly important given its responsibility to review and validate national estimates of SDG indicator 15.3.1 prior to the final submission to the United Nations Statistics Division for inclusion in the Sustainable Development Goals Report and the Global SDG Indicators Database.
 
