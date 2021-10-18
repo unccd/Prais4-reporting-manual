@@ -35,7 +35,7 @@ Reporting on the implementation framework will be done through qualitative infor
 ```{tabularcolumns} |L|L|L|L|C|p{3cm}|
 ```
 
-```{flat-table} *__Table 1__. Strategic objective (SO) 1 indicators and reporting attributions*
+```{flat-table} *__Table 1__. Strategic objective (SO) 1 indicators and reporting attribution*
 ---
 header-rows: 2
 widths: 2 3 3 5 3 8
@@ -140,7 +140,7 @@ widths: 1 2 3 2 1 1
      - Trends in the degree of drought vulnerability
      - Drought Vulnerability Index
      - Indicator adopted in decision 7/COP.14
-     - Optional
+     - X
      - \---
 ```
 
