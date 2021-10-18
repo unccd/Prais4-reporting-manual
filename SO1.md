@@ -428,23 +428,23 @@ The total land area declared under table SO1-1.T1 drives the calculation of subs
 
 Key actions for reporting on land cover changes are as follows:
 
-1. Report on land area: Information on total land area, the area covered by water bodies and total country area is to be reported in table SO1-1.T1.
+1. **Report on land area**: Information on total land area, the area covered by water bodies and total country area is to be reported in table SO1-1.T1.
 
-2. Identify the key land degradation processes through the appropriate consultative process and insert the results in table SO1-1.T2.
+2. **Identify the key land degradation processes** through the appropriate consultative process and insert the results in table SO1-1.T2.
 
-3. Select a land cover legend, ensuring compatibility with the UNCCD default legend. Insert the legend in table SO1-1.T3 if different from the UNCCD default legend.
+3. **Select a land cover legend**, ensuring compatibility with the UNCCD default legend. Insert the legend in table SO1-1.T3 if different from the UNCCD default legend.
 
-4. Generate a transition matrix. For each land cover transition, indicate whether it is likely to lead to degradation, improvement or stable conditions. Enter this information in table SO1-1.T4a if the UNCCD land cover legend is used; otherwise use table SO1-1.T4b for national legends.
+4. **Generate a transition matrix**. For each land cover transition, indicate whether it is likely to lead to degradation, improvement or stable conditions. Enter this information in table SO1-1.T4a if the UNCCD land cover legend is used; otherwise use table SO1-1.T4b for national legends.
 
-5. Select data to be used; ensure compliance with the minimum specifications listed in table 10.
+5. **Select data to be used**; ensure compliance with the minimum specifications listed in table 10.
 
-6. Determine the baseline extent of land cover degradation using the selected data, legend and transition matrix for the baseline period 2000–2015. If national land cover data is used, run the calculations in Trends.Earth and enter this information in tables SO1-1.T5, SO1-1.T6 and SO1-1.T8.
+6. **Determine the baseline extent of land cover degradation** using the selected data, legend and transition matrix for the baseline period 2000–2015. If national land cover data is used, run the calculations in Trends.Earth and enter this information in tables SO1-1.T5, SO1-1.T6 and SO1-1.T8.
 
-7. Estimate land cover degradation using the selected data, legend and transition matrix for the reporting period and based on an assessment of change from the baseline. If national land cover data is used, run the calculations in Trends.Earth and enter this information in tables SO1-1.T5, SO1-1.T7 and SO1-1.T9.
+7. **Estimate land cover degradation** using the selected data, legend and transition matrix for the reporting period and based on an assessment of change from the baseline. If national land cover data is used, run the calculations in Trends.Earth and enter this information in tables SO1-1.T5, SO1-1.T7 and SO1-1.T9.
 
-8. Verify the results: It is recommended that land cover and related land degradation estimates are verified by the concerned national authorities to assess the accuracy of the results and identify any false positive and negative situations which can be reported on in the SO 1-4 forms (SDG indicator 15.3.1).
+8. **Verify the results**: It is recommended that land cover and related land degradation estimates are verified by the concerned national authorities to assess the accuracy of the results and identify any false positive and negative situations which can be reported on in the SO 1-4 forms (SDG indicator 15.3.1).
 
-9. Generate reports: Verify the accuracy of the quantitative information entered in the report and include the narrative information on methods and process used.
+9. **Generate reports**: Verify the accuracy of the quantitative information entered in the report and include the narrative information on methods and process used.
 
 ### 1.1.7. Further reading
 
@@ -568,11 +568,11 @@ Further indications on options to estimate the start and length of the growing s
 
 Estimating changes in productivity over time is based on the multi-temporal analysis of the annual productivity using three metrics:
 
-1. Trend: measures the trajectory of change in annual productivity over the long term per pixel;
+1. **Trend**: measures the trajectory of change in annual productivity over the long term per pixel;
 
-2. State: compares the current to historical annual productivity per pixel;
+2. **State**: compares the current to historical annual productivity per pixel;
 
-3. Performance: indicates the level of local annual productivity over an area compared with other areas with a similar land productivity potential.
+3. **Performance**: indicates the level of local annual productivity over an area compared with other areas with a similar land productivity potential.
 
 The changes observed in each of the three metrics are combined to determine persistent land productivity trajectories represented in five classes comparable with the default dataset provided by JRC (see table 3 below). They are also used to determine whether a pixel is degraded or not degraded in the baseline period and whether a pixel is degrading, improving or stable in the reporting period (see Step 5).
 
@@ -635,9 +635,9 @@ header-rows: 1
 * - B = Mean annual NPP 2000–2012</td>
   - B = Mean annual NPP of the 13 preceding years</td>
 * - C = Standard deviation 2000–2012</td>
-  - C = Standard deviation of the 13 preceding years-2023</td>
+  - C = Standard deviation of the 13 preceding years</td>
 * - z-score = (A – B) / C </td>
-  - z-score = (A – B) / C -2027</td>
+  - z-score = (A – B) / C</td>
 ```
 
 Class definitions for the Z scores are as follows:
@@ -882,7 +882,9 @@ Data availability and quality
 
 - Spatial resolution of international data might not always be suitable to produce a sufficiently detailed representation of the land productivity dynamics at the national level, especially for SIDS or mountainous countries;
 - Land productivity in certain climatic zones where the annual growing season is highly variable or erratic, or where there is sparse or no vegetation, is difficult to accurately measure, resulting in no data for these areas. Areas of dense vegetation and year-round growth, as in the humid tropics, can also show little variation in productivity, making data unreliable.
+
 Analytical approach
+
 - It is important to consider that applying a 16-year window for the reporting period of land productivity versus a 4-year window for land cover and SOC stock changes will likely increase the impact of productivity (compared to the other indicators) when they are combined to derive the SDG indicator 15.3.1.
 
 ### 1.2.6. Summary (main actions)
@@ -1021,6 +1023,8 @@ At higher tiers, the assessment of SOC stock change for the baseline period may 
 
 - As spatially explicit baselines, where the appropriate resolution would need to be defined (the suggested spatial resolution is 100m).
 The PRAIS 4 platform includes prefilled baseline SOC data per land cover class, but also allows Parties to enter their own SOC data in the reporting tables.
+
+The PRAIS 4 platform includes prefilled baseline SOC data per land cover class, but also allows Parties to enter their own SOC data in the reporting tables.  
 
 #### Step 4: Estimate change in soil organic carbon stock
 
@@ -1178,6 +1182,7 @@ In practical terms, for the purposes of calculating SDG indicator 15.3.1, tracki
 2. Calculate the extent of degradation in the reporting period (tn) by summing (i) areas of land where changes in the subindicators are considered to indicate new degradation; and (ii) areas of land that have persisted in a degraded state since the baseline period (i.e. have not improved to a non-degraded state);
 
 3. Calculate the change in extent of degradation between the baseline and reporting periods.
+
 The total area of degraded land for the baseline, the reporting period and the change of the area between the two periods should be reported in table SO1-4.T1. In addition, Parties can report additional information on the method used, for example if different from the 1OAO approach, as well as indicate the level of confidence of the estimates (high, medium or low).
 
 #### Step 2. Estimate progress towards land degradation neutrality
@@ -1244,6 +1249,7 @@ Default maps or maps generated in Trends.Earth using national data representing 
 ### 1.4.4. Dependencies
 
 SDG indicator 15.3.1 relies on the total land area reported in table SO1-1.T1. Modifying that number will therefore alter the indicator’s value.
+
 The ‘Area’ fields of the spatial tables SO1-4.T3,  SO1-4.T4 and SO1-4.T5 have a dependency on spatial data created by countries using the PRAIS 4 spatial data viewer. However, they can also be filled in manually without providing supporting spatial data.
 
 ### 1.4.5. Summary (main actions)
