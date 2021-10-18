@@ -590,7 +590,7 @@ class: font-style-italic
 A z-score measures how many standard deviations above or below the mean a data point is. The formula for calculating a z-score is reported below, where ‘z’ is the z-score:
 
   ```{rst-class} align-center
-  $z = \frac{data point – mean}{standard deviation}$
+  $z = \frac{data\ point – mean}{standard\ deviation}$
   ```
 
 &nbsp; 
