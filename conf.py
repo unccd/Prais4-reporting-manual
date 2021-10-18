@@ -48,7 +48,7 @@ myst_enable_extensions = [
 ]
 
 myst_substitutions = {
-  "br": """
+  "br": r"""
   ```{raw} html
   <br>
   ```
@@ -154,7 +154,14 @@ latex_elements = {
         InnerLinkColor={rgb}{0,0,0.94},
         OuterLinkColor={rgb}{0,0,0.94}
     }
-    ''',
+    \fancyhf{}
+    \fancypagestyle{normal}{
+        \fancyhf{}
+        \fancyhead{}
+        \fancyfoot{}
+        \fancyfoot[LE,RO]{\thepage}
+    }
+    ''',  # see https://texblog.org/2007/11/07/headerfooter-in-latex-with-fancyhdr/
     'figure_align': 'H',
     'fontpkg': '''
     \\setmainfont{Lato}
@@ -164,7 +171,7 @@ latex_elements = {
 }
 
 pdf_documents = [
-    ('index', u'PRAIS4_user_manual', u'PRAIS4 User Manual', u'UNCCD', '2021-06-15'),
+    ('index', 'PRAIS4_user_manual', 'PRAIS4 User Manual', 'UNCCD', '2021-06-15'),
 ]
 
 # Enable numfig for automatic numbering of table
