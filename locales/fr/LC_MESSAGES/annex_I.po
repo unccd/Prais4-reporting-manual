@@ -1,0 +1,253 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, UNCCD
+# This file is distributed under the same license as the PRAIS4 Reporting
+# Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PRAIS4 Reporting Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-18 17:31+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../annex_I.md:1
+msgid ""
+"Annex I: User-specific license options for national data uploaded to the "
+"UNCCD Performance Review and Assessment of Implementation System (PRAIS)"
+msgstr ""
+
+#: ../../annex_I.md:3
+msgid "1. UNCCD Mandate"
+msgstr ""
+
+#: ../../annex_I.md:5
+msgid ""
+"Decision 16/COP.11 para. 9 requests the secretariat to ensure that data "
+"and information from the reporting process are available and accessible "
+"to all, especially at the national and local levels."
+msgstr ""
+
+#: ../../annex_I.md:7
+msgid ""
+"Decision 17/COP.11 para. 14 requests the secretariat to develop a policy "
+"to access data and information provided by Parties and other reporting "
+"entities, including through the Performance Review and Assessment of "
+"Implementation System (PRAIS), building on the practices and policies of "
+"other conventions and multilateral bodies, and to utilize intellectual "
+"property provisions to protect innovations submitted as best practices "
+"while implementing this data access policy."
+msgstr ""
+
+#: ../../annex_I.md:9
+msgid "2. Introduction"
+msgstr ""
+
+#: ../../annex_I.md:11
+msgid ""
+"Licensing of national datasets aims to empower country Parties reporting "
+"through PRAIS to set the terms of use of their national data uploaded or "
+"created as part of the reporting process by creating a User-Specific "
+"Licence (USL). The default licence for PRAIS data can be seen in the "
+"“Terms of Use” section of the site. Parties uploading national datasets "
+"to the system have the option to edit the default licence in the Spatial "
+"Layers list by clicking on the form provided per uploaded layer. However,"
+" while Parties are free to set their terms of use for their national "
+"datasets, the default data provided to Parties through PRAIS and "
+"Trends.Earth is already in the public domain as described here, and "
+"therefore cannot be licensed separately by Parties. For example, the "
+"European Space Agency Climate Change Initiative Land Cover and the "
+"International Soil Reference and Information Centre Soil Grids data has "
+"been released under an “Attribution-Share Alike” licence. Thus, the use "
+"of these datasets is subject to the terms of this licence."
+msgstr ""
+
+#: ../../annex_I.md:13
+msgid ""
+"By choosing a USL, the user consents to the chosen licence. It is "
+"understood that the following terms and conditions are agreed to:"
+msgstr ""
+
+#: ../../annex_I.md:15
+msgid ""
+"Nothing in or relating to this USL shall be deemed a waiver, express or "
+"implied, of any of the privileges and immunities of the United Nations "
+"Convention to Combat Desertification (UNCCD) or the United Nations, "
+"including its subsidiary organs."
+msgstr ""
+
+#: ../../annex_I.md:17
+msgid ""
+"The name and emblem of the UNCCD is the property of the UNCCD, which owns"
+" all rights to its use. The logo can only be used to identify events and "
+"activities related to the UNCCD."
+msgstr ""
+
+#: ../../annex_I.md:19
+msgid ""
+"The UNCCD shall not be held responsible for any use of information beyond"
+" that stipulated in this USL, where prior authorization was not sought "
+"and granted in accordance with the conditions expressed and communicated "
+"by the UNCCD."
+msgstr ""
+
+#: ../../annex_I.md:21
+msgid "3. Submitting national datasets to PRAIS"
+msgstr ""
+
+#: ../../annex_I.md:23
+msgid ""
+"There are three mechanisms to share non-default reporting datasets in "
+"PRAIS:"
+msgstr ""
+
+#: ../../annex_I.md:25
+msgid ""
+"Uploading data directly to PRAIS and supplying metadata (information "
+"about the dataset) on the form provided."
+msgstr ""
+
+#: ../../annex_I.md:27
+msgid ""
+"Via data transfer from Trends.Earth (when using national data for "
+"calculating UNCCD indicators in Trends.Earth)."
+msgstr ""
+
+#: ../../annex_I.md:29
+msgid "Creating spatial reporting data on the Spatial Data Viewer in PRAIS."
+msgstr ""
+
+#: ../../annex_I.md:31
+msgid "4. Licence Instructions"
+msgstr ""
+
+#: ../../annex_I.md:33
+msgid "For every uploaded or created dataset in PRAIS, you may choose to:"
+msgstr ""
+
+#: ../../annex_I.md:35
+msgid "Accept the default Creative Commons (CC) licence."
+msgstr ""
+
+#: ../../annex_I.md:37
+msgid ""
+"Choose an alternative CC licence which applies additional restrictions on"
+" the use of the data, or use an existing licence of your own."
+msgstr ""
+
+#: ../../annex_I.md:39
+msgid ""
+"The data licence will determine the level of public user access to "
+"national datasets hosted on PRAIS and managed by the UNCCD secretariat "
+"for the purposes of reporting. For the purposes of this agreement, the "
+"“Data” comprises any national data, with particular recognition of "
+"spatial data and associated attribute data provided by the country Party "
+"in the reporting process to the UNCCD through its creation on the PRAIS "
+"Spatial Data Viewer, using the PRAIS upload tool or via Trends.Earth. The"
+" Data may be provided to other PRAIS users on the understanding that they"
+" read it and consent to be bound by the terms and conditions of use set "
+"out in the USL (if the data is not already in the public domain)."
+msgstr ""
+
+#: ../../annex_I.md:41
+msgid ""
+"Therefore, country Parties should familiarize themselves with the "
+"following options and select the one(s) best suited to their requirements"
+" for their Data:"
+msgstr ""
+
+#: ../../annex_I.md:43
+msgid "4.1. Creative Commons Licences"
+msgstr ""
+
+#: ../../annex_I.md:45
+msgid ""
+"There are three regularly used CC licences by which you can license your "
+"dataset. However, the UNCCD has an open data commitment and intends to "
+"share data provided by Parties with as few constraints and restrictions "
+"on its use as possible. Therefore, the data shared by country Parties "
+"will be licensed according to the CC Attribution-NonCommercial 2.0 "
+"Generic (CC BY-NC 2.0) licence which means users of the data are free to:"
+msgstr ""
+
+#: ../../annex_I.md:47
+msgid "Share — Copy and redistribute the material in any medium or format."
+msgstr ""
+
+#: ../../annex_I.md:49
+msgid "Adapt — Remix, transform, and build upon the material."
+msgstr ""
+
+#: ../../annex_I.md:51
+msgid ""
+"However, in return for using the data, users must respect the following "
+"terms:"
+msgstr ""
+
+#: ../../annex_I.md:53
+msgid ""
+"Attribution — You must give appropriate credit, provide a link to the "
+"licence and indicate if changes were made. You may do so in any "
+"reasonable manner, but not in any way which suggests that the licensor "
+"endorses you or your use."
+msgstr ""
+
+#: ../../annex_I.md:55
+msgid "NonCommercial — You may not use the material for commercial purposes."
+msgstr ""
+
+#: ../../annex_I.md:57
+msgid ""
+"To find out more about this licence (translated into all United Nations "
+"languages), please visit this link."
+msgstr ""
+
+#: ../../annex_I.md:59
+msgid ""
+"Alternatively, two other CC licences are offered to Parties, which impose"
+" additional restrictions on the use of the data:"
+msgstr ""
+
+#: ../../annex_I.md:61
+msgid "Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)"
+msgstr ""
+
+#: ../../annex_I.md:63
+msgid ""
+"This licence allows others to remix, adapt and build upon your work non-"
+"commercially, as long as they credit you and license their new creations "
+"under identical terms."
+msgstr ""
+
+#: ../../annex_I.md:65
+msgid "Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)"
+msgstr ""
+
+#: ../../annex_I.md:67
+msgid ""
+"This licence is the most restrictive of the licences, only allowing "
+"others to download the data and share it with others as long as they "
+"credit you. However, they are not authorized to change it in any way or "
+"use it commercially."
+msgstr ""
+
+#: ../../annex_I.md:69
+msgid "4.2. Existing licences"
+msgstr ""
+
+#: ../../annex_I.md:71
+msgid ""
+"Country Parties may upload or create spatial datasets with an existing "
+"data licence which may impose additional restrictions on the use of the "
+"data which are not covered in the above options. We invite country "
+"Parties to describe the licence and the permissions of use using the form"
+" provided."
+msgstr ""
+
