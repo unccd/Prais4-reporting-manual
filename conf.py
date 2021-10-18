@@ -137,8 +137,17 @@ latex_elements = {
     \setcounter{secnumdepth}{-1}
     \setcounter{tocdepth}{0}
     \usepackage{caption}
+    \usepackage{charter}
+    \usepackage[defaultsans]{lato}
+    \usepackage{inconsolata}
     \captionsetup{labelformat=empty}
     \protected\def\sphinxstyletheadfamily {\bfseries}
+    \titleformat{\chapter}[display]
+        {\bfseries\fontsize{16}{14}\bfseries}{\chaptertitlename\ \thechapter}{16pt}{}
+    \titleformat{\section}[display]
+        {\bfseries\fontsize{14}{12}\bfseries\color{black}}{\sectiontitlename\ \thesection}{14pt}{}
+    \titleformat{\subsection}[display]
+        {\bfseries\fontsize{12}{10}\bfseries\color{black}}{\sectiontitlename\ \thesection}{12pt}{}
     ''',
     'figure_align': 'H',
 }
