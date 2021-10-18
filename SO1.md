@@ -42,7 +42,7 @@ Related areas in the PRAIS 4 platform: table SO1-1.T2
 
 Parties are invited to list the most relevant land cover change processes that are likely to result in a depletion of land resources. Key processes might include deforestation, urban expansion or vegetation loss. Some of these processes may be detectable through the image analysis of land cover change, while others may only be evident with field observations. Table 7 shows examples of processes likely to cause land degradation and which are listed as options in the drop-down menu in table SO1-1.T2 of the PRAIS 4 platform. Other processes not covered in the menu can be reported on by selecting the ‘Other’ option.
 
-```{list-table} *__Table 7__. Example of degradation processes that may be identified by a country and the corresponding land cover transitions*
+```{flat-table} *__Table 7__. Example of degradation processes that may be identified by a country and the corresponding land cover transitions*
 
 header-rows: 1
 
