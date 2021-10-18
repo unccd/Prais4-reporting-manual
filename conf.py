@@ -133,11 +133,11 @@ latex_elements = {
     'papersize': 'a4paper',
     'pointsize': '10pt',
     'fncychap': '',
+    'fontenc': '\\usepackage{fontspec}',
     'preamble': r'''
     \setcounter{secnumdepth}{-1}
     \setcounter{tocdepth}{0}
     \usepackage{caption}
-    \usepackage{charter}
     \usepackage[defaultsans]{lato}
     \usepackage{inconsolata}
     \captionsetup{labelformat=empty}
@@ -148,8 +148,19 @@ latex_elements = {
         {\bfseries\fontsize{14}{12}\bfseries\color{black}}{\sectiontitlename\ \thesection}{14pt}{}
     \titleformat{\subsection}[display]
         {\bfseries\fontsize{12}{10}\bfseries\color{black}}{\sectiontitlename\ \thesection}{12pt}{}
+    \titleformat{\subsubsection}[display]
+        {\normalfont\fontsize{12}{10}\normalfont\color{black}}{\sectiontitlename\ \thesection}{11pt}{}
+    \sphinxsetup{%
+        InnerLinkColor={rgb}{0,0,0.94},
+        OuterLinkColor={rgb}{0,0,0.94}
+    }
     ''',
     'figure_align': 'H',
+    'fontpkg': '''
+    \\setmainfont{Lato}
+    \\setsansfont{Lato}
+    \\setmonofont{inconsolata}
+    ''',
 }
 
 pdf_documents = [
