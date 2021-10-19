@@ -152,7 +152,7 @@ Parties may also use national data, provided it complies with the data specifica
 ---
 header-rows: 2
 stub-columns: 1
-widths: 1 3 3
+widths: 2 5 5
 ---
 * - {rspan}`1` Item
   - {cspan}`1` Specifications
