@@ -78,7 +78,7 @@ Delineating voluntary targets and related actions currently under implementation
 
 Although there is no direct dependency between the voluntary targets and SO 1 indicators, it is expected that the results of the geospatial analyses for the estimation of the proportion of degraded land will inform the definition and spatial delineation of the voluntary targets and related projects and initiatives on the ground.
 
-There is a dependency between the targets set in table SO1-VT.T1 and the implemented actions reported in SO1.IA.T1; each reported action in table SO1.IA.T1 should correspond to one or more targets reported on in SO1-VT.T1
+There is a dependency between the targets set in table SO1-VT.T1 and the implemented actions reported in SO1.IA.T1; each reported action in table SO1.IA.T1 should correspond to one or more targets reported on in SO1-VT.T1.
 
 ### 6.1.5. Challenges
 
@@ -146,7 +146,7 @@ While sex-disaggregated data related to exposure of population to land degradati
 
 Additional indicators can be added on the PRAIS 4 platform via a dedicated form (referred to as AI for brevity in PRAIS 4).  Parties may specify the name of the indicators, the associated SOs and their direction of change. A brief description of the indicators and other relevant information may be reported in the “Comment” field.
 
-### 6.4. Affected Areas
+## 6.4. Affected Areas
 
 ### 6.4.1. Introduction
 
@@ -202,10 +202,10 @@ Once completed and verified by the Parties, the indicators’ estimates for the 
 
 Key actions for reporting on affected areas are as follows:
 
-1. Define affected areas: Parties should specify the affected area definition in use in their country.
+1. **Define affected areas**: Parties should specify the affected area definition in use in their country.
 
-2. Delineate affected areas: Parties should spatially delineate the area that corresponds to the definition provided in Step 1.
+2. **Delineate affected areas**: Parties should spatially delineate the area that corresponds to the definition provided in Step 1.
 
-3. Calculation of affected area estimates for all indicators: using the shapefile of the affected area produced in Step 2, Parties should calculate affected area estimates for all indicators.
+3. **Calculation of affected area estimates for all indicators**: using the shapefile of the affected area produced in Step 2, Parties should calculate affected area estimates for all indicators.
 
-4. Generate reports: Parties should fill in the reporting forms for SOs 1 to 4 specific to affected areas.
+4. **Generate reports**: Parties should fill in the reporting forms for SOs 1 to 4 specific to affected areas.
