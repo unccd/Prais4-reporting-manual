@@ -8,10 +8,11 @@ Drought is defined as a period of dry weather long enough to cause a serious hyd
 
 [^1]: "UNCCD. 1994. Article 1 of the Convention Text: <http://www2.unccd.int/sites/default/files/relevant-links/2017-01/UNCCD_Convention_ENG_0.pdf> "
 
+Indicator SO 3-1 specifically describes the status of meteorological drought hazards that occurred during the baseline and reporting periods within a country.
+
 There are several drought indices that might be used to estimate national drought hazard. The UNCCD methodology to estimate indicator SO 3-1 recommends using a globally accepted drought index, the Standardized Precipitation Index (SPI), to characterize the meteorological drought hazard. However, Parties may report using other indices if already in use at national level. For example, the Standardized Precipitation Evapotranspiration Index (SPEI) may represent an alternative index, readily comparable to the SPI, that provides more reliable signals of drought in arid areas. Parties using the SPEI can apply the same methods recommended in this manual and in the “Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3” to report indicator SO 3-1. For other indices currently in use, Parties may need to ensure statistical consistency with the SPI drought intensity classes described in table 19[^2].
 
-[^2]: "The Global Drought Classification System (GDCS, formerly the Global Drought Indicator or GDI), currently under development by WMO through the Global Multi-Hazard Alert System (GMAS) framework, will provide methods on how a multitude of drought indices can be translated onto a harmonized legend of drought classes.
-Indicator SO 3-1 specifically describes the status of meteorological drought hazards that occurred during the baseline and reporting periods within a country."
+[^2]: "The Global Drought Classification System (GDCS, formerly the Global Drought Indicator or GDI), currently under development by WMO through the Global Multi-Hazard Alert System (GMAS) framework, will provide methods on how a multitude of drought indices can be translated onto a harmonized legend of drought classes."
 
 The overall objective is for Parties to assess drought hazard and identify areas exposed to extreme drought in order to prioritize mitigation efforts in conjunction with assessments of drought exposure (SO 3-2) and vulnerability (SO 3-3). National reporting is facilitated though the provision of default data.
 
@@ -134,6 +135,7 @@ Related areas in the PRAIS 4 platform: table SO3-1.T2
 ```
 
 The proportion of land in each drought intensity class is calculated for each reporting year as a percentage of the total land area.
+
 For each of the SPI-12 grids in the baseline and reporting period, the number of cells falling under each of the SPI drought intensity classes is counted (cellCount). Then, for each reporting year, the percentage of the total land area in each drought intensity class is calculated. The formula is as follows:
 
 %cellCounti{sub}j = (cellCount{sub}ij / Total number of cells) × 100
