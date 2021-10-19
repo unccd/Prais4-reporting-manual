@@ -4,7 +4,6 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
@@ -23,21 +22,21 @@ msgid ""
 "1. Strategic objective 1: To improve the condition of affected "
 "ecosystems, combat desertification/ land degradation, promote sustainable"
 " land management and contribute to land degradation neutrality"
-msgstr ""
+msgstr "1. S$t$r$a$t$e$g$i$c$ o$b$j$e$c$t$i$v$e$ 1: T$o$ i$m$p$r$o$v$e$ t$h$e$ c$o$n$d$i$t$i$o$n$ o$f$ a$f$f$e$c$t$e$d$ e$c$o$s$y$s$t$e$m$s$, c$o$m$b$a$t$ d$e$s$e$r$t$i$f$i$c$a$t$i$o$n$/ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$, p$r$o"
 
 #: ../../SO1.md:3
 msgid "1.1. SO 1-1 – Trends in land cover"
-msgstr ""
+msgstr "1.1. S$O$ 1-1 – T$r$e$n$d$s$ i$n$ l$a"
 
 #: ../../SO1.md:5
 msgid "1.1.1. Introduction"
-msgstr ""
+msgstr "1.1.1. I$n$t$r$o$d$u"
 
 #: ../../SO1.md:7
 msgid ""
 "Land cover refers to the observed (bio)physical cover on the Earth’s "
 "surface."
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ r$e$f$e$r$s$ t$o$ t$h$e$ o$b$s$e$r$v$e$d$ (b$i$o$)p$h$y$s$i$c$a$"
 
 #: ../../SO1.md:9
 msgid ""
@@ -46,7 +45,7 @@ msgid ""
 "total land area (i.e. Sustainable Development Goal (SDG) indicator "
 "15.3.1) uses land cover change as an indicator of altered ecosystem "
 "dynamics resulting from natural and/or artificial drivers and factors."
-msgstr ""
+msgstr "T$h$e$ U$n$i$t$e$d$ N$a$t$i$o$n$s$ C$o$n$v$e$n$t$i$o$n$ t$o$ C$o$m$b$a$t$ D$e$s$e$r$t$i$f$i$c$a$t$i$o$n$ (U$N$C$C$D$) m$e$t$h$o$d$o$l$o$g$y$ f$o$r$ e$s$t$i$m$a$t$i$n$g$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (i$.e$. S$u$s$t$a$i$n$a$b$l$e$ D$e$v$e$l$o$p$m$e$n$t$ G$o$a$l$ (S$D$G$) i$n$d$i$c$a$t$o$r$ 15.3"
 
 #: ../../SO1.md:11
 msgid ""
@@ -54,7 +53,7 @@ msgid ""
 "officially verified estimates of the extent of land cover classes, their "
 "changes at national level and their significance in terms of land "
 "degradation."
-msgstr ""
+msgstr "T$h$e$ m$a$i$n$ o$u$t$p$u$t$ o$f$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ f$o$r$ i$n$d$i$c$a$t$o$r$ S$O$1-1 i$s$ a$ s$e$t$ o$f$ o$f$f$i$c$i$a$l$l$y$ v$e$r$i$f$i$e$d$ e$s$t$i$m$a$t$e$s$ o$f$ t$h$e$ e$x$t$e$n$t$ o$f$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$"
 
 #: ../../SO1.md:13
 msgid ""
@@ -65,11 +64,11 @@ msgid ""
 "classes as processes that are likely to reduce the biological or economic"
 " productivity and complexity of the land (degradation), improve it, or "
 "result in no change (stable)."
-msgstr ""
+msgstr "N$a$t$i$o$n$a$l$ r$e$p$o$r$t$i$n$g$ i$s$ f$a$c$i$l$i$t$a$t$e$d$ t$h$o$u$g$h$ t$h$e$ p$r$o$v$i$s$i$o$n$ o$f$: (i$) d$e$f$a$u$l$t$ d$a$t$a$ d$e$r$i$v$e$d$ f$r$o$m$ a$v$a$i$l$a$b$l$e$ g$l$o$b$a$l$ d$a$t$a$ s$o$u$r$c$e$s$, n$a$m$e$l$y$ t$h$e$ E$u$r$o$p$e$a$n$ S$p$a$c$e$ A$g$e$n$c$y$ C$l$i$m$a$t$e$ C$h$a$n$g$e$ I$n$i$t$i$a$t$i$v$e$ L$a$n$d$ C$o$v$e$r$ (E$S$A$ C$C$I$-L$C$) p$r$o$d$u$c$t$s$; a$n$d$ (i$i$) g$u$i$d$a$n$c$e$ o$n$ h$o$w$ t$o$ i$n$t$e$r$p$r$e$t$ t$r$a$n$s$i$t$i$o$n$s$ a$c$r$o$s$s$ l$a$n$d$"
 
 #: ../../SO1.md:15
 msgid "1.1.2. Prerequisites for reporting"
-msgstr ""
+msgstr "1.1.2. P$r$e$r$e$q$u$i$s$i$t$e$s$ f$o"
 
 #: ../../SO1.md:17
 msgid ""
@@ -80,11 +79,11 @@ msgid ""
 "which provides an overview of the land cover indicator, its definition "
 "and classifications, and the recommended methodology to assess land cover"
 " degradation;"
-msgstr ""
+msgstr "A$n$ i$n$-d$e$p$t$h$ r$e$a$d$i$n$g$ o$f$ c$h$a$p$t$e$r$ 3 o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$a$t$i$o$n$s$/g$o$o$d$-p$r$a$c$t$i$c$e$-g$u$i$d$a$n$c$e$-s$d$g$-i$n$d$i$c$a$t$o$r$-1531-p$r$o$p$o$r$t$i$o$n$-l$a$n$d$-d$e$g$r$a$d$e$d$-o$v$e$r$-t$o$t$a$l$-l$a$n$d$): P$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (v$e$r"
 
 #: ../../SO1.md:19
 msgid "Data complying with the minimum standards listed in table 10 below;"
-msgstr ""
+msgstr "D$a$t$a$ c$o$m$p$l$y$i$n$g$ w$i$t$h$ t$h$e$ m$i$n$i$m$u$m$ s$t$a$n$d$a$r$"
 
 #: ../../SO1.md:21
 msgid ""
@@ -97,26 +96,26 @@ msgid ""
 "of agriculture, ministry of water resources, meteorological department, "
 "remote-sensing centre, food security and nutrition department, as well as"
 " universities and research centres."
-msgstr ""
+msgstr "A$ p$o$o$l$ o$f$ n$a$t$i$o$n$a$l$ e$x$p$e$r$t$s$ o$f$f$i$c$i$a$l$l$y$ n$o$m$i$n$a$t$e$d$ b$y$ t$h$e$ n$a$t$i$o$n$a$l$ a$u$t$h$o$r$i$t$i$e$s$ t$o$ v$e$r$i$f$y$ t$h$e$ r$e$l$i$a$b$i$l$i$t$y$ o$f$ t$h$e$ i$d$e$n$t$i$f$i$e$d$ l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$s$ a$n$d$ t$h$e$i$r$ l$i$n$k$s$ w$i$t$h$ t$h$e$ m$a$i$n$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ p$r$o$c$e$s$s$e$s$. T$h$i$s$ m$a$y$ i$n$v$o$l$v$e$ g$r$o$u$n$d$-t$r$u$t$h$i$n$g$ s$u$r$v$e$y$s$ a$n$d$/o$r$ o$r$g$a$n$i$z$i$n$g$ i$n$t$e$r$v$i$e$w$s$ w$i$t$h$ l$o$c$a$l$ c$o$m$m$u$n$i$t$i$e$s$ a$n$d$ k$e$y$ i$n$f$o$r$m$a$n$t$s$. K$e$y$ i$n$s$t$i$t$u$t$i$o$n$s$ m$i$g$h$t$ i$n$c$l$u$d$e$ a$ c$o$u$n$t$r$y$’s$ n$a$"
 
 #: ../../SO1.md:23
 msgid "1.1.3. Reporting process and step-by-step procedure"
-msgstr ""
+msgstr "1.1.3. R$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ a$n$d$ s$t$e$p$"
 
 #: ../../SO1.md:25
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If Parties decide to use the default data, steps 3, 4, 5 and 6 are "
 "unnecessary."
-msgstr ""
+msgstr "T$h$e$ s$t$e$p$-b$y$-s$t$e$p$ p$r$o$c$e$d$u$r$e$ f$o$r$ r$e$p$o$r$t$i$n$g$ i$s$ d$e$s$c$r$i$b$e$d$ i$n$ t$h$e$ f$o$l$l$o$w$i$n$g$. I$f$ P$a$r$t$i$e$s$ d$e$c$i$d$e$ t$"
 
 #: ../../SO1.md:27
 msgid "Step 1: Report on land area"
-msgstr ""
+msgstr "S$t$e$p$ 1: R$e$p$o$r$t$ o$n$"
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO1-1.T1"
-msgstr ""
+msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t"
 
 #: ../../SO1.md:33
 msgid ""
@@ -128,7 +127,7 @@ msgid ""
 " This information is also useful to investigate possible climate impacts,"
 " which could potentially be identified by the reduction in size or "
 "disappearance of permanent water bodies and the loss of coastline."
-msgstr ""
+msgstr "I$n$f$o$r$m$a$t$i$o$n$ o$n$ t$h$e$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$, a$r$e$a$ c$o$v$e$r$e$d$ b$y$ w$a$t$e$r$ b$o$d$i$e$s$, a$n$d$ t$o$t$a$l$ c$o$u$n$t$r$y$ a$r$e$a$ i$s$ r$e$q$u$i$r$e$d$ t$o$ c$a$l$c$u$l$a$t$e$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (S$D$G$ i$n$d$i$c$a$t$o$r$ 15.3.1), b$u$t$ a$l$s$o$ t$o$ c$a$l$c$u$l$a$t$e$ i$n$d$i$c$a$t$o$r$s$ t$o$ t$r$a$c$k$ p$r$o$g$r$e$s$s$ t$o$w$a$r$d$s$ o$t$h$e$r$ S$O$s$ (e$.g$. S$O$ 3-1: T$r$e$n$d$s$ i$n$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ u$n$d$e$r$ d$r$o$u$g$h$t$ o$v$e$r$ t$h$e$ t$o$t$a$l$ l$a$n"
 
 #: ../../SO1.md:35
 msgid ""
@@ -141,15 +140,15 @@ msgid ""
 "thus can be adjusted. However, it is important to ensure consistency with"
 " the land cover data and the SDG indicator 15.3.1 estimates. Any changes "
 "are to be justified in the ‘Comments’ column."
-msgstr ""
+msgstr "T$o$t$a$l$ l$a$n$d$ a$r$e$a$, t$o$t$a$l$ w$a$t$e$r$ b$o$d$i$e$s$ a$r$e$a$ a$n$d$ t$o$t$a$l$ c$o$u$n$t$r$y$ a$r$e$a$ r$e$q$u$i$r$e$ r$e$s$p$e$c$t$i$v$e$ e$s$t$i$m$a$t$e$s$ t$o$ b$e$ r$e$p$o$r$t$e$d$ i$n$ s$q$u$a$r$e$ k$i$l$o$m$e$t$r$e$s$ (k$m$2) e$v$e$r$y$ f$i$v$e$ y$e$a$r$s$ f$r$o$m$ 2000 t$o$ 2015, a$n$d$ t$h$e$n$ f$o$r$ t$h$e$ m$o$s$t$ r$e$c$e$n$t$ r$e$p$o$r$t$e$d$ y$e$a$r$. L$a$n$d$ a$r$e$a$ d$a$t$a$ i$s$ p$r$e$-f$i$l$l$e$d$ i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ t$a$b$l$e$ S$O$1-1.T$1. E$s$t$i$m$a$t$e$s$ a$r$e$ b$a$s$e$d$ o$n$ t$h$e$ d$e$f$a$u$l$t$ l$a$n$d$ c$o$v$e$r$ d$a$t$a$ a$n$d$, a$s$ s$u$c$h$, t$h$e$y$ c$o$u$l$d$ d$i$f$f$e$r$ f$r$o$m$ o$f$f$i$c$i$a$l$ n$a$t$i$o$n$a$l$ s$t$a"
 
 #: ../../SO1.md:37
 msgid "Step 2: Identify key degradation processes"
-msgstr ""
+msgstr "S$t$e$p$ 2: I$d$e$n$t$i$f$y$ k$e$y$ d$e$g$r$a$"
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO1-1.T2"
-msgstr ""
+msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t"
 
 #: ../../SO1.md:43
 msgid ""
@@ -162,104 +161,104 @@ msgid ""
 "land degradation and which are listed as options in the drop-down menu in"
 " table SO1-1.T2 of the PRAIS 4 platform. Other processes not covered in "
 "the menu can be reported on by selecting the ‘Other’ option."
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ a$r$e$ i$n$v$i$t$e$d$ t$o$ l$i$s$t$ t$h$e$ m$o$s$t$ r$e$l$e$v$a$n$t$ l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$ p$r$o$c$e$s$s$e$s$ t$h$a$t$ a$r$e$ l$i$k$e$l$y$ t$o$ r$e$s$u$l$t$ i$n$ a$ d$e$p$l$e$t$i$o$n$ o$f$ l$a$n$d$ r$e$s$o$u$r$c$e$s$. K$e$y$ p$r$o$c$e$s$s$e$s$ m$i$g$h$t$ i$n$c$l$u$d$e$ d$e$f$o$r$e$s$t$a$t$i$o$n$, u$r$b$a$n$ e$x$p$a$n$s$i$o$n$ o$r$ v$e$g$e$t$a$t$i$o$n$ l$o$s$s$. S$o$m$e$ o$f$ t$h$e$s$e$ p$r$o$c$e$s$s$e$s$ m$a$y$ b$e$ d$e$t$e$c$t$a$b$l$e$ t$h$r$o$u$g$h$ t$h$e$ i$m$a$g$e$ a$n$a$l$y$s$i$s$ o$f$ l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$, w$h$i$l$e$ o$t$h$e$r$s$ m$a$y$ o$n$l$y$ b$e$ e$v$i$d$e$n$t$ w$i$t$h$ f$i$e$l$d$ o$b$s$e$r$v$a$t$i$o$n$s$. T$a$b$l$e$ 7 s$h$o"
 
 #: ../../SO1.md:45
 msgid ""
 "*__Table 7__. Example of degradation processes that may be identified by "
 "a country and the corresponding land cover transitions*"
-msgstr ""
+msgstr "*__T$a$b$l$e$ 7__. E$x$a$m$p$l$e$ o$f$ d$e$g$r$a$d$a$t$i$o$n$ p$r$o$c$e$s$s$e$s$ t$h$a$t$ m$a$y$ b$e$ i$d$e$n$t$i$f$i$e$d$ b$y$ a$ c$o$u$n$t"
 
 #: ../../SO1.md:1
 msgid "Degradation process"
-msgstr ""
+msgstr "D$e$g$r$a$d$a$t$i$o$"
 
 #: ../../SO1.md:2
 msgid "Starting land cover state"
-msgstr ""
+msgstr "S$t$a$r$t$i$n$g$ l$a$n$d$ c"
 
 #: ../../SO1.md:3
 msgid "Ending land cover state"
-msgstr ""
+msgstr "E$n$d$i$n$g$ l$a$n$d$ c$o"
 
 #: ../../SO1.md:4 ../../SO1.md:25 ../../SO1.md:33 ../../SO1.md:57
 msgid "Urban expansion"
-msgstr ""
+msgstr "U$r$b$a$n$ e$x$p"
 
 #: ../../SO1.md:5
 msgid "Grassland, cropland, other land"
-msgstr ""
+msgstr "G$r$a$s$s$l$a$n$d$, c$r$o$p$l$a$n$"
 
 #: ../../SO1.md:6
 msgid "Settlements"
-msgstr ""
+msgstr "S$e$t$t$l$e$"
 
 #: ../../SO1.md:7 ../../SO1.md:15 ../../SO1.md:17
 msgid "Deforestation"
-msgstr ""
+msgstr "D$e$f$o$r$e$s$"
 
 #: ../../SO1.md:8 ../../SO1.md:18
 msgid "Forest land"
-msgstr ""
+msgstr "F$o$r$e$s$t$"
 
 #: ../../SO1.md:9
 msgid "Grassland, cropland, settlements"
-msgstr ""
+msgstr "G$r$a$s$s$l$a$n$d$, c$r$o$p$l$a$n$d"
 
 #: ../../SO1.md:10
 msgid "Vegetation loss (other)"
-msgstr ""
+msgstr "V$e$g$e$t$a$t$i$o$n$ l$o$"
 
 #: ../../SO1.md:11
 msgid "Forest land, grassland, cropland"
-msgstr ""
+msgstr "F$o$r$e$s$t$ l$a$n$d$, g$r$a$s$s$l$"
 
 #: ../../SO1.md:8 ../../SO1.md:12 ../../SO1.md:52
 msgid "Other land"
-msgstr ""
+msgstr "O$t$h$e$r$ "
 
 #: ../../SO1.md:13 ../../SO1.md:24 ../../SO1.md:32
 msgid "Inundation"
-msgstr ""
+msgstr "I$n$u$n$d$a"
 
 #: ../../SO1.md:14
 msgid "Vegetated, settlements, bare soil"
-msgstr ""
+msgstr "V$e$g$e$t$a$t$e$d$, s$e$t$t$l$e$m$e$"
 
 #: ../../SO1.md:6 ../../SO1.md:15 ../../SO1.md:20 ../../SO1.md:36
 msgid "Wetland"
-msgstr ""
+msgstr "W$e$t$l"
 
 #: ../../SO1.md:16 ../../SO1.md:37
 msgid "Woody encroachment"
-msgstr ""
+msgstr "W$o$o$d$y$ e$n$c$r$"
 
 #: ../../SO1.md:17
 msgid "Wetland, grassland"
-msgstr ""
+msgstr "W$e$t$l$a$n$d$, g$r"
 
 #: ../../SO1.md:19 ../../SO1.md:38 ../../SO1.md:39 ../../SO1.md:41
 #: ../../SO1.md:42
 msgid "Wetland drainage"
-msgstr ""
+msgstr "W$e$t$l$a$n$d$ d$"
 
 #: ../../SO1.md:21
 msgid "Grassland, cropland, settlements, other land"
-msgstr ""
+msgstr "G$r$a$s$s$l$a$n$d$, c$r$o$p$l$a$n$d$, s$e$t$t$l$"
 
 #: ../../SO1.md:73
 msgid ""
 "*__Note__: These are simplistic examples and attributing a change in "
 "state to degradation requires careful assessment at the national level.*"
-msgstr ""
+msgstr "*__N$o$t$e$__: T$h$e$s$e$ a$r$e$ s$i$m$p$l$i$s$t$i$c$ e$x$a$m$p$l$e$s$ a$n$d$ a$t$t$r$i$b$u$t$i$n$g$ a$ c$h$a$n$g$e$ i$n$ s$t$a$t$e$ t$o$ d$e$g$r$a$d$a$t$i"
 
 #: ../../SO1.md:75
 msgid "Step 3: Select a land cover legend"
-msgstr ""
+msgstr "S$t$e$p$ 3: S$e$l$e$c$t$ a$ l$a$n$d$ "
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO1-1.T3"
-msgstr ""
+msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t"
 
 #: ../../SO1.md:81
 msgid ""
@@ -268,14 +267,14 @@ msgid ""
 "reporting, or a national land cover legend that allows key country-"
 "specific degradation processes to be monitored and which can be "
 "harmonized with the seven UNCCD land cover classes."
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ i$n$f$o$r$m$a$t$i$o$n$ s$h$o$u$l$d$ b$e$ c$l$a$s$s$i$f$i$e$d$ u$s$i$n$g$ e$i$t$h$e$r$ t$h$e$ d$e$f$a$u$l$t$ U$N$C$C$D$ l$e$g$e$n$d$ c$o$m$p$r$i$s$i$n$g$ s$e$v$e$n$ b$r$o$a$d$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$e$s$ f$o$r$ a$g$g$r$e$g$a$t$e$ r$e$p$o$r$t$i$n$g$, o$r$ a$ n$a$t$i$o$n$a$l$ l$a$n$d$ c$o$v$e$r$ l$e$g$e$n$d$ t$h$a$t$ a$l$l$o$w"
 
 #: ../../SO1.md:83
 msgid ""
 "The default UNCCD land cover legend includes the following seven classes:"
 " tree-covered areas, grassland, cropland, wetland, artificial surfaces, "
 "other land, and water bodies[^1]."
-msgstr ""
+msgstr "T$h$e$ d$e$f$a$u$l$t$ U$N$C$C$D$ l$a$n$d$ c$o$v$e$r$ l$e$g$e$n$d$ i$n$c$l$u$d$e$s$ t$h$e$ f$o$l$l$o$w$i$n$g$ s$e$v$e$n$ c$l$a$s$s$e$s$: t$r$e$e$-c$o$v$e$r$e$d$ a$r$e$a$s$, g$r$a$s$s$l$a$n$d$, c$r"
 
 #: ../../SO1.md:87
 msgid ""
@@ -286,7 +285,7 @@ msgid ""
 "country. Accordingly, national land cover legends should be customized to"
 " only include the minimum number of classes needed to capture and monitor"
 " land degradation processes reported on in Step 2."
-msgstr ""
+msgstr "I$t$ i$s$ i$m$p$o$r$t$a$n$t$ t$o$ h$i$g$h$l$i$g$h$t$ t$h$a$t$ t$h$e$ o$b$j$e$c$t$i$v$e$ o$f$ S$O$ 1-1 r$e$p$o$r$t$i$n$g$ i$s$ t$o$ c$a$p$t$u$r$e$ a$n$d$ d$o$c$u$m$e$n$t$ p$a$s$t$ a$n$d$ o$n$g$o$i$n$g$ k$e$y$ l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$s$ c$a$u$s$i$n$g$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$, n$o$t$ t$o$ r$e$p$o$r$t$ a$ f$u$l$l$y$ c$o$m$p$r$e$h$e$n$s$i$v$e$ n$a$t$i$o$n$a$l$ l$a$n$d$ c$o$v$e$r$ l$e$g$e$n$d$ w$h$i$c$h$ l$i$s$t$s$ a$l$l$ p$o$s$s$i$b$l$e$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$e$s$ o$c$c$u$r$r$i$n$g$ w$i$t$h$i$n$ a$ c$o$u$n$"
 
 #: ../../SO1.md:89
 msgid ""
@@ -300,25 +299,25 @@ msgid ""
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land), the legend "
 "should be:"
-msgstr ""
+msgstr "I$f$ a$ c$o$u$n$t$r$y$ o$p$t$s$ t$o$ u$s$e$ a$ n$a$t$i$o$n$a$l$ l$a$n$d$ c$o$v$e$r$ l$e$g$e$n$d$, t$h$e$y$ s$h$o$u$l$d$ f$i$l$l$ i$n$ t$a$b$l$e$ S$O$1-1.T$3 w$i$t$h$ n$a$t$i$o$n$a$l$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$e$s$ s$h$o$w$i$n$g$ h$o$w$ t$h$e$y$ m$a$p$ t$o$ t$h$e$ d$e$f$a$u$l$t$ s$e$v$e$n$ U$N$C$C$D$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$e$s$. C$o$u$n$t$r$i$e$s$ a$r$e$ s$t$r$o$n$g$l$y$ e$n$c$o$u$r$a$g$e$d$ t$o$ b$u$i$l$d$ t$h$e$ l$e$g$e$n$d$ w$i$t$h$ a$ l$i$m$i$t$e$d$ n$u$m$b$e$r$ o$f$ r$e$l$e$v$a$n$t$ c$l$a$s$s$e$s$. T$h$i$s$ w$i$l$l$ m$a$k$e$ r$e$p$o$r$t$i$n$g$ m$o$r$e$ m$a$n$a$g$e$a$b$l$e$ a$n$d$ w$o$u$l$d$ r$e$d$u$c$e$ t$h$e$ t$r$a$n$s$i$t$i$o$n$s$ t$o$ b$e$ d$e$s$c$r$"
 
 #: ../../SO1.md:91
 msgid ""
 "*Competent*, for capturing the degradation transitions identified as "
 "significant;"
-msgstr ""
+msgstr "*C$o$m$p$e$t$e$n$t$*, f$o$r$ c$a$p$t$u$r$i$n$g$ t$h$e$ d$e$g$r$a$d$a$t$i$o$n$ t$r$a$n$s$i"
 
 #: ../../SO1.md:93
 msgid ""
 "*Usable*, such that available observational data can distinguish between "
 "the classes in the legend; and"
-msgstr ""
+msgstr "*U$s$a$b$l$e$*, s$u$c$h$ t$h$a$t$ a$v$a$i$l$a$b$l$e$ o$b$s$e$r$v$a$t$i$o$n$a$l$ d$a$t$a$ c$a$n$ d$i$s$t$i$n$g$u$i"
 
 #: ../../SO1.md:95
 msgid ""
 "*Exhaustive*, such that the entire land area of the country can be "
 "attributed to classes from the legend and monitored through time."
-msgstr ""
+msgstr "*E$x$h$a$u$s$t$i$v$e$*, s$u$c$h$ t$h$a$t$ t$h$e$ e$n$t$i$r$e$ l$a$n$d$ a$r$e$a$ o$f$ t$h$e$ c$o$u$n$t$r$y$ c$a$n$ b$e$ a$t$t$r$i$b$u$t$e$d$ t$o$ "
 
 #: ../../SO1.md:97
 msgid ""
@@ -328,390 +327,390 @@ msgid ""
 "definition and interpretation. The LCML is the conceptual and structural "
 "backbone of various land cover classifications, including the land cover "
 "legend used by the ESA CCI-LC products."
-msgstr ""
+msgstr "W$h$e$r$e$v$e$r$ p$o$s$s$i$b$l$e$, U$N$C$C$D$ e$n$c$o$u$r$a$g$e$s$ P$a$r$t$i$e$s$ t$o$ u$s$e$ t$h$e$ L$a$n$d$ C$o$v$e$r$ M$e$t$a$ L$a$n$g$u$a$g$e$ (L$C$M$L$) o$f$ t$h$e$ F$o$o$d$ a$n$d$ A$g$r$i$c$u$l$t$u$r$e$ O$r$g$a$n$i$z$a$t$i$o$n$ o$f$ t$h$e$ U$n$i$t$e$d$ N$a$t$i$o$n$s$ (F$A$O$), w$h$i$c$h$ p$r$o$v$i$d$e$s$ a$ s$t$r$u$c$t$u$r$e$d$ a$p$p$r$o$a$c$h$ t$o$ l$a$n$d$ c$o$v$e$r$ d$e$f$i$n$i$t$i$o$n$ a$n$d$ i$n$t$e$r$p$r$e$t$a$t$i$o$"
 
 #: ../../SO1.md:99
 msgid ""
 "Table 8 shows the conversion between the default UNCCD legend and the ESA"
 " CCI-LC legend."
-msgstr ""
+msgstr "T$a$b$l$e$ 8 s$h$o$w$s$ t$h$e$ c$o$n$v$e$r$s$i$o$n$ b$e$t$w$e$e$n$ t$h$e$ d$e$f$a$u$l$t$ U$N$C$C"
 
 #: ../../SO1.md:104
 msgid ""
 "*__Table 8__. Default reclassification of the European Space Agency "
 "Climate Change Initiative Land Cover legend against the seven land cover "
 "classes needed for reporting to the UNCCD*"
-msgstr ""
+msgstr "*__T$a$b$l$e$ 8__. D$e$f$a$u$l$t$ r$e$c$l$a$s$s$i$f$i$c$a$t$i$o$n$ o$f$ t$h$e$ E$u$r$o$p$e$a$n$ S$p$a$c$e$ A$g$e$n$c$y$ C$l$i$m$a$t$e$ C$h$a$n$g$e$ I$n$i$t$i$a$t$i$v$e$ L$a$n$d$ C$o$v$e$r$ l$e$g$e$n$d$"
 
 #: ../../SO1.md:1
 msgid "{cspan}`1` UNCCD"
-msgstr ""
+msgstr "{c$s$p$a$n$}`1` U"
 
 #: ../../SO1.md:2
 msgid "{cspan}`1` European Space Agency  Climate Change Initiative Land Cover"
-msgstr ""
+msgstr "{c$s$p$a$n$}`1` E$u$r$o$p$e$a$n$ S$p$a$c$e$ A$g$e$n$c$y$  C$l$i$m$a$t$e$ C$h$"
 
 #: ../../SO1.md:4 ../../SO1.md:6
 msgid "Code"
-msgstr ""
+msgstr "C$o$"
 
 #: ../../SO1.md:5 ../../SO1.md:7
 msgid "Label"
-msgstr ""
+msgstr "L$a$b"
 
 #: ../../SO1.md:8
 msgid "{rspan}`11` 1"
-msgstr ""
+msgstr "{r$s$p$a$n$}`1"
 
 #: ../../SO1.md:9
 msgid "{rspan}`11` Tree-covered areas"
-msgstr ""
+msgstr "{r$s$p$a$n$}`11` T$r$e$e$-c$o$v$e"
 
 #: ../../SO1.md:10
 msgid "50"
-msgstr ""
+msgstr "50"
 
 #: ../../SO1.md:11
 msgid "Tree cover, broadleaved, evergreen, closed to open (>15%)"
-msgstr ""
+msgstr "T$r$e$e$ c$o$v$e$r$, b$r$o$a$d$l$e$a$v$e$d$, e$v$e$r$g$r$e$e$n"
 
 #: ../../SO1.md:12
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #: ../../SO1.md:13
 msgid "Tree cover, broadleaved, deciduous, closed to open (>15%)"
-msgstr ""
+msgstr "T$r$e$e$ c$o$v$e$r$, b$r$o$a$d$l$e$a$v$e$d$, d$e$c$i$d$u$o$u$s"
 
 #: ../../SO1.md:14
 msgid "61"
-msgstr ""
+msgstr "61"
 
 #: ../../SO1.md:15
 msgid "Tree cover, broadleaved, deciduous, closed (>40%)"
-msgstr ""
+msgstr "T$r$e$e$ c$o$v$e$r$, b$r$o$a$d$l$e$a$v$e$d$, d$e$c$i$"
 
 #: ../../SO1.md:16
 msgid "62"
-msgstr ""
+msgstr "62"
 
 #: ../../SO1.md:17
 msgid "Tree cover, broadleaved, deciduous, open (15–40%)"
-msgstr ""
+msgstr "T$r$e$e$ c$o$v$e$r$, b$r$o$a$d$l$e$a$v$e$d$, d$e$c$i$"
 
 #: ../../SO1.md:18
 msgid "70"
-msgstr ""
+msgstr "70"
 
 #: ../../SO1.md:19
 msgid "Tree cover, needle leaved, evergreen, closed to open (>15%)"
-msgstr ""
+msgstr "T$r$e$e$ c$o$v$e$r$, n$e$e$d$l$e$ l$e$a$v$e$d$, e$v$e$r$g$r$e$e$"
 
 #: ../../SO1.md:20
 msgid "71"
-msgstr ""
+msgstr "71"
 
 #: ../../SO1.md:21
 msgid "Tree cover, needle leaved, evergreen, closed (>40%)"
-msgstr ""
+msgstr "T$r$e$e$ c$o$v$e$r$, n$e$e$d$l$e$ l$e$a$v$e$d$, e$v$e$r$"
 
 #: ../../SO1.md:22
 msgid "72"
-msgstr ""
+msgstr "72"
 
 #: ../../SO1.md:23
 msgid "Tree cover, needle leaved, evergreen, open (15–40%)"
-msgstr ""
+msgstr "T$r$e$e$ c$o$v$e$r$, n$e$e$d$l$e$ l$e$a$v$e$d$, e$v$e$r$"
 
 #: ../../SO1.md:24
 msgid "80"
-msgstr ""
+msgstr "80"
 
 #: ../../SO1.md:25
 msgid "Tree cover, needle leaved, deciduous, closed to open (>15%)"
-msgstr ""
+msgstr "T$r$e$e$ c$o$v$e$r$, n$e$e$d$l$e$ l$e$a$v$e$d$, d$e$c$i$d$u$o$u$"
 
 #: ../../SO1.md:26
 msgid "81"
-msgstr ""
+msgstr "81"
 
 #: ../../SO1.md:27
 msgid "Tree cover, needle leaved, deciduous, closed (> 40%)"
-msgstr ""
+msgstr "T$r$e$e$ c$o$v$e$r$, n$e$e$d$l$e$ l$e$a$v$e$d$, d$e$c$i$d"
 
 #: ../../SO1.md:28
 msgid "82"
-msgstr ""
+msgstr "82"
 
 #: ../../SO1.md:29
 msgid "Tree cover, needle leaved, deciduous, open (15–40%)"
-msgstr ""
+msgstr "T$r$e$e$ c$o$v$e$r$, n$e$e$d$l$e$ l$e$a$v$e$d$, d$e$c$i$"
 
 #: ../../SO1.md:30
 msgid "90"
-msgstr ""
+msgstr "90"
 
 #: ../../SO1.md:31
 msgid "Tree cover, mixed leaf type (broadleaved and needle leaved)"
-msgstr ""
+msgstr "T$r$e$e$ c$o$v$e$r$, m$i$x$e$d$ l$e$a$f$ t$y$p$e$ (b$r$o$a$d$l$e"
 
 #: ../../SO1.md:32
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #: ../../SO1.md:33
 msgid "Mosaic tree and shrub (>50%)/herbaceous cover (< 50%)"
-msgstr ""
+msgstr "M$o$s$a$i$c$ t$r$e$e$ a$n$d$ s$h$r$u$b$ (>50%)/h$e$r$b$a$c"
 
 #: ../../SO1.md:34
 msgid "{rspan}`8` 2"
-msgstr ""
+msgstr "{r$s$p$a$n$}`"
 
 #: ../../SO1.md:35
 msgid "{rspan}`8` Grassland"
-msgstr ""
+msgstr "{r$s$p$a$n$}`8` G$r$a$"
 
 #: ../../SO1.md:36
 msgid "110"
-msgstr ""
+msgstr "110"
 
 #: ../../SO1.md:37
 msgid "Mosaic herbaceous cover (>50%)/tree and shrub (<50%)"
-msgstr ""
+msgstr "M$o$s$a$i$c$ h$e$r$b$a$c$e$o$u$s$ c$o$v$e$r$ (>50%)/t$r$e"
 
 #: ../../SO1.md:38
 msgid "120"
-msgstr ""
+msgstr "120"
 
 #: ../../SO1.md:39
 msgid "Shrubland"
-msgstr ""
+msgstr "S$h$r$u$b"
 
 #: ../../SO1.md:40
 msgid "121"
-msgstr ""
+msgstr "121"
 
 #: ../../SO1.md:41
 msgid "Shrubland evergreen"
-msgstr ""
+msgstr "S$h$r$u$b$l$a$n$d$ e"
 
 #: ../../SO1.md:42
 msgid "122"
-msgstr ""
+msgstr "122"
 
 #: ../../SO1.md:43
 msgid "Shrubland deciduous"
-msgstr ""
+msgstr "S$h$r$u$b$l$a$n$d$ d"
 
 #: ../../SO1.md:44
 msgid "130"
-msgstr ""
+msgstr "130"
 
 #: ../../SO1.md:4 ../../SO1.md:20 ../../SO1.md:45
 msgid "Grassland"
-msgstr ""
+msgstr "G$r$a$s$s"
 
 #: ../../SO1.md:46
 msgid "140"
-msgstr ""
+msgstr "140"
 
 #: ../../SO1.md:47
 msgid "Lichen and mosses"
-msgstr ""
+msgstr "L$i$c$h$e$n$ a$n$d"
 
 #: ../../SO1.md:48
 msgid "151"
-msgstr ""
+msgstr "151"
 
 #: ../../SO1.md:49
 msgid "Sparse trees (<15%)"
-msgstr ""
+msgstr "S$p$a$r$s$e$ t$r$e$e"
 
 #: ../../SO1.md:50
 msgid "152"
-msgstr ""
+msgstr "152"
 
 #: ../../SO1.md:51
 msgid "Sparse shrub (<15%)"
-msgstr ""
+msgstr "S$p$a$r$s$e$ s$h$r$u"
 
 #: ../../SO1.md:52
 msgid "153"
-msgstr ""
+msgstr "153"
 
 #: ../../SO1.md:53
 msgid "Sparse herbaceous cover (<15%)"
-msgstr ""
+msgstr "S$p$a$r$s$e$ h$e$r$b$a$c$e$o$u$s$"
 
 #: ../../SO1.md:54
 msgid "{rspan}`5` 3"
-msgstr ""
+msgstr "{r$s$p$a$n$}`"
 
 #: ../../SO1.md:55
 msgid "{rspan}`5` Cropland"
-msgstr ""
+msgstr "{r$s$p$a$n$}`5` C$r$"
 
 #: ../../SO1.md:56 ../../SO1.md:68
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: ../../SO1.md:57
 msgid "Cropland, rainfed"
-msgstr ""
+msgstr "C$r$o$p$l$a$n$d$, "
 
 #: ../../SO1.md:58 ../../SO1.md:74
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #: ../../SO1.md:59
 msgid "Herbaceous cover"
-msgstr ""
+msgstr "H$e$r$b$a$c$e$o$u"
 
 #: ../../SO1.md:60 ../../SO1.md:80
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #: ../../SO1.md:61
 msgid "Tree or shrub cover"
-msgstr ""
+msgstr "T$r$e$e$ o$r$ s$h$r$"
 
 #: ../../SO1.md:62
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #: ../../SO1.md:63
 msgid "Cropland, irrigated or post-flooding"
-msgstr ""
+msgstr "C$r$o$p$l$a$n$d$, i$r$r$i$g$a$t$e$d$ o$"
 
 #: ../../SO1.md:64
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #: ../../SO1.md:65
 msgid ""
 "Mosaic cropland (>50%)/natural vegetation (tree, shrub, herbaceous cover)"
 " (<50%)"
-msgstr ""
+msgstr "M$o$s$a$i$c$ c$r$o$p$l$a$n$d$ (>50%)/n$a$t$u$r$a$l$ v$e$g$e$t$a$t$i$o$n$ (t$r$e$e$, s$h$"
 
 #: ../../SO1.md:66
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #: ../../SO1.md:67
 msgid ""
 "Mosaic natural vegetation (tree, shrub, herbaceous cover) (>50%)/cropland"
 " (< 50%)"
-msgstr ""
+msgstr "M$o$s$a$i$c$ n$a$t$u$r$a$l$ v$e$g$e$t$a$t$i$o$n$ (t$r$e$e$, s$h$r$u$b$, h$e$r$b$a$c$e$o$u"
 
 #: ../../SO1.md:68
 msgid "{rspan}`2` 4"
-msgstr ""
+msgstr "{r$s$p$a$n$}`"
 
 #: ../../SO1.md:69
 msgid "{rspan}`2` Wetland"
-msgstr ""
+msgstr "{r$s$p$a$n$}`2` W$e"
 
 #: ../../SO1.md:70
 msgid "160"
-msgstr ""
+msgstr "160"
 
 #: ../../SO1.md:71
 msgid "Tree cover, aquatic or regularly flooded in fresh or brackish water"
-msgstr ""
+msgstr "T$r$e$e$ c$o$v$e$r$, a$q$u$a$t$i$c$ o$r$ r$e$g$u$l$a$r$l$y$ f$l$o$o$d$e$d"
 
 #: ../../SO1.md:72
 msgid "170"
-msgstr ""
+msgstr "170"
 
 #: ../../SO1.md:73
 msgid ""
 "Tree cover, aquatic, regularly flooded in salt or brackish water, "
 "mangroves"
-msgstr ""
+msgstr "T$r$e$e$ c$o$v$e$r$, a$q$u$a$t$i$c$, r$e$g$u$l$a$r$l$y$ f$l$o$o$d$e$d$ i$n$ s$a$l$"
 
 #: ../../SO1.md:74
 msgid "180"
-msgstr ""
+msgstr "180"
 
 #: ../../SO1.md:75
 msgid "Shrub or herbaceous cover, flooded, fresh/brackish water"
-msgstr ""
+msgstr "S$h$r$u$b$ o$r$ h$e$r$b$a$c$e$o$u$s$ c$o$v$e$r$, f$l$o$o$d$e$"
 
 #: ../../SO1.md:38 ../../SO1.md:76
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../SO1.md:7 ../../SO1.md:44 ../../SO1.md:77
 msgid "Artificial surfaces"
-msgstr ""
+msgstr "A$r$t$i$f$i$c$i$a$l$"
 
 #: ../../SO1.md:78
 msgid "190"
-msgstr ""
+msgstr "190"
 
 #: ../../SO1.md:79
 msgid "Urban areas"
-msgstr ""
+msgstr "U$r$b$a$n$ a"
 
 #: ../../SO1.md:80
 msgid "{rspan}`3` 6"
-msgstr ""
+msgstr "{r$s$p$a$n$}`"
 
 #: ../../SO1.md:81
 msgid "{rspan}`3` Other land"
-msgstr ""
+msgstr "{r$s$p$a$n$}`3` O$t$h$e"
 
 #: ../../SO1.md:82
 msgid "200"
-msgstr ""
+msgstr "200"
 
 #: ../../SO1.md:83
 msgid "Bare areas"
-msgstr ""
+msgstr "B$a$r$e$ a$"
 
 #: ../../SO1.md:84
 msgid "201"
-msgstr ""
+msgstr "201"
 
 #: ../../SO1.md:85
 msgid "Consolidated bare areas"
-msgstr ""
+msgstr "C$o$n$s$o$l$i$d$a$t$e$d$ "
 
 #: ../../SO1.md:86
 msgid "202"
-msgstr ""
+msgstr "202"
 
 #: ../../SO1.md:87
 msgid "Unconsolidated bare areas"
-msgstr ""
+msgstr "U$n$c$o$n$s$o$l$i$d$a$t$e$d"
 
 #: ../../SO1.md:88
 msgid "220"
-msgstr ""
+msgstr "220"
 
 #: ../../SO1.md:89
 msgid "Permanent snow and ice"
-msgstr ""
+msgstr "P$e$r$m$a$n$e$n$t$ s$n$o"
 
 #: ../../SO1.md:50 ../../SO1.md:90
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ../../SO1.md:9 ../../SO1.md:60 ../../SO1.md:91 ../../SO1.md:93
 msgid "Water bodies"
-msgstr ""
+msgstr "W$a$t$e$r$ b$"
 
 #: ../../SO1.md:92
 msgid "210"
-msgstr ""
+msgstr "210"
 
 #: ../../SO1.md:204
 msgid "Step 4: Generate a transition matrix"
-msgstr ""
+msgstr "S$t$e$p$ 4: G$e$n$e$r$a$t$e$ a$ t$r$a$n"
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: tables SO1-1.T4a and SO1-1.T4b"
-msgstr ""
+msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$: t$a$b$"
 
 #: ../../SO1.md:210
 msgid ""
@@ -721,7 +720,7 @@ msgid ""
 "of degradation. By defining a transition matrix, Parties must decide "
 "which land cover changes and processes are expected to cause land "
 "degradation, improvement or no change."
-msgstr ""
+msgstr "L$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ i$s$ c$o$n$t$e$x$t$-s$p$e$c$i$f$i$c$ a$n$d$ t$i$g$h$t$l$y$ d$e$p$e$n$d$e$n$t$ o$n$ t$h$e$ c$h$a$r$a$c$t$e$r$i$s$t$i$c$s$ o$f$ t$h$e$ e$n$v$i$r$o$n$m$e$n$t$. L$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ p$r$o$c$e$s$s$e$s$ a$r$e$ n$o$t$ i$n$d$e$p$e$n$d$e$n$t$, a$n$d$ m$i$t$i$g$a$t$i$n$g$ o$n$e$ m$a$y$ l$e$a$d$ t$o$ a$n$ i$n$c$r$e$a$s$e$ i$n$ a$n$o$t$h$e$r$ f$o$r$m$ o$f$ d$e$g$r$a$d$a$t$i$o$n$. B$y$ d"
 
 #: ../../SO1.md:212
 msgid ""
@@ -731,7 +730,7 @@ msgid ""
 "Parties might use this matrix as a preliminary framework to be evaluated "
 "and adjusted through a multi-stakeholder participatory process and in "
 "consideration of the national and local conditions."
-msgstr ""
+msgstr "T$a$b$l$e$ 9 p$r$e$s$e$n$t$s$ a$n$ e$x$a$m$p$l$e$ o$f$ a$ t$r$a$n$s$i$t$i$o$n$ m$a$t$r$i$x$ f$o$r$ t$h$e$ d$e$f$a$u$l$t$ U$N$C$C$D$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$e$s$. T$h$e$ m$a$t$r$i$x$ s$h$o$w$s$ s$u$g$g$e$s$t$e$d$ i$n$t$e$r$p$r$e$t$a$t$i$o$n$s$ o$f$ c$h$a$n$g$e$s$ i$n$ l$a$n$d$ c$o$v$e$r$ t$h$a$t$ m$a$y$ r$e$s$u$l$t$ i$n$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ o$r$ i$m$p$r$o$v$e$m$e$n$t$. P$a$r$t$i$e$s$ m$i$g$h$t$ u$s$e$ t$h$i$s$ m$a$t$r$i$x$ a$s"
 
 #: ../../SO1.md:214
 msgid ""
@@ -743,37 +742,37 @@ msgid ""
 "period had a significant impact on land cover. It should be noted that "
 "any change in the extent of inland water bodies affects the total land "
 "area, which needs to be adjusted accordingly."
-msgstr ""
+msgstr "F$o$r$ c$o$m$p$l$e$t$e$n$e$s$s$, w$a$t$e$r$ b$o$d$i$e$s$ a$r$e$ a$l$s$o$ i$n$c$l$u$d$e$d$ i$n$ t$h$e$ m$a$t$r$i$x$, a$l$t$h$o$u$g$h$ t$h$e$ f$o$c$u$s$ o$f$ r$e$p$o$r$t$i$n$g$ i$s$ o$n$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ f$o$r$ t$h$e$ p$u$r$p$o$s$e$ o$f$ c$a$l$c$u$l$a$t$i$n$g$ S$D$G$ i$n$d$i$c$a$t$o$r$ 15.3.1. A$l$l$ w$a$t$e$r$ b$o$d$y$-r$e$l$a$t$e$d$ t$r$a$n$s$i$t$i$o$n$s$ a$r$e$ s$e$t$ a$s$ ‘s$t$a$b$l$e$’ b$y$ d$e$f$a$u$l$t$, b$u$t$ P$a$r$t$i$e$s$ m$a$y$ a$l$t$e$r$ t$h$e$s$e$ v$a$l$u$e$s$ i$f$ c$h$a$n$g$e$s$ i$n$ t$h$e$ e$x$t$e$n$t$ o$f$ w$a$t$e$r$ b$o$d$i$e$s$ d$u$r$i$n$g$ t$h$e$ b$a$s$e$"
 
 #: ../../SO1.md:216
 msgid ""
 "*__Table 9__. Example of a land cover transition matrix using the seven "
 "UNCCD land cover classes*"
-msgstr ""
+msgstr "*__T$a$b$l$e$ 9__. E$x$a$m$p$l$e$ o$f$ a$ l$a$n$d$ c$o$v$e$r$ t$r$a$n$s$i$t$i$o$n$ m$a$t$r$i$x$ u$s$i$n$g$"
 
 #: ../../SO1.md:1
 msgid "{rspan}`1`"
-msgstr ""
+msgstr "{r$s$p$a$n$"
 
 #: ../../SO1.md:2
 msgid "{cspan}`7` FINAL CLASS"
-msgstr ""
+msgstr "{c$s$p$a$n$}`7` F$I$N$A$"
 
 #: ../../SO1.md:3 ../../SO1.md:12
 msgid "Tree-covered areas"
-msgstr ""
+msgstr "T$r$e$e$-c$o$v$e$r$"
 
 #: ../../SO1.md:5 ../../SO1.md:28
 msgid "Cropland"
-msgstr ""
+msgstr "C$r$o$p$"
 
 #: ../../SO1.md:10
 msgid "ORIGINAL CLASS"
-msgstr ""
+msgstr "O$R$I$G$I$N$A$L"
 
 #: ../../SO1.md:11
 msgid "{cspan}`7`"
-msgstr ""
+msgstr "{c$s$p$a$n$"
 
 #: ../../SO1.md:13 ../../SO1.md:17 ../../SO1.md:19 ../../SO1.md:22
 #: ../../SO1.md:24 ../../SO1.md:27 ../../SO1.md:28 ../../SO1.md:29
@@ -787,39 +786,39 @@ msgstr ""
 #: ../../SO1.md:81 ../../SO1.md:89 ../../SO1.md:100 ../../SO1.md:101
 #: ../../SO1.md:106 ../../SO1.md:113
 msgid "Stable"
-msgstr ""
+msgstr "S$t$a$"
 
 #: ../../SO1.md:14 ../../SO1.md:18 ../../SO1.md:26 ../../SO1.md:34
 msgid "Vegetation loss"
-msgstr ""
+msgstr "V$e$g$e$t$a$t$i$"
 
 #: ../../SO1.md:16
 msgid "Innundation"
-msgstr ""
+msgstr "I$n$n$u$n$d$"
 
 #: ../../SO1.md:21 ../../SO1.md:29 ../../SO1.md:45 ../../SO1.md:53
 msgid "Afforestation"
-msgstr ""
+msgstr "A$f$f$o$r$e$s$"
 
 #: ../../SO1.md:23 ../../SO1.md:47 ../../SO1.md:55
 msgid "Agricultural expansion"
-msgstr ""
+msgstr "A$g$r$i$c$u$l$t$u$r$a$l$"
 
 #: ../../SO1.md:30
 msgid "Withdrawal of agriculture"
-msgstr ""
+msgstr "W$i$t$h$d$r$a$w$a$l$ o$f$ a"
 
 #: ../../SO1.md:46 ../../SO1.md:54
 msgid "Vegetation establishment"
-msgstr ""
+msgstr "V$e$g$e$t$a$t$i$o$n$ e$s$t"
 
 #: ../../SO1.md:48 ../../SO1.md:56
 msgid "Wetland establishment"
-msgstr ""
+msgstr "W$e$t$l$a$n$d$ e$s$t$a$"
 
 #: ../../SO1.md:50
 msgid "Withdrawal of settlements"
-msgstr ""
+msgstr "W$i$t$h$d$r$a$w$a$l$ o$f$ s"
 
 #: ../../SO1.md:1
 msgid ""
@@ -828,7 +827,7 @@ msgid ""
 " red. Note that this is an example of a transition matrix and should not "
 "be interpreted as appropriate for countries to adopt without "
 "consideration of local conditions and key degradation processes."
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$ p$r$o$c$e$s$s$e$s$ a$r$e$ c$o$l$o$r$ c$o$d$e$d$ a$s$ i$m$p$r$o$v$e$m$e$n$t$ (g$r$e$e$n$), s$t$a$b$l$e$ (y$e$l$l$o$w$) o$r$ d$e$g$r$a$d$a$t$i$o$n$ (r$e$d$). U$n$l$i$k$e$l$y$ t$r$a$n$s$i$t$i$o$n$s$ a$r$e$ w$r$i$t$t$e$n$ i$n$ r$e$d$. N$o$t$e$ t$h$a$t$ t$h$i$s$ i$s$ a$n$ e$x$a$m$p$l$e$ o$f$ a$ t$r$a$n$s$i$t$i$o$n$ m$a$t$r$i$x$ a$n$d$ s$h$o$u"
 
 #: ../../SO1.md:295
 msgid ""
@@ -836,7 +835,7 @@ msgid ""
 "to provide their interpretation of land cover transitions using tables "
 "SO1-1.T4a or SO1-1.T4b for (i) UNCCD default land cover classes; (ii) or "
 "national land cover classes, respectively."
-msgstr ""
+msgstr "D$e$p$e$n$d$i$n$g$ o$n$ t$h$e$ l$a$n$d$ c$o$v$e$r$ l$e$g$e$n$d$ s$e$l$e$c$t$e$d$ i$n$ S$t$e$p$ 3, P$a$r$t$i$e$s$ w$i$l$l$ n$e$e$d$ t$o$ p$r$o$v$i$d$e$ t$h$e$i$r$ i$n$t$e$r$p$r$e$t$a$t$i$o$n$ o$f$ l$a$n$d$ c$o$v$e$r$ t$r$a$n$s$i$t$i$o$n$s$ u$s$i$n$g$ t$a$b$l$e$s$ S$O$1-1.T$4a$ o$r$ S$"
 
 #: ../../SO1.md:297
 msgid ""
@@ -849,11 +848,11 @@ msgid ""
 "integrated into the calculations of the SO 1-1 outputs and SDG indicator "
 "15.3.1. Editing the transition matrix in PRAIS 4 alone will not result in"
 " a recalculation of the spatial data for SO 1-1."
-msgstr ""
+msgstr "T$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$ i$n$c$l$u$d$e$s$ f$u$n$c$t$i$o$n$s$ t$o$ m$o$d$i$f$y$ t$h$e$ d$e$f$a$u$l$t$ t$r$a$n$s$i$t$i$o$n$ m$a$t$r$i$x$ d$a$t$a$ a$n$d$ a$s$s$i$g$n$ a$ ‘–’ o$r$ ‘+’ s$i$g$n$ t$o$ e$a$c$h$ t$r$a$n$s$i$t$i$o$n$ d$e$p$e$n$d$i$n$g$ o$n$ w$h$e$t$h$e$r$ i$t$ c$a$u$s$e$s$ a$ d$e$g$r$a$d$a$t$i$o$n$ o$r$ i$m$p$r$o$v$e$m$e$n$t$ o$f$ t$h$e$ l$a$n$d$ a$c$c$o$r$d$i$n$g$ t$o$ n$a$t$i$o$n$a$l$ c$i$r$c$u$m$s$t$a$n$c$e$s$. H$o$w$e$v$e$r$, i$f$ o$p$t$i$n$g$ t$o$ m$o$d$i$f$y$ t$h$e$ d$e$f$a$u$l$t$ t$r$a$n$s$i$t$i$o$n$ m$a$t$r$i$x$ (i$.e$. t$a$b$l$e$ S$O$1-1.T$4a$), t$h$e$ t$r$a$n$s$i$t$i$o$n$ m$a$t$r$i$x$ s$h$o$u$l$d$ f$i$r$s$t$ b$e$ e$d$i$t$e$d$ i$n$ T$r$e$n$d$s$.E"
 
 #: ../../SO1.md:299
 msgid "Step 5: Assess available data"
-msgstr ""
+msgstr "S$t$e$p$ 5: A$s$s$e$s$s$ a$v$a$"
 
 #: ../../SO1.md:301
 msgid ""
@@ -861,48 +860,48 @@ msgid ""
 "from the latest ESA CCI-LC dataset to lighten the reporting burden. "
 "However, Parties may report their estimates using national land cover "
 "data if they meet the specifications listed in table 10."
-msgstr ""
+msgstr "U$N$C$C$D$ p$r$o$v$i$d$e$s$ p$r$e$f$i$l$l$e$d$ d$e$f$a$u$l$t$ d$a$t$a$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$ d$e$r$i$v$e$d$ f$r$o$m$ t$h$e$ l$a$t$e$s$t$ E$S$A$ C$C$I$-L$C$ d$a$t$a$s$e$t$ t$o$ l$i$g$h$t$e$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ b$u$r$d$e$n$. H$o$w$e$v$e$r$, P$a$r$t$i$e$s$ m$a$y$ r"
 
 #: ../../SO1.md:306
 msgid "*__Table 10__. Data specifications for SO 1-1 indicator*"
-msgstr ""
+msgstr "*__T$a$b$l$e$ 10__. D$a$t$a$ s$p$e$c$i$f$i$c$a$t$i$o$n$s$ f$o"
 
 #: ../../SO1.md:1
 msgid "{rspan}`1` Item"
-msgstr ""
+msgstr "{r$s$p$a$n$}`1` "
 
 #: ../../SO1.md:2
 msgid "{cspan}`1` Specifications"
-msgstr ""
+msgstr "{c$s$p$a$n$}`1` S$p$e$c$i$f"
 
 #: ../../SO1.md:3
 msgid ""
 "Default data (European Space Agency Climate Change Initiative Land Cover "
 "(ESA CCI-LC) product)"
-msgstr ""
+msgstr "D$e$f$a$u$l$t$ d$a$t$a$ (E$u$r$o$p$e$a$n$ S$p$a$c$e$ A$g$e$n$c$y$ C$l$i$m$a$t$e$ C$h$a$n$g$e$ I$n$i$t$i"
 
 #: ../../SO1.md:4
 msgid "National data"
-msgstr ""
+msgstr "N$a$t$i$o$n$a$"
 
 #: ../../SO1.md:5
 msgid "Type of data"
-msgstr ""
+msgstr "T$y$p$e$ o$f$"
 
 #: ../../SO1.md:6
 msgid "Based on AVHRR, SPOT, PROBA-V and Sentinel-3 satellite imagery"
-msgstr ""
+msgstr "B$a$s$e$d$ o$n$ A$V$H$R$R$, S$P$O$T$, P$R$O$B$A$-V$ a$n$d$ S$e$n$t$i"
 
 #: ../../SO1.md:7
 msgid ""
 "Satellite images of finer resolution from national and international "
 "sources,  airborne imagery and/or field observation and "
 "national/provincial statistics"
-msgstr ""
+msgstr "S$a$t$e$l$l$i$t$e$ i$m$a$g$e$s$ o$f$ f$i$n$e$r$ r$e$s$o$l$u$t$i$o$n$ f$r$o$m$ n$a$t$i$o$n$a$l$ a$n$d$ i$n$t$e$r$n$a$t$i$o$n$a$l$ s$o$u$r$c$e$s$,  a$i$r$b$o$r$n$e$ i$m$a$g"
 
 #: ../../SO1.md:9
 msgid "Classification"
-msgstr ""
+msgstr "C$l$a$s$s$i$f$i"
 
 #: ../../SO1.md:10
 msgid ""
@@ -910,7 +909,7 @@ msgid ""
 "the United Nations (FAO) Land Cover Classification System (LCCS).  For "
 "reporting purposes, the 36 ESA CCI-LC classes are aggregated to the seven"
 "  UNCCD classes (see table 8 of this document for aggregation rules)."
-msgstr ""
+msgstr "36 l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$e$s$ b$a$s$e$d$ o$n$ t$h$e$ F$o$o$d$ a$n$d$ A$g$r$i$c$u$l$t$u$r$e$ O$r$g$a$n$i$z$a$t$i$o$n$ o$f$ t$h$e$ U$n$i$t$e$d$ N$a$t$i$o$n$s$ (F$A$O$) L$a$n$d$ C$o$v$e$r$ C$l$a$s$s$i$f$i$c$a$t$i$o$n$ S$y$s$t$e$m$ (L$C$C$S$).  F$o$r$ r$e$p$o$r$t$i$n$g$ p$u$r$p$o$s$e$s$, t$h$e$ 36 E$S$A$ C$C"
 
 #: ../../SO1.md:14
 msgid ""
@@ -919,77 +918,77 @@ msgid ""
 "LCCS/Land Cover  Meta Language (LCML) methodology. However, the legend "
 "should be concise and  only include land cover classes of relevance to "
 "the reported land degradation processes."
-msgstr ""
+msgstr "A$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$i$f$i$c$a$t$i$o$n$ c$o$m$p$a$t$i$b$l$e$ w$i$t$h$ t$h$e$ s$e$v$e$n$ U$N$C$C$D$ d$e$f$a$u$l$t$ c$l$a$s$s$e$s$  d$e$s$c$r$i$b$e$d$ i$n$ s$t$e$p$ 2. I$d$e$a$l$l$y$, t$h$e$ l$e$g$e$n$d$ i$s$ b$a$s$e$d$ o$n$ t$h$e$ F$A$O$ L$C$C$S$/L$a$n$d$ C$o$v$e$r$  M$e$t$a$ L$a$n$g$u$a$g$e$ (L$C$M$L$) m$e$t$h$o$d$o$l$o$g$y$. H$o$w$e$v$e$"
 
 #: ../../SO1.md:18
 msgid "Temporal coverage"
-msgstr ""
+msgstr "T$e$m$p$o$r$a$l$ c"
 
 #: ../../SO1.md:19
 msgid "Annual data from the year 2000 onward"
-msgstr ""
+msgstr "A$n$n$u$a$l$ d$a$t$a$ f$r$o$m$ t$h$e$ y$"
 
 #: ../../SO1.md:20
 msgid ""
 "Annual data from the year 2000 onward would be the best option. However, "
 "the  bare minimum would be data for the years 2000 and 2015 (for the "
 "baseline) and  the latest available year for the reporting period."
-msgstr ""
+msgstr "A$n$n$u$a$l$ d$a$t$a$ f$r$o$m$ t$h$e$ y$e$a$r$ 2000 o$n$w$a$r$d$ w$o$u$l$d$ b$e$ t$h$e$ b$e$s$t$ o$p$t$i$o$n$. H$o$w$e$v$e$r$, t$h$e$  b$a$r$e$ m$i$n$i$m$u$m$ w$o$u$l$d$ b$e$ d$a$t$a$ f$o$r$ t$h$e$ y$e$a$r$s$ 2000 a$n$d$ 2015 (f"
 
 #: ../../SO1.md:23
 msgid "Spatial resolution"
-msgstr ""
+msgstr "S$p$a$t$i$a$l$ r$e$"
 
 #: ../../SO1.md:24
 msgid "300 metres (m)"
-msgstr ""
+msgstr "300 m$e$t$r$e$s"
 
 #: ../../SO1.md:25
 msgid ""
 "The desired spatial resolution is 100m or finer. If such data is not "
 "available, it is recommended to use the default data or data with a "
 "resolution higher than  that of the default data (300m)."
-msgstr ""
+msgstr "T$h$e$ d$e$s$i$r$e$d$ s$p$a$t$i$a$l$ r$e$s$o$l$u$t$i$o$n$ i$s$ 100m$ o$r$ f$i$n$e$r$. I$f$ s$u$c$h$ d$a$t$a$ i$s$ n$o$t$ a$v$a$i$l$a$b$l$e$, i$t$ i$s$ r$e$c$o$m$m$e$n$d$e$d$ t$o$ u$s$e$ t$h$e$ d$e$f$a$u$l$t$ d$a$"
 
 #: ../../SO1.md:28
 msgid "Accuracy"
-msgstr ""
+msgstr "A$c$c$u$"
 
 #: ../../SO1.md:29
 msgid "74%"
-msgstr ""
+msgstr "74%"
 
 #: ../../SO1.md:30
 msgid ""
 "To conform with the data quality of the default land cover product, it is"
 "  recommended to ensure an overall mapping accuracy of at least 74%."
-msgstr ""
+msgstr "T$o$ c$o$n$f$o$r$m$ w$i$t$h$ t$h$e$ d$a$t$a$ q$u$a$l$i$t$y$ o$f$ t$h$e$ d$e$f$a$u$l$t$ l$a$n$d$ c$o$v$e$r$ p$r$o$d$u$c$t$, i$t$ i$s$  r$e$c$o$m$m$e$n$d$e$d"
 
 #: ../../SO1.md:32
 msgid "Metadata"
-msgstr ""
+msgstr "M$e$t$a$"
 
 #: ../../SO1.md:33
 msgid ""
 "Metadata information is automatically generated with the default data in "
 "Trends.Earth."
-msgstr ""
+msgstr "M$e$t$a$d$a$t$a$ i$n$f$o$r$m$a$t$i$o$n$ i$s$ a$u$t$o$m$a$t$i$c$a$l$l$y$ g$e$n$e$r$a$t$e$d$ w$i"
 
 #: ../../SO1.md:34
 msgid ""
 "A list of minimum metadata information is listed in Annex II to this "
 "document."
-msgstr ""
+msgstr "A$ l$i$s$t$ o$f$ m$i$n$i$m$u$m$ m$e$t$a$d$a$t$a$ i$n$f$o$r$m$a$t$i$o$n$ i$s$ l$i$s$t$"
 
 #: ../../SO1.md:348
 msgid "Step 6: Determine the baseline extent of land cover degradation"
-msgstr ""
+msgstr "S$t$e$p$ 6: D$e$t$e$r$m$i$n$e$ t$h$e$ b$a$s$e$l$i$n$e$ e$x$t$e$n$t$ o"
 
 #: ../../SO1.md:1
 msgid ""
 "Related areas in the PRAIS 4 platform: tables SO1-1.T5, SO1-1.T6 and "
 "SO1-1.T8"
-msgstr ""
+msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$: t$a$b$l$e$s$ S$"
 
 #: ../../SO1.md:354
 msgid ""
@@ -1004,7 +1003,7 @@ msgid ""
 "affects the results of change calculations between the baseline and the "
 "reporting periods. These changes are used to monitor Parties’ progress on"
 " SO 1-1."
-msgstr ""
+msgstr "T$h$e$ b$a$s$e$l$i$n$e$ s$e$t$s$ t$h$e$ b$e$n$c$h$m$a$r$k$ a$g$a$i$n$s$t$ w$h$i$c$h$ c$h$a$n$g$e$ i$n$ t$h$e$ e$x$t$e$n$t$ o$f$ l$a$n$d$ c$o$v$e$r$ d$e$g$r$a$d$a$t$i$o$n$ i$s$ c$o$m$p$a$r$e$d$ i$n$ s$u$b$s$e$q$u$e$n$t$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$s$. D$e$t$e$r$m$i$n$i$n$g$ t$h$e$ b$a$s$e$l$i$n$e$ e$x$t$e$n$t$ c$o$n$s$i$s$t$s$ o$f$ c$o$m$p$a$r$i$n$g$ t$h$e$ l$a$n$d$ c$o$v$e$r$ i$n$ t$h$e$ f$i$n$a$l$ y$e$a$r$ o$f$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$ (t$h$e$ b$a$s$e$l$i$n$e$ y$e$a$r$, i$.e$. 2015) w$i$t$h$ t$h$a$t$ o$f$ t$h$e$ i$n$i$t$i$a$l$ y$e$a$r$ (2000) t$o$ e$s$t$i$m$a$t$e$ w$h$a$t$ c$h$a$n$g$e$d$ (i$n$ t$e$r$m$s$ o$f$ l$a$n$d$ c$o$v$e$r$ t$r$a$n$s$i$t$i$o$n$s$), c$a$l$c$u$l$a$t$e$ t$h$e$ n$e$t$ a$r$e$a$ c$h$a$n$g$e$ p$e$r$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$ a$n$d$ i$n$f$"
 
 #: ../../SO1.md:356
 msgid ""
@@ -1018,17 +1017,17 @@ msgid ""
 "analysis and transfer of their data to PRAIS 4. Trends.Earth includes "
 "tools to automatically estimate land cover changes and land cover "
 "degradation."
-msgstr ""
+msgstr "D$e$f$a$u$l$t$ n$a$t$i$o$n$a$l$ e$s$t$i$m$a$t$e$s$ o$f$ l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$ a$n$d$ l$a$n$d$ c$o$v$e$r$ d$e$g$r$a$d$a$t$i$o$n$ f$o$r$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$ a$r$e$ m$a$d$e$ a$v$a$i$l$a$b$l$e$ i$n$ t$a$b$l$e$s$ S$O$1-1.T$6 a$n$d$ S$O$1-1.T$8 o$f$ P$R$A$I$S$ 4, r$e$s$p$e$c$t$i$v$e$l$y$. T$h$e$s$e$ e$s$t$i$m$a$t$e$s$ c$a$n$ b$e$ a$c$c$e$p$t$e$d$, a$d$j$u$s$t$e$d$ o$r$ r$e$p$l$a$c$e$d$ u$s$i$n$g$ n$a$t$i$o$n$a$l$ d$a$t$a$, a$s$ a$p$p$r$o$p$r$i$a$t$e$. S$u$p$p$o$r$t$i$n$g$ c$o$m$m$e$n$t$s$ s$h$o$u$l$d$ b$e$ e$n$t$e$r$e$d$ i$n$t$o$ i$n$ t$h$e$ c$o$m$m$e$n$t$s$ b$o$x$ p$r$o$v$i$d$e$d$ t$o$ j$u$s$t$i$f$y$ t$h$e$ m$o$d$i$f$i$c$a$t$i$o$n$ o$r$ r$e$p$l$a$c$e$m$e$n$t$ o$f$ d$e$f$a$u"
 
 #: ../../SO1.md:358
 msgid "Step 7: Estimate land cover degradation"
-msgstr ""
+msgstr "S$t$e$p$ 7: E$s$t$i$m$a$t$e$ l$a$n$d$ c$o$"
 
 #: ../../SO1.md:1
 msgid ""
 "Related areas in the PRAIS 4 platform: tables SO1-1.T1, SO1-1.T5, "
 "SO1-1.T7 and SO1-1.T9"
-msgstr ""
+msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$: t$a$b$l$e$s$ S$O$1-1.T$1, "
 
 #: ../../SO1.md:364
 msgid ""
@@ -1039,7 +1038,7 @@ msgid ""
 "reporting period (i.e. 2019 for the default data) with that of the "
 "initial year of the reporting period (2016). These estimates can be "
 "accepted, adjusted or replaced using national data, as appropriate."
-msgstr ""
+msgstr "D$e$f$a$u$l$t$ n$a$t$i$o$n$a$l$ e$s$t$i$m$a$t$e$s$ o$f$ l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$ a$n$d$ l$a$n$d$ c$o$v$e$r$ d$e$g$r$a$d$a$t$i$o$n$ f$o$r$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ a$r$e$ m$a$d$e$ a$v$a$i$l$a$b$l$e$ i$n$ t$a$b$l$e$s$ S$O$1-1.T$5 a$n$d$ S$O$1-1.T$7, r$e$s$p$e$c$t$i$v$e$l$y$. T$h$e$s$e$ e$s$t$i$m$a$t$e$s$ a$r$e$ c$a$l$c$u$l$a$t$e$d$ b$y$ c$o$m$p$a$r$i$n$g$ t$h$e$ l$a$n$d$ c$o$v$e$r$ i$n$ t$h$e$ m$o$s$t$ r$e$c$e$n$t$ a$v$a$i$l$a$b$l$e$ y$e$a$r$ o$f$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ (i$"
 
 #: ../../SO1.md:366
 msgid ""
@@ -1048,11 +1047,11 @@ msgid ""
 "degradation; (iii) land cover improvement; and (iv) no change for the "
 "reporting period through Trends.Earth and import the results to the PRAIS"
 " 4 platform, where the relevant maps can be created."
-msgstr ""
+msgstr "U$s$i$n$g$ t$h$e$ s$e$l$e$c$t$e$d$ d$a$t$a$, l$e$g$e$n$d$ a$n$d$ t$r$a$n$s$i$t$i$o$n$ m$a$t$r$i$x$, P$a$r$t$i$e$s$ m$a$y$ p$r$o$d$u$c$e$ n$a$t$i$o$n$a$l$ e$s$t$i$m$a$t$e$s$ o$f$ (i$) l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$; (i$i$) l$a$n$d$ c$o$v$e$r$ d$e$g$r$a$d$a$t$i$o$n$; (i$i$i$) l$a$n$d$ c$o$v$e$r$ i$m$p$r$o$v$e$m$e$n$t$; a$n$d$ (i$v$) n$o$ c$h$a$n$g$e$ f$o$r$ t$h$"
 
 #: ../../SO1.md:368
 msgid "Step 8: Verify the results"
-msgstr ""
+msgstr "S$t$e$p$ 8: V$e$r$i$f$y$ t$h"
 
 #: ../../SO1.md:370
 msgid ""
@@ -1064,11 +1063,11 @@ msgid ""
 " where the confidence level of the obtained results might be low. This "
 "input would contribute to a qualitative assessment of the reliability of "
 "the estimates."
-msgstr ""
+msgstr "T$h$e$ r$e$m$o$t$e$-s$e$n$s$i$n$g$ i$n$t$e$r$p$r$e$t$a$t$i$o$n$ o$f$ l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$s$ v$a$r$i$e$s$ g$r$e$a$t$l$y$ a$c$r$o$s$s$ t$h$e$ g$l$o$b$e$, s$t$r$o$n$g$l$y$ i$n$f$l$u$e$n$c$e$d$ b$y$ t$h$e$ p$r$e$v$a$i$l$i$n$g$ c$l$i$m$a$t$i$c$ c$o$n$d$i$t$i$o$n$s$ a$n$d$ l$a$n$d$ m$a$n$a$g$e$m$e$n$t$ p$r$a$c$t$i$c$e$s$. T$h$i$s$ m$a$y$ a$f$f$e$c$t$ t$h$e$ r$e$l$i$a$b$i$l$i$t$y$ o$f$ a$p$p$l$y$i$n$g$ e$s$t$i$m$a$t$e$s$ f$r$o$m$ g$l$o$b$a$l$ d$a$t$a$ s$o$u$r$c$e$s$ t$o$ l$o$c$a$l$ a$r$e$a$s$ a$n$d$ r$e$q$u$i$r$e$ i$n$p$u$t$s$ f$r$o$m$ n$a$t$i$o$"
 
 #: ../../SO1.md:372
 msgid "Step 9: Generate reports"
-msgstr ""
+msgstr "S$t$e$p$ 9: G$e$n$e$r$a$t$"
 
 #: ../../SO1.md:374
 msgid ""
@@ -1077,22 +1076,22 @@ msgid ""
 "absence of more accurate and detailed data at the national level, Parties"
 " may officially submit to UNCCD the default estimates. For estimates "
 "generated using national data, Parties should provide:"
-msgstr ""
+msgstr "T$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$ e$n$a$b$l$e$s$ t$h$e$ r$e$p$o$r$t$i$n$g$ o$f$ q$u$a$n$t$i$t$a$t$i$v$e$ i$n$f$o$r$m$a$t$i$o$n$ o$n$ l$a$n$d$ c$o$v$e$r$, l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$s$ a$n$d$ l$a$n$d$ c$o$v$e$r$ d$e$g$r$a$d$a$t$i$o$n$. I$n$ t$h$e$ a$b$s$e$n$c$e$ o$f$ m$o$r$e$ a$c$c$u$r$a$t$e$ a$n$d$ d$e$t$a$i$l$e$d$ d$a$t$a$ a$t$ t$h$e$ n$a$t$i$o$n$a$l$ l$e$v$"
 
 #: ../../SO1.md:376
 msgid "A description of the legend and transition matrix;"
-msgstr ""
+msgstr "A$ d$e$s$c$r$i$p$t$i$o$n$ o$f$ t$h$e$ l$e$g$e$n$d$ a$n$"
 
 #: ../../SO1.md:378
 msgid "National land cover datasets for the baseline and the reporting period;"
-msgstr ""
+msgstr "N$a$t$i$o$n$a$l$ l$a$n$d$ c$o$v$e$r$ d$a$t$a$s$e$t$s$ f$o$r$ t$h$e$ b$a$s$e$l$"
 
 #: ../../SO1.md:380
 msgid ""
 "Land cover change information, including a land cover area change matrix "
 "and a spatial dataset that shows the areas subject to degradation, "
 "improvement or no change based on land cover data."
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$ i$n$f$o$r$m$a$t$i$o$n$, i$n$c$l$u$d$i$n$g$ a$ l$a$n$d$ c$o$v$e$r$ a$r$e$a$ c$h$a$n$g$e$ m$a$t$r$i$x$ a$n$d$ a$ s$p$a$t$i$a$l$ d$a$t$a$s$e$t$ t$h$a$t$ s$h$o$w$s$ t$h$e$ a$r$e$a$"
 
 #: ../../SO1.md:382
 msgid ""
@@ -1100,7 +1099,7 @@ msgid ""
 "should be reported in km2 for the entire country. Reporting on affected "
 "areas only should be done via a separate set of forms on the PRAIS 4 "
 "platform."
-msgstr ""
+msgstr "I$n$f$o$r$m$a$t$i$o$n$ o$n$ l$a$n$d$ c$o$v$e$r$, l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$s$ a$n$d$ l$a$n$d$ c$o$v$e$r$ d$e$g$r$a$d$a$t$i$o$n$ s$h$o$u$l$d$ b$e$ r$e$p$o$r$t$e$d$ i$n$ k$m$2 f$o$r$ t$h$e$ e$n$t$i$r$e$ c$o$u$n$t$r$y$. R$e$p$o$r$t$i$n$g$ o$n"
 
 #: ../../SO1.md:384
 msgid ""
@@ -1109,7 +1108,7 @@ msgid ""
 "PRAIS. Any spatial data uploaded to the system must be supported by "
 "appropriate metadata describing the spatial data, as indicated in the "
 "metadata upload form."
-msgstr ""
+msgstr "I$f$ t$h$e$ d$e$f$a$u$l$t$ d$a$t$a$s$e$t$s$ h$a$v$e$ b$e$e$n$ r$e$p$l$a$c$e$d$ w$i$t$h$ n$a$t$i$o$n$a$l$ l$a$n$d$ c$o$v$e$r$ d$a$t$a$, c$o$u$n$t$r$i$e$s$ a$r$e$ e$n$c$o$u$r$a$g$e$d$ t$o$ u$p$l$o$a$d$ t$h$e$ r$e$l$e$v$a$n$t$ g$e$o$s$p$a$t$i$a$l$ d$a$t$a$ t$o$ P$R$A$I$S$. A$n$y$ s$p$a$t$i$a$l$ d$a$t$a$ u$p$l$o$a$d$e$d$ t$o$ t$h$e$"
 
 #: ../../SO1.md:386
 msgid ""
@@ -1117,46 +1116,46 @@ msgid ""
 "representing land cover, land cover change and land cover degradation for"
 " the baseline/reporting period are made available in the PRAIS 4 "
 "platform. More specifically, the following maps will be available online:"
-msgstr ""
+msgstr "D$e$f$a$u$l$t$ m$a$p$s$ o$r$ m$a$p$s$ g$e$n$e$r$a$t$e$d$ i$n$ T$r$e$n$d$s$.E$a$r$t$h$ u$s$i$n$g$ n$a$t$i$o$n$a$l$ d$a$t$a$ r$e$p$r$e$s$e$n$t$i$n$g$ l$a$n$d$ c$o$v$e$r$, l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$ a$n$d$ l$a$n$d$ c$o$v$e$r$ d$e$g$r$a$d$a$t$i$o$n$ f$o$r$ t$h$e$ b$a$s$e$l$i$n$e$/r$e$p$o$r$t$i$n$g$ p$e"
 
 #: ../../SO1.md:388
 msgid "Land cover map of the initial year of the baseline period (2000)"
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ m$a$p$ o$f$ t$h$e$ i$n$i$t$i$a$l$ y$e$a$r$ o$f$ t$"
 
 #: ../../SO1.md:390
 msgid "Land cover map of the final year of the baseline period year (2015)"
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ m$a$p$ o$f$ t$h$e$ f$i$n$a$l$ y$e$a$r$ o$f$ t$h$e$ b$"
 
 #: ../../SO1.md:392
 msgid "Land cover map of the latest reporting year"
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ m$a$p$ o$f$ t$h$e$ l$a$t$e$"
 
 #: ../../SO1.md:394
 msgid "Land cover change in the baseline period"
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$ i$n$ t$h$e$"
 
 #: ../../SO1.md:396
 msgid "Land cover change in the reporting period"
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$ i$n$ t$h$e$ "
 
 #: ../../SO1.md:398
 msgid "Land cover degradation in the baseline period"
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ d$e$g$r$a$d$a$t$i$o$n$ i$n$ t"
 
 #: ../../SO1.md:400
 msgid "Land cover degradation in the reporting period."
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ d$e$g$r$a$d$a$t$i$o$n$ i$n$ t$h"
 
 #: ../../SO1.md:402
 msgid ""
 "Parties are also invited to submit narratives on methods and process used"
 " and to report on special cases and issues using the ‘General Comment’ "
 "field."
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ a$r$e$ a$l$s$o$ i$n$v$i$t$e$d$ t$o$ s$u$b$m$i$t$ n$a$r$r$a$t$i$v$e$s$ o$n$ m$e$t$h$o$d$s$ a$n$d$ p$r$o$c$e$s$s$ u$s$e$d$ a$n$d$ t$o$ r$e$p$o$r$t$ o$n$"
 
 #: ../../SO1.md:404
 msgid "1.1.4. Dependencies"
-msgstr ""
+msgstr "1.1.4. D$e$p$e$n$d$e"
 
 #: ../../SO1.md:406
 msgid ""
@@ -1164,7 +1163,7 @@ msgid ""
 "stratify the indicators on land productivity and soil organic carbon "
 "(SOC) (SO 1-2 and SO 1-3) and as one of the sub-indicators to calculate "
 "the proportion of land that is degraded over total land area (SO 1-4)."
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ d$a$t$a$ i$s$ u$s$e$d$ n$o$t$ o$n$l$y$ t$o$ r$e$p$o$r$t$ o$n$ S$O$ 1-1, b$u$t$ a$l$s$o$ t$o$ s$t$r$a$t$i$f$y$ t$h$e$ i$n$d$i$c$a$t$o$r$s$ o$n$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ a$n$d$ s$o$i$l$ o$r$g$a$n$i$c$ c$a$r$b$o$n$ (S$O$C$) (S$O$ 1-2 a$n$d$ S$O$ 1-3) a$n$d$ a$s$ o$n$e$ o$f$ t$h"
 
 #: ../../SO1.md:408
 msgid ""
@@ -1172,15 +1171,15 @@ msgid ""
 "of subsequent reporting elements across the SOs, which will be listed as "
 "dependent on table SO1-1.T1 in the respective section of the reporting "
 "manual."
-msgstr ""
+msgstr "T$h$e$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ d$e$c$l$a$r$e$d$ u$n$d$e$r$ t$a$b$l$e$ S$O$1-1.T$1 d$r$i$v$e$s$ t$h$e$ c$a$l$c$u$l$a$t$i$o$n$ o$f$ s$u$b$s$e$q$u$e$n$t$ r$e$p$o$r$t$i$n$g$ e$l$e$m$e$n$t$s$ a$c$r$o$s$s$ t$h$e$ S$O$s$, w$h$i$c$h$ w$i$l$l$ b$e$ l"
 
 #: ../../SO1.md:410
 msgid "1.1.5. Challenges"
-msgstr ""
+msgstr "1.1.5. C$h$a$l$l$e"
 
 #: ../../SO1.md:412 ../../SO1.md:882
 msgid "Data availability and quality"
-msgstr ""
+msgstr "D$a$t$a$ a$v$a$i$l$a$b$i$l$i$t$"
 
 #: ../../SO1.md:414
 msgid ""
@@ -1191,7 +1190,7 @@ msgid ""
 "Complementing/refining international data analysis with local-scale data,"
 " if available, can help improve the quality and reliability of the "
 "results."
-msgstr ""
+msgstr "S$p$a$t$i$a$l$ r$e$s$o$l$u$t$i$o$n$ o$f$ d$e$f$a$u$l$t$ d$a$t$a$ m$i$g$h$t$ n$o$t$ a$l$w$a$y$s$ b$e$ s$u$i$t$a$b$l$e$ t$o$ a$c$c$u$r$a$t$e$l$y$ r$e$p$r$e$s$e$n$t$ l$a$n$d$ c$o$v$e$r$ a$n$d$ i$t$s$ c$h$a$n$g$e$s$ a$t$ n$a$t$i$o$n$a$l$ l$e$v$e$l$, e$s$p$e$c$i$a$l$l$y$ f$o$r$ s$m$a$l$l$ i$s$l$a$n$d$ d$e$v$e$l$o$p$i$n$g$ S$t$a$t$e$s$ (S$I$D$S$) o$r$ m$o$u$n$t$a$i$n$o$u$s$ c$o$u$n$t$r$i$e$s$, w$h$i$c$h$ n$e$e$d$ t$h$e$ h$i$g$h$e$s$t$ s$p$a$t$i$a$l$ r"
 
 #: ../../SO1.md:416
 msgid ""
@@ -1199,7 +1198,7 @@ msgid ""
 "have consistent data (i.e. data derived from the same data source using "
 "the same processing technique) over a long period of time; this is often "
 "a challenge at both the national and global levels."
-msgstr ""
+msgstr "F$o$r$ a$n$a$l$y$s$i$s$ a$n$d$ r$e$p$o$r$t$i$n$g$ o$f$ c$h$a$n$g$e$ i$n$ l$a$n$d$ c$o$v$e$r$, i$t$ i$s$ e$s$s$e$n$t$i$a$l$ t$o$ h$a$v$e$ c$o$n$s$i$s$t$e$n$t$ d$a$t$a$ (i$.e$. d$a$t$a$ d$e$r$i$v$e$d$ f$r$o$m$ t$h$e$ s$a$m$e$ d$a$t$a$ s$o$u$r$c$e$ u$s$i$n$g$ t$h$e$ s$a$m$e$ p$r$o$c$e$s$s$i$n$g$"
 
 #: ../../SO1.md:418
 msgid ""
@@ -1210,11 +1209,11 @@ msgid ""
 " work with existing aerial photography, free high-resolution images "
 "available in Google Earth) could considerably reduce costs and resource "
 "allocation."
-msgstr ""
+msgstr "T$h$e$ v$a$l$i$d$a$t$i$o$n$ o$f$ n$a$t$i$o$n$a$l$ l$a$n$d$ c$o$v$e$r$ i$n$f$o$r$m$a$t$i$o$n$ m$a$y$ n$e$e$d$ t$o$ b$e$ c$r$o$s$s$-c$h$e$c$k$e$d$ i$n$ t$h$e$ f$i$e$l$d$, a$l$s$o$ i$n$ c$o$n$s$u$l$t$a$t$i$o$n$ w$i$t$h$ l$o$c$a$l$ e$x$p$e$r$t$s$. T$h$i$s$ m$i$g$h$t$ b$e$ a$ t$i$m$e$ c$o$n$s$u$m$i$n$g$ a$n$d$ e$x$p$e$n$s$i$v$e$ a$c$t$i$v$i$t$y$ t$o$ u$n$d$e$r$t$a$k$e$. V$a$l$i$d$a$t$i$o$n$ c$a$r$r$i$e$d$ o$u$t$ u$s$i$n$g$ d$i$f$f$e$r$e$n$t$ m$e$t$h$o$d$s$ a$n$d$ t$e$c$h$n$i$q$u$e"
 
 #: ../../SO1.md:420
 msgid "Land cover classification"
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ c$l$a$s"
 
 #: ../../SO1.md:422
 msgid ""
@@ -1224,7 +1223,7 @@ msgid ""
 "described to an unmanageable amount. While it is important to include the"
 " key land cover transitions in a country, a balance between precision and"
 " manageability of the information should be considered."
-msgstr ""
+msgstr "N$a$t$i$o$n$a$l$ l$a$n$d$ c$o$v$e$r$ l$e$g$e$n$d$s$ a$n$d$ t$r$a$n$s$i$t$i$o$n$ m$a$t$r$i$c$e$s$ m$a$y$ b$e$ m$o$r$e$ a$c$c$u$r$a$t$e$ i$n$ c$a$p$t$u$r$i$n$g$ l$o$c$a$l$ d$e$g$r$a$d$a$t$i$o$n$ p$r$o$c$e$s$s$e$s$ a$n$d$ l$a$n$d$ c$o$v$e$r$ t$r$a$n$s$i$t$i$o$n$s$, b$u$t$ m$i$g$h$t$ i$n$c$r$e$a$s$e$ t$h$e$ n$u$m$b$e$r$ o$f$ p$o$s$s$i$b$l$e$ l$a$n$d$ c$o$v$e$r$ t$r$a$n$s$i$t$i$o$n$s$ t$o$ b$e$ d$e$s$c$r$i$b$e$d$ t$o$ a$n$ u$n$m$a$n$a$g$e$a$b$l$e$ a$m$o$u$"
 
 #: ../../SO1.md:424
 msgid ""
@@ -1234,42 +1233,42 @@ msgid ""
 "data. Documenting the uncertainties and generalizations applied to "
 "harmonize data with international standards may inform the conversion "
 "process and the accuracy of the outputs."
-msgstr ""
+msgstr "E$x$i$s$t$i$n$g$ n$a$t$i$o$n$a$l$ l$a$n$d$ c$o$v$e$r$ m$a$p$s$ a$n$d$ d$a$t$a$ n$e$e$d$ t$o$ b$e$ c$o$n$v$e$r$t$e$d$ t$o$ t$h$e$ s$e$v$e$n$ U$N$C$C$D$ c$l$a$s$s$e$s$. T$h$e$ r$e$q$u$i$r$e$d$ a$g$g$r$e$g$a$t$i$o$n$ o$f$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$e$s$ t$o$ t$h$e$ s$e$v$e$n$ U$N$C$C$D$ c$l$a$s$s$e$s$ c$a$n$ p$a$r$t$l$y$ d$e$g$r$a$d$e$ t$h$e$ q$u$a$l$i$t$y$ o$f$ t$h$e$ o$r$i$g$i$n$a$l$ d$a$t$a$. D$o$c$u$m$e$n$t$i$n$g$ t$h$e$ "
 
 #: ../../SO1.md:426
 msgid ""
 "Land cover information provided to UNCCD should be consistent over time; "
 "changes in the land cover classification methodology require "
 "recalculations of previously submitted national estimates."
-msgstr ""
+msgstr "L$a$n$d$ c$o$v$e$r$ i$n$f$o$r$m$a$t$i$o$n$ p$r$o$v$i$d$e$d$ t$o$ U$N$C$C$D$ s$h$o$u$l$d$ b$e$ c$o$n$s$i$s$t$e$n$t$ o$v$e$r$ t$i$m$e$; c$h$a$n$g$e$s$ i$n$ t$h$e$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$i$f$i$c$a$t$i$o$n$ m"
 
 #: ../../SO1.md:428
 msgid "1.1.6. Summary (main actions)"
-msgstr ""
+msgstr "1.1.6. S$u$m$m$a$r$y$ (m$a$i$n$"
 
 #: ../../SO1.md:430
 msgid "Key actions for reporting on land cover changes are as follows:"
-msgstr ""
+msgstr "K$e$y$ a$c$t$i$o$n$s$ f$o$r$ r$e$p$o$r$t$i$n$g$ o$n$ l$a$n$d$ c$o$v$e"
 
 #: ../../SO1.md:432
 msgid ""
 "**Report on land area**: Information on total land area, the area covered"
 " by water bodies and total country area is to be reported in table "
 "SO1-1.T1."
-msgstr ""
+msgstr "**R$e$p$o$r$t$ o$n$ l$a$n$d$ a$r$e$a$**: I$n$f$o$r$m$a$t$i$o$n$ o$n$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$, t$h$e$ a$r$e$a$ c$o$v$e$r$e$d$ b$y$ w$a$t$e$r$ b$o$d$i$e$s$ a$n$"
 
 #: ../../SO1.md:434
 msgid ""
 "**Identify the key land degradation processes** through the appropriate "
 "consultative process and insert the results in table SO1-1.T2."
-msgstr ""
+msgstr "**I$d$e$n$t$i$f$y$ t$h$e$ k$e$y$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ p$r$o$c$e$s$s$e$s$** t$h$r$o$u$g$h$ t$h$e$ a$p$p$r$o$p$r$i$a$t$e$ c$o$n$s$u$l$t$a$"
 
 #: ../../SO1.md:436
 msgid ""
 "**Select a land cover legend**, ensuring compatibility with the UNCCD "
 "default legend. Insert the legend in table SO1-1.T3 if different from the"
 " UNCCD default legend."
-msgstr ""
+msgstr "**S$e$l$e$c$t$ a$ l$a$n$d$ c$o$v$e$r$ l$e$g$e$n$d$**, e$n$s$u$r$i$n$g$ c$o$m$p$a$t$i$b$i$l$i$t$y$ w$i$t$h$ t$h$e$ U$N$C$C$D$ d$e$f$a$u$l$t$ l$e$g$e$n$d$. I$n$s$e$r$t$ t$h$e$ l$e$g$e"
 
 #: ../../SO1.md:438
 msgid ""
@@ -1278,13 +1277,13 @@ msgid ""
 "stable conditions. Enter this information in table SO1-1.T4a if the UNCCD"
 " land cover legend is used; otherwise use table SO1-1.T4b for national "
 "legends."
-msgstr ""
+msgstr "**G$e$n$e$r$a$t$e$ a$ t$r$a$n$s$i$t$i$o$n$ m$a$t$r$i$x$**. F$o$r$ e$a$c$h$ l$a$n$d$ c$o$v$e$r$ t$r$a$n$s$i$t$i$o$n$, i$n$d$i$c$a$t$e$ w$h$e$t$h$e$r$ i$t$ i$s$ l$i$k$e$l$y$ t$o$ l$e$a$d$ t$o$ d$e$g$r$a$d$a$t$i$o$n$, i$m$p$r$o$v$e$m$e$n$t$ o$r$ s$t$a$b$l$e$ c$o$n$d$i$t$i$o$n$s$. E$n$t$e$r$ t$h$i$s$ i$n$f$o$r$m$a$t$i"
 
 #: ../../SO1.md:440
 msgid ""
 "**Select data to be used**; ensure compliance with the minimum "
 "specifications listed in table 10."
-msgstr ""
+msgstr "**S$e$l$e$c$t$ d$a$t$a$ t$o$ b$e$ u$s$e$d$**; e$n$s$u$r$e$ c$o$m$p$l$i$a$n$c$e$ w$i$t$h$ t$h$e$ m$i$n$i$m$"
 
 #: ../../SO1.md:442
 msgid ""
@@ -1293,7 +1292,7 @@ msgid ""
 "2000–2015. If national land cover data is used, run the calculations in "
 "Trends.Earth and enter this information in tables SO1-1.T5, SO1-1.T6 and "
 "SO1-1.T8."
-msgstr ""
+msgstr "**D$e$t$e$r$m$i$n$e$ t$h$e$ b$a$s$e$l$i$n$e$ e$x$t$e$n$t$ o$f$ l$a$n$d$ c$o$v$e$r$ d$e$g$r$a$d$a$t$i$o$n$** u$s$i$n$g$ t$h$e$ s$e$l$e$c$t$e$d$ d$a$t$a$, l$e$g$e$n$d$ a$n$d$ t$r$a$n$s$i$t$i$o$n$ m$a$t$r$i$x$ f$o$r$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$ 2000–2015. I$f$ n$a$t$i$o$n$a$l$ l$a$n$d$ c$o$v$e$r$ d$a$t$a$ i$s$ u$s"
 
 #: ../../SO1.md:444
 msgid ""
@@ -1302,7 +1301,7 @@ msgid ""
 "change from the baseline. If national land cover data is used, run the "
 "calculations in Trends.Earth and enter this information in tables "
 "SO1-1.T5, SO1-1.T7 and SO1-1.T9."
-msgstr ""
+msgstr "**E$s$t$i$m$a$t$e$ l$a$n$d$ c$o$v$e$r$ d$e$g$r$a$d$a$t$i$o$n$** u$s$i$n$g$ t$h$e$ s$e$l$e$c$t$e$d$ d$a$t$a$, l$e$g$e$n$d$ a$n$d$ t$r$a$n$s$i$t$i$o$n$ m$a$t$r$i$x$ f$o$r$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ a$n$d$ b$a$s$e$d$ o$n$ a$n$ a$s$s$e$s$s$m$e$n$t$ o$f$ c$h$a$n$g$e$ f$r$o$m$ t$h$e$ b$a$s$e$l$i$n$e$. I$f$ n$a$t$i$o$n$a$l$ l$a$n$d$ c$o$"
 
 #: ../../SO1.md:446
 msgid ""
@@ -1311,18 +1310,18 @@ msgid ""
 "authorities to assess the accuracy of the results and identify any false "
 "positive and negative situations which can be reported on in the SO 1-4 "
 "forms (SDG indicator 15.3.1)."
-msgstr ""
+msgstr "**V$e$r$i$f$y$ t$h$e$ r$e$s$u$l$t$s$**: I$t$ i$s$ r$e$c$o$m$m$e$n$d$e$d$ t$h$a$t$ l$a$n$d$ c$o$v$e$r$ a$n$d$ r$e$l$a$t$e$d$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ e$s$t$i$m$a$t$e$s$ a$r$e$ v$e$r$i$f$i$e$d$ b$y$ t$h$e$ c$o$n$c$e$r$n$e$d$ n$a$t$i$o$n$a$l$ a$u$t$h$o$r$i$t$i$e$s$ t$o$ a$s$s$e$s$s$ t$h$e$ a$c$c$u$r$a$c$y$ o$f$ t$h$e$ r$e$s$u$l$t$s$ a$"
 
 #: ../../SO1.md:448
 msgid ""
 "**Generate reports**: Verify the accuracy of the quantitative information"
 " entered in the report and include the narrative information on methods "
 "and process used."
-msgstr ""
+msgstr "**G$e$n$e$r$a$t$e$ r$e$p$o$r$t$s$**: V$e$r$i$f$y$ t$h$e$ a$c$c$u$r$a$c$y$ o$f$ t$h$e$ q$u$a$n$t$i$t$a$t$i$v$e$ i$n$f$o$r$m$a$t$i$o$n$ e$n$t$e$r$e$d$ i$n$ t$h$e$ r$e$p$o$r$t$ a$n$"
 
 #: ../../SO1.md:450
 msgid "1.1.7. Further reading"
-msgstr ""
+msgstr "1.1.7. F$u$r$t$h$e$r$ r$"
 
 #: ../../SO1.md:452
 msgid ""
@@ -1330,22 +1329,22 @@ msgid ""
 "is degraded over total land area (version 2). Chapter 3: Land cover and "
 "land cover change (<https://www.unccd.int/publications/good-practice-"
 "guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land>)."
-msgstr ""
+msgstr "G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1: P$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (v$e$r$s$i$o$n$ 2). C$h$a$p$t$e$r$ 3: L$a$n$d$ c$o$v$e$r$ a$n$d$ l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$ (<h$t$t$p$s$://w$w$w$.u$n$c"
 
 #: ../../SO1.md:454
 msgid ""
 "Di Gregorio, A., & Jansen, L.J.M. (2000). Land cover classification "
 "system (LCCS). Classification concepts and user manual for software "
 "version 1.0. Rome: FAO (<http://www.fao.org/3/y7220e/y7220e00.htm>)."
-msgstr ""
+msgstr "D$i$ G$r$e$g$o$r$i$o$, A$., & J$a$n$s$e$n$, L$.J$.M$. (2000). L$a$n$d$ c$o$v$e$r$ c$l$a$s$s$i$f$i$c$a$t$i$o$n$ s$y$s$t$e$m$ (L$C$C$S$). C$l$a$s$s$i$f$i$c$a$t$i$o$n$ c$o$n$c$e$p$t$s$ a$n$d$ u$s$e$r$ m$a$n$u$a$l$ f$o$r$ s$o$f$"
 
 #: ../../SO1.md:456
 msgid "1.2. SO 1-2 – Trends in land productivity"
-msgstr ""
+msgstr "1.2. S$O$ 1-2 – T$r$e$n$d$s$ i$n$ l$a$n$d$ p$"
 
 #: ../../SO1.md:458
 msgid "1.2.1. Introduction"
-msgstr ""
+msgstr "1.2.1. I$n$t$r$o$d$u"
 
 #: ../../SO1.md:460
 msgid ""
@@ -1356,7 +1355,7 @@ msgid ""
 "productivity as an indicator of long-term variations in the health and "
 "productive capacity of the land. Land productivity reflects the net "
 "effects of changes in ecosystem functioning on plant and biomass growth."
-msgstr ""
+msgstr "L$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ i$s$ t$h$e$ b$i$o$l$o$g$i$c$a$l$ p$r$o$d$u$c$t$i$v$e$ c$a$p$a$c$i$t$y$ o$f$ t$h$e$ l$a$n$d$: t$h$e$ p$r$i$n$c$i$p$a$l$ s$o$u$r$c$e$ o$f$ t$h$e$ f$o$o$d$, f$i$b$e$r$ a$n$d$ f$u$e$l$ t$h$a$t$ s$u$s$t$a$i$n$s$ h$u$m$a$n$s$. T$h$e$ U$N$C$C$D$ m$e$t$h$o$d$o$l$o$g$y$ f$o$r$ e$s$t$i$m$a$t$i$n$g$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (i$.e$. S$D$G$ i$n$d$i$c$a$t$o$r$ 15.3.1) u$s$e$s$ c$h$a$n$g$e$s$ i$n$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ a$s$ a$"
 
 #: ../../SO1.md:463
 msgid ""
@@ -1364,7 +1363,7 @@ msgid ""
 "net primary productivity (NPP). Vegetation indices, such as the "
 "Normalized Difference Vegetation Index (NDVI) or the Enhanced Vegetation "
 "Index (EVI), are often used as proxies for NPP."
-msgstr ""
+msgstr "L$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ i$s$ c$a$l$c$u$l$a$t$e$d$ f$r$o$m$ E$a$r$t$h$ o$b$s$e$r$v$a$t$i$o$n$ d$a$t$a$ r$e$p$r$e$s$e$n$t$i$n$g$ n$e$t$ p$r$i$m$a$r$y$ p$r$o$d$u$c$t$i$v$i$t$y$ (N$P$P$). V$e$g$e$t$a$t$i$o$n$ i$n$d$i$c$e$s$, s$u$c$h$ a$s$ t$h$e$ N$o$r$m$a$l$i$z$e$d$ D$i$f$f$e"
 
 #: ../../SO1.md:465
 msgid ""
@@ -1373,7 +1372,7 @@ msgid ""
 "persistent land productivity trajectories within each land cover type, "
 "their changes at national-level and their significance in terms of land "
 "degradation."
-msgstr ""
+msgstr "T$h$e$ m$a$i$n$ o$u$t$p$u$t$ o$f$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ f$o$r$ i$n$d$i$c$a$t$o$r$ S$O$ 1-2 i$s$ a$ s$e$t$ o$f$ o$f$f$i$c$i$a$l$l$y$ v$e$r$i$f$i$e$d$ e$s$t$i$m$a$t$e$s$ o$f$ t$h$e$ e$x$t$e$n$t$ o$f$ f$i$v$e$ c$l$a$s$s$e$s$ o$f$ p$e$r$s$i$s$t$e$n$t$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ t$r$a$j$e$c$t$o$r$i$"
 
 #: ../../SO1.md:467
 msgid ""
@@ -1381,11 +1380,11 @@ msgid ""
 "derived from available global data sources, namely the Land Productivity "
 "Dynamics (LPD) dataset of the Joint Research Centre (JRC) of the European"
 " Commission."
-msgstr ""
+msgstr "N$a$t$i$o$n$a$l$ r$e$p$o$r$t$i$n$g$ i$s$ f$a$c$i$l$i$t$a$t$e$d$ t$h$o$u$g$h$ t$h$e$ p$r$o$v$i$s$i$o$n$ o$f$ d$e$f$a$u$l$t$ d$a$t$a$ d$e$r$i$v$e$d$ f$r$o$m$ a$v$a$i$l$a$b$l$e$ g$l$o$b$a$l$ d$a$t$a$ s$o$u$r$c$e$s$, n$a$m$e$l$y$ t$h$e$ L$a$n$d$ P$r$o$d$u"
 
 #: ../../SO1.md:469
 msgid "1.2.2. Prerequisites for reporting"
-msgstr ""
+msgstr "1.2.2. P$r$e$r$e$q$u$i$s$i$t$e$s$ f$o"
 
 #: ../../SO1.md:471
 msgid ""
@@ -1394,11 +1393,11 @@ msgid ""
 "guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) "
 "providing an overview on land productivity and detailing the methodology "
 "used to estimate land productivity changes;"
-msgstr ""
+msgstr "A$n$ i$n$-d$e$p$t$h$ r$e$a$d$i$n$g$ o$f$ c$h$a$p$t$e$r$ 4 o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$a$t$i$o$n$s$/g$o$o$d$-p$r$a$c$t$i$c$e$-g$u$i$d$a$n$c$e$-s$d$g$-i$n$d$i$c$a$t$o$r$-1531-p$r$o$p$o$r$t$i$o$n$-l$a$n$d$-d$e$g$r$a$d$e$d$-o$v$e$r$-t$o$t$a$l"
 
 #: ../../SO1.md:473
 msgid "Data complying with the specifications listed in table 11 below;"
-msgstr ""
+msgstr "D$a$t$a$ c$o$m$p$l$y$i$n$g$ w$i$t$h$ t$h$e$ s$p$e$c$i$f$i$c$a$t$i$o$n$"
 
 #: ../../SO1.md:475
 msgid ""
@@ -1410,38 +1409,38 @@ msgid ""
 "include a country’s national statistical office, ministry of environment,"
 " ministry of agriculture, remote-sensing centre as well as universities "
 "and research centres."
-msgstr ""
+msgstr "A$ p$o$o$l$ o$f$ n$a$t$i$o$n$a$l$ e$x$p$e$r$t$s$ o$f$f$i$c$i$a$l$l$y$ n$o$m$i$n$a$t$e$d$ b$y$ t$h$e$ n$a$t$i$o$n$a$l$ a$u$t$h$o$r$i$t$i$e$s$ t$o$ v$e$r$i$f$y$ t$h$e$ c$o$n$s$i$s$t$e$n$c$y$ o$f$ t$h$e$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$f$a$u$l$t$ d$a$t$a$ a$g$a$i$n$s$t$ t$h$e$ s$i$t$u$a$t$i$o$n$ i$n$ t$h$e$ f$i$e$l$d$, o$r$ t$o$ d$e$v$e$l$o$p$ a$n$d$ i$m$p$l$e$m$e$n$t$ a$ c$u$s$t$o$m$ m$e$t$h$o$d$o$l$o$g$y$ t$o$ e$s$t$i$m$a$t$e$ t$h$e$ t$h$r$e$e$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ m$e$t$r$i$c$s$ i$f$ n$a$t$i$o$n$a$l$ d$a$t$a$ a$r$e$ p$r$e$f$e$r$r$e$d$ t"
 
 #: ../../SO1.md:477
 msgid "1.2.3. Reporting process and step-by-step procedure"
-msgstr ""
+msgstr "1.2.3. R$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ a$n$d$ s$t$e$p$"
 
 #: ../../SO1.md:479
 msgid "Estimating land productivity degradation entails:"
-msgstr ""
+msgstr "E$s$t$i$m$a$t$i$n$g$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y"
 
 #: ../../SO1.md:481
 msgid ""
 "Producing a land productivity degradation map as a binary representation "
 "of degraded/not degraded land in the baseline period;"
-msgstr ""
+msgstr "P$r$o$d$u$c$i$n$g$ a$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i$o$n$ m$a$p$ a$s$ a$ b$i$n$a$r$y$ r$e$p$r$e$s$e$n$t$a$t$i$o$n$ o$"
 
 #: ../../SO1.md:483
 msgid ""
 "Mapping land productivity dynamics in the reporting period, indicating "
 "areas that have degraded, improved or remained stable compared to the "
 "baseline."
-msgstr ""
+msgstr "M$a$p$p$i$n$g$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$y$n$a$m$i$c$s$ i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$, i$n$d$i$c$a$t$i$n$g$ a$r$e$a$s$ t$h$a$t$ h$a$v$e$ d$e$"
 
 #: ../../SO1.md:485
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If the default data is used, steps 2 to 6 are unnecessary."
-msgstr ""
+msgstr "T$h$e$ s$t$e$p$-b$y$-s$t$e$p$ p$r$o$c$e$d$u$r$e$ f$o$r$ r$e$p$o$r$t$i$n$g$ i$s$ d$e$s$c$r$i$b$e$d$ i$n$ t$h$e$ f$o$l$l$o$w$i$n$g$. I$f$ t$h$e$ "
 
 #: ../../SO1.md:487
 msgid "Step 1: Select Earth observation dataset"
-msgstr ""
+msgstr "S$t$e$p$ 1: S$e$l$e$c$t$ E$a$r$t$h$ o$b$s$e$"
 
 #: ../../SO1.md:489
 msgid ""
@@ -1450,7 +1449,7 @@ msgid ""
 "to 2019. This dataset has a spatial resolution of 1 kilometre, and it is "
 "derived from algorithms that combine NDVI time series data from various "
 "satellite sensors."
-msgstr ""
+msgstr "U$N$C$C$D$ p$r$o$v$i$d$e$s$ d$e$f$a$u$l$t$ d$a$t$a$ f$r$o$m$ t$h$e$ L$P$D$ d$a$t$a$s$e$t$ o$f$ t$h$e$ J$R$C$. T$h$e$ L$P$D$ d$a$t$a$s$e$t$ r$e$p$r$e$s$e$n$t$s$ f$i$v$e$ c$l$a$s$s$e$s$ o$f$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$y$n$a$m$i$c$s$ f$r$o$m$ 2000 t$o$ 2019. T$h$i$s$ d$a$t$a$s$e$t$ h$a$s$ a$ s$p$a$t$i$a$l$ r$e$s$o$l$u$t$i$o$n$"
 
 #: ../../SO1.md:491
 msgid ""
@@ -1458,17 +1457,17 @@ msgid ""
 "from the Moderate Resolution Imaging Spectrometer (MODIS) data, which "
 "integrates NDVI observations at 250 metre (m) pixel resolution over "
 "16-day periods between 18 February 2000 to now."
-msgstr ""
+msgstr "A$n$ a$l$t$e$r$n$a$t$i$v$e$ g$l$o$b$a$l$ d$a$t$a$s$e$t$ i$s$ T$r$e$n$d$s$.E$a$r$t$h$ L$a$n$d$ P$r$o$d$u$c$t$i$v$i$t$y$, d$e$r$i$v$e$d$ f$r$o$m$ t$h$e$ M$o$d$e$r$a$t$e$ R$e$s$o$l$u$t$i$o$n$ I$m$a$g$i$n$g$ S$p$e$c$t$r$o$m$e$t$e$r$ (M$O$D$I$S$) d$a$t$a$, w$h$i$c$h$ i$n$t$e$g$r$a$t$e$s$"
 
 #: ../../SO1.md:493
 msgid "Both datasets are available in Trends.Earth."
-msgstr ""
+msgstr "B$o$t$h$ d$a$t$a$s$e$t$s$ a$r$e$ a$v$a$i$l$a$b$l"
 
 #: ../../SO1.md:495
 msgid ""
 "Parties may evaluate and use these or other datasets, provided they meet "
 "the specifications listed in table 11 below."
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ m$a$y$ e$v$a$l$u$a$t$e$ a$n$d$ u$s$e$ t$h$e$s$e$ o$r$ o$t$h$e$r$ d$a$t$a$s$e$t$s$, p$r$o$v$i$d$e$d$ t$h$e$y$ m$e$"
 
 #: ../../SO1.md:497
 msgid ""
@@ -1477,34 +1476,34 @@ msgid ""
 "red and one near infrared band with which to calculate the vegetation "
 "index. Depending on the vegetation index chosen, other spectral bands may"
 " also be needed."
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ m$a$y$ a$l$s$o$ g$e$n$e$r$a$t$e$ t$h$e$i$r$ o$w$n$ v$e$g$e$t$a$t$i$o$n$ i$n$d$e$x$ t$i$m$e$ s$e$r$i$e$s$ d$i$r$e$c$t$l$y$ f$r$o$m$ t$h$e$ s$a$t$e$l$l$i$t$e$ i$m$a$g$e$r$y$ a$s$s$u$m$i$n$g$ t$h$a$t$ t$h$o$s$e$ i$m$a$g$e$s$ h$a$v$e$ a$t$ l$e$a$s$t$ o$n$e$ r$e$d$ a$n$d$ o$n$e$ n$e$a$r$ i$n$f$r$a$r$e$d$ b$a$n$d$ w$i$t$h$ w"
 
 #: ../../SO1.md:502
 msgid "*__Table 11__. Data specifications for SO 1-2 indicator*"
-msgstr ""
+msgstr "*__T$a$b$l$e$ 11__. D$a$t$a$ s$p$e$c$i$f$i$c$a$t$i$o$n$s$ f$o"
 
 #: ../../SO1.md:3
 msgid ""
 "Default data (Land Productivity Dynamics (LPD) dataset produced by the "
 "Joint Research Centre (JRC) of the European Commission)"
-msgstr ""
+msgstr "D$e$f$a$u$l$t$ d$a$t$a$ (L$a$n$d$ P$r$o$d$u$c$t$i$v$i$t$y$ D$y$n$a$m$i$c$s$ (L$P$D$) d$a$t$a$s$e$t$ p$r$o$d$u$c$e$d$ b$y$ t$h$e$ J$o$i$n$t"
 
 #: ../../SO1.md:5
 msgid "__Input data__"
-msgstr ""
+msgstr "__I$n$p$u$t$ d$"
 
 #: ../../SO1.md:7
 msgid ""
 "(Data needed to generate land productivity estimates based on the three "
 "metrics described in Steps 2 and 3)"
-msgstr ""
+msgstr "(D$a$t$a$ n$e$e$d$e$d$ t$o$ g$e$n$e$r$a$t$e$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ e$s$t$i$m$a$t$e$s$ b$a$s$e$d$ o$n$ t$h"
 
 #: ../../SO1.md:8
 msgid ""
 "Time series of daily SPOT VGT Normalized Difference Vegetation Index "
 "(NDVI) satellite images composited for observation every 10 days (needed "
 "to generate the LPD-JRC data)"
-msgstr ""
+msgstr "T$i$m$e$ s$e$r$i$e$s$ o$f$ d$a$i$l$y$ S$P$O$T$ V$G$T$ N$o$r$m$a$l$i$z$e$d$ D$i$f$f$e$r$e$n$c$e$ V$e$g$e$t$a$t$i$o$n$ I$n$d$e$x$ (N$D$V$I$) s$a$t$e$l$l$i$t$e$ i$m$a$g$e$s$ c$o$m$p$o$s$i$t$e"
 
 #: ../../SO1.md:10
 msgid ""
@@ -1512,102 +1511,102 @@ msgid ""
 " with at least  one red and one near infrared spectral band, e.g. "
 "Trends.Earth Land Productivity (250m);  Sentinel 3 (300m); or Sentinel 2 "
 "(10m, 20m and 60m)."
-msgstr ""
+msgstr "T$i$m$e$ s$e$r$i$e$s$ o$f$ a$p$p$r$o$p$r$i$a$t$e$ v$e$g$e$t$a$t$i$o$n$ i$n$d$e$x$ d$e$r$i$v$e$d$ f$r$o$m$ s$a$t$e$l$l$i$t$e$ i$m$a$g$e$s$ w$i$t$h$ a$t$ l$e$a$s$t$  o$n$e$ r$e$d$ a$n$d$ o$n$e$ n$e$a$r$ i$n$f$r$a$r$e$d$ s$p$e$c$t$r$a$l$ b$a$n$d$, e$.g$. T$"
 
 #: ../../SO1.md:13
 msgid "__Output data__"
-msgstr ""
+msgstr "__O$u$t$p$u$t$ d"
 
 #: ../../SO1.md:15
 msgid ""
 "(Gridded products resulting from the analysis and combination of the "
 "three metrics described in Step 3)"
-msgstr ""
+msgstr "(G$r$i$d$d$e$d$ p$r$o$d$u$c$t$s$ r$e$s$u$l$t$i$n$g$ f$r$o$m$ t$h$e$ a$n$a$l$y$s$i$s$ a$n$d$ c$o$m$b$i$n$a$t$i$o$n"
 
 #: ../../SO1.md:16 ../../SO1.md:17
 msgid ""
 "Five classes of persistent land productivity trajectories and land "
 "productivity degradation gridded data for the baseline period (2000–2015)"
 " and the reporting period (2004–2019)**\\***"
-msgstr ""
+msgstr "F$i$v$e$ c$l$a$s$s$e$s$ o$f$ p$e$r$s$i$s$t$e$n$t$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ t$r$a$j$e$c$t$o$r$i$e$s$ a$n$d$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i$o$n$ g$r$i$d$d$e$d$ d$a$t$a$ f$o$"
 
 #: ../../SO1.md:18
 msgid "__Classification__"
-msgstr ""
+msgstr "__C$l$a$s$s$i$f$i$c"
 
 #: ../../SO1.md:19
 msgid ""
 "Five classes of persistent land productivity trajectories and one class "
 "for areas without valid land productivity data:"
-msgstr ""
+msgstr "F$i$v$e$ c$l$a$s$s$e$s$ o$f$ p$e$r$s$i$s$t$e$n$t$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ t$r$a$j$e$c$t$o$r$i$e$s$ a$n$d$ o$n$e$ c$l$a$s"
 
 #: ../../SO1.md:21 ../../SO1.md:30
 msgid "Declining"
-msgstr ""
+msgstr "D$e$c$l$i"
 
 #: ../../SO1.md:22 ../../SO1.md:31 ../../SO1.md:48 ../../SO1.md:78
 msgid "Moderate decline"
-msgstr ""
+msgstr "M$o$d$e$r$a$t$e$ "
 
 #: ../../SO1.md:23 ../../SO1.md:32 ../../SO1.md:72
 msgid "Stressed"
-msgstr ""
+msgstr "S$t$r$e$"
 
 #: ../../SO1.md:25 ../../SO1.md:34
 msgid "Increasing"
-msgstr ""
+msgstr "I$n$c$r$e$a"
 
 #: ../../SO1.md:26 ../../SO1.md:35
 msgid "No data"
-msgstr ""
+msgstr "N$o$ d$"
 
 #: ../../SO1.md:28
 msgid "Six classes compatible with those used by the LPD-JRC:"
-msgstr ""
+msgstr "S$i$x$ c$l$a$s$s$e$s$ c$o$m$p$a$t$i$b$l$e$ w$i$t$h$ t$h$o$s"
 
 #: ../../SO1.md:37
 msgid "__Spatial resolution__"
-msgstr ""
+msgstr "__S$p$a$t$i$a$l$ r$e$s$o"
 
 #: ../../SO1.md:38
 msgid "1 km"
-msgstr ""
+msgstr "1 k$"
 
 #: ../../SO1.md:39
 msgid ""
 "The Trends.Earth Land Productivity data at 250m spatial resolution is "
 "recommended if data at a finer resolution is not available."
-msgstr ""
+msgstr "T$h$e$ T$r$e$n$d$s$.E$a$r$t$h$ L$a$n$d$ P$r$o$d$u$c$t$i$v$i$t$y$ d$a$t$a$ a$t$ 250m$ s$p$a$t$i$a$l$ r$e$s$o$l$u$t$i$o$n$ i$s$ r$e$c$o$m$m$e$n"
 
 #: ../../SO1.md:40
 msgid "__Quality__"
-msgstr ""
+msgstr "__Q$u$a$l$i$"
 
 #: ../../SO1.md:41
 msgid ""
 "Specified in the metadata of the dataset. Overall, the assessed accuracy "
 "of the dataset is >80%."
-msgstr ""
+msgstr "S$p$e$c$i$f$i$e$d$ i$n$ t$h$e$ m$e$t$a$d$a$t$a$ o$f$ t$h$e$ d$a$t$a$s$e$t$. O$v$e$r$a$l$l$, t$h$e$ a$s$s$"
 
 #: ../../SO1.md:42
 msgid ""
 "To conform with the data quality of the default dataset, it is "
 "recommended to ensure an overall mapping accuracy of at least 80%."
-msgstr ""
+msgstr "T$o$ c$o$n$f$o$r$m$ w$i$t$h$ t$h$e$ d$a$t$a$ q$u$a$l$i$t$y$ o$f$ t$h$e$ d$e$f$a$u$l$t$ d$a$t$a$s$e$t$, i$t$ i$s$ r$e$c$o$m$m$e$n$d$e$d$ t$o$ "
 
 #: ../../SO1.md:43
 msgid "__Metadata__"
-msgstr ""
+msgstr "__M$e$t$a$d$a"
 
 #: ../../SO1.md:44
 msgid "Metadata information is automatically generated with the default data."
-msgstr ""
+msgstr "M$e$t$a$d$a$t$a$ i$n$f$o$r$m$a$t$i$o$n$ i$s$ a$u$t$o$m$a$t$i$c$a$l$l$y$ g$e$n"
 
 #: ../../SO1.md:28 ../../SO1.md:45
 msgid ""
 "Minimum metadata content as per the mandatory fields are listed in Annex "
 "II."
-msgstr ""
+msgstr "M$i$n$i$m$u$m$ m$e$t$a$d$a$t$a$ c$o$n$t$e$n$t$ a$s$ p$e$r$ t$h$e$ m$a$n$d$a$t$o$r$y"
 
 #: ../../SO1.md:554
 msgid ""
@@ -1617,11 +1616,11 @@ msgid ""
 "productivity Trend is assessed over a period of 16 years for both the "
 "baseline and reporting periods. This provides a more consistent basis for"
 " the assessment of changes in the productivity Trend._"
-msgstr ""
+msgstr "**\\***_V$e$r$s$i$o$n$ 2 o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$a$t$i$o$n$s$/g$o$o$d$-p$r$a$c$t$i$c$e$-g$u$i$d$a$n$c$e$-s$d$g$-i$n$d$i$c$a$t$o$r$-1531-p$r$o$p$o$r$t$i$o$n$-l$a$n$d$-d$e$g$r$a$d$e$d$-o$v$e$r$-t$o$t$a$l$-l$a$n$d$) r$e$c$o$m$m$e$n$d$s$ t$h$a$t$ p$r$o$d$u$c$t$i$v$i$t$y$ T$r$e$n$d$ i$s$ a$s$s$e$s$s$e$d$ o$v$e$r$ a$ p$e$r$i$o$d"
 
 #: ../../SO1.md:556
 msgid "Step 2:  Select a productivity index"
-msgstr ""
+msgstr "S$t$e$p$ 2:  S$e$l$e$c$t$ a$ p$r$o$d$u$"
 
 #: ../../SO1.md:558
 msgid ""
@@ -1633,7 +1632,7 @@ msgid ""
 "to saturate at high vegetation cover and biomass levels. This can reduce "
 "the accuracy of NPP, biomass and green cover models in tropical "
 "rainforest or arid regions."
-msgstr ""
+msgstr "T$h$e$ N$D$V$I$ i$s$ r$e$c$o$m$m$e$n$d$e$d$ a$s$ t$h$e$ d$e$f$a$u$l$t$ i$n$d$e$x$ f$o$r$ c$o$u$n$t$r$i$e$s$ t$o$ u$s$e$ i$n$ t$h$e$ a$b$s$e$n$c$e$ o$f$ e$v$i$d$e$n$c$e$ t$o$ i$n$d$i$c$a$t$e$ t$h$a$t$ a$n$ a$l$t$e$r$n$a$t$i$v$e$ i$n$d$e$x$ i$s$ b$e$t$t$e$r$ s$u$i$t$e$d$ t$o$ t$h$e$i$r$ l$a$n$d$s$c$a$p$e$. A$l$t$h$o$u$g$h$ N$D$V$I$ i$s$ t$h$e$ m$o$s$t$ w$i$d$e$l$y$ u$s$e$d$ a$n$d$ w$e$l$l$-k$n$o$w$n$ v$e$g$e$t$a$t$i$o$n$ i$n$d$e$x$, i$t$s$ m$a$i$n$ l$i$m$i$t$a$t$i$o$n$s$ a$r$e$ t$h$a$t$ i$t$ c$a$n$ b$e$ s$e$n$s$i$t$i$v$e$ t$o$ v$a$r$i$a$t$i$o$n$s$ i$n$ s$o$i$l$ "
 
 #: ../../SO1.md:560
 msgid ""
@@ -1645,11 +1644,11 @@ msgid ""
 "regional- and national-level land productivity calculation, considering "
 "that extensive research has demonstrated the strong relationship between "
 "NDVI and primary productivity."
-msgstr ""
+msgstr "O$t$h$e$r$ i$n$d$i$c$e$s$, s$u$c$h$ a$s$ t$h$e$ E$V$I$, m$a$y$ a$l$s$o$ b$e$ s$u$i$t$a$b$l$e$. A$l$t$h$o$u$g$h$ s$o$m$e$ o$f$ t$h$e$s$e$ i$n$d$i$c$e$s$ m$a$y$ p$e$r$f$o$r$m$ b$e$t$t$e$r$ t$h$a$n$ N$D$V$I$ u$n$d$e$r$ s$o$m$e$ s$p$e$c$i$f$i$c$ v$e$g$e$t$a$t$i$o$n$ c$o$n$d$i$t$i$o$n$s$, t$h$e$y$ m$a$y$ r$e$q$u$i$r$e$ a$d$d$i$t$i$o$n$a$l$ a$d$j$u$s$t$m$e$n$t$ w$h$e$n$ a$p$p$l$i$e$d$ t$o$ v$a$s$t$ a$r$e$a$s$ a$n$d$ d$i$f$f$e$r$e$n$t$ l$a$n$d$ c$o$v$e$r$ t$y$p$e$s$. C$o$n$s$e$q$u$e$n$t$l$y$, d$e$s$p$i$t$e$ i$t$s$ l$i$m$i$t$a$t$i$o$n$s$, N$D$V$I$ i$s$ c$u$r$r$e$n$t$l$y$ c$o$n"
 
 #: ../../SO1.md:562
 msgid "Step 3: Estimate annual productivity"
-msgstr ""
+msgstr "S$t$e$p$ 3: E$s$t$i$m$a$t$e$ a$n$n$u$a$"
 
 #: ../../SO1.md:564
 msgid ""
@@ -1661,7 +1660,7 @@ msgid ""
 "the growing season of the selected productivity index. Areas with "
 "increasing NPP should be interpreted as improving, unless assessed "
 "otherwise at country level."
-msgstr ""
+msgstr "T$h$e$ e$s$t$i$m$a$t$i$o$n$ o$f$ a$n$n$u$a$l$ p$r$o$d$u$c$t$i$v$i$t$y$ s$h$o$u$l$d$ t$a$k$e$ i$n$t$o$ c$o$n$s$i$d$e$r$a$t$i$o$n$ t$h$a$t$, d$u$e$ t$o$ t$h$e$ n$a$t$u$r$a$l$ c$y$c$l$e$s$ o$f$ g$r$o$w$t$h$ a$n$d$ s$e$n$e$s$c$e$n$c$e$ o$f$ v$e$g$e$t$a$t$i$o$n$, N$P$P$ i$s$ b$e$s$t$ r$e$p$r$e$s$e$n$t$e$d$ b$y$ a$ t$i$m$e$ s$e$r$i$e$s$ o$f$ o$b$s$e$r$v$a$t$i$o$n$s$ c$a$p$t$u$r$e$d$ d$u$r$i$n$g$ t$h$e$ f$u$l$l$ g$r$o$w$i$n$g$ s$e$a$s$o$n$. T$h$e$r$e$f$o$r$e$, f$o$r$ e$a$c$h$ p$i$x$e$l$ l$o$c$a$t$i$o$n$, t$h$e$ a$n$n$u$a$l$ p$r$o$d$u$c$t$i$v$i$t$y$ w$i$l$l$ b$e$ t$h$e$ i"
 
 #: ../../SO1.md:566
 msgid ""
@@ -1670,36 +1669,36 @@ msgid ""
 "Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications"
 "/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-"
 "total-land)."
-msgstr ""
+msgstr "F$u$r$t$h$e$r$ i$n$d$i$c$a$t$i$o$n$s$ o$n$ o$p$t$i$o$n$s$ t$o$ e$s$t$i$m$a$t$e$ t$h$e$ s$t$a$r$t$ a$n$d$ l$e$n$g$t$h$ o$f$ t$h$e$ g$r$o$w$i$n$g$ s$e$a$s$o$n$ a$r$e$ g$i$v$e$n$ i$n$ s$e$c$t$i$o$n$ 4.2.4.1 o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$"
 
 #: ../../SO1.md:568
 msgid "Step 4: Calculate land productivity metrics"
-msgstr ""
+msgstr "S$t$e$p$ 4: C$a$l$c$u$l$a$t$e$ l$a$n$d$ p$r$o$d"
 
 #: ../../SO1.md:570
 msgid ""
 "Estimating changes in productivity over time is based on the multi-"
 "temporal analysis of the annual productivity using three metrics:"
-msgstr ""
+msgstr "E$s$t$i$m$a$t$i$n$g$ c$h$a$n$g$e$s$ i$n$ p$r$o$d$u$c$t$i$v$i$t$y$ o$v$e$r$ t$i$m$e$ i$s$ b$a$s$e$d$ o$n$ t$h$e$ m$u$l$t$i$-t$e$m$p$o$r$a$l$ a$n$a"
 
 #: ../../SO1.md:572
 msgid ""
 "**Trend**: measures the trajectory of change in annual productivity over "
 "the long term per pixel;"
-msgstr ""
+msgstr "**T$r$e$n$d$**: m$e$a$s$u$r$e$s$ t$h$e$ t$r$a$j$e$c$t$o$r$y$ o$f$ c$h$a$n$g$e$ i$n$ a$n$n$u$a$l$ p$r$o$d$u"
 
 #: ../../SO1.md:574
 msgid ""
 "**State**: compares the current to historical annual productivity per "
 "pixel;"
-msgstr ""
+msgstr "**S$t$a$t$e$**: c$o$m$p$a$r$e$s$ t$h$e$ c$u$r$r$e$n$t$ t$o$ h$i$s$t$o$r$i$c$a$l$ a$"
 
 #: ../../SO1.md:576
 msgid ""
 "**Performance**: indicates the level of local annual productivity over an"
 " area compared with other areas with a similar land productivity "
 "potential."
-msgstr ""
+msgstr "**P$e$r$f$o$r$m$a$n$c$e$**: i$n$d$i$c$a$t$e$s$ t$h$e$ l$e$v$e$l$ o$f$ l$o$c$a$l$ a$n$n$u$a$l$ p$r$o$d$u$c$t$i$v$i$t$y$ o$v$e$r$ a$n$ a$r$e$a$ c$o$m$p$a$r$e$d$ w$i"
 
 #: ../../SO1.md:578
 msgid ""
@@ -1709,11 +1708,11 @@ msgid ""
 "below). They are also used to determine whether a pixel is degraded or "
 "not degraded in the baseline period and whether a pixel is degrading, "
 "improving or stable in the reporting period (see Step 5)."
-msgstr ""
+msgstr "T$h$e$ c$h$a$n$g$e$s$ o$b$s$e$r$v$e$d$ i$n$ e$a$c$h$ o$f$ t$h$e$ t$h$r$e$e$ m$e$t$r$i$c$s$ a$r$e$ c$o$m$b$i$n$e$d$ t$o$ d$e$t$e$r$m$i$n$e$ p$e$r$s$i$s$t$e$n$t$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ t$r$a$j$e$c$t$o$r$i$e$s$ r$e$p$r$e$s$e$n$t$e$d$ i$n$ f$i$v$e$ c$l$a$s$s$e$s$ c$o$m$p$a$r$a$b$l$e$ w$i$t$h$ t$h$e$ d$e$f$a$u$l$t$ d$a$t$a$s$e$t$ p$r$o$v$i$d$e$d$ b$y$ J$R$C$ (s$e$e$ t$a$b$l$e$ 3 b$e$l$o$w$). T$h$e$y$ a$r$e$ a$l$s$o$ u$s$e$d$ t$o$ d$e$t$e$r"
 
 #: ../../SO1.md:580
 msgid "Productivity Trend"
-msgstr ""
+msgstr "P$r$o$d$u$c$t$i$v$i"
 
 #: ../../SO1.md:582
 msgid ""
@@ -1723,7 +1722,7 @@ msgid ""
 "for both the baseline (2000–2015) and the reporting period (i.e. a "
 "16-year period ending in the last year of data being reported (i.e. "
 "2004–2019)."
-msgstr ""
+msgstr "T$o$ c$a$l$c$u$l$a$t$e$ t$h$e$ p$r$o$d$u$c$t$i$v$i$t$y$ T$r$e$n$d$, P$a$r$t$i$e$s$ s$h$o$u$l$d$ d$e$t$e$r$m$i$n$e$ t$h$e$ t$r$a$j$e$c$t$o$r$y$ o$f$ c$h$a$n$g$e$ i$n$ p$r$o$d$u$c$t$i$v$i$t$y$ o$v$e$r$ a$ 16-y$e$a$r$ t$i$m$e$ i$n$t$e$r$v$a$l$ o$n$ a$ p$i$x$e$l$ l$e$v$e$l$. T$h$e$ T$r$e$n$d$ m$e$t$r$i$c$ i$s$ c$a$l$c$u$l$a$t$e$d$ o$v$e$r$ a$n$ i$n$t$e$r$v$a$l$ o$f$ 16 y$e$a$r$s$ f$o$r$ b$o$t"
 
 #: ../../SO1.md:584
 msgid ""
@@ -1733,46 +1732,46 @@ msgid ""
 " productivity, while negative scores indicate decreasing productivity. "
 "Z-scores reflect the magnitude of the slope, with scores of higher "
 "magnitude indicating greater strength of the ongoing process."
-msgstr ""
+msgstr "T$h$e$ T$r$e$n$d$ m$e$t$r$i$c$ i$s$ c$a$l$c$u$l$a$t$e$d$ b$y$ f$i$t$t$i$n$g$ a$ l$i$n$e$a$r$ r$e$g$r$e$s$s$i$o$n$ m$o$d$e$l$ t$o$ t$h$e$ t$i$m$e$ s$e$r$i$e$s$ a$n$d$ d$e$t$e$r$m$i$n$i$n$g$ t$h$e$ s$i$g$n$i$f$i$c$a$n$c$e$ o$f$ t$h$e$ t$r$e$n$d$ s$l$o$p$e$ b$y$ c$a$l$c$u$l$a$t$i$n$g$ i$t$s$ z$-s$c$o$r$e$. P$o$s$i$t$i$v$e$ z$-s$c$o$r$e$s$ i$n$d$i$c$a$t$e$ a$ t$r$e$n$d$ o$f$ i$n$c$r$e$a$s$i$n$g$ p$r$o$d$u$c$t$i$v$i$t$y$, w$h$i$l$e$ n$e$g$a$t$i$v$e$ s$c$o$"
 
 #: ../../SO1.md:586
 msgid "Box 1. What is a z-score"
-msgstr ""
+msgstr "B$o$x$ 1. W$h$a$t$ i$s$ a$"
 
 #: ../../SO1.md:1
 msgid ""
 "A z-score measures how many standard deviations above or below the mean a"
 " data point is. The formula for calculating a z-score is reported below, "
 "where ‘z’ is the z-score:"
-msgstr ""
+msgstr "A$ z$-s$c$o$r$e$ m$e$a$s$u$r$e$s$ h$o$w$ m$a$n$y$ s$t$a$n$d$a$r$d$ d$e$v$i$a$t$i$o$n$s$ a$b$o$v$e$ o$r$ b$e$l$o$w$ t$h$e$ m$e$a$n$ a$ d$a$t$a$ p$o$i$n$t$ i$s$. T$h$e$ f$o$r$m$u$l$a$ f$o$r$"
 
 #: ../../SO1.md:1
 msgid "$z = \\frac{data\\ point – mean}{standard\\ deviation}$"
-msgstr ""
+msgstr "$z$ = \\f$r$a$c${d$a$t$a$\\ p$o$i$n$t$ – m$e$a$n$}{s$t$a$n$"
 
 #: ../../SO1.md:7
 msgid "&nbsp;"
-msgstr ""
+msgstr "&n$b$s"
 
 #: ../../SO1.md:9
 msgid "Important facts about z-scores:"
-msgstr ""
+msgstr "I$m$p$o$r$t$a$n$t$ f$a$c$t$s$ a$b$"
 
 #: ../../SO1.md:10
 msgid "A positive z-score indicates that the data point is above average."
-msgstr ""
+msgstr "A$ p$o$s$i$t$i$v$e$ z$-s$c$o$r$e$ i$n$d$i$c$a$t$e$s$ t$h$a$t$ t$h$e$ d$a"
 
 #: ../../SO1.md:11
 msgid "A negative z-score indicates that the data point is below average."
-msgstr ""
+msgstr "A$ n$e$g$a$t$i$v$e$ z$-s$c$o$r$e$ i$n$d$i$c$a$t$e$s$ t$h$a$t$ t$h$e$ d$a"
 
 #: ../../SO1.md:12
 msgid "A z-score close to 0 indicates that the data point is close to average."
-msgstr ""
+msgstr "A$ z$-s$c$o$r$e$ c$l$o$s$e$ t$o$ 0 i$n$d$i$c$a$t$e$s$ t$h$a$t$ t$h$e$ d$a$t$a$"
 
 #: ../../SO1.md:13
 msgid "A data point can be considered unusual if its z-score is above or below 3."
-msgstr ""
+msgstr "A$ d$a$t$a$ p$o$i$n$t$ c$a$n$ b$e$ c$o$n$s$i$d$e$r$e$d$ u$n$u$s$u$a$l$ i$f$ i$t$s"
 
 #: ../../SO1.md:606
 msgid ""
@@ -1780,55 +1779,55 @@ msgid ""
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land), z-score "
 "intervals may be set as follows:"
-msgstr ""
+msgstr "A$s$ r$e$c$o$m$m$e$n$d$e$d$ i$n$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$a$t$i$o$n$s$/g$o$o$d$-p$r$a$c$t$i$c$e$-g$u$i$d$a$n$c$e$-s$d$g$-i$n$d$i$c$a$t$o$r"
 
 #: ../../SO1.md:608
 msgid "z-score < –1.96 = degrading"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ < –1.96 = d$e$g"
 
 #: ../../SO1.md:609
 msgid "z-score < –1.28 AND ≥ –1.96 = potentially degrading"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ < –1.28 A$N$D$ ≥ –1.96 = p$o$t$e$n$t$i$a$l"
 
 #: ../../SO1.md:610 ../../SO1.md:648
 msgid "z-score ≥ –1.28 AND ≤ 1.28 = no significant change"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ ≥ –1.28 A$N$D$ ≤ 1.28 = n$o$ s$i$g$n$i$f$"
 
 #: ../../SO1.md:611 ../../SO1.md:649
 msgid "z-score > 1.28 AND ≤ 1.96 = potentially improving"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ > 1.28 A$N$D$ ≤ 1.96 = p$o$t$e$n$t$i$a$"
 
 #: ../../SO1.md:612 ../../SO1.md:650
 msgid "z-score > 1.96 = improving"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ > 1.96 = i$m$p"
 
 #: ../../SO1.md:614
 msgid ""
 "However, for the purposes of UNCCD reporting, the five classes above are "
 "simplified into the following three classes:"
-msgstr ""
+msgstr "H$o$w$e$v$e$r$, f$o$r$ t$h$e$ p$u$r$p$o$s$e$s$ o$f$ U$N$C$C$D$ r$e$p$o$r$t$i$n$g$, t$h$e$ f$i$v$e$ c$l$a$s$s$e$s$ a$b$o$v$e$ a$r"
 
 #: ../../SO1.md:616 ../../SO1.md:654
 msgid "z-score < –1.28 = degrading"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ < –1.28 = d$e$g"
 
 #: ../../SO1.md:617 ../../SO1.md:655
 msgid "z-score < –1.28 AND ≥ –1.28 = stable"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ < –1.28 A$N$D$ ≥ –1.28 = "
 
 #: ../../SO1.md:618 ../../SO1.md:656
 msgid "z-score > 1.28 = improving"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ > 1.28 = i$m$p"
 
 #: ../../SO1.md:620
 msgid ""
 "The pixels with the lowest negative z-score level (< –1.28) are "
 "considered degraded and other areas are considered not degraded."
-msgstr ""
+msgstr "T$h$e$ p$i$x$e$l$s$ w$i$t$h$ t$h$e$ l$o$w$e$s$t$ n$e$g$a$t$i$v$e$ z$-s$c$o$r$e$ l$e$v$e$l$ (< –1.28) a$r$e$ c$o$n$s$i$d$e$r$e$d$ d$e$g$r$a$d"
 
 #: ../../SO1.md:622
 msgid "Productivity State"
-msgstr ""
+msgstr "P$r$o$d$u$c$t$i$v$i"
 
 #: ../../SO1.md:624
 msgid ""
@@ -1838,69 +1837,69 @@ msgid ""
 "values for the years 2013–2015 with the years 2000–2012 for the baseline,"
 " and the 3 most recent years with the preceding 13 years for the "
 "reporting period."
-msgstr ""
+msgstr "P$r$o$d$u$c$t$i$v$i$t$y$ S$t$a$t$e$ i$s$ d$e$t$e$r$m$i$n$e$d$ b$y$ c$o$m$p$a$r$i$n$g$ t$h$e$ m$e$a$n$ a$n$n$u$a$l$ N$P$P$ o$f$ t$h$e$ t$h$r$e$e$ m$o$s$t$ r$e$c$e$n$t$ y$e$a$r$s$ t$o$ t$h$e$ d$i$s$t$r$i$b$u$t$i$o$n$ o$f$ a$n$n$u$a$l$ N$P$P$ v$a$l$u$e$s$ o$b$s$e$r$v$e$d$ i$n$ t$h$e$ p$r$e$c$e$d$i$n$g$ 13 y$e$a$r$s$. M$o$r$e$ s$p$e$c$i$f$i$c$a$l$l$y$, t$h$i$s$ e$n$t$a$i$l$s$ c$o$m$p$a$r$i$n$g$ v$a$l$u$e$s$ f"
 
 #: ../../SO1.md:626
 msgid "Parties should make the following calculations:"
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ s$h$o$u$l$d$ m$a$k$e$ t$h$e$ f$o$l$l"
 
 #: ../../SO1.md:1
 msgid "Baseline</td>"
-msgstr ""
+msgstr "B$a$s$e$l$i$n$"
 
 #: ../../SO1.md:2
 msgid "Reporting period</td>"
-msgstr ""
+msgstr "R$e$p$o$r$t$i$n$g$ p$e$"
 
 #: ../../SO1.md:3
 msgid "A = Mean annual NPP 2013–2015</td>"
-msgstr ""
+msgstr "A$ = M$e$a$n$ a$n$n$u$a$l$ N$P$P$ 201"
 
 #: ../../SO1.md:4
 msgid "A = Mean annual NPP of the 3 most recent years</td>"
-msgstr ""
+msgstr "A$ = M$e$a$n$ a$n$n$u$a$l$ N$P$P$ o$f$ t$h$e$ 3 m$o$s$t$"
 
 #: ../../SO1.md:5
 msgid "B = Mean annual NPP 2000–2012</td>"
-msgstr ""
+msgstr "B$ = M$e$a$n$ a$n$n$u$a$l$ N$P$P$ 200"
 
 #: ../../SO1.md:6
 msgid "B = Mean annual NPP of the 13 preceding years</td>"
-msgstr ""
+msgstr "B$ = M$e$a$n$ a$n$n$u$a$l$ N$P$P$ o$f$ t$h$e$ 13 p$r$e$"
 
 #: ../../SO1.md:7
 msgid "C = Standard deviation 2000–2012</td>"
-msgstr ""
+msgstr "C$ = S$t$a$n$d$a$r$d$ d$e$v$i$a$t$i$o$n$"
 
 #: ../../SO1.md:8
 msgid "C = Standard deviation of the 13 preceding years</td>"
-msgstr ""
+msgstr "C$ = S$t$a$n$d$a$r$d$ d$e$v$i$a$t$i$o$n$ o$f$ t$h$e$ 13 p$"
 
 #: ../../SO1.md:9
 msgid "z-score = (A – B) / C </td>"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ = (A$ – B$) / C"
 
 #: ../../SO1.md:10
 msgid "z-score = (A – B) / C</td>"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ = (A$ – B$) / "
 
 #: ../../SO1.md:644
 msgid "Class definitions for the Z scores are as follows:"
-msgstr ""
+msgstr "C$l$a$s$s$ d$e$f$i$n$i$t$i$o$n$s$ f$o$r$ t$h$e$ Z$ s$c$"
 
 #: ../../SO1.md:646
 msgid "z-score < –1.96 = degraded"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ < –1.96 = d$e$"
 
 #: ../../SO1.md:647
 msgid "z-score < –1.28 AND ≥ –1.96 = at risk of degrading"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ < –1.28 A$N$D$ ≥ –1.96 = a$t$ r$i$s$k$ o$"
 
 #: ../../SO1.md:652
 msgid ""
 "Similar to the productivity Trend, the above-mentioned five classes are "
 "reduced to three when reporting data to UNCCD:"
-msgstr ""
+msgstr "S$i$m$i$l$a$r$ t$o$ t$h$e$ p$r$o$d$u$c$t$i$v$i$t$y$ T$r$e$n$d$, t$h$e$ a$b$o$v$e$-m$e$n$t$i$o$n$e$d$ f$i$v$e$ c$l$a$s$s$e$s$ a$r$"
 
 #: ../../SO1.md:658
 msgid ""
@@ -1908,11 +1907,11 @@ msgid ""
 "UNCCD recommends considering only the area of the lowest negative z-score"
 " level (< –1.96) as degraded. Areas in other z-score classes should be "
 "considered as not degraded."
-msgstr ""
+msgstr "F$o$r$ t$h$e$ p$u$r$p$o$s$e$s$ o$f$ c$a$l$c$u$l$a$t$i$n$g$ t$h$e$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ s$u$b$-i$n$d$i$c$a$t$o$r$, U$N$C$C$D$ r$e$c$o$m$m$e$n$d$s$ c$o$n$s$i$d$e$r$i$n$g$ o$n$l$y$ t$h$e$ a$r$e$a$ o$f$ t$h$e$ l$o$w$e$s$t$ n$e$g$a$t$i$v$e$ z$-s$c$o$r$e$ l"
 
 #: ../../SO1.md:660
 msgid "Productivity Performance"
-msgstr ""
+msgstr "P$r$o$d$u$c$t$i$v$i$t$y$ P"
 
 #: ../../SO1.md:662
 msgid ""
@@ -1920,7 +1919,7 @@ msgid ""
 "Performance is a spatial metric involving benchmarking the level of local"
 " plant productivity relative to other land units (i.e. other pixels) "
 "within the same Land Cover/Ecosystem Functional Unit (LCEU)[^2]."
-msgstr ""
+msgstr "I$n$ c$o$n$t$r$a$s$t$ t$o$ T$r$e$n$d$ a$n$d$ S$t$a$t$e$, w$h$i$c$h$ a$r$e$ t$e$m$p$o$r$a$l$ m$e$t$r$i$c$s$, p$r$o$d$u$c$t$i$v$i$t$y$ P$e$r$f$o$r$m$a$n$c$e$ i$s$ a$ s$p$a$t$i$a$l$ m$e$t$r$i$c$ i$n$v$o$l$v$i$n$g$ b$e$n$c$h$m$a$r$k$i$n$g$ t$h$e$ l$e$v$e$l$ o$f$ l$o$c$a$l$ p$l$a$n$t$ p$r$o$d$u$c$t$i$v$i$t$y$ "
 
 #: ../../SO1.md:666
 msgid ""
@@ -1933,19 +1932,19 @@ msgid ""
 "(NPP{sub}`max`)[^3]. Therefore, productivity Performance values close to "
 "1 represent pixels in which productivity is close to the highest level "
 "for that land unit in that period."
-msgstr ""
+msgstr "P$r$o$d$u$c$t$i$v$i$t$y$ P$e$r$f$o$r$m$a$n$c$e$ i$s$ c$a$l$c$u$l$a$t$e$d$ b$y$ c$o$m$p$a$r$i$n$g$ t$h$e$ m$e$a$n$ a$n$n$u$a$l$ p$r$o$d$u$c$t$i$v$i$t$y$ v$a$l$u$e$ p$e$r$ p$i$x$e$l$ w$i$t$h$ t$h$e$ m$a$x$i$m$u$m$ p$r$o$d$u$c$t$i$v$i$t$y$ i$n$d$e$x$ v$a$l$u$e$ o$b$s$e$r$v$e$d$ w$i$t$h$i$n$ t$h$e$ s$a$m$e$ L$C$E$U$ f$o$r$ a$ g$i$v$e$n$ a$s$s$e$s$s$m$e$n$t$ p$e$r$i$o$d$. P$i$x$e$l$s$ a$r$e$ c$o$n$s$i$d$e$r$e$d$ d$e$g$r$a$d$e$d$ w$h$e$n$ t$h$e$i$r$ p$r$o$d$u$c$t$i$v$i$t$y$ p$o$t$e$n$t$i$a$l$ i$s$ l$e$s$s$ t$h$a$n$ a$ h$a$l$f$ o$f$ t$h$e$ m$a$x$i$m$u$m$ v$a$l$u$e$ o$b$s$e$r$v$e$d$ i$n$ a$ g$i$v$e$n$ L$C$E$U$. T$h$e$ m$a$x$i$m$u$m$ v$a$l$u$e$ i$s$ i$n$ t$u"
 
 #: ../../SO1.md:670
 msgid "The resulting dataset would then include only two classes:"
-msgstr ""
+msgstr "T$h$e$ r$e$s$u$l$t$i$n$g$ d$a$t$a$s$e$t$ w$o$u$l$d$ t$h$e$n$ i$"
 
 #: ../../SO1.md:672
 msgid "z-score < 0.5 NPP{sub}`max` = degrading"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ < 0.5 N$P$P${s$u$b$}`m$a$x$`"
 
 #: ../../SO1.md:673
 msgid "z-score ≥ 0.5 NPP{sub}`max` = improving"
-msgstr ""
+msgstr "z$-s$c$o$r$e$ ≥ 0.5 N$P$P${s$u$b$}`m$a$x$`"
 
 #: ../../SO1.md:675
 msgid ""
@@ -1953,23 +1952,23 @@ msgid ""
 "calculated from the mean of the annual productivity assessments over the "
 "years between the previous (or baseline) assessment up to the current "
 "year."
-msgstr ""
+msgstr "T$h$e$ p$r$o$d$u$c$t$i$v$i$t$y$ P$e$r$f$o$r$m$a$n$c$e$ i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$s$ s$h$o$u$l$d$ b$e$ c$a$l$c$u$l$a$t$e$d$ f$r$o$m$ t$h$e$ m$e$a$n$ o$f$ t$h$e$ a$n$n$u$a$l$ p$r$o$d$u$c$t$i$v$i$t$y$ a$s$s$e$s$s$m$e$n$"
 
 #: ../../SO1.md:677
 msgid ""
 "Step 5: Combine productivity metrics to assess land productivity "
 "degradation in the baseline period"
-msgstr ""
+msgstr "S$t$e$p$ 5: C$o$m$b$i$n$e$ p$r$o$d$u$c$t$i$v$i$t$y$ m$e$t$r$i$c$s$ t$o$ a$s$s$e$s$s$ l$a$n$d$ p$r$o$d$u$c$t$"
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO1-2.T5"
-msgstr ""
+msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t"
 
 #: ../../SO1.md:683
 msgid ""
 "The outputs obtained from the three metrics are used to estimate the "
 "extent of the degraded land in the baseline period."
-msgstr ""
+msgstr "T$h$e$ o$u$t$p$u$t$s$ o$b$t$a$i$n$e$d$ f$r$o$m$ t$h$e$ t$h$r$e$e$ m$e$t$r$i$c$s$ a$r$e$ u$s$e$d$ t$o$ e$s$t$i$m$a$t$e$ t$h$e$ e$x$t$"
 
 #: ../../SO1.md:685
 msgid ""
@@ -1977,13 +1976,13 @@ msgid ""
 "into two classes (degraded land/not degraded land) to assess the land "
 "productivity degradation status in the baseline period. In the table, ‘Y’"
 " indicates degraded land and ‘N’ indicates land that is not degraded."
-msgstr ""
+msgstr "T$a$b$l$e$ 12 b$e$l$o$w$ s$h$o$w$s$ h$o$w$ t$o$ t$r$a$n$s$f$o$r$m$ t$h$e$ o$u$t$p$u$t$s$ o$f$ t$h$e$ t$h$r$e$e$ m$e$t$r$i$c$s$ i$n$t$o$ t$w$o$ c$l$a$s$s$e$s$ (d$e$g$r$a$d$e$d$ l$a$n$d$/n$o$t$ d$e$g$r$a$d$e$d$ l$a$n$d$) t$o$ a$s$s$e$s$s$ t$h$e$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i$o$n$ s$t$a$t$u$"
 
 #: ../../SO1.md:687
 msgid ""
 "*__Table 12__. Combination of productivity metrics to determine whether a"
 " pixel is degraded or not degraded in the baseline period*"
-msgstr ""
+msgstr "*__T$a$b$l$e$ 12__. C$o$m$b$i$n$a$t$i$o$n$ o$f$ p$r$o$d$u$c$t$i$v$i$t$y$ m$e$t$r$i$c$s$ t$o$ d$e$t$e$r$m$i$n$e$ w$h$e$t$h$e$r$ a$ p$i$x$e$l$ i$s"
 
 #: ../../SO1.md:705
 msgid ""
@@ -1993,7 +1992,7 @@ msgid ""
 "of land degradation adopted by the UNCCD, which includes a reduction of "
 "biological productivity (i.e. a significantly negative Trend constitutes "
 "degradation regardless of the State or Performance metrics)._"
-msgstr ""
+msgstr "_N$o$t$e$: L$o$o$k$u$p$ t$a$b$l$e$ i$n$d$i$c$a$t$i$n$g$ c$o$m$b$i$n$a$t$i$o$n$s$ o$f$ p$r$o$d$u$c$t$i$v$i$t$y$ m$e$t$r$i$c$s$ t$o$ d$e$t$e$r$m$i$n$e$ w$h$e$t$h$e$r$ a$ p$i$x$e$l$ i$s$ d$e$g$r$a$d$e$d$ (‘Y$’) o$r$ n$o$t$ d$e$g$r$a$d$e$d$ (‘N$’): c$l$a$s$s$e$s$ 1 t$o$ 5 s$h$o$w$ d$e$g$r$a$d$a$t$i$o$n$. T$h$i$s$ t$a$b$l$e$ c$o$m$p$l$i$e$s$ w$i$t$h$ t$h$e$ d$e$f$i$n$i$t$i$o$n$ o$f$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ a$d$o$p$t$e$d$ b$y$ t$h$e$ U$N$C$C$D$, w$h$i$"
 
 #: ../../SO1.md:707
 msgid ""
@@ -2003,25 +2002,25 @@ msgid ""
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land) for country "
 "Parties’ consideration."
-msgstr ""
+msgstr "A$n$ a$l$t$e$r$n$a$t$i$v$e$ a$p$p$r$o$a$c$h$, s$u$g$g$e$s$t$i$n$g$ a$ v$a$r$i$a$n$t$ o$f$ t$h$e$ a$b$o$v$e$ m$e$t$r$i$c$ c$o$m$b$i$n$a$t$i$o$n$s$, i$s$ d$e$s$c$r$i$b$e$d$ i$n$ s$e$c$t$i$o$n$ 4.2.5 a$n$d$ t$a$b$l$e$ 4-5 o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$a$"
 
 #: ../../SO1.md:709
 msgid ""
 "The total area of land productivity degradation in the baseline period "
 "should be reported in table SO1-2.T5 of the PRAIS 4 platform."
-msgstr ""
+msgstr "T$h$e$ t$o$t$a$l$ a$r$e$a$ o$f$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i$o$n$ i$n$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$ s$h$o$u$l$d$ b"
 
 #: ../../SO1.md:711
 msgid ""
 "Step 6: Combine productivity metrics to assess land productivity "
 "degradation in the reporting period"
-msgstr ""
+msgstr "S$t$e$p$ 6: C$o$m$b$i$n$e$ p$r$o$d$u$c$t$i$v$i$t$y$ m$e$t$r$i$c$s$ t$o$ a$s$s$e$s$s$ l$a$n$d$ p$r$o$d$u$c$t$i$"
 
 #: ../../SO1.md:1
 msgid ""
 "Related areas in the PRAIS 4 platform: tables SO1-2.T1, SO1-2.T2, "
 "SO1-2.T3, SO1-2.T4 and SO1-2.T6"
-msgstr ""
+msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$: t$a$b$l$e$s$ S$O$1-2.T$1, S$O$1-2.T$2"
 
 #: ../../SO1.md:716
 msgid ""
@@ -2029,7 +2028,7 @@ msgid ""
 "extent of the degraded land in the reporting period. This process is "
 "entirely separate from the ‘One Out, All Out’ principle used to estimate "
 "SDG indicator 15.3.1."
-msgstr ""
+msgstr "T$h$e$ o$u$t$p$u$t$s$ o$b$t$a$i$n$e$d$ f$r$o$m$ t$h$e$ t$h$r$e$e$ m$e$t$r$i$c$s$ a$r$e$ u$s$e$d$ t$o$ e$s$t$i$m$a$t$e$ t$h$e$ e$x$t$e$n$t$ o$f$ t$h$e$ d$e$g$r$a$d$e$d$ l$a$n$d$ i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$. T$h$i$s$ p$r$o$c$e$s$s$ i$s$ e$n$"
 
 #: ../../SO1.md:718
 msgid ""
@@ -2039,67 +2038,67 @@ msgid ""
 " into five classes of persistent land productivity trajectories and three"
 " classes of land productivity degradation in the reporting period (i.e. "
 "‘improving’, ‘stable’, ‘degrading’)."
-msgstr ""
+msgstr "T$a$b$l$e$ 13 s$u$m$m$a$r$i$z$e$s$ t$h$e$ c$o$m$b$i$n$a$t$i$o$n$s$ o$f$ p$r$o$d$u$c$t$i$v$i$t$y$ m$e$t$r$i$c$s$ t$o$ d$e$t$e$r$m$i$n$e$ t$h$e$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$y$n$a$m$i$c$s$ a$n$d$ t$h$e$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i$o$n$ s$t$a$t$u$s$ o$f$ e$a$c$h$ p$i$x$e$l$ a$n$d$ t$h$e$i$r$ r$e$l$a$t$i$o$n$s$h$i$p$s$. T$h$e$ m$e$t$r$i$c$s$ c$a$n$ b$e$ c$o$m$b$i$n$e$d$ i$n$t$o$ f$i$v$e$ c$l$a$s$s$e$s$ o$f"
 
 #: ../../SO1.md:720
 msgid ""
 "Parties may use this table to combine custom Trend, State and Performance"
 " results derived from national data to estimate land productivity "
 "dynamics and degradation."
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ m$a$y$ u$s$e$ t$h$i$s$ t$a$b$l$e$ t$o$ c$o$m$b$i$n$e$ c$u$s$t$o$m$ T$r$e$n$d$, S$t$a$t$e$ a$n$d$ P$e$r$f$o$r$m$a$n$c$e$ r$e$s$u$l$t$s$ d$e$r$i$v$e$d$ f$r$o$m$ n$a$t$"
 
 #: ../../SO1.md:725
 msgid ""
 "*__Table 13__. Combination of productivity metrics to determine five "
 "classes of land productivity dynamics and three classes of land "
 "productivity degradation per pixel in the reporting period*"
-msgstr ""
+msgstr "*__T$a$b$l$e$ 13__. C$o$m$b$i$n$a$t$i$o$n$ o$f$ p$r$o$d$u$c$t$i$v$i$t$y$ m$e$t$r$i$c$s$ t$o$ d$e$t$e$r$m$i$n$e$ f$i$v$e$ c$l$a$s$s$e$s$ o$f$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$y$n$a$m$i$c$s$ a$n$d$ t$h$r$e$e$ c"
 
 #: ../../SO1.md:2
 msgid "{cspan}`2` Changes observed in the three input productivity metrics"
-msgstr ""
+msgstr "{c$s$p$a$n$}`2` C$h$a$n$g$e$s$ o$b$s$e$r$v$e$d$ i$n$ t$h$e$ t$h$r$e$e$ i$"
 
 #: ../../SO1.md:3
 msgid ""
 "{cspan}`1` Land productivity dynamics and land productivity degradation "
 "status derived from the combination of the three productivity metrics"
-msgstr ""
+msgstr "{c$s$p$a$n$}`1` L$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$y$n$a$m$i$c$s$ a$n$d$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i$o$n$ s$t$a$t$u$s$ d$e$r$i$v$e"
 
 #: ../../SO1.md:4
 msgid "Class combination"
-msgstr ""
+msgstr "C$l$a$s$s$ c$o$m$b"
 
 #: ../../SO1.md:5
 msgid "Trend"
-msgstr ""
+msgstr "T$r$e"
 
 #: ../../SO1.md:6
 msgid "State"
-msgstr ""
+msgstr "S$t$a"
 
 #: ../../SO1.md:7
 msgid "Performance"
-msgstr ""
+msgstr "P$e$r$f$o$r$"
 
 #: ../../SO1.md:8
 msgid "Land productivity dynamics"
-msgstr ""
+msgstr "L$a$n$d$ p$r$o$d$u$c$t$i$v$i"
 
 #: ../../SO1.md:10
 msgid "(5 classes)"
-msgstr ""
+msgstr "(5 c$l$a$s$s"
 
 #: ../../SO1.md:11
 msgid "Land productivity degradation status"
-msgstr ""
+msgstr "L$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g"
 
 #: ../../SO1.md:13
 msgid "(3 classes)"
-msgstr ""
+msgstr "(3 c$l$a$s$s"
 
 #: ../../SO1.md:14
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../SO1.md:15 ../../SO1.md:16 ../../SO1.md:18 ../../SO1.md:19
 #: ../../SO1.md:21 ../../SO1.md:22 ../../SO1.md:24 ../../SO1.md:25
@@ -2108,25 +2107,25 @@ msgstr ""
 #: ../../SO1.md:43 ../../SO1.md:45 ../../SO1.md:52 ../../SO1.md:58
 #: ../../SO1.md:88 ../../SO1.md:94
 msgid "Improving"
-msgstr ""
+msgstr "I$m$p$r$o"
 
 #: ../../SO1.md:20
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../SO1.md:23 ../../SO1.md:35 ../../SO1.md:47 ../../SO1.md:59
 #: ../../SO1.md:71 ../../SO1.md:83 ../../SO1.md:95 ../../SO1.md:107
 #: ../../SO1.md:119
 msgid "Degraded"
-msgstr ""
+msgstr "D$e$g$r$"
 
 #: ../../SO1.md:26
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../SO1.md:32
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../SO1.md:40 ../../SO1.md:46 ../../SO1.md:49 ../../SO1.md:76
 #: ../../SO1.md:79 ../../SO1.md:82 ../../SO1.md:84 ../../SO1.md:85
@@ -2136,43 +2135,43 @@ msgstr ""
 #: ../../SO1.md:111 ../../SO1.md:112 ../../SO1.md:114 ../../SO1.md:115
 #: ../../SO1.md:117 ../../SO1.md:118 ../../SO1.md:120 ../../SO1.md:121
 msgid "Degrading"
-msgstr ""
+msgstr "D$e$g$r$a"
 
 #: ../../SO1.md:44
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../SO1.md:56
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../../SO1.md:62
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: ../../SO1.md:86
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #: ../../SO1.md:92
 msgid "14"
-msgstr ""
+msgstr "14"
 
 #: ../../SO1.md:98
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #: ../../SO1.md:104
 msgid "16"
-msgstr ""
+msgstr "16"
 
 #: ../../SO1.md:110
 msgid "17"
-msgstr ""
+msgstr "17"
 
 #: ../../SO1.md:116
 msgid "18"
-msgstr ""
+msgstr "18"
 
 #: ../../SO1.md:853
 msgid ""
@@ -2180,7 +2179,7 @@ msgid ""
 "degradation status can be inferred from the class of land productivity "
 "dynamics obtained from the combination of the three input productivity "
 "metrics._"
-msgstr ""
+msgstr "_N$o$t$e$: T$h$e$ l$a$s$t$ c$o$l$u$m$n$ i$l$l$u$s$t$r$a$t$e$s$ h$o$w$ a$ p$i$x$e$l$’s$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i$o$n$ s$t$a$t$u$s$ c$a$n$ b$e$ i$n$f$e$r$r$e$d$ f$r$o$m$ t$h$e$ c$l$a$s$s$ o$f$ l$a$n$d$ p$r$o$d$u$c$"
 
 #: ../../SO1.md:855
 msgid ""
@@ -2193,11 +2192,11 @@ msgid ""
 "respectively. Land productivity degradation (i.e. derived from the three-"
 "class in the last column of table 13) in the reporting period should be "
 "reported in table SO1-2.T6."
-msgstr ""
+msgstr "N$a$t$i$o$n$a$l$ e$s$t$i$m$a$t$e$s$ o$f$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$y$n$a$m$i$c$s$ b$y$ l$a$n$d$ c$o$v$e$r$ t$y$p$e$ s$h$o$u$l$d$ b$e$ r$e$p$o$r$t$e$d$ u$s$i$n$g$ t$a$b$l$e$s$ S$O$1-2.T$1 a$n$d$ S$O$1-2.T$2 o$f$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$ f$o$r$ t$h$e$ b$a$s$e$l$i$n$e$ a$n$d$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$s$, r$e$s$p$e$c$t$i$v$e$l$y$. A$d$d$i$t$i$o$n$a$l$l$y$, n$a$t$i$o$n$a$l$ e$s$t$i$m$a$t$e$s$ o$f$ c$h$a$n$g$e$s$ i$n$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$y$n$a$m$i$c$s$ f$o$r$ t$h$e$ m$a$i$n$ l$a$n$d$ c$o$v$e$r$ t$r$a$n$s$i$t$i$o$n$s$ (b$y$ a$r$e$a$) s$h$o$u$l$d$ b$e$ r$e$p$o$r$t$e$d$ i$n$ t$a$b$l$e$s$ S$O$1-2.T$3"
 
 #: ../../SO1.md:857
 msgid "Step 7:  Verify the results"
-msgstr ""
+msgstr "S$t$e$p$ 7:  V$e$r$i$f$y$ t$h"
 
 #: ../../SO1.md:859
 msgid ""
@@ -2209,11 +2208,11 @@ msgid ""
 "situations where the confidence level of the obtained results might be "
 "low. This input would contribute to a qualitative assessment of the "
 "reliability of the estimates."
-msgstr ""
+msgstr "T$h$e$ s$e$a$s$o$n$a$l$ d$y$n$a$m$i$c$s$ o$f$ p$r$o$d$u$c$t$i$v$i$t$y$ v$a$r$y$ g$r$e$a$t$l$y$ a$c$r$o$s$s$ t$h$e$ g$l$o$b$e$, s$t$r$o$n$g$l$y$ i$n$f$l$u$e$n$c$e$d$ b$y$ t$h$e$ p$r$e$v$a$i$l$i$n$g$ c$l$i$m$a$t$i$c$ c$o$n$d$i$t$i$o$n$s$ a$n$d$ l$a$n$d$ m$a$n$a$g$e$m$e$n$t$ p$r$a$c$t$i$c$e$s$. T$h$i$s$ m$a$y$ a$f$f$e$c$t$ t$h$e$ r$e$l$i$a$b$i$l$i$t$y$ o$f$ a$p$p$l$y$i$n$g$ e$s$t$i$m$a$t$e$s$ o$f$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ f$r$o$m$ g$l$o$b$a$l$ d$a$t$a$ s$o$u$r$c$e$s$ t$o$ l$o$c$a$l$ a$r$e$a$s$ a$n$d$ r$e$q$u$i$r$e$ i$n$p$u$t$s$ f$r$o$m$ n$a$t$i"
 
 #: ../../SO1.md:861
 msgid "Step 8: Generate reports"
-msgstr ""
+msgstr "S$t$e$p$ 8: G$e$n$e$r$a$t$"
 
 #: ../../SO1.md:863
 msgid ""
@@ -2226,20 +2225,20 @@ msgid ""
 "default method and providing the rationale to adopt a different "
 "methodology. A general comment field is provided at the end of the "
 "reporting form in the PRAIS 4 platform for this purpose."
-msgstr ""
+msgstr "O$n$c$e$ v$e$r$i$f$i$e$d$ b$y$ t$h$e$ P$a$r$t$i$e$s$, t$h$e$ e$s$t$i$m$a$t$e$s$ o$f$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$y$n$a$m$i$c$s$ a$n$d$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ f$o$r$ t$h$e$ r$e$p$o$r$t$i$n$g$ a$n$d$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$s$ s$h$o$u$l$d$ b$e$ o$f$f$i$c$i$a$l$l$y$ s$u$b$m$i$t$t$e$d$ t$o$ U$N$C$C$D$. P$a$r$t$i$e$s$ a$r$e$ a$l$s$o$ e$n$c$o$u$r$a$g$e$d$ t$o$ s$u$b$m$i$t$ n$a$r$r$a$t$i$v$e$s$ o$n$ t$h$e$ m$e$t$h$o$d$o$l$o$g$y$, d$a$t$a$ s$o$u$r$c$e$s$ a$n$d$ d$a$t$a$ a$c$c$u$r$a$c$y$ i$n$ c$a$s$e$ t$h$e$ e$s$t$i$m$a$t$e$s$ a$r$e$ d$e$r$i$v$e$d$ f$r$o$m$ n$a$t$i$o$n$a$l$ d$a$t$a$. I$t$ w$o$u$l$d$ a$l$s$o$ b$e$ b$e$n$e$f$i$c$i$a$l$ t$o$ r$e$p$o$r$t$ o$n$ "
 
 #: ../../SO1.md:865
 msgid ""
 "Information on land productivity dynamics and land productivity "
 "degradation should be reported in km2 for the entire country."
-msgstr ""
+msgstr "I$n$f$o$r$m$a$t$i$o$n$ o$n$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$y$n$a$m$i$c$s$ a$n$d$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i"
 
 #: ../../SO1.md:867
 msgid ""
 "If the default datasets are replaced with national land cover data, "
 "countries are encouraged to make the relevant geospatial data and "
 "relevant metadata available in the PRAIS 4 platform."
-msgstr ""
+msgstr "I$f$ t$h$e$ d$e$f$a$u$l$t$ d$a$t$a$s$e$t$s$ a$r$e$ r$e$p$l$a$c$e$d$ w$i$t$h$ n$a$t$i$o$n$a$l$ l$a$n$d$ c$o$v$e$r$ d$a$t$a$, c$o$u$n$t$r$i$e$s$ a$r$e$ e$n$c$o$u$r$a$g$e$d$ t$o$ m$a$k$e$ t$h$e$ r$e$l$e$v$a$"
 
 #: ../../SO1.md:869
 msgid ""
@@ -2247,27 +2246,27 @@ msgid ""
 "dynamics and land productivity degradation for the baseline and the "
 "reporting period will be created on the PRAIS 4 platform. These maps will"
 " include:"
-msgstr ""
+msgstr "M$a$p$s$ g$e$n$e$r$a$t$e$d$ w$i$t$h$ d$e$f$a$u$l$t$ o$r$ n$a$t$i$o$n$a$l$ d$a$t$a$ o$n$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$y$n$a$m$i$c$s$ a$n$d$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i$o$n$ f$o$r$ t$h$e$ b$a$s$e$l$i$n$e$ a$n"
 
 #: ../../SO1.md:871
 msgid "Land productivity dynamics in the baseline period"
-msgstr ""
+msgstr "L$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$y$n$a$m$i$c$s$ i$"
 
 #: ../../SO1.md:872
 msgid "Land productivity dynamics in the reporting period"
-msgstr ""
+msgstr "L$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$y$n$a$m$i$c$s$ i$n$"
 
 #: ../../SO1.md:873
 msgid "Land productivity degradation in the baseline period"
-msgstr ""
+msgstr "L$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i$o$n$ "
 
 #: ../../SO1.md:874
 msgid "Land productivity degradation in the reporting period."
-msgstr ""
+msgstr "L$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i$o$n$ i$"
 
 #: ../../SO1.md:876
 msgid "1.2.4. Dependencies"
-msgstr ""
+msgstr "1.2.4. D$e$p$e$n$d$e"
 
 #: ../../SO1.md:878
 msgid ""
@@ -2276,11 +2275,11 @@ msgid ""
 "cover classes. The ‘per cent of total land area’ field in reporting "
 "tables SO1-2.T5 and SO1-2.T6 is dependent on the total land area reported"
 " in table SO1-1.T1."
-msgstr ""
+msgstr "L$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$a$t$a$ r$e$l$i$e$s$ o$n$ t$h$e$ l$a$n$d$ c$o$v$e$r$ d$a$t$a$ r$e$p$o$r$t$e$d$ u$n$d$e$r$ S$O$ 1-1 t$o$ d$i$s$a$g$g$r$e$g$a$t$e$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ c$l$a$s$s$e$s$ b$y$ t$h$e$ s$e$v$e$n$ U$N$C$C$D$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$e$s$. T$h$e$ ‘p$e$r$ c$e$n$t$ o$f$ t$o$t$a$l$ l$a$n$d$"
 
 #: ../../SO1.md:880
 msgid "1.2.5. Challenges"
-msgstr ""
+msgstr "1.2.5. C$h$a$l$l$e"
 
 #: ../../SO1.md:884
 msgid ""
@@ -2288,7 +2287,7 @@ msgid ""
 "produce a sufficiently detailed representation of the land productivity "
 "dynamics at the national level, especially for SIDS or mountainous "
 "countries;"
-msgstr ""
+msgstr "S$p$a$t$i$a$l$ r$e$s$o$l$u$t$i$o$n$ o$f$ i$n$t$e$r$n$a$t$i$o$n$a$l$ d$a$t$a$ m$i$g$h$t$ n$o$t$ a$l$w$a$y$s$ b$e$ s$u$i$t$a$b$l$e$ t$o$ p$r$o$d$u$c$e$ a$ s$u$f$f$i$c$i$e$n$t$l$y$ d$e$t$a$i$l$e$d$ r$e$p$r$e$s$e$n$t$a$t$i$o$n$ o$f$ t$h$e$ l$a$n$d$"
 
 #: ../../SO1.md:885
 msgid ""
@@ -2298,11 +2297,11 @@ msgid ""
 "these areas. Areas of dense vegetation and year-round growth, as in the "
 "humid tropics, can also show little variation in productivity, making "
 "data unreliable."
-msgstr ""
+msgstr "L$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ i$n$ c$e$r$t$a$i$n$ c$l$i$m$a$t$i$c$ z$o$n$e$s$ w$h$e$r$e$ t$h$e$ a$n$n$u$a$l$ g$r$o$w$i$n$g$ s$e$a$s$o$n$ i$s$ h$i$g$h$l$y$ v$a$r$i$a$b$l$e$ o$r$ e$r$r$a$t$i$c$, o$r$ w$h$e$r$e$ t$h$e$r$e$ i$s$ s$p$a$r$s$e$ o$r$ n$o$ v$e$g$e$t$a$t$i$o$n$, i$s$ d$i$f$f$i$c$u$l$t$ t$o$ a$c$c$u$r$a$t$e$l$y$ m$e$a$s$u$r$e$, r$e$s$u$l$t$i$n$g$ i$n$ n$o$ d$a$t$a$ f$o$r$ t$h$e$s$e$ a$r$e$a$s"
 
 #: ../../SO1.md:887
 msgid "Analytical approach"
-msgstr ""
+msgstr "A$n$a$l$y$t$i$c$a$l$"
 
 #: ../../SO1.md:889
 msgid ""
@@ -2311,15 +2310,15 @@ msgid ""
 "cover and SOC stock changes will likely increase the impact of "
 "productivity (compared to the other indicators) when they are combined to"
 " derive the SDG indicator 15.3.1."
-msgstr ""
+msgstr "I$t$ i$s$ i$m$p$o$r$t$a$n$t$ t$o$ c$o$n$s$i$d$e$r$ t$h$a$t$ a$p$p$l$y$i$n$g$ a$ 16-y$e$a$r$ w$i$n$d$o$w$ f$o$r$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ o$f$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ v$e$r$s$u$s$ a$ 4-y$e$a$r$ w$i$n$d$o$w$ f$o$r$ l$a$n$d$ c$o$v$e$r$ a$n$d$ S$O$C$ s$t$o$c$k$ c$h$a$n$g$e$s$ w$i$l$l$ l$i$k$e$l$y$ i$n$c$r$e$a$s$e$ "
 
 #: ../../SO1.md:891
 msgid "1.2.6. Summary (main actions)"
-msgstr ""
+msgstr "1.2.6. S$u$m$m$a$r$y$ (m$a$i$n$"
 
 #: ../../SO1.md:893
 msgid "Key actions for reporting on land productivity dynamics are as follows:"
-msgstr ""
+msgstr "K$e$y$ a$c$t$i$o$n$s$ f$o$r$ r$e$p$o$r$t$i$n$g$ o$n$ l$a$n$d$ p$r$o$d$u$c$t$i$"
 
 #: ../../SO1.md:895
 msgid ""
@@ -2327,27 +2326,27 @@ msgid ""
 "verified and officially accepted. If Parties decide to use alternative "
 "data sources, they should verify the compliance with the minimum "
 "requirements listed table 11 and follow steps 2 to 6 below;"
-msgstr ""
+msgstr "S$e$l$e$c$t$ i$m$a$g$e$ d$a$t$a$s$e$t$: U$N$C$C$D$ m$a$k$e$s$ a$v$a$i$l$a$b$l$e$ d$e$f$a$u$l$t$ d$a$t$a$, w$h$i$c$h$ m$a$y$ b$e$ v$e$r$i$f$i$e$d$ a$n$d$ o$f$f$i$c$i$a$l$l$y$ a$c$c$e$p$t$e$d$. I$f$ P$a$r$t$i$e$s$ d$e$c$i$d$e$ t$o$ u$s$e$ a$l$t$e$r$n$a$t$i$v$e$ d$a$t$a$ s$o$u$r$c$e$s$, t$h$e$y"
 
 #: ../../SO1.md:896
 msgid ""
 "Select a productivity index: NDVI is recommended as the default index; "
 "however, countries may choose alternative indexes that are better suited "
 "to their local land productivity dynamics;"
-msgstr ""
+msgstr "S$e$l$e$c$t$ a$ p$r$o$d$u$c$t$i$v$i$t$y$ i$n$d$e$x$: N$D$V$I$ i$s$ r$e$c$o$m$m$e$n$d$e$d$ a$s$ t$h$e$ d$e$f$a$u$l$t$ i$n$d$e$x$; h$o$w$e$v$e$r$, c$o$u$n$t$r$i$e$s$ m$a$y$ c$h$o$o$s$e$ a$l$t$e$r$n$a$t$i$v$"
 
 #: ../../SO1.md:897
 msgid ""
 "Estimate annual productivity: For each pixel, estimate the annual "
 "productivity as the integral of values from the start to the end of the "
 "growing season of the selected productivity index;"
-msgstr ""
+msgstr "E$s$t$i$m$a$t$e$ a$n$n$u$a$l$ p$r$o$d$u$c$t$i$v$i$t$y$: F$o$r$ e$a$c$h$ p$i$x$e$l$, e$s$t$i$m$a$t$e$ t$h$e$ a$n$n$u$a$l$ p$r$o$d$u$c$t$i$v$i$t$y$ a$s$ t$h$e$ i$n$t$e$g$r$a$l$ o$f$ v$a$l$u$e$s$ f$r$o$m$ t$h$"
 
 #: ../../SO1.md:898
 msgid ""
 "Calculate land productivity metrics: For each pixel, estimate Trend, "
 "State and Performance metrics;"
-msgstr ""
+msgstr "C$a$l$c$u$l$a$t$e$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ m$e$t$r$i$c$s$: F$o$r$ e$a$c$h$ p$i$x$e$l$, e$s$t$i$m$a"
 
 #: ../../SO1.md:899
 msgid ""
@@ -2355,7 +2354,7 @@ msgid ""
 "the baseline period: Using table 12 as a guide, combine the metrics to "
 "assess whether a pixel is degraded or not degraded in the baseline "
 "period;"
-msgstr ""
+msgstr "C$o$m$b$i$n$e$ p$r$o$d$u$c$t$i$v$i$t$y$ m$e$t$r$i$c$s$ t$o$ a$s$s$e$s$s$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i$o$n$ i$n$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$: U$s$i$n$g$ t$a$b$l$e$ 12 a$s$ a$ g$u$i$d$e$, c$o$m$b$i$n$e$ t$h$e"
 
 #: ../../SO1.md:900
 msgid ""
@@ -2366,7 +2365,7 @@ msgid ""
 "in the reporting period (three classes of degradation status). If "
 "national land productivity data is used, run the calculations in "
 "Trends.Earth and enter this information in tables SO1-2.T1 to SO1-2.T6;"
-msgstr ""
+msgstr "C$o$m$b$i$n$e$ p$r$o$d$u$c$t$i$v$i$t$y$ m$e$t$r$i$c$s$ t$o$ a$s$s$e$s$s$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i$o$n$ i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$: U$s$i$n$g$ t$a$b$l$e$ 13 a$s$ a$ g$u$i$d$e$, c$o$m$b$i$n$e$ t$h$e$ m$e$t$r$i$c$s$ t$o$ d$e$t$e$r$m$i$n$e$ t$h$e$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$y$n$a$m$i$c$s$ (f$i$v$e$ c$l$a$s$s$e$s$ o$f$ p$e$r$s$i$s$t$e$n$t$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ t$r$a$j$e$c$t$o$r$i$e$s$) a$n$d$ t$h$e$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ d$e$g$r$a$d$a$t$i$o$n$ s$t$a$t$u$s$ i$n$ t$"
 
 #: ../../SO1.md:901
 msgid ""
@@ -2375,18 +2374,18 @@ msgid ""
 "authorities to assess the accuracy of the results and to identify any "
 "false positive and negative situations which can be reported on in the SO"
 " 1-4 forms (SDG indicator 15.3.1);"
-msgstr ""
+msgstr "V$e$r$i$f$y$ t$h$e$ r$e$s$u$l$t$s$: I$t$ i$s$ r$e$c$o$m$m$e$n$d$e$d$ t$h$a$t$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ a$n$d$ r$e$l$a$t$e$d$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ e$s$t$i$m$a$t$e$s$ a$r$e$ v$e$r$i$f$i$e$d$ b$y$ t$h$e$ c$o$n$c$e$r$n$e$d$ n$a$t$i$o$n$a$l$ a$u$t$h$o$r$i$t$i$e$s$ t$o$ a$s$s$e$s$s$ t$h$e$ a$c$c$u$r$a$c$y$ o$f$ t$h$e$ r$e$s$u$l$t$s"
 
 #: ../../SO1.md:902
 msgid ""
 "Generate reports: Once verified by the Parties, the data and supporting "
 "narrative for the reporting and baseline periods should be officially "
 "submitted to UNCCD."
-msgstr ""
+msgstr "G$e$n$e$r$a$t$e$ r$e$p$o$r$t$s$: O$n$c$e$ v$e$r$i$f$i$e$d$ b$y$ t$h$e$ P$a$r$t$i$e$s$, t$h$e$ d$a$t$a$ a$n$d$ s$u$p$p$o$r$t$i$n$g$ n$a$r$r$a$t$i$v$e$ f$o$r$ t$h$e$ r$e$p$o$r$t$i"
 
 #: ../../SO1.md:904
 msgid "1.2.7. Further reading"
-msgstr ""
+msgstr "1.2.7. F$u$r$t$h$e$r$ r$"
 
 #: ../../SO1.md:906
 msgid ""
@@ -2394,26 +2393,26 @@ msgid ""
 "is degraded over total land area (version 2). Chapter 4: Land "
 "productivity (<https://www.unccd.int/publications/good-practice-guidance-"
 "sdg-indicator-1531-proportion-land-degraded-over-total-land>)."
-msgstr ""
+msgstr "G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1: P$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (v$e$r$s$i$o$n$ 2). C$h$a$p$t$e$r$ 4: L$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ (<h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$"
 
 #: ../../SO1.md:907
 msgid ""
 "Cherlet, M., Hutchinson, C., Reynolds, J., Hill, J., Sommer, S., von "
 "Maltitz, G. (Eds.), World Atlas of Desertification, Publication Office of"
 " the European Union, Luxembourg, 2018."
-msgstr ""
+msgstr "C$h$e$r$l$e$t$, M$., H$u$t$c$h$i$n$s$o$n$, C$., R$e$y$n$o$l$d$s$, J$., H$i$l$l$, J$., S$o$m$m$e$r$, S$., v$o$n$ M$a$l$t$i$t$z$, G$. (E$d$s$.), W$o$r$l$d$ A$t$l$a$s$ o$f$ D$e$s$e$r$t$i$f$i$c$a$t$i$o$"
 
 #: ../../SO1.md:908
 msgid "Trend.Earth website documentation (<https://trends.earth/docs/en/>)."
-msgstr ""
+msgstr "T$r$e$n$d$.E$a$r$t$h$ w$e$b$s$i$t$e$ d$o$c$u$m$e$n$t$a$t$i$o$n$ (<h$t$t$p$"
 
 #: ../../SO1.md:910
 msgid "1.3. SO 1-3 – Trends in carbon stocks above and below ground"
-msgstr ""
+msgstr "1.3. S$O$ 1-3 – T$r$e$n$d$s$ i$n$ c$a$r$b$o$n$ s$t$o$c$k$s$ a$b$o$"
 
 #: ../../SO1.md:912
 msgid "1.3.1. Introduction"
-msgstr ""
+msgstr "1.3.1. I$n$t$r$o$d$u"
 
 #: ../../SO1.md:914
 msgid ""
@@ -2422,14 +2421,14 @@ msgid ""
 "and losses from terrestrial organic matter pools. They are elementary to "
 "a wide range of ecosystem services, and their levels and dynamics are "
 "reflective of soil type, land use and management practices."
-msgstr ""
+msgstr "C$a$r$b$o$n$ s$t$o$c$k$s$ r$e$f$l$e$c$t$ t$h$e$ i$n$t$e$g$r$a$t$i$o$n$ o$f$ m$u$l$t$i$p$l$e$ p$r$o$c$e$s$s$e$s$ a$f$f$e$c$t$i$n$g$ p$l$a$n$t$ g$r$o$w$t$h$ a$s$ w$e$l$l$ a$s$ d$e$c$o$m$p$o$s$i$t$i$o$n$, w$h$i$c$h$ t$o$g$e$t$h$e$r$ c$o$n$t$r$o$l$ t$h$e$ g$a$i$n$s$ a$n$d$ l$o$s$s$e$s$ f$r$o$m$ t$e$r$r$e$s$t$r$i$a$l$ o$r$g$a$n$i$c$ m$a$t$t$e$r$ p$o$o$l$s$. T$h$e$y$ a$r$e$ e$l$e$m"
 
 #: ../../SO1.md:916
 msgid ""
 "As outlined in the UNCCD decision 22/COP.11, soil organic carbon (SOC) "
 "stock is the metric currently used to assess carbon stocks and will be "
 "replaced by total terrestrial system carbon stock once operational."
-msgstr ""
+msgstr "A$s$ o$u$t$l$i$n$e$d$ i$n$ t$h$e$ U$N$C$C$D$ d$e$c$i$s$i$o$n$ 22/C$O$P$.11, s$o$i$l$ o$r$g$a$n$i$c$ c$a$r$b$o$n$ (S$O$C$) s$t$o$c$k$ i$s$ t$h$e$ m$e$t$r$i$c$ c$u$r$r$e$n$t$l$y$ u$s$e$d$ t$o$ a$s$s$e$s$s$ c$a$r$b$o$n$ s$t$o$c$k$s$"
 
 #: ../../SO1.md:918
 msgid ""
@@ -2440,7 +2439,7 @@ msgid ""
 "implications for water infiltration, vulnerability to erosion, and "
 "ultimately the productivity of vegetation, and in agricultural contexts, "
 "yields."
-msgstr ""
+msgstr "T$h$e$ U$N$C$C$D$ m$e$t$h$o$d$o$l$o$g$y$ f$o$r$ e$s$t$i$m$a$t$i$n$g$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (i$.e$. S$D$G$ i$n$d$i$c$a$t$o$r$ 15.3.1) u$s$e$s$ S$O$C$ s$t$o$c$k$ a$s$ a$n$ i$n$d$i$c$a$t$o$r$ o$f$ o$v$e$r$a$l$l$ s$o$i$l$ q$u$a$l$i$t$y$ a$s$s$o$c$i$a$t$e$d$ w$i$t$h$ s$o$i$l$ n$u$t$r$i$e$n$t$ c$y$c$l$i$n$g$, s$o$i$l$ a$g$g$r$e$g$a$t$e$ s$t$a$b$i$l$i$t$y$ a$n$d$ s$o$i$l$ s$t$r$u$c"
 
 #: ../../SO1.md:920
 msgid ""
@@ -2449,7 +2448,7 @@ msgid ""
 " of soil (in tonnes per hectare) for each of the seven UNCCD land cover "
 "classes and land cover transitions, and their significance in terms of "
 "land degradation."
-msgstr ""
+msgstr "T$h$e$ m$a$i$n$ o$u$t$p$u$t$ o$f$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ f$o$r$ S$O$ 1-3 i$s$ a$ s$e$t$ o$f$ o$f$f$i$c$i$a$l$l$y$ v$e$r$i$f$i$e$d$ e$s$t$i$m$a$t$e$s$ o$f$ S$O$C$ s$t$o$c$k$ i$n$ t$h$e$ t$o$p$ 30 c$e$n$t$i$m$e$t$r$e$s$ (c$m$) o$f$ s$o$i$l$ (i$n$ t$o$n$n$e$s$ p$e$r$ h$e$c$t$a$r$e$) f$o$r$ e$a$c$h$ o$f$ t$h$e$"
 
 #: ../../SO1.md:922
 msgid ""
@@ -2459,7 +2458,7 @@ msgid ""
 "of SOC stock changes are derived using a modified Tier 1 "
 "Intergovernmental Panel on Climate Change (IPCC) methodology for "
 "compiling national greenhouse gas inventories for mineral soils."
-msgstr ""
+msgstr "N$a$t$i$o$n$a$l$ r$e$p$o$r$t$i$n$g$ i$s$ f$a$c$i$l$i$t$a$t$e$d$ t$h$o$u$g$h$ t$h$e$ p$r$o$v$i$s$i$o$n$ o$f$ d$e$f$a$u$l$t$ b$a$s$e$l$i$n$e$ d$a$t$a$ d$e$r$i$v$e$d$ f$r$o$m$ t$h$e$ I$n$t$e$r$n$a$t$i$o$n$a$l$ S$o$i$l$ R$e$f$e$r$e$n$c$e$ a$n$d$ I$n$f$o$r$m$a$t$i$o$n$ C$e$n$t$r$e$ (I$S$R$I$C$) S$o$i$l$G$r$i$d$s$250m$ d$a$t$a$s$e$t$, a$n$d$ d$e$f$a$u$l$t$ e$s$t$i$m$a$t$e$s$ o$f$ S$O$C$ s$t$o$c$k$ c$h$a$n$g$e$s$ a$r$e$ d$e$r$i$v"
 
 #: ../../SO1.md:924
 msgid ""
@@ -2468,11 +2467,11 @@ msgid ""
 " maps or from field measurements. Parties competent in more complex "
 "methods of reporting SOC stocks involving ground measurements and "
 "modelling can adopt the Tier 3 method."
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ m$a$y$ c$o$m$p$l$e$m$e$n$t$/r$e$p$l$a$c$e$ t$h$e$s$e$ d$a$t$a$ w$i$t$h$ n$a$t$i$o$n$a$l$ d$a$t$a$ (T$i$e$r$ 2 m$e$t$h$o$d$), d$e$t$e$r$m$i$n$i$n$g$ S$O$C$ s$t$o$c$k$s$ f$r$o$m$ h$i$g$h$ s$p$a$t$i$a$l$ r$e$s$o$l$u$t$i$o$n$ d$i$g$i$t$a$l$ s$o$i$l$ m$a$p$s$ o$r$ f$r$o$m$ f$i$e$l$d$ m$e$a$s$u$r$e$m$e$n$t$s$. P$a$r$t$i$e$s$ c$o$m$p$e"
 
 #: ../../SO1.md:926
 msgid "1.3.2. Prerequisites for reporting"
-msgstr ""
+msgstr "1.3.2. P$r$e$r$e$q$u$i$s$i$t$e$s$ f$o"
 
 #: ../../SO1.md:928
 msgid ""
@@ -2482,11 +2481,11 @@ msgid ""
 "which provides basic information on the processes regulating the "
 "formation and release of SOC stocks and detailing the methodology used to"
 " estimate SOC changes;"
-msgstr ""
+msgstr "A$n$ i$n$-d$e$p$t$h$ r$e$a$d$i$n$g$ o$f$ c$h$a$p$t$e$r$ 5 o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$a$t$i$o$n$s$/g$o$o$d$-p$r$a$c$t$i$c$e$-g$u$i$d$a$n$c$e$-s$d$g$-i$n$d$i$c$a$t$o$r$-1531-p$r$o$p$o$r$t$i$o$n$-l$a$n$d$-d$e$g$r$a$d$e$d$-o$v$e$r$-t$o$t$a$l$-l$a$n$d$), w$h$i$c$h$ p$r$o$v$i$d$e$s$ b$a$s$i$c"
 
 #: ../../SO1.md:930
 msgid "Data complying with the minimum standards listed in table 14 below;"
-msgstr ""
+msgstr "D$a$t$a$ c$o$m$p$l$y$i$n$g$ w$i$t$h$ t$h$e$ m$i$n$i$m$u$m$ s$t$a$n$d$a$r$"
 
 #: ../../SO1.md:932
 msgid ""
@@ -2497,29 +2496,29 @@ msgid ""
 " office, ministry of environment, ministry of agriculture (especially the"
 " soil department), remote-sensing centre, as well as universities and "
 "research centers;"
-msgstr ""
+msgstr "A$ p$o$o$l$ o$f$ n$a$t$i$o$n$a$l$ e$x$p$e$r$t$s$ o$f$f$i$c$i$a$l$l$y$ n$o$m$i$n$a$t$e$d$ b$y$ t$h$e$ n$a$t$i$o$n$a$l$ a$u$t$h$o$r$i$t$i$e$s$ t$o$ v$e$r$i$f$y$ t$h$e$ r$e$s$u$l$t$s$ o$f$ t$h$e$ S$O$C$ a$n$a$l$y$s$i$s$ o$r$ d$e$v$e$l$o$p$ a$n$d$ i$m$p$l$e$m$e$n$t$ a$ c$u$s$t$o$m$ m$e$t$h$o$d$o$l$o$g$y$ i$f$ n$a$t$i$o$n$a$l$ d$a$t$a$ i$s$ u$s$e$d$ i$n$s$t$e$a$d$ o$f$ t$h$e$ d$e$f$a$u$l$t$s$. K$e$y$ i$n$s$t$i$t$u$t$i$o$n$s$ m$i$g$h$t$ i$n$c$l$u$d$e$ a$ c$o$u$n$t$r$y$’s$ n$a$t$i$o"
 
 #: ../../SO1.md:934
 msgid ""
 "An understanding of the Tier levels of reporting and a decision on what "
 "Tier level is appropriate for the country before attempting the reporting"
 " process."
-msgstr ""
+msgstr "A$n$ u$n$d$e$r$s$t$a$n$d$i$n$g$ o$f$ t$h$e$ T$i$e$r$ l$e$v$e$l$s$ o$f$ r$e$p$o$r$t$i$n$g$ a$n$d$ a$ d$e$c$i$s$i$o$n$ o$n$ w$h$a$t$ T$i$e$r$ l$e$v$e$l$ i$s$ a$p$p$r$o$p$r"
 
 #: ../../SO1.md:936
 msgid "1.3.3. Reporting process and step-by-step procedure"
-msgstr ""
+msgstr "1.3.3. R$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ a$n$d$ s$t$e$p$"
 
 #: ../../SO1.md:938
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If Parties decide to use the default data (i.e. adopt the Tier 1 method),"
 " steps 2, 3 and 4 are unnecessary."
-msgstr ""
+msgstr "T$h$e$ s$t$e$p$-b$y$-s$t$e$p$ p$r$o$c$e$d$u$r$e$ f$o$r$ r$e$p$o$r$t$i$n$g$ i$s$ d$e$s$c$r$i$b$e$d$ i$n$ t$h$e$ f$o$l$l$o$w$i$n$g$. I$f$ P$a$r$t$i$e$s$ d$e$c$i$d$e$ t$o$ u$s$e$ t$h$e$ d$e$f$a$u$l$t"
 
 #: ../../SO1.md:940
 msgid "Step 1: Select the estimation method"
-msgstr ""
+msgstr "S$t$e$p$ 1: S$e$l$e$c$t$ t$h$e$ e$s$t$i"
 
 #: ../../SO1.md:942
 msgid ""
@@ -2527,7 +2526,7 @@ msgid ""
 "estimate changes in SOC stocks. These methods are consistent with the "
 "IPCC guidelines[^4] and include datasets and processing options with "
 "increasing levels of accuracy and complexity."
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ m$a$y$ u$s$e$ t$h$r$e$e$ m$e$t$h$o$d$s$ t$o$ d$e$t$e$r$m$i$n$e$ b$a$s$e$l$i$n$e$ S$O$C$ s$t$o$c$k$s$ a$n$d$ e$s$t$i$m$a$t$e$ c$h$a$n$g$e$s$ i$n$ S$O$C$ s$t$o$c$k$s$. T$h$e$s$e$ m$e$t$h$o$d$s$ a$r$e$ c$o$n$s$i$s$t$e$n$t$ w$i$t$h$ t$h$e$ I$P$C$C$ g$u$i$d$e$l$i$n$"
 
 #: ../../SO1.md:946
 msgid ""
@@ -2538,7 +2537,7 @@ msgid ""
 "Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
-msgstr ""
+msgstr "T$h$e$ **T$i$e$r$ 1 m$e$t$h$o$d$** u$s$e$s$ b$r$o$a$d$ m$e$t$h$o$d$s$ w$i$t$h$ d$e$f$a$u$l$t$ d$a$t$a$, a$n$d$ i$t$ i$s$ v$a$l$u$a$b$l$e$ w$h$e$r$e$ c$o$u$n$t$r$y$-s$p$e$c$i$f$i$c$ d$a$t$a$ a$n$d$ c$a$p$a$c$i$t$i$e$s$ a$r$e$ s$c$a$r$c$e$ o$r$ u$n$a$v$a$i$l$a$b$l$e$. S$O$C$ s$t$o$c$k$ c$h$a$n$g$e$ e$s$t$i$m$a$t$e$s$ a$r$e$ i$n$f$o$r$m$e$d$ b$y$ t$h$e$ e$q$u$a$t$i$o$n$s$ i$n$ t$h$e$ I$P$C$C$ g$u$i$d$e$l$i$n$e$s$, w$h$i$c$h$ a$r$e$ s$u$m$m$a$r$i$z$e$d$ i$n$ c$h$a$p$t$e$r$ 5 o$f$ t$h"
 
 #: ../../SO1.md:948
 msgid ""
@@ -2551,14 +2550,14 @@ msgid ""
 " stocks under natural vegetation, stratified by climate/soil type. As an "
 "alternative to IPCC default values, reference stocks can be determined "
 "from global digital maps of SOC."
-msgstr ""
+msgstr "T$h$e$ T$i$e$r$ 1 m$e$t$h$o$d$ a$s$s$u$m$e$s$ t$h$a$t$ f$o$l$l$o$w$i$n$g$ l$a$n$d$ u$s$e$/m$a$n$a$g$e$m$e$n$t$ c$h$a$n$g$e$s$, c$a$r$b$o$n$ s$t$o$c$k$ c$h$a$n$g$e$s$ o$c$c$u$r$ o$v$e$r$ a$ 20-y$e$a$r$ p$e$r$i$o$d$, a$f$t$e$r$ w$h$i$c$h$ a$ n$e$w$ e$q$u$i$l$i$b$r$i$u$m$ s$t$o$c$k$ i$s$ r$e$a$c$h$e$d$. T$h$e$ T$i$e$r$ 1 m$e$t$h$o$d$ u$s$e$s$ i$n$f$o$r$m$a$t$i$o$n$ o$n$ l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$, a$l$o$n$g$ w$i$t$h$ s$t$o$c$k$ c$h$a$n$g$e$ f$a$c$t$o$r$s$ (i$.e$. a$ l$a$n$d$ u$s$e$ f$a$c$t$o$r$, a$ m$a$n$a$g$e$m$e$n$t$ f$a$c$t$o$r$ a$n$d$ a$n$ i$n$p$u$t$ f$a$c$t$o$r$, w$h$e$r$e$ a$v$a$i$l$a$b$l$e$) t$o$ e$s$t$i$m$a$t$e$ c$h$a$n$g$e$s$ i$n$ c$a$r$b$o$"
 
 #: ../../SO1.md:950
 msgid ""
 "For change factors, the Tier 1 method is strongly reliant on land cover "
 "change and/or land management change to estimate changes in SOC stocks as"
 " well as the delineation of wetland areas as a proxy for organic soils."
-msgstr ""
+msgstr "F$o$r$ c$h$a$n$g$e$ f$a$c$t$o$r$s$, t$h$e$ T$i$e$r$ 1 m$e$t$h$o$d$ i$s$ s$t$r$o$n$g$l$y$ r$e$l$i$a$n$t$ o$n$ l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$ a$n$d$/o$r$ l$a$n$d$ m$a$n$a$g$e$m$e$n$t$ c$h$a$n$g$e$ t$o$ e$s$t$i$m$a$t$e$ c$h$a$n$g$e$s$ i$n"
 
 #: ../../SO1.md:952
 msgid ""
@@ -2570,7 +2569,7 @@ msgid ""
 "drainage and/or fire. Losses from organic soils are estimated using an "
 "adaptation of Equation 2.2 from chapter 2 of the IPCC Wetlands "
 "Supplement."
-msgstr ""
+msgstr "T$h$e$ i$n$f$l$u$e$n$c$e$ o$f$ l$a$n$d$ u$s$e$ a$n$d$ m$a$n$a$g$e$m$e$n$t$ o$n$ S$O$C$ i$s$ d$i$f$f$e$r$e$n$t$ i$n$ m$i$n$e$r$a$l$ v$e$r$s$u$s$ o$r$g$a$n$i$c$ s$o$i$l$ t$y$p$e$s$. C$a$r$b$o$n$ s$t$o$c$k$s$ i$n$ o$r$g$a$n$i$c$ s$o$i$l$s$ a$r$e$ n$o$t$ e$x$p$l$i$c$i$t$l$y$ c$o$m$p$u$t$e$d$ u$s$i$n$g$ t$h$e$ T$i$e$r$ 1 m$e$t$h$o$d$, w$h$i$c$h$ e$s$t$i$m$a$t$e$s$ o$n$l$y$ a$n$n$u$a$l$ c$a$r$b$o$n$ f$l$u$x$ f$r$o$m$ o$r$g$a$n$i$c$ s$o$i$l$s$. F$o$r$ o$r$g$a$n$i$c$ s$o$i$l$s$, t$h$e$ m$e$t$h$o$d$ u$s$e$s$ a$n$ a$n$n$u$a$l$ e$m$i$s$s$i$o$n$ f"
 
 #: ../../SO1.md:954
 msgid ""
@@ -2578,7 +2577,7 @@ msgid ""
 "5.2.6.1 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
-msgstr ""
+msgstr "A$ d$e$t$a$i$l$e$d$ d$e$s$c$r$i$p$t$i$o$n$ o$f$ t$h$e$ T$i$e$r$ 1 m$e$t$h$o$d$ i$s$ p$r$o$v$i$d$e$d$ i$n$ s$e$c$t$i$o$n$ 5.2.6.1 o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$"
 
 #: ../../SO1.md:956
 msgid ""
@@ -2589,7 +2588,7 @@ msgid ""
 "of these components, or any subset which would then be combined with "
 "default values. Reference SOC stocks can be determined from national "
 "digital soil maps or from measurements taken from national soil surveys."
-msgstr ""
+msgstr "T$h$e$ **T$i$e$r$ 2 m$e$t$h$o$d$** m$a$k$e$s$ u$s$e$ o$f$ a$d$d$i$t$i$o$n$a$l$ c$o$u$n$t$r$y$-s$p$e$c$i$f$i$c$ d$a$t$a$ t$o$ c$o$m$p$l$e$m$e$n$t$ d$e$f$a$u$l$t$ v$a$l$u$e$s$, s$u$c$h$ a$s$ c$o$u$n$t$r$y$-s$p$e$c$i$f$i$c$ c$h$a$n$g$e$ f$a$c$t$o$r$s$, r$e$f$e$r$e$n$c$e$ S$O$C$ s$t$o$c$k$s$, c$l$i$m$a$t$e$ r$e$g$i$o$n$s$, s$o$i$l$ t$y$p$e$s$, a$n$d$/o$r$ l$a$n$d$ m$a$n$a$g$e$m$e$n$t$ c$l$a$s$s$i$f$i$c$a$t$i$o$n$ s$y$s$t$e$m$s$. C$o$u$n$t$r$y$-s$p$e$c$i$f$i$c$ v$a$l$u$e$s$ m$a$y$ b$e$ d$e$r$i$v$e$d$ f$o$r$ a$l$l$ o$f$ t$h$e$s$e$ c$o$m$p$o$n$"
 
 #: ../../SO1.md:958
 msgid ""
@@ -2597,7 +2596,7 @@ msgid ""
 "5.2.6.2 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
-msgstr ""
+msgstr "A$ d$e$t$a$i$l$e$d$ d$e$s$c$r$i$p$t$i$o$n$ o$f$ t$h$e$ T$i$e$r$ 2 m$e$t$h$o$d$ i$s$ p$r$o$v$i$d$e$d$ i$n$ s$e$c$t$i$o$n$ 5.2.6.2 o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$"
 
 #: ../../SO1.md:960
 msgid ""
@@ -2608,11 +2607,11 @@ msgid ""
 "digital soil mapping and time-series spatial land use/management and "
 "climate data, combined with calibrated and validated process-based models"
 " and/or a measurement-based inventory with a monitoring network."
-msgstr ""
+msgstr "T$h$e$ **T$i$e$r$ 3 m$e$t$h$o$d$** i$s$ t$h$e$ m$o$s$t$ c$o$m$p$l$e$x$, i$n$v$o$l$v$i$n$g$ g$r$o$u$n$d$ m$e$a$s$u$r$e$m$e$n$t$s$ a$n$d$ m$o$d$e$l$l$i$n$g$, a$n$d$ i$t$ i$s$ o$n$l$y$ r$e$c$o$m$m$e$n$d$e$d$ f$o$r$ c$o$u$n$t$r$i$e$s$ w$i$t$h$ a$d$e$q$u$a$t$e$ t$e$c$h$n$i$c$a$l$ c$a$p$a$c$i$t$y$ a$n$d$ d$a$t$a$. I$t$ i$n$c$o$r$p$o$r$a$t$e$s$ m$o$r$e$ a$d$v$a$n$c$e$d$ m$e$t$h$o$d$s$ w$h$i$c$h$ b$e$t$t$e$r$ c$a$p$t$u$r$e$ a$n$n$u$a$l$ v$a$r$i$a$b$i$l$i$t$y$ i$n$ f$l$u$x$e$s$, s$u$c$h$ a$s$ c$o$u$n$t$r$y$-s$p$e$c$i$f$i$c$ d$i$g$i$t$a$l$ s$o$i"
 
 #: ../../SO1.md:962
 msgid "Step 2: Assess available data"
-msgstr ""
+msgstr "S$t$e$p$ 2: A$s$s$e$s$s$ a$v$a$"
 
 #: ../../SO1.md:964
 msgid ""
@@ -2623,121 +2622,121 @@ msgid ""
 "data at a sufficient resolution to obtain information for the management "
 "and input change factors, the dynamic component informing SOC trends is "
 "land cover used as a proxy for land-use change."
-msgstr ""
+msgstr "U$N$C$C$D$ p$r$o$v$i$d$e$s$ p$r$e$f$i$l$l$e$d$ d$a$t$a$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$. T$h$e$ I$S$R$I$C$ S$o$i$l$G$r$i$d$s$250m$ d$a$t$a$s$e$t$ i$s$ u$s$e$d$ t$o$ o$b$t$a$i$n$ a$ d$e$f$a$u$l$t$ S$O$C$ s$t$o$c$k$ b$a$s$e$l$i$n$e$. D$e$f$a$u$l$t$ e$s$t$i$m$a$t$e$s$ o$f$ S$O$C$ s$t$o$c$k$ c$h$a$n$g$e$s$ a$r$e$ b$a$s$e$d$ o$n$ a$ m$o$d$i$f$i$e$d$ T$i$e$r$ 1 m$e$t$h$o$d$ f$o$r$ m$i$n$e$r$a$l$ s$o$i$l$s$[^5]. S$i$n$c$e$ t$h$e$r$e$ a$r$e$ c$u$r$r$e$n$t$l$y$ n$o$ k$n$o$w$n$ g$l$o$b$a$l$ d$a$t$a$ a$t$ a$ s$"
 
 #: ../../SO1.md:968
 msgid ""
 "However, Parties may report their estimates using national SOC stock data"
 " (adopting the Tier 2 or Tier 3 approach) if they meet the specifications"
 " listed in table 1."
-msgstr ""
+msgstr "H$o$w$e$v$e$r$, P$a$r$t$i$e$s$ m$a$y$ r$e$p$o$r$t$ t$h$e$i$r$ e$s$t$i$m$a$t$e$s$ u$s$i$n$g$ n$a$t$i$o$n$a$l$ S$O$C$ s$t$o$c$k$ d$a$t$a$ (a$d$o$p$t$i$n$g$ t$h$e$ T$i$e$r$ 2 o$r$ T$i$"
 
 #: ../../SO1.md:970
 msgid "*__Table 14__. Data specifications for SO 1-3 indicator*"
-msgstr ""
+msgstr "*__T$a$b$l$e$ 14__. D$a$t$a$ s$p$e$c$i$f$i$c$a$t$i$o$n$s$ f$o"
 
 #: ../../SO1.md:1
 msgid "{rspan}`1`Item"
-msgstr ""
+msgstr "{r$s$p$a$n$}`1`"
 
 #: ../../SO1.md:2
 msgid "{cspan}`1`Specifications"
-msgstr ""
+msgstr "{c$s$p$a$n$}`1`S$p$e$c$i$f"
 
 #: ../../SO1.md:3
 msgid "Default data"
-msgstr ""
+msgstr "D$e$f$a$u$l$t"
 
 #: ../../SO1.md:5
 msgid "**Input data**"
-msgstr ""
+msgstr "**I$n$p$u$t$ d$"
 
 #: ../../SO1.md:7
 msgid "(to generate the soil organic carbon (SOC) stock estimates)"
-msgstr ""
+msgstr "(t$o$ g$e$n$e$r$a$t$e$ t$h$e$ s$o$i$l$ o$r$g$a$n$i$c$ c$a$r$b$o$"
 
 #: ../../SO1.md:8
 msgid ""
 "International Soil Reference and Information Centre (ISRIC) SoilGrids250m"
 " dataset"
-msgstr ""
+msgstr "I$n$t$e$r$n$a$t$i$o$n$a$l$ S$o$i$l$ R$e$f$e$r$e$n$c$e$ a$n$d$ I$n$f$o$r$m$a$t$i$o$n$ C$e$"
 
 #: ../../SO1.md:9
 msgid "Ground observations and measurements"
-msgstr ""
+msgstr "G$r$o$u$n$d$ o$b$s$e$r$v$a$t$i$o$n$s$ a"
 
 #: ../../SO1.md:10
 msgid "**Output data**"
-msgstr ""
+msgstr "**O$u$t$p$u$t$ d"
 
 #: ../../SO1.md:12
 msgid "(Gridded products of SOC stock estimates)"
-msgstr ""
+msgstr "(G$r$i$d$d$e$d$ p$r$o$d$u$c$t$s$ o$f$ S$O$C$ "
 
 #: ../../SO1.md:13
 msgid ""
 "Annual gridded products of SOC stocks for the baseline and reporting "
 "periods"
-msgstr ""
+msgstr "A$n$n$u$a$l$ g$r$i$d$d$e$d$ p$r$o$d$u$c$t$s$ o$f$ S$O$C$ s$t$o$c$k$s$ f$o$r$ t$h$e$"
 
 #: ../../SO1.md:14
 msgid ""
 "Gridded products of SOC stocks for the baseline and reporting periods, "
 "with as close to annual data as possible"
-msgstr ""
+msgstr "G$r$i$d$d$e$d$ p$r$o$d$u$c$t$s$ o$f$ S$O$C$ s$t$o$c$k$s$ f$o$r$ t$h$e$ b$a$s$e$l$i$n$e$ a$n$d$ r$e$p$o$r$t$i$n$g$ p$e$r$i$"
 
 #: ../../SO1.md:15
 msgid "**Classification**"
-msgstr ""
+msgstr "**C$l$a$s$s$i$f$i$c"
 
 #: ../../SO1.md:16
 msgid "Continuous values of SOC content (tonnes) in the first 30 cm of soil."
-msgstr ""
+msgstr "C$o$n$t$i$n$u$o$u$s$ v$a$l$u$e$s$ o$f$ S$O$C$ c$o$n$t$e$n$t$ (t$o$n$n$e$s$)"
 
 #: ../../SO1.md:18
 msgid ""
 "An arbitrary >10% net reduction in SOC stocks in the first 30 cm of soil "
 "in 20 years is used as the threshold to determine degradation."
-msgstr ""
+msgstr "A$n$ a$r$b$i$t$r$a$r$y$ >10% n$e$t$ r$e$d$u$c$t$i$o$n$ i$n$ S$O$C$ s$t$o$c$k$s$ i$n$ t$h$e$ f$i$r$s$t$ 30 c$m$ o$f$ s$o$i$l$ i$n$ 20 y$e$a$r$s$ i$s$"
 
 #: ../../SO1.md:19
 msgid ""
 "An arbitrary >10% net reduction in SOC stock in the first 30 cm of soil "
 "between the baseline and the reporting period is suggested as a threshold"
 " to determine degradation."
-msgstr ""
+msgstr "A$n$ a$r$b$i$t$r$a$r$y$ >10% n$e$t$ r$e$d$u$c$t$i$o$n$ i$n$ S$O$C$ s$t$o$c$k$ i$n$ t$h$e$ f$i$r$s$t$ 30 c$m$ o$f$ s$o$i$l$ b$e$t$w$e$e$n$ t$h$e$ b$a$s$e$l$i$n$e$ a$n$d$ t$h$e$ r$e$p$o$r$t$"
 
 #: ../../SO1.md:20
 msgid "**Spatial resolution**"
-msgstr ""
+msgstr "**S$p$a$t$i$a$l$ r$e$s$o"
 
 #: ../../SO1.md:21
 msgid "250m"
-msgstr ""
+msgstr "250m"
 
 #: ../../SO1.md:22
 msgid "The desired spatial resolution is 100m or finer."
-msgstr ""
+msgstr "T$h$e$ d$e$s$i$r$e$d$ s$p$a$t$i$a$l$ r$e$s$o$l$u$t$i"
 
 #: ../../SO1.md:23
 msgid "**Quality**"
-msgstr ""
+msgstr "**Q$u$a$l$i$"
 
 #: ../../SO1.md:24
 msgid "Accuracy of ISRIC’s SoilGrids250m dataset between 30% and 70%"
-msgstr ""
+msgstr "A$c$c$u$r$a$c$y$ o$f$ I$S$R$I$C$’s$ S$o$i$l$G$r$i$d$s$250m$ d$a$t$a"
 
 #: ../../SO1.md:25
 msgid "Not less than the default data"
-msgstr ""
+msgstr "N$o$t$ l$e$s$s$ t$h$a$n$ t$h$e$ d"
 
 #: ../../SO1.md:26
 msgid "**Metadata**"
-msgstr ""
+msgstr "**M$e$t$a$d$a"
 
 #: ../../SO1.md:27
 msgid "Metadata information is provided with default data in Trends.Earth."
-msgstr ""
+msgstr "M$e$t$a$d$a$t$a$ i$n$f$o$r$m$a$t$i$o$n$ i$s$ p$r$o$v$i$d$e$d$ w$i$t$h$ d$"
 
 #: ../../SO1.md:1005
 msgid ""
@@ -2746,7 +2745,7 @@ msgid ""
 "Map (GSOCmap)](http://www.fao.org/soils-portal/data-hub/soil-maps-and-"
 "databases/global-soil-organic-carbon-map-gsocmap/en/) as an alternative "
 "to the default SOC stock baseline data."
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ t$h$a$t$ a$r$e$ m$e$m$b$e$r$s$ o$f$ t$h$e$ G$l$o$b$a$l$ S$o$i$l$ P$a$r$t$n$e$r$s$h$i$p$ a$n$d$ a$r$e$ o$p$t$i$n$g$ t$o$ u$s$e$ t$h$e$ T$i$e$r$ 2 m$e$t$h$o$d$ m$a$y$ a$l$s$o$ c$o$n$s$i$d$e$r$ t$h$e$ [G$l$o$b$a$l$ S$o$i$l$ O$r$g$a$n$i$c$ C$a$r$b$o$n$ M$a$p$ (G$S$O$C$m$a$p$)](h$t$t$p$://w$w$w$.f$a$o$.o$r$g$/s$o$i$l$s$-p$o$r$t$a$l$/d$a$t$a$-h$u$b"
 
 #: ../../SO1.md:1007
 msgid ""
@@ -2754,13 +2753,13 @@ msgid ""
 "Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
-msgstr ""
+msgstr "O$t$h$e$r$ r$e$l$e$v$a$n$t$ d$a$t$a$ s$o$u$r$c$e$s$ a$r$e$ l$i$s$t$e$d$ i$n$ A$p$p$e$n$d$i$x$ C$ o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$a$t$i$o"
 
 #: ../../SO1.md:1009
 msgid ""
 "Step 3: Determine the baseline soil organic carbon stock and degradation "
 "status"
-msgstr ""
+msgstr "S$t$e$p$ 3: D$e$t$e$r$m$i$n$e$ t$h$e$ b$a$s$e$l$i$n$e$ s$o$i$l$ o$r$g$a$n$i$c$ c$a$r$b"
 
 #: ../../SO1.md:1011
 msgid ""
@@ -2774,7 +2773,7 @@ msgid ""
 "period prior to the year 2015 (t0). The availability of annual land cover"
 " products allows for the extrapolation of a trend fitted to historical "
 "SOC data."
-msgstr ""
+msgstr "E$s$t$i$m$a$t$i$n$g$ c$h$a$n$g$e$ i$n$ t$h$e$ e$x$t$e$n$t$ o$f$ S$O$C$ d$e$g$r$a$d$a$t$i$o$n$ o$v$e$r$ t$i$m$e$ r$e$q$u$i$r$e$s$ c$a$l$c$u$l$a$t$i$n$g$ t$h$e$ e$x$t$e$n$t$ o$f$ S$O$C$ d$e$g$r$a$d$a$t$i$o$n$ i$n$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$. T$h$i$s$ i$n$v$o$l$v$e$s$ c$o$m$p$a$r$i$n$g$ e$s$t$i$m$a$t$e$d$ S$O$C$ s$t$o$c$k$s$ i$n$ t$h$e$ y$e$a$r$ 2015 (t$h$e$ b$a$s$e$l$i$n$e$ y$e$a$r$) w$i$t$h$ o$n$e$ o$t$h$e$r$ p$r$e$v$i$o$u$s$ y$e$a$r$ (u$s$u$a$l$l$y$ t$h$e$ y$e$a$r$ 2000) t$o$ m$e$a$s$u$r$e$ c$h$a$n$g$e$ i$n$ S$O$C$ s$t$o$c$k$s$ f$o$r$ e$a$c$h$ l$a$n$d$ c$o$v$e$r$ t$y$p$e$. T$h$e$ a$b$s$o$l$u$t$e$ n$u$m$e$r$i$c$a$l$ v$a$l$u$e$ o$f$ t$h$e$ S$O$C$ s$t$o$c$k$s$ f$o$r$ e$a$c$h$ l$a$n$d$ c$o$v$e$r$ c$l$"
 
 #: ../../SO1.md:1013
 msgid ""
@@ -2783,7 +2782,7 @@ msgid ""
 "the ESA CCI-LC annual data, and estimated using the IPCC change factors "
 "averaged over 20 years and then applied on an annual basis within the "
 "2000−2015 period."
-msgstr ""
+msgstr "F$o$r$ e$x$a$m$p$l$e$, i$n$ t$h$e$ d$e$f$a$u$l$t$ d$a$t$a$s$e$t$ p$r$o$v$i$d$e$d$ f$o$r$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$, S$O$C$ c$h$a$n$g$e$s$ w$e$r$e$ o$b$t$a$i$n$e$d$ f$r$o$m$ a$ c$o$m$b$i$n$a$t$i$o$n$ o$f$ t$h$e$ S$o$i$l$G$r$i$d$s$250m$ d$a$t$a$ a$n$d$ t$h$e$ E$S$A$ C$C$I$-L$C$ a$n$n$u$a$l$ d$a$t$a$, a$n$d$ e$s$t$i$m$a$t$e$"
 
 #: ../../SO1.md:1015
 msgid ""
@@ -2792,7 +2791,7 @@ msgid ""
 "indicator-1531-proportion-land-degraded-over-total-land) includes the "
 "following two options for estimating the initial baseline status (t0) at "
 "differing temporal scales for the SOC stocks metric:"
-msgstr ""
+msgstr "T$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$a$t$i$o$n$s$/g$o$o$d$-p$r$a$c$t$i$c$e$-g$u$i$d$a$n$c$e$-s$d$g$-i$n$d$i$c$a$t$o$r$-1531-p$r$o$p$o$r$t$i$o$n$-l$a$n$d$-d$e$g$r$a$d$e$d$-o$v$e$r$-t$o$t$a$l$-l$a$n$d$) i$n$c$l$u$d$e$s$ t$h$e$ f$o$l$l$o$w$"
 
 #: ../../SO1.md:1017
 msgid ""
@@ -2812,7 +2811,7 @@ msgid ""
 "IPCC defaults for SOC reference stocks, which, although they improve upon"
 " the 2006 IPCC default values, in some cases still carry significant "
 "errors."
-msgstr ""
+msgstr "S$e$t$ a$ b$e$n$c$h$m$a$r$k$ o$f$ S$O$C$ s$t$o$c$k$s$ w$i$t$h$ w$h$i$c$h$ t$o$ c$o$m$p$a$r$e$ c$h$a$n$g$e$, i$n$ o$t$h$e$r$ w$o$r$d$s$, a$s$s$e$s$s$ w$h$e$t$h$e$r$ t$h$e$ a$v$e$r$a$g$e$ S$O$C$ s$t$o$c$k$s$ i$n$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$ a$r$e$ l$o$w$, h$i$g$h$ o$r$ a$v$e$r$a$g$e$ r$e$l$a$t$i$v$e$ t$o$ s$o$m$e$ p$o$t$e$n$t$i$a$l$ v$a$l$u$e$ f$o$r$ a$ g$i$v$e$n$ c$l$i$m$a$t$e$ o$r$ s$o$i$l$ t$y$p$e$ a$n$d$ d$e$t$e$r$m$i$n$e$ t$h$e$ d$e$g$r$a$d$a$t$i$o$n$ s$t$a$t$u$s$ (i$.e$. d$e$g$r$a$d$e$d$/n$o$t$ d$e$g$r$a$d$e$d$). T$h$e$ u$p$d$a$t$e$d$ I$P$C$C$ r$e$f$e$r$e$n$c$e$ (f$r$o$m$ t$h$e$ 2019 R$e$f$i$n$e$m$e$n$t$ o$f$ t$h$e$ I$P$C$C$ g$u$i$d$e$l$i$n$e$s$) f$o$r$ S$O$C$ s$t$o$c$k$s$ u$n$d$e$r$ n$a$t$i$v$e$ v$e$g$e$t$a$t$i$o$n$, r$e$f$l$e$c$t$i$n$g$ d$e$f$a$u$l$t$ c$l$i$m$a$t$e$ r$e$g$i$o$n$s$ a$n$d$ s$o$i$l$ t$y$p$e$s$, c$o$u$l$d$ b$e$ c$o$n$s$i$d$e$r$e$d$ a$ b$e$n$c$h$m$a$r$k$, b$u$t$ i$d$e$a$l$l$y$, n$a$t$i$o$n$a$l$ b$e$n$c$h$m$a$r$k$s$ (e$.g$. d$e$r$i$v$e$d$ f$r$o$m$ l$a$r$g$e$l$y$ u$n$d$i$s$t$u$r$b$e$d$ s$y$s$t$e$m$s$) w$o$u$l$d$ b$e$ u$s$e$d$. T$h$e$ d$e$t$e$r$m$i$n$a$t$i$o$n$ o$f$ t$h$e$ i$n$i$t$i$a$l$ b$a$s$e$l$i$n$e$ s$t$a$t$u$s$ w$o$u$l$d$ t$h$e$n$ b$e$"
 
 #: ../../SO1.md:1019
 #, python-format
@@ -2826,7 +2825,7 @@ msgid ""
 "‘trajectory’ and relative change. The two epochs are then compared to "
 "determine changes within the baseline period. Negative changes, with an "
 "arbitrary >10% decline in SOC, constitute SOC degradation."
-msgstr ""
+msgstr "U$s$e$ t$h$e$ c$h$a$n$g$e$/s$t$a$t$u$s$ o$v$e$r$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$ (2000–2015) t$o$ s$e$t$ t$h$e$ i$n$i$t$i$a$l$ b$a$s$e$l$i$n$e$ d$e$g$r$a$d$a$t$i$o$n$ s$t$a$t$u$s$ o$f$ e$a$c$h$ p$i$x$e$l$ (a$ s$i$m$i$l$a$r$ a$p$p$r$o$a$c$h$ t$o$ t$h$e$ o$n$e$ u$s$e$d$ f$o$r$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$). B$e$c$a$u$s$e$ S$O$C$ s$t$o$c$k$s$ a$r$e$ l$i$k$e$l$y$ t$o$ c$h$a$n$g$e$ o$v$e$r$ l$o$n$g$e$r$ (m$u$l$t$i$-a$n$n$u$a$l$ t$o$ d$e$c$a$d$a$l$) t$i$m$e$f$r$a$m$e$s$, t$h$e$ r$e$c$o$m$m$e$n$d$a$t$i$o$n$ i$s$ t$o$ u$s$e$ ‘e$p$o$c$h$s$’ (e$.g$. c$o$m$p$a$r$i$n$g$ 2013–2015 S$O$C$ s$t$o$c$k$ w$i$t$h$ 2000–2002 S$O$C$ s$t$o$c$k$) r$a$t$h$e$r$ t$h$a$n$ s$i$n$g$l% d"
 
 #: ../../SO1.md:1021
 msgid ""
@@ -2835,7 +2834,7 @@ msgid ""
 "sources, such as field experiments, paired sites, monitoring sites, "
 "scientific studies, and land management surveys. In this context, "
 "baselines could be derived in two distinct ways:"
-msgstr ""
+msgstr "A$t$ h$i$g$h$e$r$ t$i$e$r$s$, t$h$e$ a$s$s$e$s$s$m$e$n$t$ o$f$ S$O$C$ s$t$o$c$k$ c$h$a$n$g$e$ f$o$r$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$ m$a$y$ r$e$l$y$ o$n$ t$h$e$ i$n$t$e$g$r$a$t$i$o$n$ o$f$ g$e$o$s$p$a$t$i$a$l$ d$a$t$a$ w$i$t$h$ d$i$v$e$r$s$e$ s$o$u$r$c$e$s$, s$u$c$h$ a$s$ f$i$e$l$d$ e$x$p$e$r$i$m$e$n$t$s$, p$a$i$r$e$d$ s$i$t$e$s$, m$o$n$i$t$o"
 
 #: ../../SO1.md:1023
 msgid ""
@@ -2844,7 +2843,7 @@ msgid ""
 "default values to the land cover data, or using a national approach where"
 " countries use national data and methods yielding results comparable to "
 "the ones generated by default methods;"
-msgstr ""
+msgstr "A$s$ e$s$t$i$m$a$t$e$s$ o$f$ t$o$t$a$l$ S$O$C$ s$t$o$c$k$s$ f$o$r$ a$ p$a$r$t$i$c$u$l$a$r$ l$a$n$d$ u$s$e$/m$a$n$a$g$e$m$e$n$t$ s$t$r$a$t$i$f$i$c$a$t$i$o$n$, w$h$i$c$h$ c$o$u$l$d$ b$e$ d$e$r$i$v$e$d$ f$r$o$m$ g$l$o$b$a$l$ d$a$t$a$s$e$t$s$ b$y$ a$p$p$l$y$i$n$g$ d$e$f$a$u$l$t$ v$a$l$u$e$s$ t$o$ t$h$e$ l$a$n$d$ c$o$v$e$r$ d$a$t$a$, o$r$ u$s$i$n$g$ a$ n$a$t$i"
 
 #: ../../SO1.md:1025
 msgid ""
@@ -2852,24 +2851,24 @@ msgid ""
 "need to be defined (the suggested spatial resolution is 100m). The PRAIS "
 "4 platform includes prefilled baseline SOC data per land cover class, but"
 " also allows Parties to enter their own SOC data in the reporting tables."
-msgstr ""
+msgstr "A$s$ s$p$a$t$i$a$l$l$y$ e$x$p$l$i$c$i$t$ b$a$s$e$l$i$n$e$s$, w$h$e$r$e$ t$h$e$ a$p$p$r$o$p$r$i$a$t$e$ r$e$s$o$l$u$t$i$o$n$ w$o$u$l$d$ n$e$e$d$ t$o$ b$e$ d$e$f$i$n$e$d$ (t$h$e$ s$u$g$g$e$s$t$e$d$ s$p$a$t$i$a$l$ r$e$s$o$l$u$t$i$o$n$ i$s$ 100m$). T$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$ i$n$c$l$u$d$e$s$ p$r$e$f$i$l$l$e$d$ b$a"
 
 #: ../../SO1.md:1028
 msgid ""
 "The PRAIS 4 platform includes prefilled baseline SOC data per land cover "
 "class, but also allows Parties to enter their own SOC data in the "
 "reporting tables."
-msgstr ""
+msgstr "T$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$ i$n$c$l$u$d$e$s$ p$r$e$f$i$l$l$e$d$ b$a$s$e$l$i$n$e$ S$O$C$ d$a$t$a$ p$e$r$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$, b$u$t$ a$l$s$o$ a$l$l$o$w$"
 
 #: ../../SO1.md:1030
 msgid "Step 4: Estimate change in soil organic carbon stock"
-msgstr ""
+msgstr "S$t$e$p$ 4: E$s$t$i$m$a$t$e$ c$h$a$n$g$e$ i$n$ s$o$i$l$ o"
 
 #: ../../SO1.md:1
 msgid ""
 "Related areas in the PRAIS 4 platform: tables SO1-3.T1, SO1-3.T2, "
 "SO1-3.T3 and SO1-3.T5"
-msgstr ""
+msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$: t$a$b$l$e$s$ S$O$1-3.T$1, "
 
 #: ../../SO1.md:1036
 msgid ""
@@ -2880,7 +2879,7 @@ msgid ""
 "assesses whether there has been a (significant) negative change between "
 "the baseline and the reporting period and makes no assumptions about the "
 "initial status of SOC stocks."
-msgstr ""
+msgstr "T$h$e$ r$e$c$o$m$m$e$n$d$e$d$ m$e$t$h$o$d$ t$o$ e$s$t$i$m$a$t$e$ S$O$C$ s$t$o$c$k$ c$h$a$n$g$e$s$ u$s$e$s$ t$h$e$ t$r$e$n$d$ (o$r$ t$h$e$ d$i$r$e$c$t$i$o$n$ o$f$ c$h$a$n$g$e$) o$f$ S$O$C$ s$t$o$c$k$s$ o$b$s$e$r$v$e$d$ w$i$t$h$i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ a$s$ w$e$l$l$ a$s$ t$h$e$ m$a$g$n$i$t$u$d$e$ o$f$ t$h$e$ r$e$l$a$t$i$v$e$ c$h$a$n$g$e$ i$n$ S$O$C$ s$t$o$c$k$s$ b$e$t$w$e$e$n$ t$h$e$ b$a$s$e$l$i$n$e$ a$n$d$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$. T$h$i$s$ a$p$p$r$o$a$c$h$ o"
 
 #: ../../SO1.md:1038
 msgid ""
@@ -2888,39 +2887,39 @@ msgid ""
 " of the reporting period (SOC{sub}`tn`) for a given reporting unit have "
 "been consistently estimated (using any of the Tier 1–3 methods), the "
 "relative percentage change in SOC stocks is calculated as follows:"
-msgstr ""
+msgstr "O$n$c$e$ t$h$e$ b$a$s$e$l$i$n$e$ S$O$C$ s$t$o$c$k$s$ (S$O$C${s$u$b$}`t$0`) a$n$d$ t$h$e$ S$O$C$ s$t$o$c$k$s$ a$t$ t$h$e$ e$n$d$ o$f$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ (S$O$C${s$u$b$}`t$n$`) f$o$r$ a$ g$i$v$e$n$ r$e$p$o$r$t$i$n$g$ u$n$i$t$ h$a$v$e$ b$e$e$n$ c$o$n$s$i$s$t$e$n$t$l$y$ e$s$t$i$m$a$t$e$d$ (u"
 
 #: ../../SO1.md:1040
 msgid "T{sub}`SOC` = (( SOC{sub}`tn` - SOC{sub}`t0` )/ SOC{sub}`t0`) x 100"
-msgstr ""
+msgstr "T${s$u$b$}`S$O$C$` = (( S$O$C${s$u$b$}`t$n$` - S$O$C${s$u$b$}`t$0` )/ S$O"
 
 #: ../../SO1.md:1042
 msgid "Where:"
-msgstr ""
+msgstr "W$h$e$"
 
 #: ../../SO1.md:1044
 msgid ""
 "T{sub}`SOC` = relative change in soil organic carbon for reporting unit "
 "(%)"
-msgstr ""
+msgstr "T${s$u$b$}`S$O$C$` = r$e$l$a$t$i$v$e$ c$h$a$n$g$e$ i$n$ s$o$i$l$ o$r$g$a$n$i$c$ c$"
 
 #: ../../SO1.md:1046
 msgid ""
 "SOC{sub}`t0` = baseline soil organic carbon stock for reporting unit "
 "(tons of carbon per hectare)"
-msgstr ""
+msgstr "S$O$C${s$u$b$}`t$0` = b$a$s$e$l$i$n$e$ s$o$i$l$ o$r$g$a$n$i$c$ c$a$r$b$o$n$ s$t$o$c$k$ f$o$r$ r$e$p$o$r$t$"
 
 #: ../../SO1.md:1048
 msgid ""
 "SOC{sub}`tn` = soil organic carbon stock for final reporting period for "
 "reporting unit (tons of carbon per hectare)."
-msgstr ""
+msgstr "S$O$C${s$u$b$}`t$n$` = s$o$i$l$ o$r$g$a$n$i$c$ c$a$r$b$o$n$ s$t$o$c$k$ f$o$r$ f$i$n$a$l$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ f$o$r$"
 
 #: ../../SO1.md:1050
 msgid ""
 "For assessing changes in SOC stocks, UNCCD suggests two alternative "
 "approaches:"
-msgstr ""
+msgstr "F$o$r$ a$s$s$e$s$s$i$n$g$ c$h$a$n$g$e$s$ i$n$ S$O$C$ s$t$o$c$k$s$, U$N$C$C$D$ s$u$g$g$"
 
 #: ../../SO1.md:1052
 msgid ""
@@ -2928,27 +2927,27 @@ msgid ""
 "compares the average SOC stock with the upper and lower bounds of the "
 "average baseline SOC for the same unit of land. If the average for the "
 "same unit of land falls:"
-msgstr ""
+msgstr "T$h$e$ f$i$r$s$t$ m$e$t$h$o$d$ i$s$ b$a$s$e$d$ o$n$ t$e$s$t$s$ f$o$r$ s$t$a$t$i$s$t$i$c$a$l$ s$i$g$n$i$f$i$c$a$n$c$e$ a$n$d$ c$o$m$p$a$r$e$s$ t$h$e$ a$v$e$r$a$g$e$ S$O$C$ s$t$o$c$k$ w$i$t$h$ t$h$e$ u$p$p$e$r$ a$n$d$ l$o$w$e$r$ b$o$u$n$d$s$ o$f$ t$h$e$ a$v$"
 
 #: ../../SO1.md:1056
 msgid ""
 "a) Outside the lower bounds of the 95 per cent confidence interval "
 "(measured as twice the standard deviation), the area would be considered "
 "degraded (significant decline in SOC);"
-msgstr ""
+msgstr "a$) O$u$t$s$i$d$e$ t$h$e$ l$o$w$e$r$ b$o$u$n$d$s$ o$f$ t$h$e$ 95 p$e$r$ c$e$n$t$ c$o$n$f$i$d$e$n$c$e$ i$n$t$e$r$v$a$l$ (m$e$a$s$u$r$e$d$ a$s$ t$w$i$c$e$ t$h$e$ s$t$a$n$d$a$r$d$ d$e$v$i$a$t$i$o$n$"
 
 #: ../../SO1.md:1057
 msgid ""
 "b) Outside the upper bounds of the 95 per cent confidence interval "
 "(measured as twice the standard deviation), the area would be considered "
 "improved (significant increase in SOC);"
-msgstr ""
+msgstr "b$) O$u$t$s$i$d$e$ t$h$e$ u$p$p$e$r$ b$o$u$n$d$s$ o$f$ t$h$e$ 95 p$e$r$ c$e$n$t$ c$o$n$f$i$d$e$n$c$e$ i$n$t$e$r$v$a$l$ (m$e$a$s$u$r$e$d$ a$s$ t$w$i$c$e$ t$h$e$ s$t$a$n$d$a$r$d$ d$e$v$i$a$t$i$o$n$)"
 
 #: ../../SO1.md:1058
 msgid ""
 "c) Within the 95 per cent confidence interval, the area would be "
 "considered stable (no transition)."
-msgstr ""
+msgstr "c$) W$i$t$h$i$n$ t$h$e$ 95 p$e$r$ c$e$n$t$ c$o$n$f$i$d$e$n$c$e$ i$n$t$e$r$v$a$l$, t$h$e$ a$r$e$a$ w$o$u$l$d$"
 
 #: ../../SO1.md:1060
 msgid ""
@@ -2957,7 +2956,7 @@ msgid ""
 "and the reporting period for each unit of land by combining uncertainties"
 " as described above. If the 95 per cent confidence interval of the "
 "difference does not cover zero, then the change is significant."
-msgstr ""
+msgstr "A$n$ a$l$t$e$r$n$a$t$i$v$e$ s$t$a$t$i$s$t$i$c$a$l$ a$p$p$r$o$a$c$h$ w$o$u$l$d$ b$e$ t$o$ a$s$s$e$s$s$ t$h$e$ 95 p$e$r$ c$e$n$t$ c$o$n$f$i$d$e$n$c$e$ i$n$t$e$r$v$a$l$ o$f$ t$h$e$ d$i$f$f$e$r$e$n$c$e$ i$n$ S$O$C$ s$t$o$c$k$s$ b$e$t$w$e$e$n$ t$h$e$ b$a$s$e$l$i$n$e$ a$n$d$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ f$o$r$ e$a$c$h$ u$n$i$t$ o$f$ l$a$n$d$ b$y$ c$o$m$b$i$n$i$n$g$ u$n$c$e$r"
 
 #: ../../SO1.md:1062
 msgid ""
@@ -2965,7 +2964,7 @@ msgid ""
 "happen that confidence intervals are large, and thus the two statistical "
 "approaches described above may not detect significant change even if "
 "degradation is occurring."
-msgstr ""
+msgstr "G$i$v$e$n$ t$h$e$ h$i$g$h$ s$p$a$t$i$a$l$ v$a$r$i$a$b$i$l$i$t$y$ o$f$ t$h$e$ d$a$t$a$ f$o$r$ S$O$C$ s$t$o$c$k$s$, i$t$ m$a$y$ h$a$p$p$e$n$ t$h$a$t$ c$o$n$f$i$d$e$n$c$e$ i$n$t$e$r$v$a$l$s$ a$r$e$ l$a$r$g$e$, a$n$d$ t$h$u$s$ t$h$e$ t$w$o$ s$t$a$t$i$s$t$i$c$a$l$ "
 
 #: ../../SO1.md:1064
 msgid ""
@@ -2974,34 +2973,34 @@ msgid ""
 "defined threshold, between the baseline and reporting period. Then, for "
 "SOC stocks, the method of determining the status of change will be "
 "defined as:"
-msgstr ""
+msgstr "T$h$e$ s$e$c$o$n$d$ m$e$t$h$o$d$ i$s$ t$o$ a$s$s$e$s$s$ b$o$t$h$ t$h$e$ d$i$r$e$c$t$i$o$n$ o$f$ c$h$a$n$g$e$ a$n$d$ m$a$g$n$i$t$u$d$e$ o$f$ t$h$e$ r$e$l$a$t$i$v$e$ p$e$r$c$e$n$t$a$g$e$ c$h$a$n$g$e$ i$n$ S$O$C$ s$t$o$c$k$s$, r$e$l$a$t$i$v$e$ t$o$ s$o$m$e$ d$e$f$i$n$e$d$ t$h$r$e$s$h$o$l$d$, b$e$t$w$e$e$n$ t$h$e$ b$a$s$e"
 
 #: ../../SO1.md:1068
 msgid ""
 "a) Degraded: Reporting units with more than, for example, a 10 per cent "
 "average net reduction in SOC stocks between baseline and current "
 "observations;"
-msgstr ""
+msgstr "a$) D$e$g$r$a$d$e$d$: R$e$p$o$r$t$i$n$g$ u$n$i$t$s$ w$i$t$h$ m$o$r$e$ t$h$a$n$, f$o$r$ e$x$a$m$p$l$e$, a$ 10 p$e$r$ c$e$n$t$ a$v$e$r$a$g$e$ n$e$t$ r$e$d$u$c$t$i$o$n$"
 
 #: ../../SO1.md:1069
 msgid ""
 "b) Not degraded: Reporting units with less than, for example, a 10 per "
 "cent average net reduction, no change or an average net increase in SOC "
 "stocks between baseline and current observations."
-msgstr ""
+msgstr "b$) N$o$t$ d$e$g$r$a$d$e$d$: R$e$p$o$r$t$i$n$g$ u$n$i$t$s$ w$i$t$h$ l$e$s$s$ t$h$a$n$, f$o$r$ e$x$a$m$p$l$e$, a$ 10 p$e$r$ c$e$n$t$ a$v$e$r$a$g$e$ n$e$t$ r$e$d$u$c$t$i$o$n$, n$o$ c$h$a$n$g$e$ o$r$ a$n$ a$v$e$r$a"
 
 #: ../../SO1.md:1071
 msgid ""
 "As a starting point, an arbitrary >10 per cent change threshold is "
 "suggested. Subsequent refinement and justification of this threshold "
 "value will be needed."
-msgstr ""
+msgstr "A$s$ a$ s$t$a$r$t$i$n$g$ p$o$i$n$t$, a$n$ a$r$b$i$t$r$a$r$y$ >10 p$e$r$ c$e$n$t$ c$h$a$n$g$e$ t$h$r$e$s$h$o$l$d$ i$s$ s$u$g$g$e$s$t$e$d$. S$u$b$s$e$q$u$e$n$t$ r$e$f$i$n$e$m"
 
 #: ../../SO1.md:1073
 msgid ""
 "Parties may decide to use a different threshold than 10 per cent based on"
 " their knowledge of the country and the analysis of national data."
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ m$a$y$ d$e$c$i$d$e$ t$o$ u$s$e$ a$ d$i$f$f$e$r$e$n$t$ t$h$r$e$s$h$o$l$d$ t$h$a$n$ 10 p$e$r$ c$e$n$t$ b$a$s$e$d$ o$n$ t$h$e$i$r$ k$n$o$w$l"
 
 #: ../../SO1.md:1075
 msgid ""
@@ -3010,11 +3009,11 @@ msgid ""
 "with national data. Parties opting to use their own SOC data are "
 "encouraged to use Trends.Earth to (i) estimate changes in SOC; and (ii) "
 "identify potentially degraded areas."
-msgstr ""
+msgstr "T$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$ i$n$c$l$u$d$e$s$ p$r$e$f$i$l$l$e$d$ d$a$t$a$ f$o$r$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ d$e$r$i$v$e$d$ f$r$o$m$ t$h$e$ d$e$f$a$u$l$t$ d$a$t$a$ t$o$ b$e$ a$c$c$e$p$t$e$d$ b$y$ t$h$e$ P$a$r$t$i$e$s$ o$r$ r$e$p$l$a$c$e$d$ w$i$t$h$ n$a$t$i$o$n$a$l$ d$a$t$a$. P$a$r$t$i$e$s$ o$p$t$i$n$g$ t$o$ u$s$e$ t$h$e$i$r$ "
 
 #: ../../SO1.md:1077
 msgid "Step 5:  Verify the results"
-msgstr ""
+msgstr "S$t$e$p$ 5:  V$e$r$i$f$y$ t$h"
 
 #: ../../SO1.md:1079
 msgid ""
@@ -3029,11 +3028,11 @@ msgid ""
 "confidence level of the obtained results might be low. This input would "
 "contribute to a qualitative assessment of the reliability of the "
 "estimates."
-msgstr ""
+msgstr "T$h$e$ d$e$f$a$u$l$t$ m$e$t$h$o$d$ d$r$a$w$s$ o$n$ d$a$t$a$ g$e$n$e$r$a$t$e$d$ f$r$o$m$ t$h$e$ a$s$s$e$s$s$m$e$n$t$ o$f$ l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$ i$n$ c$o$m$b$i$n$a$t$i$o$n$ w$i$t$h$ r$e$f$e$r$e$n$c$e$ a$n$d$ e$m$i$s$s$i$o$n$ f$a$c$t$o$r$s$ o$b$t$a$i$n$e$d$ f$r$o$m$ t$h$e$ I$P$C$C$ d$e$f$a$u$l$t$ t$a$b$l$e$s$ c$o$r$r$e$s$p$o$n$d$i$n$g$ t$o$ b$r$o$a$d$ c$o$n$t$i$n$e$n$t$a$l$ l$a$n$d$ c$o$v$e$r$ t$y$p$e$s$ a$n$d$ m$a$n$a$g$e$m$e$n$t$ r$e$g$i$m$e$s$. A$s$ s$u$c$h$, d$e$r$i$v$e$d$ e$s$t$i$m$a$t$e$s$ p$r$o$v$i$d$e$ l$i$m$i$t$e$d$ r$e$s$o$l$u$t$i$o$n$ o$f$ h$o$w$ c$a$r$b$o$n$ s$t$o$c$k$s$ v$a$r$y$ s$u$b$n$a$t$i$o$n$a$l$l$y$ a$n$d$ h$a$v$e$ g$r$e$a$t$ u$n$c$e$r$t$a$i$n$t$y$. T$h$i$s$ m$a$y$ a$f$f$e$c$t$ t$h$e$ r$e$l$i$a$b$i$l$i$t$y$ o$f$ t$h$e$ e$s$t$i$m$a$t$e$s$ o$f$ S"
 
 #: ../../SO1.md:1081
 msgid "Step 6: Generate reports"
-msgstr ""
+msgstr "S$t$e$p$ 6: G$e$n$e$r$a$t$"
 
 #: ../../SO1.md:1083
 msgid ""
@@ -3044,7 +3043,7 @@ msgid ""
 "tonnes/hectare. This default data should be verified by the Parties "
 "before submission, or replaced with alternative national data sources if "
 "opting for the Tier 2 or Tier 3 approach."
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ a$d$o$p$t$i$n$g$ t$h$e$ T$i$e$r$ 1 a$p$p$r$o$a$c$h$ m$a$y$ o$f$f$i$c$i$a$l$l$y$ s$u$b$m$i$t$ t$h$e$ d$e$f$a$u$l$t$ d$a$t$a$ m$a$d$e$ a$v$a$i$l$a$b$l$e$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$. T$a$b$l$e$ S$O$1-3.T$1 o$f$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$ d$i$s$p$l$a$y$s$ p$r$e$-c$a$l$c$u$l$a$t$e$d$ e$s$t$i$m$a$t$e$s$ o$f$ S$O$C$ s$t$o$c$k$s$ i$n$ t$h$e$ t$o$p$s$o$i$l$ (t$o$ 30 c$m$ d$e$p$t$h$) p$e$r$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$ a$t$ n$a$t$i$o$n$a$l$ l$e$v$e$l$ e$x$p$r$e$s$s$e$d$ i$n$ t$o"
 
 #: ../../SO1.md:1085
 msgid ""
@@ -3054,42 +3053,42 @@ msgid ""
 "stocks both for the baseline and reporting periods. The results of the "
 "SOC degradation analysis based on SOC stock changes is reported in tables"
 " SO1-3.T4 and SO1-3.T5."
-msgstr ""
+msgstr "C$h$a$n$g$e$s$ i$n$ S$O$C$ s$t$o$c$k$s$ f$o$r$ e$a$c$h$ l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$ (c$a$l$c$u$l$a$t$e$d$ b$y$ T$r$e$n$d$s$.E$a$r$t$h$) a$r$e$ r$e$p$o$r$t$e$d$ i$n$ t$a$b$l$e$s$ S$O$1-3.T$2 a$n$d$ S$O$1-3.T$3. D$a$t$a$ i$n$c$l$u$d$e$s$ t$h$e$ n$e$t$ a$r$e$a$ c$h$a$n$g$e$ i$n$ k$m$2 a$n$d$ t$h$e$ i$n$i$t$i$a$l$, f$i$n$a$l$ a$n$d$ c$h$a$n$g$e$ i$n$ S$O$C$ s$t$o$c$k$s$ b$o$t$h$ f$o$r$ t$h$e$ b$a$s$e$l$i$n"
 
 #: ../../SO1.md:1087
 msgid ""
 "Maps with default or national data representing SOC stocks, SOC stock "
 "changes and SOC degradation for the baseline and the reporting period are"
 " accessible via the PRAIS 4 platform. These include:"
-msgstr ""
+msgstr "M$a$p$s$ w$i$t$h$ d$e$f$a$u$l$t$ o$r$ n$a$t$i$o$n$a$l$ d$a$t$a$ r$e$p$r$e$s$e$n$t$i$n$g$ S$O$C$ s$t$o$c$k$s$, S$O$C$ s$t$o$c$k$ c$h$a$n$g$e$s$ a$n$d$ S$O$C$ d$e$g$r$a$d$a$t$i$o$n$ f$o$r$ t$h$e$ b$a$s$e$l$i$n$e$ a$n"
 
 #: ../../SO1.md:1089
 msgid "SOC stock in the initial year of the baseline period (2000)"
-msgstr ""
+msgstr "S$O$C$ s$t$o$c$k$ i$n$ t$h$e$ i$n$i$t$i$a$l$ y$e$a$r$ o$f$ t$h$e"
 
 #: ../../SO1.md:1090
 msgid "SOC stock in the baseline year (2015)"
-msgstr ""
+msgstr "S$O$C$ s$t$o$c$k$ i$n$ t$h$e$ b$a$s$e$l$"
 
 #: ../../SO1.md:1091
 msgid "SOC stock in the latest reporting year"
-msgstr ""
+msgstr "S$O$C$ s$t$o$c$k$ i$n$ t$h$e$ l$a$t$e$s$t"
 
 #: ../../SO1.md:1092
 msgid "Change in SOC stock in the baseline period"
-msgstr ""
+msgstr "C$h$a$n$g$e$ i$n$ S$O$C$ s$t$o$c$k$ i$n$ t$h$e"
 
 #: ../../SO1.md:1093
 msgid "Change in SOC stock in the reporting period"
-msgstr ""
+msgstr "C$h$a$n$g$e$ i$n$ S$O$C$ s$t$o$c$k$ i$n$ t$h$e$"
 
 #: ../../SO1.md:1094
 msgid "SOC degradation in the baseline period"
-msgstr ""
+msgstr "S$O$C$ d$e$g$r$a$d$a$t$i$o$n$ i$n$ t$h$e$"
 
 #: ../../SO1.md:1095
 msgid "SOC degradation in the reporting period."
-msgstr ""
+msgstr "S$O$C$ d$e$g$r$a$d$a$t$i$o$n$ i$n$ t$h$e$ r$"
 
 #: ../../SO1.md:1097
 msgid ""
@@ -3097,25 +3096,25 @@ msgid ""
 "description of the methodology used to estimate SOC stocks, SOC stock "
 "changes and the relative SOC degradation using the ‘General Comment’ "
 "field."
-msgstr ""
+msgstr "F$o$r$ e$s$t$i$m$a$t$e$s$ d$e$r$i$v$e$d$ f$r$o$m$ n$a$t$i$o$n$a$l$ d$a$t$a$, P$a$r$t$i$e$s$ m$a$y$ a$l$s$o$ p$r$o$v$i$d$e$ a$ d$e$s$c$r$i$p$t$i$o$n$ o$f$ t$h$e$ m$e$t$h$o$d$o$l$o$g$y$ u$s$e$d$ t$o$ e$s$t$i$m$a$t$e$ S$O$C$ s$t$o$c$k$s$,"
 
 #: ../../SO1.md:1099
 msgid "1.3.4. Dependencies"
-msgstr ""
+msgstr "1.3.4. D$e$p$e$n$d$e"
 
 #: ../../SO1.md:1101
 msgid ""
 "Estimates of SOC stock changes are dependent on the land cover data "
 "reported under SO 1-1 and the total land area reported in table SO1-1.T1."
-msgstr ""
+msgstr "E$s$t$i$m$a$t$e$s$ o$f$ S$O$C$ s$t$o$c$k$ c$h$a$n$g$e$s$ a$r$e$ d$e$p$e$n$d$e$n$t$ o$n$ t$h$e$ l$a$n$d$ c$o$v$e$r$ d$a$t$a$ r$e$p$o$r$t$e$d$ u$n$d$e$r$ S$O"
 
 #: ../../SO1.md:1103
 msgid "1.3.5. Challenges"
-msgstr ""
+msgstr "1.3.5. C$h$a$l$l$e"
 
 #: ../../SO1.md:1105
 msgid "Data availability"
-msgstr ""
+msgstr "D$a$t$a$ a$v$a$i$l"
 
 #: ../../SO1.md:1107
 msgid ""
@@ -3125,7 +3124,7 @@ msgid ""
 "over time. Future data improvements must include standardization, "
 "accessibility, higher spatial resolution and improved uncertainty "
 "estimates;"
-msgstr ""
+msgstr "D$e$t$a$i$l$e$d$ d$a$t$a$ o$n$ S$O$C$ s$t$o$c$k$ a$r$e$ g$e$n$e$r$a$l$l$y$ u$n$a$v$a$i$l$a$b$l$e$ b$o$t$h$ a$t$ g$l$o$b$a$l$ a$n$d$ n$a$t$i$o$n$a$l$ l$e$v$e$l$s$. C$u$r$r$e$n$t$ d$a$t$a$ a$r$e$ d$e$r$i$v$e$d$ f$r$o$m$ a$ c$o$m$b$i$n$a$t$i$o$n$ o$f$ c$o$n$t$e$m$p$o$r$a$r$y$ a$n$d$ l$e$g$a$c$y$ d$a$t$a$ a$n$d$ a$r$e$ n$o$t$ f$u$l$l$y$ i$n$t$e$g$r$a$t$e$d$ a$n$d$ c$o$n$s$i$s$t$e$n$t$ o$"
 
 #: ../../SO1.md:1109
 msgid ""
@@ -3134,18 +3133,18 @@ msgid ""
 "data. Usable methods to consistently collect and process relevant data to"
 " include management factors in the estimations of SOC should be "
 "considered for future reporting."
-msgstr ""
+msgstr "S$O$C$ s$t$o$c$k$ c$h$a$n$g$e$s$ a$r$e$ p$r$i$m$a$r$i$l$y$ c$o$m$p$u$t$e$d$ f$r$o$m$ l$a$n$d$ c$o$v$e$r$ c$h$a$n$g$e$s$, w$h$i$l$e$ m$a$n$a$g$e$m$e$n$t$ a$n$d$ i$n$p$u$t$ f$a$c$t$o$r$s$ a$r$e$ o$f$t$e$n$ n$o$t$ i$n$c$l$u$d$e$d$ b$e$c$a$u$s$e$ o$f$ l$a$c$k$ o$f$ d$a$t$a$. U$s$a$b$l$e$ m$e$t$h$o$d$s$ t$o$ c$o$n$s$i$s$t$e$n$t$l$y$ c$o$l$l$e$c$t"
 
 #: ../../SO1.md:1111
 msgid "Unresolved issues"
-msgstr ""
+msgstr "U$n$r$e$s$o$l$v$e$"
 
 #: ../../SO1.md:1113
 msgid ""
 "There is a challenge associated with drylands which lack topsoil. There "
 "is a need to update the methodology to take such special cases into full "
 "consideration and adjust the calculations accordingly;"
-msgstr ""
+msgstr "T$h$e$r$e$ i$s$ a$ c$h$a$l$l$e$n$g$e$ a$s$s$o$c$i$a$t$e$d$ w$i$t$h$ d$r$y$l$a$n$d$s$ w$h$i$c$h$ l$a$c$k$ t$o$p$s$o$i$l$. T$h$e$r$e$ i$s$ a$ n$e$e$d$ t$o$ u$p$d$a$t$e$ t$h$e$ m$e$t$h$o$d$o$l$o$g$y$ t$o$ t$a$k$e$ s$u$c$h"
 
 #: ../../SO1.md:1115
 msgid ""
@@ -3154,15 +3153,15 @@ msgid ""
 "estimates of land-use and land-cover changes. Parties may consider "
 "including soil erosion and/or deposition as parameters for the "
 "implementation of the Tier 3 method."
-msgstr ""
+msgstr "S$o$i$l$ e$r$o$s$i$o$n$ a$n$d$/o$r$ d$e$p$o$s$i$t$i$o$n$ m$a$y$ h$a$v$e$ s$i$g$n$i$f$i$c$a$n$t$ e$f$f$e$c$t$s$ o$n$ m$e$a$s$u$r$e$d$ S$O$C$ s$t$o$c$k$s$, b$u$t$ t$h$e$i$r$ e$f$f$e$c$t$s$ o$n$ s$t$o$c$k$ c$h$a$n$g$e$s$ a$r$e$ i$n$c$l$u$d$e$d$ i$n$ t$h$e$ e$s$t$i$m$a$t$e$s$ o$f$ l$a$n$d$-u$s$e$ a$n$d$ l$a$n$d$-c$o$v$e$r$ c$h$a$n$g$e$s$"
 
 #: ../../SO1.md:1117
 msgid "1.3.6. Summary (main actions)"
-msgstr ""
+msgstr "1.3.6. S$u$m$m$a$r$y$ (m$a$i$n$"
 
 #: ../../SO1.md:1119
 msgid "Key actions for reporting on SOC changes are as follows:"
-msgstr ""
+msgstr "K$e$y$ a$c$t$i$o$n$s$ f$o$r$ r$e$p$o$r$t$i$n$g$ o$n$ S$O$C$ c"
 
 #: ../../SO1.md:1121
 msgid ""
@@ -3170,7 +3169,7 @@ msgid ""
 "proposed Tier methods to report national data to UNCCD, depending on "
 "their technical capacity to estimate SOC stock changes and on the "
 "availability of national data;"
-msgstr ""
+msgstr "**S$e$l$e$c$t$ t$h$e$ e$s$t$i$m$a$t$i$o$n$ m$e$t$h$o$d$:** P$a$r$t$i$e$s$ m$a$y$ o$p$t$ f$o$r$ o$n$e$ o$f$ t$h$e$ t$h$r$e$e$ p$r$o$p$o$s$e$d$ T$i$e$r$ m$e$t$h$o$d$s$ t$o$ r$e$p$o$r$t$ n$a$t$i$o$n$a$l$ d$a$t$a$ t$o$ U$N$C$C$D$, d$e$p$e$n$d$i$n$g$ o$n$ t$h$e$i$"
 
 #: ../../SO1.md:1123
 msgid ""
@@ -3179,7 +3178,7 @@ msgid ""
 "suitability of the default data. If unsuitable, select alternative data "
 "sources and ensure compliance with the minimum specifications listed in "
 "table 14 above;"
-msgstr ""
+msgstr "**A$s$s$e$s$s$ a$v$a$i$l$a$b$l$e$ d$a$t$a$:** B$a$s$e$d$ o$n$ t$h$e$ T$i$e$r$ l$e$v$e$l$ d$e$e$m$e$d$ m$o$s$t$ a$p$p$r$o$p$r$i$a$t$e$ f$o$r$ r$e$p$o$r$t$i$n$g$ i$n$ t$h$e$ r$e$s$p$e$c$t$i$v$e$ c$o$u$n$t$r$y$, e$v$a$l$u$a$t$e$ t$h$e$ s$u$i$t$a$b$i$l$i$t$y$ o$f$ t$h$e$ d$e$f$a$u$l$t$ d$a$t$a$. I$f$ u$n$s$u$i$t$a$b$l$"
 
 #: ../../SO1.md:1125
 msgid ""
@@ -3189,7 +3188,7 @@ msgid ""
 "using one of the two options presented in Step 2. By default, the "
 "relative SOC change in the baseline period (2000–2015) will be used to "
 "determine the baseline degradation status;"
-msgstr ""
+msgstr "**D$e$t$e$r$m$i$n$e$ t$h$e$ b$a$s$e$l$i$n$e$ S$O$C$ s$t$o$c$k$ a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ s$t$a$t$u$s$:** E$s$t$i$m$a$t$e$ t$h$e$ a$v$e$r$a$g$e$ S$O$C$ s$t$o$c$k$ i$n$ t$h$e$ t$o$p$s$o$i$l$ (0–30 c$m$) f$o$r$ e$a$c$h$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$ a$n$d$ i$n$f$e$r$ t$h$e$ i$n$i$t$i$a$l$ d$e$g$r$a$d$a$t$i$o$n$ s$t$a$t$u$s$ w$i$t$h$i$n$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$ (t$0) u$s$i$n$g$ o$n$e$ o$f$ t$h$e$ t$w$o$ o$p$t$i$o$n$s"
 
 #: ../../SO1.md:1127
 msgid ""
@@ -3201,7 +3200,7 @@ msgid ""
 "relative approach based on the percentage change can be adopted. By "
 "default, land units with relative declines of >10 per cent in SOC stock "
 "between the baseline and reporting periods are considered degraded;"
-msgstr ""
+msgstr "**E$s$t$i$m$a$t$e$ c$h$a$n$g$e$ i$n$ S$O$C$ s$t$o$c$k$s$:** F$o$r$ t$h$e$ m$a$j$o$r$ l$a$n$d$ c$o$v$e$r$ t$r$a$n$s$i$t$i$o$n$s$, r$e$p$o$r$t$ t$h$e$ n$e$t$ c$h$a$n$g$e$ i$n$ S$O$C$. I$n$d$i$c$a$t$e$ w$h$e$t$h$e$r$ t$h$e$r$e$ h$a$s$ b$e$e$n$ S$O$C$ d$e$g$r$a$d$a$t$i$o$n$, i$m$p$r$o$v$e$m$e$n$t$ o$r$ n$o$ s$i$g$n$i$f$i$c$a$n$t$ c$h$a$n$g$e$ (s$t$a$b$l$e$) b$a$s$e$d$ o$n$ t$h$e$ e$s$t$i$m$a$t$e$d$ S$O$C$ s$t$o$c$k$ c$h$a$n$g$e$s$ b$e$t$w$e$e$n$ t$h$e$ b$a$s$e$l$i$n$e$ a$n$d$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$. A$ s$t$a$t$i$s$t$i$c$a$l$ a$p$p$r$o$a$c$h$ b$a$s$e$d$ o$n$ t$h$e$ s$i$g$n$i$f$i$c$a$n$c$e$ o$f$"
 
 #: ../../SO1.md:1129
 msgid ""
@@ -3210,7 +3209,7 @@ msgid ""
 "authorities to assess the accuracy of the results and identify any false "
 "positive and negative situations which can be reported on in the SO 1-4 "
 "forms (SDG indicator 15.3.1);"
-msgstr ""
+msgstr "**V$e$r$i$f$y$ t$h$e$ r$e$s$u$l$t$s$:** I$t$ i$s$ r$e$c$o$m$m$e$n$d$e$d$ t$h$a$t$ S$O$C$ c$h$a$n$g$e$s$ a$n$d$ r$e$l$a$t$e$d$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ e$s$t$i$m$a$t$e$s$ a$r$e$ v$e$r$i$f$i$e$d$ b$y$ t$h$e$ c$o$n$c$e$r$n$e$d$ n$a$t$i$o$n$a$l$ a$u$t$h$o$r$i$t$i$e$s$ t$o$ a$s$s$e$s$s$ t$h$e$ a$c$c$u$r$a$c$y$ o$f$ t$h$e$ r$e$s$u$l$t$s$ a"
 
 #: ../../SO1.md:1131
 msgid ""
@@ -3218,11 +3217,11 @@ msgid ""
 "platform (for the Tier 1 approach) or replace it with national data (for "
 "the Tier 2 or Tier 3 approaches). Include the narrative required to "
 "describe the national context of land degradation based on SOC changes."
-msgstr ""
+msgstr "**G$e$n$e$r$a$t$e$ r$e$p$o$r$t$s$:** V$e$r$i$f$y$ t$h$e$ d$e$f$a$u$l$t$ d$a$t$a$ p$r$o$v$i$d$e$d$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$ (f$o$r$ t$h$e$ T$i$e$r$ 1 a$p$p$r$o$a$c$h$) o$r$ r$e$p$l$a$c$e$ i$t$ w$i$t$h$ n$a$t$i$o$n$a$l$ d$a$t$a$ (f$o$r$ t$h$e$ T$i$e$r$ 2 o$r$ T$i$e$r$ 3 a$p$p$r$o$a$c$h$e$s$). I"
 
 #: ../../SO1.md:1133
 msgid "1.3.7. Further reading"
-msgstr ""
+msgstr "1.3.7. F$u$r$t$h$e$r$ r$"
 
 #: ../../SO1.md:1135
 msgid ""
@@ -3231,7 +3230,7 @@ msgid ""
 "Above and Below Ground (<https://www.unccd.int/publications/good-"
 "practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
 "land>)."
-msgstr ""
+msgstr "G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1: P$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (v$e$r$s$i$o$n$ 2). C$h$a$p$t$e$r$ 5: C$a$r$b$o$n$ S$t$o$c$k$, A$b$o$v$e$ a$n$d$ B$e$l$o$w$ G$r$o$u$n$d$ (<h$t$t$p$s$://w$w$w$.u$"
 
 #: ../../SO1.md:1136
 msgid ""
@@ -3239,7 +3238,7 @@ msgid ""
 "(Eds). 2006 IPCC Guidelines for National Greenhouse Gas Inventories. "
 "Intergovernmental Panel on Climate Change (IPCC)/Institute for Global "
 "Environmental Strategies (IGES), Hayama, Japan."
-msgstr ""
+msgstr "I$P$C$C$, 2006. E$g$g$l$e$s$t$o$n$, S$., B$u$e$n$d$i$a$ L$., M$i$w$a$ K$., N$g$a$r$a$ T$., a$n$d$ T$a$n$a$b$e$ K$. (E$d$s$). 2006 I$P$C$C$ G$u$i$d$e$l$i$n$e$s$ f$o$r$ N$a$t$i$o$n$a$l$ G$r$e$e$n$h$o$u$s$e$ G$a$s$ I$n$v$e$n$t$o$r$i$e$s$. I$n$t$e$r$g$o$v$e$r$n$m$e$n$t$a$l$ P$a$n$e$l$ o"
 
 #: ../../SO1.md:1137
 msgid ""
@@ -3247,7 +3246,7 @@ msgid ""
 "Baasansuren, J., Fukuda, M. and Troxler, T.G. (Eds). 2013 Supplement to "
 "the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: "
 "Wetlands. Intergovernmental Panel on Climate Change (IPCC), Switzerland."
-msgstr ""
+msgstr "I$P$C$C$, 2013. H$i$r$a$i$s$h$i$, T$., K$r$u$g$, T$., T$a$n$a$b$e$, K$., S$r$i$v$a$s$t$a$v$a$, N$., B$a$a$s$a$n$s$u$r$e$n$, J$., F$u$k$u$d$a$, M$. a$n$d$ T$r$o$x$l$e$r$, T$.G$. (E$d$s$). 2013 S$u$p$p$l$e$m$e$n$t$ t$o$ t$h$e$ 2006 I$P$C$C$ G$u$i$d$e$l$i$n$e$s$ f$o$r$ N$a$t$i$o$n$a$l$ G$r$e$e$n$h$o$u$s"
 
 #: ../../SO1.md:1138
 msgid ""
@@ -3256,24 +3255,24 @@ msgid ""
 "Baasansuren, J., Fukuda, M., Ngarize, S., Osako, A., Pyrozhenko, Y., "
 "Shermanau, P., Federici, S. (eds). Intergovernmental Panel on Climate "
 "Change, Geneva, Switzerland."
-msgstr ""
+msgstr "I$P$C$C$. 2019. R$e$f$i$n$e$m$e$n$t$ t$o$ t$h$e$ 2006 I$P$C$C$ G$u$i$d$e$l$i$n$e$s$ f$o$r$ N$a$t$i$o$n$a$l$ G$r$e$e$n$h$o$u$s$e$ G$a$s$ I$n$v$e$n$t$o$r$i$e$s$. I$n$: B$u$e$n$d$i$a$, E$., T$a$n$a$b$e$, K$., K$r$a$n$j$c$, A$., B$a$a$s$a$n$s$u$r$e$n$, J$., F$u$k$u$d$a$, M$., N$g$a$r$i$z$e$, S$., O$s$a$k$o$, A$., P$y$r$o$z$h$e$n$k$o"
 
 #: ../../SO1.md:1139
 msgid ""
 "‘Default data: methods and interpretation. A guidance document for 2018 "
 "UNCCD reporting’ "
 "(<https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf>)."
-msgstr ""
+msgstr "‘D$e$f$a$u$l$t$ d$a$t$a$: m$e$t$h$o$d$s$ a$n$d$ i$n$t$e$r$p$r$e$t$a$t$i$o$n$. A$ g$u$i$d$a$n$c$e$ d$o$c$u$m$e$n$t$ f$o$r$ 2018 U$N$C$C$D$ r$e$p$o$r$t$i$n$g$’ (<h$t$t$p$s$://p$r$a$i$s$.u$n$c$c$d$"
 
 #: ../../SO1.md:1141
 msgid ""
 "1.4. SO 1-4 – Proportion of land that is degraded over total land area "
 "(Sustainable Development Goal indicator 15.3.1)"
-msgstr ""
+msgstr "1.4. S$O$ 1-4 – P$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (S$u$s$t$"
 
 #: ../../SO1.md:1143
 msgid "1.4.1. Introduction"
-msgstr ""
+msgstr "1.4.1. I$n$t$r$o$d$u"
 
 #: ../../SO1.md:1145
 msgid ""
@@ -3282,7 +3281,7 @@ msgid ""
 "cropland, or range, pasture, forest and woodlands resulting from a "
 "combination of pressures, including land use and management "
 "practices[^7]’."
-msgstr ""
+msgstr "L$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ i$s$ d$e$f$i$n$e$d$ a$s$ ‘t$h$e$ r$e$d$u$c$t$i$o$n$ o$r$ l$o$s$s$ o$f$ t$h$e$ b$i$o$l$o$g$i$c$a$l$ o$r$ e$c$o$n$o$m$i$c$ p$r$o$d$u$c$t$i$v$i$t$y$ a$n$d$ c$o$m$p$l$e$x$i$t$y$ o$f$ r$a$i$n$f$e$d$ c$r$o$p$l$a$n$d$, i$r$r$i$g$a$t$e$d$ c$r$o$p$l$a$n$d$, o$r$ r$a$n$g$e$, p$a$s$t$u$r$e$,"
 
 #: ../../SO1.md:1148
 msgid ""
@@ -3297,14 +3296,14 @@ msgid ""
 "will be used by the secretariat, in its capacity as the custodian agency "
 "for SDG indicator 15.3.1, to contribute to the overall follow-up and "
 "review by the High-level Political Forum on Sustainable Development."
-msgstr ""
+msgstr "U$s$i$n$g$ t$h$e$ t$h$r$e$e$ i$n$d$i$c$a$t$o$r$s$ S$O$ 1-1, S$O$ 1-2 a$n$d$ S$O$ 1-3 (h$e$r$e$i$n$a$f$t$e$r$ r$e$f$e$r$r$e$d$ t$o$ a$s$ s$u$b$i$n$d$i$c$a$t$o$r$s$), U$N$C$C$D$ r$e$p$o$r$t$i$n$g$ w$i$l$l$ e$s$t$i$m$a$t$e$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$, w$h$i$c$h$ i$s$ a$l$s$o$ S$D$G$ i$n$d$i$c$a$t$o$r$ 15.3.1 a$n$d$ t$h$e$ o$n$l$y$ i$n$d$i$c$a$t$o$r$ u$s$e$d$ t$o$ t$r$a$c$k$ p$r$o$g$r$e$s$s$ t$o$w$a$r$d$s$ t$a$r$g$e$t$ 15.3: ‘B$y$ 2030, c$o$m$b$a$t$ d$e$s$e$r$t$i$f$i$c$a$t$i$o$n$, r$e$s$t$o$r$e$ d$e$g$r$a$d$e$d$ l$a$n$d$ a$n$d$ s$o$i$l$, i$n$c$l$u$d$i$n$g$ l$a$n$d$ a$f$f$e$c$t$e$d$ b$y$ d$e$s$e$r$t$i$f$i$c$a$t$i$o$n$, d$r$o$u$g$h$t$ a$n$d$ f$l$o$o$d$s$, a$n$d$ s$t$r$i$v$e$ t$o$ a$c$h$i$e$v$e$ a$ l$a$n$d$-d$e$g$r$a$d$a$t$i$o$n$ n$e$u$t$r$a$l$ w$o$r$l$d$"
 
 #: ../../SO1.md:1150
 msgid ""
 "Knowing the extent and location of degraded land is instrumental to "
 "achieving land degradation neutrality (LDN) at national level and "
 "supporting Parties in setting national voluntary targets."
-msgstr ""
+msgstr "K$n$o$w$i$n$g$ t$h$e$ e$x$t$e$n$t$ a$n$d$ l$o$c$a$t$i$o$n$ o$f$ d$e$g$r$a$d$e$d$ l$a$n$d$ i$s$ i$n$s$t$r$u$m$e$n$t$a$l$ t$o$ a$c$h$i$e$v$i$n$g$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ n$e$u$t$r$a$l$i$t$y$ (L$D$N$) a$t$"
 
 #: ../../SO1.md:1152
 msgid ""
@@ -3312,14 +3311,14 @@ msgid ""
 "quantifying the area of land that is degraded as a proportion of total "
 "land area, which is  defined as the total surface area of a country "
 "excluding the area covered by inland waters, like major rivers and lakes."
-msgstr ""
+msgstr "S$D$G$ i$n$d$i$c$a$t$o$r$ 15.3.1 i$s$ r$e$p$o$r$t$e$d$ a$s$ a$ s$i$n$g$l$e$ f$i$g$u$r$e$ e$x$p$r$e$s$s$e$d$ i$n$ k$m$2 q$u$a$n$t$i$f$y$i$n$g$ t$h$e$ a$r$e$a$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ a$s$ a$ p$r$o$p$o$r$t$i$o$n$ o$f$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$, w$h$i$c$h$ i$s$  d$e$f$i$n$e$d$ a$s$ t$h$e"
 
 #: ../../SO1.md:1154
 msgid ""
 "UNCCD facilitates reporting on SDG indicator 15.3.1 by providing pre-"
 "filled data in the PRAIS 4 platform with values derived from default "
 "datasets."
-msgstr ""
+msgstr "U$N$C$C$D$ f$a$c$i$l$i$t$a$t$e$s$ r$e$p$o$r$t$i$n$g$ o$n$ S$D$G$ i$n$d$i$c$a$t$o$r$ 15.3.1 b$y$ p$r$o$v$i$d$i$n$g$ p$r$e$-f$i$l$l$e$d$ d$a$t$a$ i$n$ t$h$e$ P$R$A"
 
 #: ../../SO1.md:1156
 msgid ""
@@ -3329,25 +3328,25 @@ msgid ""
 "these sites, including their geographical locations, the delineation of "
 "their extents and the processes driving the false negative/false positive"
 " interpretations."
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ h$a$v$e$ t$h$e$ o$p$t$i$o$n$ t$o$ i$d$e$n$t$i$f$y$ a$r$e$a$s$ o$f$ ‘f$a$l$s$e$ n$e$g$a$t$i$v$e$’ o$r$ o$f$ ‘f$a$l$s$e$ p$o$s$i$t$i$v$e$’ e$r$r$o$r$s$ i$n$ t$h$e$ i$d$e$n$t$i$f$i$c$a$t$i$o$n$ o$f$ d$e$g$r$a$d$a$t$i$o$n$. T$h$e$ r$e$p$o$r$t$i$n$g$ f$o$r$m$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$ a$l$l$o$w$s$ f$o$r$ a$ f$u$l$l$ d$e$s$c$r$i$p$t$i$o$n$ o$f$ t$h$e$s$e$ s$i$t$e$s$, i$n$c$l$u"
 
 #: ../../SO1.md:1158
 msgid ""
 "Parties are also encouraged to identify ‘hotspots’ and ‘brightspots’ as "
 "areas experiencing the most evident and dramatic changes in (i) land "
 "degradation; and (ii) improvement, respectively."
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ a$r$e$ a$l$s$o$ e$n$c$o$u$r$a$g$e$d$ t$o$ i$d$e$n$t$i$f$y$ ‘h$o$t$s$p$o$t$s$’ a$n$d$ ‘b$r$i$g$h$t$s$p$o$t$s$’ a$s$ a$r$e$a$s$ e$x$p$e$r$i$e$n$c$i$n$g$ t$h$e$ m$o$s$t$ e$v$i$d$e$n$t$ a$n$d$ d$r"
 
 #: ../../SO1.md:1160
 msgid "1.4.2. Prerequisites for reporting"
-msgstr ""
+msgstr "1.4.2. P$r$e$r$e$q$u$i$s$i$t$e$s$ f$o"
 
 #: ../../SO1.md:1162
 msgid ""
 "An in-depth reading of chapter 2 of the [Good Practice Guidance for SDG "
 "Indicator 15.3.1](https://www.unccd.int/publications/good-practice-"
 "guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land);"
-msgstr ""
+msgstr "A$n$ i$n$-d$e$p$t$h$ r$e$a$d$i$n$g$ o$f$ c$h$a$p$t$e$r$ 2 o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$a$t$i$o$n$s$/g$o$o$d$-p$"
 
 #: ../../SO1.md:1164
 msgid ""
@@ -3361,25 +3360,25 @@ msgid ""
 "estimates of SDG indicator 15.3.1 prior to the final submission to the "
 "United Nations Statistics Division for inclusion in the Sustainable "
 "Development Goals Report and the Global SDG Indicators Database."
-msgstr ""
+msgstr "A$ p$o$o$l$ o$f$ n$a$t$i$o$n$a$l$ e$x$p$e$r$t$s$ o$f$f$i$c$i$a$l$l$y$ n$o$m$i$n$a$t$e$d$ b$y$ t$h$e$ n$a$t$i$o$n$a$l$ a$u$t$h$o$r$i$t$i$e$s$ t$o$ v$e$r$i$f$y$ t$h$e$ r$e$l$i$a$b$i$l$i$t$y$ o$f$ t$h$e$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ e$s$t$i$m$a$t$e$s$. K$e$y$ i$n$s$t$i$t$u$t$i$o$n$s$ m$i$g$h$t$ i$n$c$l$u$d$e$ a$ c$o$u$n$t$r$y$’s$ n$a$t$i$o$n$a$l$ s$t$a$t$i$s$t$i$c$a$l$ o$f$f$i$c$e$, m$i$n$i$s$t$r$y$ o$f$ e$n$v$i$r$o$n$m$e$n$t$, m$i$n$i$s$t$r$y$ o$f$ a$g$r$i$c$u$l$t$u$r$e$, m$i$n$i$s$t$r$y$ o$f$ w$a$t$e$r$ r$e$s$o$u$r$c$e$s$, r$e$m$o$t$e$-s$e$n$s$i$n$g$ c$e$n$t$r$e$, a$s$ w$e$l$l$ a$s$ u$n$i$v$e$r$s$i$t$i$e$s$ a$n$d$ r$e$s$e$a$r$c$h$ c$e$n$t$e$r$s$. C$o$n$s$u$l$t$a$t$i$o$n$ w$i$t$h$ t$h$e$ n$a$t$i$o$n$a$l$ s$t$a$t$i$s$t$i$c$s$ o$f$f$i$c$e$ i$s$ p$a$r$t"
 
 #: ../../SO1.md:1166
 msgid "1.4.3. Reporting process and step-by-step procedure"
-msgstr ""
+msgstr "1.4.3. R$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ a$n$d$ s$t$e$p$"
 
 #: ../../SO1.md:1168
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If Parties decide to use the default data, steps 1 and 2 are unnecessary."
-msgstr ""
+msgstr "T$h$e$ s$t$e$p$-b$y$-s$t$e$p$ p$r$o$c$e$d$u$r$e$ f$o$r$ r$e$p$o$r$t$i$n$g$ i$s$ d$e$s$c$r$i$b$e$d$ i$n$ t$h$e$ f$o$l$l$o$w$i$n$g$. I$f$ P$a$r$t$i$e$s$ d$e$c$i$"
 
 #: ../../SO1.md:1170
 msgid "Step 1. Calculate Sustainable Development Goal indicator 15.3.1"
-msgstr ""
+msgstr "S$t$e$p$ 1. C$a$l$c$u$l$a$t$e$ S$u$s$t$a$i$n$a$b$l$e$ D$e$v$e$l$o$p$m"
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO1-4.T1"
-msgstr ""
+msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t"
 
 #: ../../SO1.md:1176
 msgid ""
@@ -3389,7 +3388,7 @@ msgid ""
 "negative change in any one of the three subindicators is considered to "
 "comprise land degradation. The result is a binary assessment where a land"
 " unit (pixel) is either degraded or not degraded."
-msgstr ""
+msgstr "I$n$ o$r$d$e$r$ t$o$ c$a$l$c$u$l$a$t$e$ S$D$G$ i$n$d$i$c$a$t$o$r$ 15.3.1, t$h$e$ r$e$s$u$l$t$s$ o$f$ t$h$e$ d$e$g$r$a$d$a$t$i$o$n$ a$n$a$l$y$s$i$s$ f$o$r$ e$a$c$h$ o$f$ t$h$e$ s$u$b$i$n$d$i$c$a$t$o$r$s$ a$r$e$ i$n$t$e$g$r$a$t$e$d$ u$s$i$n$g$ a$ O$n$e$-O$u$t$ A$l$l$-O$u$t$ (1O$A$O$) m$e$t$h$o$d$ i$n$ w$h$i$c$h$ a$ s$i$g$n$i$f$i$c$a$n$t$ r$e$d$u$c$t$i$o$n$ o$r$ n$e$g$a$t$i$v$e$ c$h$a$n$g$e$ i$n$ a$n$y$ o$n$e$ o$f$ t$h$e$ t$h$r$e$e$ s"
 
 #: ../../SO1.md:1178
 msgid ""
@@ -3399,14 +3398,14 @@ msgid ""
 " and LDN is assessed in the reporting period. In practical terms, for the"
 " purposes of calculating SDG indicator 15.3.1, tracking change in the "
 "extent of degraded land is a three-step process:"
-msgstr ""
+msgstr "T$h$e$ a$n$a$l$y$s$i$s$ o$f$ c$h$a$n$g$e$ i$n$ d$e$g$r$a$d$a$t$i$o$n$ i$n$v$o$l$v$e$s$ f$i$r$s$t$ e$s$t$a$b$l$i$s$h$i$n$g$ a$ b$a$s$e$l$i$n$e$ o$f$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$. T$h$e$ b$a$s$e$l$i$n$e$ s$e$t$s$ t$h$e$ b$e$n$c$h$m$a$r$k$ e$x$t$e$n$t$ o$f$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ a$g$a$i$n$s$t$ w$h$i$c$h$ p$r$o$g$r$e$s$s$ t$o$w$a$r$d$s$ a$c$h$i$e$v$i$n$g$ S$D$G$ t$a$r$g$e$t$ 15.3 a$n$d$ L$D$N$ i$s$ a$s$s$e$s$s$e$d$ i$n$ t$h$e$ r$e$"
 
 #: ../../SO1.md:1181
 msgid ""
 "Calculate the extent of degradation in the baseline period (t0) from 1 "
 "January 2000 to 31 December 2015 to set the benchmark for measuring "
 "progress towards achieving SDG target 15.3;"
-msgstr ""
+msgstr "C$a$l$c$u$l$a$t$e$ t$h$e$ e$x$t$e$n$t$ o$f$ d$e$g$r$a$d$a$t$i$o$n$ i$n$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$ (t$0) f$r$o$m$ 1 J$a$n$u$a$r$y$ 2000 t$o$ 31 D$e$c$e$m$b$e$r$ 2015 t$o$ s$e$t$ t$h$e$ b$e$n"
 
 #: ../../SO1.md:1183
 msgid ""
@@ -3415,13 +3414,13 @@ msgid ""
 "considered to indicate new degradation; and (ii) areas of land that have "
 "persisted in a degraded state since the baseline period (i.e. have not "
 "improved to a non-degraded state);"
-msgstr ""
+msgstr "C$a$l$c$u$l$a$t$e$ t$h$e$ e$x$t$e$n$t$ o$f$ d$e$g$r$a$d$a$t$i$o$n$ i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ (t$n$) b$y$ s$u$m$m$i$n$g$ (i$) a$r$e$a$s$ o$f$ l$a$n$d$ w$h$e$r$e$ c$h$a$n$g$e$s$ i$n$ t$h$e$ s$u$b$i$n$d$i$c$a$t$o$r$s$ a$r$e$ c$o$n$s$i$d$e$r$e$d$ t$o$ i$n$d$i$c$a$t$e$ n$e$w$ d$e$g$r$a$d$a$t$i$o$n$; a$n$d$ (i$i$) a$r$e$a$s$ o$f"
 
 #: ../../SO1.md:1185
 msgid ""
 "Calculate the change in extent of degradation between the baseline and "
 "reporting periods."
-msgstr ""
+msgstr "C$a$l$c$u$l$a$t$e$ t$h$e$ c$h$a$n$g$e$ i$n$ e$x$t$e$n$t$ o$f$ d$e$g$r$a$d$a$t$i$o$n$ b$e$t$w$e$e$"
 
 #: ../../SO1.md:1187
 msgid ""
@@ -3431,15 +3430,15 @@ msgid ""
 " the method used, for example if different from the 1OAO approach, as "
 "well as indicate the level of confidence of the estimates (high, medium "
 "or low)."
-msgstr ""
+msgstr "T$h$e$ t$o$t$a$l$ a$r$e$a$ o$f$ d$e$g$r$a$d$e$d$ l$a$n$d$ f$o$r$ t$h$e$ b$a$s$e$l$i$n$e$, t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ a$n$d$ t$h$e$ c$h$a$n$g$e$ o$f$ t$h$e$ a$r$e$a$ b$e$t$w$e$e$n$ t$h$e$ t$w$o$ p$e$r$i$o$d$s$ s$h$o$u$l$d$ b$e$ r$e$p$o$r$t$e$d$ i$n$ t$a$b$l$e$ S$O$1-4.T$1. I$n$ a$d$d$i$t$i$o$n$, P$a$r$t$i$e$s$ c$a$n$ r$e$p$o$r$t$ a$d$d$i$t$i$o$n$a$l$ i$n$f$o$r$m$a$t$i$o$n$ o$n$ t$h$e$ m$e$"
 
 #: ../../SO1.md:1189
 msgid "Step 2. Estimate progress towards land degradation neutrality"
-msgstr ""
+msgstr "S$t$e$p$ 2. E$s$t$i$m$a$t$e$ p$r$o$g$r$e$s$s$ t$o$w$a$r$d$s$ l$a$n$"
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO1-4.T2"
-msgstr ""
+msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t"
 
 #: ../../SO1.md:1195
 msgid ""
@@ -3454,19 +3453,19 @@ msgid ""
 "values demonstrate that LDN has been both achieved and exceeded. The "
 "values reported in table SO1-4.T2 should therefore help countries with "
 "LDN monitoring and target-setting."
-msgstr ""
+msgstr "P$r$o$g$r$e$s$s$ m$a$d$e$ t$o$w$a$r$d$s$ L$D$N$ s$h$o$u$l$d$ b$e$ r$e$p$o$r$t$e$d$ a$s$ t$h$e$ n$e$t$ d$i$f$f$e$r$e$n$c$e$ b$e$t$w$e$e$n$ a$r$e$a$s$ i$m$p$r$o$v$e$d$ (g$a$i$n$s$) i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ c$o$m$p$a$r$e$d$ t$o$ t$h$e$ b$a$s$e$l$i$n$e$ a$n$d$ a$r$e$a$s$ d$e$g$r$a$d$e$d$ (l$o$s$s$e$s$) i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ c$o$m$p$a$r$e$d$ t$o$ t$h$e$ b$a$s$e$l$i$n$e$ (t$a$b$l$e$ S$O$1-4.T$2). T$h$e$ d$i$f$f$e$r$e$n$c$e$ i$n$ a$r$e$a$s$ d$e$g$r$a$d$e$d$ a$n$d$ i$m$p$r$o$v$e$d$ (k$m$2) i$s$ r$e$p$o$r$t$e$d$ i$n$ t$h$e$ L$D$N$ s$t$a$t$u$s$ f$i$e$l$d$. P$o$s$i$t$i$v$e$ v$a$l$u$e$s$ i$n$d$i$c$a$t$e$ a$ n$e$t$ g$a$i$n$ i$n$ i$m$p$r$o$v$e$d$ l$a$n$d$ w$h$i$l$e$ n$e$g$a$t$i$v$e$ v$a$l$u$e$s$ i$n$d$i$c$a$t$e$ t$h$a$t$ m$o$r$e$ l$a$n$d$ w$a$s$ d$e$g$r$a$d$e$d$ t$h$a$n$ i$m$p"
 
 #: ../../SO1.md:1197
 msgid "Step 3. Identify false positives and false negatives"
-msgstr ""
+msgstr "S$t$e$p$ 3. I$d$e$n$t$i$f$y$ f$a$l$s$e$ p$o$s$i$t$i$v$e$s"
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: : table SO1-4.T3"
-msgstr ""
+msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f"
 
 #: ../../SO1.md:1203
 msgid "Parties have the option to identify areas of:"
-msgstr ""
+msgstr "P$a$r$t$i$e$s$ h$a$v$e$ t$h$e$ o$p$t$i$o$n$ t$o$ "
 
 #: ../../SO1.md:1205
 msgid ""
@@ -3474,17 +3473,17 @@ msgid ""
 "indicated that an area is not degraded even though the change in land "
 "condition is considered sufficiently negative to qualify as degraded in "
 "the context of SDG indicator 15.3.1; and"
-msgstr ""
+msgstr "‘F$a$l$s$e$ p$o$s$i$t$i$v$e$’ d$e$g$r$a$d$a$t$i$o$n$, w$h$e$r$e$ t$h$e$ 1O$A$O$ p$r$o$c$e$s$s$ h$a$s$ i$n$c$o$r$r$e$c$t$l$y$ i$n$d$i$c$a$t$e$d$ t$h$a$t$ a$n$ a$r$e$a$ i$s$ n$o$t$ d$e$g$r$a$d$e$d$ e$v$e$n$ t$h$o$u$g$h$ t$h$e$ c$h$a$n$g$e$ i$n$ l$a$n$d$ c$o$n$d$i$t$i$o$n$ i$s$ "
 
 #: ../../SO1.md:1206
 msgid ""
 "‘False negative’ degradation, in which the outcome of the 1OAO process "
 "has incorrectly resulted in an area being identified as degraded."
-msgstr ""
+msgstr "‘F$a$l$s$e$ n$e$g$a$t$i$v$e$’ d$e$g$r$a$d$a$t$i$o$n$, i$n$ w$h$i$c$h$ t$h$e$ o$u$t$c$o$m$e$ o$f$ t$h$e$ 1O$A$O$ p$r$o$c$e$s$s$ h$a$s$ i$n$c$o$r$r$e$c"
 
 #: ../../SO1.md:1208
 msgid "What are false positives?"
-msgstr ""
+msgstr "W$h$a$t$ a$r$e$ f$a$l$s$e$ "
 
 #: ../../SO1.md:1210
 msgid ""
@@ -3497,11 +3496,11 @@ msgid ""
 "considered to be sufficiently negative to qualify as degraded in the "
 "context of SDG indicator 15.3.1. A similar outcome arises in lands "
 "invaded by alien plant species."
-msgstr ""
+msgstr "A$n$ e$x$a$m$p$l$e$ i$s$ a$ w$o$o$d$y$ w$e$e$d$ i$n$v$a$s$i$o$n$ o$f$ a$ g$r$a$s$s$l$a$n$d$, w$h$i$c$h$ m$a$y$ r$a$i$s$e$ t$h$e$ a$p$p$a$r$e$n$t$ p$l$a$n$t$ p$r$o$d$u$c$t$i$v$i$t$y$ e$v$e$n$ t$h$o$u$g$h$ t$h$e$ o$u$t$c$o$m$e$ i$n$ t$e$r$m$s$ o$f$ t$h$e$ c$h$a$n$g$e$ i$n$ l$a$n$d$ c$o$n$d$i$t$i$o$n$ w$o$u$l$d$ n$o$r$m$a$l$l$y$ b$e$ n$e$g$a$t$i$v$e$. T$h$i$s$ i$s$ a$ f$a$l$s$e$ ‘p$o$s$i$t$i$v$e$’ o$r$ a$p$p$a$r$e$n$t$ i$m$p$r$o$v$e$m$e$n$t$ i$n$ l$a$n$d$ c$o$n$d$i$t$i$o$n$. I$n$ t$h$e$ 1O$A$O$ p$r$o$c$e$s$s$, t$h$e$ a$r$e$a$ u$n$d$e$r$g$o$i$n$g$ w$o$o$d$y$ e$n$c$r$o$a$c$h$m$e$n$t$ w$o$u$l$d$ b$e$ i$n$c$o$r$r$e$c$t$l$y$ i$n$d$i$c$a$t$"
 
 #: ../../SO1.md:1212
 msgid "What are false negatives?"
-msgstr ""
+msgstr "W$h$a$t$ a$r$e$ f$a$l$s$e$ "
 
 #: ../../SO1.md:1214
 msgid ""
@@ -3511,7 +3510,7 @@ msgid ""
 " an indication of degradation even though the intention is to restore "
 "degraded lands. In the 1OAO process, the remediated area would be "
 "incorrectly labelled as being degraded."
-msgstr ""
+msgstr "A$n$ e$x$a$m$p$l$e$ i$s$ t$h$e$ i$n$v$e$r$s$e$ o$f$ t$h$e$ a$b$o$v$e$ p$r$o$b$l$e$m$ w$h$e$r$e$ w$o$o$d$y$ w$e$e$d$s$ (o$r$ i$n$v$a$s$i$v$e$ p$l$a$n$t$ s$p$e$c$i$e$s$) a$r$e$ r$e$m$o$v$e$d$ a$s$ p$a$r$t$ o$f$ a$ r$e$m$e$d$i$a$t$i$o$n$ p$r$o$c$e$s$s$, c$a$u$s$i$n$g$ a$ r$e$d$u$c$t$i$o$n$ i$n$ a$p$p$a$r$e$n$t$ p$r$o$d$u$c$t$i$v$i$t$y$. T$h$i$s$ w$o$u$l$d$ n$o$r$m$a$l$l$y$ l$e$a$d$ t$o$ a$n$ i$n$d$i$c$a$t$i$o$n$ o$f$ d$e$g$r"
 
 #: ../../SO1.md:1216
 msgid ""
@@ -3525,7 +3524,7 @@ msgid ""
 " of the 1OAO process through Trends.Earth and import the recalculated "
 "results. Without spatial delineation of the false positive and/or "
 "negative area, there will be no material impact on the reporting data."
-msgstr ""
+msgstr "I$n$ a$r$e$a$s$ w$h$e$r$e$ a$ f$a$l$s$e$ p$o$s$i$t$i$v$e$ o$r$ f$a$l$s$e$ n$e$g$a$t$i$v$e$ d$e$g$r$a$d$a$t$i$o$n$ o$u$t$c$o$m$e$ i$s$ i$d$e$n$t$i$f$i$e$d$, P$a$r$t$i$e$s$ c$a$n$ u$s$e$ t$h$e$ P$R$A$I$S$ 4 s$p$a$t$i$a$l$ d$a$t$a$ v$i$e$w$e$r$ t$o$ p$r$o$v$i$d$e$ f$u$r$t$h$e$r$ s$p$a$t$i$a$l$ d$e$t$a$i$l$ i$n$ a$d$d$i$t$i$o$n$ t$o$ t$h$e$ r$e$p$o$r$t$i$n$g$ f$i$e$l$d$s$ i$n$ t$a$b$l$e$ S$O$1-4.T$3. S$p$a$t$i$a$l$ d$e$l$i$n$e$a$t$i$o$n$ o$f$ f$a$l$s$e$ p$o$s$i$t$i$v$e$ a$n$d$ n$e$g$a$t$i$v$e$ a$r$e$a$s$ s$h$o$u$l$d$ o$n$l$y$ b$e$ c$a$r$r$i$e$d$ o$u$t$ w$h$e$r$e$ c$o$u$n$t$r$i$e$s$ a$r$e$ c$o$n$f$i$d$e$n$t$ t$h$a$t$ t$h$e$y$ k$n$o$w$ t$h$e$ t$i$m$i$n$g$, l$o$c$a$t$i$o$n$ a$n$d$ e$x$t$e$n$t$ o$f$ t$h$e$s$e$ c$o$u$n$t$e$r$i$n$t$u$i$t$i$v$e$ p$r$o$c$e$s$s$e$s$. H$o$w$e$v$e$"
 
 #: ../../SO1.md:1218
 msgid ""
@@ -3545,27 +3544,27 @@ msgid ""
 "chart should be used as a guide to understand what subindicator is "
 "driving the false positive or negative process being reported within the "
 "polygon extent provided."
-msgstr ""
+msgstr "R$e$p$o$r$t$i$n$g$ o$n$ f$a$l$s$e$ p$o$s$i$t$i$v$e$ a$n$d$ n$e$g$a$t$i$v$e$ e$x$t$e$n$t$s$ u$s$i$n$g$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$ r$e$q$u$i$r$e$s$ f$i$l$l$i$n$g$ i$n$ t$a$b$l$e$ S$O$1-4.T$3. T$h$e$ P$R$A$I$S$ 4 s$p$a$t$i$a$l$ d$a$t$a$ v$i$e$w$e$r$ s$u$p$p$o$r$t$s$ t$h$e$ f$i$l$l$i$n$g$ i$n$ o$f$ t$h$i$s$ t$a$b$l$e$ w$i$t$h$ s$p$a$t$i$a$l$ i$n$f$o$r$m$a$t$i$o$n$ (i$n$ v$e$c$t$o$r$ f$o$r$m$a$t$). H$o$w$e$v$e$r$, i$t$ r$e$m$a$i$n$s$ a$n$ o$p$t$i$o$n$a$l$ e$l$e$m$e$n$t$ a$n$d$ t$h$e$ t$a$b$l$e$ c$a$n$ s$t$i$l$l$ b$e$ f$i$l$l$e$d$ i$n$ w$i$t$h$o$u$t$ t$h$e$ p$r$o$v$i$s$i$o$n$ o$f$ s$p$a$t$i$a$l$ d$a$t$a$. I$n$f$o$r$m$a$t$i$o$n$ a$b$o$u$t$ t$h$e$ l$o$c$a$t$i$o$n$ o$f$ t$h$e$ s$i$t$e$s$, t$h$e$ a$r$e$a$l$ e$x$t$e$n$t$ o$f$ t$h$e$ s$i$t$e$ (a$u$t$o$-f$i$l$l$e$d$ b$y$ t$h$e$ P$R$A$I$S$ 4 s$p$a$t$i$a$l$ d$a$t$a$ v$i$e$w$e$r$, i$f$ u$s$e$d$), t$h$e$ p$r$o$c$e$s$s$e$s$ b$e$h$i$n$d$ t$h$e$ f$a$l$s$e$ p$o$s$i$t$i$v$e$/f$a$l$s$e$ n$e$g$a$t$i$v$e$ o$u$t$c$o$m$e$ a$n$d$ t$h$e$ b$a$s$i$s$ f$o$r$ t$h$e$i$r$ j$u$d$g$e$m$e$n$t$ s$h$o$u$l$d$ b$e$  r$e$p$o$r$t$e$d$ i$n$ a$d$d$i$t$i$o$n$ t$o$ t$h$e$ p$e$r$i$o$d$ w$h$e$n$ t$h$e$ f$a$l$s$e$ n$e$g$a$t$i$v$e$ o$r$ f$a$l$s$e$ p$o$s$i$"
 
 #: ../../SO1.md:1220
 msgid "Step 4. Assess hotspots and brightspots"
-msgstr ""
+msgstr "S$t$e$p$ 4. A$s$s$e$s$s$ h$o$t$s$p$o$t$s$ "
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: tables SO1-4.T4 and SO1-4.T5"
-msgstr ""
+msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$: t$a$"
 
 #: ../../SO1.md:1226
 msgid ""
 "UNCCD encourages Parties to signal areas experiencing the most evident "
 "and dramatic change. These are defined as:"
-msgstr ""
+msgstr "U$N$C$C$D$ e$n$c$o$u$r$a$g$e$s$ P$a$r$t$i$e$s$ t$o$ s$i$g$n$a$l$ a$r$e$a$s$ e$x$p$e$r$i$e$n$c$i$n$g$ t$h$e$ m$o$s$t$ e$v$i$d"
 
 #: ../../SO1.md:1228
 msgid ""
 "Hotspots: areas that are highly vulnerable to degradation in the absence "
 "of urgent remediation activities;"
-msgstr ""
+msgstr "H$o$t$s$p$o$t$s$: a$r$e$a$s$ t$h$a$t$ a$r$e$ h$i$g$h$l$y$ v$u$l$n$e$r$a$b$l$e$ t$o$ d$e$g$r$a$d$a$t$i$o$n$ i$n$ t$h$"
 
 #: ../../SO1.md:1230
 msgid ""
@@ -3573,7 +3572,7 @@ msgid ""
 " have been remediated from a degraded state by implementing appropriate "
 "remediation activities or through land planning processes to prevent "
 "degradation."
-msgstr ""
+msgstr "B$r$i$g$h$t$s$p$o$t$s$: a$r$e$a$s$ t$h$a$t$ d$o$ n$o$t$ e$x$h$i$b$i$t$ a$n$y$ s$i$g$n$s$ o$f$ d$e$g$r$a$d$a$t$i$o$n$, o$r$ w$h$i$c$h$ h$a$v$e$ b$e$e$n$ r$e$m$e$d$i$a$t$e$d$ f$r$o$m$ a$ d$e$g$r$a$d$e$d$ s$t$a$t$e$ b$y$ i$m$p$l$e$m$e$n$t$i$n$g$ a$p$p"
 
 #: ../../SO1.md:1232
 msgid ""
@@ -3581,7 +3580,7 @@ msgid ""
 "the development of plans of action to redress degradation, including "
 "through the conservation, rehabilitation, restoration and sustainable "
 "management of land resources."
-msgstr ""
+msgstr "K$n$o$w$l$e$d$g$e$ a$b$o$u$t$ l$o$c$a$t$i$o$n$ a$n$d$ t$y$p$e$ o$f$ h$o$t$s$p$o$t$s$/b$r$i$g$h$t$s$p$o$t$s$ m$a$y$ f$a$c$i$l$i$t$a$t$e$ t$h$e$ d$e$v$e$l$o$p$m$e$n$t$ o$f$ p$l$a$n$s$ o$f$ a$c$t$i$o$n$ t$o$ r$e$d$r$e$s$s$ d$e$g$r$a$d$a$t$i$o$n$, i$n$c$l$u$d$i$n$g$ t$"
 
 #: ../../SO1.md:1234
 msgid ""
@@ -3597,11 +3596,11 @@ msgid ""
 "responses to land degradation at the landscape scale. In addition, UNCCD "
 "can use these spatial data to create improved information products to "
 "demonstrate the impact of the Convention."
-msgstr ""
+msgstr "H$o$t$s$p$o$t$s$ a$n$d$ b$r$i$g$h$t$s$p$o$t$s$ a$r$e$ r$e$p$o$r$t$e$d$ i$n$ t$a$b$l$e$s$ S$O$1-1.T$4 a$n$d$ S$O$1-1.T$5 o$f$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t$f$o$r$m$, r$e$s$p$e$c$t$i$v$e$l$y$. P$a$r$t$i$e$s$ a$r$e$ i$n$v$i$t$e$d$ t$o$ e$n$t$e$r$ r$e$l$e$v$a$n$t$ i$n$f$o$r$m$a$t$i$o$n$ s$u$c$h$ a$s$ l$o$c$a$t$i$o$n$, a$r$e$a$, t$h$e$ a$d$o$p$t$e$d$ a$s$s$e$s$s$m$e$n$t$ p$r$o$c$e$s$s$, t$h$e$ d$r$i$v$e$r$s$/p$r$o$c$e$s$s$e$s$ d$e$t$e$r$m$i$n$i$n$g$ t$h$e$ s$t$a$t$u$s$ o$f$ t$h$e$ l$a$n$d$, a$n$d$ r$e$m$e$d$i$a$t$i$o$n$ a$c$t$i$o$n$s$ t$a$k$e$n$ a$n$d$ p$l$a$n$n$e$d$. T$h$e$s$e$ a$r$e$ s$p$a$t$i$a$l$ t$a$b$l$e$s$ a$n$d$ t$h$e$r$e$f$o$r$e$ s$h$o$u$l$d$ b$e$ c$o$m$p$l$e$t$e$d$ w$i$t$h$ t$h$e$ s$u$p$p$o$r$t$ o$f$ t$h$e$ g$e$o$g$r$a$p$h$i$c$ i$n$f$o$r$m$a$t$i$o$n$ s$y$s$t$e$m$ t$o$o$l$s$ a$v$a$i$l$a$b$l$e$ i$n$ t$h$e$ P$R$A$I$S$ 4 s$p$a$t$i$a$l$ d$a$t$a$ v$i$e$w$e$r$. T$h$i$s$ i$s$ a$n$ a$d$d$i$t$i$o$n$a$l$ a"
 
 #: ../../SO1.md:1236
 msgid "Step 5. Generate reports"
-msgstr ""
+msgstr "S$t$e$p$ 5. G$e$n$e$r$a$t$"
 
 #: ../../SO1.md:1238
 msgid ""
@@ -3612,13 +3611,13 @@ msgid ""
 "values should be described in the narrative. A ‘General Comment’ field is"
 " provided at the end of the reporting form of the PRAIS 4 platform for "
 "this purpose."
-msgstr ""
+msgstr "O$n$c$e$ v$e$r$i$f$i$e$d$ b$y$ t$h$e$ P$a$r$t$i$e$s$, t$h$e$ e$s$t$i$m$a$t$e$s$ o$f$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ d$a$t$a$ f$o$r$ t$h$e$ r$e$p$o$r$t$i$n$g$ a$n$d$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$s$ s$h$o$u$l$d$ b$e$ o$f$f$i$c$i$a$l$l$y$ s$u$b$m$i$t$t$e$d$ t$o$ U$N$C$C$D$. S$p$e$c$i$a$l$ o$r$ a$n$o$m$a$l$o$u$s$ s$i$t$u$a$t$i$o$n$s$ a$n$d$ n$o$t$i$c$e$a$b$l$e$ i$s$s$u$e$s$ r$e$l$a$t$e$d$ t$o$ t$h$e$ d$a$t$a$ i$n$t$e$r$p$r$e$t$a$t$i$o$n$ t$h$a$t$ m$a$y$ a$f$f$e$c$t$ t$h$e$ r$e$l$i$a$b$"
 
 #: ../../SO1.md:1240
 msgid ""
 "Information on land degradation should be reported in km2 for the entire "
 "country."
-msgstr ""
+msgstr "I$n$f$o$r$m$a$t$i$o$n$ o$n$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ s$h$o$u$l$d$ b$e$ r$e$p$o$r$t"
 
 #: ../../SO1.md:1242
 msgid ""
@@ -3626,46 +3625,46 @@ msgid ""
 "representing land degradation for the baseline/reporting period are made "
 "available in the PRAIS 4 platform. More specifically, the following maps "
 "will be available online:"
-msgstr ""
+msgstr "D$e$f$a$u$l$t$ m$a$p$s$ o$r$ m$a$p$s$ g$e$n$e$r$a$t$e$d$ i$n$ T$r$e$n$d$s$.E$a$r$t$h$ u$s$i$n$g$ n$a$t$i$o$n$a$l$ d$a$t$a$ r$e$p$r$e$s$e$n$t$i$n$g$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ f$o$r$ t$h$e$ b$a$s$e$l$i$n$e$/r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ a$r$e$ m$a$d$e$ a$"
 
 #: ../../SO1.md:1244
 msgid ""
 "Proportion of land that is degraded over total land area (SDG indicator "
 "15.3.1) in the baseline period"
-msgstr ""
+msgstr "P$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (S$D$G$ "
 
 #: ../../SO1.md:1245
 msgid ""
 "Proportion of land that is degraded over total land area (SDG indicator "
 "15.3.1) in the reporting period"
-msgstr ""
+msgstr "P$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (S$D$G$ i"
 
 #: ../../SO1.md:1246
 msgid "Progress towards LDN in the reporting period"
-msgstr ""
+msgstr "P$r$o$g$r$e$s$s$ t$o$w$a$r$d$s$ L$D$N$ i$n$ t$h$"
 
 #: ../../SO1.md:1247
 msgid ""
 "Degradation hotspots (for countries that provide spatial data in the "
 "PRAIS 4 platform)"
-msgstr ""
+msgstr "D$e$g$r$a$d$a$t$i$o$n$ h$o$t$s$p$o$t$s$ (f$o$r$ c$o$u$n$t$r$i$e$s$ t$h$a$t$ p$r$o$v$i$d$e$ s$p"
 
 #: ../../SO1.md:1248
 msgid ""
 "Improvement brightspots (for countries that provide spatial data in the "
 "PRAIS 4 platform)."
-msgstr ""
+msgstr "I$m$p$r$o$v$e$m$e$n$t$ b$r$i$g$h$t$s$p$o$t$s$ (f$o$r$ c$o$u$n$t$r$i$e$s$ t$h$a$t$ p$r$o$v$i$d$e$ s$"
 
 #: ../../SO1.md:1250
 msgid "1.4.4. Dependencies"
-msgstr ""
+msgstr "1.4.4. D$e$p$e$n$d$e"
 
 #: ../../SO1.md:1252
 msgid ""
 "SDG indicator 15.3.1 relies on the total land area reported in table "
 "SO1-1.T1. Modifying that number will therefore alter the indicator’s "
 "value."
-msgstr ""
+msgstr "S$D$G$ i$n$d$i$c$a$t$o$r$ 15.3.1 r$e$l$i$e$s$ o$n$ t$h$e$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ r$e$p$o$r$t$e$d$ i$n$ t$a$b$l$e$ S$O$1-1.T$1. M$o$d$i$f$y$i$n$g$ t$h$a$"
 
 #: ../../SO1.md:1254
 msgid ""
@@ -3673,15 +3672,15 @@ msgid ""
 "have a dependency on spatial data created by countries using the PRAIS 4 "
 "spatial data viewer. However, they can also be filled in manually without"
 " providing supporting spatial data."
-msgstr ""
+msgstr "T$h$e$ ‘A$r$e$a$’ f$i$e$l$d$s$ o$f$ t$h$e$ s$p$a$t$i$a$l$ t$a$b$l$e$s$ S$O$1-4.T$3,  S$O$1-4.T$4 a$n$d$ S$O$1-4.T$5 h$a$v$e$ a$ d$e$p$e$n$d$e$n$c$y$ o$n$ s$p$a$t$i$a$l$ d$a$t$a$ c$r$e$a$t$e$d$ b$y$ c$o$u$n$t$r$i$e$s$ u$s$i$n$g$ t$h$e$ P$R$A$I$S$ 4 s$p$a$t$i$a$l$ d$a$t$a$ v$i$e$w"
 
 #: ../../SO1.md:1256
 msgid "1.4.5. Summary (main actions)"
-msgstr ""
+msgstr "1.4.5. S$u$m$m$a$r$y$ (m$a$i$n$"
 
 #: ../../SO1.md:1258
 msgid "Key actions for reporting on the SDG indicator 15.3.1 are as follows:"
-msgstr ""
+msgstr "K$e$y$ a$c$t$i$o$n$s$ f$o$r$ r$e$p$o$r$t$i$n$g$ o$n$ t$h$e$ S$D$G$ i$n$d$i$"
 
 #: ../../SO1.md:1260
 msgid ""
@@ -3693,7 +3692,7 @@ msgid ""
 "subindicators are considered to indicate new degradation; and (ii) areas "
 "of land that have persisted in a degraded state since the baseline period"
 " (i.e. have not improved to a non-degraded state)."
-msgstr ""
+msgstr "**C$a$l$c$u$l$a$t$e$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (S$D$G$ i$n$d$i$c$a$t$o$r$ 15.3.1)**: U$s$i$n$g$ t$h$e$ 1O$A$O$ a$p$p$r$o$a$c$h$ t$o$ c$o$m$b$i$n$e$ t$h$e$ t$h$r$e$e$ s$u$b$i$n$d$i$c$a$t$o$r$s$, c$a$l$c$u$l$a$t$e$ t$h$e$ e$x$t$e$n$t$ o$f$ d$e$g$r$a$d$a$t$i$o$n$ i$n$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$ a$n$d$ i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$. T$h$e$ e$x$t$e$n$t$ o$f$ d$e$g$r$a$d$a$t$i$o$n$ i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$ i$s$ c$a$l$c$u$l$a$t$e$d$ b$y$ s$u$m$m$i$n$g$ (i$) a$r$e$a$s$ o$f$ l$a$n$d$ w$h$"
 
 #: ../../SO1.md:1262
 msgid ""
@@ -3701,7 +3700,7 @@ msgid ""
 "extent of degraded land (losses) and the extent of improved land (gains) "
 "in the reporting period to determine if there has been a net gain, "
 "neutrality or a net loss."
-msgstr ""
+msgstr "**E$s$t$i$m$a$t$e$ p$r$o$g$r$e$s$s$ t$o$w$a$r$d$s$ L$D$N$**: C$a$l$c$u$l$a$t$e$ t$h$e$ d$i$f$f$e$r$e$n$c$e$ b$e$t$w$e$e$n$ t$h$e$ e$x$t$e$n$t$ o$f$ d$e$g$r$a$d$e$d$ l$a$n$d$ (l$o$s$s$e$s$) a$n$d$ t$h$e$ e$x$t$e$n$t$ o$f$ i$m$p$r$o$v$e$d$ l$a$n$d$ (g$a$i$n$s$) "
 
 #: ../../SO1.md:1264
 msgid ""
@@ -3711,7 +3710,7 @@ msgid ""
 "recalculating the 1OAO process for SDG indicator 15.3.1 with the "
 "identified areas accounted for, they should use the PRAIS 4 spatial data "
 "viewer to do so (table SO1-4.T3)."
-msgstr ""
+msgstr "**I$d$e$n$t$i$f$y$ f$a$l$s$e$ p$o$s$i$t$i$v$e$ a$n$d$ f$a$l$s$e$ n$e$g$a$t$i$v$e$ p$r$o$c$e$s$s$e$s$** a$n$d$ p$r$o$v$i$d$e$ t$h$e$ r$e$l$e$v$a$n$t$ j$u$s$t$i$f$i$c$a$t$i$o$n$ t$o$ s$u$p$p$o$r$t$ t$h$e$i$r$ a$s$s$e$s$s$m$e$n$t$. W$h$e$r$e$ c$o$u$n$t$r$i$e$s$ a$r$e$ c$o$n$f$i$d$e$n$t$ i$n$ r$e$p$o$r$t$i$n$g$ t$h$e$ l$o$c$a$t$i$o$n$ a$n$d$ e$x$t$e$n$t$ o$f$ t$h$e$s$e$ p$r$o$c$e$s$s$e$s$ a$n$d$ i$n$ r$e$c$a$l$c$u$l$a$t$i$n$g$ "
 
 #: ../../SO1.md:1266
 msgid ""
@@ -3720,11 +3719,11 @@ msgid ""
 "and/or planned to manage them and ensure the sustainable development of "
 "the areas (tables SO1-4.T4 and SO1-4.T5). Countries are encouraged to "
 "report on hotspots and brightspots using the PRAIS 4 spatial data viewer."
-msgstr ""
+msgstr "**A$s$s$e$s$s$ h$o$t$s$p$o$t$s$ o$f$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ a$n$d$ b$r$i$g$h$t$s$p$o$t$s$ o$f$ l$a$n$d$ i$m$p$r$o$v$e$m$e$n$t$**, i$n$d$i$c$a$t$i$n$g$ t$h$e$i$r$ l$o$c$a$t$i$o$n$s$, e$x$t$e$n$t$s$, a$n$d$ a$c$t$i$o$n$s$ t$a$k$e$n$ a$n$d$/o$r$ p$l$a$n$n$e$d$ t$o$ m$a$n$a$g$e$ t$h$e$m$ a$n$d$ e$n$s$u$r$e$ t$h$e$ s$u$s$t$a$i$n$a$b$l$e$ d$e$v$e$l$o$p$m$e$n$t$ o$f$ t$h$e$ a$"
 
 #: ../../SO1.md:1268
 msgid "1.4.6. Further reading"
-msgstr ""
+msgstr "1.4.6. F$u$r$t$h$e$r$ r$"
 
 #: ../../SO1.md:1270
 msgid ""
@@ -3733,14 +3732,14 @@ msgid ""
 "15.3.1: Proportion of land that is degraded over total land area "
 "(<https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land>)."
-msgstr ""
+msgstr "G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1: P$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (v$e$r$s$i$o$n$ 2). C$h$a$p$t$e$r$ 2: S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1: P$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ "
 
 #: ../../SO1.md:1271
 msgid ""
 "Scientific Conceptual Framework for Land Degradation Neutrality "
 "(<https://knowledge.unccd.int/publication/ldn-scientific-conceptual-"
 "framework-land-degradation-neutrality-report-science-policy>)."
-msgstr ""
+msgstr "S$c$i$e$n$t$i$f$i$c$ C$o$n$c$e$p$t$u$a$l$ F$r$a$m$e$w$o$r$k$ f$o$r$ L$a$n$d$ D$e$g$r$a$d$a$t$i$o$n$ N$e$u$t$r$a$l$i$t$y$ (<h$t$t$p$s$://k$n$o$w$l$e$d$g$e$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$a$t$i$o$n$/l$d$n$-s$c$i$e$n$"
 
 #: ../../SO1.md:85
 msgid ""
@@ -3750,7 +3749,7 @@ msgid ""
 "grouped in a seventh class including: lakes, rivers and streams "
 "(natural/artificial, standing/flowing, inland/sea), artificial "
 "reservoirs, coastal lagoons, and estuaries."
-msgstr ""
+msgstr "T$h$e$ d$e$f$a$u$l$t$ U$N$C$C$D$ l$a$n$d$ c$o$v$e$r$ l$e$g$e$n$d$ f$o$r$ a$g$g$r$e$g$a$t$e$ r$e$p$o$r$t$i$n$g$ i$s$ a$ m$o$d$i$f$i$e$d$ v$e$r$s$i$o$n$ o$f$ t$h$e$ I$n$t$e$r$g$o$v$e$r$n$m$e$n$t$a$l$ P$a$n$e$l$ o$n$ C$l$i$m$a$t$e$ C$h$a$n$g$e$ l$a$n$d$ u$s$e$ c$a$t$e$g$o$r$i$e$s$, w$h$e$r$e$ ‘w$a$t$e$r$ b$o$d$i$e$s$’ a$r$e$ s$e$p$a$r$a$t$e$d$ f$r$o$m$ ‘w$e$t$l$a$n$d$s$’ a$n$d$ g$r$o$u$p$e$d$ i$n$ a$ s$e$v$e$n$t$h"
 
 #: ../../SO1.md:664
 msgid ""
@@ -3758,7 +3757,7 @@ msgid ""
 "definition of the LCEU. Unlike the Trend and State metrics, which assess "
 "changes over time, Performance is a spatial comparison, and the results "
 "may change if the extent over which the analysis is conducted changes."
-msgstr ""
+msgstr "T$h$e$ c$a$l$c$u$l$a$t$i$o$n$ o$f$ p$r$o$d$u$c$t$i$v$i$t$y$ P$e$r$f$o$r$m$a$n$c$e$ i$s$ s$t$r$o$n$g$l$y$ d$e$p$e$n$d$e$n$t$ o$n$ t$h$e$ d$e$f$i$n$i$t$i$o$n$ o$f$ t$h$e$ L$C$E$U$. U$n$l$i$k$e$ t$h$e$ T$r$e$n$d$ a$n$d$ S$t$a$t$e$ m$e$t$r$i$c$s$, w$h$i$c$h$ a$s$s$e$s$s$ c$h$a$n$g$e$s$ o$v$e$r$ t$i$m$e$, P$e$r$f$o$r$m$"
 
 #: ../../SO1.md:668
 msgid ""
@@ -3766,25 +3765,25 @@ msgid ""
 " of outliers, it is recommended to use the 90th percentile of the "
 "productivity values within the land unit as the actual maximum vegetation"
 " index value (NPPmax)."
-msgstr ""
+msgstr "T$o$ a$v$o$i$d$ p$o$s$s$i$b$l$e$ o$v$e$r$e$s$t$i$m$a$t$i$o$n$ o$f$ t$h$e$ m$a$x$i$m$u$m$ v$a$l$u$e$ d$u$e$ t$o$ t$h$e$ p$r$e$s$e$n$c$e$ o$f$ o$u$t$l$i$e$r$s$, i$t$ i$s$ r$e$c$o$m$m$e$n$d$e$d$ t$o$ u$s$e$ t$h$e$ 90t$h$ p$e$r$c$e$n$t$i$l$e$ o$f$ t$h$e$ p$r$o$"
 
 #: ../../SO1.md:944
 msgid ""
 "2006 IPCC Guidelines for National Greenhouse Gas Inventories and its 2019"
 " Refinement, as well as the 2013 Supplement to the 2006 IPCC Guidelines "
 "for National Greenhouse Gas Inventories: Wetlands."
-msgstr ""
+msgstr "2006 I$P$C$C$ G$u$i$d$e$l$i$n$e$s$ f$o$r$ N$a$t$i$o$n$a$l$ G$r$e$e$n$h$o$u$s$e$ G$a$s$ I$n$v$e$n$t$o$r$i$e$s$ a$n$d$ i$t$s$ 2019 R$e$f$i$n$e$m$e$n$t$, a$s$ w$e$l$l$ a$s$ t$h$e$ 2013 S$u$p$p$l$e$m$e$n$t$ t$o$ t$h$e$"
 
 #: ../../SO1.md:966
 msgid ""
 "For more information see: ‘Default data: methods and interpretation. A "
 "guidance document for 2018 UNCCD reporting’ available at: "
 "<https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf>.\")."
-msgstr ""
+msgstr "F$o$r$ m$o$r$e$ i$n$f$o$r$m$a$t$i$o$n$ s$e$e$: ‘D$e$f$a$u$l$t$ d$a$t$a$: m$e$t$h$o$d$s$ a$n$d$ i$n$t$e$r$p$r$e$t$a$t$i$o$n$. A$ g$u$i$d$a$n$c$e$ d$o$c$u$m$e$n$t$ f$o$r$ 2018 U$N$C$C$D$ r$e$p$o$r$t$i$n$g$’ a$v$a$i$l$a$b$l$e$ a$t$: <h$t$t$p$"
 
 #: ../../SO1.md:1146
 msgid "Article 1 of the United Nations Convention to Combat Desertification."
-msgstr ""
+msgstr "A$r$t$i$c$l$e$ 1 o$f$ t$h$e$ U$n$i$t$e$d$ N$a$t$i$o$n$s$ C$o$n$v$e$n$t$i$o$"
 
 #~ msgid "1. Strategic objective 1"
 #~ msgstr ""
