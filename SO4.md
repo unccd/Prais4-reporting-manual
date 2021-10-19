@@ -20,7 +20,8 @@ The main output of the reporting process for SO 4-2 is a set of officially verif
 
 ### 4.2.2. Prerequisites for reporting
 
-- An in-depth reading of SDG indicator 15.5.1 metadata document;
+- An in-depth reading of [SDG indicator 15.5.1 metadata document](https://unstats.un.org/sdgs/metadata/files/
+Metadata-15-05-01.pdf);
 
 - Consultation with national experts on biodiversity, species extinction risk, and land management and conservation; Convention on Biological Diversity (CBD) national focal points; national statistical offices and IUCN State Members;
 
@@ -112,11 +113,11 @@ The metadata for SDG indicator 15.1.2 includes other effective area-based conser
 
 KBAs are sites that contribute significantly to the global persistence of biodiversity and are identified following global criteria[^7]  applied at national levels. The KBAs include:
 
-i. Important bird and biodiversity areas, which are sites that contribute significantly to the global persistence of biodiversity, identified using data on birds, of which >13,000 sites in total have been identified from all of the world’s countries;
+- Important bird and biodiversity areas, which are sites that contribute significantly to the global persistence of biodiversity, identified using data on birds, of which >13,000 sites in total have been identified from all of the world’s countries;
 
-ii. Alliance for Zero Extinction sites, which are sites holding effectively the entire population of at least one species assessed as critically endangered or endangered on the IUCN Red List of Threatened Species. 853 sites have been identified for 1,483 species of mammals, birds, amphibians, reptiles, freshwater crustaceans, reef-building corals, conifers, cycads and other taxa; and
+- Alliance for Zero Extinction sites, which are sites holding effectively the entire population of at least one species assessed as critically endangered or endangered on the IUCN Red List of Threatened Species. 853 sites have been identified for 1,483 species of mammals, birds, amphibians, reptiles, freshwater crustaceans, reef-building corals, conifers, cycads and other taxa; and
 
-iii. KBAs identified using an earlier version of the KBA criteria, including those identified in ecosystem hotspot profiles developed with the support of the Critical Ecosystem Partnership Fund.
+- KBAs identified using an earlier version of the KBA criteria, including those identified in ecosystem hotspot profiles developed with the support of the Critical Ecosystem Partnership Fund.
 
 Data on protected areas are managed in the World Database on Protected Areas by the UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)[^8].  
 
