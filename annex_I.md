@@ -8,7 +8,7 @@ Decision 17/COP.11 para. 14 requests the secretariat to develop a policy to acce
 
 ## 2. Introduction
 
-Licensing of national datasets aims to empower country Parties reporting through PRAIS to set the terms of use of their national data uploaded or created as part of the reporting process by creating a User-Specific Licence (USL). The default licence for PRAIS data can be seen in the “Terms of Use” section of the site. Parties uploading national datasets to the system have the option to edit the default licence in the Spatial Layers list by clicking on the form provided per uploaded layer. However, while Parties are free to set their terms of use for their national datasets, the default data provided to Parties through PRAIS and Trends.Earth is already in the public domain as described here, and therefore cannot be licensed separately by Parties. For example, the European Space Agency Climate Change Initiative Land Cover and the International Soil Reference and Information Centre Soil Grids data has been released under an “Attribution-Share Alike” licence. Thus, the use of these datasets is subject to the terms of this licence. 
+Licensing of national datasets aims to empower country Parties reporting through PRAIS to set the terms of use of their national data uploaded or created as part of the reporting process by creating a User-Specific Licence (USL). The default licence for PRAIS data can be seen in the “Terms of Use” section of the site. Parties uploading national datasets to the system have the option to edit the default licence in the Spatial Layers list by clicking on the form provided per uploaded layer. However, while Parties are free to set their terms of use for their national datasets, the default data provided to Parties through PRAIS and Trends.Earth is already in the public domain as described [here](https://trends.earth/docs/en/about/data_sources.html), and therefore cannot be licensed separately by Parties. For example, the European Space Agency Climate Change Initiative Land Cover and the International Soil Reference and Information Centre Soil Grids data has been released under an “Attribution-Share Alike” licence. Thus, the use of these datasets is subject to the terms of this licence. 
 
 By choosing a USL, the user consents to the chosen licence. It is understood that the following terms and conditions are agreed to:  
 
@@ -54,20 +54,18 @@ However, in return for using the data, users must respect the following terms:
 
 - NonCommercial — You may not use the material for commercial purposes.
 
-To find out more about this licence (translated into all United Nations languages), please visit this link.
+To find out more about this licence (translated into all United Nations languages), please visit this [link](https://creativecommons.org/licenses/by-nc/2.0/).
 
 Alternatively, two other CC licences are offered to Parties, which impose additional restrictions on the use of the data:
 
-## Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)
+### Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)
 
 This licence allows others to remix, adapt and build upon your work non-commercially, as long as they credit you and license their new creations under identical terms.
 
-## Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)
+### Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)
 
 This licence is the most restrictive of the licences, only allowing others to download the data and share it with others as long as they credit you. However, they are not authorized to change it in any way or use it commercially. 
 
 ## 4.2. Existing licences
 
 Country Parties may upload or create spatial datasets with an existing data licence which may impose additional restrictions on the use of the data which are not covered in the above options. We invite country Parties to describe the licence and the permissions of use using the form provided. 
-
-
