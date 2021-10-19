@@ -227,7 +227,7 @@ National reporting is facilitated though the provision of default data.
 
 ### 3.2.2. Prerequisites for reporting
 
-- An in-depth reading of chapter 2 of the “Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3: To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems” detailing the methodology used to estimate drought exposure.
+- An in-depth reading of chapter 2 of the “[Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf): To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems” detailing the methodology used to estimate drought exposure.
 
 - Data complying with the specifications listed in figure 2 and table 20.
 
@@ -272,9 +272,11 @@ widths: 1 3 3
   - Annual gridded products of total, female and male population exposed to the four drought intensity classes from the year 2000 to the reporting year.
     
     Count and percentage of total, female and male population exposed to drought and to each drought intensity class.</P>Gridded spatial summary in four-year epochs.
-  - Gridded population products derived from national official statistics from the year 2000 to the reporting year, ideally annual and, if available, disaggregated by sex.
-  
-    Drought intensity class data as determined by indicator SO 3-1.
+  - Annual gridded product of population exposed to the four drought intensity classes from the year 2000 to the reporting year 
+
+    Count and percentage of total, female and male population exposed to drought and to each drought intensity class.  
+
+    Gridded spatial summary in four-year epochs. 
 * - __Spatial resolution__
   - Worldpop: 3-arc seconds (~100 m)
   - Assessed by national authorities based on available data.
@@ -311,6 +313,7 @@ In addition to the annual values of indicator SO 3-2, a gridded spatial summary 
 To summarize the reporting period spatially, the most recent population dataset from the current reporting period is overlaid on the output generated for indicator SO 3-1 in Step 5, which represents the most extreme drought intensity class for each year within the reporting period.
 
 Similarly, baseline exposure summary spatial data products are generated for each of the four-year baseline periods (i.e., 2000–2003, 2004–2007, 2008–2011 and 2012–2015) by overlaying the most recent population data of each group of years on the output generated for indicator SO 3-1 in Step 5.
+
 These gridded spatial summaries give an indication of the number of people exposed to the most extreme drought intensity class in four-year epochs.
 
 #### Step 5:  Verify the results
@@ -333,7 +336,7 @@ Default maps or maps generated in Trends.Earth using national data representing 
 
 These maps show the most extreme drought intensity class a population was exposed to within each epoch, as explained in Step 4.
 
-Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data using the “General Comment” field. It would also be beneficial to report on special cases and issues, describing situations where values might be less reliable and providing the rationale to adopt a different methodology
+Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data using the “General Comment” field. It would also be beneficial to report on special cases and issues, describing situations where values might be less reliable and providing the rationale to adopt a different methodology.
 
 ### 3.2.4. Dependencies
 
@@ -387,7 +390,7 @@ The UNCCD provides Parties with default data derived from the global DVI dataset
 
 ### 3.3.2. Prerequisites for reporting
 
-- An in-depth reading of chapter 3 of the “Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3: To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems” detailing the methodology used to estimate drought vulnerability.
+- An in-depth reading of chapter 3 of the “[Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf): To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems” detailing the methodology used to estimate drought vulnerability.
 
 - Data complying with the specifications listed in table 21.
 
@@ -425,22 +428,26 @@ widths: 1 3 3
   - {cspan}`1` Specifications
 * - Default data (Drought Vulnerability Index dataset produced by the Joint Research Centre)
   - National data
-* - Input data (Data needed to generate indicator SO 3-3 as described in Steps 2 to 4)
+* - __Input data__ 
+    
+    (Data needed to generate indicator SO 3-3 as described in Steps 2 to 4)
   - Input data used to calculate the default Drought Vulnerability Index (DVI) is drawn from various sources such as World Bank, Organisation for Economic Cooperation and Development, Food and Agriculture Organization of the United Nations, and Joint Research Centre.
   - <P>Freely available datasets for the calculation of the factors needed to derive the DVI are listed in table 14 of the “[Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf)".</P>Alternatively, if available, in-country datasets with higher spatial resolution and fewer gaps over the baseline and reporting period.
-* - Output data (DVI indicator resulting from the analysis described in Steps 2 to 4)
+* - __Output data__ 
+
+    (DVI indicator resulting from the analysis described in Steps 2 to 4)
   - 2018 DVI for the baseline and the reporting period. Regions where droughts could be meaningless, such as deserts and cold areas, are masked.
   - Annual or near-annual DVI for the baseline and reporting periods.
-* - Classification
+* - __Classification__
   - Continuous, fractional scale from 0 to 1 but classification based on quantiles to group the vulnerability classes.
   - Continuous scale from 0 to 1.
-* - Spatial resolution
+* - __Spatial resolution__
   - Country level
   - National and/or sub-national levels
-* - Quality
+* - __Quality__
   - Specified in the datasets’ metadata. 
   - To be indicated in the dataset metadata.
-* - Metadata
+* - __Metadata__
   - Metadata information is provided with default data. 
   - Minimum metadata content as per the mandatory fields listed in Annex II. 
 ```
@@ -524,7 +531,8 @@ SO 2-1 and SO 2-2 can be used for the calculation of SO 3-3.
 #### Data availability and quality
 
 - The availability of data for the considered factors varies substantially from country to country and the complete set of recommended data might not be accessible everywhere.  
-Methodological approach
+
+#### Methodological approach
 
 - The reliability of the DVI method at national and sub-national levels is still to be verified.
 
