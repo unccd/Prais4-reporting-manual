@@ -593,8 +593,8 @@ A z-score measures how many standard deviations above or below the mean a data p
   $z = \frac{data\ point – mean}{standard\ deviation}$
   ```
 
-&nbsp; 
- 
+&nbsp;
+
 Important facts about z-scores:
 - A positive z-score indicates that the data point is above average.
 - A negative z-score indicates that the data point is below average.
@@ -629,16 +629,16 @@ Parties should make the following calculations:
 ---
 header-rows: 1
 ---
-* - Baseline</td>
-  - Reporting period</td>
-* - A = Mean annual NPP 2013–2015</td>
-  - A = Mean annual NPP of the 3 most recent years</td>
-* - B = Mean annual NPP 2000–2012</td>
-  - B = Mean annual NPP of the 13 preceding years</td>
-* - C = Standard deviation 2000–2012</td>
-  - C = Standard deviation of the 13 preceding years</td>
-* - z-score = (A – B) / C </td>
-  - z-score = (A – B) / C</td>
+* - Baseline
+  - Reporting period
+* - A = Mean annual NPP 2013–2015
+  - A = Mean annual NPP of the 3 most recent years
+* - B = Mean annual NPP 2000–2012
+  - B = Mean annual NPP of the 13 preceding years
+* - C = Standard deviation 2000–2012
+  - C = Standard deviation of the 13 preceding years
+* - z-score = (A – B) / C
+  - z-score = (A – B) / C
 ```
 
 Class definitions for the Z scores are as follows:

@@ -265,7 +265,9 @@ widths: 1 3 3
 * - __Input data__
     
     (Data needed to generate indicator SO 3-2, as described in Steps 2 to 4)
-  - WorldPop data for the period 2000–2020, disaggregated by sex.</P>Drought intensity class data as determined by indicator SO 3-1.
+  - WorldPop data for the period 2000–2020, disaggregated by sex.
+    
+    Drought intensity class data as determined by indicator SO 3-1.
   - Gridded population products derived from national official statistics from the year 2000 to the reporting year, ideally annual and, if available, disaggregated by sex.
     
     Drought intensity class data as determined by indicator SO 3-1.
@@ -274,7 +276,9 @@ widths: 1 3 3
     (Gridded products resulting from the analysis described in Steps 2 to 4)
   - Annual gridded products of total, female and male population exposed to the four drought intensity classes from the year 2000 to the reporting year.
     
-    Count and percentage of total, female and male population exposed to drought and to each drought intensity class.</P>Gridded spatial summary in four-year epochs.
+    Count and percentage of total, female and male population exposed to drought and to each drought intensity class.
+    
+    Gridded spatial summary in four-year epochs.
   - Annual gridded product of population exposed to the four drought intensity classes from the year 2000 to the reporting year 
 
     Count and percentage of total, female and male population exposed to drought and to each drought intensity class.  

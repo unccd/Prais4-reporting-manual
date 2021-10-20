@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-18 17:31+0300\n"
+"POT-Creation-Date: 2021-10-20 13:46+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1845,43 +1845,39 @@ msgid "Parties should make the following calculations:"
 msgstr ""
 
 #: ../../SO1.md:1
-msgid "Baseline</td>"
+msgid "Baseline"
 msgstr ""
 
 #: ../../SO1.md:2
-msgid "Reporting period</td>"
+msgid "Reporting period"
 msgstr ""
 
 #: ../../SO1.md:3
-msgid "A = Mean annual NPP 2013–2015</td>"
+msgid "A = Mean annual NPP 2013–2015"
 msgstr ""
 
 #: ../../SO1.md:4
-msgid "A = Mean annual NPP of the 3 most recent years</td>"
+msgid "A = Mean annual NPP of the 3 most recent years"
 msgstr ""
 
 #: ../../SO1.md:5
-msgid "B = Mean annual NPP 2000–2012</td>"
+msgid "B = Mean annual NPP 2000–2012"
 msgstr ""
 
 #: ../../SO1.md:6
-msgid "B = Mean annual NPP of the 13 preceding years</td>"
+msgid "B = Mean annual NPP of the 13 preceding years"
 msgstr ""
 
 #: ../../SO1.md:7
-msgid "C = Standard deviation 2000–2012</td>"
+msgid "C = Standard deviation 2000–2012"
 msgstr ""
 
 #: ../../SO1.md:8
-msgid "C = Standard deviation of the 13 preceding years</td>"
+msgid "C = Standard deviation of the 13 preceding years"
 msgstr ""
 
-#: ../../SO1.md:9
-msgid "z-score = (A – B) / C </td>"
-msgstr ""
-
-#: ../../SO1.md:10
-msgid "z-score = (A – B) / C</td>"
+#: ../../SO1.md:9 ../../SO1.md:10
+msgid "z-score = (A – B) / C"
 msgstr ""
 
 #: ../../SO1.md:644
@@ -4082,5 +4078,35 @@ msgstr ""
 #~ "4 spatial data viewer. However, they "
 #~ "can also be filled in manually "
 #~ "without providing supporting spatial data."
+#~ msgstr ""
+
+#~ msgid "Baseline</td>"
+#~ msgstr ""
+
+#~ msgid "Reporting period</td>"
+#~ msgstr ""
+
+#~ msgid "A = Mean annual NPP 2013–2015</td>"
+#~ msgstr ""
+
+#~ msgid "A = Mean annual NPP of the 3 most recent years</td>"
+#~ msgstr ""
+
+#~ msgid "B = Mean annual NPP 2000–2012</td>"
+#~ msgstr ""
+
+#~ msgid "B = Mean annual NPP of the 13 preceding years</td>"
+#~ msgstr ""
+
+#~ msgid "C = Standard deviation 2000–2012</td>"
+#~ msgstr ""
+
+#~ msgid "C = Standard deviation of the 13 preceding years</td>"
+#~ msgstr ""
+
+#~ msgid "z-score = (A – B) / C </td>"
+#~ msgstr ""
+
+#~ msgid "z-score = (A – B) / C</td>"
 #~ msgstr ""
 
