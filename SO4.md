@@ -20,8 +20,7 @@ The main output of the reporting process for SO 4-2 is a set of officially verif
 
 ### 4.2.2. Prerequisites for reporting
 
-- An in-depth reading of [SDG indicator 15.5.1 metadata document](<https://unstats.un.org/sdgs/metadata/files/>
-Metadata-15-05-01.pdf);
+- An in-depth reading of [SDG indicator 15.5.1 metadata document](https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf);
 
 - Consultation with national experts on biodiversity, species extinction risk, and land management and conservation; Convention on Biological Diversity (CBD) national focal points; national statistical offices and IUCN State Members;
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-20 13:09+0300\n"
+"POT-Creation-Date: 2021-10-20 14:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -148,13 +148,12 @@ msgstr "4.2.2. P$r$e$r$e$q$u$i$s$i$t$e$s$ f$o"
 #, fuzzy
 msgid ""
 "An in-depth reading of [SDG indicator 15.5.1 metadata "
-"document](<https://unstats.un.org/sdgs/metadata/files/> "
-"Metadata-15-05-01.pdf);"
+"document](https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf);"
 msgstr ""
 "S$D$G$ i$n$d$i$c$a$t$o$r$ 15.5.1 m$e$t$a$d$a$t$a$ d$o$c$u$m$e$n$t$ "
 "(<h$t$t$p$s$://u$n$s$t$a$t$s$.u$n$.o$r$g$/s$d$g$s$/"
 
-#: ../../SO4.md:26
+#: ../../SO4.md:25
 msgid ""
 "Consultation with national experts on biodiversity, species extinction "
 "risk, and land management and conservation; Convention on Biological "
@@ -166,7 +165,7 @@ msgstr ""
 "a$n$d$ l$a$n$d$ m$a$n$a$g$e$m$e$n$t$ a$n$d$ c$o$n$s$e$r$v$a$t$i$o$n$; "
 "C$o$n$v$e$n$t$i$o$n$ o$n$ B$i$o$l$o$g$i$c"
 
-#: ../../SO4.md:28
+#: ../../SO4.md:27
 msgid ""
 "Familiarity with the ‘Advanced Search’ function on the IUCN Red List "
 "website to enable customized calculation of the RLI: "
@@ -176,17 +175,17 @@ msgstr ""
 "f$u$n$c$t$i$o$n$ o$n$ t$h$e$ I$U$C$N$ R$e$d$ L$i$s$t$ w$e$b$s$i$t$e$ t$o$"
 " e$n$a$b$l$e$ c$u$s$t$o$m$i$z$"
 
-#: ../../SO4.md:30
+#: ../../SO4.md:29
 msgid "4.2.3. Reporting process and step-by-step procedures"
 msgstr "4.2.3. R$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ a$n$d$ s$t$e$p$-"
 
-#: ../../SO4.md:32 ../../SO4.md:144
+#: ../../SO4.md:31 ../../SO4.md:143
 msgid "The step-by-step procedure for reporting is described in the following."
 msgstr ""
 "T$h$e$ s$t$e$p$-b$y$-s$t$e$p$ p$r$o$c$e$d$u$r$e$ f$o$r$ "
 "r$e$p$o$r$t$i$n$g$ i$s"
 
-#: ../../SO4.md:34
+#: ../../SO4.md:33
 msgid "Step 1: Report Red List Index data"
 msgstr "S$t$e$p$ 1: R$e$p$o$r$t$ R$e$d$ L$i$s"
 
@@ -194,7 +193,7 @@ msgstr "S$t$e$p$ 1: R$e$p$o$r$t$ R$e$d$ L$i$s"
 msgid "Related areas in the PRAIS 4 platform: table SO4-2.T1"
 msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t"
 
-#: ../../SO4.md:40
+#: ../../SO4.md:39
 msgid ""
 "The RLI is SDG indicator 15.5.1. Therefore, the RLI data are pre-filled "
 "from the SDG database, including the national-level index value as well "
@@ -208,7 +207,7 @@ msgstr ""
 "i$n$d$e$x$ v$a$l$u$e$ a$s$ w$e$l$l$ a$s$ t$h$e$ u$p$p$e$r$ a$n$d$ "
 "l$o$w$e$r$ b$o$u$n$d$s$ o$f$ u$n$c$e"
 
-#: ../../SO4.md:42
+#: ../../SO4.md:41
 msgid ""
 "Parties may decide to customize/complement the values to be reported in "
 "table SO4-2.T1. Customised RLI values can be produced from the Red List "
@@ -232,7 +231,7 @@ msgstr ""
 "s$p$e$c$i$e$s$ s$h$o$w$i$n$g$ t$r$e$n$d$s$ d$r$i$v$e$n$ b$y$ "
 "d$i$f$f$e$r$e$n$t$ t"
 
-#: ../../SO4.md:44
+#: ../../SO4.md:43
 msgid ""
 "Parties may want to report on regional-scale subsets of species that are "
 "more relevant to the implementation of the UNCCD. National experts on "
@@ -248,7 +247,7 @@ msgstr ""
 "b$i$o$d$i$v$e$r$s$i$t$y$, s$p$e$c$i$e$s$ e$x$t$i$n$c$t$i$o$n$ r$i$s$k$, "
 "a$n$d$ l$a$n$d$ m$a$n$a$g$e$m$e$n$t$ a$n$d$ l$a$n$d$ c$o$n"
 
-#: ../../SO4.md:46
+#: ../../SO4.md:45
 msgid ""
 "Details on the customization of the RLI values should be reported in the "
 "‘General Comments’ section provided in the PRAIS 4 platform."
@@ -256,7 +255,7 @@ msgstr ""
 "D$e$t$a$i$l$s$ o$n$ t$h$e$ c$u$s$t$o$m$i$z$a$t$i$o$n$ o$f$ t$h$e$ R$L$I$ "
 "v$a$l$u$e$s$ s$h$o$u$l$d$ b$e$ r$e$p$o$r$t$e$d$ i$n$ t$h$e$ ‘G$e$n$e$r$a$"
 
-#: ../../SO4.md:50
+#: ../../SO4.md:49
 msgid "Step 2: Qualitatively assess the Red List Index data"
 msgstr "S$t$e$p$ 2: Q$u$a$l$i$t$a$t$i$v$e$l$y$ a$s$s$e$s$s$ t$h$e"
 
@@ -264,7 +263,7 @@ msgstr "S$t$e$p$ 2: Q$u$a$l$i$t$a$t$i$v$e$l$y$ a$s$s$e$s$s$ t$h$e"
 msgid "Related areas in the PRAIS 4 platform: table SO4-2.T2"
 msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t"
 
-#: ../../SO4.md:56
+#: ../../SO4.md:55
 msgid ""
 "Countries are encouraged to identify and then rank which drivers directly"
 " or indirectly cause negative changes or downward trends. Countries are "
@@ -278,11 +277,11 @@ msgstr ""
 "d$o$w$n$w$a$r$d$ t$r$e$n$d$s$. C$o$u$n$t$r$i$e$s$ a$r$e$ a$l$s$o$ "
 "e$n$c$o$u$r$a$g$e$d$ t$o$ c$o$m$m$e$n$t$ o$n$ t$h$e$ p"
 
-#: ../../SO4.md:60
+#: ../../SO4.md:59
 msgid "Step 3:  Verify the results"
 msgstr "S$t$e$p$ 3:  V$e$r$i$f$y$ t$h"
 
-#: ../../SO4.md:62
+#: ../../SO4.md:61
 msgid ""
 "The reliability of the default RLI data needs to be verified by national "
 "experts to detect and highlight situations where the confidence level of "
@@ -297,11 +296,11 @@ msgstr ""
 "o$f$ t$h$e$ o$b$t$a$i$n$e$d$ r$e$s$u$l$t$s$ m$i$g$h$t$ b$e$ l$o$w$. "
 "T$h$i$s$ w$o$u$l"
 
-#: ../../SO4.md:64 ../../SO4.md:170
+#: ../../SO4.md:63 ../../SO4.md:169
 msgid "Step 4: Generate reports"
 msgstr "S$t$e$p$ 4: G$e$n$e$r$a$t$"
 
-#: ../../SO4.md:66
+#: ../../SO4.md:65
 msgid ""
 "Once verified by the Parties, the estimates of the RLI indicator as well "
 "as the qualitative assessment should be officially submitted to UNCCD."
@@ -310,7 +309,7 @@ msgstr ""
 "e$s$t$i$m$a$t$e$s$ o$f$ t$h$e$ R$L$I$ i$n$d$i$c$a$t$o$r$ a$s$ w$e$l$l$ "
 "a$s$ t$h$e$ q$u$a$l$i$t$a"
 
-#: ../../SO4.md:68
+#: ../../SO4.md:67
 msgid ""
 "Parties have the option to use the ‘General Comment’ field to add any "
 "relevant information, or to report on specific country or regional "
@@ -320,23 +319,23 @@ msgstr ""
 "‘G$e$n$e$r$a$l$ C$o$m$m$e$n$t$’ f$i$e$l$d$ t$o$ a$d$d$ a$n$y$ "
 "r$e$l$e$v$a$n$t$ i$n$f$o$r$m$a$t$i$o$"
 
-#: ../../SO4.md:70
+#: ../../SO4.md:69
 msgid "4.2.4. Dependencies"
 msgstr "4.2.4. D$e$p$e$n$d$e"
 
-#: ../../SO4.md:72
+#: ../../SO4.md:71
 msgid "The SO 4-2 indicator has no interdependencies with other SOs."
 msgstr "T$h$e$ S$O$ 4-2 i$n$d$i$c$a$t$o$r$ h$a$s$ n$o$ i$n$t$e$r$d$e$p$e$n$"
 
-#: ../../SO4.md:74
+#: ../../SO4.md:73
 msgid "4.2.5. Challenges"
 msgstr "4.2.5. C$h$a$l$l$e"
 
-#: ../../SO4.md:76 ../../SO4.md:186
+#: ../../SO4.md:75 ../../SO4.md:185
 msgid "Data interpretation"
 msgstr "D$a$t$a$ i$n$t$e$r$p"
 
-#: ../../SO4.md:78
+#: ../../SO4.md:77
 msgid ""
 "The main challenge is the interpretation of changes in the indicator and "
 "specifically understanding the drivers of trends in the indicator. The "
@@ -355,7 +354,7 @@ msgstr ""
 "a$n$d$ t$h$e$r$e$f$o$r$e$ d$o$e$s$ n$o$t$ i$n$c$l$u$d$e$ a$l$l$ "
 "s$p$e$c$i$e$s$ i$n$ a$ c$o$u$n$t$r$y$. N$a$t$i$o$n$a$l$ e$x$"
 
-#: ../../SO4.md:80
+#: ../../SO4.md:79
 msgid ""
 "There are also several sources of uncertainty in the RLI values and "
 "trends pertaining to lack of knowledge about species extinction risk, "
@@ -370,15 +369,15 @@ msgstr ""
 "d$a$t$a$ o$n$ s$p$e$c$i$e$s$, a$n$d$ d$e$l$a$y$s$ i$n$ l$e$a$r$n$i$n$g$ "
 "a$b$"
 
-#: ../../SO4.md:82
+#: ../../SO4.md:81
 msgid "4.2.6. Summary"
 msgstr "4.2.6. S$u$m$m$"
 
-#: ../../SO4.md:84 ../../SO4.md:194
+#: ../../SO4.md:83 ../../SO4.md:193
 msgid "Key actions for reporting on RLI are as follows:"
 msgstr "K$e$y$ a$c$t$i$o$n$s$ f$o$r$ r$e$p$o$r$t$i$n$g$ o$n$"
 
-#: ../../SO4.md:86
+#: ../../SO4.md:85
 msgid ""
 "**Report RLI data**: Parties can use the default data or can choose to "
 "report using customized RLI values."
@@ -386,7 +385,7 @@ msgstr ""
 "**R$e$p$o$r$t$ R$L$I$ d$a$t$a$**: P$a$r$t$i$e$s$ c$a$n$ u$s$e$ t$h$e$ "
 "d$e$f$a$u$l$t$ d$a$t$a$ o$r$ c$a$n$ c$h$o$o$s$"
 
-#: ../../SO4.md:88
+#: ../../SO4.md:87
 msgid ""
 "**Qualitatively assess the RLI data**: Parties can report on the direct "
 "and indirect drivers of trends in the RLI and any levers used to bring "
@@ -396,7 +395,7 @@ msgstr ""
 "P$a$r$t$i$e$s$ c$a$n$ r$e$p$o$r$t$ o$n$ t$h$e$ d$i$r$e$c$t$ a$n$d$ "
 "i$n$d$i$r$e$c$t$ d$r$i$v$e$r$s$ o$f$ t$r$e$n$d$s$ i$n$ t$h$e$ R$L$I"
 
-#: ../../SO4.md:90
+#: ../../SO4.md:89
 msgid ""
 "**Verify the results**: Aware of the limitations of the RLI values, "
 "Parties may verify the accuracy and reliability of such indicators in "
@@ -408,7 +407,7 @@ msgstr ""
 "m$a$y$ v$e$r$i$f$y$ t$h$e$ a$c$c$u$r$a$c$y$ a$n$d$ r$e$l$i$a$b$i$l$i$t$y$"
 " o$f$ s$u$c$h$ i$n$d$i$c$a$"
 
-#: ../../SO4.md:92 ../../SO4.md:202
+#: ../../SO4.md:91 ../../SO4.md:201
 msgid ""
 "**Generate reports**: Once verified by the Parties, the data and "
 "supporting narrative should be officially submitted to UNCCD."
@@ -416,11 +415,11 @@ msgstr ""
 "**G$e$n$e$r$a$t$e$ r$e$p$o$r$t$s$**: O$n$c$e$ v$e$r$i$f$i$e$d$ b$y$ "
 "t$h$e$ P$a$r$t$i$e$s$, t$h$e$ d$a$t$a$ a$n$d$ s$u$p$p$o$r$t$i$n$g$ n$a"
 
-#: ../../SO4.md:94
+#: ../../SO4.md:93
 msgid "4.2.7. Further reading"
 msgstr "4.2.7. F$u$r$t$h$e$r$ r$"
 
-#: ../../SO4.md:96
+#: ../../SO4.md:95
 msgid ""
 "SDG indicator 15.5.1 metadata document "
 "(<https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf>)."
@@ -428,7 +427,7 @@ msgstr ""
 "S$D$G$ i$n$d$i$c$a$t$o$r$ 15.5.1 m$e$t$a$d$a$t$a$ d$o$c$u$m$e$n$t$ "
 "(<h$t$t$p$s$://u$n$s$t$a$t$s$.u$n$.o$r$g$/s$d$g$s$/"
 
-#: ../../SO4.md:97
+#: ../../SO4.md:96
 msgid ""
 "Butchart et al. (2006) Biodiversity indicators based on trends in "
 "conservation status: strengths of the IUCN Red List Index. Conservation "
@@ -441,7 +440,7 @@ msgstr ""
 "I$U$C$N$ R$e$d$ L$i$s$t$ I$n$d$e$x$. C$o$n$s$e$r$v$a$t$i$o$n$ "
 "B$i$o$l$o$g$y$ "
 
-#: ../../SO4.md:98
+#: ../../SO4.md:97
 msgid ""
 "Butchart et al (2010) Global Biodiversity: Indicators of Recent Declines,"
 " Science, 328 (5982), pp. 1164–1168 "
@@ -451,7 +450,7 @@ msgstr ""
 "I$n$d$i$c$a$t$o$r$s$ o$f$ R$e$c$e$n$t$ D$e$c$l$i$n$e$s$, S$c$i$e$n$c$e$, "
 "328 (5982), p$p$. 1164–1168 (<h$t$t$"
 
-#: ../../SO4.md:100
+#: ../../SO4.md:99
 msgid ""
 "4.3. SO 4-3 Trends in protected area coverage of important biodiversity "
 "areas"
@@ -459,11 +458,11 @@ msgstr ""
 "4.3. S$O$ 4-3 T$r$e$n$d$s$ i$n$ p$r$o$t$e$c$t$e$d$ a$r$e$a$ "
 "c$o$v$e$r$a$g$e$ o$f$ i$"
 
-#: ../../SO4.md:102
+#: ../../SO4.md:101
 msgid "4.3.1. Introduction"
 msgstr "4.3.1. I$n$t$r$o$d$u"
 
-#: ../../SO4.md:104
+#: ../../SO4.md:103
 msgid ""
 "Protecting important sites for biodiversity is critical to halting the "
 "decline in biodiversity and ensuring the long-term and sustainable use of"
@@ -480,7 +479,7 @@ msgstr ""
 "E$s$t$a$b$l$i$s$h$i$n$g$ p$r$o$t$e$c$t$e$d$ a$r$e$a$s$ i$s$ a$n$ "
 "i$m$p$o$r$t$a$n$t$ m$e$c$h$a$n$i$s$m$ f$o$"
 
-#: ../../SO4.md:106
+#: ../../SO4.md:105
 msgid ""
 "Protected areas as defined by the IUCN[^6]  are clearly defined "
 "geographical spaces, recognized, dedicated and managed, through legal or "
@@ -498,7 +497,7 @@ msgstr ""
 "a$s$s$o$c$i$a$t$e$d$ e$c$o$s$y$s$t$e$m$ s$e$r$v$i$c$e$s$ a$n$d$ "
 "c$u$l$t$u$r$a$l"
 
-#: ../../SO4.md:108
+#: ../../SO4.md:107
 msgid ""
 "In addition to protecting biodiversity, protected areas have high social "
 "and economic value because they support local livelihoods, protect "
@@ -513,7 +512,7 @@ msgstr ""
 "f$r$o$m$ e$r$o$s$i$o$n$, c$o$n$t$a$i$n$ a$ w$e$a$l$t$h$ o$f$ "
 "g$e$n$e$t$i$c$ r$e$s$o$u$r$c$e$s$, s$u$p$"
 
-#: ../../SO4.md:110
+#: ../../SO4.md:109
 msgid ""
 "The metric average proportion of terrestrial Key Biodiversity Areas "
 "(KBAs) covered by protected areas, which is SDG indicator 15.1.2b, shows "
@@ -529,7 +528,7 @@ msgstr ""
 "t$r$e$n$d$s$ i$n$ t$h$e$ m$e$a$n$ p$e$r$c$e$n$t$a$g$e$ o$f$ e$a$c$h$ "
 "i$m$p$o$r$t$a$n$t$ s$i$t$e$ f$o$r$ t$e$r$r$e$s$t$r$i$a$l$ b$i"
 
-#: ../../SO4.md:112
+#: ../../SO4.md:111
 msgid ""
 "The metadata for SDG indicator 15.1.2 includes other effective area-based"
 " conservation measures (OECMs) in addition to protected areas. OECMs are "
@@ -549,7 +548,7 @@ msgstr ""
 "a$c$h$i$e$v$e$ p$o$s$i$t$i$v$e$ a$n$d$ s$u$s$t$a$i$n$e$d$ "
 "l$o$n$g$-t$e$r$m$ o$u"
 
-#: ../../SO4.md:114
+#: ../../SO4.md:113
 msgid ""
 "KBAs are sites that contribute significantly to the global persistence of"
 " biodiversity and are identified following global criteria[^7]  applied "
@@ -560,7 +559,7 @@ msgstr ""
 "p$e$r$s$i$s$t$e$n$c$e$ o$f$ b$i$o$d$i$v$e$r$s$i$t$y$ a$n$d$ a$r$e$ "
 "i$d$e$n$t$i$f$i$e$d$ f$o"
 
-#: ../../SO4.md:116
+#: ../../SO4.md:115
 #, fuzzy
 msgid ""
 "Important bird and biodiversity areas, which are sites that contribute "
@@ -574,7 +573,7 @@ msgstr ""
 "p$e$r$s$i$s$t$e$n$c$e$ o$f$ b$i$o$d$i$v$e$r$s$i$t$y$, "
 "i$d$e$n$t$i$f$i$e$d$ u$s$i$n$g$ d$"
 
-#: ../../SO4.md:118
+#: ../../SO4.md:117
 #, fuzzy
 msgid ""
 "Alliance for Zero Extinction sites, which are sites holding effectively "
@@ -592,7 +591,7 @@ msgstr ""
 "R$e$d$ L$i$s$t$ o$f$ T$h$r$e$a$t$e$n$e$d$ S$p$e$c$i$e$s$. 853 s$i$t$e$s$ "
 "h$a$v$e$ b$e$e$n$"
 
-#: ../../SO4.md:120
+#: ../../SO4.md:119
 #, fuzzy
 msgid ""
 "KBAs identified using an earlier version of the KBA criteria, including "
@@ -603,7 +602,7 @@ msgstr ""
 "v$e$r$s$i$o$n$ o$f$ t$h$e$ K$B$A$ c$r$i$t$e$r$i$a$, i$n$c$l$u$d$i$n$g$ "
 "t$h$o$s$e$ i$d$e$n$t$i$f$i$e$d$ i$n$ e$c$o$s$y$s$t$e$m$ h$o$t$s$p$o$t$ p$"
 
-#: ../../SO4.md:122
+#: ../../SO4.md:121
 msgid ""
 "Data on protected areas are managed in the World Database on Protected "
 "Areas by the UN Environment Programme World Conservation Monitoring "
@@ -613,7 +612,7 @@ msgstr ""
 "t$h$e$ W$o$r$l$d$ D$a$t$a$b$a$s$e$ o$n$ P$r$o$t$e$c$t$e$d$ A$r$e$a$s$ "
 "b$y$ t$h$e$ U$N$ E$n$v$i$r$o$n$m$e$n$"
 
-#: ../../SO4.md:124
+#: ../../SO4.md:123
 msgid ""
 "Data on OECMs are managed in the World Database on OECMs by the UNEP-"
 "WCMC[^9]."
@@ -621,7 +620,7 @@ msgstr ""
 "D$a$t$a$ o$n$ O$E$C$M$s$ a$r$e$ m$a$n$a$g$e$d$ i$n$ t$h$e$ W$o$r$l$d$ "
 "D$a$t$a$b$a$s$e"
 
-#: ../../SO4.md:126
+#: ../../SO4.md:125
 msgid ""
 "Data on KBAs are managed in the World Database of Key Biodiversity Areas "
 "by BirdLife International on behalf of the Key Biodiversity Areas "
@@ -631,7 +630,7 @@ msgstr ""
 "D$a$t$a$b$a$s$e$ o$f$ K$e$y$ B$i$o$d$i$v$e$r$s$i$t$y$ A$r$e$a$s$ b$y$ "
 "B$i$r$d$L$i$f$e$ I$n$t$e$r$n$a$t$"
 
-#: ../../SO4.md:128
+#: ../../SO4.md:127
 msgid ""
 "The main output of the reporting process for SO 4-3 is a set of "
 "officially verified annual estimates of the values of average proportion "
@@ -646,15 +645,15 @@ msgstr ""
 "K$B$A$s$ c$o$v$e$r$e$d$ b$y$ p$r$o$t$e$c$t$e$d$ a$r$e$a$s$ f$o$r$ "
 "2000–2020. N$a$t$"
 
-#: ../../SO4.md:136
+#: ../../SO4.md:135
 msgid "4.3.2. Prerequisites for reporting"
 msgstr "4.3.2. P$r$e$r$e$q$u$i$s$i$t$e$s$ f$o"
 
-#: ../../SO4.md:138
+#: ../../SO4.md:137
 msgid "An in-depth reading of the SDG indicator 15.1.2 metadata document;"
 msgstr "A$n$ i$n$-d$e$p$t$h$ r$e$a$d$i$n$g$ o$f$ t$h$e$ S$D$G$ i$n$d$i$c$a$t$o$r"
 
-#: ../../SO4.md:140
+#: ../../SO4.md:139
 msgid ""
 "Consultation with national experts on KBA and protected areas, CBD "
 "national focal points, national statistical offices, IUCN State Members "
@@ -664,11 +663,11 @@ msgstr ""
 "K$B$A$ a$n$d$ p$r$o$t$e$c$t$e$d$ a$r$e$a$s$, C$B$D$ n$a$t$i$o$n$a$l$ "
 "f$o$c$a$l$ p$o$i$n$t$s$, n$a$t$i$o$n$a$l$ s$t"
 
-#: ../../SO4.md:142
+#: ../../SO4.md:141
 msgid "4.3.3. Reporting process and step-by-step procedures"
 msgstr "4.3.3. R$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ a$n$d$ s$t$e$p$-"
 
-#: ../../SO4.md:146
+#: ../../SO4.md:145
 msgid "Step 1: Report indicator data"
 msgstr "S$t$e$p$ 1: R$e$p$o$r$t$ i$n$d$"
 
@@ -676,7 +675,7 @@ msgstr "S$t$e$p$ 1: R$e$p$o$r$t$ i$n$d$"
 msgid "Related areas in the PRAIS 4 platform: table SO4-3.T1"
 msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t"
 
-#: ../../SO4.md:152
+#: ../../SO4.md:151
 msgid ""
 "Default data for this indicator is pre-filled in table SO4-3.T1 from the "
 "SDG database (SDG indicator 15.1.2b), including the national-level value "
@@ -691,7 +690,7 @@ msgstr ""
 "u$p$p$e$r$ a$n$d$ l$o$w$e$r$ b$o$u$n$d$s$ o$f$ u$n$c$e$r$t$a$i$n$t$y$ "
 "a$r$o$u$n$d$ t$h$e"
 
-#: ../../SO4.md:154
+#: ../../SO4.md:153
 msgid ""
 "A Party may choose to report using the default data or alternative "
 "national data sources, if available. Any deviation from the guidance "
@@ -703,7 +702,7 @@ msgstr ""
 "d$a$t$a$ s$o$u$r$c$e$s$, i$f$ a$v$a$i$l$a$b$l$e$. A$n$y$ "
 "d$e$v$i$a$t$i$o$n$ f$r$o$m$ t$h$e$ g$u$i$d$a$n$c$e$"
 
-#: ../../SO4.md:158
+#: ../../SO4.md:157
 msgid "Step 2: Qualitatively assess the results"
 msgstr "S$t$e$p$ 2: Q$u$a$l$i$t$a$t$i$v$e$l$y$ a$s$s"
 
@@ -711,7 +710,7 @@ msgstr "S$t$e$p$ 2: Q$u$a$l$i$t$a$t$i$v$e$l$y$ a$s$s"
 msgid "Related areas in the PRAIS 4 platform: table SO4-3.T2"
 msgstr "R$e$l$a$t$e$d$ a$r$e$a$s$ i$n$ t$h$e$ P$R$A$I$S$ 4 p$l$a$t"
 
-#: ../../SO4.md:164
+#: ../../SO4.md:163
 msgid ""
 "Parties are encouraged to provide comments on the interpretation of the "
 "indicator, including the direction of indicator change. While it may be "
@@ -728,11 +727,11 @@ msgstr ""
 "f$a$c$t$o$r$s$ t$o$ c$h$a$n$g$e$s$ i$n$ t$h$e$ i$n$d$i$c$a$t$o$r$, "
 "c$o$u$n$t$r$i$e$s$ a$r$e$ e$n$c$o$u$r"
 
-#: ../../SO4.md:166
+#: ../../SO4.md:165
 msgid "Step 3: Verify the results"
 msgstr "S$t$e$p$ 3: V$e$r$i$f$y$ t$h"
 
-#: ../../SO4.md:168
+#: ../../SO4.md:167
 msgid ""
 "The reliability of the default SO 4-3 indicator data needs to be verified"
 " by national experts to detect and highlight situations where the "
@@ -747,7 +746,7 @@ msgstr ""
 "c$o$n$f$i$d$e$n$c$e$ l$e$v$e$l$ o$f$ t$h$e$ o$b$t$a$i$n$e$d$ "
 "r$e$s$u$l$t$s$ m$i$g$h$t$ b$e$ l$o$w$. T$h$i$s$ "
 
-#: ../../SO4.md:172
+#: ../../SO4.md:171
 msgid ""
 "Once verified by the Parties, the estimates of the SO 4-3 indicator as "
 "well as the qualitative assessment should be officially submitted to "
@@ -757,7 +756,7 @@ msgstr ""
 "e$s$t$i$m$a$t$e$s$ o$f$ t$h$e$ S$O$ 4-3 i$n$d$i$c$a$t$o$r$ a$s$ w$e$l$l$ "
 "a$s$ t$h$e$ q$u$a$l$i$t$a$"
 
-#: ../../SO4.md:174
+#: ../../SO4.md:173
 msgid ""
 "Parties have the option to include additional information in the ‘General"
 " Comments’ field to add any relevant information or to report on specific"
@@ -767,23 +766,23 @@ msgstr ""
 "a$d$d$i$t$i$o$n$a$l$ i$n$f$o$r$m$a$t$i$o$n$ i$n$ t$h$e$ ‘G$e$n$e$r$a$l$ "
 "C$o$m$m$e$n$t$s$’ f$i$e$l$d$ t$o$ a$d$d$ a$n$y$ r$e$l$e$v$a"
 
-#: ../../SO4.md:176
+#: ../../SO4.md:175
 msgid "4.3.4. Dependencies"
 msgstr "4.3.4. D$e$p$e$n$d$e"
 
-#: ../../SO4.md:178
+#: ../../SO4.md:177
 msgid "The SO 4-3 indicator has no interdependencies with other SOs."
 msgstr "T$h$e$ S$O$ 4-3 i$n$d$i$c$a$t$o$r$ h$a$s$ n$o$ i$n$t$e$r$d$e$p$e$n$"
 
-#: ../../SO4.md:180
+#: ../../SO4.md:179
 msgid "4.3.5. Challenges"
 msgstr "4.3.5. C$h$a$l$l$e"
 
-#: ../../SO4.md:182
+#: ../../SO4.md:181
 msgid "Data availability and quality"
 msgstr "D$a$t$a$ a$v$a$i$l$a$b$i$l$i$t$"
 
-#: ../../SO4.md:184
+#: ../../SO4.md:183
 msgid ""
 "KBAs focus mainly on subsets of biodiversity such as birds and highly "
 "threatened species. There are plans to improve KBAs with wider taxonomic "
@@ -793,7 +792,7 @@ msgstr ""
 "b$i$o$d$i$v$e$r$s$i$t$y$ s$u$c$h$ a$s$ b$i$r$d$s$ a$n$d$ h$i$g$h$l$y$ "
 "t$h$r$e$a$t$e$n$e$d$ s$p$e$c$i$e$s$. T$"
 
-#: ../../SO4.md:188
+#: ../../SO4.md:187
 msgid ""
 "This indicator and metric are very intuitive and only minor challenges "
 "exist. The reporting Party should understand where and why there are KBAs"
@@ -804,7 +803,7 @@ msgstr ""
 "e$x$i$s$t$. T$h$e$ r$e$p$o$r$t$i$n$g$ P$a$r$t$y$ s$h$o$u$l$d$ "
 "u$n$d$e$r$s$t$a$n$d$ w$h$e$r$e$ a$"
 
-#: ../../SO4.md:190
+#: ../../SO4.md:189
 msgid ""
 "Data on KBAs and protected areas is generally widely available; however, "
 "challenges exist at the national level in ensuring the designated "
@@ -815,11 +814,11 @@ msgstr ""
 "c$h$a$l$l$e$n$g$e$s$ e$x$i$s$t$ a$t$ t$h$e$ n$a$t$i$o$n$a$l$ l$e$v$e$l$ "
 "i$n$ e$n$s$u$"
 
-#: ../../SO4.md:192
+#: ../../SO4.md:191
 msgid "4.3.6. Summary"
 msgstr "4.3.6. S$u$m$m$"
 
-#: ../../SO4.md:196
+#: ../../SO4.md:195
 msgid ""
 "**Report indicator data**: Parties can use the default data or can choose"
 " to report using national data."
@@ -827,7 +826,7 @@ msgstr ""
 "**R$e$p$o$r$t$ i$n$d$i$c$a$t$o$r$ d$a$t$a$**: P$a$r$t$i$e$s$ c$a$n$ "
 "u$s$e$ t$h$e$ d$e$f$a$u$l$t$ d$a$t$a$ o$r$ c$a"
 
-#: ../../SO4.md:198
+#: ../../SO4.md:197
 msgid ""
 "**Qualitatively assess the results**: Changes in the indicator should be "
 "described in table SO4-3.T2."
@@ -835,7 +834,7 @@ msgstr ""
 "**Q$u$a$l$i$t$a$t$i$v$e$l$y$ a$s$s$e$s$s$ t$h$e$ r$e$s$u$l$t$s$**: "
 "C$h$a$n$g$e$s$ i$n$ t$h$e$ i$n$d$i$c$a$t$o$r"
 
-#: ../../SO4.md:200
+#: ../../SO4.md:199
 msgid ""
 "**Verify the results**: Aware of the limitations of the SO 4-3 indicator "
 "values, Parties may verify the accuracy and reliability of such indicator"
@@ -847,11 +846,11 @@ msgstr ""
 "v$a$l$u$e$s$, P$a$r$t$i$e$s$ m$a$y$ v$e$r$i$f$y$ t$h$e$ a$c$c$u$r$a$c$y$ "
 "a$n$d$ r$e$l$i$a$b$i$l$i$t$y$ o$f$ s$u$c$h$ i$n$"
 
-#: ../../SO4.md:204
+#: ../../SO4.md:203
 msgid "4.3.7. Further reading"
 msgstr "4.3.7. F$u$r$t$h$e$r$ r$"
 
-#: ../../SO4.md:206
+#: ../../SO4.md:205
 msgid ""
 "SDG indicator 15.1.2 metadata document "
 "(<https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf>)."
@@ -859,7 +858,7 @@ msgstr ""
 "S$D$G$ i$n$d$i$c$a$t$o$r$ 15.1.2 m$e$t$a$d$a$t$a$ d$o$c$u$m$e$n$t$ "
 "(<h$t$t$p$s$://u$n$s$t$a$t$s$.u$n$.o$r$g$/s$d$g$s$/"
 
-#: ../../SO4.md:208
+#: ../../SO4.md:207
 msgid ""
 "Butchart, S. H. M. et al. (2012). Protecting important sites for "
 "biodiversity contributes to meeting global conservation targets. PLoS One"
@@ -871,7 +870,7 @@ msgstr ""
 "c$o$n$t$r$i$b$u$t$e$s$ t$o$ m$e$e$t$i$n$g$ g$l$o$b$a$l$ "
 "c$o$n$s$e$r$v$a$t$i$o$n$ t$a$r$g$e$t$s$. P$L$o$S$ O$n$e$ 7(3): "
 
-#: ../../SO4.md:210
+#: ../../SO4.md:209
 msgid ""
 "Eken, G. et al. (2004). Key biodiversity areas as site conservation "
 "targets. BioScience 54: 1110–1118 "
@@ -881,7 +880,7 @@ msgstr ""
 "a$r$e$a$s$ a$s$ s$i$t$e$ c$o$n$s$e$r$v$a$t$i$o$n$ t$a$r$g$e$t$s$. "
 "B$i$o$S$c$i$e$n$c$e$ 54: 1110–1118 (<h$t$t$p$://b$i$o"
 
-#: ../../SO4.md:212
+#: ../../SO4.md:211
 msgid ""
 "IUCN (2016). A Global Standard for the Identification of Key Biodiversity"
 " Areas. International Union for Conservation of Nature, Gland, "
@@ -892,7 +891,7 @@ msgstr ""
 "A$r$e$a$s$. I$n$t$e$r$n$a$t$i$o$n$a$l$ U$n$i$o$n$ f$o$r$ "
 "C$o$n$s$e$r$v$a$t$i$o$n$ o$f"
 
-#: ../../SO4.md:214
+#: ../../SO4.md:213
 msgid ""
 "Donald, P. et al. (2018) Important Bird and Biodiversity Areas (IBAs): "
 "the development and characteristics of a global inventory of key sites "
@@ -903,7 +902,7 @@ msgstr ""
 "d$e$v$e$l$o$p$m$e$n$t$ a$n$d$ c$h$a$r$a$c$t$e$r$i$s$t$i$c$s$ o$f$ a$ "
 "g$l$o$b$a$l$ i$n$v$e$n$t$o$r$"
 
-#: ../../SO4.md:216
+#: ../../SO4.md:215
 msgid ""
 "Ricketts, T. H. et al. (2005). Pinpointing and preventing imminent "
 "extinctions. Proceedings of the National Academy of Sciences of the "
@@ -915,7 +914,7 @@ msgstr ""
 "P$r$o$c$e$e$d$i$n$g$s$ o$f$ t$h$e$ N$a$t$i$o$n$a$l$ A$c$a$d$e$m$y$ o$f$ "
 "S$c$i$e$n$c$e$s$ o$f$ "
 
-#: ../../SO4.md:218
+#: ../../SO4.md:217
 msgid ""
 "Langhammer, P. F. et al. (2007). Identification and Gap Analysis of Key "
 "Biodiversity Areas: Targets for Comprehensive Protected Area Systems. "
@@ -952,11 +951,11 @@ msgstr ""
 "G$l$o$b$a$l$ B$i$o$d$i$v$e$r$s$i$t$y$: I$n$d$i$c$a$t$o$r$s$ o$f$ "
 "R$e$c$e$n$t$ D$e$c$l$i$n$e$s$, S$c$i$e$n$c$e$, 328 (5982), p$p$. 11"
 
-#: ../../SO4.md:48
+#: ../../SO4.md:47
 msgid "<https://www.iucnredlist.org/search>."
 msgstr "<h$t$t$p$s$://w$w$w$.i$u$c$n$r$e$d$l$i$s"
 
-#: ../../SO4.md:58
+#: ../../SO4.md:57
 msgid ""
 "The direct and indirect drivers available for selection in the table and "
 "the levers which can reverse negative trends are summarized from the "
@@ -977,7 +976,7 @@ msgstr ""
 "b$i$o$d$i$v$e$r$s$i$t$y$ a$n$d$ e$c$o$s$y$s$t$e$m$ s$e$r$v$i$c$e$s$ o$f$ "
 "t$h$e$ I$n$t$e$r$g$o$v$e$r$n$m$e$n$t$a$l$ S$c$i$e$n$c$e$-P$o$l$i$c"
 
-#: ../../SO4.md:130
+#: ../../SO4.md:129
 msgid ""
 "For an explanation of categories, see: <https://www.iucn.org/theme"
 "/protected-areas/about/protected-area-categories>."
@@ -985,7 +984,7 @@ msgstr ""
 "F$o$r$ a$n$ e$x$p$l$a$n$a$t$i$o$n$ o$f$ c$a$t$e$g$o$r$i$e$s$, s$e$e$: "
 "<h$t$t$p$s$://w$w$w$.i$u$c$n$.o$r$g$/t$h$e$m$e$/p$r$o$t$e"
 
-#: ../../SO4.md:131
+#: ../../SO4.md:130
 msgid ""
 "For a detailed methodology, see: A Global Standard for the Identification"
 " of Key Biodiversity Areas (IUCN 2016). "
@@ -996,21 +995,21 @@ msgstr ""
 "o$f$ K$e$y$ B$i$o$d$i$v$e$r$s$i$t$y$ A$r$e$a$s$ (I$U$C$N$ 2016). "
 "<h$t$t$p$s"
 
-#: ../../SO4.md:132
+#: ../../SO4.md:131
 msgid "See <https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA>."
 msgstr ""
 "S$e$e$ "
 "<h$t$t$p$s$://w$w$w$.p$r$o$t$e$c$t$e$d$p$l$a$n$e$t$.n$e$t$/e$n$/t$h$e$"
 
-#: ../../SO4.md:133
+#: ../../SO4.md:132
 msgid "www.protectedplanet.net/en/thematic-areas/oecms."
 msgstr "w$w$w$.p$r$o$t$e$c$t$e$d$p$l$a$n$e$t$.n$e$t$/e$n$/t$"
 
-#: ../../SO4.md:134
+#: ../../SO4.md:133
 msgid "www.keybiodiversityareas.org/kba-data."
 msgstr "w$w$w$.k$e$y$b$i$o$d$i$v$e$r$s$i$t$y$a$r$"
 
-#: ../../SO4.md:156
+#: ../../SO4.md:155
 msgid ""
 "SDG indicator 15.1.2b data is updated each November/December using the "
 "latest versions of the datasets on protected areas, OECMs and KBAs."
