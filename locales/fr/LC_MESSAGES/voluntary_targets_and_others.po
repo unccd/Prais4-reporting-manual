@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-19 18:27+0300\n"
+"POT-Creation-Date: 2021-10-20 13:09+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,27 +97,23 @@ msgstr ""
 "g$a$i$n$) s$t$a$t$e$ o$f$ t$h$e$ l$a$"
 
 #: ../../voluntary_targets_and_others.md:15
+msgid "![](/img/LD_neutrality_response.jpg)"
+msgstr ""
+
+#: ../../voluntary_targets_and_others.md:17
 #, fuzzy
 msgid "_Figure 5. Land Degradation Neutrality response hierarchy_"
 msgstr ""
 "_F$i$g$u$r$e$ 5. L$a$n$d$ D$e$g$r$a$d$a$t$i$o$n$ N$e$u$t$r$a$l$i$t$y$ "
 "r$e$s$p$o$n$s$e$ h$i$e$r$a$r$c$h$y"
 
-#: ../../voluntary_targets_and_others.md:17
-msgid "![](/img/LD_neutrality_response.jpg)"
-msgstr ""
-
 #: ../../voluntary_targets_and_others.md:19
+#, fuzzy
 msgid ""
 "Geographic specificity helps define realistic targets. Geographically "
 "explicit targets with distinct locations, ecosystem types and maps can "
 "provide increased focus on critical hotspot areas, aid prioritization and"
 " help create realistic and purposeful sub-national commitments and plans."
-" An example of a time-bound, measurable and geographically explicit LDN "
-"voluntary target set by Colombia is: “By 2030, the productivity of at "
-"least 2,000 ha of soils with crops and/or pastures will be improved, with"
-" agroforestry production systems in the Caribbean and Andean regions "
-"(Sucre, Santander and Boyacá departments)”."
 msgstr ""
 "G$e$o$g$r$a$p$h$i$c$ s$p$e$c$i$f$i$c$i$t$y$ h$e$l$p$s$ d$e$f$i$n$e$ "
 "r$e$a$l$i$s$t$i$c$ t$a$r$g$e$t$s$. G$e$o$g$r$a$p$h$i$c$a$l$l$y$ "
@@ -130,7 +126,16 @@ msgstr ""
 "e$x$a$m$p$l$e$ o$f$ a$ t$i$m$e$-b$o$u$n$d$, m$e$a$s$u$r$a$b$l$e$ a$n$d$ "
 "g$e$o$g$r$a$p$h$i$c$a$l$l$y$ e$x$p$l$i$c$i$t$ L$D$N$ v$o$l$u$n$"
 
-#: ../../voluntary_targets_and_others.md:22
+#: ../../voluntary_targets_and_others.md:21
+msgid ""
+"An example of a time-bound, measurable and geographically explicit LDN "
+"voluntary target set by Colombia is: “By 2030, the productivity of at "
+"least 2,000 ha of soils with crops and/or pastures will be improved, with"
+" agroforestry production systems in the Caribbean and Andean regions "
+"(Sucre, Santander and Boyacá departments)”."
+msgstr ""
+
+#: ../../voluntary_targets_and_others.md:23
 msgid ""
 "LDN is intended to be achieved at the national level. Countries typically"
 " aim to achieve this through the definition of a combination of national "
@@ -153,7 +158,7 @@ msgstr ""
 "n$a$t$u$r$a$l$ a$r$e$a$, w$a$t$e$r$s$h$e$d$ o$r$ s$u$b$n$a$t$i$o$n$a$l$ "
 "a$d$m$i$n$i$s$t$r$a$t"
 
-#: ../../voluntary_targets_and_others.md:24
+#: ../../voluntary_targets_and_others.md:25
 msgid ""
 "*__Table 26__. Generic examples of Land Degradation Neutrality targets at"
 " different levels of application*"
@@ -263,7 +268,7 @@ msgstr ""
 "b$a$s$e$l$i$n$e$”   “R$e$h$a$b$i$l$i$t$a$t$e$ X$ m$i$l$l$i$o$n$ "
 "h$e$c$t$a$r$e$s$ o$f$ d$e$g$r$a$d$e$d$ a$n$d$ a$b$a$n$d$"
 
-#: ../../voluntary_targets_and_others.md:49
+#: ../../voluntary_targets_and_others.md:50
 msgid ""
 "Voluntary targets and actions undertaken to address land degradation can "
 "simultaneously contribute to climate change mitigation and adaptation, "
@@ -291,11 +296,11 @@ msgstr ""
 "d$i$f$f$e$r$e$n$t$ C$o$n$v$e$n$t$i$o$n$s$ a$n$d$ r$e$l$a$t$e$d$ "
 "i$n$i$t$i$a$t$i$v$e$s$ (i$.e$., N$"
 
-#: ../../voluntary_targets_and_others.md:51
+#: ../../voluntary_targets_and_others.md:52
 msgid "6.1.2. Prerequisites for reporting"
 msgstr "6.1.2. P$r$e$r$e$q$u$i$s$i$t$e$s$ f$o"
 
-#: ../../voluntary_targets_and_others.md:53
+#: ../../voluntary_targets_and_others.md:54
 msgid ""
 "An in-depth reading of the [LDN Target Setting technical "
 "guide](https://knowledge.unccd.int/publication/ldn-target-setting-"
@@ -305,7 +310,7 @@ msgstr ""
 "S$e$t$t$i$n$g$ t$e$c$h$n$i$c$a$l$ "
 "g$u$i$d$e$](h$t$t$p$s$://k$n$o$w$l$e$d$g$e$.u$n$c$c"
 
-#: ../../voluntary_targets_and_others.md:55
+#: ../../voluntary_targets_and_others.md:56
 msgid ""
 "A pool of national experts that report across various Conventions and "
 "related initiatives to ensure alignment and coherence between LDN-"
@@ -315,7 +320,7 @@ msgstr ""
 "a$c$r$o$s$s$ v$a$r$i$o$u$s$ C$o$n$v$e$n$t$i$o$n$s$ a$n$d$ r$e$l$a$t$e$d$ "
 "i$n$i$t$i$a$t$i$v$e$s$ t$o$ e$n$s$u$r$"
 
-#: ../../voluntary_targets_and_others.md:57
+#: ../../voluntary_targets_and_others.md:58
 msgid ""
 "A spatial data file of the target areas or a good understanding of the "
 "location and extent of the targets, allowing them to be reported on in a "
@@ -326,23 +331,23 @@ msgstr ""
 "a$n$d$ e$x$t$e$n$t$ o$f$ t$h$e$ t$a$r$g$e$t$s$, a$l$l$o$w$i$n$g$ t$h$e$m$"
 " t$o$ b$e$"
 
-#: ../../voluntary_targets_and_others.md:59
+#: ../../voluntary_targets_and_others.md:60
 msgid "6.1.3. Reporting process and step-by-step procedure"
 msgstr "6.1.3. R$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ a$n$d$ s$t$e$p$"
 
-#: ../../voluntary_targets_and_others.md:61
-#: ../../voluntary_targets_and_others.md:117
-#: ../../voluntary_targets_and_others.md:139
-#: ../../voluntary_targets_and_others.md:163
+#: ../../voluntary_targets_and_others.md:62
+#: ../../voluntary_targets_and_others.md:118
+#: ../../voluntary_targets_and_others.md:140
+#: ../../voluntary_targets_and_others.md:164
 msgid "The step-by-step procedure for reporting is as follows."
 msgstr "T$h$e$ s$t$e$p$-b$y$-s$t$e$p$ p$r$o$c$e$d$u$r$e$ f$o$r$ r$e$"
 
-#: ../../voluntary_targets_and_others.md:63
-#: ../../voluntary_targets_and_others.md:119
+#: ../../voluntary_targets_and_others.md:64
+#: ../../voluntary_targets_and_others.md:120
 msgid "Step 1. Declare national voluntary targets"
 msgstr "S$t$e$p$ 1. D$e$c$l$a$r$e$ n$a$t$i$o$n$a$l$ v$"
 
-#: ../../voluntary_targets_and_others.md:65
+#: ../../voluntary_targets_and_others.md:66
 msgid ""
 "National voluntary targets are reported in table SO1-VT.T1 of the PRAIS 4"
 " platform. Parties are invited to articulate, in quantifiable and time-"
@@ -370,7 +375,7 @@ msgstr ""
 "p$l$a$n$n$e$d$ o$r$ o$n$g$o$i$n$g$ m$e$a$s$u$r$e$s$ t$o$ a$c$h$i$e$v$e$ "
 "t$h$e$ t$a$r$g$e$t$, a$n$d$ t$h$"
 
-#: ../../voluntary_targets_and_others.md:67
+#: ../../voluntary_targets_and_others.md:68
 msgid ""
 "Table SO1-VT.T1 is a spatial table and therefore should ideally be "
 "completed with the support of the Geographic Information System (GIS) "
@@ -394,7 +399,7 @@ msgstr ""
 "a$n$ e$x$i$s$t$i$n$g$ s$p$a$t$i$a$l$ f$i$l$e$ (i$n$ v$e$c$t$o$r$ "
 "f$o$r$m$a$t$)"
 
-#: ../../voluntary_targets_and_others.md:69
+#: ../../voluntary_targets_and_others.md:70
 msgid ""
 "Additional information not included in the table may be reported in the "
 "“General Comment” field."
@@ -402,11 +407,11 @@ msgstr ""
 "A$d$d$i$t$i$o$n$a$l$ i$n$f$o$r$m$a$t$i$o$n$ n$o$t$ i$n$c$l$u$d$e$d$ i$n$ "
 "t$h$e$ t$a$b$l$e$ m$a$y$ b$e$ r$"
 
-#: ../../voluntary_targets_and_others.md:71
+#: ../../voluntary_targets_and_others.md:72
 msgid "Step 2. Describe implemented actions relevant to the targets"
 msgstr "S$t$e$p$ 2. D$e$s$c$r$i$b$e$ i$m$p$l$e$m$e$n$t$e$d$ a$c$t$i$o$n$s$"
 
-#: ../../voluntary_targets_and_others.md:73
+#: ../../voluntary_targets_and_others.md:74
 msgid ""
 "Areas of implemented action (projects and initiatives on the ground) "
 "related to the targets can be reported on in table SO1.IA.T1. As for Step"
@@ -418,7 +423,7 @@ msgstr ""
 "t$o$ t$h$e$ t$a$r$g$e$t$s$ c$a$n$ b$e$ r$e$p$o$r$t$e$d$ o$n$ i$n$ "
 "t$a$b$l$e$ S$O$1.I$A$.T$1. A$s$ f$o$r$ S$t$e$p$ 1, a$r"
 
-#: ../../voluntary_targets_and_others.md:75
+#: ../../voluntary_targets_and_others.md:76
 msgid ""
 "Delineating voluntary targets and related actions currently under "
 "implementation can help track progress towards achieving LDN in a country"
@@ -435,11 +440,11 @@ msgstr ""
 "r$e$m$a$i$n$i$n$g$ g$a$p$s$ a$n$d$ d$e$v$e$l$o$p$ s$c$e$n$a$r$i$o$s$ "
 "f$o$r$ c$l$o$s$i$n$g$ t$h$o$s$e$ g$a"
 
-#: ../../voluntary_targets_and_others.md:77
+#: ../../voluntary_targets_and_others.md:78
 msgid "6.1.4. Dependencies"
 msgstr "6.1.4. D$e$p$e$n$d$e"
 
-#: ../../voluntary_targets_and_others.md:79
+#: ../../voluntary_targets_and_others.md:80
 msgid ""
 "Although there is no direct dependency between the voluntary targets and "
 "SO 1 indicators, it is expected that the results of the geospatial "
@@ -454,7 +459,7 @@ msgstr ""
 "t$h$e$ e$s$t$i$m$a$t$i$o$n$ o$f$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ "
 "d$e$g$r$a$d$e$d$ l"
 
-#: ../../voluntary_targets_and_others.md:81
+#: ../../voluntary_targets_and_others.md:82
 #, fuzzy
 msgid ""
 "There is a dependency between the targets set in table SO1-VT.T1 and the "
@@ -467,15 +472,15 @@ msgstr ""
 "i$m$p$l$e$m$e$n$t$e$d$ a$c$t$i$o$n$s$ r$e$p$o$r$t$e$d$ i$n$ "
 "S$O$1.I$A$.T$1; e$a$c$h$ r$e$p$o$r$t$e$d$ a$c$t$i$o$n$"
 
-#: ../../voluntary_targets_and_others.md:83
+#: ../../voluntary_targets_and_others.md:84
 msgid "6.1.5. Challenges"
 msgstr "6.1.5. C$h$a$l$l$e"
 
-#: ../../voluntary_targets_and_others.md:85
+#: ../../voluntary_targets_and_others.md:86
 msgid "National coordination"
 msgstr "N$a$t$i$o$n$a$l$ c$o$o$"
 
-#: ../../voluntary_targets_and_others.md:87
+#: ../../voluntary_targets_and_others.md:88
 msgid ""
 "With respect to the various plans and commitments formulated under the "
 "Rio Conventions and/or other related initiatives, there is the risk of "
@@ -490,7 +495,7 @@ msgstr ""
 "o$f$ c$o$h$e$r$e$n$c$e$, o$v$e$r$l$a$p$ a$n$d$ d$u$p$l$i$c$a$t$i$o$n$ "
 "o$f$ e$f$f$o$r$t$s$. T$h$e$r$e$ i$s$ s$c$o$p"
 
-#: ../../voluntary_targets_and_others.md:89
+#: ../../voluntary_targets_and_others.md:90
 msgid ""
 "National voluntary targets need to be well-defined, measurable and time-"
 "bound to monitor progress. The availability of GIS tools in PRAIS 4 may "
@@ -502,11 +507,11 @@ msgstr ""
 "t$o$ m$o$n$i$t$o$r$ p$r$o$g$r$e$s$s$. T$h$e$ a$v$a$i$l$a$b$i$l$i$t$y$ "
 "o$f$ G$I$S$ t$o$o$l$s$ i$n$ P$R$A$I$"
 
-#: ../../voluntary_targets_and_others.md:91
+#: ../../voluntary_targets_and_others.md:92
 msgid "6.1.6. Further reading"
 msgstr "6.1.6. F$u$r$t$h$e$r$ r$"
 
-#: ../../voluntary_targets_and_others.md:93
+#: ../../voluntary_targets_and_others.md:94
 msgid ""
 "LDN Target Setting – A technical guide "
 "(<https://knowledge.unccd.int/publication/ldn-target-setting-technical-"
@@ -515,7 +520,7 @@ msgstr ""
 "L$D$N$ T$a$r$g$e$t$ S$e$t$t$i$n$g$ – A$ t$e$c$h$n$i$c$a$l$ g$u$i$d$e$ "
 "(<h$t$t$p$s$://k$n$o$w$l$e$d$g$e$.u$n$c$c$d$.i$n$t$/p$u$b$"
 
-#: ../../voluntary_targets_and_others.md:94
+#: ../../voluntary_targets_and_others.md:95
 msgid ""
 "Achieving Land Degradation Neutrality at the Country Level: Building "
 "Blocks for LDN Target Setting (<https://www.unccd.int/publications"
@@ -527,7 +532,7 @@ msgstr ""
 "f$o$r$ L$D$N$ T$a$r$g$e$t$ S$e$t$t$i$n$g$ "
 "(<h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$a$t$i$o$n$s"
 
-#: ../../voluntary_targets_and_others.md:95
+#: ../../voluntary_targets_and_others.md:96
 msgid ""
 "Goals and Commitments for the Restoration Decade. A global overview of "
 "countries’ restoration commitments under the Rio Conventions and other "
@@ -544,15 +549,15 @@ msgstr ""
 "E$n$v$i$r$o$n$m$e$n$t$a$l$ A$s$s$e$s$s$m$e$n$t$ A$g$e$n$c$y$, T$h$e$ "
 "H$a$g$u$e$, 2020, P$B$L$"
 
-#: ../../voluntary_targets_and_others.md:97
+#: ../../voluntary_targets_and_others.md:98
 msgid "6.2. Voluntary targets for strategic objectives 2, 3 and 4"
 msgstr "6.2. V$o$l$u$n$t$a$r$y$ t$a$r$g$e$t$s$ f$o$r$ s$t$r$a$t$e$g$i$c"
 
-#: ../../voluntary_targets_and_others.md:99
+#: ../../voluntary_targets_and_others.md:100
 msgid "6.2.1. Introduction"
 msgstr "6.2.1. I$n$t$r$o$d$u"
 
-#: ../../voluntary_targets_and_others.md:101
+#: ../../voluntary_targets_and_others.md:102
 msgid ""
 "Parties may wish to set national voluntary targets that contribute to the"
 " achievement of SOs 2, 3 and 4:"
@@ -560,11 +565,11 @@ msgstr ""
 "P$a$r$t$i$e$s$ m$a$y$ w$i$s$h$ t$o$ s$e$t$ n$a$t$i$o$n$a$l$ "
 "v$o$l$u$n$t$a$r$y$ t$a$r$g$e$t$s$ t$h$a$t$ c$o$n$t$r$i"
 
-#: ../../voluntary_targets_and_others.md:103
+#: ../../voluntary_targets_and_others.md:104
 msgid "SO 2: to improve the living conditions of affected populations;"
 msgstr "S$O$ 2: t$o$ i$m$p$r$o$v$e$ t$h$e$ l$i$v$i$n$g$ c$o$n$d$i$t$i$o$n$s$ "
 
-#: ../../voluntary_targets_and_others.md:105
+#: ../../voluntary_targets_and_others.md:106
 msgid ""
 "SO 3: to mitigate, adapt to, and manage the effects of drought in order "
 "to enhance resilience of vulnerable populations and ecosystems;"
@@ -573,7 +578,7 @@ msgstr ""
 "t$h$e$ e$f$f$e$c$t$s$ o$f$ d$r$o$u$g$h$t$ i$n$ o$r$d$e$r$ t$o$ "
 "e$n$h$a$n$c$e$ r$"
 
-#: ../../voluntary_targets_and_others.md:107
+#: ../../voluntary_targets_and_others.md:108
 msgid ""
 "SO 4: to generate global environmental benefits through effective "
 "implementation of the UNCCD."
@@ -581,7 +586,7 @@ msgstr ""
 "S$O$ 4: t$o$ g$e$n$e$r$a$t$e$ g$l$o$b$a$l$ e$n$v$i$r$o$n$m$e$n$t$a$l$ "
 "b$e$n$e$f$i$t$s$ t$h$r$o$u$g$h$ e"
 
-#: ../../voluntary_targets_and_others.md:109
+#: ../../voluntary_targets_and_others.md:110
 msgid ""
 "The definition of voluntary targets should be based on best available "
 "data and knowledge. The assessment and estimation of the related "
@@ -592,7 +597,7 @@ msgstr ""
 "a$n$d$ k$n$o$w$l$e$d$g$e$. T$h$e$ a$s$s$e$s$s$m$e$n$t$ a$n$d$ "
 "e$s$t$i$m$a$t$i$o$n$ o$f$ t"
 
-#: ../../voluntary_targets_and_others.md:111
+#: ../../voluntary_targets_and_others.md:112
 msgid ""
 "Targets need to be measurable to monitor progress. Parties are invited to"
 " formulate quantifiable, time-bound and, where relevant, geographically "
@@ -602,7 +607,7 @@ msgstr ""
 "m$o$n$i$t$o$r$ p$r$o$g$r$e$s$s$. P$a$r$t$i$e$s$ a$r$e$ i$n$v$i$t$e$d$ "
 "t$o$ f$o$r$m$u$l$a$t$e$ q$u$a$n$t$i$f$i$a$b$l$e$"
 
-#: ../../voluntary_targets_and_others.md:113
+#: ../../voluntary_targets_and_others.md:114
 msgid ""
 "Voluntary targets and actions undertaken to achieve the UNCCD SOs can "
 "simultaneously contribute to climate change mitigation and adaptation, "
@@ -621,11 +626,11 @@ msgstr ""
 "p$o$t$e$n$t$i$a$l$ f$o$r$ s$y$n$e$r$g$i$e$s$ a$n$d$ i$t$ i$s$ v$e$r$y$ "
 "i$m$p$o$"
 
-#: ../../voluntary_targets_and_others.md:115
+#: ../../voluntary_targets_and_others.md:116
 msgid "6.2.2. Reporting process and step-by-step procedure"
 msgstr "6.2.2. R$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ a$n$d$ s$t$e$p$"
 
-#: ../../voluntary_targets_and_others.md:121
+#: ../../voluntary_targets_and_others.md:122
 msgid ""
 "Parties are invited to articulate, in quantifiable and time-bound terms, "
 "voluntary targets that contribute to the achievement of SOs 2, 3 and 4, "
@@ -642,7 +647,7 @@ msgstr ""
 "y$e$a$r$ o$f$ a$c$h$i$e$v$e$m$e$n$t$ o$r$ a$c$t$u$a$l$ y$e$a$r$ (i$f$ "
 "a$l$r$e$a$d$y$ a$c$h$i$e$v$e$d$), t$h$e$ "
 
-#: ../../voluntary_targets_and_others.md:123
+#: ../../voluntary_targets_and_others.md:124
 msgid ""
 "Delineating the SO 2, 3 and 4 target areas in PRAIS 4 is not requested at"
 " this stage. However, geographically explicit targets with distinct "
@@ -654,11 +659,11 @@ msgstr ""
 "s$t$a$g$e$. H$o$w$e$v$e$r$, g$e$o$g$r$a$p$h$i$c$a$l$l$y$ e$x$p$l$i$c$i$t$"
 " t$a$r$g$e$t$s$ w$i$t$h$ d$i$s$t$i$n$c$t"
 
-#: ../../voluntary_targets_and_others.md:125
+#: ../../voluntary_targets_and_others.md:126
 msgid "Step 2. Provide any complementary information"
 msgstr "S$t$e$p$ 2. P$r$o$v$i$d$e$ a$n$y$ c$o$m$p$l$e$m$e"
 
-#: ../../voluntary_targets_and_others.md:127
+#: ../../voluntary_targets_and_others.md:128
 msgid ""
 "Complementary information may be reported in the “General Comments” "
 "field. This may include whether the targets have been adopted or "
@@ -673,7 +678,7 @@ msgstr ""
 " e$n$d$o$r$s$e$d$ a$n$d$ i$f$ s$o$, b$y$ w$h$i$c$h$ b$o$d$y$ "
 "(i$n$s$t$i$t$u$t$i$o$n$, g$o$v$e$r$n"
 
-#: ../../voluntary_targets_and_others.md:129
+#: ../../voluntary_targets_and_others.md:130
 msgid ""
 "Furthermore, Parties are encouraged to outline the linkages with the "
 "SDGs, indicate opportunities to create leverage and synergies with their "
@@ -686,15 +691,15 @@ msgstr ""
 "l$e$v$e$r$a$g$e$ a$n$d$ s$y$n$e$r$g$i$e$s$ w$i$t$h$ t$h$e$i$r$ "
 "c$o$u$n$t$r$i$e$s$’ s$o$c$i$o$-e$c$o$n$o$"
 
-#: ../../voluntary_targets_and_others.md:131
+#: ../../voluntary_targets_and_others.md:132
 msgid "6.3. Additional Indicators"
 msgstr "6.3. A$d$d$i$t$i$o$n$a$l$ I$"
 
-#: ../../voluntary_targets_and_others.md:133
+#: ../../voluntary_targets_and_others.md:134
 msgid "6.3.1. Introduction"
 msgstr "6.3.1. I$n$t$r$o$d$u"
 
-#: ../../voluntary_targets_and_others.md:135
+#: ../../voluntary_targets_and_others.md:136
 msgid ""
 "Additional indicators at the national and sub-national levels can assist "
 "in both interpreting and understanding the common global indicators "
@@ -706,15 +711,15 @@ msgstr ""
 "b$o$t$h$ i$n$t$e$r$p$r$e$t$i$n$g$ a$n$d$ u$n$d$e$r$s$t$a$n$d$i$n$g$ "
 "t$h$e$ c$o$m$m$o$n$ g$l$o$b$a$l$"
 
-#: ../../voluntary_targets_and_others.md:137
+#: ../../voluntary_targets_and_others.md:138
 msgid "6.3.2. Reporting process and step-by-step procedure"
 msgstr "6.3.2. R$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ a$n$d$ s$t$e$p$"
 
-#: ../../voluntary_targets_and_others.md:141
+#: ../../voluntary_targets_and_others.md:142
 msgid "Step 1. Report any national additional indicators"
 msgstr "S$t$e$p$ 1. R$e$p$o$r$t$ a$n$y$ n$a$t$i$o$n$a$l$ a$d$"
 
-#: ../../voluntary_targets_and_others.md:143
+#: ../../voluntary_targets_and_others.md:144
 msgid ""
 "Countries are encouraged to identify complementary indicators for SOs 1 "
 "to 4 to better address national and sub-national specificities. These can"
@@ -729,7 +734,7 @@ msgstr ""
 "b$e$ a$d$d$i$t$i$o$n$a$l$ p$r$o$g$r$e$s$s$ i$n$d$i$c$a$t$o$r$s$ o$r$ "
 "p$r$o$c$e$s$s$ i$"
 
-#: ../../voluntary_targets_and_others.md:145
+#: ../../voluntary_targets_and_others.md:146
 msgid ""
 "While sex-disaggregated data related to exposure of population to land "
 "degradation and drought are now collected through indicators SO 2-3 and "
@@ -746,7 +751,7 @@ msgstr ""
 "i$d$e$n$t$i$f$y$ f$u$r$t$h$e$r$ g$e$n$d$e$r$-r$e$s$p$o$n$s$i$v$e$ "
 "s$o$c$i$o$-e$c$o$n$o$m$i$c$"
 
-#: ../../voluntary_targets_and_others.md:147
+#: ../../voluntary_targets_and_others.md:148
 msgid ""
 "Additional indicators can be added on the PRAIS 4 platform via a "
 "dedicated form (referred to as AI for brevity in PRAIS 4).  Parties may "
@@ -761,15 +766,15 @@ msgstr ""
 " t$h$e$ i$n$d$i$c$a$t$o$r$s$, t$h$e$ a$s$s$o$c$i$a$t$e$d$ S$O$s$ a$n$d$ "
 "t$h$e$i$r$ d$i"
 
-#: ../../voluntary_targets_and_others.md:149
+#: ../../voluntary_targets_and_others.md:150
 msgid "6.4. Affected Areas"
 msgstr "6.4. A$f$f$e$c$t$e$d"
 
-#: ../../voluntary_targets_and_others.md:151
+#: ../../voluntary_targets_and_others.md:152
 msgid "6.4.1. Introduction"
 msgstr "6.4.1. I$n$t$r$o$d$u"
 
-#: ../../voluntary_targets_and_others.md:153
+#: ../../voluntary_targets_and_others.md:154
 msgid ""
 "By its decision 11/COP.14, the Conference of the Parties requested the "
 "secretariat to further facilitate reporting on SOs 1, 2, 3 and 4 by, "
@@ -781,7 +786,7 @@ msgstr ""
 "s$e$c$r$e$t$a$r$i$a$t$ t$o$ f$u$r$t$h$e$r$ f$a$c$i$l$i$t$a$t$e$ "
 "r$e$p$o$r$t$i$n$g$ o$n$ S$O$s$ 1, 2, 3 a$n$d$ 4 b$y$, i$n$t$e$r$ a$l$i$"
 
-#: ../../voluntary_targets_and_others.md:155
+#: ../../voluntary_targets_and_others.md:156
 msgid ""
 "Therefore, PRAIS 4 facilitates countries that wish to report on affected "
 "areas as an additional and optional item to national reporting. Parties "
@@ -798,23 +803,23 @@ msgstr ""
 "a$f$f$e$c$t$e$d$ a$r$e$a$s$ u$s$i$n$g$ a$ s$p$e$c$i$f$i$c$ s$e$t$ o$f$ "
 "f$o$r$m$s$ f$o$r$ S$O$s$ 1, 2, 3 a$n$d$ 4. T$h$e$ p$r$o$c$e$s$s$, "
 
-#: ../../voluntary_targets_and_others.md:157
+#: ../../voluntary_targets_and_others.md:158
 msgid "6.4.2. Pre-requisite for reporting"
 msgstr "6.4.2. P$r$e$-r$e$q$u$i$s$i$t$e$ f$o$"
 
-#: ../../voluntary_targets_and_others.md:159
+#: ../../voluntary_targets_and_others.md:160
 msgid "Sub-national data specific to affected areas."
 msgstr "S$u$b$-n$a$t$i$o$n$a$l$ d$a$t$a$ s$p$e$c$i$f$i$c$"
 
-#: ../../voluntary_targets_and_others.md:161
+#: ../../voluntary_targets_and_others.md:162
 msgid "6.4.3. Reporting process and step-by-step procedure"
 msgstr "6.4.3. R$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ a$n$d$ s$t$e$p$"
 
-#: ../../voluntary_targets_and_others.md:165
+#: ../../voluntary_targets_and_others.md:166
 msgid "Step 1: Define affected areas"
 msgstr "S$t$e$p$ 1: D$e$f$i$n$e$ a$f$f$"
 
-#: ../../voluntary_targets_and_others.md:167
+#: ../../voluntary_targets_and_others.md:168
 msgid ""
 "Parties wishing to report on affected areas are invited to specify the "
 "affected area definition in use in their country. In PRAIS 4, Parties may"
@@ -829,7 +834,7 @@ msgstr ""
 "o$p$t$ t$o$ u$s$e$ t$h$e$ d$e$f$i$n$i$t$i$o$n$ o$f$ t$h$e$ "
 "a$f$f$e$c$t$e$d$ a$r$e$a$s$ c$o$n"
 
-#: ../../voluntary_targets_and_others.md:169
+#: ../../voluntary_targets_and_others.md:170
 msgid ""
 "Once this part of the form has been completed and saved, the reporting "
 "forms for SOs 1 to 4 specific to affected areas (referred to as AA for "
@@ -846,11 +851,11 @@ msgstr ""
 "f$o$r$m$s$ w$i$l$l$ n$o$t$ c$o$n$t$a$i$n$ p$r$e$-f$i$l$l$e$d$ "
 "d$e$f$a$u$l$t$ d$a$t$a$ a$s$ p$r$o$v$i$d$e$d$ f$o"
 
-#: ../../voluntary_targets_and_others.md:173
+#: ../../voluntary_targets_and_others.md:174
 msgid "Step 2: Delineate affected areas"
 msgstr "S$t$e$p$ 2: D$e$l$i$n$e$a$t$e$ a$f$"
 
-#: ../../voluntary_targets_and_others.md:175
+#: ../../voluntary_targets_and_others.md:176
 msgid ""
 "Parties will be required to spatially delineate the area that corresponds"
 " to the definition provided in Step 1 above. Digitization tools in any "
@@ -865,11 +870,11 @@ msgstr ""
 "(e$.g$., A$r$c$G$I$S$, Q$G$I$S$) c$o$u$l$d$ b$e$ u$s$e$d$ f$o$r$ t$h$i$s$"
 " p$u$r$p$o$s$e$ o$r$ P$a$r$"
 
-#: ../../voluntary_targets_and_others.md:177
+#: ../../voluntary_targets_and_others.md:178
 msgid "Step 3: Calculation of affected area estimates for all indicators"
 msgstr "S$t$e$p$ 3: C$a$l$c$u$l$a$t$i$o$n$ o$f$ a$f$f$e$c$t$e$d$ a$r$e$a$ e$s$t"
 
-#: ../../voluntary_targets_and_others.md:179
+#: ../../voluntary_targets_and_others.md:180
 msgid ""
 "Using the shapefile of the affected area produced in Step 2, Parties "
 "should calculate affected area estimates of all indicators for SOs 1 to "
@@ -879,7 +884,7 @@ msgstr ""
 "a$r$e$a$ p$r$o$d$u$c$e$d$ i$n$ S$t$e$p$ 2, P$a$r$t$i$e$s$ s$h$o$u$l$d$ "
 "c$a$l$c$u$l$a$t$e$ a"
 
-#: ../../voluntary_targets_and_others.md:181
+#: ../../voluntary_targets_and_others.md:182
 msgid ""
 "Trends.Earth can be used to run these calculations on any area of "
 "interest. When calculating the indicators in Trends.Earth, Parties should"
@@ -900,7 +905,7 @@ msgstr ""
 "T$r$e$n$d$s$.E$a$r$t$h$ d$o$c$u$m$e$n$t$a$t$i$o$n$ f$o$r$ f$u$r$t$h$e$r$ "
 "i$n$f$o$r$m$a$t$i$o$n$ o$n$ h$o$w$ t$o$ u$s$e$ t$h$e$i$r$ "
 
-#: ../../voluntary_targets_and_others.md:183
+#: ../../voluntary_targets_and_others.md:184
 msgid ""
 "For non-geospatial indicators (e.g., SO2-1, SO2-2, SO4-2 andSO 4-3), "
 "Parties may wish to assess the availability of sub-national information "
@@ -912,11 +917,11 @@ msgstr ""
 "a$s$s$e$s$s$ t$h$e$ a$v$a$i$l$a$b$i$l$i$t$y$ o$f$ s$u$b$-n$a$t$i$o$n$a$l$"
 " i$n$f$o$r$m$a$t$i$o$n$ s$p$e$c$"
 
-#: ../../voluntary_targets_and_others.md:185
+#: ../../voluntary_targets_and_others.md:186
 msgid "Step 4: Generate reports"
 msgstr "S$t$e$p$ 4: G$e$n$e$r$a$t$"
 
-#: ../../voluntary_targets_and_others.md:187
+#: ../../voluntary_targets_and_others.md:188
 msgid ""
 "All forms and tables on the PRAIS 4 platform for reporting the affected "
 "areas should be filled in and supporting data and information provided, "
@@ -927,7 +932,7 @@ msgstr ""
 "a$r$e$a$s$ s$h$o$u$l$d$ b$e$ f$i$l$l$e$d$ i$n$ a$n$d$ "
 "s$u$p$p$o$r$t$i$n$g$ d$a$"
 
-#: ../../voluntary_targets_and_others.md:189
+#: ../../voluntary_targets_and_others.md:190
 msgid ""
 "Once completed and verified by the Parties, the indicators’ estimates for"
 " the reporting and baseline periods should be officially submitted to the"
@@ -940,15 +945,15 @@ msgstr ""
 "s$h$o$u$l$d$ b$e$ o$f$f$i$c$i$a$l$l$y$ s$u$b$m$i$t$t$e$d$ t$o$ t$h$e$ "
 "U$N$C$C$D"
 
-#: ../../voluntary_targets_and_others.md:191
+#: ../../voluntary_targets_and_others.md:192
 msgid "6.4.4. Challenges"
 msgstr "6.4.4. C$h$a$l$l$e"
 
-#: ../../voluntary_targets_and_others.md:193
+#: ../../voluntary_targets_and_others.md:194
 msgid "Data availability and quality"
 msgstr "D$a$t$a$ a$v$a$i$l$a$b$i$l$i$t$"
 
-#: ../../voluntary_targets_and_others.md:195
+#: ../../voluntary_targets_and_others.md:196
 msgid ""
 "Depending on the extent of the affected areas, spatial resolution of "
 "global default datasets available in Trends.Earth might not always be "
@@ -965,11 +970,11 @@ msgstr ""
 "e$n$o$u$g$h$ s$e$n$s$i$t$i$v$i$t$y$ t$o$ s$p$a$t$i$a$l$ "
 "v$a$r$i$a$t$i$o$n$ a$t$ s$u$b$-n$a$t$i$o$n$a$l$ l$e$v$e$l$. A$l$t$h$o$u$g"
 
-#: ../../voluntary_targets_and_others.md:197
+#: ../../voluntary_targets_and_others.md:198
 msgid "Methodological approach"
 msgstr "M$e$t$h$o$d$o$l$o$g$i$c$a"
 
-#: ../../voluntary_targets_and_others.md:199
+#: ../../voluntary_targets_and_others.md:200
 msgid ""
 "Affected area definitions may vary across countries, limiting the "
 "comparability of results across regions and/or globally."
@@ -977,15 +982,15 @@ msgstr ""
 "A$f$f$e$c$t$e$d$ a$r$e$a$ d$e$f$i$n$i$t$i$o$n$s$ m$a$y$ v$a$r$y$ "
 "a$c$r$o$s$s$ c$o$u$n$t$r$i$e$s$, l$i$m$i$t$i$n$g$ t$h$e$ c$o$m$p$a$r$"
 
-#: ../../voluntary_targets_and_others.md:201
+#: ../../voluntary_targets_and_others.md:202
 msgid "6.4.5. Summary (main actions)"
 msgstr "6.4.5. S$u$m$m$a$r$y$ (m$a$i$n$"
 
-#: ../../voluntary_targets_and_others.md:203
+#: ../../voluntary_targets_and_others.md:204
 msgid "Key actions for reporting on affected areas are as follows:"
 msgstr "K$e$y$ a$c$t$i$o$n$s$ f$o$r$ r$e$p$o$r$t$i$n$g$ o$n$ a$f$f$e$c$t"
 
-#: ../../voluntary_targets_and_others.md:205
+#: ../../voluntary_targets_and_others.md:206
 #, fuzzy
 msgid ""
 "**Define affected areas**: Parties should specify the affected area "
@@ -994,7 +999,7 @@ msgstr ""
 "D$e$f$i$n$e$ a$f$f$e$c$t$e$d$ a$r$e$a$s$: P$a$r$t$i$e$s$ s$h$o$u$l$d$ "
 "s$p$e$c$i$f$y$ t$h$e$ a$f$f$e$c$t$e$d$"
 
-#: ../../voluntary_targets_and_others.md:207
+#: ../../voluntary_targets_and_others.md:208
 #, fuzzy
 msgid ""
 "**Delineate affected areas**: Parties should spatially delineate the area"
@@ -1003,7 +1008,7 @@ msgstr ""
 "D$e$l$i$n$e$a$t$e$ a$f$f$e$c$t$e$d$ a$r$e$a$s$: P$a$r$t$i$e$s$ "
 "s$h$o$u$l$d$ s$p$a$t$i$a$l$l$y$ d$e$l$i$n$e$a$t$e$ t$h$e$ a$r$e$a$ t$h$a$"
 
-#: ../../voluntary_targets_and_others.md:209
+#: ../../voluntary_targets_and_others.md:210
 #, fuzzy
 msgid ""
 "**Calculation of affected area estimates for all indicators**: using the "
@@ -1014,7 +1019,7 @@ msgstr ""
 "f$o$r$ a$l$l$ i$n$d$i$c$a$t$o$r$s$: u$s$i$n$g$ t$h$e$ s$h$a$p$e$f$i$l$e$ "
 "o$f$ t$h$e$ a$f$f$e$c$t$e$d$ a$r$e$a$ p$r$o$d$u$c$e$d$ i$n$ "
 
-#: ../../voluntary_targets_and_others.md:211
+#: ../../voluntary_targets_and_others.md:212
 #, fuzzy
 msgid ""
 "**Generate reports**: Parties should fill in the reporting forms for SOs "
@@ -1023,7 +1028,7 @@ msgstr ""
 "G$e$n$e$r$a$t$e$ r$e$p$o$r$t$s$: P$a$r$t$i$e$s$ s$h$o$u$l$d$ f$i$l$l$ "
 "i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ f$o$r$m$s$ f"
 
-#: ../../voluntary_targets_and_others.md:171
+#: ../../voluntary_targets_and_others.md:172
 msgid ""
 "Article 1 of the Convention defines as “affected areas” arid, semi-arid "
 "and/or dry sub-humid areas affected or threatened by desertification"
