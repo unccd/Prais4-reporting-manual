@@ -79,11 +79,11 @@ widths: 2 3 3
   - GPCC: 1.0° x 1.0° (~111 km)
   - CHIRPS: 0.05° x 0.05° (~5.55 km) or otherwise assessed by national authorities based on available data
 * - __Quality__
-  - Specified in the datasets’ metadata. 
+  - Specified in the datasets’ metadata.
   - Data should be continuous where possible; where data completeness is less than 85%, Parties may consider filling data gaps in accordance with guidance from the World Meteorological Organization.
 * - __Metadata__
-  - Metadata information is provided with default data. 
-  - Minimum metadata content as per the mandatory fields listed in Annex II. 
+  - Metadata information is provided with default data.
+  - Minimum metadata content as per the mandatory fields listed in Annex II.
 ```
 
 {sup}`*` _As stated in Step 3, the December SPI-12 values represent the precipitation deficits (or excesses) over the Gregorian (January–December) calendar year._
@@ -244,9 +244,9 @@ The step-by-step procedure for reporting is described in the following. If the d
 
 Suitable data for the calculation of indicator SO 3-2 is a spatially gridded population product, or a georeferenced set of sub-national population data that covers the full extent of the country. It must represent the number of people living in each location (grid cell), ideally annually, within the baseline and reporting periods. Where possible, data should be disaggregated by sex.
 
-There are various publicly available, fine-resolution population datasets available at the global scale and two of these, WorldPop and Gridded Population of the World, version 4 (GPWv4), are recommended by the UNCCD for deriving indicator SO 3-2. However, WorldPop is provided to country Parties by default.  
+There are various publicly available, fine-resolution population datasets available at the global scale and two of these, WorldPop and Gridded Population of the World, version 4 (GPWv4), are recommended by the UNCCD for deriving indicator SO 3-2. However, WorldPop is provided to country Parties by default.
 
-Parties wishing to use in-country or regional datasets can use the decision tree in figure 2 to assess whether the in-country (or regional) population data is more appropriate to derive indicator SO 3-2 over the globally available datasets.  
+Parties wishing to use in-country or regional datasets can use the decision tree in figure 2 to assess whether the in-country (or regional) population data is more appropriate to derive indicator SO 3-2 over the globally available datasets.
 
 _Figure 2. Decision tree to help Parties choose the best population data source to derive indicator SO 3-2_
 ![](/img/SO3_2_Decision_tree.jpg)
@@ -279,20 +279,20 @@ widths: 1 3 3
     Count and percentage of total, female and male population exposed to drought and to each drought intensity class.
     
     Gridded spatial summary in four-year epochs.
-  - Annual gridded product of population exposed to the four drought intensity classes from the year 2000 to the reporting year 
+  - Annual gridded product of population exposed to the four drought intensity classes from the year 2000 to the reporting year.
 
-    Count and percentage of total, female and male population exposed to drought and to each drought intensity class.  
+    Count and percentage of total, female and male population exposed to drought and to each drought intensity class.
 
-    Gridded spatial summary in four-year epochs. 
+    Gridded spatial summary in four-year epochs.
 * - __Spatial resolution__
   - Worldpop: 3-arc seconds (~100 m)
   - Assessed by national authorities based on available data.
 * - __Quality__
-  - Specified in the datasets’ metadata. 
+  - Specified in the datasets’ metadata.
   - To be indicated in the dataset metadata.
 * - __Metadata__
-  - Metadata information is provided with default data. 
-  - Minimum metadata content as per the mandatory fields listed in Annex II. 
+  - Metadata information is provided with default data.
+  - Minimum metadata content as per the mandatory fields listed in Annex II.
 ```
 
 #### Step 2:  Overlay gridded population data with indicator SO 3-1 spatial output
@@ -311,7 +311,7 @@ The yearly total population is obtained by adding the population residing in eac
 
 Using the outputs of Step 2, the number of people falling within each of the four drought intensity classes, as well as the total number of people exposed to drought (i.e., to all drought intensity classes), can be estimated for each year. The respective percentages are then calculated out of the total population.
 
-Similarly, if sex disaggregated data is used, the number of males and females that lie within each drought intensity class, as well as the total number of males and females exposed to drought, can also be calculated. The percentage share between female and male is then calculated out of the total number of people exposed to each drought intensity class and to drought overall for each year. Note that the share within each drought intensity class should equal to 100 per cent.  
+Similarly, if sex disaggregated data is used, the number of males and females that lie within each drought intensity class, as well as the total number of males and females exposed to drought, can also be calculated. The percentage share between female and male is then calculated out of the total number of people exposed to each drought intensity class and to drought overall for each year. Note that the share within each drought intensity class should equal to 100 per cent.
 
 #### Step 4:  Create a gridded spatial summary in four-year epochs
 
@@ -355,7 +355,7 @@ Drought exposure data relies on the SO 3-1 spatial outputs.
 
 - The WorldPop sex-disaggregated national datasets are offered as several individual rasters, each representing an age/sex class per year. This amounts to a large volume of spatial data in Geotiff format. Capacity in raster data processing and access to appropriate computing power, e.g., a cloud service, is required to store and process the data, especially for large countries. The UNCCD is developing a procedure for the bulk pre-processing of raster data, which will eventually make sex-disaggregated data available on the PRAIS 4 platform as default data. Parties will be notified when the challenge is solved and the forms pre-filled with the default data.
 
-- Global data quality and resolution might not be sufficiently accurate for national population estimates. The integration of global and national data might improve the quality and accuracy of the results but will require additional processing capacity and technical skills.  
+- Global data quality and resolution might not be sufficiently accurate for national population estimates. The integration of global and national data might improve the quality and accuracy of the results but will require additional processing capacity and technical skills.
 
 ### 3.2.6. Summary (main actions)
 
@@ -438,14 +438,14 @@ widths: 1 3 3
   - {cspan}`1` Specifications
 * - Default data (Drought Vulnerability Index dataset produced by the Joint Research Centre)
   - National data
-* - __Input data__ 
+* - __Input data__
     
     (Data needed to generate indicator SO 3-3 as described in Steps 2 to 4)
   - Input data used to calculate the default Drought Vulnerability Index (DVI) is drawn from various sources such as World Bank, Organisation for Economic Cooperation and Development, Food and Agriculture Organization of the United Nations, and Joint Research Centre.
   - Freely available datasets for the calculation of the factors needed to derive the DVI are listed in table 14 of the "[Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf)".
   
     Alternatively, if available, in-country datasets with higher spatial resolution and fewer gaps over the baseline and reporting period.
-* - __Output data__ 
+* - __Output data__
 
     (DVI indicator resulting from the analysis described in Steps 2 to 4)
   - 2018 DVI for the baseline and the reporting period. Regions where droughts could be meaningless, such as deserts and cold areas, are masked.
@@ -457,11 +457,11 @@ widths: 1 3 3
   - Country level
   - National and/or sub-national levels
 * - __Quality__
-  - Specified in the datasets’ metadata. 
+  - Specified in the datasets’ metadata.
   - To be indicated in the dataset metadata.
 * - __Metadata__
-  - Metadata information is provided with default data. 
-  - Minimum metadata content as per the mandatory fields listed in Annex II. 
+  - Metadata information is provided with default data.
+  - Minimum metadata content as per the mandatory fields listed in Annex II.
 ```
 
 #### Step 2:  Factor normalization
@@ -525,7 +525,7 @@ Moreover, the most vulnerable populations and underrepresented groups should be 
 
 #### Step 6: Generate reports
 
-Once verified by the Parties, the estimated vulnerability values for the reporting and baseline periods should be officially submitted to the UNCCD. Information on the method used (selected tier and factors per component) should be reported using the dedicated “Method” field in the PRAIS 4 platform. Observed changes and their interpretation may be described in the “Qualitative Assessment” table of the PRAIS 4 platform (table SO3-3.T2).  
+Once verified by the Parties, the estimated vulnerability values for the reporting and baseline periods should be officially submitted to the UNCCD. Information on the method used (selected tier and factors per component) should be reported using the dedicated “Method” field in the PRAIS 4 platform. Observed changes and their interpretation may be described in the “Qualitative Assessment” table of the PRAIS 4 platform (table SO3-3.T2).
 
 Maps generated in Trends.Earth using national data under Tier 3 VA and representing vulnerability to drought for the baseline/reporting period can be uploaded to the PRAIS 4 platform. More specifically, it is recommended to upload the following maps:
 
@@ -542,7 +542,7 @@ SO 2-1 and SO 2-2 can be used for the calculation of SO 3-3.
 
 #### Data availability and quality
 
-- The availability of data for the considered factors varies substantially from country to country and the complete set of recommended data might not be accessible everywhere.  
+- The availability of data for the considered factors varies substantially from country to country and the complete set of recommended data might not be accessible everywhere.
 
 #### Methodological approach
 
