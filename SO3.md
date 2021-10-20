@@ -124,7 +124,7 @@ header-rows: 1
 
 The total area under each drought intensity class should be derived in a two-step process:
 
-(i) Project the drought intensity class grid into a suitable equal area projection (e.g., Mollweide) to obtain the cells’ area in km2.
+(i) Project the drought intensity class grid into a suitable equal area projection (e.g., Mollweide) to obtain the cells’ area in km{sup}`2`.
 
 (ii) Combine all cells’ area in a given drought class to get the total area under each drought intensity class.
 
@@ -140,12 +140,15 @@ For each of the SPI-12 grids in the baseline and reporting period, the number of
 
 %cellCounti{sub}j = (cellCount{sub}ij / Total number of cells) × 100
 
+$\%cellCount_{ij} = \frac{cellCount_{ij}}{Total\ number\ of\ cells} \times 100$
+
 Where:
-“cellCount” is the number of pixels under a drought intensity class in one year
-“%cellCount” is the proportion of land under the related drought intensity class
-“{sub}i” is the drought intensity class
-“{sub}j” is the reporting year
-“Total number of cells’” is all the grid cells within the country Party’s land area.
+
+- “cellCount” is the number of pixels under a drought intensity class in one year
+- “%cellCount” is the proportion of land under the related drought intensity class
+- “i” is the drought intensity class
+- “j” is the reporting year
+- “Total number of cells’” is all the grid cells within the country Party’s land area.
 
 The total area falling under each of the drought intensity classes in each year is calculated by multiplying cellCount by the area of the cells (a constant value, since the drought intensity class grid was previously converted to an equal-area projection).
 
@@ -419,7 +422,6 @@ _Figure 4. Decision tree to help Parties choose the best tier of vulnerability a
 _DVI: Drought Vulnerability Index_{{br}}
 _VA: Vulnerability Assessment_
 
-
 ```{tabularcolumns} |p{3cm}|p{6cm}|p{5cm}|
 ```
 
@@ -468,16 +470,16 @@ Each time the DVI is calculated to report indicator SO 3-3, the factor range (i.
 
 Where there is a positive correlation/relationship between vulnerability and the factor[^3]  (i.e., if the factor value increases, vulnerability also increases), the data should be normalized using the equation below:
 
-Factor =  (X{sub}i - X{sub}min)/(X{sub}max - X{sub}min)
+$Factor = \frac{X_{i} - X_{min}}{X_{max} - X_{min}}$
 
 Where:
-X{sub}i is the value of the considered factor in the year “i”
-X{sub}min is the minimum value of the considered factor observed in the entire time series
-X{sub}max is the maximum value of the considered factor observed in the entire time series
+X{sub}`i` is the value of the considered factor in the year “i”
+X{sub}`min` is the minimum value of the considered factor observed in the entire time series
+X{sub}`max` is the maximum value of the considered factor observed in the entire time series
 
 In case of negative correlation/relationship between vulnerability and the factor, the equation is:
 
-Factor = 1 - ((X{sub}i - X{sub}min)/(X{sub}max - X{sub}min))  
+$Factor = 1 - \frac{X_{i} - X_{min}}{X_{max} - X_{min}}$
 
 After normalization, all factors have a value of between zero and one, relative to the historical maximum and minimum of the country.
 
@@ -503,9 +505,9 @@ Parties may assign weights to the vulnerability factors if their relative import
 Related areas in the PRAIS 4 platform: table SO3-3.T1
 ```
 
-In all tiers of VA, the three components (Csocial, Ceconomic and Cinfrastructural) derived in the previous steps are used to produce the DVI by calculating their mean value.
+In all tiers of VA, the three components (C{sub}`social`, C{sub}`economic` and C{sub}`infrastructural`) derived in the previous steps are used to produce the DVI by calculating their mean value.
 
-DVI = (C{sub}social + C{sub}economic + C{sub}infrastructural) / 3
+$DVI = \frac{C_{social} + C_{economic} + C_{infrastructural}}{3}$
 
 The DVI ranges from 0 to 1, with 1 being the most vulnerable.
 
