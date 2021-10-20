@@ -249,7 +249,7 @@ In addition, Parties can also refer to the following methodological reference do
 
 - Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3.
 
-[^2]: Delivery of analytical, synthesis and visualization functions expected in September - December 2022. 
+[^2]: Delivery of analytical, synthesis and visualization functions expected in September - December 2022.
 
 ## Data analytics tools
 
