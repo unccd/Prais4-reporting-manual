@@ -419,6 +419,10 @@ _Figure 4. Decision tree to help Parties choose the best tier of vulnerability a
 _DVI: Drought Vulnerability Index_{{br}}
 _VA: Vulnerability Assessment_
 
+
+```{tabularcolumns} |p{3cm}|p{6cm}|p{5cm}|
+```
+
 ```{flat-table} *__Table 21__. Data specifications for SO 3-3 Indicator*
 ---
 header-rows: 2
@@ -432,7 +436,9 @@ widths: 1 3 3
     
     (Data needed to generate indicator SO 3-3 as described in Steps 2 to 4)
   - Input data used to calculate the default Drought Vulnerability Index (DVI) is drawn from various sources such as World Bank, Organisation for Economic Cooperation and Development, Food and Agriculture Organization of the United Nations, and Joint Research Centre.
-  - <P>Freely available datasets for the calculation of the factors needed to derive the DVI are listed in table 14 of the “[Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf)".</P>Alternatively, if available, in-country datasets with higher spatial resolution and fewer gaps over the baseline and reporting period.
+  - Freely available datasets for the calculation of the factors needed to derive the DVI are listed in table 14 of the "[Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf)".
+  
+    Alternatively, if available, in-country datasets with higher spatial resolution and fewer gaps over the baseline and reporting period.
 * - __Output data__ 
 
     (DVI indicator resulting from the analysis described in Steps 2 to 4)
