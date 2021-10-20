@@ -12,11 +12,12 @@ The definition of voluntary targets should be based on best available data and k
 
 Targets need to be measurable to monitor progress. Parties are invited to formulate quantifiable, geographically explicit and time-bound voluntary targets aiming at achieving a neutral (no net loss) or improved (net gain) state of the land, and defining interventions that contribute to avoiding, reducing and reversing land degradation, in line with the LDN response hierarchy (see figure 5).
 
-_Figure 5. Land Degradation Neutrality response hierarchy_
-
 ![](/img/LD_neutrality_response.jpg)
 
+_Figure 5. Land Degradation Neutrality response hierarchy_
+
 Geographic specificity helps define realistic targets. Geographically explicit targets with distinct locations, ecosystem types and maps can provide increased focus on critical hotspot areas, aid prioritization and help create realistic and purposeful sub-national commitments and plans.
+
 An example of a time-bound, measurable and geographically explicit LDN voluntary target set by Colombia is: “By 2030, the productivity of at least 2,000 ha of soils with crops and/or pastures will be improved, with agroforestry production systems in the Caribbean and Andean regions (Sucre, Santander and Boyacá departments)”.
 
 LDN is intended to be achieved at the national level. Countries typically aim to achieve this through the definition of a combination of national target(s) and complementary targets at the sub-national level for a specific indicator and/or a specific geographic area (i.e., a particular ecosystem, natural area, watershed or subnational administrative jurisdiction), which together contribute to realizing Parties’ ambitions in achieving or exceeding LDN at the national level. Generic examples of LDN targets at different levels of application are presented in table 26 below.
