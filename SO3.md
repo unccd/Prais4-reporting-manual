@@ -138,16 +138,12 @@ The proportion of land in each drought intensity class is calculated for each re
 
 For each of the SPI-12 grids in the baseline and reporting period, the number of cells falling under each of the SPI drought intensity classes is counted (cellCount). Then, for each reporting year, the percentage of the total land area in each drought intensity class is calculated. The formula is as follows:
 
-%cellCounti{sub}j = (cellCount{sub}ij / Total number of cells) × 100
-
-$\%cellCount_{ij} = \frac{cellCount_{ij}}{Total\ number\ of\ cells} \times 100$
+$P_{ij} = \frac{cellCount_{ij}}{Total\ number\ of\ cells} \times 100$
 
 Where:
 
-- “cellCount” is the number of pixels under a drought intensity class in one year
-- “%cellCount” is the proportion of land under the related drought intensity class
-- “i” is the drought intensity class
-- “j” is the reporting year
+- “cellCount{sub}`ij`” is the number of pixels under the drought intensity class  _i_ in the reporting year _j_
+- “P{sub}`ij`” is the proportion of land under the land under the drought intensity class _i_ in the reporting year _j_
 - “Total number of cells’” is all the grid cells within the country Party’s land area.
 
 The total area falling under each of the drought intensity classes in each year is calculated by multiplying cellCount by the area of the cells (a constant value, since the drought intensity class grid was previously converted to an equal-area projection).

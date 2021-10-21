@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-20 13:57+0300\n"
+"POT-Creation-Date: 2021-10-21 10:32+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -454,45 +454,33 @@ msgid ""
 "formula is as follows:"
 msgstr ""
 
-#: ../../SO3.md:143
-#, python-format
-msgid ""
-"$\\%cellCount_{ij} = \\frac{cellCount_{ij}}{Total\\ number\\ of\\ cells} "
-"\\times 100$"
+#: ../../SO3.md:141
+msgid "$P_{ij} = \\frac{cellCount_{ij}}{Total\\ number\\ of\\ cells} \\times 100$"
 msgstr ""
 
-#: ../../SO3.md:145
+#: ../../SO3.md:143
 msgid "Where:"
 msgstr ""
 
+#: ../../SO3.md:145
+msgid ""
+"“cellCount{sub}`ij`” is the number of pixels under the drought intensity "
+"class  _i_ in the reporting year _j_"
+msgstr ""
+
+#: ../../SO3.md:146
+msgid ""
+"“P{sub}`ij`” is the proportion of land under the land under the drought "
+"intensity class _i_ in the reporting year _j_"
+msgstr ""
+
 #: ../../SO3.md:147
-msgid ""
-"“cellCount” is the number of pixels under a drought intensity class in "
-"one year"
-msgstr ""
-
-#: ../../SO3.md:148
-#, python-format
-msgid ""
-"“%cellCount” is the proportion of land under the related drought "
-"intensity class"
-msgstr ""
-
-#: ../../SO3.md:149
-msgid "“i” is the drought intensity class"
-msgstr ""
-
-#: ../../SO3.md:150
-msgid "“j” is the reporting year"
-msgstr ""
-
-#: ../../SO3.md:151
 msgid ""
 "“Total number of cells’” is all the grid cells within the country Party’s"
 " land area."
 msgstr ""
 
-#: ../../SO3.md:153
+#: ../../SO3.md:149
 msgid ""
 "The total area falling under each of the drought intensity classes in "
 "each year is calculated by multiplying cellCount by the area of the cells"
@@ -500,27 +488,27 @@ msgid ""
 " converted to an equal-area projection)."
 msgstr ""
 
-#: ../../SO3.md:155
+#: ../../SO3.md:151
 msgid ""
 "Step 5:  Create a gridded spatial summary for the baseline and reporting "
 "periods"
 msgstr ""
 
-#: ../../SO3.md:157
+#: ../../SO3.md:153
 msgid ""
 "In addition to the tabular reports described above, indicator SO 1-3 "
 "should also be summarized spatially to map the most extreme conditions "
 "that occurred in the baseline and reporting periods."
 msgstr ""
 
-#: ../../SO3.md:159
+#: ../../SO3.md:155
 msgid ""
 "To summarize the reporting period spatially, the most extreme drought "
 "intensity class should be identified for each grid cell for each "
 "reporting year within the reporting period."
 msgstr ""
 
-#: ../../SO3.md:161
+#: ../../SO3.md:157
 msgid ""
 "Data for the baseline period should be summarized spatially using the "
 "gridded SPI-12 data in four-year intervals (2000–2003, 2004–2007, "
@@ -530,11 +518,11 @@ msgid ""
 "baseline."
 msgstr ""
 
-#: ../../SO3.md:163
+#: ../../SO3.md:159
 msgid "Step 6: Verify the results"
 msgstr ""
 
-#: ../../SO3.md:165
+#: ../../SO3.md:161
 msgid ""
 "Parties should be aware of the limitations related to the use of SPI as a"
 " single drought indicator and critically review the default data "
@@ -542,11 +530,11 @@ msgid ""
 "before submitting the reports to the UNCCD."
 msgstr ""
 
-#: ../../SO3.md:167
+#: ../../SO3.md:163
 msgid "Step 7: Generate reports"
 msgstr ""
 
-#: ../../SO3.md:169
+#: ../../SO3.md:165
 msgid ""
 "Once verified by the Parties, the estimated drought hazard values for the"
 " reporting and baseline periods should be officially submitted to the "
@@ -554,7 +542,7 @@ msgid ""
 "“Qualitative Assessment” field of the PRAIS 4 platform."
 msgstr ""
 
-#: ../../SO3.md:171
+#: ../../SO3.md:167
 msgid ""
 "Default maps or maps generated in Trends.Earth using national data "
 "representing drought hazard for the baseline/reporting period are made "
@@ -562,27 +550,27 @@ msgid ""
 "will be available:"
 msgstr ""
 
-#: ../../SO3.md:173
+#: ../../SO3.md:169
 msgid "Drought hazard in first epoch of baseline period (2000–2003)"
 msgstr ""
 
-#: ../../SO3.md:174
+#: ../../SO3.md:170
 msgid "Drought hazard in second epoch of baseline period (2004–2007)"
 msgstr ""
 
-#: ../../SO3.md:175
+#: ../../SO3.md:171
 msgid "Drought hazard in third epoch of baseline period (2008–2011)"
 msgstr ""
 
-#: ../../SO3.md:176
+#: ../../SO3.md:172
 msgid "Drought hazard in fourth epoch of baseline period (2012–2015)"
 msgstr ""
 
-#: ../../SO3.md:177
+#: ../../SO3.md:173
 msgid "Drought hazard in the reporting period (2016–2019)"
 msgstr ""
 
-#: ../../SO3.md:179
+#: ../../SO3.md:175
 msgid ""
 "These maps represent the most extreme conditions that occurred in each "
 "epoch, as explained in Step 5. Parties are also encouraged to submit "
@@ -593,26 +581,26 @@ msgid ""
 "reliable and providing the rationale to adopt a different methodology."
 msgstr ""
 
-#: ../../SO3.md:181
+#: ../../SO3.md:177
 msgid "3.1.4. Dependencies"
 msgstr ""
 
-#: ../../SO3.md:183
+#: ../../SO3.md:179
 msgid ""
 "Drought hazard data relies on the total land area reported in table "
 "SO1-1.T1 to calculate the proportion of total land area under drought. SO"
 " 3-1 outputs are also used as an input for calculating indicator SO 3-2."
 msgstr ""
 
-#: ../../SO3.md:186
+#: ../../SO3.md:182
 msgid "3.1.5. Challenges"
 msgstr ""
 
-#: ../../SO3.md:188 ../../SO3.md:354 ../../SO3.md:543
+#: ../../SO3.md:184 ../../SO3.md:350 ../../SO3.md:539
 msgid "Data availability and quality"
 msgstr ""
 
-#: ../../SO3.md:190
+#: ../../SO3.md:186
 msgid ""
 "Internationally available precipitation data might not be sufficiently "
 "accurate to estimate the intensity of drought hazard at national level. "
@@ -622,11 +610,11 @@ msgid ""
 " time series."
 msgstr ""
 
-#: ../../SO3.md:192
+#: ../../SO3.md:188
 msgid "Limitations of the SPI-based estimates"
 msgstr ""
 
-#: ../../SO3.md:194
+#: ../../SO3.md:190
 msgid ""
 "While the SPI is recommended as a well-established, flexible and robust "
 "drought index to quantify drought hazard on a global scale, it only "
@@ -641,7 +629,7 @@ msgid ""
 "the estimates on alternative indexes."
 msgstr ""
 
-#: ../../SO3.md:196
+#: ../../SO3.md:192
 msgid ""
 "Because of the natural climate variability, any observed changes or "
 "trends in the proportion of land under drought over the short baseline "
@@ -650,22 +638,22 @@ msgid ""
 "“Qualitative Assessment” field."
 msgstr ""
 
-#: ../../SO3.md:198
+#: ../../SO3.md:194
 msgid ""
 "The adopted timescale, based on the 12-month cycle, might not always be "
 "suitable for characterizing drought impacts in some environments where "
 "other aggregation periods, e.g., 24 months, might be more appropriate."
 msgstr ""
 
-#: ../../SO3.md:200
+#: ../../SO3.md:196
 msgid "3.1.6. Summary (main actions)"
 msgstr ""
 
-#: ../../SO3.md:202
+#: ../../SO3.md:198
 msgid "Key actions for reporting drought hazard intensity values are as follows:"
 msgstr ""
 
-#: ../../SO3.md:204
+#: ../../SO3.md:200
 msgid ""
 "**Select precipitation dataset**: Parties may decide to use the default "
 "data or alternative national sources, provided they comply with the data "
@@ -673,14 +661,14 @@ msgid ""
 "data sources, they should follow Steps 2 to 5 below:"
 msgstr ""
 
-#: ../../SO3.md:206
+#: ../../SO3.md:202
 msgid ""
 "**Calculate the SPI**: the SPI should be derived for all months in the "
 "full available time series; however, Parties may choose alternative "
 "indexes better suited to their local environmental conditions."
 msgstr ""
 
-#: ../../SO3.md:208
+#: ../../SO3.md:204
 msgid ""
 "**Identify the drought intensity class of each grid cell**: based on the "
 "SPI calculation, the number of cells belonging to each of the SPI drought"
@@ -690,7 +678,7 @@ msgid ""
 "km2. Data is then reported in table SO3-1.T1."
 msgstr ""
 
-#: ../../SO3.md:210
+#: ../../SO3.md:206
 msgid ""
 "**Calculate proportion of land under drought**: the proportion of land in"
 " each drought intensity class and the overall proportion of land under "
@@ -698,7 +686,7 @@ msgid ""
 "and reported in tables SO3-1.T1 and SO3-1.T2."
 msgstr ""
 
-#: ../../SO3.md:212
+#: ../../SO3.md:208
 msgid ""
 "**Create a gridded spatial summary for the baseline and reporting "
 "periods**: data for the entire time series from 2000 to 2019 should be "
@@ -707,7 +695,7 @@ msgid ""
 "most extreme conditions in each period."
 msgstr ""
 
-#: ../../SO3.md:214
+#: ../../SO3.md:210
 msgid ""
 "**Verify the results**: aware of the limitations related to the adoption "
 "of the SPI for estimating drought intensity, Parties may verify the "
@@ -716,18 +704,18 @@ msgid ""
 "reporting."
 msgstr ""
 
-#: ../../SO3.md:216 ../../SO3.md:569
+#: ../../SO3.md:212 ../../SO3.md:565
 msgid ""
 "**Generate reports**: once verified by the Parties, the data and "
 "supporting narrative for the reporting and baseline periods should be "
 "officially submitted to the UNCCD."
 msgstr ""
 
-#: ../../SO3.md:218
+#: ../../SO3.md:214
 msgid "3.1.7. Further reading"
 msgstr ""
 
-#: ../../SO3.md:220
+#: ../../SO3.md:216
 msgid ""
 "Good Practice Guidance for National Reporting on UNCCD Strategic "
 "Objective 3. Chapter 1. Level 1 Indicator "
@@ -735,17 +723,17 @@ msgid ""
 "reporting-unccd-strategic-objective-3-mitigate-adapt>)"
 msgstr ""
 
-#: ../../SO3.md:222
+#: ../../SO3.md:218
 msgid ""
 "3.2. SO 3-2 – Trends in the proportion of the total population exposed to"
 " drought"
 msgstr ""
 
-#: ../../SO3.md:224
+#: ../../SO3.md:220
 msgid "3.2.1. Introduction"
 msgstr ""
 
-#: ../../SO3.md:226
+#: ../../SO3.md:222
 msgid ""
 "Indicator SO 3-2 defines the exposure of the population to drought hazard"
 " (identified by indicator SO 3-1) as the total count of people exposed as"
@@ -753,7 +741,7 @@ msgid ""
 "may be further disaggregated by sex if data is available."
 msgstr ""
 
-#: ../../SO3.md:228
+#: ../../SO3.md:224
 msgid ""
 "The method of computation uses the spatial distribution of the population"
 " or sub-population group (i.e., by sex) to establish its exposure to "
@@ -766,11 +754,11 @@ msgid ""
 "default data."
 msgstr ""
 
-#: ../../SO3.md:231
+#: ../../SO3.md:227
 msgid "3.2.2. Prerequisites for reporting"
 msgstr ""
 
-#: ../../SO3.md:233
+#: ../../SO3.md:229
 msgid ""
 "An in-depth reading of chapter 2 of the “[Good Practice Guidance for "
 "National Reporting on UNCCD Strategic Objective "
@@ -781,11 +769,11 @@ msgid ""
 "estimate drought exposure."
 msgstr ""
 
-#: ../../SO3.md:235
+#: ../../SO3.md:231
 msgid "Data complying with the specifications listed in figure 2 and table 20."
 msgstr ""
 
-#: ../../SO3.md:237
+#: ../../SO3.md:233
 msgid ""
 "A pool of national experts officially nominated by the national "
 "authorities to verify the consistency of the results of the reporting "
@@ -796,21 +784,21 @@ msgid ""
 "centres may also provide valuable inputs."
 msgstr ""
 
-#: ../../SO3.md:239
+#: ../../SO3.md:235
 msgid "3.2.3. Reporting process and step-by-step procedure"
 msgstr ""
 
-#: ../../SO3.md:241
+#: ../../SO3.md:237
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If the default data is used, Steps 2 to 4 are unnecessary."
 msgstr ""
 
-#: ../../SO3.md:243
+#: ../../SO3.md:239
 msgid "Step 1: Select the population dataset"
 msgstr ""
 
-#: ../../SO3.md:245
+#: ../../SO3.md:241
 msgid ""
 "Suitable data for the calculation of indicator SO 3-2 is a spatially "
 "gridded population product, or a georeferenced set of sub-national "
@@ -820,7 +808,7 @@ msgid ""
 "possible, data should be disaggregated by sex."
 msgstr ""
 
-#: ../../SO3.md:247
+#: ../../SO3.md:243
 msgid ""
 "There are various publicly available, fine-resolution population datasets"
 " available at the global scale and two of these, WorldPop and Gridded "
@@ -829,7 +817,7 @@ msgid ""
 "Parties by default."
 msgstr ""
 
-#: ../../SO3.md:249
+#: ../../SO3.md:245
 msgid ""
 "Parties wishing to use in-country or regional datasets can use the "
 "decision tree in figure 2 to assess whether the in-country (or regional) "
@@ -837,19 +825,19 @@ msgid ""
 "globally available datasets."
 msgstr ""
 
-#: ../../SO3.md:251
+#: ../../SO3.md:247
 msgid ""
 "_Figure 2. Decision tree to help Parties choose the best population data "
 "source to derive indicator SO 3-2_ ![](/img/SO3_2_Decision_tree.jpg)"
 msgstr ""
 
-#: ../../SO3.md:254
+#: ../../SO3.md:250
 msgid ""
 "This decision-making process should help Parties identify data that meets"
 " the specifications summarized in table 20."
 msgstr ""
 
-#: ../../SO3.md:256
+#: ../../SO3.md:252
 msgid "*__Table 20__. Data specifications for SO 3-2 Indicator*"
 msgstr ""
 
@@ -907,13 +895,13 @@ msgstr ""
 msgid "To be indicated in the dataset metadata."
 msgstr ""
 
-#: ../../SO3.md:298
+#: ../../SO3.md:294
 msgid ""
 "Step 2:  Overlay gridded population data with indicator SO 3-1 spatial "
 "output"
 msgstr ""
 
-#: ../../SO3.md:300
+#: ../../SO3.md:296
 msgid ""
 "Indicator SO 3-2 is calculated by overlaying the population data on the "
 "hazard intensity spatial data for each year. Gap years should be filled "
@@ -925,14 +913,14 @@ msgid ""
 "sex-disaggregated drought exposure values."
 msgstr ""
 
-#: ../../SO3.md:302
+#: ../../SO3.md:298
 msgid ""
 "Population and drought hazard intensity data should have the same "
 "coordinate reference system and projection, which should be consistent "
 "across the reporting periods."
 msgstr ""
 
-#: ../../SO3.md:304
+#: ../../SO3.md:300
 msgid ""
 "Step 3: Calculate the total population and the number and percentage of "
 "people within each drought intensity class"
@@ -944,7 +932,7 @@ msgid ""
 "SO3-2.T3"
 msgstr ""
 
-#: ../../SO3.md:310
+#: ../../SO3.md:306
 msgid ""
 "The yearly total population is obtained by adding the population residing"
 " in each land unit (e.g., grid cell) of a country area for each year "
@@ -952,7 +940,7 @@ msgid ""
 "reporting year)."
 msgstr ""
 
-#: ../../SO3.md:312
+#: ../../SO3.md:308
 msgid ""
 "Using the outputs of Step 2, the number of people falling within each of "
 "the four drought intensity classes, as well as the total number of people"
@@ -961,7 +949,7 @@ msgid ""
 "out of the total population."
 msgstr ""
 
-#: ../../SO3.md:314
+#: ../../SO3.md:310
 msgid ""
 "Similarly, if sex disaggregated data is used, the number of males and "
 "females that lie within each drought intensity class, as well as the "
@@ -972,11 +960,11 @@ msgid ""
 " within each drought intensity class should equal to 100 per cent."
 msgstr ""
 
-#: ../../SO3.md:316
+#: ../../SO3.md:312
 msgid "Step 4:  Create a gridded spatial summary in four-year epochs"
 msgstr ""
 
-#: ../../SO3.md:318
+#: ../../SO3.md:314
 msgid ""
 "In addition to the annual values of indicator SO 3-2, a gridded spatial "
 "summary for the entire reporting period is also produced. This gridded "
@@ -985,7 +973,7 @@ msgid ""
 "reporting period for each grid cell."
 msgstr ""
 
-#: ../../SO3.md:320
+#: ../../SO3.md:316
 msgid ""
 "To summarize the reporting period spatially, the most recent population "
 "dataset from the current reporting period is overlaid on the output "
@@ -994,7 +982,7 @@ msgid ""
 "period."
 msgstr ""
 
-#: ../../SO3.md:322
+#: ../../SO3.md:318
 msgid ""
 "Similarly, baseline exposure summary spatial data products are generated "
 "for each of the four-year baseline periods (i.e., 2000–2003, 2004–2007, "
@@ -1003,18 +991,18 @@ msgid ""
 " 5."
 msgstr ""
 
-#: ../../SO3.md:324
+#: ../../SO3.md:320
 msgid ""
 "These gridded spatial summaries give an indication of the number of "
 "people exposed to the most extreme drought intensity class in four-year "
 "epochs."
 msgstr ""
 
-#: ../../SO3.md:326 ../../SO3.md:520
+#: ../../SO3.md:322 ../../SO3.md:516
 msgid "Step 5:  Verify the results"
 msgstr ""
 
-#: ../../SO3.md:328
+#: ../../SO3.md:324
 msgid ""
 "The methodology only considers population density and distribution and "
 "does not cover ecosystem exposure to drought. A more comprehensive "
@@ -1024,17 +1012,17 @@ msgid ""
 "does not equate to drought vulnerability."
 msgstr ""
 
-#: ../../SO3.md:330
+#: ../../SO3.md:326
 msgid ""
 "Parties should be aware of these limitations and critically review the "
 "results before submitting the reports to the UNCCD."
 msgstr ""
 
-#: ../../SO3.md:332 ../../SO3.md:526
+#: ../../SO3.md:328 ../../SO3.md:522
 msgid "Step 6: Generate reports"
 msgstr ""
 
-#: ../../SO3.md:334
+#: ../../SO3.md:330
 msgid ""
 "Once verified by the Parties, the estimated population exposure to "
 "drought hazard values for the reporting and baseline periods should be "
@@ -1043,7 +1031,7 @@ msgid ""
 "the PRAIS 4 platform."
 msgstr ""
 
-#: ../../SO3.md:336
+#: ../../SO3.md:332
 msgid ""
 "Default maps or maps generated in Trends.Earth using national data "
 "representing population exposed to drought for the baseline/reporting "
@@ -1051,41 +1039,41 @@ msgid ""
 " following maps will be available online:"
 msgstr ""
 
-#: ../../SO3.md:338
+#: ../../SO3.md:334
 msgid ""
 "Total population exposed to drought in first epoch of baseline period "
 "(2000–2003)"
 msgstr ""
 
-#: ../../SO3.md:339
+#: ../../SO3.md:335
 msgid ""
 "Total population exposed to drought in second epoch of baseline period "
 "(2004–2007)"
 msgstr ""
 
-#: ../../SO3.md:340
+#: ../../SO3.md:336
 msgid ""
 "Total population exposed to drought in third epoch of baseline period "
 "(2008–2011)"
 msgstr ""
 
-#: ../../SO3.md:341
+#: ../../SO3.md:337
 msgid ""
 "Total population exposed to drought in fourth epoch of baseline period "
 "(2012–2015)"
 msgstr ""
 
-#: ../../SO3.md:342
+#: ../../SO3.md:338
 msgid "Total population exposed to drought in the reporting period (2016–2019)"
 msgstr ""
 
-#: ../../SO3.md:344
+#: ../../SO3.md:340
 msgid ""
 "These maps show the most extreme drought intensity class a population was"
 " exposed to within each epoch, as explained in Step 4."
 msgstr ""
 
-#: ../../SO3.md:346
+#: ../../SO3.md:342
 msgid ""
 "Parties are also encouraged to submit narratives on the methodology, data"
 " sources and data accuracy in the event that the estimates are derived "
@@ -1095,19 +1083,19 @@ msgid ""
 "a different methodology."
 msgstr ""
 
-#: ../../SO3.md:348
+#: ../../SO3.md:344
 msgid "3.2.4. Dependencies"
 msgstr ""
 
-#: ../../SO3.md:350
+#: ../../SO3.md:346
 msgid "Drought exposure data relies on the SO 3-1 spatial outputs."
 msgstr ""
 
-#: ../../SO3.md:352
+#: ../../SO3.md:348
 msgid "3.2.5. Challenges"
 msgstr ""
 
-#: ../../SO3.md:356
+#: ../../SO3.md:352
 msgid ""
 "The WorldPop sex-disaggregated national datasets are offered as several "
 "individual rasters, each representing an age/sex class per year. This "
@@ -1121,7 +1109,7 @@ msgid ""
 "default data."
 msgstr ""
 
-#: ../../SO3.md:358
+#: ../../SO3.md:354
 msgid ""
 "Global data quality and resolution might not be sufficiently accurate for"
 " national population estimates. The integration of global and national "
@@ -1129,17 +1117,17 @@ msgid ""
 "require additional processing capacity and technical skills."
 msgstr ""
 
-#: ../../SO3.md:360
+#: ../../SO3.md:356
 msgid "3.2.6. Summary (main actions)"
 msgstr ""
 
-#: ../../SO3.md:362
+#: ../../SO3.md:358
 msgid ""
 "Key actions for reporting population exposure to drought hazard are as "
 "follows:"
 msgstr ""
 
-#: ../../SO3.md:364
+#: ../../SO3.md:360
 msgid ""
 "**Select the population dataset**: Parties may decide to use the default "
 "data or alternative national sources, provided they comply with the data "
@@ -1147,14 +1135,14 @@ msgid ""
 "data sources, they should follow Steps 2 to 4 below:"
 msgstr ""
 
-#: ../../SO3.md:366
+#: ../../SO3.md:362
 msgid ""
 "**Overlay population data on indicator SO 3-1 spatial output**: indicator"
 " SO 3-2 is calculated by overlaying the yearly population data on yearly "
 "hazard intensity data derived from the SO 3-1 analysis."
 msgstr ""
 
-#: ../../SO3.md:368
+#: ../../SO3.md:364
 msgid ""
 "**Calculate the total population as well as the number and percentage of "
 "people within each drought intensity class**: the entire population "
@@ -1163,7 +1151,7 @@ msgid ""
 "percentage of the total population."
 msgstr ""
 
-#: ../../SO3.md:370
+#: ../../SO3.md:366
 msgid ""
 "**Create a gridded spatial summary of indicator SO 3-2 in four-year "
 "epochs**: the gridded spatial summary for each four-year epoch provides "
@@ -1173,7 +1161,7 @@ msgid ""
 "consistent with the gridded spatial summaries reported at SO 3-1."
 msgstr ""
 
-#: ../../SO3.md:372
+#: ../../SO3.md:368
 msgid ""
 "**Verify the results**: aware of the limitations of the estimated values "
 "of drought exposure, Parties may verify the accuracy and reliability of "
@@ -1181,17 +1169,17 @@ msgid ""
 "estimates for UNCCD reporting."
 msgstr ""
 
-#: ../../SO3.md:374
+#: ../../SO3.md:370
 msgid ""
 "**Generate reports**: once verified by the Parties, the data and "
 "supporting narrative should be officially submitted to the UNCCD."
 msgstr ""
 
-#: ../../SO3.md:376
+#: ../../SO3.md:372
 msgid "3.2.7. Further reading"
 msgstr ""
 
-#: ../../SO3.md:378
+#: ../../SO3.md:374
 msgid ""
 "Good Practice Guidance for National Reporting on UNCCD Strategic "
 "Objective 3. Chapter 2. Level 2 Indicator "
@@ -1199,15 +1187,15 @@ msgid ""
 "reporting-unccd-strategic-objective-3-mitigate-adapt>)"
 msgstr ""
 
-#: ../../SO3.md:380
+#: ../../SO3.md:376
 msgid "3.3. SO 3-3 – Trends in the degree of drought vulnerability"
 msgstr ""
 
-#: ../../SO3.md:382
+#: ../../SO3.md:378
 msgid "3.3.1. Introduction"
 msgstr ""
 
-#: ../../SO3.md:384
+#: ../../SO3.md:380
 msgid ""
 "The UNCCD approach to assessing drought vulnerability is based on a "
 "composite index, the Drought Vulnerability Index (DVI), which "
@@ -1217,26 +1205,26 @@ msgid ""
 "ecological or ecosystem vulnerability."
 msgstr ""
 
-#: ../../SO3.md:386
+#: ../../SO3.md:382
 msgid ""
 "The DVI may be derived through three alternative processes, corresponding"
 " to three increasing levels of computational complexity:"
 msgstr ""
 
-#: ../../SO3.md:388
+#: ../../SO3.md:384
 msgid ""
 "Tier 1 Vulnerability Assessment (VA) – uses at least one factor per "
 "vulnerability component, represented by country-level metrics."
 msgstr ""
 
-#: ../../SO3.md:390
+#: ../../SO3.md:386
 msgid ""
 "Tier 2 VA – uses more than one factor per vulnerability component, where "
 "the factors are represented by country-level metrics, with the inclusion "
 "of sex-disaggregated data (where applicable)."
 msgstr ""
 
-#: ../../SO3.md:392
+#: ../../SO3.md:388
 msgid ""
 "Tier 3 VA – uses more than one factor per vulnerability component, where "
 "factors are represented by sub-national metrics (which may be gridded or "
@@ -1244,13 +1232,13 @@ msgid ""
 "disaggregated data (where applicable)."
 msgstr ""
 
-#: ../../SO3.md:394
+#: ../../SO3.md:390
 msgid ""
 "Parties may opt for the approach best suited to their current capacity to"
 " collect and process data, subject to data availability."
 msgstr ""
 
-#: ../../SO3.md:396
+#: ../../SO3.md:392
 msgid ""
 "The UNCCD provides Parties with default data derived from the global DVI "
 "dataset of the European Commission Joint Research Centre (JRC) to "
@@ -1259,11 +1247,11 @@ msgid ""
 "data at national level."
 msgstr ""
 
-#: ../../SO3.md:398
+#: ../../SO3.md:394
 msgid "3.3.2. Prerequisites for reporting"
 msgstr ""
 
-#: ../../SO3.md:400
+#: ../../SO3.md:396
 msgid ""
 "An in-depth reading of chapter 3 of the “[Good Practice Guidance for "
 "National Reporting on UNCCD Strategic Objective "
@@ -1274,11 +1262,11 @@ msgid ""
 "estimate drought vulnerability."
 msgstr ""
 
-#: ../../SO3.md:402
+#: ../../SO3.md:398
 msgid "Data complying with the specifications listed in table 21."
 msgstr ""
 
-#: ../../SO3.md:404
+#: ../../SO3.md:400
 msgid ""
 "A pool of national experts officially nominated by the national "
 "authorities to verify the consistency of the results of the reporting "
@@ -1289,22 +1277,22 @@ msgid ""
 "centres may also provide valuable inputs."
 msgstr ""
 
-#: ../../SO3.md:406
+#: ../../SO3.md:402
 msgid "3.3.3. Reporting process and step-by-step procedure"
 msgstr ""
 
-#: ../../SO3.md:408
+#: ../../SO3.md:404
 msgid ""
 "The step-by-step procedure for reporting is described in the following "
 "and applies to both the baseline and reporting periods. If the default "
 "data is used, Steps 2 to 4 are unnecessary."
 msgstr ""
 
-#: ../../SO3.md:410
+#: ../../SO3.md:406
 msgid "Step 1: Select tier of vulnerability assessment based on data availability"
 msgstr ""
 
-#: ../../SO3.md:412
+#: ../../SO3.md:408
 #, python-format
 msgid ""
 "The vulnerability factors recommended by the UNCCD to derive the DVI "
@@ -1319,14 +1307,14 @@ msgid ""
 "Goals."
 msgstr ""
 
-#: ../../SO3.md:414
+#: ../../SO3.md:410
 msgid ""
 "_Figure 3. Social, economic, and infrastructural components and their "
 "associated factors recommended for calculating the Drought Vulnerability "
 "Index_ ![](/img/SO3_3_Decision_tree.jpg)"
 msgstr ""
 
-#: ../../SO3.md:417
+#: ../../SO3.md:413
 msgid ""
 "The UNCCD provides default data from the global DVI dataset of the JRC. "
 "The method used to derive the default DVI is similar to the one presented"
@@ -1339,7 +1327,7 @@ msgid ""
 "represents the median DVI across the country for the period 2000–2018."
 msgstr ""
 
-#: ../../SO3.md:419
+#: ../../SO3.md:415
 msgid ""
 "Country Parties that do not have data available to calculate the minimum "
 "Tier 1 VA can report using the default DVI data. However, it is "
@@ -1349,24 +1337,24 @@ msgid ""
 "figure 4 helps Parties select the tier of VA based on data availability."
 msgstr ""
 
-#: ../../SO3.md:421
+#: ../../SO3.md:417
 msgid ""
 "National/regional data products used to calculate the DVI should conform "
 "with the specifications listed in table 21."
 msgstr ""
 
-#: ../../SO3.md:423
+#: ../../SO3.md:419
 msgid ""
 "_Figure 4. Decision tree to help Parties choose the best tier of "
 "vulnerability assessment for the SO 3-3 Indicator reporting according to "
 "data availability_ ![](/img/SO3_3b_Decision_tree.jpg)"
 msgstr ""
 
-#: ../../SO3.md:426
+#: ../../SO3.md:422
 msgid "_DVI: Drought Vulnerability Index_{{br}} _VA: Vulnerability Assessment_"
 msgstr ""
 
-#: ../../SO3.md:432
+#: ../../SO3.md:428
 msgid "*__Table 21__. Data specifications for SO 3-3 Indicator*"
 msgstr ""
 
@@ -1436,18 +1424,18 @@ msgstr ""
 msgid "National and/or sub-national levels"
 msgstr ""
 
-#: ../../SO3.md:467
+#: ../../SO3.md:463
 msgid "Step 2:  Factor normalization"
 msgstr ""
 
-#: ../../SO3.md:469
+#: ../../SO3.md:465
 msgid ""
 "In all tiers of VA, factors should be normalized before they can be "
 "compared and aggregated, as the vulnerability factors used are all "
 "measured using different units."
 msgstr ""
 
-#: ../../SO3.md:471
+#: ../../SO3.md:467
 msgid ""
 "The UNCCD recommends normalizing factors using the maximum and minimum "
 "values within the country using all historic data up to, and including, "
@@ -1455,7 +1443,7 @@ msgid ""
 "that the maximum and minimum values are representative for the country."
 msgstr ""
 
-#: ../../SO3.md:473
+#: ../../SO3.md:469
 msgid ""
 "Each time the DVI is calculated to report indicator SO 3-3, the factor "
 "range (i.e., the minimum and maximum values) should be recalculated, and "
@@ -1463,18 +1451,18 @@ msgid ""
 " should be re-normalized using the new range."
 msgstr ""
 
-#: ../../SO3.md:475
+#: ../../SO3.md:471
 msgid ""
 "Where there is a positive correlation/relationship between vulnerability "
 "and the factor[^3]  (i.e., if the factor value increases, vulnerability "
 "also increases), the data should be normalized using the equation below:"
 msgstr ""
 
-#: ../../SO3.md:477
+#: ../../SO3.md:473
 msgid "$Factor = \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 msgstr ""
 
-#: ../../SO3.md:479
+#: ../../SO3.md:475
 msgid ""
 "Where: X{sub}`i` is the value of the considered factor in the year “i” "
 "X{sub}`min` is the minimum value of the considered factor observed in the"
@@ -1482,30 +1470,30 @@ msgid ""
 "factor observed in the entire time series"
 msgstr ""
 
-#: ../../SO3.md:484
+#: ../../SO3.md:480
 msgid ""
 "In case of negative correlation/relationship between vulnerability and "
 "the factor, the equation is:"
 msgstr ""
 
-#: ../../SO3.md:486
+#: ../../SO3.md:482
 msgid "$Factor = 1 - \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 msgstr ""
 
-#: ../../SO3.md:488
+#: ../../SO3.md:484
 msgid ""
 "After normalization, all factors have a value of between zero and one, "
 "relative to the historical maximum and minimum of the country."
 msgstr ""
 
-#: ../../SO3.md:490
+#: ../../SO3.md:486
 msgid ""
 "Normalization of sex-disaggregated data for Tier 1 and 2 VA uses the same"
 " formulas described above, applied once for each piece of sex-related "
 "data."
 msgstr ""
 
-#: ../../SO3.md:492
+#: ../../SO3.md:488
 msgid ""
 "For sub-national level data (Tier 3 VA), the calculation should be "
 "applied to the data from all spatial units (e.g., administrative units) "
@@ -1513,7 +1501,7 @@ msgid ""
 "values of the whole country."
 msgstr ""
 
-#: ../../SO3.md:494
+#: ../../SO3.md:490
 msgid ""
 "For the default DVI, each factor was normalized using the global maximum "
 "and minimum values, rather than historical ranges for the given country. "
@@ -1522,11 +1510,11 @@ msgid ""
 "the national range is used."
 msgstr ""
 
-#: ../../SO3.md:498
+#: ../../SO3.md:494
 msgid "Step 3: Derive the Drought Vulnerability Index components"
 msgstr ""
 
-#: ../../SO3.md:500
+#: ../../SO3.md:496
 msgid ""
 "This step aims to derive aggregated values for each of the three DVI "
 "components. For Parties adopting the Tier 1 VA approach, the values of "
@@ -1536,21 +1524,21 @@ msgid ""
 "the aggregated value of each component."
 msgstr ""
 
-#: ../../SO3.md:502
+#: ../../SO3.md:498
 msgid ""
 "The result of this step is a single value for each component and each "
 "geographic unit of the country. If sex-disaggregated data is used, "
 "separate values for male and female are produced for each component."
 msgstr ""
 
-#: ../../SO3.md:504
+#: ../../SO3.md:500
 msgid ""
 "Parties may assign weights to the vulnerability factors if their relative"
 " importance and relevance is known. It is recommended to apply the "
 "weights to the vulnerability factors and not to the three components."
 msgstr ""
 
-#: ../../SO3.md:506
+#: ../../SO3.md:502
 msgid "Step 4:  Calculate the Drought Vulnerability Index"
 msgstr ""
 
@@ -1558,22 +1546,22 @@ msgstr ""
 msgid "Related areas in the PRAIS 4 platform: table SO3-3.T1"
 msgstr ""
 
-#: ../../SO3.md:512
+#: ../../SO3.md:508
 msgid ""
 "In all tiers of VA, the three components (C{sub}`social`, "
 "C{sub}`economic` and C{sub}`infrastructural`) derived in the previous "
 "steps are used to produce the DVI by calculating their mean value."
 msgstr ""
 
-#: ../../SO3.md:514
+#: ../../SO3.md:510
 msgid "$DVI = \\frac{C_{social} + C_{economic} + C_{infrastructural}}{3}$"
 msgstr ""
 
-#: ../../SO3.md:516
+#: ../../SO3.md:512
 msgid "The DVI ranges from 0 to 1, with 1 being the most vulnerable."
 msgstr ""
 
-#: ../../SO3.md:518
+#: ../../SO3.md:514
 msgid ""
 "A Tier 1 VA would result in one DVI at country-level for each reporting "
 "period. For Tier 2 and 3 VAs, where sex-disaggregated factors are used, "
@@ -1585,7 +1573,7 @@ msgid ""
 "males, females and total populations."
 msgstr ""
 
-#: ../../SO3.md:522
+#: ../../SO3.md:518
 msgid ""
 "The DVI method has not yet been validated at the local or national scale "
 "and, as such, may not accurately characterize vulnerability at these "
@@ -1596,7 +1584,7 @@ msgid ""
 "improve results at national and subnational level."
 msgstr ""
 
-#: ../../SO3.md:524
+#: ../../SO3.md:520
 msgid ""
 "Moreover, the most vulnerable populations and underrepresented groups "
 "should be involved in the determination of the factors to be used to "
@@ -1604,7 +1592,7 @@ msgid ""
 " effective index."
 msgstr ""
 
-#: ../../SO3.md:528
+#: ../../SO3.md:524
 msgid ""
 "Once verified by the Parties, the estimated vulnerability values for the "
 "reporting and baseline periods should be officially submitted to the "
@@ -1615,7 +1603,7 @@ msgid ""
 "(table SO3-3.T2)."
 msgstr ""
 
-#: ../../SO3.md:530
+#: ../../SO3.md:526
 msgid ""
 "Maps generated in Trends.Earth using national data under Tier 3 VA and "
 "representing vulnerability to drought for the baseline/reporting period "
@@ -1623,15 +1611,15 @@ msgid ""
 "recommended to upload the following maps:"
 msgstr ""
 
-#: ../../SO3.md:532
+#: ../../SO3.md:528
 msgid "Drought Vulnerability in the baseline period (2000–2015)"
 msgstr ""
 
-#: ../../SO3.md:533
+#: ../../SO3.md:529
 msgid "Drought Vulnerability in the reporting period (2016–2019)"
 msgstr ""
 
-#: ../../SO3.md:535
+#: ../../SO3.md:531
 msgid ""
 "Information on data sources, data accuracy and any weighting scheme "
 "applied to the vulnerability factors can be submitted using the “General "
@@ -1640,42 +1628,42 @@ msgid ""
 " providing the rationale to include different factors."
 msgstr ""
 
-#: ../../SO3.md:537
+#: ../../SO3.md:533
 msgid "3.3.4. Dependencies"
 msgstr ""
 
-#: ../../SO3.md:539
+#: ../../SO3.md:535
 msgid "SO 2-1 and SO 2-2 can be used for the calculation of SO 3-3."
 msgstr ""
 
-#: ../../SO3.md:541
+#: ../../SO3.md:537
 msgid "3.3.5. Challenges"
 msgstr ""
 
-#: ../../SO3.md:545
+#: ../../SO3.md:541
 msgid ""
 "The availability of data for the considered factors varies substantially "
 "from country to country and the complete set of recommended data might "
 "not be accessible everywhere."
 msgstr ""
 
-#: ../../SO3.md:547
+#: ../../SO3.md:543
 msgid "Methodological approach"
 msgstr ""
 
-#: ../../SO3.md:549
+#: ../../SO3.md:545
 msgid ""
 "The reliability of the DVI method at national and sub-national levels is "
 "still to be verified."
 msgstr ""
 
-#: ../../SO3.md:551
+#: ../../SO3.md:547
 msgid ""
 "Due to the methods used for factor normalization (i.e., using in-country "
 "historic data), DVI values should not be compared between countries."
 msgstr ""
 
-#: ../../SO3.md:553
+#: ../../SO3.md:549
 msgid ""
 "Assuming a consistent methodology has been used over time, changes in the"
 " DVI may reflect the efficacy of drought mitigation and adaptation "
@@ -1683,17 +1671,17 @@ msgid ""
 "changes disconnected from drought management measures."
 msgstr ""
 
-#: ../../SO3.md:555
+#: ../../SO3.md:551
 msgid "3.3.6. Summary (main actions)"
 msgstr ""
 
-#: ../../SO3.md:557
+#: ../../SO3.md:553
 msgid ""
 "Key actions for reporting population vulnerable to drought hazard are as "
 "follows:"
 msgstr ""
 
-#: ../../SO3.md:559
+#: ../../SO3.md:555
 msgid ""
 "**Select tier of vulnerability assessment based on data availability**: "
 "Parties are encouraged to opt for one of the three Tiers of VA based on "
@@ -1704,28 +1692,28 @@ msgid ""
 "follow Steps 2 to 4 below:"
 msgstr ""
 
-#: ../../SO3.md:561
+#: ../../SO3.md:557
 msgid ""
 "**Factor normalization**: factors for each vulnerability component should"
 " be normalized before they can be compared and aggregated, as the "
 "vulnerability factors used are all measured using different units."
 msgstr ""
 
-#: ../../SO3.md:563
+#: ../../SO3.md:559
 msgid ""
 "**Derive the DVI components**: the aggregated values for each of the "
 "three DVI components are calculated as the arithmetic mean of the "
 "normalized factors."
 msgstr ""
 
-#: ../../SO3.md:565
+#: ../../SO3.md:561
 msgid ""
 "**Calculate the DVI**: the three components – social, economic and "
 "infrastructural – derived in the previous steps are used to produce the "
 "DVI by calculating their mean value."
 msgstr ""
 
-#: ../../SO3.md:567
+#: ../../SO3.md:563
 msgid ""
 "**Verify the results**: aware of the fact that the DVI method has not yet"
 " been validated at the local or national scale, Parties may verify the "
@@ -1733,11 +1721,11 @@ msgid ""
 "before officially submitting estimates for UNCCD reporting."
 msgstr ""
 
-#: ../../SO3.md:571
+#: ../../SO3.md:567
 msgid "3.3.7. Further reading"
 msgstr ""
 
-#: ../../SO3.md:573
+#: ../../SO3.md:569
 msgid ""
 "Good Practice Guidance for National Reporting on UNCCD Strategic "
 "Objective 3. Chapter 3. Level 3 Indicator "
@@ -1761,7 +1749,7 @@ msgid ""
 " legend of drought classes.\""
 msgstr ""
 
-#: ../../SO3.md:496
+#: ../../SO3.md:492
 msgid ""
 "See Table 13 of the Good Practice Guidance for National Reporting on "
 "UNCCD Strategic Objective 3 indicating relationship of the 13 recommended"
@@ -2270,5 +2258,28 @@ msgstr ""
 #~ "exposed to the four drought intensity"
 #~ " classes from the year 2000 to "
 #~ "the reporting year"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "$\\%cellCount_{ij} = \\frac{cellCount_{ij}}{Total\\ "
+#~ "number\\ of\\ cells} \\times 100$"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "“cellCount” is the number of pixels "
+#~ "under a drought intensity class in "
+#~ "one year"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "“%cellCount” is the proportion of land"
+#~ " under the related drought intensity "
+#~ "class"
+#~ msgstr ""
+
+#~ msgid "“i” is the drought intensity class"
+#~ msgstr ""
+
+#~ msgid "“j” is the reporting year"
 #~ msgstr ""
 
