@@ -473,9 +473,12 @@ Where there is a positive correlation/relationship between vulnerability and the
 $Factor = \frac{X_{i} - X_{min}}{X_{max} - X_{min}}$
 
 Where:
-X{sub}`i` is the value of the considered factor in the year “i”
-X{sub}`min` is the minimum value of the considered factor observed in the entire time series
-X{sub}`max` is the maximum value of the considered factor observed in the entire time series
+
+- X{sub}`i` is the value of the considered factor in the year “i”
+
+- X{sub}`min` is the minimum value of the considered factor observed in the entire time series
+
+- X{sub}`max` is the maximum value of the considered factor observed in the entire time series
 
 In case of negative correlation/relationship between vulnerability and the factor, the equation is:
 
