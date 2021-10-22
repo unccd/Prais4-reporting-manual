@@ -74,42 +74,78 @@ For recipients:
 
 ````
 
+**Relevance to desertification/land degradation and drought**
 
-
-Relevance to desertification/land degradation and drought
 The OECD DAC CRS collects activity-level data on activities targeting the environmental objectives of the three Rio conventions (CBD, UNCCD and UNFCCC) through Rio Markers for biodiversity, climate change adaptation, climate change mitigation and desertification. This category can be measured using the Rio Marker for Desertification marker to report on ODA and, where available, on OOF. The OECD Total Official Support for Sustainable Development (TOSSD) dataset include information on support provided by developing countries. Relevant activities can be identified through SDG field (SDG 15.3).
+
 The methodology used to identify DLDD-relevant activities and the classification method used should be clearly explained in the narrative parts of the indicator’s framework and/or in the documentation boxes. 
-Step 2: Estimate trends in bilateral and multilateral public resources
+
+#### Step 2: Estimate trends in bilateral and multilateral public resources
+
 Tier 1 involves reporting trends in the progress indicator in qualitative terms (increasing, stable or declining trends) based on the expert opinion of the reporting Party. Choose the option representing the trend in the international public resources provided and received during the four-year period for activities relevant to the implementation of the Convention in the relevant table. Indicate the general trend within that period, for both tables if your country is both a provider and a recipient. Otherwise, indicate the trend for either one. Select only one option for each table. 
 
+#### Step 3:  Reporting in narrative format
 
-
-
-Step 3:  Reporting in narrative format
 SO5-1 requests descriptive and qualitative information relevant to the international public resources provided and received through bilateral and multilateral channels. The descriptive section may include all information that cannot be reported in tabular format and provide general information on resources provided and received for the implementation of the Convention. 
-Step 4:  Compiling the table
+
+````{admonition}
+---
+class: font-style-italic
+---
+Examples:
+
+International resources provided: […The countries where most projects under the Convention are carried out are Burkina Faso, Ethiopia, Ghana, Mali, Morocco, Mozambique, Niger, Peru, Rwanda, Senegal, and the United Republic of Tanzania.]
+
+International resources received: Trinational project ‘Sustainable Forest Management in the Transboundary Gran Chaco American Ecosystem (Global Environment Facility (GEF)–Gran Chaco)’ – Project ID 2505 GEF of GEF-4 – has a GEF grant of USD 2,663,018 for Argentina, plus 60 % of the regional cost of USD 1,290,909 (approximately USD 774,545).….]
+
+````
+
+#### Step 4:  Compiling the table
+
 Tier 2 involves reporting trends in the progress indicators in a quantitative manner. Under this Tier, country Parties are encouraged to report by recording data about individual projects specific to DLDD. Please compile the table with data at the highest level of disaggregation available. Parties are encouraged to provide activity-level data.
+
 Default data are derived from information reported to the OECD DAC by OECD members based on the desertification Rio Marker;  default data can be amended by the reporting Party as appropriate.
+
 Tier 2 reporting includes: 
-•	Detailed information at projects programmes and/or countries/regions, including amounts.
-•	Aggregate amounts of resources provided and/or received, by year and/or over the four-year period. 
-Parameters
+
+- Detailed information at projects programmes and/or countries/regions, including amounts.
+
+- Aggregate amounts of resources provided and/or received, by year and/or over the four-year period. 
+
+**Parameters**
+
 The table for SO 5-1 provides space to report activities or projects relevant to combating DLDD. While the methodological approach to be chosen by the reporting Party accommodates definitions and methodologies in use, the reporting manual suggests some approaches and definitions for each parameter.
-•	Provided/received: Indicate ‘provided’ if, for the reported activity, the reporting country is the provider of the resources; indicate ‘received’ if your country is the recipient of the resources.
-•	Year: Indicate the year relevant to the reported activity. Explain in the documentation box whether the year refers to the commitment or disbursement year, and if the fiscal or calendar year is used. 
-•	Recipient/provider: Indicate the name of the recipient if the reporting country is the provider of resources; indicate the name of the provider if your country is the recipient of resources. This could include the name of the country or the region; be listed as ‘global’ (bilateral flows); or include the name of the institution and/or entity (multilateral flows).
-•	Title of project, programme, activity or other: In cases of contributions to multilateral development banks/multilateral funds or participation in replenishments of funds, etc.
-•	Total amount in USD: The amounts should be reported in USD; if the reporting country decides otherwise, the approach should be explained clearly in the methodology. This implies the application of an exchange rate to the different domestic currencies. The OECD DAC CRS includes amounts in thousands of USD. The World Bank annual average exchange rate is suggested; please indicate if (and how) a different exchange rate is used. It is possible to report both amounts committed and disbursed for each activity. Committed and disbursed figures cannot be summed up; all reporting shall avoid double-counting across years. From the recipient perspective, the column “committed” can remain empty.
-•	Sector: Four macro sectors are suggested in the table. Crosscutting refers to activities that are addressed to more than one sector. The reporting country has the possibility to indicate other sectors, accommodating possible different reporting standards and practices. The indication of ‘other’ is optional; only the name of the sector is to be included.
-•	Capacity-building: For each activity and to the extent possible, please indicate whether it includes a capacity-building component; if the activity aims, among other things, to build the capacities of the recipient country; and/or if at least part of the budget of the project has been dedicated to capacity-building to address DLDD.
-•	Technology transfer: For each activity and to the extent possible, please indicate whether it includes a technology transfer component; if the activity aims to transfer and develop technologies in the recipient country; and/or if at least part of the budget has been dedicated to transferring technologies to address DLDD. 
-•	Gender equality: For each activity and to the extent possible, indicate whether it targets gender equality. The OECD DAC CRS system includes a gender equality policy marker, which could be a useful indicator to compile this column, as available. 
-•	Channel: Please indicate whether the amounts to be considered are bilateral (country to country), multi-bilateral (a multilateral entity managing a project on behalf of a country providing earmarked funds for that activity), or multilateral. Type of flow: Indicate whether the flow is ODA or OOF. Other categories should be included if a different classification method is employed.
-•	Financial instrument: Please indicate the financial instrument channelling the public resources reported. 
-•	Type of support: Indicate whether the activity is directly or indirectly related to the objectives of the Convention. Reporting this information could be based on the use of principal and significant Rio Markers as in the OECD DAC CRS system, where available. 
-•	Amount mobilized through public interventions: Indicator SO 5-1 provides the space to include information on amounts mobilized from the private sector by official development finance interventions. In this regard, the OECD DAC offers an instrument-specific approach covering all private finance leveraged by public interventions with a direct causality link between flows. A dedicated column in the proposed tabular format is added to facilitate harmonization with the OECD DAC CRS reporting.
-•	Use, impact, (estimated) results: The table provides the space to include additional project-level information about the use of resources, the impact with respect to the objectives of the Convention, and results (estimated if the project did not conclude before the end of the reporting period).
-•	Additional information: please include any other activity-level information that you deem relevant. 
+
+- Provided/received: Indicate ‘provided’ if, for the reported activity, the reporting country is the provider of the resources; indicate ‘received’ if your country is the recipient of the resources.
+
+- Year: Indicate the year relevant to the reported activity. Explain in the documentation box whether the year refers to the commitment or disbursement year, and if the fiscal or calendar year is used. 
+
+- Recipient/provider: Indicate the name of the recipient if the reporting country is the provider of resources; indicate the name of the provider if your country is the recipient of resources. This could include the name of the country or the region; be listed as ‘global’ (bilateral flows); or include the name of the institution and/or entity (multilateral flows).
+
+- Title of project, programme, activity or other: In cases of contributions to multilateral development banks/multilateral funds or participation in replenishments of funds, etc.
+
+- Total amount in USD: The amounts should be reported in USD; if the reporting country decides otherwise, the approach should be explained clearly in the methodology. This implies the application of an exchange rate to the different domestic currencies. The OECD DAC CRS includes amounts in thousands of USD. The World Bank annual average exchange rate is suggested; please indicate if (and how) a different exchange rate is used. It is possible to report both amounts committed and disbursed for each activity. Committed and disbursed figures cannot be summed up; all reporting shall avoid double-counting across years. From the recipient perspective, the column “committed” can remain empty.
+
+- Sector: Four macro sectors are suggested in the table. Crosscutting refers to activities that are addressed to more than one sector. The reporting country has the possibility to indicate other sectors, accommodating possible different reporting standards and practices. The indication of ‘other’ is optional; only the name of the sector is to be included.
+
+- Capacity-building: For each activity and to the extent possible, please indicate whether it includes a capacity-building component; if the activity aims, among other things, to build the capacities of the recipient country; and/or if at least part of the budget of the project has been dedicated to capacity-building to address DLDD.
+
+- Technology transfer: For each activity and to the extent possible, please indicate whether it includes a technology transfer component; if the activity aims to transfer and develop technologies in the recipient country; and/or if at least part of the budget has been dedicated to transferring technologies to address DLDD. 
+
+- Gender equality: For each activity and to the extent possible, indicate whether it targets gender equality. The OECD DAC CRS system includes a gender equality policy marker, which could be a useful indicator to compile this column, as available. 
+
+- Channel: Please indicate whether the amounts to be considered are bilateral (country to country), multi-bilateral (a multilateral entity managing a project on behalf of a country providing earmarked funds for that activity), or multilateral. Type of flow: Indicate whether the flow is ODA or OOF. Other categories should be included if a different classification method is employed.
+
+- Financial instrument: Please indicate the financial instrument channelling the public resources reported. 
+
+- Type of support: Indicate whether the activity is directly or indirectly related to the objectives of the Convention. Reporting this information could be based on the use of principal and significant Rio Markers as in the OECD DAC CRS system, where available. 
+
+- Amount mobilized through public interventions: Indicator SO 5-1 provides the space to include information on amounts mobilized from the private sector by official development finance interventions. In this regard, the OECD DAC offers an instrument-specific approach covering all private finance leveraged by public interventions with a direct causality link between flows. A dedicated column in the proposed tabular format is added to facilitate harmonization with the OECD DAC CRS reporting.
+
+- Use, impact, (estimated) results: The table provides the space to include additional project-level information about the use of resources, the impact with respect to the objectives of the Convention, and results (estimated if the project did not conclude before the end of the reporting period).
+
+- Additional information: please include any other activity-level information that you deem relevant. 
+
 Table 22 below is compiled with some examples:
 
 
