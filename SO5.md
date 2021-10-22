@@ -145,7 +145,7 @@ The table for SO 5-1 provides space to report activities or projects relevant to
 
 Table 22 below is compiled with some examples:
 
-```{flat-table} *__Table 8__. Default reclassification of the European Space Agency Climate Change Initiative Land Cover legend against the seven land cover classes needed for reporting to the UNCCD*
+```{flat-table} *__Table 22__.   Resources provided and received for Bilateral and Multilateral Public Resources*
 ---
 header-rows: 2
 ---
@@ -358,3 +358,70 @@ Tier 1 involves reporting trends in the progress indicator in qualitative terms 
 #### Step 3: Reporting in narrative format
 
 The aim of this section is to provide Parties the space to report on information on the context and complement the reporting against Tier 1 (trends) or Tier 2 (table). 
+
+````{admonition} Box 3
+---
+class: font-style-italic
+---
+Examples: 
+
+- “Public expenditures related to sustainable agriculture in year 2018 increased to USD 168 million.” 
+- “National resources allocated to protection and ecosystem restoration are mainly channeled through the Ministry of Agriculture.”
+- “The budget allocation of the National Directorate for Planning and Environmental Land Management, which carries out the NAP, is included in the National Budget Programme No. 60 for the years 2012, 2013 and 2014.
+- “Data was retrieved directly from published sources of federal, provincial and territorial governments; official data was retrieved from the statistical office.”
+````
+
+#### Step 4:  Compiling the table
+
+Tier 2 involves reporting against the progress indicators in a quantitative manner. Parties are encouraged to provide data on individual policies, measures or activities combating DLDD, as well as government budgetary lines and programmes. In this sense, it is recommended to use a bottom-up, inventory approach for collecting data on DLDD-related projects, programmes, measures, or budget lines supported by domestic public resources. 
+
+**Parameters**
+
+The table for SO 5-2 provides space to report those actions that are considered relevant to combating DLDD. The reporting Party can choose the methodology to accommodate definitions and approaches in use, but the reporting manual suggests some approaches and definitions for each parameter.
+
+- Year: Indicate the year relevant to the reported activity. Explain in the documentation box whether the year refers to the commitment or disbursement year, and if the fiscal or calendar year is used. It is possible to indicate the timeframe rather than a specific year, but this should fall within the reporting period. 
+
+- Amount in USD: The amounts should be reported in USD. If the reporting country decides otherwise, the approach should be explained clearly in the methodology. This implies the application of an exchange rate to the respective domestic currencies. The World Bank annual average exchange rate is suggested; please indicate if (and how) a different exchange rate is used. 
+- Additional information: Please include any other activity-level information that you deem relevant, including the title of the measure, budget lines or activity funded.  
+
+Table 23 below is populated with some examples (further rows can be added):
+
+```{flat-table} *__Table 23__.  Resources provided received, and required for domestic public resources*
+---
+header-rows: 2
+---
+* - 
+  - Year
+  - Amount in USD
+  - Additional information
+* - Government expenditures
+  - 
+  - 
+  - 
+* - {cspan}`2` Directly related to combating DLDD
+  - 2017
+  - USD 163,000
+  - Design phase to support the incorporation of the Indigenous Desert Alliance as a legal entity. Secondment of an executive staff member for six months
+* - 2017–2020
+  - USD 118,000
+  - In-kind contribution to the GEF project 5018 “Revision and Alignment of National Action Program with UNCCD 10 Years Strategic Plan and Framework”
+* - 2018
+  - USD 3,400,000
+  - PPP DLDD – public contribution to the PPP**. Grant funding
+* - Indirectly related to combating DLDD
+  - 2018
+  - USD 8,959,024
+  - Co-financing of the GEF project “Incentives for the Conservation of Ecosystem Services of Global Significance”
+* - __Subsidies__
+  - 
+  - 
+  - 
+* - {cspan}`1` Subsidies related to combating DLDD
+  - 2020
+  - USD 12,500,000
+  - Government subsidy for agricultural land restoration – land conservation
+* - 2018-2020
+  - USD 5,600,000
+  - Property tax exemption for private land
+  
+  
