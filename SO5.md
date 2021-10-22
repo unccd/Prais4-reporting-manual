@@ -145,6 +145,69 @@ The table for SO 5-1 provides space to report activities or projects relevant to
 
 Table 22 below is compiled with some examples:
 
+```{flat-table} *__Table 8__. Default reclassification of the European Space Agency Climate Change Initiative Land Cover legend against the seven land cover classes needed for reporting to the UNCCD*
+---
+header-rows: 2
+---
+* - Provided/received
+* - Year
+* - Recipient/provider
+* - Title of project, programme, activity or other
+* - Total amount USD
+* - Sector
+* - Capacity-building
+  - Technology transfer
+  - Gender equality
+  - Channel
+  - Type of flow
+  - Financial instrument
+  - Type of support
+  - Amount mobilized through public interventions
+  - Use, impact, (estimated) results
+  - Additional information
+* - P/R
+  - 20XX
+    - Recipient/provider country, region, global recipient/provider institution, entity
+    - 
+  - Committed
+  - Disbursed/received
+  - Agriculture, forestry, water and sanitation, cross-cutting, other (specify)
+  - Yes, no
+  - Yes, no
+  - Yes, no
+  - Bilateral, multilateral (core contribution) multilateral (DLDD-specific) multi-bilateral, other (specify)
+  - ODA, OOF other (specify)
+  - Grant, concessional loan, non-concessional loan, equity guarantee/insurance, other (specify)
+  - Directly or indirectly related to DLDD
+  - 
+  - 
+  - 
+* - P
+  - 19
+  - Ethiopia
+  - UNEP Conservation of Biodiversity
+  - 1,400,000	800,000
+  - Other (environmental protection)
+  - Yes
+  - No
+  - No
+  - Multi-bilateral
+  - ODA
+  - Loan
+  - Indirectly
+  - -
+  - …
+  - …
+
+
+
+
+* - {cspan}`1` UNCCD
+  - {cspan}`1` European Space Agency 
+    Climate Change Initiative Land Cover
+* - Code
+  - Label
+  - Code
 
 ```{list-table} *__Table 7__. Example of degradation processes that may be identified by a country and the corresponding land cover transitions*
 ---
