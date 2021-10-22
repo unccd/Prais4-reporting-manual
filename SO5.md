@@ -284,28 +284,77 @@ header-rows: 2
   - 120,000
   - The project led to concrete results…
   - The project objectives and structure involved…
-* - {cspan}`3` Total 2016
+* - {cspan}`3` Total 2016[^1]
   - xxx
   - xxx
   - {cspan}`10`
-* - {cspan}`3` Total 2017
+* - {cspan}`3` Total 2017[^1]
   - xxx
   - xxx
   - {cspan}`10`
-* - {cspan}`3` Total 2018
+* - {cspan}`3` Total 2018[^1]
   - xxx
   - xxx
   - {cspan}`10`
-* - {cspan}`3` Total 2019
+* - {cspan}`3` Total 2019[^1]
   - xxx
   - xxx
   - {cspan}`10`
-* - {cspan}`3` Total resources provided
-  - xxx
-  - xxx
+* - {cspan}`3` Total resources provided[^1]
+  - Σ
+  - Σ
   - {cspan}`10`
-* - {cspan}`3` Total resources received
-  - xxx
-  - xxx
+* - {cspan}`3` Total resources received[^1]
+  - Σ
+  - Σ
   - {cspan}`10`
 ```
+
+[^1]: If disaggregated information is not available, the Party can report only the total amount or the total amounts per year.
+
+**Aggregating the information**
+
+The aggregation of figures should include all quantified resources reported in tabular format. It is possible to aggregate figures by status (committed and disbursed) and by year. It is recommended to then aggregate figures for the four-year period to generate a total figure for international resources.  
+
+Aggregation of figures must avoid double-counting across the table and the other indicators. 
+
+#### Step 5: Use of documentation box 
+
+The aim of the documentation box is to provide space to report necessary definitions and methodologies employed for each parameter compiled in the table and included in the description, as relevant. When an internationally agreed standard is used, it is possible to provide the relevant reference. 
+
+## 5.2. SO5-2 – Domestic public resources
+
+### 5.2.1. Introduction
+
+Domestic resources are at the core of the implementation of the Convention. This indicator aims at creating an overview of the resources available at national level by measuring the effort that the national public sector is undertaking in increasing resources for the implementation of the Convention. 
+
+This progress indicator is concerned with domestic resources mobilized and spent by government agencies at different levels (e.g., central, state, and local governments) on activities, projects, policies, and measures to pursue the objectives of the Convention. 
+
+The indicator also aims to collect information on public revenues, such as environmental taxes on land-degrading activities and resources collected through mechanisms to influence the behavior of the various entities in the economy regarding DLDD (i.e., incentives). 
+
+Reporting countries can choose to take advantage of the Tier approach, in line with the capacities and data availability in the reporting country. It will be possible to compile only Tier 1 (including the narrative description and the indication of trends) or both Tier 1 and Tier 2 (including the compilation of the table with more detailed quantitative data).  
+
+Tier 1 involves reporting trends in this progress indicator in qualitative terms (i.e., increasing, stable or declining trends).  
+Tier 2 aims to collect information at the highest disaggregation level available. Countries are encouraged to report using Tier 2. 
+ 
+### 5.2.2. Reporting process and step-by-step procedure
+
+#### Step 1: Identification of relevant data
+
+Data relevant to this indicator are usually collected at central government level, often from the ministries of economy and finance, ministries of environment and ministries of agriculture and forestry, as well as Environmental Agencies. 
+
+Government budgets do not often include clear information on resources specific to land degradation. Moreover, resources indirectly allocated to activities that promote land rehabilitation could be integrated in sectoral policies. Thus, an inventory approach could be taken in accordance with the agreed definition of DLDD. More broadly, further insights on relevant measures and actions are provided by the Convention, in particular Articles 10.3 and 10.4. Significant international references are the UN SEEA, the CEPA classification system and the IMF GFS database. 
+
+The indicator also aims at collecting information on domestic public revenues collected through measures and actions aimed at incentivizing behavior consistent with combating land degradation. Those may include environment-related tax revenues on natural resources, environmental taxes etc.
+
+The reference data sources are central government administrations and national statistical offices. A significant international reference data source is the OECD Policy Instruments for the Environment database[^3]. 
+
+[^3]: The database is freely accessible at www.oecd.org/env/policies/database
+
+#### Step 2: Estimate trends in domestic public resources
+
+Tier 1 involves reporting trends in the progress indicator in qualitative terms (i.e., increasing, stable or declining trends) based on the expert opinion of the reporting Party. Choose the option representing the trend for the entire reporting period in the relevant table. Indicate the trend in both tables if your country provides information on both expenditures and revenues. Otherwise, indicate the trend for either one. Select only one option for each table.
+
+#### Step 3: Reporting in narrative format
+
+The aim of this section is to provide Parties the space to report on information on the context and complement the reporting against Tier 1 (trends) or Tier 2 (table). 
