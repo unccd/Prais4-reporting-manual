@@ -186,7 +186,8 @@ header-rows: 2
   - 19
   - Ethiopia
   - UNEP Conservation of Biodiversity
-  - 1,400,000	800,000
+  - 1,400,000	
+  - 800,000
   - Other (environmental protection)
   - Yes
   - No
@@ -198,41 +199,113 @@ header-rows: 2
   - -
   - …
   - …
-
-
-
-
-* - {cspan}`1` UNCCD
-  - {cspan}`1` European Space Agency 
-    Climate Change Initiative Land Cover
-* - Code
-  - Label
-  - Code
-
-```{list-table} *__Table 7__. Example of degradation processes that may be identified by a country and the corresponding land cover transitions*
----
-header-rows: 2
-widths: 1 1 1
----
-* - Degradation process
-  - Starting land cover state
-  - Ending land cover state
-* - Urban expansion
-  - Grassland, cropland, other land
-  - Settlements
-* - Deforestation
-  - Forest land
-  - Grassland, cropland, settlements
-* - Vegetation loss (other)
-  - Forest land, grassland, cropland
-  - Other land
-* - Inundation
-  - Vegetated, settlements, bare soil
-  - Wetland
-* - Woody encroachment
-  - Wetland, grassland
-  - Forest land
-* - Wetland drainage
-  - Wetland
-  - Grassland, cropland, settlements, other land
+* - P
+  - 20
+  - Ethiopia
+  - UNEP Conservation of Biodiversity
+  - 
+  - 600,000
+  - Other (environmental protection)
+  - Yes
+  - No
+  - No
+  - Multi-bilateral
+  - ODA
+  - Loan
+  - Indirectly
+  - -
+  - …
+  - …
+* - R
+  - 17-20
+  - GEF
+  - Revision and Alignment of the NAP with the UNCCD Strategic Plan
+  - 150,000
+  - 150,000
+  - Biosphere protection
+  - Yes
+  - No
+  - Yes
+  - Multilateral
+  - ODA
+  - Grant
+  - Directly
+  - -
+  - Description
+  - Description 
+* - R
+  - 17
+  - GEF
+  - Revision and Alignment of the NAP with the UNCCD Strategic Plan
+  - 150,000
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  -  
+* - R
+  - 17
+  - GEF
+  - Revision and Alignment of the NAP with the UNCCD Strategic Plan
+  - 
+  - 150,000
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  -  
+* - P
+  - 18
+  - Ghana
+  - Land Management
+  - 325,000
+  - 325,000
+  - Other (Biosphere protection)
+  - Yes
+  - No
+  - Yes
+  - Bilateral
+  - ODA
+  - Grant
+  - Directly
+  - 120,000
+  - The project led to concrete results…
+  - The project objectives and structure involved…
+* - {cspan}`3` Total 2016
+  - xxx
+  - xxx
+  - {cspan}`10`
+* - {cspan}`3` Total 2017
+  - xxx
+  - xxx
+  - {cspan}`10`
+* - {cspan}`3` Total 2018
+  - xxx
+  - xxx
+  - {cspan}`10`
+* - {cspan}`3` Total 2019
+  - xxx
+  - xxx
+  - {cspan}`10`
+* - {cspan}`3` Total resources provided
+  - xxx
+  - xxx
+  - {cspan}`10`
+* - {cspan}`3` Total resources received
+  - xxx
+  - xxx
+  - {cspan}`10`
 ```
