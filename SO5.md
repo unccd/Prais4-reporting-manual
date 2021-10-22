@@ -446,4 +446,55 @@ header-rows: 2
                ** The private contribution to this PPP is reported under SO 5-3.
 ````
 
+**Aggregating the information**
+
+A total figure for government expenditures, including subsidies and other transfers, will be computed automatically. Thus, avoiding any double counting between these categories is recommended.  A separate total figure for government revenues and other transfers will be automatically calculated. Subtotal figures by year are also envisaged for this reporting table. 
+
+#### Step 5: Use of documentation box 
+
+The aim of the documentation box is to provide space to report the necessary definitions and methodologies employed for each relevant parameter included in the table and the description, as relevant. When an international agreed standard is used, it is possible to provide the relevant reference. 
+
+#### Step 6: Qualitative question
+
+The reporting Party is invited to share information on whether it set a target for domestic resource mobilization. If yes, provide further details on the features of this target, the timing, and the progress monitoring process. 
+
+## 5.3. SO5-3 – International and domestic private resources
+
+### 5.3.1. Introduction
+
+The indicator aims at monitoring private resources mobilized by the private sector of the reporting Party for activities and investments ‘at home’ (domestic) and in third countries (international). The scope of this indicator encompasses financing by all private sector organizations including corporations (e.g., private sector funds), households and non-profit organizations (e.g., philanthropic foundations) from domestic and international sources. Such private sources of financing provide resources in the form of concessional and non-concessional resources to implement the Convention.  
+
+The indicator allows for reporting on innovative sources of finance and the number of co-financing partners, for those related to the private sector. Further information related to co-financing and innovative sources of finance in the public sector could be reported under the previous two indicators.
+
+The reporting country should select the most relevant Tier approach based on the capacities and data available. 
+
+### 5.3.2. Prerequisites for reporting
+
+- Institutional arrangements in place for the collection of financial data on private resources allocated to combat DLDD.  
+
+- Capacity to access commercial databases to analyse private sector reports and dedicated case studies.
+
+- Mechanisms to involve private actors in the compilation of the information. 
+
+### 5.3.3. Reporting process and step-by-step procedure
+
+The UNCCD offers the option to report on SO 5-3 both in qualitative and quantitative terms, subject to data availability. No default data will be provided against this indicator. 
+
+#### Step 1: Identification of relevant data
+
+Data relevant to this indicator are usually collected at central government level (in turn also from local authorities). Parties are encouraged to make their best efforts to provide information at the highest disaggregation level available. **Relevance to desertification/land degradation and drought**
+
+The relevance of funded activities, projects or investments of the private sector should be consistent with the DLDD-relevance criteria employed to report against the other indicators for monitoring domestic and international resource flows. 
+
+**Flows**
+
+OECD statistics on development finance (from the CRS) include activity-level data on funds from around 40 of the largest philanthropic foundations, many of which provide finance for environmental objectives.  The OECD statistics on the amounts mobilized from the private sector also provide insights on international private sector contributions for development, including for SDG 14 and 15.  
+
+ #### Step 2: Estimate trends in international and domestic private resources.
+
+Tier 1 involves reporting trends in the progress indicator in qualitative terms (i.e., increasing, stable or declining trends) based on the expert opinion of the reporting Party. Choose the option representing the trend in the international private resources and domestic private resources for activities relevant to the implementation of the Convention in the relevant table for the four-year period. Select only one option for each table. 
+
+#### Step 3: Reporting in narrative format
+
+SO5-3 requests the provision of relevant descriptive and qualitative information. The aim of this section is to provide Parties the space to report on information on the context and complement the reporting against Tier 1 (trends) or Tier 2 (table). 
 
