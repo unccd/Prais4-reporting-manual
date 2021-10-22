@@ -51,10 +51,7 @@ To report against the SO 5-1 indicator, Parties should look at official public f
 
 Official transactions are those undertaken by central, state, or local government agencies at their own risk and responsibility. In case an activity or project is funded by different sources of funding – for example, through both public and private resources – it is recommended to report the amount of public resources under the SO 5-1 indicator and the amount of private resources under the SO 5-3 indicator. This would lead to double reporting (the Party would replicate some information related to the relevant project in two separate tables) but would avoid the double-counting of amounts. 
 
-
-
-
-````{admonition}aa
+````{admonition}
 ---
 class: font-style-italic
 ---
