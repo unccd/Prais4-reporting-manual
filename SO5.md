@@ -1,6 +1,6 @@
 # 5. Strategic objective 5: To mobilize substantial and additional financial and non-financial resources to support the implementation of the Convention by building effective partnerships at global and national level
 
-#### Introduction
+### Introduction
 
 The strategic objective (SO) 5 indicator framework aims to enable Parties to report quantitative and qualitative information on financial and non-financial resources dedicated to supporting the implementation of the Convention. The set of indicators aims at comprehensive reporting. 
 
@@ -10,11 +10,11 @@ Identification of resources specific to DLDD or tracking resources for the imple
 
 This section of the user manual does not provide a prescriptive definition of which activities can be accounted for as being DLDD-relevant, nor does it exclude any; however, it includes activities, examples, and options as well as a non-exhaustive list of DLDD activities, which might be useful references for the identification of relevant activities. It is up to the reporting Party to provide insights on how those activities are chosen as relevant and explain the methodology used. 
 
-#### Structure and aim of the SO 5 indicator framework
+### Structure and aim of the SO 5 indicator framework
 
 The indicator framework considers the current reporting experiences under the other Rio conventions. It has been revised taking into account the measurement, reporting and verification system under the United Nations Framework Convention on Climate Change (UNFCCC) (with its current Biennial Update Reports), the National Communications templates, and the most recent updates regarding the enhanced transparency framework under the Paris Agreement and the financial reporting framework under the Convention on Biological Diversity (CBD), with the aim of increasing synergies in data collection and reporting.
 
-#### Tier approach for SO 5
+### Tier approach for SO 5
 
 The SO 5 indicator framework offers flexibility by introducing Tiers, facilitating the reporting for those Parties that lack quantitative and/or detailed data. 
 
@@ -23,20 +23,35 @@ Tier 1 reporting includes descriptive and qualitative information relevant to th
 Tier 2 reporting is additional to Tier 1 reporting and provides a tabular format to be filled in along 16 parameters included in the columns. Tier 2 aims to collect more detailed quantitative and descriptive information at the highest disaggregation level available. The table should be complemented by information on definitions and methodologies used for the relevant parameters to be included in the documentation box. Relevant resources and databases should be included in each indicator, providing references for data sources, definitions, and methodologies in support of the reporting. 
 
 
-5.1. SO 5-1 – Bilateral and multilateral public resources
-5.1.1. Introduction
-This indicator aims to capture information on international resources provided and received through bilateral and multilateral channels. The indicator envisages reporting of information on the trends over the four -year period (Tier 1) and additional quantitative data at disaggregated level in tabular format (Tier 2). Default data will be provided based on the desertification Rio Marker of the OECD, when available . 
+## 5.1. SO 5-1 – Bilateral and multilateral public resources
 
-5.1.2. Prerequisites for reporting
+### 5.1.1. Introduction
+
+This indicator aims to capture information on international resources provided and received through bilateral and multilateral channels. The indicator envisages reporting of information on the trends over the four -year period (Tier 1) and additional quantitative data at disaggregated level in tabular format (Tier 2). Default data will be provided based on the desertification Rio Marker of the OECD, when available[^1].
+
+[^1]: For methodological information see Methodological Note. 
+
+### 5.1.2. Prerequisites for reporting
+
 Institutional arrangements to collect data on international financial and non-financial resources provided and received through bilateral and multilateral channels for the implementation of the Convention. Data on international support provided to and received by third countries are often collected by a country’s ministry of foreign affairs, development agencies or national statistical offices. Countries reporting according to the OECD DAC Creditor Reporting System (CRS) count on a relevant source of data. If information on the relevance of resources provided and received specific for DLDD is not available, the country is encouraged to set up relevant institutional arrangements to start collecting this information.
-5.1.3. Reporting process and step-by-step procedure
+
+### 5.1.3. Reporting process and step-by-step procedure
+
 If the default data is used, Parties are encouraged to verify the information and amend as necessary, or complement the default data with additional information. Further rows can be added.
+
 The reporting steps are described in the following sections.
-Step 1: Identification of relevant data
+
+#### Step 1: Identification of relevant data
+
 If your country is both a provider and a recipient of international public bilateral and/or multilateral resources, you are encouraged to provide information on both.
-Flows 
+
+**Flows** 
+
 To report against the SO 5-1 indicator, Parties should look at official public flows from international sources. This category tracks primarily resource flows between countries in the form of ‘official development assistance’ (ODA) and ‘other official flows’ (OOF). Both providers and recipients of international public support draw upon the OECD DAC system as a dataset that can be consulted from both the provider and recipient perspectives.
+
 Official transactions are those undertaken by central, state, or local government agencies at their own risk and responsibility. In case an activity or project is funded by different sources of funding – for example, through both public and private resources – it is recommended to report the amount of public resources under the SO 5-1 indicator and the amount of private resources under the SO 5-3 indicator. This would lead to double reporting (the Party would replicate some information related to the relevant project in two separate tables) but would avoid the double-counting of amounts. 
+
+
 
 Relevance to desertification/land degradation and drought
 The OECD DAC CRS collects activity-level data on activities targeting the environmental objectives of the three Rio conventions (CBD, UNCCD and UNFCCC) through Rio Markers for biodiversity, climate change adaptation, climate change mitigation and desertification. This category can be measured using the Rio Marker for Desertification marker to report on ODA and, where available, on OOF. The OECD Total Official Support for Sustainable Development (TOSSD) dataset include information on support provided by developing countries. Relevant activities can be identified through SDG field (SDG 15.3).
