@@ -146,3 +146,30 @@ The table for SO 5-1 provides space to report activities or projects relevant to
 Table 22 below is compiled with some examples:
 
 
+```{list-table} *__Table 7__. Example of degradation processes that may be identified by a country and the corresponding land cover transitions*
+---
+header-rows: 2
+widths: 1 1 1
+---
+* - Degradation process
+  - Starting land cover state
+  - Ending land cover state
+* - Urban expansion
+  - Grassland, cropland, other land
+  - Settlements
+* - Deforestation
+  - Forest land
+  - Grassland, cropland, settlements
+* - Vegetation loss (other)
+  - Forest land, grassland, cropland
+  - Other land
+* - Inundation
+  - Vegetated, settlements, bare soil
+  - Wetland
+* - Woody encroachment
+  - Wetland, grassland
+  - Forest land
+* - Wetland drainage
+  - Wetland
+  - Grassland, cropland, settlements, other land
+```
