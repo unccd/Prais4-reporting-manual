@@ -15,6 +15,8 @@ PRAIS4 Reporting Manual
    SO2
    SO3
    SO4
+   SO5
    voluntary_targets_and_others
+   implementationFramework
    annex_I
    annex_II
