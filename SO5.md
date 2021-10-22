@@ -488,7 +488,11 @@ The relevance of funded activities, projects or investments of the private secto
 
 **Flows**
 
-OECD statistics on development finance (from the CRS) include activity-level data on funds from around 40 of the largest philanthropic foundations, many of which provide finance for environmental objectives.  The OECD statistics on the amounts mobilized from the private sector also provide insights on international private sector contributions for development, including for SDG 14 and 15.  
+OECD statistics on development finance (from the CRS) include activity-level data on funds from around 40 of the largest philanthropic foundations, many of which provide finance for environmental objectives[^4].  The OECD statistics on the amounts mobilized from the private sector also provide insights on international private sector contributions for development, including for SDG 14 and 15[^5].  
+
+[^4]: See https://www.oecd.org/development/financing-sustainable-development/development-finance-standards/beyond-oda-foundations.htm.
+[^5]: See https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/mobilisation.htm.
+
 
  #### Step 2: Estimate trends in international and domestic private resources.
 
@@ -497,4 +501,37 @@ Tier 1 involves reporting trends in the progress indicator in qualitative terms 
 #### Step 3: Reporting in narrative format
 
 SO5-3 requests the provision of relevant descriptive and qualitative information. The aim of this section is to provide Parties the space to report on information on the context and complement the reporting against Tier 1 (trends) or Tier 2 (table). 
+
+````{admonition} Box 4
+---
+class: font-style-italic
+---
+Examples:
+
+“The reporting country undertook important public–private partnerships with [the recipient country] and [the third country’s] private companies. These have been mobilizing XY euros to pursue…”
+
+“Non-governmental organizations (NGOs) are funded at 80% by public sources and they need to co-finance 20% of each project/programme (own contribution). This means that besides the development cooperation budget, the NGOs are the most important co-financing partners for activities relevant to the implementation of the Convention. These contributions come from the private sector, private donations, other donors and the European Union.”
+````
+
+#### Step 4: Compiling the table
+
+**Parameters**
+
+The table for SO 5-3 provides space to report at project level (or at the highest level of disaggregation available) on actions, investments or programmes that are considered relevant to combating desertification. The reporting Party can choose the methodology to accommodate definitions in use, but the reporting manual suggests some approaches for each parameter. Reporting countries are encouraged to clearly explain the definitions used.
+
+- Year: Indicate the year relevant to the reported activity. Explain whether the fiscal or calendar year is used. 
+
+- Title of project, programme, activity or other: This field includes the title of the project or activity, as well as the type of investment and initiative. 
+
+- Total amount in USD: The amounts should be reported in USD; if the reporting country decides otherwise, the approach should be explained clearly in the methodology. This implies the application of an exchange rate to the different domestic currencies. The World Bank annual average exchange rate is suggested; please indicate if (and how) a different exchange rate is used. 
+
+- Financial instrument: Please indicate the financial instrument channelling the private resources reported. 
+
+- Type of institution:  Indicate which private entity is extending the resources relevant to DLDD.
+
+- Recipient/domestic: Indicate the recipient’s name if the reporting country’s private sector contribution is addressed to a recipient third country; indicate ‘domestic’ if the private sector of the reporting country provides contributions to activities in the reporting country itself.
+
+- Additional information: Please include any other activity-level information that you deem relevant, including the name of the private sector entity, details on the recipient and the description of the activity. 
+
+Table 24 below is populated with some examples (further rows can be added):
 
