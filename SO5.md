@@ -51,23 +51,23 @@ To report against the SO 5-1 indicator, Parties should look at official public f
 
 Official transactions are those undertaken by central, state, or local government agencies at their own risk and responsibility. In case an activity or project is funded by different sources of funding – for example, through both public and private resources – it is recommended to report the amount of public resources under the SO 5-1 indicator and the amount of private resources under the SO 5-3 indicator. This would lead to double reporting (the Party would replicate some information related to the relevant project in two separate tables) but would avoid the double-counting of amounts. 
 
-````{admonition}
+````{admonition} Box 1
 ---
 class: font-style-italic
 ---
 Examples:
 For providers: 
 
-•	Public financial contributions provided to developing countries’ governments and implementing agencies.
-•	Quantified in-kind contributions provided to projects in developing countries.
-•	Public financial resources for technical assistance.
-•	Support to projects including a component of technology development and transfer in developing countries.
-•	Contributions to United Nations agencies. 
+- Public financial contributions provided to developing countries’ governments and implementing agencies.
+- Quantified in-kind contributions provided to projects in developing countries.
+- Public financial resources for technical assistance.
+- Support to projects including a component of technology development and transfer in developing countries.
+- Contributions to United Nations agencies. 
 
 For recipients: 
 
-•	International financial contributions received by central or local governments and implementing agencies.
-•	Financial contributions received from third countries’ governments or multilateral organizations, funds, or United Nations agencies.
+- International financial contributions received by central or local governments and implementing agencies.
+- Financial contributions received from third countries’ governments or multilateral organizations, funds, or United Nations agencies.
 
 ````
 
@@ -85,7 +85,7 @@ Tier 1 involves reporting trends in the progress indicator in qualitative terms 
 
 SO5-1 requests descriptive and qualitative information relevant to the international public resources provided and received through bilateral and multilateral channels. The descriptive section may include all information that cannot be reported in tabular format and provide general information on resources provided and received for the implementation of the Convention. 
 
-````{admonition}
+````{admonition} Box 2
 ---
 class: font-style-italic
 ---
