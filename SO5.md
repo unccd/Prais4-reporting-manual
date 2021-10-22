@@ -53,6 +53,29 @@ Official transactions are those undertaken by central, state, or local governmen
 
 
 
+
+````{admonition}
+---
+class: font-style-italic
+---
+Examples:
+For providers: 
+
+•	Public financial contributions provided to developing countries’ governments and implementing agencies.
+•	Quantified in-kind contributions provided to projects in developing countries.
+•	Public financial resources for technical assistance.
+•	Support to projects including a component of technology development and transfer in developing countries.
+•	Contributions to United Nations agencies. 
+
+For recipients: 
+
+•	International financial contributions received by central or local governments and implementing agencies.
+•	Financial contributions received from third countries’ governments or multilateral organizations, funds, or United Nations agencies.
+
+````
+
+
+
 Relevance to desertification/land degradation and drought
 The OECD DAC CRS collects activity-level data on activities targeting the environmental objectives of the three Rio conventions (CBD, UNCCD and UNFCCC) through Rio Markers for biodiversity, climate change adaptation, climate change mitigation and desertification. This category can be measured using the Rio Marker for Desertification marker to report on ODA and, where available, on OOF. The OECD Total Official Support for Sustainable Development (TOSSD) dataset include information on support provided by developing countries. Relevant activities can be identified through SDG field (SDG 15.3).
 The methodology used to identify DLDD-relevant activities and the classification method used should be clearly explained in the narrative parts of the indicator’s framework and/or in the documentation boxes. 
