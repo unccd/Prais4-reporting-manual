@@ -398,7 +398,7 @@ header-rows: 2
   - 
   - 
   - 
-* - {cspan}`2` Directly related to combating DLDD
+* - {rspan}`2` Directly related to combating DLDD
   - 2017
   - USD 163,000
   - Design phase to support the incorporation of the Indigenous Desert Alliance as a legal entity. Secondment of an executive staff member for six months
@@ -416,12 +416,34 @@ header-rows: 2
   - 
   - 
   - 
-* - {cspan}`1` Subsidies related to combating DLDD
+* - {rspan}`1` __Subsidies related to combating DLDD__
   - 2020
   - USD 12,500,000
   - Government subsidy for agricultural land restoration – land conservation
 * - 2018-2020
   - USD 5,600,000
   - Property tax exemption for private land
-  
-  
+* - Other transfers
+  - 
+  - 
+  - 
+* - {cspan}`3` Total expenditures/total expenditures per year
+* - __Government revenues__
+  - 
+  - 
+  - 
+* - Environmental taxes for the conservation of land resources and taxes related to combating DLDD
+  - 2019
+  - USD 150,000,000
+  - Tax increase on royalties in the mining sector. Indirectly related to DLDD
+* - Other transfers
+  - 
+  - 
+  - 
+* - {cspan}`3` Total revenues/total revenues per year
+* - {cspan}`3` Footnotes:
+
+               ** The private contribution to this PPP is reported under SO 5-3.
+````
+
+
