@@ -535,3 +535,72 @@ The table for SO 5-3 provides space to report at project level (or at the highes
 
 Table 24 below is populated with some examples (further rows can be added):
 
+```{flat-table} *__Table 24__. Resources provided and received for International and Domestic private resources *
+---
+header-rows: 2
+---
+* - Year
+  - 
+  - Title of project, programme, activity or other
+  - Total amount in USD
+  - Financial instrument
+  - Type of institution
+  - Recipient/domestic 
+  - Additional information
+* - 
+  - 
+  - 
+  - 
+  - Charitable grant, commercial loans, private export credit, private equities, private insurance, other (specify
+  - Philanthropic foundation, non-profit institution, pension fund, private corporation, other (specify)
+  - 
+* - 2018
+  - 
+  - PPP **
+  - 2,500,000
+  - Commercial loan
+  - Private corporation
+  - Domestic mobilization
+  - Private loan blended with public grant funding
+* - 2018–2020
+  - 
+  - Risk mitigation instrument for land restoration
+  - 3,000,000
+  - Private equity
+  - Pension fund
+  - Latin America
+  - The Risk Mitigation Instrument for Land Restoration project combines a grant of USD X million with USD 3 million in private equity to deploy innovative risk mitigation instruments to restore degraded lands in Latin America.
+* - 2019
+  - 
+  - Desertification and Sandstorm Disaster Prevention and Control Project in the Western Region
+  - 1,400,000
+  - Commercial loan
+  - Private corporation
+  - Domestic mobilization
+  - Executing agency: XY Ecology Technology Co. Ltd.
+* - __Total international__	
+  - 
+  - 
+  - xxx
+  - 
+  - 
+  - 
+  - 
+* - Total domestic							
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+* - Total per year			yyy				
+  - 
+  - 
+  - xxx
+  - 
+  - 
+  - 
+  - 
+```
+** The public contribution to the PPP is reported under SO 5-2.
