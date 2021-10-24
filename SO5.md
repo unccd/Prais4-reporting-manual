@@ -150,12 +150,12 @@ Table 22 below is compiled with some examples:
 header-rows: 2
 ---
 * - Provided/received
-* - Year
-* - Recipient/provider
-* - Title of project, programme, activity or other
-* - Total amount USD
-* - Sector
-* - Capacity-building
+  - Year
+  - Recipient/provider
+  - Title of project, programme, activity or other
+  - Total amount USD
+  - Sector
+  - Capacity-building
   - Technology transfer
   - Gender equality
   - Channel
@@ -594,13 +594,206 @@ header-rows: 2
   - 
   - 
   - 
-* - Total per year			yyy				
+* - Total per year				
   - 
   - 
-  - xxx
+  - yyy
   - 
   - 
   - 
   - 
 ```
 ** The public contribution to the PPP is reported under SO 5-2.
+
+**Aggregating the information**
+
+Figures will be aggregated as totals by geography (one figure for domestic private resources, one figure for international private resources) and subtotals per year.  Aggregation by financial instrument could also be meaningful information to gather, considering the wide range of instruments and their role within the DLDD financing landscape at domestic and international level. 
+
+Aggregation of figures must avoid double-counting across the table and the other indicators. 
+
+#### Step 5: Reporting methodological information
+
+Unlike indicators SO 5-1 and SO 5-2 (which include a documentation box), the SO 5-3 indicator includes a separate question for the methodological information. This different approach leaves further flexibility for reporting countries regarding the requisite information and how to structure and elaborate on it, considering that reporting on domestic and international private resources may vary significantly from country to country.
+
+## 5.4. SO5-4 – Technology transfer
+
+### 5.4.1. Introduction
+
+The Convention explicitly requires Parties to promote, finance and facilitate the financing of the transfer, acquisition, adaptation and development of environmentally sound, economically viable and socially acceptable technologies relevant to combating desertification and/or mitigating the effects of drought; and encourages the facilitation of technology cooperation among affected country Parties through financial assistance or other appropriate means, and through international cooperation (Article 20). 
+
+This indicator aims at collecting information from Parties on resources allocated to the transfer of technologies to implement the Convention, both provided to and received from other countries. Moreover, it provides the space to report on technology transfer requirements, both in a qualitative and quantitative manner.
+
+### 5.4.2. Prerequisites for reporting
+
+- Access to databases which allow for the identification of DLDD-related projects or activities that include a technology transfer component.
+
+- Capacity to undertake an inventory or a case-by-case approach if available data do identify technology transfer projects that address DLDD. 
+
+- Capacity to select the most significant projects and activities focusing on technology transfer or including a technology transfer component and provide information on those selected projects. 
+
+### 5.4.3. Reporting process and step-by-step procedure
+
+The UNCCD offers the option to report on SO 5-4 both in qualitative and quantitative terms, subject to data availability. No default data will be provided against this indicator. 
+
+#### Step 1: Identification of relevant data
+
+There is currently no defined methodology for identifying DLDD-relevant activities that include a technology transfer component or are specifically aimed at transferring or developing technologies to combat DLDD; however, the template may accommodate different approaches.
+
+The suggested approach is to draw upon the OECD DAC CRS database for ODA flows, OOF, and Private development finance and the Rio Marker for desertification, and select projects specifically aimed at transferring or developing technologies to combat DLDD or with a relevant component. It is possible to consider resources extended to teaching institutions, research institutes and similar agencies. There are potential interlinkages with projects dealing with technologies for climate adaptation, for which taxonomies and classifications are available[^6],  which could serve as a reference for the identification of relevant technologies. 
+
+[^6]: https://tech-action.unepdtu.org/wp-content/uploads/sites/2/2021/04/report-on-taxonomy-of-climate-change-adaptation-technology-including-factsheets-finalbrief-tna-adaptation-taxonomy.pdf.
+
+#### Step 2: Estimate trends in technology transfer resources provided and received
+
+Choose the option representing the trend in the international resources provided and received for technology transfer activities for the implementation of the Convention in the relevant table for the four-year period. Indicate the general trend within this period, for both tables if your country is both a provider and a recipient. Otherwise, indicate the trend for either one. Select only one option for each table. 
+
+#### Step 3: Reporting in narrative format
+
+The aim of this section is to provide Parties the space to report information on context and complement the reporting against Tier 1 (trends) or Tier 2 (table). 
+
+The description may include: 
+
+- Strategies employed to support technology development and transfer, including case studies. 
+
+- Support for the development and enhancement of in-country capacities and technologies.
+
+- Resources provided, received, and required for the use and dissemination of modern technology for the collection, transmission, and assessment of data on land degradation.
+
+- Measures to facilitate the adaptation of technology, knowledge, know-how and practices to wide use and integration with modern technology.
+
+- How Parties cooperate internationally in the fields of technology transfer as well as scientific research and development.
+
+- Efforts to encourage private sector activities related to technology development and transfer and how such efforts support developing country Parties.
+
+#### Step 4: Compiling the table
+
+Under Tier 2, country Parties are encouraged to report by recording data about individual projects aimed at transferring technologies to combat DLDD. The table is to be compiled either seeking to provide a complete picture on technology transfer activities; or with selected projects and measures for which more detailed information is available. In fact, it is possible to use the SO 5-1 technology transfer parameter to aggregate total amounts related to technology transfer. Reporting countries should clearly explain the approach to the compilation of the table, and with respect to the use of the SO 5-1 parameter. 
+
+**Parameters**
+
+The reporting Party can choose the methodology to accommodate definitions is use, but the reporting manual suggests some approaches for each parameter included in the table. 
+
+- Provided/received/required: Indicate ‘provided’ if for the reported activity the reporting country is the provider of the technology transferred; indicate ‘received’ if the reporting country is the recipient of the technology transferred; indicate ‘required’ if the reported activity is the technology transferred required by the reporting country. 
+
+- Year: Indicate the year relevant to the reported activity. Explain whether fiscal or calendar year is used. It is possible to indicate a timeframe rather than a specific year if it falls within the reporting period. 
+
+- Title of project, programme, activity or other. 
+
+- Total amount in USD: The amounts should be reported in USD. If the reporting country decides otherwise, the approach should be explained clearly in the methodology. This implies the application of an exchange rate to the different domestic currencies. The World Bank annual average exchange rate is suggested; please indicate if (and how) a different exchange rate is used. It is possible to report on either amount committed or disbursed; the approach used should be explained and double counting should be avoided. 
+
+- Recipient/provider: Indicate the name of the recipient if your country is the provider of resources; indicate the name of provider if your country is the recipient of resources. It could include the name of the country/region or be listed as ‘global’ (bilateral flows); or include the name of the institution and/or entity (multi-bilateral flows). If information on domestic transfer of technologies is included, indicate ‘domestic’ and provide further information on the providers and recipients of resources in the initiative.
+
+- Description and objectives: Include information on the objective of the technology transferred in the new context. 
+
+- Sector: Indicate the sector according to the classification system used in other indicators. 
+
+- Type of technology: Indicate the technology/ies being transferred. Explain the definition and categorization used for DLDD-relevant technologies in the methodological information. 
+
+- Activities undertaken by the private sector, public sector of both.
+
+- Status of measure of activity: Indicate whether the activity is planned, ongoing or completed at the time of the last reporting year.
+
+- Timeframe of measure or activity: It is possible to indicate the timeframe covered by the implementation of the project, or the year of commitment or disbursement of amounts. 
+
+- Use, impact and (estimated) results: include additional project-level information about the use of resources, the impact with respect to the objectives of the Convention, and results (estimated if the project did not conclude before the end of the reporting period).
+
+- Additional information: Please include any other activity-level information that you deem relevant, including, for example, information on co-financing arrangements and the respective role of the public and/or private sector.
+
+Table 25 below is populated with some examples (further rows can be added):
+
+```{flat-table} *__Table 22__.   Resources provided and received for Bilateral and Multilateral Public Resources*
+---
+header-rows: 2
+---
+* - Provided/received/required
+  - Year
+  - Recipient/provider
+  - Title of project, programme, activity or other
+  - Total amount USD
+  - Recipient/provider
+  - Description and objectives
+  - Sector
+  - Tyoe of technology
+  - Status of measure or activity
+  - Timeframe of measure or activity
+  - Use, impact, and estimated results
+  - Additional information
+* - 
+  - 
+  - 
+  - 
+  - Recipient entity, country, region, global
+  - 
+  - 
+  - 
+  - Public sector, public and/or private sector; private sector
+  - Planned/ongoing/completed
+  - 
+  - 
+  - 
+* - __Provided__
+  - 17
+  - Land degradation neutrality
+  - 45,000
+  - Democratic Republic of the Congo
+  - …
+  - Bioshpere protection
+  - Geospatial Technologies for Land Degradation Assessment and Management
+  - Public and private sector
+  - Ongoing
+  - 2018–2020
+  - 
+  - 
+* - __Received__
+  - 18
+  - Soil management
+  - 
+  - China
+  - 
+  - Environmental protection
+  - Technologies of sandy desertification control
+  - Private
+  - Completed
+  - 2019
+  - 
+  - 
+* - __Required__
+  - 
+  - Regenerative agriculture
+  - 60,000
+  - Domestic
+  - 
+  - Agriculture
+  - Planting local flora to stabilize the soil
+  - Public
+  - Planned
+  - 2021-2023
+  - …
+  - 
+* - __Totals__
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  * - __Totals per year__
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+```
