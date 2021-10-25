@@ -701,7 +701,7 @@ The reporting Party can choose the methodology to accommodate definitions is use
 
 Table 25 below is populated with some examples (further rows can be added):
 
-```{flat-table} *__Table 22__.   Resources provided and received for Bilateral and Multilateral Public Resources*
+```{flat-table} *__Table 25__.   Resources provided, received, and required for technology transfer measures or activities*
 ---
 header-rows: 2
 ---
@@ -797,3 +797,73 @@ header-rows: 2
   - 
   - 
 ```
+
+#### Step 5: Reporting methodological information
+
+The SO 5-4 indicator includes a separate question for the methodological information, providing the space to report any relevant approaches and definition used in the reporting. 
+
+## 5.5. SO5-5 – Future support for activities related to the implementation of the Convention
+
+### 5.5.1. Introduction
+
+SO5-5 is a qualitative indicator with three questions that encourage country Parties to reflect on future resources to be targeted at implementing the Convention.
+
+In particular, the indicator allows country Parties to provide descriptive information on planned domestic resources, both public and private. It also provides a space to report on the planned provision and mobilization of international public and private resources. The third question aims to facilitate sharing of information on resources needed by Parties for the implementation of the Convention. 
+
+### 5.5.2. Prerequisites for reporting
+
+- Access to provisional budgets of central administrations for both domestic and international resource allocation, and the capacity to distinguish DLDD-related funds.
+
+- Adoption of a consistent and clear methodology to estimate the quantitative amounts of resources needed to implement the Convention.
+
+### 5.5.3. Reporting process and step-by-step procedure
+
+The indicator offers the option to report on three different aspects of future support through SO 5-5 in qualitative terms. No default data will be provided against this indicator. 
+
+At national level, information can be found in the relevant sections of public provisional budgets, as well as in environment-related financial pledges and planned policies and measures related to DLDD. It is possible to use a case-by-case approach for the domestic private sector, as well as available data from research, case studies and dedicated datasets.
+
+### SO5-5.1: Planned provision and mobilization of domestic public and private resources
+
+````{admonition} Box 5
+---
+class: font-style-italic
+---
+Examples:
+
+- “The reporting country will continue to provide public support to address land degradation and drought to developing countries and affected country Parties through bilateral and multilateral channels for rehabilitation and soil improvement, combating soil erosion and desertification, and sustainable agriculture.”
+
+- “The national system allows for the tracking of future resources aimed at pursuing Sustainable Development Goal (SDG) 15, thanks to the recently established strategic committee on SDG implementation in partner countries, managed by the Ministry of Foreign Affairs. Thus, the estimated amounts reported will be dedicated to the achievement of SDG 15.”
+````
+
+### SO5-5.2: Planned provision and mobilization of international public and private resources
+
+````{admonition} Box 6
+---
+class: font-style-italic
+---
+Examples:
+
+- “In the reporting county, a programme on improving food security and enhancing farmers’ initiatives is being implemented. It is aimed at sustainably increasing production and fostering jobs for women and youth by adopting resilient agro-farming practices, restoring degraded lands, and improving natural resources management. A budget of USD 15 million (XYZ domestic currency) has been allocated to this measure for the triennium 2021–2023.”
+
+- “The central government budget line dedicated to sustainable land management (see SO 5-2) for the years 2022–2024 is endowed with USD 14 million across the triennium. In accordance with the recently adopted “Programming document for national land management”, this budget line will likely be entirely dedicated to activities pursuing the implementation of strategic objectives included in the aforementioned programming document 
+````
+
+### SO5-5.3: Resources needed
+
+````{admonition} Box 7
+---
+class: font-style-italic
+---
+Examples:
+
+- “Based on the results of the assessment conducted in 2019, the reporting country aims at developing a land degradation neutrality (LDN) targets implementation plan. The most promising and feasible measures will be identified, as well as related budget, capacity-building and technology transfer needs.” 
+
+- “Regions in the country most affected by DLDD are …. Those regions need significant investments to reduce vulnerabilities caused by land degradation. Following a case study survey among the local population, projects on the ground need to target local communities and indigenous peoples in sustainable land use with the aim of creating synergies with local practices and knowledge.”
+
+- “The reported estimate of USD 16.96 million is based on a study conducted on the basis on the Biodiversity Finance Initiative (BIOFIN) methodology, with further internal developments to adapt it to the objectives of the national LDN targets.
+````
+
+**Aggregating the information**
+
+Aggregation of figures for this indicator is not envisaged. Aggregated figures could be included by reporting countries. In this case, reporting country should clearly explain how information is aggregated within the three sub-indicators. Figures across the three indicators cannot be aggregated, as different in nature and domain. Aggregation of figures must avoid double counting across years.  
+ 
