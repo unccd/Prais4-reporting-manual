@@ -44,6 +44,9 @@ The proportion of population below the international poverty line data is pre-fi
 
 Parties may also use national data, provided it complies with the data specifications listed in table 15.
 
+```{tabularcolumns} |>{\centering\arraybackslash}p{3cm}|>{\centering\arraybackslash}p{6cm}|>{\centering\arraybackslash}p{6cm}|
+```
+
 ```{flat-table} *__Table 15__. Data specifications for SO 2-1 Indicator*
 ---
 header-rows: 2
@@ -147,6 +150,9 @@ The step-by-step procedure for reporting is described in the following.
 Default data for this indicator is pre-filled from the SDG database (SDG indicator 6.1.1); estimates of the proportion of population using improved drinking water services are regularly produced by the WHO/UNICEF JMP.
 
 Parties may also use national data, provided it complies with the data specifications listed in table 16.
+
+```{tabularcolumns} |>{\centering\arraybackslash}p{3cm}|>{\centering\arraybackslash}p{6cm}|>{\centering\arraybackslash}p{6cm}|
+```
 
 ```{flat-table} *__Table 16__. Data specifications for SO 2-2 Indicator*
 ---
@@ -263,6 +269,9 @@ Among the publicly available population datasets at the global scale, the WorldP
 An alternative dataset is the Gridded Population of the World, version 4 (GPWv4).
 
 Parties may also use national data, provided it complies with the data specifications listed in table 17.
+
+```{tabularcolumns} |>{\centering\arraybackslash}p{3cm}|>{\centering\arraybackslash}p{6cm}|>{\centering\arraybackslash}p{6cm}|
+```
 
 ```{flat-table} *__Table 17__. Data specifications for SO 2-3 Indicator*
 ---

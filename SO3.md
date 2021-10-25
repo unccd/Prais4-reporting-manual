@@ -43,6 +43,11 @@ _CHIRPS: Climate Hazards Group InfraRed Precipitation with Stations_
 
 This decision-making process should help Parties identify data that meets the specifications summarized in table 18.
 
+{{pagebreak}}
+
+```{tabularcolumns} |p{3.5cm}|p{5cm}|p{6cm}|
+```
+
 ```{flat-table} *__Table 18__. Data specifications for SO 3-1 Indicator*
 ---
 header-rows: 2
@@ -249,6 +254,11 @@ _Figure 2. Decision tree to help Parties choose the best population data source 
 
 This decision-making process should help Parties identify data that meets the specifications summarized in table 20.
 
+{{pagebreak}}
+
+```{tabularcolumns} |p{3cm}|p{6cm}|p{6cm}|
+```
+
 ```{flat-table} *__Table 20__. Data specifications for SO 3-2 Indicator*
 ---
 header-rows: 2
@@ -421,6 +431,8 @@ _Figure 4. Decision tree to help Parties choose the best tier of vulnerability a
 
 _DVI: Drought Vulnerability Index_{{br}}
 _VA: Vulnerability Assessment_
+
+{{pagebreak}}
 
 ```{tabularcolumns} |p{3cm}|p{6cm}|p{5cm}|
 ```

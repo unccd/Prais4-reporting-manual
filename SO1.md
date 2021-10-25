@@ -496,6 +496,8 @@ Parties may evaluate and use these or other datasets, provided they meet the spe
 
 Parties may also generate their own vegetation index time series directly from the satellite imagery assuming that those images have at least one red and one near infrared band with which to calculate the vegetation index. Depending on the vegetation index chosen, other spectral bands may also be needed.
 
+{{pagebreak}}
+
 ```{tabularcolumns} |p{4cm}|p{5cm}|p{5cm}|
 ```
 
@@ -718,6 +720,8 @@ The outputs obtained from the three metrics are used to estimate the extent of t
 Table 13 summarizes the combinations of productivity metrics to determine the land productivity dynamics and the land productivity degradation status of each pixel and their relationships. The metrics can be combined into five classes of persistent land productivity trajectories and three classes of land productivity degradation in the reporting period (i.e. ‘improving’, ‘stable’, ‘degrading’).
 
 Parties may use this table to combine custom Trend, State and Performance results derived from national data to estimate land productivity dynamics and degradation.
+
+{{pagebreak}}
 
 ```{tabularcolumns} |p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{3cm}|p{3cm}|
 ```
@@ -966,6 +970,11 @@ Since there are currently no known global data at a sufficient resolution to obt
 [^5]: For more information see: ‘Default data: methods and interpretation. A guidance document for 2018 UNCCD reporting’ available at: <https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf>.").
 
 However, Parties may report their estimates using national SOC stock data (adopting the Tier 2 or Tier 3 approach) if they meet the specifications listed in table 1.
+
+{{pagebreak}}
+
+```{tabularcolumns} |>{\centering\arraybackslash}p{3cm}|>{\centering\arraybackslash}p{6cm}|>{\centering\arraybackslash}p{6cm}|
+```
 
 ```{flat-table} *__Table 14__. Data specifications for SO 1-3 indicator*
 ---

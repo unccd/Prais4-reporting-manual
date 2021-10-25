@@ -55,6 +55,11 @@ myst_substitutions = {
   ```{raw} latex
   \mbox{}\\newline
   ```
+  """,
+  "pagebreak": r"""
+  ```{raw} latex
+  \newpage
+  ```
   """
 }
 
@@ -138,6 +143,10 @@ latex_elements = {
     \setcounter{secnumdepth}{-1}
     \setcounter{tocdepth}{0}
     \usepackage{caption}
+    \usepackage{lscape}
+    \usepackage{array}
+    \usepackage[none]{hyphenat}
+    \usepackage[document]{ragged2e}
     \usepackage[defaultsans]{lato}
     \usepackage{inconsolata}
     \captionsetup{labelformat=empty}

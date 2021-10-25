@@ -44,17 +44,16 @@ The reporting steps are described in the following sections.
 
 If your country is both a provider and a recipient of international public bilateral and/or multilateral resources, you are encouraged to provide information on both.
 
-**Flows**
+##### Flows
 
 To report against the SO 5-1 indicator, Parties should look at official public flows from international sources. This category tracks primarily resource flows between countries in the form of ‘official development assistance’ (ODA) and ‘other official flows’ (OOF). Both providers and recipients of international public support draw upon the OECD DAC system as a dataset that can be consulted from both the provider and recipient perspectives.
 
 Official transactions are those undertaken by central, state, or local government agencies at their own risk and responsibility. In case an activity or project is funded by different sources of funding – for example, through both public and private resources – it is recommended to report the amount of public resources under the SO 5-1 indicator and the amount of private resources under the SO 5-3 indicator. This would lead to double reporting (the Party would replicate some information related to the relevant project in two separate tables) but would avoid the double-counting of amounts.
 
-````{admonition} Box 1
+````{admonition} Examples
 ---
 class: font-style-italic
 ---
-Examples:
 For providers: 
 
 - Public financial contributions provided to developing countries’ governments and implementing agencies.
@@ -70,7 +69,7 @@ For recipients:
 
 ````
 
-**Relevance to desertification/land degradation and drought**
+##### Relevance to desertification/land degradation and drought
 
 The OECD DAC CRS collects activity-level data on activities targeting the environmental objectives of the three Rio conventions (CBD, UNCCD and UNFCCC) through Rio Markers for biodiversity, climate change adaptation, climate change mitigation and desertification. This category can be measured using the Rio Marker for Desertification marker to report on ODA and, where available, on OOF. The OECD Total Official Support for Sustainable Development (TOSSD) dataset include information on support provided by developing countries. Relevant activities can be identified through SDG field (SDG 15.3).
 
@@ -84,12 +83,10 @@ Tier 1 involves reporting trends in the progress indicator in qualitative terms 
 
 SO5-1 requests descriptive and qualitative information relevant to the international public resources provided and received through bilateral and multilateral channels. The descriptive section may include all information that cannot be reported in tabular format and provide general information on resources provided and received for the implementation of the Convention.
 
-````{admonition} Box 2
+````{admonition} Examples
 ---
 class: font-style-italic
 ---
-Examples:
-
 International resources provided: […The countries where most projects under the Convention are carried out are Burkina Faso, Ethiopia, Ghana, Mali, Morocco, Mozambique, Niger, Peru, Rwanda, Senegal, and the United Republic of Tanzania.]
 
 International resources received: Trinational project ‘Sustainable Forest Management in the Transboundary Gran Chaco American Ecosystem (Global Environment Facility (GEF)–Gran Chaco)’ – Project ID 2505 GEF of GEF-4 – has a GEF grant of USD 2,663,018 for Argentina, plus 60 % of the regional cost of USD 1,290,909 (approximately USD 774,545).….]
@@ -110,7 +107,7 @@ Tier 2 reporting includes:
 
 [^2]: Default data are included in each provider and recipient country tables. Reported activities are identified based on the OECD DAC Rio Marker for desertification. All activities marked with the marker ‘principal’ and ‘significant’ are included in the tables, and respective amounts are reported at 100 %.
 
-**Parameters**
+##### Parameters
 
 The table for SO 5-1 provides space to report activities or projects relevant to combating DLDD. While the methodological approach to be chosen by the reporting Party accommodates definitions and methodologies in use, the reporting manual suggests some approaches and definitions for each parameter.
 
@@ -168,8 +165,8 @@ header-rows: 2
   - Additional information
 * - P/R
   - 20XX
-    - Recipient/provider country, region, global recipient/provider institution, entity
-    - 
+  - Recipient/provider country, region, global recipient/provider institution, entity
+  -
   - Committed
   - Disbursed/received
   - Agriculture, forestry, water and sanitation, cross-cutting, other (specify)
@@ -311,9 +308,9 @@ header-rows: 2
   - {cspan}`10`
 ```
 
-* If disaggregated information is not available, the Party can report only the total amount or the total amounts per year.
+\* If disaggregated information is not available, the Party can report only the total amount or the total amounts per year.
 
-**Aggregating the information**
+##### Aggregating the information
 
 The aggregation of figures should include all quantified resources reported in tabular format. It is possible to aggregate figures by status (committed and disbursed) and by year. It is recommended to then aggregate figures for the four-year period to generate a total figure for international resources.  
 
@@ -360,12 +357,10 @@ Tier 1 involves reporting trends in the progress indicator in qualitative terms 
 
 The aim of this section is to provide Parties the space to report on information on the context and complement the reporting against Tier 1 (trends) or Tier 2 (table).
 
-````{admonition} Box 3
+````{admonition} Examples
 ---
 class: font-style-italic
 ---
-Examples: 
-
 - “Public expenditures related to sustainable agriculture in year 2018 increased to USD 168 million.” 
 - “National resources allocated to protection and ecosystem restoration are mainly channeled through the Ministry of Agriculture.”
 - “The budget allocation of the National Directorate for Planning and Environmental Land Management, which carries out the NAP, is included in the National Budget Programme No. 60 for the years 2012, 2013 and 2014.
@@ -376,7 +371,7 @@ Examples:
 
 Tier 2 involves reporting against the progress indicators in a quantitative manner. Parties are encouraged to provide data on individual policies, measures or activities combating DLDD, as well as government budgetary lines and programmes. In this sense, it is recommended to use a bottom-up, inventory approach for collecting data on DLDD-related projects, programmes, measures, or budget lines supported by domestic public resources.
 
-**Parameters**
+##### Parameters
 
 The table for SO 5-2 provides space to report those actions that are considered relevant to combating DLDD. The reporting Party can choose the methodology to accommodate definitions and approaches in use, but the reporting manual suggests some approaches and definitions for each parameter.
 
@@ -387,6 +382,11 @@ The table for SO 5-2 provides space to report those actions that are considered 
 
 Table 23 below is populated with some examples (further rows can be added):
 
+{{pagebreak}}
+
+```{tabularcolumns} |p{4cm}|p{2cm}|p{3cm}|p{5cm}|
+```
+
 ```{flat-table} *__Table 23__.  Resources provided received, and required for domestic public resources*
 ---
 header-rows: 2
@@ -395,7 +395,7 @@ header-rows: 2
   - Year
   - Amount in USD
   - Additional information
-* - Government expenditures
+* - __Government expenditures__
   - 
   - 
   - 
@@ -408,7 +408,7 @@ header-rows: 2
   - In-kind contribution to the GEF project 5018 “Revision and Alignment of National Action Program with UNCCD 10 Years Strategic Plan and Framework”
 * - 2018
   - USD 3,400,000
-  - PPP DLDD – public contribution to the PPP**. Grant funding
+  - PPP DLDD – public contribution to the PPP\*\*. Grant funding
 * - Indirectly related to combating DLDD
   - 2018
   - USD 8,959,024
@@ -424,11 +424,11 @@ header-rows: 2
 * - 2018-2020
   - USD 5,600,000
   - Property tax exemption for private land
-* - Other transfers
+* - __Other transfers__
   - 
   - 
   - 
-* - {cspan}`3` Total expenditures/total expenditures per year
+* - {cspan}`3` __Total expenditures/total expenditures per year__
 * - __Government revenues__
   - 
   - 
@@ -437,17 +437,19 @@ header-rows: 2
   - 2019
   - USD 150,000,000
   - Tax increase on royalties in the mining sector. Indirectly related to DLDD
-* - Other transfers
+* - _Other transfers_
   - 
   - 
   - 
-* - {cspan}`3` Total revenues/total revenues per year
-* - {cspan}`3` Footnotes:
-
-               ** The private contribution to this PPP is reported under SO 5-3.
+* - {cspan}`3` __Total revenues/total revenues per year__
 ````
 
-**Aggregating the information**
+```{rst-class} smaller-text
+```
+
+\*\* The private contribution to this PPP is reported under SO 5-3.
+
+##### Aggregating the information
 
 A total figure for **government expenditures, including subsidies and other transfers**, will be computed automatically. Thus, avoiding any double counting between these categories is recommended.  A separate total figure for **government revenues and other transfers** will be automatically calculated. Subtotal figures by year are also envisaged for this reporting table.
 
@@ -487,7 +489,7 @@ Data relevant to this indicator are usually collected at central government leve
 
 The relevance of funded activities, projects or investments of the private sector should be consistent with the DLDD-relevance criteria employed to report against the other indicators for monitoring domestic and international resource flows.
 
-**Flows**
+##### Flows
 
 OECD statistics on development finance (from the CRS) include activity-level data on funds from around 40 of the largest philanthropic foundations, many of which provide finance for environmental objectives[^4].  The OECD statistics on the amounts mobilized from the private sector also provide insights on international private sector contributions for development, including for SDG 14 and 15[^5].  
 
@@ -502,12 +504,10 @@ Tier 1 involves reporting trends in the progress indicator in qualitative terms 
 
 SO5-3 requests the provision of relevant descriptive and qualitative information. The aim of this section is to provide Parties the space to report on information on the context and complement the reporting against Tier 1 (trends) or Tier 2 (table).
 
-````{admonition} Box 4
+````{admonition} Examples
 ---
 class: font-style-italic
 ---
-Examples:
-
 “The reporting country undertook important public–private partnerships with [the recipient country] and [the third country’s] private companies. These have been mobilizing XY euros to pursue…”
 
 “Non-governmental organizations (NGOs) are funded at 80% by public sources and they need to co-finance 20% of each project/programme (own contribution). This means that besides the development cooperation budget, the NGOs are the most important co-financing partners for activities relevant to the implementation of the Convention. These contributions come from the private sector, private donations, other donors and the European Union.”
@@ -515,7 +515,7 @@ Examples:
 
 #### Step 4: Compiling the table
 
-**Parameters**
+##### Parameters
 
 The table for SO 5-3 provides space to report at project level (or at the highest level of disaggregation available) on actions, investments or programmes that are considered relevant to combating desertification. The reporting Party can choose the methodology to accommodate definitions in use, but the reporting manual suggests some approaches for each parameter. Reporting countries are encouraged to clearly explain the definitions used.
 
@@ -535,7 +535,9 @@ The table for SO 5-3 provides space to report at project level (or at the highes
 
 Table 24 below is populated with some examples (further rows can be added):
 
-```{flat-table} *__Table 24__. Resources provided and received for International and Domestic private resources *
+{{pagebreak}}
+
+```{flat-table} *__Table 24__. Resources provided and received for International and Domestic private resources*
 ---
 header-rows: 2
 ---
@@ -602,12 +604,14 @@ header-rows: 2
   - 
   - 
   - 
-* - {cspan}`7` Footnotes:
-
-               ** The public contribution to the PPP is reported under SO 5-2.
 ```
 
-**Aggregating the information**
+```{rst-class} smaller-text
+```
+
+** The public contribution to the PPP is reported under SO 5-2.
+
+##### Aggregating the information
 
 Figures will be aggregated as totals by geography (one figure for domestic private resources, one figure for international private resources) and subtotals per year.  Aggregation by financial instrument could also be meaningful information to gather, considering the wide range of instruments and their role within the DLDD financing landscape at domestic and international level.
 
@@ -671,7 +675,7 @@ The description may include:
 
 Under Tier 2, country Parties are encouraged to report by recording data about individual projects aimed at transferring technologies to combat DLDD. The table is to be compiled either seeking to provide a complete picture on technology transfer activities; or with selected projects and measures for which more detailed information is available. In fact, it is possible to use the SO 5-1 technology transfer parameter to aggregate total amounts related to technology transfer. Reporting countries should clearly explain the approach to the compilation of the table, and with respect to the use of the SO 5-1 parameter.
 
-**Parameters**
+##### Parameters
 
 The reporting Party can choose the methodology to accommodate definitions is use, but the reporting manual suggests some approaches for each parameter included in the table.
 
@@ -702,6 +706,8 @@ The reporting Party can choose the methodology to accommodate definitions is use
 - Additional information: Please include any other activity-level information that you deem relevant, including, for example, information on co-financing arrangements and the respective role of the public and/or private sector.
 
 Table 25 below is populated with some examples (further rows can be added):
+
+{{pagebreak}}
 
 ```{list-table} *__Table 25__.   Resources provided, received, and required for technology transfer measures or activities*
 ---
@@ -828,12 +834,10 @@ At national level, information can be found in the relevant sections of public p
 
 ### SO5-5.1: Planned provision and mobilization of domestic public and private resources
 
-````{admonition} Box 5
+````{admonition} Examples
 ---
 class: font-style-italic
 ---
-Examples:
-
 - “The reporting country will continue to provide public support to address land degradation and drought to developing countries and affected country Parties through bilateral and multilateral channels for rehabilitation and soil improvement, combating soil erosion and desertification, and sustainable agriculture.”
 
 - “The national system allows for the tracking of future resources aimed at pursuing Sustainable Development Goal (SDG) 15, thanks to the recently established strategic committee on SDG implementation in partner countries, managed by the Ministry of Foreign Affairs. Thus, the estimated amounts reported will be dedicated to the achievement of SDG 15.”
@@ -841,12 +845,10 @@ Examples:
 
 ### SO5-5.2: Planned provision and mobilization of international public and private resources
 
-````{admonition} Box 6
+````{admonition} Examples
 ---
 class: font-style-italic
 ---
-Examples:
-
 - “In the reporting county, a programme on improving food security and enhancing farmers’ initiatives is being implemented. It is aimed at sustainably increasing production and fostering jobs for women and youth by adopting resilient agro-farming practices, restoring degraded lands, and improving natural resources management. A budget of USD 15 million (XYZ domestic currency) has been allocated to this measure for the triennium 2021–2023.”
 
 - “The central government budget line dedicated to sustainable land management (see SO 5-2) for the years 2022–2024 is endowed with USD 14 million across the triennium. In accordance with the recently adopted “Programming document for national land management”, this budget line will likely be entirely dedicated to activities pursuing the implementation of strategic objectives included in the aforementioned programming document 
@@ -854,12 +856,10 @@ Examples:
 
 ### SO5-5.3: Resources needed
 
-````{admonition} Box 7
+````{admonition} Examples
 ---
 class: font-style-italic
 ---
-Examples:
-
 - “Based on the results of the assessment conducted in 2019, the reporting country aims at developing a land degradation neutrality (LDN) targets implementation plan. The most promising and feasible measures will be identified, as well as related budget, capacity-building and technology transfer needs.” 
 
 - “Regions in the country most affected by DLDD are …. Those regions need significant investments to reduce vulnerabilities caused by land degradation. Following a case study survey among the local population, projects on the ground need to target local communities and indigenous peoples in sustainable land use with the aim of creating synergies with local practices and knowledge.”

@@ -393,4 +393,11 @@ English version
 French version
 ```
 
+```{raw} latex
+    \begin{landscape}
+    \end{landscape}
+```
+
 End of sample text
+
+
