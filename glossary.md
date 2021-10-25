@@ -8,14 +8,17 @@
 
 ## B
 
-```{flat-table} **
+```{flat-table}
 ---
 header-rows: 1
 widths: 1 5
 ---
+* - Item
+  - Description
 * - Baseline
   - The baseline (or reference) is the state against which change is measured.
     
     In the context of Land Degradation Neutrality (LDN), the initial (t0) estimated value of each of the indicators used to monitor progress in the achievement of LDN for each land type. The baseline values of these indicators are measured at the time of implementation of the LDN conceptual framework
  * - Baseline period
    - For UNCCD reporting the baseline period during which baseline conditions should be calculated, is the 16 years from 1 January 2000 to 31 December 2015
+```
