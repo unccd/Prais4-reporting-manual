@@ -286,33 +286,32 @@ header-rows: 2
   - 120,000
   - The project led to concrete results…
   - The project objectives and structure involved…
-* - {cspan}`3` Total 2016[^1]
+* - {cspan}`3` Total 2016*
   - xxx
   - xxx
   - {cspan}`10`
-* - {cspan}`3` Total 2017[^1]
+* - {cspan}`3` Total 2017*
   - xxx
   - xxx
   - {cspan}`10`
-* - {cspan}`3` Total 2018[^1]
+* - {cspan}`3` Total 2018*
   - xxx
   - xxx
   - {cspan}`10`
-* - {cspan}`3` Total 2019[^1]
+* - {cspan}`3` Total 2019*
   - xxx
   - xxx
   - {cspan}`10`
-* - {cspan}`3` Total resources provided[^1]
+* - {cspan}`3` Total resources provided*
   - Σ
   - Σ
   - {cspan}`10`
-* - {cspan}`3` Total resources received[^1]
+* - {cspan}`3` Total resources received*
   - Σ
   - Σ
   - {cspan}`10`
 ```
-
-[^1]: If disaggregated information is not available, the Party can report only the total amount or the total amounts per year.
+* If disaggregated information is not available, the Party can report only the total amount or the total amounts per year.
 
 **Aggregating the information**
 
@@ -450,7 +449,7 @@ header-rows: 2
 
 **Aggregating the information**
 
-A total figure for government expenditures, including subsidies and other transfers, will be computed automatically. Thus, avoiding any double counting between these categories is recommended.  A separate total figure for government revenues and other transfers will be automatically calculated. Subtotal figures by year are also envisaged for this reporting table. 
+A total figure for **government expenditures, including subsidies and other transfers**, will be computed automatically. Thus, avoiding any double counting between these categories is recommended.  A separate total figure for **government revenues and other transfers** will be automatically calculated. Subtotal figures by year are also envisaged for this reporting table. 
 
 #### Step 5: Use of documentation box 
 
@@ -458,7 +457,7 @@ The aim of the documentation box is to provide space to report the necessary def
 
 #### Step 6: Qualitative question
 
-The reporting Party is invited to share information on whether it set a target for domestic resource mobilization. If yes, provide further details on the features of this target, the timing, and the progress monitoring process. 
+The reporting Party is invited to share information on whether it set a **target for domestic resource mobilization**. If yes, provide further details on the features of this target, the timing, and the progress monitoring process. 
 
 ## 5.3. SO5-3 – International and domestic private resources
 
