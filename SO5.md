@@ -147,7 +147,7 @@ The table for SO 5-1 provides space to report activities or projects relevant to
 
 Table 22 below is compiled with some examples:
 
-```{flat-table} *__Table 22__.   Resources provided and received for Bilateral and Multilateral Public Resources*
+```{flat-table} *__Table 22__. Resources provided and received for Bilateral and Multilateral Public Resources*
 ---
 header-rows: 2
 ---
