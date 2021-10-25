@@ -603,8 +603,10 @@ header-rows: 2
   - 
   - 
   - 
+* - {cspan}`7` Footnotes:
+
+               ** The public contribution to the PPP is reported under SO 5-2.
 ```
-** The public contribution to the PPP is reported under SO 5-2.
 
 **Aggregating the information**
 
