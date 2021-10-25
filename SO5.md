@@ -101,13 +101,15 @@ International resources received: Trinational project ‘Sustainable Forest Mana
 
 Tier 2 involves reporting trends in the progress indicators in a quantitative manner. Under this Tier, country Parties are encouraged to report by recording data about individual projects specific to DLDD. Please compile the table with data at the highest level of disaggregation available. Parties are encouraged to provide activity-level data.
 
-Default data are derived from information reported to the OECD DAC by OECD members based on the desertification Rio Marker;  default data can be amended by the reporting Party as appropriate.
+Default data are derived from information reported to the OECD DAC by OECD members based on the desertification Rio Marker[^2];  default data can be amended by the reporting Party as appropriate.
 
 Tier 2 reporting includes: 
 
 - Detailed information at projects programmes and/or countries/regions, including amounts.
 
 - Aggregate amounts of resources provided and/or received, by year and/or over the four-year period. 
+
+[^2]: Default data are included in each provider and recipient country tables. Reported activities are identified based on the OECD DAC Rio Marker for desertification. All activities marked with the marker ‘principal’ and ‘significant’ are included in the tables, and respective amounts are reported at 100 %.
 
 **Parameters**
 
