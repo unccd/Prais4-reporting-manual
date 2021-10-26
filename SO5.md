@@ -143,6 +143,8 @@ The table for SO 5-1 provides space to report activities or projects relevant to
 
 Table 22 below is compiled with some examples:
 
+{{pagebreak}}
+
 ```{cssclass} table-22
 ```
 

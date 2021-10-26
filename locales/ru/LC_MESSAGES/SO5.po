@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-25 19:51+0300\n"
+"POT-Creation-Date: 2021-10-26 17:12+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -174,7 +174,7 @@ msgstr ""
 msgid "The reporting steps are described in the following sections."
 msgstr ""
 
-#: ../../SO5.md:43 ../../SO5.md:340 ../../SO5.md:486 ../../SO5.md:644
+#: ../../SO5.md:43 ../../SO5.md:348 ../../SO5.md:494 ../../SO5.md:649
 msgid "Step 1: Identification of relevant data"
 msgstr ""
 
@@ -185,7 +185,7 @@ msgid ""
 "provide information on both."
 msgstr ""
 
-#: ../../SO5.md:47 ../../SO5.md:492
+#: ../../SO5.md:47 ../../SO5.md:502
 msgid "Flows"
 msgstr ""
 
@@ -213,8 +213,8 @@ msgid ""
 "double-counting of amounts."
 msgstr ""
 
-#: ../../SO5.md:53 ../../SO5.md:86 ../../SO5.md:360 ../../SO5.md:507
-#: ../../SO5.md:837 ../../SO5.md:848 ../../SO5.md:859
+#: ../../SO5.md:53 ../../SO5.md:86 ../../SO5.md:368 ../../SO5.md:517
+#: ../../SO5.md:842 ../../SO5.md:853 ../../SO5.md:864
 msgid "Examples"
 msgstr ""
 
@@ -264,7 +264,7 @@ msgid ""
 "multilateral organizations, funds, or United Nations agencies."
 msgstr ""
 
-#: ../../SO5.md:72
+#: ../../SO5.md:72 ../../SO5.md:498
 msgid "Relevance to desertification/land degradation and drought"
 msgstr ""
 
@@ -337,7 +337,7 @@ msgid ""
 " cost of USD 1,290,909 (approximately USD 774,545).….]"
 msgstr ""
 
-#: ../../SO5.md:96 ../../SO5.md:370
+#: ../../SO5.md:96 ../../SO5.md:378
 msgid "Step 4:  Compiling the table"
 msgstr ""
 
@@ -373,7 +373,7 @@ msgid ""
 "over the four-year period."
 msgstr ""
 
-#: ../../SO5.md:110 ../../SO5.md:374 ../../SO5.md:518 ../../SO5.md:678
+#: ../../SO5.md:110 ../../SO5.md:382 ../../SO5.md:528 ../../SO5.md:683
 msgid "Parameters"
 msgstr ""
 
@@ -521,7 +521,7 @@ msgstr ""
 msgid "Table 22 below is compiled with some examples:"
 msgstr ""
 
-#: ../../SO5.md:146
+#: ../../SO5.md:151
 msgid ""
 "*__Table 22__. Resources provided and received for Bilateral and "
 "Multilateral Public Resources*"
@@ -539,12 +539,12 @@ msgstr ""
 msgid "Recipient/provider"
 msgstr ""
 
-#: ../../SO5.md:3 ../../SO5.md:4
+#: ../../SO5.md:2 ../../SO5.md:3 ../../SO5.md:4
 msgid "Title of project, programme, activity or other"
 msgstr ""
 
 #: ../../SO5.md:5
-msgid "Total amount USD"
+msgid "{cspan}`1` Total amount USD"
 msgstr ""
 
 #: ../../SO5.md:6 ../../SO5.md:7
@@ -571,7 +571,7 @@ msgstr ""
 msgid "Type of flow"
 msgstr ""
 
-#: ../../SO5.md:5 ../../SO5.md:12
+#: ../../SO5.md:4 ../../SO5.md:12
 msgid "Financial instrument"
 msgstr ""
 
@@ -587,7 +587,7 @@ msgstr ""
 msgid "Use, impact, (estimated) results"
 msgstr ""
 
-#: ../../SO5.md:4 ../../SO5.md:8 ../../SO5.md:13 ../../SO5.md:16
+#: ../../SO5.md:4 ../../SO5.md:7 ../../SO5.md:13 ../../SO5.md:16
 msgid "Additional information"
 msgstr ""
 
@@ -659,7 +659,7 @@ msgstr ""
 msgid "UNEP Conservation of Biodiversity"
 msgstr ""
 
-#: ../../SO5.md:35 ../../SO5.md:38
+#: ../../SO5.md:30 ../../SO5.md:38
 msgid "1,400,000"
 msgstr ""
 
@@ -697,9 +697,9 @@ msgstr ""
 msgid "Indirectly"
 msgstr ""
 
-#: ../../SO5.md:32 ../../SO5.md:49 ../../SO5.md:50 ../../SO5.md:64
-#: ../../SO5.md:66 ../../SO5.md:67
-msgid "…"
+#: ../../SO5.md:48 ../../SO5.md:49 ../../SO5.md:50 ../../SO5.md:65
+#: ../../SO5.md:66 ../../SO5.md:67 ../../SO5.md:82
+msgid "\\-"
 msgstr ""
 
 #: ../../SO5.md:52
@@ -794,7 +794,7 @@ msgstr ""
 msgid "{cspan}`3` Total 2016*"
 msgstr ""
 
-#: ../../SO5.md:43 ../../SO5.md:137 ../../SO5.md:138 ../../SO5.md:141
+#: ../../SO5.md:37 ../../SO5.md:137 ../../SO5.md:138 ../../SO5.md:141
 #: ../../SO5.md:142 ../../SO5.md:145 ../../SO5.md:146 ../../SO5.md:149
 #: ../../SO5.md:150
 msgid "xxx"
@@ -829,17 +829,17 @@ msgstr ""
 msgid "{cspan}`3` Total resources received*"
 msgstr ""
 
-#: ../../SO5.md:311
+#: ../../SO5.md:319
 msgid ""
 "\\* If disaggregated information is not available, the Party can report "
 "only the total amount or the total amounts per year."
 msgstr ""
 
-#: ../../SO5.md:313 ../../SO5.md:452 ../../SO5.md:614
+#: ../../SO5.md:321 ../../SO5.md:460 ../../SO5.md:619
 msgid "Aggregating the information"
 msgstr ""
 
-#: ../../SO5.md:315
+#: ../../SO5.md:323
 msgid ""
 "The aggregation of figures should include all quantified resources "
 "reported in tabular format. It is possible to aggregate figures by status"
@@ -848,17 +848,17 @@ msgid ""
 " international resources."
 msgstr ""
 
-#: ../../SO5.md:317 ../../SO5.md:618
+#: ../../SO5.md:325 ../../SO5.md:623
 msgid ""
 "Aggregation of figures must avoid double-counting across the table and "
 "the other indicators."
 msgstr ""
 
-#: ../../SO5.md:319 ../../SO5.md:456
+#: ../../SO5.md:327 ../../SO5.md:464
 msgid "Step 5: Use of documentation box"
 msgstr ""
 
-#: ../../SO5.md:321
+#: ../../SO5.md:329
 msgid ""
 "The aim of the documentation box is to provide space to report necessary "
 "definitions and methodologies employed for each parameter compiled in the"
@@ -867,15 +867,15 @@ msgid ""
 "relevant reference."
 msgstr ""
 
-#: ../../SO5.md:323
+#: ../../SO5.md:331
 msgid "5.2. SO5-2 – Domestic public resources"
 msgstr ""
 
-#: ../../SO5.md:325
+#: ../../SO5.md:333
 msgid "5.2.1. Introduction"
 msgstr ""
 
-#: ../../SO5.md:327
+#: ../../SO5.md:335
 msgid ""
 "Domestic resources are at the core of the implementation of the "
 "Convention. This indicator aims at creating an overview of the resources "
@@ -884,7 +884,7 @@ msgid ""
 "implementation of the Convention."
 msgstr ""
 
-#: ../../SO5.md:329
+#: ../../SO5.md:337
 msgid ""
 "This progress indicator is concerned with domestic resources mobilized "
 "and spent by government agencies at different levels (e.g., central, "
@@ -892,7 +892,7 @@ msgid ""
 "measures to pursue the objectives of the Convention."
 msgstr ""
 
-#: ../../SO5.md:331
+#: ../../SO5.md:339
 msgid ""
 "The indicator also aims to collect information on public revenues, such "
 "as environmental taxes on land-degrading activities and resources "
@@ -900,7 +900,7 @@ msgid ""
 "entities in the economy regarding DLDD (i.e., incentives)."
 msgstr ""
 
-#: ../../SO5.md:333
+#: ../../SO5.md:341
 msgid ""
 "Reporting countries can choose to take advantage of the Tier approach, in"
 " line with the capacities and data availability in the reporting country."
@@ -910,7 +910,7 @@ msgid ""
 "data)."
 msgstr ""
 
-#: ../../SO5.md:335
+#: ../../SO5.md:343
 msgid ""
 "Tier 1 involves reporting trends in this progress indicator in "
 "qualitative terms (i.e., increasing, stable or declining trends).   Tier "
@@ -918,11 +918,11 @@ msgid ""
 "available. Countries are encouraged to report using Tier 2."
 msgstr ""
 
-#: ../../SO5.md:338
+#: ../../SO5.md:346
 msgid "5.2.2. Reporting process and step-by-step procedure"
 msgstr ""
 
-#: ../../SO5.md:342
+#: ../../SO5.md:350
 msgid ""
 "Data relevant to this indicator are usually collected at central "
 "government level, often from the ministries of economy and finance, "
@@ -930,7 +930,7 @@ msgid ""
 "well as Environmental Agencies."
 msgstr ""
 
-#: ../../SO5.md:344
+#: ../../SO5.md:352
 msgid ""
 "Government budgets do not often include clear information on resources "
 "specific to land degradation. Moreover, resources indirectly allocated to"
@@ -943,7 +943,7 @@ msgid ""
 "GFS database."
 msgstr ""
 
-#: ../../SO5.md:346
+#: ../../SO5.md:354
 msgid ""
 "The indicator also aims at collecting information on domestic public "
 "revenues collected through measures and actions aimed at incentivizing "
@@ -952,18 +952,18 @@ msgid ""
 "taxes etc."
 msgstr ""
 
-#: ../../SO5.md:348
+#: ../../SO5.md:356
 msgid ""
 "The reference data sources are central government administrations and "
 "national statistical offices. A significant international reference data "
 "source is the OECD Policy Instruments for the Environment database[^3]."
 msgstr ""
 
-#: ../../SO5.md:352
+#: ../../SO5.md:360
 msgid "Step 2: Estimate trends in domestic public resources"
 msgstr ""
 
-#: ../../SO5.md:354
+#: ../../SO5.md:362
 msgid ""
 "Tier 1 involves reporting trends in the progress indicator in qualitative"
 " terms (i.e., increasing, stable or declining trends) based on the expert"
@@ -974,11 +974,11 @@ msgid ""
 "Select only one option for each table."
 msgstr ""
 
-#: ../../SO5.md:356 ../../SO5.md:503 ../../SO5.md:656
+#: ../../SO5.md:364 ../../SO5.md:513 ../../SO5.md:661
 msgid "Step 3: Reporting in narrative format"
 msgstr ""
 
-#: ../../SO5.md:358
+#: ../../SO5.md:366
 msgid ""
 "The aim of this section is to provide Parties the space to report on "
 "information on the context and complement the reporting against Tier 1 "
@@ -1011,7 +1011,7 @@ msgid ""
 "the statistical office.”"
 msgstr ""
 
-#: ../../SO5.md:372
+#: ../../SO5.md:380
 msgid ""
 "Tier 2 involves reporting against the progress indicators in a "
 "quantitative manner. Parties are encouraged to provide data on individual"
@@ -1022,7 +1022,7 @@ msgid ""
 "public resources."
 msgstr ""
 
-#: ../../SO5.md:376
+#: ../../SO5.md:384
 msgid ""
 "The table for SO 5-2 provides space to report those actions that are "
 "considered relevant to combating DLDD. The reporting Party can choose the"
@@ -1031,7 +1031,7 @@ msgid ""
 "parameter."
 msgstr ""
 
-#: ../../SO5.md:378
+#: ../../SO5.md:386
 msgid ""
 "Year: Indicate the year relevant to the reported activity. Explain in the"
 " documentation box whether the year refers to the commitment or "
@@ -1040,7 +1040,7 @@ msgid ""
 "should fall within the reporting period."
 msgstr ""
 
-#: ../../SO5.md:380
+#: ../../SO5.md:388
 msgid ""
 "Amount in USD: The amounts should be reported in USD. If the reporting "
 "country decides otherwise, the approach should be explained clearly in "
@@ -1050,20 +1050,20 @@ msgid ""
 " is used."
 msgstr ""
 
-#: ../../SO5.md:381
+#: ../../SO5.md:389
 msgid ""
 "Additional information: Please include any other activity-level "
 "information that you deem relevant, including the title of the measure, "
 "budget lines or activity funded."
 msgstr ""
 
-#: ../../SO5.md:383
+#: ../../SO5.md:391
 msgid ""
 "Table 23 below is populated with some examples (further rows can be "
 "added):"
 msgstr ""
 
-#: ../../SO5.md:390
+#: ../../SO5.md:398
 msgid ""
 "*__Table 23__.  Resources provided received, and required for domestic "
 "public resources*"
@@ -1110,7 +1110,7 @@ msgid ""
 "National Action Program with UNCCD 10 Years Strategic Plan and Framework”"
 msgstr ""
 
-#: ../../SO5.md:16 ../../SO5.md:20
+#: ../../SO5.md:14 ../../SO5.md:16 ../../SO5.md:20
 msgid "2018"
 msgstr ""
 
@@ -1141,7 +1141,7 @@ msgid "__Subsidies__"
 msgstr ""
 
 #: ../../SO5.md:27
-msgid "{rspan}`1` __Subsidies related to combating DLDD__"
+msgid "{rspan}`1` Subsidies related to combating DLDD"
 msgstr ""
 
 #: ../../SO5.md:28
@@ -1168,8 +1168,8 @@ msgstr ""
 msgid "Property tax exemption for private land"
 msgstr ""
 
-#: ../../SO5.md:34
-msgid "__Other transfers__"
+#: ../../SO5.md:34 ../../SO5.md:47
+msgid "_Other transfers_"
 msgstr ""
 
 #: ../../SO5.md:38
@@ -1186,7 +1186,7 @@ msgid ""
 "related to combating DLDD"
 msgstr ""
 
-#: ../../SO5.md:32 ../../SO5.md:44 ../../SO5.md:50
+#: ../../SO5.md:28 ../../SO5.md:44 ../../SO5.md:50
 msgid "2019"
 msgstr ""
 
@@ -1198,19 +1198,15 @@ msgstr ""
 msgid "Tax increase on royalties in the mining sector. Indirectly related to DLDD"
 msgstr ""
 
-#: ../../SO5.md:47
-msgid "_Other transfers_"
-msgstr ""
-
 #: ../../SO5.md:51
 msgid "{cspan}`3` __Total revenues/total revenues per year__"
 msgstr ""
 
-#: ../../SO5.md:450
+#: ../../SO5.md:458
 msgid "\\*\\* The private contribution to this PPP is reported under SO 5-3."
 msgstr ""
 
-#: ../../SO5.md:454
+#: ../../SO5.md:462
 msgid ""
 "A total figure for **government expenditures, including subsidies and "
 "other transfers**, will be computed automatically. Thus, avoiding any "
@@ -1220,7 +1216,7 @@ msgid ""
 " this reporting table."
 msgstr ""
 
-#: ../../SO5.md:458
+#: ../../SO5.md:466
 msgid ""
 "The aim of the documentation box is to provide space to report the "
 "necessary definitions and methodologies employed for each relevant "
@@ -1229,11 +1225,11 @@ msgid ""
 "relevant reference."
 msgstr ""
 
-#: ../../SO5.md:460
+#: ../../SO5.md:468
 msgid "Step 6: Qualitative question"
 msgstr ""
 
-#: ../../SO5.md:462
+#: ../../SO5.md:470
 msgid ""
 "The reporting Party is invited to share information on whether it set a "
 "**target for domestic resource mobilization**. If yes, provide further "
@@ -1241,15 +1237,15 @@ msgid ""
 "monitoring process."
 msgstr ""
 
-#: ../../SO5.md:464
+#: ../../SO5.md:472
 msgid "5.3. SO5-3 – International and domestic private resources"
 msgstr ""
 
-#: ../../SO5.md:466
+#: ../../SO5.md:474
 msgid "5.3.1. Introduction"
 msgstr ""
 
-#: ../../SO5.md:468
+#: ../../SO5.md:476
 msgid ""
 "The indicator aims at monitoring private resources mobilized by the "
 "private sector of the reporting Party for activities and investments ‘at "
@@ -1262,7 +1258,7 @@ msgid ""
 "implement the Convention."
 msgstr ""
 
-#: ../../SO5.md:470
+#: ../../SO5.md:478
 msgid ""
 "The indicator allows for reporting on innovative sources of finance and "
 "the number of co-financing partners, for those related to the private "
@@ -1271,55 +1267,54 @@ msgid ""
 "previous two indicators."
 msgstr ""
 
-#: ../../SO5.md:472
+#: ../../SO5.md:480
 msgid ""
 "The reporting country should select the most relevant Tier approach based"
 " on the capacities and data available."
 msgstr ""
 
-#: ../../SO5.md:474
+#: ../../SO5.md:482
 msgid "5.3.2. Prerequisites for reporting"
 msgstr ""
 
-#: ../../SO5.md:476
+#: ../../SO5.md:484
 msgid ""
 "Institutional arrangements in place for the collection of financial data "
 "on private resources allocated to combat DLDD."
 msgstr ""
 
-#: ../../SO5.md:478
+#: ../../SO5.md:486
 msgid ""
 "Capacity to access commercial databases to analyse private sector reports"
 " and dedicated case studies."
 msgstr ""
 
-#: ../../SO5.md:480
+#: ../../SO5.md:488
 msgid ""
 "Mechanisms to involve private actors in the compilation of the "
 "information."
 msgstr ""
 
-#: ../../SO5.md:482
+#: ../../SO5.md:490
 msgid "5.3.3. Reporting process and step-by-step procedure"
 msgstr ""
 
-#: ../../SO5.md:484
+#: ../../SO5.md:492
 msgid ""
 "The UNCCD offers the option to report on SO 5-3 both in qualitative and "
 "quantitative terms, subject to data availability. No default data will be"
 " provided against this indicator."
 msgstr ""
 
-#: ../../SO5.md:488
+#: ../../SO5.md:496
 msgid ""
 "Data relevant to this indicator are usually collected at central "
 "government level (in turn also from local authorities). Parties are "
 "encouraged to make their best efforts to provide information at the "
-"highest disaggregation level available. **Relevance to "
-"desertification/land degradation and drought**"
+"highest disaggregation level available."
 msgstr ""
 
-#: ../../SO5.md:490
+#: ../../SO5.md:500
 msgid ""
 "The relevance of funded activities, projects or investments of the "
 "private sector should be consistent with the DLDD-relevance criteria "
@@ -1327,7 +1322,7 @@ msgid ""
 "and international resource flows."
 msgstr ""
 
-#: ../../SO5.md:494
+#: ../../SO5.md:504
 msgid ""
 "OECD statistics on development finance (from the CRS) include activity-"
 "level data on funds from around 40 of the largest philanthropic "
@@ -1337,11 +1332,11 @@ msgid ""
 "contributions for development, including for SDG 14 and 15[^5]."
 msgstr ""
 
-#: ../../SO5.md:499
+#: ../../SO5.md:509
 msgid "Step 2: Estimate trends in international and domestic private resources"
 msgstr ""
 
-#: ../../SO5.md:501
+#: ../../SO5.md:511
 msgid ""
 "Tier 1 involves reporting trends in the progress indicator in qualitative"
 " terms (i.e., increasing, stable or declining trends) based on the expert"
@@ -1352,7 +1347,7 @@ msgid ""
 "table."
 msgstr ""
 
-#: ../../SO5.md:505
+#: ../../SO5.md:515
 msgid ""
 "SO5-3 requests the provision of relevant descriptive and qualitative "
 "information. The aim of this section is to provide Parties the space to "
@@ -1379,11 +1374,11 @@ msgid ""
 "donors and the European Union.”"
 msgstr ""
 
-#: ../../SO5.md:516 ../../SO5.md:674
+#: ../../SO5.md:526 ../../SO5.md:679
 msgid "Step 4: Compiling the table"
 msgstr ""
 
-#: ../../SO5.md:520
+#: ../../SO5.md:530
 msgid ""
 "The table for SO 5-3 provides space to report at project level (or at the"
 " highest level of disaggregation available) on actions, investments or "
@@ -1394,20 +1389,20 @@ msgid ""
 "definitions used."
 msgstr ""
 
-#: ../../SO5.md:522
+#: ../../SO5.md:532
 msgid ""
 "Year: Indicate the year relevant to the reported activity. Explain "
 "whether the fiscal or calendar year is used."
 msgstr ""
 
-#: ../../SO5.md:524
+#: ../../SO5.md:534
 msgid ""
 "Title of project, programme, activity or other: This field includes the "
 "title of the project or activity, as well as the type of investment and "
 "initiative."
 msgstr ""
 
-#: ../../SO5.md:526
+#: ../../SO5.md:536
 msgid ""
 "Total amount in USD: The amounts should be reported in USD; if the "
 "reporting country decides otherwise, the approach should be explained "
@@ -1417,19 +1412,19 @@ msgid ""
 "exchange rate is used."
 msgstr ""
 
-#: ../../SO5.md:528
+#: ../../SO5.md:538
 msgid ""
 "Financial instrument: Please indicate the financial instrument "
 "channelling the private resources reported."
 msgstr ""
 
-#: ../../SO5.md:530
+#: ../../SO5.md:540
 msgid ""
 "Type of institution:  Indicate which private entity is extending the "
 "resources relevant to DLDD."
 msgstr ""
 
-#: ../../SO5.md:532
+#: ../../SO5.md:542
 msgid ""
 "Recipient/domestic: Indicate the recipient’s name if the reporting "
 "country’s private sector contribution is addressed to a recipient third "
@@ -1438,7 +1433,7 @@ msgid ""
 "itself."
 msgstr ""
 
-#: ../../SO5.md:534
+#: ../../SO5.md:544
 msgid ""
 "Additional information: Please include any other activity-level "
 "information that you deem relevant, including the name of the private "
@@ -1446,91 +1441,91 @@ msgid ""
 "activity."
 msgstr ""
 
-#: ../../SO5.md:536
+#: ../../SO5.md:546
 msgid ""
 "Table 24 below is populated with some examples (further rows can be "
 "added):"
 msgstr ""
 
-#: ../../SO5.md:540
+#: ../../SO5.md:553
 msgid ""
 "*__Table 24__. Resources provided and received for International and "
 "Domestic private resources*"
 msgstr ""
 
-#: ../../SO5.md:4
+#: ../../SO5.md:3
 msgid "Total amount in USD"
 msgstr ""
 
-#: ../../SO5.md:6
+#: ../../SO5.md:5
 msgid "Type of institution"
 msgstr ""
 
-#: ../../SO5.md:7
+#: ../../SO5.md:6
 msgid "Recipient/domestic"
 msgstr ""
 
-#: ../../SO5.md:13
+#: ../../SO5.md:11
 msgid ""
 "Charitable grant, commercial loans, private export credit, private "
 "equities, private insurance, other (specify"
 msgstr ""
 
-#: ../../SO5.md:14
+#: ../../SO5.md:12
 msgid ""
 "Philanthropic foundation, non-profit institution, pension fund, private "
 "corporation, other (specify)"
 msgstr ""
 
-#: ../../SO5.md:18
+#: ../../SO5.md:15
 msgid "PPP **"
 msgstr ""
 
-#: ../../SO5.md:19
+#: ../../SO5.md:16
 msgid "2,500,000"
 msgstr ""
 
-#: ../../SO5.md:20 ../../SO5.md:36
+#: ../../SO5.md:17 ../../SO5.md:31
 msgid "Commercial loan"
 msgstr ""
 
-#: ../../SO5.md:21 ../../SO5.md:37
+#: ../../SO5.md:18 ../../SO5.md:32
 msgid "Private corporation"
 msgstr ""
 
-#: ../../SO5.md:22 ../../SO5.md:38
+#: ../../SO5.md:19 ../../SO5.md:33
 msgid "Domestic mobilization"
 msgstr ""
 
-#: ../../SO5.md:23
+#: ../../SO5.md:20
 msgid "Private loan blended with public grant funding"
 msgstr ""
 
-#: ../../SO5.md:24 ../../SO5.md:37
+#: ../../SO5.md:21 ../../SO5.md:37
 msgid "2018–2020"
 msgstr ""
 
-#: ../../SO5.md:26
+#: ../../SO5.md:22
 msgid "Risk mitigation instrument for land restoration"
 msgstr ""
 
-#: ../../SO5.md:27
+#: ../../SO5.md:23
 msgid "3,000,000"
 msgstr ""
 
-#: ../../SO5.md:28
+#: ../../SO5.md:24
 msgid "Private equity"
 msgstr ""
 
-#: ../../SO5.md:29
+#: ../../SO5.md:25
 msgid "Pension fund"
 msgstr ""
 
-#: ../../SO5.md:30
+#: ../../SO5.md:26
 msgid "Latin America"
 msgstr ""
 
-#: ../../SO5.md:31
+#: ../../SO5.md:27
 msgid ""
 "The Risk Mitigation Instrument for Land Restoration project combines a "
 "grant of USD X million with USD 3 million in private equity to deploy "
@@ -1538,37 +1533,37 @@ msgid ""
 " America."
 msgstr ""
 
-#: ../../SO5.md:34
+#: ../../SO5.md:29
 msgid ""
 "Desertification and Sandstorm Disaster Prevention and Control Project in "
 "the Western Region"
 msgstr ""
 
-#: ../../SO5.md:39
+#: ../../SO5.md:34
 msgid "Executing agency: XY Ecology Technology Co. Ltd."
 msgstr ""
 
-#: ../../SO5.md:40
+#: ../../SO5.md:35
 msgid "__Total international__"
 msgstr ""
 
-#: ../../SO5.md:48
-msgid "Total domestic"
+#: ../../SO5.md:42
+msgid "__Total domestic__"
 msgstr ""
 
-#: ../../SO5.md:56
-msgid "Total per year"
+#: ../../SO5.md:49
+msgid "__Total per year__"
 msgstr ""
 
-#: ../../SO5.md:59
+#: ../../SO5.md:51
 msgid "yyy"
 msgstr ""
 
-#: ../../SO5.md:612
+#: ../../SO5.md:617
 msgid "** The public contribution to the PPP is reported under SO 5-2."
 msgstr ""
 
-#: ../../SO5.md:616
+#: ../../SO5.md:621
 msgid ""
 "Figures will be aggregated as totals by geography (one figure for "
 "domestic private resources, one figure for international private "
@@ -1578,11 +1573,11 @@ msgid ""
 "at domestic and international level."
 msgstr ""
 
-#: ../../SO5.md:620 ../../SO5.md:811
+#: ../../SO5.md:625 ../../SO5.md:816
 msgid "Step 5: Reporting methodological information"
 msgstr ""
 
-#: ../../SO5.md:622
+#: ../../SO5.md:627
 msgid ""
 "Unlike indicators SO 5-1 and SO 5-2 (which include a documentation box), "
 "the SO 5-3 indicator includes a separate question for the methodological "
@@ -1593,15 +1588,15 @@ msgid ""
 "country."
 msgstr ""
 
-#: ../../SO5.md:624
+#: ../../SO5.md:629
 msgid "5.4. SO5-4 – Technology transfer"
 msgstr ""
 
-#: ../../SO5.md:626
+#: ../../SO5.md:631
 msgid "5.4.1. Introduction"
 msgstr ""
 
-#: ../../SO5.md:628
+#: ../../SO5.md:633
 msgid ""
 "The Convention explicitly requires Parties to promote, finance and "
 "facilitate the financing of the transfer, acquisition, adaptation and "
@@ -1613,7 +1608,7 @@ msgid ""
 "cooperation (Article 20)."
 msgstr ""
 
-#: ../../SO5.md:630
+#: ../../SO5.md:635
 msgid ""
 "This indicator aims at collecting information from Parties on resources "
 "allocated to the transfer of technologies to implement the Convention, "
@@ -1622,42 +1617,42 @@ msgid ""
 "qualitative and quantitative manner."
 msgstr ""
 
-#: ../../SO5.md:632
+#: ../../SO5.md:637
 msgid "5.4.2. Prerequisites for reporting"
 msgstr ""
 
-#: ../../SO5.md:634
+#: ../../SO5.md:639
 msgid ""
 "Access to databases which allow for the identification of DLDD-related "
 "projects or activities that include a technology transfer component."
 msgstr ""
 
-#: ../../SO5.md:636
+#: ../../SO5.md:641
 msgid ""
 "Capacity to undertake an inventory or a case-by-case approach if "
 "available data do identify technology transfer projects that address "
 "DLDD."
 msgstr ""
 
-#: ../../SO5.md:638
+#: ../../SO5.md:643
 msgid ""
 "Capacity to select the most significant projects and activities focusing "
 "on technology transfer or including a technology transfer component and "
 "provide information on those selected projects."
 msgstr ""
 
-#: ../../SO5.md:640
+#: ../../SO5.md:645
 msgid "5.4.3. Reporting process and step-by-step procedure"
 msgstr ""
 
-#: ../../SO5.md:642
+#: ../../SO5.md:647
 msgid ""
 "The UNCCD offers the option to report on SO 5-4 both in qualitative and "
 "quantitative terms, subject to data availability. No default data will be"
 " provided against this indicator."
 msgstr ""
 
-#: ../../SO5.md:646
+#: ../../SO5.md:651
 msgid ""
 "There is currently no defined methodology for identifying DLDD-relevant "
 "activities that include a technology transfer component or are "
@@ -1665,7 +1660,7 @@ msgid ""
 "DLDD; however, the template may accommodate different approaches."
 msgstr ""
 
-#: ../../SO5.md:648
+#: ../../SO5.md:653
 msgid ""
 "The suggested approach is to draw upon the OECD DAC CRS database for ODA "
 "flows, OOF, and Private development finance and the Rio Marker for "
@@ -1679,13 +1674,13 @@ msgid ""
 "technologies."
 msgstr ""
 
-#: ../../SO5.md:652
+#: ../../SO5.md:657
 msgid ""
 "Step 2: Estimate trends in technology transfer resources provided and "
 "received"
 msgstr ""
 
-#: ../../SO5.md:654
+#: ../../SO5.md:659
 msgid ""
 "Choose the option representing the trend in the international resources "
 "provided and received for technology transfer activities for the "
@@ -1695,56 +1690,56 @@ msgid ""
 " trend for either one. Select only one option for each table."
 msgstr ""
 
-#: ../../SO5.md:658
+#: ../../SO5.md:663
 msgid ""
 "The aim of this section is to provide Parties the space to report "
 "information on context and complement the reporting against Tier 1 "
 "(trends) or Tier 2 (table)."
 msgstr ""
 
-#: ../../SO5.md:660
+#: ../../SO5.md:665
 msgid "The description may include:"
 msgstr ""
 
-#: ../../SO5.md:662
+#: ../../SO5.md:667
 msgid ""
 "Strategies employed to support technology development and transfer, "
 "including case studies."
 msgstr ""
 
-#: ../../SO5.md:664
+#: ../../SO5.md:669
 msgid ""
 "Support for the development and enhancement of in-country capacities and "
 "technologies."
 msgstr ""
 
-#: ../../SO5.md:666
+#: ../../SO5.md:671
 msgid ""
 "Resources provided, received, and required for the use and dissemination "
 "of modern technology for the collection, transmission, and assessment of "
 "data on land degradation."
 msgstr ""
 
-#: ../../SO5.md:668
+#: ../../SO5.md:673
 msgid ""
 "Measures to facilitate the adaptation of technology, knowledge, know-how "
 "and practices to wide use and integration with modern technology."
 msgstr ""
 
-#: ../../SO5.md:670
+#: ../../SO5.md:675
 msgid ""
 "How Parties cooperate internationally in the fields of technology "
 "transfer as well as scientific research and development."
 msgstr ""
 
-#: ../../SO5.md:672
+#: ../../SO5.md:677
 msgid ""
 "Efforts to encourage private sector activities related to technology "
 "development and transfer and how such efforts support developing country "
 "Parties."
 msgstr ""
 
-#: ../../SO5.md:676
+#: ../../SO5.md:681
 msgid ""
 "Under Tier 2, country Parties are encouraged to report by recording data "
 "about individual projects aimed at transferring technologies to combat "
@@ -1757,14 +1752,14 @@ msgid ""
 "respect to the use of the SO 5-1 parameter."
 msgstr ""
 
-#: ../../SO5.md:680
+#: ../../SO5.md:685
 msgid ""
 "The reporting Party can choose the methodology to accommodate definitions"
 " is use, but the reporting manual suggests some approaches for each "
 "parameter included in the table."
 msgstr ""
 
-#: ../../SO5.md:682
+#: ../../SO5.md:687
 msgid ""
 "Provided/received/required: Indicate ‘provided’ if for the reported "
 "activity the reporting country is the provider of the technology "
@@ -1774,7 +1769,7 @@ msgid ""
 " country."
 msgstr ""
 
-#: ../../SO5.md:684
+#: ../../SO5.md:689
 msgid ""
 "Year: Indicate the year relevant to the reported activity. Explain "
 "whether fiscal or calendar year is used. It is possible to indicate a "
@@ -1782,11 +1777,11 @@ msgid ""
 "period."
 msgstr ""
 
-#: ../../SO5.md:686
+#: ../../SO5.md:691
 msgid "Title of project, programme, activity or other."
 msgstr ""
 
-#: ../../SO5.md:688
+#: ../../SO5.md:693
 msgid ""
 "Total amount in USD: The amounts should be reported in USD. If the "
 "reporting country decides otherwise, the approach should be explained "
@@ -1798,7 +1793,7 @@ msgid ""
 "counting should be avoided."
 msgstr ""
 
-#: ../../SO5.md:690
+#: ../../SO5.md:695
 msgid ""
 "Recipient/provider: Indicate the name of the recipient if your country is"
 " the provider of resources; indicate the name of provider if your country"
@@ -1810,43 +1805,43 @@ msgid ""
 "recipients of resources in the initiative."
 msgstr ""
 
-#: ../../SO5.md:692
+#: ../../SO5.md:697
 msgid ""
 "Description and objectives: Include information on the objective of the "
 "technology transferred in the new context."
 msgstr ""
 
-#: ../../SO5.md:694
+#: ../../SO5.md:699
 msgid ""
 "Sector: Indicate the sector according to the classification system used "
 "in other indicators."
 msgstr ""
 
-#: ../../SO5.md:696
+#: ../../SO5.md:701
 msgid ""
 "Type of technology: Indicate the technology/ies being transferred. "
 "Explain the definition and categorization used for DLDD-relevant "
 "technologies in the methodological information."
 msgstr ""
 
-#: ../../SO5.md:698
+#: ../../SO5.md:703
 msgid "Activities undertaken by the private sector, public sector of both."
 msgstr ""
 
-#: ../../SO5.md:700
+#: ../../SO5.md:705
 msgid ""
 "Status of measure of activity: Indicate whether the activity is planned, "
 "ongoing or completed at the time of the last reporting year."
 msgstr ""
 
-#: ../../SO5.md:702
+#: ../../SO5.md:707
 msgid ""
 "Timeframe of measure or activity: It is possible to indicate the "
 "timeframe covered by the implementation of the project, or the year of "
 "commitment or disbursement of amounts."
 msgstr ""
 
-#: ../../SO5.md:704
+#: ../../SO5.md:709
 msgid ""
 "Use, impact and (estimated) results: include additional project-level "
 "information about the use of resources, the impact with respect to the "
@@ -1854,7 +1849,7 @@ msgid ""
 "not conclude before the end of the reporting period)."
 msgstr ""
 
-#: ../../SO5.md:706
+#: ../../SO5.md:711
 msgid ""
 "Additional information: Please include any other activity-level "
 "information that you deem relevant, including, for example, information "
@@ -1862,13 +1857,13 @@ msgid ""
 " private sector."
 msgstr ""
 
-#: ../../SO5.md:708
+#: ../../SO5.md:713
 msgid ""
 "Table 25 below is populated with some examples (further rows can be "
 "added):"
 msgstr ""
 
-#: ../../SO5.md:712
+#: ../../SO5.md:717
 msgid ""
 "*__Table 25__.   Resources provided, received, and required for "
 "technology transfer measures or activities*"
@@ -1936,6 +1931,10 @@ msgstr ""
 
 #: ../../SO5.md:31
 msgid "Democratic Republic of the Congo"
+msgstr ""
+
+#: ../../SO5.md:32 ../../SO5.md:64
+msgid "…"
 msgstr ""
 
 #: ../../SO5.md:33
@@ -2026,31 +2025,31 @@ msgstr ""
 msgid "__Totals per year__"
 msgstr ""
 
-#: ../../SO5.md:813
+#: ../../SO5.md:818
 msgid ""
 "The SO 5-4 indicator includes a separate question for the methodological "
 "information, providing the space to report any relevant approaches and "
 "definition used in the reporting."
 msgstr ""
 
-#: ../../SO5.md:815
+#: ../../SO5.md:820
 msgid ""
 "5.5. SO5-5 – Future support for activities related to the implementation "
 "of the Convention"
 msgstr ""
 
-#: ../../SO5.md:817
+#: ../../SO5.md:822
 msgid "5.5.1. Introduction"
 msgstr ""
 
-#: ../../SO5.md:819
+#: ../../SO5.md:824
 msgid ""
 "SO5-5 is a qualitative indicator with three questions that encourage "
 "country Parties to reflect on future resources to be targeted at "
 "implementing the Convention."
 msgstr ""
 
-#: ../../SO5.md:821
+#: ../../SO5.md:826
 msgid ""
 "In particular, the indicator allows country Parties to provide "
 "descriptive information on planned domestic resources, both public and "
@@ -2060,35 +2059,35 @@ msgid ""
 " Parties for the implementation of the Convention."
 msgstr ""
 
-#: ../../SO5.md:823
+#: ../../SO5.md:828
 msgid "5.5.2. Prerequisites for reporting"
 msgstr ""
 
-#: ../../SO5.md:825
+#: ../../SO5.md:830
 msgid ""
 "Access to provisional budgets of central administrations for both "
 "domestic and international resource allocation, and the capacity to "
 "distinguish DLDD-related funds."
 msgstr ""
 
-#: ../../SO5.md:827
+#: ../../SO5.md:832
 msgid ""
 "Adoption of a consistent and clear methodology to estimate the "
 "quantitative amounts of resources needed to implement the Convention."
 msgstr ""
 
-#: ../../SO5.md:829
+#: ../../SO5.md:834
 msgid "5.5.3. Reporting process and step-by-step procedure"
 msgstr ""
 
-#: ../../SO5.md:831
+#: ../../SO5.md:836
 msgid ""
 "The indicator offers the option to report on three different aspects of "
 "future support through SO 5-5 in qualitative terms. No default data will "
 "be provided against this indicator."
 msgstr ""
 
-#: ../../SO5.md:833
+#: ../../SO5.md:838
 msgid ""
 "At national level, information can be found in the relevant sections of "
 "public provisional budgets, as well as in environment-related financial "
@@ -2097,7 +2096,7 @@ msgid ""
 "as available data from research, case studies and dedicated datasets."
 msgstr ""
 
-#: ../../SO5.md:835
+#: ../../SO5.md:840
 msgid ""
 "SO5-5.1: Planned provision and mobilization of domestic public and "
 "private resources"
@@ -2122,7 +2121,7 @@ msgid ""
 "15.”"
 msgstr ""
 
-#: ../../SO5.md:846
+#: ../../SO5.md:851
 msgid ""
 "SO5-5.2: Planned provision and mobilization of international public and "
 "private resources"
@@ -2150,7 +2149,7 @@ msgid ""
 "programming document"
 msgstr ""
 
-#: ../../SO5.md:857
+#: ../../SO5.md:862
 msgid "SO5-5.3: Resources needed"
 msgstr ""
 
@@ -2181,11 +2180,11 @@ msgid ""
 "objectives of the national LDN targets."
 msgstr ""
 
-#: ../../SO5.md:870
+#: ../../SO5.md:875
 msgid "**Aggregating the information**"
 msgstr ""
 
-#: ../../SO5.md:872
+#: ../../SO5.md:877
 msgid ""
 "Aggregation of figures for this indicator is not envisaged. Aggregated "
 "figures could be included by reporting countries. In this case, reporting"
@@ -2196,7 +2195,10 @@ msgid ""
 msgstr ""
 
 #: ../../SO5.md:31
-msgid "For methodological information see Methodological Note."
+msgid ""
+"For methodological information see [Methodological "
+"Note](https://www.unccd.int/conventionreporting-process-and-prais/peer-"
+"reviewed-indicator-related-methodological-documents-2021)."
 msgstr ""
 
 #: ../../SO5.md:108
@@ -2208,26 +2210,55 @@ msgid ""
 "reported at 100 %."
 msgstr ""
 
-#: ../../SO5.md:350
+#: ../../SO5.md:358
 msgid "The database is freely accessible at www.oecd.org/env/policies/database"
 msgstr ""
 
-#: ../../SO5.md:496
+#: ../../SO5.md:506
 msgid ""
 "See <https://www.oecd.org/development/financing-sustainable-development"
 "/development-finance-standards/beyond-oda-foundations.htm>."
 msgstr ""
 
-#: ../../SO5.md:497
+#: ../../SO5.md:507
 msgid ""
 "See <https://www.oecd.org/dac/financing-sustainable-development"
 "/development-finance-standards/mobilisation.htm>."
 msgstr ""
 
-#: ../../SO5.md:650
+#: ../../SO5.md:655
 msgid ""
 "https://tech-action.unepdtu.org/wp-content/uploads/sites/2/2021/04"
 "/report-on-taxonomy-of-climate-change-adaptation-technology-including-"
 "factsheets-finalbrief-tna-adaptation-taxonomy.pdf."
 msgstr ""
+
+#~ msgid "Total amount USD"
+#~ msgstr ""
+
+#~ msgid "{rspan}`1` __Subsidies related to combating DLDD__"
+#~ msgstr ""
+
+#~ msgid "__Other transfers__"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Data relevant to this indicator are "
+#~ "usually collected at central government "
+#~ "level (in turn also from local "
+#~ "authorities). Parties are encouraged to "
+#~ "make their best efforts to provide "
+#~ "information at the highest disaggregation "
+#~ "level available. **Relevance to "
+#~ "desertification/land degradation and drought**"
+#~ msgstr ""
+
+#~ msgid "Total domestic"
+#~ msgstr ""
+
+#~ msgid "Total per year"
+#~ msgstr ""
+
+#~ msgid "For methodological information see Methodological Note."
+#~ msgstr ""
 
