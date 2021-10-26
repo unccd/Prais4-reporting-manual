@@ -296,7 +296,6 @@ align: center
 
 ### Tables (flat-table plugin)
 
-
 ```{tabularcolumns} |p{1cm}|p{1.5cm}|p{1.5cm}|p{2.5cm}|p{1.5cm}|p{4cm}|
 ```
 
@@ -307,6 +306,7 @@ align: center
 ---
 header-rows: 2
 class: table123
+name: mytable
 widths: 2 3 3 5 3 8
 ---
    * - {rspan}`1` Indicator code

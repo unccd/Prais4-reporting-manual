@@ -213,6 +213,9 @@ Table 9 presents an example of a transition matrix for the default UNCCD land co
 
 For completeness, water bodies are also included in the matrix, although the focus of reporting is on total land area for the purpose of calculating SDG indicator 15.3.1. All water body-related transitions are set as ‘stable’ by default, but Parties may alter these values if changes in the extent of water bodies during the baseline or the reporting period had a significant impact on land cover. It should be noted that any change in the extent of inland water bodies affects the total land area, which needs to be adjusted accordingly.
 
+```{cssclass} table-9
+```
+
 ```{flat-table} *__Table 9__. Example of a land cover transition matrix using the seven UNCCD land cover classes*
 ---
 header-rows: 3
@@ -724,6 +727,9 @@ Parties may use this table to combine custom Trend, State and Performance result
 {{pagebreak}}
 
 ```{tabularcolumns} |p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{3cm}|p{3cm}|
+```
+
+```{cssclass} table-13
 ```
 
 ```{flat-table} *__Table 13__. Combination of productivity metrics to determine five classes of land productivity dynamics and three classes of land productivity degradation per pixel in the reporting period*
