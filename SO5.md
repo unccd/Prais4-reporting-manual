@@ -28,7 +28,7 @@ Tier 2 reporting is additional to Tier 1 reporting and provides a tabular format
 
 This indicator aims to capture information on international resources provided and received through bilateral and multilateral channels. The indicator envisages reporting of information on the trends over the four -year period (Tier 1) and additional quantitative data at disaggregated level in tabular format (Tier 2). Default data will be provided based on the desertification Rio Marker of the OECD, when available[^1].
 
-[^1]: For methodological information see Methodological Note.
+[^1]: For methodological information see [Methodological Note](https://www.unccd.int/conventionreporting-process-and-prais/peer-reviewed-indicator-related-methodological-documents-2021).
 
 ### 5.1.2. Prerequisites for reporting
 
@@ -491,7 +491,9 @@ The UNCCD offers the option to report on SO 5-3 both in qualitative and quantita
 
 #### Step 1: Identification of relevant data
 
-Data relevant to this indicator are usually collected at central government level (in turn also from local authorities). Parties are encouraged to make their best efforts to provide information at the highest disaggregation level available. **Relevance to desertification/land degradation and drought**
+Data relevant to this indicator are usually collected at central government level (in turn also from local authorities). Parties are encouraged to make their best efforts to provide information at the highest disaggregation level available.
+
+##### Relevance to desertification/land degradation and drought
 
 The relevance of funded activities, projects or investments of the private sector should be consistent with the DLDD-relevance criteria employed to report against the other indicators for monitoring domestic and international resource flows.
 
@@ -543,12 +545,14 @@ Table 24 below is populated with some examples (further rows can be added):
 
 {{pagebreak}}
 
+```{cssclass} table-24
+```
+
 ```{flat-table} *__Table 24__. Resources provided and received for International and Domestic private resources*
 ---
 header-rows: 2
 ---
 * - Year
-  - 
   - Title of project, programme, activity or other
   - Total amount in USD
   - Financial instrument
@@ -558,12 +562,10 @@ header-rows: 2
 * - 
   - 
   - 
-  - 
   - Charitable grant, commercial loans, private export credit, private equities, private insurance, other (specify
   - Philanthropic foundation, non-profit institution, pension fund, private corporation, other (specify)
   - 
 * - 2018
-  - 
   - PPP **
   - 2,500,000
   - Commercial loan
@@ -571,7 +573,6 @@ header-rows: 2
   - Domestic mobilization
   - Private loan blended with public grant funding
 * - 2018–2020
-  - 
   - Risk mitigation instrument for land restoration
   - 3,000,000
   - Private equity
@@ -579,7 +580,6 @@ header-rows: 2
   - Latin America
   - The Risk Mitigation Instrument for Land Restoration project combines a grant of USD X million with USD 3 million in private equity to deploy innovative risk mitigation instruments to restore degraded lands in Latin America.
 * - 2019
-  - 
   - Desertification and Sandstorm Disaster Prevention and Control Project in the Western Region
   - 1,400,000
   - Commercial loan
@@ -588,22 +588,19 @@ header-rows: 2
   - Executing agency: XY Ecology Technology Co. Ltd.
 * - __Total international__ 
   - 
-  - 
   - xxx
   - 
   - 
   - 
   - 
-* - Total domestic       
+* - __Total domestic__
   - 
   - 
   - 
   - 
   - 
   - 
-  - 
-* - Total per year    
-  - 
+* - __Total per year__
   - 
   - yyy
   - 
