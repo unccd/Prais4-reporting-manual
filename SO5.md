@@ -395,7 +395,7 @@ Table 23 below is populated with some examples (further rows can be added):
 
 ```{flat-table} *__Table 23__.  Resources provided received, and required for domestic public resources*
 ---
-header-rows: 2
+header-rows: 1
 ---
 * - 
   - Year
@@ -423,14 +423,14 @@ header-rows: 2
   - 
   - 
   - 
-* - {rspan}`1` __Subsidies related to combating DLDD__
+* - {rspan}`1` Subsidies related to combating DLDD
   - 2020
   - USD 12,500,000
   - Government subsidy for agricultural land restoration – land conservation
 * - 2018-2020
   - USD 5,600,000
   - Property tax exemption for private land
-* - __Other transfers__
+* - _Other transfers_
   - 
   - 
   - 
