@@ -2,9 +2,21 @@
 
 ## A
 
-- _Above ground biomass_: The biomass of living vegetation, both woody and herbaceous, above the soil including stems, stumps, branches, bark, seeds, and foliage
+```{flat-table}
+---
+header-rows: 1
+widths: 1 5
+---
+* - Term
+  - Definition
+* - Above ground biomass
+  - The biomass of living vegetation, both woody and herbaceous, above the soil including stems, stumps, branches, bark, seeds, and foliage
+* - Adaptation
+  - The process of adjustment to actual or expected climate and its effects. In human systems, adaptation seeks to moderate or avoid harm or exploit beneficial opportunities. In some natural systems, human intervention may facilitate adjustment to expected climate and its effects
+```
 
-- _Adaptation_: The process of adjustment to actual or expected climate and its effects. In human systems, adaptation seeks to moderate or avoid harm or exploit beneficial opportunities. In some natural systems, human intervention may facilitate adjustment to expected climate and its effects
+
+
 
 ## B
 
@@ -13,8 +25,8 @@
 header-rows: 1
 widths: 1 5
 ---
-* - Item
-  - Description
+* - Term
+  - Definition
 * - Baseline
   - The baseline (or reference) is the state against which change is measured.
     
