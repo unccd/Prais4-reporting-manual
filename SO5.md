@@ -143,6 +143,8 @@ The table for SO 5-1 provides space to report activities or projects relevant to
 
 Table 22 below is compiled with some examples:
 
+{{pagebreak}}
+
 ```{cssclass} table-22
 ```
 
@@ -493,11 +495,11 @@ The UNCCD offers the option to report on SO 5-3 both in qualitative and quantita
 
 Data relevant to this indicator are usually collected at central government level (in turn also from local authorities). Parties are encouraged to make their best efforts to provide information at the highest disaggregation level available.
 
-**Relevance to desertification/land degradation and drought**
+##### Relevance to desertification/land degradation and drought
 
 The relevance of funded activities, projects or investments of the private sector should be consistent with the DLDD-relevance criteria employed to report against the other indicators for monitoring domestic and international resource flows.
 
-**Flows**
+##### Flows
 
 OECD statistics on development finance (from the CRS) include activity-level data on funds from around 40 of the largest philanthropic foundations, many of which provide finance for environmental objectives[^4].  The OECD statistics on the amounts mobilized from the private sector also provide insights on international private sector contributions for development, including for SDG 14 and 15[^5].  
 
