@@ -20,4 +20,3 @@ PRAIS4 Reporting Manual
    implementationFramework
    annex_I
    annex_II
-   glossary
