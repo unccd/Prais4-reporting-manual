@@ -401,7 +401,7 @@ header-rows: 1
   - Year
   - Amount in USD
   - Additional information
-* - __Government expenditures__
+* - __Government expenditures__ 
   - 
   - 
   - 
