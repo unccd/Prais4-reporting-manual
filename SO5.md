@@ -143,6 +143,9 @@ The table for SO 5-1 provides space to report activities or projects relevant to
 
 Table 22 below is compiled with some examples:
 
+```{cssclass} table-22
+```
+
 ```{flat-table} *__Table 22__. Resources provided and received for Bilateral and Multilateral Public Resources*
 ---
 header-rows: 2
@@ -151,7 +154,7 @@ header-rows: 2
   - Year
   - Recipient/provider
   - Title of project, programme, activity or other
-  - Total amount USD
+  - {cspan}`1`Total amount USD
   - Sector
   - Capacity-building
   - Technology transfer
@@ -194,9 +197,9 @@ header-rows: 2
   - ODA
   - Loan
   - Indirectly
-  - -
-  - …
-  - …
+  - \-
+  - \-
+  - \-
 * - P
   - 20
   - Ethiopia
@@ -211,9 +214,9 @@ header-rows: 2
   - ODA
   - Loan
   - Indirectly
-  - -
-  - …
-  - …
+  - \-
+  - \-
+  - \-
 * - R
   - 17-20
   - GEF
@@ -228,7 +231,7 @@ header-rows: 2
   - ODA
   - Grant
   - Directly
-  - -
+  - \-
   - Description
   - Description 
 * - R
@@ -306,6 +309,9 @@ header-rows: 2
   - Σ
   - Σ
   - {cspan}`10`
+```
+
+```{rst-class} smaller-text
 ```
 
 \* If disaggregated information is not available, the Party can report only the total amount or the total amounts per year.

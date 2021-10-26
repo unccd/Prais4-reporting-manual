@@ -191,6 +191,13 @@ html.writer-html5 .rst-content table.docutils.table-9 th>p, html.writer-html5 .r
 .rst-content table.table-13 tr:nth-child(18) td:nth-child(5) {background-color: red; color: black;}
 .rst-content table.table-13 tr:nth-child(18) td:nth-child(6) {background-color: red; color: black;}
 
+/* Table 22 in SO5 */
+
+html.writer-html5 .rst-content table.docutils.table-22 th>p, html.writer-html5 .rst-content table.docutils.table-22 td>p {
+  font-size: 0.7rem;
+}
+.rst-content table.table-22 tr:nth-child(1) th:nth-child(4) {min-width: 8rem;}
+
 
 /* BLockquotes */
 .rst-content blockquote {
