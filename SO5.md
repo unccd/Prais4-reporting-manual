@@ -154,7 +154,7 @@ header-rows: 2
   - Year
   - Recipient/provider
   - Title of project, programme, activity or other
-  - {cspan}`1`Total amount USD
+  - {cspan}`1` Total amount USD
   - Sector
   - Capacity-building
   - Technology transfer
