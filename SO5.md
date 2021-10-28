@@ -576,28 +576,27 @@ Table 24 below is populated with some examples (further rows can be added):
 
 {{pagebreak}}
 
-```{cssclass} table-24
+```{raw} latex
+    \small
 ```
 
-```{flat-table} *__Table 24__. Resources provided and received for International and Domestic private resources*
+```{tabularcolumns} |p{1.7cm}|p{1.9cm}|p{1.5cm}|p{1.5cm}|p{1.5cm}|p{1.6cm}|p{3cm}|
+```
+
+```{list-table} *__Table 24__. Resources provided and received for International and Domestic private resources*
 ---
-header-rows: 2
+header-rows: 1
+class: table-24
 ---
 * - Year
   - Title of project, programme, activity or other
   - Total amount in USD
-  - Financial instrument
-  - Type of institution
-  - Recipient/domestic 
+  - Financial instrument{sup}`1`
+  - Type of institution{sup}`2`
+  - Recipient/ domestic {sup}`3`
   - Additional information
-* - 
-  - 
-  - 
-  - Charitable grant, commercial loans, private export credit, private equities, private insurance, other (specify
-  - Philanthropic foundation, non-profit institution, pension fund, private corporation, other (specify)
-  - 
 * - 2018
-  - PPP **
+  - PPP \*\*
   - 2,500,000
   - Commercial loan
   - Private corporation
@@ -640,10 +639,17 @@ header-rows: 2
   - 
 ```
 
-```{rst-class} smaller-text
+```{raw} latex
+    \small
 ```
 
+```{rst-class} smaller-text
 ** The public contribution to the PPP is reported under SO 5-2.
+
+{sup}`1` Charitable grant, commercial loans, private export credit, private equities, private insurance, other (specify){{br}}
+{sup}`2` Philanthropic foundation, non-profit institution, pension fund, private corporation, other (specify){{br}}
+{sup}`3` Recipient country/region domestic mobilization
+```
 
 ##### Aggregating the information
 
