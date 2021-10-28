@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-25 19:51+0300\n"
+"POT-Creation-Date: 2021-10-28 17:45+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,32 +26,38 @@ msgstr ""
 msgid "A"
 msgstr ""
 
-#: ../../glossary.md:5
-msgid ""
-"_Above ground biomass_: The biomass of living vegetation, both woody and "
-"herbaceous, above the soil including stems, stumps, branches, bark, "
-"seeds, and foliage"
-msgstr ""
-
-#: ../../glossary.md:7
-msgid ""
-"_Adaptation_: The process of adjustment to actual or expected climate and"
-" its effects. In human systems, adaptation seeks to moderate or avoid "
-"harm or exploit beneficial opportunities. In some natural systems, human "
-"intervention may facilitate adjustment to expected climate and its "
-"effects"
-msgstr ""
-
-#: ../../glossary.md:9
-msgid "B"
-msgstr ""
-
 #: ../../glossary.md:1
-msgid "Item"
+msgid "Term"
 msgstr ""
 
 #: ../../glossary.md:2
-msgid "Description"
+msgid "Definition"
+msgstr ""
+
+#: ../../glossary.md:3
+msgid "Above ground biomass"
+msgstr ""
+
+#: ../../glossary.md:4
+msgid ""
+"The biomass of living vegetation, both woody and herbaceous, above the "
+"soil including stems, stumps, branches, bark, seeds, and foliage"
+msgstr ""
+
+#: ../../glossary.md:5
+msgid "Adaptation"
+msgstr ""
+
+#: ../../glossary.md:6
+msgid ""
+"The process of adjustment to actual or expected climate and its effects. "
+"In human systems, adaptation seeks to moderate or avoid harm or exploit "
+"beneficial opportunities. In some natural systems, human intervention may"
+" facilitate adjustment to expected climate and its effects"
+msgstr ""
+
+#: ../../glossary.md:21
+msgid "B"
 msgstr ""
 
 #: ../../glossary.md:3
@@ -81,4 +87,29 @@ msgid ""
 "should be calculated, is the 16 years from 1 January 2000 to 31 December "
 "2015"
 msgstr ""
+
+#~ msgid ""
+#~ "_Above ground biomass_: The biomass of"
+#~ " living vegetation, both woody and "
+#~ "herbaceous, above the soil including "
+#~ "stems, stumps, branches, bark, seeds, "
+#~ "and foliage"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "_Adaptation_: The process of adjustment "
+#~ "to actual or expected climate and "
+#~ "its effects. In human systems, "
+#~ "adaptation seeks to moderate or avoid"
+#~ " harm or exploit beneficial opportunities."
+#~ " In some natural systems, human "
+#~ "intervention may facilitate adjustment to "
+#~ "expected climate and its effects"
+#~ msgstr ""
+
+#~ msgid "Item"
+#~ msgstr ""
+
+#~ msgid "Description"
+#~ msgstr ""
 

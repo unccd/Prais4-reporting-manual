@@ -53,12 +53,28 @@ myst_substitutions = {
   <br>
   ```
   ```{raw} latex
-  \mbox{}\\newline
+  \mbox{}\newline
   ```
   """,
   "pagebreak": r"""
   ```{raw} latex
   \newpage
+  ```
+  """,
+  "smallertext": r"""
+  ```{rst-class} smaller-text
+  ```
+
+  ```{raw} latex
+    \small
+  ```
+  """,
+  "smalltext": r"""
+  ```{rst-class} small-text
+  ```
+
+  ```{raw} latex
+    \scriptsize
   ```
   """
 }

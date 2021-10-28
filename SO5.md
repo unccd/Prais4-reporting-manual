@@ -145,46 +145,42 @@ Table 22 below is compiled with some examples:
 
 {{pagebreak}}
 
+```{raw} latex
+    \begin{landscape}
+```
+
 ```{cssclass} table-22
+```
+
+```{raw} latex
+    \scriptsize
+```
+
+```{tabularcolumns} |p{0.35cm}|p{0.4cm}|p{0.9cm}|p{1.8cm}|p{1.1cm}|p{1.2cm}|p{1.45cm}|p{0.8cm}|p{1.1cm}|p{0.8cm}|p{1.1cm}|p{0.5cm}|p{1.15cm}|p{1.05cm}|p{1.2cm}|p{1.1cm}|p{1.2cm}|
 ```
 
 ```{flat-table} *__Table 22__. Resources provided and received for Bilateral and Multilateral Public Resources*
 ---
 header-rows: 2
 ---
-* - Provided/received
-  - Year
-  - Recipient/provider
-  - Title of project, programme, activity or other
+* - {rspan}`1`P/R{sup}`1`
+  - {rspan}`1`Year{sup}`2`
+  - {rspan}`1`Recipient or provider{sup}`3`
+  - {rspan}`1`Title{sup}`4`
   - {cspan}`1` Total amount USD
-  - Sector
-  - Capacity-building
-  - Technology transfer
-  - Gender equality
-  - Channel
-  - Type of flow
-  - Financial instrument
-  - Type of support
-  - Amount mobilized through public interventions
-  - Use, impact, (estimated) results
-  - Additional information
-* - P/R
-  - 20XX
-  - Recipient/provider country, region, global recipient/provider institution, entity
-  -
-  - Committed
-  - Disbursed/received
-  - Agriculture, forestry, water and sanitation, cross-cutting, other (specify)
-  - Yes, no
-  - Yes, no
-  - Yes, no
-  - Bilateral, multilateral (core contribution) multilateral (DLDD-specific) multi-bilateral, other (specify)
-  - ODA, OOF other (specify)
-  - Grant, concessional loan, non-concessional loan, equity guarantee/insurance, other (specify)
-  - Directly or indirectly related to DLDD
-  - 
-  - 
-  - 
+  - {rspan}`1`Sector{sup}`5`
+  - {rspan}`1`Capacity building{sup}`6`
+  - {rspan}`1`Technology transfer{sup}`6`
+  - {rspan}`1`Gender equality{sup}`6`
+  - {rspan}`1`Channel{sup}`7`
+  - {rspan}`1`Type of flow{sup}`8`
+  - {rspan}`1`Financial instrument{sup}`9`
+  - {rspan}`1`Type of support{sup}`10`
+  - {rspan}`1`Amount mobilized through public interventions
+  - {rspan}`1`Use, impact, (estimated) results
+  - {rspan}`1`Additional information
+* - Committed
+  - Disbursed or received
 * - P
   - 19
   - Ethiopia
@@ -195,7 +191,8 @@ header-rows: 2
   - Yes
   - No
   - No
-  - Multi-bilateral
+  - Multi
+    -bilateral
   - ODA
   - Loan
   - Indirectly
@@ -212,7 +209,8 @@ header-rows: 2
   - Yes
   - No
   - No
-  - Multi-bilateral
+  - Multi
+    -bilateral
   - ODA
   - Loan
   - Indirectly
@@ -220,7 +218,7 @@ header-rows: 2
   - \-
   - \-
 * - R
-  - 17-20
+  - 17 - 20
   - GEF
   - Revision and Alignment of the NAP with the UNCCD Strategic Plan
   - 150,000
@@ -314,9 +312,37 @@ header-rows: 2
 ```
 
 ```{rst-class} smaller-text
+\* If disaggregated information is not available, the Party can report only the total amount or the total amounts per year.
 ```
 
-\* If disaggregated information is not available, the Party can report only the total amount or the total amounts per year.
+```{raw} latex
+  \small
+```
+
+```{raw} latex
+    \end{landscape}
+```
+
+```{raw} latex
+  \scriptsize
+```
+
+```{rst-class} smaller-text
+{sup}`1` Provided/Received{{br}}
+{sup}`2` 20XX{{br}}
+{sup}`3` Recipient/provider country, region, global recipient/provider institution, entity{{br}}
+{sup}`4` Title of project, programme, activity or other{{br}}
+{sup}`5` Agriculture, forestry, water and sanitation, cross-cutting, other (specify){{br}}
+{sup}`6` Yes / No{{br}}
+{sup}`7` Bilateral, multilateral (core contribution) multilateral (DLDD-specific) multi-bilateral, other (specify){{br}}
+{sup}`8` ODA, OOF other (specify){{br}}
+{sup}`9` Grant, concessional loan, non-concessional loan, equity guarantee/insurance, other (specify){{br}}
+{sup}`10` Directly or indirectly related to DLDD{{br}}
+```
+
+```{raw} latex
+  \normalsize
+```
 
 ##### Aggregating the information
 
@@ -453,9 +479,12 @@ header-rows: 1
 ````
 
 ```{rst-class} smaller-text
+\*\* The private contribution to this PPP is reported under SO 5-3.
 ```
 
-\*\* The private contribution to this PPP is reported under SO 5-3.
+```{raw} latex
+  \small
+```
 
 ##### Aggregating the information
 
