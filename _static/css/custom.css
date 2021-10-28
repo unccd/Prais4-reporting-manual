@@ -203,7 +203,12 @@ html.writer-html5 .rst-content table.docutils.table-24 th>p, html.writer-html5 .
 }
 .rst-content table.table-24 tr:nth-child(1) th:nth-child(7) {min-width: 8rem;}
 
-/* BLockquotes */
+/* Table 25 in SO5 */
+html.writer-html5 .rst-content table.docutils.table-25 th>p, html.writer-html5 .rst-content table.docutils.table-25 td>p {
+  font-size: 0.7rem;
+}
+
+/* Blockquotes */
 .rst-content blockquote {
   background-color: #f8f8f8;
   border: 1px solid rgb(225, 228, 229);

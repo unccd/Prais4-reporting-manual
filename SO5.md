@@ -743,37 +743,33 @@ Table 25 below is populated with some examples (further rows can be added):
 
 {{pagebreak}}
 
+```{raw} latex
+    \begin{landscape}
+    \small
+```
+
+```{tabularcolumns} |p{1.2cm}|p{1cm}|p{2cm}|p{1.2cm}|p{1.5cm}|p{1.5cm}|p{1.9cm}|p{1.9cm}|p{2cm}|p{1.5cm}|p{1.6cm}|p{1.3cm}|p{1.5cm}|
+```
+
 ```{list-table} *__Table 25__.   Resources provided, received, and required for technology transfer measures or activities*
 ---
-header-rows: 2
+header-rows: 1
 name: Table 25
+class: table-25
 ---
-* - Provided / received / required
+* - Provided/ received/ required
   - Year
-  - Title of project, programme, activity or other
+  - Title{sup}`1`
   - Amount USD
-  - Recipient / provider
+  - Recipient or provider{sup}`2`
   - Description and objectives
   - Sector
   - Type of technology
-  - Activities undertaken by
-  - Status of measure or activity
+  - Activities undertaken by{sup}`3`
+  - Status of measure or activity{sup}`4`
   - Timeframe of measure or activity
   - Use, impact, and estimated results
   - Additional information
-* - 
-  - 
-  - 
-  - 
-  - Recipient entity, country, region, global
-  - 
-  - 
-  - 
-  - Public sector, public and/or private sector; private sector
-  - Planned/ongoing/completed
-  - 
-  - 
-  - 
 * - __Provided__
   - 17
   - Land degradation neutrality
@@ -840,6 +836,25 @@ name: Table 25
   - 
   - 
 
+```
+
+```{raw} latex
+  \small
+```
+
+```{rst-class} smaller-text
+{sup}`1` Recipient entity, country, region, global{{br}}
+{sup}`2` Title of project, programme, activity or other{{br}}
+{sup}`3` Public sector, public and/or private sector; private sector{{br}}
+{sup}`4` Planned/ongoing/completed {{br}}
+```
+
+```{raw} latex
+  \normalsize
+```
+
+```{raw} latex
+    \end{landscape}
 ```
 
 #### Step 5: Reporting methodological information
