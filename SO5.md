@@ -149,14 +149,14 @@ Table 22 below is compiled with some examples:
     \begin{landscape}
 ```
 
-```{cssclass} table-22
-```
-
 ```{raw} latex
     \scriptsize
 ```
 
 ```{tabularcolumns} |p{0.35cm}|p{0.4cm}|p{0.9cm}|p{1.8cm}|p{1.1cm}|p{1.2cm}|p{1.45cm}|p{0.8cm}|p{1.1cm}|p{0.8cm}|p{1.1cm}|p{0.5cm}|p{1.15cm}|p{1.05cm}|p{1.2cm}|p{1.1cm}|p{1.2cm}|
+```
+
+```{cssclass} table-22
 ```
 
 ```{flat-table} *__Table 22__. Resources provided and received for Bilateral and Multilateral Public Resources*

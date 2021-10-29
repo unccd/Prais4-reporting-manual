@@ -220,7 +220,6 @@ ins {
   background-color: #fff;
 }
 
-
 .wy-table-responsive table td, .wy-table-responsive table th {
   white-space: normal !important;
 }
@@ -236,6 +235,11 @@ ins {
 
 .rst-content table.docutils td, .rst-content table.docutils th, .rst-content table.field-list td, .rst-content table.field-list th, .wy-table td, .wy-table th {
   padding: 4px 8px !important;
+}
+
+.rst-content table.docutils.table-25 caption,
+.rst-content table.docutils.table-22 caption {
+  text-align: left;
 }
 
 .align-right {
