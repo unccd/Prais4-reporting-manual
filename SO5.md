@@ -28,7 +28,7 @@ Tier 2 reporting is additional to Tier 1 reporting and provides a tabular format
 
 This indicator aims to capture information on international resources provided and received through bilateral and multilateral channels. The indicator envisages reporting of information on the trends over the four -year period (Tier 1) and additional quantitative data at disaggregated level in tabular format (Tier 2). Default data will be provided based on the desertification Rio Marker of the OECD, when available[^1].
 
-[^1]: For methodological information see [Methodological Note](https://www.unccd.int/conventionreporting-process-and-prais/peer-reviewed-indicator-related-methodological-documents-2021).
+[^1]: For methodological information see [Methodological Note](https://www.unccd.int/sites/default/files/inline-files/Methodological_Note_Strategic%20Objective%205_clean%20-%20Final.pdf).
 
 ### 5.1.2. Prerequisites for reporting
 
