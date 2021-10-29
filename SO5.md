@@ -285,38 +285,30 @@ header-rows: 2
   - 120,000
   - The project led to concrete results…
   - The project objectives and structure involved…
-* - {cspan}`3` Total 2016*
+* - {cspan}`3` Total 2016{sup}`11`
   - xxx
   - xxx
   - {cspan}`10`
-* - {cspan}`3` Total 2017*
+* - {cspan}`3` Total 2017{sup}`11`
   - xxx
   - xxx
   - {cspan}`10`
-* - {cspan}`3` Total 2018*
+* - {cspan}`3` Total 2018{sup}`11`
   - xxx
   - xxx
   - {cspan}`10`
-* - {cspan}`3` Total 2019*
+* - {cspan}`3` Total 2019{sup}`11`
   - xxx
   - xxx
   - {cspan}`10`
-* - {cspan}`3` Total resources provided*
+* - {cspan}`3` Total resources provided{sup}`11`
   - Σ
   - Σ
   - {cspan}`10`
-* - {cspan}`3` Total resources received*
+* - {cspan}`3` Total resources received{sup}`11`
   - Σ
   - Σ
   - {cspan}`10`
-```
-
-```{rst-class} smaller-text
-\* If disaggregated information is not available, the Party can report only the total amount or the total amounts per year.
-```
-
-```{raw} latex
-  \small
 ```
 
 ```{raw} latex
@@ -338,6 +330,7 @@ header-rows: 2
 {sup}`8` ODA, OOF other (specify){{br}}
 {sup}`9` Grant, concessional loan, non-concessional loan, equity guarantee/insurance, other (specify){{br}}
 {sup}`10` Directly or indirectly related to DLDD{{br}}
+{sup}`11` If disaggregated information is not available, the Party can report only the total amount or the total amounts per year.{{br}}
 ```
 
 ```{raw} latex
@@ -596,7 +589,7 @@ class: table-24
   - Recipient/ domestic {sup}`3`
   - Additional information
 * - 2018
-  - PPP \*\*
+  - PPP{sup}`4`
   - 2,500,000
   - Commercial loan
   - Private corporation
@@ -639,16 +632,11 @@ class: table-24
   - 
 ```
 
-```{raw} latex
-    \small
-```
-
 ```{rst-class} smaller-text
-** The public contribution to the PPP is reported under SO 5-2.
-
 {sup}`1` Charitable grant, commercial loans, private export credit, private equities, private insurance, other (specify){{br}}
 {sup}`2` Philanthropic foundation, non-profit institution, pension fund, private corporation, other (specify){{br}}
-{sup}`3` Recipient country/region domestic mobilization
+{sup}`3` Recipient country/region domestic mobilization{{br}}
+{sup}`4` The public contribution to the PPP is reported under SO 5-2.
 ```
 
 ##### Aggregating the information
@@ -845,18 +833,14 @@ class: table-25
 ```
 
 ```{raw} latex
-  \small
+  \scriptsize
 ```
 
 ```{rst-class} smaller-text
-{sup}`1` Recipient entity, country, region, global{{br}}
-{sup}`2` Title of project, programme, activity or other{{br}}
+{sup}`1` Title of project, programme, activity or other{{br}}
+{sup}`2` Recipient entity, country, region, global{{br}}
 {sup}`3` Public sector, public and/or private sector; private sector{{br}}
 {sup}`4` Planned/ongoing/completed {{br}}
-```
-
-```{raw} latex
-  \normalsize
 ```
 
 ```{raw} latex
