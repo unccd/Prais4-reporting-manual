@@ -471,12 +471,16 @@ header-rows: 1
 * - {cspan}`3` __Total revenues/total revenues per year__
 ````
 
-```{rst-class} smaller-text
+```{raw} latex
+  \small
+```
+
+```{rst-class} small-text
 \*\* The private contribution to this PPP is reported under SO 5-3.
 ```
 
 ```{raw} latex
-  \small
+  \normalsize
 ```
 
 ##### Aggregating the information
