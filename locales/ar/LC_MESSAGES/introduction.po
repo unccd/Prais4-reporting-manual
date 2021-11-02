@@ -4,7 +4,6 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
@@ -20,11 +19,11 @@ msgstr ""
 
 #: ../../introduction.md:1
 msgid "Introduction"
-msgstr ""
+msgstr "مقدمة"
 
 #: ../../introduction.md:3
 msgid "Background"
-msgstr ""
+msgstr "معلومات أساسية"
 
 #: ../../introduction.md:5
 msgid ""
@@ -32,37 +31,37 @@ msgid ""
 "United Nations Convention to Combat Desertification (UNCCD) adopted the "
 "UNCCD 2018–2030 Strategic Framework, containing five strategic objectives"
 " (SOs) and an implementation framework. The SOs are:"
-msgstr ""
+msgstr "بموجب مقرَّرِه رقم \"7/م أ-13\"، اعتمدَ مؤتمر أطراف اتفاقية الأمم المتحدة لمكافحة التَصحُّر الإطارَ الاستراتيجي لاتفاقية الأمم المتحدة لمكافحة التَصحُّر 2018-2030، وتضمَّن خمسة أهداف استراتيجية وإطاراً تنفيذياً. وهذه الأهداف الاستراتيجية تتمثل في ما يلي:"
 
 #: ../../introduction.md:7
 msgid ""
 "SO 1: To improve the condition of affected ecosystems, combat "
 "desertification/land degradation, promote sustainable land management and"
 " contribute to land degradation neutrality;"
-msgstr ""
+msgstr "الهدف الاستراتيجي 1: تحسين حالة النظم الإيكولوجية المُتضرِّرة، ومكافحة التَصحُّر/ تدهور الأراضي، وتعزيز الإدارة المستدامة للأراضي، والمساهمة في تحييد أثر تدهور الأراضي؛"
 
 #: ../../introduction.md:9
 msgid "SO 2: To improve the living conditions of affected populations;"
-msgstr ""
+msgstr "الهدف الاستراتيجي 2: تحسين الظروف المعيشية للسكان المُتضرِّرين؛"
 
 #: ../../introduction.md:11
 msgid ""
 "SO 3: To mitigate, adapt to, and manage the effects of drought in order "
 "to enhance resilience of vulnerable populations and ecosystems;"
-msgstr ""
+msgstr "الهدف الاستراتيجي 3: التخفيف من آثار الجفاف والتكيف معها وإدارتها من أجل تعزيز قدرة السكان والنظم البيئية المعرضة للخطر على الصمود؛"
 
 #: ../../introduction.md:13
 msgid ""
 "SO 4: To generate global environmental benefits through effective "
 "implementation of the UNCCD; and"
-msgstr ""
+msgstr "الهدف الاستراتيجي 4: تحقيق مزايا بيئية عالمية من خلال التنفيذ الفعّال لاتفاقية الأمم المتحدة لمكافحة التَصحُّر؛"
 
 #: ../../introduction.md:15
 msgid ""
 "SO 5: To mobilize substantial and additional financial and non-financial "
 "resources to support the implementation of the Convention by building "
 "effective partnerships at global and national level."
-msgstr ""
+msgstr "الهدف الاستراتيجي 5: حشد موارد مالية وغير مالية كبيرة وإضافية لدعم تنفيذ الاتفاقية من خلال بناء شراكات فعّالة على الصعيدَين العالمي والوطني."
 
 #: ../../introduction.md:17
 msgid ""
@@ -71,7 +70,7 @@ msgid ""
 "implementation framework sets specific aims under three broad headings: "
 "(a) financial and non-financial resources; (b) policy and planning; and "
 "(c) actions on the ground."
-msgstr ""
+msgstr "يحدد الإطار التنفيذي أدوار ومسؤوليات أطراف الاتفاقية والمؤسسات الداخلة فيها من أجل تلبية الأهداف الاستراتيجية. فبالنسبة إلى أطراف الاتفاقية، يضع الإطار التنفيذي أهدافاً محددة تحت ثلاثة عناوين عريضة: (أ) الموارد المالية وغير المالية؛ (ب) السياسة والتخطيط؛ و(ج) الإجراءات على أرض الواقع."
 
 #: ../../introduction.md:19
 msgid ""
@@ -81,11 +80,11 @@ msgid ""
 "responsibilities of the Committee for the Review of the Implementation of"
 " the Convention (CRIC) in reviewing the reports, are spelled out in "
 "decisions 13/COP.13 and 15/COP.13."
-msgstr ""
+msgstr "تجري مراجعة التقدم في تنفيذ الإطار الاستراتيجي لاتفاقية الأمم المتحدة لمكافحة التَصحُّر 2018-2030 بانتظام من خلال عملية الإبلاغ الوطنية منذ عام 2018. وترد إجراءات الإبلاغ، وكذلك دور لجنة استعراض تنفيذ الاتفاقية الدولية لمكافحة التَصحُّر ومسؤولياتها بشأن مراجعة البلاغات في المقررين \"13/م أ-13 و15/م أ-13."
 
 #: ../../introduction.md:21
 msgid "Purpose of national reporting"
-msgstr ""
+msgstr "الغرض من عملية الإبلاغ الوطنية"
 
 #: ../../introduction.md:23
 msgid ""
@@ -98,7 +97,7 @@ msgid ""
 "viewpoints, national reporting is an indispensable tool to bringing "
 "forward effective planning and implementation of the Convention and the "
 "achievement of the SOs at global and national level."
-msgstr ""
+msgstr "تُعدّ المعلومات المحدّثة بشأن التدابير المتخذة والنتائج التي تحققت والتحديات التي تواجهها البلدان الأطراف ذات أهمية بالغة بالنسبة إلى مؤتمر الأطراف، وذلك كي يتمكن المؤتمر من اعتماد القرارات والتوجيهات المستهدفة التي تهدف إلى دعم الإنجاز الفعّال للأهداف الاستراتيجية. كذلك، تُعدّ المعلومات التي ترسلها الأطراف من خلال عملية الإبلاغ قيِّمة أيضاً بالنسبة إلى أصحاب المصلحة الآخرين ممن يعملون على تنفيذ اتفاقية الأمم المتحدة لمكافحة التَصحُّر على الصعيدَين الوطني والمحلي. وانطلاقاً من وجهتي النظر هاتين، يعدُّ تقديم البلاغات الوطنية أداة لا غنى عنها من أجل التخطيط والتنفيذ الفعّال للاتفاقية مع إنجاز الأهداف الاستراتيجية على الصعيدَين العالمي والوطني."
 
 #: ../../introduction.md:25
 msgid ""
@@ -110,18 +109,18 @@ msgid ""
 "information submitted in the national reports as a contribution to the "
 "overall follow-up and review by the High-level Political Forum on "
 "Sustainable Development."
-msgstr ""
+msgstr "منذ عام 2018، ساهمت عملية الإبلاغ الخاصة باتفاقية الأمم المتحدة لمكافحة التَصحُّر أيضاً في متابعة التقدم المحرز في تنفيذ خطة التنمية المستدامة لعام 2030. وبصفتها الوكالة الراعية لمؤشر هدف التنمية المستدامة 15-3-1 \"نسبة الأراضي المتدهورة إلى إجمالي مساحة الأرض\" من مؤشرات أهداف التنمية المستدامة، تكون أمانة اتفاقية الأمم المتحدة لمكافحة التَصحُّر مطالبة باستخدام المعلومات ذات الصلة المقدمة في البلاغات الوطنية كمساهمة في المتابعة الشاملة والمراجعة من قبل المنتدى السياسي الرفيع المستوى المعني بالتنمية المستدامة."
 
 #: ../../introduction.md:27
 msgid "Indicator and monitoring framework"
-msgstr ""
+msgstr "المؤشر وإطار الرصد"
 
 #: ../../introduction.md:29
 msgid ""
 "The UNCCD indicator and monitoring framework has a hierarchical structure"
 " that makes it possible to distinguish what to measure (progress "
 "indicators) and how it should be measured (metrics/proxies)."
-msgstr ""
+msgstr "يحتوي مؤشر اتفاقية الأمم المتحدة لمكافحة التَصحُّر وإطار الرصد على هيكل هرمي يجعل من الممكن التمييز بين ما يجب قياسه (مؤشرات التقدم) وكيف ينبغي قياسه (المقاييس/ البدائل)."
 
 #: ../../introduction.md:31
 msgid ""
@@ -141,327 +140,327 @@ msgid ""
 "adopted; or whether it is newly proposed and will be tested in the "
 "forthcoming reporting process). The tables also provide information on "
 "the reporting attributions."
-msgstr ""
+msgstr "المؤشرات المستخدمة لتقديم تقرير حول التقدم المحرز بشأن الأهداف الاستراتيجية هي التي اعتمدتها الأطراف في المقررات 7/م أ-13 و9/م أ-13 و11/م أ-14. وبالإضافة إلى المؤشرات التي اعتمدها مؤتمر الأطراف، سيجري اختبار خمسة مؤشرات مقترحة حديثاً (وهي الهدف الاستراتيجي 2-3 والهدف الاستراتيجي 4-3 والهدف الاستراتيجي 5-3 والهدف الاستراتيجي 5-4 والهدف الاستراتيجي 5-5) في خلال عملية الإبلاغ لعام 2022. وسوف تُعدّ جميع المؤشرات المقترحة حديثاً اختيارية في عملية الإبلاغ إلى أن يتخذ مؤتمر الأطراف قراراً بشأن ما إذا كان سيعتمدها رسمياً. ومن خلال دمجها في عملية الإبلاغ المقبلة سيكون بوسع الأطراف تقييم مدى ملاءمة المؤشرات لقياس التقدم المحرز حيال الأهداف الاستراتيجية واتخاذ قرار مستنير في الدورة العشرين للجنة استعراض تنفيذ الاتفاقية الدولية لمكافحة التَصحُّر المقرر عقدها بالتزامن مع مؤتمر الأطراف. يُلقي الجدول 1 إلى الجدول 5 أدناه نظرة عامة على المؤشرات والمقاييس/البدائل ذات الصلة وحالاتها (بمعنى تحديد ما إذا كان المؤشر معتمداً رسمياً، وإذا كان كذلك، فمتى جرى اعتماده؛ أو تحديد ما إذا كان مقترحاً حديثاً وسيخضع للاختبار في عملية الإبلاغ المقبلة). تُوفّر الجداول أيضاً معلومات حول تأصيل عمليات الإبلاغ."
 
 #: ../../introduction.md:33
 msgid ""
 "Reporting on the implementation framework will be done through "
 "qualitative information, largely by narratives on national experiences, "
 "and on a voluntary basis."
-msgstr ""
+msgstr "ستجري عمليات الإبلاغ الخاصة بالإطار التنفيذي من خلال المعلومات النوعية، التي تكون إلى حدٍ كبير في صورة سرديات بشأن التجارب الوطنية، وعلى أساس طوعي."
 
 #: ../../introduction.md:38
 msgid ""
 "*__Table 1__. Strategic objective (SO) 1 indicators and reporting "
 "attribution*"
-msgstr ""
+msgstr "*__الجدول 1__. مؤشرات الهدف الاستراتيجي 1 وتأصيل عمليات الإبلاغ*"
 
 #: ../../introduction.md:1
 msgid "{rspan}`1` Indicator code"
-msgstr ""
+msgstr "{rspan}`1` رمز المؤشر"
 
 #: ../../introduction.md:2
 msgid "{rspan}`1` Indicator name"
-msgstr ""
+msgstr "{rspan}`1` اسم المؤشر"
 
 #: ../../introduction.md:3
 msgid "{rspan}`1` Metrics / proxies"
-msgstr ""
+msgstr "{rspan}`1` المقاييس/البدائل"
 
 #: ../../introduction.md:4
 msgid "{rspan}`1` Adopted / proposed"
-msgstr ""
+msgstr "{rspan}`1` معتمد/مقترح"
 
 #: ../../introduction.md:5
 msgid "{cspan}`1` Reporting attribution"
-msgstr ""
+msgstr "{cspan}`1` تأصيل عمليات الإبلاغ"
 
 #: ../../introduction.md:6
 msgid "Affected country Parties"
-msgstr ""
+msgstr "البلدان الأطراف المُتضرِّرة"
 
 #: ../../introduction.md:7
 msgid "Developed country Parties"
-msgstr ""
+msgstr "البلدان الأطراف المتقدمة"
 
 #: ../../introduction.md:8
 msgid "SO 1-1"
-msgstr ""
+msgstr "الهدف الاستراتيجي 1-1"
 
 #: ../../introduction.md:9
 msgid "Trends in land cover"
-msgstr ""
+msgstr "الاتجاهات في الغطاء الأرضي"
 
 #: ../../introduction.md:10
 msgid "Land cover change"
-msgstr ""
+msgstr "تغيير الغطاء الأرضي"
 
 #: ../../introduction.md:11 ../../introduction.md:15 ../../introduction.md:16
 #: ../../introduction.md:17 ../../introduction.md:21 ../../introduction.md:22
 msgid "Indicator adopted in decision 7/COP.13"
-msgstr ""
+msgstr "اعتُمد المؤشر في المقرر 7/م أ-13"
 
 #: ../../introduction.md:12 ../../introduction.md:14 ../../introduction.md:16
 #: ../../introduction.md:17 ../../introduction.md:18 ../../introduction.md:19
 #: ../../introduction.md:20 ../../introduction.md:22 ../../introduction.md:23
 #: ../../introduction.md:24 ../../introduction.md:28
 msgid "X"
-msgstr ""
+msgstr "×"
 
 #: ../../introduction.md:13
 msgid "{rspan}`3` *[^1]"
-msgstr ""
+msgstr "{rspan}`3` *[^1]"
 
 #: ../../introduction.md:14
 msgid "SO 1-2"
-msgstr ""
+msgstr "الهدف الاستراتيجي 1-2"
 
 #: ../../introduction.md:15
 msgid "Trends in land productivity or functioning of the land"
-msgstr ""
+msgstr "الاتجاهات في إنتاجية الأراضي أو أداء الأراضي"
 
 #: ../../introduction.md:16
 msgid "Land productivity dynamics"
-msgstr ""
+msgstr "ديناميّات إنتاجية الأراضي"
 
 #: ../../introduction.md:19
 msgid "SO 1-3"
-msgstr ""
+msgstr "الهدف الاستراتيجي 1-3"
 
 #: ../../introduction.md:9 ../../introduction.md:20
 msgid "Trends in carbon stocks above and below ground"
-msgstr ""
+msgstr "الاتجاهات في مخزونات الكربون فوق الأرض وتحتها"
 
 #: ../../introduction.md:21
 msgid "Soil organic carbon stock"
-msgstr ""
+msgstr "مخزون الكربون العضوي في التربة"
 
 #: ../../introduction.md:24
 msgid "SO 1-4"
-msgstr ""
+msgstr "الهدف الاستراتيجي 1-4"
 
 #: ../../introduction.md:25
 msgid "Proportion of land that is degraded over total land area"
-msgstr ""
+msgstr "نسبة الأراضي المتدهورة إلى إجمالي مساحة الأرض"
 
 #: ../../introduction.md:10 ../../introduction.md:13 ../../introduction.md:17
 #: ../../introduction.md:18 ../../introduction.md:19 ../../introduction.md:23
 #: ../../introduction.md:25 ../../introduction.md:26 ../../introduction.md:30
 #: ../../introduction.md:33 ../../introduction.md:38
 msgid "\\---"
-msgstr ""
+msgstr "/---"
 
 #: ../../introduction.md:27
 msgid "Background for indicator adopted in decision 9/COP.13"
-msgstr ""
+msgstr "خلفية المؤشر المعتمدة في المقرر 9/م أ-13"
 
 #: ../../introduction.md:78
 msgid ""
 "*__Table 2__. Strategic objective (SO) 2 indicators and reporting "
 "attributions*"
-msgstr ""
+msgstr "*__الجدول 2__. مؤشرات الهدف الاستراتيجي 2 وتأصيل عمليات الإبلاغ*"
 
 #: ../../introduction.md:8
 msgid "SO 2-1"
-msgstr ""
+msgstr "الهدف الاستراتيجي 2-1"
 
 #: ../../introduction.md:9
 msgid ""
 "Trends in population living below the relative poverty line and/or income"
 " inequality in affected areas"
-msgstr ""
+msgstr "الاتجاهات لدى السكان ممّن يعيشون تحت خط الفقر النسبي و/أو عدم المساواة في الدخل في المناطق المُتضرِّرة"
 
 #: ../../introduction.md:10
 msgid "Proportion of the population below the international poverty line"
-msgstr ""
+msgstr "نسبة السكان الذين يعيشون تحت الخط الدولي للفقر"
 
 #: ../../introduction.md:12
 msgid "OR"
-msgstr ""
+msgstr "أو"
 
 #: ../../introduction.md:14
 msgid "Income inequality"
-msgstr ""
+msgstr "عدم المساواة في توزيع الدخل"
 
 #: ../../introduction.md:18
 msgid "SO 2-2"
-msgstr ""
+msgstr "الهدف الاستراتيجي 2-2"
 
 #: ../../introduction.md:19
 msgid "Trends in access to safe drinking water in affected areas"
-msgstr ""
+msgstr "الاتجاهات في سُبل الحصول على مياه الشرب المأمونة في المناطق المُتضرِّرة"
 
 #: ../../introduction.md:20
 msgid "Proportion of population using safely managed drinking water services"
-msgstr ""
+msgstr "نسبة السكان الذين يستخدمون خدمات مياه الشرب المُدارة بأمان"
 
 #: ../../introduction.md:24
 msgid "SO 2-3"
-msgstr ""
+msgstr "الهدف الاستراتيجي 2-3"
 
 #: ../../introduction.md:25
 msgid ""
 "Trends in the proportion of the population exposed to land degradation, "
 "disaggregated by sex"
-msgstr ""
+msgstr "الاتجاهات في نسبة السكان المعرّضين لتدهور الأراضي، مصنفة حسب نوع الجنس"
 
 #: ../../introduction.md:26
 msgid ""
 "Proportion of the population exposed to land degradation, disaggregated "
 "by sex"
-msgstr ""
+msgstr "نسبة السكان المعرّضين لتدهور الأراضي، مصنفة حسب نوع الجنس"
 
 #: ../../introduction.md:27
 msgid ""
 "Indicator proposed in response to decision 11/COP.14, which requested the"
 " Secretariat to align reporting for SOs 1– 5 with gender-responsive "
 "indicators"
-msgstr ""
+msgstr "اقتُرح المؤشر استجابةً للمقرر 11/م أ-14 الذي طالب الأمانة العامة بمواءمة الإبلاغ الخاص بالأهداف الاستراتيجية من 1 إلى 5 مع المؤشرات المراعية للمنظور الجنساني"
 
 #: ../../introduction.md:24 ../../introduction.md:29 ../../introduction.md:30
 #: ../../introduction.md:34 ../../introduction.md:35 ../../introduction.md:39
 #: ../../introduction.md:40
 msgid "Optional"
-msgstr ""
+msgstr "اختياري"
 
 #: ../../introduction.md:115
 msgid ""
 "*__Table 3__. Strategic objective (SO) 3 indicators and reporting "
 "attributions*"
-msgstr ""
+msgstr "*__الجدول 3__. مؤشرات الهدف الاستراتيجي 3 وتأصيل عمليات الإبلاغ*"
 
 #: ../../introduction.md:8
 msgid "SO 3-1"
-msgstr ""
+msgstr "الهدف الاستراتيجي 3-1"
 
 #: ../../introduction.md:9
 msgid "Trends in the proportion of land under drought over the total land area"
-msgstr ""
+msgstr "الاتجاهات في نسبة الأراضي المعرّضة للجفاف إلى إجمالي مساحة الأرض"
 
 #: ../../introduction.md:10
 msgid ""
 "Proportion of land in each drought intensity class as defined by the "
 "Standardized Precipitation Index"
-msgstr ""
+msgstr "نسبة الأراضي في كل فئة من فئات شدّة الجفاف حسب تعريفها في المؤشر المعياري للهطول"
 
 #: ../../introduction.md:11 ../../introduction.md:17 ../../introduction.md:23
 msgid "Indicator adopted in decision 7/COP.14"
-msgstr ""
+msgstr "اعتُمد المؤشر في المقرر 7/م أ-14"
 
 #: ../../introduction.md:14
 msgid "SO 3-2"
-msgstr ""
+msgstr "الهدف الاستراتيجي 3-2"
 
 #: ../../introduction.md:15
 msgid "Trends in the proportion of the total population exposed to drought"
-msgstr ""
+msgstr "الاتجاهات في نسبة إجمالي السكان المعرّضين للجفاف"
 
 #: ../../introduction.md:16
 msgid "Proportion of the population exposed to drought, disaggregated by sex"
-msgstr ""
+msgstr "نسبة السكان المعرّضين للجفاف، مصنفة حسب نوع الجنس"
 
 #: ../../introduction.md:20
 msgid "SO 3-3"
-msgstr ""
+msgstr "الهدف الاستراتيجي 3-3"
 
 #: ../../introduction.md:21
 msgid "Trends in the degree of drought vulnerability"
-msgstr ""
+msgstr "الاتجاهات في درجة التعرّض للجفاف"
 
 #: ../../introduction.md:22
 msgid "Drought Vulnerability Index"
-msgstr ""
+msgstr "مؤشر قابلية التأثر بالجفاف"
 
 #: ../../introduction.md:147
 msgid ""
 "*__Table 4__. Strategic objective (SO) 4 indicators and reporting "
 "attributions*"
-msgstr ""
+msgstr "*__الجدول 4__. مؤشرات الهدف الاستراتيجي 4 وتأصيل عمليات الإبلاغ*"
 
 #: ../../introduction.md:8
 msgid "SO 4-1"
-msgstr ""
+msgstr "الهدف الاستراتيجي 4-1"
 
 #: ../../introduction.md:10
 msgid ""
 "{cspan}`3` Trends in carbon stocks above and below ground is a "
 "multipurpose indicator used to measure progress towards both strategic "
 "objectives 1 and 4. See progress indicator SO 1-3."
-msgstr ""
+msgstr "{cspan}`3` الاتجاهات في مخزونات الكربون فوق الأرض وتحتها هي مؤشر متعدد الأغراض يُستخدم لقياس التقدم المحرز بشأن الهدفين الاستراتيجيين 3 و4. انظر مؤشر التقدم الخاص بالهدف الاستراتيجي 1-3."
 
 #: ../../introduction.md:13
 msgid "SO 4-2"
-msgstr ""
+msgstr "الهدف الاستراتيجي 4-2"
 
 #: ../../introduction.md:14
 msgid "Trends in abundance and distribution of selected species"
-msgstr ""
+msgstr "الاتجاهات في وفرة وتوزيع الأنواع المختارة"
 
 #: ../../introduction.md:15
 msgid "Red List Index"
-msgstr ""
+msgstr "مؤشر القائمة الحمراء"
 
 #: ../../introduction.md:19
 msgid "SO 4-3"
-msgstr ""
+msgstr "الهدف الاستراتيجي 4-3"
 
 #: ../../introduction.md:20
 msgid "Trends in protected area coverage of important biodiversity areas"
-msgstr ""
+msgstr "الاتجاهات في تغطية المناطق المحمية لمناطق التنوع البيولوجي الهامّة"
 
 #: ../../introduction.md:21
 msgid ""
 "Average proportion of Terrestrial Key Biodiversity Areas covered by "
 "protected areas"
-msgstr ""
+msgstr "متوسط نسبة مناطق التنوع البيولوجي الأرضية الرئيسية التي تغطيها المناطق المحمية"
 
 #: ../../introduction.md:22
 msgid ""
 "Complementary indicator and corresponding metric proposed  in response to"
 " CRIC 17 recommendations and decision 7/COP.13."
-msgstr ""
+msgstr "مؤشر تكميلي ومقياس مقابل مقترح استجابةً لتوصيات الدورة السابعة عشرة للجنة استعراض تنفيذ الاتفاقية الدولية لمكافحة التَصحُّر والمقرر 7/م أ-13."
 
 #: ../../introduction.md:179
 msgid ""
 "*__Table 5__. Strategic objective (SO) 5 indicators and reporting "
 "attributions*"
-msgstr ""
+msgstr "*__الجدول 5__. مؤشرات الهدف الاستراتيجي 5 وتأصيل عمليات الإبلاغ*"
 
 #: ../../introduction.md:8
 msgid "SO 5-1"
-msgstr ""
+msgstr "الهدف الاستراتيجي 5-1"
 
 #: ../../introduction.md:9
 msgid "Bilateral and multilateral public resources"
-msgstr ""
+msgstr "موارد عامة ثنائية ومتعددة الأطراف"
 
 #: ../../introduction.md:11
 msgid ""
 "Indicator adopted in decision 7/COP.13 as ‘Trends in international "
 "bilateral and multilateral official development assistance’"
-msgstr ""
+msgstr "اعتُمد المؤشر في المقرر 7/م أ-13 تحت مسمى \"الاتجاهات في المساعدة الإنمائية الرسمية الثنائية والمتعددة الأطراف الدولية\""
 
 #: ../../introduction.md:15
 msgid "SO 5-2"
-msgstr ""
+msgstr "الهدف الاستراتيجي 5-2"
 
 #: ../../introduction.md:16
 msgid "Domestic public resources"
-msgstr ""
+msgstr "الموارد العامة المحلية"
 
 #: ../../introduction.md:18
 msgid ""
 "Indicator adopted in decision 7/COP.13 as ‘Trends in domestic public "
 "resources’"
-msgstr ""
+msgstr "اعتُمد المؤشر في المقرر 7/م أ-13 تحت مسمى \"الاتجاهات في الموارد العامة المحلية\""
 
 #: ../../introduction.md:21
 msgid "SO 5-3"
-msgstr ""
+msgstr "الهدف الاستراتيجي 5-3"
 
 #: ../../introduction.md:22
 msgid "International and domestic private resources"
-msgstr ""
+msgstr "الموارد الدولية والمحلية الخاصة"
 
 #: ../../introduction.md:24
 msgid ""
@@ -470,29 +469,29 @@ msgid ""
 " the reporting template for SO 5 and provide information before the start"
 " of  the next reporting process on the possible development of progress "
 "indicators  on technology transfer under SO 5"
-msgstr ""
+msgstr "{rspan}`2` المؤشرات المقترحة استجابة للمقرر 11/م أ-14، الذي طالب الآلية العالمية بتضمين بيانات كَمِّية إضافية في نموذج الإبلاغ الخاص بالهدف الاستراتيجي 5 وتقديم معلومات قبل بدء عملية الإبلاغ التالية بشأن التطوير المحتمل لمؤشرات التقدم الخاصة بنقل التكنولوجيا بموجب الهدف الاستراتيجي 5"
 
 #: ../../introduction.md:31
 msgid "SO 5-4"
-msgstr ""
+msgstr "الهدف الاستراتيجي 5-4"
 
 #: ../../introduction.md:32
 msgid "Technology transfer"
-msgstr ""
+msgstr "نقل التكنولوجيا"
 
 #: ../../introduction.md:36
 msgid "SO 5-5"
-msgstr ""
+msgstr "الهدف الاستراتيجي 5-5"
 
 #: ../../introduction.md:37
 msgid ""
 "Future support for activities related to the implementation of the "
 "Convention"
-msgstr ""
+msgstr "الدعم المستقبلي للأنشطة المتعلقة بتنفيذ الاتفاقية"
 
 #: ../../introduction.md:226
 msgid "Reporting tools"
-msgstr ""
+msgstr "أدوات الإبلاغ"
 
 #: ../../introduction.md:228
 msgid ""
@@ -501,7 +500,7 @@ msgid ""
 "with modern systems architecture and the requests made by Parties at the "
 "fourteenth session of the COP. PRAIS 4 will offer the following "
 "improvements over PRAIS 3, among other things:"
-msgstr ""
+msgstr "منذ عملية الإبلاغ لعام 2018، خضع نظام استعراض الأداء وتقييم التنفيذ (PRAIS) للترقية لمواءمته مع بنية النظم الحديثة والطلبات المقدمة من الأطراف في الدورة الرابعة عشرة لمؤتمر الأطراف. ومن شأن نظام استعراض الأداء وتقييم التنفيذ 4 (PRAIS 4) أن يُتيح التحسينات التالية على نظام استعراض الأداء وتقييم التنفيذ 3 (PRAIS 3)، من بين أمور أخرى:"
 
 #: ../../introduction.md:230
 msgid ""
@@ -510,13 +509,13 @@ msgid ""
 "entered in the forms will be summarized in standalone country reports, "
 "downloadable and sharable outside the system. The system will also "
 "include additional data fields specific to affected areas for SOs 1 to 4;"
-msgstr ""
+msgstr "واجهة أكثر سهولة في الاستخدام، تتضمن نماذج الإبلاغ المستندة إلى الويب والمعبأة مسبقاً بالبيانات الافتراضية المستقاة من مصادر البيانات العالمية. وستُعرض المعلومات التي أُدخلت في النماذج ملخّصةً في تقارير قُطرية مستقلة، وسيكون بالإمكان تنزيلها ومشاركتها خارج النظام. وسيتضمن النظام أيضاً حقول بيانات إضافية خاصة بالمناطق المُتضرِّرة لغايات الأهداف الاستراتيجية من 1 إلى 4؛"
 
 #: ../../introduction.md:232
 msgid ""
 "A centralized database to securely store and manage country-submitted "
 "data;"
-msgstr ""
+msgstr "قاعدة بيانات مركزية لتخزين وإدارة البيانات المقدَّمة من بلدٍ ما على نحوٍ آمن؛"
 
 #: ../../introduction.md:234
 msgid ""
@@ -524,41 +523,41 @@ msgid ""
 "will permit the user to define, for instance, the location and boundaries"
 " of land degradation hotspots or zones of voluntary land degradation "
 "neutrality targets;"
-msgstr ""
+msgstr "وظيفة جديدة لاستيعاب وإدارة مجموعات البيانات الجغرافية المكانية الكبيرة؛ ومن شأن ذلك أن يسمح للمستخدم بتحديد موقع وحدود النقاط الساخنة لتدهور الأراضي، على سبيل المثال، أو مناطق الأهداف الطوعية لتحييد أثر تدهور الأراضي؛"
 
 #: ../../introduction.md:236
 msgid ""
 "Analytical, synthesis and visualization functions for the submitted data "
 "[^2]."
-msgstr ""
+msgstr "وظائف التحليل والتجميع والتوضيح المرئي للبيانات المقدَّمة [^2]."
 
 #: ../../introduction.md:238
 msgid ""
 "The following reporting tools will be made available to country Parties "
 "in the six official United Nations languages:"
-msgstr ""
+msgstr "ستتاح أدوات الإبلاغ التالية للبلدان الأطراف في لغات الأمم المتحدة الرسمية الست:"
 
 #: ../../introduction.md:240
 msgid ""
 "The PRAIS 4 user manual, which provides step-by-step procedures for "
 "system access and use;"
-msgstr ""
+msgstr "دليل مستخدِم نظام استعراض الأداء وتقييم التنفيذ 4 (PRAIS 4)، ويوضّح إجراءات الدخول إلى النظام واستخدامه خطوة بخطوة؛"
 
 #: ../../introduction.md:242
 msgid ""
 "This reporting manual, which provides step-by-step methodological "
 "guidance for the preparation of national reports;"
-msgstr ""
+msgstr "دليل الإبلاغ هذا، ويوفر إرشادات منهجية لإعداد البلاغات الوطنية خطوة بخطوة؛"
 
 #: ../../introduction.md:244
 msgid "An updated glossary of reporting terms and definitions."
-msgstr ""
+msgstr "مسرد محدَّث لمصطلحات وتعريفات الإبلاغ."
 
 #: ../../introduction.md:246
 msgid ""
 "In addition, Parties can also refer to the following methodological "
 "reference documents (in English only):"
-msgstr ""
+msgstr "بالإضافة إلى ذلك، يمكن للأطراف أيضاً الرجوع إلى الوثائق المرجعية المنهجية التالية (في اللغة الإنجليزية فقط):"
 
 #: ../../introduction.md:248
 msgid ""
@@ -566,17 +565,17 @@ msgid ""
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land): Proportion of "
 "land that is degraded over total land area;"
-msgstr ""
+msgstr "الإصدار الثاني من [الدليل الإرشادي للممارسات السليمة لمؤشر هدف التنمية المستدامة 15-3-1] (https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land): نسبة الأراضي المتدهورة إلى إجمالي مساحة الأرض؛"
 
 #: ../../introduction.md:250
 msgid ""
 "Good Practice Guidance for National Reporting on UNCCD Strategic "
 "Objective 3."
-msgstr ""
+msgstr "الدليل الإرشادي للممارسات السليمة الخاص بتقديم البلاغات الوطنية حول الهدف الاستراتيجي 3 لاتفاقية الأمم المتحدة لمكافحة التَصحُّر."
 
 #: ../../introduction.md:254
 msgid "Data analytics tools"
-msgstr ""
+msgstr "أدوات تحليل البيانات"
 
 #: ../../introduction.md:256
 msgid ""
@@ -584,13 +583,13 @@ msgid ""
 "enhanced and expanded [Trends.Earth](http://trends.earth/docs/en/) to "
 "support the preparation and analysis of data for UNCCD national reporting"
 " in a format that can be automatically transferred to PRAIS."
-msgstr ""
+msgstr "تماشياً مع المقرر 11/م أ-14، عزَّزت المنظمة الدولية للحفاظ على البيئة (Conservation International) منصة [Trends.Earth](http://trends.earth/docs/en/) ووسَّعت نطاقها لدعم إعداد وتحليل البيانات من أجل تقديم البلاغات الوطنية في إطار اتفاقية الأمم المتحدة لمكافحة التَصحُّر بنَسقٍ يمكن تحويله تلقائياً إلى نظام استعراض الأداء وتقييم التنفيذ (PRAIS)."
 
 #: ../../introduction.md:258
 msgid ""
 "Trends.Earth is a free and open-source tool for monitoring indicators of "
 "land change. More specifically, Trends.Earth supports:"
-msgstr ""
+msgstr "Trends.Earth هي أداة متاحة مجاناً ومفتوحة المصدر لرصد مؤشرات التغير في الأراضي. وعلى نحوٍ أكثر تحديداً، فإن منصة Trends.Earth تدعم:"
 
 #: ../../introduction.md:260
 msgid ""
@@ -598,45 +597,45 @@ msgid ""
 "following version 2 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land);"
-msgstr ""
+msgstr "حساب مؤشرات الهدف الاستراتيجي 1، بما في ذلك مؤشر هدف التنمية المستدامة 15-3-1، بعد الإصدار الثاني من [الدليل الإرشادي للممارسات السليمة لمؤشر هدف التنمية المستدامة 15-3-1] (https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)؛"
 
 #: ../../introduction.md:262
 msgid ""
 "The recalculation of SDG indicator 15.3.1, accounting for any reported "
 "false positive and false negative degradation processes;"
-msgstr ""
+msgstr "إعادة حساب مؤشر هدف التنمية المستدامة 15-3-1، مع مراعاة أي عمليات تدهور سواءً كانت إيجابية زائفة أو سلبية زائفة؛"
 
 #: ../../introduction.md:264
 msgid ""
 "The calculation of indicator SO 2-3: Trends in the proportion of "
 "population exposed to land degradation, disaggregated by sex;"
-msgstr ""
+msgstr "حساب مؤشر الهدف الاستراتيجي 2-3: الاتجاهات في نسبة السكان المعرضين لتدهور الأراضي، مصنفة حسب نوع الجنس؛"
 
 #: ../../introduction.md:266
 msgid ""
 "The calculation of the SO 3 indicators following the Good Practice "
 "Guidance for National Reporting on UNCCD Strategic Objective 3;"
-msgstr ""
+msgstr "حساب مؤشرات الهدف الاستراتيجي 3 باتباع الدليل الإرشادي للممارسات السليمة الخاص بتقديم البلاغات الوطنية حول الهدف الاستراتيجي 3 لاتفاقية الأمم المتحدة لمكافحة التَصحُّر؛"
 
 #: ../../introduction.md:268
 msgid ""
 "Access to global data sources, including default data sources for "
 "national reporting;"
-msgstr ""
+msgstr "الوصول إلى مصادر البيانات العالمية، بما في ذلك مصادر البيانات الافتراضية لتقديم البلاغات الوطنية؛"
 
 #: ../../introduction.md:270
 msgid ""
 "Integration of nationally or locally available data and nationally "
 "determined assumptions;"
-msgstr ""
+msgstr "تكامل البيانات المتوفرة وطنياً أو محلياً والافتراضات المحددة وطنياً؛"
 
 #: ../../introduction.md:272
 msgid "Data transfer to PRAIS."
-msgstr ""
+msgstr "نقل البيانات إلى نظام استعراض الأداء وتقييم التنفيذ (PRAIS)."
 
 #: ../../introduction.md:274
 msgid "Default data"
-msgstr ""
+msgstr "البيانات الافتراضية"
 
 #: ../../introduction.md:276
 msgid ""
@@ -645,7 +644,7 @@ msgid ""
 "pre-filled with default national estimates based on available global data"
 " sources. Country Parties will have the possibility to verify or replace "
 "these national estimates using data sourced/computed nationally/locally."
-msgstr ""
+msgstr "بهدف تقليل عبء الإبلاغ ووفقاً للإجراء المحدد في المقرر 22/م أ-11، تُملأ استمارات نظام استعراض الأداء وتقييم التنفيذ 4 (PRAIS 4) مسبقاً بالتقديرات الوطنية الافتراضية بناءً على مصادر البيانات العالمية المتاحة. وستحظى البلدان الأطراف بإمكانية التحقق من هذه التقديرات الوطنية أو استبدالها باستخدام بيانات مستقاة/محسوبة على الصعيد الوطني/المحلي."
 
 #: ../../introduction.md:278
 msgid ""
@@ -669,7 +668,7 @@ msgid ""
 "countries which are fixed at scales finer than this will not be able to "
 "use UN Clear Map. Alternative web map services are provided for context "
 "at finer scales to compensate for the scale constraints of UN Clear Map."
-msgstr ""
+msgstr "من أجل توفير مستخلصات على الصعيد الوطني من مصادر البيانات العالمية لتقديم البلاغات الوطنية، استُخدم مركز الأمم المتحدة الجغرافي المكاني (المشار إليه في ما يلي باسم بيانات خرائط الأمم المتحدة)، وهو قاعدة بيانات جغرافية مكانية عالمية تتكون من معلومات عن البلد والاسم الجغرافي ومحاذاة مواءمة للحدود الوطنية من أجل تمثيل متسق على نطاق عالمي. تتضمن بيانات خرائط الأمم المتحدة خدمات الويب الجغرافية المكانية، وتهدف إلى توفير خلفية سياقية عالمية لخدمات الويب للمجتمع الدولي. الخدمة الجغرافية المكانية الرئيسية الحالية للأمم المتحدة تسمى Clear Map[^3] (ويشار إليها في ما يلي باسم UN Clear Map). وقد صُممت وأُنشئت خدمة UN Clear Map في الأصل للاستخدام من قبل الأمانة العامة للأمم المتحدة ونظامها من أجل موقع الويب الخاص بها ومنتجات الويب ذات الصلة، ولكنها الآن مورد متاح للجمهور يخضع لشروط الاستخدام. تتوفر خدمة الأمم المتحدة UN Clear Map في نظام استعراض الأداء وتقييم التنفيذ 4 (PRAIS 4) بأنماط مختلفة من رسم الخرائط ولوحات الويب لإعطاء البلدان سياقاً يتصل ببيانات الإبلاغ الجغرافية المكانية. ومع ذلك، توجد قيود عند استخدام خدمة UN Clear Map في ما يتعلق بمقياس الخريطة، إذ لا يمكن استخدامها بما يتجاوز مقياس يبلغ 4,5:1 مليون. ونظراً لأن عرض خريطة نظام استعراض الأداء وتقييم التنفيذ 4 (PRAIS 4) ثابت بامتداد حدود البلد، لن تتمكن البلدان ذات المقياس المثبّت الأدقّ من ذلك من استخدام خدمة UN Clear Map. تتوفر خدمات بديلة لخرائط الويب تعمل على توفير سياق بمقاييس أدق للتعويض عن قيود المقياس المطبقة على خدمة UN Clear Map."
 
 #: ../../introduction.md:280
 msgid ""
@@ -680,7 +679,7 @@ msgid ""
 "part of the UNCCD concerning the legal status of any country, territory, "
 "city or area or of its authorities, or concerning the delimitation of its"
 " frontiers or boundaries."
-msgstr ""
+msgstr "لقد أُعِدّت بيانات خرائط الأمم المتحدة من قِبل قسم المعلومات الجغرافية المكانية لدى الأمم المتحدة (قسم رسم الخرائط سابقاً) في نيويورك. ولا تعني التسميات المستخدمة وعرض المواد الواردة في بيانات خرائط الأمم المتحدة التعبير عن أي رأي من جانب اتفاقية الأمم المتحدة لمكافحة التَصحُّر في ما يتعلق بالوضع القانوني لأي بلد أو إقليم أو مدينة أو منطقة أو في ما يتعلق بسلطاتها أو تعيين حدودها أو تخومها."
 
 #: ../../introduction.md:282
 msgid ""
@@ -693,18 +692,18 @@ msgid ""
 "alternative national border in that it must be consistent with the total "
 "land area reported under SO 1-1. Otherwise, discrepancies may arise in "
 "the reporting data derived from geospatial analysis using that border."
-msgstr ""
+msgstr "بالنسبة إلى البلدان التي ترغب في استبدال التقديرات الوطنية الافتراضية التي تستخدم البيانات المتاحة وطنياً أو محلياً، فننصحها ونحثها على استخدام Trends.Earth لإعداد وتحليل ونقل بياناتها إلى نظام استعراض الأداء وتقييم التنفيذ (PRAIS). يتضمن ذلك استخدام حدود وطنية تختلف عن بيانات خرائط الأمم المتحدة المستخدمة في إعداد مجموعات البيانات الافتراضية الموضحة أعلاه. ينبغي الانتباه بعناية عند استخدام حدود وطنية بديلة إذ يجب أن تكون متسقة مع إجمالي مساحة الأرض المذكورة بموجب الهدف الاستراتيجي 1-1. وبخلاف ذلك، قد تظهر تناقضات في بيانات الإبلاغ المستمدة من التحليل الجغرافي المكاني باستخدام تلك الحدود."
 
 #: ../../introduction.md:286
 msgid "Open data sharing"
-msgstr ""
+msgstr "فتح مشاركة البيانات"
 
 #: ../../introduction.md:288
 msgid ""
 "By its decision 16/COP.11, the COP requested the secretariat to ensure "
 "that data and information from the reporting process are available and "
 "accessible to all, especially at the national and local levels."
-msgstr ""
+msgstr "بموجب مقرّرِه رقم 16/م أ-11، طلب مؤتمر الأطراف من الأمانة العامة أن تضمن إتاحة وإمكانية وصول الجميع إلى البيانات والمعلومات المستمدة من عملية الإبلاغ، لا سيما على الصعيدين الوطني والمحلي."
 
 #: ../../introduction.md:290
 msgid ""
@@ -712,7 +711,7 @@ msgid ""
 "attribute data, country Parties will be prompted to choose whether to: "
 "(i) use an existing Creative Commons licence; or (ii) use an existing "
 "licence of their own."
-msgstr ""
+msgstr "عند تحميل البيانات إلى نظام استعراض الأداء وتقييم التنفيذ (PRAIS)، لا سيما البيانات المكانية وبيانات التأصيل المرتبطة بها، تُدعى البلدان الأطراف إلى اختيار ما إذا كانت: (1) تستخدم رخصة المشاع الإبداعي الحالية؛ أو (2) تستخدم ترخيصاً حالياً خاصاً بها."
 
 #: ../../introduction.md:292
 msgid ""
@@ -730,11 +729,11 @@ msgid ""
 "Parties, must reshare the data on the same terms granted by the licensor "
 "and with proper attribution to them. For more information on the issue of"
 " data sharing, see Annex I of this reporting manual."
-msgstr ""
+msgstr "تهدف هذه الخيارات إلى تمكين البلدان الأطراف من الإبلاغ من خلال نظام استعراض الأداء وتقييم التنفيذ (PRAIS) لتحديد شروط استخدام البيانات الوطنية التي جرى تحميلها أو إنشاؤها في إطار عملية الإبلاغ. وسيكون للدول الأطراف الحرية في اختيار الترخيص الذي يفي بمتطلباتها. ومع ذلك، فإنّ معظم البيانات الافتراضية المقدمة إلى الأطراف من خلال نظام استعراض الأداء وتقييم التنفيذ (PRAIS) ومنصة Trends.Earth متاحة للعامّة أساساً كما هو موضح هنا، بينما جرى ترخيص مجموعات البيانات الافتراضية الأخرى من قبل موفري البيانات المعنيين، وهي تحديداً مبادرة تغير المناخ التابعة لوكالة الفضاء الأوروبية، والمركز الدولي لمراجع التربة العالمية والغطاء الأرضي ومركز المعلومات SoilGrids، بموجب نَسْب المُصنَّف-الترخيص بالمثل (Attribution-ShareAlike). وبالتالي، تخضع مجموعات البيانات هذه لشروط نَسْب المُصنَّف-الترخيص بالمثل. يجب على مستخدمي مجموعات البيانات هذه، مثل اتفاقية الأمم المتحدة لمكافحة التَصحُّر وأطرافها، إعادة مشاركة البيانات وفقاً للشروط نفسها الممنوحة من قبل المرخِّص مع نَسْبها إليه على النحو اللائق. لمزيد من المعلومات حول مسألة مشاركة البيانات، انظر المرفق (1) في دليل الإبلاغ هذا."
 
 #: ../../introduction.md:294
 msgid "Reporting frequency"
-msgstr ""
+msgstr "معدل تكرار عمليات الإبلاغ"
 
 #: ../../introduction.md:296
 msgid ""
@@ -744,65 +743,65 @@ msgid ""
 "information for the baseline period 2000–2015. From the 2022 reporting "
 "process onward, Parties will quantify the indicators and report national "
 "estimates for four-year reporting periods as indicated in table 6 below."
-msgstr ""
+msgstr "بموجب مقرره 15/م أ. 13، وافق مؤتمر الأطراف على تواتر مدته أربع سنوات لتقديم البلاغات الوطنية. وفي أثناء عملية الإبلاغ الأولى بموجب الإطار الاستراتيجي لاتفاقية الأمم المتحدة لمكافحة التَصحُّر 2018-2030 في عام 2018، أوردت الأطراف بيانات ومعلومات حول فترة خط الأساس 2000-2015. وابتداءً من عملية الإبلاغ لعام 2022 فصاعداً، ستضطلع الأطراف بتحديد المؤشرات كمّياً وترفع تقديرات وطنية عن فترات إبلاغ مدتها أربع سنوات كما هو موضح في الجدول 6 أدناه."
 
 #: ../../introduction.md:298
 msgid ""
 "*__Table 6__. UNCCD reporting process and corresponding reporting periods"
 " (current reporting process and period in bold)*"
-msgstr ""
+msgstr "*__الجدول 6__. عملية الإبلاغ في إطار اتفاقية الأمم المتحدة لمكافحة التَصحُّر وفترات الإبلاغ المقابلة (تظهر عملية الإبلاغ الحالية والفترة ببنط عريض)*"
 
 #: ../../introduction.md:1
 msgid "UNCCD Reporting Process"
-msgstr ""
+msgstr "عملية الإبلاغ الخاصة باتفاقية الأمم المتحدة لمكافحة التَصحُّر"
 
 #: ../../introduction.md:2
 msgid "UNCCD Reporting Periods"
-msgstr ""
+msgstr "فترات الإبلاغ الخاصة باتفاقية الأمم المتحدة لمكافحة التَصحُّر"
 
 #: ../../introduction.md:3
 msgid "2018"
-msgstr ""
+msgstr "2018"
 
 #: ../../introduction.md:4
 msgid "Baseline 2000-2015"
-msgstr ""
+msgstr "خط الأساس 2000-2015"
 
 #: ../../introduction.md:5
 msgid "__2022__"
-msgstr ""
+msgstr "__2022__"
 
 #: ../../introduction.md:6
 msgid "__2016-2019__"
-msgstr ""
+msgstr "__2016 - 2019__"
 
 #: ../../introduction.md:7
 msgid "2026"
-msgstr ""
+msgstr "2026"
 
 #: ../../introduction.md:8
 msgid "2020-2023"
-msgstr ""
+msgstr "2020 - 2023"
 
 #: ../../introduction.md:9
 msgid "2030"
-msgstr ""
+msgstr "2030"
 
 #: ../../introduction.md:10
 msgid "2024-2027"
-msgstr ""
+msgstr "2024 - 2027"
 
 #: ../../introduction.md:11
 msgid "2034"
-msgstr ""
+msgstr "2034"
 
 #: ../../introduction.md:12
 msgid "2028-2031"
-msgstr ""
+msgstr "2028 - 2031"
 
 #: ../../introduction.md:319
 msgid "Recalculations and time series consistency"
-msgstr ""
+msgstr "عمليات إعادة الحساب واتساق السلاسل الزمنية"
 
 #: ../../introduction.md:321
 msgid ""
@@ -811,7 +810,7 @@ msgid ""
 "recalculations may require refinements in terms of target-setting, they "
 "ensure the consistency of the time series and the comparability between "
 "the baseline and future monitoring data."
-msgstr ""
+msgstr "قد يتطلب التقدم في المنهجيات وتوافر البيانات عمليات إعادة حساب دورية لتقديرات وطنية سبق تقديمها. في حين أن عمليات إعادة الحساب قد تتطلب تحسينات من حيث تحديد الهدف، فإنها تضمن اتساق التسلسل الزمني وإمكانية المقارنة بين بيانات خط الأساس وبيانات الرصد المستقبلية."
 
 #: ../../introduction.md:323
 msgid ""
@@ -821,7 +820,7 @@ msgid ""
 "reported in 2018; and (ii) previously submitted national targets), should"
 " be reported. A separate reporting form has been created in PRAIS 4 for "
 "this purpose."
-msgstr ""
+msgstr "في عملية الإبلاغ هذه، يجب ذكر الأسباب الرئيسية لإعادة الحساب، مصحوبة بمعلومات تفسيرية (بما في ذلك التأثير الكمي لإعادة الحساب على أساس (1) تقديرات خط الأساس مقارنة بخط الأساس المبلّغ عنه في عام 2018؛ و(2) الأهداف الوطنية المقدمة سابقاً). وقد وُضع نموذج منفصل للإبلاغ في نظام استعراض الأداء وتقييم التنفيذ 4 (PRAIS 4) لهذا الغرض."
 
 #: ../../introduction.md:325
 msgid ""
@@ -836,7 +835,7 @@ msgid ""
 " for country Parties using the new calculation methods. Therefore, "
 "recalculation methods should only be reported if opting to use national "
 "datasets."
-msgstr ""
+msgstr "فعلى سبيل المثال، نظراً لتطوّر أساليب الحساب الواردة بعد الإصدار الثاني من [الدليل الإرشادي للممارسات السليمة لمؤشر هدف التنمية المستدامة 15-3-1] (https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)، يوصى بإعادة حساب التقديرات السابقة لخط الأساس لجميع مؤشرات الهدف الاستراتيجي 1، بما في ذلك مؤشر هدف التنمية المستدامة 15-3-1، وإدراجه في التقرير الوطني المقرر تقديمه في عام 2022. وقد أُعيد بالفعل حساب التقديرات الوطنية الافتراضية المقدمة من خلال استمارات نظام استعراض الأداء وتقييم التنفيذ (PRAIS) للبلدان الأطراف باستخدام طرق الحساب الجديدة. وعليه، يجب الإبلاغ عن طرق إعادة الحساب فقط في حالة اختيار استخدام مجموعات البيانات الوطنية."
 
 #: ../../introduction.md:327
 msgid ""
@@ -844,11 +843,11 @@ msgid ""
 " version 2 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
-msgstr ""
+msgstr "للاطلاع على مناقشةٍ أوسع نطاقاً بشأن مسألة إعادة الحساب، يُرجى الرجوع إلى الفصل 6 من الإصدار الثاني من [الدليل الإرشادي للممارسات السليمة لمؤشر هدف التنمية المستدام 15-3-1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)."
 
 #: ../../introduction.md:329
 msgid "Process and schedule for the 2022 reporting process"
-msgstr ""
+msgstr "الإجراء والجدول الزمني لعملية الإبلاغ لعام 2022"
 
 #: ../../introduction.md:331
 msgid ""
@@ -858,13 +857,13 @@ msgid ""
 "reports could be May 2022, still pending a final decision by the "
 "Executive Secretary and the CRIC Bureau, who will assess progress made in"
 " reporting by Parties early next year."
-msgstr ""
+msgstr "من المتوقع أن تبدأ عملية الإبلاغ لعام 2022 في تشرين الثاني/نوفمبر 2021، إذ يتوقف ذلك على توقيت إطلاق نظام استعراض الأداء وتقييم التنفيذ 4 (PRAIS 4). وإذا بدأ الإبلاغ في بداية تشرين الثاني/نوفمبر 2021، فقد يكون الموعد النهائي لتقديم البلاغات الوطنية هو أيار/مايو 2022، وستظل في انتظار قرار نهائي من قبل الأمين التنفيذي ومكتب لجنة استعراض تنفيذ الاتفاقية الدولية لمكافحة التَصحُّر، الذي سيقيم التقدم المحرز في عملية الإبلاغ من قبل الأطراف في أوائل العام المقبل."
 
 #: ../../introduction.md:333
 msgid ""
 "Various measures will be taken to support Parties in preparing the "
 "national reports and providing high quality information:"
-msgstr ""
+msgstr "سوف تُتخذ تدابير مختلفة لدعم الأطراف في إعداد البلاغات الوطنية وتقديم معلومات عالية الجودة:"
 
 #: ../../introduction.md:335
 msgid ""
@@ -874,33 +873,33 @@ msgid ""
 "webinars aimed at introducing national focal points and assigned "
 "reporting officers to the new reporting requirements, methodologies, data"
 " and tools;"
-msgstr ""
+msgstr "تُنظََّم أنشطة تنمية القدرات ابتداءً من تشرين الثاني/نوفمبر 2021. بسبب جائحة كوفيد-19 وقيود السفر ذات الصلة، ينبغي تصميم أنشطة تنمية القدرات تلك في صورة دروس تعليمية وندوات عبر شبكة الإنترنت بحيث تهدف إلى التعريف بنقاط الاتصال الوطنية وتعريف مسؤولي الإبلاغ المعيّنين بمتطلبات الإبلاغ الجديدة والمنهجيات والبيانات والأدوات؛"
 
 #: ../../introduction.md:337
 msgid ""
 "The secretariat and the Global Mechanism, with the assistance of "
 "consultants, will provide technical backstopping throughout the reporting"
 " process;"
-msgstr ""
+msgstr "ستوفر الأمانة العامة والآلية العالمية، بمساعدة الاستشاريين، الدعم الفني طوال عملية الإبلاغ؛"
 
 #: ../../introduction.md:339
 msgid ""
 "An online helpdesk facility will be available via PRAIS 4 to respond to "
 "queries from Parties;"
-msgstr ""
+msgstr "سيكون مكتب المساعدة عبر شبكة الإنترنت متاحاً من خلال نظام استعراض الأداء وتقييم التنفيذ 4 (PRAIS 4) للرد على استفسارات الأطراف؛"
 
 #: ../../introduction.md:341
 msgid ""
 "National reports will undergo a quality assurance procedure prior to "
 "final submission to ensure the provision of consistent, transparent, "
 "comparable, accurate and complete information."
-msgstr ""
+msgstr "ستخضع البلاغات الوطنية لإجراءات ضمان الجودة قبل تقديمها النهائي لضمان توفير معلومات متسقة وشفافة وقابلة للمقارنة ودقيقة وتامّة."
 
 #: ../../introduction.md:343
 msgid ""
 "At its twenty-first session, the CRIC will review and analyse the "
 "information submitted during the 2022 reporting process."
-msgstr ""
+msgstr "ستضطلع لجنة استعراض تنفيذ الاتفاقية الدولية لمكافحة التَصحُّر، في دورتها الحادية والعشرين، باستعراض وتحليل المعلومات المرفوعة في أثناء عملية الإبلاغ لعام 2022."
 
 #: ../../introduction.md:73
 msgid ""
@@ -908,17 +907,17 @@ msgid ""
 " by developed country Parties. Developed country Parties may wish to "
 "submit information on these indicators on a voluntary basis for the "
 "purpose of reporting on progress towards the SDGs."
-msgstr ""
+msgstr "إنّ الإبلاغ عن المؤشرات في إطار الهدف الاستراتيجي 1 ومؤشر هدف التنمية المستدامة 15-3-1 هو اختياريٌّ من قِبل الأطراف من البلدان المتقدمة. وقد ترغب الأطراف من البلدان المتقدمة في رفع معلومات عن هذه المؤشرات على أساس طوعي لغرض رفع تقرير حول التقدم المحرز بشأن أهداف التنمية المستدامة."
 
 #: ../../introduction.md:252
 msgid ""
 "Delivery of analytical, synthesis and visualization functions expected in"
 " September - December 2022."
-msgstr ""
+msgstr "إنجاز وظائف التحليل والتجميع والتوضيح المرئي المتوقعة في الفترة من أيلول/سبتمبر إلى كانون الأول/ديسمبر2022."
 
 #: ../../introduction.md:284
 msgid "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
-msgstr ""
+msgstr "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
 
 #~ msgid ""
 #~ "*__Table 1__. Strategic objective (SO) 1"
