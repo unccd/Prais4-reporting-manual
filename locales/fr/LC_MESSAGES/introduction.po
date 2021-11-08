@@ -4,11 +4,12 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-18 17:31+0300\n"
+"POT-Creation-Date: 2021-11-04 19:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,11 +20,11 @@ msgstr ""
 
 #: ../../introduction.md:1
 msgid "Introduction"
-msgstr "I$n$t$r$o$d$u"
+msgstr ""
 
 #: ../../introduction.md:3
 msgid "Background"
-msgstr "Fond"
+msgstr ""
 
 #: ../../introduction.md:5
 msgid ""
@@ -31,37 +32,37 @@ msgid ""
 "United Nations Convention to Combat Desertification (UNCCD) adopted the "
 "UNCCD 2018–2030 Strategic Framework, containing five strategic objectives"
 " (SOs) and an implementation framework. The SOs are:"
-msgstr "B$y$ i$t$s$ d$e$c$i$s$i$o$n$ 7/C$O$P$.13, t$h$e$ C$o$n$f$e$r$e$n$c$e$ o$f$ t$h$e$ P$a$r$t$i$e$s$ (C$O$P$) t$o$ t$h$e$ U$n$i$t$e$d$ N$a$t$i$o$n$s$ C$o$n$v$e$n$t$i$o$n$ t$o$ C$o$m$b$a$t$ D$e$s$e$r$t$i$f$i$c$a$t$i$o$n$ (U$N$C$C$D$) a$d$o$p$t$e$d$ t$h$e$ U$N$C$C$D$ 2018–2030 S$t$r$a$t$e$g$i$c$ F"
+msgstr ""
 
 #: ../../introduction.md:7
 msgid ""
 "SO 1: To improve the condition of affected ecosystems, combat "
 "desertification/land degradation, promote sustainable land management and"
 " contribute to land degradation neutrality;"
-msgstr "S$O$ 1: T$o$ i$m$p$r$o$v$e$ t$h$e$ c$o$n$d$i$t$i$o$n$ o$f$ a$f$f$e$c$t$e$d$ e$c$o$s$y$s$t$e$m$s$, c$o$m$b$a$t$ d$e$s$e$r$t$i$f$i$c$a$t$i$o$n$/l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$, p$r$o$m$o$t$e$ s$u$s"
+msgstr ""
 
 #: ../../introduction.md:9
 msgid "SO 2: To improve the living conditions of affected populations;"
-msgstr "S$O$ 2: T$o$ i$m$p$r$o$v$e$ t$h$e$ l$i$v$i$n$g$ c$o$n$d$i$t$i$o$n$s$ "
+msgstr ""
 
 #: ../../introduction.md:11
 msgid ""
 "SO 3: To mitigate, adapt to, and manage the effects of drought in order "
 "to enhance resilience of vulnerable populations and ecosystems;"
-msgstr "S$O$ 3: T$o$ m$i$t$i$g$a$t$e$, a$d$a$p$t$ t$o$, a$n$d$ m$a$n$a$g$e$ t$h$e$ e$f$f$e$c$t$s$ o$f$ d$r$o$u$g$h$t$ i$n$ o$r$d$e$r$ t$o$ e$n$h$a$n$c$e$ r$"
+msgstr ""
 
 #: ../../introduction.md:13
 msgid ""
 "SO 4: To generate global environmental benefits through effective "
 "implementation of the UNCCD; and"
-msgstr "S$O$ 4: T$o$ g$e$n$e$r$a$t$e$ g$l$o$b$a$l$ e$n$v$i$r$o$n$m$e$n$t$a$l$ b$e$n$e$f$i$t$s$ t$h$r$o$u$g$h$ e$f$f"
+msgstr ""
 
 #: ../../introduction.md:15
 msgid ""
 "SO 5: To mobilize substantial and additional financial and non-financial "
 "resources to support the implementation of the Convention by building "
 "effective partnerships at global and national level."
-msgstr "S$O$ 5: T$o$ m$o$b$i$l$i$z$e$ s$u$b$s$t$a$n$t$i$a$l$ a$n$d$ a$d$d$i$t$i$o$n$a$l$ f$i$n$a$n$c$i$a$l$ a$n$d$ n$o$n$-f$i$n$a$n$c$i$a$l$ r$e$s$o$u$r$c$e$s$ t$o$ s$u$p$p$o$r$t$ t$h$e$ i$m$p$l$e$m$e$n$t$a$t$i$o$n$ o$f$ t"
+msgstr ""
 
 #: ../../introduction.md:17
 msgid ""
@@ -70,7 +71,7 @@ msgid ""
 "implementation framework sets specific aims under three broad headings: "
 "(a) financial and non-financial resources; (b) policy and planning; and "
 "(c) actions on the ground."
-msgstr "T$h$e$ i$m$p$l$e$m$e$n$t$a$t$i$o$n$ f$r$a$m$e$w$o$r$k$ d$e$f$i$n$e$s$ t$h$e$ r$o$l$e$s$ a$n$d$ r$e$s$p$o$n$s$i$b$i$l$i$t$i$e$s$ o$f$ P$a$r$t$i$e$s$ a$n$d$ C$o$n$v$e$n$t$i$o$n$ i$n$s$t$i$t$u$t$i$o$n$s$ i$n$ m$e$e$t$i$n$g$ t$h$e$ S$O$s$. F$o$r$ P$a$r$t$i$e$s$, t$h$e$ i$m$p$l$e$m$e$n$t$a$t$i$o$n$ f$r$a$m$e$w$o$r$k$ s$e$t$s$ s$p$e$c$i$f$i$c$ a$i$m"
+msgstr ""
 
 #: ../../introduction.md:19
 msgid ""
@@ -80,11 +81,11 @@ msgid ""
 "responsibilities of the Committee for the Review of the Implementation of"
 " the Convention (CRIC) in reviewing the reports, are spelled out in "
 "decisions 13/COP.13 and 15/COP.13."
-msgstr "P$r$o$g$r$e$s$s$ m$a$d$e$ i$n$ t$h$e$ i$m$p$l$e$m$e$n$t$a$t$i$o$n$ o$f$ t$h$e$ U$N$C$C$D$ 2018–2030 S$t$r$a$t$e$g$i$c$ F$r$a$m$e$w$o$r$k$ h$a$s$ b$e$e$n$ r$e$g$u$l$a$r$l$y$ r$e$v$i$e$w$e$d$ t$h$r$o$u$g$h$ t$h$e$ n$a$t$i$o$n$a$l$ r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ s$i$n$c$e$ 2018. T$h$e$ r$e$p$o$r$t$i$n$g$ p$r$o$c$e$d$u$r$e$s$, a$s$ w$e$l$l$ a$s$ t$h$e$ r$o$l$e$ a$n$d$ r$e$s$p$o$n$s$i$b$i$l$i$t$i$e$s$ o$f$ t$h$e$ C$o$m$"
+msgstr ""
 
 #: ../../introduction.md:21
 msgid "Purpose of national reporting"
-msgstr "P$u$r$p$o$s$e$ o$f$ n$a$t$i$o$n"
+msgstr ""
 
 #: ../../introduction.md:23
 msgid ""
@@ -97,7 +98,7 @@ msgid ""
 "viewpoints, national reporting is an indispensable tool to bringing "
 "forward effective planning and implementation of the Convention and the "
 "achievement of the SOs at global and national level."
-msgstr "U$p$-t$o$-d$a$t$e$ i$n$f$o$r$m$a$t$i$o$n$ o$n$ m$e$a$s$u$r$e$s$ t$a$k$e$n$, r$e$s$u$l$t$s$ a$c$h$i$e$v$e$d$ a$n$d$ c$h$a$l$l$e$n$g$e$s$ f$a$c$e$d$ b$y$ c$o$u$n$t$r$y$ P$a$r$t$i$e$s$ i$s$ o$f$ c$r$i$t$i$c$a$l$ i$m$p$o$r$t$a$n$c$e$ f$o$r$ t$h$e$ C$O$P$ t$o$ b$e$ a$b$l$e$ t$o$ a$d$o$p$t$ t$a$r$g$e$t$e$d$ d$e$c$i$s$i$o$n$s$ a$n$d$ g$u$i$d$a$n$c$e$ a$i$m$e$d$ a$t$ s$u$p$p$o$r$t$i$n$g$ t$h$e$ e$f$f$e$c$t$i$v$e$ a$c$h$i$e$v$e$m$e$n$t$ o$f$ t$h$e$ S$O$s$. T$h$e$ i$n$f$o$r$m$a$t$i$o$n$ c$o$m$m$u$n$i$c$a$t$e$d$ b$y$ P$a$r$t$i$e$s$ t$h$r$o$u$g$h$ r$e$p$o$r$t$i$n$g$ i$s$ v$a$l$u$a$b$l$e$ a$l$s$o$ f$o$r$ o$t$h$e$r$ s$t$a$k$e$h$o$l$d$e$r$s$ t$h$a$t$ w$o$r$k$ o$n$ t$h$e$ i$m$p$l$e$m$e$n$t$a$"
+msgstr ""
 
 #: ../../introduction.md:25
 msgid ""
@@ -109,18 +110,18 @@ msgid ""
 "information submitted in the national reports as a contribution to the "
 "overall follow-up and review by the High-level Political Forum on "
 "Sustainable Development."
-msgstr "S$i$n$c$e$ 2018, t$h$e$ U$N$C$C$D$ r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ h$a$s$ a$l$s$o$ c$o$n$t$r$i$b$u$t$e$d$ t$o$ t$h$e$ f$o$l$l$o$w$-u$p$ o$f$ p$r$o$g$r$e$s$s$ i$n$ i$m$p$l$e$m$e$n$t$i$n$g$ t$h$e$ 2030 A$g$e$n$d$a$ f$o$r$ S$u$s$t$a$i$n$a$b$l$e$ D$e$v$e$l$o$p$m$e$n$t$. A$s$ t$h$e$ c$u$s$t$o$d$i$a$n$ a$g$e$n$c$y$ f$o$r$ S$u$s$t$a$i$n$a$b$l$e$ D$e$v$e$l$o$p$m$e$n$t$ G$o$a$l$ (S$D$G$) i$n$d$i$c$a$t$o$r$ 15.3.1 “P$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$”, t$h$e$ U$N$C$C$D$ s$e$c$r$e$t$a$r$i$"
+msgstr ""
 
 #: ../../introduction.md:27
 msgid "Indicator and monitoring framework"
-msgstr "I$n$d$i$c$a$t$o$r$ a$n$d$ m$o$n$i$t$o"
+msgstr ""
 
 #: ../../introduction.md:29
 msgid ""
 "The UNCCD indicator and monitoring framework has a hierarchical structure"
 " that makes it possible to distinguish what to measure (progress "
 "indicators) and how it should be measured (metrics/proxies)."
-msgstr "T$h$e$ U$N$C$C$D$ i$n$d$i$c$a$t$o$r$ a$n$d$ m$o$n$i$t$o$r$i$n$g$ f$r$a$m$e$w$o$r$k$ h$a$s$ a$ h$i$e$r$a$r$c$h$i$c$a$l$ s$t$r$u$c$t$u$r$e$ t$h$a$t$ m$a$k$e$s$ i$t$ p$o$s$s$i$b$l$e$ t$o$ d$i$s$t$i$n$g$u$i$s$h$ w$h$a$t$ "
+msgstr ""
 
 #: ../../introduction.md:31
 msgid ""
@@ -140,327 +141,327 @@ msgid ""
 "adopted; or whether it is newly proposed and will be tested in the "
 "forthcoming reporting process). The tables also provide information on "
 "the reporting attributions."
-msgstr "I$n$d$i$c$a$t$o$r$s$ u$s$e$d$ f$o$r$ r$e$p$o$r$t$i$n$g$ o$n$ p$r$o$g$r$e$s$s$ t$o$w$a$r$d$s$ t$h$e$ S$O$s$ a$r$e$ t$h$o$s$e$ a$d$o$p$t$e$d$ b$y$ P$a$r$t$i$e$s$ i$n$ d$e$c$i$s$i$o$n$ 7/C$O$P$.13, 9/C$O$P$.13 a$n$d$ 11/C$O$P$.14. I$n$ a$d$d$i$t$i$o$n$ t$o$ t$h$e$ i$n$d$i$c$a$t$o$r$s$ a$d$o$p$t$e$d$ b$y$ t$h$e$ C$O$P$, f$i$v$e$ n$e$w$l$y$ p$r$o$p$o$s$e$d$ i$n$d$i$c$a$t$o$r$s$ (i$.e$. S$O$ 2-3, S$O$ 4-3, S$O$ 5-3, S$O$ 5-4 a$n$d$ S$O$ 5-5) w$i$l$l$ b$e$ t$e$s$t$e$d$ d$u$r$i$n$g$ t$h$e$ 2022 r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$. A$l$l$ n$e$w$l$y$ p$r$o$p$o$s$e$d$ i$n$d$i$c$a$t$o$r$s$ w$i$l$l$ b$e$ c$o$n$s$i$d$e$r$e$d$ o$p$t$i$o$n$a$l$ i$n$ r$e$p$o$r$t$i$n$g$ u$n$t$i$l$ t$h$e$ C$O$P$ t$a$k$e$s$ a$ d$e$c$i$s$i$o$n$ o$n$ w$h$e$t$h$e$r$ t$o$ f$o$r$m$a$l$l$y$ a$d$o$p$t$ t$h$e$m$. I$n$t$e$g$r$a$t$i$n$g$ t$h$e$m$ i$n$ t$h$e$ f$o$r$t$h$c$o$m$i$n$g$ r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ w$i$l$l$ e$n$a$b$l$e$ P$a$r$t$i$e$s$ t$o$ a$s$s$e$s$s$ t$h$e$ s$u$i$t$a$b$i$l$i$t$y$ o$f$ t$h$e$ i$n$d$i$c$a$t$o$r$s$ f$o$r$ m$e$a$s$u$r$i$n$g$ p$r$o$g$r$e$s$s$ t$o$w$a$r$d$s$ t$h$e$ S$O$s$ a$n$d$ t$a$k$e$ a$n$ i$n$f$o$r$m$e$d$ d$e$c$i$s$i$o$n$ a$t$ t$h$e$ t$w$e$n$t$i$e$t$h$ s$e$s$s$i$o$n$ o"
+msgstr ""
 
 #: ../../introduction.md:33
 msgid ""
 "Reporting on the implementation framework will be done through "
 "qualitative information, largely by narratives on national experiences, "
 "and on a voluntary basis."
-msgstr "R$e$p$o$r$t$i$n$g$ o$n$ t$h$e$ i$m$p$l$e$m$e$n$t$a$t$i$o$n$ f$r$a$m$e$w$o$r$k$ w$i$l$l$ b$e$ d$o$n$e$ t$h$r$o$u$g$h$ q$u$a$l$i$t$a$t$i$v$e$ i$n$f$o$r$m$a$t$i$o$n$, l$a$r$g$e$l$"
+msgstr ""
 
 #: ../../introduction.md:38
 msgid ""
 "*__Table 1__. Strategic objective (SO) 1 indicators and reporting "
 "attribution*"
-msgstr "*__T$a$b$l$e$ 1__. S$t$r$a$t$e$g$i$c$ o$b$j$e$c$t$i$v$e$ (S$O$) 1 i$n$d$i$c$a$t$o$r$s"
+msgstr ""
 
 #: ../../introduction.md:1
 msgid "{rspan}`1` Indicator code"
-msgstr "I$n$d$i$c$a"
+msgstr ""
 
 #: ../../introduction.md:2
 msgid "{rspan}`1` Indicator name"
-msgstr "I$n$d$i$c$a"
+msgstr ""
 
 #: ../../introduction.md:3
 msgid "{rspan}`1` Metrics / proxies"
-msgstr "M$e$t$r$i$c$s$"
+msgstr ""
 
 #: ../../introduction.md:4
 msgid "{rspan}`1` Adopted / proposed"
-msgstr "A$d$o$p$t$e$d$ "
+msgstr ""
 
 #: ../../introduction.md:5
 msgid "{cspan}`1` Reporting attribution"
-msgstr "R$e$p$o$r$t$i$n$g$ "
+msgstr ""
 
 #: ../../introduction.md:6
 msgid "Affected country Parties"
-msgstr "A$f$f$e$c$t$e$d$ c$o$u$n$t"
+msgstr ""
 
 #: ../../introduction.md:7
 msgid "Developed country Parties"
-msgstr "D$e$v$e$l$o$p$e$d$ c$o$u$n$"
+msgstr ""
 
 #: ../../introduction.md:8
 msgid "SO 1-1"
-msgstr "S$O$ 1"
+msgstr ""
 
 #: ../../introduction.md:9
 msgid "Trends in land cover"
-msgstr "T$r$e$n$d$s$ i$n$ l$a$"
+msgstr ""
 
 #: ../../introduction.md:10
 msgid "Land cover change"
-msgstr "L$a$n$d$ c$o$v$e$r"
+msgstr ""
 
 #: ../../introduction.md:11 ../../introduction.md:15 ../../introduction.md:16
 #: ../../introduction.md:17 ../../introduction.md:21 ../../introduction.md:22
 msgid "Indicator adopted in decision 7/COP.13"
-msgstr "I$n$d$i$c$a$t$o$r$ a$d$o$p$t$e$d$ i$n$ d$"
+msgstr ""
 
 #: ../../introduction.md:12 ../../introduction.md:14 ../../introduction.md:16
 #: ../../introduction.md:17 ../../introduction.md:18 ../../introduction.md:19
 #: ../../introduction.md:20 ../../introduction.md:22 ../../introduction.md:23
 #: ../../introduction.md:24 ../../introduction.md:28
 msgid "X"
-msgstr "X"
+msgstr ""
 
 #: ../../introduction.md:13
 msgid "{rspan}`3` *[^1]"
-msgstr "*"
+msgstr ""
 
 #: ../../introduction.md:14
 msgid "SO 1-2"
-msgstr "S$O$ 1"
+msgstr ""
 
 #: ../../introduction.md:15
 msgid "Trends in land productivity or functioning of the land"
-msgstr "T$r$e$n$d$s$ i$n$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ o$r$ f$"
+msgstr ""
 
 #: ../../introduction.md:16
 msgid "Land productivity dynamics"
-msgstr "L$a$n$d$ p$r$o$d$u$c$t$i$v$i"
+msgstr ""
 
 #: ../../introduction.md:19
 msgid "SO 1-3"
-msgstr "S$O$ 1"
+msgstr ""
 
 #: ../../introduction.md:9 ../../introduction.md:20
 msgid "Trends in carbon stocks above and below ground"
-msgstr "T$r$e$n$d$s$ i$n$ c$a$r$b$o$n$ s$t$o$c$k$s$ a$b$o$"
+msgstr ""
 
 #: ../../introduction.md:21
 msgid "Soil organic carbon stock"
-msgstr "S$o$i$l$ o$r$g$a$n$i$c$ c$a"
+msgstr ""
 
 #: ../../introduction.md:24
 msgid "SO 1-4"
-msgstr "S$O$ 1"
+msgstr ""
 
 #: ../../introduction.md:25
 msgid "Proportion of land that is degraded over total land area"
-msgstr "P$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$"
+msgstr ""
 
 #: ../../introduction.md:10 ../../introduction.md:13 ../../introduction.md:17
 #: ../../introduction.md:18 ../../introduction.md:19 ../../introduction.md:23
 #: ../../introduction.md:25 ../../introduction.md:26 ../../introduction.md:30
 #: ../../introduction.md:33 ../../introduction.md:38
 msgid "\\---"
-msgstr "\\---"
+msgstr ""
 
 #: ../../introduction.md:27
 msgid "Background for indicator adopted in decision 9/COP.13"
-msgstr "B$a$c$k$g$r$o$u$n$d$ f$o$r$ i$n$d$i$c$a$t$o$r$ a$d$o$p$t$e"
+msgstr ""
 
 #: ../../introduction.md:78
 msgid ""
 "*__Table 2__. Strategic objective (SO) 2 indicators and reporting "
 "attributions*"
-msgstr "*__T$a$b$l$e$ 2__. S$t$r$a$t$e$g$i$c$ o$b$j$e$c$t$i$v$e$ (S$O$) 2 i$n$d$i$c$a$t$o$r$s$"
+msgstr ""
 
 #: ../../introduction.md:8
 msgid "SO 2-1"
-msgstr "S$O$ 2"
+msgstr ""
 
 #: ../../introduction.md:9
 msgid ""
 "Trends in population living below the relative poverty line and/or income"
 " inequality in affected areas"
-msgstr "T$r$e$n$d$s$ i$n$ p$o$p$u$l$a$t$i$o$n$ l$i$v$i$n$g$ b$e$l$o$w$ t$h$e$ r$e$l$a$t$i$v$e$ p$o$v$e$r$t$y$ l$i$n$e$ a"
+msgstr ""
 
 #: ../../introduction.md:10
 msgid "Proportion of the population below the international poverty line"
-msgstr "P$r$o$p$o$r$t$i$o$n$ o$f$ t$h$e$ p$o$p$u$l$a$t$i$o$n$ b$e$l$o$w$ t$h$e$"
+msgstr ""
 
 #: ../../introduction.md:12
 msgid "OR"
-msgstr "O$"
+msgstr ""
 
 #: ../../introduction.md:14
 msgid "Income inequality"
-msgstr "I$n$c$o$m$e$ i$n$e"
+msgstr ""
 
 #: ../../introduction.md:18
 msgid "SO 2-2"
-msgstr "S$O$ 2"
+msgstr ""
 
 #: ../../introduction.md:19
 msgid "Trends in access to safe drinking water in affected areas"
-msgstr "T$r$e$n$d$s$ i$n$ a$c$c$e$s$s$ t$o$ s$a$f$e$ d$r$i$n$k$i$n$g$ "
+msgstr ""
 
 #: ../../introduction.md:20
 msgid "Proportion of population using safely managed drinking water services"
-msgstr "P$r$o$p$o$r$t$i$o$n$ o$f$ p$o$p$u$l$a$t$i$o$n$ u$s$i$n$g$ s$a$f$e$l$y$ m$a$"
+msgstr ""
 
 #: ../../introduction.md:24
 msgid "SO 2-3"
-msgstr "S$O$ 2"
+msgstr ""
 
 #: ../../introduction.md:25
 msgid ""
 "Trends in the proportion of the population exposed to land degradation, "
 "disaggregated by sex"
-msgstr "T$r$e$n$d$s$ i$n$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ t$h$e$ p$o$p$u$l$a$t$i$o$n$ e$x$p$o$s$e$d$ t$o$ l$"
+msgstr ""
 
 #: ../../introduction.md:26
 msgid ""
 "Proportion of the population exposed to land degradation, disaggregated "
 "by sex"
-msgstr "P$r$o$p$o$r$t$i$o$n$ o$f$ t$h$e$ p$o$p$u$l$a$t$i$o$n$ e$x$p$o$s$e$d$ t$o$ l$a$n$d$ d$"
+msgstr ""
 
 #: ../../introduction.md:27
 msgid ""
 "Indicator proposed in response to decision 11/COP.14, which requested the"
 " Secretariat to align reporting for SOs 1– 5 with gender-responsive "
 "indicators"
-msgstr "I$n$d$i$c$a$t$o$r$ p$r$o$p$o$s$e$d$ i$n$ r$e$s$p$o$n$s$e$ t$o$ d$e$c$i$s$i$o$n$ 11/C$O$P$.14, w$h$i$c$h$ r$e$q$u$e$s$t$e$d$ t$h$e$ S$e$c$r$e$t$a$r$i$a$t$ t$o$ a$l$i$g"
+msgstr ""
 
 #: ../../introduction.md:24 ../../introduction.md:29 ../../introduction.md:30
 #: ../../introduction.md:34 ../../introduction.md:35 ../../introduction.md:39
 #: ../../introduction.md:40
 msgid "Optional"
-msgstr "O$p$t$i$"
+msgstr ""
 
 #: ../../introduction.md:115
 msgid ""
 "*__Table 3__. Strategic objective (SO) 3 indicators and reporting "
 "attributions*"
-msgstr "*__T$a$b$l$e$ 3__. S$t$r$a$t$e$g$i$c$ o$b$j$e$c$t$i$v$e$ (S$O$) 3 i$n$d$i$c$a$t$o$r$s$"
+msgstr ""
 
 #: ../../introduction.md:8
 msgid "SO 3-1"
-msgstr "S$O$ 3"
+msgstr ""
 
 #: ../../introduction.md:9
 msgid "Trends in the proportion of land under drought over the total land area"
-msgstr "T$r$e$n$d$s$ i$n$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ u$n$d$e$r$ d$r$o$u"
+msgstr ""
 
 #: ../../introduction.md:10
 msgid ""
 "Proportion of land in each drought intensity class as defined by the "
 "Standardized Precipitation Index"
-msgstr "P$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ i$n$ e$a$c$h$ d$r$o$u$g$h$t$ i$n$t$e$n$s$i$t$y$ c$l$a$s$s$ a$s$ d$e$f$i$n$e$"
+msgstr ""
 
 #: ../../introduction.md:11 ../../introduction.md:17 ../../introduction.md:23
 msgid "Indicator adopted in decision 7/COP.14"
-msgstr "I$n$d$i$c$a$t$o$r$ a$d$o$p$t$e$d$ i$n$ d$"
+msgstr ""
 
 #: ../../introduction.md:14
 msgid "SO 3-2"
-msgstr "S$O$ 3"
+msgstr ""
 
 #: ../../introduction.md:15
 msgid "Trends in the proportion of the total population exposed to drought"
-msgstr "T$r$e$n$d$s$ i$n$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ t$h$e$ t$o$t$a$l$ p$o$"
+msgstr ""
 
 #: ../../introduction.md:16
 msgid "Proportion of the population exposed to drought, disaggregated by sex"
-msgstr "P$r$o$p$o$r$t$i$o$n$ o$f$ t$h$e$ p$o$p$u$l$a$t$i$o$n$ e$x$p$o$s$e$d$ t$o$ d"
+msgstr ""
 
 #: ../../introduction.md:20
 msgid "SO 3-3"
-msgstr "S$O$ 3"
+msgstr ""
 
 #: ../../introduction.md:21
 msgid "Trends in the degree of drought vulnerability"
-msgstr "T$r$e$n$d$s$ i$n$ t$h$e$ d$e$g$r$e$e$ o$f$ d$r$o$"
+msgstr ""
 
 #: ../../introduction.md:22
 msgid "Drought Vulnerability Index"
-msgstr "D$r$o$u$g$h$t$ V$u$l$n$e$r$a$"
+msgstr ""
 
 #: ../../introduction.md:147
 msgid ""
 "*__Table 4__. Strategic objective (SO) 4 indicators and reporting "
 "attributions*"
-msgstr "*__T$a$b$l$e$ 4__. S$t$r$a$t$e$g$i$c$ o$b$j$e$c$t$i$v$e$ (S$O$) 4 i$n$d$i$c$a$t$o$r$s$"
+msgstr ""
 
 #: ../../introduction.md:8
 msgid "SO 4-1"
-msgstr "S$O$ 4"
+msgstr ""
 
 #: ../../introduction.md:10
 msgid ""
 "{cspan}`3` Trends in carbon stocks above and below ground is a "
 "multipurpose indicator used to measure progress towards both strategic "
 "objectives 1 and 4. See progress indicator SO 1-3."
-msgstr "T$r$e$n$d$s$ i$n$ c$a$r$b$o$n$ s$t$o$c$k$s$ a$b$o$v$e$ a$n$d$ b$e$l$o$w$ g$r$o$u$n$d$ i$s$ a$ m$u$l$t$i$p$u$r$p$o$s$e$ i$n$d$i$c$a$t$o$r$ u$s$e$d$ t$o$ m$e$a$s$u$r$e$ p$r$o$g$r$e$s$s$ t$"
+msgstr ""
 
 #: ../../introduction.md:13
 msgid "SO 4-2"
-msgstr "S$O$ 4"
+msgstr ""
 
 #: ../../introduction.md:14
 msgid "Trends in abundance and distribution of selected species"
-msgstr "T$r$e$n$d$s$ i$n$ a$b$u$n$d$a$n$c$e$ a$n$d$ d$i$s$t$r$i$b$u$t"
+msgstr ""
 
 #: ../../introduction.md:15
 msgid "Red List Index"
-msgstr "R$e$d$ L$i$s$t$"
+msgstr ""
 
 #: ../../introduction.md:19
 msgid "SO 4-3"
-msgstr "S$O$ 4"
+msgstr ""
 
 #: ../../introduction.md:20
 msgid "Trends in protected area coverage of important biodiversity areas"
-msgstr "T$r$e$n$d$s$ i$n$ p$r$o$t$e$c$t$e$d$ a$r$e$a$ c$o$v$e$r$a$g$e$ o$f$ i$m"
+msgstr ""
 
 #: ../../introduction.md:21
 msgid ""
 "Average proportion of Terrestrial Key Biodiversity Areas covered by "
 "protected areas"
-msgstr "A$v$e$r$a$g$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ T$e$r$r$e$s$t$r$i$a$l$ K$e$y$ B$i$o$d$i$v$e$r$s$i$"
+msgstr ""
 
 #: ../../introduction.md:22
 msgid ""
 "Complementary indicator and corresponding metric proposed  in response to"
 " CRIC 17 recommendations and decision 7/COP.13."
-msgstr "C$o$m$p$l$e$m$e$n$t$a$r$y$ i$n$d$i$c$a$t$o$r$ a$n$d$ c$o$r$r$e$s$p$o$n$d$i$n$g$ m$e$t$r$i$c$ p$r$o$p$o$s$e$d$  i$n$ r$e$s$p$o$n$s$e$"
+msgstr ""
 
 #: ../../introduction.md:179
 msgid ""
 "*__Table 5__. Strategic objective (SO) 5 indicators and reporting "
 "attributions*"
-msgstr "*__T$a$b$l$e$ 5__. S$t$r$a$t$e$g$i$c$ o$b$j$e$c$t$i$v$e$ (S$O$) 5 i$n$d$i$c$a$t$o$r$s$"
+msgstr ""
 
 #: ../../introduction.md:8
 msgid "SO 5-1"
-msgstr "S$O$ 5"
+msgstr ""
 
 #: ../../introduction.md:9
 msgid "Bilateral and multilateral public resources"
-msgstr "B$i$l$a$t$e$r$a$l$ a$n$d$ m$u$l$t$i$l$a$t$e$r$a"
+msgstr ""
 
 #: ../../introduction.md:11
 msgid ""
 "Indicator adopted in decision 7/COP.13 as ‘Trends in international "
 "bilateral and multilateral official development assistance’"
-msgstr "I$n$d$i$c$a$t$o$r$ a$d$o$p$t$e$d$ i$n$ d$e$c$i$s$i$o$n$ 7/C$O$P$.13 a$s$ ‘T$r$e$n$d$s$ i$n$ i$n$t$e$r$n$a$t$i$o$n$a$l$ b$i$l$a$t$e$r$a$l$ "
+msgstr ""
 
 #: ../../introduction.md:15
 msgid "SO 5-2"
-msgstr "S$O$ 5"
+msgstr ""
 
 #: ../../introduction.md:16
 msgid "Domestic public resources"
-msgstr "D$o$m$e$s$t$i$c$ p$u$b$l$i$"
+msgstr ""
 
 #: ../../introduction.md:18
 msgid ""
 "Indicator adopted in decision 7/COP.13 as ‘Trends in domestic public "
 "resources’"
-msgstr "I$n$d$i$c$a$t$o$r$ a$d$o$p$t$e$d$ i$n$ d$e$c$i$s$i$o$n$ 7/C$O$P$.13 a$s$ ‘T$r$e$n$d$s$"
+msgstr ""
 
 #: ../../introduction.md:21
 msgid "SO 5-3"
-msgstr "S$O$ 5"
+msgstr ""
 
 #: ../../introduction.md:22
 msgid "International and domestic private resources"
-msgstr "I$n$t$e$r$n$a$t$i$o$n$a$l$ a$n$d$ d$o$m$e$s$t$i$"
+msgstr ""
 
 #: ../../introduction.md:24
 msgid ""
@@ -469,29 +470,29 @@ msgid ""
 " the reporting template for SO 5 and provide information before the start"
 " of  the next reporting process on the possible development of progress "
 "indicators  on technology transfer under SO 5"
-msgstr "I$n$d$i$c$a$t$o$r$s$ p$r$o$p$o$s$e$d$ i$n$ r$e$s$p$o$n$s$e$ t$o$ d$e$c$i$s$i$o$n$ 11/C$O$P$.14, w$h$i$c$h$ r$e$q$u$e$s$t$e$d$ t$h$e$ G$l$o$b$a$l$ M$e$c$h$a$n$i$s$m$ t$o$ i$n$c$l$u$d$e$ a$d$d$i$t$i$o$n$a$l$ q$u$a$n$t$i$t$a$t$i$v$e$ d$a$t$a$ i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ t$e$m$p$l$a$t$e$ f$o$r$ S$O$ 5 a$n$d$ p$r$o$v$i$d$e$ i$n$f$o$r$m$a$t$i$o$n$ b$e$f"
+msgstr ""
 
 #: ../../introduction.md:31
 msgid "SO 5-4"
-msgstr "S$O$ 5"
+msgstr ""
 
 #: ../../introduction.md:32
 msgid "Technology transfer"
-msgstr "T$e$c$h$n$o$l$o$g$y$"
+msgstr ""
 
 #: ../../introduction.md:36
 msgid "SO 5-5"
-msgstr "S$O$ 5"
+msgstr ""
 
 #: ../../introduction.md:37
 msgid ""
 "Future support for activities related to the implementation of the "
 "Convention"
-msgstr "F$u$t$u$r$e$ s$u$p$p$o$r$t$ f$o$r$ a$c$t$i$v$i$t$i$e$s$ r$e$l$a$t$e$d$ t$o$ t$h$e$ i"
+msgstr ""
 
 #: ../../introduction.md:226
 msgid "Reporting tools"
-msgstr "R$e$p$o$r$t$i$n$"
+msgstr ""
 
 #: ../../introduction.md:228
 msgid ""
@@ -500,7 +501,7 @@ msgid ""
 "with modern systems architecture and the requests made by Parties at the "
 "fourteenth session of the COP. PRAIS 4 will offer the following "
 "improvements over PRAIS 3, among other things:"
-msgstr "S$i$n$c$e$ t$h$e$ 2018 r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$, t$h$e$ p$e$r$f$o$r$m$a$n$c$e$ r$e$v$i$e$w$ a$n$d$ a$s$s$e$s$s$m$e$n$t$ o$f$ i$m$p$l$e$m$e$n$t$a$t$i$o$n$ s$y$s$t$e$m$ (P$R$A$I$S$) h$a$s$ b$e$e$n$ u$p$g$r$a$d$e$d$ t$o$ b$r$i$n$g$ i$t$ i$n$t$o$ l$i$n$e$ w$i$t$h$ m$o$d$e$r$n$ s$y$s$t$e$m$s$ a$r$c$h$i$t$e$c$t$u$r$e$ a$n$d$ t$h$e$ r$e$q$u$e$s$t$s$ m$a$d$"
+msgstr ""
 
 #: ../../introduction.md:230
 msgid ""
@@ -509,13 +510,13 @@ msgid ""
 "entered in the forms will be summarized in standalone country reports, "
 "downloadable and sharable outside the system. The system will also "
 "include additional data fields specific to affected areas for SOs 1 to 4;"
-msgstr "A$ m$o$r$e$ u$s$e$r$-f$r$i$e$n$d$l$y$ i$n$t$e$r$f$a$c$e$, i$n$c$l$u$d$i$n$g$ w$e$b$-b$a$s$e$d$ r$e$p$o$r$t$i$n$g$ f$o$r$m$s$ p$r$e$-f$i$l$l$e$d$ w$i$t$h$ d$e$f$a$u$l$t$ d$a$t$a$ d$e$r$i$v$e$d$ f$r$o$m$ g$l$o$b$a$l$ d$a$t$a$ s$o$u$r$c$e$s$. I$n$f$o$r$m$a$t$i$o$n$ e$n$t$e$r$e$d$ i$n$ t$h$e$ f$o$r$m$s$ w$i$l$l$ b$e$ s$u$m$m$a$r$i$z$e$d$ i$n$ s$t$a$n$d$a$l$o$n$e$ c$o$u$n$t$r$y$ r$e$p$o$r$t$"
+msgstr ""
 
 #: ../../introduction.md:232
 msgid ""
 "A centralized database to securely store and manage country-submitted "
 "data;"
-msgstr "A$ c$e$n$t$r$a$l$i$z$e$d$ d$a$t$a$b$a$s$e$ t$o$ s$e$c$u$r$e$l$y$ s$t$o$r$e$ a$n$d$"
+msgstr ""
 
 #: ../../introduction.md:234
 msgid ""
@@ -523,41 +524,41 @@ msgid ""
 "will permit the user to define, for instance, the location and boundaries"
 " of land degradation hotspots or zones of voluntary land degradation "
 "neutrality targets;"
-msgstr "N$e$w$ f$u$n$c$t$i$o$n$a$l$i$t$y$ t$o$ i$n$g$e$s$t$ a$n$d$ m$a$n$a$g$e$ l$a$r$g$e$ g$e$o$s$p$a$t$i$a$l$ d$a$t$a$s$e$t$s$; t$h$i$s$ w$i$l$l$ p$e$r$m$i$t$ t$h$e$ u$s$e$r$ t$o$ d$e$f$i$n$e$, f$o$r$ i$n$s$t$a$n$c$e$, t$h$e$ l$o$c$a$t$i$o$n$ a$n$d$ b$o$u$n$d$a"
+msgstr ""
 
 #: ../../introduction.md:236
 msgid ""
 "Analytical, synthesis and visualization functions for the submitted data "
 "[^2]."
-msgstr "A$n$a$l$y$t$i$c$a$l$, s$y$n$t$h$e$s$i$s$ a$n$d$ v$i$s$u$a$l$i$z$a$t$i$o$n$ f$u$n$c$t$"
+msgstr ""
 
 #: ../../introduction.md:238
 msgid ""
 "The following reporting tools will be made available to country Parties "
 "in the six official United Nations languages:"
-msgstr "T$h$e$ f$o$l$l$o$w$i$n$g$ r$e$p$o$r$t$i$n$g$ t$o$o$l$s$ w$i$l$l$ b$e$ m$a$d$e$ a$v$a$i$l$a$b$l$e$ t$o$ c$o$u$n$t$r$y$ P$a$r$t$i$"
+msgstr ""
 
 #: ../../introduction.md:240
 msgid ""
 "The PRAIS 4 user manual, which provides step-by-step procedures for "
 "system access and use;"
-msgstr "T$h$e$ P$R$A$I$S$ 4 u$s$e$r$ m$a$n$u$a$l$, w$h$i$c$h$ p$r$o$v$i$d$e$s$ s$t$e$p$-b$y$-s$t$e$p$ p$r$o"
+msgstr ""
 
 #: ../../introduction.md:242
 msgid ""
 "This reporting manual, which provides step-by-step methodological "
 "guidance for the preparation of national reports;"
-msgstr "T$h$i$s$ r$e$p$o$r$t$i$n$g$ m$a$n$u$a$l$, w$h$i$c$h$ p$r$o$v$i$d$e$s$ s$t$e$p$-b$y$-s$t$e$p$ m$e$t$h$o$d$o$l$o$g$i$c$a$l$ g$u$"
+msgstr ""
 
 #: ../../introduction.md:244
 msgid "An updated glossary of reporting terms and definitions."
-msgstr "A$n$ u$p$d$a$t$e$d$ g$l$o$s$s$a$r$y$ o$f$ r$e$p$o$r$t$i$n$g$"
+msgstr ""
 
 #: ../../introduction.md:246
 msgid ""
 "In addition, Parties can also refer to the following methodological "
 "reference documents (in English only):"
-msgstr "I$n$ a$d$d$i$t$i$o$n$, P$a$r$t$i$e$s$ c$a$n$ a$l$s$o$ r$e$f$e$r$ t$o$ t$h$e$ f$o$l$l$o$w$i$n$g$ m$e$t$h$o$d$o$l$o$g$"
+msgstr ""
 
 #: ../../introduction.md:248
 msgid ""
@@ -565,17 +566,17 @@ msgid ""
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land): Proportion of "
 "land that is degraded over total land area;"
-msgstr "V$e$r$s$i$o$n$ 2 o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$a$t$i$o$n$s$/g$o$o$d$-p$r$a$c$t$i$c$e$-g$u$i$d$a$n$c$e$-s$d$g$-i$n$d$i$c$a$t$o$r$-1531-p$r$o$p$o$r$t$i$o"
+msgstr ""
 
 #: ../../introduction.md:250
 msgid ""
 "Good Practice Guidance for National Reporting on UNCCD Strategic "
 "Objective 3."
-msgstr "G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ N$a$t$i$o$n$a$l$ R$e$p$o$r$t$i$n$g"
+msgstr ""
 
 #: ../../introduction.md:254
 msgid "Data analytics tools"
-msgstr "D$a$t$a$ a$n$a$l$y$t$i"
+msgstr ""
 
 #: ../../introduction.md:256
 msgid ""
@@ -583,13 +584,13 @@ msgid ""
 "enhanced and expanded [Trends.Earth](http://trends.earth/docs/en/) to "
 "support the preparation and analysis of data for UNCCD national reporting"
 " in a format that can be automatically transferred to PRAIS."
-msgstr "I$n$ l$i$n$e$ w$i$t$h$ d$e$c$i$s$i$o$n$ 11/C$O$P$.14, C$o$n$s$e$r$v$a$t$i$o$n$ I$n$t$e$r$n$a$t$i$o$n$a$l$ h$a$s$ f$u$r$t$h$e$r$ e$n$h$a$n$c$e$d$ a$n$d$ e$x$p$a$n$d$e$d$ [T$r$e$n$d$s$.E$a$r$t$h$](h$t$t$p$://t$r$e$n$d$s$.e$a$r$t$h$/d$o$c$s$/e$n$/) t$o$ s$u$p$p$o$r$t$ t$h$e$ p$r$e$p$a$r$a$t$i$o$n$ a$n$d$"
+msgstr ""
 
 #: ../../introduction.md:258
 msgid ""
 "Trends.Earth is a free and open-source tool for monitoring indicators of "
 "land change. More specifically, Trends.Earth supports:"
-msgstr "T$r$e$n$d$s$.E$a$r$t$h$ i$s$ a$ f$r$e$e$ a$n$d$ o$p$e$n$-s$o$u$r$c$e$ t$o$o$l$ f$o$r$ m$o$n$i$t$o$r$i$n$g$ i$n$d$i$c$a$t$o$r$s$ o$f$ l$a$n$"
+msgstr ""
 
 #: ../../introduction.md:260
 msgid ""
@@ -597,45 +598,45 @@ msgid ""
 "following version 2 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land);"
-msgstr "T$h$e$ c$a$l$c$u$l$a$t$i$o$n$ o$f$ t$h$e$ S$O$ 1 i$n$d$i$c$a$t$o$r$s$, i$n$c$l$u$d$i$n$g$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1, f$o$l$l$o$w$i$n$g$ v$e$r$s$i$o$n$ 2 o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$"
+msgstr ""
 
 #: ../../introduction.md:262
 msgid ""
 "The recalculation of SDG indicator 15.3.1, accounting for any reported "
 "false positive and false negative degradation processes;"
-msgstr "T$h$e$ r$e$c$a$l$c$u$l$a$t$i$o$n$ o$f$ S$D$G$ i$n$d$i$c$a$t$o$r$ 15.3.1, a$c$c$o$u$n$t$i$n$g$ f$o$r$ a$n$y$ r$e$p$o$r$t$e$d$ f$a$l$s$e$ p$o"
+msgstr ""
 
 #: ../../introduction.md:264
 msgid ""
 "The calculation of indicator SO 2-3: Trends in the proportion of "
 "population exposed to land degradation, disaggregated by sex;"
-msgstr "T$h$e$ c$a$l$c$u$l$a$t$i$o$n$ o$f$ i$n$d$i$c$a$t$o$r$ S$O$ 2-3: T$r$e$n$d$s$ i$n$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ p$o$p$u$l$a$t$i$o$n$ e$"
+msgstr ""
 
 #: ../../introduction.md:266
 msgid ""
 "The calculation of the SO 3 indicators following the Good Practice "
 "Guidance for National Reporting on UNCCD Strategic Objective 3;"
-msgstr "T$h$e$ c$a$l$c$u$l$a$t$i$o$n$ o$f$ t$h$e$ S$O$ 3 i$n$d$i$c$a$t$o$r$s$ f$o$l$l$o$w$i$n$g$ t$h$e$ G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$"
+msgstr ""
 
 #: ../../introduction.md:268
 msgid ""
 "Access to global data sources, including default data sources for "
 "national reporting;"
-msgstr "A$c$c$e$s$s$ t$o$ g$l$o$b$a$l$ d$a$t$a$ s$o$u$r$c$e$s$, i$n$c$l$u$d$i$n$g$ d$e$f$a$u$l$t$ d$a"
+msgstr ""
 
 #: ../../introduction.md:270
 msgid ""
 "Integration of nationally or locally available data and nationally "
 "determined assumptions;"
-msgstr "I$n$t$e$g$r$a$t$i$o$n$ o$f$ n$a$t$i$o$n$a$l$l$y$ o$r$ l$o$c$a$l$l$y$ a$v$a$i$l$a$b$l$e$ d$a$t$a$ a$"
+msgstr ""
 
 #: ../../introduction.md:272
 msgid "Data transfer to PRAIS."
-msgstr "D$a$t$a$ t$r$a$n$s$f$e$r$"
+msgstr ""
 
 #: ../../introduction.md:274
 msgid "Default data"
-msgstr "D$e$f$a$u$l$t"
+msgstr ""
 
 #: ../../introduction.md:276
 msgid ""
@@ -644,7 +645,7 @@ msgid ""
 "pre-filled with default national estimates based on available global data"
 " sources. Country Parties will have the possibility to verify or replace "
 "these national estimates using data sourced/computed nationally/locally."
-msgstr "W$i$t$h$ a$ v$i$e$w$ t$o$ r$e$d$u$c$i$n$g$ t$h$e$ r$e$p$o$r$t$i$n$g$ b$u$r$d$e$n$ a$n$d$ i$n$ a$c$c$o$r$d$a$n$c$e$ w$i$t$h$ t$h$e$ p$r$o$c$e$d$u$r$e$ e$s$t$a$b$l$i$s$h$e$d$ i$n$ d$e$c$i$s$i$o$n$ 22/C$O$P$.11, t$h$e$ P$R$A$I$S$ 4 f$o$r$m$s$ w$i$l$l$ b$e$ p$r$e$-f$i$l$l$e$d$ w$i$t$h$ d$e$f$a$u$l$t$ n$a$t$i$o$n$a$l$ e$s$t$i$m$a$t$e$s$ b$a$s$e$d$ o$n$ a$v$a$i$l$a$b$l$e$ g$l$o$b$a$l$ d$a$t$a$ s$o$u$"
+msgstr ""
 
 #: ../../introduction.md:278
 msgid ""
@@ -668,7 +669,7 @@ msgid ""
 "countries which are fixed at scales finer than this will not be able to "
 "use UN Clear Map. Alternative web map services are provided for context "
 "at finer scales to compensate for the scale constraints of UN Clear Map."
-msgstr "I$n$ o$r$d$e$r$ t$o$ p$r$o$v$i$d$e$ n$a$t$i$o$n$a$l$-l$e$v$e$l$ e$x$t$r$a$c$t$s$ o$f$ t$h$e$ g$l$o$b$a$l$ d$a$t$a$ s$o$u$r$c$e$s$ f$o$r$ n$a$t$i$o$n$a$l$ r$e$p$o$r$t$i$n$g$, t$h$e$ U$n$i$t$e$d$ N$a$t$i$o$n$s$ G$e$o$s$p$a$t$i$a$l$ H$u$b$ (h$e$r$e$i$n$a$f$t$e$r$ r$e$f$e$r$r$e$d$ t$o$ a$s$ U$N$ M$a$p$ D$a$t$a$) w$a$s$ u$s$e$d$, w$h$i$c$h$ i$s$ a$ w$o$r$l$d$w$i$d$e$ g$e$o$s$p$a$t$i$a$l$ d$a$t$a$b$a$s$e$ c$o$n$s$i$s$t$i$n$g$ o$f$ c$o$u$n$t$r$y$ a$n$d$ g$e$o$g$r$a$p$h$i$c$ n$a$m$e$ i$n$f$o$r$m$a$t$i$o$n$ a$n$d$ a$ c$o$h$e$r$e$n$t$ a$l$i$g$n$m$e$n$t$ o$f$ n$a$t$i$o$n$a$l$ b$o$u$n$d$a$r$i$e$s$ f$o$r$ c$o$n$s$i$s$t$e$n$t$ r$e$p$r$e$s$e$n$t$a$t$i$o$n$ o$n$ a$ g$l$o$b$a$l$ s$c$a$l$e$. U$N$ M$a$p$ D$a$t$a$ i$n$c$l$u$d$e$s$ g$e$o$s$p$a$t$i$a$l$ w$e$b$ s$e$r$v$i$c$e$s$, w$h$i$c$h$ a$i$m$ t$o$ p$r$o$v$i$d$e$ a$ c$o$n$t$e$x$t$u$a$l$ g$l$o$b$a$l$ w$e$b$s$e$r$v$i$c$e$s$ b$a$c$k$g$r$o$u$n$d$ t$o$ t$h$e$ i$n$t$e$r$n$a$t$i$o$n$a$l$ c$o$m$m$u$n$i$t$y$. T$h$e$ c$u$r$r$e$n$t$ f$l$a$g$s$h$i$p$ U$n$i$t$e$d$ N$a$t$i$o$n$s$ g$e$o$s$p$a$t$i$a$l$ s$e$r$v$i$c$e$ i$s$ e$n$t$i$t$l$e$d$ C$l$e$a$r$ M$a$p$[^3] (h$e$r$e$i$n$a$f$t$e$r$ r$e$f$e$r$r$e$d$ t$o$ a$s$ U$N$ C$l$e$a$r$ M$a$p$). U$N$ C$l$e$a$r$ M$a$p$ w$a$s$ o$r$i$g$i$n$a$l$l$y$ d$e$s$i$g$n$e$d$ a$n$d$ c$r$e$a$t$e$d$ f$o$r$ t$h$e$ u$s$e$ o$f$ t$h$e$ U$n$i$t$e$d$ N$a$t$i$o$n$s$ S$e$c$r$e$t$a$r$i$a$t$ a$n$d$ s$y$s$t$e$m$ f$o$r$ t$h$e$i$r$ w$e$b$s$i$t$e$ a$n$d$ r$e$l$a$t$e$d$ w$e$b$ p$r$o$d$u$c$t$s$, b$u$t$ i$s$ n$o$w$ a$ p$u$b$l$i$c$l$y$ a$v$a$i$l$a$b$l$e$ r$e$s$o$u$r$c$e$ s$u$b$j$e$c$t$ t$o$ t$h$e$ t$e$r$m$s$ o"
+msgstr ""
 
 #: ../../introduction.md:280
 msgid ""
@@ -679,7 +680,7 @@ msgid ""
 "part of the UNCCD concerning the legal status of any country, territory, "
 "city or area or of its authorities, or concerning the delimitation of its"
 " frontiers or boundaries."
-msgstr "T$h$e$ U$N$ M$a$p$ D$a$t$a$ h$a$s$ b$e$e$n$ p$r$e$p$a$r$e$d$ b$y$ t$h$e$ U$n$i$t$e$d$ N$a$t$i$o$n$s$ G$e$o$s$p$a$t$i$a$l$ I$n$f$o$r$m$a$t$i$o$n$ S$e$c$t$i$o$n$ (f$o$r$m$e$r$l$y$ C$a$r$t$o$g$r$a$p$h$i$c$ S$e$c$t$i$o$n$) i$n$ N$e$w$ Y$o$r$k$. T$h$e$ d$e$s$i$g$n$a$t$i$o$n$s$ e$m$p$l$o$y$e$d$ a$n$d$ t$h$e$ p$r$e$s$e$n$t$a$t$i$o$n$ o$f$ m$a$t$e$r$i$a$l$ c$o$n$t$a$i$n$e$d$ i$n$ t$h$e$ U$N$ M$a$p$ D$a$t$a$ d$o$ n$o$t$ i$m$p$l$y$ t$h$e$ e$x$p$r$e$s$s$i$o$n$ o$f$ a$n$y$ o$p$i$n$i$o$n$ w$h$a$t$s$o$e$v$"
+msgstr ""
 
 #: ../../introduction.md:282
 msgid ""
@@ -692,18 +693,18 @@ msgid ""
 "alternative national border in that it must be consistent with the total "
 "land area reported under SO 1-1. Otherwise, discrepancies may arise in "
 "the reporting data derived from geospatial analysis using that border."
-msgstr "C$o$u$n$t$r$i$e$s$ w$i$s$h$i$n$g$ t$o$ r$e$p$l$a$c$e$ t$h$e$ d$e$f$a$u$l$t$ n$a$t$i$o$n$a$l$ e$s$t$i$m$a$t$e$s$ u$s$i$n$g$ n$a$t$i$o$n$a$l$l$y$ o$r$ l$o$c$a$l$l$y$ a$v$a$i$l$a$b$l$e$ d$a$t$a$ a$r$e$ a$d$v$i$s$e$d$ a$n$d$ e$n$c$o$u$r$a$g$e$d$ t$o$ u$s$e$ T$r$e$n$d$s$.E$a$r$t$h$ f$o$r$ t$h$e$ p$r$e$p$a$r$a$t$i$o$n$, a$n$a$l$y$s$i$s$ a$n$d$ t$r$a$n$s$f$e$r$ o$f$ t$h$e$i$r$ d$a$t$a$ i$n$t$o$ P$R$A$I$S$. T$h$i$s$ i$n$c$l$u$d$e$s$ t$h$e$ u$s$e$ o$f$ a$ n$a$t$i$o$n$a$l$ b$o$r$d$e$r$ w$h$i$c$h$ d$i$f$f$e$r$s$ f$r$o$m$ t$h$e$ U$N$ M$a$p$ D$a$t$a$ u$s$e$d$ f$o$r$ t$h$e$ p$r$e$p$a$r$a$t$i$o$n$ o$f$ t$h$e$ d$e$f$a$u$l$t$ d$a$t$a$s$e$t$s$ d$e$s$c$r$i$b$e$d$ a$b$o$v$e$. C$a$r$e$f$u$l$ c$o$n$s$i$d$e$r"
+msgstr ""
 
 #: ../../introduction.md:286
 msgid "Open data sharing"
-msgstr "O$p$e$n$ d$a$t$a$ "
+msgstr ""
 
 #: ../../introduction.md:288
 msgid ""
 "By its decision 16/COP.11, the COP requested the secretariat to ensure "
 "that data and information from the reporting process are available and "
 "accessible to all, especially at the national and local levels."
-msgstr "B$y$ i$t$s$ d$e$c$i$s$i$o$n$ 16/C$O$P$.11, t$h$e$ C$O$P$ r$e$q$u$e$s$t$e$d$ t$h$e$ s$e$c$r$e$t$a$r$i$a$t$ t$o$ e$n$s$u$r$e$ t$h$a$t$ d$a$t$a$ a$n$d$ i$n$f$o$r$m$a$t$i$o$n$ f$r$o$m$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ a$r"
+msgstr ""
 
 #: ../../introduction.md:290
 msgid ""
@@ -711,7 +712,7 @@ msgid ""
 "attribute data, country Parties will be prompted to choose whether to: "
 "(i) use an existing Creative Commons licence; or (ii) use an existing "
 "licence of their own."
-msgstr "W$h$e$n$ u$p$l$o$a$d$i$n$g$ d$a$t$a$ t$o$ P$R$A$I$S$, p$a$r$t$i$c$u$l$a$r$l$y$ s$p$a$t$i$a$l$ d$a$t$a$ a$n$d$ a$s$s$o$c$i$a$t$e$d$ a$t$t$r$i$b$u$t$e$ d$a$t$a$, c$o$u$n$t$r$y$ P$a$r$t$i$e$s$ w$i$l$l$ b$e$ p$r$o$m$p$t$e$d$ t$o$ c$h$o$o$s$e$ w$h$e$t$h$e$r$ t$"
+msgstr ""
 
 #: ../../introduction.md:292
 msgid ""
@@ -729,11 +730,11 @@ msgid ""
 "Parties, must reshare the data on the same terms granted by the licensor "
 "and with proper attribution to them. For more information on the issue of"
 " data sharing, see Annex I of this reporting manual."
-msgstr "T$h$e$s$e$ o$p$t$i$o$n$s$ a$i$m$ t$o$ e$m$p$o$w$e$r$ c$o$u$n$t$r$y$ P$a$r$t$i$e$s$ r$e$p$o$r$t$i$n$g$ t$h$r$o$u$g$h$ P$R$A$I$S$ t$o$ s$e$t$ t$h$e$ t$e$r$m$s$ o$f$ u$s$e$ o$f$ t$h$e$ n$a$t$i$o$n$a$l$ d$a$t$a$ u$p$l$o$a$d$e$d$ o$r$ c$r$e$a$t$e$d$ a$s$ p$a$r$t$ o$f$ t$h$e$ r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$. C$o$u$n$t$r$y$ P$a$r$t$i$e$s$ a$r$e$ f$r$e$e$ t$o$ c$h$o$o$s$e$ a$ l$i$c$e$n$c$e$ t$h$a$t$ m$e$e$t$s$ t$h$e$i$r$ r$e$q$u$i$r$e$m$e$n$t$s$. H$o$w$e$v$e$r$, m$o$s$t$ o$f$ t$h$e$ d$e$f$a$u$l$t$ d$a$t$a$ p$r$o$v$i$d$e$d$ t$o$ P$a$r$t$i$e$s$ t$h$r$o$u$g$h$ P$R$A$I$S$ a$n$d$ T$r$e$n$d$s$.E$a$r$t$h$ i$s$ a$l$r$e$a$d$y$ i$n$ t$h$e$ p$u$b$l$i$c$ d$o$m$a$i$n$ a$s$ d$e$s$c$r$i$b$e$d$ h$e$r$e$, w$h$i$l$e$ o$t$h$e$r$ d$e$f$a$u$l$t$ d$a$t$a$s$e$t$s$ h$a$v$e$ b$e$e$n$ l$i$c$e$n$c$e$d$ b$y$ t$h$e$i$r$ r$e$s$p$e$c$t$i$v$e$ d$a$t$a$ p$r$o$v$i$d$e$r$s$, n$a$m$e$l$y$ t$h$e$ E$u$r$o$p$e$a$n$ S$p$a$c$e$ A$g$e$n$c$y$ C$l$i$m$a$t$e$ C$h$a$n$g$e$ I$n$i$t$i$a$t$i$v$e$ L$a$n$d$ C$o$v$e$r$ a$n$d$ t$h$e$ I$n$t$e$r$n$a$t$i$o$n$a$l$ S$o$i$l$ R$e$f$e$r$e$n$c$e$ a$n$d$ I$n$f$o$r$m$a$t$i$o$n$ C$"
+msgstr ""
 
 #: ../../introduction.md:294
 msgid "Reporting frequency"
-msgstr "R$e$p$o$r$t$i$n$g$ f"
+msgstr ""
 
 #: ../../introduction.md:296
 msgid ""
@@ -743,65 +744,65 @@ msgid ""
 "information for the baseline period 2000–2015. From the 2022 reporting "
 "process onward, Parties will quantify the indicators and report national "
 "estimates for four-year reporting periods as indicated in table 6 below."
-msgstr "B$y$ i$t$s$ d$e$c$i$s$i$o$n$ 15/C$O$P$. 13, t$h$e$ C$O$P$ a$p$p$r$o$v$e$d$ a$ f$o$u$r$-y$e$a$r$ f$r$e$q$u$e$n$c$y$ f$o$r$ n$a$t$i$o$n$a$l$ r$e$p$o$r$t$i$n$g$. D$u$r$i$n$g$ t$h$e$ f$i$r$s$t$ r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ u$n$d$e$r$ t$h$e$ U$N$C$C$D$ 2018–2030 S$t$r$a$t$e$g$i$c$ F$r$a$m$e$w$o$r$k$ i$n$ 2018, P$a$r$t$i$e$s$ r$e$p$o$r$t$e$d$ d$a$t$a$ a$n$d$ i$n$f$o$r$m$a$t$i$o$n$ f$o$r$ t$h$e$ b$a$s$e$l$i$n$e$ p$e$r$i$o$d$ 2000–2015. F$r$o$m$ t$h$e$ 2022 r$e$p$"
+msgstr ""
 
 #: ../../introduction.md:298
 msgid ""
 "*__Table 6__. UNCCD reporting process and corresponding reporting periods"
 " (current reporting process and period in bold)*"
-msgstr "*__T$a$b$l$e$ 6__. U$N$C$C$D$ r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ a$n$d$ c$o$r$r$e$s$p$o$n$d$i$n$g$ r$e$p$o$r$t$i$n$g$ p$e$r$i$o$d$s$ ("
+msgstr ""
 
 #: ../../introduction.md:1
 msgid "UNCCD Reporting Process"
-msgstr "U$N$C$C$D$ R$e$p$o$r$t$i$"
+msgstr ""
 
 #: ../../introduction.md:2
 msgid "UNCCD Reporting Periods"
-msgstr "U$N$C$C$D$ R$e$p$o$r$t$i$"
+msgstr ""
 
 #: ../../introduction.md:3
 msgid "2018"
-msgstr "2018"
+msgstr ""
 
 #: ../../introduction.md:4
 msgid "Baseline 2000-2015"
-msgstr "B$a$s$e$l$i$n$e$ 20"
+msgstr ""
 
 #: ../../introduction.md:5
 msgid "__2022__"
-msgstr "__2022__"
+msgstr ""
 
 #: ../../introduction.md:6
 msgid "__2016-2019__"
-msgstr "__2016-2019__$"
+msgstr ""
 
 #: ../../introduction.md:7
 msgid "2026"
-msgstr "2026"
+msgstr ""
 
 #: ../../introduction.md:8
 msgid "2020-2023"
-msgstr "2020-2023"
+msgstr ""
 
 #: ../../introduction.md:9
 msgid "2030"
-msgstr "2030"
+msgstr ""
 
 #: ../../introduction.md:10
 msgid "2024-2027"
-msgstr "2024-2027"
+msgstr ""
 
 #: ../../introduction.md:11
 msgid "2034"
-msgstr "2034"
+msgstr ""
 
 #: ../../introduction.md:12
 msgid "2028-2031"
-msgstr "2028-2031"
+msgstr ""
 
 #: ../../introduction.md:319
 msgid "Recalculations and time series consistency"
-msgstr "R$e$c$a$l$c$u$l$a$t$i$o$n$s$ a$n$d$ t$i$m$e$ s"
+msgstr ""
 
 #: ../../introduction.md:321
 msgid ""
@@ -810,7 +811,7 @@ msgid ""
 "recalculations may require refinements in terms of target-setting, they "
 "ensure the consistency of the time series and the comparability between "
 "the baseline and future monitoring data."
-msgstr "A$d$v$a$n$c$e$s$ i$n$ m$e$t$h$o$d$o$l$o$g$i$e$s$ a$n$d$ d$a$t$a$ a$v$a$i$l$a$b$i$l$i$t$y$ m$a$y$ r$e$q$u$i$r$e$ p$e$r$i$o$d$i$c$ r$e$c$a$l$c$u$l$a$t$i$o$n$s$ o$f$ p$r$e$v$i$o$u$s$l$y$ s$u$b$m$i$t$t$e$d$ n$a$t$i$o$n$a$l$ e$s$t$i$m$a$t$e$s$. W$h$i$l$e$ r$e$c$a$l$c$u$l$a$t$i$o$n$s$ m$a$y$ r$e$q$u$i$r$e$ r$e$f$i$n$e$m$e$n$t$s$ i$n$ t$e$r$m$s$ o$f$ t$a"
+msgstr ""
 
 #: ../../introduction.md:323
 msgid ""
@@ -820,7 +821,7 @@ msgid ""
 "reported in 2018; and (ii) previously submitted national targets), should"
 " be reported. A separate reporting form has been created in PRAIS 4 for "
 "this purpose."
-msgstr "I$n$ t$h$i$s$ r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$, t$h$e$ k$e$y$ r$e$a$s$o$n$s$ f$o$r$ r$e$c$a$l$c$u$l$a$t$i$o$n$, a$c$c$o$m$p$a$n$i$e$d$ b$y$ e$x$p$l$a$n$a$t$o$r$y$ i$n$f$o$r$m$a$t$i$o$n$ (i$n$c$l$u$d$i$n$g$ t$h$e$ q$u$a$n$t$i$t$a$t$i$v$e$ i$m$p$a$c$t$ o$f$ t$h$e$ r$e$c$a$l$c$u$l$a$t$i$o$n$ o$n$ (i$) t$h$e$ b$a$s$e$l$i$n$e$ e$s$t$i$m$a$t$e$s$ c$o$m$p$a$r$e$d$ w$i$t$h$ t$h$e$ b$a$s$e$l$i$n$e$ r$e$p$o$r$t$e$d"
+msgstr ""
 
 #: ../../introduction.md:325
 msgid ""
@@ -835,7 +836,7 @@ msgid ""
 " for country Parties using the new calculation methods. Therefore, "
 "recalculation methods should only be reported if opting to use national "
 "datasets."
-msgstr "F$o$r$ i$n$s$t$a$n$c$e$, g$i$v$e$n$ t$h$e$ e$v$o$l$u$t$i$o$n$ o$f$ t$h$e$ c$a$l$c$u$l$a$t$i$o$n$ m$e$t$h$o$d$s$ p$r$e$s$e$n$t$e$d$ i$n$ v$e$r$s$i$o$n$ 2 o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p$u$b$l$i$c$a$t$i$o$n$s$/g$o$o$d$-p$r$a$c$t$i$c$e$-g$u$i$d$a$n$c$e$-s$d$g$-i$n$d$i$c$a$t$o$r$-1531-p$r$o$p$o$r$t$i$o$n$-l$a$n$d$-d$e$g$r$a$d$e$d$-o$v$e$r$-t$o$t$a$l$-l$a$n$d$), i$t$ i$s$ r$e$c$o$m$m$e$n$d$e$d$ t$h$a$t$ p$r$e$v$i$o$u$s$l$y$ s$u$b$m$i$t$t$e$d$ b$a$s$e$l$i$n$e$ e$s$t$i$m$a$t$e$s$ o$f$ a$l$l$ S$O$ 1 i$n$d$i$c$a$t$o$r$s$, i$n$c$l$u$d$i$n$g$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1, b$e$ r$e$c$a$l$c$u$l$a$t$e$d$ a$n$d$ i$n$c$l$u$d$e$d$ i$n$ t$h$e$ n$a$t$i$o$n$a$l$ r$e$"
+msgstr ""
 
 #: ../../introduction.md:327
 msgid ""
@@ -843,11 +844,11 @@ msgid ""
 " version 2 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
-msgstr "F$o$r$ a$ b$r$o$a$d$e$r$ d$i$s$c$u$s$s$i$o$n$ o$n$ t$h$e$ i$s$s$u$e$ o$f$ r$e$c$a$l$c$u$l$a$t$i$o$n$s$, s$e$e$ c$h$a$p$t$e$r$ 6 o$f$ v$e$r$s$i$o$n$ 2 o$f$ t$h$e$ [G$o$o$d$ P$r$a$c$t$i$c$e$ G$u$i$d$a$n$c$e$ f$o$r$ S$D$G$ I$n$d$i$c$a$t$o$r$ 15.3.1](h$t$t$p$s$://w$w$w$.u$n$c$c$d$.i$n$t$/p"
+msgstr ""
 
 #: ../../introduction.md:329
 msgid "Process and schedule for the 2022 reporting process"
-msgstr "P$r$o$c$e$s$s$ a$n$d$ s$c$h$e$d$u$l$e$ f$o$r$ t$h$e$ 202"
+msgstr ""
 
 #: ../../introduction.md:331
 msgid ""
@@ -857,13 +858,13 @@ msgid ""
 "reports could be May 2022, still pending a final decision by the "
 "Executive Secretary and the CRIC Bureau, who will assess progress made in"
 " reporting by Parties early next year."
-msgstr "T$h$e$ 2022 r$e$p$o$r$t$i$n$g$ p$r$o$c$e$s$s$ i$s$ e$x$p$e$c$t$e$d$ t$o$ c$o$m$m$e$n$c$e$ i$n$ N$o$v$e$m$b$e$r$ 2021, c$o$n$t$i$n$g$e$n$t$ o$n$ t$h$e$ t$i$m$i$n$g$ o$f$ t$h$e$ P$R$A$I$S$ 4 l$a$u$n$c$h$. I$f$ r$e$p$o$r$t$i$n$g$ c$o$m$m$e$n$c$e$s$ a$t$ t$h$e$ b$e$g$i$n$n$i$n$g$ o$f$ N$o$v$e$m$b$e$r$ 2021, t$h$e$ d$e$a$d$l$i$n$e$ f$o$r$ s$u$b$m$i$s$s$i$o$n$ o$f$ n$a$t$i$o$n$a$l$ r$e$p$o$r$t$s$ c$o$u$l$d$ b$e$ M$a$y$ 2022, s$t$i$l"
+msgstr ""
 
 #: ../../introduction.md:333
 msgid ""
 "Various measures will be taken to support Parties in preparing the "
 "national reports and providing high quality information:"
-msgstr "V$a$r$i$o$u$s$ m$e$a$s$u$r$e$s$ w$i$l$l$ b$e$ t$a$k$e$n$ t$o$ s$u$p$p$o$r$t$ P$a$r$t$i$e$s$ i$n$ p$r$e$p$a$r$i$n$g$ t$h$e$ n$a$t$i$o$n$"
+msgstr ""
 
 #: ../../introduction.md:335
 msgid ""
@@ -873,33 +874,33 @@ msgid ""
 "webinars aimed at introducing national focal points and assigned "
 "reporting officers to the new reporting requirements, methodologies, data"
 " and tools;"
-msgstr "C$a$p$a$c$i$t$y$ d$e$v$e$l$o$p$m$e$n$t$ a$c$t$i$v$i$t$i$e$s$ w$i$l$l$ b$e$ o$r$g$a$n$i$z$e$d$ s$t$a$r$t$i$n$g$ i$n$ N$o$v$e$m$b$e$r$ 2021. D$u$e$ t$o$ C$O$V$I$D$-19 a$n$d$ r$e$l$a$t$e$d$ t$r$a$v$e$l$ r$e$s$t$r$i$c$t$i$o$n$s$, t$h$o$s$e$ c$a$p$a$c$i$t$y$ d$e$v$e$l$o$p$m$e$n$t$ a$c$t$i$v$i$t$i$e$s$ w$i$l$l$ h$a$v$e$ t$o$ b$e$ d$e$s$i$g$n$e$d$ a$s$ o$n$l$i$n$e$ t$u$i$t$i$o$n$ a$n$d$ w$e$b$i$n$a$r"
+msgstr ""
 
 #: ../../introduction.md:337
 msgid ""
 "The secretariat and the Global Mechanism, with the assistance of "
 "consultants, will provide technical backstopping throughout the reporting"
 " process;"
-msgstr "T$h$e$ s$e$c$r$e$t$a$r$i$a$t$ a$n$d$ t$h$e$ G$l$o$b$a$l$ M$e$c$h$a$n$i$s$m$, w$i$t$h$ t$h$e$ a$s$s$i$s$t$a$n$c$e$ o$f$ c$o$n$s$u$l$t$a$n$t$s$, w$i$l$l$ p$r$o$v$i"
+msgstr ""
 
 #: ../../introduction.md:339
 msgid ""
 "An online helpdesk facility will be available via PRAIS 4 to respond to "
 "queries from Parties;"
-msgstr "A$n$ o$n$l$i$n$e$ h$e$l$p$d$e$s$k$ f$a$c$i$l$i$t$y$ w$i$l$l$ b$e$ a$v$a$i$l$a$b$l$e$ v$i$a$ P$R$A$I$S$"
+msgstr ""
 
 #: ../../introduction.md:341
 msgid ""
 "National reports will undergo a quality assurance procedure prior to "
 "final submission to ensure the provision of consistent, transparent, "
 "comparable, accurate and complete information."
-msgstr "N$a$t$i$o$n$a$l$ r$e$p$o$r$t$s$ w$i$l$l$ u$n$d$e$r$g$o$ a$ q$u$a$l$i$t$y$ a$s$s$u$r$a$n$c$e$ p$r$o$c$e$d$u$r$e$ p$r$i$o$r$ t$o$ f$i$n$a$l$ s$u$b$m$i$s$s$i$o$n$ t$o$ e$n$s$u$r$e$ t$h$e$ p$r$o$v$i$s$i$o$n"
+msgstr ""
 
 #: ../../introduction.md:343
 msgid ""
 "At its twenty-first session, the CRIC will review and analyse the "
 "information submitted during the 2022 reporting process."
-msgstr "A$t$ i$t$s$ t$w$e$n$t$y$-f$i$r$s$t$ s$e$s$s$i$o$n$, t$h$e$ C$R$I$C$ w$i$l$l$ r$e$v$i$e$w$ a$n$d$ a$n$a$l$y$s$e$ t$h$e$ i$n$f$o$r$m$a$t"
+msgstr ""
 
 #: ../../introduction.md:73
 msgid ""
@@ -907,122 +908,15 @@ msgid ""
 " by developed country Parties. Developed country Parties may wish to "
 "submit information on these indicators on a voluntary basis for the "
 "purpose of reporting on progress towards the SDGs."
-msgstr "I$n$d$i$c$a$t$o$r$s$ u$n$d$e$r$ S$O$ 1 a$n$d$ S$D$G$ i$n$d$i$c$a$t$o$r$ 15.3.1 a$r$e$ o$p$t$i$o$n$a$l$ f$o$r$ r$e$p$o$r$t$i$n$g$ b$y$ d$e$v$e$l$o$p$e$d$ c$o$u$n$t$r$y$ P$a$r$t$i$e$s$. D$e$v$e$l$o$p$e$d$ c$o$u$n$t$r$y$ P$a$r$t$i$e$s$ m$a$y$ w$i$s$h$ t$o$ s$u$b$m$i$t$ i$n$f$o$r$m$a$t$i$o"
+msgstr ""
 
 #: ../../introduction.md:252
 msgid ""
 "Delivery of analytical, synthesis and visualization functions expected in"
 " September - December 2022."
-msgstr "D$e$l$i$v$e$r$y$ o$f$ a$n$a$l$y$t$i$c$a$l$, s$y$n$t$h$e$s$i$s$ a$n$d$ v$i$s$u$a$l$i$z$a$t$i$o$n$ f$u$n$c$t$i$o"
+msgstr ""
 
 #: ../../introduction.md:284
 msgid "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
-msgstr "h$t$t$p$s$://g$e$o$p$o$r$t$a$l$.u$n$.o$r$g$/a$r$c$g$i$s$/h$o$m$e$/i$t$e$m$.h$t$m$l$?i$d$=54"
-
-#~ msgid ""
-#~ "*__Table 1__. Strategic objective (SO) 1"
-#~ " indicators and reporting attributions*"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "{rspan}`3` Indicators under SO 1 and "
-#~ "SDG indicator 15.3.1 are optional for"
-#~ " reporting by developed country Parties."
-#~ " Developed country Parties may wish "
-#~ "to submit information on these "
-#~ "indicators on a voluntary basis for "
-#~ "the purpose of reporting on progress "
-#~ "towards the SDGs."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Analytical, synthesis and visualization "
-#~ "functions for the submitted data."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Version 2 of the Good Practice "
-#~ "Guidance for SDG Indicator 15.3.1: "
-#~ "Proportion of land that is degraded "
-#~ "over total land area;"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The calculation of the SO 1 "
-#~ "indicators, including SDG Indicator 15.3.1,"
-#~ " following version 2 of the Good "
-#~ "Practice Guidance for SDG Indicator "
-#~ "15.3.1;"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In order to provide national-level "
-#~ "extracts of the global data sources "
-#~ "for national reporting, the United "
-#~ "Nations Geospatial Hub (hereinafter referred"
-#~ " to as UN Map Data) was used,"
-#~ " which is a worldwide geospatial "
-#~ "database consisting of country and "
-#~ "geographic name information and a "
-#~ "coherent alignment of national boundaries "
-#~ "for consistent representation on a "
-#~ "global scale. UN Map Data includes "
-#~ "geospatial web services, which aim to"
-#~ " provide a contextual global webservices"
-#~ " background to the international community."
-#~ " The current flagship United Nations "
-#~ "geospatial service is entitled [Clear "
-#~ "Map](https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887)"
-#~ " (hereinafter referred to as UN Clear"
-#~ " Map). UN Clear Map was originally"
-#~ " designed and created for the use "
-#~ "of the United Nations Secretariat and"
-#~ " system for their website and related"
-#~ " web products, but is now a "
-#~ "publicly available resource subject to "
-#~ "the terms of use. The UN Clear "
-#~ "Map service is available in PRAIS "
-#~ "4 in different cartographic styles and"
-#~ " web canvases to give countries "
-#~ "context for the geospatial reporting "
-#~ "data. However, the UN Clear Map "
-#~ "has scale constraints, as it cannot "
-#~ "be used beyond a map scale of "
-#~ "1:4.5 million. As the PRAIS 4 map"
-#~ " view is fixed to the extent of"
-#~ " the country boundaries, countries which"
-#~ " are fixed at scales finer than "
-#~ "this will not be able to use "
-#~ "UN Clear Map. Alternative web map "
-#~ "services are provided for context at "
-#~ "finer scales to compensate for the "
-#~ "scale constraints of UN Clear Map."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "For instance, given the evolution of "
-#~ "the calculation methods presented in "
-#~ "version 2 of the Good Practice "
-#~ "Guidance for SDG Indicator 15.3.1, it"
-#~ " is recommended that previously submitted"
-#~ " baseline estimates of all SO 1 "
-#~ "indicators, including SDG Indicator 15.3.1,"
-#~ " be recalculated and included in the"
-#~ " national report to be submitted in"
-#~ " 2022. Default national estimates provided"
-#~ " through the PRAIS forms have already"
-#~ " been recalculated for country Parties "
-#~ "using the new calculation methods. "
-#~ "Therefore, recalculation methods should only"
-#~ " be reported if opting to use "
-#~ "national datasets."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "For a broader discussion on the "
-#~ "issue of recalculations, see chapter 6"
-#~ " of version 2 of the Good "
-#~ "Practice Guidance for SDG Indicator "
-#~ "15.3.1."
-#~ msgstr ""
+msgstr ""
 

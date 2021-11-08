@@ -4,11 +4,12 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-12 20:48+0300\n"
+"POT-Creation-Date: 2021-11-04 19:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,33 +20,33 @@ msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "Heading level 1"
-msgstr "H$e$a$d$i$n$g$ l"
+msgstr ""
 
 #: ../../sample_markdown.md:3
 msgid "Heading level 2"
-msgstr "H$e$a$d$i$n$g$ l"
+msgstr ""
 
 #: ../../sample_markdown.md:5
 msgid "Heading level 3"
-msgstr "H$e$a$d$i$n$g$ l"
+msgstr ""
 
 #: ../../sample_markdown.md:7
 msgid ""
 "This information is required to facilitate analysis of the progress "
 "indicators for strategic objectives 1 and 2."
-msgstr "T$h$i$s$ i$n$f$o$r$m$a$t$i$o$n$ i$s$ r$e$q$u$i$r$e$d$ t$o$ f$a$c$i$l$i$t$a$t$e$ a$n$a$l$y$s$i$s$ o$f$ t$h$e$ p$r$o$g$r$e$s$"
+msgstr ""
 
 #: ../../sample_markdown.md:9
 msgid "About footnotes"
-msgstr "A$b$o$u$t$ f$o$o"
+msgstr ""
 
 #: ../../sample_markdown.md:11
 msgid "Here's a simple footnote,[^1] and here's a longer one.[^bignote]"
-msgstr "H$e$r$e$'s$ a$ s$i$m$p$l$e$ f$o$o$t$n$o$t$e$,[^1] a$n$d$ h$e$r$e$'s$ a"
+msgstr ""
 
 #: ../../sample_markdown.md:23
 msgid "Land area"
-msgstr "L$a$n$d$ "
+msgstr ""
 
 #: ../../sample_markdown.md:25
 msgid ""
@@ -57,7 +58,7 @@ msgid ""
 "potentially identified by the reduction in size of permanent water "
 "bodies, the disappearance of permanent water bodies and the loss of "
 "coastline."
-msgstr "I$n$f$o$r$m$a$t$i$o$n$ r$e$l$a$t$i$n$g$ t$o$ l$a$n$d$ a$r$e$a$ i$s$ r$e$q$u$i$r$e$d$ o$v$e$r$ s$e$v$e$r$a$l$ y$e$a$r$s$ t$o$ c$a$l$c$u$l$a$t$e$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ c$o$v$e$r$e$d$ b$y$ e$a$c$h$ l$a$n$d$ c$o$v$e$r$ c$l$a$s$s$ (S$O$1-1) a$n$d$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$e$d$ o$v$e$r$ t$o$t$a$l$ l$a$n$d$ a$r$e$a$ (S$u$s$t$a$i$n$a$b$l$e$ D$e$v$e$l$o$p$m$e$n$t$ G$o$a$l$ i$n$d$i$c$a$t$o$r$ 15.3.1). T$h$i$s$ i$n$f$o$r$m$a$t$i$o$n$ i$s$ a$l$s$o$ u$s$e$f$u$l$ t$o$ i$n$v$e$s$t$i$g"
+msgstr ""
 
 #: ../../sample_markdown.md:31
 msgid ""
@@ -66,17 +67,17 @@ msgid ""
 "year. Land area data is pre-filled in the reporting template. The pre-"
 "filled data is editable and thus can be adjusted if these estimates have "
 "changed. Any changes are to be justified in the ‘Comments’ column."
-msgstr "T$o$t$a$l$ l$a$n$d$ a$r$e$a$, w$a$t$e$r$ b$o$d$y$ a$r$e$a$ a$n$d$ t$o$t$a$l$ c$o$u$n$t$r$y$ a$r$e$a$ r$e$q$u$i$r$e$ r$e$s$p$e$c$t$i$v$e$ e$s$t$i$m$a$t$e$s$ t$o$ b$e$ r$e$p$o$r$t$e$d$ i$n$ k$m${s$u$p$}`2` f$o$r$ t$h$e$ c$o$r$r$e$s$p$o$n$d$i$n$g$ y$e$a$r$. L$a$n$d$ a$r$e$a$ d$a$t$a$ i$s$ p$r$e$-f$i$l$l$e$d$ i$n$ t$h$e$ r$e$p$o$r$t$i$n$g$ t$e$m$p$l$a$t$e$. T$h$e$ p$r$e$-f$i$l$l$e"
+msgstr ""
 
 #: ../../sample_markdown.md:36
 msgid ""
 "Countries should ensure that data on land area is consistent with data on"
 " land cover and on the proportion of land that is degraded."
-msgstr "C$o$u$n$t$r$i$e$s$ s$h$o$u$l$d$ e$n$s$u$r$e$ t$h$a$t$ d$a$t$a$ o$n$ l$a$n$d$ a$r$e$a$ i$s$ c$o$n$s$i$s$t$e$n$t$ w$i$t$h$ d$a$t$a$ o$n$ l$a$n$d$ c"
+msgstr ""
 
 #: ../../sample_markdown.md:39
 msgid "Demographics"
-msgstr "D$e$m$o$g$r$a"
+msgstr ""
 
 #: ../../sample_markdown.md:41
 msgid ""
@@ -86,7 +87,7 @@ msgid ""
 "Information relating to population is also useful to ascertain how much "
 "pressure the increases in population are having on land capital in both "
 "rural and urban areas."
-msgstr "D$e$m$o$g$r$a$p$h$i$c$s$ a$r$e$ r$e$q$u$i$r$e$d$ o$v$e$r$ s$e$v$e$r$a$l$ y$e$a$r$s$ t$o$ e$s$t$i$m$a$t$e$ t$h$e$ p$r$o$p$o$r$t$i$o$n$ o$f$ p$o$p$u$l$a$t$i$o$n$ b$e$l$o$w$ t$h$e$ i$n$t$e$r$n$a$t$i$o$n$a$l$ p$o$v$e$r$t$y$ l$i$n$e$ (S$O$2-1) a$n$d$ p$r$o$p$o$r$t$i$o$n$ o$f$ p$o$p$u$l$a$t$i$o$n$ u$s$i$n$g$ s$a$f$e$l$y$ m$a$n$a$g$e$d$ d$r$i$n$k$i$n$g$ w$a$t$e$r$ s$e$r$v$i$c$e$s$ (S$O$2-2). I$n$f$o$r$m$a$t$i$o$n$ r$e$l$a"
+msgstr ""
 
 #: ../../sample_markdown.md:46
 msgid ""
@@ -94,17 +95,17 @@ msgid ""
 "Population estimates can be accessed from website of the United Nations, "
 "Department of Economic and Social Affairs, Population Division[^2] and/or"
 " from the World Bank website.[^3]"
-msgstr "P$o$p$u$l$a$t$i$o$n$ e$s$t$i$m$a$t$e$s$ s$h$o$u$l$d$ b$e$ r$e$p$o$r$t$e$d$ i$n$ t$h$o$u$s$a$n$d$ i$n$h$a$b$i$t$a$n$t$s$. P$o$p$u$l$a$t$i$o$n$ e$s$t$i$m$a$t$e$s$ c$a$n$ b$e$ a$c$c$e$s$s$e$d$ f$r$o$m$ w$e$b$s$i$t$e$ o$f$ t$h$e$ U$n$i$t$e$d$ N$a$t$i$o$n$s$, D$e$p$a$r$t$m"
+msgstr ""
 
 #: ../../sample_markdown.md:53
 msgid ""
 "Countries should ensure that data on demographics is consistent with data"
 " on poverty and drinking water"
-msgstr "C$o$u$n$t$r$i$e$s$ s$h$o$u$l$d$ e$n$s$u$r$e$ t$h$a$t$ d$a$t$a$ o$n$ d$e$m$o$g$r$a$p$h$i$c$s$ i$s$ c$o$n$s$i$s$t$e"
+msgstr ""
 
 #: ../../sample_markdown.md:55
 msgid "Complementary information"
-msgstr "C$o$m$p$l$e$m$e$n$t$a$r$y$ "
+msgstr ""
 
 #: ../../sample_markdown.md:57
 msgid ""
@@ -113,542 +114,542 @@ msgid ""
 "data may assist in the interpretation of population dynamics and "
 "potential population pressures. Any additional disaggregated data should "
 "also be uploaded to the PRAIS."
-msgstr "P$o$p$u$l$a$t$i$o$n$ d$a$t$a$s$e$t$s$ t$h$a$t$ h$a$v$e$ b$e$e$n$ f$u$r$t$h$e$r$ d$i$s$a$g$g$r$e$g$a$t$e$d$ (b$y$ l$a$b$o$r$ f$o$r$c$e$, a$g$e$, m$a$l$e$/f$e$m$a$l$e$) a$r$e$ a$v$a$i$l$a$b$l$e$ f$r$o$m$ t$h$e$ W$o$r$l$d$ B$a$n$k$. T$h$i$s$ d$i$s$a$g$g$r$e$g$a$t$e$d$ d$a$t$a$ m$a$y$ a$s$s$i$s$t$ i$n$ t$h$e$ i$n$t$e$r$p$r$e$t$a$t$i$o$n$ o$f$ p$o$"
+msgstr ""
 
 #: ../../sample_markdown.md:61
 msgid "Images"
-msgstr "I$m$a$"
+msgstr ""
 
 #: ../../sample_markdown.md:63
 msgid ""
 "![Alt-text for the first "
 "image](https://d33wubrfki0l68.cloudfront.net/eab45e25bb79970178fab7a2d10cba0209372a59/94d9e/assets/images"
 "/philly-magic-garden.jpg \"This is the tooltip\")"
-msgstr "![A$l$t$-t$e$x$t$ f$o$r$ t$h$e$ f$i$r$s$t$ i$m$a$g$e$](h$t$t$p$s$://d$33w$u$b$r$f$k$i$0l$68.c$l$o$u$d$f$r$o$n$t$.n$e$t$/e$a$b$45e$25b$b$79970178f$a$b$7a$2d$10c$b$a$0209372a$59/94d$9e$/a$s$s$e$t$"
+msgstr ""
 
 #: ../../sample_markdown.md:63
 msgid "Alt-text for the first image"
-msgstr "A$l$t$-t$e$x$t$ f$o$r$ t$h$e$ "
+msgstr ""
 
 #: ../../sample_markdown.md:65
 msgid "![Alt-text for the second image](/img/80-CMEMS-TAC-WIND.png \"Tooltip 2\")"
-msgstr "![A$l$t$-t$e$x$t$ f$o$r$ t$h$e$ s$e$c$o$n$d$ i$m$a$g$e$](/i$m$g$/80-C$M$E$M$S$-"
+msgstr ""
 
 #: ../../sample_markdown.md:65
 msgid "Alt-text for the second image"
-msgstr "A$l$t$-t$e$x$t$ f$o$r$ t$h$e$ s"
+msgstr ""
 
 #: ../../sample_markdown.md:67
 msgid "Basic formatting"
-msgstr "B$a$s$i$c$ f$o$r$"
+msgstr ""
 
 #: ../../sample_markdown.md:69
 msgid ""
 "Use double asterisks for **bold text**. It also works with __double "
 "underscores__. Use single asterisks or underscores for *italic* _text_. "
 "Use three asterisks for ***really important*** text."
-msgstr "U$s$e$ d$o$u$b$l$e$ a$s$t$e$r$i$s$k$s$ f$o$r$ **b$o$l$d$ t$e$x$t$**. I$t$ a$l$s$o$ w$o$r$k$s$ w$i$t$h$ __d$o$u$b$l$e$ u$n$d$e$r$s$c$o$r$e$s$__. U$s$e$ s$i$n$g$l$e$ a$s$t$e$r$i$s$k$s$ o$r$ u$n$d$e$r$s$c$o$r$e$s$ "
+msgstr ""
 
 #: ../../sample_markdown.md:73
 msgid "<ins>Underline text</ins> may work using the HTML `<ins>` tag."
-msgstr "<i$n$s$>U$n$d$e$r$l$i$n$e$ t$e$x$t$</i$n$s$> m$a$y$ w$o$r$k$ u$s$i$n"
+msgstr ""
 
 #: ../../sample_markdown.md:75
 msgid ""
 "Same for {strike}`strikethrough` using the `{strike}` or `{del}` "
 "annotation. Or use this other way to add ~~strikethrough~~ text."
-msgstr "S$a$m$e$ f$o$r$ {s$t$r$i$k$e$}`s$t$r$i$k$e$t$h$r$o$u$g$h$` u$s$i$n$g$ t$h$e$ `{s$t$r$i$k$e$}` o$r$ `{d$e$l$}` a$n$n$o$t$a$t$i$o$n$. O$r$ u$s$"
+msgstr ""
 
 #: ../../sample_markdown.md:78
 msgid ""
 "Superscript {sup}`text` and subscript {sub}`text` can be produced using "
 "the `{sup}` and `{sub}` annotations, respectively."
-msgstr "S$u$p$e$r$s$c$r$i$p$t$ {s$u$p$}`t$e$x$t$` a$n$d$ s$u$b$s$c$r$i$p$t$ {s$u$b$}`t$e$x$t$` c$a$n$ b$e$ p$r$o$d$u$c$e$d$ u$s$i$n$g$ t$h$e$ "
+msgstr ""
 
 #: ../../sample_markdown.md:80
 msgid "Quoted text"
-msgstr "Q$u$o$t$e$d$"
+msgstr ""
 
 #: ../../sample_markdown.md:82
 msgid ""
 "Blockquotes can contain multiple paragraphs. Add a > even on the blank "
 "lines between the paragraphs."
-msgstr "B$l$o$c$k$q$u$o$t$e$s$ c$a$n$ c$o$n$t$a$i$n$ m$u$l$t$i$p$l$e$ p$a$r$a$g$r$a$p$h$s$. A$d$d$ a$ > e$v$e$n$ o$n$ "
+msgstr ""
 
 #: ../../sample_markdown.md:84
 msgid "Dorothy followed her through many of the beautiful rooms in her castle."
-msgstr "D$o$r$o$t$h$y$ f$o$l$l$o$w$e$d$ h$e$r$ t$h$r$o$u$g$h$ m$a$n$y$ o$f$ t$h$e$ b$e"
+msgstr ""
 
 #: ../../sample_markdown.md:86
 msgid ""
 "The Witch bade her clean the pots and kettles and sweep the floor and "
 "keep the fire fed with wood. Blockquotes can contain formatting such as "
 "**bold text** or lists:"
-msgstr "T$h$e$ W$i$t$c$h$ b$a$d$e$ h$e$r$ c$l$e$a$n$ t$h$e$ p$o$t$s$ a$n$d$ k$e$t$t$l$e$s$ a$n$d$ s$w$e$e$p$ t$h$e$ f$l$o$o$r$ a$n$d$ k$e$e$p$ t$h$e$ f$i$r$e$ f$e$d$ w$i$t$h$ w$o$o$d$. B$l$"
+msgstr ""
 
 #: ../../sample_markdown.md:89
 msgid "item 1"
-msgstr "i$t$e$"
+msgstr ""
 
 #: ../../sample_markdown.md:90
 msgid "item 2"
-msgstr "i$t$e$"
+msgstr ""
 
 #: ../../sample_markdown.md:93
 msgid "Example 2:"
-msgstr "E$x$a$m$p$l"
+msgstr ""
 
 #: ../../sample_markdown.md:98
 msgid "Numbered lists"
-msgstr "N$u$m$b$e$r$e$d"
+msgstr ""
 
 #: ../../sample_markdown.md:100
 msgid ""
 "Lines starting with numbers followed by periods are converted to numbered"
 " lists. You don't have to number each item manually, you can use number "
 "one for all items:"
-msgstr "L$i$n$e$s$ s$t$a$r$t$i$n$g$ w$i$t$h$ n$u$m$b$e$r$s$ f$o$l$l$o$w$e$d$ b$y$ p$e$r$i$o$d$s$ a$r$e$ c$o$n$v$e$r$t$e$d$ t$o$ n$u$m$b$e$r$e$d$ l$i$s$t$s$. Y$o$u$ d$o$n$'t$ h$a$v$e$ t$o$"
+msgstr ""
 
 #: ../../sample_markdown.md:102
 msgid "First item"
-msgstr "F$i$r$s$t$ "
+msgstr ""
 
 #: ../../sample_markdown.md:103
 msgid "Second item"
-msgstr "S$e$c$o$n$d$"
+msgstr ""
 
 #: ../../sample_markdown.md:104
 msgid "Third item"
-msgstr "T$h$i$r$d$ "
+msgstr ""
 
 #: ../../sample_markdown.md:106
 msgid "Boxes"
-msgstr "B$o$x"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "This is a default note, without any arguments."
-msgstr "T$h$i$s$ i$s$ a$ d$e$f$a$u$l$t$ n$o$t$e$, w$i$t$h$"
+msgstr ""
 
 #: ../../sample_markdown.md:111
 msgid "Blue title"
-msgstr "B$l$u$e$ t$"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "This is a note, but in a different way"
-msgstr "T$h$i$s$ i$s$ a$ n$o$t$e$, b$u$t$ i$n$ a$"
+msgstr ""
 
 #: ../../sample_markdown.md:117
 msgid "Orange title"
-msgstr "O$r$a$n$g$e$ "
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "This is a warning"
-msgstr "T$h$i$s$ i$s$ a$ w"
+msgstr ""
 
 #: ../../sample_markdown.md:123
 msgid "Red title"
-msgstr "R$e$d$ t$"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "This is an error"
-msgstr "T$h$i$s$ i$s$ a$n"
+msgstr ""
 
 #: ../../sample_markdown.md:128
 msgid "Green title"
-msgstr "G$r$e$e$n$ t"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "This is a note"
-msgstr "T$h$i$s$ i$s$ a"
+msgstr ""
 
 #: ../../sample_markdown.md:133
 msgid "Definition lists"
-msgstr "D$e$f$i$n$i$t$i$o"
+msgstr ""
 
 #: ../../sample_markdown.md:135
 msgid ""
 "To use definition lists and other formatting supported by "
 "ReStructuredText, use the `{eval-rst}` directive."
-msgstr "T$o$ u$s$e$ d$e$f$i$n$i$t$i$o$n$ l$i$s$t$s$ a$n$d$ o$t$h$e$r$ f$o$r$m$a$t$t$i$n$g$ s$u$p$p$o$r$t$e$d$ b$y$ R$e$S$t$r$"
+msgstr ""
 
 #: ../../sample_markdown.md:139 ../../sample_markdown.md:155
 msgid "Term 1"
-msgstr "T$e$r$"
+msgstr ""
 
 #: ../../sample_markdown.md:140 ../../sample_markdown.md:156
 #: ../../sample_markdown.md:159
 msgid "Definition"
-msgstr "D$e$f$i$n$i"
+msgstr ""
 
 #: ../../sample_markdown.md:142 ../../sample_markdown.md:158
 msgid "Term 2"
-msgstr "T$e$r$"
+msgstr ""
 
 #: ../../sample_markdown.md:142
 msgid "Definition paragraph 1. Definition paragraph 2."
-msgstr "D$e$f$i$n$i$t$i$o$n$ p$a$r$a$g$r$a$p$h$ 1. D$e$f$i$"
+msgstr ""
 
 #: ../../sample_markdown.md:147
 msgid "Term 3"
-msgstr "T$e$r$"
+msgstr ""
 
 #: ../../sample_markdown.md:145
 msgid "Definition paragraph A."
-msgstr "D$e$f$i$n$i$t$i$o$n$ p$a$"
+msgstr ""
 
 #: ../../sample_markdown.md:147
 msgid "Definition paragraph B."
-msgstr "D$e$f$i$n$i$t$i$o$n$ p$a$"
+msgstr ""
 
 #: ../../sample_markdown.md:151
 msgid "Definition lists - provided by `deflist` plugin"
-msgstr "D$e$f$i$n$i$t$i$o$n$ l$i$s$t$s$ - p$r$o$v$i$d$e$d$ "
+msgstr ""
 
 #: ../../sample_markdown.md:153
 msgid "See `myst_enable_extensions` in `conf.py`."
-msgstr "S$e$e$ `m$y$s$t$_e$n$a$b$l$e$_e$x$t$e$n$s$i$o$"
+msgstr ""
 
 #: ../../sample_markdown.md:161
 msgid "Math formulas"
-msgstr "M$a$t$h$ f$o$r"
+msgstr ""
 
 #: ../../sample_markdown.md:163
 msgid "{math}`x_{base}=it+is^{pow}`"
-msgstr "{m$a$t$h$}`x$_{b$a$s$e$}=i$t$+"
+msgstr ""
 
 #: ../../sample_markdown.md:165
 msgid ""
 "Or, using the `$` sign (provided by the `dollarmath` plugin): "
 "$x_{base}=it+is^{pow}$"
-msgstr "O$r$, u$s$i$n$g$ t$h$e$ `$` s$i$g$n$ (p$r$o$v$i$d$e$d$ b$y$ t$h$e$ `d$o$l$l$a$r$m$a$t$h$` p$"
+msgstr ""
 
 #: ../../sample_markdown.md:167
 msgid "Tables (Markdown style)"
-msgstr "T$a$b$l$e$s$ (M$a$r$k$d$o"
+msgstr ""
 
 #: ../../sample_markdown.md:128
 msgid "Column 1"
-msgstr "C$o$l$u$"
+msgstr ""
 
 #: ../../sample_markdown.md:128
 msgid "Column 2"
-msgstr "C$o$l$u$"
+msgstr ""
 
 #: ../../sample_markdown.md:128
 msgid "Header"
-msgstr "H$e$a$"
+msgstr ""
 
 #: ../../sample_markdown.md:128
 msgid "Title"
-msgstr "T$i$t"
+msgstr ""
 
 #: ../../sample_markdown.md:128
 msgid "Paragraph"
-msgstr "P$a$r$a$g"
+msgstr ""
 
 #: ../../sample_markdown.md:128
 msgid "Text"
-msgstr "T$e$"
+msgstr ""
 
 #: ../../sample_markdown.md:174
 msgid "Grid table (allows colspan and rowspan)"
-msgstr "G$r$i$d$ t$a$b$l$e$ (a$l$l$o$w$s$ c$o$l$s$"
+msgstr ""
 
 #: ../../sample_markdown.md:178
 msgid "Header 1"
-msgstr "H$e$a$d$"
+msgstr ""
 
 #: ../../sample_markdown.md:178
 msgid "Header 2"
-msgstr "H$e$a$d$"
+msgstr ""
 
 #: ../../sample_markdown.md:178
 msgid "Header 3"
-msgstr "H$e$a$d$"
+msgstr ""
 
 #: ../../sample_markdown.md:180
 msgid "body row 1"
-msgstr "b$o$d$y$ r$"
+msgstr ""
 
 #: ../../sample_markdown.md:180
 msgid "column 2"
-msgstr "c$o$l$u$"
+msgstr ""
 
 #: ../../sample_markdown.md:180
 msgid "column 3"
-msgstr "c$o$l$u$"
+msgstr ""
 
 #: ../../sample_markdown.md:182
 msgid "body row 2"
-msgstr "b$o$d$y$ r$"
+msgstr ""
 
 #: ../../sample_markdown.md:182
 msgid "Cells may span columns."
-msgstr "C$e$l$l$s$ m$a$y$ s$p$a$n"
+msgstr ""
 
 #: ../../sample_markdown.md:184
 msgid "body row 3"
-msgstr "b$o$d$y$ r$"
+msgstr ""
 
 #: ../../sample_markdown.md:184
 msgid "Cells may span rows."
-msgstr "C$e$l$l$s$ m$a$y$ s$p$"
+msgstr ""
 
 #: ../../sample_markdown.md:184
 msgid "Cells"
-msgstr "C$e$l"
+msgstr ""
 
 #: ../../sample_markdown.md:185
 msgid "contain"
-msgstr "c$o$n$t"
+msgstr ""
 
 #: ../../sample_markdown.md:186
 msgid "blocks."
-msgstr "b$l$o$c"
+msgstr ""
 
 #: ../../sample_markdown.md:186
 msgid "body row 4"
-msgstr "b$o$d$y$ r$"
+msgstr ""
 
 #: ../../sample_markdown.md:190
 msgid "Tables (myst-parser style)"
-msgstr "T$a$b$l$e$s$ (m$y$s$t$-p$a$r"
+msgstr ""
 
 #: ../../sample_markdown.md:192
 msgid "Table title 2"
-msgstr "T$a$b$l$e$ t$i"
+msgstr ""
 
 #: ../../sample_markdown.md:1 ../../sample_markdown.md:217
 msgid "Heading row 1, column 1"
-msgstr "H$e$a$d$i$n$g$ r$o$w$ 1, "
+msgstr ""
 
 #: ../../sample_markdown.md:2 ../../sample_markdown.md:218
 msgid "Heading row 1, column 2"
-msgstr "H$e$a$d$i$n$g$ r$o$w$ 1, "
+msgstr ""
 
 #: ../../sample_markdown.md:3 ../../sample_markdown.md:219
 msgid "Heading row 1, column 3"
-msgstr "H$e$a$d$i$n$g$ r$o$w$ 1, "
+msgstr ""
 
 #: ../../sample_markdown.md:4 ../../sample_markdown.md:220
 msgid "Row 1, column 1"
-msgstr "R$o$w$ 1, c$o$l$"
+msgstr ""
 
 #: ../../sample_markdown.md:6 ../../sample_markdown.md:222
 msgid "Row 1, column 3"
-msgstr "R$o$w$ 1, c$o$l$"
+msgstr ""
 
 #: ../../sample_markdown.md:7 ../../sample_markdown.md:223
 msgid "Row 2, column 1"
-msgstr "R$o$w$ 2, c$o$l$"
+msgstr ""
 
 #: ../../sample_markdown.md:8 ../../sample_markdown.md:224
 msgid "Row 2, column 2"
-msgstr "R$o$w$ 2, c$o$l$"
+msgstr ""
 
 #: ../../sample_markdown.md:9 ../../sample_markdown.md:225
 msgid "Row 2, column 3"
-msgstr "R$o$w$ 2, c$o$l$"
+msgstr ""
 
 #: ../../sample_markdown.md:209
 msgid "Tables (RST style)"
-msgstr "T$a$b$l$e$s$ (R$S$T"
+msgstr ""
 
 #: ../../sample_markdown.md:212
 msgid "Table title"
-msgstr "T$a$b$l$e$ t"
+msgstr ""
 
 #: ../../sample_markdown.md:229
 msgid "Transition Matrix"
-msgstr "T$r$a$n$s$i$t$i$o$"
+msgstr ""
 
 #: ../../sample_markdown.md:237
 msgid "IPCC Class"
-msgstr "I$P$C$C$ C$"
+msgstr ""
 
 #: ../../sample_markdown.md:238 ../../sample_markdown.md:244
 msgid "Forest Land"
-msgstr "F$o$r$e$s$t$"
+msgstr ""
 
 #: ../../sample_markdown.md:239 ../../sample_markdown.md:251
 msgid "Grassland"
-msgstr "G$r$a$s$s"
+msgstr ""
 
 #: ../../sample_markdown.md:240 ../../sample_markdown.md:258
 msgid "Cropland"
-msgstr "C$r$o$p$"
+msgstr ""
 
 #: ../../sample_markdown.md:241 ../../sample_markdown.md:265
 msgid "Wetlands"
-msgstr "W$e$t$l$"
+msgstr ""
 
 #: ../../sample_markdown.md:242 ../../sample_markdown.md:272
 msgid "Settlements"
-msgstr "S$e$t$t$l$e$"
+msgstr ""
 
 #: ../../sample_markdown.md:243 ../../sample_markdown.md:279
 msgid "Other Land"
-msgstr "O$t$h$e$r$ "
+msgstr ""
 
 #: ../../sample_markdown.md:245 ../../sample_markdown.md:253
 #: ../../sample_markdown.md:261 ../../sample_markdown.md:269
 #: ../../sample_markdown.md:277 ../../sample_markdown.md:285
 msgid "Stable"
-msgstr "S$t$a$"
+msgstr ""
 
 #: ../../sample_markdown.md:246 ../../sample_markdown.md:250
 #: ../../sample_markdown.md:257 ../../sample_markdown.md:264
 msgid "Vegetation loss"
-msgstr "V$e$g$e$t$a$t$i$"
+msgstr ""
 
 #: ../../sample_markdown.md:247 ../../sample_markdown.md:249
 msgid "Deforestation"
-msgstr "D$e$f$o$r$e$s$"
+msgstr ""
 
 #: ../../sample_markdown.md:248 ../../sample_markdown.md:255
 #: ../../sample_markdown.md:262
 msgid "Innundation"
-msgstr "I$n$n$u$n$d$"
+msgstr ""
 
 #: ../../sample_markdown.md:252 ../../sample_markdown.md:259
 #: ../../sample_markdown.md:273 ../../sample_markdown.md:280
 msgid "Aforestation"
-msgstr "A$f$o$r$e$s$t"
+msgstr ""
 
 #: ../../sample_markdown.md:254 ../../sample_markdown.md:275
 #: ../../sample_markdown.md:282
 msgid "Agricultural expansion"
-msgstr "A$g$r$i$c$u$l$t$u$r$a$l$"
+msgstr ""
 
 #: ../../sample_markdown.md:256 ../../sample_markdown.md:263
 #: ../../sample_markdown.md:284
 msgid "Urban expansion"
-msgstr "U$r$b$a$n$ e$x$p"
+msgstr ""
 
 #: ../../sample_markdown.md:260
 msgid "Withdrawal of Agriculture"
-msgstr "W$i$t$h$d$r$a$w$a$l$ o$f$ A"
+msgstr ""
 
 #: ../../sample_markdown.md:266
 msgid "Woody Encroachment"
-msgstr "W$o$o$d$y$ E$n$c$r$"
+msgstr ""
 
 #: ../../sample_markdown.md:267 ../../sample_markdown.md:268
 #: ../../sample_markdown.md:270 ../../sample_markdown.md:271
 msgid "Wetland drainage"
-msgstr "W$e$t$l$a$n$d$ d$"
+msgstr ""
 
 #: ../../sample_markdown.md:274 ../../sample_markdown.md:281
 msgid "Vegetation establishment"
-msgstr "V$e$g$e$t$a$t$i$o$n$ e$s$t"
+msgstr ""
 
 #: ../../sample_markdown.md:276 ../../sample_markdown.md:283
 msgid "Wetland establishment"
-msgstr "W$e$t$l$a$n$d$ e$s$t$a$"
+msgstr ""
 
 #: ../../sample_markdown.md:278
 msgid "Withdrawal of Settlments"
-msgstr "W$i$t$h$d$r$a$w$a$l$ o$f$ "
+msgstr ""
 
 #: ../../sample_markdown.md:289
 msgid "CSV Table - data can be stored in .CSV files"
-msgstr "C$S$V$ T$a$b$l$e$ - d$a$t$a$ c$a$n$ b$e$ s$t$o$r"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "Treat"
-msgstr "T$r$e"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "Quantity"
-msgstr "Q$u$a$n$"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "Description"
-msgstr "D$e$s$c$r$i$"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "Albatross"
-msgstr "A$l$b$a$t"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "2.99"
-msgstr "2.99"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "On a stick!"
-msgstr "O$n$ a$ s$t$"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "Popcorn"
-msgstr "P$o$p$c"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "1.99"
-msgstr "1.99"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "Straight from the oven"
-msgstr "S$t$r$a$i$g$h$t$ f$r$o$m"
+msgstr ""
 
 #: ../../sample_markdown.md:297
 msgid "Tables (flat-table plugin)"
-msgstr "T$a$b$l$e$s$ (f$l$a$t$-t$a$b"
+msgstr ""
 
-#: ../../sample_markdown.md:306
+#: ../../sample_markdown.md:305
 msgid ""
 "*__Table 1__. Strategic objective (SO) 1 indicators and reporting "
 "attribution*"
-msgstr "*__T$a$b$l$e$ 1__. S$t$r$a$t$e$g$i$c$ o$b$j$e$c$t$i$v$e$ (S$O$) 1 i$n$d$i$c$a$t$o$r$s"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "{rspan}`1` Indicator code"
-msgstr "I$n$d$i$c$a"
+msgstr ""
 
 #: ../../sample_markdown.md:2
 msgid "{rspan}`1` Indicator name"
-msgstr "I$n$d$i$c$a"
+msgstr ""
 
 #: ../../sample_markdown.md:3
 msgid "{rspan}`1` Metrics / proxies"
-msgstr "M$e$t$r$i$c$s$"
+msgstr ""
 
 #: ../../sample_markdown.md:4
 msgid "{rspan}`1` Adopted / proposed"
-msgstr "A$d$o$p$t$e$d$ "
+msgstr ""
 
 #: ../../sample_markdown.md:5
 msgid "{cspan}`1` Reporting attribution"
-msgstr "R$e$p$o$r$t$i$n$g$ "
+msgstr ""
 
 #: ../../sample_markdown.md:6
 msgid "Affected country Parties"
-msgstr "A$f$f$e$c$t$e$d$ c$o$u$n$t"
+msgstr ""
 
 #: ../../sample_markdown.md:7
 msgid "Developed country Parties"
-msgstr "D$e$v$e$l$o$p$e$d$ c$o$u$n$"
+msgstr ""
 
 #: ../../sample_markdown.md:8
 msgid "SO 1-1"
-msgstr "S$O$ 1"
+msgstr ""
 
 #: ../../sample_markdown.md:9
 msgid "Trends in land cover"
-msgstr "T$r$e$n$d$s$ i$n$ l$a$"
+msgstr ""
 
 #: ../../sample_markdown.md:10
 msgid "Land cover change"
-msgstr "L$a$n$d$ c$o$v$e$r"
+msgstr ""
 
 #: ../../sample_markdown.md:11 ../../sample_markdown.md:21
 #: ../../sample_markdown.md:26
 msgid "Indicator adopted in decision 7/COP.13"
-msgstr "I$n$d$i$c$a$t$o$r$ a$d$o$p$t$e$d$ i$n$ d$"
+msgstr ""
 
 #: ../../sample_markdown.md:12 ../../sample_markdown.md:22
 #: ../../sample_markdown.md:27 ../../sample_markdown.md:32
 msgid "X"
-msgstr "X"
+msgstr ""
 
 #: ../../sample_markdown.md:13
 msgid ""
@@ -656,83 +657,83 @@ msgid ""
 "for reporting by developed country Parties.  Developed country Parties "
 "may wish to submit information  on these indicators on a voluntary basis "
 "for the purpose  of reporting on progress towards the SDGs"
-msgstr "I$n$d$i$c$a$t$o$r$s$ u$n$d$e$r$ S$O$ 1 a$n$d$ S$D$G$ i$n$d$i$c$a$t$o$r$ 15.3.1  a$r$e$ o$p$t$i$o$n$a$l$ f$o$r$ r$e$p$o$r$t$i$n$g$ b$y$ d$e$v$e$l$o$p$e$d$ c$o$u$n$t$r$y$ P$a$r$t$i$e$s$.  D$e$v$e$l$o$p$e$d$ c$o$u$n$t$r$y$ P$a$r$t$i$e$s$ m$a$y$ w$i$s$h$ t$o$ s$u$b$m$i$t$ i$n$f$o$r$m$a$t$"
+msgstr ""
 
 #: ../../sample_markdown.md:18
 msgid "SO 1-2"
-msgstr "S$O$ 1"
+msgstr ""
 
 #: ../../sample_markdown.md:19
 msgid "Trends in land productivity or functioning of the land"
-msgstr "T$r$e$n$d$s$ i$n$ l$a$n$d$ p$r$o$d$u$c$t$i$v$i$t$y$ o$r$ f$"
+msgstr ""
 
 #: ../../sample_markdown.md:20
 msgid "Land productivity dynamics"
-msgstr "L$a$n$d$ p$r$o$d$u$c$t$i$v$i"
+msgstr ""
 
 #: ../../sample_markdown.md:23
 msgid "SO 1-3"
-msgstr "S$O$ 1"
+msgstr ""
 
 #: ../../sample_markdown.md:24
 msgid "Trends in carbon stocks above and below ground"
-msgstr "T$r$e$n$d$s$ i$n$ c$a$r$b$o$n$ s$t$o$c$k$s$ a$b$o$"
+msgstr ""
 
 #: ../../sample_markdown.md:25
 msgid "Soil organic carbon stock"
-msgstr "S$o$i$l$ o$r$g$a$n$i$c$ c$a"
+msgstr ""
 
 #: ../../sample_markdown.md:28
 msgid "SO 1-4"
-msgstr "S$O$ 1"
+msgstr ""
 
 #: ../../sample_markdown.md:29
 msgid "Proportion of land that is degraded over total land area"
-msgstr "P$r$o$p$o$r$t$i$o$n$ o$f$ l$a$n$d$ t$h$a$t$ i$s$ d$e$g$r$a$d$"
+msgstr ""
 
 #: ../../sample_markdown.md:30
 msgid "\\---"
-msgstr "\\---"
+msgstr ""
 
 #: ../../sample_markdown.md:31
 msgid "Background for indicator adopted in decision 9/COP.13"
-msgstr "B$a$c$k$g$r$o$u$n$d$ f$o$r$ i$n$d$i$c$a$t$o$r$ a$d$o$p$t$e"
+msgstr ""
 
 #: ../../sample_markdown.md:346
 msgid "Links"
-msgstr "L$i$n"
+msgstr ""
 
 #: ../../sample_markdown.md:348
 msgid ""
 "[This](https://duckduckgo.com) is a link to "
 "<https://www.markdownguide.org>."
-msgstr "[T$h$i$s$](h$t$t$p$s$://d$u$c$k$d$u$c$k$g$o$.c$o$m$) i$s$ a$ l$i$n$k$ t$o$ <h$t$t$p"
+msgstr ""
 
 #: ../../sample_markdown.md:350
 msgid ""
 "HTML is also supported: <a href=\"http://example.com/\" "
 "target=\"_blank\">Hello, world!</a>."
-msgstr "H$T$M$L$ i$s$ a$l$s$o$ s$u$p$p$o$r$t$e$d$: <a$ h$r$e$f$=\"h$t$t$p$://e$x$a$m$p$l$e$.c$o$m$/\" t$a$"
+msgstr ""
 
 #: ../../sample_markdown.md:352
 msgid "Sidebars (RST style)"
-msgstr "S$i$d$e$b$a$r$s$ (R$S$"
+msgstr ""
 
 #: ../../sample_markdown.md:354
 msgid "The sidebar goes first, then the main text."
-msgstr "T$h$e$ s$i$d$e$b$a$r$ g$o$e$s$ f$i$r$s$t$, t$h$"
+msgstr ""
 
-#: ../../sample_markdown.md:306 ../../sample_markdown.md:373
+#: ../../sample_markdown.md:305 ../../sample_markdown.md:373
 msgid "Sidebar title"
-msgstr "S$i$d$e$b$a$r$"
+msgstr ""
 
 #: ../../sample_markdown.md:360
 msgid "This is the sidebar text"
-msgstr "T$h$i$s$ i$s$ t$h$e$ s$i$d"
+msgstr ""
 
 #: ../../sample_markdown.md:364
 msgid "*Caption* This is the image caption"
-msgstr "*C$a$p$t$i$o$n$* T$h$i$s$ i$s$ t$h$e$ "
+msgstr ""
 
 #: ../../sample_markdown.md:367
 msgid ""
@@ -743,11 +744,11 @@ msgid ""
 "used to assess the proportion of land that is degraded, that have not "
 "already been included as part of the previous reporting on indicators "
 "SO1: 1-3, should be uploaded to the PRAIS."
-msgstr "I$f$ a$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ m$a$p$ o$r$ a$ ‘s$u$p$p$o$r$t$ c$l$a$s$s$’ m$a$p$, w$h$i$c$h$ s$h$o$w$ w$h$i$c$h$ i$n$d$i$c$a$t$o$r$ o$r$ c$o$m$b$i$n$a$t$i$o$n$ o$f$ i$n$d$i$c$a$t$o$r$s$ s$u$p$p$o$r$t$s$ t$h$e$ c$l$a$s$s$i$f$i$c$a$t$i$o$n$ o$f$ ‘d$e$g$r$a$d$e$d$’ o$r$ ‘n$o$t$ d$e$g$r$a$d$e$d$’ f$o$r$ a$ g$i$v$e$n$ p$i$x$e$l$ o$r$ l$a$n$d$ u$n$i$t$, w$e$r$e$ p$r$o$d$u$c$e$d$, t$h$e$y$ s$h$o$u$l$d$ b$e$ u$p$l$o$a$d$e$d$ t$o$ t$h$e$ P$R$A$I$S$. A$n$y$ i$n$d$i$c$a$t$o$r$ d$a$t$a$s$e$t$s$ u$s$e$"
+msgstr ""
 
 #: ../../sample_markdown.md:1
 msgid "Another kind of sidebar"
-msgstr "A$n$o$t$h$e$r$ k$i$n$d$ o"
+msgstr ""
 
 #: ../../sample_markdown.md:377
 msgid ""
@@ -757,49 +758,49 @@ msgid ""
 "degradation neutrality”. This includes the formulation by countries of "
 "LDN targets in accordance with their specific national circumstances and "
 "development priorities."
-msgstr "V$o$l$u$n$t$a$r$y$ t$a$r$g$e$t$s$ c$a$n$ b$e$ s$e$t$ t$o$ a$c$h$i$e$v$e$ S$O$1 a$n$d$ t$h$e$r$e$f$o$r$e$ “t$o$ i$m$p$r$o$v$e$ t$h$e$ c$o$n$d$i$t$i$o$n$ o$f$ a$f$f$e$c$t$e$d$ e$c$o$s$y$s$t$e$m$s$, c$o$m$b$a$t$ d$e$s$e$r$t$i$f$i$c$a$t$i$o$n$/l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$, p$r$o$m$o$t$e$ s$u$s$t$a$i$n$a$b$l$e$ l$a$n$d$ m$a$n$a$g$e$m$e$n$t$ a$n$d$ c$o$n$t$r$i$b$u$t$e$ t$o$ l$a$n$d$ d$e$g$r$a$d$a$t$i$o$n$ n$e$u$"
+msgstr ""
 
 #: ../../sample_markdown.md:382
 msgid ""
 "The 2018 reporting will describe the countries’ level of ambition in "
 "achieving SO1."
-msgstr "T$h$e$ 2018 r$e$p$o$r$t$i$n$g$ w$i$l$l$ d$e$s$c$r$i$b$e$ t$h$e$ c$o$u$n$t$r$i$e$s$’ l$e$v$e"
+msgstr ""
 
 #: ../../sample_markdown.md:386
 msgid "Translated texts"
-msgstr "T$r$a$n$s$l$a$t$e"
+msgstr ""
 
-#: ../../sample_markdown.md:396
+#: ../../sample_markdown.md:401
 msgid "End of sample text"
-msgstr "E$n$d$ o$f$ s$a$m$p"
+msgstr ""
 
 #: ../../sample_markdown.md:13
 msgid "This is the first footnote."
-msgstr "T$h$i$s$ i$s$ t$h$e$ f$i$r$s$"
+msgstr ""
 
 #: ../../sample_markdown.md:15
 msgid "Here's one with multiple paragraphs and code."
-msgstr "H$e$r$e$'s$ o$n$e$ w$i$t$h$ m$u$l$t$i$p$l$e$ p$a$"
+msgstr ""
 
 #: ../../sample_markdown.md:17
 msgid "Indent paragraphs to include them in the footnote."
-msgstr "I$n$d$e$n$t$ p$a$r$a$g$r$a$p$h$s$ t$o$ i$n$c$l$u$d$e$ t"
+msgstr ""
 
 #: ../../sample_markdown.md:19
 msgid "`{ my code }`"
-msgstr "`{ m$y$ c$o$d$"
+msgstr ""
 
 #: ../../sample_markdown.md:21
 msgid "Add as many paragraphs as you like."
-msgstr "A$d$d$ a$s$ m$a$n$y$ p$a$r$a$g$r$a$p$h"
+msgstr ""
 
 #: ../../sample_markdown.md:50
 msgid "[https://esa.un.org/unpd/wup/DataQuery](https://esa.un.org/unpd/wup/DataQuery/)"
-msgstr "[h$t$t$p$s$://e$s$a$.u$n$.o$r$g$/u$n$p$d$/w$u$p$/D$a$t$a$Q$u$e$r$y$](h$t$t$p$s$://e$s$"
+msgstr ""
 
 #: ../../sample_markdown.md:51
 msgid ""
 "[World Bank "
 "data](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AF)"
-msgstr "[W$o$r$l$d$ B$a$n$k$ d$a$t$a$](h$t$t$p$s$://d$a$t$a$.w$o$r$l$d$b$a$n$k$.o$r$g$/i$n$d$i$c"
+msgstr ""
 

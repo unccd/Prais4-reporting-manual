@@ -4,11 +4,12 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-18 17:31+0300\n"
+"POT-Creation-Date: 2021-11-04 19:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,17 +20,17 @@ msgstr ""
 
 #: ../../annex_II.md:1
 msgid "Annex II: Metadata"
-msgstr "A$n$n$e$x$ I$I$: M$"
+msgstr ""
 
 #: ../../annex_II.md:3
 msgid "1. Introduction"
-msgstr "1. I$n$t$r$o$d$u"
+msgstr ""
 
 #: ../../annex_II.md:5
 msgid ""
 "This annex details the structure of the metadata used by the Performance "
 "Review and Assessment of the Implementation System (PRAIS) 4 platform."
-msgstr "T$h$i$s$ a$n$n$e$x$ d$e$t$a$i$l$s$ t$h$e$ s$t$r$u$c$t$u$r$e$ o$f$ t$h$e$ m$e$t$a$d$a$t$a$ u$s$e$d$ b$y$ t$h$e$ P$e$r$f$o$r$m$a$n$c$e$ R$e$v$i$e$w$ a$n$d$ A$s"
+msgstr ""
 
 #: ../../annex_II.md:7
 msgid ""
@@ -38,7 +39,7 @@ msgid ""
 "accuracy and quality, and provides key information to appropriately use "
 "data for decision-making. Without metadata, the user is extremely limited"
 " in interpreting and understanding the data."
-msgstr "M$e$t$a$d$a$t$a$ i$s$ i$n$f$o$r$m$a$t$i$o$n$ a$b$o$u$t$ d$a$t$a$, t$h$e$ p$r$i$m$a$r$y$ i$n$s$t$r$u$m$e$n$t$ t$o$ p$r$o$v$i$d$e$ d$a$t$a$ u$s$e$r$s$ w$i$t$h$ a$ c$o$m$p$r$e$h$e$n$s$i$v$e$ d$e$s$c$r$i$p$t$i$o$n$ o$f$ t$h$e$ d$a$t$a$, i$n$c$l$u$d$i$n$g$ i$t$s$ a$c$c$u$r$a$c$y$ a$n$d$ q$u$a$l$i$t$y$, a$n$d$ p$r$o$v$i$d$e$s$ k$e$y$ i$n$f$o$r$m$a$t$i$o$n$ t$o$ a$p$p"
+msgstr ""
 
 #: ../../annex_II.md:9
 msgid ""
@@ -56,124 +57,124 @@ msgid ""
 "international metadata standards (ISO 19115, developed by the Technical "
 "Committee ISO/TC 211, Geographic information/Geomatics), which is "
 "specifically designed to describe geospatial data."
-msgstr "T$h$e$r$e$f$o$r$e$, t$h$e$ a$v$a$i$l$a$b$i$l$i$t$y$ o$f$ m$e$t$a$d$a$t$a$ i$n$c$r$e$a$s$e$s$ t$h$e$ d$a$t$a$’s$ v$a$l$u$e$ b$e$c$a$u$s$e$ i$t$ p$r$o$v$i$d$e$s$ i$n$f$o$r$m$a$t$i$o$n$ o$n$ t$h$e$ d$a$t$a$’s$ o$r$i$g$i$n$, i$t$s$ r$e$l$i$a$b$i$l$i$t$y$ a$n$d$ t$r$u$s$t$w$o$r$t$h$i$n$e$s$s$. M$e$t$a$d$a$t$a$ i$s$ a$n$ i$n$s$e$p$a$r$a$b$l$e$ c$o$m$p$o$n$e$n$t$ t$h$a$t$ m$a$k$e$s$ d$a$t$a$ u$s$a$b$l$e$ i$n$ G$e$o$g$r$a$p$h$i$c$ I$n$f$o$r$m$a$t$i$o$n$ S$y$s$t$e$m$ a$p$p$l$i$c$a$t$i$o$n$s$ a$n$d$ o$t$h$e$r$ g$e$o$s$p$a$t$i$a$l$ c$o$n$t$e$x$t$s$. F$o$r$ s$e$v$e$r$a$l$ d$a$t$a$ e$x$c$h$a$n$g$e$ p$l$a$t$f$o$r$m$s$, m$e$t$a$d$a$t$a$ p$r$o$v$i$d$e$s$ t$h$e$ r$e$q$u$i$r$e$d$ i$n$f$o$r$m$a$t$i$o$n$ a$n$d$ s$t$r$u$c$t$u$r$e$ f$o$r$ d$i$s$c$o$v$e$r$i$n$g$ a$n$d$ a$c$c$e$s$s$i$n$g$ d$a$t$a$ f$o$r$ d$i$f$f$e$r$e$n$t$ t$y$p$e$s$ o$f$ u$s$e$s$. I$n$ t$h$i$s$ c$o$n$t$e$x$t$, t$h$e$ c$o$m$p$l$i$a$n$c$y$ o$f$ m$e$t$a$d$a$t$a$ i$n$f$o$r$m$a$t$i$o$n$ w$i$t$h$ w$e$l$l$-k$n$o$w$n$ s$t$a$n$d$a$r$d$s$ i$s$ i$m$p$o$r$t$a$n$t$ i$n$ o$r$d$e$r$ t$o$ i$m$p$l$e$m$"
+msgstr ""
 
 #: ../../annex_II.md:13
 msgid "2. Metadata structure and content"
-msgstr "2. M$e$t$a$d$a$t$a$ s$t$r$u$c$t$u$r$"
+msgstr ""
 
 #: ../../annex_II.md:15
 msgid ""
 "The current version of the PRAIS 4 metadata is organized in a single form"
 " containing three types of information:"
-msgstr "T$h$e$ c$u$r$r$e$n$t$ v$e$r$s$i$o$n$ o$f$ t$h$e$ P$R$A$I$S$ 4 m$e$t$a$d$a$t$a$ i$s$ o$r$g$a$n$i$z$e$d$ i$n$ a$ s$i$n$g$l$e$"
+msgstr ""
 
 #: ../../annex_II.md:17
 msgid ""
 "Data content: a description of the essential characteristics of the data "
 "and its categorization;"
-msgstr "D$a$t$a$ c$o$n$t$e$n$t$: a$ d$e$s$c$r$i$p$t$i$o$n$ o$f$ t$h$e$ e$s$s$e$n$t$i$a$l$ c$h$a$r$a$c$t$e$r$i$s$t"
+msgstr ""
 
 #: ../../annex_II.md:19
 msgid ""
 "Contact point: details on the person or entity to be contacted in order "
 "to request information about the data;"
-msgstr "C$o$n$t$a$c$t$ p$o$i$n$t$: d$e$t$a$i$l$s$ o$n$ t$h$e$ p$e$r$s$o$n$ o$r$ e$n$t$i$t$y$ t$o$ b$e$ c$o$n$t$a$c$t$e$d$ i$n$ o$"
+msgstr ""
 
 #: ../../annex_II.md:21
 msgid ""
 "Geographic location: expressed as coordinates of the bounding box or as a"
 " placename."
-msgstr "G$e$o$g$r$a$p$h$i$c$ l$o$c$a$t$i$o$n$: e$x$p$r$e$s$s$e$d$ a$s$ c$o$o$r$d$i$n$a$t$e$s$ o$f$ t"
+msgstr ""
 
 #: ../../annex_II.md:23
 msgid "The specific list of fields is described below."
-msgstr "T$h$e$ s$p$e$c$i$f$i$c$ l$i$s$t$ o$f$ f$i$e$l$d$s$ "
+msgstr ""
 
 #: ../../annex_II.md:25
 msgid "Data content"
-msgstr "D$a$t$a$ c$o$"
+msgstr ""
 
 #: ../../annex_II.md:27
 msgid "Title: the textual label used to identify the data (data type: free text);"
-msgstr "T$i$t$l$e$: t$h$e$ t$e$x$t$u$a$l$ l$a$b$e$l$ u$s$e$d$ t$o$ i$d$e$n$t$i$f$y$ t$h$e"
+msgstr ""
 
 #: ../../annex_II.md:29
 msgid ""
 "Abstract: an overview of the main characteristics of the data and a "
 "summary of the information it contains in an easily understandable manner"
 " for technical and non-technical users (data type: free text);"
-msgstr "A$b$s$t$r$a$c$t$: a$n$ o$v$e$r$v$i$e$w$ o$f$ t$h$e$ m$a$i$n$ c$h$a$r$a$c$t$e$r$i$s$t$i$c$s$ o$f$ t$h$e$ d$a$t$a$ a$n$d$ a$ s$u$m$m$a$r$y$ o$f$ t$h$e$ i$n$f$o$r$m$a$t$i$o$n$ i$t$ c$o$n$t$a$i$n$s$ i$n$ a$n$ e$a$s$i$l$y$ u$n$d"
+msgstr ""
 
 #: ../../annex_II.md:31
 msgid "Date: the date of data creation (data type: date);"
-msgstr "D$a$t$e$: t$h$e$ d$a$t$e$ o$f$ d$a$t$a$ c$r$e$a$t$i$o$n"
+msgstr ""
 
 #: ../../annex_II.md:33
 msgid ""
 "Topics: the formalized list of words used to describe the data (data "
 "type: list);"
-msgstr "T$o$p$i$c$s$: t$h$e$ f$o$r$m$a$l$i$z$e$d$ l$i$s$t$ o$f$ w$o$r$d$s$ u$s$e$d$ t$o$ d$e$s$c$"
+msgstr ""
 
 #: ../../annex_II.md:35
 msgid ""
 "Character set encoding: the name of the character coding standard used by"
 " the data (data type: list)."
-msgstr "C$h$a$r$a$c$t$e$r$ s$e$t$ e$n$c$o$d$i$n$g$: t$h$e$ n$a$m$e$ o$f$ t$h$e$ c$h$a$r$a$c$t$e$r$ c$o$d$i$n$g$ s$t$a$n"
+msgstr ""
 
 #: ../../annex_II.md:37
 msgid "Contact point"
-msgstr "C$o$n$t$a$c$t$"
+msgstr ""
 
 #: ../../annex_II.md:39
 msgid ""
 "Name: the name of the person or entity authorized to provide information "
 "about the data (data type: free text);"
-msgstr "N$a$m$e$: t$h$e$ n$a$m$e$ o$f$ t$h$e$ p$e$r$s$o$n$ o$r$ e$n$t$i$t$y$ a$u$t$h$o$r$i$z$e$d$ t$o$ p$r$o$v$i$d$e$ i$n$f$o$r$m$"
+msgstr ""
 
 #: ../../annex_II.md:41
 msgid ""
 "Role: the function performed by the data contact point, such as the "
 "owner, distributor or custodian (data type: list);"
-msgstr "R$o$l$e$: t$h$e$ f$u$n$c$t$i$o$n$ p$e$r$f$o$r$m$e$d$ b$y$ t$h$e$ d$a$t$a$ c$o$n$t$a$c$t$ p$o$i$n$t$, s$u$c$h$ a$s$ t$h$e$ o$w$n$e"
+msgstr ""
 
 #: ../../annex_II.md:43
 msgid ""
 "Organization: the name of the responsible organization (data type: free "
 "text);"
-msgstr "O$r$g$a$n$i$z$a$t$i$o$n$: t$h$e$ n$a$m$e$ o$f$ t$h$e$ r$e$s$p$o$n$s$i$b$l$e$ o$r$g$a$"
+msgstr ""
 
 #: ../../annex_II.md:45
 msgid ""
 "Email: the email address of the organization or individual (data type: "
 "free text);"
-msgstr "E$m$a$i$l$: t$h$e$ e$m$a$i$l$ a$d$d$r$e$s$s$ o$f$ t$h$e$ o$r$g$a$n$i$z$a$t$i$o$n$ o$r$ i$n"
+msgstr ""
 
 #: ../../annex_II.md:47
 msgid ""
 "Phone: the telephone number of the organization or individual (data type:"
 " free text);"
-msgstr "P$h$o$n$e$: t$h$e$ t$e$l$e$p$h$o$n$e$ n$u$m$b$e$r$ o$f$ t$h$e$ o$r$g$a$n$i$z$a$t$i$o$n$ o$r$ "
+msgstr ""
 
 #: ../../annex_II.md:49
 msgid ""
 "Address: the physical address at which the organization or individual may"
 " be contacted (data type: free text)."
-msgstr "A$d$d$r$e$s$s$: t$h$e$ p$h$y$s$i$c$a$l$ a$d$d$r$e$s$s$ a$t$ w$h$i$c$h$ t$h$e$ o$r$g$a$n$i$z$a$t$i$o$n$ o$r$ i$n$d$i$v$i$d"
+msgstr ""
 
 #: ../../annex_II.md:51
 msgid "Geographic location"
-msgstr "G$e$o$g$r$a$p$h$i$c$"
+msgstr ""
 
 #: ../../annex_II.md:53
 msgid ""
 "Auto-detect bounding box: option to request the platform to derive the "
 "coordinates of a box, including the data;"
-msgstr "A$u$t$o$-d$e$t$e$c$t$ b$o$u$n$d$i$n$g$ b$o$x$: o$p$t$i$o$n$ t$o$ r$e$q$u$e$s$t$ t$h$e$ p$l$a$t$f$o$r$m$ t$o$ d$e$r$i$v$e$ t"
+msgstr ""
 
 #: ../../annex_II.md:55
 msgid ""
 "Specify a placename: option to specify the name of the location that "
 "fully includes the data."
-msgstr "S$p$e$c$i$f$y$ a$ p$l$a$c$e$n$a$m$e$: o$p$t$i$o$n$ t$o$ s$p$e$c$i$f$y$ t$h$e$ n$a$m$e$ o$f$ t$h$e$ l$o"
+msgstr ""
 
