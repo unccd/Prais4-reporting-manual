@@ -104,6 +104,7 @@ html_static_path = ['_static']
 
 html_css_files = [
     'css/custom.css',
+    'css/theme-rtl.css'
 ]
 
 html_context = {
@@ -206,7 +207,3 @@ numfig = False
 numfig_format = {
     'table': 'Table %s',
 }
-
-
-def setup(app):
-    app.add_css_file('css/theme-rtl.css')
