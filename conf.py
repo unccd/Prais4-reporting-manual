@@ -104,6 +104,7 @@ html_static_path = ['_static']
 
 html_css_files = [
     'css/custom.css',
+    'css/rtl.css'
 ]
 
 html_context = {
