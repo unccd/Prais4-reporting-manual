@@ -206,3 +206,7 @@ numfig = False
 numfig_format = {
     'table': 'Table %s',
 }
+
+
+def setup(app):
+    app.add_css_file('css/theme-rtl.css')
