@@ -22,3 +22,6 @@ PDF version is available [here](https://buildmedia.readthedocs.org/media/pdf/pra
     texlive-xetex
     fonts-freefont-otf
     texlive-fonts-extra
+    texlive-lang-arabic
+    texlive-lang-chinese
+    texlive-lang-cjk
