@@ -157,6 +157,7 @@ latex_elements = {
     'fncychap': '',
     'fontenc': '\\usepackage{fontspec}',
     'preamble': r'''
+    \usepackage[UTF8]{ctex}
     \setcounter{secnumdepth}{-1}
     \setcounter{tocdepth}{0}
     \usepackage{caption}
