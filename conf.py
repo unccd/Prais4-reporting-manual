@@ -190,11 +190,6 @@ latex_elements = {
     }
     ''',  # see https://texblog.org/2007/11/07/headerfooter-in-latex-with-fancyhdr/
     'figure_align': 'H',
-    'fontpkg': '''
-    \\setmainfont{Lato}
-    \\setsansfont{Lato}
-    \\setmonofont{inconsolata}
-    ''',
 }
 
 pdf_documents = [
