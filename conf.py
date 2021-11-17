@@ -157,6 +157,7 @@ latex_elements = {
     'fncychap': '',
     'fontenc': '\\usepackage{fontspec}',
     'preamble': r'''
+    \usepackage[UTF8]{ctex}
     \setcounter{secnumdepth}{-1}
     \setcounter{tocdepth}{0}
     \usepackage{caption}
@@ -189,11 +190,6 @@ latex_elements = {
     }
     ''',  # see https://texblog.org/2007/11/07/headerfooter-in-latex-with-fancyhdr/
     'figure_align': 'H',
-    'fontpkg': '''
-    \\setmainfont{Lato}
-    \\setsansfont{Lato}
-    \\setmonofont{inconsolata}
-    ''',
 }
 
 pdf_documents = [
