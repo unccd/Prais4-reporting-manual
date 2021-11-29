@@ -580,7 +580,7 @@ Estimating changes in productivity over time is based on the multi-temporal anal
 
 3. **Performance**: indicates the level of local annual productivity over an area compared with other areas with a similar land productivity potential.
 
-The changes observed in each of the three metrics are combined to determine persistent land productivity trajectories represented in five classes comparable with the default dataset provided by JRC (see table 3 below). They are also used to determine whether a pixel is degraded or not degraded in the baseline period and whether a pixel is degrading, improving or stable in the reporting period (see Step 5).
+The changes observed in each of the three metrics are combined to determine persistent land productivity trajectories represented in five classes comparable with the default dataset provided by JRC (see table 13 below). They are also used to determine whether a pixel is degraded or not degraded in the baseline period and whether a pixel is degrading, improving or stable in the reporting period (see Step 5).
 
 ##### Productivity Trend
 
@@ -619,7 +619,7 @@ As recommended in the [Good Practice Guidance for SDG Indicator 15.3.1](https://
 However, for the purposes of UNCCD reporting, the five classes above are simplified into the following three classes:
 
 - z-score < –1.28 = degrading
-- z-score < –1.28 AND ≥ –1.28 = stable
+- Z = ≥ -1.28 AND ≤ 1.28
 - z-score > 1.28 = improving
 
 The pixels with the lowest negative z-score level (< –1.28) are considered degraded and other areas are considered not degraded.
@@ -975,7 +975,7 @@ UNCCD provides prefilled data in the PRAIS 4 platform. The ISRIC SoilGrids250m d
 Since there are currently no known global data at a sufficient resolution to obtain information for the management and input change factors, the dynamic component informing SOC trends is land cover used as a proxy for land-use change.
 [^5]: For more information see: ‘Default data: methods and interpretation. A guidance document for 2018 UNCCD reporting’ available at: <https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf>.").
 
-However, Parties may report their estimates using national SOC stock data (adopting the Tier 2 or Tier 3 approach) if they meet the specifications listed in table 1.
+However, Parties may report their estimates using national SOC stock data (adopting the Tier 2 or Tier 3 approach) if they meet the specifications listed in table 14.
 
 {{pagebreak}}
 
