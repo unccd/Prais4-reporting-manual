@@ -20,10 +20,10 @@ msgstr ""
 
 #: ../../SO1.md:1
 msgid ""
-"1. Strategic objective 1: To improve the condition of affected "
+"1.Strategic objective 1: To improve the condition of affected "
 "ecosystems, combat desertification/ land degradation, promote sustainable"
 " land management and contribute to land degradation neutrality"
-msgstr "1. 战略目标（SO）1：改善受影响生态系统的状况，防治荒漠化/土地退化，促进可持续土地管理，并为实现土地退化零增长作出贡献"
+msgstr "1.战略目标（SO）1：改善受影响生态系统的状况，防治荒漠化/土地退化，促进可持续土地管理，并为实现土地退化零增长作出贡献"
 
 #: ../../SO1.md:3
 msgid "1.1. SO 1-1 – Trends in land cover"
@@ -1709,7 +1709,7 @@ msgid ""
 "below). They are also used to determine whether a pixel is degraded or "
 "not degraded in the baseline period and whether a pixel is degrading, "
 "improving or stable in the reporting period (see Step 5)."
-msgstr "将三个指标中的每一个指标所观察到的变化结合起来，以确定可与JRC提供的默认数据集相当的五个类别中表示的持续土地生产力轨迹（见下表3）。它们还被用来确定像素在基线期是否退化，以及像素在报告期是否退化、改善或稳定（见第5步）。"
+msgstr "将三个指标中的每一个指标所观察到的变化结合起来，以确定可与JRC提供的默认数据集相当的五个类别中表示的持续土地生产力轨迹（见下表13）。它们还被用来确定像素在基线期是否退化，以及像素在报告期是否退化、改善或稳定（见第5步）。"
 
 #: ../../SO1.md:585
 msgid "Productivity Trend"
@@ -2061,18 +2061,22 @@ msgid ""
 "status derived from the combination of the three productivity metrics"
 msgstr "由三个生产力指标组合得出的土地生产力动态和土地生产力退化状态"
 
+#: ../../SO1.md:1
 #: ../../SO1.md:4
 msgid "Class combination"
 msgstr "类别组合"
 
+#: ../../SO1.md:2
 #: ../../SO1.md:5
 msgid "Trend"
 msgstr "趋势"
 
+#: ../../SO1.md:3
 #: ../../SO1.md:6
 msgid "State"
 msgstr "状态"
 
+#: ../../SO1.md:4
 #: ../../SO1.md:7
 msgid "Performance"
 msgstr "绩效"
@@ -2110,7 +2114,7 @@ msgstr "正在改善"
 msgid "2"
 msgstr "2"
 
-#: ../../SO1.md:23 ../../SO1.md:35 ../../SO1.md:47 ../../SO1.md:59
+#: ../../SO1.md:5 ../../SO1.md:23 ../../SO1.md:35 ../../SO1.md:47 ../../SO1.md:59
 #: ../../SO1.md:71 ../../SO1.md:83 ../../SO1.md:95 ../../SO1.md:107
 #: ../../SO1.md:119
 msgid "Degraded"
@@ -2626,7 +2630,7 @@ msgid ""
 "However, Parties may report their estimates using national SOC stock data"
 " (adopting the Tier 2 or Tier 3 approach) if they meet the specifications"
 " listed in table 14."
-msgstr "然而，缔约方如果符合表1中所列的规格，就可以使用国家SOC储量数据（采用第2级或第3级方法）报告其估计数。"
+msgstr "然而，缔约方如果符合表14中所列的规格，就可以使用国家SOC储量数据（采用第2级或第3级方法）报告其估计数。"
 
 #: ../../SO1.md:985
 msgid "*__Table 14__. Data specifications for SO 1-3 indicator*"

@@ -1,4 +1,4 @@
-# 1. Strategic objective 1: To improve the condition of affected ecosystems, combat desertification/ land degradation, promote sustainable land management and contribute to land degradation neutrality
+# 1.Strategic objective 1: To improve the condition of affected ecosystems, combat desertification/ land degradation, promote sustainable land management and contribute to land degradation neutrality
 
 ## 1.1. SO 1-1 – Trends in land cover
 
@@ -689,22 +689,57 @@ The outputs obtained from the three metrics are used to estimate the extent of t
 
 Table 12 below shows how to transform the outputs of the three metrics into two classes (degraded land/not degraded land) to assess the land productivity degradation status in the baseline period. In the table, ‘Y’ indicates degraded land and ‘N’ indicates land that is not degraded.
 
-```{table} *__Table 12__. Combination of productivity metrics to determine whether a pixel is degraded or not degraded in the baseline period*
+```{list-table} *__Table 12__. Combination of productivity metrics to determine whether a pixel is degraded or not degraded
 ---
+header-rows: 1
 width: 80%
 class: align-center
 ---
-| Class combination | Trend | State | Performance | Degraded |
-| --- | --- | --- | --- | --- |
-| 1   | Y   | Y   | Y   | Y   |
-| 2   | Y   | Y   | N   | Y   |
-| 3   | Y   | N   | Y   | Y   |
-| 4   | Y   | N   | N   | Y   |
-| 5   | N   | Y   | Y   | Y   |
-| 6   | N   | Y   | N   | N   |
-| 7   | N   | N   | Y   | N   |
-| 8   | N   | N   | N   | N   |
-
+* - Class combination
+  - Trend
+  - State
+  - Performance
+  - Degraded
+* - 1
+  - Y
+  - Y
+  - Y
+  - Y
+* - 2
+  - Y
+  - Y
+  - N
+  - Y
+* - 3
+  - Y
+  - N
+  - Y
+  - Y
+* - 4
+  - Y
+  - N
+  - N
+  - Y
+* - 5
+  - N
+  - Y
+  - Y
+  - Y
+* - 6
+  - N
+  - Y
+  - N
+  - N
+* - 7
+  - N
+  - N
+  - Y
+  - N
+* - 8
+  - N
+  - N
+  - N
+  - N
 ```
 
 _Note: Lookup table indicating combinations of productivity metrics to determine whether a pixel is degraded (‘Y’) or not degraded (‘N’): classes 1 to 5 show degradation. This table complies with the definition of land degradation adopted by the UNCCD, which includes a reduction of biological productivity (i.e. a significantly negative Trend constitutes degradation regardless of the State or Performance metrics)._

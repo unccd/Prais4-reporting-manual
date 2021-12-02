@@ -20,10 +20,10 @@ msgstr ""
 
 #: ../../SO1.md:1
 msgid ""
-"1. Strategic objective 1: To improve the condition of affected "
+"1.Strategic objective 1: To improve the condition of affected "
 "ecosystems, combat desertification/ land degradation, promote sustainable"
 " land management and contribute to land degradation neutrality"
-msgstr "1- الهدف الاستراتيجي 1: تحسين حالة النظم الإيكولوجية المُتضرِّرة، ومكافحة التَصحُّر/ تدهور الأراضي، وتعزيز الإدارة المستدامة للأراضي، والمساهمة في تحييد أثر تدهور الأراضي"
+msgstr "1-الهدف الاستراتيجي 1: تحسين حالة النظم الإيكولوجية المُتضرِّرة، ومكافحة التَصحُّر/ تدهور الأراضي، وتعزيز الإدارة المستدامة للأراضي، والمساهمة في تحييد أثر تدهور الأراضي"
 
 #: ../../SO1.md:3
 msgid "1.1. SO 1-1 – Trends in land cover"
@@ -1709,7 +1709,7 @@ msgid ""
 "below). They are also used to determine whether a pixel is degraded or "
 "not degraded in the baseline period and whether a pixel is degrading, "
 "improving or stable in the reporting period (see Step 5)."
-msgstr "يُجمَع بين التغييرات التي لوحظت في كل من المقاييس الثلاثة لتحديد مسارات إنتاجية الأراضي الثابتة ممثلة في خمس فئات قابلة للمقارنة ومجموعة البيانات الافتراضية المقدمة من مركز البحوث المشترك (انظر الجدول 3 أدناه). وتُستخدم أيضاً لتحديد ما إذا كانت البيكسل متدهورة أم لا في فترة خط الأساس، وما إذا كانت متدهورة أو محسَّنة أو مستقرة في فترة الإبلاغ (انظر الخطوة 5)."
+msgstr "يُجمَع بين التغييرات التي لوحظت في كل من المقاييس الثلاثة لتحديد مسارات إنتاجية الأراضي الثابتة ممثلة في خمس فئات قابلة للمقارنة ومجموعة البيانات الافتراضية المقدمة من مركز البحوث المشترك (انظر الجدول 13 أدناه). وتُستخدم أيضاً لتحديد ما إذا كانت البيكسل متدهورة أم لا في فترة خط الأساس، وما إذا كانت متدهورة أو محسَّنة أو مستقرة في فترة الإبلاغ (انظر الخطوة 5)."
 
 #: ../../SO1.md:585
 msgid "Productivity Trend"
@@ -2061,18 +2061,22 @@ msgid ""
 "status derived from the combination of the three productivity metrics"
 msgstr " دينامية إنتاجية الأراضي وحالة تدهور إنتاجية الأراضي المستمدة من الجمع بين مقاييس الإنتاجية الثلاثة"
 
+#: ../../SO1.md:1
 #: ../../SO1.md:4
 msgid "Class combination"
 msgstr "الجمع بين الفئات"
 
+#: ../../SO1.md:2
 #: ../../SO1.md:5
 msgid "Trend"
 msgstr "الاتجاه"
 
+#: ../../SO1.md:3
 #: ../../SO1.md:6
 msgid "State"
 msgstr "الحالة"
 
+#: ../../SO1.md:4
 #: ../../SO1.md:7
 msgid "Performance"
 msgstr "الأداء"
@@ -2110,7 +2114,7 @@ msgstr "في تحسُّن"
 msgid "2"
 msgstr "2"
 
-#: ../../SO1.md:23 ../../SO1.md:35 ../../SO1.md:47 ../../SO1.md:59
+#: ../../SO1.md:5 ../../SO1.md:23 ../../SO1.md:35 ../../SO1.md:47 ../../SO1.md:59
 #: ../../SO1.md:71 ../../SO1.md:83 ../../SO1.md:95 ../../SO1.md:107
 #: ../../SO1.md:119
 msgid "Degraded"
@@ -2626,7 +2630,7 @@ msgid ""
 "However, Parties may report their estimates using national SOC stock data"
 " (adopting the Tier 2 or Tier 3 approach) if they meet the specifications"
 " listed in table 14."
-msgstr "ومع ذلك، يجوز للأطراف الإبلاغ عن تقديراتها باستخدام بيانات مخزون الكربون العضوي في التربة (اعتماد نهج المستوى 2 أو المستوى 3) إذا استوفت المواصفات الورادة في الجدول 1."
+msgstr "ومع ذلك، يجوز للأطراف الإبلاغ عن تقديراتها باستخدام بيانات مخزون الكربون العضوي في التربة (اعتماد نهج المستوى 2 أو المستوى 3) إذا استوفت المواصفات الورادة في الجدول 14."
 
 #: ../../SO1.md:985
 msgid "*__Table 14__. Data specifications for SO 1-3 indicator*"
