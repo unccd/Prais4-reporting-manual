@@ -619,7 +619,7 @@ As recommended in the [Good Practice Guidance for SDG Indicator 15.3.1](https://
 However, for the purposes of UNCCD reporting, the five classes above are simplified into the following three classes:
 
 - z-score < –1.28 = degrading
-- Z = ≥ -1.28 AND ≤ 1.28
+- z-score ≥ -1.28 AND ≤ 1.28
 - z-score > 1.28 = improving
 
 The pixels with the lowest negative z-score level (< –1.28) are considered degraded and other areas are considered not degraded.
@@ -657,7 +657,7 @@ Class definitions for the Z scores are as follows:
 Similar to the productivity Trend, the above-mentioned five classes are reduced to three when reporting data to UNCCD:
 
 - z-score < –1.28 = degrading
-- z-score < –1.28 AND ≥ –1.28 = stable
+- z-score ≥ -1.28 AND ≤ 1.28
 - z-score > 1.28 = improving
 
 For the purposes of calculating the land productivity sub-indicator, UNCCD recommends considering only the area of the lowest negative z-score level (< –1.96) as degraded. Areas in other z-score classes should be considered as not degraded.
