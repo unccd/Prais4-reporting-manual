@@ -1975,11 +1975,9 @@ msgid ""
 " indicates degraded land and ‘N’ indicates land that is not degraded."
 msgstr "Le tableau 12 ci-dessous montre comment transformer les produits des trois mesures en deux catégories (terres dégradées/terres non dégradées) pour évaluer l’état de dégradation de la productivité des terres pendant la période de référence. Dans ce tableau, la valeur « Y » désigne les terres dégradées et la valeur « N » désigne les terres qui ne sont pas dégradées."
 
-#: ../../SO1.md:692
-msgid ""
-"*__Table 12__. Combination of productivity metrics to determine whether a"
-" pixel is degraded or not degraded in the baseline period*"
-msgstr "*__Tableau 12__. Combinaison des mesures de la productivité pour déterminer si un pixel est dégradé ou non pendant la période de référence*"
+#: ../../SO1.md:693
+msgid "**Table 12**. Combination of productivity metrics to determine whether a pixel is degraded or not degraded"
+msgstr "**Tableau 12**. Combinaison des mesures de la productivité pour déterminer si un pixel est dégradé ou non pendant la période de référence"
 
 #: ../../SO1.md:710
 msgid ""

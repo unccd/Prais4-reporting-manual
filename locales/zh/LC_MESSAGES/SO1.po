@@ -1975,11 +1975,9 @@ msgid ""
 " indicates degraded land and ‘N’ indicates land that is not degraded."
 msgstr "下表12显示了如何将三个指标的产出转化为两个类别（已退化的土地/未退化的土地），以评估基线期的土地生产力退化状况。在表中，“Y”表示已退化的土地，“N”表示未退化的土地。"
 
-#: ../../SO1.md:692
-msgid ""
-"*__Table 12__. Combination of productivity metrics to determine whether a"
-" pixel is degraded or not degraded in the baseline period*"
-msgstr "*__表12__. 生产力指标的组合，用于确定像素在基线期内是否退化*"
+#: ../../SO1.md:693
+msgid "**Table 12**. Combination of productivity metrics to determine whether a pixel is degraded or not degraded"
+msgstr "**表12**. 生产力指标的组合，用于确定像素在基线期内是否退化"
 
 #: ../../SO1.md:710
 msgid ""
