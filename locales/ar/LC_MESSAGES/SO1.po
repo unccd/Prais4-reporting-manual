@@ -1975,11 +1975,9 @@ msgid ""
 " indicates degraded land and ‘N’ indicates land that is not degraded."
 msgstr "يبين الجدول 12 أدناه كيفية تحويل نواتج المقاييس الثلاثة إلى فئتين (الأراضي المتدهورة/الأراضي غير المتدهورة) لتقييم حالة تدهور إنتاجية الأراضي في فترة خط الأساس. في الجدول، يشير \"Y\" إلى الأراضي المتدهورة ويشير \"N\" إلى الأراضي غير المتدهورة."
 
-#: ../../SO1.md:692
-msgid ""
-"*__Table 12__. Combination of productivity metrics to determine whether a"
-" pixel is degraded or not degraded in the baseline period*"
-msgstr "*__الجدول 12__. الجمع بين مقاييس الإنتاجية لتحديد ما إذا كانت البيكسل متدهورة أم لا في فترة خط الأساس*"
+#: ../../SO1.md:693
+msgid "**Table 12**. Combination of productivity metrics to determine whether a pixel is degraded or not degraded"
+msgstr "**الجدول 12**. الجمع بين مقاييس الإنتاجية لتحديد ما إذا كانت البيكسل متدهورة أم لا في فترة خط الأساس"
 
 #: ../../SO1.md:710
 msgid ""

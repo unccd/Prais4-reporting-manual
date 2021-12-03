@@ -1975,11 +1975,9 @@ msgid ""
 " indicates degraded land and ‘N’ indicates land that is not degraded."
 msgstr "В таблице 12 ниже показано, как преобразовать результаты трех показателей в два класса (деградированные земли/не деградированные земли) для оценки состояния снижения продуктивности земель за базовый период. В таблице «Y» означает деградированную землю, а «N» — землю, не подвергнувшуюся деградации."
 
-#: ../../SO1.md:692
-msgid ""
-"*__Table 12__. Combination of productivity metrics to determine whether a"
-" pixel is degraded or not degraded in the baseline period*"
-msgstr "*__Таблица 12__. Комбинация показателей производительности для выявления процесса деградации пикселя за базовый период*"
+#: ../../SO1.md:693
+msgid "**Table 12**. Combination of productivity metrics to determine whether a pixel is degraded or not degraded"
+msgstr "**Таблица 12**. Комбинация показателей производительности для выявления процесса деградации пикселя за базовый период"
 
 #: ../../SO1.md:710
 msgid ""
