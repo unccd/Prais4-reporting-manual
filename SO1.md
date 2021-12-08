@@ -1,4 +1,4 @@
-# 1. Strategic objective 1: To improve the condition of affected ecosystems, combat desertification/ land degradation, promote sustainable land management and contribute to land degradation neutrality
+# 1.Strategic objective 1: To improve the condition of affected ecosystems, combat desertification/ land degradation, promote sustainable land management and contribute to land degradation neutrality
 
 ## 1.1. SO 1-1 – Trends in land cover
 
@@ -580,7 +580,7 @@ Estimating changes in productivity over time is based on the multi-temporal anal
 
 3. **Performance**: indicates the level of local annual productivity over an area compared with other areas with a similar land productivity potential.
 
-The changes observed in each of the three metrics are combined to determine persistent land productivity trajectories represented in five classes comparable with the default dataset provided by JRC (see table 3 below). They are also used to determine whether a pixel is degraded or not degraded in the baseline period and whether a pixel is degrading, improving or stable in the reporting period (see Step 5).
+The changes observed in each of the three metrics are combined to determine persistent land productivity trajectories represented in five classes comparable with the default dataset provided by JRC (see table 13 below). They are also used to determine whether a pixel is degraded or not degraded in the baseline period and whether a pixel is degrading, improving or stable in the reporting period (see Step 5).
 
 ##### Productivity Trend
 
@@ -619,7 +619,7 @@ As recommended in the [Good Practice Guidance for SDG Indicator 15.3.1](https://
 However, for the purposes of UNCCD reporting, the five classes above are simplified into the following three classes:
 
 - z-score < –1.28 = degrading
-- z-score < –1.28 AND ≥ –1.28 = stable
+- z-score ≥ -1.28 AND ≤ 1.28
 - z-score > 1.28 = improving
 
 The pixels with the lowest negative z-score level (< –1.28) are considered degraded and other areas are considered not degraded.
@@ -657,7 +657,7 @@ Class definitions for the Z scores are as follows:
 Similar to the productivity Trend, the above-mentioned five classes are reduced to three when reporting data to UNCCD:
 
 - z-score < –1.28 = degrading
-- z-score < –1.28 AND ≥ –1.28 = stable
+- z-score ≥ -1.28 AND ≤ 1.28
 - z-score > 1.28 = improving
 
 For the purposes of calculating the land productivity sub-indicator, UNCCD recommends considering only the area of the lowest negative z-score level (< –1.96) as degraded. Areas in other z-score classes should be considered as not degraded.
@@ -689,22 +689,56 @@ The outputs obtained from the three metrics are used to estimate the extent of t
 
 Table 12 below shows how to transform the outputs of the three metrics into two classes (degraded land/not degraded land) to assess the land productivity degradation status in the baseline period. In the table, ‘Y’ indicates degraded land and ‘N’ indicates land that is not degraded.
 
-```{table} *__Table 12__. Combination of productivity metrics to determine whether a pixel is degraded or not degraded in the baseline period*
----
-width: 80%
-class: align-center
----
-| Class combination | Trend | State | Performance | Degraded |
-| --- | --- | --- | --- | --- |
-| 1   | Y   | Y   | Y   | Y   |
-| 2   | Y   | Y   | N   | Y   |
-| 3   | Y   | N   | Y   | Y   |
-| 4   | Y   | N   | N   | Y   |
-| 5   | N   | Y   | Y   | Y   |
-| 6   | N   | Y   | N   | N   |
-| 7   | N   | N   | Y   | N   |
-| 8   | N   | N   | N   | N   |
+```{eval-rst} 
+.. list-table:: **Table 12**. Combination of productivity metrics to determine whether a pixel is degraded or not degraded 
+    :header-rows: 1
+    :class: align-center
 
+    * - Class combination
+      - Trend
+      - State
+      - Performance
+      - Degraded
+    * - 1
+      - Y
+      - Y
+      - Y
+      - Y
+    * - 2
+      - Y
+      - Y
+      - N
+      - Y
+    * - 3
+      - Y
+      - N
+      - Y
+      - Y
+    * - 4
+      - Y
+      - N
+      - N
+      - Y
+    * - 5
+      - N
+      - Y
+      - Y
+      - Y
+    * - 6
+      - N
+      - Y
+      - N
+      - N
+    * - 7
+      - N
+      - N
+      - Y
+      - N
+    * - 8
+      - N
+      - N
+      - N
+      - N
 ```
 
 _Note: Lookup table indicating combinations of productivity metrics to determine whether a pixel is degraded (‘Y’) or not degraded (‘N’): classes 1 to 5 show degradation. This table complies with the definition of land degradation adopted by the UNCCD, which includes a reduction of biological productivity (i.e. a significantly negative Trend constitutes degradation regardless of the State or Performance metrics)._
@@ -975,7 +1009,7 @@ UNCCD provides prefilled data in the PRAIS 4 platform. The ISRIC SoilGrids250m d
 Since there are currently no known global data at a sufficient resolution to obtain information for the management and input change factors, the dynamic component informing SOC trends is land cover used as a proxy for land-use change.
 [^5]: For more information see: ‘Default data: methods and interpretation. A guidance document for 2018 UNCCD reporting’ available at: <https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf>.").
 
-However, Parties may report their estimates using national SOC stock data (adopting the Tier 2 or Tier 3 approach) if they meet the specifications listed in table 1.
+However, Parties may report their estimates using national SOC stock data (adopting the Tier 2 or Tier 3 approach) if they meet the specifications listed in table 14.
 
 {{pagebreak}}
 
