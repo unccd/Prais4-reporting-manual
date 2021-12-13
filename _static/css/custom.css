@@ -17,7 +17,6 @@
 
 html.writer-html5 .rst-content table.docutils.table-9 th>p, html.writer-html5 .rst-content table.docutils.table-9 td>p {
   font-size: 0.8rem;
-  color: black;
 }
 
 .rst-content table.table-9 tr:nth-child(1) td:nth-child(2) {background-color: #FEFCCE;}
