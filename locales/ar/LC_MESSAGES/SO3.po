@@ -4,12 +4,11 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-25 19:51+0300\n"
+"POT-Creation-Date: 2021-11-04 19:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,17 +22,17 @@ msgid ""
 "3. Strategic objective 3: To mitigate, adapt to, and manage the effects "
 "of drought in order to enhance resilience of vulnerable populations and "
 "ecosystems"
-msgstr ""
+msgstr "3.الهدف الاستراتيجي 3: التخفيف من آثار الجفاف والتكيف معها وإدارتها من أجل تعزيز قدرة السكان والنظم الإيكولوجية المعرضة للخطر على الصمود"
 
 #: ../../SO3.md:3
 msgid ""
 "3.1. SO 3-1 – Trends in the proportion of land under drought over the "
 "total land area"
-msgstr ""
+msgstr "3-1 الهدف الاستراتيجي SO 3-1 - الاتجاهات في نسبة الأراضي المعرّضة للجفاف إلى إجمالي مساحة الأرض"
 
 #: ../../SO3.md:5
 msgid "3.1.1. Introduction"
-msgstr ""
+msgstr "3-1-1 مقدمة"
 
 #: ../../SO3.md:7
 msgid ""
@@ -44,14 +43,14 @@ msgid ""
 "precipitation has been significantly below normal recorded levels, "
 "causing serious hydrological imbalances that adversely affect land "
 "resource production systems[^1]."
-msgstr ""
+msgstr "يُعرَّف الجفاف بأنه فترة من الطقس الجاف الطويلة بما يكفي لإحداث اختلال هيدرولوجي خطير (المنظمة العالمية للأرصاد الجوية، 1992). تعرِّف اتفاقية الأمم المتحدة لمكافحة التصحر الجفاف بأنه الظاهرة التي تحدث طبيعياً عندما تكون الأمطار أقل بكثير من المستويات العادية المسجّلة، مما يسبب اختلالات هيدرولوجية خطيرة تؤثر تأثيراً سلبياً على نظم إنتاج موارد الأراضي[^1]."
 
 #: ../../SO3.md:11
 msgid ""
 "Indicator SO 3-1 specifically describes the status of meteorological "
 "drought hazards that occurred during the baseline and reporting periods "
 "within a country."
-msgstr ""
+msgstr "يصف المؤشر SO 3-1 على وجه التحديد حالة مخاطر الجفاف بفعل العوامل الجوية التي حدثت خلال فترتَي خط الأساس والإبلاغ داخل بلدٍ ما."
 
 #: ../../SO3.md:13
 msgid ""
@@ -69,7 +68,7 @@ msgid ""
 " 3-1. For other indices currently in use, Parties may need to ensure "
 "statistical consistency with the SPI drought intensity classes described "
 "in table 19[^2]."
-msgstr ""
+msgstr "توجد عدة مؤشرات للجفاف يمكن الاستعانة بها لتقدير مخاطر الجفاف على الصعيد الوطني. توصي منهجية اتفاقية الأمم المتحدة لمكافحة التصحر لتقدير المؤشر SO 3-1 باستخدام مؤشر جفاف مقبول عالمياً، وهو المؤشر المعياري للهطول، لتمييز خطر الجفاف الناتج عن العوامل الجوية. غير أنه يمكن للأطراف الإبلاغ باستخدام مؤشرات أخرى إذا كانت قد استُخدِمت بالفعل على الصعيد الوطني. على سبيل المثال، قد يمثل مؤشر التبخر والنتح المعياري للهطول مؤشراً بديلاً، يمكن مقارنته بسهولة بالمؤشر المعياري للهطول، الذي يُقدم إشارات أكثر موثوقية للجفاف في المناطق القاحلة. ويمكن للأطراف التي تستخدم مؤشر التبخر والنتح المعياري للهطول تطبيق نفس الأساليب الموصى بها في هذا الدليل وفي \"إرشادات الممارسات الجيدة للإبلاغ الوطني عن الهدف الاستراتيجي 3 لاتفاقية الأمم المتحدة لمكافحة التصحر\" للإبلاغ عن المؤشر SO 3-1. وبالنسبة إلى المؤشرات الأخرى المستخدمة حالياً، قد يتعيّن على الأطراف أن تضمن الاتساق الإحصائي مع فئات شدة الجفاف للمؤشر المعياري للهطول الموصوفة في الجدول 19[^2]."
 
 #: ../../SO3.md:17
 msgid ""
@@ -78,11 +77,11 @@ msgid ""
 "mitigation efforts in conjunction with assessments of drought exposure "
 "(SO 3-2) and vulnerability (SO 3-3). National reporting is facilitated "
 "though the provision of default data."
-msgstr ""
+msgstr "إنَّ الهدف العام هو أن تُقيِّم الأطراف مخاطر الجفاف وتحدد المناطق المعرضة للجفاف الشديد من أجل إعطاء الأولوية لجهود التخفيف بالاقتران مع تقييمات التعرُّض للجفاف (SO 3-2) والقابلية للتأثر به (SO 3-3). ويُسهّل الإبلاغ الوطني من خلال توفير البيانات الافتراضية."
 
 #: ../../SO3.md:19
 msgid "3.1.2. Prerequisites for reporting"
-msgstr ""
+msgstr "3-1-2 الشروط المسبقة للإبلاغ"
 
 #: ../../SO3.md:21
 msgid ""
@@ -94,11 +93,11 @@ msgid ""
 "national-reporting-unccd-strategic-objective-3-mitigate-adapt) detailing "
 "the methodology used to estimate drought hazards and the changes over "
 "time."
-msgstr ""
+msgstr "قراءة متعمقة للفصل الأول من [إرشادات الممارسات الجيدة للإبلاغ الوطني عن الهدف الاستراتيجي 3 لاتفاقية الأمم المتحدة لمكافحة التصحر: التخفيف من آثار الجفاف والتكيف معها وإدارتها من أجل تعزيز قدرة السكان والنظم الإيكولوجية المعرضة للخطر على الصمود\"](https://www.unccd.int/publications/good-practice-guidance-national-reporting-unccd-strategic-objective-3-mitigate-adapt) حيث يُبيَّن بالتفصيل المنهجية المستخدمة لتقدير مخاطر الجفاف والتغيرات التي تطرأ بمرور الوقت."
 
 #: ../../SO3.md:23
 msgid "Data complying with the specifications listed in figure 1 and table 18."
-msgstr ""
+msgstr "البيانات المستوفية للمواصفات الواردة في الشكل 1 والجدول 18."
 
 #: ../../SO3.md:25
 msgid ""
@@ -111,21 +110,21 @@ msgid ""
 "environment, ministry of agriculture, remote sensing centre and national "
 "statistical office, as well as relevant universities and research "
 "centres."
-msgstr ""
+msgstr "مجموعة من الخبراء الوطنيين ترشحهم السلطات الوطنية رسمياً للتحقق من اتساق نتائج عملية الإبلاغ مع الحالة في الميدان، أو لوضع منهجية مخصصة وتنفيذها لتقدير المؤشر SO 3-1 حيث تُفضَّل البيانات الوطنية على البيانات الافتراضية. وقد تشمل المؤسسات الرئيسية المرفق الوطني للأرصاد الجوية والهيدرولوجيا في البلد، ووزارة البيئة، ووزارة الزراعة، ومركز الاستشعار عن بعد، ومكتب الإحصاء الوطني فضلاً عن الجامعات ومراكز البحوث ذات الصلة."
 
 #: ../../SO3.md:27
 msgid "3.1.3. Reporting process and step-by-step procedure"
-msgstr ""
+msgstr "3-1-3 عملية الإبلاغ والإجراءات التدريجية"
 
 #: ../../SO3.md:29
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If the default data is used, steps 2 to 5 are unnecessary."
-msgstr ""
+msgstr "يرد في ما يلي وصف للإجراءات التدريجية للإبلاغ. وإذا استُخدمت البيانات الافتراضية، تكون الخطوات من 2 إلى 5 غير ضرورية."
 
 #: ../../SO3.md:31
 msgid "Step 1: Select precipitation dataset"
-msgstr ""
+msgstr "الخطوة 1: اختيار مجموعة بيانات هطول الأمطار"
 
 #: ../../SO3.md:33
 msgid ""
@@ -140,7 +139,7 @@ msgid ""
 "global’ coverage that spans 50°S to 50°N. Therefore, Parties with country"
 " boundaries exceeding this range will not be able to use the CHRIPS "
 "dataset. In contrast, the GPCC precipitation data has global coverage."
-msgstr ""
+msgstr "توفّر اتفاقية الأمم المتحدة لمكافحة التصحر بيانات افتراضية من ناتج رصد المركز العالمي لمناخيات الهطول، وهو ناتج شبكي للهطول مستمد من بيانات مقياس الأمطار. ولدى الأطراف خيار استخدام مجموعة بيانات افتراضية بديلة على موقع Trends.Earth: وهي مجموعة أخطار المناخ لهطول الأمطار بالأشعة تحت الحمراء من خلال المحطات، وتُنتج تقديرات عالية الدقة تستند إلى عمليات رصد الأقمار الصناعية وبيانات المحطات المُقاسَة. على الرغم من جدوى الدقة المكانية الأعلى لمجموعة أخطار المناخ لهطول الأمطار بالأشعة تحت الحمراء من خلال المحطات وفترة الإبلاغ الأطول قليلاً عند استخلاص المؤشر المعياري للهطول، فإن لها تغطية \"شبه عالمية\" تمتد من 50 درجة جنوباً إلى 50 درجة شمالاً. ولذلك، لن تتمكن الأطراف التي تتجاوز حدودها القُطرية هذا النطاق من استخدام مجموعة بيانات أخطار المناخ لهطول الأمطار بالأشعة تحت الحمراء من خلال المحطات. وفي المقابل، تحظى بيانات هطول الأمطار الصادرة عن المركز العالمي لمناخيات الهطول بتغطية عالمية."
 
 #: ../../SO3.md:35
 msgid ""
@@ -149,162 +148,162 @@ msgid ""
 "figure 1 to assess whether the in-country (or regional) precipitation "
 "data is more appropriate to derive indicator SO 3-1 over the globally "
 "available datasets."
-msgstr ""
+msgstr "يتسنى للأطراف الراغبة في استخدام البيانات داخل البلد المقدمة من المرفق الوطني للأرصاد الجوية والهيدرولوجيا أو نواتج هطول الأمطار الإقليمية، وليس العالمية، استخدام مخطط تسلسل القرارات الوارد في الشكل 1 لتقييم ما إذا كانت بيانات هطول الأمطار داخل البلاد (أو الإقليمية) أكثر ملاءمة لاستخلاص المؤشر SO 3-1 عبر مجموعات البيانات المتاحة عالمياً."
 
 #: ../../SO3.md:37
 msgid ""
 "_Figure 1. Decision tree to help Parties chose the best precipitation "
 "data source to derive indicator SO 3-1_ ![](/img/SO3_Decision_tree.jpg)"
-msgstr ""
+msgstr "_الشكل 1- مخطط تسلسل القرارات لمساعدة الأطراف على اختيار أفضل مصدر لبيانات الهطول لاستخلاص المؤشر SO 3-1_ ![](/img/SO3_Decision_tree.jpg)"
 
 #: ../../SO3.md:40
 msgid ""
 "_GPCC: Global Precipitation Climatology Centre_{{br}} _SPI: Standardized "
 "Precipitation Index_{{br}} _CHIRPS: Climate Hazards Group InfraRed "
 "Precipitation with Stations_"
-msgstr ""
+msgstr "_المركز العالمي لمناخيات الهطول: المركز العالمي لمناخيات الهطول _{{br}} _SPI: المؤشر المعياري للهطول_{{br}} _CHIRPS: مجموعة أخطار المناخ لهطول الأمطار بالأشعة تحت الحمراء من خلال المحطات_"
 
 #: ../../SO3.md:44
 msgid ""
 "This decision-making process should help Parties identify data that meets"
 " the specifications summarized in table 18."
-msgstr ""
+msgstr "ينبغي لعملية اتخاذ القرار هذه أن تساعد الأطراف على تحديد البيانات التي تفي بالمواصفات الموجَزة في الجدول 18."
 
 #: ../../SO3.md:51
 msgid "*__Table 18__. Data specifications for SO 3-1 Indicator*"
-msgstr ""
+msgstr "*__الجدول 18__. مواصفات البيانات للمؤشر SO 3-1*"
 
 #: ../../SO3.md:1
 msgid "{rspan}`1` Item"
-msgstr ""
+msgstr " العنصر"
 
 #: ../../SO3.md:2
 msgid "{cspan}`1` Specifications"
-msgstr ""
+msgstr " المواصفات"
 
 #: ../../SO3.md:3
 msgid "Default data"
-msgstr ""
+msgstr "البيانات الافتراضية"
 
 #: ../../SO3.md:4
 msgid "National data"
-msgstr ""
+msgstr "البيانات الوطنية"
 
 #: ../../SO3.md:5
 msgid "__Input data__"
-msgstr ""
+msgstr "__البيانات المُدخَلة__"
 
 #: ../../SO3.md:7
 msgid ""
 "(Data needed to generate drought hazard estimates based on the "
 "Standardized Precipitation Index (SPI) calculations described in Step 2)"
-msgstr ""
+msgstr "(البيانات اللازمة لإنشاء تقديرات مخاطر الجفاف استناداً إلى حسابات المؤشر المعياري للهطول الموضح في الخطوة 2)"
 
 #: ../../SO3.md:8
 msgid ""
 "Global Precipitation Climatology Centre (GPCC) monthly precipitation "
 "products,1982–present."
-msgstr ""
+msgstr "نواتج هطول الأمطار الشهرية الصادرة عن المركز العالمي لمناخيات الهطول، من عام 1982 إلى الآن."
 
 #: ../../SO3.md:9
 msgid ""
 "Gridded products of monthly precipitation derived from national gauge "
 "networks. The dataset should ideally have a continuous record of at least"
 " 30 years, covering the period 1981–2010."
-msgstr ""
+msgstr "المنتجات الشبكية للهطول الشهري المستمدة من شبكات المقاييس الوطنية. ومن الأفضل أن يكون لمجموعة البيانات سجل متواصل لا يقل عن 30 سنة يغطي الفترة 1981-2010."
 
 #: ../../SO3.md:11
 msgid ""
 "For countries in the 50°S to 50°N range: Climate Hazards Group InfraRed "
 "Precipitation with Stations (CHIRPS) monthly precipitation products, "
 "1981–present, can be accessed in Trends.Earth{sup}`*`."
-msgstr ""
+msgstr "بالنسبة إلى البلدان الواقعة في نطاق 50 درجة جنوباً إلى 50 درجة شمالاً: يمكن الوصول إلى نواتج هطول الأمطار الشهرية في إطار مجموعة أخطار المناخ لهطول الأمطار بالأشعة تحت الحمراء من خلال المحطات، من عام 1981 إلى الآن على موقع Trends.Earth{sup}`*`."
 
 #: ../../SO3.md:12 ../../SO3.md:14
 msgid "__Output data__"
-msgstr ""
+msgstr "__بيانات النواتج__"
 
 #: ../../SO3.md:14
 msgid ""
 "(Intermediate and final gridded products resulting from the analysis "
 "described in Steps 2 to 4)"
-msgstr ""
+msgstr "(منتجات الشبكة الوسيطة والنهائية الناتجة عن التحليل المبيَّن في الخطوات من 2 إلى 4)"
 
 #: ../../SO3.md:15 ../../SO3.md:20
 msgid ""
 "Annual December SPI-12 grids classified into four SPI drought intensity "
 "classes for the baseline and reporting periods{sup}`*`."
-msgstr ""
+msgstr "شبكات المؤشر المعياري للهطول-12 السنوي لشهر ديسمبر/كانون الأول المصنَّفة إلى أربع فئات من فئات شدة الجفاف حسب المؤشر المعياري للهطول لفترتيّ خط الأساس والإبلاغ{sup}`*`."
 
 #: ../../SO3.md:17 ../../SO3.md:22
 msgid ""
 "Total land area for each drought intensity class as well as proportion of"
 " total land area under drought."
-msgstr ""
+msgstr "المساحة الإجمالية للأراضي في كل فئة من فئات شدة الجفاف وكذلك نسبة مجموع مساحة الأراضي التي تتعرض للجفاف."
 
 #: ../../SO3.md:19 ../../SO3.md:21 ../../SO3.md:24 ../../SO3.md:26
 msgid "Gridded spatial summary in four-year epochs."
-msgstr ""
+msgstr "الموجز المكاني الشبكي في حقب زمنية مدتها أربع سنوات."
 
 #: ../../SO3.md:17 ../../SO3.md:25
 msgid "__Classification__"
-msgstr ""
+msgstr "__التصنيف__"
 
 #: ../../SO3.md:26 ../../SO3.md:27
 msgid "Four SPI drought intensity classes as per table 19."
-msgstr ""
+msgstr "الفئات الأربع من فئات شدة الجفاف في إطار المؤشر المعياري للهطول حسب الجدول 19."
 
 #: ../../SO3.md:20 ../../SO3.md:27 ../../SO3.md:28
 msgid "__Spatial resolution__"
-msgstr ""
+msgstr "__الدقة المكانية__"
 
 #: ../../SO3.md:29
 msgid "GPCC: 1.0° x 1.0° (~111 km)"
-msgstr ""
+msgstr "المركز العالمي لمناخيات الهطول: 1.0° × 1.0° (~111 كم)"
 
 #: ../../SO3.md:30
 msgid ""
 "CHIRPS: 0.05° x 0.05° (~5.55 km) or otherwise assessed by national "
 "authorities based on available data"
-msgstr ""
+msgstr "مجموعة أخطار المناخ لهطول الأمطار بالأشعة تحت الحمراء من خلال المحطات: 0.05° × 0.05° (~5.55 كم) أو تُقيَّم بطريقة ما أو بأخرى من قبل السلطات الوطنية استناداً إلى البيانات المتاحة"
 
 #: ../../SO3.md:23 ../../SO3.md:30 ../../SO3.md:31
 msgid "__Quality__"
-msgstr ""
+msgstr "__النوعية__"
 
 #: ../../SO3.md:24 ../../SO3.md:31 ../../SO3.md:32
 msgid "Specified in the datasets’ metadata."
-msgstr ""
+msgstr "محدد في البيانات الوصفية لمجموعات البيانات."
 
 #: ../../SO3.md:33
 msgid ""
 "Data should be continuous where possible; where data completeness is less"
 " than 85%, Parties may consider filling data gaps in accordance with "
 "guidance from the World Meteorological Organization."
-msgstr ""
+msgstr "يلزم أن تكون البيانات متواصلة حيثما كان ذلك ممكناً؛ وفي الحالات التي يقل فيها اكتمال البيانات عن 85 في المائة، قد تنظر الأطراف في سد الثغرات في البيانات وفقاً لتوجيهات المنظمة العالمية للأرصاد الجوية."
 
 #: ../../SO3.md:26 ../../SO3.md:33 ../../SO3.md:34
 msgid "__Metadata__"
-msgstr ""
+msgstr "__البيانات الوصفية__"
 
 #: ../../SO3.md:27 ../../SO3.md:34 ../../SO3.md:35
 msgid "Metadata information is provided with default data."
-msgstr ""
+msgstr "تُقَدَّم معلومات البيانات الوصفية مع البيانات الافتراضية."
 
 #: ../../SO3.md:28 ../../SO3.md:35 ../../SO3.md:36
 msgid "Minimum metadata content as per the mandatory fields listed in Annex II."
-msgstr ""
+msgstr "يرد في المرفق الثاني الحد الأدنى لمحتوى البيانات الوصفية حسب الحقول الإلزامية."
 
 #: ../../SO3.md:94
 msgid ""
 "{sup}`*` _As stated in Step 3, the December SPI-12 values represent the "
 "precipitation deficits (or excesses) over the Gregorian "
 "(January–December) calendar year._"
-msgstr ""
+msgstr "{sup}`*` _كما ورد في الخطوة 3، تمثل قيم المؤشر المعياري للهطول -12 لشهر ديسمبر/كانون الأول العجز في هطول الأمطار (أو التجاوزات) على مدى السنة التقويمية الغريغورية (يناير/كانون الثاني- ديسمبر/كانون الأول)._"
 
 #: ../../SO3.md:96
 msgid "Step 2:  Calculate the Standardized Precipitation Index"
-msgstr ""
+msgstr "الخطوة 2: حساب المؤشر المعياري للهطول"
 
 #: ../../SO3.md:98
 msgid ""
@@ -314,7 +313,7 @@ msgid ""
 "12-month accumulation method. For example, the 12-month precipitation "
 "accumulation for April 2019 is the total monthly precipitation for May "
 "2018 to April 2019."
-msgstr ""
+msgstr "تستند السلسلة الزمنية الشهرية من مؤشر هطول الأمطار إلى بيانات هطول الأمطار المختارة وتُحسب باستخدام طريقة المؤشر المعياري للهطول-12، التي تقدم موجزاً سنوياً للعجز في هطول الأمطار عن كل شهر باستخدام طريقة تراكُم مدتها 12 شهراً. على سبيل المثال، تراكم هطول الأمطار لمدة 12 شهراً في أبريل/نيسان 2019 هو مجموع هطول الأمطار الشهري للفترة من مايو/أيار 2018 إلى أبريل/نيسان 2019."
 
 #: ../../SO3.md:100
 msgid ""
@@ -331,7 +330,7 @@ msgid ""
 "historic reporting periods. As such, it is recommended that the reference"
 " period used to calculate the SPI be clearly stated in national reports "
 "of indicator SO 3-1 to the UNCCD."
-msgstr ""
+msgstr "لتسوية عمليات توزيع بيانات تراكم الأمطار لمدة 12 شهراً، تُستَخدم الفترة من عام 1981إلى عام 2010 العادية القياسية المناخية للمنظمة العالمية للأرصاد الجوية كفترة مرجعية. وتعتمد طريقة التسوية على دالة توزيع احتمالية غاما التي تتناسب مع تراكم هطول الأمطار لمدة 12 شهراً في هذه الفترة المرجعية. لذا، عند حسابها، تُطبَّق معلَمات (بارامترات) التوزيع الاحتمالية هذه على أي سلسلة زمنية من التراكمات الشهرية لهطول الأمطار لمدة 12 شهراً بغية إنتاج سلسلة زمنية شهرية معيارية من المؤشر المعياري للهطول-12 لكل خلية شبكية طوال فترة التسجيل بأكملها. غير أن حدوث أي تغيير في الفترة العادية القياسية للمناخ يستلزم إعادة حساب المؤشر المعياري للهطول بالنسبة إلى فترة خط الأساس وجميع فترات الإبلاغ السابقة. وعلى هذا النحو، يُوصى بأن تكون الفترة المرجعية المستخدمة لحساب المؤشر المعياري للهطول مذكورة بوضوح في التقارير الوطنية الخاصة بالمؤشر SO 3-1 المقدَّمة إلى اتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO3.md:102
 msgid ""
@@ -339,17 +338,17 @@ msgid ""
 "monitoring. However, there are various open access tools that can be used"
 " to derive the SPI, a selection of which is listed in table 3 of the Good"
 " Practice Guidance for National Reporting on UNCCD Strategic Objective 3."
-msgstr ""
+msgstr "تتوفر بيانات المؤشر المعياري للهطول الافتراضية على موقع Trends.Earth لأغراض رصد الهدف الاستراتيجي SO3. ومع ذلك، توجد أدوات مختلفة للوصول المفتوح يمكن الاستعانة بها لاستخلاص المؤشر المعياري للهطول، وأُدرجت مجموعة مختارة منها في الجدول 3 من إرشادات الممارسات الجيدة للإبلاغ بشأن الهدف الاستراتيجي 3 باتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO3.md:104
 msgid ""
 "Step 3: Identify the drought intensity class of each grid cell based on "
 "the calculated Standardized Precipitation Index value"
-msgstr ""
+msgstr "الخطوة 3: تحديد فئة شدة الجفاف لكل خلية شبكية على أساس قيمة المؤشر المعياري للهطول المحسوب"
 
 #: ../../SO3.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO3-1.T1"
-msgstr ""
+msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: جدول الهدف الاستراتيجي SO3-1.T1"
 
 #: ../../SO3.md:110
 msgid ""
@@ -357,7 +356,7 @@ msgid ""
 " December SPI-12 values for each year should be extracted. The December "
 "SPI-12 values represent the precipitation deficits (or excesses) over the"
 " Gregorian (January–December) calendar year."
-msgstr ""
+msgstr "لتقييم السلسلة الزمنية للمؤشر المعياري للهطول لفترتَي خط الأساس والإبلاغ، ينبغي استخلاص قيم المؤشر المعياري للهطول-12 في ديسمبر/كانون الأول لكل سنة. وتمثل قيم المؤشر المعياري للهطول-12 لشهر ديسمبر/كانون الأول أوجه العجز في هطول الأمطار (أو التجاوزات) على مدى السنة التقويمية الغريغورية (يناير/كانون الثاني- ديسمبر/كانون الأول)."
 
 #: ../../SO3.md:112
 msgid ""
@@ -365,85 +364,85 @@ msgid ""
 "each of the SPI drought intensity classes listed in table 19 should be "
 "counted. Positive SPI values are discarded, since they indicate that "
 "there was no drought in the given period."
-msgstr ""
+msgstr "بالنسبة إلى كل شبكة من شبكات المؤشر المعياري للهطول-12 ديسمبر/كانون الأول، ينبغي احتساب عدد الخلايا التي تنتمي إلى كل فئة من فئات شدة الجفاف في إطار المؤشر المعياري للهطول المدرجة في الجدول 19. وتُستبعَد القيم الإيجابية للمؤشر المعياري للهطول، حيث تشير إلى عدم حدوث جفاف في الفترة المعنية."
 
 #: ../../SO3.md:114
 msgid ""
 "*__Table 19__. Standardized Precipitation Index (SPI) drought intensity "
 "classes*"
-msgstr ""
+msgstr "*__الجدول 19__. فئات شدة الجفاف في إطار المؤشر المعياري للهطول*"
 
 #: ../../SO3.md:1
 msgid "SPI values"
-msgstr ""
+msgstr "قيم المؤشر المعياري للهطول"
 
 #: ../../SO3.md:2
 msgid "Drought intensity class"
-msgstr ""
+msgstr "فئة شدة الجفاف"
 
 #: ../../SO3.md:3
 msgid "0 to -0.99"
-msgstr ""
+msgstr "0 إلى -0.99"
 
 #: ../../SO3.md:4
 msgid "Mild drought"
-msgstr ""
+msgstr "جفاف خفيف"
 
 #: ../../SO3.md:5
 msgid "-1.0 to -1.49"
-msgstr ""
+msgstr "-1.0 إلى -1.49"
 
 #: ../../SO3.md:6
 msgid "Moderate drought"
-msgstr ""
+msgstr "جفاف معتدل"
 
 #: ../../SO3.md:7
 msgid "-1.5 to -1.99"
-msgstr ""
+msgstr "-1.5 إلى -1.99"
 
 #: ../../SO3.md:8
 msgid "Severe drought"
-msgstr ""
+msgstr "جفاف حاد"
 
 #: ../../SO3.md:9
 msgid "-2 and less"
-msgstr ""
+msgstr "-2 وأقل"
 
 #: ../../SO3.md:10
 msgid "Extreme drought"
-msgstr ""
+msgstr "جفاف شديد"
 
 #: ../../SO3.md:130
 msgid ""
 "The total area under each drought intensity class should be derived in a "
 "two-step process:"
-msgstr ""
+msgstr "يجب اشتقاق المساحة الإجمالية تحت كل فئة من فئات شدة الجفاف في عملية من خطوتين:"
 
 #: ../../SO3.md:132
 msgid ""
 "(i) Project the drought intensity class grid into a suitable equal area "
 "projection (e.g., Mollweide) to obtain the cells’ area in km{sup}`2`."
-msgstr ""
+msgstr "(1) تخطيط مشروع شبكة فئة شدة الجفاف في إسقاط متساوٍ مناسب (على سبيل المثال، إسقاط مولفيده) للحصول على مساحة الخلايا بالكيلومتر{sup}`2`."
 
 #: ../../SO3.md:134
 msgid ""
 "(ii) Combine all cells’ area in a given drought class to get the total "
 "area under each drought intensity class."
-msgstr ""
+msgstr "(2) دمج جميع مساحة الخلايا في فئة معينة من الجفاف للحصول على إجمالي المساحة تحت كل فئة من فئات شدة الجفاف."
 
 #: ../../SO3.md:136
 msgid "Step 4:  Calculate proportion of land under drought"
-msgstr ""
+msgstr "الخطوة 4: حساب نسبة الأراضي التي تتعرّض للجفاف"
 
 #: ../../SO3.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO3-1.T2"
-msgstr ""
+msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: جدول الهدف الاستراتيجي SO3-1.T2"
 
 #: ../../SO3.md:142
 msgid ""
 "The proportion of land in each drought intensity class is calculated for "
 "each reporting year as a percentage of the total land area."
-msgstr ""
+msgstr "تُحسب نسبة الأراضي في كل فئة من فئات شدة الجفاف لكل سنة من سنوات الإبلاغ كنسبة مئوية من مجموع مساحة الأراضي."
 
 #: ../../SO3.md:144
 msgid ""
@@ -452,33 +451,33 @@ msgid ""
 "is counted (cellCount). Then, for each reporting year, the percentage of "
 "the total land area in each drought intensity class is calculated. The "
 "formula is as follows:"
-msgstr ""
+msgstr "بالنسبة إلى كل شبكة من شبكات المؤشر المعياري للهطول-12 في فترتَي خط الأساس والإبلاغ، يُحسَب عدد الخلايا التي تندرج تحت كل فئة من فئات شدة الجفاف (عدد الخلايا). ثم تُحسَب لكل سنة من سنوات الإبلاغ النسبة المئوية لمجموع مساحة الأراضي في كل فئة من فئات شدة الجفاف."
 
 #: ../../SO3.md:146
 msgid "$P_{ij} = \\frac{cellCount_{ij}}{Total\\ number\\ of\\ cells} \\times 100$"
-msgstr ""
+msgstr "$النسبة_{ij} = \\frac{عدد الخلايا_{ij}}{إجمالي\\ عد\\د\\ الخلايا} \\times 100$"
 
 #: ../../SO3.md:148 ../../SO3.md:487
 msgid "Where:"
-msgstr ""
+msgstr "حيث:"
 
 #: ../../SO3.md:150
 msgid ""
 "“P{sub}`ij`” is the proportion of land under the land under the drought "
 "intensity class _i_ in the reporting year _j_"
-msgstr ""
+msgstr "\"النسبة{sub}`ij`\" هي نسبة الأراضي الواقعة ضمن الأراضي في فئة شدة الجفاف _i_ في سنة الإبلاغ _j_"
 
 #: ../../SO3.md:151
 msgid ""
 "“cellCount{sub}`ij`” is the number of pixels under the drought intensity "
 "class  _i_ in the reporting year _j_"
-msgstr ""
+msgstr "\"عدد الخلايا{sub}`ij`\" هي عدد البيكسلات ضمن فئة شدة الجفاف _i_ في سنة الإبلاغ _j_"
 
 #: ../../SO3.md:152
 msgid ""
 "“Total number of cells’” is all the grid cells within the country Party’s"
 " land area."
-msgstr ""
+msgstr "\"إجمالي عدد الخلايا\" هو جميع الخلايا الشبكية داخل مساحة أراضي البلد الطرف."
 
 #: ../../SO3.md:154
 msgid ""
@@ -486,27 +485,27 @@ msgid ""
 "each year is calculated by multiplying cellCount by the area of the cells"
 " (a constant value, since the drought intensity class grid was previously"
 " converted to an equal-area projection)."
-msgstr ""
+msgstr "تُحسَب المساحة الإجمالية التي تندرج تحت كل فئة من فئات شدة الجفاف في كل عام بضرب عدد الخلايا في مساحة الخلايا (وهي قيمة ثابتة، إذ كانت شبكة فئات شدة الجفاف تُحوَّل في السابق إلى إسقاط متساوٍ)."
 
 #: ../../SO3.md:156
 msgid ""
 "Step 5:  Create a gridded spatial summary for the baseline and reporting "
 "periods"
-msgstr ""
+msgstr "الخطوة 5: إعداد ملخص مكاني شبكي لفترتَي خط الإبلاغ والأساس"
 
 #: ../../SO3.md:158
 msgid ""
 "In addition to the tabular reports described above, indicator SO 1-3 "
 "should also be summarized spatially to map the most extreme conditions "
 "that occurred in the baseline and reporting periods."
-msgstr ""
+msgstr "بالإضافة إلى التقارير الجدولية المبيَّنة أعلاه، يتعين كذلك تلخيص المؤشر SO 1-3 مكانياً لتحديد أقسى الظروف التي وقعت في فترتَي خط الأساس والإبلاغ."
 
 #: ../../SO3.md:160
 msgid ""
 "To summarize the reporting period spatially, the most extreme drought "
 "intensity class should be identified for each grid cell for each "
 "reporting year within the reporting period."
-msgstr ""
+msgstr "لتلخيص فترة الإبلاغ من الناحية المكانية، يجب تحديد فئة شدة الجفاف الأقسى لكل خلية شبكية في كل سنة إبلاغ في خلال فترة الإبلاغ."
 
 #: ../../SO3.md:162
 msgid ""
@@ -516,11 +515,11 @@ msgid ""
 "monitoring. In this case, the most extreme drought intensity class should"
 " be reported for each grid cell for each four-year period within the "
 "baseline."
-msgstr ""
+msgstr "يلزم تلخيص البيانات الخاصة بفترة خط الأساس من الناحية المكانية باستخدام البيانات الشبكية للمؤشر المعياري للهطول-12 على فترات مدتها أربع سنوات (2000-2003، و2004-2007، و2008-2011، و2012-2015)، مما يعكس فترات الإبلاغ المستخدمة لرصد الهدف الاستراتيجي SO3. وفي هذه الحالة، ينبغي الإبلاغ عن أقسى فئات شدة الجفاف بالنسبة إلى كل خلية من الخلايا الشبكية لكل فترة مدتها أربع سنوات ضمن خط الأساس."
 
 #: ../../SO3.md:164
 msgid "Step 6: Verify the results"
-msgstr ""
+msgstr "الخطوة 6: التحقّق من النتائج"
 
 #: ../../SO3.md:166
 msgid ""
@@ -528,11 +527,11 @@ msgid ""
 " single drought indicator and critically review the default data "
 "vis-à-vis the national rain gauge data and other meteorological sources "
 "before submitting the reports to the UNCCD."
-msgstr ""
+msgstr "يجب أن تكون الأطراف على دراية بالقيود المتصلة باستخدام المؤشر المعياري للهطول كمؤشر واحد للجفاف وأن تُراجِع بدقة البيانات الافتراضية مقارنةً بالبيانات الوطنية لمقياس الأمطار وغيرها من مصادر الأرصاد الجوية قبل تقديم التقارير إلى اتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO3.md:168
 msgid "Step 7: Generate reports"
-msgstr ""
+msgstr "الخطوة 7: إنشاء التقارير"
 
 #: ../../SO3.md:170
 msgid ""
@@ -540,7 +539,7 @@ msgid ""
 " reporting and baseline periods should be officially submitted to the "
 "UNCCD. Observed changes and their interpretation may be described in the "
 "“Qualitative Assessment” field of the PRAIS 4 platform."
-msgstr ""
+msgstr "بمجرد أن تتحقّق الأطراف من تقديرات قيم مخاطر الجفاف في فترتَي الإبلاغ وخط الأساس، يجب تقديمها رسمياً إلى اتفاقية الأمم المتحدة لمكافحة التصحر. ويمكن وصف التغييرات الملحوظة وتفسيرها في حقل \"التقييم النوعي\" لمنصة نظام PRAIS 4."
 
 #: ../../SO3.md:172
 msgid ""
@@ -548,27 +547,27 @@ msgid ""
 "representing drought hazard for the baseline/reporting period are made "
 "available in the PRAIS 4 platform. More specifically, the following maps "
 "will be available:"
-msgstr ""
+msgstr "تُتاح على منصة نظام PRAIS 4 خرائط افتراضية أو خرائط مستحدَثة على موقع Trends.Earth باستخدام بيانات وطنية تُمثِل مخاطر الجفاف لفترتَي خط الأساس/الإبلاغ. وعلى نحو أكثر تحديداً، ستتوفر الخرائط التالية:"
 
 #: ../../SO3.md:174
 msgid "Drought hazard in first epoch of baseline period (2000–2003)"
-msgstr ""
+msgstr "خطر الجفاف في الحقبة الأولى من فترة خط الأساس (2000–2003)"
 
 #: ../../SO3.md:175
 msgid "Drought hazard in second epoch of baseline period (2004–2007)"
-msgstr ""
+msgstr "خطر الجفاف في الحقبة الثانية من فترة خط الأساس (2004–2007)"
 
 #: ../../SO3.md:176
 msgid "Drought hazard in third epoch of baseline period (2008–2011)"
-msgstr ""
+msgstr "خطر الجفاف في الحقبة الثالثة من فترة خط الأساس (2008–2011)"
 
 #: ../../SO3.md:177
 msgid "Drought hazard in fourth epoch of baseline period (2012–2015)"
-msgstr ""
+msgstr "خطر الجفاف في الحقبة الرابعة من فترة خط الأساس (2012–2015)"
 
 #: ../../SO3.md:178
 msgid "Drought hazard in the reporting period (2016–2019)"
-msgstr ""
+msgstr "خطر الجفاف في فترة الإبلاغ (2016–2019)"
 
 #: ../../SO3.md:180
 msgid ""
@@ -579,26 +578,26 @@ msgid ""
 "“General Comment” field. It would also be beneficial to report on special"
 " cases and issues, describing situations where SPI values might be less "
 "reliable and providing the rationale to adopt a different methodology."
-msgstr ""
+msgstr "تُمثِل هذه الخرائط أقسى الظروف التي حدثت في كل حقبة، كما هو موضح في الخطوة 5. كما تُشجع الأطراف على تقديم سرديات حول المنهجية ومصادر البيانات ودقة البيانات في حال كانت التقديرات مستمدة من البيانات الوطنية باستخدام حقل \"التعليقات العامة\". وسيكون من المفيد أيضاً الإبلاغ عن حالات ومشاكل خاصة، تصف المواقف التي قد تكون فيها قيم المؤشر المعياري للهطول أقل موثوقية وتقدم الأساس المنطقي لاعتماد منهجية مختلفة."
 
 #: ../../SO3.md:182
 msgid "3.1.4. Dependencies"
-msgstr ""
+msgstr "3-1-4 التبعيات"
 
 #: ../../SO3.md:184
 msgid ""
 "Drought hazard data relies on the total land area reported in table "
 "SO1-1.T1 to calculate the proportion of total land area under drought. SO"
 " 3-1 outputs are also used as an input for calculating indicator SO 3-2."
-msgstr ""
+msgstr "تعتمد بيانات مخاطر الجفاف على إجمالي مساحة الأراضي المذكورة في جدول الهدف الاستراتيجي SO1-1.T1 لحساب نسبة إجمالي مساحة الأراضي الواقعة تحت الجفاف. وتُستَخدم مخرجات الهدف الاستراتيجي SO 3-1 كذلك كمُدخَل لحساب المؤشر SO 3-2."
 
 #: ../../SO3.md:187
 msgid "3.1.5. Challenges"
-msgstr ""
+msgstr "3-1-5 التحديات"
 
 #: ../../SO3.md:189 ../../SO3.md:360 ../../SO3.md:552
 msgid "Data availability and quality"
-msgstr ""
+msgstr "توافر البيانات ونوعيتها"
 
 #: ../../SO3.md:191
 msgid ""
@@ -608,11 +607,11 @@ msgid ""
 "precise and reliable. However, national precipitation data might not be "
 "readily available in digital form and/or might be affected by gaps in the"
 " time series."
-msgstr ""
+msgstr "قد لا تكون البيانات المتاحة دولياً عن هطول الأمطار دقيقة بما يكفي لتقدير شدة مخاطر الجفاف على الصعيد الوطني. ويُوصَى باستخدام البيانات الوطنية لأنه من المفترض أن تكون أكثر دقة وموثوقية. غير أن البيانات الوطنية المتعلقة بالهطول قد لا تكون متاحة بسهولة في شكل رقمي و/أو قد تتأثر بثغرات في السلسلة الزمنية."
 
 #: ../../SO3.md:193
 msgid "Limitations of the SPI-based estimates"
-msgstr ""
+msgstr "حدود التقديرات المستندة إلى المؤشر المعياري للهطول"
 
 #: ../../SO3.md:195
 msgid ""
@@ -627,7 +626,7 @@ msgid ""
 "limitation, the national expert may highlight areas where estimates based"
 " on the SPI may not produce sufficiently accurate results and may base "
 "the estimates on alternative indexes."
-msgstr ""
+msgstr "بينما يُوصَى بالمؤشر المعياري للهطول كمؤشر راسخ ومرن وقوي للجفاف لتحديد مخاطره على نطاق عالمي، إلا أنه لا يحدد سوى أوجه قصور الأرصاد الجوية، لأنه يعتمد فقط على الهطول وقد لا يستوعب أنواع الجفاف الأخرى (مثل الجفاف الهيدرولوجي والزراعي) بصورة جيدة. وعلاوة على ذلك، في المناطق التي تعاني من انخفاض شديد في الهطول و/أو ارتفاع في نسبة الأشهر التي ينعدم فيها الهطول، لابد من استخدام القيم الخاصة بالمؤشر المعياري للهطول وتفسيرها بحذر؛ وقد يكون تطبيق مؤشر التبخر والنتح المعياري للهطول أنسب في هذه المناطق. وإدراكاً من الخبير الوطني لهذا القيد، فإنَّه قد يُبرز المناطق التي قد لا تتمخض فيها التقديرات المستندة إلى المؤشر المعياري للهطول عن نتائج دقيقة بما فيه الكفاية، وقد يعتمد في تقديراته لها على مؤشرات بديلة."
 
 #: ../../SO3.md:197
 msgid ""
@@ -636,22 +635,22 @@ msgid ""
 "and reporting time frames should be interpreted with caution. Anomalies "
 "and uncertainties in the estimates should be described in the "
 "“Qualitative Assessment” field."
-msgstr ""
+msgstr "نظراً للتقلبات المناخية الطبيعية، يجب توخي الحذر في تفسير أي تغيرات أو اتجاهات ملحوظة في نسبة الأراضي الواقعة تحت الجفاف على مدى الأُطر الزمنية القصيرة لخط الأساس والإبلاغ. ويجب وصف الاختلالات وأوجه عدم التيّقُن في التقديرات في حقل \"التقييم النوعي\"."
 
 #: ../../SO3.md:199
 msgid ""
 "The adopted timescale, based on the 12-month cycle, might not always be "
 "suitable for characterizing drought impacts in some environments where "
 "other aggregation periods, e.g., 24 months, might be more appropriate."
-msgstr ""
+msgstr "قد لا يكون النظام الزمني المعتمد، المستند إلى دورة 12 شهراً، ملائماً دائماً لتوصيف آثار الجفاف في بعض البيئات التي قد تكون فيها فترات التجميع الأخرى، مثل 24 شهراً، أكثر ملاءمة."
 
 #: ../../SO3.md:201
 msgid "3.1.6. Summary (main actions)"
-msgstr ""
+msgstr "3-1-6 الموجز (الإجراءات الرئيسية)"
 
 #: ../../SO3.md:203
 msgid "Key actions for reporting drought hazard intensity values are as follows:"
-msgstr ""
+msgstr "الإجراءات الرئيسية للإبلاغ عن قيم شدة مخاطر الجفاف هي كما يلي:"
 
 #: ../../SO3.md:205
 msgid ""
@@ -659,14 +658,14 @@ msgid ""
 "data or alternative national sources, provided they comply with the data "
 "specifications listed in table 18. If Parties decide to use alternative "
 "data sources, they should follow Steps 2 to 5 below:"
-msgstr ""
+msgstr "**اختيار مجموعة بيانات الهطول**: يمكن للأطراف أن تقرر استخدام البيانات الافتراضية أو البيانات الوطنية البديلة، شريطة أن تمتثل لمواصفات البيانات المدرجة في الجدول 18. وإذا قررت الأطراف استخدام مصادر بيانات بديلة، يجب أن تتبع الخطوات من 2 إلى 5 أدناه:"
 
 #: ../../SO3.md:207
 msgid ""
 "**Calculate the SPI**: the SPI should be derived for all months in the "
 "full available time series; however, Parties may choose alternative "
 "indexes better suited to their local environmental conditions."
-msgstr ""
+msgstr "**حساب المؤشر المعياري للهطول**: يجب اشتقاق المؤشر المعياري للهطول لجميع الأشهر في السلسلة الزمنية الكاملة المتاحة؛ ومع ذلك، قد تختار الأطراف مؤشرات بديلة أكثر ملاءمة لظروفها البيئية المحلية."
 
 #: ../../SO3.md:209
 msgid ""
@@ -676,7 +675,7 @@ msgid ""
 " the drought intensity class grids into a suitable equal area projection,"
 " and calculating the total areas under each drought intensity class in "
 "km2. Data is then reported in table SO3-1.T1."
-msgstr ""
+msgstr "**تحديد فئة شدة الجفاف لكل خلية شبكية**: بالاستناد إلى حساب المؤشر المعياري للهطول، يجب حساب عدد الخلايا التي تنتمي إلى كل فئة من فئات شدة الجفاف في إطار المؤشر المعياري للهطول وتحويلها إلى مساحات عن طريق إسقاط شبكات فئات شدة الجفاف إلى إسقاط متساوٍ مناسب، وحساب مجموع المناطق تحت كل فئة من فئات شدة الجفاف بالكيلومتر المربع (كم2). ويجب إدخال البيانات في جداول الهدف الاستراتيجي SO3-1.T1."
 
 #: ../../SO3.md:211
 msgid ""
@@ -684,7 +683,7 @@ msgid ""
 " each drought intensity class and the overall proportion of land under "
 "drought over the total land area are calculated for each reporting year "
 "and reported in tables SO3-1.T1 and SO3-1.T2."
-msgstr ""
+msgstr "**حساب نسبة الأراضي الواقعة تحت الجفاف**: تُحسب نسبة الأراضي في كل فئة من فئات شدة الجفاف والنسبة الإجمالية للأراضي الواقعة تحت الجفاف على إجمالي مساحة الأراضي لكل سنة إبلاغ ويُبلَغ عنها في جدولَي الهدف الاستراتيجي SO3-1.T1 والهدف الاستراتيجي SO3-1.T2."
 
 #: ../../SO3.md:213
 msgid ""
@@ -693,7 +692,7 @@ msgid ""
 "summarized spatially using the gridded SPI-12 data in four-year intervals"
 " (2000–2003, 2004–2007, 2008–2011, 2012–2015 and 2016–2019) to map the "
 "most extreme conditions in each period."
-msgstr ""
+msgstr "**إنشاء ملخص مكاني شبكي لفترتَي خط الأساس والإبلاغ**: يلزم تلخيص البيانات الخاصة بالسلسلة الزمنية بأكملها من عام 2000 إلى عام 2019 من الناحية المكانية باستخدام البيانات الشبكية للمؤشر المعياري للهطول-12 على فترات مدتها أربع سنوات (2000-2003، و2004-2007، و2008–2011، و2012-2015، و2016–2019) لتحديد أقسى الظروف في كل فترة."
 
 #: ../../SO3.md:215
 msgid ""
@@ -702,18 +701,18 @@ msgid ""
 "suitability of such an index to describe drought occurrence and intensity"
 " in their countries before officially submitting estimates for UNCCD "
 "reporting."
-msgstr ""
+msgstr "**التحقّق من النتائج\": يمكن للأطراف، إدراكاً منها للقيود المتصلة باعتماد المؤشر المعياري للهطول لتقدير شدة الجفاف، أن تتحقّق من مدى ملاءمة هذا المؤشر لوصف حدوث الجفاف وشدته في بلدانها قبل تقديم تقديرات رسمية للإبلاغ إلى اتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO3.md:217 ../../SO3.md:578
 msgid ""
 "**Generate reports**: once verified by the Parties, the data and "
 "supporting narrative for the reporting and baseline periods should be "
 "officially submitted to the UNCCD."
-msgstr ""
+msgstr "**إنشاء التقارير**: بعد أن تتحقّق الأطراف من البيانات والسرديات الداعمة لفترتَي الإبلاغ وخط الأساس، يجب تقديمها رسمياً إلى اتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO3.md:219
 msgid "3.1.7. Further reading"
-msgstr ""
+msgstr "3-1-7 قراءات إضافية"
 
 #: ../../SO3.md:221
 msgid ""
@@ -721,17 +720,17 @@ msgid ""
 "Objective 3. Chapter 1. Level 1 Indicator "
 "(<https://www.unccd.int/publications/good-practice-guidance-national-"
 "reporting-unccd-strategic-objective-3-mitigate-adapt>)"
-msgstr ""
+msgstr "إرشادات الممارسات الجيدة للإبلاغ الوطني عن الهدف الاستراتيجي 3 لاتفاقية الأمم المتحدة لمكافحة التصحر. الفصل الأول. مؤشر المستوى 1 (<https://www.unccd.int/publications/good-practice-guidance-national-reporting-unccd-strategic-objective-3-mitigate-adapt>)"
 
 #: ../../SO3.md:223
 msgid ""
 "3.2. SO 3-2 – Trends in the proportion of the total population exposed to"
 " drought"
-msgstr ""
+msgstr "3-2 الهدف الاستراتيجي SO 3-2 - الاتجاهات في نسبة إجمالي السكان المعرَّضين للجفاف"
 
 #: ../../SO3.md:225
 msgid "3.2.1. Introduction"
-msgstr ""
+msgstr "3-2-1 مقدمة"
 
 #: ../../SO3.md:227
 msgid ""
@@ -739,7 +738,7 @@ msgid ""
 " (identified by indicator SO 3-1) as the total count of people exposed as"
 " well as the percentage of the total population exposed. This indicator "
 "may be further disaggregated by sex if data is available."
-msgstr ""
+msgstr "يُعَرِّف المؤشر SO 3-2 تعرُّض السكان لخطر الجفاف (الذي يُحدِده المؤشر SO 3-1) بأنه إجمالي عدد الأشخاص المعرَّضين لهذا الخطر وكذلك النسبة المئوية لمجموع السكان المعرَّضين له. ويمكن تصنيف هذا المؤشر بشكل أكبر حسب نوع الجنس إذا توافرت البيانات."
 
 #: ../../SO3.md:229
 msgid ""
@@ -752,11 +751,11 @@ msgid ""
 "drought (i.e., to all drought intensity classes), is calculated and "
 "reported. National reporting is facilitated though the provision of "
 "default data."
-msgstr ""
+msgstr "تستخدِم طريقةُ الحساب التوزيعَ المكاني للسكان أو المجموعة السكانية الفرعية (أي حسب نوع الجنس) لإثبات تعرُّضها للجفاف، على أساس موقع ومدى فئات شدة الجفاف على النحو المحدد بالمؤشر SO 3-1. وباستخدام هذه المعلومات، تُحسّب النسبة المئوية لمجموع السكان الموجودين في كل فئة من فئات شدة الجفاف، فضلاً عن النسبة المئوية لإجمالي السكان المعرَّضين للجفاف (أي إلى جميع فئات شدة الجفاف)، ويُبلَّغ عنها. ويُسهّل الإبلاغ الوطني من خلال توفير البيانات الافتراضية."
 
 #: ../../SO3.md:232
 msgid "3.2.2. Prerequisites for reporting"
-msgstr ""
+msgstr "3-2-2 الشروط المسبقة للإبلاغ"
 
 #: ../../SO3.md:234
 msgid ""
@@ -767,11 +766,11 @@ msgid ""
 "manage the effects of drought in order to enhance resilience of "
 "vulnerable populations and ecosystems” detailing the methodology used to "
 "estimate drought exposure."
-msgstr ""
+msgstr "قراءة متعمقة للفصل الثاني من \"[إرشادات الممارسات الجيدة للإبلاغ الوطني عن الهدف الاستراتيجي 3 لاتفاقية الأمم المتحدة لمكافحة التصحر](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf): التخفيف من آثار الجفاف والتكيف معها وإدارتها من أجل تعزيز قدرة السكان والنظم الإيكولوجية المعرَّضة للخطر على الصمود \"حيث يُبيِّن بالتفصيل المنهجية المستخدمة لتقدير التعرُّض للجفاف."
 
 #: ../../SO3.md:236
 msgid "Data complying with the specifications listed in figure 2 and table 20."
-msgstr ""
+msgstr "البيانات المستوفية للمواصفات الواردة في الشكل 2 والجدول 20."
 
 #: ../../SO3.md:238
 msgid ""
@@ -782,21 +781,21 @@ msgid ""
 "preferred to default data. The key institution in this case is a "
 "country’s national statistical office, however universities and research "
 "centres may also provide valuable inputs."
-msgstr ""
+msgstr "مجموعة من الخبراء الوطنيين ترشحهم السلطات الوطنية رسمياً للتحقق من اتساق نتائج عملية الإبلاغ وفقاً للحالة في الميدان، أو لوضع منهجية مخصصة وتنفيذها لتقدير المؤشر SO 3-2 حيث تُفضَّل البيانات الوطنية على البيانات الافتراضية. ويُعد المكتب الإحصائي الوطني للبلد في هذه الحالة المؤسسة الرئيسية، ومع ذلك قد توفر الجامعات ومراكز البحوث أيضاً مُدخلات قيّمة."
 
 #: ../../SO3.md:240
 msgid "3.2.3. Reporting process and step-by-step procedure"
-msgstr ""
+msgstr "3-2-3 عملية الإبلاغ والإجراءات التدريجية"
 
 #: ../../SO3.md:242
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If the default data is used, Steps 2 to 4 are unnecessary."
-msgstr ""
+msgstr "يرد في ما يلي وصف للإجراءات التدريجية للإبلاغ. وإذا استُخدمت البيانات الافتراضية، تكون الخطوات من 2 إلى 4 غير ضرورية."
 
 #: ../../SO3.md:244
 msgid "Step 1: Select the population dataset"
-msgstr ""
+msgstr "الخطوة 1: اختيار مجموعة بيانات السكان"
 
 #: ../../SO3.md:246
 msgid ""
@@ -806,7 +805,7 @@ msgid ""
 "represent the number of people living in each location (grid cell), "
 "ideally annually, within the baseline and reporting periods. Where "
 "possible, data should be disaggregated by sex."
-msgstr ""
+msgstr "البيانات المناسبة لحساب المؤشر SO 3-2 هي ناتج شبكي للسكان من الناحية المكانية، أو مجموعة مجسَّمة جغرافياً من البيانات دون الوطنية التي تغطي النطاق الكامل للبلد. ويجب أن تُمثِل عدد الأشخاص الذين يعيشون في كل موقع (خلية شبكية)، بشكل مثالي سنوياً، خلال فترتَي خط الأساس والإبلاغ. وحيثما أمكن، يجب تصنيف البيانات حسب نوع الجنس."
 
 #: ../../SO3.md:248
 msgid ""
@@ -815,7 +814,7 @@ msgid ""
 "Population of the World, version 4 (GPWv4), are recommended by the UNCCD "
 "for deriving indicator SO 3-2. However, WorldPop is provided to country "
 "Parties by default."
-msgstr ""
+msgstr "توجد مجموعات متنوعة من البيانات السكانية عالية الدقة متاحة للجمهور على النطاق العالمي، وهناك مجموعتان منها، وهما WorldPop ومجموعة بيانات سكان العالم المخططة شبكياً، النسخة 4 (GPWv4)، وتوصِي اتفاقية الأمم المتحدة لمكافحة التصحر باستخلاص المؤشر SO 3-2 منهما. ومع ذلك، تتوفر مجموعة بيانات WorldPop افتراضياً للبلدان الأطراف."
 
 #: ../../SO3.md:250
 msgid ""
@@ -823,83 +822,83 @@ msgid ""
 "decision tree in figure 2 to assess whether the in-country (or regional) "
 "population data is more appropriate to derive indicator SO 3-2 over the "
 "globally available datasets."
-msgstr ""
+msgstr "يمكن للأطراف الراغبة في استخدام البيانات داخل البلد أن تستخدم مخطط تسلسل القرارات الوارد في الشكل 2 لتقييم ما إذا كانت البيانات السكانية داخل البلاد (أو الإقليمية) أكثر ملاءمة لاستخلاص المؤشر SO 3-2 عبر مجموعات البيانات المتاحة عالمياً."
 
 #: ../../SO3.md:252
 msgid ""
 "_Figure 2. Decision tree to help Parties choose the best population data "
 "source to derive indicator SO 3-2_ ![](/img/SO3_2_Decision_tree.jpg)"
-msgstr ""
+msgstr "_الشكل 2. مخطط تسلسل القرارات لمساعدة الأطراف على اختيار أفضل مصدر للبيانات السكانية لاستخلاص المؤشر SO 3-2_ ![](/img/SO3_2_Decision_tree.jpg)"
 
 #: ../../SO3.md:255
 msgid ""
 "This decision-making process should help Parties identify data that meets"
 " the specifications summarized in table 20."
-msgstr ""
+msgstr "ينبغي لعملية اتخاذ القرار هذه أن تساعد الأطراف على تحديد البيانات التي تفي بالمواصفات الموجَزة في الجدول 20."
 
 #: ../../SO3.md:262
 msgid "*__Table 20__. Data specifications for SO 3-2 Indicator*"
-msgstr ""
+msgstr "*__الجدول 20__. مواصفات البيانات للمؤشر SO 3-2*"
 
 #: ../../SO3.md:7
 msgid "(Data needed to generate indicator SO 3-2, as described in Steps 2 to 4)"
-msgstr ""
+msgstr "(البيانات اللازمة لإنشاء المؤشر SO 3-2، كما هو موضح في الخطوات من 2 إلى 4)"
 
 #: ../../SO3.md:8
 msgid "WorldPop data for the period 2000–2020, disaggregated by sex."
-msgstr ""
+msgstr "بيانات WorldPop للفترة 2000-2020، مصنَّفة حسب نوع الجنس."
 
 #: ../../SO3.md:10 ../../SO3.md:13
 msgid "Drought intensity class data as determined by indicator SO 3-1."
-msgstr ""
+msgstr "بيانات فئات شدة الجفاف على النحو المُحدَد في المؤشر SO 3-1."
 
 #: ../../SO3.md:11
 msgid ""
 "Gridded population products derived from national official statistics "
 "from the year 2000 to the reporting year, ideally annual and, if "
 "available, disaggregated by sex."
-msgstr ""
+msgstr "يكون من الأمثل تقديم النواتج السكانية الشبكية المستمدة من الإحصاءات الرسمية الوطنية من عام 2000 إلى سنة الإبلاغ سنوياً، وإذا توفرت، تكون مصنَّفة حسب نوع الجنس."
 
 #: ../../SO3.md:16
 msgid "(Gridded products resulting from the analysis described in Steps 2 to 4)"
-msgstr ""
+msgstr "(النواتج الشبكية الناتجة عن التحليل المبيَّن في الخطوات من 2 إلى 4)"
 
 #: ../../SO3.md:17
 msgid ""
 "Annual gridded products of total, female and male population exposed to "
 "the four drought intensity classes from the year 2000 to the reporting "
 "year."
-msgstr ""
+msgstr "النواتج الشبكية السنوية لإجمالي السكان من الإناث والذكور المعرَّضين لفئات شدة الجفاف الأربع من عام 2000 إلى سنة الإبلاغ."
 
 #: ../../SO3.md:19 ../../SO3.md:24
 msgid ""
 "Count and percentage of total, female and male population exposed to "
 "drought and to each drought intensity class."
-msgstr ""
+msgstr "عدد ونسبة مجموع السكان من الإناث والذكور المعرَّضين للجفاف ولكل فئة من فئات شدة الجفاف."
 
 #: ../../SO3.md:22
 msgid ""
 "Annual gridded product of population exposed to the four drought "
 "intensity classes from the year 2000 to the reporting year."
-msgstr ""
+msgstr "الناتج الشبكي السنوي للسكان من الإناث والذكور المعرَّضين لفئات شدة الجفاف الأربع من عام 2000 حتى سنة الإبلاغ."
 
 #: ../../SO3.md:28
 msgid "Worldpop: 3-arc seconds (~100 m)"
-msgstr ""
+msgstr "Worldpop: عبارة عن 3 ثوانٍ قوسية (حوالي 100 م)"
 
 #: ../../SO3.md:29
 msgid "Assessed by national authorities based on available data."
-msgstr ""
+msgstr "مقيَّمة من قبل السلطات الوطنية استناداً إلى البيانات المتاحة."
 
 #: ../../SO3.md:25 ../../SO3.md:32
 msgid "To be indicated in the dataset metadata."
-msgstr ""
+msgstr "يُشار إليها في البيانات الوصفية الخاصة بمجموعة البيانات."
 
 #: ../../SO3.md:304
 msgid ""
 "Step 2:  Overlay gridded population data with indicator SO 3-1 spatial "
 "output"
-msgstr ""
+msgstr "الخطوة 2: تراكب البيانات السكانية الشبكية من خلال الناتج المكاني للمؤشر SO 3-1"
 
 #: ../../SO3.md:306
 msgid ""
@@ -911,26 +910,26 @@ msgid ""
 "addition to the total population, sex-disaggregated population data "
 "grids, if available, should be used in the overlay process to generate "
 "sex-disaggregated drought exposure values."
-msgstr ""
+msgstr "يُحسَب المؤشر SO 3-2 عن طريق تراكب البيانات السكانية على البيانات المكانية لشدة المخاطر لكل عام. ويجب ملء السنوات التي بها ثغرات بأقرب البيانات السكانية المتاحة. على سبيل المثال، في حال كانت بيانات عام 2019 مفقودة، فلابد من الاستعاضة عنها ببيانات عام 2020 (أو أقرب سنة متاحة)، على أن تستخدم بيانات عام 2020 بعدئذٍ في كل من عاميّ 2019 و2020. وبالإضافة إلى مجموع السكان، ينبغي استخدام شبكات البيانات السكانية المصنَّفة حسب نوع الجنس، إذا كانت متاحة، في عملية التراكب لإنشاء قيم للتعرُّض للجفاف مصنَّفة حسب نوع الجنس."
 
 #: ../../SO3.md:308
 msgid ""
 "Population and drought hazard intensity data should have the same "
 "coordinate reference system and projection, which should be consistent "
 "across the reporting periods."
-msgstr ""
+msgstr "يجب أن يكون لبيانات السكان وشدة خطورة الجفاف نفس النظام المرجعي الإحداثي والإسقاطات، التي يتعين أن تكون متسقة عبر فترات الإبلاغ."
 
 #: ../../SO3.md:310
 msgid ""
 "Step 3: Calculate the total population and the number and percentage of "
 "people within each drought intensity class"
-msgstr ""
+msgstr "الخطوة 3: حساب مجموع السكان وعدد الأشخاص ونسبتهم المئوية في كل فئة من فئات شدة الجفاف"
 
 #: ../../SO3.md:1
 msgid ""
 "Related areas in the PRAIS 4 platform: tables SO3-2.T1, SO3-2.T2 and "
 "SO3-2.T3"
-msgstr ""
+msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: جداول الأهداف الاستراتيجية SO3-2.T1، وSO3-2.T2، وSO3-2.T3"
 
 #: ../../SO3.md:316
 msgid ""
@@ -938,7 +937,7 @@ msgid ""
 " in each land unit (e.g., grid cell) of a country area for each year "
 "within the baseline and the reporting periods (i.e., from 2000 to the "
 "reporting year)."
-msgstr ""
+msgstr "يُستَمد إجمالي السكان سنوياً من خلال إضافة السكان المقيمين في كل وحدة من وحدات الأراضي (على سبيل المثال، الخلية الشبكية) من منطقة قُطرية لكل عام داخل فترتَي خط الأساس والإبلاغ (أي من عام 2000 إلى عام الإبلاغ)."
 
 #: ../../SO3.md:318
 msgid ""
@@ -947,7 +946,7 @@ msgid ""
 " exposed to drought (i.e., to all drought intensity classes), can be "
 "estimated for each year. The respective percentages are then calculated "
 "out of the total population."
-msgstr ""
+msgstr "يمكن باستخدام مخرجات الخطوة 2 تقدير عدد الأشخاص الذين يقعون في كل فئة من فئات شدة الجفاف الأربع، وكذلك إجمالي عدد الأشخاص المعرَّضين للجفاف (أي لجميع فئات شدة الجفاف)، لكل عام. ثم تُحسَب النسب المئوية ذات الصلة من مجموع السكان."
 
 #: ../../SO3.md:320
 msgid ""
@@ -958,11 +957,11 @@ msgid ""
 "calculated out of the total number of people exposed to each drought "
 "intensity class and to drought overall for each year. Note that the share"
 " within each drought intensity class should equal to 100 per cent."
-msgstr ""
+msgstr "بالمثل، إذا استُخدمت بيانات مصنَّفة حسب نوع الجنس، يمكن أيضاً حساب عدد الذكور والإناث في كل فئة من فئات شدة الجفاف، فضلاً عن العدد الإجمالي للذكور والإناث المعرَّضين للجفاف. ثم تُحسَب حصة النسبة المئوية بين الإناث والذكور من مجموع عدد الأشخاص المعرَّضين لكل فئة من فئات شدة الجفاف وللجفاف عموماً كل عام. ويجب ملاحظة أن الحصة في كل فئة من فئات شدة الجفاف ينبغي أن تساوي 100 في المائة."
 
 #: ../../SO3.md:322
 msgid "Step 4:  Create a gridded spatial summary in four-year epochs"
-msgstr ""
+msgstr "الخطوة 4: إصدار موجز مكاني شبكي في حقب زمنية مدتها أربع سنوات"
 
 #: ../../SO3.md:324
 msgid ""
@@ -971,7 +970,7 @@ msgid ""
 "spatial summary output gives an indication of the number of people "
 "exposed to the most extreme drought intensity class over the four-year "
 "reporting period for each grid cell."
-msgstr ""
+msgstr "بالإضافة إلى القيم السنوية للمؤشر SO 3-2، يُصدَر أيضاً موجز مكاني شبكي لفترة الإبلاغ بأكملها. ويُعطي ناتج الموجز المكاني الشبكي هذا مؤشراً على عدد الأشخاص المعرَّضين لأشد فئات شدة الجفاف قسوة في خلال فترة الإبلاغ البالغ مدتها أربع سنوات لكل خلية شبكية."
 
 #: ../../SO3.md:326
 msgid ""
@@ -980,7 +979,7 @@ msgid ""
 "generated for indicator SO 3-1 in Step 5, which represents the most "
 "extreme drought intensity class for each year within the reporting "
 "period."
-msgstr ""
+msgstr "لاختصار فترة الإبلاغ من الناحية المكانية، تتراكب أحدث مجموعة بيانات سكانية من فترة الإبلاغ الحالية على النواتج الناشئة عن المؤشر SO 3-1 في الخطوة 5، التي تُمثِل أقسى فئات شدة الجفاف لكل سنة في خلال فترة الإبلاغ."
 
 #: ../../SO3.md:328
 msgid ""
@@ -989,18 +988,18 @@ msgid ""
 "2008–2011 and 2012–2015) by overlaying the most recent population data of"
 " each group of years on the output generated for indicator SO 3-1 in Step"
 " 5."
-msgstr ""
+msgstr "على نحو مماثل، تصدر البيانات المكانية الموجَزة عن التعرُّض في إطار خط الأساس لكل فترة من فتراته الأربع البالغ مدة كلٍ منها أربع سنوات (أي 2000-2003، و2004-2007، و2008-2011، و2012-2015) عن طريق تراكب أحدث البيانات السكانية لكل مجموعة من السنوات على الناتج المحقق بالنسبة إلى المؤشر SO 3-1 في الخطوة 5."
 
 #: ../../SO3.md:330
 msgid ""
 "These gridded spatial summaries give an indication of the number of "
 "people exposed to the most extreme drought intensity class in four-year "
 "epochs."
-msgstr ""
+msgstr "يُعطِي ناتج هذه الموجزات المكانية الشبكية مؤشراً على عدد الأشخاص المعرَّضين لأقسى فئات شدة الجفاف في حقب زمنية مدة كلٍ منها أربع سنوات."
 
 #: ../../SO3.md:332 ../../SO3.md:529
 msgid "Step 5:  Verify the results"
-msgstr ""
+msgstr "الخطوة 5: التحقّق من النتائج"
 
 #: ../../SO3.md:334
 msgid ""
@@ -1010,17 +1009,17 @@ msgid ""
 " at risk, such as agricultural yields, livestock counts, sectoral water "
 "and certain types of vegetation. In addition, being exposed to drought "
 "does not equate to drought vulnerability."
-msgstr ""
+msgstr "لا تتناول المنهجية سوى الكثافة السكانية والتوزيع ولا تغطي تعرُّض النظم الإيكولوجية للجفاف. وقد يأخذ المقياس الأكثر شمولاً للتعرُّض للجفاف في الاعتبار الكيانات المادية الأخرى المعرضة للخطر، مثل المحاصيل الزراعية، وأعداد الماشية، والمياه القطاعية وأنواع معينة من الغطاء النباتي. بالإضافة إلى ذلك، فإن التعرُّض للجفاف لا يعني قابلية التأثر به."
 
 #: ../../SO3.md:336
 msgid ""
 "Parties should be aware of these limitations and critically review the "
 "results before submitting the reports to the UNCCD."
-msgstr ""
+msgstr "يتعين على الأطراف أن تدرك هذه القيود وأن تُراجِع النتائج بدقة قبل تقديم التقارير إلى اتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO3.md:338 ../../SO3.md:535
 msgid "Step 6: Generate reports"
-msgstr ""
+msgstr "الخطوة 6: إنشاء التقارير"
 
 #: ../../SO3.md:340
 msgid ""
@@ -1029,7 +1028,7 @@ msgid ""
 "officially submitted to the UNCCD. Observed changes and their "
 "interpretation may be described in the “Qualitative Assessment” field of "
 "the PRAIS 4 platform."
-msgstr ""
+msgstr "بمجرد أن تتحقّق الأطراف من تقديرات قيم مخاطر تعرُّض السكان للجفاف في فترتَي الإبلاغ وخط الأساس، يجب تقديمها رسمياً إلى اتفاقية الأمم المتحدة لمكافحة التصحر. ويمكن وصف التغييرات الملحوظة وتفسيرها في حقل \"التقييم النوعي\" لمنصة نظام PRAIS 4."
 
 #: ../../SO3.md:342
 msgid ""
@@ -1037,41 +1036,41 @@ msgid ""
 "representing population exposed to drought for the baseline/reporting "
 "period are made available in the PRAIS 4 platform. More specifically, the"
 " following maps will be available online:"
-msgstr ""
+msgstr "تُتاح على منصة نظام PRAIS 4 خرائط افتراضية أو خرائط مستحدَثة على موقع Trends.Earth باستخدام بيانات وطنية تُمثِل السكان المعرَّضين للجفاف لفترتَي خط الأساس/الإبلاغ. وعلى نحو أكثر تحديداً، ستكون الخرائط التالية متاحة على الإنترنت:"
 
 #: ../../SO3.md:344
 msgid ""
 "Total population exposed to drought in first epoch of baseline period "
 "(2000–2003)"
-msgstr ""
+msgstr "مجموع السكان المعرَّضين للجفاف في الحقبة الأولى من فترة خط الأساس (2000-2003)"
 
 #: ../../SO3.md:345
 msgid ""
 "Total population exposed to drought in second epoch of baseline period "
 "(2004–2007)"
-msgstr ""
+msgstr "مجموع السكان المعرَّضين للجفاف في الحقبة الثانية من فترة خط الأساس (2004-2007)"
 
 #: ../../SO3.md:346
 msgid ""
 "Total population exposed to drought in third epoch of baseline period "
 "(2008–2011)"
-msgstr ""
+msgstr "مجموع السكان المعرَّضين للجفاف في الحقبة الثالثة من فترة خط الأساس (2008-2011)"
 
 #: ../../SO3.md:347
 msgid ""
 "Total population exposed to drought in fourth epoch of baseline period "
 "(2012–2015)"
-msgstr ""
+msgstr "مجموع السكان المعرَّضين للجفاف في الحقبة الرابعة من فترة خط الأساس (2012-2015)"
 
 #: ../../SO3.md:348
 msgid "Total population exposed to drought in the reporting period (2016–2019)"
-msgstr ""
+msgstr "مجموع السكان المعرَّضين للجفاف في فترة الإبلاغ (2016-2019)"
 
 #: ../../SO3.md:350
 msgid ""
 "These maps show the most extreme drought intensity class a population was"
 " exposed to within each epoch, as explained in Step 4."
-msgstr ""
+msgstr "تُظهر هذه الخرائط أقسى فئات شدة الجفاف التي تعرَّض لها السكان في كل حقبة، كما هو موضح في الخطوة 4."
 
 #: ../../SO3.md:352
 msgid ""
@@ -1081,19 +1080,19 @@ msgid ""
 "beneficial to report on special cases and issues, describing situations "
 "where values might be less reliable and providing the rationale to adopt "
 "a different methodology."
-msgstr ""
+msgstr "كما تُشجَّع الأطراف على تقديم سرديات حول المنهجية ومصادر البيانات ودقتها في حال كانت التقديرات مستمدة من البيانات الوطنية باستخدام حقل \"التعليقات العامة\". وسيكون من المفيد أيضاً الإبلاغ عن حالات ومشاكل خاصة، تصف المواقف التي قد تكون فيها القيم أقل موثوقية وتُقدِّم الأساس المنطقي لاعتماد منهجية مختلفة."
 
 #: ../../SO3.md:354
 msgid "3.2.4. Dependencies"
-msgstr ""
+msgstr "3-2-4 التبعيات"
 
 #: ../../SO3.md:356
 msgid "Drought exposure data relies on the SO 3-1 spatial outputs."
-msgstr ""
+msgstr "تعتمد بيانات التعرُّض للجفاف على المخرجات المكانية للهدف الاستراتيجي SO 3-1."
 
 #: ../../SO3.md:358
 msgid "3.2.5. Challenges"
-msgstr ""
+msgstr "3-2-5 التحديات"
 
 #: ../../SO3.md:362
 msgid ""
@@ -1107,7 +1106,7 @@ msgid ""
 "data available on the PRAIS 4 platform as default data. Parties will be "
 "notified when the challenge is solved and the forms pre-filled with the "
 "default data."
-msgstr ""
+msgstr "تُعرَض مجموعات البيانات الوطنية المصنَّفة حسب نوع الجنس في WorldPop على أنها عدة خطوط مسح فردية تُمثِل كل منها فئة عُمرية/جنسية في السنة. ويرقى هذا إلى كم كبير من البيانات المكانية بتنسيق Geotiff. ويلزم توفير القدرة في مجال معالجة بيانات خطوط المسح والحصول على الطاقة الحاسوبية المناسبة، مثل الخدمة السحابية، اللازمة لتخزين البيانات ومعالجتها، لا سيما للبلدان الكبيرة. وإنَّ اتفاقية الأمم المتحدة لمكافحة التصحر بصدد وضع إجراء لمعالجة بيانات خطوط المسح مسبقاً، مما سيُتيح في نهاية المطاف بيانات مصنَّفة حسب نوع الجنس على منصة نظام PRAIS 4 بوصفها بيانات افتراضية. وسيُخطَر الأطراف عندما تُحلّ هذه الصعوبة وتُملأ الاستمارات مسبقاً بالبيانات الافتراضية."
 
 #: ../../SO3.md:364
 msgid ""
@@ -1115,17 +1114,17 @@ msgid ""
 " national population estimates. The integration of global and national "
 "data might improve the quality and accuracy of the results but will "
 "require additional processing capacity and technical skills."
-msgstr ""
+msgstr "قد لا تكون نوعية البيانات العالمية ودقتها بالدقة الكافية بالنسبة إلى التقديرات السكانية الوطنية. وقد يؤدي إدماج البيانات العالمية والوطنية إلى تحسين نوعية النتائج ودقتها، ولكنه سيتطلب قدراً إضافياً من القدرة على المعالجة والمهارات التقنية."
 
 #: ../../SO3.md:366
 msgid "3.2.6. Summary (main actions)"
-msgstr ""
+msgstr "3-2-6 الموجز (الإجراءات الرئيسية)"
 
 #: ../../SO3.md:368
 msgid ""
 "Key actions for reporting population exposure to drought hazard are as "
 "follows:"
-msgstr ""
+msgstr "الإجراءات الرئيسية للإبلاغ عن تعرُّض السكان لمخاطر الجفاف هي كما يلي:"
 
 #: ../../SO3.md:370
 msgid ""
@@ -1133,14 +1132,14 @@ msgid ""
 "data or alternative national sources, provided they comply with the data "
 "specifications listed in table 20. If Parties decide to use alternative "
 "data sources, they should follow Steps 2 to 4 below:"
-msgstr ""
+msgstr "**اختيار مجموعة بيانات السكان**: يجوز للأطراف أن تُقرِر استخدام البيانات الافتراضية أو البيانات الوطنية البديلة، شريطة أن تمتثل لمواصفات البيانات المدرَجة في الجدول 20. وإذا قررت الأطراف استخدام مصادر بيانات بديلة، يجب أن تتبع الخطوات من 2 إلى 4 أدناه:"
 
 #: ../../SO3.md:372
 msgid ""
 "**Overlay population data on indicator SO 3-1 spatial output**: indicator"
 " SO 3-2 is calculated by overlaying the yearly population data on yearly "
 "hazard intensity data derived from the SO 3-1 analysis."
-msgstr ""
+msgstr "**تراكب بيانات السكان على الناتج المكاني للمؤشر SO 3-1**: يُحسَب المؤشر SO 3-2 عن طريق تراكب البيانات السكانية السنوية على بيانات شدة المخاطر السنوية المُستَمدة من تحليل الهدف الاستراتيجي SO 3-1."
 
 #: ../../SO3.md:374
 msgid ""
@@ -1149,7 +1148,7 @@ msgid ""
 "exposed to drought and the population exposed to each of the drought "
 "intensity classes are estimated and reported as a population count and "
 "percentage of the total population."
-msgstr ""
+msgstr "**حساب مجموع السكان وكذلك عدد الأشخاص ونسبتهم المئوية في كل فئة من فئات شدة الجفاف**: يُقدَّر مجموع السكان المعرَّضين للجفاف والسكان المعرَّضين لكل فئة من فئات شدة الجفاف ويبلَّغ عنهم على أنهم عدد سكاني ونسبة مئوية من مجموع السكان."
 
 #: ../../SO3.md:376
 msgid ""
@@ -1159,7 +1158,7 @@ msgid ""
 "intensity class over each four-year epoch, from 2000 to the reporting "
 "year, at the scale of the grid cell. These four-year periods should be "
 "consistent with the gridded spatial summaries reported at SO 3-1."
-msgstr ""
+msgstr "**إنشاء موجز مكاني شبكي للمؤشر SO 3-2 في حقب مدة كل منها أربع سنوات**: يوفّر الموجز المكاني لكل حقبة مدتها أربع سنوات معلومات عن عدد الأشخاص المعرَّضين لأقسى فئة من شدة الجفاف على مدى كل حقبة مدتها أربع سنوات، من عام 2000 إلى عام الإبلاغ، على نطاق الخلية الشبكية. ويجب أن تتسق فترات الأربع سنوات هذه مع الموجزات المكانية الشبكية المبلَّغ عنها في الهدف الاستراتيجي SO 3-1."
 
 #: ../../SO3.md:378
 msgid ""
@@ -1167,17 +1166,17 @@ msgid ""
 "of drought exposure, Parties may verify the accuracy and reliability of "
 "such an indicator in their countries before officially submitting "
 "estimates for UNCCD reporting."
-msgstr ""
+msgstr "**التحقّق من النتائج\": يمكن للأطراف، إدراكاً منها للقيود الخاصة بالقيم المقدَّرة للتعرُّض للجفاف، أن تتحقّق من دقة وموثوقية هذا المؤشر في بلدانها قبل تقديم تقديرات رسمية للإبلاغ إلى اتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO3.md:380
 msgid ""
 "**Generate reports**: once verified by the Parties, the data and "
 "supporting narrative should be officially submitted to the UNCCD."
-msgstr ""
+msgstr "**إنشاء التقارير**: بعد أن تتحقّق الأطراف من البيانات والسرديات الداعمة، يجب تقديمها رسمياً إلى اتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO3.md:382
 msgid "3.2.7. Further reading"
-msgstr ""
+msgstr "3-2-7 قراءات إضافية"
 
 #: ../../SO3.md:384
 msgid ""
@@ -1185,15 +1184,15 @@ msgid ""
 "Objective 3. Chapter 2. Level 2 Indicator "
 "(<https://www.unccd.int/publications/good-practice-guidance-national-"
 "reporting-unccd-strategic-objective-3-mitigate-adapt>)"
-msgstr ""
+msgstr "إرشادات الممارسات الجيدة للإبلاغ الوطني عن الهدف الاستراتيجي 3 لاتفاقية الأمم المتحدة لمكافحة التصحر. الفصل الثاني. مؤشر المستوى 2 (<https://www.unccd.int/publications/good-practice-guidance-national-reporting-unccd-strategic-objective-3-mitigate-adapt>)"
 
 #: ../../SO3.md:386
 msgid "3.3. SO 3-3 – Trends in the degree of drought vulnerability"
-msgstr ""
+msgstr "3-3 الهدف الاستراتيجي SO 3-3 - اتجاهات درجة قابلية التأثر بالجفاف"
 
 #: ../../SO3.md:388
 msgid "3.3.1. Introduction"
-msgstr ""
+msgstr "3-3-1 مقدمة"
 
 #: ../../SO3.md:390
 msgid ""
@@ -1203,26 +1202,26 @@ msgid ""
 "population of an individual country to drought: i) social, ii) economic "
 "and iii) infrastructural. The DVI does not, at present, address "
 "ecological or ecosystem vulnerability."
-msgstr ""
+msgstr "يَستند نهج اتفاقية الأمم المتحدة لمكافحة التصحر لتقييم قابلية التأثر بالجفاف إلى مؤشر مُركّب هو مؤشر قابلية التأثر بالجفاف (DVI)، الذي يتضمن ثلاثة عناصر تعكس قابلية سكان كل بلد من البلدان للتأثر بالجفاف: (1) من الناحية الاجتماعية، و(2) الاقتصادية، و(3) المتعلقة بالهياكل الأساسية. ولا يتناول مؤشر قابلية التأثر بالجفاف في الوقت الحاضر، قابلية التأثر من الناحية الإيكولوجية أو قابلية النظم الإيكولوجية للتأثر."
 
 #: ../../SO3.md:392
 msgid ""
 "The DVI may be derived through three alternative processes, corresponding"
 " to three increasing levels of computational complexity:"
-msgstr ""
+msgstr "قد يُستمَد مؤشر قابلية التأثر بالجفاف من خلال ثلاث عمليات بديلة، مطابقة لثلاثة مستويات متزايدة من التعقيد الحسابي:"
 
 #: ../../SO3.md:394
 msgid ""
 "Tier 1 Vulnerability Assessment (VA) – uses at least one factor per "
 "vulnerability component, represented by country-level metrics."
-msgstr ""
+msgstr "تقييم قابلية التأثر للمستوى 1 - يَستخدم عاملاً واحداً على الأقل لكل عنصر من عناصر قابلية التأثر، تُمثله مقاييس على المستوى القُطري."
 
 #: ../../SO3.md:396
 msgid ""
 "Tier 2 VA – uses more than one factor per vulnerability component, where "
 "the factors are represented by country-level metrics, with the inclusion "
 "of sex-disaggregated data (where applicable)."
-msgstr ""
+msgstr "تقييم قابلية التأثر للمستوى 2 - يَستخدم أكثر من عامل لكل عنصر من عناصر قابلية التأثر، حيث تُمثّل العوامل بمقاييس على المستوى القُطري، مع إدراج بيانات مصنَّفة حسب نوع الجنس (حسب الاقتضاء)."
 
 #: ../../SO3.md:398
 msgid ""
@@ -1230,13 +1229,13 @@ msgid ""
 "factors are represented by sub-national metrics (which may be gridded or "
 "disaggregated by administrative regions  ), with the inclusion of sex-"
 "disaggregated data (where applicable)."
-msgstr ""
+msgstr "تقييم قابلية التأثر للمستوى 3 - يَستخدم أكثر من عامل لكل عنصر من عناصر قابلية التأثر، حيث تُمثّل العوامل بمقاييس على المستوى دون الوطني (التي قد تكون مخططة شبكياً أو مفصَّلة حسب المناطق الإدارية)، مع إدراج بيانات مصنَّفة حسب نوع الجنس (حسب الاقتضاء)."
 
 #: ../../SO3.md:400
 msgid ""
 "Parties may opt for the approach best suited to their current capacity to"
 " collect and process data, subject to data availability."
-msgstr ""
+msgstr "قد تختار الأطراف النهج الأنسب لقدرتها الحالية على جمع البيانات ومعالجتها، رهناً بتوافر البيانات."
 
 #: ../../SO3.md:402
 msgid ""
@@ -1245,11 +1244,11 @@ msgid ""
 "facilitate the reporting process. This data is based on globally "
 "available datasets and should be used in the absence of more accurate "
 "data at national level."
-msgstr ""
+msgstr "تُزوِد اتفاقية الأمم المتحدة لمكافحة التصحر الأطراف بالبيانات الافتراضية المستمدة من مجموعة بيانات مؤشر قابلية التأثر بالجفاف العالمية لمركز المفوضية الأوروبية للبحوث المشتركة (JRC) لتيسير عملية الإبلاغ. وتَستنِد هذه البيانات إلى مجموعات البيانات المتاحة عالمياً ويجب استخدامها في حالة عدم وجود بيانات أكثر دقة على الصعيد الوطني."
 
 #: ../../SO3.md:404
 msgid "3.3.2. Prerequisites for reporting"
-msgstr ""
+msgstr "3-3-2 الشروط المسبقة للإبلاغ"
 
 #: ../../SO3.md:406
 msgid ""
@@ -1260,11 +1259,11 @@ msgid ""
 "manage the effects of drought in order to enhance resilience of "
 "vulnerable populations and ecosystems” detailing the methodology used to "
 "estimate drought vulnerability."
-msgstr ""
+msgstr "قراءة متعمقة للفصل الثالث من \"[إرشادات الممارسات الجيدة للإبلاغ الوطني عن الهدف الاستراتيجي 3 لاتفاقية الأمم المتحدة لمكافحة التصحر](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf): التخفيف من آثار الجفاف والتكيف معها وإدارتها من أجل تعزيز قدرة السكان والنظم الإيكولوجية المعرَّضة للخطر على الصمود \"حيث يُبيَن بالتفصيل المنهجية المستخدمة لتقدير قابلية التأثر بالجفاف."
 
 #: ../../SO3.md:408
 msgid "Data complying with the specifications listed in table 21."
-msgstr ""
+msgstr "البيانات المستوفية للمواصفات الواردة في الجدول 21."
 
 #: ../../SO3.md:410
 msgid ""
@@ -1275,22 +1274,22 @@ msgid ""
 "preferred to the default data. The key institution in this case is a "
 "country’s national statistical office, however universities and research "
 "centres may also provide valuable inputs."
-msgstr ""
+msgstr "مجموعة من الخبراء الوطنيين ترشحهم السلطات الوطنية رسمياً للتحقق من اتساق نتائج عملية الإبلاغ وفقاً للحالة في الميدان، أو لوضع منهجية مخصصة وتنفيذها لتقدير المؤشر SO 3-3 حيث تُفضَّل البيانات الوطنية على البيانات الافتراضية. ويُعدّ المكتب الإحصائي الوطني للبلد في هذه الحالة المؤسسة الرئيسية، ومع ذلك قد تُوفِّر الجامعات ومراكز البحوث أيضاً مُدخلات قيّمة."
 
 #: ../../SO3.md:412
 msgid "3.3.3. Reporting process and step-by-step procedure"
-msgstr ""
+msgstr "3-3-3 عملية الإبلاغ والإجراءات التدريجية"
 
 #: ../../SO3.md:414
 msgid ""
 "The step-by-step procedure for reporting is described in the following "
 "and applies to both the baseline and reporting periods. If the default "
 "data is used, Steps 2 to 4 are unnecessary."
-msgstr ""
+msgstr "يرد في ما يلي وصف للإجراءات التدريجية للإبلاغ وتنطبق على كل من فترتَي خط الأساس والإبلاغ. وإذا استُخدمت البيانات الافتراضية، تكون الخطوات من 2 إلى 4 غير ضرورية."
 
 #: ../../SO3.md:416
 msgid "Step 1: Select tier of vulnerability assessment based on data availability"
-msgstr ""
+msgstr "الخطوة 1: اختيار مستوى من تقييم قابلية التأثر استناداً إلى توافر البيانات"
 
 #: ../../SO3.md:418
 #, python-format
@@ -1305,14 +1304,14 @@ msgid ""
 "as critical to understanding vulnerability and due to their use for other"
 " reporting requirements such as SO 2 and the Sustainable Development "
 "Goals."
-msgstr ""
+msgstr "توفر عوامل قابلية التأثر التي أوصت بها اتفاقية الأمم المتحدة لمكافحة التصحر لاستخلاص مؤشر قابلية التأثر بالجفاف (الوارد في الشكل 3) لمحة عن قابلية التأثر بالجفاف من الناحية الاجتماعية والاقتصادية للطرف. واختِيرت العوامل الأساسية الثلاثة الموصى بها للحد الأدنى من تقييم قابلية التأثر للمستوى 1 - \"معدل معرفة القراءة والكتابة (⁦% o⁩النسبة المئوية للأشخاص الذين تبلغ أعمارهم 15 عامًا فأكثر)\" و\"نسبة السكان الذين يعيشون تحت خط الفقر الدولي\" و\"نسبة السكان الذين يستخدمون خدمات مياه الشرب المُدارة بأمان\" - لأن الخبراء حددوا أنها ضرورية لفهم قابلية التأثر ونظراً لاستخدامها لمتطلبات الإبلاغ الأخرى مثل الهدف الاستراتيجي SO 2 وأهداف التنمية المستدامة."
 
 #: ../../SO3.md:420
 msgid ""
 "_Figure 3. Social, economic, and infrastructural components and their "
 "associated factors recommended for calculating the Drought Vulnerability "
 "Index_ ![](/img/SO3_3_Decision_tree.jpg)"
-msgstr ""
+msgstr "_الشكل 3- العناصر الاجتماعية والاقتصادية والخاصة بالهياكل الأساسية والعوامل المرتبطة بها المُوصَى بها لحساب مؤشر قابلية التأثر بالجفاف_ ![](/img/SO3_3_Decision_tree.jpg)"
 
 #: ../../SO3.md:423
 msgid ""
@@ -1325,7 +1324,7 @@ msgid ""
 "Prevention and Preparedness (US$/Year/Capital)” and “Global map of "
 "Accessibility: Travel time to major cities”. The default DVI value "
 "represents the median DVI across the country for the period 2000–2018."
-msgstr ""
+msgstr "توفِّر اتفاقية الأمم المتحدة لمكافحة التصحر بيانات افتراضية مأخوذة من مجموعة بيانات مؤشر قابلية التأثر بالجفاف لمركز البحوث المشترك. وتشبه الطريقة المستخدمة في استخلاص مؤشر قابلية التأثر بالجفاف الطريقة المقدَّمة في هذا الدليل وفي \"إرشادات الممارسات الجيدة للإبلاغ الوطني عن الهدف الاستراتيجي 3 لاتفاقية الأمم المتحدة لمكافحة التصحر\"، ولكنها تعرِض بعض الاختلافات الرئيسية من حيث طريقة التسوية (انظر الخطوة 2) وعدد العوامل المدرجة. ويُستَخدم عاملان إضافيان في مؤشر قابلية التأثر بالجفاف الافتراضي: وهما \"الوقاية من الكوارث والاستعداد لها (دولار أمريكي/سنة/رأس مال)\" و\"الخريطة العالمية لإمكانية الوصول: وقت السفر إلى المدن الكبرى\". وتُمثِل القيمة الافتراضية لمؤشر قابلية التأثر بالجفاف مؤشر قابلية التأثر بالجفاف الوسيط في جميع أنحاء البلد للفترة من 2000 إلى 2018."
 
 #: ../../SO3.md:425
 msgid ""
@@ -1335,38 +1334,38 @@ msgid ""
 "move up the tiers of VA in order to increase the sensitivity of the DVI "
 "and improve the granularity of the assessment. The decision tree in "
 "figure 4 helps Parties select the tier of VA based on data availability."
-msgstr ""
+msgstr "يمكن للبلدان الأطراف التي ليس لديها بيانات مُتاحة لحساب الحد الأدنى من مؤشر قابلية التأثر بالجفاف للمستوى 1 أن تُبلِغ عن ذلك باستخدام البيانات الافتراضية لمؤشر قابلية التأثر بالجفاف. ومع ذلك، يُوصَى ببذل الجهود على مدى دورات الإبلاغ المتتالية لرفع مستويات تقييم قابلية التأثر من أجل زيادة حساسية مؤشر قابلية التأثر بالجفاف وتحسين دقة التقييم. يساعد مخطط تسلسل القرارات في الشكل 4 الأطرافَ على اختيار أفضل مستوى من تقييم قابلية التأثر بناءً على توافر البيانات."
 
 #: ../../SO3.md:427
 msgid ""
 "National/regional data products used to calculate the DVI should conform "
 "with the specifications listed in table 21."
-msgstr ""
+msgstr "يجب أن تتوافق نواتج البيانات الوطنية/الإقليمية المستخدمة لحساب مؤشر قابلية التأثر بالجفاف مع المواصفات الواردة في الجدول 21."
 
 #: ../../SO3.md:429
 msgid ""
 "_Figure 4. Decision tree to help Parties choose the best tier of "
 "vulnerability assessment for the SO 3-3 Indicator reporting according to "
 "data availability_ ![](/img/SO3_3b_Decision_tree.jpg)"
-msgstr ""
+msgstr "_الشكل 4- مخطط تسلسل القرارات لمساعدة الأطراف على اختيار أفضل مستوى من تقييم قابلية التأثير للإبلاغ عن المؤشر SO 3-3 حسب توافر البيانات_ ![](/img/SO3_3b_Decision_tree.jpg)"
 
 #: ../../SO3.md:432
 msgid "_DVI: Drought Vulnerability Index_{{br}} _VA: Vulnerability Assessment_"
-msgstr ""
+msgstr "_DVI: مؤشر قابلية التأثر بالجفاف_{{br}} _VA: مؤشر قابلية التأثر بالجفاف_"
 
 #: ../../SO3.md:440
 msgid "*__Table 21__. Data specifications for SO 3-3 Indicator*"
-msgstr ""
+msgstr "*__الجدول 21__. مواصفات البيانات للمؤشر SO 3-3*"
 
 #: ../../SO3.md:3
 msgid ""
 "Default data (Drought Vulnerability Index dataset produced by the Joint "
 "Research Centre)"
-msgstr ""
+msgstr "البيانات الافتراضية (مجموعة بيانات مؤشر قابلية التأثر بالجفاف التي أعدَّها مركز البحوث المشترك)"
 
 #: ../../SO3.md:7
 msgid "(Data needed to generate indicator SO 3-3 as described in Steps 2 to 4)"
-msgstr ""
+msgstr "(البيانات اللازمة لإنشاء المؤشر SO 3-3، كما هو موضَّح في الخطوات من 2 إلى 4)"
 
 #: ../../SO3.md:8
 msgid ""
@@ -1374,7 +1373,7 @@ msgid ""
 "(DVI) is drawn from various sources such as World Bank, Organisation for "
 "Economic Cooperation and Development, Food and Agriculture Organization "
 "of the United Nations, and Joint Research Centre."
-msgstr ""
+msgstr "تُستَمد بيانات المُدخلات المستخدمة لحساب مؤشر قابلية التأثر بالجفاف الافتراضي من مصادر مختلفة مثل البنك الدولي، ومنظمة التعاون والتنمية في الميدان الاقتصادي، ومنظمة الأمم المتحدة للأغذية والزراعة، ومركز البحوث المشترك."
 
 #: ../../SO3.md:9
 msgid ""
@@ -1383,57 +1382,57 @@ msgid ""
 "for National Reporting on UNCCD Strategic Objective "
 "3](https://www.unccd.int/sites/default/files/documents/2021-09"
 "/UNCCD_GPG_Strategic-Objective-3_2021.pdf)\"."
-msgstr ""
+msgstr "ترد مجموعات البيانات المتاحة مجاناً لحساب العوامل اللازمة لاستخلاص مؤشر قابلية التأثر بالجفاف في الجدول 14 من \"[إرشادات الممارسات الجيدة للإبلاغ الوطني عن الهدف الاستراتيجي 3 لاتفاقية الأمم المتحدة لمكافحة التصحر](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf)\"."
 
 #: ../../SO3.md:11
 msgid ""
 "Alternatively, if available, in-country datasets with higher spatial "
 "resolution and fewer gaps over the baseline and reporting period."
-msgstr ""
+msgstr "بدلاً من ذلك، إذا توافرت، مجموعات البيانات داخل البلد ذات الدقة المكانية الأعلى والفجوات الأقل على مدى فترة خط الأساس والإبلاغ."
 
 #: ../../SO3.md:14
 msgid "(DVI indicator resulting from the analysis described in Steps 2 to 4)"
-msgstr ""
+msgstr "(مؤشر قابلية التأثر بالجفاف الناتج عن التحليل المُبيَّن في الخطوات من 2 إلى 4)"
 
 #: ../../SO3.md:15
 msgid ""
 "2018 DVI for the baseline and the reporting period. Regions where "
 "droughts could be meaningless, such as deserts and cold areas, are "
 "masked."
-msgstr ""
+msgstr "مؤشر قابلية التأثر بالجفاف لعام 2018 لفترة خط الأساس والإبلاغ. وتُحجَب المناطق التي قد تكون فيها حالات الجفاف بلا معنى، مثل الصحارى والمناطق الباردة."
 
 #: ../../SO3.md:16
 msgid "Annual or near-annual DVI for the baseline and reporting periods."
-msgstr ""
+msgstr "مؤشر قابلية التأثر بالجفاف السنوي أو شبه السنوي لفترتَي خط الأساس والإبلاغ."
 
 #: ../../SO3.md:18
 msgid ""
 "Continuous, fractional scale from 0 to 1 but classification based on "
 "quantiles to group the vulnerability classes."
-msgstr ""
+msgstr "المقياس الكسري المستمر من 0 إلى 1 باستثناء التصنيف المُستنِد إلى الكميات لتجميع فئات قابلية التأثر بالجفاف."
 
 #: ../../SO3.md:19
 msgid "Continuous scale from 0 to 1."
-msgstr ""
+msgstr "المقياس المستمر من 0 إلى 1."
 
 #: ../../SO3.md:21
 msgid "Country level"
-msgstr ""
+msgstr "المستوى القُطري"
 
 #: ../../SO3.md:22
 msgid "National and/or sub-national levels"
-msgstr ""
+msgstr "الصعيدان الوطني و/أو دون الوطني"
 
 #: ../../SO3.md:475
 msgid "Step 2:  Factor normalization"
-msgstr ""
+msgstr "الخطوة 2: تسوية العوامل"
 
 #: ../../SO3.md:477
 msgid ""
 "In all tiers of VA, factors should be normalized before they can be "
 "compared and aggregated, as the vulnerability factors used are all "
 "measured using different units."
-msgstr ""
+msgstr "في جميع مستويات تقييم قابلية التأثر، يجب تسوية العوامل قبل مقارنتها وتجميعها، لأن عوامل قابلية التأثر تُقاس جميعها باستخدام وحدات مختلفة."
 
 #: ../../SO3.md:479
 msgid ""
@@ -1441,7 +1440,7 @@ msgid ""
 "values within the country using all historic data up to, and including, "
 "the reporting period. This provides the largest range possible, ensuring "
 "that the maximum and minimum values are representative for the country."
-msgstr ""
+msgstr "تُوصِي اتفاقية الأمم المتحدة لمكافحة التصحر بتسوية العوامل باستخدام القيم القصوى والدنيا داخل البلد باستخدام جميع البيانات السابقة حتى فترة الإبلاغ وما يشملها. ويُقدِم ذلك أكبر نطاق ممكن، بما يكفل تمثيل القيم القصوى والدنيا للبلد."
 
 #: ../../SO3.md:481
 msgid ""
@@ -1449,57 +1448,57 @@ msgid ""
 "range (i.e., the minimum and maximum values) should be recalculated, and "
 "if values on the reporting periods fall out outside the range, the factor"
 " should be re-normalized using the new range."
-msgstr ""
+msgstr "في كل مرة يتم فيها حساب مؤشر قابلية التأثر بالجفاف للإبلاغ عن المؤشر SO 3-3، يجب إعادة حساب نطاق العامل (أي القيم الدنيا والقصوى)، وإذا كانت القيم في فترات الإبلاغ واقعة خارج النطاق، يجب إعادة تسوية العامل باستخدام النطاق الجديد."
 
 #: ../../SO3.md:483
 msgid ""
 "Where there is a positive correlation/relationship between vulnerability "
 "and the factor[^3]  (i.e., if the factor value increases, vulnerability "
 "also increases), the data should be normalized using the equation below:"
-msgstr ""
+msgstr "وحيثما كان هناك ارتباط/علاقة إيجابية بين قابلية التأثير والعامل[^ 3] (أي أنه إذا زادت قيمة العامل، زادت قابلية التأثر كذلك)، يجب تسوية البيانات باستخدام المعادلة أدناه:"
 
 #: ../../SO3.md:485
 msgid "$Factor = \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
-msgstr ""
+msgstr "$العامل = \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 
 #: ../../SO3.md:489
 msgid "X{sub}`i` is the value of the considered factor in the year “i”"
-msgstr ""
+msgstr "X{sub}`i` هي قيمة العامل المدروس في السنة \"i\""
 
 #: ../../SO3.md:490
 msgid ""
 "X{sub}`min` is the minimum value of the considered factor observed in the"
 " entire time series"
-msgstr ""
+msgstr "X{sub}`min` هو الحد الأدنى لقيمة العامل المدروس المُلاحَظ في السلسلة الزمنية بأكملها"
 
 #: ../../SO3.md:491
 msgid ""
 "X{sub}`max` is the maximum value of the considered factor observed in the"
 " entire time series"
-msgstr ""
+msgstr "X{sub}`max` هو الحد الأقصى لقيمة العامل المدروس المُلاحَظ في السلسلة الزمنية بأكملها"
 
 #: ../../SO3.md:493
 msgid ""
 "In case of negative correlation/relationship between vulnerability and "
 "the factor, the equation is:"
-msgstr ""
+msgstr "في حالة الارتباط/العلاقة السلبية بين قابلية التأثر والعامل، تكون المعادلة:"
 
 #: ../../SO3.md:495
 msgid "$Factor = 1 - \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
-msgstr ""
+msgstr "$العامل = 1 - \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 
 #: ../../SO3.md:497
 msgid ""
 "After normalization, all factors have a value of between zero and one, "
 "relative to the historical maximum and minimum of the country."
-msgstr ""
+msgstr "بعد التسوية، تبلغ قيمة جميع العوامل ما بين الصفر وواحد، نسبة إلى الحد الأقصى والحد الأدنى السابقين للبلد."
 
 #: ../../SO3.md:499
 msgid ""
 "Normalization of sex-disaggregated data for Tier 1 and 2 VA uses the same"
 " formulas described above, applied once for each piece of sex-related "
 "data."
-msgstr ""
+msgstr "تَستخدِم تسويةُ البيانات المصنَّفة حسب نوع الجنس بالنسبة إلى تقييم قابلية التأثر للمستويين1 و2 صيغَ المعادلات المُبيّنة أعلاه نفسَها، التي تُطبَق مرة واحدة على كل جزء من البيانات المتصلة بنوع الجنس."
 
 #: ../../SO3.md:501
 msgid ""
@@ -1507,7 +1506,7 @@ msgid ""
 "applied to the data from all spatial units (e.g., administrative units) "
 "combined, and the factor range should reflect the minimum and maximum "
 "values of the whole country."
-msgstr ""
+msgstr "بالنسبة إلى البيانات على الصعيد دون الوطني (تقييم قابلية التأثر في المستوى 3)، يجب تطبيق الحساب على البيانات من جميع الوحدات المكانية (مثل الوحدات الإدارية) مجتمعة، ويجب أن يعكس نطاق العوامل القيم الدنيا والقصوى للبلد بأكمله."
 
 #: ../../SO3.md:503
 msgid ""
@@ -1516,11 +1515,11 @@ msgid ""
 "Normalization at the global scale means the resulting vulnerability "
 "assessment is less sensitive to the local/in-country situation than when "
 "the national range is used."
-msgstr ""
+msgstr "بالنسبة إلى مؤشر قابلية التأثر الافتراضي، جرت تسوية كل عامل باستخدام القيم القصوى والدنيا العالمية، بدلاً من النطاقات السابقة للبلد المحدد. وتعني التسوية على الصعيد العالمي أنّ تقييم قابلية التأثر الناتجة عن ذلك يكون أقل فاعلية للحالة المحلية/القُطرية مما يكون عليه عند استخدام النطاق الوطني."
 
 #: ../../SO3.md:507
 msgid "Step 3: Derive the Drought Vulnerability Index components"
-msgstr ""
+msgstr "الخطوة 3: اشتقاق عناصر مؤشر قابلية التأثر بالجفاف"
 
 #: ../../SO3.md:509
 msgid ""
@@ -1530,44 +1529,44 @@ msgid ""
 "corresponding component. Instead, Tier 2 and Tier 3 VAs require the "
 "calculation of the arithmetic mean of the normalized factors to derive "
 "the aggregated value of each component."
-msgstr ""
+msgstr "تهدف هذه الخطوة إلى اشتقاق قيم مُجمَّعة لكل عنصر من عناصر مؤشر قابلية التأثر بالجفاف الثلاثة. وفي ما يتعلق بالأطراف التي تتبنى نهج تقييم قابلية التأثر في المستوى 1، تُمثِل قيم العامل الذي جرت تسويته في الخطوة 2 أيضاً العنصر المقابل. وبدلاً من ذلك، تتطلب التقييمات في المستويين 2 و3 حساب المتوسط الحسابي للعوامل التي جرت تسويتها لاشتقاق القيمة المجمَّعة لكل عنصر."
 
 #: ../../SO3.md:511
 msgid ""
 "The result of this step is a single value for each component and each "
 "geographic unit of the country. If sex-disaggregated data is used, "
 "separate values for male and female are produced for each component."
-msgstr ""
+msgstr "تتمثل النتيجة التي تمخضت عنها هذه الخطوة في قيمة واحدة لكل عنصر ولكل وحدة جغرافية للبلد. وفي حالة استخدام بيانات مصنَّفة حسب نوع الجنس، تُنتَج قيم منفصلة لكلا الجنسين."
 
 #: ../../SO3.md:513
 msgid ""
 "Parties may assign weights to the vulnerability factors if their relative"
 " importance and relevance is known. It is recommended to apply the "
 "weights to the vulnerability factors and not to the three components."
-msgstr ""
+msgstr "يمكن للأطراف أن تخصص أوزاناً لعوامل قابلية التأثر في حال كانت أهميتها النسبية وصلتها معروفتين. ويُوصَى بتطبيق الأوزان على عوامل قابلية التأثر وليس على العناصر الثلاثة."
 
 #: ../../SO3.md:515
 msgid "Step 4:  Calculate the Drought Vulnerability Index"
-msgstr ""
+msgstr "الخطوة 4: حساب مؤشر قابلية التأثر بالجفاف"
 
 #: ../../SO3.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO3-3.T1"
-msgstr ""
+msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: جدول الهدف الاستراتيجي SO3-3.T1"
 
 #: ../../SO3.md:521
 msgid ""
 "In all tiers of VA, the three components (C{sub}`social`, "
 "C{sub}`economic` and C{sub}`infrastructural`) derived in the previous "
 "steps are used to produce the DVI by calculating their mean value."
-msgstr ""
+msgstr "في جميع مستويات تقييم قابلية التأثر، تُستَخدم العناصر الثلاث (C{sub}`الاجتماعية`، وC{sub}`الاقتصادية` وC{sub}`المتعلقة بالهياكل الأساسية`) المشتقة في الخطوات السابقة للحصول على مؤشر قابلية التأثر بالجفاف عن طريق حساب متوسط قيمتها."
 
 #: ../../SO3.md:523
 msgid "$DVI = \\frac{C_{social} + C_{economic} + C_{infrastructural}}{3}$"
-msgstr ""
+msgstr "$مؤشر قابلية التأثر بالجفاف = \\frac{C_{اجتماعي} + C_{اقتصادي} + C_{متعلق بالهياكل الأساسية}}{3}$"
 
 #: ../../SO3.md:525
 msgid "The DVI ranges from 0 to 1, with 1 being the most vulnerable."
-msgstr ""
+msgstr "يتراوح مؤشر قابلية التأثر بالجفاف من 0 إلى 1، حيث 1 هو الأكثر قابلية للتأثر."
 
 #: ../../SO3.md:527
 msgid ""
@@ -1579,7 +1578,7 @@ msgid ""
 "populations. For sub-national or gridded components under Tier 3 VA, the "
 "DVI is to be calculated for the smallest spatial unit separately for "
 "males, females and total populations."
-msgstr ""
+msgstr "سيسفر تقييم قابلية التأثر في المستوى 1 عن مؤشر واحد لقابلية التأثر بالجفاف على المستوى القُطري لكل فترة إبلاغ. وفي ما يتعلق بتقييمات قابلية التأثر في المستويين 2 و3، حيث تُستَخدم عوامل مصنَّفة حسب نوع الجنس، يُوصَى أيضاً بحساب مؤشر قابلية التأثر بالجفاف الخاص بنوع الجنس، بالإضافة إلى مؤشر قابلية التأثر بالجفاف على الصعيد القُطري. ومن ثم، سيبلّغ الطرف على الأقل عن ثلاث قيم لمؤشر قابلية التأثر بالجفاف لكل فترة إبلاغ، أي لمجموع السكان من الإناث والذكور. وفي ما يتصل بالعناصر دون الوطنية أو المخططة شبكياً في إطار تقييم قابلية التأثر في المستوى 3، يُحسَب مؤشر قابلية التأثر بالجفاف لأصغر وحدة مكانية بشكل منفصل للذكور والإناث ومجموع السكان.\n"
 
 #: ../../SO3.md:531
 msgid ""
@@ -1590,7 +1589,7 @@ msgid ""
 " the appropriateness of the default factors and add relevant ones as "
 "needed. The weighting scheme should also be thoroughly considered to "
 "improve results at national and subnational level."
-msgstr ""
+msgstr "لم يجرِ التحقق بعد من صحة هذه الطريقة على المستوى المحلي أو الوطني، لذا، فإنها قد لا تُحدِّد بدقة قابلية التأثر على هذه المستويات، سواء من حيث العوامل الأكثر صلة بكل بلد أو مخطط ترجيح العوامل الأكثر فاعلية. ولذلك، قد تتحقّق الأطراف من ملاءمة العوامل الافتراضية وإضافة العوامل ذات الصلة حسب الحاجة. ويجب أيضاً النظر بدقة في مخطط الترجيح لتحسين النتائج على الصعيدين الوطني ودون الوطني."
 
 #: ../../SO3.md:533
 msgid ""
@@ -1598,7 +1597,7 @@ msgid ""
 "should be involved in the determination of the factors to be used to "
 "calculate the components, in order to develop a country-specific and more"
 " effective index."
-msgstr ""
+msgstr "علاوة على ذلك، يتعين إشراك الفئات السكانية الأكثر قابلية للتأثر والفئات الممثلة تمثيلاً ناقصاً في تحديد العوامل التي ستُستَخدم في حساب العناصر، بغية وضع مؤشر قُطري أكثر فاعلية."
 
 #: ../../SO3.md:537
 msgid ""
@@ -1609,7 +1608,7 @@ msgid ""
 "PRAIS 4 platform. Observed changes and their interpretation may be "
 "described in the “Qualitative Assessment” table of the PRAIS 4 platform "
 "(table SO3-3.T2)."
-msgstr ""
+msgstr "بمجرد أن تتحقّق الأطراف من تقديرات قيم قابلية التأثر في فترتَي الإبلاغ وخط الأساس، يجب تقديمها رسمياً إلى اتفاقية الأمم المتحدة لمكافحة التصحر. ويجب الإبلاغ عن المعلومات المتعلقة بالطريقة المستخدمة (المستوى المختار والعوامل لكل عنصر) باستخدام حقل \"الطريقة\" المخصص في منصة نظام PRAIS 4. ويمكن وصف التغييرات الملحوظة وتفسيرها في جدول \"التقييم النوعي\" لمنصة نظام PRAIS 4 (جدول SO3-3.T2)."
 
 #: ../../SO3.md:539
 msgid ""
@@ -1617,15 +1616,15 @@ msgid ""
 "representing vulnerability to drought for the baseline/reporting period "
 "can be uploaded to the PRAIS 4 platform. More specifically, it is "
 "recommended to upload the following maps:"
-msgstr ""
+msgstr "يمكن تحميل الخرائط المستحدَثة على موقع Trends.Earth باستخدام البيانات الوطنية في إطار تقييم قابلية التأثر في المستوى 3 والتي تمثل قابلية التأثر بالجفاف لفترة خط الأساس/الإبلاغ، على منصة نظام PRAIS 4. وعلى نحو أكثر تحديداً، يُوصَى بتحميل الخرائط التالية:"
 
 #: ../../SO3.md:541
 msgid "Drought Vulnerability in the baseline period (2000–2015)"
-msgstr ""
+msgstr "قابلية التأثر بالجفاف في فترة خط الأساس (2000–2015)"
 
 #: ../../SO3.md:542
 msgid "Drought Vulnerability in the reporting period (2016–2019)"
-msgstr ""
+msgstr "قابلية التأثر بالجفاف في فترة الإبلاغ (2016–2019)"
 
 #: ../../SO3.md:544
 msgid ""
@@ -1634,42 +1633,42 @@ msgid ""
 "Comment” field. It would also be beneficial to report on special cases "
 "and issues, describing situations where values might be less reliable and"
 " providing the rationale to include different factors."
-msgstr ""
+msgstr "يمكن تقديم معلومات عن مصادر البيانات ودقتها وأي مخطط للترجيح منطبق على عوامل قابلية التأثر باستخدام حقل \"التعليقات العامة\". وسيكون من المفيد أيضاً الإبلاغ عن حالات ومشاكل خاصة، تصف المواقف التي قد تكون فيها القيم أقل موثوقية وتُقدِم الأساس المنطقي لإدخال عوامل مختلفة."
 
 #: ../../SO3.md:546
 msgid "3.3.4. Dependencies"
-msgstr ""
+msgstr "3-3-4 التبعيات"
 
 #: ../../SO3.md:548
 msgid "SO 2-1 and SO 2-2 can be used for the calculation of SO 3-3."
-msgstr ""
+msgstr "يمكن استخدام الهدفين الاستراتيجيين SO 2-1 وSO 2-2 لحساب الهدف الاستراتيجي SO 3-3."
 
 #: ../../SO3.md:550
 msgid "3.3.5. Challenges"
-msgstr ""
+msgstr "3-3-5 التحديات"
 
 #: ../../SO3.md:554
 msgid ""
 "The availability of data for the considered factors varies substantially "
 "from country to country and the complete set of recommended data might "
 "not be accessible everywhere."
-msgstr ""
+msgstr "يتفاوت توافر البيانات للعوامل المدروسة تفاوتاً كبيراً من بلد إلى آخر، وقد لا يمكن الوصول إلى المجموعة الكاملة من البيانات المُوصَى بها في كل مكان."
 
 #: ../../SO3.md:556
 msgid "Methodological approach"
-msgstr ""
+msgstr "الأسلوب المنهجي"
 
 #: ../../SO3.md:558
 msgid ""
 "The reliability of the DVI method at national and sub-national levels is "
 "still to be verified."
-msgstr ""
+msgstr "لا يزال يتعين التحقّق من موثوقية طريقة مؤشر قابلية التأثر بالجفاف على الصعيدين الوطني ودون الوطني."
 
 #: ../../SO3.md:560
 msgid ""
 "Due to the methods used for factor normalization (i.e., using in-country "
 "historic data), DVI values should not be compared between countries."
-msgstr ""
+msgstr "نظراً للطرق المستخدمة في تسوية العوامل (أي باستخدام البيانات القُطرية السابقة)، يجب ألا تُقارَن قيم مؤشر قابلية التأثر بالجفاف بين البلدان."
 
 #: ../../SO3.md:562
 msgid ""
@@ -1677,17 +1676,17 @@ msgid ""
 " DVI may reflect the efficacy of drought mitigation and adaptation "
 "policies, but they may also reveal the impacts of social and economic "
 "changes disconnected from drought management measures."
-msgstr ""
+msgstr "على افتراض استخدام منهجية متسقة بمرور الوقت، قد تعكس التغييرات في مؤشر قابلية التأثر بالجفاف فاعلية سياسات التخفيف من شدة الجفاف والتكيف معه، ولكنها قد تكشف أيضاً عن آثار التغيرات الاجتماعية والاقتصادية المنفصلة عن تدابير إدارة الجفاف."
 
 #: ../../SO3.md:564
 msgid "3.3.6. Summary (main actions)"
-msgstr ""
+msgstr "3-3-6 الموجز (الإجراءات الرئيسية)"
 
 #: ../../SO3.md:566
 msgid ""
 "Key actions for reporting population vulnerable to drought hazard are as "
 "follows:"
-msgstr ""
+msgstr "الإجراءات الرئيسية للإبلاغ عن السكان المعرَّضين لخطر الجفاف هي كما يلي:"
 
 #: ../../SO3.md:568
 msgid ""
@@ -1698,28 +1697,28 @@ msgid ""
 "used to calculate the DVI should comply with the specifications listed in"
 " table 21. If Parties use national/regional data products, they should "
 "follow Steps 2 to 4 below:"
-msgstr ""
+msgstr "**اختيار مستوى تقييم قابلية التأثر استناداً إلى توافر البيانات**: يُشجَّع الأطراف على اختيار أحد المستويات الثلاثة لتقييم قابلية التأثر استناداً إلى توافر البيانات. وفي حالة عدم وجود بيانات لحساب الحد الأدنى من تقييم قابلية التأثر في المستوى 1، يُمكِن للأطراف استخدام البيانات الافتراضية. ويجب أن تمتثل نواتج البيانات الوطنية/الإقليمية المستخدمة لحساب مؤشر قابلية التأثر بالجفاف للمواصفات الواردة في الجدول 21. وإذا قررت الأطراف استخدام نواتج البيانات الوطنية/الإقليمية، يجب عليها أن تتبع الخطوات من 2 إلى 4 أدناه:"
 
 #: ../../SO3.md:570
 msgid ""
 "**Factor normalization**: factors for each vulnerability component should"
 " be normalized before they can be compared and aggregated, as the "
 "vulnerability factors used are all measured using different units."
-msgstr ""
+msgstr "**تسوية العوامل**: يجب تسوية العوامل لكل عنصر من عناصر قابلية التأثر قبل أن يتسنى مقارنتها وتجميعها، لأن عوامل قابلية التأثر المستخدمة تُقاس جميعها باستخدام وحدات مختلفة."
 
 #: ../../SO3.md:572
 msgid ""
 "**Derive the DVI components**: the aggregated values for each of the "
 "three DVI components are calculated as the arithmetic mean of the "
 "normalized factors."
-msgstr ""
+msgstr "**اشتقاق عناصر مؤشر قابلية التأثر بالجفاف**: تُحسَب القيم الإجمالية لكل عنصر من العناصر الثلاثة لمؤشر قابلية التأثر بالجفاف على أنها الوسيلة الحسابية للعوامل التي سُويت."
 
 #: ../../SO3.md:574
 msgid ""
 "**Calculate the DVI**: the three components – social, economic and "
 "infrastructural – derived in the previous steps are used to produce the "
 "DVI by calculating their mean value."
-msgstr ""
+msgstr "**حساب مؤشر قابلية التأثر بالجفاف**: تُستَخدم العناصر الثلاثة - الاجتماعية والاقتصادية والمتعلقة بالهياكل الأساسية - المشتقة في الخطوات السابقة للحصول على مؤشر قابلية التأثر بالجفاف عن طريق حساب متوسط قيمتها."
 
 #: ../../SO3.md:576
 msgid ""
@@ -1727,11 +1726,11 @@ msgid ""
 " been validated at the local or national scale, Parties may verify the "
 "appropriateness of the default factors and add relevant ones as needed "
 "before officially submitting estimates for UNCCD reporting."
-msgstr ""
+msgstr "**التحقّق من النتائج**: إدراكاً منها لحقيقة أنه لم يجرِ التحقق بعد من طريقة مؤشر قابلية التأثر بالجفاف على الصعيدين المحلي أو الوطني، يُمكِن للأطراف أن تتحقّق من مدى ملاءمة العوامل الافتراضية وأن تضيف العوامل ذات الصلة حسب الحاجة قبل تقديم التقديرات رسمياً للإبلاغ إلى اتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO3.md:580
 msgid "3.3.7. Further reading"
-msgstr ""
+msgstr "3-3-7 قراءات إضافية"
 
 #: ../../SO3.md:582
 msgid ""
@@ -1739,14 +1738,14 @@ msgid ""
 "Objective 3. Chapter 3. Level 3 Indicator "
 "(<https://www.unccd.int/sites/default/files/documents/2021-09"
 "/UNCCD_GPG_Strategic-Objective-3_2021.pdf>)."
-msgstr ""
+msgstr "إرشادات الممارسات الجيدة للإبلاغ الوطني عن الهدف الاستراتيجي 3 لاتفاقية الأمم المتحدة لمكافحة التصحر. الفصل الثالث. مؤشر المستوى 3 (<https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf>)."
 
 #: ../../SO3.md:9
 msgid ""
 "\"UNCCD. 1994. Article 1 of the Convention Text: "
 "<http://www2.unccd.int/sites/default/files/relevant-"
 "links/2017-01/UNCCD_Convention_ENG_0.pdf> \""
-msgstr ""
+msgstr "\"اتفاقية الأمم المتحدة لمكافحة التصحر. 1994. المادة 1 من نص الاتفاقية: <http://www2.unccd.int/sites/default/files/relevant-links/2017-01/UNCCD_Convention_ENG_0.pdf> \""
 
 #: ../../SO3.md:15
 msgid ""
@@ -1755,550 +1754,11 @@ msgid ""
 " Global Multi-Hazard Alert System (GMAS) framework, will provide methods "
 "on how a multitude of drought indices can be translated onto a harmonized"
 " legend of drought classes.\""
-msgstr ""
+msgstr "سيوفر \"النظام العالمي لتصنيف الجفاف ((GDCS) المعروف سابقاً باسم مؤشر الجفاف العالمي أو (GDI))، الذي تطوره المنظمة العالمية للأرصاد الجوية حالياً من خلال إطار النظام العالمي للإنذار بالأخطار المتعددة (GMAS)، أساليب حول الكيفية التي يمكن بها ترجمة مؤشرات جفاف متعددة إلى قائمة تفسيرية متناسقة لفئات الجفاف\"."
 
 #: ../../SO3.md:505
 msgid ""
 "See Table 13 of the Good Practice Guidance for National Reporting on "
 "UNCCD Strategic Objective 3 indicating relationship of the 13 recommended"
 " factors with vulnerability"
-msgstr ""
-
-#~ msgid "_Step 1: Select precipitation dataset_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "_Figure 1. Decision tree to help "
-#~ "Parties chose the best precipitation "
-#~ "data source to derive indicator SO "
-#~ "3-1_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "![](/img/SO3_Decision_tree.jpg \"GPCC: Global "
-#~ "Precipitation Climatology Centre SPI: "
-#~ "Standardized Precipitation Index CHIRPS: "
-#~ "Climate Hazards Group InfraRed Precipitation"
-#~ " with Stations \")"
-#~ msgstr ""
-
-#~ msgid "_Table 18. Data Specifications for SO 3-1 indicator_"
-#~ msgstr ""
-
-#~ msgid "**Table**"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "_* As stated in Step 3, the "
-#~ "December SPI-12 values represent the "
-#~ "precipitation deficits (or excesses) over "
-#~ "the Gregorian (January–December) calendar "
-#~ "year._"
-#~ msgstr ""
-
-#~ msgid "_Step 2:  Calculate the Standardized Precipitation Index_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "_Step 3: Identify the drought intensity"
-#~ " class of each grid cell based "
-#~ "on the calculated Standardized Precipitation"
-#~ " Index value_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "_Table 19.  Standardized Precipitation Index"
-#~ " (SPI) drought intensity classes_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "(i)\tProject the drought intensity class"
-#~ " grid into a suitable equal area "
-#~ "projection (e.g., Mollweide) to obtain "
-#~ "the cells’ area in km2."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "(ii)\tCombine all cells’ area in a"
-#~ " given drought class to get the "
-#~ "total area under each drought intensity"
-#~ " class."
-#~ msgstr ""
-
-#~ msgid "_Step 4:  Calculate proportion of land under drought_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The proportion of land in each "
-#~ "drought intensity class is calculated "
-#~ "for each reporting year as a "
-#~ "percentage of the total land area.  "
-#~ "For each of the SPI-12 grids in"
-#~ " the baseline and reporting period, "
-#~ "the number of cells falling under "
-#~ "each of the SPI drought intensity "
-#~ "classes is counted (cellCount). Then, "
-#~ "for each reporting year, the percentage"
-#~ " of the total land area in each"
-#~ " drought intensity class is calculated. "
-#~ "The formula is as follows:"
-#~ msgstr ""
-
-#~ msgid "Where:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "“cellCount” is the number of pixels "
-#~ "under a drought intensity class in "
-#~ "one year “%cellCount” is the proportion"
-#~ " of land under the related drought"
-#~ " intensity class “i” is the drought"
-#~ " intensity class “j” is the reporting"
-#~ " year “Total number of cells’” is "
-#~ "all the grid cells within the "
-#~ "country Party’s land area."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "_Step 5:  Create a gridded spatial "
-#~ "summary for the baseline and reporting"
-#~ " periods_"
-#~ msgstr ""
-
-#~ msgid "_Step 6: Verify the results_"
-#~ msgstr ""
-
-#~ msgid "_Step 7: Generate reports_"
-#~ msgstr ""
-
-#~ msgid "_Data availability and quality_"
-#~ msgstr ""
-
-#~ msgid "_Limitations of the SPI-based estimates_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "1.**Select precipitation dataset**: Parties "
-#~ "may decide to use the default data"
-#~ " or alternative national sources, provided"
-#~ " they comply with the data "
-#~ "specifications listed in table 18. If"
-#~ " Parties decide to use alternative "
-#~ "data sources, they should follow Steps"
-#~ " 2 to 5 below:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Good Practice Guidance for National "
-#~ "Reporting on UNCCD Strategic Objective "
-#~ "3. Chapter 1. Level 1 Indicator "
-#~ "(https://www.unccd.int/publications/good-practice-"
-#~ "guidance-national-reporting-unccd-strategic-"
-#~ "objective-3-mitigate-adapt)"
-#~ msgstr ""
-
-#~ msgid "_Step 1: Select the population dataset_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "_Figure 2. Decision tree to help "
-#~ "Parties choose the best population data"
-#~ " source to derive indicator SO 3-2_"
-#~ msgstr ""
-
-#~ msgid "![](/img/SO3_2_Decision_tree.jpg)"
-#~ msgstr ""
-
-#~ msgid "_Table 20. Data Specifications for SO3-2 Indicator_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "_Step 2:  Overlay gridded population "
-#~ "data with indicator SO 3-1 spatial "
-#~ "output_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Population and drought hazard intensity "
-#~ "data should have the same coordinate "
-#~ "reference system and projection, which "
-#~ "should be consistent across the "
-#~ "reporting periods.   _Step 3: Calculate "
-#~ "the total population and the number "
-#~ "and percentage of people within each "
-#~ "drought intensity class_"
-#~ msgstr ""
-
-#~ msgid "_Step 4:  Create a gridded spatial summary in four-year epochs_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Similarly, baseline exposure summary spatial"
-#~ " data products are generated for each"
-#~ " of the four-year baseline periods"
-#~ " (i.e., 2000–2003, 2004–2007, 2008–2011 and"
-#~ " 2012–2015) by overlaying the most "
-#~ "recent population data of each group "
-#~ "of years on the output generated "
-#~ "for indicator SO 3-1 in Step 5."
-#~ "  These gridded spatial summaries give "
-#~ "an indication of the number of "
-#~ "people exposed to the most extreme "
-#~ "drought intensity class in four-year "
-#~ "epochs."
-#~ msgstr ""
-
-#~ msgid "_Step 5:  Verify the results_"
-#~ msgstr ""
-
-#~ msgid "_Step 6: Generate reports_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Good Practice Guidance for National "
-#~ "Reporting on UNCCD Strategic Objective "
-#~ "3. Chapter 2. Level 2 Indicator "
-#~ "(https://www.unccd.int/publications/good-practice-"
-#~ "guidance-national-reporting-unccd-strategic-"
-#~ "objective-3-mitigate-adapt)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "_Step 1: Select tier of vulnerability"
-#~ " assessment based on data availability_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "_Figure 3. Social, economic, and "
-#~ "infrastructural components and their "
-#~ "associated factors recommended for calculating"
-#~ " the Drought Vulnerability Index_"
-#~ msgstr ""
-
-#~ msgid "![](/img/SO3_3_Decision_tree.jpg)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "_Figure 4. Decision tree to help "
-#~ "Parties choose the best tier of "
-#~ "vulnerability assessment for the SO 3-3"
-#~ " Indicator reporting according to data "
-#~ "availability_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "![](/img/SO3_3b_Decision_tree.jpg \"DVI: Drought "
-#~ "Vulnerability Index VA: Vulnerability "
-#~ "Assessment \")"
-#~ msgstr ""
-
-#~ msgid "_Table 21. Data specifications for SO3-3 Indicator_"
-#~ msgstr ""
-
-#~ msgid "_Step 2:  Factor normalization_"
-#~ msgstr ""
-
-#~ msgid "Factor =  (Xi - Xmin)/(Xmax - Xmin)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Where: Xi is the value of the "
-#~ "considered factor in the year “i” "
-#~ "Xmin is the minimum value of the"
-#~ " considered factor observed in the "
-#~ "entire time series Xmax is the "
-#~ "maximum value of the considered factor"
-#~ " observed in the entire time series"
-#~ msgstr ""
-
-#~ msgid "Factor = 1 - ((Xi - Xmin)/(Xmax - Xmin))"
-#~ msgstr ""
-
-#~ msgid "_Step 3: Derive the Drought Vulnerability Index components_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Parties may assign weights to the "
-#~ "vulnerability factors if their relative "
-#~ "importance and relevance is known. It"
-#~ " is recommended to apply the weights"
-#~ " to the vulnerability factors and not"
-#~ " to the three components.   _Step 4:"
-#~ "  Calculate the Drought Vulnerability "
-#~ "Index_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In all tiers of VA, the three "
-#~ "components (Csocial, Ceconomic and "
-#~ "Cinfrastructural) derived in the previous "
-#~ "steps are used to produce the DVI"
-#~ " by calculating their mean value. DVI"
-#~ " = (Csocial + Ceconomic + "
-#~ "Cinfrastructural) / 3"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Good Practice Guidance for National "
-#~ "Reporting on UNCCD Strategic Objective "
-#~ "3. Chapter 3. Level 3 Indicator "
-#~ "(https://www.unccd.int/sites/default/files/documents/2021-09"
-#~ "/UNCCD_GPG_Strategic-Objective-3_2021.pdf)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "\"UNCCD. 1994. Article 1 of the "
-#~ "Convention Text: http://www2.unccd.int/sites/default/files"
-#~ "/relevant-links/2017-01/UNCCD_Convention_ENG_0.pdf \""
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Figure 1. Decision tree to help "
-#~ "Parties chose the best precipitation "
-#~ "data source to derive indicator SO "
-#~ "3-1"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Figure 2. Decision tree to help "
-#~ "Parties choose the best population data"
-#~ " source to derive indicator SO 3-2"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Figure 3. Social, economic, and "
-#~ "infrastructural components and their "
-#~ "associated factors recommended for calculating"
-#~ " the Drought Vulnerability Index"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Figure 4. Decision tree to help "
-#~ "Parties choose the best tier of "
-#~ "vulnerability assessment for the SO 3-3"
-#~ " Indicator reporting according to data "
-#~ "availability"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The proportion of land in each "
-#~ "drought intensity class is calculated "
-#~ "for each reporting year as a "
-#~ "percentage of the total land area. "
-#~ "For each of the SPI-12 grids in"
-#~ " the baseline and reporting period, "
-#~ "the number of cells falling under "
-#~ "each of the SPI drought intensity "
-#~ "classes is counted (cellCount). Then, "
-#~ "for each reporting year, the percentage"
-#~ " of the total land area in each"
-#~ " drought intensity class is calculated. "
-#~ "The formula is as follows:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "An in-depth reading of chapter 2"
-#~ " of the “Good Practice Guidance for"
-#~ " National Reporting on UNCCD Strategic "
-#~ "Objective 3: To mitigate, adapt to, "
-#~ "and manage the effects of drought "
-#~ "in order to enhance resilience of "
-#~ "vulnerable populations and ecosystems” "
-#~ "detailing the methodology used to "
-#~ "estimate drought exposure."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Similarly, baseline exposure summary spatial"
-#~ " data products are generated for each"
-#~ " of the four-year baseline periods"
-#~ " (i.e., 2000–2003, 2004–2007, 2008–2011 and"
-#~ " 2012–2015) by overlaying the most "
-#~ "recent population data of each group "
-#~ "of years on the output generated "
-#~ "for indicator SO 3-1 in Step 5."
-#~ " These gridded spatial summaries give "
-#~ "an indication of the number of "
-#~ "people exposed to the most extreme "
-#~ "drought intensity class in four-year "
-#~ "epochs."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Parties are also encouraged to submit"
-#~ " narratives on the methodology, data "
-#~ "sources and data accuracy in the "
-#~ "event that the estimates are derived "
-#~ "from national data using the “General"
-#~ " Comment” field. It would also be "
-#~ "beneficial to report on special cases"
-#~ " and issues, describing situations where"
-#~ " values might be less reliable and"
-#~ " providing the rationale to adopt a"
-#~ " different methodology"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "An in-depth reading of chapter 3"
-#~ " of the “Good Practice Guidance for"
-#~ " National Reporting on UNCCD Strategic "
-#~ "Objective 3: To mitigate, adapt to, "
-#~ "and manage the effects of drought "
-#~ "in order to enhance resilience of "
-#~ "vulnerable populations and ecosystems” "
-#~ "detailing the methodology used to "
-#~ "estimate drought vulnerability."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Input data (Data needed to generate "
-#~ "indicator SO 3-3 as described in "
-#~ "Steps 2 to 4)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Output data (DVI indicator resulting "
-#~ "from the analysis described in Steps "
-#~ "2 to 4)"
-#~ msgstr ""
-
-#~ msgid "Classification"
-#~ msgstr ""
-
-#~ msgid "Spatial resolution"
-#~ msgstr ""
-
-#~ msgid "Quality"
-#~ msgstr ""
-
-#~ msgid "Metadata"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The availability of data for the "
-#~ "considered factors varies substantially from"
-#~ " country to country and the complete"
-#~ " set of recommended data might not"
-#~ " be accessible everywhere.   Methodological "
-#~ "approach"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "\"The Global Drought Classification System "
-#~ "(GDCS, formerly the Global Drought "
-#~ "Indicator or GDI), currently under "
-#~ "development by WMO through the Global"
-#~ " Multi-Hazard Alert System (GMAS) "
-#~ "framework, will provide methods on how"
-#~ " a multitude of drought indices can"
-#~ " be translated onto a harmonized "
-#~ "legend of drought classes. Indicator SO"
-#~ " 3-1 specifically describes the status "
-#~ "of meteorological drought hazards that "
-#~ "occurred during the baseline and "
-#~ "reporting periods within a country.\""
-#~ msgstr ""
-
-#~ msgid ""
-#~ "(i) Project the drought intensity class"
-#~ " grid into a suitable equal area "
-#~ "projection (e.g., Mollweide) to obtain "
-#~ "the cells’ area in km2."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Where: “cellCount” is the number of "
-#~ "pixels under a drought intensity class"
-#~ " in one year “%cellCount” is the "
-#~ "proportion of land under the related "
-#~ "drought intensity class “{sub}i” is the"
-#~ " drought intensity class “{sub}j” is "
-#~ "the reporting year “Total number of "
-#~ "cells’” is all the grid cells "
-#~ "within the country Party’s land area."
-#~ msgstr ""
-
-#~ msgid "Factor =  (X{sub}i - X{sub}min)/(X{sub}max - X{sub}min)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Where: X{sub}i is the value of the"
-#~ " considered factor in the year “i”"
-#~ " X{sub}min is the minimum value of"
-#~ " the considered factor observed in "
-#~ "the entire time series X{sub}max is "
-#~ "the maximum value of the considered "
-#~ "factor observed in the entire time "
-#~ "series"
-#~ msgstr ""
-
-#~ msgid "Factor = 1 - ((X{sub}i - X{sub}min)/(X{sub}max - X{sub}min))"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In all tiers of VA, the three "
-#~ "components (Csocial, Ceconomic and "
-#~ "Cinfrastructural) derived in the previous "
-#~ "steps are used to produce the DVI"
-#~ " by calculating their mean value."
-#~ msgstr ""
-
-#~ msgid "DVI = (C{sub}social + C{sub}economic + C{sub}infrastructural) / 3"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "WorldPop data for the period 2000–2020,"
-#~ " disaggregated by sex.</P>Drought intensity "
-#~ "class data as determined by indicator"
-#~ " SO 3-1."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Count and percentage of total, female"
-#~ " and male population exposed to "
-#~ "drought and to each drought intensity"
-#~ " class.</P>Gridded spatial summary in "
-#~ "four-year epochs."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Annual gridded product of population "
-#~ "exposed to the four drought intensity"
-#~ " classes from the year 2000 to "
-#~ "the reporting year"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "$\\%cellCount_{ij} = \\frac{cellCount_{ij}}{Total\\ "
-#~ "number\\ of\\ cells} \\times 100$"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "“cellCount” is the number of pixels "
-#~ "under a drought intensity class in "
-#~ "one year"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "“%cellCount” is the proportion of land"
-#~ " under the related drought intensity "
-#~ "class"
-#~ msgstr ""
-
-#~ msgid "“i” is the drought intensity class"
-#~ msgstr ""
-
-#~ msgid "“j” is the reporting year"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Where: X{sub}`i` is the value of "
-#~ "the considered factor in the year "
-#~ "“i” X{sub}`min` is the minimum value "
-#~ "of the considered factor observed in "
-#~ "the entire time series X{sub}`max` is"
-#~ " the maximum value of the considered"
-#~ " factor observed in the entire time"
-#~ " series"
-#~ msgstr ""
-
+msgstr "انظر الجدول 13 من إرشادات الممارسات الجيدة للإبلاغ الوطني عن الهدف الاستراتيجي 3 لاتفاقية الأمم المتحدة لمكافحة التصحر الذي يُبين العلاقة بين العوامل الثلاثة عشر المُوصَى بها ذات قابلية التأثر."
