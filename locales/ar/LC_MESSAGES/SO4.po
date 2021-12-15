@@ -4,12 +4,11 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-20 14:02+0300\n"
+"POT-Creation-Date: 2021-11-04 19:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,11 +22,11 @@ msgid ""
 "4. Strategic objective 4: To generate global environmental benefits "
 "through effective implementation of the United Nations Convention to "
 "Combat Desertification"
-msgstr ""
+msgstr "4.الهدف الاستراتيجي 4: تحقيق فوائد بيئية عالمية من خلال التنفيذ الفعال لاتفاقية الأمم المتحدة لمكافحة التصحر"
 
 #: ../../SO4.md:3
 msgid "4.1. SO 4-1 – Trends in carbon stocks above and below ground"
-msgstr ""
+msgstr "4-1 الهدف الاستراتيجي SO 4-1 - الاتجاهات في مخزونات الكربون فوق الأرض وتحتها"
 
 #: ../../SO4.md:5
 msgid ""
@@ -35,15 +34,15 @@ msgid ""
 "indicator used to measure progress towards strategic objectives (SOs) 1 "
 "and 4. Quantitative data and a qualitative assessment of trends in this "
 "indicator are reported under SO 1 (progress indicator SO 1-3)."
-msgstr ""
+msgstr "الاتجاهات في مخزونات الكربون فوق الأرض وتحتها هي مؤشر متعدد الأغراض يُستخدَم لقياس التقدم المحرز نحو تحقيق الهدفين الاستراتيجيين 1 و4. ويُبلغ عن البيانات الكمية والتقييم النوعي للاتجاهات في هذا المؤشر المندرج تحت الهدف الاستراتيجي SO 1 (مؤشر التقدم SO 1-3)."
 
 #: ../../SO4.md:7
 msgid "4.2. SO 4-2 – Trends in abundance and distribution of selected species"
-msgstr ""
+msgstr "4-2 الهدف الاستراتيجي SO 4-2 - الاتجاهات في وفرة وتوزيع الأنواع المختارة"
 
 #: ../../SO4.md:9
 msgid "4.2.1. Introduction"
-msgstr ""
+msgstr "4-2-1 مقدمة"
 
 #: ../../SO4.md:11
 msgid ""
@@ -61,7 +60,7 @@ msgid ""
 "status. It is based on changes in the number of species in each category "
 "of extinction risk on the International Union for Conservation of Nature "
 "(IUCN) Red List of Threatened Species[^2]."
-msgstr ""
+msgstr "تتأثر الأنواع في العالم بعدة عمليات مُهدِدة، بما في ذلك تدمير الموائل وتدهورها، والاستغلال المفرط، والأنواع الغريبة الغازية، والاضطرابات البشرية، والتلوث، وتغير المناخ. ويمكن للإجراءات الميدانية لاستصلاح الأراضي في إطار تنفيذ اتفاقية الأمم المتحدة لمكافحة التصحر أن تخفف من حدة عمليات التهديد والحد من خطر انقراض الأنواع. ويمكن استخدام مؤشر القائمة الحمراء لتقييم التغيرات الشاملة في خطر انقراض مجموعات من الأنواع بسبب هذه التهديدات ومدى تخفيف التهديدات. ويُعدّ مؤشر القائمة الحمراء كذلك مؤشراً لهدف التنمية المستدامة 15-5-1[^1]. ويقدر مؤشر القائمة الحمراء اتجاهات خطر الانقراض العام لمجموعات من الأنواع لتحديد اتجاهات حالة التنوع البيولوجي. وهو يستند إلى التغيرات في عدد الأنواع في كل فئة من فئات خطر الانقراض على القائمة الحمراء للأنواع المهددة بالانقراض الصادرة عن الاتحاد الدولي لصون الطبيعة والموارد الطبيعية[^2]."
 
 #: ../../SO4.md:13
 msgid ""
@@ -81,7 +80,7 @@ msgid ""
 " RLI is available for five taxonomic groups: birds, mammals, amphibians, "
 "cycads and warm-water reef-forming corals. It has also been aggregated "
 "into a single index for these five groups[^3]."
-msgstr ""
+msgstr "تتراوح قيمة مؤشر القائمة الحمراء بين 1 (حيث تُصنَّف كل الأنواع على أنها \"أقل تهديداً\") و0 (حيث تُصنَّف كل الأنواع على أنها \"منقرضة\")، وهذا يشير إلى مدى انتقال مجموعة الأنواع بشكل عام نحو الانقراض. وبالتالي، يَسمح مؤشر القائمة الحمراء بإجراء مقارنات بين مجموعات الأنواع في كل من المستوى العام لخطر الانقراض لديها (أي مدى تعرُّضها للتهديد في المتوسط) والمعدل الذي يتغير به هذا الخطر بمرور الوقت. ويعني الاتجاه التنازلي في مؤشر القائمة الحمراء بمرور الوقت أن المعدل المتوقع لانقراض الأنواع في المستقبل يتفاقم (أي أن معدل فقدان التنوع البيولوجي يتزايد). ويعني الاتجاه التصاعدي أن المعدل المتوقع لانقراض الأنواع آخذ في الانخفاض (أي أن معدل فقدان التنوع البيولوجي يتناقص)، ويعني الخط الأفقي أن المعدل المتوقع لانقراض الأنواع ما زال كما هو، وإن كان في كل حالة من هذه الحالات لا يعني توقف فقدان التنوع البيولوجي. وحالياً، يتوفر مؤشر القائمة الحمراء لخمس مجموعات تصنيفية: وهي الطيور، والثدييات، والبرمائيات، والسيكاسيات، والمرجان المكوِّن للشعاب في المياه الدافئة. وجُمِّعت أيضاً في مؤشر واحد لهذه المجموعات الخمس[^3]."
 
 #: ../../SO4.md:15
 msgid ""
@@ -89,17 +88,17 @@ msgid ""
 "officially verified annual estimates of RLI values for 2000–2020. "
 "National reporting is facilitated through the provision of default data "
 "pre-filled from the SDG database for indicator 15.5.1."
-msgstr ""
+msgstr "تمخضت النتيجة الرئيسية لعملية الإبلاغ للهدف الاستراتيجي SO 4-2 عن مجموعة من التقديرات السنوية جرى التحقّق منها رسمياً لقيم مؤشر القائمة الحمراء للفترة من 2000 إلى 2020. ويُيسَّر الإبلاغ الوطني من خلال توفير البيانات الافتراضية المملوءة مسبقاً من قاعدة بيانات أهداف التنمية المستدامة للمؤشر 15-5-1."
 
 #: ../../SO4.md:21
 msgid "4.2.2. Prerequisites for reporting"
-msgstr ""
+msgstr "4-2-2 الشروط المسبقة للإبلاغ"
 
 #: ../../SO4.md:23
 msgid ""
 "An in-depth reading of [SDG indicator 15.5.1 metadata "
 "document](https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf);"
-msgstr ""
+msgstr "قراءة متعمقة لـ [وثيقة البيانات الوصفية لمؤشر هدف التنمية المستدامة 15-5-1](https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf)؛"
 
 #: ../../SO4.md:25
 msgid ""
@@ -107,30 +106,30 @@ msgid ""
 "risk, and land management and conservation; Convention on Biological "
 "Diversity (CBD) national focal points; national statistical offices and "
 "IUCN State Members;"
-msgstr ""
+msgstr "التشاور مع الخبراء الوطنيين بشأن التنوع البيولوجي، وخطر انقراض الأنواع، وإدارة الأراضي وحفظها؛ وجهات الوصل الوطنية التابعة لاتفاقية التنوع البيولوجي؛ والمكاتب الإحصائية الوطنية والدول الأعضاء في الاتحاد الدولي لصون الطبيعة والموارد الطبيعية؛"
 
 #: ../../SO4.md:27
 msgid ""
 "Familiarity with the ‘Advanced Search’ function on the IUCN Red List "
 "website to enable customized calculation of the RLI: "
 "<https://www.iucnredlist.org/search>."
-msgstr ""
+msgstr "الإلمام بوظيفة \"البحث المتقدم\" على الموقع الشبكي للقائمة الحمراء للاتحاد الدولي لصون الطبيعة والموارد الطبيعية من أجل تمكين عملية الحساب المصممة خصيصاً لمؤشر القائمة الحمراء: <https://www.iucnredlist.org/search>."
 
 #: ../../SO4.md:29
 msgid "4.2.3. Reporting process and step-by-step procedures"
-msgstr ""
+msgstr "4-2-3 عملية الإبلاغ والإجراءات التدريجية"
 
 #: ../../SO4.md:31 ../../SO4.md:143
 msgid "The step-by-step procedure for reporting is described in the following."
-msgstr ""
+msgstr "يرد في ما يلي وصفٌ للإجراءات التدريجية للإبلاغ."
 
 #: ../../SO4.md:33
 msgid "Step 1: Report Red List Index data"
-msgstr ""
+msgstr "الخطوة 1: الإبلاغ عن بيانات مؤشر القائمة الحمراء"
 
 #: ../../SO4.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO4-2.T1"
-msgstr ""
+msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: جدول الهدف الاستراتيجي SO4-2.T1"
 
 #: ../../SO4.md:39
 msgid ""
@@ -139,7 +138,7 @@ msgid ""
 "as the upper and lower bounds of uncertainty around the national "
 "estimate. No further action is required if Parties choose to use the "
 "default data."
-msgstr ""
+msgstr "مؤشر القائمة الحمراء هو مؤشر هدف التنمية المستدامة 15-5-1. ولذلك، فإنَّ البيانات المتعلقة بمؤشر القائمة الحمراء مملوءة مسبقاً من قاعدة بيانات أهداف التنمية المستدامة، بما في ذلك قيمة المؤشر على الصعيد الوطني فضلاً عن الحدود العليا والدنيا لعدم التيقن حول التقدير الوطني. ولا يلزم اتخاذ أي إجراء آخر إذا اختارت الأطراف استخدام البيانات الافتراضية."
 
 #: ../../SO4.md:41
 msgid ""
@@ -152,7 +151,7 @@ msgid ""
 "use, etc.). At present, disaggregated RLI data is only available at "
 "subregional, regional or global scales and it is not available for single"
 " countries."
-msgstr ""
+msgstr "قد تُقرِّر الأطراف تخصيص/استكمال القيم التي سيُبلغ عنها في جدول الهدف الاستراتيجي SO4-2.T1. ويمكن إنتاج قيم مؤشر القائمة الحمراء المخصصة من الموقع الشبكي للقائمة الحمراء[^4]. ومن الممكن تصنيف مؤشر القائمة الحمراء لإنتاج مؤشرات القائمة الحمراء لمجموعات فرعية مختلفة من الأنواع ذات الأهمية السياساتية المختلفة (مثل الأنواع المهاجرة، وما إلى ذلك) أو لكل الأنواع التي تُظهِر اتجاهات مدفوعة بعمليات تهديد مختلفة (مثل الأنواع الغريبة الغازية، واستخدام الموارد البيولوجية، ونحو ذلك). وفي الوقت الحالي، لا تتوفر بيانات مؤشر القائمة الحمراء المفصَّلة إلا على المستويات دون الإقليمية أو الإقليمية أو العالمية، وهي غير متاحة لبلدان منفردة."
 
 #: ../../SO4.md:43
 msgid ""
@@ -162,21 +161,21 @@ msgid ""
 "conservation actions implemented to mitigate extinction risk should be "
 "involved here to decide what disaggregation to use to complete the "
 "report."
-msgstr ""
+msgstr "قد ترغب الأطراف في الإبلاغ عن مجموعات فرعية على النطاق الإقليمي من الأنواع الأكثر صلة بتنفيذ اتفاقية الأمم المتحدة لمكافحة التصحر. ويتعين أن يشارك هنا خبراء وطنيون معنيون بالتنوع البيولوجي، ومخاطر انقراض الأنواع، وإجراءات إدارة الأراضي وحفظها المنفَّذة للتخفيف من مخاطر الانقراض، من أجل تحديد التصنيف الذي يجب استخدامه لاستكمال التقرير."
 
 #: ../../SO4.md:45
 msgid ""
 "Details on the customization of the RLI values should be reported in the "
 "‘General Comments’ section provided in the PRAIS 4 platform."
-msgstr ""
+msgstr "يجب الإبلاغ عن التفاصيل المتعلقة بتكييف قيم مؤشر القائمة الحمراء في قسم \"التعليقات العامة\" الوارد في منصة نظام PRAIS 4."
 
 #: ../../SO4.md:49
 msgid "Step 2: Qualitatively assess the Red List Index data"
-msgstr ""
+msgstr "الخطوة 2: التقييم النوعي لبيانات مؤشر القائمة الحمراء"
 
 #: ../../SO4.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO4-2.T2"
-msgstr ""
+msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: جدول الهدف الاستراتيجي SO4-2.T2"
 
 #: ../../SO4.md:55
 msgid ""
@@ -185,11 +184,11 @@ msgid ""
 "also encouraged to comment on the policy responses or levers that have "
 "caused positive changes, upward trends or reversal of negative trends in "
 "the RLI[^5]."
-msgstr ""
+msgstr "تُشجَّع البلدان على تحديد ثم ترتيب الدوافع التي تسبب بصورة مباشرة أو غير مباشرة تغيرات سلبية أو اتجاهات تنازلية. كما تُشجَّع البلدان على التعليق على الاستجابات أو المقومات السياساتية التي أحدثت تغيرات إيجابية أو اتجاهات تصاعدية أو انعكاسات للاتجاهات السلبية في مؤشر القائمة الحمراء[^5]."
 
 #: ../../SO4.md:59
 msgid "Step 3:  Verify the results"
-msgstr ""
+msgstr "الخطوة 3: التحقّق من النتائج"
 
 #: ../../SO4.md:61
 msgid ""
@@ -198,40 +197,40 @@ msgid ""
 "the obtained results might be low. This would qualitatively assess the "
 "reliability of the estimates based on expert knowledge and on a correct "
 "interpretation of the data."
-msgstr ""
+msgstr "تتطلب موثوقية البيانات الافتراضية لمؤشر القائمة الحمراء التحقّق من قبل الخبراء الوطنيين للكشف عن الحالات التي قد يكون فيها مستوى الثقة في النتائج المُحرزة منخفضاً وتسليط الضوء عليها. ومن شأن ذلك أن يُقيِّم نوعياً موثوقية التقديرات بناءً على معرفة الخبراء والتفسير الصحيح للبيانات."
 
 #: ../../SO4.md:63 ../../SO4.md:169
 msgid "Step 4: Generate reports"
-msgstr ""
+msgstr "الخطوة 4: إنشاء التقارير"
 
 #: ../../SO4.md:65
 msgid ""
 "Once verified by the Parties, the estimates of the RLI indicator as well "
 "as the qualitative assessment should be officially submitted to UNCCD."
-msgstr ""
+msgstr "بمجرد أن تتحقّق الأطراف من تقديرات مؤشر القائمة الحمراء بالإضافة إلى التقييم النوعي، يجب تقديمها رسمياً إلى اتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO4.md:67
 msgid ""
 "Parties have the option to use the ‘General Comment’ field to add any "
 "relevant information, or to report on specific country or regional "
 "situations."
-msgstr ""
+msgstr "لدى الأطراف خيار استخدام حقل \"التعليقات العامة\" لإضافة أي معلومات ذات صلة، أو للإبلاغ عن بلد معين أو مواقف إقليمية."
 
 #: ../../SO4.md:69
 msgid "4.2.4. Dependencies"
-msgstr ""
+msgstr "4-2-4 التبعيات"
 
 #: ../../SO4.md:71
 msgid "The SO 4-2 indicator has no interdependencies with other SOs."
-msgstr ""
+msgstr "ليس لمؤشر SO 4-2 تبعيات مع الأهداف الاستراتيجية الأخرى."
 
 #: ../../SO4.md:73
 msgid "4.2.5. Challenges"
-msgstr ""
+msgstr "4-2-5 التحديات"
 
 #: ../../SO4.md:75 ../../SO4.md:185
 msgid "Data interpretation"
-msgstr ""
+msgstr "تفسير البيانات"
 
 #: ../../SO4.md:77
 msgid ""
@@ -242,7 +241,7 @@ msgid ""
 "biodiversity, species extinction risk, and land management and land "
 "conservation actions implemented to mitigate extinction risk will be "
 "crucial for correct interpretation."
-msgstr ""
+msgstr "يتمثل التحدي الرئيسي في تفسير التغييرات في المؤشر وفهم الدوافع للاتجاهات في المؤشر على وجه التحديد. ويُعدّ مؤشر القائمة الحمراء مؤشراً إجمالياً لعدد ضئيل من الأنواع، وبالتالي فهو لا يشمل جميع الأنواع في بلد ما. وسيكون للخبراء الوطنيين المعنيين بالتنوع البيولوجي، ومخاطر انقراض الأنواع، وإجراءات إدارة الأراضي وحفظها المنفَّذة للتخفيف من مخاطر الانقراض دور حاسم في التفسير الصحيح."
 
 #: ../../SO4.md:79
 msgid ""
@@ -251,28 +250,28 @@ msgid ""
 "poor data on species, and delays in learning about changes to species "
 "extinction risk. The RLI metadata for SDG indicator 15.5.1 should be "
 "consulted for more information."
-msgstr ""
+msgstr "هناك أيضاً عدة مصادر لعدم التيقن في القيم والاتجاهات الإقليمية المتعلقة بانعدام المعرفة بخطر انقراض الأنواع، وضعف البيانات المتعلقة بالأنواع، والتأخر في معرفة التغيرات في خطر انقراض الأنواع. ويلزم الاطلاع على البيانات الوصفية للبيانات المتعلقة بمؤشر هدف التنمية المستدامة 15-5-1 بغية الحصول على مزيد من المعلومات."
 
 #: ../../SO4.md:81
 msgid "4.2.6. Summary"
-msgstr ""
+msgstr "4-2-6 الملخّص"
 
 #: ../../SO4.md:83 ../../SO4.md:193
 msgid "Key actions for reporting on RLI are as follows:"
-msgstr ""
+msgstr "الإجراءات الرئيسية للإبلاغ عن مؤشر القائمة الحمراء هي كما يلي:"
 
 #: ../../SO4.md:85
 msgid ""
 "**Report RLI data**: Parties can use the default data or can choose to "
 "report using customized RLI values."
-msgstr ""
+msgstr "**الإبلاغ عن مؤشر بيانات القائمة الحمراء**: يمكن للأطراف استخدام البيانات الافتراضية أو اختيار الإبلاغ باستخدام قيم مؤشر القائمة الحمراء المخصصة."
 
 #: ../../SO4.md:87
 msgid ""
 "**Qualitatively assess the RLI data**: Parties can report on the direct "
 "and indirect drivers of trends in the RLI and any levers used to bring "
 "about positive and transformative change."
-msgstr ""
+msgstr "**التقييم النوعي لبيانات مؤشر القائمة الحمراء**: يمكن للأطراف الإبلاغ عن الدوافع المباشرة وغير المباشرة للاتجاهات في مؤشر القائمة الحمراء وأي مقومات تُستَخدم لإحداث تغيير إيجابي وتحويلي."
 
 #: ../../SO4.md:89
 msgid ""
@@ -280,23 +279,23 @@ msgid ""
 "Parties may verify the accuracy and reliability of such indicators in "
 "their countries before officially submitting estimates for UNCCD "
 "reporting."
-msgstr ""
+msgstr "**التحقّق من النتائج**: يمكن للأطراف، إدراكاً منها للقيود الخاصة بقيم مؤشر القائمة الحمراء، أن تتحقّق من دقة وموثوقية هذه المؤشرات في بلدانها قبل تقديم تقديرات رسمية للإبلاغ بها تبعاً لاتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO4.md:91 ../../SO4.md:201
 msgid ""
 "**Generate reports**: Once verified by the Parties, the data and "
 "supporting narrative should be officially submitted to UNCCD."
-msgstr ""
+msgstr "**إنشاء التقارير**: بعد أن تتحقّق الأطراف من البيانات والسرديات الداعمة، يجب تقديمها رسمياً إلى اتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO4.md:93
 msgid "4.2.7. Further reading"
-msgstr ""
+msgstr "4-2-7 قراءات إضافية"
 
 #: ../../SO4.md:95
 msgid ""
 "SDG indicator 15.5.1 metadata document "
 "(<https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf>)."
-msgstr ""
+msgstr "وثيقة البيانات الوصفية لمؤشر هدف التنمية المستدامة 15-5-1 (<https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf>)."
 
 #: ../../SO4.md:96
 msgid ""
@@ -304,24 +303,24 @@ msgid ""
 "conservation status: strengths of the IUCN Red List Index. Conservation "
 "Biology 20: 579–581 "
 "(<http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2006.00410.x/abstract>)."
-msgstr ""
+msgstr "بوتشارت وآخرون. (2006) مؤشرات التنوع البيولوجي المستندة إلى الاتجاهات في حالة الحفظ: نقاط القوة في مؤشر القائمة الحمراء للاتحاد الدولي لصون الطبيعة والموارد الطبيعية. بيولوجيا الحفظ 20: 579–581 (<http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2006.00410.x/abstract>)."
 
 #: ../../SO4.md:97
 msgid ""
 "Butchart et al (2010) Global Biodiversity: Indicators of Recent Declines,"
 " Science, 328 (5982), pp. 1164–1168 "
 "(<https://science.sciencemag.org/content/328/5982/1164>)."
-msgstr ""
+msgstr "بوتشارت وآخرون (2010) التنوع البيولوجي العالمي: مؤشرات الانخفاضات الأخيرة، العلوم، 328 (5982)، ص 1164-1168 (<https://science.sciencemag.org/content/328/5982/1164>)"
 
 #: ../../SO4.md:99
 msgid ""
 "4.3. SO 4-3 Trends in protected area coverage of important biodiversity "
 "areas"
-msgstr ""
+msgstr "4-3 الهدف الاستراتيجي SO 4-3 الاتجاهات في تغطية المناطق المحمية ضمن مناطق التنوع البيولوجي الهامّة"
 
 #: ../../SO4.md:101
 msgid "4.3.1. Introduction"
-msgstr ""
+msgstr "4-3-1 مقدمة"
 
 #: ../../SO4.md:103
 msgid ""
@@ -331,7 +330,7 @@ msgid ""
 "important mechanism for achieving this aim, and this indicator measures "
 "progress toward the conservation, restoration and sustainable use of "
 "terrestrial ecosystems and their services."
-msgstr ""
+msgstr "إنَّ حماية المواقع الهامة للتنوع البيولوجي أمر بالغ الأهمية لوقف تدهور التنوع البيولوجي وضمان الاستخدام الطويل الأجل والمستدام للموارد الطبيعية الأرضية. ويُشكل إنشاء مناطق محمية آلية هامة لتحقيق هذا الهدف، ويقيس هذا المؤشر التقدم المحرَز نحو الحفاظ على النظم الإيكولوجية الأرضية وخدماتها واستعادتها واستخدامها المستدام."
 
 #: ../../SO4.md:105
 msgid ""
@@ -341,7 +340,7 @@ msgid ""
 "with associated ecosystem services and cultural values. A variety of "
 "specific management objectives and levels of access are recognized within"
 " this definition, spanning conservation, restoration and sustainable use."
-msgstr ""
+msgstr "المناطق المحمية كما حددها الاتحاد الدولي لصون الطبيعة والموارد الطبيعية[^6] هي مساحات جغرافية محددة بوضوح ومعترَف بها ومخصصة ومُدَارة، من خلال الوسائل القانونية أو غيرها من الوسائل الفعالة، لتحقيق الحفاظ على الطبيعة على المدى الطويل مع ما يرتبط بها من خدمات النظم الإيكولوجية والقيم الثقافية. وهناك مجموعة متنوعة من الأهداف الإدارية المحددة ومستويات الوصول معترَف بها في هذا التعريف، تشمل الحفظ والاستعادة والاستخدام المستدام."
 
 #: ../../SO4.md:107
 msgid ""
@@ -350,7 +349,7 @@ msgid ""
 "watersheds from erosion, contain a wealth of genetic resources, support "
 "recreation and tourism industries, provide for science, research and "
 "education, and contain many cultural and other non-material values."
-msgstr ""
+msgstr "بالإضافة إلى حماية التنوع البيولوجي، تتمتع المناطق المحمية بقيمة اجتماعية واقتصادية عالية لأنها تدعم سبل العيش المحلية، وتحمي مستجمعات المياه من التحات، وتحتوي على ثروة من الموارد الجينية، وتدعم مجالات الترفيه والسياحة، وتوفر العلوم والبحوث والتعليم، وتحتوي على كثيرٍ من القيم الثقافية وغير المادية الأخرى."
 
 #: ../../SO4.md:109
 msgid ""
@@ -360,7 +359,7 @@ msgid ""
 "terrestrial biodiversity (i.e. those that contribute significantly to the"
 " global persistence of biodiversity) that is covered by designated "
 "protected areas."
-msgstr ""
+msgstr "تُبيِّن نسبة المتوسط القياسي لمناطق التنوع البيولوجي الرئيسية الأرضية المغطاة بالمناطق المحمية، والتي تُمثِل مؤشر هدف التنمية المستدامة 15-1-2ب، الاتجاهات الزمنية في متوسط النسبة المئوية لكل موقع هام للتنوع البيولوجي الأرضي (وهي المواقع التي تساهم مساهمةً كبيرة في استمرار التنوع البيولوجي على الصعيد العالمي) تُغطّيه مناطق محمية محددة."
 
 #: ../../SO4.md:111
 msgid ""
@@ -371,14 +370,14 @@ msgid ""
 " long-term outcomes for the in situ conservation of biodiversity, with "
 "associated ecosystem functions and services and where applicable, "
 "cultural, spiritual, socio-economic, and other locally relevant values’."
-msgstr ""
+msgstr "تشمل البيانات الوصفية لمؤشر هدف التنمية المستدامة 15-1-2 تدابير الحفظ الفعالة الأخرى القائمة على المناطق بالإضافة إلى المناطق المحمية. وتُعرَّف تدابير الحفظ الفعالة الأخرى القائمة على المناطق على أنها \"منطقة محددة جغرافياً بخلاف المنطقة المحمية، تخضع للمراقبة والإدارة بطرق تُحقِق نتائج إيجابية ومستدامة طويلة الأجل لحفظ التنوع البيولوجي في الموقع، مع ما يرتبط بها من وظائف وخدمات في مجال النظم الإيكولوجية، وحيثما أمكن، القيم الثقافية والروحية والاجتماعية والاقتصادية وغيرها من القيم المحلية ذات الصلة\"."
 
 #: ../../SO4.md:113
 msgid ""
 "KBAs are sites that contribute significantly to the global persistence of"
 " biodiversity and are identified following global criteria[^7]  applied "
 "at national levels. The KBAs include:"
-msgstr ""
+msgstr "مناطق التنوع البيولوجي الرئيسية هي مواقع تُساهم مساهمةً كبيرة في الاستمرارية العالمية للتنوع البيولوجي وتتحدد وفقاً للمعايير العالمية[^ 7] المُطبّقة على المستويات الوطنية. وتشمل مناطق التنوع البيولوجي الرئيسية:"
 
 #: ../../SO4.md:115
 msgid ""
@@ -386,7 +385,7 @@ msgid ""
 "significantly to the global persistence of biodiversity, identified using"
 " data on birds, of which >13,000 sites in total have been identified from"
 " all of the world’s countries;"
-msgstr ""
+msgstr "مناطق الطيور والتنوع البيولوجي الهامة، وهي مواقع تساهم مساهمة كبيرة في استمرار التنوع البيولوجي العالمي، حُدِدت باستخدام بيانات عن الطيور، وحُدِد منها أكثر من 13000 موقع إجمالاً من جميع بلدان العالم؛"
 
 #: ../../SO4.md:117
 msgid ""
@@ -396,34 +395,34 @@ msgid ""
 "sites have been identified for 1,483 species of mammals, birds, "
 "amphibians, reptiles, freshwater crustaceans, reef-building corals, "
 "conifers, cycads and other taxa; and"
-msgstr ""
+msgstr "مواقع \"التحالف من أجل منع مطلق للانقراض\"، وهي مواقع تحتضن بشكل فعّال جميع الأعداد من نوع واحد على الأقل المقيّمة بأنها مهددة بالانقراض من الدرجة الأولى أو مهددة بالانقراض على القائمة الحمراء للأنواع المهددة الصادرة عن الاتحاد الدولي لصون الطبيعة والموارد الطبيعية. وقد تحدد 853 موقعاً لـ 1483 نوعاً من الثدييات والطيور والبرمائيات والزواحف وقشريات المياه العذبة والمرجانات البانية للشعاب والصنوبريات والسيكاسيات وغيرها من الأنواع؛"
 
 #: ../../SO4.md:119
 msgid ""
 "KBAs identified using an earlier version of the KBA criteria, including "
 "those identified in ecosystem hotspot profiles developed with the support"
 " of the Critical Ecosystem Partnership Fund."
-msgstr ""
+msgstr "مناطق التنوع البيولوجي الرئيسية المحددة باستخدام نسخة سابقة من معايير إدارة مناطق التنوع البيولوجي الرئيسية، بما في ذلك المعايير المحددة في ملفات تعريف المناطق الأشد تأثراً للنظام الإيكولوجي التي وضِعت بدعم من صندوق الشراكة من أجل النظم البيئية الحرجة."
 
 #: ../../SO4.md:121
 msgid ""
 "Data on protected areas are managed in the World Database on Protected "
 "Areas by the UN Environment Programme World Conservation Monitoring "
 "Centre (UNEP-WCMC)[^8]."
-msgstr ""
+msgstr "تُدار البيانات المتعلقة بالمناطق المحمية في قاعدة البيانات العالمية الخاصة بالمناطق المحمية من قبل المركز العالمي لرصد حفظ الطبيعة التابع لبرنامج الأمم المتحدة للبيئة (UNEP-WCMC)[^8]."
 
 #: ../../SO4.md:123
 msgid ""
 "Data on OECMs are managed in the World Database on OECMs by the UNEP-"
 "WCMC[^9]."
-msgstr ""
+msgstr "تُدار البيانات المتعلقة بتدابير الحفظ الفعالة الأخرى القائمة على المناطق في قاعدة البيانات العالمية المعنية بتلك التدابير من قبل المركز العالمي لرصد حفظ الطبيعة التابع لبرنامج الأمم المتحدة للبيئة[^9]."
 
 #: ../../SO4.md:125
 msgid ""
 "Data on KBAs are managed in the World Database of Key Biodiversity Areas "
 "by BirdLife International on behalf of the Key Biodiversity Areas "
 "Partnership[^10]."
-msgstr ""
+msgstr "تُدار البيانات المتعلقة بمناطق التنوع البيولوجي في قاعدة البيانات العالمية لمناطق التنوع البيولوجي الرئيسية من قبل الشراكة الدولية لحماية الطيور بالنيابة عن شراكة مناطق التنوع البيولوجي الرئيسية[^10]."
 
 #: ../../SO4.md:127
 msgid ""
@@ -432,34 +431,34 @@ msgid ""
 "of terrestrial KBAs covered by protected areas for 2000–2020. National "
 "reporting is facilitated through the provision of default data pre-filled"
 " from the SDG database for indicator 15.1.2b."
-msgstr ""
+msgstr "تمخضت النتيجة الرئيسية لعملية الإبلاغ للهدف الاستراتيجي SO 4-3 عن مجموعة من التقديرات السنوية جرى التحقّق منها رسمياً لقيم متوسط نسبة مناطق التنوع البيولوجي الرئيسية الأرضية التي تُغطيها المناطق المحمية للفترة 2000-2020. ويُيسَّر الإبلاغ الوطني من خلال توفير البيانات الافتراضية المملوءة مسبقاً من قاعدة بيانات أهداف التنمية المستدامة للمؤشر 15-1-2ب."
 
 #: ../../SO4.md:135
 msgid "4.3.2. Prerequisites for reporting"
-msgstr ""
+msgstr "4-3-2 الشروط المسبقة للإبلاغ"
 
 #: ../../SO4.md:137
 msgid "An in-depth reading of the SDG indicator 15.1.2 metadata document;"
-msgstr ""
+msgstr "قراءة متعمقة لوثيقة البيانات الوصفية لمؤشر هدف التنمية المستدامة 15-1-2؛"
 
 #: ../../SO4.md:139
 msgid ""
 "Consultation with national experts on KBA and protected areas, CBD "
 "national focal points, national statistical offices, IUCN State Members "
 "and KBA regional focal points."
-msgstr ""
+msgstr "التشاور مع الخبراء الوطنيين بشأن مناطق التنوع البيولوجي والمناطق المحمية، ونقاط الاتصال الوطنية لاتفاقية التنوع البيولوجي، والمكاتب الإحصائية الوطنية، وأعضاء دول الاتحاد الدولي لصون الطبيعة والموارد الطبيعية ونقاط الاتصال الإقليمية لمناطق التنوع البيولوجي الرئيسية."
 
 #: ../../SO4.md:141
 msgid "4.3.3. Reporting process and step-by-step procedures"
-msgstr ""
+msgstr "4-3-3 عملية الإبلاغ والإجراءات التدريجية"
 
 #: ../../SO4.md:145
 msgid "Step 1: Report indicator data"
-msgstr ""
+msgstr "الخطوة 1: الإبلاغ عن بيانات المؤشر"
 
 #: ../../SO4.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO4-3.T1"
-msgstr ""
+msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: جدول الهدف الاستراتيجي SO4-3.T1"
 
 #: ../../SO4.md:151
 msgid ""
@@ -468,7 +467,7 @@ msgid ""
 "as well as the upper and lower bounds of uncertainty around the national "
 "estimate[^11].  For data specifications for the SO 4-3 indicator, see the"
 " official metadata for SDG indicator 15.1.2."
-msgstr ""
+msgstr "البيانات المتعلقة بهذا المؤشر مملوءة مسبقاً في جدول الهدف الاستراتيجي SO4-3.T1 من قاعدة بيانات أهداف التنمية المستدامة (مؤشر هدف التنمية المستدامة 15-1-2ب)، بما في ذلك القيمة على الصعيد الوطني فضلاً عن الحدود العليا والدنيا لعدم التيقن حول التقدير الوطني.[^11]  للاطلاع على مواصفات البيانات للمؤشر 4-3 SO، يُرجى مراجعة البيانات الوصفية الرسمية لمؤشر هدف التنمية المستدامة 15-1-2."
 
 #: ../../SO4.md:153
 msgid ""
@@ -476,15 +475,15 @@ msgid ""
 "national data sources, if available. Any deviation from the guidance "
 "provided should be reported and justified in the ‘Comment’ column of the "
 "reporting table."
-msgstr ""
+msgstr "يمكن لأي طرف اختيار الإبلاغ باستخدام البيانات الافتراضية أو مصادر البيانات الوطنية البديلة، إذا كانت متاحة. ويجب الإبلاغ عن أي انحراف عن الإرشادات المقدَّمة وتبريره في عمود \"التعليق\" في جدول الإبلاغ."
 
 #: ../../SO4.md:157
 msgid "Step 2: Qualitatively assess the results"
-msgstr ""
+msgstr "الخطوة 2: تقييم النتائج نوعياً"
 
 #: ../../SO4.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO4-3.T2"
-msgstr ""
+msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: جدول الهدف الاستراتيجي SO4-3.T2"
 
 #: ../../SO4.md:163
 msgid ""
@@ -494,11 +493,11 @@ msgid ""
 "indicator, countries are encouraged to indicate which direct and/or "
 "indirect drivers are presumably behind the observed changes using the "
 "comment box in table SO4-3.T2 in the PRAIS 4 platform."
-msgstr ""
+msgstr "تُشجَّع الأطراف على تقديم تعليقات حول تفسير المؤشر، بما في ذلك اتجاه تغيير المؤشر. وفي حين قد يكون من الصعب عزو عوامل سببية محددة إلى التغيرات في المؤشر، فقد تُشجَّع البلدان على الإشارة إلى الدوافع المباشرة و/أو غير المباشرة التي من المفترض أن تكون وراء التغييرات الملحوظة باستخدام مربع \"التعليق\" في جدول الهدف الاستراتيجي SO4-3.T2 في منصة نظام PRAIS 4."
 
 #: ../../SO4.md:165
 msgid "Step 3: Verify the results"
-msgstr ""
+msgstr "الخطوة 3: التحقّق من النتائج"
 
 #: ../../SO4.md:167
 msgid ""
@@ -507,74 +506,74 @@ msgid ""
 "confidence level of the obtained results might be low. This would "
 "qualitatively assess the reliability of the estimates based on expert "
 "knowledge and on a correct interpretation of the data."
-msgstr ""
+msgstr "تتطلب موثوقية البيانات الافتراضية للمؤشر SO 4-3 التحقّق من قبل الخبراء الوطنيين للكشف عن الحالات التي قد يكون فيها مستوى الثقة في النتائج المُحرزة منخفضاً وتسليط الضوء عليها. ومن شأن ذلك أن يُقيِّم نوعياً موثوقية التقديرات بناءً على معرفة الخبراء والتفسير الصحيح للبيانات."
 
 #: ../../SO4.md:171
 msgid ""
 "Once verified by the Parties, the estimates of the SO 4-3 indicator as "
 "well as the qualitative assessment should be officially submitted to "
 "UNCCD."
-msgstr ""
+msgstr "بمجرد أن تتحقّق الأطراف من تقديرات المؤشر SO 4-3 بالإضافة إلى التقييم النوعي، يجب تقديمها رسمياً إلى اتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO4.md:173
 msgid ""
 "Parties have the option to include additional information in the ‘General"
 " Comments’ field to add any relevant information or to report on specific"
 " country or regional situations."
-msgstr ""
+msgstr "لدى الأطراف خيار إدخال معلومات إضافية في حقل \"التعليقات العامة\" لإضافة أي معلومات ذات صلة، أو للإبلاغ عن بلد معين أو مواقف إقليمية بعينها."
 
 #: ../../SO4.md:175
 msgid "4.3.4. Dependencies"
-msgstr ""
+msgstr "4-3-4 التبعيات"
 
 #: ../../SO4.md:177
 msgid "The SO 4-3 indicator has no interdependencies with other SOs."
-msgstr ""
+msgstr "ليس لمؤشر SO 4-3 تبعيات مع الأهداف الاستراتيجية الأخرى."
 
 #: ../../SO4.md:179
 msgid "4.3.5. Challenges"
-msgstr ""
+msgstr "4-3-5 التحديات"
 
 #: ../../SO4.md:181
 msgid "Data availability and quality"
-msgstr ""
+msgstr "توافر البيانات ونوعيتها"
 
 #: ../../SO4.md:183
 msgid ""
 "KBAs focus mainly on subsets of biodiversity such as birds and highly "
 "threatened species. There are plans to improve KBAs with wider taxonomic "
 "coverage."
-msgstr ""
+msgstr "تركز مناطق التنوع البيولوجي الرئيسية بشكل أساسي على مجموعات فرعية من التنوع البيولوجي مثل الطيور والأنواع المهددة بشدة. وتوجد خطط لتحسين مناطق التنوع البيولوجي الرئيسية من خلال تغطية تصنيفية أوسع نطاقاً."
 
 #: ../../SO4.md:187
 msgid ""
 "This indicator and metric are very intuitive and only minor challenges "
 "exist. The reporting Party should understand where and why there are KBAs"
 " in their country, otherwise the metric will have less meaning."
-msgstr ""
+msgstr "يُعدّ هذا المؤشر والقياس بديهيين للغاية ولا توجد سوى تحديات طفيفة. وينبغي للطرف المُبلِّغ أن يفهم أين ولماذا توجد مناطق التنوع البيولوجي في بلده، وإلا فإن المقياس سيكون ذا معنى أقل."
 
 #: ../../SO4.md:189
 msgid ""
 "Data on KBAs and protected areas is generally widely available; however, "
 "challenges exist at the national level in ensuring the designated "
 "protected areas are effective at reducing biodiversity loss."
-msgstr ""
+msgstr "تتوفر البيانات المتعلقة بمناطق التنوع البيولوجي الرئيسية والمناطق المحمية بشكل عام على نطاق واسع؛ غير أنه توجد تحديات على الصعيد الوطني في ما يتعلق بضمان فاعلية المناطق المحمية المحددة في الحد من فقدان التنوع البيولوجي."
 
 #: ../../SO4.md:191
 msgid "4.3.6. Summary"
-msgstr ""
+msgstr "4-3-6 الملخّص"
 
 #: ../../SO4.md:195
 msgid ""
 "**Report indicator data**: Parties can use the default data or can choose"
 " to report using national data."
-msgstr ""
+msgstr "**الإبلاغ عن بيانات المؤشر**: يمكن للأطراف استخدام البيانات الافتراضية أو اختيار الإبلاغ باستخدام البيانات الوطنية."
 
 #: ../../SO4.md:197
 msgid ""
 "**Qualitatively assess the results**: Changes in the indicator should be "
 "described in table SO4-3.T2."
-msgstr ""
+msgstr "**تقييم النتائج نوعياً**: يجب وصف التغييرات في المؤشر في جدول الهدف الاستراتيجي SO4-3.T2."
 
 #: ../../SO4.md:199
 msgid ""
@@ -582,17 +581,17 @@ msgid ""
 "values, Parties may verify the accuracy and reliability of such indicator"
 " in their countries before officially submitting estimates for UNCCD "
 "reporting."
-msgstr ""
+msgstr "**التحقّق من النتائج**: يُمكِن للأطراف، إدراكاً منها للقيود الخاصة بقيم المؤشر SO 4-3، أن تتحقّق من دقة وموثوقية هذه المؤشرات في بلدانها قبل تقديم تقديرات رسمية للإبلاغ بها تبعاً لاتفاقية الأمم المتحدة لمكافحة التصحر."
 
 #: ../../SO4.md:203
 msgid "4.3.7. Further reading"
-msgstr ""
+msgstr "4-3-7 قراءات إضافية"
 
 #: ../../SO4.md:205
 msgid ""
 "SDG indicator 15.1.2 metadata document "
 "(<https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf>)."
-msgstr ""
+msgstr "وثيقة البيانات الوصفية لمؤشر هدف التنمية المستدامة 15-1-2 (<https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf>)."
 
 #: ../../SO4.md:207
 msgid ""
@@ -600,28 +599,28 @@ msgid ""
 "biodiversity contributes to meeting global conservation targets. PLoS One"
 " 7(3): e32529 "
 "(<http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032529>)."
-msgstr ""
+msgstr "إس إتش إم بوتشارت وآخرون (2012). حماية المواقع الهامة من أجل التنوع البيولوجي يساهم في تحقيق أهداف الحفظ العالمية. PLoS One 7(3): e32529 (<http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032529>)."
 
 #: ../../SO4.md:209
 msgid ""
 "Eken, G. et al. (2004). Key biodiversity areas as site conservation "
 "targets. BioScience 54: 1110–1118 "
 "(<http://bioscience.oxfordjournals.org/content/54/12/1110.short>)."
-msgstr ""
+msgstr "جي إيكين وآخرون. (2004). مناطق التنوع البيولوجي الرئيسية كأهداف لحفظ الموقع. العلوم البيولوجية 54: 1110–1118 (<http://bioscience.oxfordjournals.org/content/54/12/1110.short>)."
 
 #: ../../SO4.md:211
 msgid ""
 "IUCN (2016). A Global Standard for the Identification of Key Biodiversity"
 " Areas. International Union for Conservation of Nature, Gland, "
 "Switzerland (<https://portals.iucn.org/library/node/46259>)."
-msgstr ""
+msgstr "الاتحاد الدولي لصون الطبيعة والموارد الطبيعية (2016). معيار عالمي لتحديد مناطق التنوع البيولوجي الرئيسية. الاتحاد الدولي لصون الطبيعة والموارد الطبيعية، غلاند، سويسرا (<https://portals.iucn.org/library/node/46259>)."
 
 #: ../../SO4.md:213
 msgid ""
 "Donald, P. et al. (2018) Important Bird and Biodiversity Areas (IBAs): "
 "the development and characteristics of a global inventory of key sites "
 "for biodiversity. Bird Conservation International. 29:177–198."
-msgstr ""
+msgstr "بي دونالد وآخرون. (2018) المناطق الهامة لحفظ الطيور والتنوع البيولوجي: تطوير وخصائص جرد عالمي لمواقع التنوع البيولوجي الرئيسية. المنظمة الدولية لحفظ الطيور. 29: 177–198."
 
 #: ../../SO4.md:215
 msgid ""
@@ -629,7 +628,7 @@ msgid ""
 "extinctions. Proceedings of the National Academy of Sciences of the "
 "U.S.A. 102: 18497–18501 "
 "(<http://www.pnas.org/content/102/51/18497.short>)."
-msgstr ""
+msgstr "تي إتش ريكيتس وآخرون (2005). تحديد الانقراض الوشيك ومنعه. مداولات الأكاديمية الوطنية للعلوم في الولايات المتحدة الأمريكية. 102: 18497–18501 (<http://www.pnas.org/content/102/51/18497.short>)."
 
 #: ../../SO4.md:217
 msgid ""
@@ -638,28 +637,28 @@ msgid ""
 "IUCN World Commission on Protected Areas Best Practice Protected Area "
 "Guidelines Series No. 15. IUCN, Gland, Switzerland "
 "(<https://portals.iucn.org/library/node/9055>)."
-msgstr ""
+msgstr "بي إف لانغهامر وآخرون (2007). تحديد وتحليل الثغرات لمناطق التنوع البيولوجي الرئيسية: أهداف النظم الشاملة للمناطق المحمية. اللجنة العالمية التابعة للاتحاد الدولي لصون الطبيعة والموارد الطبيعية المعنية بسلسلة المبادئ التوجيهية لأفضل الممارسات للمناطق المحمية رقم 15. الاتحاد الدولي لصون الطبيعة والموارد الطبيعية، غلاند، سويسرا (<https://portals.iucn.org/library/node/9055>)."
 
 #: ../../SO4.md:17
 msgid "https://sdg.tracking-progress.org/indicator/15-5-1-red-list-index/."
-msgstr ""
+msgstr "https://sdg.tracking-progress.org/indicator/15-5-1-red-list-index/."
 
 #: ../../SO4.md:18
 msgid ""
 "IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1. "
 "<https://www.iucnredlist.org>."
-msgstr ""
+msgstr "الاتحاد الدولي لصون الطبيعة والموارد الطبيعية 2021. القائمة الحمراء للأنواع المهددة الصادرة عن الاتحاد الدولي لصون الطبيعة والموارد الطبيعية. الإصدار 2021-1. <https://www.iucnredlist.org>."
 
 #: ../../SO4.md:19
 msgid ""
 "For methodology see: Butchart et al (2010) Global Biodiversity: "
 "Indicators of Recent Declines, Science, 328 (5982), pp. 1164–1168. "
 "<https://science.sciencemag.org/content/328/5982/1164>."
-msgstr ""
+msgstr "للمنهجية، انظر: بوتشارت وآخرون (2010) التنوع البيولوجي العالمي: مؤشرات الانخفاضات الأخيرة، العلوم، 328 (5982)، ص 1164-1168. <https://science.sciencemag.org/content/328/5982/1164>."
 
 #: ../../SO4.md:47
 msgid "<https://www.iucnredlist.org/search>."
-msgstr ""
+msgstr "<https://www.iucnredlist.org/search>."
 
 #: ../../SO4.md:57
 msgid ""
@@ -671,327 +670,35 @@ msgid ""
 "Services. E. S. Brondizio, J. Settele, S. Díaz, and H. T. Ngo (editors). "
 "IPBES secretariat, Bonn, Germany. 1148 pages. Available at: "
 "<https://ipbes.net/global-assessment>."
-msgstr ""
+msgstr "إنّ العوامل المحركة المباشرة وغير المباشرة المتاحة للاختيار في الجدول والأدوات التي تستطيع عكس الاتجاهات السلبية مُلَّخصة من المنبر الحكومي الدولي للعلوم والسياسات في مجال التنوع البيولوجي وخدمات النظم الإيكولوجية (2019): تقرير التقييم العالمي عن التنوع البيولوجي وخدمات النظم الإيكولوجية الصادر عن المنبر الحكومي الدولي للعلوم والسياسات في مجال التنوع البيولوجي وخدمات النظم الإيكولوجية. إي إس برونديزيو، وجيه سيتيل، وإس دياز، وإتش تي نغو (محررون). أمانة المنبر الحكومي الدولي للعلوم والسياسات في مجال التنوع البيولوجي وخدمات النظم الإيكولوجية، بون، ألمانيا. 1148 صفحة. متاح على: <https://ipbes.net/global-assessment>."
 
 #: ../../SO4.md:129
 msgid ""
 "For an explanation of categories, see: <https://www.iucn.org/theme"
 "/protected-areas/about/protected-area-categories>."
-msgstr ""
+msgstr "للاطلاع على شرح الفئات، انظر: <https://www.iucn.org/theme/protected-areas/about/protected-area-categories>."
 
 #: ../../SO4.md:130
 msgid ""
 "For a detailed methodology, see: A Global Standard for the Identification"
 " of Key Biodiversity Areas (IUCN 2016). "
 "<https://portals.iucn.org/library/sites/library/files/documents/2016-048.pdf>."
-msgstr ""
+msgstr "للاطّلاع على منهجية مفصَّلة، انظر: المعيار العالمي لتحديد مناطق التنوع البيولوجي الرئيسية (الاتحاد الدولي لصون الطبيعة والموارد الطبيعية 2016). <https://portals.iucn.org/library/sites/library/files/documents/2016-048.pdf>."
 
 #: ../../SO4.md:131
 msgid "See <https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA>."
-msgstr ""
+msgstr "انظر <https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA>."
 
 #: ../../SO4.md:132
 msgid "www.protectedplanet.net/en/thematic-areas/oecms."
-msgstr ""
+msgstr "www.protectedplanet.net/en/thematic-areas/oecms."
 
 #: ../../SO4.md:133
 msgid "www.keybiodiversityareas.org/kba-data."
-msgstr ""
+msgstr "www.keybiodiversityareas.org/kba-data."
 
 #: ../../SO4.md:155
 msgid ""
 "SDG indicator 15.1.2b data is updated each November/December using the "
 "latest versions of the datasets on protected areas, OECMs and KBAs."
-msgstr ""
-
-#~ msgid "4.2.1. \tIntroduction"
-#~ msgstr ""
-
-#~ msgid "4.2.2. \tPrerequisites for reporting"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Familiarity with the ‘Advanced Search’ "
-#~ "function on the IUCN Red List "
-#~ "website to enable customized calculation "
-#~ "of the RLI: https://www.iucnredlist.org/search."
-#~ msgstr ""
-
-#~ msgid "4.2.3. \tReporting process and step-by-step procedures"
-#~ msgstr ""
-
-#~ msgid "_Step 1: Report Red List Index data_"
-#~ msgstr ""
-
-#~ msgid "**Table**"
-#~ msgstr ""
-
-#~ msgid "[^4: ]https://www.iucnredlist.org/search."
-#~ msgstr ""
-
-#~ msgid "_Step 2: Qualitatively assess the Red List Index data_"
-#~ msgstr ""
-
-#~ msgid "_Step 3:  Verify the results_"
-#~ msgstr ""
-
-#~ msgid "_Step 4: Generate reports_"
-#~ msgstr ""
-
-#~ msgid "_Data interpretation_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "SDG indicator 15.5.1 metadata document "
-#~ "(https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Butchart et al. (2006) Biodiversity "
-#~ "indicators based on trends in "
-#~ "conservation status: strengths of the "
-#~ "IUCN Red List Index. Conservation "
-#~ "Biology 20: 579–581 "
-#~ "(http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2006.00410.x/abstract)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Butchart et al (2010) Global "
-#~ "Biodiversity: Indicators of Recent Declines,"
-#~ " Science, 328 (5982), pp. 1164–1168 "
-#~ "(https://science.sciencemag.org/content/328/5982/1164)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Protected areas as defined by the "
-#~ "IUCN  are clearly defined geographical "
-#~ "spaces, recognized, dedicated and managed, "
-#~ "through legal or other effective means,"
-#~ " to achieve the long-term "
-#~ "conservation of nature with associated "
-#~ "ecosystem services and cultural values. "
-#~ "A variety of specific management "
-#~ "objectives and levels of access are "
-#~ "recognized within this definition, spanning"
-#~ " conservation, restoration and sustainable "
-#~ "use."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "KBAs are sites that contribute "
-#~ "significantly to the global persistence "
-#~ "of biodiversity and are identified "
-#~ "following global criteria  applied at "
-#~ "national levels. The KBAs include:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "i.\tImportant bird and biodiversity "
-#~ "areas, which are sites that contribute"
-#~ " significantly to the global persistence"
-#~ " of biodiversity, identified using data "
-#~ "on birds, of which >13,000 sites "
-#~ "in total have been identified from "
-#~ "all of the world’s countries;"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "ii.\tAlliance for Zero Extinction sites,"
-#~ " which are sites holding effectively "
-#~ "the entire population of at least "
-#~ "one species assessed as critically "
-#~ "endangered or endangered on the IUCN "
-#~ "Red List of Threatened Species. 853 "
-#~ "sites have been identified for 1,483 "
-#~ "species of mammals, birds, amphibians, "
-#~ "reptiles, freshwater crustaceans, reef-"
-#~ "building corals, conifers, cycads and "
-#~ "other taxa; and"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "iii.\tKBAs identified using an earlier"
-#~ " version of the KBA criteria, "
-#~ "including those identified in ecosystem "
-#~ "hotspot profiles developed with the "
-#~ "support of the Critical Ecosystem "
-#~ "Partnership Fund."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Data on protected areas are managed "
-#~ "in the World Database on Protected "
-#~ "Areas by the UN Environment Programme"
-#~ " World Conservation Monitoring Centre "
-#~ "(UNEP-WCMC)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Data on OECMs are managed in the"
-#~ " World Database on OECMs by the "
-#~ "UNEP-WCMC."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Data on KBAs are managed in the"
-#~ " World Database of Key Biodiversity "
-#~ "Areas by BirdLife International on "
-#~ "behalf of the Key Biodiversity Areas "
-#~ "Partnership."
-#~ msgstr ""
-
-#~ msgid "_Step 1: Report indicator data_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Default data for this indicator is "
-#~ "pre-filled in table SO4-3.T1 from "
-#~ "the SDG database (SDG indicator "
-#~ "15.1.2b), including the national-level "
-#~ "value as well as the upper and "
-#~ "lower bounds of uncertainty around the"
-#~ " national estimate.  For data "
-#~ "specifications for the SO 4-3 indicator,"
-#~ " see the official metadata for SDG"
-#~ " indicator 15.1.2."
-#~ msgstr ""
-
-#~ msgid "_Step 2: Qualitatively assess the results_"
-#~ msgstr ""
-
-#~ msgid "_Step 3: Verify the results_"
-#~ msgstr ""
-
-#~ msgid "_Data availability and quality_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "SDG indicator 15.1.2 metadata document "
-#~ "(https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Butchart, S. H. M. et al. (2012)."
-#~ " Protecting important sites for "
-#~ "biodiversity contributes to meeting global "
-#~ "conservation targets. PLoS One 7(3): "
-#~ "e32529 "
-#~ "(http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032529)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Eken, G. et al. (2004). Key "
-#~ "biodiversity areas as site conservation "
-#~ "targets. BioScience 54: 1110–1118 "
-#~ "(http://bioscience.oxfordjournals.org/content/54/12/1110.short)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "IUCN (2016). A Global Standard for "
-#~ "the Identification of Key Biodiversity "
-#~ "Areas. International Union for Conservation"
-#~ " of Nature, Gland, Switzerland "
-#~ "(https://portals.iucn.org/library/node/46259)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Ricketts, T. H. et al. (2005). "
-#~ "Pinpointing and preventing imminent "
-#~ "extinctions. Proceedings of the National "
-#~ "Academy of Sciences of the U.S.A. "
-#~ "102: 18497–18501 "
-#~ "(http://www.pnas.org/content/102/51/18497.short)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Langhammer, P. F. et al. (2007). "
-#~ "Identification and Gap Analysis of Key"
-#~ " Biodiversity Areas: Targets for "
-#~ "Comprehensive Protected Area Systems. IUCN "
-#~ "World Commission on Protected Areas Best"
-#~ " Practice Protected Area Guidelines Series"
-#~ " No. 15. IUCN, Gland, Switzerland "
-#~ "(https://portals.iucn.org/library/node/9055)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "IUCN 2021. The IUCN Red List of"
-#~ " Threatened Species. Version 2021-1. "
-#~ "https://www.iucnredlist.org."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "For methodology see: Butchart et al "
-#~ "(2010) Global Biodiversity: Indicators of "
-#~ "Recent Declines, Science, 328 (5982), "
-#~ "pp. 1164–1168. "
-#~ "https://science.sciencemag.org/content/328/5982/1164."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The direct and indirect drivers "
-#~ "available for selection in the table "
-#~ "and the levers which can reverse "
-#~ "negative trends are summarized from the"
-#~ " Intergovernmental Science-Policy Platform "
-#~ "on Biodiversity (IPBES) (2019): Global "
-#~ "assessment report on biodiversity and "
-#~ "ecosystem services of the Intergovernmental"
-#~ " Science-Policy Platform on Biodiversity"
-#~ " and Ecosystem Services. E. S. "
-#~ "Brondizio, J. Settele, S. Díaz, and "
-#~ "H. T. Ngo (editors). IPBES secretariat,"
-#~ " Bonn, Germany. 1148 pages. Available "
-#~ "at: https://ipbes.net/global-assessment."
-#~ msgstr ""
-
-#~ msgid "An in-depth reading of SDG indicator 15.5.1 metadata document;"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "i. Important bird and biodiversity "
-#~ "areas, which are sites that contribute"
-#~ " significantly to the global persistence"
-#~ " of biodiversity, identified using data "
-#~ "on birds, of which >13,000 sites "
-#~ "in total have been identified from "
-#~ "all of the world’s countries;"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "ii. Alliance for Zero Extinction sites,"
-#~ " which are sites holding effectively "
-#~ "the entire population of at least "
-#~ "one species assessed as critically "
-#~ "endangered or endangered on the IUCN "
-#~ "Red List of Threatened Species. 853 "
-#~ "sites have been identified for 1,483 "
-#~ "species of mammals, birds, amphibians, "
-#~ "reptiles, freshwater crustaceans, reef-"
-#~ "building corals, conifers, cycads and "
-#~ "other taxa; and"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "iii. KBAs identified using an earlier"
-#~ " version of the KBA criteria, "
-#~ "including those identified in ecosystem "
-#~ "hotspot profiles developed with the "
-#~ "support of the Critical Ecosystem "
-#~ "Partnership Fund."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "An in-depth reading of [SDG "
-#~ "indicator 15.5.1 metadata "
-#~ "document](https://unstats.un.org/sdgs/metadata/files/ "
-#~ "Metadata-15-05-01.pdf);"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "An in-depth reading of [SDG "
-#~ "indicator 15.5.1 metadata "
-#~ "document](<https://unstats.un.org/sdgs/metadata/files/> "
-#~ "Metadata-15-05-01.pdf);"
-#~ msgstr ""
-
+msgstr "يجري تحديث بيانات مؤشر هدف التنمية المستدامة 15-1-2ب في كل شهر من شهري نوفمبر/تشرين الثاني وديسمبر/كانون الأول باستخدام أحدث نسخ مجموعات البيانات المتعلقة بالمناطق المحمية وتدابير الحفظ الفعالة الأخرى القائمة على المناطق ومناطق التنوع البيولوجي الرئيسية."
