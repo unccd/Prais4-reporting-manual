@@ -54,6 +54,14 @@ _Figure 1. Decision tree to help Parties chose the best precipitation data sourc
 ![]()
 ```{image} /img/Figure_1-ZH.png
 ````
+````{ifconfig} language == 'es'
+![]()
+```{image} /img/Figure_1-ES.png
+````
+````{ifconfig} language == 'fr'
+![]()
+```{image} /img/Figure_1-FR.png
+````
 
 
 _GPCC: Global Precipitation Climatology Centre_{{br}}
@@ -288,6 +296,14 @@ _Figure 2. Decision tree to help Parties choose the best population data source 
 ![]()
 ```{image} /img/Figure_2-ZH.png
 ````
+````{ifconfig} language == 'es'
+![]()
+```{image} /img/Figure_2-ES.png
+````
+````{ifconfig} language == 'fr'
+![]()
+```{image} /img/Figure_2-FR.png
+````
 
 This decision-making process should help Parties identify data that meets the specifications summarized in table 20.
 
@@ -474,6 +490,14 @@ _Figure 3. Social, economic, and infrastructural components and their associated
 ![]()
 ```{image} /img/Figure_3-ZH.png
 ````
+````{ifconfig} language == 'es'
+![]()
+```{image} /img/Figure_3-ES.png
+````
+````{ifconfig} language == 'fr'
+![]()
+```{image} /img/Figure_3-FR.png
+````
 
 The UNCCD provides default data from the global DVI dataset of the JRC. The method used to derive the default DVI is similar to the one presented in this manual and in the “Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3”, but presents some key differences in terms of the normalization method (see Step 2) and number of factors included. Two additional factors are used in the default DVI: “Disaster Prevention and Preparedness (US$/Year/Capital)” and “Global map of Accessibility: Travel time to major cities”. The default DVI value represents the median DVI across the country for the period 2000–2018.
 
@@ -501,7 +525,14 @@ _Figure 4. Decision tree to help Parties choose the best tier of vulnerability a
 ![]()
 ```{image} /img/Figure_4-ZH.png
 ````
-
+````{ifconfig} language == 'es'
+![]()
+```{image} /img/Figure_4-ES.png
+````
+````{ifconfig} language == 'fr'
+![]()
+```{image} /img/Figure_4-FR.png
+````
 
 _DVI: Drought Vulnerability Index_{{br}}
 _VA: Vulnerability Assessment_
