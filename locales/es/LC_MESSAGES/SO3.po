@@ -22,7 +22,7 @@ msgid ""
 "3. Strategic objective 3: To mitigate, adapt to, and manage the effects "
 "of drought in order to enhance resilience of vulnerable populations and "
 "ecosystems"
-msgstr "3.Objetivo estratégico 3: mitigar, gestionar y adaptarse a los efectos de la sequía a fin de aumentar la resiliencia de los ecosistemas y las poblaciones vulnerables."
+msgstr "3. Objetivo estratégico 3: mitigar, gestionar y adaptarse a los efectos de la sequía a fin de aumentar la resiliencia de los ecosistemas y las poblaciones vulnerables."
 
 #: ../../SO3.md:3
 msgid ""
@@ -153,7 +153,7 @@ msgstr "Aquellas Partes que deseen emplear datos nacionales proporcionados por e
 #: ../../SO3.md:37
 msgid ""
 "_Figure 1. Decision tree to help Parties chose the best precipitation data source to derive indicator SO 3-1_"
-msgstr "Figura 1. Árbol de decisión para ayudar a las Partes a elegir la mejor fuente de datos de precipitación a la hora de derivar el indicador OE 3-1!"
+msgstr "_Figura 1. Árbol de decisión para ayudar a las Partes a elegir la mejor fuente de datos de precipitación a la hora de derivar el indicador OE 3-1_"
 
 #: ../../SO3.md:40
 msgid ""
@@ -174,11 +174,11 @@ msgstr "*__Tabla 18__. Especificaciones de los datos para el indicador OE 3-1*"
 
 #: ../../SO3.md:1
 msgid "{rspan}`1` Item"
-msgstr " Elemento"
+msgstr "Elemento"
 
 #: ../../SO3.md:2
 msgid "{cspan}`1` Specifications"
-msgstr " Especificaciones"
+msgstr "Especificaciones"
 
 #: ../../SO3.md:3
 msgid "Default data"
@@ -462,7 +462,7 @@ msgstr "De modo que:"
 
 #: ../../SO3.md:150
 msgid ""
-"“P{sub}`ij`” is the proportion of land under the land under the drought "
+"“P{sub}`ij`” is the proportion of land under the drought "
 "intensity class _i_ in the reporting year _j_"
 msgstr "“P{sub}`ij`” es la proporción de tierras afectadas por la clase de intensidad de sequía _i_ durante el año de presentación de informes _j_"
 
@@ -825,8 +825,7 @@ msgstr "Las Partes que deseen emplear conjuntos de datos nacionales o regionales
 
 #: ../../SO3.md:252
 msgid ""
-"_Figure 2. Decision tree to help Parties choose the best population data "
-"source to derive indicator SO 3-2_"
+"_Figure 2. Decision tree to help Parties choose the best population data source to derive indicator SO 3-2_"
 msgstr "_Figura 2. Árbol de decisión para ayudar a las Partes a elegir la mejor fuente de datos sobre población para derivar el indicador OE 3-2_"
 
 #: ../../SO3.md:255
@@ -1308,8 +1307,7 @@ msgstr "Los factores de vulnerabilidad recomendados por la CLD para obtener el I
 #: ../../SO3.md:420
 msgid ""
 "_Figure 3. Social, economic, and infrastructural components and their "
-"associated factors recommended for calculating the Drought Vulnerability "
-"Index_"
+"associated factors recommended for calculating the Drought Vulnerability Index_"
 msgstr "_Figura 3. Componentes sociales, económicos y de infraestructura, con sus factores asociados, que se recomiendan para calcular el Índice de Vulnerabilidad a la Sequía_"
 
 #: ../../SO3.md:423
@@ -1345,8 +1343,8 @@ msgstr "Los productos de datos nacionales o regionales que se utilicen para calc
 msgid ""
 "_Figure 4. Decision tree to help Parties choose the best tier of "
 "vulnerability assessment for the SO 3-3 Indicator reporting according to "
-"data availability_"
-msgstr "_Figura 4. Árbol de decisión para ayudar a las Partes a elegir el mejor nivel de evaluación de la vulnerabilidad para la presentación de informes del indicador del OE 3-3, en función de la disponibilidad de los datos_"
+"data availability_ ![](/img/SO3_3b_Decision_tree.jpg)"
+msgstr "_Figura 4. Árbol de decisión para ayudar a las Partes a elegir el mejor nivel de evaluación de la vulnerabilidad para la presentación de informes del indicador del OE 3-3, en función de la disponibilidad de los datos_ ![](/img/SO3_3b_Decision_tree.jpg)"
 
 #: ../../SO3.md:432
 msgid "_DVI: Drought Vulnerability Index_{{br}} _VA: Vulnerability Assessment_"
