@@ -290,3 +290,7 @@ blockquote.pull-quote {
 .larger-text {
   font-size: larger;
 }
+
+.wy-nav-content {
+  max-width: 968px;
+}
