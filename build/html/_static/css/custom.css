@@ -1,0 +1,292 @@
+/* CSS for the transition matrix table in sample_markdown */
+.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(2) {background-color: #fffacd;}
+.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(3) {background-color: #ffb6c1;}
+.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(4) {background-color: #ffb6c1;}
+.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(5) {background-color: #ffb6c1; color: red}
+.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(6) {background-color: #ffb6c1;}
+.rst-content table.transition-matrix tr:nth-child(1) td:nth-child(7) {background-color: #ffb6c1;}
+
+.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(2) {background-color: #90ee90;}
+.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(3) {background-color: #fffacd;}
+.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(4) {background-color: #90ee90;}
+.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(5) {background-color: #ffb6c1; color: red;}
+.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(6) {background-color: #ffb6c1;}
+.rst-content table.transition-matrix tr:nth-child(2) td:nth-child(7) {background-color: #ffb6c1;}
+
+/* CSS for SO1 - table 9 */
+
+html.writer-html5 .rst-content table.docutils.table-9 th>p, html.writer-html5 .rst-content table.docutils.table-9 td>p {
+  font-size: 0.8rem;
+}
+
+.rst-content table.table-9 tr:nth-child(1) td:nth-child(2) {background-color: #FEFCCE;}
+.rst-content table.table-9 tr:nth-child(1) td:nth-child(3) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(1) td:nth-child(4) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(1) td:nth-child(5) {background-color: #FADBC6; color: #C00000}
+.rst-content table.table-9 tr:nth-child(1) td:nth-child(6) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(1) td:nth-child(7) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(1) td:nth-child(8) {background-color: #FEFCCE;}
+
+.rst-content table.table-9 tr:nth-child(2) td:nth-child(2) {background-color: #C2D69B;}
+.rst-content table.table-9 tr:nth-child(2) td:nth-child(3) {background-color: #FEFCCE;}
+.rst-content table.table-9 tr:nth-child(2) td:nth-child(4) {background-color: #C2D69B;}
+.rst-content table.table-9 tr:nth-child(2) td:nth-child(5) {background-color: #FADBC6; color: #C00000;}
+.rst-content table.table-9 tr:nth-child(2) td:nth-child(6) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(2) td:nth-child(7) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(2) td:nth-child(8) {background-color: #FEFCCE;}
+
+.rst-content table.table-9 tr:nth-child(3) td:nth-child(2) {background-color: #C2D69B;}
+.rst-content table.table-9 tr:nth-child(3) td:nth-child(3) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(3) td:nth-child(4) {background-color: #FEFCCE;}
+.rst-content table.table-9 tr:nth-child(3) td:nth-child(5) {background-color: #FADBC6; color: #C00000;}
+.rst-content table.table-9 tr:nth-child(3) td:nth-child(6) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(3) td:nth-child(7) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(3) td:nth-child(8) {background-color: #FEFCCE;}
+
+.rst-content table.table-9 tr:nth-child(4) td:nth-child(2) {background-color: #FADBC6; color: #C00000}
+.rst-content table.table-9 tr:nth-child(4) td:nth-child(3) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(4) td:nth-child(4) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(4) td:nth-child(5) {background-color: #FEFCCE;}
+.rst-content table.table-9 tr:nth-child(4) td:nth-child(6) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(4) td:nth-child(7) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(4) td:nth-child(8) {background-color: #FEFCCE;}
+
+.rst-content table.table-9 tr:nth-child(5) td:nth-child(2) {background-color: #C2D69B; color: #C00000}
+.rst-content table.table-9 tr:nth-child(5) td:nth-child(3) {background-color: #C2D69B;}
+.rst-content table.table-9 tr:nth-child(5) td:nth-child(4) {background-color: #C2D69B;}
+.rst-content table.table-9 tr:nth-child(5) td:nth-child(5) {background-color: #C2D69B;}
+.rst-content table.table-9 tr:nth-child(5) td:nth-child(6) {background-color: #FEFCCE;}
+.rst-content table.table-9 tr:nth-child(5) td:nth-child(7) {background-color: #C2D69B;}
+.rst-content table.table-9 tr:nth-child(5) td:nth-child(8) {background-color: #FEFCCE;}
+
+.rst-content table.table-9 tr:nth-child(6) td:nth-child(2) {background-color: #C2D69B;}
+.rst-content table.table-9 tr:nth-child(6) td:nth-child(3) {background-color: #C2D69B;}
+.rst-content table.table-9 tr:nth-child(6) td:nth-child(4) {background-color: #C2D69B;}
+.rst-content table.table-9 tr:nth-child(6) td:nth-child(5) {background-color: #C2D69B;}
+.rst-content table.table-9 tr:nth-child(6) td:nth-child(6) {background-color: #FADBC6;}
+.rst-content table.table-9 tr:nth-child(6) td:nth-child(7) {background-color: #FEFCCE;}
+.rst-content table.table-9 tr:nth-child(6) td:nth-child(8) {background-color: #FEFCCE;}
+
+.rst-content table.table-9 tr:nth-child(7) td:nth-child(2) {background-color: #FEFCCE;}
+.rst-content table.table-9 tr:nth-child(7) td:nth-child(3) {background-color: #FEFCCE;}
+.rst-content table.table-9 tr:nth-child(7) td:nth-child(4) {background-color: #FEFCCE;}
+.rst-content table.table-9 tr:nth-child(7) td:nth-child(5) {background-color: #FEFCCE;}
+.rst-content table.table-9 tr:nth-child(7) td:nth-child(6) {background-color: #FEFCCE;}
+.rst-content table.table-9 tr:nth-child(7) td:nth-child(7) {background-color: #FEFCCE;}
+.rst-content table.table-9 tr:nth-child(7) td:nth-child(8) {background-color: #FEFCCE;}
+
+
+/* CSS for SO 1 - Table 13 - productivity metrix */
+
+.rst-content table.table-13 tr td {
+  text-align: center;
+}
+
+.rst-content table.table-13 tr:nth-child(1) td:nth-child(2) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(1) td:nth-child(3) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(1) td:nth-child(4) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(1) td:nth-child(5) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(1) td:nth-child(6) {background-color: lightgreen}
+
+.rst-content table.table-13 tr:nth-child(2) td:nth-child(2) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(2) td:nth-child(3) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(2) td:nth-child(4) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(2) td:nth-child(5) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(2) td:nth-child(6) {background-color: lightgreen}
+
+.rst-content table.table-13 tr:nth-child(3) td:nth-child(2) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(3) td:nth-child(3) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(3) td:nth-child(4) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(3) td:nth-child(5) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(3) td:nth-child(6) {background-color: lightgreen}
+
+.rst-content table.table-13 tr:nth-child(4) td:nth-child(2) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(4) td:nth-child(3) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(4) td:nth-child(4) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(4) td:nth-child(5) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(4) td:nth-child(6) {background-color: lightgreen}
+
+.rst-content table.table-13 tr:nth-child(5) td:nth-child(2) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(5) td:nth-child(3) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(5) td:nth-child(4) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(5) td:nth-child(5) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(5) td:nth-child(6) {background-color: lightgreen}
+
+.rst-content table.table-13 tr:nth-child(6) td:nth-child(2) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(6) td:nth-child(3) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(6) td:nth-child(4) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(6) td:nth-child(5) {background-color: orange}
+.rst-content table.table-13 tr:nth-child(6) td:nth-child(6) {background-color: red; color: black;}
+
+.rst-content table.table-13 tr:nth-child(7) td:nth-child(2) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(7) td:nth-child(3) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(7) td:nth-child(4) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(7) td:nth-child(5) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(7) td:nth-child(6) {background-color: #E5DFEC}
+
+.rst-content table.table-13 tr:nth-child(8) td:nth-child(2) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(8) td:nth-child(3) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(8) td:nth-child(4) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(8) td:nth-child(5) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(8) td:nth-child(6) {background-color: #E5DFEC}
+
+.rst-content table.table-13 tr:nth-child(9) td:nth-child(2) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(9) td:nth-child(3) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(9) td:nth-child(4) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(9) td:nth-child(5) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(9) td:nth-child(6) {background-color: #E5DFEC}
+
+.rst-content table.table-13 tr:nth-child(10) td:nth-child(2) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(10) td:nth-child(3) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(10) td:nth-child(4) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(10) td:nth-child(5) {background-color: #CCC0D9}
+.rst-content table.table-13 tr:nth-child(10) td:nth-child(6) {background-color: #E5DFEC}
+
+.rst-content table.table-13 tr:nth-child(11) td:nth-child(2) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(11) td:nth-child(3) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(11) td:nth-child(4) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(11) td:nth-child(5) {background-color: orange}
+.rst-content table.table-13 tr:nth-child(11) td:nth-child(6) {background-color: red; color: black;}
+
+.rst-content table.table-13 tr:nth-child(12) td:nth-child(2) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(12) td:nth-child(3) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(12) td:nth-child(4) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(12) td:nth-child(5) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(12) td:nth-child(6) {background-color: red; color: black;}
+
+.rst-content table.table-13 tr:nth-child(13) td:nth-child(2) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(13) td:nth-child(3) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(13) td:nth-child(4) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(13) td:nth-child(5) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(13) td:nth-child(6) {background-color: red; color: black;}
+
+.rst-content table.table-13 tr:nth-child(14) td:nth-child(2) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(14) td:nth-child(3) {background-color: lightgreen}
+.rst-content table.table-13 tr:nth-child(14) td:nth-child(4) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(14) td:nth-child(5) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(14) td:nth-child(6) {background-color: red; color: black;}
+
+.rst-content table.table-13 tr:nth-child(15) td:nth-child(2) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(15) td:nth-child(3) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(15) td:nth-child(4) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(15) td:nth-child(5) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(15) td:nth-child(6) {background-color: red; color: black;}
+
+.rst-content table.table-13 tr:nth-child(16) td:nth-child(2) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(16) td:nth-child(3) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(16) td:nth-child(4) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(16) td:nth-child(5) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(16) td:nth-child(6) {background-color: red; color: black;}
+
+.rst-content table.table-13 tr:nth-child(17) td:nth-child(2) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(17) td:nth-child(3) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(17) td:nth-child(4) {background-color: #E5DFEC}
+.rst-content table.table-13 tr:nth-child(17) td:nth-child(5) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(17) td:nth-child(6) {background-color: red; color: black;}
+
+.rst-content table.table-13 tr:nth-child(18) td:nth-child(2) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(18) td:nth-child(3) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(18) td:nth-child(4) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(18) td:nth-child(5) {background-color: red; color: black;}
+.rst-content table.table-13 tr:nth-child(18) td:nth-child(6) {background-color: red; color: black;}
+
+/* Table 22 in SO5 */
+html.writer-html5 .rst-content table.docutils.table-22 th>p, html.writer-html5 .rst-content table.docutils.table-22 td>p {
+  font-size: 0.7rem;
+}
+.rst-content table.table-22 tr:nth-child(1) th:nth-child(4) {min-width: 8rem;}
+
+/* Table 24 in SO5 */
+html.writer-html5 .rst-content table.docutils.table-24 th>p, html.writer-html5 .rst-content table.docutils.table-24 td>p {
+  font-size: 0.7rem;
+}
+.rst-content table.table-24 tr:nth-child(1) th:nth-child(7) {min-width: 8rem;}
+
+/* Table 25 in SO5 */
+html.writer-html5 .rst-content table.docutils.table-25 th>p, html.writer-html5 .rst-content table.docutils.table-25 td>p {
+  font-size: 0.7rem;
+}
+
+/* Blockquotes */
+.rst-content blockquote {
+  background-color: #f8f8f8;
+  border: 1px solid rgb(225, 228, 229);
+  padding: 1rem;
+}
+
+ins {
+  text-decoration: underline;
+  background-color: #fff;
+}
+
+.wy-table-responsive table td, .wy-table-responsive table th {
+  white-space: normal !important;
+}
+
+.wy-table-responsive table th {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.wy-table-responsive table td>p:not(:last-child), .wy-table-responsive table th>p:not(:last-child) {
+  margin-bottom: 1rem !important;
+}
+
+.rst-content table.docutils td, .rst-content table.docutils th, .rst-content table.field-list td, .rst-content table.field-list th, .wy-table td, .wy-table th {
+  padding: 4px 8px !important;
+}
+
+.rst-content table.docutils.table-25 caption,
+.rst-content table.docutils.table-22 caption {
+  text-align: left;
+}
+
+.align-right {
+  text-align: right;
+}
+.align-left {
+  text-align: left;
+}
+.align-center {
+  text-align: center;
+}
+
+h4 {
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 600;
+}
+
+h5 {
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 500;
+}
+
+blockquote.pull-quote {
+  padding-bottom: 0;
+}
+
+.font-style-italic {
+  font-style: italic;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.small-text {
+  font-size: small;
+}
+
+.smaller-text {
+  font-size: smaller;
+}
+
+.large-text {
+  font-size: large;
+}
+
+.larger-text {
+  font-size: larger;
+}
