@@ -4,7 +4,6 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
@@ -22,18 +21,18 @@ msgstr ""
 msgid ""
 "Annex I: User-specific license options for national data uploaded to the "
 "UNCCD Performance Review and Assessment of Implementation System (PRAIS)"
-msgstr ""
+msgstr "Annexe I : Choix de licences spécifiques aux utilisateurs pour les données nationales téléchargées sur le système d’examen de la performance et d’évaluation de la mise en œuvre (PRAIS) de la CNULCD"
 
 #: ../../annex_I.md:3
 msgid "1. UNCCD Mandate"
-msgstr ""
+msgstr "1. Mandat de la CNULCD"
 
 #: ../../annex_I.md:5
 msgid ""
 "Decision 16/COP.11 para. 9 requests the secretariat to ensure that data "
 "and information from the reporting process are available and accessible "
 "to all, especially at the national and local levels."
-msgstr ""
+msgstr "En vertu de sa décision 16/COP.11, paragraphe 9, la Conférence des Parties a demandé au Secrétariat qu’il veille à ce que les données et les informations du processus de présentation de rapports soient disponibles et accessibles à tous, en particulier aux échelons local et national."
 
 #: ../../annex_I.md:7
 msgid ""
@@ -44,11 +43,11 @@ msgid ""
 "other conventions and multilateral bodies, and to utilize intellectual "
 "property provisions to protect innovations submitted as best practices "
 "while implementing this data access policy."
-msgstr ""
+msgstr "En vertu de sa décision 17/COP.11, paragraphe 14, la Conférence des Parties a demandé au Secrétariat d’élaborer une politique concernant l’accès aux données et aux informations communiquées par les Parties et autres entités présentant des rapports, notamment par l’intermédiaire du système d’examen de la performance et d’évaluation de la mise en œuvre (PRAIS), en s’inspirant des pratiques et des politiques adoptées par d’autres conventions et organismes multilatéraux. Elle lui a également demandé d’utiliser des dispositions sur la propriété intellectuelle pour protéger les innovations soumises en tant que bonnes pratiques tout en mettant en œuvre cette politique d’accès aux données."
 
 #: ../../annex_I.md:9
 msgid "2. Introduction"
-msgstr ""
+msgstr "2. Introduction"
 
 #: ../../annex_I.md:11
 msgid ""
@@ -68,13 +67,13 @@ msgid ""
 "International Soil Reference and Information Centre Soil Grids data has "
 "been released under an “Attribution-Share Alike” licence. Thus, the use "
 "of these datasets is subject to the terms of this licence."
-msgstr ""
+msgstr "L’application de licences aux ensembles de données nationaux vise à permettre aux pays Parties communiquant des informations par l’intermédiaire du système PRAIS de définir les conditions d’utilisation de leurs données nationales téléchargées ou créées dans le cadre du cycle de présentation de rapports en créant une licence spécifique à l’utilisateur. La licence par défaut appliquée aux données du système PRAIS peut être consultée dans la section du site relative aux conditions d’utilisation. Les Parties téléchargeant des ensembles de données nationaux sur le système ont la possibilité de modifier la licence par défaut dans la liste des couches spatiales en cliquant sur le formulaire fourni pour chaque couche téléchargée. Cependant, bien que les Parties soient libres de fixer les conditions d’utilisation de leurs ensembles de données nationaux, les données par défaut fournies aux Parties par l’intermédiaire du système PRAIS et de Trends.Earth relèvent déjà du domaine public comme décrit [ici] (https://trends.earth/docs/en/about/data_sources.html), et ne peuvent donc pas faire l’objet d’une licence choisie séparément par les Parties. Par exemple, les données sur le couvert terrestre de l’Initiative sur le changement climatique de l’Agence spatiale européenne et les grilles pédologiques du Centre international de référence et d'information pédologique ont été publiées sous une licence « Attribution-Partage aux mêmes conditions ». À ce titre, l’utilisation de ces ensembles de données est soumise aux conditions de cette licence."
 
 #: ../../annex_I.md:13
 msgid ""
 "By choosing a USL, the user consents to the chosen licence. It is "
 "understood that the following terms and conditions are agreed to:"
-msgstr ""
+msgstr "En choisissant une licence spécifique à l’utilisateur, l’utilisateur consent à la licence choisie. Il est entendu que les conditions suivantes sont acceptées :"
 
 #: ../../annex_I.md:15
 msgid ""
@@ -82,14 +81,14 @@ msgid ""
 "implied, of any of the privileges and immunities of the United Nations "
 "Convention to Combat Desertification (UNCCD) or the United Nations, "
 "including its subsidiary organs."
-msgstr ""
+msgstr "Aucun élément de cette licence spécifique à l’utilisateur ou s’y rapportant ne sera considéré comme une renonciation, expresse ou implicite, à aucun des privilèges et immunités dont jouissent la Convention des Nations Unies sur la lutte contre la désertification (CNULCD) ou les Nations Unies, y compris leurs organes subsidiaires."
 
 #: ../../annex_I.md:17
 msgid ""
 "The name and emblem of the UNCCD is the property of the UNCCD, which owns"
 " all rights to its use. The logo can only be used to identify events and "
 "activities related to the UNCCD."
-msgstr ""
+msgstr "Le nom et l’emblème de la CNULCD sont la propriété de la CNULCD, qui détient tous les droits concernant leur utilisation. Le logo ne peut être utilisé que pour identifier des événements et des activités liés à la CNULCD."
 
 #: ../../annex_I.md:19
 msgid ""
@@ -97,51 +96,51 @@ msgid ""
 " that stipulated in this USL, where prior authorization was not sought "
 "and granted in accordance with the conditions expressed and communicated "
 "by the UNCCD."
-msgstr ""
+msgstr "La CNULCD ne saurait être tenue pour responsable de toute utilisation des informations non conforme aux stipulations de cette licence spécifique à l’utilisateur, dans le cas où une autorisation préalable n’aurait pas été sollicitée et accordée conformément aux conditions exprimées et communiquées par la CNULCD."
 
 #: ../../annex_I.md:21
 msgid "3. Submitting national datasets to PRAIS"
-msgstr ""
+msgstr "3. Soumettre des ensembles de données nationaux sur le système PRAIS"
 
 #: ../../annex_I.md:23
 msgid ""
 "There are three mechanisms to share non-default reporting datasets in "
 "PRAIS:"
-msgstr ""
+msgstr "Trois mécanismes permettent de partager des ensembles de données autres que les données par défaut dans le système PRAIS :"
 
 #: ../../annex_I.md:25
 msgid ""
 "Uploading data directly to PRAIS and supplying metadata (information "
 "about the dataset) on the form provided."
-msgstr ""
+msgstr "Télécharger directement les données sur le système PRAIS et renseigner les métadonnées (informations relatives à l’ensemble de données) dans le formulaire fourni."
 
 #: ../../annex_I.md:27
 msgid ""
 "Via data transfer from Trends.Earth (when using national data for "
 "calculating UNCCD indicators in Trends.Earth)."
-msgstr ""
+msgstr "Effectuer un transfert de données depuis Trends.Earth (en cas d’utilisation de données nationales pour calculer les indicateurs de la CNULCD dans Trends.Earth)."
 
 #: ../../annex_I.md:29
 msgid "Creating spatial reporting data on the Spatial Data Viewer in PRAIS."
-msgstr ""
+msgstr "Créer des données spatiales à l’aide du visualiseur de données spatiales du système PRAIS."
 
 #: ../../annex_I.md:31
 msgid "4. Licence Instructions"
-msgstr ""
+msgstr "4. Instructions relatives à la licence"
 
 #: ../../annex_I.md:33
 msgid "For every uploaded or created dataset in PRAIS, you may choose to:"
-msgstr ""
+msgstr "Pour chaque ensemble de données téléchargé ou créé dans le système PRAIS, vous pouvez :"
 
 #: ../../annex_I.md:35
 msgid "Accept the default Creative Commons (CC) licence."
-msgstr ""
+msgstr "accepter la licence Creative Commons (CC) par défaut ;"
 
 #: ../../annex_I.md:37
 msgid ""
 "Choose an alternative CC licence which applies additional restrictions on"
 " the use of the data, or use an existing licence of your own."
-msgstr ""
+msgstr "choisir une autre licence CC imposant des restrictions supplémentaires sur l’utilisation des données, ou utiliser une licence personnelle existante."
 
 #: ../../annex_I.md:39
 msgid ""
@@ -155,18 +154,18 @@ msgid ""
 " Data may be provided to other PRAIS users on the understanding that they"
 " read it and consent to be bound by the terms and conditions of use set "
 "out in the USL (if the data is not already in the public domain)."
-msgstr ""
+msgstr "La licence appliquée aux données déterminera le niveau d’accès public des utilisateurs aux ensembles de données nationaux hébergés par le système PRAIS et gérés par le Secrétariat de la CNULCD aux fins de la présentation des rapports. Aux fins de cet accord, les « Données » englobent toute donnée nationale, avec une reconnaissance particulière pour les données spatiales et les données d’attributs associées communiquées par les pays Parties dans le cadre du cycle de présentation de rapports au titre de la CNULCD au moyen du visualiseur de données spatiales du système PRAIS, au moyen de l’outil de téléchargement du système PRAIS ou par l’intermédiaire de Trends.Earth. Les Données peuvent être communiquées à d’autres utilisateurs du système PRAIS, étant entendu qu’ils ont lu et accepté d’être liés par les conditions d’utilisation énoncées dans la licence spécifique à l’utilisateur (si les données ne sont pas encore tombées dans le domaine public)."
 
 #: ../../annex_I.md:41
 msgid ""
 "Therefore, country Parties should familiarize themselves with the "
 "following options and select the one(s) best suited to their requirements"
 " for their Data:"
-msgstr ""
+msgstr "Par conséquent, les pays Parties doivent se familiariser avec les options suivantes et choisir celle(s) qui correspond(ent) le mieux à leurs besoins concernant leurs Données :"
 
 #: ../../annex_I.md:43
 msgid "4.1. Creative Commons Licences"
-msgstr ""
+msgstr "4.1. Licences Creative Commons"
 
 #: ../../annex_I.md:45
 msgid ""
@@ -176,21 +175,21 @@ msgid ""
 "on its use as possible. Therefore, the data shared by country Parties "
 "will be licensed according to the CC Attribution-NonCommercial 2.0 "
 "Generic (CC BY-NC 2.0) licence which means users of the data are free to:"
-msgstr ""
+msgstr "Vous pouvez appliquer trois licences CC couramment utilisées à votre ensemble de données. Cependant, la CNULCD a pris un engagement en matière de données ouvertes et entend partager les données communiquées par les Parties avec aussi peu de contraintes et de restrictions d’utilisation que possible. À ce titre, les données partagées par les pays Parties seront assorties de la licence CC Attribution-Pas d’utilisation commerciale 2.0 Générique (CC BY-NC 2.0), qui autorise les utilisateurs des données à :"
 
 #: ../../annex_I.md:47
 msgid "Share — Copy and redistribute the material in any medium or format."
-msgstr ""
+msgstr "Partager — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats."
 
 #: ../../annex_I.md:49
 msgid "Adapt — Remix, transform, and build upon the material."
-msgstr ""
+msgstr "Adapter — remixer, transformer et créer à partir du matériel."
 
 #: ../../annex_I.md:51
 msgid ""
 "However, in return for using the data, users must respect the following "
 "terms:"
-msgstr ""
+msgstr "Cependant, en échange de l’utilisation des données, les utilisateurs doivent respecter les conditions suivantes :"
 
 #: ../../annex_I.md:53
 msgid ""
@@ -198,39 +197,39 @@ msgid ""
 "licence and indicate if changes were made. You may do so in any "
 "reasonable manner, but not in any way which suggests that the licensor "
 "endorses you or your use."
-msgstr ""
+msgstr "Attribution — Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été apportées à l'œuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l’offrant vous soutient ou soutient la façon dont vous avez utilisé son œuvre."
 
 #: ../../annex_I.md:55
 msgid "NonCommercial — You may not use the material for commercial purposes."
-msgstr ""
+msgstr "Pas d’utilisation commerciale — Vous n’êtes pas autorisé à faire un usage commercial du matériel."
 
 #: ../../annex_I.md:57
 msgid ""
 "To find out more about this licence (translated into all United Nations "
 "languages), please visit this [link](https://creativecommons.org/licenses"
 "/by-nc/2.0/)."
-msgstr ""
+msgstr "Pour en savoir plus sur cette licence (traduite dans toutes les langues des Nations Unies), cliquez sur ce [lien] (https://creativecommons.org/licenses/by-nc/2.0/)."
 
 #: ../../annex_I.md:59
 msgid ""
 "Alternatively, two other CC licences are offered to Parties, which impose"
 " additional restrictions on the use of the data:"
-msgstr ""
+msgstr "Les Parties peuvent choisir deux autres licences CC, qui imposent des restrictions supplémentaires sur l’utilisation des données :"
 
 #: ../../annex_I.md:61
 msgid "Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)"
-msgstr ""
+msgstr "Attribution-Pas d’utilisation commerciale-Partage dans les mêmes conditions (CC BY-NC-SA)"
 
 #: ../../annex_I.md:63
 msgid ""
 "This licence allows others to remix, adapt and build upon your work non-"
 "commercially, as long as they credit you and license their new creations "
 "under identical terms."
-msgstr ""
+msgstr "Cette licence autorise les autres utilisateurs à remixer, adapter et créer à partir de vos données à des fins non commerciales, sous réserve qu’ils vous créditent et qu’ils appliquent les mêmes conditions de licence à leurs nouvelles créations."
 
 #: ../../annex_I.md:65
 msgid "Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)"
-msgstr ""
+msgstr "Attribution-Pas d’utilisation commerciale-Pas de modification (CC BY-NC-ND)"
 
 #: ../../annex_I.md:67
 msgid ""
@@ -238,11 +237,11 @@ msgid ""
 "others to download the data and share it with others as long as they "
 "credit you. However, they are not authorized to change it in any way or "
 "use it commercially."
-msgstr ""
+msgstr "Cette licence est la plus restrictive. Elle autorise seulement les autres utilisateurs à télécharger les données et à les partager à condition qu’ils vous créditent. Ils ne sont pas autorisés à les modifier de toute manière que ce soit ni à en faire un usage commercial."
 
 #: ../../annex_I.md:69
 msgid "4.2. Existing licences"
-msgstr ""
+msgstr "4.2. Licences existantes"
 
 #: ../../annex_I.md:71
 msgid ""
@@ -251,5 +250,5 @@ msgid ""
 "data which are not covered in the above options. We invite country "
 "Parties to describe the licence and the permissions of use using the form"
 " provided."
-msgstr ""
+msgstr "Les pays Parties peuvent télécharger ou créer des ensembles de données spatiales assortis d’une licence existante pouvant imposer des restrictions supplémentaires sur l’utilisation des données qui ne figurent pas dans les options susmentionnées. Nous invitons les pays Parties à décrire la licence et les autorisations d’utilisation dans le formulaire fourni."
 

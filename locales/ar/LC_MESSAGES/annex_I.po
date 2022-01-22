@@ -4,12 +4,11 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-19 18:27+0300\n"
+"POT-Creation-Date: 2021-11-04 19:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,18 +21,18 @@ msgstr ""
 msgid ""
 "Annex I: User-specific license options for national data uploaded to the "
 "UNCCD Performance Review and Assessment of Implementation System (PRAIS)"
-msgstr ""
+msgstr "المرفق الأول: خيارات الرخصة الخاصة بالمستخدم للبيانات الوطنية المحمَّلة على نظام استعراض الأداء وتقييم التنفيذ (PRAIS) التابع لاتفاقية الأمم المتحدة لمكافحة التصحر"
 
 #: ../../annex_I.md:3
 msgid "1. UNCCD Mandate"
-msgstr ""
+msgstr "1- ولاية اتفاقية الأمم المتحدة لمكافحة التصحر"
 
 #: ../../annex_I.md:5
 msgid ""
 "Decision 16/COP.11 para. 9 requests the secretariat to ensure that data "
 "and information from the reporting process are available and accessible "
 "to all, especially at the national and local levels."
-msgstr ""
+msgstr "يطلب المقرر رقم 16/م أ-11 فقرة 9 إلى الأمانة العامة أن تكفل توافر البيانات والمعلومات المستمدة من عملية الإبلاغ وإتاحتها للجميع، لا سيما على الصعيدين الوطني والمحلي."
 
 #: ../../annex_I.md:7
 msgid ""
@@ -44,11 +43,11 @@ msgid ""
 "other conventions and multilateral bodies, and to utilize intellectual "
 "property provisions to protect innovations submitted as best practices "
 "while implementing this data access policy."
-msgstr ""
+msgstr "يطلب المقرر رقم 17/م أ-11 فقرة 14 إلى الأمانة العامة أن تضع سياسة للدخول إلى البيانات والمعلومات المقدَّمة من الأطراف وغيرها من الكيانات المبلِّغة، بما في ذلك من خلال نظام استعراض الأداء وتقييم التنفيذ (PRAIS)، بناءً على ممارسات وسياسات الاتفاقيات الأخرى والهيئات المتعددة الأطراف، وأن تستفيد من أحكام الملكية الفكرية لحماية الابتكارات المقدَّمة باعتبارها أفضل الممارسات عند تنفيذ سياسة الوصول إلى البيانات هذه."
 
 #: ../../annex_I.md:9
 msgid "2. Introduction"
-msgstr ""
+msgstr "2- مقدمة"
 
 #: ../../annex_I.md:11
 msgid ""
@@ -68,13 +67,13 @@ msgid ""
 "International Soil Reference and Information Centre Soil Grids data has "
 "been released under an “Attribution-Share Alike” licence. Thus, the use "
 "of these datasets is subject to the terms of this licence."
-msgstr ""
+msgstr "يهدف الترخيص لمجموعات البيانات الوطنية إلى تمكين البلدان الأطراف المبلِّغة من خلال نظام استعراض الأداء وتقييم التنفيذ (PRAIS) من تحديد شروط استخدام بياناتها الوطنية المحمَّلة أو المنشأة في إطار عملية الإبلاغ من خلال إنشاء رخصة خاصة بالمستخدم. ويمكن الاطلاع على الرخصة الافتراضية لبيانات نظام استعراض الأداء وتقييم التنفيذ (PRAIS) في قسم \"شروط الاستخدام\" بالموقع. لدى الأطراف التي تُحمِّل مجموعات البيانات الوطنية إلى النظام خيار تحرير الرخصة الافتراضية في قائمة الطبقات المكانية عن طريق النقر على الاستمارة المقدَّمة لكل طبقة محمَّلة. ومع ذلك، في حين أنَّ للأطراف الحرية في تحديد شروط الاستخدام الخاصة بها لمجموعات البيانات الوطنية لديها، فإنَّ البيانات الافتراضية المقدَّمة إلى الأطراف من خلال نظام استعراض الأداء وتقييم التنفيذ (PRAIS) وموقع Trends.Earth متاحة بالفعل للعموم كما هو موضح [هنا](https://trends.earth/docs/en/about/data_sources.html)، وبالتالي لا يمكن أن تحصل الأطراف على ترخيص منفصل. فعلى سبيل المثال، أُصدرت بيانات الغطاء الأرضي الخاصة بمبادرة وكالة الفضاء الأوروبية المتعلقة بتغيُّر المناخ، وبيانات شبكات التربة الخاصة بالمركز الدولي للمراجع والمعلومات المتعلقة بالتربة، بموجب رخصة \"نَسب المُصنَّف-المشاركة بالمثل\". وبالتالي، يخضع استخدام مجموعات البيانات هذه لشروط هذه الرخصة."
 
 #: ../../annex_I.md:13
 msgid ""
 "By choosing a USL, the user consents to the chosen licence. It is "
 "understood that the following terms and conditions are agreed to:"
-msgstr ""
+msgstr "يوافق المستخدم باختياره الرخصة الخاصة بالمستخدم على الرخصة المختارة. ومن المفهوم أن الأحكام والشروط التالية متفَق عليها:"
 
 #: ../../annex_I.md:15
 msgid ""
@@ -82,14 +81,14 @@ msgid ""
 "implied, of any of the privileges and immunities of the United Nations "
 "Convention to Combat Desertification (UNCCD) or the United Nations, "
 "including its subsidiary organs."
-msgstr ""
+msgstr "لا يُعدّ أي شيء في الرخصة الخاصة بالمستخدم هذه أو ما يتعلق بها تنازلاً صريحاً أو ضمنياً عن أي من امتيازات وحصانات اتفاقية الأمم المتحدة لمكافحة التصحر أو الأمم المتحدة، بما في ذلك هيئاتها الفرعية."
 
 #: ../../annex_I.md:17
 msgid ""
 "The name and emblem of the UNCCD is the property of the UNCCD, which owns"
 " all rights to its use. The logo can only be used to identify events and "
 "activities related to the UNCCD."
-msgstr ""
+msgstr "يُعدّ اسم وشعار اتفاقية مكافحة التصحر ملكاً لاتفاقية الأمم المتحدة لمكافحة التصحر، التي تمتلك جميع حقوق استخدامهما. ولا يمكن استخدام الشعار إلا في تعريف الفعاليات والأنشطة المتصلة بالاتفاقية."
 
 #: ../../annex_I.md:19
 msgid ""
@@ -97,51 +96,51 @@ msgid ""
 " that stipulated in this USL, where prior authorization was not sought "
 "and granted in accordance with the conditions expressed and communicated "
 "by the UNCCD."
-msgstr ""
+msgstr "لن تكون اتفاقية الأمم المتحدة لمكافحة التصحر مسؤولة عن أي استخدام للمعلومات يتجاوز ما هو منصوص عليه في الرخصة الخاصة بالمستخدم هذه، حيثما لم يُلتمَس إذن مسبق ولم يُمنَح وفقاً للشروط التي تعبّر عنها اتفاقية الأمم المتحدة لمكافحة التصحر وتذيعها."
 
 #: ../../annex_I.md:21
 msgid "3. Submitting national datasets to PRAIS"
-msgstr ""
+msgstr "3- تقديم مجموعات البيانات الوطنية إلى نظام استعراض الأداء وتقييم التنفيذ (PRAIS)"
 
 #: ../../annex_I.md:23
 msgid ""
 "There are three mechanisms to share non-default reporting datasets in "
 "PRAIS:"
-msgstr ""
+msgstr "توجد ثلاث آليات لمشاركة مجموعات بيانات الإبلاغ غير الافتراضية في نظام استعراض الأداء وتقييم التنفيذ (PRAIS):"
 
 #: ../../annex_I.md:25
 msgid ""
 "Uploading data directly to PRAIS and supplying metadata (information "
 "about the dataset) on the form provided."
-msgstr ""
+msgstr "تحميل البيانات مباشرةً إلى نظام استعراض الأداء وتقييم التنفيذ (PRAIS) وتقديم البيانات الوصفية (معلومات عن مجموعة البيانات) على الاستمارة المقدمة."
 
 #: ../../annex_I.md:27
 msgid ""
 "Via data transfer from Trends.Earth (when using national data for "
 "calculating UNCCD indicators in Trends.Earth)."
-msgstr ""
+msgstr "عبر نقل البيانات من موقع Trends.Earth (عند استخدام البيانات الوطنية لحساب مؤشرات اتفاقية الأمم المتحدة لمكافحة التصحر في موقع Trends.Earth)."
 
 #: ../../annex_I.md:29
 msgid "Creating spatial reporting data on the Spatial Data Viewer in PRAIS."
-msgstr ""
+msgstr "إنشاء بيانات الإبلاغ المكانية على عارض البيانات المكانية في نظام استعراض الأداء وتقييم التنفيذ (PRAIS)."
 
 #: ../../annex_I.md:31
 msgid "4. Licence Instructions"
-msgstr ""
+msgstr "4- تعليمات الرخصة"
 
 #: ../../annex_I.md:33
 msgid "For every uploaded or created dataset in PRAIS, you may choose to:"
-msgstr ""
+msgstr "لكل مجموعة بيانات جرى تحميلها أو إنشاؤها في نظام استعراض الأداء وتقييم التنفيذ (PRAIS)، يجوز لكم اختيار:"
 
 #: ../../annex_I.md:35
 msgid "Accept the default Creative Commons (CC) licence."
-msgstr ""
+msgstr "قبول رخصة المشاع الإبداعي الافتراضي."
 
 #: ../../annex_I.md:37
 msgid ""
 "Choose an alternative CC licence which applies additional restrictions on"
 " the use of the data, or use an existing licence of your own."
-msgstr ""
+msgstr "يُرجى اختيار رخصة مشاع إبداعي بديلة تُطبِق قيوداً إضافية على استخدام البيانات، أو استخدموا رخصة قائمة خاصة بكم."
 
 #: ../../annex_I.md:39
 msgid ""
@@ -155,18 +154,18 @@ msgid ""
 " Data may be provided to other PRAIS users on the understanding that they"
 " read it and consent to be bound by the terms and conditions of use set "
 "out in the USL (if the data is not already in the public domain)."
-msgstr ""
+msgstr "ستُحدد رخصة البيانات مستوى وصول المستخدمين العموميين إلى مجموعات البيانات الوطنية التي يستضيفها نظام استعراض الأداء وتقييم التنفيذ (PRAIS) وتديرها أمانة اتفاقية الأمم المتحدة لمكافحة التصحر لأغراض الإبلاغ. ولأغراض هذا الاتفاقية، تشمل \"البيانات\" أي بيانات وطنية، مع الاعتراف بوجه خاص بالبيانات المكانية وما يرتبط بها من بيانات مقدَّمة من البلد الطرف في عملية الإبلاغ إلى اتفاقية الأمم المتحدة لمكافحة التصحر من خلال إنشائها على عارض البيانات المكانية لنظام استعراض الأداء وتقييم التنفيذ (PRAIS)، باستخدام أداة التحميل لنظام استعراض الأداء وتقييم التنفيذ (PRAIS) أو عن طريق موقع Trends.Earth. ويُمكِن توفير البيانات لمستخدمي نظام استعراض الأداء وتقييم التنفيذ (PRAIS) الآخرين على أساس إدراك أنهم سيقرأونها ويوافقون على الالتزام بأحكام وشروط الاستخدام المنصوص عليها في الرخصة الخاصة بالمستخدم (إذا لم تكن البيانات موجودة بالفعل في المجال العام)."
 
 #: ../../annex_I.md:41
 msgid ""
 "Therefore, country Parties should familiarize themselves with the "
 "following options and select the one(s) best suited to their requirements"
 " for their Data:"
-msgstr ""
+msgstr "ومن ثم، يُرجى من البلدان الأطراف أن تتعرف على الخيارات التالية وأن تختار أفضل ما يناسب احتياجاتها من البيانات:"
 
 #: ../../annex_I.md:43
 msgid "4.1. Creative Commons Licences"
-msgstr ""
+msgstr "4-1 رُخَص المشاع الإبداعي"
 
 #: ../../annex_I.md:45
 msgid ""
@@ -176,21 +175,21 @@ msgid ""
 "on its use as possible. Therefore, the data shared by country Parties "
 "will be licensed according to the CC Attribution-NonCommercial 2.0 "
 "Generic (CC BY-NC 2.0) licence which means users of the data are free to:"
-msgstr ""
+msgstr "هناك ثلاث رُخَص من رُخَص المشاع الإبداعي تُستخدم في المعتاد والتي يمكن أن تُرخِصوا بها مجموعة البيانات الخاصة بكم. ومع ذلك، تلتزم اتفاقية الأمم المتحدة لمكافحة التصحر بالبيانات المفتوحة وتعتزم مشاركة البيانات المقدَّمة من الأطراف بأقل قدر ممكن من العوائق والقيود المفروضة على استخدامها. وبالتالي، فإنَّ البيانات التي تشاركها البلدان الأطراف سوف تُرَخَص وفقاً لرخصة المشاع الإبداعي، النسبة-غير تجاري 2.0 عام (CC BY-NC 2.0)، مما يعني أنَّ مستخدمي البيانات أحرار في:"
 
 #: ../../annex_I.md:47
 msgid "Share — Copy and redistribute the material in any medium or format."
-msgstr ""
+msgstr "المشاركة - نسخ وإعادة توزيع المواد بأي وسيلة أو تنسيق."
 
 #: ../../annex_I.md:49
 msgid "Adapt — Remix, transform, and build upon the material."
-msgstr ""
+msgstr "التكييف - إعادة مزج أي مواد وتحويلها والبناء عليها."
 
 #: ../../annex_I.md:51
 msgid ""
 "However, in return for using the data, users must respect the following "
 "terms:"
-msgstr ""
+msgstr "غير أنَّه، في مقابل استخدام البيانات، يجب على المستخدمين احترام الشروط التالية:"
 
 #: ../../annex_I.md:53
 msgid ""
@@ -198,39 +197,39 @@ msgid ""
 "licence and indicate if changes were made. You may do so in any "
 "reasonable manner, but not in any way which suggests that the licensor "
 "endorses you or your use."
-msgstr ""
+msgstr "نَسب المُصنَّف - يجب عليكم منح الائتمان المناسب، وتقديم ما يرتبط بالرخصة، وبيان ما إذا تم إجراء تغييرات. ويمكنكم القيام بذلك بأي طريقة معقولة، ولكن ليس بأي طريقة توحي بأن المرخِّص يؤيدكم أو يؤيد استخدامكم."
 
 #: ../../annex_I.md:55
 msgid "NonCommercial — You may not use the material for commercial purposes."
-msgstr ""
+msgstr "غير تجاري - لا يجوز لكم استخدام المواد للأغراض التجارية."
 
 #: ../../annex_I.md:57
 msgid ""
 "To find out more about this licence (translated into all United Nations "
 "languages), please visit this [link](https://creativecommons.org/licenses"
 "/by-nc/2.0/)."
-msgstr ""
+msgstr "لمعرفة مزيد من المعلومات عن هذه الرخصة (المترجمة إلى كل لغات الأمم المتحدة)، تفصلوا بزيارة هذا [الرابط](https://creativecommons.org/licenses/by-nc/2.0/)."
 
 #: ../../annex_I.md:59
 msgid ""
 "Alternatively, two other CC licences are offered to Parties, which impose"
 " additional restrictions on the use of the data:"
-msgstr ""
+msgstr "كبديل لذلك، تُقدَّم إلى الأطراف رخصتان أخريان من رخص المشاع الإبداعي، مما يفرض قيوداً إضافية على استخدام البيانات:"
 
 #: ../../annex_I.md:61
 msgid "Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)"
-msgstr ""
+msgstr "رخصة المشاع الإبداعي العامة، نَسب المُصنَّف-غير تجاري-المشاركة بالمثل (CC BY-NC-SA)."
 
 #: ../../annex_I.md:63
 msgid ""
 "This licence allows others to remix, adapt and build upon your work non-"
 "commercially, as long as they credit you and license their new creations "
 "under identical terms."
-msgstr ""
+msgstr "تسمح هذه الرخصة للآخرين بأن يعيدوا مزج أعمالكم وتكييفها والبناء عليها بطريقة غير تجارية، طالما أنَّهم يشيرون إليكم كمصدر ويرخصون إبداعاتهم الجديدة وفق شروط متطابقة."
 
 #: ../../annex_I.md:65
 msgid "Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)"
-msgstr ""
+msgstr "رخصة المشاع الإبداعي العامة، نَسب المُصنَّف-غير تجاري-منع الاشتقاق (CC BY-NC-ND)."
 
 #: ../../annex_I.md:67
 msgid ""
@@ -238,11 +237,11 @@ msgid ""
 "others to download the data and share it with others as long as they "
 "credit you. However, they are not authorized to change it in any way or "
 "use it commercially."
-msgstr ""
+msgstr "هذه الرخصة هي الأكثر تقييداً من بين الرخص، حيث تسمح فقط للآخرين بتحميل البيانات ومشاركتها مع الآخرين طالما أنهم يشيرون إليكم كمصدر. غير أنَّهم غير مخولين بتغيير البيانات بأي شكل من الأشكال أو باستغلالها تجارياً."
 
 #: ../../annex_I.md:69
 msgid "4.2. Existing licences"
-msgstr ""
+msgstr "4-2 الرُخَص القائمة"
 
 #: ../../annex_I.md:71
 msgid ""
@@ -251,45 +250,5 @@ msgid ""
 "data which are not covered in the above options. We invite country "
 "Parties to describe the licence and the permissions of use using the form"
 " provided."
-msgstr ""
-
-#~ msgid ""
-#~ "Licensing of national datasets aims to"
-#~ " empower country Parties reporting through"
-#~ " PRAIS to set the terms of use"
-#~ " of their national data uploaded or"
-#~ " created as part of the reporting "
-#~ "process by creating a User-Specific "
-#~ "Licence (USL). The default licence for"
-#~ " PRAIS data can be seen in the"
-#~ " “Terms of Use” section of the "
-#~ "site. Parties uploading national datasets "
-#~ "to the system have the option to"
-#~ " edit the default licence in the "
-#~ "Spatial Layers list by clicking on "
-#~ "the form provided per uploaded layer."
-#~ " However, while Parties are free to"
-#~ " set their terms of use for "
-#~ "their national datasets, the default "
-#~ "data provided to Parties through PRAIS"
-#~ " and Trends.Earth is already in the"
-#~ " public domain as described here, and"
-#~ " therefore cannot be licensed separately"
-#~ " by Parties. For example, the "
-#~ "European Space Agency Climate Change "
-#~ "Initiative Land Cover and the "
-#~ "International Soil Reference and Information"
-#~ " Centre Soil Grids data has been "
-#~ "released under an “Attribution-Share "
-#~ "Alike” licence. Thus, the use of "
-#~ "these datasets is subject to the "
-#~ "terms of this licence."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To find out more about this "
-#~ "licence (translated into all United "
-#~ "Nations languages), please visit this "
-#~ "link."
-#~ msgstr ""
+msgstr "يجوز للبلدان الأطراف تحميل أو إنشاء مجموعات بيانات مكانية برخصة بيانات قائمة قد تفرض قيوداً إضافية على استخدام البيانات غير المشمولة بالخيارات المذكورة أعلاه. وندعو البلدان الأطراف إلى بيان الترخيص وأذون الاستخدام باستخدام الاستمارة المقدَّمة."
 

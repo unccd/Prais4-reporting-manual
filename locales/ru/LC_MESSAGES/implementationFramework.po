@@ -4,12 +4,11 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-26 17:12+0300\n"
+"POT-Creation-Date: 2021-11-04 19:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,15 +21,15 @@ msgstr ""
 msgid ""
 "7. Implementation framework: financial and non-financial resources, "
 "policy and planning, and action on the ground"
-msgstr ""
+msgstr "7. Механизм осуществления: финансовые и нефинансовые ресурсы, политика и планирование, а также действия на местах"
 
 #: ../../implementationFramework.md:3
 msgid "7.1. About the implementation framework"
-msgstr ""
+msgstr "7.1. О механизме осуществления"
 
 #: ../../implementationFramework.md:5
 msgid "7.1.1. Introduction"
-msgstr ""
+msgstr "7.1.1. Введение"
 
 #: ../../implementationFramework.md:7
 msgid ""
@@ -38,11 +37,11 @@ msgid ""
 "and implement the strategic objectives and furthermore provides Parties "
 "with an opportunity to share their knowledge and experiences. It focuses "
 "on three broad areas:"
-msgstr ""
+msgstr "Механизм осуществления описывает подход, принятый для поддержки и реализации стратегических целей, и, кроме того, предоставляет Сторонам возможность поделиться своими знаниями и опытом. Он охватывает три масштабные области:"
 
 #: ../../implementationFramework.md:9
 msgid "**(a) Financial and non-financial resources**"
-msgstr ""
+msgstr "**(a) Финансовые и нефинансовые ресурсы**"
 
 #: ../../implementationFramework.md:11
 msgid ""
@@ -50,11 +49,11 @@ msgid ""
 "financial resources; (ii) uses of land degradation neutrality (LDN) as a "
 "catalyst for leveraging investments; and (iii) improved use of existing "
 "and/or innovative financial processes and institutions."
-msgstr ""
+msgstr "Обмен опытом в области (i) успешной мобилизации финансовых и нефинансовых ресурсов; (ii) использования подхода нейтрального баланса деградации земель (НСЗ) в качестве катализатора привлечения инвестиций; и (iii) более эффективного использования существующих и/или инновационных финансовых процессов и учреждений."
 
 #: ../../implementationFramework.md:13
 msgid "**(b) Policy and planning**"
-msgstr ""
+msgstr "**(b) Политика и планирование**"
 
 #: ../../implementationFramework.md:15
 msgid ""
@@ -64,11 +63,11 @@ msgid ""
 "environments; (iii) leveraging of synergies; (iv) mainstreaming of "
 "desertification/land degradation and drought (DLDD);  and (v) "
 "improvements in drought preparedness and management."
-msgstr ""
+msgstr "Обмен опытом в (i) разработке, осуществлении и мониторинге национальных, субрегиональных и региональных программ действий и/или планов по осуществлению КБО ООН; (ii) разработке политики и создании благоприятных условий; (iii) использовании синергизма; (iv) актуализации проблем опустынивания/деградации земель и засухи (ОДЗЗ); и (v) повышении готовности к засухе и управления ею."
 
 #: ../../implementationFramework.md:17
 msgid "**\\(c\\) Actions on the ground**"
-msgstr ""
+msgstr "**\\(c\\) Действия на местах**"
 
 #: ../../implementationFramework.md:19
 msgid ""
@@ -77,66 +76,66 @@ msgid ""
 "and/or rehabilitating ecosystems; (iii) drought risk management and early"
 " warning systems; (iv) alternative livelihoods; and (v) the establishment"
 " of effective systems for sharing information and knowledge."
-msgstr ""
+msgstr "Обмен опытом в области (i) успешной практики внедрения, используемой для достижения устойчивого управления земельными ресурсами; (ii) активизации усилий по восстановлению экосистем; (iii) управления рисками засухи и систем раннего предупреждения; (iv) альтернативных источников средств к существованию; и (v) создания эффективных систем обмена информацией и знаниями."
 
 #: ../../implementationFramework.md:21
 msgid "7.1.2. Approach to reporting and structure of the reporting template"
-msgstr ""
+msgstr "7.1.2. Подход к отчетности и структура шаблона отчетности"
 
 #: ../../implementationFramework.md:23
 msgid "Reporting on the implementation framework is qualitative and voluntary."
-msgstr ""
+msgstr "Отчетность о механизме осуществления является качественной и предоставляется на добровольной основе."
 
 #: ../../implementationFramework.md:25
 msgid ""
 "The reporting template of the PRAIS 4 platform includes a section for "
 "each of the above-mentioned areas ((a), (b) and \\(c\\)), organized as "
 "follows:"
-msgstr ""
+msgstr "Шаблон отчетности платформы СОРОО 4 включает раздел для каждой из вышеупомянутых областей ((a), (b) и \\(c\\)), составленный следующим образом:"
 
 #: ../../implementationFramework.md:27
 msgid "The title and a brief description of each topic;"
-msgstr ""
+msgstr "название и краткое описание каждой темы;"
 
 #: ../../implementationFramework.md:29
 msgid "The key question(s) related to the topics;"
-msgstr ""
+msgstr "ключевой(-ые) вопрос(-ы), связанный(-ые) с темами;"
 
 #: ../../implementationFramework.md:31
 msgid ""
 "Complementary information on the topics (countries’ experiences as "
 "narrative)."
-msgstr ""
+msgstr "дополнительная информация по темам (описание опыта стран)."
 
 #: ../../implementationFramework.md:33
 msgid ""
 "Many questions in the reporting template of the implementation framework "
 "are self-explanatory, and guidance is provided only for selected "
 "terminology that may need explanation."
-msgstr ""
+msgstr "Многие вопросы в шаблоне отчетности механизма реализации понятны без дополнительных уточнений, поэтому рекомендации даются только по избранной терминологии, которая может нуждаться в пояснении."
 
 #: ../../implementationFramework.md:35
 msgid ""
 "'Yes’ responses to questions enable fields where Parties may provide "
 "details on the topic. These fields may change from topic to topic, "
 "although a few of them are recurrent, such as:"
-msgstr ""
+msgstr "Ответы «Да» на вопросы включают поля, в которых Стороны могут предоставить подробную информацию по теме. Эти поля могут меняться от темы к теме, хотя некоторые из них одинаковы для нескольких вопросов, например:"
 
 #: ../../implementationFramework.md:37
 msgid "Use this space to describe the experience."
-msgstr ""
+msgstr "Опишите свой опыт в предложенном поле."
 
 #: ../../implementationFramework.md:39
 msgid "What were the challenges faced, if any?"
-msgstr ""
+msgstr "С какими проблемами пришлось столкнуться, если таковые возникли?"
 
 #: ../../implementationFramework.md:41
 msgid "What do you consider to be the lessons learned?"
-msgstr ""
+msgstr "Какие, по вашему мнению, уроки можно извлечь из вашего опыта?"
 
 #: ../../implementationFramework.md:43
 msgid "How did you engage women and youth in X?"
-msgstr ""
+msgstr "Какими способами вы вовлекали женщин и молодежь для участия в X?"
 
 #: ../../implementationFramework.md:45
 msgid ""
@@ -148,7 +147,7 @@ msgid ""
 "contributed to the success. Each experience and example should be "
 "provided as text and should not exceed 1,000 words (approximately two "
 "pages of normal text in font size 12)."
-msgstr ""
+msgstr "Описательный характер процесса отчетности дает Сторонам возможность предоставлять и обмениваться информацией об опыте и проблемах. Сторонам также рекомендуется дополнительно указать один или несколько примеров в поддержку заявленного опыта, включая используемый подход/процедуру, в чем представленные примеры оказались успешными и какие факторы способствовали успеху. Каждый опыт и пример должны быть представлены в виде текста и не должны превышать объем в 1000 слов (примерно две страницы обычного текста с 12 кеглем)."
 
 #: ../../implementationFramework.md:47
 msgid ""
@@ -159,11 +158,11 @@ msgid ""
 "DLDD, but which support those that do. However, it may also address those"
 " Parties that engage in South–South cooperation as part of the "
 "implementation of this Convention."
-msgstr ""
+msgstr "Некоторые разделы механизма осуществления включают вопросы о поддержке, оказываемой другим Сторонам для осуществления Конвенции, с подробной информацией об условиях и контекстах. Эти вопросы в принципе адресованы тем Сторонам Конвенции, которые, возможно, не были затронуты ОДЗЗ, но оказывают поддержку тем, кто столкнулся с этой проблемой. Однако подобные вопросы могут также касаться Сторон, участвующих в сотрудничестве Юг–Юг в рамках осуществления настоящей Конвенции."
 
 #: ../../implementationFramework.md:49
 msgid "7.1.3. Review"
-msgstr ""
+msgstr "7.1.3. Обзор"
 
 #: ../../implementationFramework.md:51
 msgid ""
@@ -175,21 +174,21 @@ msgid ""
 "information that is required in the narratives concerning each area/aim, "
 "and hence contributes to focused reporting on current UNCCD priorities "
 "and enables a lively, targeted exchange during sessions."
-msgstr ""
+msgstr "Информация, представленная в рамках отчетности о механизме осуществления, будет использоваться, в частности, на официальных сессиях Комитета по рассмотрению осуществления Конвенции для демонстрации опыта, накопленного в ходе осуществления Конвенции. В Руководстве по отчетности представлены рекомендации по конкретному содержанию и типу информации, которая требуется в описаниях, касающихся каждой области/цели; следовательно, Руководство способствует целенаправленной отчетности по текущим приоритетам КБО ООН и обеспечивает активный и ориентированный на цели обмен мнениями во время сессий."
 
 #: ../../implementationFramework.md:53
 msgid "7.2. Financial and non-financial resources"
-msgstr ""
+msgstr "7.2. Финансовые и нефинансовые ресурсы"
 
 #: ../../implementationFramework.md:55
 msgid ""
 "Parties are encouraged to answer questions related to the following three"
 " main topics."
-msgstr ""
+msgstr "Сторонам предлагается ответить на вопросы, касающиеся следующих трех основных тем."
 
 #: ../../implementationFramework.md:57
 msgid "7.2.1. Increasing the mobilization of resources"
-msgstr ""
+msgstr "7.2.1. Ускорение мобилизации ресурсов"
 
 #: ../../implementationFramework.md:59
 msgid ""
@@ -198,7 +197,7 @@ msgid ""
 "implementation of the Convention from international and domestic, public "
 "and private sources as well as from local communities, including non-"
 "traditional funding sources and climate finance."
-msgstr ""
+msgstr "Этот раздел посвящен стратегиям и действиям, направленным на ускорение мобилизации финансовых и нефинансовых ресурсов для осуществления Конвенции из международных и внутренних, государственных и частных источников, а также из местных сообществ, включая нетрадиционные источники финансирования и климатическое финансирование."
 
 #: ../../implementationFramework.md:61
 msgid ""
@@ -211,7 +210,7 @@ msgid ""
 " Environment Facility (GEF) land degradation focal area and its special "
 "funds focusing on climate, dedicated multilateral and bilateral funds, "
 "and carbon markets."
-msgstr ""
+msgstr "Примерами финансовых ресурсов являются финансирование за счет грантов или кредитов, нефинансовые ресурсы (например, товары, материалы, наращивание потенциала и время добровольцев) и нетрадиционные источники финансирования (например, частные инвестиции и государственно-частное партнерство, денежные переводы, налоги на солидарность, гарантии рисков и страхование). Международное многостороннее финансирование относится к Адаптационному фонду, Зеленому климатическому фонду и целевой области Глобального экологического фонда (ГЭФ) по борьбе с деградацией земель и его специальным фондам, посвященным климату, специализированным многосторонним и двусторонним фондам и рынкам квот на эмиссию газов."
 
 #: ../../implementationFramework.md:63
 msgid ""
@@ -222,7 +221,7 @@ msgid ""
 "explain how this experience represents an increase in resource "
 "mobilization (i.e. what is different about it) and the main challenges, "
 "main factors of success, and lessons learned."
-msgstr ""
+msgstr "В описание рекомендуется включать информацию о типе мобилизованных ресурсов, источнике финансирования, цели финансирования (краткое описание проекта/деятельности) и подходе/процедуре, которые использовались для мобилизации ресурсов. Кроме того, стороны могут объяснить, как этот опыт отражает усиление мобилизации ресурсов (т. е. в чем его отличие), а также указать основные проблемы, основные факторы успеха и извлеченные уроки."
 
 #: ../../implementationFramework.md:65
 msgid ""
@@ -233,13 +232,13 @@ msgid ""
 "the purpose of funding (brief description of the project/activity), the "
 "approach/procedure used to mobilize resources, lessons learned, "
 "challenges and the main factors of success."
-msgstr ""
+msgstr "Описание может также включать информацию о поддержке, оказываемой страной мобилизации финансовых и нефинансовых ресурсов для осуществления Конвенции в другой стране, включая информацию о партнере, которому была оказана поддержка, тип мобилизованных ресурсов, источник финансирования, цель финансирования (краткое описание проекта/деятельности), подход/процедура, используемая для мобилизации ресурсов, извлеченные уроки, проблемы и основные факторы успеха."
 
 #: ../../implementationFramework.md:67
 msgid ""
 "7.2.2. Using land degradation neutrality as a framework to increase "
 "investment"
-msgstr ""
+msgstr "7.2.2. Использование нейтрального баланса деградации земель в качестве основы для увеличения инвестиций"
 
 #: ../../implementationFramework.md:69
 msgid ""
@@ -251,7 +250,7 @@ msgid ""
 "out whether the implementation of the LDN concept has facilitated support"
 " to land activities from different funding sources and assisted in "
 "bringing together different types of investors."
-msgstr ""
+msgstr "Это относится к стратегиям и действиям по использованию возможностей применения НСЗ в качестве основы для повышения согласованности, эффективности и множественных выгод от инвестиций. Сторонам рекомендуется объяснить, как реализация концепции НСЗ повлияла/влияет на инвестиции. В частности, цель состоит в том, чтобы выяснить, способствовала ли реализация концепции НСЗ поддержке земельной деятельности из различных источников финансирования и сотрудничеству различных типов инвесторов."
 
 #: ../../implementationFramework.md:71
 msgid ""
@@ -265,13 +264,13 @@ msgid ""
 "investment, its use (brief description of the project/activity), "
 "challenges faced, lessons learned and the partners involved should also "
 "be reported."
-msgstr ""
+msgstr "Опыт и примеры, подлежащие представлению, должны касаться Сторон, которые используют или использовали НСЗ в качестве основы для повышения согласованности, эффективности и множественных выгод от инвестиций. Такой опыт может включать поддержку деятельности в области земельных ресурсов посредством инвестиций, направленных на борьбу с изменением климата, биоразнообразие, леса, водные ресурсы и тому подобное; или привлечение различных источников финансирования (правительства, финансовые учреждения, частный сектор и другие) к деятельности в области земельных ресурсов. Также следует сообщить информацию о размере инвестиций, их использовании (краткое описание проекта/деятельности), возникших проблемах, извлеченных уроках и привлеченных партнерах."
 
 #: ../../implementationFramework.md:73
 msgid ""
 "7.2.3. Improving existing and/or innovative financial processes and "
 "institutions"
-msgstr ""
+msgstr "7.2.3. Улучшение существующих и/или инновационных финансовых процессов и институтов"
 
 #: ../../implementationFramework.md:75
 msgid ""
@@ -284,7 +283,7 @@ msgid ""
 " and bilateral climate funds other than those of the GEF, and carbon "
 "markets), private investments and public–private partnerships, "
 "remittances, solidarity taxes, risk guarantees, insurances or similar."
-msgstr ""
+msgstr "Сторонам рекомендуется сообщать об их подходе к улучшению использования существующих и/или инновационных финансовых процессов и учреждений, таких как ГЭФ или другие новые фонды. Существующие финансовые процессы относятся к национальным бюджетам, двустороннему сотрудничеству в целях развития и многосторонним банкам развития, в то время как инновационными финансовыми процессами являются климатическое финансирование (например, Адаптационный фонд, Зеленый климатический фонд, специализированные многосторонние и двусторонние климатические фонды, отличные от фондов ГЭФ, и рынки квот на эмиссию вредных газов), частные инвестиции и государственно-частное партнерство, денежные переводы, налоги на солидарность, гарантии рисков, страхование или аналогичные процессы."
 
 #: ../../implementationFramework.md:77
 msgid ""
@@ -294,7 +293,7 @@ msgid ""
 "LDN or land activities to financial considerations of other priorities "
 "and sectors); or improving capacity for the preparation of high-quality "
 "project proposals."
-msgstr ""
+msgstr "Стороны могут сообщить об опыте улучшения инвестиций в борьбу с изменением климата (политика, правила или подходы, способствующие инвестициям в осуществление КБО ООН); повышения согласованности обязательств (интеграция НСЗ или деятельности в области землепользования с финансовыми планами, касающимися других приоритетов и секторов) или укрепления потенциала для подготовки высококачественных проектных предложений."
 
 #: ../../implementationFramework.md:79
 msgid ""
@@ -305,7 +304,7 @@ msgid ""
 " the measures worked, the way they improved the use of the financial "
 "process, the challenges faced, lessons learned, and the main factors of "
 "success."
-msgstr ""
+msgstr "В описание каждого опыта Стороны могут включать информацию о типе (типах) финансовых процессов, которые были рассмотрены (существующие, инновационные, ГЭФ или другие), и мерах, которые были приняты для улучшения использования соответствующего финансового процесса. В описание следует включить объяснение, как эти меры сработали, как они улучшили использование финансового процесса, какие проблемы возникли при их осуществлении, а также указать извлеченные уроки и основные факторы успеха."
 
 #: ../../implementationFramework.md:81
 msgid ""
@@ -319,21 +318,21 @@ msgid ""
 "the outcome may include information on how the measures worked, the way "
 "they improved the use of the financial process and the specific "
 "challenges, lessons learned and main factors of success."
-msgstr ""
+msgstr "Сторонам рекомендуется привести один или несколько примеров поддержки, оказанной другой стране в целях улучшения использования существующих и/или инновационных финансовых процессов и учреждений. В описание рекомендуется включить примеры оказанной поддержки, информацию о типе (типах) финансовых процессов, которые были рассмотрены (существующие, инновационные, ГЭФ или другие), и мерах, которые были приняты для улучшения использования соответствующего финансового процесса. Описание результата может включать информацию о результатах применения мер, о том, как они улучшили использование финансового процесса, а также о конкретных проблемах, извлеченных уроках и основных факторах успеха."
 
 #: ../../implementationFramework.md:83
 msgid "7.3. Policy and planning"
-msgstr ""
+msgstr "7.3. Политика и планирование"
 
 #: ../../implementationFramework.md:85
 msgid ""
 "Parties are encouraged to answer questions related to the following five "
 "main topics."
-msgstr ""
+msgstr "Сторонам предлагается ответить на вопросы, касающиеся следующих пяти основных тем."
 
 #: ../../implementationFramework.md:87
 msgid "7.3.1. Action programmes"
-msgstr ""
+msgstr "7.3.1. Программы действий"
 
 #: ../../implementationFramework.md:89
 msgid ""
@@ -345,7 +344,7 @@ msgid ""
 "levels, and they encompass practical steps and measures that contribute "
 "to combating land degradation/desertification and mitigating the effects "
 "of drought."
-msgstr ""
+msgstr "Сюда относятся разработка, осуществление, пересмотр и мониторинг национальных, субрегиональных и региональных программ действий и/или планов в качестве эффективных инструментов осуществления КБО ООН, таких как национальные программы действий (НПД). НПД разрабатываются на основе подходов, основанных на широком участии различных заинтересованных сторон на национальном, субрегиональном и региональном уровнях, и охватывают практические шаги и меры, способствующие борьбе с деградацией земель/опустыниванием и смягчению последствий засухи."
 
 #: ../../implementationFramework.md:91
 msgid ""
@@ -356,11 +355,11 @@ msgid ""
 " or monitoring them, and the current status/results achieved. The "
 "narrative should also explain how the adopted measures were effective for"
 " UNCCD implementation and the main factors of success."
-msgstr ""
+msgstr "Описание должно содержать информацию об опыте разработки, осуществления, пересмотра и/или регулярного мониторинга национальных, субрегиональных или региональных программ действий и включать информацию о типах программ действий, основных мерах, принятых при их разработке, осуществлении, пересмотре или мониторинге, а также текущем статусе/достигнутых результатах. В описании следует также объяснить, насколько принятые меры были эффективными для осуществления КБО ООН и каковы основные факторы успеха."
 
 #: ../../implementationFramework.md:93
 msgid "7.3.2. Policies and enabling environment"
-msgstr ""
+msgstr "7.3.2. Политика и благоприятные условия"
 
 #: ../../implementationFramework.md:95
 msgid ""
@@ -368,7 +367,7 @@ msgid ""
 " ensure an enabling environment for promoting and implementing solutions "
 "to combat desertification/land degradation and mitigate the effects of "
 "drought."
-msgstr ""
+msgstr "В этом разделе основное внимание уделяется разработке политики и законодательных мер по обеспечению благоприятных условий для продвижения и реализации решений по борьбе с опустыниванием/деградацией земель и смягчению последствий засухи."
 
 #: ../../implementationFramework.md:97
 msgid ""
@@ -378,7 +377,7 @@ msgid ""
 "other things. Noting the link between gender equality and land "
 "degradation, DLDD approaches can also be developed with a clear gender "
 "dimension in implementation design."
-msgstr ""
+msgstr "Подходы к ОДЗЗ могут быть разработаны для обеспечения других социальных, экономических и экологических выгод, включая, среди прочего, смягчение последствий изменения климата и адаптацию к ним, сохранение биоразнообразия и снижение риска бедствий. Признавая связь между гендерным равенством и деградацией земель, подходы к ОДЗЗ также могут учитывать гендерные аспекты при разработке плана осуществления."
 
 #: ../../implementationFramework.md:99
 msgid ""
@@ -396,7 +395,7 @@ msgid ""
 "(national/local/subregional), the targeted audience, main provisions, and"
 " institution(s) adopting the measure, as well as information on how the "
 "measure has succeeded in meeting its aim and the main factors of success."
-msgstr ""
+msgstr "Опыт и примеры, о которых следует сообщить (в том числе в рамках Программы установления целевых показателей НСЗ, где это применимо), могут быть сосредоточены на разработке политических и законодательных мер по минимизации рисков засухи, включая правила, ограничивающие обезлесение или управляющие выпасом скота, создание охраняемых районов, правила, запрещающие использование определенных химических веществ или методов, и политики, связанные с планированием землепользования, сбором воды или страхованием урожая и т. д. В более широком плане описание может содержать информацию о нормативных актах и политике, которые охватывают все виды сельскохозяйственной практики и землепользования на национальном и даже субрегиональном уровне (трансграничные соглашения, обеспечивающие мобильность скотоводов и т. д.), включая информацию об области, охватываемой политикой или законодательной мерой (национальная/местная/субрегиональная), целевой аудитории, основных положениях и учреждениях, использующих указанные меры, а также информацию о способах достижения целей и основных факторах успеха."
 
 #: ../../implementationFramework.md:101
 msgid ""
@@ -406,7 +405,7 @@ msgid ""
 " concerning land, improving women’s land rights and access to related "
 "resources, or building women’s capacity for effective UNCCD "
 "implementation."
-msgstr ""
+msgstr "Следует также сообщить об опыте разработки политических мер по учету гендерной проблематики при осуществлении КБО ООН. Такой опыт может включать, например, расширение участия женщин в принятии решений, касающихся землепользования, расширение прав женщин на землю и доступа к соответствующим ресурсам или наращивание потенциала женщин для эффективного осуществления КБО ООН."
 
 #: ../../implementationFramework.md:103
 msgid ""
@@ -417,11 +416,11 @@ msgid ""
 "legislative measure should include information on the area covered "
 "(national/local), targeted audience, main provisions, institutions "
 "adopting the measure, and main factors of success."
-msgstr ""
+msgstr "Сторонам рекомендуется привести один или несколько примеров поддержки, оказанной при разработке политических и законодательных мер в другой стране, в том числе мер, связанных с учетом гендерной проблематики при осуществлении КБО ООН. Краткое описание политики или законодательной меры должно включать информацию об охватываемой области (национальный/местный уровень), целевой аудитории, основных положениях, учреждениях, принимающих меры, и ключевых факторах успеха."
 
 #: ../../implementationFramework.md:105
 msgid "7.3.3. Synergies"
-msgstr ""
+msgstr "7.3.3. Синергетические связи"
 
 #: ../../implementationFramework.md:107
 msgid ""
@@ -429,7 +428,7 @@ msgid ""
 "DLDD-related activities and integrating DLDD in planning and "
 "implementation to generate simultaneous benefits and added value for "
 "other multilateral environmental agreements or international commitments."
-msgstr ""
+msgstr "Это относится к стратегиям и действиям, направленным на усиление синергизма в деятельности, связанной с ОДЗЗ, и интеграцию ОДЗЗ в планирование и реализацию для получения одновременных выгод и дополнительных преимуществ для других многосторонних природоохранных соглашений или международных обязательств."
 
 #: ../../implementationFramework.md:109
 msgid ""
@@ -451,7 +450,7 @@ msgid ""
 " address DLDD can be pursued in a holistic approach to achieve the "
 "objectives of the three Rio conventions as well as relevant targets under"
 " all 17 SDGs, in particular SDG target 15.3."
-msgstr ""
+msgstr "Процессы ОДЗЗ могут способствовать выбросам парниковых газов, утрате среды обитания и сокращению биоразнообразия. В результате определяемые на национальном уровне взносы Рамочной конвенции Организации Объединенных Наций об изменении климата и национальные планы адаптации, национальные стратегии и планы действий Конвенции о биологическом разнообразии в области биоразнообразия могут способствовать достижению целей в рамках одного или нескольких упомянутых механизмов Рио-де-Жанейрской конвенции, а также в рамках КБО ООН, НПД и/или целей НСЗ. Мероприятия на суше способны интегрировать и ускорить прогресс в достижении Целей устойчивого развития (ЦУР), многие из которых конкурируют за ограниченные земельные ресурсы. Меры по осуществлению могут включать принятие природоохранных мер, практики устойчивого управления земельными ресурсами (УУЗР) и/или экологическую реабилитацию/восстановление деградировавших ранее земель и осуществляться в рамках экосистемных подходов, таких как адаптация на основе экосистем, снижение риска бедствий на основе экосистем и любое другое природоохранное решение, связанное с землепользованием. Таким образом, осуществление мер по решению проблемы ОДЗЗ может осуществляться в рамках целостного подхода для достижения целей трех рио-де-жанейрских конвенций, а также соответствующих задач в рамках всех 17 ЦУР, в частности показателя ЦУР 15.3."
 
 #: ../../implementationFramework.md:111
 msgid ""
@@ -459,18 +458,18 @@ msgid ""
 "targets, climate or biodiversity commitments or plans, SDGs, NAPs or "
 "similar) and include information on their linkages, including with regard"
 " to synergies generated and the main factors of success."
-msgstr ""
+msgstr "Стороны могут предоставлять информацию о соответствующих мероприятиях или планах (целевые показатели НСЗ, обязательства или планы в области климата или биоразнообразия, ЦУР, НПД или аналогичные планы), включая информацию об их взаимосвязях, в том числе в отношении синергизма и основных факторов успеха."
 
 #: ../../implementationFramework.md:113
 msgid "7.3.4. Mainstreaming desertification/land degradation and drought"
-msgstr ""
+msgstr "7.3.4. Актуализация вопросов опустынивания/деградации земель и засухи"
 
 #: ../../implementationFramework.md:115
 msgid ""
 "Parties are encouraged to report on their approach to mainstreaming DLDD "
 "in economic, environmental and social policies, with a view to increasing"
 " the impact and effectiveness of the implementation of the Convention."
-msgstr ""
+msgstr "Сторонам рекомендуется сообщать об их подходе к учету ОДЗЗ в экономической, экологической и социальной политике в целях повышения результативности и эффективности осуществления Конвенции."
 
 #: ../../implementationFramework.md:117
 msgid ""
@@ -480,7 +479,7 @@ msgid ""
 " as adopting SLM in policies for income generation/poverty reduction, "
 "gender equality, unemployment, migration, disaster preparedness, energy "
 "efficiency or wildlife conservation, among other things."
-msgstr ""
+msgstr "В ответах должна содержаться информация об опыте, накопленном в области учета ОДЗЗ в экономической, экологической и социальной политике (включая опыт, накопленный в рамках Программы установления целевых показателей НСЗ), такой как, например, внедрение УУЗР в политику формирования дохода/сокращения бедности, гендерного равенства, безработицы, миграции, готовности к стихийным бедствиям, энергоэффективности или сохранения дикой природы."
 
 #: ../../implementationFramework.md:119
 msgid ""
@@ -491,11 +490,11 @@ msgid ""
 "increases the impact and effectiveness of the implementation of the "
 "Convention and generates added value for the policy should also be "
 "included, as well as the main factors of success."
-msgstr ""
+msgstr "Стороны могут указать обоснование учета ОДЗЗ в политике, информацию об охвате/пользователях политики и подробную информацию о процессе подготовки и принятия решений о методах учета ОДЗЗ. Также следует включить описание того, как учет ОДЗЗ в политике повышает влияние и эффективность осуществления Конвенции и формирует дополнительные преимущества для политики, а также указать основные факторы успеха."
 
 #: ../../implementationFramework.md:121
 msgid "7.3.5. Drought-related policies"
-msgstr ""
+msgstr "7.3.5. Политика, связанная с проблемами засухи"
 
 #: ../../implementationFramework.md:123
 msgid ""
@@ -505,7 +504,7 @@ msgid ""
 "subnational levels that outline modalities to manage drought, "
 "possibilities for drought to happen, expected impacts and measures to be "
 "taken to minimize impacts."
-msgstr ""
+msgstr "Сторонам рекомендуется описать опыт разработки национальной политики, мер и управления в области обеспечения готовности к засухе и управления ею, включая планы действий в случае засухи на национальном или субнациональном уровнях, в которых излагаются методы борьбы с засухой, возможности возникновения засухи, ожидаемые последствия и меры, которые необходимо принять для минимизации последствий."
 
 #: ../../implementationFramework.md:125
 msgid ""
@@ -520,7 +519,7 @@ msgid ""
 "this regard, of special interest would be a description of the "
 "approach/procedure used to develop drought preparedness and/or "
 "contingency plans."
-msgstr ""
+msgstr "Такой опыт может включать, например, создание координационного механизма (органа) с участием многих заинтересованных сторон по обеспечению готовности к засухе, создание и поддержание системы мониторинга засухи и раннего предупреждения, оценки уязвимости к засухе и ее последствий на различных уровнях (общесекторальном, региональном или национальном) и/или внедрение практических мер по снижению риска засухи (таких как сбор воды, страхование урожая и/или методы орошения). Он также может включать информацию о борьбе с засухой с учетом гендерных факторов, обеспечении готовности и повышении устойчивости. В этой связи особый интерес представляет описание подхода/процедуры, используемой для разработки планов обеспечения готовности к засухе и/или планов действий в чрезвычайных ситуациях."
 
 #: ../../implementationFramework.md:127
 msgid ""
@@ -531,7 +530,7 @@ msgid ""
 "and the results achieved so far, including the main factors of success. "
 "Experiences from the LDN Target-Setting Programme should be reported, "
 "when applicable."
-msgstr ""
+msgstr "Стороны могут включать информацию об охвате (национальном/местном) политики/меры по борьбе с засухой и перечислить органы власти и другие основные заинтересованные стороны, участвующие в ее осуществлении. Они могут также указать основные цели и мероприятия политики/меры по борьбе с засухой, предпринятые шаги и достигнутые к настоящему времени результаты, включая основные факторы успеха. Если применимо, следует сообщить об опыте Программы установления целевых показателей НСЗ."
 
 #: ../../implementationFramework.md:129
 msgid ""
@@ -543,21 +542,21 @@ msgid ""
 "implementation, as well as the main aims and activities of the drought "
 "policy/measure, the action taken, and the results achieved so far, "
 "including the main factors of success."
-msgstr ""
+msgstr "Стороны могут привести примеры поддержки, оказываемой при разработке национальной политики, мер и руководстве для обеспечения готовности к засухе и управления ею в другой стране. Описание может включать информацию об охвате (национальном/местном) политики/меры по борьбе с засухой, список органов власти и других основных заинтересованных сторон, участвующих в ее реализации, а также основные цели и мероприятия политики/меры по борьбе с засухой, принятые меры и достигнутые на данный момент результаты, включая основные факторы успеха."
 
 #: ../../implementationFramework.md:131
 msgid "7.4. Action on the ground"
-msgstr ""
+msgstr "7.4. Действия на местах"
 
 #: ../../implementationFramework.md:133
 msgid ""
 "Parties are encouraged to answer questions related to  the following five"
 " main topics."
-msgstr ""
+msgstr "Сторонам предлагается ответить на вопросы, касающиеся следующих пяти основных тем."
 
 #: ../../implementationFramework.md:135
 msgid "7.4.1. Sustainable land management practices"
-msgstr ""
+msgstr "7.4.1. Устойчивые методы управления земельными ресурсами"
 
 #: ../../implementationFramework.md:137
 msgid ""
@@ -565,7 +564,7 @@ msgid ""
 "based on the list developed using the World Overview of Conservation "
 "Approaches and Technologies (WOCAT) Global SLM Database and included in "
 "the PRAIS 4 platform[^1]."
-msgstr ""
+msgstr "Стороны могут предоставить краткое описание одной или нескольких успешных практик УУЗР на основе списка, разработанного с использованием глобальной базы данных УУЗР «Всемирный обзор природоохранных подходов и технологий» (ВОКАТ) и включенного в платформу СОРОО 4[^1]."
 
 #: ../../implementationFramework.md:139
 msgid ""
@@ -574,7 +573,7 @@ msgid ""
 "reasons for its success in avoiding or reducing land degradation in the "
 "long term, and main factors of success. When applicable, experiences from"
 " the LDN Target-Setting Programme should also be reported."
-msgstr ""
+msgstr "Описание практики может включать информацию о типе практики, основных видах деятельности, основных заинтересованных сторонах, используемых ресурсах, причинах ее успеха в предотвращении или сокращении деградации земель в долгосрочной перспективе и основных факторах успеха. Если применимо, следует также указать опыт Программы установления целевых показателей НСЗ."
 
 #: ../../implementationFramework.md:141
 msgid ""
@@ -582,7 +581,7 @@ msgid ""
 "submitted through the WOCAT system to the dedicated knowledge base. "
 "Detailed information on how to submit to the WOCAT system can be found at"
 " this link: <http://knowledge.unccd.int/WOCAT-SLM>."
-msgstr ""
+msgstr "Кроме того, через систему ВОКАТ в специальную базу знаний также может быть отправлено полное описание передовой практики. Подробную информацию о том, как загрузить информацию в систему ВОКАТ, можно найти по этой ссылке: <http://knowledge.unccd.int/WOCAT-SLM>."
 
 #: ../../implementationFramework.md:143
 msgid ""
@@ -593,17 +592,17 @@ msgid ""
 "resources used. The reasons for the successful implementation of this "
 "practice, how it has avoided or reduced land degradation in the long "
 "term, and the main factors of success should also be reported."
-msgstr ""
+msgstr "Сторонам рекомендуется привести один или несколько примеров поддержки, оказанной другой стране для внедрения успешных методов УУЗР. В описание рекомендуется включить информацию о типе практики, основных видах деятельности, основных вовлеченных заинтересованных сторонах, продолжительности и используемых ресурсах. Следует также сообщить о причинах успешного внедрения этой практики, о том, как она позволила избежать деградации земель или уменьшить ее в долгосрочной перспективе, а также об основных факторах успеха."
 
 #: ../../implementationFramework.md:145
 msgid ""
 "If the practice is already included in the WOCAT system or another "
 "similar online database, a link to these systems should be included."
-msgstr ""
+msgstr "Если практика уже включена в систему ВОКАТ или другую аналогичную онлайн-базу данных, следует указать ссылки на эти системы."
 
 #: ../../implementationFramework.md:149
 msgid "7.4.2. Restoration and rehabilitation"
-msgstr ""
+msgstr "7.4.2. Восстановление и реабилитация"
 
 #: ../../implementationFramework.md:151
 msgid ""
@@ -615,7 +614,7 @@ msgid ""
 "a focus on the provision of goods and services. Such practices may "
 "include, for example, soil nutrient replenishment through organic "
 "amendment, water harvesting, counter-erosion measures and reforestation."
-msgstr ""
+msgstr "Сторонам рекомендуется описать свой опыт в осуществлении методов восстановления и реабилитации в целях (i) обращения вспять деградации земель и улучшения природного капитала на суше; (ii) оказания помощи в восстановлении деградированной экосистемы путем восстановления ранее существовавшей экологической структуры и функций; или (iii) восстановления функциональности экосистемы, уделяя особое внимание предоставлению товаров и услуг. Такая практика может включать, например, восполнение питательных веществ в почве за счет внесения органических удобрений, сбор воды, меры по борьбе с эрозией и лесовосстановление."
 
 #: ../../implementationFramework.md:153
 msgid ""
@@ -629,7 +628,7 @@ msgid ""
 "ground’ section of the reporting form, Parties may refer to them or "
 "elaborate more specifically on one or more. Experiences from the LDN "
 "Target-Setting Programme should be reported when applicable."
-msgstr ""
+msgstr "В описание Стороны могут включить информацию о типе практики, основных видах деятельности, рассматриваемой экосистеме, основных вовлеченных заинтересованных сторонах и используемых ресурсах. В описании следует также представить основные причины успеха, информацию о том, какая поддержка была оказана для восстановления функций и услуг экосистемы в долгосрочной перспективе, а также основные факторы успеха. Если восстановление и реабилитация относятся к случаям/примерам, которые были упомянуты в вопросе об УУЗР в разделе «Действия на местах» формы отчетности, Стороны могут сослаться на них или более подробно описать один или несколько из них. Если применимо, следует сообщить об опыте Программы установления целевых показателей НСЗ."
 
 #: ../../implementationFramework.md:155
 msgid ""
@@ -641,11 +640,11 @@ msgid ""
 "describe the main reasons for success, what support was provided to the "
 "recovery of ecosystem functions and services in the long term, and the "
 "main factors of success."
-msgstr ""
+msgstr "Сторонам рекомендуется предоставить один или несколько примеров поддержки, оказанной другой стране для внедрения методов восстановления и реабилитации, включая информацию о типе практики, основных видах деятельности, восстановленных районах/экосистемах, основных заинтересованных сторонах и используемых ресурсах. В описании следует также представить основные причины успеха, информацию о том, какая поддержка была оказана для восстановления функций и услуг экосистемы в долгосрочной перспективе, а также основные факторы успеха."
 
 #: ../../implementationFramework.md:157
 msgid "7.4.3. Drought risk management and early warning systems"
-msgstr ""
+msgstr "7.4.3. Системы управления рисками засухи и раннего предупреждения"
 
 #: ../../implementationFramework.md:159
 msgid ""
@@ -655,42 +654,42 @@ msgid ""
 "example, capacity-building and extension services, national strategies in"
 " place that cover drought risk management, and ways to monitor the early "
 "warning systems. The information may address questions relating to:"
-msgstr ""
+msgstr "Сторонам рекомендуется описать свой опыт в разработке и внедрении систем управления рисками засухи, мониторинга и раннего предупреждения, а также программ социальной защиты. Такой опыт может включать, например, услуги по наращиванию потенциала и распространению знаний, действующие национальные стратегии, охватывающие управление рисками засухи, и способы мониторинга систем раннего предупреждения. Информация может касаться следующих вопросов:"
 
 #: ../../implementationFramework.md:161
 msgid ""
 "What are the current procedures/challenges relating to early warning "
 "systems in your country?"
-msgstr ""
+msgstr "Каковы текущие процедуры/проблемы, связанные с системами раннего предупреждения в вашей стране?"
 
 #: ../../implementationFramework.md:163
 msgid ""
 "What mechanisms are in place for fostering the liaison and communication "
 "of drought monitoring and early warning information between national "
 "institutions in your country?"
-msgstr ""
+msgstr "Какие существуют механизмы для укрепления связей и обмена информацией о мониторинге засухи и раннем предупреждении между национальными учреждениями в вашей стране?"
 
 #: ../../implementationFramework.md:165
 msgid ""
 "What are the causes of/reasons for vulnerability to drought in your "
 "country?"
-msgstr ""
+msgstr "Каковы причины/факторы уязвимости к засухе в вашей стране?"
 
 #: ../../implementationFramework.md:167
 msgid "What criteria are used to prioritize vulnerability?"
-msgstr ""
+msgstr "Какие критерии используются для определения приоритетности уязвимости?"
 
 #: ../../implementationFramework.md:169
 msgid ""
 "What are general challenges in developing a national drought policy in "
 "your country?"
-msgstr ""
+msgstr "Каковы общие проблемы при разработке национальной политики в области борьбы с засухой в вашей стране?"
 
 #: ../../implementationFramework.md:171
 msgid ""
 "What steps have been taken for establishing a drought policy in your "
 "country?"
-msgstr ""
+msgstr "Какие шаги были предприняты для разработки политики в области борьбы с засухой в вашей стране?"
 
 #: ../../implementationFramework.md:173
 msgid ""
@@ -699,7 +698,7 @@ msgid ""
 " narrative should also describe the outcomes of the activities and the "
 "main factors of success. Experiences from the LDN Target-Setting "
 "Programme should be reported, when applicable."
-msgstr ""
+msgstr "В описание Стороны могут включать информацию о типе деятельности, вовлеченных лицах, целях деятельности и принятых мерах. В описании также следует представить результаты деятельности и основные факторы успеха. Если применимо, следует сообщить об опыте Программы установления целевых показателей НСЗ."
 
 #: ../../implementationFramework.md:175
 msgid ""
@@ -712,11 +711,11 @@ msgid ""
 "implementation of this practice, how it has avoided or reduced land "
 "degradation in the long term, and the main factors of success should also"
 " be reported."
-msgstr ""
+msgstr "Стороны могут представить краткое изложение одного или нескольких примеров поддержки, оказанной другой стране в целях разработки и внедрения систем управления рисками засухи, мониторинга и раннего предупреждения, а также программ социальной защиты. В описание рекомендуется включить информацию о типе практики, основных видах деятельности, основных вовлеченных заинтересованных сторонах, продолжительности и используемых ресурсах. Следует также сообщить о причинах успешного внедрения этой практики, о том, как она позволила избежать деградации земель или уменьшить ее в долгосрочной перспективе, а также об основных факторах успеха."
 
 #: ../../implementationFramework.md:177
 msgid "7.4.4. Alternative livelihoods"
-msgstr ""
+msgstr "7.4.4. Альтернативные источники средств к существованию"
 
 #: ../../implementationFramework.md:179
 msgid ""
@@ -733,7 +732,7 @@ msgid ""
 "extension services, provision of incentives, infrastructure improvements "
 "(roads, telecommunication) or support to product processing and/or "
 "marketing."
-msgstr ""
+msgstr "Сторонам рекомендуется описать личный опыт в продвижении альтернативных источников средств к существованию, с тем чтобы обеспечить средства к существованию и создание дохода, используя природные ресурсы (новым) способом, который предотвращает или уменьшает деградацию земель. Такой опыт может включать, например, диверсификацию сельскохозяйственных культур, методы агролесомелиорации, ротационный выпас скота или неорошаемые и орошаемые сельскохозяйственные системы. Сюда также могут относиться виды деятельности, приносящие доход, которые напрямую не зависят от природных ресурсов, такие как производство товаров кустарного промысла, производство возобновляемой энергии, экотуризм, производство лекарственных и ароматических растений и аквакультура с использованием переработанных сточных вод. Описываемый опыт может включать услуги по наращиванию потенциала и распространению знаний, предоставление стимулов, улучшение инфраструктуры (дороги, телекоммуникации) или поддержку в переработке продукции и/или маркетинге."
 
 #: ../../implementationFramework.md:181
 msgid ""
@@ -744,11 +743,11 @@ msgid ""
 "outcomes of the activities and the main factors of success. Experiences "
 "from the LDN Target-Setting Programme should be reported, when "
 "applicable."
-msgstr ""
+msgstr "В описании Стороны могут предоставить краткую информацию об области/вовлеченных лицах, целях мероприятий, принятых мерах, роли женщин и молодежи, а также действиях, принятых для поощрения их участия в мероприятиях. В описании также следует представить результаты деятельности и основные факторы успеха. Если применимо, следует сообщить об опыте Программы установления целевых показателей НСЗ."
 
 #: ../../implementationFramework.md:183
 msgid "7.4.5. Establishing knowledge-sharing systems"
-msgstr ""
+msgstr "7.4.5. Создание систем обмена знаниями"
 
 #: ../../implementationFramework.md:185
 msgid ""
@@ -763,7 +762,7 @@ msgid ""
 " and promotion of the upscaling of good practices. The description may "
 "also include information on experiences in promoting women’s access to "
 "knowledge and technology."
-msgstr ""
+msgstr "Сторонам рекомендуется описать свой опыт в создании систем для обмена информацией и знаниями и содействия созданию сетей в области передовой практики и подходов к борьбе с засухой. Такие системы охватывают широкий спектр участников, начиная от сетей фермеров на уровне сообществ и заканчивая национальными банками данных и многострановыми сетями взаимного обучения. Они выполняют целый ряд функций, таких как содействие коммуникации и оповещению о засухе, обмен опытом, информацией и технологиями, институциональная координация, предоставление научных данных и информации и содействие расширению масштабов передовой практики. Описание может также включать информацию об опыте содействия доступу женщин к знаниям и технологиям."
 
 #: ../../implementationFramework.md:187
 msgid ""
@@ -774,7 +773,7 @@ msgid ""
 "country takes part. If possible, a link to each system/network website "
 "should be added. The list, together with the links, will be made "
 "available on the UNCCD Knowledge Hub."
-msgstr ""
+msgstr "Следует включить перечень национальных или субнациональных систем и сетей обмена информацией/знаниями по обеспечению готовности к засухе, а также перечень субрегиональных, региональных и международных систем и сетей по обеспечению готовности к засухе, в которых участвует страна, при наличии таковых. По возможности следует добавить ссылку на каждый веб-сайт системы/сети. Список вместе со ссылками будет размещен в информационном центре КБО ООН."
 
 #: ../../implementationFramework.md:189
 msgid ""
@@ -784,82 +783,11 @@ msgid ""
 " the language(s) the information is available in, and a brief description"
 " of the main activities. They may also explain how the system/network has"
 " been used/useful so far, and the main factors of success."
-msgstr ""
+msgstr "В описание каждого опыта Сторонам рекомендуется включить информацию о цели и охвате (области/населения) системы или сети информации/знаний, ее конкретной направленности/теме, если таковая имеется, языке (языках), на котором(-ых) доступна информация, и краткое описание основных видов деятельности. Они также могут объяснить, как система/сеть использовалась/была полезна до сих пор, и указать основные факторы успеха."
 
 #: ../../implementationFramework.md:147
 msgid ""
 "https://www.wocat.net/en/global-slm-database/slm-practices-technologies-"
 "and-approaches/classifications-technologies."
-msgstr ""
-
-#~ msgid ""
-#~ "**(c) Actions on the ground** Sharing"
-#~ " experience in (i) successful "
-#~ "implementation practices used to achieve "
-#~ "sustainable land management; (ii) increasing"
-#~ " restoration efforts and/or rehabilitating "
-#~ "ecosystems; (iii) drought risk management "
-#~ "and early warning systems; (iv) "
-#~ "alternative livelihoods; and (v) the "
-#~ "establishment of effective systems for "
-#~ "sharing information and knowledge."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The reporting template of the PRAIS "
-#~ "4 platform includes a section for "
-#~ "each of the above-mentioned areas "
-#~ "((a), (b) and (c)), organized as "
-#~ "follows:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Experience in setting up policy measures"
-#~ " to mainstream gender in the "
-#~ "implementation of the UNCCD should also"
-#~ " be reported. Such experiences may "
-#~ "involve, for example, enhancing women’s "
-#~ "participation in decision-making concerning"
-#~ " land, improving women’s land rights "
-#~ "and access to related resources, or "
-#~ "building women’s capacity for effective "
-#~ "UNCCD implementation. Parties are encouraged"
-#~ " to provide one or more examples "
-#~ "of support provided in the setting "
-#~ "of policy and legislative measures in"
-#~ " another country, including those related"
-#~ " to mainstreaming gender in the "
-#~ "implementation of the UNCCD. The brief"
-#~ " description of the policy or "
-#~ "legislative measure should include information"
-#~ " on the area covered (national/local), "
-#~ "targeted audience, main provisions, "
-#~ "institutions adopting the measure, and "
-#~ "main factors of success."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Additionally, a full description of the"
-#~ " best practice can also be submitted"
-#~ " through the WOCAT system to the "
-#~ "dedicated knowledge base. Detailed information"
-#~ " on how to submit to the WOCAT"
-#~ " system can be found at this "
-#~ "link: http://knowledge.unccd.int/WOCAT-SLM."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In the description, Parties may provide"
-#~ " a brief description of the "
-#~ "area/people that were involved, the aim"
-#~ " of the activities, action that was"
-#~ "  taken, role of women and youth, "
-#~ "and measures taken to encourage their"
-#~ " participation in the activities. The "
-#~ "narrative should also describe the "
-#~ "outcomes of the activities and the "
-#~ "main factors of success. Experiences "
-#~ "from the LDN Target-Setting Programme"
-#~ " should be reported, when applicable."
-#~ msgstr ""
+msgstr "https://www.wocat.net/en/global-slm-database/slm-practices-technologies-and-approaches/classifications-technologies."
 

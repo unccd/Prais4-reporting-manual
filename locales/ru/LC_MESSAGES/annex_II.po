@@ -4,12 +4,11 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-18 17:31+0300\n"
+"POT-Creation-Date: 2021-11-04 19:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,17 +19,17 @@ msgstr ""
 
 #: ../../annex_II.md:1
 msgid "Annex II: Metadata"
-msgstr ""
+msgstr "Приложение II. Метаданные"
 
 #: ../../annex_II.md:3
 msgid "1. Introduction"
-msgstr ""
+msgstr "1. Введение"
 
 #: ../../annex_II.md:5
 msgid ""
 "This annex details the structure of the metadata used by the Performance "
 "Review and Assessment of the Implementation System (PRAIS) 4 platform."
-msgstr ""
+msgstr "В этом приложении подробно описана структура метаданных, используемых платформой Системы обзора результативности и оценки осуществления (СОРОО) 4."
 
 #: ../../annex_II.md:7
 msgid ""
@@ -39,7 +38,7 @@ msgid ""
 "accuracy and quality, and provides key information to appropriately use "
 "data for decision-making. Without metadata, the user is extremely limited"
 " in interpreting and understanding the data."
-msgstr ""
+msgstr "Метаданные — это информация о данных, основной инструмент для предоставления пользователям данных всестороннего описания данных, включая их точность и качество; инструмент предоставляет ключевую информацию для надлежащего использования данных для принятия решений. Без метаданных пользователь крайне ограничен в интерпретации и понимании данных."
 
 #: ../../annex_II.md:9
 msgid ""
@@ -57,124 +56,124 @@ msgid ""
 "international metadata standards (ISO 19115, developed by the Technical "
 "Committee ISO/TC 211, Geographic information/Geomatics), which is "
 "specifically designed to describe geospatial data."
-msgstr ""
+msgstr "Таким образом, доступность метаданных повышает ценность данных, поскольку они предоставляют информацию о происхождении данных, их надежности и достоверности. Метаданные являются неотъемлемым компонентом, который делает данные пригодными для использования в приложениях географической информационной системы и других геопространственных контекстах. Для нескольких платформ обмена данными метаданные предоставляют необходимую информацию и структуру для обнаружения данных и доступа к ним в различных пользовательских целях. В этом контексте соответствие информации метаданных хорошо известным стандартам имеет важное значение для внедрения методов и инструментов, обеспечивающих эффективный семантический поиск и взаимодействия между системами. Соответственно, метаданные платформы СОРОО 4 направлены на поддержание совместимости с одним из наиболее часто используемых международных стандартов метаданных (ISO 19115, разработанный Техническим комитетом ISO/TC 211, Географическая информация/Геоинформатика), специально разработанных для описания геопространственных данных."
 
 #: ../../annex_II.md:13
 msgid "2. Metadata structure and content"
-msgstr ""
+msgstr "2. Структура и содержание метаданных"
 
 #: ../../annex_II.md:15
 msgid ""
 "The current version of the PRAIS 4 metadata is organized in a single form"
 " containing three types of information:"
-msgstr ""
+msgstr "Текущая версия метаданных СОРОО 4 организована в единой форме, содержащей три типа информации:"
 
 #: ../../annex_II.md:17
 msgid ""
 "Data content: a description of the essential characteristics of the data "
 "and its categorization;"
-msgstr ""
+msgstr "Содержание данных: описание основных характеристик данных и их категоризация;"
 
 #: ../../annex_II.md:19
 msgid ""
 "Contact point: details on the person or entity to be contacted in order "
 "to request information about the data;"
-msgstr ""
+msgstr "Контактные данные: подробная информация о физическом или юридическом лице, с которым необходимо связаться для запроса информации о данных;"
 
 #: ../../annex_II.md:21
 msgid ""
 "Geographic location: expressed as coordinates of the bounding box or as a"
 " placename."
-msgstr ""
+msgstr "Географическое местоположение: в виде координат ограничительной рамки или как название места."
 
 #: ../../annex_II.md:23
 msgid "The specific list of fields is described below."
-msgstr ""
+msgstr "Конкретный список полей описан ниже."
 
 #: ../../annex_II.md:25
 msgid "Data content"
-msgstr ""
+msgstr "Содержание данных"
 
 #: ../../annex_II.md:27
 msgid "Title: the textual label used to identify the data (data type: free text);"
-msgstr ""
+msgstr "Заголовок: текстовая метка, используемая для идентификации данных (тип данных: произвольный текст);"
 
 #: ../../annex_II.md:29
 msgid ""
 "Abstract: an overview of the main characteristics of the data and a "
 "summary of the information it contains in an easily understandable manner"
 " for technical and non-technical users (data type: free text);"
-msgstr ""
+msgstr "Аннотация: обзор основных характеристик данных и краткое изложение содержащейся в них информации в форме, понятной для пользователей с технической и нетехнической подготовкой (тип данных: произвольный текст);"
 
 #: ../../annex_II.md:31
 msgid "Date: the date of data creation (data type: date);"
-msgstr ""
+msgstr "Дата: дата создания данных (тип данных: дата);"
 
 #: ../../annex_II.md:33
 msgid ""
 "Topics: the formalized list of words used to describe the data (data "
 "type: list);"
-msgstr ""
+msgstr "Темы: формализованный список слов, используемых для описания данных (тип данных: список);"
 
 #: ../../annex_II.md:35
 msgid ""
 "Character set encoding: the name of the character coding standard used by"
 " the data (data type: list)."
-msgstr ""
+msgstr "Кодировка набора символов: название стандарта кодирования символов, используемого данными (тип данных: список)."
 
 #: ../../annex_II.md:37
 msgid "Contact point"
-msgstr ""
+msgstr "Контактные данные"
 
 #: ../../annex_II.md:39
 msgid ""
 "Name: the name of the person or entity authorized to provide information "
 "about the data (data type: free text);"
-msgstr ""
+msgstr "Имя: имя физического лица или название юридического лица, уполномоченного предоставлять информацию о данных (тип данных: произвольный текст);"
 
 #: ../../annex_II.md:41
 msgid ""
 "Role: the function performed by the data contact point, such as the "
 "owner, distributor or custodian (data type: list);"
-msgstr ""
+msgstr "Роль: функция, выполняемая контактным лицом в области управления данными, таким как владелец, дистрибьютор или хранитель (тип данных: список);"
 
 #: ../../annex_II.md:43
 msgid ""
 "Organization: the name of the responsible organization (data type: free "
 "text);"
-msgstr ""
+msgstr "Организация: название ответственной организации (тип данных: произвольный текст);"
 
 #: ../../annex_II.md:45
 msgid ""
 "Email: the email address of the organization or individual (data type: "
 "free text);"
-msgstr ""
+msgstr "Электронная почта: адрес электронной почты организации или физического лица (тип данных: произвольный текст);"
 
 #: ../../annex_II.md:47
 msgid ""
 "Phone: the telephone number of the organization or individual (data type:"
 " free text);"
-msgstr ""
+msgstr "Телефон: номер телефона организации или физического лица (тип данных: произвольный текст);"
 
 #: ../../annex_II.md:49
 msgid ""
 "Address: the physical address at which the organization or individual may"
 " be contacted (data type: free text)."
-msgstr ""
+msgstr "Адрес: физический адрес, по которому можно связаться с организацией или физическим лицом (тип данных: произвольный текст)."
 
 #: ../../annex_II.md:51
 msgid "Geographic location"
-msgstr ""
+msgstr "Географическое положение"
 
 #: ../../annex_II.md:53
 msgid ""
 "Auto-detect bounding box: option to request the platform to derive the "
 "coordinates of a box, including the data;"
-msgstr ""
+msgstr "Ограничительная рамка с автоматическим обнаружением: возможность запросить платформу для получения координат рамки, включая данные;"
 
 #: ../../annex_II.md:55
 msgid ""
 "Specify a placename: option to specify the name of the location that "
 "fully includes the data."
-msgstr ""
+msgstr "Указать название места: опция для указания названия местоположения, полностью включающая данные."
 

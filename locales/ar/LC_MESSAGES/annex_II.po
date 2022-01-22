@@ -4,12 +4,11 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-18 17:31+0300\n"
+"POT-Creation-Date: 2021-11-04 19:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,17 +19,17 @@ msgstr ""
 
 #: ../../annex_II.md:1
 msgid "Annex II: Metadata"
-msgstr ""
+msgstr "المرفق الثاني: البيانات الوصفية"
 
 #: ../../annex_II.md:3
 msgid "1. Introduction"
-msgstr ""
+msgstr "1- مقدمة"
 
 #: ../../annex_II.md:5
 msgid ""
 "This annex details the structure of the metadata used by the Performance "
 "Review and Assessment of the Implementation System (PRAIS) 4 platform."
-msgstr ""
+msgstr "يتضمن هذا المرفق تفاصيل هيكل البيانات الوصفية المستخدَّمة في منصة نظام استعراض الأداء وتقييم نظام التنفيذ (PRAIS) 4."
 
 #: ../../annex_II.md:7
 msgid ""
@@ -39,7 +38,7 @@ msgid ""
 "accuracy and quality, and provides key information to appropriately use "
 "data for decision-making. Without metadata, the user is extremely limited"
 " in interpreting and understanding the data."
-msgstr ""
+msgstr "البيانات الوصفية هي معلومات عن البيانات وهي الأداة الرئيسية لتزويد مستخدمي البيانات بوصف شامل للبيانات، بما في ذلك دقتها وجودتها، وتوفر معلومات أساسية لاستخدام البيانات استخداماً مناسباً في اتخاذ القرار. وبدون البيانات الوصفية، ستكون قدرة المستخدم محدودة للغاية في تفسير البيانات وفهمها."
 
 #: ../../annex_II.md:9
 msgid ""
@@ -57,124 +56,124 @@ msgid ""
 "international metadata standards (ISO 19115, developed by the Technical "
 "Committee ISO/TC 211, Geographic information/Geomatics), which is "
 "specifically designed to describe geospatial data."
-msgstr ""
+msgstr "لذلك، فإنَّ توافر البيانات الوصفية يزيد من قيمة البيانات لأنها توفر معلومات عن مصدر البيانات وقابلية التعويل عليها وجدواها بالثقة. وتُعدّ البيانات الوصفية عنصراً لا يمكن فصله يجعل البيانات قابلة للاستخدام في تطبيقات نظام المعلومات الجغرافية وغيرها من السياقات الجغرافية المكانية. وفي ما يتعلق بعدة منصات لمشاركة البيانات، توفر البيانات الوصفية المعلومات والهياكل المطلوبة لاكتشاف البيانات والوصول إليها لمختلف أنواع الاستخدامات. وفي هذا السياق، يكتسي امتثال المعلومات المتعلقة بالبيانات الوصفية لمعايير معروفة أهميةً من أجل تنفيذ أساليب وأدوات تُمكِّن من البحوث الدلالية وضمان قابلية التشغيل البيني بين النظم. وبناءً على ذلك، تهدف البيانات الوصفية لمنصة PRAIS 4 إلى الحفاظ على التوافق مع واحد من أكثر معايير البيانات الوصفية الدولية استخداماً (ISO 19115، التي وضعتها اللجنة التقنية ISO/TC 211، المعلومات الجغرافية/الجيوماتيكا (معلوماتية البيانات الجغرافية))، التي صُمِمت خصيصاً لوصف البيانات الجغرافية المكانية."
 
 #: ../../annex_II.md:13
 msgid "2. Metadata structure and content"
-msgstr ""
+msgstr "2- هيكل البيانات الوصفية ومحتواها"
 
 #: ../../annex_II.md:15
 msgid ""
 "The current version of the PRAIS 4 metadata is organized in a single form"
 " containing three types of information:"
-msgstr ""
+msgstr "تُنظَم النسخة الحالية للبيانات الوصفية لنظام استعراض الأداء وتقييم التنفيذ 4 (PRAIS 4) في شكل واحد يحتوي على ثلاثة أنواع من المعلومات:"
 
 #: ../../annex_II.md:17
 msgid ""
 "Data content: a description of the essential characteristics of the data "
 "and its categorization;"
-msgstr ""
+msgstr "محتوى البيانات: وصف الخصائص الأساسية للبيانات وتصنيفها؛"
 
 #: ../../annex_II.md:19
 msgid ""
 "Contact point: details on the person or entity to be contacted in order "
 "to request information about the data;"
-msgstr ""
+msgstr "نقطة الاتصال: تفاصيل عن الشخص أو الكيان المطلوب الاتصال به لطلب معلومات عن البيانات"
 
 #: ../../annex_II.md:21
 msgid ""
 "Geographic location: expressed as coordinates of the bounding box or as a"
 " placename."
-msgstr ""
+msgstr "الموقع الجغرافي: يُعبَّر عنه كإحداثيات لمربع الإحاطة أو اسم مكان."
 
 #: ../../annex_II.md:23
 msgid "The specific list of fields is described below."
-msgstr ""
+msgstr "يرد أدناه وصف قائمة محددة بالمجالات."
 
 #: ../../annex_II.md:25
 msgid "Data content"
-msgstr ""
+msgstr "محتوى البيانات"
 
 #: ../../annex_II.md:27
 msgid "Title: the textual label used to identify the data (data type: free text);"
-msgstr ""
+msgstr "العنوان: العلامة النصية المستخدمة لتحديد البيانات (نوع البيانات: نص حر)؛"
 
 #: ../../annex_II.md:29
 msgid ""
 "Abstract: an overview of the main characteristics of the data and a "
 "summary of the information it contains in an easily understandable manner"
 " for technical and non-technical users (data type: free text);"
-msgstr ""
+msgstr "الخلاصة: استعراض عام للخصائص الرئيسية للبيانات وموجز للمعلومات التي تتضمنها بطريقة يسهل فهمها للمستخدمين التقنيين وغير التقنيين (نوع البيانات: نص حر)؛"
 
 #: ../../annex_II.md:31
 msgid "Date: the date of data creation (data type: date);"
-msgstr ""
+msgstr "البيانات: تاريخ إنشاء البيانات (نوع البيانات: تاريخ)؛"
 
 #: ../../annex_II.md:33
 msgid ""
 "Topics: the formalized list of words used to describe the data (data "
 "type: list);"
-msgstr ""
+msgstr "المواضيع: القائمة الرسمية للكلمات المستخدمة لوصف البيانات (نوع البيانات: قائمة)؛"
 
 #: ../../annex_II.md:35
 msgid ""
 "Character set encoding: the name of the character coding standard used by"
 " the data (data type: list)."
-msgstr ""
+msgstr "ترميز مجموعة الأحرف: اسم معيار ترميز الأحرف المستخدم من قبل البيانات (نوع البيانات: القائمة)."
 
 #: ../../annex_II.md:37
 msgid "Contact point"
-msgstr ""
+msgstr "نقطة الاتصال"
 
 #: ../../annex_II.md:39
 msgid ""
 "Name: the name of the person or entity authorized to provide information "
 "about the data (data type: free text);"
-msgstr ""
+msgstr "الاسم: اسم الشخص أو الكيان المخوَّل بتقديم معلومات عن البيانات (نوع البيانات: نص حر)؛"
 
 #: ../../annex_II.md:41
 msgid ""
 "Role: the function performed by the data contact point, such as the "
 "owner, distributor or custodian (data type: list);"
-msgstr ""
+msgstr "الدور: الوظيفة التي تؤديها نقطة اتصال البيانات، مثل المالك أو الموزع أو القيِّم (نوع البيانات: القائمة)؛"
 
 #: ../../annex_II.md:43
 msgid ""
 "Organization: the name of the responsible organization (data type: free "
 "text);"
-msgstr ""
+msgstr "المنظمة: اسم المنظمة المسؤولة (نوع البيانات: نص حر)؛"
 
 #: ../../annex_II.md:45
 msgid ""
 "Email: the email address of the organization or individual (data type: "
 "free text);"
-msgstr ""
+msgstr "البريد الإلكتروني: عنوان البريد الإلكتروني للمنظمة أو الفرد (نوع البيانات: نص حر)؛"
 
 #: ../../annex_II.md:47
 msgid ""
 "Phone: the telephone number of the organization or individual (data type:"
 " free text);"
-msgstr ""
+msgstr "الهاتف: رقم الهاتف للمنظمة أو الفرد (نوع البيانات: نص حر)؛"
 
 #: ../../annex_II.md:49
 msgid ""
 "Address: the physical address at which the organization or individual may"
 " be contacted (data type: free text)."
-msgstr ""
+msgstr "العنوان: العنوان المادي الذي يمكن من خلاله الاتصال بالمنظمة أو بالفرد (نوع البيانات: نص حر)؛"
 
 #: ../../annex_II.md:51
 msgid "Geographic location"
-msgstr ""
+msgstr "الموقع الجغرافي"
 
 #: ../../annex_II.md:53
 msgid ""
 "Auto-detect bounding box: option to request the platform to derive the "
 "coordinates of a box, including the data;"
-msgstr ""
+msgstr "مربع إحاطة الكشف التلقائي: خيار مطالبة المنصة باستخلاص إحداثيات مربع، بما في ذلك البيانات؛"
 
 #: ../../annex_II.md:55
 msgid ""
 "Specify a placename: option to specify the name of the location that "
 "fully includes the data."
-msgstr ""
+msgstr "تحديد اسم مكان: خيار تحديد اسم المكان الذي يتضمن البيانات بالكامل."
 

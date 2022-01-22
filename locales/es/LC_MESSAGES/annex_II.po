@@ -4,12 +4,11 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-18 17:31+0300\n"
+"POT-Creation-Date: 2021-11-04 19:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,17 +19,17 @@ msgstr ""
 
 #: ../../annex_II.md:1
 msgid "Annex II: Metadata"
-msgstr ""
+msgstr "Anexo II: Metadatos"
 
 #: ../../annex_II.md:3
 msgid "1. Introduction"
-msgstr ""
+msgstr "1. Introducción"
 
 #: ../../annex_II.md:5
 msgid ""
 "This annex details the structure of the metadata used by the Performance "
 "Review and Assessment of the Implementation System (PRAIS) 4 platform."
-msgstr ""
+msgstr "El presente anexo detalla la estructura de los metadatos empleados por la plataforma del sistema de examen del desempeño y evaluación de la aplicación (PRAIS) 4."
 
 #: ../../annex_II.md:7
 msgid ""
@@ -39,7 +38,7 @@ msgid ""
 "accuracy and quality, and provides key information to appropriately use "
 "data for decision-making. Without metadata, the user is extremely limited"
 " in interpreting and understanding the data."
-msgstr ""
+msgstr "Los metadatos son información sobre los datos y suponen el principal instrumento para proporcionar a los usuarios descripciones completas de los datos, incluida su calidad y precisión. También proporcionan información clave para utilizar los datos de manera apropiada en la toma de decisiones. Sin los metadatos, el usuario vería extremadamente limitada su interpretación y comprensión de los datos."
 
 #: ../../annex_II.md:9
 msgid ""
@@ -57,124 +56,124 @@ msgid ""
 "international metadata standards (ISO 19115, developed by the Technical "
 "Committee ISO/TC 211, Geographic information/Geomatics), which is "
 "specifically designed to describe geospatial data."
-msgstr ""
+msgstr "Por lo tanto, que haya metadatos disponibles aumenta el valor de los datos, dado que proporcionan información sobre su origen, su fiabilidad y su veracidad. Los metadatos son un componente inseparable que hace que los datos se puedan utilizar en las aplicaciones de los sistemas de información geográfica y en otros contextos geoespaciales. Para varias plataformas de intercambio de datos, los metadatos proporcionan la información y estructura necesarias para poder descubrir y acceder a datos para los distintos tipos de uso. En este contexto, es importante que los metadatos cumplan las normas más conocidas, de modo que se implementen métodos y herramientas que permitan búsquedas semánticas y garanticen la interoperabilidad entre sistemas. Del mismo modo, los metadatos de la plataforma de PRAIS 4 tienen por objetivo mantener la compatibilidad con una de las normas de metadatos internacionales más utilizadas (ISO 19115, elaborada por el Comité ISO/TC 211, Información Geográfica / Geomática), particularmente diseñada para describir los datos geoespaciales."
 
 #: ../../annex_II.md:13
 msgid "2. Metadata structure and content"
-msgstr ""
+msgstr "2. Estructura y contenido de los metadatos"
 
 #: ../../annex_II.md:15
 msgid ""
 "The current version of the PRAIS 4 metadata is organized in a single form"
 " containing three types of information:"
-msgstr ""
+msgstr "La actual versión de los metadatos de PRAIS 4 está organizada en un único formulario que recopila tres tipos de información:"
 
 #: ../../annex_II.md:17
 msgid ""
 "Data content: a description of the essential characteristics of the data "
 "and its categorization;"
-msgstr ""
+msgstr "Contenido de los datos: una descripción de las características fundamentales de los datos y su clasificación."
 
 #: ../../annex_II.md:19
 msgid ""
 "Contact point: details on the person or entity to be contacted in order "
 "to request information about the data;"
-msgstr ""
+msgstr "Punto de contacto: información sobre la persona o entidad con la que se debe contactar para solicitar información sobre los datos."
 
 #: ../../annex_II.md:21
 msgid ""
 "Geographic location: expressed as coordinates of the bounding box or as a"
 " placename."
-msgstr ""
+msgstr "Localización geográfica: expresada mediante coordenadas del cuadro delimitador o mediante un topónimo."
 
 #: ../../annex_II.md:23
 msgid "The specific list of fields is described below."
-msgstr ""
+msgstr "La lista específica de campos se describe a continuación."
 
 #: ../../annex_II.md:25
 msgid "Data content"
-msgstr ""
+msgstr "Contenido de los datos"
 
 #: ../../annex_II.md:27
 msgid "Title: the textual label used to identify the data (data type: free text);"
-msgstr ""
+msgstr "Título: etiqueta textual utilizada para identificar los datos (tipo de dato: texto libre)."
 
 #: ../../annex_II.md:29
 msgid ""
 "Abstract: an overview of the main characteristics of the data and a "
 "summary of the information it contains in an easily understandable manner"
 " for technical and non-technical users (data type: free text);"
-msgstr ""
+msgstr "Resumen: Un resumen de las características principales de los datos y un resumen de la información que contienen de un modo fácilmente comprensible para usuarios con y sin destrezas técnicas (tipo de dato: texto libre)."
 
 #: ../../annex_II.md:31
 msgid "Date: the date of data creation (data type: date);"
-msgstr ""
+msgstr "Fecha: la fecha de creación de los datos (tipo de dato: fecha)."
 
 #: ../../annex_II.md:33
 msgid ""
 "Topics: the formalized list of words used to describe the data (data "
 "type: list);"
-msgstr ""
+msgstr "Temas: la lista formalizada de palabras utilizadas para describir los datos (tipo de dato: lista)."
 
 #: ../../annex_II.md:35
 msgid ""
 "Character set encoding: the name of the character coding standard used by"
 " the data (data type: list)."
-msgstr ""
+msgstr "Codificación del conjunto de caracteres: el nombre de la norma de codificación de caracteres utilizada para los datos (tipo de dato: lista)."
 
 #: ../../annex_II.md:37
 msgid "Contact point"
-msgstr ""
+msgstr "Punto de contacto"
 
 #: ../../annex_II.md:39
 msgid ""
 "Name: the name of the person or entity authorized to provide information "
 "about the data (data type: free text);"
-msgstr ""
+msgstr "Nombre: el nombre de la persona o entidad autorizada para proporcionar información sobre los datos (tipo de dato: texto libre)."
 
 #: ../../annex_II.md:41
 msgid ""
 "Role: the function performed by the data contact point, such as the "
 "owner, distributor or custodian (data type: list);"
-msgstr ""
+msgstr "Función: la función que desempeña la persona o entidad de contacto, como propietario, distribuidor o custodio (tipo de dato: lista)."
 
 #: ../../annex_II.md:43
 msgid ""
 "Organization: the name of the responsible organization (data type: free "
 "text);"
-msgstr ""
+msgstr "Organización: el nombre de la organización responsable (tipo de dato: texto libre)."
 
 #: ../../annex_II.md:45
 msgid ""
 "Email: the email address of the organization or individual (data type: "
 "free text);"
-msgstr ""
+msgstr "Correo electrónico: la dirección de correo electrónico de la organización o el individuo (tipo de dato: texto libre)."
 
 #: ../../annex_II.md:47
 msgid ""
 "Phone: the telephone number of the organization or individual (data type:"
 " free text);"
-msgstr ""
+msgstr "Teléfono: el número de teléfono de la organización o el individuo (tipo de dato: texto libre)."
 
 #: ../../annex_II.md:49
 msgid ""
 "Address: the physical address at which the organization or individual may"
 " be contacted (data type: free text)."
-msgstr ""
+msgstr "Dirección: la dirección física a través de la que se puede contactar con la organización o el individuo (tipo de dato: texto libre)."
 
 #: ../../annex_II.md:51
 msgid "Geographic location"
-msgstr ""
+msgstr "Ubicación geográfica"
 
 #: ../../annex_II.md:53
 msgid ""
 "Auto-detect bounding box: option to request the platform to derive the "
 "coordinates of a box, including the data;"
-msgstr ""
+msgstr "Cuadro delimitador de detección automática: opción para pedir a la plataforma que determine las coordenadas del cuadro donde se encuentren los datos."
 
 #: ../../annex_II.md:55
 msgid ""
 "Specify a placename: option to specify the name of the location that "
 "fully includes the data."
-msgstr ""
+msgstr "Especifique un topónimo: opción para especificar el nombre de la localización que incluya todos los datos."
 

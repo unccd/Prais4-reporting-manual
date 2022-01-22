@@ -4,7 +4,6 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
@@ -22,15 +21,15 @@ msgstr ""
 msgid ""
 "7. Implementation framework: financial and non-financial resources, "
 "policy and planning, and action on the ground"
-msgstr ""
+msgstr "7. Cadre de mise en œuvre : ressources financières et non financières, politique générale et planification, et actions sur le terrain"
 
 #: ../../implementationFramework.md:3
 msgid "7.1. About the implementation framework"
-msgstr ""
+msgstr "7.1. À propos du cadre de mise en œuvre"
 
 #: ../../implementationFramework.md:5
 msgid "7.1.1. Introduction"
-msgstr ""
+msgstr "7.1.1. Introduction"
 
 #: ../../implementationFramework.md:7
 msgid ""
@@ -38,11 +37,11 @@ msgid ""
 "and implement the strategic objectives and furthermore provides Parties "
 "with an opportunity to share their knowledge and experiences. It focuses "
 "on three broad areas:"
-msgstr ""
+msgstr "Le cadre de mise en œuvre décrit l’approche adoptée pour soutenir et mettre en œuvre les objectifs stratégiques. Il permet également aux Parties de partager leurs connaissances et leurs expériences. Il est axé sur trois volets principaux :"
 
 #: ../../implementationFramework.md:9
 msgid "**(a) Financial and non-financial resources**"
-msgstr ""
+msgstr "**a) Ressources financières et non financières**"
 
 #: ../../implementationFramework.md:11
 msgid ""
@@ -50,11 +49,11 @@ msgid ""
 "financial resources; (ii) uses of land degradation neutrality (LDN) as a "
 "catalyst for leveraging investments; and (iii) improved use of existing "
 "and/or innovative financial processes and institutions."
-msgstr ""
+msgstr "Les Parties sont invitées à décrire i) comment elles sont parvenues à mobiliser des ressources financières et non financières, ainsi qu’à ii) indiquer en quoi la neutralité en matière de dégradation des terres (NDT) leur a servi de catalyseur pour mobiliser des investissements et iii) comment elles sont parvenues à tirer un meilleur parti des mécanismes et institutions de financement existants et/ou innovants."
 
 #: ../../implementationFramework.md:13
 msgid "**(b) Policy and planning**"
-msgstr ""
+msgstr "**b) Politique générale et planification**"
 
 #: ../../implementationFramework.md:15
 msgid ""
@@ -64,11 +63,11 @@ msgid ""
 "environments; (iii) leveraging of synergies; (iv) mainstreaming of "
 "desertification/land degradation and drought (DLDD);  and (v) "
 "improvements in drought preparedness and management."
-msgstr ""
+msgstr "Les Parties sont invitées à faire part de leurs expériences en matière i) d’élaboration, de mise en œuvre et de suivi des programmes et/ou des plans d’action nationaux, sous-régionaux et régionaux aux fins de la mise en œuvre de la Convention des Nations Unies sur la lutte contre la désertification (CNULCD) ; ii) d’instauration de politiques et d’environnements favorables ; iii) d’exploitation des synergies ; iv) d’intégration de la lutte contre la désertification, la dégradation des terres et la sécheresse ; et v) d’amélioration de la préparation à la sécheresse et de la gestion de celle-ci."
 
 #: ../../implementationFramework.md:17
 msgid "**\\(c\\) Actions on the ground**"
-msgstr ""
+msgstr "**\\c\\) Actions sur le terrain**"
 
 #: ../../implementationFramework.md:19
 msgid ""
@@ -77,66 +76,66 @@ msgid ""
 "and/or rehabilitating ecosystems; (iii) drought risk management and early"
 " warning systems; (iv) alternative livelihoods; and (v) the establishment"
 " of effective systems for sharing information and knowledge."
-msgstr ""
+msgstr "Les Parties sont invitées à partager leurs expériences en matière i) de pratiques de mise en œuvre positives qui leur ont permis d’instaurer une gestion durable des terres ; ii) d’accroissement des efforts de restauration et/ou de remise en état des écosystèmes ; iii) de gestion du risque de sécheresse et de systèmes d’alerte précoce ; iv) de nouveaux moyens de subsistance ; et v) de mise en place de systèmes efficaces de partage d’informations et de savoirs."
 
 #: ../../implementationFramework.md:21
 msgid "7.1.2. Approach to reporting and structure of the reporting template"
-msgstr ""
+msgstr "7.1.2. Approche adoptée pour l’établissement des rapports et structure du formulaire de rapport"
 
 #: ../../implementationFramework.md:23
 msgid "Reporting on the implementation framework is qualitative and voluntary."
-msgstr ""
+msgstr "Les rapports sur le cadre de mise en œuvre reposent sur une approche qualitative et volontaire."
 
 #: ../../implementationFramework.md:25
 msgid ""
 "The reporting template of the PRAIS 4 platform includes a section for "
 "each of the above-mentioned areas ((a), (b) and \\(c\\)), organized as "
 "follows:"
-msgstr ""
+msgstr "Le formulaire de rapport sur la plateforme du système PRAIS 4 comprend une section pour chacun des trois volets susmentionnés a), b) et \\c\\), structurée comme suit :"
 
 #: ../../implementationFramework.md:27
 msgid "The title and a brief description of each topic;"
-msgstr ""
+msgstr "Le titre et une brève description de chaque sujet ;"
 
 #: ../../implementationFramework.md:29
 msgid "The key question(s) related to the topics;"
-msgstr ""
+msgstr "Les principales questions relatives aux sujets ;"
 
 #: ../../implementationFramework.md:31
 msgid ""
 "Complementary information on the topics (countries’ experiences as "
 "narrative)."
-msgstr ""
+msgstr "Des informations complémentaires sur les sujets (expériences des pays sous forme descriptive)."
 
 #: ../../implementationFramework.md:33
 msgid ""
 "Many questions in the reporting template of the implementation framework "
 "are self-explanatory, and guidance is provided only for selected "
 "terminology that may need explanation."
-msgstr ""
+msgstr "Dans le modèle de rapport, de nombreuses questions relatives au cadre de mise en œuvre sont suffisamment explicites et les orientations données concernent uniquement certains termes qui peuvent demander une explication plus précise."
 
 #: ../../implementationFramework.md:35
 msgid ""
 "'Yes’ responses to questions enable fields where Parties may provide "
 "details on the topic. These fields may change from topic to topic, "
 "although a few of them are recurrent, such as:"
-msgstr ""
+msgstr "Le fait de répondre « oui » à certaines questions active des champs permettant aux Parties d’apporter des précisions sur le sujet. Ces champs peuvent varier d’un sujet à l’autre, bien que certains soient récurrents, par exemple :"
 
 #: ../../implementationFramework.md:37
 msgid "Use this space to describe the experience."
-msgstr ""
+msgstr "Utilisez cet espace pour décrire l’expérience."
 
 #: ../../implementationFramework.md:39
 msgid "What were the challenges faced, if any?"
-msgstr ""
+msgstr "Quelles ont été les difficultés rencontrées, le cas échéant ?"
 
 #: ../../implementationFramework.md:41
 msgid "What do you consider to be the lessons learned?"
-msgstr ""
+msgstr "Quels sont les enseignements tirés, selon vous ?"
 
 #: ../../implementationFramework.md:43
 msgid "How did you engage women and youth in X?"
-msgstr ""
+msgstr "Comment avez-vous fait participer les femmes et les jeunes à X ?"
 
 #: ../../implementationFramework.md:45
 msgid ""
@@ -148,7 +147,7 @@ msgid ""
 "contributed to the success. Each experience and example should be "
 "provided as text and should not exceed 1,000 words (approximately two "
 "pages of normal text in font size 12)."
-msgstr ""
+msgstr "La nature descriptive du processus offre aux Parties l’occasion de communiquer des informations sur les expériences et les difficultés. Les Parties sont également encouragées à ajouter un ou plusieurs exemples à l’appui des expériences décrites, en précisant l’approche ou la procédure adoptée, le degré de réussite des exemples cités et les facteurs ayant contribué à cette réussite. Chaque expérience et exemple doit prendre la forme d’un texte et ne doit pas dépasser 1 000 mots (environ deux pages de texte normal, taille de police 12)."
 
 #: ../../implementationFramework.md:47
 msgid ""
@@ -159,11 +158,11 @@ msgid ""
 "DLDD, but which support those that do. However, it may also address those"
 " Parties that engage in South–South cooperation as part of the "
 "implementation of this Convention."
-msgstr ""
+msgstr "Certaines sections du cadre de mise en œuvre comprennent des questions portant sur l’appui fourni à d’autres Parties en vue de la mise en œuvre de la CNULCD, visant à collecter des informations détaillées sur les modalités et les contextes. En principe, ces questions s’adressent aux Parties à la CNULCD qui ne sont pas nécessairement touchées par la désertification, la dégradation des terres et la sécheresse mais qui soutiennent celles qui le sont. Cependant, elles peuvent également concerner les Parties qui pratiquent la coopération Sud-Sud dans le cadre de la mise en œuvre de la CNULCD."
 
 #: ../../implementationFramework.md:49
 msgid "7.1.3. Review"
-msgstr ""
+msgstr "7.1.3. Examen"
 
 #: ../../implementationFramework.md:51
 msgid ""
@@ -175,21 +174,21 @@ msgid ""
 "information that is required in the narratives concerning each area/aim, "
 "and hence contributes to focused reporting on current UNCCD priorities "
 "and enables a lively, targeted exchange during sessions."
-msgstr ""
+msgstr "Les informations fournies dans les rapports sur le cadre de mise en œuvre seront notamment utilisées lors des sessions officielles du Comité chargé de l’examen de la mise en œuvre de la CNULCD (CRIC) pour présenter les expériences acquises dans le cadre de la mise en œuvre de la CNULCD. Le manuel sur la présentation des rapports donne des conseils sur le contenu et les types d’informations spécifiques requis dans les sections descriptives concernant chaque volet/objectif. Il contribue ainsi à l’élaboration de rapports axés sur les priorités actuelles de la CNULCD, tout en permettant un échange actif et ciblé au cours des séances."
 
 #: ../../implementationFramework.md:53
 msgid "7.2. Financial and non-financial resources"
-msgstr ""
+msgstr "7.2. Ressources financières et non financières"
 
 #: ../../implementationFramework.md:55
 msgid ""
 "Parties are encouraged to answer questions related to the following three"
 " main topics."
-msgstr ""
+msgstr "Les Parties sont invitées à répondre à des questions portant sur les trois principaux sujets suivants."
 
 #: ../../implementationFramework.md:57
 msgid "7.2.1. Increasing the mobilization of resources"
-msgstr ""
+msgstr "7.2.1. Accroissement de la mobilisation des ressources"
 
 #: ../../implementationFramework.md:59
 msgid ""
@@ -198,7 +197,7 @@ msgid ""
 "implementation of the Convention from international and domestic, public "
 "and private sources as well as from local communities, including non-"
 "traditional funding sources and climate finance."
-msgstr ""
+msgstr "Cette section porte sur les stratégies et les mesures visant à accroître la mobilisation de ressources financières et non financières au profit de la mise en œuvre de la CNULCD auprès de sources internationales et nationales, publiques et privées, ainsi qu’auprès des communautés locales, y compris des sources de financement non traditionnelles et de financement de la lutte contre le changement climatique."
 
 #: ../../implementationFramework.md:61
 msgid ""
@@ -211,7 +210,7 @@ msgid ""
 " Environment Facility (GEF) land degradation focal area and its special "
 "funds focusing on climate, dedicated multilateral and bilateral funds, "
 "and carbon markets."
-msgstr ""
+msgstr "Parmi les exemples de ressources financières, on peut citer les subventions ou le crédit. Parmi les exemples de ressources non financières, on peut citer les biens, le matériel, le renforcement des capacités ou du temps consacré sous forme de bénévolat. Parmi les sources de financement non traditionnelles, on peut citer les investissements privés et les partenariats public-privé, les envois de fonds, les taxes de solidarité, les garanties couvrant les risques et les assurances. Le financement multilatéral international désigne le Fonds d’adaptation, le Fonds vert pour le climat, le domaine d’intervention « dégradation des terres » du Fonds pour l’environnement mondial (FEM) et ses fonds dédiés au climat, des fonds bilatéraux et multilatéraux spéciaux, et les marchés du carbone."
 
 #: ../../implementationFramework.md:63
 msgid ""
@@ -222,7 +221,7 @@ msgid ""
 "explain how this experience represents an increase in resource "
 "mobilization (i.e. what is different about it) and the main challenges, "
 "main factors of success, and lessons learned."
-msgstr ""
+msgstr "De préférence, le rapport descriptif doit comprendre des informations sur le type de ressources mobilisées, la source et l’objet du financement (brève description du projet/de l’activité) ainsi que l’approche/la procédure employée pour mobiliser ces ressources. Les Parties peuvent également expliquer en quoi cette expérience représente un accroissement des ressources mobilisées (à quoi tient la différence) et quels ont été les principales difficultés, les principaux facteurs de réussite et les enseignements tirés."
 
 #: ../../implementationFramework.md:65
 msgid ""
@@ -233,13 +232,13 @@ msgid ""
 "the purpose of funding (brief description of the project/activity), the "
 "approach/procedure used to mobilize resources, lessons learned, "
 "challenges and the main factors of success."
-msgstr ""
+msgstr "Le rapport peut également décrire l’aide apportée par un pays à la mobilisation de ressources financières et non financières en vue de la mise en œuvre de la CNULCD dans un autre pays, en incluant des informations sur le partenaire bénéficiaire de l’aide, le type de ressources mobilisées, la source et l’objet du financement (brève description du projet/de l’activité) ainsi que l’approche/la procédure employée pour mobiliser ces ressources, les enseignements tirés, les difficultés rencontrées et les principaux facteurs de réussite."
 
 #: ../../implementationFramework.md:67
 msgid ""
 "7.2.2. Using land degradation neutrality as a framework to increase "
 "investment"
-msgstr ""
+msgstr "7.2.2. Utiliser la neutralité en matière de dégradation des terres comme un cadre pour augmenter les investissements"
 
 #: ../../implementationFramework.md:69
 msgid ""
@@ -251,7 +250,7 @@ msgid ""
 "out whether the implementation of the LDN concept has facilitated support"
 " to land activities from different funding sources and assisted in "
 "bringing together different types of investors."
-msgstr ""
+msgstr "Cette section porte sur les stratégies et les mesures visant à saisir l’occasion de faire de la NDT un cadre pour renforcer la cohérence, l’efficacité et les divers effets bénéfiques des investissements. Les Parties sont invitées à préciser en quoi le concept de NDT a influé/influe sur les investissements. En particulier, l’objectif consiste à déterminer si la mise en œuvre du concept de NDT a permis de soutenir des activités associées aux terres au moyen de sources de financement différentes et de réunir différents types d’investisseurs."
 
 #: ../../implementationFramework.md:71
 msgid ""
@@ -265,13 +264,13 @@ msgid ""
 "investment, its use (brief description of the project/activity), "
 "challenges faced, lessons learned and the partners involved should also "
 "be reported."
-msgstr ""
+msgstr "Les Parties doivent décrire des expériences et des exemples portant sur l’utilisation de la NDT comme un cadre pour renforcer la cohérence, l’efficacité et les divers effets bénéfiques des investissements. Ces expériences peuvent consister, par exemple, à soutenir des activités associées aux terres par des investissements en faveur de mesures de lutte contre le changement climatique, de la biodiversité, des forêts, de l’eau et d’autres éléments similaires, ou à impliquer diverses sources de financement (gouvernements, institutions financières, secteur privé et autres) dans des activités associées aux terres. Il convient également de préciser le montant de l’investissement, son utilisation (brève description du projet/de l’activité), les difficultés rencontrées, les enseignements tirés et les partenaires associés."
 
 #: ../../implementationFramework.md:73
 msgid ""
 "7.2.3. Improving existing and/or innovative financial processes and "
 "institutions"
-msgstr ""
+msgstr "7.2.3. Améliorer les mécanismes et institutions de financement existants et/ou innovants"
 
 #: ../../implementationFramework.md:75
 msgid ""
@@ -284,7 +283,7 @@ msgid ""
 " and bilateral climate funds other than those of the GEF, and carbon "
 "markets), private investments and public–private partnerships, "
 "remittances, solidarity taxes, risk guarantees, insurances or similar."
-msgstr ""
+msgstr "Les Parties sont invitées à faire part de leur approche en matière d’amélioration de l’utilisation de mécanismes et d’institutions de financement existants et/ou innovants, tels que le FEM ou d’autres fonds plus récents. Les mécanismes de financement existants désignent les budgets nationaux, la coopération bilatérale au développement et les banques de développement multilatérales, tandis que les mécanismes de financement innovants désignent le financement de la lutte contre le changement climatique (Fonds d’adaptation, Fonds vert pour le climat, fonds bilatéraux et multilatéraux dédiés au climat autres que ceux du FEM et marchés du carbone), les investissements privés et les partenariats public-privé, les envois de fonds, les taxes de solidarité, les garanties couvrant les risques, les assurances ou d’autres sources similaires."
 
 #: ../../implementationFramework.md:77
 msgid ""
@@ -294,7 +293,7 @@ msgid ""
 "LDN or land activities to financial considerations of other priorities "
 "and sectors); or improving capacity for the preparation of high-quality "
 "project proposals."
-msgstr ""
+msgstr "Les Parties peuvent faire part de leurs expériences en matière d’amélioration du climat des investissements (politiques, réglementations ou approches facilitant les investissements en faveur de la mise en œuvre de la CNULCD), de la cohérence entre les différents engagements (intégration d’activités associées aux terres ou à la NDT au financement d’autres priorités ou secteurs) ou de la capacité à formuler des propositions de projet de qualité."
 
 #: ../../implementationFramework.md:79
 msgid ""
@@ -305,7 +304,7 @@ msgid ""
 " the measures worked, the way they improved the use of the financial "
 "process, the challenges faced, lessons learned, and the main factors of "
 "success."
-msgstr ""
+msgstr "Pour chaque expérience décrite, les Parties peuvent préciser le(s) type(s) de mécanismes de financement concernés (existants, innovants, FEM ou autres) ainsi que les mesures prises pour tirer un meilleur parti du mécanisme en question. Le rapport descriptif doit expliquer en quoi les mesures ont fonctionné, en quoi elles ont amélioré l’utilisation du mécanisme de financement et quels ont été les difficultés rencontrées, les enseignements tirés et les principaux facteurs de réussite."
 
 #: ../../implementationFramework.md:81
 msgid ""
@@ -319,21 +318,21 @@ msgid ""
 "the outcome may include information on how the measures worked, the way "
 "they improved the use of the financial process and the specific "
 "challenges, lessons learned and main factors of success."
-msgstr ""
+msgstr "Les Parties sont encouragées à donner un ou plusieurs exemples d’aide fournie pour améliorer l’utilisation de mécanismes et d’institutions de financement existants et/ou innovants dans un autre pays. Dans la description, il est recommandé d’inclure des exemples d’aide apportée ainsi que des informations sur le(s) type(s) de mécanismes de financement concerné(s) (existants, innovants, FEM ou autres) et les mesures prises pour tirer un meilleur parti du mécanisme en question. La description du résultat peut expliquer en quoi les mesures ont fonctionné, en quoi elles ont amélioré l’utilisation du mécanisme de financement et quels ont été les difficultés spécifiques, les enseignements tirés et les principaux facteurs de réussite."
 
 #: ../../implementationFramework.md:83
 msgid "7.3. Policy and planning"
-msgstr ""
+msgstr "7.3. Politique générale et planification"
 
 #: ../../implementationFramework.md:85
 msgid ""
 "Parties are encouraged to answer questions related to the following five "
 "main topics."
-msgstr ""
+msgstr "Les Parties sont invitées à répondre à des questions portant sur les cinq principaux sujets suivants."
 
 #: ../../implementationFramework.md:87
 msgid "7.3.1. Action programmes"
-msgstr ""
+msgstr "7.3.1. Programmes d’action"
 
 #: ../../implementationFramework.md:89
 msgid ""
@@ -345,7 +344,7 @@ msgid ""
 "levels, and they encompass practical steps and measures that contribute "
 "to combating land degradation/desertification and mitigating the effects "
 "of drought."
-msgstr ""
+msgstr "Cette section porte sur l’élaboration, l’exécution, la révision et le suivi des plans et/ou des programmes d’action nationaux, sous-régionaux et régionaux pour en faire des outils efficaces de mise en œuvre de la CNULCD, tels que les programmes d’action nationaux (PAN). Les PAN sont élaborés au moyen d’une approche participative qui associe de nombreuses parties prenantes aux niveaux national, sous-régional et régional, et comprennent des étapes et des mesures concrètes destinées à contribuer à la lutte contre la dégradation des terres/la désertification et à atténuer les effets de la sécheresse."
 
 #: ../../implementationFramework.md:91
 msgid ""
@@ -356,11 +355,11 @@ msgid ""
 " or monitoring them, and the current status/results achieved. The "
 "narrative should also explain how the adopted measures were effective for"
 " UNCCD implementation and the main factors of success."
-msgstr ""
+msgstr "Le rapport doit décrire des expériences en matière d’élaboration, de mise en œuvre, de révision et/ou de suivi périodique d’un programme d’action national, sous-régional ou régional et comprendre des informations sur le type de programme d’action, sur les principales mesures prises pour l’élaborer, le mettre en œuvre, le réviser ou en assurer régulièrement le suivi, ainsi que sur son état d'avancement actuel/les résultats obtenus. Le rapport doit également expliquer en quoi les mesures prises ont contribué à faire du programme d’action un outil efficace de mise en œuvre de la CNULCD et quels ont été les principaux facteurs de réussite."
 
 #: ../../implementationFramework.md:93
 msgid "7.3.2. Policies and enabling environment"
-msgstr ""
+msgstr "7.3.2. Politiques et conditions appropriées"
 
 #: ../../implementationFramework.md:95
 msgid ""
@@ -368,7 +367,7 @@ msgid ""
 " ensure an enabling environment for promoting and implementing solutions "
 "to combat desertification/land degradation and mitigate the effects of "
 "drought."
-msgstr ""
+msgstr "Cette section porte sur la mise en place de politiques et de mesures législatives visant à créer des conditions appropriées pour promouvoir et mettre en œuvre des moyens de lutter contre la désertification/la dégradation des terres et d’atténuer les effets de la sécheresse."
 
 #: ../../implementationFramework.md:97
 msgid ""
@@ -378,7 +377,7 @@ msgid ""
 "other things. Noting the link between gender equality and land "
 "degradation, DLDD approaches can also be developed with a clear gender "
 "dimension in implementation design."
-msgstr ""
+msgstr "Les approches de la lutte contre la désertification, la dégradation des terres et la sécheresse peuvent être conçues de manière à apporter d’autres avantages sociaux, économiques et environnementaux, notamment une atténuation des effets du changement climatique et une adaptation à ceux-ci, la conservation de la biodiversité et la réduction du risque de catastrophe, entre autres. Compte tenu du lien entre égalité des genres et dégradation des terres, ces approches peuvent également comprendre un volet clair sur la dimension de genre dans la mise en œuvre de la CNULCD."
 
 #: ../../implementationFramework.md:99
 msgid ""
@@ -396,7 +395,7 @@ msgid ""
 "(national/local/subregional), the targeted audience, main provisions, and"
 " institution(s) adopting the measure, as well as information on how the "
 "measure has succeeded in meeting its aim and the main factors of success."
-msgstr ""
+msgstr "Les expériences et les exemples décrits (y compris ceux tirés du processus de définition des cibles de NDT, le cas échéant) peuvent porter sur la mise en place de mesures politiques et législatives visant à minimiser les risques tenant aux sécheresses, notamment des réglementations destinées à limiter la déforestation ou à gérer les pâturages, la création d’une aire protégée, des réglementations interdisant l’utilisation de certains produits chimiques ou de pratiques, ainsi que des politiques liées à la planification de l’utilisation des terres, à la collecte de l’eau ou à l’assurance-récolte, etc. De manière plus générale, le rapport descriptif peut porter sur des réglementations et des politiques qui couvrent l’ensemble des pratiques agricoles et de l’utilisation des terres au niveau national, voire au niveau sous-régional (accords transfrontaliers garantissant la mobilité des bergers, etc.) et comprendre des informations sur la zone (nationale/locale/sous-régionale) couverte par la mesure politique ou législative, le public ciblé, les principales dispositions et les institutions ayant adopté la mesure. Le rapport doit également expliquer comment la mesure a permis d’atteindre l’objectif fixé et quels ont été les principaux facteurs de réussite."
 
 #: ../../implementationFramework.md:101
 msgid ""
@@ -406,7 +405,7 @@ msgid ""
 " concerning land, improving women’s land rights and access to related "
 "resources, or building women’s capacity for effective UNCCD "
 "implementation."
-msgstr ""
+msgstr "Les Parties sont aussi invitées à faire part de leurs expériences en lien avec des mesures politiques visant à intégrer la dimension de genre dans la mise en œuvre de la CNULCD. Ces expériences peuvent consister, par exemple, à favoriser la participation des femmes aux prises de décisions relatives aux terres, à renforcer leurs droits fonciers et leur accès aux ressources associées ainsi que leur capacité à mettre en œuvre la CNULCD avec efficacité."
 
 #: ../../implementationFramework.md:103
 msgid ""
@@ -417,11 +416,11 @@ msgid ""
 "legislative measure should include information on the area covered "
 "(national/local), targeted audience, main provisions, institutions "
 "adopting the measure, and main factors of success."
-msgstr ""
+msgstr "Les Parties sont encouragées à donner un ou plusieurs exemples d’aide fournie pour définir des mesures politiques et législatives dans un autre pays, notamment des mesures liées à l’intégration de la dimension de genre dans la mise en œuvre de la CNULCD. La brève description des mesures politiques ou législatives doit préciser la zone (nationale/locale) couverte, le public ciblé ainsi que les principales dispositions, les institutions ayant adopté la mesure et les principaux facteurs de réussite."
 
 #: ../../implementationFramework.md:105
 msgid "7.3.3. Synergies"
-msgstr ""
+msgstr "7.3.3. Synergies"
 
 #: ../../implementationFramework.md:107
 msgid ""
@@ -429,7 +428,7 @@ msgid ""
 "DLDD-related activities and integrating DLDD in planning and "
 "implementation to generate simultaneous benefits and added value for "
 "other multilateral environmental agreements or international commitments."
-msgstr ""
+msgstr "Cette section porte sur les stratégies et les mesures visant à tirer parti des synergies et à intégrer la lutte contre la désertification, la dégradation des terres et la sécheresse dans la planification et la mise en œuvre afin d’apporter en même temps des avantages et une valeur ajoutée à d’autres accords multilatéraux relatifs à l’environnement ou engagements internationaux."
 
 #: ../../implementationFramework.md:109
 msgid ""
@@ -451,7 +450,7 @@ msgid ""
 " address DLDD can be pursued in a holistic approach to achieve the "
 "objectives of the three Rio conventions as well as relevant targets under"
 " all 17 SDGs, in particular SDG target 15.3."
-msgstr ""
+msgstr "Les processus de désertification, de dégradation des terres et de sécheresse peuvent contribuer aux émissions de gaz à effet de serre, à la perte d’habitats et au déclin de la biodiversité. Par conséquent, les contributions déterminées au niveau national et les plans d’adaptation nationaux prévus dans le cadre de la Convention-Cadre des Nations Unies sur la lutte contre les changements climatiques (CCNUCC), ainsi que les stratégies nationales pour la biodiversité et les plans d’action nationaux au titre de la Convention sur la diversité biologique (CDB), pourraient contribuer à la réalisation des cibles fixées dans le cadre d’un ou de plusieurs mécanismes des conventions de Rio mentionnées ainsi qu’au titre de la CNULCD, des PAN et/ou des cibles de NDT. Les approches fondées sur la terre peuvent contribuer à intégrer et accélérer les progrès en vue de la réalisation des objectifs de développement durable (ODD), dont un grand nombre exercent des demandes concurrentes sur des ressources en terres limitées. Les mesures de mise en œuvre peuvent comprendre l’adoption de mesures de conservation et de pratiques de gestion durable des terres et/ou la remise en état/la restauration écologique de terres dégradées, et pourraient être déployées dans le cadre d’approches écosystémiques telles que l’adaptation écosystémique, la réduction écosystémique du risque de catastrophe et autres solutions fondées sur la nature impliquant les terres. Ainsi, la mise en œuvre de mesures visant à lutter contre la désertification, la dégradation des terres et la sécheresse peut s’inscrire dans une approche globale visant à atteindre les objectifs des trois conventions de Rio ainsi que les cibles pertinentes des 17 ODD, en particulier la cible 15.3 des ODD."
 
 #: ../../implementationFramework.md:111
 msgid ""
@@ -459,18 +458,18 @@ msgid ""
 "targets, climate or biodiversity commitments or plans, SDGs, NAPs or "
 "similar) and include information on their linkages, including with regard"
 " to synergies generated and the main factors of success."
-msgstr ""
+msgstr "Les Parties peuvent communiquer des informations sur les activités ou plans concernés (cibles de NDT, engagements ou plans liés au changement climatique ou à la biodiversité, ODD, PAN ou autres) ainsi que sur leurs liens. Elles doivent également préciser quelles synergies ont été générées et quels ont été les principaux facteurs de réussite."
 
 #: ../../implementationFramework.md:113
 msgid "7.3.4. Mainstreaming desertification/land degradation and drought"
-msgstr ""
+msgstr "7.3.4. Intégrer la lutte contre la désertification, la dégradation des terres et la sécheresse"
 
 #: ../../implementationFramework.md:115
 msgid ""
 "Parties are encouraged to report on their approach to mainstreaming DLDD "
 "in economic, environmental and social policies, with a view to increasing"
 " the impact and effectiveness of the implementation of the Convention."
-msgstr ""
+msgstr "Les Parties sont invitées à décrire leur approche en matière d’intégration de la lutte contre la désertification, la dégradation des terres et la sécheresse dans les politiques économiques, environnementales et sociales, dans l’optique de renforcer l’impact et l’efficacité de la mise en œuvre de la CNULCD."
 
 #: ../../implementationFramework.md:117
 msgid ""
@@ -480,7 +479,7 @@ msgid ""
 " as adopting SLM in policies for income generation/poverty reduction, "
 "gender equality, unemployment, migration, disaster preparedness, energy "
 "efficiency or wildlife conservation, among other things."
-msgstr ""
+msgstr "Les réponses doivent fournir des informations sur l’expérience acquise en matière d’intégration de la lutte contre la désertification, la dégradation des terres et la sécheresse dans les politiques économiques, environnementales et sociales (y compris l’expérience acquise dans le cadre du processus de définition des cibles de NDT). Ces expériences peuvent consister, par exemple, à adopter une gestion durable des terres pour des politiques relatives notamment à la création de revenus/réduction de la pauvreté, à l’égalité des genres, au chômage, à la migration, à la préparation aux catastrophes, à l’efficacité énergétique ou à la conservation de la vie sauvage."
 
 #: ../../implementationFramework.md:119
 msgid ""
@@ -491,11 +490,11 @@ msgid ""
 "increases the impact and effectiveness of the implementation of the "
 "Convention and generates added value for the policy should also be "
 "included, as well as the main factors of success."
-msgstr ""
+msgstr "Les Parties peuvent indiquer les raisons de l’intégration de la lutte contre la désertification, la dégradation des terres et la sécheresse dans la politique en question et préciser le champ d’application/les bénéficiaires de la politique ainsi que le processus mis en œuvre pour préparer et déterminer les méthodes d’intégration. Elles doivent également expliquer comment cette intégration à une politique spécifique renforce l’impact et l’efficacité de la mise en œuvre de la CNULCD et confère une valeur ajoutée à cette politique, et indiquer quels ont été les principaux facteurs de réussite."
 
 #: ../../implementationFramework.md:121
 msgid "7.3.5. Drought-related policies"
-msgstr ""
+msgstr "7.3.5. Politiques relatives à la sécheresse"
 
 #: ../../implementationFramework.md:123
 msgid ""
@@ -505,7 +504,7 @@ msgid ""
 "subnational levels that outline modalities to manage drought, "
 "possibilities for drought to happen, expected impacts and measures to be "
 "taken to minimize impacts."
-msgstr ""
+msgstr "Les Parties sont invitées à décrire leurs expériences en matière de mise en place de politiques, de mesures et de modes de gouvernance nationaux pour la préparation aux situations de sécheresse et la gestion de celles-ci, y compris des plans d’intervention d’urgence aux niveaux national ou infranational indiquant comment seront gérées les situations de sécheresse, les possibilités qu’une sécheresse se produise, les impacts escomptés et les mesures qui seront prises pour limiter ces derniers."
 
 #: ../../implementationFramework.md:125
 msgid ""
@@ -520,7 +519,7 @@ msgid ""
 "this regard, of special interest would be a description of the "
 "approach/procedure used to develop drought preparedness and/or "
 "contingency plans."
-msgstr ""
+msgstr "Ces expériences peuvent englober, par exemple, la création d’un mécanisme (organe) de coordination multipartite sur la préparation à la sécheresse, la mise en place et l’entretien d’un système de suivi de la sécheresse et d’alerte précoce, la réalisation d’études sur la vulnérabilité à la sécheresse et ses impacts à différents niveaux (sectoriel, régional ou national) ou la mise en œuvre de mesures concrètes visant à limiter les risques de sécheresse (collecte de l’eau, assurance-récolte, pratiques d’irrigation, etc.). Les expériences peuvent aussi concerner le renforcement de la résilience et la préparation à la sécheresse ainsi que la gestion de cette dernière dans une approche sensible au genre. À cet égard, il serait particulièrement intéressant de décrire l’approche/la procédure adoptée pour élaborer des plans d’urgence et/ou de préparation à la sécheresse."
 
 #: ../../implementationFramework.md:127
 msgid ""
@@ -531,7 +530,7 @@ msgid ""
 "and the results achieved so far, including the main factors of success. "
 "Experiences from the LDN Target-Setting Programme should be reported, "
 "when applicable."
-msgstr ""
+msgstr "Les Parties peuvent également communiquer des informations sur le champ d’application (national/local) de la politique/mesure de lutte contre la sécheresse et dresser la liste des autorités et autres acteurs majeurs associés à sa mise en œuvre. Elles peuvent décrire les principaux objectifs et activités de cette politique/mesure, les actions engagées et les résultats obtenus jusqu’à présent, et indiquer quels ont été les principaux facteurs de réussite. Elles doivent aussi décrire des expériences tirées du processus de définition des cibles de NDT, le cas échéant."
 
 #: ../../implementationFramework.md:129
 msgid ""
@@ -543,21 +542,21 @@ msgid ""
 "implementation, as well as the main aims and activities of the drought "
 "policy/measure, the action taken, and the results achieved so far, "
 "including the main factors of success."
-msgstr ""
+msgstr "Les Parties peuvent donner des exemples d’aide apportée pour mettre en place des politiques, mesures et modes de gouvernance nationaux visant à favoriser la préparation à la sécheresse et la gestion de celle-ci dans un autre pays. La description peut comprendre des informations sur le champ d’application (national/local) de la politique/mesure de lutte contre la sécheresse ainsi que la liste des autorités et autres acteurs majeurs associés à sa mise en œuvre. Il convient également de préciser les principaux objectifs et activités de cette politique/mesure, les actions engagées et les résultats obtenus jusqu’à présent, ainsi que les principaux facteurs de réussite."
 
 #: ../../implementationFramework.md:131
 msgid "7.4. Action on the ground"
-msgstr ""
+msgstr "7.4. Actions sur le terrain"
 
 #: ../../implementationFramework.md:133
 msgid ""
 "Parties are encouraged to answer questions related to  the following five"
 " main topics."
-msgstr ""
+msgstr "Les Parties sont invitées à répondre à des questions portant sur les cinq principaux sujets suivants."
 
 #: ../../implementationFramework.md:135
 msgid "7.4.1. Sustainable land management practices"
-msgstr ""
+msgstr "7.4.1. Pratiques de gestion durable des terres"
 
 #: ../../implementationFramework.md:137
 msgid ""
@@ -565,7 +564,7 @@ msgid ""
 "based on the list developed using the World Overview of Conservation "
 "Approaches and Technologies (WOCAT) Global SLM Database and included in "
 "the PRAIS 4 platform[^1]."
-msgstr ""
+msgstr "Les Parties peuvent donner des informations succinctes sur une ou plusieurs pratiques efficaces de gestion durable des terres en s’appuyant sur la liste élaborée au moyen de la base de données mondiale sur la gestion durable des terres du système WOCAT (World Overview of Conservation Approaches and Technologies) et intégrée à la plateforme du système PRAIS 4[^1]."
 
 #: ../../implementationFramework.md:139
 msgid ""
@@ -574,7 +573,7 @@ msgid ""
 "reasons for its success in avoiding or reducing land degradation in the "
 "long term, and main factors of success. When applicable, experiences from"
 " the LDN Target-Setting Programme should also be reported."
-msgstr ""
+msgstr "Pour chaque pratique, les Parties peuvent indiquer le type, les principales activités, les principaux acteurs associés et les ressources utilisées, comment elle permet d’éviter ou de réduire la dégradation des terres à long terme et quels sont les principaux facteurs de réussite. Le cas échéant, elles doivent également faire part des expériences tirées du processus de définition des cibles de NDT."
 
 #: ../../implementationFramework.md:141
 msgid ""
@@ -582,7 +581,7 @@ msgid ""
 "submitted through the WOCAT system to the dedicated knowledge base. "
 "Detailed information on how to submit to the WOCAT system can be found at"
 " this link: <http://knowledge.unccd.int/WOCAT-SLM>."
-msgstr ""
+msgstr "Par ailleurs, une description complète des bonnes pratiques peut être envoyée par le biais du système WOCAT à la base de connaissances dédiée. Des renseignements détaillés sur la procédure à suivre pour communiquer ces informations figurent sur le site suivant : <http://knowledge.unccd.int/WOCAT-SLM>."
 
 #: ../../implementationFramework.md:143
 msgid ""
@@ -593,17 +592,17 @@ msgid ""
 "resources used. The reasons for the successful implementation of this "
 "practice, how it has avoided or reduced land degradation in the long "
 "term, and the main factors of success should also be reported."
-msgstr ""
+msgstr "Les Parties sont encouragées à donner un ou plusieurs exemples d’aide fournie pour mettre en œuvre des pratiques efficaces de gestion durable des terres dans un autre pays. Pour chaque pratique, il est recommandé de préciser le type, les principales activités, les principaux acteurs associés, la durée et les ressources utilisées. Les Parties doivent également expliquer pourquoi cette pratique peut être qualifiée de réussite, comment elle a permis d’éviter ou de réduire la dégradation des terres à long terme et quels ont été les principaux facteurs de réussite."
 
 #: ../../implementationFramework.md:145
 msgid ""
 "If the practice is already included in the WOCAT system or another "
 "similar online database, a link to these systems should be included."
-msgstr ""
+msgstr "Si la pratique figure déjà dans le système WOCAT ou une autre base de données en ligne similaire, il convient d’ajouter un lien vers ces systèmes."
 
 #: ../../implementationFramework.md:149
 msgid "7.4.2. Restoration and rehabilitation"
-msgstr ""
+msgstr "7.4.2. Restauration et réhabilitation"
 
 #: ../../implementationFramework.md:151
 msgid ""
@@ -615,7 +614,7 @@ msgid ""
 "a focus on the provision of goods and services. Such practices may "
 "include, for example, soil nutrient replenishment through organic "
 "amendment, water harvesting, counter-erosion measures and reforestation."
-msgstr ""
+msgstr "Les Parties sont invitées à décrire leur expérience en matière de mise en application de pratiques de restauration et de réhabilitation pour i) inverser la dégradation des terres et améliorer le capital naturel terrestre, ii) contribuer à la reconstitution d’un écosystème dégradé en rétablissant la structure et la fonction écologiques préexistantes, ou iii) rétablir le fonctionnement d’un écosystème, en insistant sur la fourniture de biens et de services. Ces pratiques peuvent inclure, par exemple, la reconstitution des nutriments du sol à l’aide d’amendements organiques, la collecte des eaux, des mesures de lutte contre l’érosion, et la reforestation."
 
 #: ../../implementationFramework.md:153
 msgid ""
@@ -629,7 +628,7 @@ msgid ""
 "ground’ section of the reporting form, Parties may refer to them or "
 "elaborate more specifically on one or more. Experiences from the LDN "
 "Target-Setting Programme should be reported when applicable."
-msgstr ""
+msgstr "Dans la description, les Parties peuvent fournir des informations sur le type de pratique, les principales activités, l’écosystème concerné, les principaux acteurs associés et les ressources utilisées. Le rapport doit également expliquer pourquoi cette pratique peut être qualifiée de réussite, quel soutien a été fourni pour rétablir les fonctions et les services écosystémiques à long terme, et quels ont été les principaux facteurs de réussite. Si la restauration et la réhabilitation renvoient à des cas/exemples mentionnés dans la question sur la gestion durable des terres au titre de la section « Actions sur le terrain » du formulaire de rapport, les Parties peuvent s’y référer ou développer un ou plusieurs de ces exemples. Elles doivent également faire part des expériences tirées du processus de définition des cibles de NDT, le cas échéant."
 
 #: ../../implementationFramework.md:155
 msgid ""
@@ -641,11 +640,11 @@ msgid ""
 "describe the main reasons for success, what support was provided to the "
 "recovery of ecosystem functions and services in the long term, and the "
 "main factors of success."
-msgstr ""
+msgstr "Les Parties sont encouragées à donner un ou plusieurs exemples d’aide apportée à la mise en œuvre de pratiques de restauration et de réhabilitation dans un autre pays, en précisant le type de pratique, les principales activités, les zones/écosystèmes restaurés et réhabilités, les principaux acteurs associés et les ressources utilisées. Le rapport doit également expliquer pourquoi cette pratique peut être qualifiée de réussite, quel soutien a été fourni pour rétablir les fonctions et les services écosystémiques à long terme, et quels ont été les principaux facteurs de réussite."
 
 #: ../../implementationFramework.md:157
 msgid "7.4.3. Drought risk management and early warning systems"
-msgstr ""
+msgstr "7.4.3. Systèmes de gestion du risque de sécheresse et d’alerte précoce"
 
 #: ../../implementationFramework.md:159
 msgid ""
@@ -655,42 +654,42 @@ msgid ""
 "example, capacity-building and extension services, national strategies in"
 " place that cover drought risk management, and ways to monitor the early "
 "warning systems. The information may address questions relating to:"
-msgstr ""
+msgstr "Les Parties sont invitées à faire part de leur expérience en matière d’élaboration et de mise en œuvre de systèmes de gestion du risque de sécheresse, de surveillance et d’alerte précoce ainsi que de programmes de protection sociale. Ces expériences peuvent consister, par exemple, en un renforcement des capacités et des services de vulgarisation, en des stratégies nationales destinées à couvrir la gestion du risque de sécheresse et en la surveillance des systèmes d’alerte précoce. Les informations fournies pourront répondre aux questions suivantes :"
 
 #: ../../implementationFramework.md:161
 msgid ""
 "What are the current procedures/challenges relating to early warning "
 "systems in your country?"
-msgstr ""
+msgstr "Quelles sont les procédures/difficultés actuelles associées aux systèmes d’alerte précoce dans votre pays ?"
 
 #: ../../implementationFramework.md:163
 msgid ""
 "What mechanisms are in place for fostering the liaison and communication "
 "of drought monitoring and early warning information between national "
 "institutions in your country?"
-msgstr ""
+msgstr "De quels mécanismes disposent les institutions nationales de votre pays pour transmettre et échanger entre elles les informations en matière de surveillance de la sécheresse et d’alerte précoce ?"
 
 #: ../../implementationFramework.md:165
 msgid ""
 "What are the causes of/reasons for vulnerability to drought in your "
 "country?"
-msgstr ""
+msgstr "Quelles sont les causes/raisons de la vulnérabilité à la sécheresse dans votre pays ?"
 
 #: ../../implementationFramework.md:167
 msgid "What criteria are used to prioritize vulnerability?"
-msgstr ""
+msgstr "Quels critères servent à hiérarchiser les vulnérabilités ?"
 
 #: ../../implementationFramework.md:169
 msgid ""
 "What are general challenges in developing a national drought policy in "
 "your country?"
-msgstr ""
+msgstr "De façon générale, quels sont les obstacles à l’élaboration d’une politique nationale de lutte contre la sécheresse dans votre pays ?"
 
 #: ../../implementationFramework.md:171
 msgid ""
 "What steps have been taken for establishing a drought policy in your "
 "country?"
-msgstr ""
+msgstr "Quelles mesures ont été prises pour mettre en place une politique de lutte contre la sécheresse dans votre pays ?"
 
 #: ../../implementationFramework.md:173
 msgid ""
@@ -699,7 +698,7 @@ msgid ""
 " narrative should also describe the outcomes of the activities and the "
 "main factors of success. Experiences from the LDN Target-Setting "
 "Programme should be reported, when applicable."
-msgstr ""
+msgstr "Dans la description, les Parties peuvent indiquer le type et l’objectif des activités, les mesures qui ont été prises ainsi que les personnes impliquées. Le rapport doit également décrire le résultat des activités et les principaux facteurs de réussite. Il convient de faire part des expériences tirées du processus de définition des cibles de NDT, le cas échéant."
 
 #: ../../implementationFramework.md:175
 msgid ""
@@ -712,11 +711,11 @@ msgid ""
 "implementation of this practice, how it has avoided or reduced land "
 "degradation in the long term, and the main factors of success should also"
 " be reported."
-msgstr ""
+msgstr "Les Parties peuvent donner des informations succinctes sur un ou plusieurs exemples d’aide fournie pour élaborer et mettre en œuvre des systèmes de gestion du risque de sécheresse, de surveillance et d’alerte précoce ainsi que des programmes de protection sociale dans un autre pays. Dans la description, il est recommandé de préciser le type, les principales activités, les principaux acteurs associés, la durée et les ressources utilisées. Les Parties doivent également expliquer pourquoi cette pratique peut être qualifiée de réussite, comment elle a permis d’éviter ou de réduire la dégradation des terres à long terme et quels ont été les principaux facteurs de réussite."
 
 #: ../../implementationFramework.md:177
 msgid "7.4.4. Alternative livelihoods"
-msgstr ""
+msgstr "7.4.4. Nouveaux moyens de subsistance"
 
 #: ../../implementationFramework.md:179
 msgid ""
@@ -733,7 +732,7 @@ msgid ""
 "extension services, provision of incentives, infrastructure improvements "
 "(roads, telecommunication) or support to product processing and/or "
 "marketing."
-msgstr ""
+msgstr "Les Parties sont invitées à faire part de leur expérience en matière de promotion de nouveaux moyens de subsistance, afin de garantir la subsistance et de générer des revenus en utilisant les ressources naturelles d’une (nouvelle) manière propre à prévenir ou à réduire la dégradation des terres. Ces nouveaux moyens de subsistance comprennent, par exemple, la diversification des cultures, les pratiques agroforestières, la rotation des pâturages ou des systèmes agricoles irrigués ou non. Ils peuvent également inclure des activités génératrices de revenus qui ne dépendent pas directement des ressources naturelles telles que la production d’articles artisanaux, la production d’énergies renouvelables, l’écotourisme, la production de plantes médicinales et aromatiques et l’aquaculture à base d’eaux usées recyclées. Les expériences décrites peuvent comprendre un renforcement des capacités et des services de vulgarisation, l’introduction de mesures incitatives, une amélioration des infrastructures (routes, télécommunications]) ou un soutien à la transformation et/ou à la commercialisation de produits."
 
 #: ../../implementationFramework.md:181
 msgid ""
@@ -744,11 +743,11 @@ msgid ""
 "outcomes of the activities and the main factors of success. Experiences "
 "from the LDN Target-Setting Programme should be reported, when "
 "applicable."
-msgstr ""
+msgstr "Les Parties peuvent décrire brièvement la zone/les personnes concernées, l’objectif des activités, les mesures prises, le rôle des femmes et des jeunes ainsi que les mesures prises pour encourager leur participation aux activités. Elles doivent également décrire le résultat des activités et les principaux facteurs de réussite, ainsi que faire part des expériences tirées du processus de définition des cibles de NDT, le cas échéant."
 
 #: ../../implementationFramework.md:183
 msgid "7.4.5. Establishing knowledge-sharing systems"
-msgstr ""
+msgstr "7.4.5. Mettre en place des systèmes de partage des connaissances"
 
 #: ../../implementationFramework.md:185
 msgid ""
@@ -763,7 +762,7 @@ msgid ""
 " and promotion of the upscaling of good practices. The description may "
 "also include information on experiences in promoting women’s access to "
 "knowledge and technology."
-msgstr ""
+msgstr "Les Parties sont invitées à faire part de leur expérience relativement à la création de systèmes permettant de partager des informations et des connaissances ainsi que de faciliter la constitution de réseaux pour échanger sur les bonnes pratiques et les méthodes de gestion des situations de sécheresse. Ces systèmes couvrent un large éventail, allant de réseaux d’agriculteurs à l’échelle des communautés à des banques de données nationales et des réseaux multinationaux d’apprentissage entre pairs. Ces systèmes remplissent différentes fonctions, par exemple faciliter la communication et les alertes sur les situations de sécheresse, partager les expériences, les informations et les technologies, permettre la coordination institutionnelle, fournir des informations et des données scientifiques et promouvoir l’application des bonnes pratiques à plus grande échelle. La description peut également fournir des informations sur les expériences en matière de promotion de l’accès des femmes au savoir et à la technologie."
 
 #: ../../implementationFramework.md:187
 msgid ""
@@ -774,7 +773,7 @@ msgid ""
 "country takes part. If possible, a link to each system/network website "
 "should be added. The list, together with the links, will be made "
 "available on the UNCCD Knowledge Hub."
-msgstr ""
+msgstr "Si possible, les Parties doivent énumérer les systèmes et réseaux de partage d’informations et de connaissances nationaux ou infranationaux sur la préparation à la sécheresse, de même que les systèmes et réseaux sous-régionaux, régionaux et internationaux tournant autour de cette question et dont leur pays fait partie. Si possible, il convient d’ajouter un lien vers le site de chaque système/réseau. Cette liste ainsi que les liens seront accessibles sur la plateforme de connaissances de la CNULCD."
 
 #: ../../implementationFramework.md:189
 msgid ""
@@ -784,11 +783,11 @@ msgid ""
 " the language(s) the information is available in, and a brief description"
 " of the main activities. They may also explain how the system/network has"
 " been used/useful so far, and the main factors of success."
-msgstr ""
+msgstr "Pour chaque expérience, les Parties sont encouragées à préciser la finalité et le champ d’application (zone/population) du système ou du réseau d’informations/de connaissances, son objet/sujet spécifique le cas échéant et la ou les langues dans lesquelles les informations sont disponibles, ainsi qu’à décrire brièvement les principales activités. Elles peuvent également expliquer comment le système/réseau a été utilisé, en quoi il a été utile jusqu’à présent et quels sont les principaux facteurs de réussite."
 
 #: ../../implementationFramework.md:147
 msgid ""
 "https://www.wocat.net/en/global-slm-database/slm-practices-technologies-"
 "and-approaches/classifications-technologies."
-msgstr ""
+msgstr "https://www.wocat.net/en/global-slm-database/slm-practices-technologies-and-approaches/classifications-technologies."
 

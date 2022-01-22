@@ -4,12 +4,11 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-26 17:12+0300\n"
+"POT-Creation-Date: 2021-11-04 19:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,15 +21,15 @@ msgstr ""
 msgid ""
 "7. Implementation framework: financial and non-financial resources, "
 "policy and planning, and action on the ground"
-msgstr ""
+msgstr "7. 执行框架：财政和非财政资源，政策和规划，以及实地行动"
 
 #: ../../implementationFramework.md:3
 msgid "7.1. About the implementation framework"
-msgstr ""
+msgstr "7.1. 关于执行框架"
 
 #: ../../implementationFramework.md:5
 msgid "7.1.1. Introduction"
-msgstr ""
+msgstr "7.1.1. 简介"
 
 #: ../../implementationFramework.md:7
 msgid ""
@@ -38,11 +37,11 @@ msgid ""
 "and implement the strategic objectives and furthermore provides Parties "
 "with an opportunity to share their knowledge and experiences. It focuses "
 "on three broad areas:"
-msgstr ""
+msgstr "执行框架描述了为支持和实施战略目标所采取的方法，并进一步为缔约方提供了分享知识和经验的机会。它侧重于三个广泛的领域："
 
 #: ../../implementationFramework.md:9
 msgid "**(a) Financial and non-financial resources**"
-msgstr ""
+msgstr "**(a)财政和非财政资源**"
 
 #: ../../implementationFramework.md:11
 msgid ""
@@ -50,11 +49,11 @@ msgid ""
 "financial resources; (ii) uses of land degradation neutrality (LDN) as a "
 "catalyst for leveraging investments; and (iii) improved use of existing "
 "and/or innovative financial processes and institutions."
-msgstr ""
+msgstr "分享以下方面的经验：(i) 成功调动财政和非财政资源；(ii) 利用土地退化零增长(LDN)作为利用投资的催化剂；以及(iii) 改进对现有和/或创新的金融流程和体制的利用。"
 
 #: ../../implementationFramework.md:13
 msgid "**(b) Policy and planning**"
-msgstr ""
+msgstr "**(b)政策和规划**"
 
 #: ../../implementationFramework.md:15
 msgid ""
@@ -64,11 +63,11 @@ msgid ""
 "environments; (iii) leveraging of synergies; (iv) mainstreaming of "
 "desertification/land degradation and drought (DLDD);  and (v) "
 "improvements in drought preparedness and management."
-msgstr ""
+msgstr "分享以下方面的经验：(i)制定、执行和监测国家、次区域和区域执行《荒漠化公约》的行动方案和/或计划；(ii)制定政策和营造扶持环境；(iii)利用协同作用；(iv)将荒漠化/土地退化和干旱(DLDD)问题纳入主流；以及(v)改善干旱防备和管理。"
 
 #: ../../implementationFramework.md:17
 msgid "**\\(c\\) Actions on the ground**"
-msgstr ""
+msgstr "**\\(c\\)实地行动**"
 
 #: ../../implementationFramework.md:19
 msgid ""
@@ -77,66 +76,66 @@ msgid ""
 "and/or rehabilitating ecosystems; (iii) drought risk management and early"
 " warning systems; (iv) alternative livelihoods; and (v) the establishment"
 " of effective systems for sharing information and knowledge."
-msgstr ""
+msgstr "分享以下方面的经验：(i)用于实现可持续土地管理的成功实施做法；(ii)加强恢复工作和/或恢复生态系统；(iii)干旱风险管理和预警系统；(iv)替代生计；以及(v)建立分享信息和知识的有效系统。"
 
 #: ../../implementationFramework.md:21
 msgid "7.1.2. Approach to reporting and structure of the reporting template"
-msgstr ""
+msgstr "7.1.2. 报告的方法和报告模板的结构"
 
 #: ../../implementationFramework.md:23
 msgid "Reporting on the implementation framework is qualitative and voluntary."
-msgstr ""
+msgstr "关于执行框架的报告是定性的和自愿的。"
 
 #: ../../implementationFramework.md:25
 msgid ""
 "The reporting template of the PRAIS 4 platform includes a section for "
 "each of the above-mentioned areas ((a), (b) and \\(c\\)), organized as "
 "follows:"
-msgstr ""
+msgstr "PRAIS 4平台的报告模板包括针对上述每个领域（(a)、(b)和 \\(c\\)）的一个部分，其组织方式如下："
 
 #: ../../implementationFramework.md:27
 msgid "The title and a brief description of each topic;"
-msgstr ""
+msgstr "每个主题的名称和简要描述；"
 
 #: ../../implementationFramework.md:29
 msgid "The key question(s) related to the topics;"
-msgstr ""
+msgstr "与主题有关的关键问题；"
 
 #: ../../implementationFramework.md:31
 msgid ""
 "Complementary information on the topics (countries’ experiences as "
 "narrative)."
-msgstr ""
+msgstr "关于主题的补充信息（作为叙述的各国经验）。"
 
 #: ../../implementationFramework.md:33
 msgid ""
 "Many questions in the reporting template of the implementation framework "
 "are self-explanatory, and guidance is provided only for selected "
 "terminology that may need explanation."
-msgstr ""
+msgstr "执行框架报告模板中的许多问题是不言自明的，只对可能需要解释的特定术语提供了指导。"
 
 #: ../../implementationFramework.md:35
 msgid ""
 "'Yes’ responses to questions enable fields where Parties may provide "
 "details on the topic. These fields may change from topic to topic, "
 "although a few of them are recurrent, such as:"
-msgstr ""
+msgstr "对问题回答“是”后，即启用相关字段，使缔约方可以提供有关该主题的详细信息。这些字段可能会因主题而异，但其中有几个字段是重复出现的，如："
 
 #: ../../implementationFramework.md:37
 msgid "Use this space to describe the experience."
-msgstr ""
+msgstr "用这个空间来描述经验。"
 
 #: ../../implementationFramework.md:39
 msgid "What were the challenges faced, if any?"
-msgstr ""
+msgstr "面临的挑战是什么，如果有的话？"
 
 #: ../../implementationFramework.md:41
 msgid "What do you consider to be the lessons learned?"
-msgstr ""
+msgstr "您认为有哪些经验教训？"
 
 #: ../../implementationFramework.md:43
 msgid "How did you engage women and youth in X?"
-msgstr ""
+msgstr "您是如何让妇女和青年参与X的？"
 
 #: ../../implementationFramework.md:45
 msgid ""
@@ -148,7 +147,7 @@ msgid ""
 "contributed to the success. Each experience and example should be "
 "provided as text and should not exceed 1,000 words (approximately two "
 "pages of normal text in font size 12)."
-msgstr ""
+msgstr "报告过程的叙述性质使缔约方有机会提供和分享关于经验和挑战的信息。还鼓励缔约方增加一个或多个例子来支持所陈述的经验，包括所使用的方法/程序，所报告的例子是如何取得成功的，哪些因素促成了成功。每个经验和例子应以文本形式提供，不应超过1000字（大约两页正常文本，字体大小为12）。"
 
 #: ../../implementationFramework.md:47
 msgid ""
@@ -159,11 +158,11 @@ msgid ""
 "DLDD, but which support those that do. However, it may also address those"
 " Parties that engage in South–South cooperation as part of the "
 "implementation of this Convention."
-msgstr ""
+msgstr "执行框架中的一些部分包括关于向其他缔约方提供支持以执行《公约》的问题，以及关于模式和背景的详细信息。这些问题原则上是针对那些可能没有受DLDD影响，但支持那些面临DLDD问题的缔约方的《公约》缔约方。然而，这些问题也可能针对那些参与南南合作，将之作为执行本《公约》的一部分的缔约方。"
 
 #: ../../implementationFramework.md:49
 msgid "7.1.3. Review"
-msgstr ""
+msgstr "7.1.3. 审查"
 
 #: ../../implementationFramework.md:51
 msgid ""
@@ -175,21 +174,21 @@ msgid ""
 "information that is required in the narratives concerning each area/aim, "
 "and hence contributes to focused reporting on current UNCCD priorities "
 "and enables a lively, targeted exchange during sessions."
-msgstr ""
+msgstr "通过报告执行框架提供的信息将主要用于《公约》执行情况审评委员会的正式会议，以展示在执行《公约》方面取得的经验。报告手册就有关每个领域/目标的叙述所需的具体内容和信息类型提供了建议，因此有助于重点报告当前的《荒漠化公约》优先事项，并在会议期间进行生动的、有针对性的交流。"
 
 #: ../../implementationFramework.md:53
 msgid "7.2. Financial and non-financial resources"
-msgstr ""
+msgstr "7.2. 财政和非财政资源"
 
 #: ../../implementationFramework.md:55
 msgid ""
 "Parties are encouraged to answer questions related to the following three"
 " main topics."
-msgstr ""
+msgstr "鼓励缔约方回答与下列三个主要议题有关的问题。"
 
 #: ../../implementationFramework.md:57
 msgid "7.2.1. Increasing the mobilization of resources"
-msgstr ""
+msgstr "7.2.1. 加强资源调动"
 
 #: ../../implementationFramework.md:59
 msgid ""
@@ -198,7 +197,7 @@ msgid ""
 "implementation of the Convention from international and domestic, public "
 "and private sources as well as from local communities, including non-"
 "traditional funding sources and climate finance."
-msgstr ""
+msgstr "本部分涉及旨在从国际和国内、公共和私人来源以及当地社区，包括从非传统的资金来源和气候融资，为执行《公约》进一步调动财政和非财政资源的战略和行动。"
 
 #: ../../implementationFramework.md:61
 msgid ""
@@ -211,7 +210,7 @@ msgid ""
 " Environment Facility (GEF) land degradation focal area and its special "
 "funds focusing on climate, dedicated multilateral and bilateral funds, "
 "and carbon markets."
-msgstr ""
+msgstr "财政资源的例子包括来自赠款或信贷的资金、非财政资源（如货物、材料、能力建设和志愿者时间）和非传统资金来源（如私人投资和公私伙伴关系、汇款、团结税、风险担保和保险）。国际多边融资是指适应基金、绿色气候基金和全球环境基金（GEF）土地退化重点领域及其专注于气候的特别基金、专门的多边和双边基金以及碳市场。"
 
 #: ../../implementationFramework.md:63
 msgid ""
@@ -222,7 +221,7 @@ msgid ""
 "explain how this experience represents an increase in resource "
 "mobilization (i.e. what is different about it) and the main challenges, "
 "main factors of success, and lessons learned."
-msgstr ""
+msgstr "叙述中最好包括关于所调动的资源类型、资金来源、供资目的（项目/活动的简要描述）以及用于调动资源的方法/程序的信息。缔约方还可以解释这一经验如何表明资源调动有所增加（即有何不同），以及主要挑战、主要成功因素和经验教训。"
 
 #: ../../implementationFramework.md:65
 msgid ""
@@ -233,13 +232,13 @@ msgid ""
 "the purpose of funding (brief description of the project/activity), the "
 "approach/procedure used to mobilize resources, lessons learned, "
 "challenges and the main factors of success."
-msgstr ""
+msgstr "叙述中还可以描述一国为在另一国执行《公约》而调动财政和非财政资源时提供的支持，包括关于被支持的伙伴、调动的资源类型、资金来源、供资目的（项目/活动的简要描述）、用于调动资源的方法/程序、经验教训、挑战和主要成功因素的信息。"
 
 #: ../../implementationFramework.md:67
 msgid ""
 "7.2.2. Using land degradation neutrality as a framework to increase "
 "investment"
-msgstr ""
+msgstr "7.2.2. 将土地退化零增长作为增加投资的框架"
 
 #: ../../implementationFramework.md:69
 msgid ""
@@ -251,7 +250,7 @@ msgid ""
 "out whether the implementation of the LDN concept has facilitated support"
 " to land activities from different funding sources and assisted in "
 "bringing together different types of investors."
-msgstr ""
+msgstr "这涉及利用把土地退化零增长作为框架，加强投资的一致性、有效性和多重效益这一机会的战略和行动。鼓励各缔约方澄清，实施土地退化零增长这一概念如何影响了/正在影响投资。具体而言，目的是要弄清楚，实施土地退化零增长这一概念是否促进了不同资金来源对土地活动的支持，并有助于汇集不同类型的投资者。"
 
 #: ../../implementationFramework.md:71
 msgid ""
@@ -265,13 +264,13 @@ msgid ""
 "investment, its use (brief description of the project/activity), "
 "challenges faced, lessons learned and the partners involved should also "
 "be reported."
-msgstr ""
+msgstr "要报告的经验和实例应侧重于使用或已经使用土地退化零增长作为框架，以加强投资的一致性、有效性和多重效益的缔约方。这些经验可能包括通过针对气候行动、生物多样性、森林、水和类似问题的投资来支持土地活动；或让各种资金来源（政府、金融机构、私营部门和其他）参与土地活动。还应报告有关投资规模、投资用途（项目/活动的简要描述）、面临的挑战、吸取的经验教训和参与的合作伙伴等信息。"
 
 #: ../../implementationFramework.md:73
 msgid ""
 "7.2.3. Improving existing and/or innovative financial processes and "
 "institutions"
-msgstr ""
+msgstr "7.2.3. 改进现有和/或创新的金融流程和机构"
 
 #: ../../implementationFramework.md:75
 msgid ""
@@ -284,7 +283,7 @@ msgid ""
 " and bilateral climate funds other than those of the GEF, and carbon "
 "markets), private investments and public–private partnerships, "
 "remittances, solidarity taxes, risk guarantees, insurances or similar."
-msgstr ""
+msgstr "鼓励缔约方报告其改善对现有和/或创新的金融流程和机构的使用的方法，如全球环境基金或其他较新的基金。现有的金融流程是指国家预算、双边发展合作和多边开发银行，而创新的金融流程是指气候融资（如适应基金、绿色气候基金、除全球环境基金以外的专门的多边和双边气候基金以及碳市场）、私人投资和公私伙伴关系、汇款、团结税、风险担保、保险或类似金融工具。"
 
 #: ../../implementationFramework.md:77
 msgid ""
@@ -294,7 +293,7 @@ msgid ""
 "LDN or land activities to financial considerations of other priorities "
 "and sectors); or improving capacity for the preparation of high-quality "
 "project proposals."
-msgstr ""
+msgstr "缔约方可以报告在以下方面的经验：改善气候投资（促进对《荒漠化公约》执行工作进行投资的政策、法规或方法）；提高承诺之间的一致性（将土地退化零增长或土地活动与其他优先事项和部门的财务考虑相结合）；或提高编制高质量项目提案的能力。"
 
 #: ../../implementationFramework.md:79
 msgid ""
@@ -305,7 +304,7 @@ msgid ""
 " the measures worked, the way they improved the use of the financial "
 "process, the challenges faced, lessons learned, and the main factors of "
 "success."
-msgstr ""
+msgstr "在描述每一项经验时，缔约方可包括关于所涉及的金融流程类型（现有的、创新的、全球环境基金或其他）以及为改进对有关金融流程的使用所采取的措施的信息。叙述中应解释这些措施是如何发挥作用的，它们是如何改进对金融流程的使用的，面临的挑战，吸取的经验教训，以及成功的主要因素。"
 
 #: ../../implementationFramework.md:81
 msgid ""
@@ -319,21 +318,21 @@ msgid ""
 "the outcome may include information on how the measures worked, the way "
 "they improved the use of the financial process and the specific "
 "challenges, lessons learned and main factors of success."
-msgstr ""
+msgstr "鼓励缔约方提供一个或多个实例，说明在另一国为改进对现有和/或创新金融流程和机构的使用而提供的支持。在描述中，建议包括所提供的支持的例子、关于所涉及的金融流程类型（现有的、创新的、全球环境基金或其他）的信息以及为改进对有关金融流程的使用所采取的措施。对结果的描述可包括有关措施如何发挥作用、如何改进对金融流程的使用以及具体挑战、吸取的经验教训和主要成功因素的信息。"
 
 #: ../../implementationFramework.md:83
 msgid "7.3. Policy and planning"
-msgstr ""
+msgstr "7.3. 政策及规划"
 
 #: ../../implementationFramework.md:85
 msgid ""
 "Parties are encouraged to answer questions related to the following five "
 "main topics."
-msgstr ""
+msgstr "鼓励缔约方回答与下列五个主要议题有关的问题。"
 
 #: ../../implementationFramework.md:87
 msgid "7.3.1. Action programmes"
-msgstr ""
+msgstr "7.3.1. 行动方案"
 
 #: ../../implementationFramework.md:89
 msgid ""
@@ -345,7 +344,7 @@ msgid ""
 "levels, and they encompass practical steps and measures that contribute "
 "to combating land degradation/desertification and mitigating the effects "
 "of drought."
-msgstr ""
+msgstr "这涉及到国家、次区域和区域行动方案和/或计划的制定、执行、修订和监测，作为执行《荒漠化公约》的有效工具，如国家行动方案（NAP）。国家行动方案是通过国家、次区域和区域各级不同的利益攸关方参与的方式制定的，其中包括有助于防治土地退化/荒漠化和减轻干旱影响的实际步骤和措施。"
 
 #: ../../implementationFramework.md:91
 msgid ""
@@ -356,11 +355,11 @@ msgid ""
 " or monitoring them, and the current status/results achieved. The "
 "narrative should also explain how the adopted measures were effective for"
 " UNCCD implementation and the main factors of success."
-msgstr ""
+msgstr "叙述中应报告在制定、执行、修订和/或定期监测国家、次区域或区域行动方案方面的经验，并包括关于行动方案类型；在制定、执行、修订或监测这些方案时采取的主要措施以及当前状况/取得的成果的信息。叙述中还应说明所采取的措施对《荒漠化公约》的执行是如何发挥作用的，以及成功的主要因素。"
 
 #: ../../implementationFramework.md:93
 msgid "7.3.2. Policies and enabling environment"
-msgstr ""
+msgstr "7.3.2. 政策和有利环境"
 
 #: ../../implementationFramework.md:95
 msgid ""
@@ -368,7 +367,7 @@ msgid ""
 " ensure an enabling environment for promoting and implementing solutions "
 "to combat desertification/land degradation and mitigate the effects of "
 "drought."
-msgstr ""
+msgstr "本部分的重点是制定政策和立法措施，以确保为促进和实施防治荒漠化/土地退化和缓解干旱影响的解决方案创造有利环境。"
 
 #: ../../implementationFramework.md:97
 msgid ""
@@ -378,7 +377,7 @@ msgid ""
 "other things. Noting the link between gender equality and land "
 "degradation, DLDD approaches can also be developed with a clear gender "
 "dimension in implementation design."
-msgstr ""
+msgstr "DLDD方法可以被设计为提供其他社会、经济和环境效益，包括减缓和适应气候变化、保护生物多样性和减少灾害风险，等等。在注意到性别平等与土地退化之间联系的同时，在制定DLDD方法时，也可以在实施设计中明确考虑性别因素。"
 
 #: ../../implementationFramework.md:99
 msgid ""
@@ -396,7 +395,7 @@ msgid ""
 "(national/local/subregional), the targeted audience, main provisions, and"
 " institution(s) adopting the measure, as well as information on how the "
 "measure has succeeded in meeting its aim and the main factors of success."
-msgstr ""
+msgstr "要报告的经验和实例（包括来自土地退化零增长目标设定方案的经验和实例，如适用）可侧重于制定政策和立法措施，以尽量减少干旱风险，包括限制砍伐森林或管理放牧的法规、建立保护区、禁止使用某些化学品或做法的法规，以及与土地使用规划、水收集或作物保险有关的政策等。更宽泛地说，叙述中可以报告涉及国家层面甚至次区域层面的所有农业实践和土地使用的法规和政策（确保牧民流动性的跨境协议等），包括关于政策或立法措施所涉及的区域（国家/地方/次区域）、目标受众、主要规定和采取该措施的机构等信息，以及关于该措施如何成功实现其目标和成功的主要因素的信息。"
 
 #: ../../implementationFramework.md:101
 msgid ""
@@ -406,7 +405,7 @@ msgid ""
 " concerning land, improving women’s land rights and access to related "
 "resources, or building women’s capacity for effective UNCCD "
 "implementation."
-msgstr ""
+msgstr "还应报告在制定政策措施，将性别问题纳入《荒漠化公约》执行工作主流方面的经验。例如，这些经验可能涉及加强妇女参与有关土地的决策，改善妇女的土地权利和获得相关资源的机会，或建设妇女有效执行《荒漠化公约》的能力。"
 
 #: ../../implementationFramework.md:103
 msgid ""
@@ -417,11 +416,11 @@ msgid ""
 "legislative measure should include information on the area covered "
 "(national/local), targeted audience, main provisions, institutions "
 "adopting the measure, and main factors of success."
-msgstr ""
+msgstr "鼓励缔约方提供一个或多个例子，说明在另一国制定政策和立法措施时提供的支持，包括那些与将性别问题纳入《荒漠化公约》执行工作主流有关的支持。对政策或立法措施的简要描述应包括所涉及的区域（国家/地方）、目标受众、主要规定、采取该措施的机构以及主要成功因素等信息。"
 
 #: ../../implementationFramework.md:105
 msgid "7.3.3. Synergies"
-msgstr ""
+msgstr "7.3.3. 协同作用"
 
 #: ../../implementationFramework.md:107
 msgid ""
@@ -429,7 +428,7 @@ msgid ""
 "DLDD-related activities and integrating DLDD in planning and "
 "implementation to generate simultaneous benefits and added value for "
 "other multilateral environmental agreements or international commitments."
-msgstr ""
+msgstr "这指的是旨在利用DLDD相关活动的协同作用，并将DLDD纳入规划和执行工作的战略和行动，以便为其他多边环境协定或国际承诺产生同步效益和附加值。"
 
 #: ../../implementationFramework.md:109
 msgid ""
@@ -451,7 +450,7 @@ msgid ""
 " address DLDD can be pursued in a holistic approach to achieve the "
 "objectives of the three Rio conventions as well as relevant targets under"
 " all 17 SDGs, in particular SDG target 15.3."
-msgstr ""
+msgstr "DLDD进程可能会导致温室气体排放、栖息地丧失和生物多样性减少。因此，《联合国气候变化框架公约》国家自主贡献和国家适应计划以及《生物多样性公约》国家生物多样性战略和行动计划可能有助于实现上述一个或多个里约公约机制以及《荒漠化公约》、国家行动方案下的目标和/或土地退化零增长目标。基于土地的干预措施可以帮助整合并加速实现可持续发展目标的进展，其中许多可持续发展目标都在争夺有限的土地资源。实施措施可包括采取保护措施、可持续土地管理（SLM）做法和/或对过去的土地退化进行生态恢复/修复，并可在基于生态系统的方法中推行，如基于生态系统的适应、基于生态系统的减少灾害风险以及任何其他涉及土地的基于自然的解决方案。因此，在实施解决DLDD问题的行动时，可以采用整体方法，以实现里约三公约的目标以及所有17个可持续发展目标中的相关具体目标，特别是可持续发展目标具体目标15.3。"
 
 #: ../../implementationFramework.md:111
 msgid ""
@@ -459,18 +458,18 @@ msgid ""
 "targets, climate or biodiversity commitments or plans, SDGs, NAPs or "
 "similar) and include information on their linkages, including with regard"
 " to synergies generated and the main factors of success."
-msgstr ""
+msgstr "缔约方可提供有关活动或计划（LDN目标、气候或生物多样性承诺或计划、可持续发展目标、国家行动方案或类似计划）的信息，并包括关于这些活动或计划之间联系的信息，包括产生的协同作用和主要成功因素等信息。"
 
 #: ../../implementationFramework.md:113
 msgid "7.3.4. Mainstreaming desertification/land degradation and drought"
-msgstr ""
+msgstr "7.3.4. 将荒漠化/土地退化和干旱问题纳入主流"
 
 #: ../../implementationFramework.md:115
 msgid ""
 "Parties are encouraged to report on their approach to mainstreaming DLDD "
 "in economic, environmental and social policies, with a view to increasing"
 " the impact and effectiveness of the implementation of the Convention."
-msgstr ""
+msgstr "鼓励缔约方报告其将DLDD问题纳入经济、环境和社会政策主流的做法，以期提高执行《公约》的影响和效力。"
 
 #: ../../implementationFramework.md:117
 msgid ""
@@ -480,7 +479,7 @@ msgid ""
 " as adopting SLM in policies for income generation/poverty reduction, "
 "gender equality, unemployment, migration, disaster preparedness, energy "
 "efficiency or wildlife conservation, among other things."
-msgstr ""
+msgstr "答复中应提供信息，说明在将DLDD问题纳入经济、环境和社会政策主流方面取得的经验（包括从土地退化零增长目标设定方案中取得的经验），例如在创收/减贫、性别平等、失业、移徙、备灾、能源效率或野生动物保护等方面的政策中采用可持续土地管理。"
 
 #: ../../implementationFramework.md:119
 msgid ""
@@ -491,11 +490,11 @@ msgid ""
 "increases the impact and effectiveness of the implementation of the "
 "Convention and generates added value for the policy should also be "
 "included, as well as the main factors of success."
-msgstr ""
+msgstr "缔约方可包括将DLDD纳入政策主流的理由、关于政策覆盖范围/用户的信息以及准备和决定DLDD主流化方法的过程详情。还应说明将DLDD纳入政策主流是如何提高执行《公约》的影响和效力并为政策产生附加值的，并说明成功的主要因素。"
 
 #: ../../implementationFramework.md:121
 msgid "7.3.5. Drought-related policies"
-msgstr ""
+msgstr "7.3.5. 干旱相关政策"
 
 #: ../../implementationFramework.md:123
 msgid ""
@@ -505,7 +504,7 @@ msgid ""
 "subnational levels that outline modalities to manage drought, "
 "possibilities for drought to happen, expected impacts and measures to be "
 "taken to minimize impacts."
-msgstr ""
+msgstr "鼓励缔约方介绍在制定国家干旱防备和管理政策、措施和治理方面的经验，包括国家或国家以下各级的干旱应急计划，其中概述了管理干旱的方式、发生干旱的可能性、预期影响以及为尽量减少影响而采取的措施。"
 
 #: ../../implementationFramework.md:125
 msgid ""
@@ -520,7 +519,7 @@ msgid ""
 "this regard, of special interest would be a description of the "
 "approach/procedure used to develop drought preparedness and/or "
 "contingency plans."
-msgstr ""
+msgstr "例如，这些经验可包括建立关于干旱防备的多方利益攸关方协调机制（机构），建立和维护干旱监测和预警系统，在各个层面（部门范围、区域或国家）进行干旱脆弱性和影响评估，和/或实施实际的干旱风险缓解措施（如水收集、作物保险和/或灌溉做法）。它们也可能是关于促进性别平等的干旱管理、防备和复原力建设。在这方面，特别感兴趣的是描述用于制定干旱防备和/或应急计划的方法/程序。"
 
 #: ../../implementationFramework.md:127
 msgid ""
@@ -531,7 +530,7 @@ msgid ""
 "and the results achieved so far, including the main factors of success. "
 "Experiences from the LDN Target-Setting Programme should be reported, "
 "when applicable."
-msgstr ""
+msgstr "缔约方可包括有关干旱政策/措施的覆盖范围（国家/地方）的信息，并列出参与执行的当局和其他主要利益攸关方。缔约方还可以包括干旱政策/措施的主要目标和活动、采取的行动和迄今为止取得的成果，包括取得成功的主要因素。应酌情报告从土地退化零增长目标设定方案中取得的经验。"
 
 #: ../../implementationFramework.md:129
 msgid ""
@@ -543,21 +542,21 @@ msgid ""
 "implementation, as well as the main aims and activities of the drought "
 "policy/measure, the action taken, and the results achieved so far, "
 "including the main factors of success."
-msgstr ""
+msgstr "缔约方可提供实例，说明在另一国制定国家干旱防备和管理政策、措施和治理方面提供的支持。说明中可包括干旱政策/措施的覆盖范围（国家/地方）、参与执行的主管部门和其他主要利益攸关方的名单，以及干旱政策/措施的主要目标和活动、采取的行动和迄今为止取得的成果，包括取得成功的主要因素。"
 
 #: ../../implementationFramework.md:131
 msgid "7.4. Action on the ground"
-msgstr ""
+msgstr "7.4. 实地行动"
 
 #: ../../implementationFramework.md:133
 msgid ""
 "Parties are encouraged to answer questions related to  the following five"
 " main topics."
-msgstr ""
+msgstr "鼓励缔约方回答与下列五个主要议题有关的问题。"
 
 #: ../../implementationFramework.md:135
 msgid "7.4.1. Sustainable land management practices"
-msgstr ""
+msgstr "7.4.1. 可持续土地管理做法"
 
 #: ../../implementationFramework.md:137
 msgid ""
@@ -565,7 +564,7 @@ msgid ""
 "based on the list developed using the World Overview of Conservation "
 "Approaches and Technologies (WOCAT) Global SLM Database and included in "
 "the PRAIS 4 platform[^1]."
-msgstr ""
+msgstr "缔约方可根据利用世界水土保持方法和技术纵览组织（WOCAT）全球可持续土地管理数据库制定并列入PRAIS 4平台的清单，提供一个或多个成功的可持续土地管理做法摘要[^1]。"
 
 #: ../../implementationFramework.md:139
 msgid ""
@@ -574,7 +573,7 @@ msgid ""
 "reasons for its success in avoiding or reducing land degradation in the "
 "long term, and main factors of success. When applicable, experiences from"
 " the LDN Target-Setting Programme should also be reported."
-msgstr ""
+msgstr "对该做法的描述可包括有关做法的类型、主要活动、涉及的主要利益攸关方、使用的资源、在长期避免或减少土地退化方面取得成功的原因以及成功的主要因素等信息。应酌情报告从土地退化零增长目标设定方案中取得的经验。"
 
 #: ../../implementationFramework.md:141
 msgid ""
@@ -582,7 +581,7 @@ msgid ""
 "submitted through the WOCAT system to the dedicated knowledge base. "
 "Detailed information on how to submit to the WOCAT system can be found at"
 " this link: <http://knowledge.unccd.int/WOCAT-SLM>."
-msgstr ""
+msgstr "此外，还可以通过WOCAT系统向专用知识库提交最佳做法的完整描述。有关如何向WOCAT系统提交的详细信息，请参阅以下链接：<http://knowledge.unccd.int/WOCAT-SLM>。"
 
 #: ../../implementationFramework.md:143
 msgid ""
@@ -593,17 +592,17 @@ msgid ""
 "resources used. The reasons for the successful implementation of this "
 "practice, how it has avoided or reduced land degradation in the long "
 "term, and the main factors of success should also be reported."
-msgstr ""
+msgstr "鼓励缔约方提供一个或多个向另一国提供支持以成功实施可持续土地管理做法的例子。在描述中，建议包括有关做法的类型、主要活动、涉及的主要利益攸关方、持续时间和使用的资源等信息。还应报告成功实施这一做法的原因，它是如何长期避免或减少土地退化的，以及成功的主要因素。"
 
 #: ../../implementationFramework.md:145
 msgid ""
 "If the practice is already included in the WOCAT system or another "
 "similar online database, a link to these systems should be included."
-msgstr ""
+msgstr "如果这一做法已被纳入WOCAT系统或其他类似的在线数据库，应包括这些系统的链接。"
 
 #: ../../implementationFramework.md:149
 msgid "7.4.2. Restoration and rehabilitation"
-msgstr ""
+msgstr "7.4.2. 修复和恢复"
 
 #: ../../implementationFramework.md:151
 msgid ""
@@ -615,7 +614,7 @@ msgid ""
 "a focus on the provision of goods and services. Such practices may "
 "include, for example, soil nutrient replenishment through organic "
 "amendment, water harvesting, counter-erosion measures and reforestation."
-msgstr ""
+msgstr "鼓励缔约方描述其在实施修复和恢复做法方面的经验，以便(i)扭转土地退化和改善基于土地的自然资本；(ii)通过重建原有的生态结构和功能，协助恢复退化的生态系统；或(iii)恢复生态系统功能，重点是提供货物和服务。例如，这些做法可能包括通过有机改良剂补充土壤养分、蓄水、防止侵蚀措施和重新造林。"
 
 #: ../../implementationFramework.md:153
 msgid ""
@@ -629,7 +628,7 @@ msgid ""
 "ground’ section of the reporting form, Parties may refer to them or "
 "elaborate more specifically on one or more. Experiences from the LDN "
 "Target-Setting Programme should be reported when applicable."
-msgstr ""
+msgstr "在描述中，缔约方可包括有关做法类型、主要活动、相关生态系统、涉及的主要利益攸关方和使用的资源等信息。叙述中还应描述取得成功的主要原因，为长期恢复生态系统功能和服务提供了哪些支持，以及取得成功的主要因素。如果修复和恢复提到了报告表格“实地行动”部分的可持续土地管理问题中提到的案例/例子，缔约方可提及这些案例或更具体地阐述一个或多个案例。应酌情报告从土地退化零增长目标设定方案中取得的经验。"
 
 #: ../../implementationFramework.md:155
 msgid ""
@@ -641,11 +640,11 @@ msgid ""
 "describe the main reasons for success, what support was provided to the "
 "recovery of ecosystem functions and services in the long term, and the "
 "main factors of success."
-msgstr ""
+msgstr "鼓励缔约方提供一个或多个支持另一国实施修复和恢复做法的例子，包括做法的类型、主要活动、得到修复和恢复的区域/生态系统、涉及的主要利益攸关方和使用的资源等信息。叙述中还应描述取得成功的主要原因，为生态系统功能和服务的长期恢复提供了哪些支持，以及成功的主要因素。"
 
 #: ../../implementationFramework.md:157
 msgid "7.4.3. Drought risk management and early warning systems"
-msgstr ""
+msgstr "7.4.3. 干旱风险管理和预警系统"
 
 #: ../../implementationFramework.md:159
 msgid ""
@@ -655,42 +654,42 @@ msgid ""
 "example, capacity-building and extension services, national strategies in"
 " place that cover drought risk management, and ways to monitor the early "
 "warning systems. The information may address questions relating to:"
-msgstr ""
+msgstr "鼓励缔约方描述其在制定和实施干旱风险管理、监测和预警系统以及安全网方案方面的经验。例如，这些经验可包括能力建设和推广服务、涵盖干旱风险管理的现有国家战略，以及监测预警系统的方法。这些信息可以解决与下列有关的问题："
 
 #: ../../implementationFramework.md:161
 msgid ""
 "What are the current procedures/challenges relating to early warning "
 "systems in your country?"
-msgstr ""
+msgstr "在贵国，目前与预警系统有关的程序/挑战是什么？"
 
 #: ../../implementationFramework.md:163
 msgid ""
 "What mechanisms are in place for fostering the liaison and communication "
 "of drought monitoring and early warning information between national "
 "institutions in your country?"
-msgstr ""
+msgstr "贵国建立了哪些机制来促进国家机构之间就干旱监测和预警信息进行联络和沟通？"
 
 #: ../../implementationFramework.md:165
 msgid ""
 "What are the causes of/reasons for vulnerability to drought in your "
 "country?"
-msgstr ""
+msgstr "贵国易受干旱影响的原因/理由是什么？"
 
 #: ../../implementationFramework.md:167
 msgid "What criteria are used to prioritize vulnerability?"
-msgstr ""
+msgstr "用什么标准来确定脆弱性的优先次序？"
 
 #: ../../implementationFramework.md:169
 msgid ""
 "What are general challenges in developing a national drought policy in "
 "your country?"
-msgstr ""
+msgstr "贵国在制定国家干旱政策方面面临哪些总体挑战？"
 
 #: ../../implementationFramework.md:171
 msgid ""
 "What steps have been taken for establishing a drought policy in your "
 "country?"
-msgstr ""
+msgstr "贵国为制定干旱政策采取了哪些措施？"
 
 #: ../../implementationFramework.md:173
 msgid ""
@@ -699,7 +698,7 @@ msgid ""
 " narrative should also describe the outcomes of the activities and the "
 "main factors of success. Experiences from the LDN Target-Setting "
 "Programme should be reported, when applicable."
-msgstr ""
+msgstr "在描述中，缔约方可以包括有关活动类型、参与人员、活动目的和所采取的行动等信息。叙述中还应描述各项活动的结果和取得成功的主要因素。应酌情报告从土地退化零增长目标设定方案中取得的经验。"
 
 #: ../../implementationFramework.md:175
 msgid ""
@@ -712,11 +711,11 @@ msgid ""
 "implementation of this practice, how it has avoided or reduced land "
 "degradation in the long term, and the main factors of success should also"
 " be reported."
-msgstr ""
+msgstr "缔约方可提供一个或多个例子的摘要，说明在另一国为制定和实施干旱风险管理、监测和预警系统以及安全网方案提供的支持。在描述中，建议包括有关做法的类型、主要活动、涉及的主要利益攸关方、持续时间和使用的资源等信息。还应报告成功实施这一做法的原因，它是如何长期避免或减少土地退化的，以及成功的主要因素。"
 
 #: ../../implementationFramework.md:177
 msgid "7.4.4. Alternative livelihoods"
-msgstr ""
+msgstr "7.4.4. 替代生计"
 
 #: ../../implementationFramework.md:179
 msgid ""
@@ -733,7 +732,7 @@ msgid ""
 "extension services, provision of incentives, infrastructure improvements "
 "(roads, telecommunication) or support to product processing and/or "
 "marketing."
-msgstr ""
+msgstr "鼓励缔约方介绍其在促进替代生计方面的经验，以便以防止或减少土地退化的（新）方式，利用自然资源确保生存和创造收入。例如，这可能包括作物多样化、农林业做法、轮流放牧或雨养和灌溉农业系统。还可以包括不直接依赖自然资源的创收活动，如手工制品生产、可再生能源发电、生态旅游、药用和芳香植物生产，以及利用回收废水进行水产养殖。所报告的经验可能包括能力建设和推广服务、提供奖励、改善基础设施（道路、电信）或支持产品加工和/或销售。"
 
 #: ../../implementationFramework.md:181
 msgid ""
@@ -744,11 +743,11 @@ msgid ""
 "outcomes of the activities and the main factors of success. Experiences "
 "from the LDN Target-Setting Programme should be reported, when "
 "applicable."
-msgstr ""
+msgstr "在叙述中，缔约方可简要说明所涉及的区域/人员、活动的目的、所采取的行动、妇女和青年的作用以及为鼓励他们参与活动所采取的措施。叙述中还应描述活动的结果和取得成功的主要因素。应酌情报告从土地退化零增长目标设定方案中取得的经验。"
 
 #: ../../implementationFramework.md:183
 msgid "7.4.5. Establishing knowledge-sharing systems"
-msgstr ""
+msgstr "7.4.5. 建立知识共享系统"
 
 #: ../../implementationFramework.md:185
 msgid ""
@@ -763,7 +762,7 @@ msgid ""
 " and promotion of the upscaling of good practices. The description may "
 "also include information on experiences in promoting women’s access to "
 "knowledge and technology."
-msgstr ""
+msgstr "鼓励缔约方介绍其在建立信息和知识共享系统以及促进干旱管理最佳做法和方法交流方面的经验。这些系统涵盖了大量的选择，从社区一级的农民网络到国家数据库和多国同行学习网络。它们具有多种功能，如促进干旱的通报和警报，分享经验、信息和技术、机构协调、提供科学数据和信息，以及促进良好做法的推广。描述中还可以包括关于在促进妇女获得知识和技术方面所积累的经验的信息。"
 
 #: ../../implementationFramework.md:187
 msgid ""
@@ -774,7 +773,7 @@ msgid ""
 "country takes part. If possible, a link to each system/network website "
 "should be added. The list, together with the links, will be made "
 "available on the UNCCD Knowledge Hub."
-msgstr ""
+msgstr "如果有的话，应包括国家或国家以下各级的干旱防备信息/知识共享系统和网络的清单，以及该国参加的次区域、区域和国际干旱防备系统和网络的清单。如果可能的话，应添加每个系统/网络网站的链接。该清单连同链接将在《荒漠化公约》知识中心提供。"
 
 #: ../../implementationFramework.md:189
 msgid ""
@@ -784,82 +783,11 @@ msgid ""
 " the language(s) the information is available in, and a brief description"
 " of the main activities. They may also explain how the system/network has"
 " been used/useful so far, and the main factors of success."
-msgstr ""
+msgstr "在对每一项经验的描述中，鼓励缔约方包括信息/知识系统或网络的目的和覆盖范围（区域/人口）、其具体重点/主题（如果有的话）、提供信息时所使用的语言以及主要活动的简要描述。缔约方还可以说明该系统/网络到目前为止是如何使用/发挥作用的，以及取得成功的主要因素。"
 
 #: ../../implementationFramework.md:147
 msgid ""
 "https://www.wocat.net/en/global-slm-database/slm-practices-technologies-"
 "and-approaches/classifications-technologies."
-msgstr ""
-
-#~ msgid ""
-#~ "**(c) Actions on the ground** Sharing"
-#~ " experience in (i) successful "
-#~ "implementation practices used to achieve "
-#~ "sustainable land management; (ii) increasing"
-#~ " restoration efforts and/or rehabilitating "
-#~ "ecosystems; (iii) drought risk management "
-#~ "and early warning systems; (iv) "
-#~ "alternative livelihoods; and (v) the "
-#~ "establishment of effective systems for "
-#~ "sharing information and knowledge."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The reporting template of the PRAIS "
-#~ "4 platform includes a section for "
-#~ "each of the above-mentioned areas "
-#~ "((a), (b) and (c)), organized as "
-#~ "follows:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Experience in setting up policy measures"
-#~ " to mainstream gender in the "
-#~ "implementation of the UNCCD should also"
-#~ " be reported. Such experiences may "
-#~ "involve, for example, enhancing women’s "
-#~ "participation in decision-making concerning"
-#~ " land, improving women’s land rights "
-#~ "and access to related resources, or "
-#~ "building women’s capacity for effective "
-#~ "UNCCD implementation. Parties are encouraged"
-#~ " to provide one or more examples "
-#~ "of support provided in the setting "
-#~ "of policy and legislative measures in"
-#~ " another country, including those related"
-#~ " to mainstreaming gender in the "
-#~ "implementation of the UNCCD. The brief"
-#~ " description of the policy or "
-#~ "legislative measure should include information"
-#~ " on the area covered (national/local), "
-#~ "targeted audience, main provisions, "
-#~ "institutions adopting the measure, and "
-#~ "main factors of success."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Additionally, a full description of the"
-#~ " best practice can also be submitted"
-#~ " through the WOCAT system to the "
-#~ "dedicated knowledge base. Detailed information"
-#~ " on how to submit to the WOCAT"
-#~ " system can be found at this "
-#~ "link: http://knowledge.unccd.int/WOCAT-SLM."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In the description, Parties may provide"
-#~ " a brief description of the "
-#~ "area/people that were involved, the aim"
-#~ " of the activities, action that was"
-#~ "  taken, role of women and youth, "
-#~ "and measures taken to encourage their"
-#~ " participation in the activities. The "
-#~ "narrative should also describe the "
-#~ "outcomes of the activities and the "
-#~ "main factors of success. Experiences "
-#~ "from the LDN Target-Setting Programme"
-#~ " should be reported, when applicable."
-#~ msgstr ""
+msgstr "https://www.wocat.net/en/global-slm-database/slm-practices-technologies-and-approaches/classifications-technologies。"
 
