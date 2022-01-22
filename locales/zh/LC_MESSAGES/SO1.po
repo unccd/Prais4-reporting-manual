@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-04 19:41+0200\n"
+"POT-Creation-Date: 2022-01-22 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,9 +19,9 @@ msgstr ""
 
 #: ../../SO1.md:1
 msgid ""
-"1.Strategic objective 1: To improve the condition of affected "
-"ecosystems, combat desertification/ land degradation, promote sustainable"
-" land management and contribute to land degradation neutrality"
+"1.Strategic objective 1: To improve the condition of affected ecosystems,"
+" combat desertification/ land degradation, promote sustainable land "
+"management and contribute to land degradation neutrality"
 msgstr "1.战略目标（SO）1：改善受影响生态系统的状况，防治荒漠化/土地退化，促进可持续土地管理，并为实现土地退化零增长作出贡献"
 
 #: ../../SO1.md:3
@@ -64,7 +64,10 @@ msgid ""
 "classes as processes that are likely to reduce the biological or economic"
 " productivity and complexity of the land (degradation), improve it, or "
 "result in no change (stable)."
-msgstr "通过提供以下内容为国家报告提供了便利：(i) 从现有的全球数据来源，即欧洲航天局气候变化倡议“土地覆盖”（欧空局CCI-LC）产品中获得的默认数据；以及(ii) 关于如何将不同土地覆盖类别之间的过渡解释为可能降低土地的生物或经济生产力和复杂性（退化）、改善土地或导致无变化（稳定）的过程的指导意见。"
+msgstr ""
+"通过提供以下内容为国家报告提供了便利：(i) 从现有的全球数据来源，即欧洲航天局气候变化倡议“土地覆盖”（欧空局CCI-"
+"LC）产品中获得的默认数据；以及(ii) "
+"关于如何将不同土地覆盖类别之间的过渡解释为可能降低土地的生物或经济生产力和复杂性（退化）、改善土地或导致无变化（稳定）的过程的指导意见。"
 
 #: ../../SO1.md:15
 msgid "1.1.2. Prerequisites for reporting"
@@ -79,7 +82,10 @@ msgid ""
 "which provides an overview of the land cover indicator, its definition "
 "and classifications, and the recommended methodology to assess land cover"
 " degradation;"
-msgstr "延伸阅读[可持续发展目标指标15.3.1的良好做法指南](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)第3章：已退化土地面积占土地总面积的比例（第2版），其中概述了土地覆盖指标、其定义和分类，以及评估土地覆盖退化的建议方法；"
+msgstr ""
+"延伸阅读[可持续发展目标指标15.3.1的良好做法指南](https://www.unccd.int/publications/good-"
+"practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
+"land)第3章：已退化土地面积占土地总面积的比例（第2版），其中概述了土地覆盖指标、其定义和分类，以及评估土地覆盖退化的建议方法；"
 
 #: ../../SO1.md:19
 msgid "Data complying with the minimum standards listed in table 10 below;"
@@ -127,7 +133,10 @@ msgid ""
 " This information is also useful to investigate possible climate impacts,"
 " which could potentially be identified by the reduction in size or "
 "disappearance of permanent water bodies and the loss of coastline."
-msgstr "需要关于土地总面积、水体覆盖面积和国家总面积的信息，以计算已退化土地面积占土地总面积的比例（可持续发展目标指标15.3.1），但也需要计算跟踪其他战略目标进展情况的指标（例如SO 3-1：干旱土地占土地总面积的比例趋势）。这些信息对于调查可能的气候影响也很有用，这些影响有可能通过永久性水体的缩小或消失以及海岸线的丧失来确定。"
+msgstr ""
+"需要关于土地总面积、水体覆盖面积和国家总面积的信息，以计算已退化土地面积占土地总面积的比例（可持续发展目标指标15.3.1），但也需要计算跟踪其他战略目标进展情况的指标（例如SO"
+" "
+"3-1：干旱土地占土地总面积的比例趋势）。这些信息对于调查可能的气候影响也很有用，这些影响有可能通过永久性水体的缩小或消失以及海岸线的丧失来确定。"
 
 #: ../../SO1.md:35
 msgid ""
@@ -161,7 +170,9 @@ msgid ""
 "land degradation and which are listed as options in the drop-down menu in"
 " table SO1-1.T2 of the PRAIS 4 platform. Other processes not covered in "
 "the menu can be reported on by selecting the ‘Other’ option."
-msgstr "请缔约方列出可能导致土地资源枯竭的最相关的土地覆盖变化过程。关键过程可能包括砍伐森林、城市扩张或植被丧失。其中一些过程可以通过土地覆盖变化的图像分析发现，而其他过程可能只有通过实地观察才能发现。表7显示了可能导致土地退化的过程的例子，这些过程在PRAIS 4平台表SO1-1.T2的下拉菜单中被列为选项。菜单中未涵盖的其他过程可通过选择“其他”选项进行报告。"
+msgstr ""
+"请缔约方列出可能导致土地资源枯竭的最相关的土地覆盖变化过程。关键过程可能包括砍伐森林、城市扩张或植被丧失。其中一些过程可以通过土地覆盖变化的图像分析发现，而其他过程可能只有通过实地观察才能发现。表7显示了可能导致土地退化的过程的例子，这些过程在PRAIS"
+" 4平台表SO1-1.T2的下拉菜单中被列为选项。菜单中未涵盖的其他过程可通过选择“其他”选项进行报告。"
 
 #: ../../SO1.md:45
 msgid ""
@@ -285,7 +296,9 @@ msgid ""
 "country. Accordingly, national land cover legends should be customized to"
 " only include the minimum number of classes needed to capture and monitor"
 " land degradation processes reported on in Step 2."
-msgstr "必须强调的是，SO 1-1报告的目的是体现和记录过去和正在进行的导致土地退化的关键土地覆盖变化，而不是报告一个完全全面的国家土地覆盖图例，其中列出一个国家内可能出现的所有土地覆盖类别。因此，国家土地覆盖图例应进行定制，只包括在第2步中报告的体现和监测土地退化过程所需的最低数量的类别。"
+msgstr ""
+"必须强调的是，SO "
+"1-1报告的目的是体现和记录过去和正在进行的导致土地退化的关键土地覆盖变化，而不是报告一个完全全面的国家土地覆盖图例，其中列出一个国家内可能出现的所有土地覆盖类别。因此，国家土地覆盖图例应进行定制，只包括在第2步中报告的体现和监测土地退化过程所需的最低数量的类别。"
 
 #: ../../SO1.md:89
 msgid ""
@@ -299,7 +312,10 @@ msgid ""
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land), the legend "
 "should be:"
-msgstr "如果一国选择使用国家土地覆盖图例，它们应在表SO1-1.T3中填写国家土地覆盖类别，说明它们如何与默认的七个《荒漠化公约》土地覆盖类别相对应。强烈建议各国用数量有限的相关类别来制作图例。这将使报告更易于管理，并将减少第4步中描述和报告的过渡。参照[可持续发展目标指标15.3.1的良好做法指南](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)，图例应为："
+msgstr ""
+"如果一国选择使用国家土地覆盖图例，它们应在表SO1-1.T3中填写国家土地覆盖类别，说明它们如何与默认的七个《荒漠化公约》土地覆盖类别相对应。强烈建议各国用数量有限的相关类别来制作图例。这将使报告更易于管理，并将减少第4步中描述和报告的过渡。参照[可持续发展目标指标15.3.1的良好做法指南](https://www.unccd.int/publications"
+"/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-"
+"total-land)，图例应为："
 
 #: ../../SO1.md:91
 msgid ""
@@ -327,7 +343,9 @@ msgid ""
 "definition and interpretation. The LCML is the conceptual and structural "
 "backbone of various land cover classifications, including the land cover "
 "legend used by the ESA CCI-LC products."
-msgstr "《荒漠化公约》鼓励缔约方尽可能使用联合国粮食及农业组织（粮农组织）的土地覆盖元语言(LCML)，该语言为土地覆盖的定义和解释提供了一种结构化的方法。LCML是各种土地覆盖分类的概念和结构支柱，包括欧空局CCI-LC产品使用的土地覆盖图例。"
+msgstr ""
+"《荒漠化公约》鼓励缔约方尽可能使用联合国粮食及农业组织（粮农组织）的土地覆盖元语言(LCML)，该语言为土地覆盖的定义和解释提供了一种结构化的方法。LCML是各种土地覆盖分类的概念和结构支柱"
+"，包括欧空局CCI-LC产品使用的土地覆盖图例。"
 
 #: ../../SO1.md:99
 msgid ""
@@ -636,7 +654,7 @@ msgstr "180"
 msgid "Shrub or herbaceous cover, flooded, fresh/brackish water"
 msgstr "灌木或草本植物覆盖，淹没，淡水/半咸水"
 
-#: ../../SO1.md:38 ../../SO1.md:76
+#: ../../SO1.md:38 ../../SO1.md:76 ../../SO1.md:722
 msgid "5"
 msgstr "5"
 
@@ -692,7 +710,7 @@ msgstr "220"
 msgid "Permanent snow and ice"
 msgstr "永久冰雪"
 
-#: ../../SO1.md:50 ../../SO1.md:90
+#: ../../SO1.md:50 ../../SO1.md:90 ../../SO1.md:732
 msgid "7"
 msgstr "7"
 
@@ -848,7 +866,10 @@ msgid ""
 "integrated into the calculations of the SO 1-1 outputs and SDG indicator "
 "15.3.1. Editing the transition matrix in PRAIS 4 alone will not result in"
 " a recalculation of the spatial data for SO 1-1."
-msgstr "PRAIS 4平台包括修改默认过渡矩阵数据的功能，并根据国家情况为每个过渡分配一个\"-\"或 \"+\"符号，取决于它是导致土地退化还是改善。然而，如果选择修改默认的过渡矩阵（即表SO1-1.T4a），应首先在Trends.Earth中编辑过渡矩阵，以便将所报告的过渡纳入SO 1-1产出和SDG指标15.3.1的计算中。仅在PRAIS 4中编辑过渡矩阵不会导致对SO 1-1的空间数据进行重新计算。"
+msgstr ""
+"PRAIS 4平台包括修改默认过渡矩阵数据的功能，并根据国家情况为每个过渡分配一个\"-\"或 "
+"\"+\"符号，取决于它是导致土地退化还是改善。然而，如果选择修改默认的过渡矩阵（即表SO1-1.T4a），应首先在Trends.Earth中编辑过渡矩阵，以便将所报告的过渡纳入SO"
+" 1-1产出和SDG指标15.3.1的计算中。仅在PRAIS 4中编辑过渡矩阵不会导致对SO 1-1的空间数据进行重新计算。"
 
 #: ../../SO1.md:302
 msgid "Step 5: Assess available data"
@@ -860,7 +881,9 @@ msgid ""
 "from the latest ESA CCI-LC dataset to lighten the reporting burden. "
 "However, Parties may report their estimates using national land cover "
 "data if they meet the specifications listed in table 10."
-msgstr "《荒漠化公约》在PRAIS 4平台中提供了预填的默认数据，这些数据来自最新的欧空局CCI-LC数据集，目的是减轻报告负担。然而，如果缔约方符合表10所列的规格，则可以使用国家土地覆盖数据报告其估计数。"
+msgstr ""
+"《荒漠化公约》在PRAIS 4平台中提供了预填的默认数据，这些数据来自最新的欧空局CCI-"
+"LC数据集，目的是减轻报告负担。然而，如果缔约方符合表10所列的规格，则可以使用国家土地覆盖数据报告其估计数。"
 
 #: ../../SO1.md:309
 msgid "*__Table 10__. Data specifications for SO 1-1 indicator*"
@@ -909,7 +932,9 @@ msgid ""
 "the United Nations (FAO) Land Cover Classification System (LCCS).  For "
 "reporting purposes, the 36 ESA CCI-LC classes are aggregated to the seven"
 "  UNCCD classes (see table 8 of this document for aggregation rules)."
-msgstr "根据联合国粮食及农业组织（粮农组织）的土地覆盖分类系统（LCCS）划分的36个土地覆盖类别。 出于报告目的，36个欧空局CCI-LC类别被汇总为《荒漠化公约》七个类别（汇总规则见本文件表8）。"
+msgstr ""
+"根据联合国粮食及农业组织（粮农组织）的土地覆盖分类系统（LCCS）划分的36个土地覆盖类别。 出于报告目的，36个欧空局CCI-"
+"LC类别被汇总为《荒漠化公约》七个类别（汇总规则见本文件表8）。"
 
 #: ../../SO1.md:14
 msgid ""
@@ -1003,7 +1028,9 @@ msgid ""
 "affects the results of change calculations between the baseline and the "
 "reporting periods. These changes are used to monitor Parties’ progress on"
 " SO 1-1."
-msgstr "基线设定了基准，在随后的报告期，土地覆盖退化程度的变化要与该基准进行比较。确定基线范围时需要将基线期最后一年（基线年，即2015年）的土地覆盖与初始年（2000年）的土地覆盖进行比较，以估计哪些地方发生了变化（就土地覆盖过渡地带而言），计算每个土地覆盖类别的净面积变化，并根据过渡矩阵推断土地退化状况。使用一致的基线极其重要，因为它会影响到基线和报告期之间的变化计算结果。这些变化被用来监测缔约方在实现SO 1-1方面的进展。"
+msgstr ""
+"基线设定了基准，在随后的报告期，土地覆盖退化程度的变化要与该基准进行比较。确定基线范围时需要将基线期最后一年（基线年，即2015年）的土地覆盖与初始年（2000年）的土地覆盖进行比较，以估计哪些地方发生了变化（就土地覆盖过渡地带而言），计算每个土地覆盖类别的净面积变化，并根据过渡矩阵推断土地退化状况。使用一致的基线极其重要，因为它会影响到基线和报告期之间的变化计算结果。这些变化被用来监测缔约方在实现SO"
+" 1-1方面的进展。"
 
 #: ../../SO1.md:359
 msgid ""
@@ -1017,7 +1044,10 @@ msgid ""
 "analysis and transfer of their data to PRAIS 4. Trends.Earth includes "
 "tools to automatically estimate land cover changes and land cover "
 "degradation."
-msgstr "PRAIS 4的表SO1-1.T6和SO1-1.T8分别提供了基线期土地覆盖变化和土地覆盖退化的国家默认估计数。可酌情接受、调整或用国家数据替代这些估计数。应在提供的注释框中输入支持性注释，以说明修改或替换默认数据的理由。鼓励选择使用国家数据的国家使用Trends.Earth来准备、分析并将其数据传输到PRAIS 4。Trends.Earth包括用于自动估计土地覆盖变化和土地覆盖退化的工具。"
+msgstr ""
+"PRAIS "
+"4的表SO1-1.T6和SO1-1.T8分别提供了基线期土地覆盖变化和土地覆盖退化的国家默认估计数。可酌情接受、调整或用国家数据替代这些估计数。应在提供的注释框中输入支持性注释，以说明修改或替换默认数据的理由。鼓励选择使用国家数据的国家使用Trends.Earth来准备、分析并将其数据传输到PRAIS"
+" 4。Trends.Earth包括用于自动估计土地覆盖变化和土地覆盖退化的工具。"
 
 #: ../../SO1.md:361
 msgid "Step 7: Estimate land cover degradation"
@@ -1047,7 +1077,9 @@ msgid ""
 "degradation; (iii) land cover improvement; and (iv) no change for the "
 "reporting period through Trends.Earth and import the results to the PRAIS"
 " 4 platform, where the relevant maps can be created."
-msgstr "使用选定的数据、图例和过渡矩阵，缔约方可通过Trends.Earth生成报告期内的(i)土地覆盖变化；(ii)土地覆盖退化；(iii)土地覆盖改善；以及(iv)无变化的国家估计数，并将结果导入PRAIS 4平台，在那里可以创建相关地图。"
+msgstr ""
+"使用选定的数据、图例和过渡矩阵，缔约方可通过Trends.Earth生成报告期内的(i)土地覆盖变化；(ii)土地覆盖退化；(iii)土地覆盖改善；以及(iv)无变化的国家估计数，并将结果导入PRAIS"
+" 4平台，在那里可以创建相关地图。"
 
 #: ../../SO1.md:371
 msgid "Step 8: Verify the results"
@@ -1076,7 +1108,9 @@ msgid ""
 "absence of more accurate and detailed data at the national level, Parties"
 " may officially submit to UNCCD the default estimates. For estimates "
 "generated using national data, Parties should provide:"
-msgstr "PRAIS 4平台能够报告关于土地覆盖、土地覆盖变化和土地覆盖退化的定量信息。在国家一级缺乏更准确和详细的数据的情况下，缔约方可向《荒漠化公约》正式提交默认的估计数。对于使用国家数据产生的估计数，缔约方应提供："
+msgstr ""
+"PRAIS "
+"4平台能够报告关于土地覆盖、土地覆盖变化和土地覆盖退化的定量信息。在国家一级缺乏更准确和详细的数据的情况下，缔约方可向《荒漠化公约》正式提交默认的估计数。对于使用国家数据产生的估计数，缔约方应提供："
 
 #: ../../SO1.md:379
 msgid "A description of the legend and transition matrix;"
@@ -1116,7 +1150,9 @@ msgid ""
 "representing land cover, land cover change and land cover degradation for"
 " the baseline/reporting period are made available in the PRAIS 4 "
 "platform. More specifically, the following maps will be available online:"
-msgstr "默认地图或在Trends.Earth中使用代表基线期/报告期的土地覆盖、土地覆盖变化和土地覆盖退化的国家数据生成的地图，可在PRAIS 4平台上获取。具体而言，下列地图将在网上提供："
+msgstr ""
+"默认地图或在Trends.Earth中使用代表基线期/报告期的土地覆盖、土地覆盖变化和土地覆盖退化的国家数据生成的地图，可在PRAIS "
+"4平台上获取。具体而言，下列地图将在网上提供："
 
 #: ../../SO1.md:391
 msgid "Land cover map of the initial year of the baseline period (2000)"
@@ -1163,7 +1199,9 @@ msgid ""
 "stratify the indicators on land productivity and soil organic carbon "
 "(SOC) (SO 1-2 and SO 1-3) and as one of the sub-indicators to calculate "
 "the proportion of land that is degraded over total land area (SO 1-4)."
-msgstr "土地覆盖数据不仅用于报告SO 1-1，还用于对土地生产力和土壤有机碳（SOC）指标进行分层（SO 1-2和SO 1-3），并作为子指标之一来计算已退化土地面积占土地总面积的比例（SO 1-4）。"
+msgstr ""
+"土地覆盖数据不仅用于报告SO 1-1，还用于对土地生产力和土壤有机碳（SOC）指标进行分层（SO 1-2和SO "
+"1-3），并作为子指标之一来计算已退化土地面积占土地总面积的比例（SO 1-4）。"
 
 #: ../../SO1.md:411
 msgid ""
@@ -1177,7 +1215,7 @@ msgstr "在表SO1-1.T1下申报的土地总面积推动了各SO后续报告要�
 msgid "1.1.5. Challenges"
 msgstr "1.1.5. 挑战"
 
-#: ../../SO1.md:415 ../../SO1.md:892
+#: ../../SO1.md:415 ../../SO1.md:926
 msgid "Data availability and quality"
 msgstr "数据可用性和质量"
 
@@ -1310,7 +1348,9 @@ msgid ""
 "authorities to assess the accuracy of the results and identify any false "
 "positive and negative situations which can be reported on in the SO 1-4 "
 "forms (SDG indicator 15.3.1)."
-msgstr "**核实结果**：建议由有关国家当局核实土地覆盖和相关的土地退化估计数，以评估结果的准确性，并确定可在SO 1-4表格中报告的任何假阳性和假阴性情况（可持续发展目标指标15.3.1）。"
+msgstr ""
+"**核实结果**：建议由有关国家当局核实土地覆盖和相关的土地退化估计数，以评估结果的准确性，并确定可在SO "
+"1-4表格中报告的任何假阳性和假阴性情况（可持续发展目标指标15.3.1）。"
 
 #: ../../SO1.md:451
 msgid ""
@@ -1329,14 +1369,19 @@ msgid ""
 "is degraded over total land area (version 2). Chapter 3: Land cover and "
 "land cover change (<https://www.unccd.int/publications/good-practice-"
 "guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land>)."
-msgstr "可持续发展目标指标15.3.1的良好做法指南：已退化土地面积占土地总面积的比例（第2版）。第3章：土地覆盖和土地覆盖变化（<https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land>）。"
+msgstr ""
+"可持续发展目标指标15.3.1的良好做法指南：已退化土地面积占土地总面积的比例（第2版）。第3章：土地覆盖和土地覆盖变化（<https://www.unccd.int/publications"
+"/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-"
+"total-land>）。"
 
 #: ../../SO1.md:457
 msgid ""
 "Di Gregorio, A., & Jansen, L.J.M. (2000). Land cover classification "
 "system (LCCS). Classification concepts and user manual for software "
 "version 1.0. Rome: FAO (<http://www.fao.org/3/y7220e/y7220e00.htm>)."
-msgstr "Di Gregorio, A., & Jansen, L.J.M. (2000)。土地覆盖分类系统（LCCS）。分类概念和1.0版软件的用户手册。罗马：粮农组织（<http://www.fao.org/3/y7220e/y7220e00.htm>）。"
+msgstr ""
+"Di Gregorio, A., & Jansen, L.J.M. "
+"(2000)。土地覆盖分类系统（LCCS）。分类概念和1.0版软件的用户手册。罗马：粮农组织（<http://www.fao.org/3/y7220e/y7220e00.htm>）。"
 
 #: ../../SO1.md:459
 msgid "1.2. SO 1-2 – Trends in land productivity"
@@ -1372,7 +1417,9 @@ msgid ""
 "persistent land productivity trajectories within each land cover type, "
 "their changes at national-level and their significance in terms of land "
 "degradation."
-msgstr "指标SO 1-2报告过程的主要产出是一套经官方核实的估计数，即每一土地覆盖类型中五类持续土地生产力轨迹的范围、它们在国家一级的变化以及它们在土地退化方面的重要性。"
+msgstr ""
+"指标SO "
+"1-2报告过程的主要产出是一套经官方核实的估计数，即每一土地覆盖类型中五类持续土地生产力轨迹的范围、它们在国家一级的变化以及它们在土地退化方面的重要性。"
 
 #: ../../SO1.md:470
 msgid ""
@@ -1393,7 +1440,10 @@ msgid ""
 "guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) "
 "providing an overview on land productivity and detailing the methodology "
 "used to estimate land productivity changes;"
-msgstr "延伸阅读[可持续发展目标指标15.3.1良好做法指南](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)第4章，其中概述了土地生产力，并详细说明了用于估计土地生产力变化的方法；"
+msgstr ""
+"延伸阅读[可持续发展目标指标15.3.1良好做法指南](https://www.unccd.int/publications/good-"
+"practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
+"land)第4章，其中概述了土地生产力，并详细说明了用于估计土地生产力变化的方法；"
 
 #: ../../SO1.md:476
 msgid "Data complying with the specifications listed in table 11 below;"
@@ -1511,7 +1561,9 @@ msgid ""
 " with at least  one red and one near infrared spectral band, e.g. "
 "Trends.Earth Land Productivity (250m);  Sentinel 3 (300m); or Sentinel 2 "
 "(10m, 20m and 60m)."
-msgstr "从具有至少一个红色波段和一个近红外光谱波段的卫星图像中得出的适当植被指数的时间序列，例如Trends.Earth土地生产力（250米）；Sentinel 3（300米）；或Sentinel 2（10米、20米和60米）。"
+msgstr ""
+"从具有至少一个红色波段和一个近红外光谱波段的卫星图像中得出的适当植被指数的时间序列，例如Trends.Earth土地生产力（250米）；Sentinel"
+" 3（300米）；或Sentinel 2（10米、20米和60米）。"
 
 #: ../../SO1.md:13
 msgid "__Output data__"
@@ -1616,7 +1668,10 @@ msgid ""
 "productivity Trend is assessed over a period of 16 years for both the "
 "baseline and reporting periods. This provides a more consistent basis for"
 " the assessment of changes in the productivity Trend._"
-msgstr "**\\***_[可持续发展目标指标15.3.1的良好做法指南](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)第2版建议在16年的时间内对基线期和报告期的生产力趋势进行评估。这为评估生产力趋势的变化提供了一个更一致的基础。_"
+msgstr ""
+"**\\***_[可持续发展目标指标15.3.1的良好做法指南](https://www.unccd.int/publications/good-"
+"practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
+"land)第2版建议在16年的时间内对基线期和报告期的生产力趋势进行评估。这为评估生产力趋势的变化提供了一个更一致的基础。_"
 
 #: ../../SO1.md:561
 msgid "Step 2:  Select a productivity index"
@@ -1669,7 +1724,10 @@ msgid ""
 "Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications"
 "/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-"
 "total-land)."
-msgstr "关于估计生长季节的开始和持续时间的备选办法的进一步说明，见[可持续发展目标指标15.3.1的良好做法指南](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)第4.2.4.1节。"
+msgstr ""
+"关于估计生长季节的开始和持续时间的备选办法的进一步说明，见[可持续发展目标指标15.3.1的良好做法指南](https://www.unccd.int/publications"
+"/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-"
+"total-land)第4.2.4.1节。"
 
 #: ../../SO1.md:573
 msgid "Step 4: Calculate land productivity metrics"
@@ -1704,8 +1762,8 @@ msgstr "**绩效**：表示与其他具有类似土地生产力潜力的地区�
 msgid ""
 "The changes observed in each of the three metrics are combined to "
 "determine persistent land productivity trajectories represented in five "
-"classes comparable with the default dataset provided by JRC (see table 13 "
-"below). They are also used to determine whether a pixel is degraded or "
+"classes comparable with the default dataset provided by JRC (see table 13"
+" below). They are also used to determine whether a pixel is degraded or "
 "not degraded in the baseline period and whether a pixel is degrading, "
 "improving or stable in the reporting period (see Step 5)."
 msgstr "将三个指标中的每一个指标所观察到的变化结合起来，以确定可与JRC提供的默认数据集相当的五个类别中表示的持续土地生产力轨迹（见下表13）。它们还被用来确定像素在基线期是否退化，以及像素在报告期是否退化、改善或稳定（见第5步）。"
@@ -1779,7 +1837,10 @@ msgid ""
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land), z-score "
 "intervals may be set as follows:"
-msgstr "正如[可持续发展目标指标15.3.1的良好做法指南](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)所建议的，z分数区间可按以下方式设定："
+msgstr ""
+"正如[可持续发展目标指标15.3.1的良好做法指南](https://www.unccd.int/publications/good-"
+"practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
+"land)所建议的，z分数区间可按以下方式设定："
 
 #: ../../SO1.md:613
 msgid "z-score < –1.96 = degrading"
@@ -1812,7 +1873,7 @@ msgid "z-score < –1.28 = degrading"
 msgstr "z分数 < -1.28 = 正在退化"
 
 #: ../../SO1.md:622 ../../SO1.md:660
-msgid "Z = ≥ -1.28 AND ≤ 1.28"
+msgid "z-score ≥ -1.28 AND ≤ 1.28"
 msgstr "z分数 ≤ 1.28 且 ≥ -1.28 = 稳定"
 
 #: ../../SO1.md:623 ../../SO1.md:661
@@ -1975,10 +2036,73 @@ msgid ""
 msgstr "下表12显示了如何将三个指标的产出转化为两个类别（已退化的土地/未退化的土地），以评估基线期的土地生产力退化状况。在表中，“Y”表示已退化的土地，“N”表示未退化的土地。"
 
 #: ../../SO1.md:693
-msgid "**Table 12**. Combination of productivity metrics to determine whether a pixel is degraded or not degraded"
+msgid ""
+"**Table 12**. Combination of productivity metrics to determine whether a "
+"pixel is degraded or not degraded"
 msgstr "**表12**. 生产力指标的组合，用于确定像素在基线期内是否退化"
 
-#: ../../SO1.md:710
+#: ../../SO1.md:4 ../../SO1.md:697
+msgid "Class combination"
+msgstr "类别组合"
+
+#: ../../SO1.md:5 ../../SO1.md:698
+msgid "Trend"
+msgstr "趋势"
+
+#: ../../SO1.md:6 ../../SO1.md:699
+msgid "State"
+msgstr "状态"
+
+#: ../../SO1.md:7 ../../SO1.md:700
+msgid "Performance"
+msgstr "绩效"
+
+#: ../../SO1.md:23 ../../SO1.md:35 ../../SO1.md:47 ../../SO1.md:59
+#: ../../SO1.md:71 ../../SO1.md:83 ../../SO1.md:95 ../../SO1.md:107
+#: ../../SO1.md:119 ../../SO1.md:701
+msgid "Degraded"
+msgstr "已退化"
+
+#: ../../SO1.md:14 ../../SO1.md:702
+msgid "1"
+msgstr "1"
+
+#: ../../SO1.md:703 ../../SO1.md:704 ../../SO1.md:705 ../../SO1.md:706
+#: ../../SO1.md:708 ../../SO1.md:709 ../../SO1.md:711 ../../SO1.md:713
+#: ../../SO1.md:715 ../../SO1.md:716 ../../SO1.md:718 ../../SO1.md:721
+#: ../../SO1.md:724 ../../SO1.md:725 ../../SO1.md:726 ../../SO1.md:729
+#: ../../SO1.md:735
+msgid "Y"
+msgstr ""
+
+#: ../../SO1.md:20 ../../SO1.md:707
+msgid "2"
+msgstr "2"
+
+#: ../../SO1.md:710 ../../SO1.md:714 ../../SO1.md:719 ../../SO1.md:720
+#: ../../SO1.md:723 ../../SO1.md:728 ../../SO1.md:730 ../../SO1.md:731
+#: ../../SO1.md:733 ../../SO1.md:734 ../../SO1.md:736 ../../SO1.md:738
+#: ../../SO1.md:739 ../../SO1.md:740 ../../SO1.md:741
+msgid "N"
+msgstr ""
+
+#: ../../SO1.md:26 ../../SO1.md:712
+msgid "3"
+msgstr "3"
+
+#: ../../SO1.md:32 ../../SO1.md:717
+msgid "4"
+msgstr "4"
+
+#: ../../SO1.md:44 ../../SO1.md:727
+msgid "6"
+msgstr "6"
+
+#: ../../SO1.md:56 ../../SO1.md:737
+msgid "8"
+msgstr "8"
+
+#: ../../SO1.md:744
 msgid ""
 "_Note: Lookup table indicating combinations of productivity metrics to "
 "determine whether a pixel is degraded (‘Y’) or not degraded (‘N’): "
@@ -1988,7 +2112,7 @@ msgid ""
 "degradation regardless of the State or Performance metrics)._"
 msgstr "_注：显示生产力指标组合的查询表，以确定某个像素是已退化（“是”）还是未退化（“否”）：1至5类显示退化。该表符合《荒漠化公约》采用的土地退化定义，其中包括生物生产力的降低（即无论状态或绩效指标如何，明显的负面趋势都构成退化）。_"
 
-#: ../../SO1.md:712
+#: ../../SO1.md:746
 msgid ""
 "An alternative approach, suggesting a variant of the above metric "
 "combinations, is described in section 4.2.5 and table 4-5 of the [Good "
@@ -1996,15 +2120,18 @@ msgid ""
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land) for country "
 "Parties’ consideration."
-msgstr "[可持续发展目标指标15.3.1良好做法指南](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)第4.2.5节和表4-5中描述了一种替代方法，建议采用上述指标组合的一种变体，供国家缔约方考虑。"
+msgstr ""
+"[可持续发展目标指标15.3.1良好做法指南](https://www.unccd.int/publications/good-practice-"
+"guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
+"land)第4.2.5节和表4-5中描述了一种替代方法，建议采用上述指标组合的一种变体，供国家缔约方考虑。"
 
-#: ../../SO1.md:714
+#: ../../SO1.md:748
 msgid ""
 "The total area of land productivity degradation in the baseline period "
 "should be reported in table SO1-2.T5 of the PRAIS 4 platform."
 msgstr "应在PRAIS 4平台的表SO1-2.T5中报告基线期土地生产力退化的总面积。"
 
-#: ../../SO1.md:716
+#: ../../SO1.md:750
 msgid ""
 "Step 6: Combine productivity metrics to assess land productivity "
 "degradation in the reporting period"
@@ -2016,7 +2143,7 @@ msgid ""
 "SO1-2.T3, SO1-2.T4 and SO1-2.T6"
 msgstr "PRAIS 4平台中的相关区域：表SO1-2.T1、SO1-2.T2、SO1-2.T3、SO1-2.T4和SO1-2.T6"
 
-#: ../../SO1.md:721
+#: ../../SO1.md:755
 msgid ""
 "The outputs obtained from the three metrics are used to estimate the "
 "extent of the degraded land in the reporting period. This process is "
@@ -2024,7 +2151,7 @@ msgid ""
 "SDG indicator 15.3.1."
 msgstr "从这三个指标中获得的产出被用来估计报告期内退化土地的范围。这一过程与用于估计可持续发展目标指标15.3.1的“一个出局，全部出局”原则完全分开。"
 
-#: ../../SO1.md:723
+#: ../../SO1.md:757
 msgid ""
 "Table 13 summarizes the combinations of productivity metrics to determine"
 " the land productivity dynamics and the land productivity degradation "
@@ -2034,14 +2161,14 @@ msgid ""
 "‘improving’, ‘stable’, ‘degrading’)."
 msgstr "表13总结了生产力指标的组合，以确定每个像素的土地生产力动态和土地生产力退化状态及其关系。在报告期内，这些指标可组合为五类持续土地生产力轨迹和三类土地生产力退化情况（即“正在改善”、“稳定”、“正在退化”）。"
 
-#: ../../SO1.md:725
+#: ../../SO1.md:759
 msgid ""
 "Parties may use this table to combine custom Trend, State and Performance"
 " results derived from national data to estimate land productivity "
 "dynamics and degradation."
 msgstr "缔约方可使用此表将根据国家数据得出的自定义趋势、状态和绩效结果结合起来，以估计土地生产力的动态和退化情况。"
 
-#: ../../SO1.md:735
+#: ../../SO1.md:769
 msgid ""
 "*__Table 13__. Combination of productivity metrics to determine five "
 "classes of land productivity dynamics and three classes of land "
@@ -2057,26 +2184,6 @@ msgid ""
 "{cspan}`1` Land productivity dynamics and land productivity degradation "
 "status derived from the combination of the three productivity metrics"
 msgstr "由三个生产力指标组合得出的土地生产力动态和土地生产力退化状态"
-
-#: ../../SO1.md:1
-#: ../../SO1.md:4
-msgid "Class combination"
-msgstr "类别组合"
-
-#: ../../SO1.md:2
-#: ../../SO1.md:5
-msgid "Trend"
-msgstr "趋势"
-
-#: ../../SO1.md:3
-#: ../../SO1.md:6
-msgid "State"
-msgstr "状态"
-
-#: ../../SO1.md:4
-#: ../../SO1.md:7
-msgid "Performance"
-msgstr "绩效"
 
 #: ../../SO1.md:8
 msgid "Land productivity dynamics"
@@ -2094,10 +2201,6 @@ msgstr "土地生产力退化状态"
 msgid "(3 classes)"
 msgstr "（3个类别）"
 
-#: ../../SO1.md:14
-msgid "1"
-msgstr "1"
-
 #: ../../SO1.md:15 ../../SO1.md:16 ../../SO1.md:18 ../../SO1.md:19
 #: ../../SO1.md:21 ../../SO1.md:22 ../../SO1.md:24 ../../SO1.md:25
 #: ../../SO1.md:27 ../../SO1.md:30 ../../SO1.md:31 ../../SO1.md:33
@@ -2106,24 +2209,6 @@ msgstr "1"
 #: ../../SO1.md:88 ../../SO1.md:94
 msgid "Improving"
 msgstr "正在改善"
-
-#: ../../SO1.md:20
-msgid "2"
-msgstr "2"
-
-#: ../../SO1.md:5 ../../SO1.md:23 ../../SO1.md:35 ../../SO1.md:47 ../../SO1.md:59
-#: ../../SO1.md:71 ../../SO1.md:83 ../../SO1.md:95 ../../SO1.md:107
-#: ../../SO1.md:119
-msgid "Degraded"
-msgstr "已退化"
-
-#: ../../SO1.md:26
-msgid "3"
-msgstr "3"
-
-#: ../../SO1.md:32
-msgid "4"
-msgstr "4"
 
 #: ../../SO1.md:40 ../../SO1.md:46 ../../SO1.md:49 ../../SO1.md:76
 #: ../../SO1.md:79 ../../SO1.md:82 ../../SO1.md:84 ../../SO1.md:85
@@ -2134,14 +2219,6 @@ msgstr "4"
 #: ../../SO1.md:117 ../../SO1.md:118 ../../SO1.md:120 ../../SO1.md:121
 msgid "Degrading"
 msgstr "正在退化"
-
-#: ../../SO1.md:44
-msgid "6"
-msgstr "6"
-
-#: ../../SO1.md:56
-msgid "8"
-msgstr "8"
 
 #: ../../SO1.md:62
 msgid "9"
@@ -2171,7 +2248,7 @@ msgstr "17"
 msgid "18"
 msgstr "18"
 
-#: ../../SO1.md:863
+#: ../../SO1.md:897
 msgid ""
 "_Note: The last column illustrates how a pixel’s land productivity "
 "degradation status can be inferred from the class of land productivity "
@@ -2179,7 +2256,7 @@ msgid ""
 "metrics._"
 msgstr "_注：最后一栏说明了如何从三个投入生产力指标组合得到的土地生产力动态类别中推断出某个像素的土地生产力退化状态。_"
 
-#: ../../SO1.md:865
+#: ../../SO1.md:899
 msgid ""
 "National estimates of land productivity dynamics by land cover type "
 "should be reported using tables SO1-2.T1 and SO1-2.T2 of the PRAIS 4 "
@@ -2190,13 +2267,15 @@ msgid ""
 "respectively. Land productivity degradation (i.e. derived from the three-"
 "class in the last column of table 13) in the reporting period should be "
 "reported in table SO1-2.T6."
-msgstr "应使用PRAIS 4平台的表SO1-2.T1和SO1-2.T2分别报告基线期和报告期按土地覆盖类型分列的土地生产力动态的国家估计值。此外，应在表SO1-2.T3和SO1-2.T4中分别报告基线期和报告期涉及主要土地覆盖过渡地带（按区域）的土地生产力动态变化的国家估计值。报告期内的土地生产力退化情况（即从表13最后一栏的三类中得出）应在表SO1-2.T6中报告。"
+msgstr ""
+"应使用PRAIS "
+"4平台的表SO1-2.T1和SO1-2.T2分别报告基线期和报告期按土地覆盖类型分列的土地生产力动态的国家估计值。此外，应在表SO1-2.T3和SO1-2.T4中分别报告基线期和报告期涉及主要土地覆盖过渡地带（按区域）的土地生产力动态变化的国家估计值。报告期内的土地生产力退化情况（即从表13最后一栏的三类中得出）应在表SO1-2.T6中报告。"
 
-#: ../../SO1.md:867
+#: ../../SO1.md:901
 msgid "Step 7:  Verify the results"
 msgstr "第7步：验证结果"
 
-#: ../../SO1.md:869
+#: ../../SO1.md:903
 msgid ""
 "The seasonal dynamics of productivity vary greatly across the globe, "
 "strongly influenced by the prevailing climatic conditions and land "
@@ -2208,11 +2287,11 @@ msgid ""
 "reliability of the estimates."
 msgstr "生产力的季节性动态在全球范围内差异很大，受到普遍的气候条件和土地管理方法的极大影响。这可能会影响到将全球数据来源的土地生产力估计值应用于局部地区的可靠性，需要国家专家的投入才能发现和强调所获结果的置信度可能较低的情况。这种投入将有助于对估计数的可靠性进行定性评估。"
 
-#: ../../SO1.md:871
+#: ../../SO1.md:905
 msgid "Step 8: Generate reports"
 msgstr "第8步：生成报告"
 
-#: ../../SO1.md:873
+#: ../../SO1.md:907
 msgid ""
 "Once verified by the Parties, the estimates of land productivity dynamics"
 " and land degradation for the reporting and baseline periods should be "
@@ -2223,22 +2302,24 @@ msgid ""
 "default method and providing the rationale to adopt a different "
 "methodology. A general comment field is provided at the end of the "
 "reporting form in the PRAIS 4 platform for this purpose."
-msgstr "经缔约方核实后，报告期和基线期的土地生产力动态和土地退化估计数应正式提交给《荒漠化公约》。还鼓励缔约方提交关于方法、数据来源和数据准确性的说明（如果估计数是来自国家数据的话）。报告特殊情况和问题也是有益的，从而可以说明任何偏离默认方法的情况并提供采用不同方法的理由。为此，PRAIS 4平台的报告表单末尾提供了一个“一般性注释”栏。"
+msgstr ""
+"经缔约方核实后，报告期和基线期的土地生产力动态和土地退化估计数应正式提交给《荒漠化公约》。还鼓励缔约方提交关于方法、数据来源和数据准确性的说明（如果估计数是来自国家数据的话）。报告特殊情况和问题也是有益的，从而可以说明任何偏离默认方法的情况并提供采用不同方法的理由。为此，PRAIS"
+" 4平台的报告表单末尾提供了一个“一般性注释”栏。"
 
-#: ../../SO1.md:875
+#: ../../SO1.md:909
 msgid ""
 "Information on land productivity dynamics and land productivity "
 "degradation should be reported in km2 for the entire country."
 msgstr "关于整个国家土地生产力动态和土地生产力退化的信息应以平方公里为单位进行报告。"
 
-#: ../../SO1.md:877
+#: ../../SO1.md:911
 msgid ""
 "If the default datasets are replaced with national land cover data, "
 "countries are encouraged to make the relevant geospatial data and "
 "relevant metadata available in the PRAIS 4 platform."
 msgstr "如果默认数据集被国家土地覆盖数据取代，鼓励各国在PRAIS 4平台上提供相关地理空间数据和相关元数据。"
 
-#: ../../SO1.md:879
+#: ../../SO1.md:913
 msgid ""
 "Maps generated with default or national data on land productivity "
 "dynamics and land productivity degradation for the baseline and the "
@@ -2246,40 +2327,42 @@ msgid ""
 " include:"
 msgstr "在PRAIS 4平台上，将用基线期和报告期关于土地生产力动态和土地生产力退化状态的默认数据或国家数据生成地图。这些地图将包括："
 
-#: ../../SO1.md:881
+#: ../../SO1.md:915
 msgid "Land productivity dynamics in the baseline period"
 msgstr "基线期内土地生产力动态"
 
-#: ../../SO1.md:882
+#: ../../SO1.md:916
 msgid "Land productivity dynamics in the reporting period"
 msgstr "报告期内土地生产力动态"
 
-#: ../../SO1.md:883
+#: ../../SO1.md:917
 msgid "Land productivity degradation in the baseline period"
 msgstr "基线期内土地生产力退化情况"
 
-#: ../../SO1.md:884
+#: ../../SO1.md:918
 msgid "Land productivity degradation in the reporting period."
 msgstr "报告期内土地生产力退化情况"
 
-#: ../../SO1.md:886
+#: ../../SO1.md:920
 msgid "1.2.4. Dependencies"
 msgstr "1.2.4. 依赖性"
 
-#: ../../SO1.md:888
+#: ../../SO1.md:922
 msgid ""
 "Land productivity data relies on the land cover data reported under SO "
 "1-1 to disaggregate land productivity classes by the seven UNCCD land "
 "cover classes. The ‘per cent of total land area’ field in reporting "
 "tables SO1-2.T5 and SO1-2.T6 is dependent on the total land area reported"
 " in table SO1-1.T1."
-msgstr "土地生产力数据依赖于SO 1-1下报告的土地覆盖数据，按《荒漠化公约》的七个土地覆盖类别对土地生产力类别进行分类。报告表SO1-2.T5和SO1-2.T6中的“占土地总面积的比例”一栏依赖于表SO1-1.T1中报告的土地总面积。"
+msgstr ""
+"土地生产力数据依赖于SO "
+"1-1下报告的土地覆盖数据，按《荒漠化公约》的七个土地覆盖类别对土地生产力类别进行分类。报告表SO1-2.T5和SO1-2.T6中的“占土地总面积的比例”一栏依赖于表SO1-1.T1中报告的土地总面积。"
 
-#: ../../SO1.md:890
+#: ../../SO1.md:924
 msgid "1.2.5. Challenges"
 msgstr "1.2.5. 挑战"
 
-#: ../../SO1.md:894
+#: ../../SO1.md:928
 msgid ""
 "Spatial resolution of international data might not always be suitable to "
 "produce a sufficiently detailed representation of the land productivity "
@@ -2287,7 +2370,7 @@ msgid ""
 "countries;"
 msgstr "国际数据的空间分辨率可能并不总是适合充分详细地反映国家一级的土地生产力动态，特别是对小岛屿发展中国家或山区国家而言；"
 
-#: ../../SO1.md:895
+#: ../../SO1.md:929
 msgid ""
 "Land productivity in certain climatic zones where the annual growing "
 "season is highly variable or erratic, or where there is sparse or no "
@@ -2297,11 +2380,11 @@ msgid ""
 "data unreliable."
 msgstr "在某些气候区，每年的生长季节变化很大或不稳定，或者植被稀少或没有植被，其土地生产力难以准确测量，导致这些地区没有数据。植被茂密、全年生长的地区，如湿热带，生产力也几乎没有变化，使得数据不可靠。"
 
-#: ../../SO1.md:897
+#: ../../SO1.md:931
 msgid "Analytical approach"
 msgstr "分析方法"
 
-#: ../../SO1.md:899
+#: ../../SO1.md:933
 msgid ""
 "It is important to consider that applying a 16-year window for the "
 "reporting period of land productivity versus a 4-year window for land "
@@ -2310,15 +2393,15 @@ msgid ""
 " derive the SDG indicator 15.3.1."
 msgstr "重要的是要考虑到，对土地生产力的报告期采用16年的窗口，而对土地覆盖和土壤有机碳储量变化采用4年的窗口，当将二者结合起来推断可持续发展目标指标15.3.1时，可能会增加生产力的影响（与其他指标相比）。"
 
-#: ../../SO1.md:901
+#: ../../SO1.md:935
 msgid "1.2.6. Summary (main actions)"
 msgstr "1.2.6. 总结（主要行动）"
 
-#: ../../SO1.md:903
+#: ../../SO1.md:937
 msgid "Key actions for reporting on land productivity dynamics are as follows:"
 msgstr "报告土地生产力动态时需采取的主要行动如下："
 
-#: ../../SO1.md:905
+#: ../../SO1.md:939
 msgid ""
 "Select image dataset: UNCCD makes available default data, which may be "
 "verified and officially accepted. If Parties decide to use alternative "
@@ -2326,27 +2409,27 @@ msgid ""
 "requirements listed table 11 and follow steps 2 to 6 below;"
 msgstr "选择图像数据集：《荒漠化公约》提供默认数据，这些数据可能会得到核实和正式接受。如果缔约方决定使用替代数据来源，它们应核实是否符合表11所列的最低要求，并遵循以下第2步至第6步；"
 
-#: ../../SO1.md:906
+#: ../../SO1.md:940
 msgid ""
 "Select a productivity index: NDVI is recommended as the default index; "
 "however, countries may choose alternative indexes that are better suited "
 "to their local land productivity dynamics;"
 msgstr "选择一个生产力指数：建议将NDVI作为默认指数；但是，各国可以选择更适合当地土地生产力动态的替代指数；"
 
-#: ../../SO1.md:907
+#: ../../SO1.md:941
 msgid ""
 "Estimate annual productivity: For each pixel, estimate the annual "
 "productivity as the integral of values from the start to the end of the "
 "growing season of the selected productivity index;"
 msgstr "估算年生产力：对于每个像素，将年生产力估算为所选生产力指数从生长季节开始到结束的数值的积分；"
 
-#: ../../SO1.md:908
+#: ../../SO1.md:942
 msgid ""
 "Calculate land productivity metrics: For each pixel, estimate Trend, "
 "State and Performance metrics;"
 msgstr "计算土地生产力指标：对于每个像素，估计趋势、状态和绩效指标；"
 
-#: ../../SO1.md:909
+#: ../../SO1.md:943
 msgid ""
 "Combine productivity metrics to assess land productivity degradation in "
 "the baseline period: Using table 12 as a guide, combine the metrics to "
@@ -2354,7 +2437,7 @@ msgid ""
 "period;"
 msgstr "结合生产力指标来评估基线期土地生产力退化情况：以表12为指导，结合这些指标来评估一个像素在基线期是否退化；"
 
-#: ../../SO1.md:910
+#: ../../SO1.md:944
 msgid ""
 "Combine productivity metrics to assess land productivity degradation in "
 "the reporting period: Using table 13 as a guide, combine the metrics to "
@@ -2365,54 +2448,61 @@ msgid ""
 "Trends.Earth and enter this information in tables SO1-2.T1 to SO1-2.T6;"
 msgstr "结合生产力指标来评估报告期内土地生产力退化情况：以表13为指导，结合这些指标来确定土地生产力动态（五类持续土地生产力轨迹）和报告期内的土地生产力退化状态（三类退化状态）。如果使用的是国家土地生产力数据，请在Trends.Earth中计算，并将此信息输入表SO1-2.T1至SO1-2.T6中；"
 
-#: ../../SO1.md:911
+#: ../../SO1.md:945
 msgid ""
 "Verify the results: It is recommended that land productivity and related "
 "land degradation estimates are verified by the concerned national "
 "authorities to assess the accuracy of the results and to identify any "
 "false positive and negative situations which can be reported on in the SO"
 " 1-4 forms (SDG indicator 15.3.1);"
-msgstr "核实结果：建议由有关国家当局核实土地生产力和相关的土地退化估计数，以评估结果的准确性，并确定可在SO 1-4表格中报告的任何假阳性和假阴性情况（可持续发展目标指标15.3.1）。"
+msgstr ""
+"核实结果：建议由有关国家当局核实土地生产力和相关的土地退化估计数，以评估结果的准确性，并确定可在SO "
+"1-4表格中报告的任何假阳性和假阴性情况（可持续发展目标指标15.3.1）。"
 
-#: ../../SO1.md:912
+#: ../../SO1.md:946
 msgid ""
 "Generate reports: Once verified by the Parties, the data and supporting "
 "narrative for the reporting and baseline periods should be officially "
 "submitted to UNCCD."
 msgstr "生成报告：经缔约方核实后，应将报告期和基线期的数据和辅助说明正式提交给《荒漠化公约》。"
 
-#: ../../SO1.md:914
+#: ../../SO1.md:948
 msgid "1.2.7. Further reading"
 msgstr "1.2.7. 延伸阅读"
 
-#: ../../SO1.md:916
+#: ../../SO1.md:950
 msgid ""
 "Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that "
 "is degraded over total land area (version 2). Chapter 4: Land "
 "productivity (<https://www.unccd.int/publications/good-practice-guidance-"
 "sdg-indicator-1531-proportion-land-degraded-over-total-land>)."
-msgstr "可持续发展目标指标15.3.1的良好做法指南：已退化土地面积占土地总面积的比例（第2版）。第4章：土地生产力（<https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land>）。"
+msgstr ""
+"可持续发展目标指标15.3.1的良好做法指南：已退化土地面积占土地总面积的比例（第2版）。第4章：土地生产力（<https://www.unccd.int/publications"
+"/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-"
+"total-land>）。"
 
-#: ../../SO1.md:917
+#: ../../SO1.md:951
 msgid ""
 "Cherlet, M., Hutchinson, C., Reynolds, J., Hill, J., Sommer, S., von "
 "Maltitz, G. (Eds.), World Atlas of Desertification, Publication Office of"
 " the European Union, Luxembourg, 2018."
-msgstr "Cherlet, M., Hutchinson, C., Reynolds, J., Hill, J., Sommer, S., von Maltitz, G. (Eds.)，《世界荒漠化地图集》，欧洲联盟出版办公室，卢森堡，2018年。"
+msgstr ""
+"Cherlet, M., Hutchinson, C., Reynolds, J., Hill, J., Sommer, S., von "
+"Maltitz, G. (Eds.)，《世界荒漠化地图集》，欧洲联盟出版办公室，卢森堡，2018年。"
 
-#: ../../SO1.md:918
+#: ../../SO1.md:952
 msgid "Trend.Earth website documentation (<https://trends.earth/docs/en/>)."
 msgstr "Trend.Earth网站文件（<https://trends.earth/docs/en/>）。"
 
-#: ../../SO1.md:920
+#: ../../SO1.md:954
 msgid "1.3. SO 1-3 – Trends in carbon stocks above and below ground"
 msgstr "1.3. SO 1-3 – 地上和地下碳储存的趋势"
 
-#: ../../SO1.md:922
+#: ../../SO1.md:956
 msgid "1.3.1. Introduction"
 msgstr "1.3.1. 简介"
 
-#: ../../SO1.md:924
+#: ../../SO1.md:958
 msgid ""
 "Carbon stocks reflect the integration of multiple processes affecting "
 "plant growth as well as decomposition, which together control the gains "
@@ -2421,14 +2511,14 @@ msgid ""
 "reflective of soil type, land use and management practices."
 msgstr "碳储量反映了影响植物生长以及分解的多种过程的整合，这些过程共同控制着陆地有机物库的收益和损失。碳储量是各种生态系统服务的基础，其水平和动态反映了土壤类型、土地利用和管理实践。"
 
-#: ../../SO1.md:926
+#: ../../SO1.md:960
 msgid ""
 "As outlined in the UNCCD decision 22/COP.11, soil organic carbon (SOC) "
 "stock is the metric currently used to assess carbon stocks and will be "
 "replaced by total terrestrial system carbon stock once operational."
 msgstr "正如《荒漠化公约》第22/COP.11号决定所述，土壤有机碳（SOC）储量是目前用于评估碳储量的指标，一旦投入使用，将由陆地系统总碳储量取代。"
 
-#: ../../SO1.md:928
+#: ../../SO1.md:962
 msgid ""
 "The UNCCD methodology for estimating the proportion of land that is "
 "degraded over total land area (i.e. SDG indicator 15.3.1) uses SOC stock "
@@ -2439,16 +2529,18 @@ msgid ""
 "yields."
 msgstr "《荒漠化公约》估算土地总面积中已退化土地比例的方法（即可持续发展目标指标15.3.1）将土壤有机碳储量作为与土壤养分循环、土壤团聚稳定性和土壤结构相关的总体土壤质量的指标，对水的渗透、易受侵蚀性以及最终植被的生产力，还有农业方面的产量有直接影响。"
 
-#: ../../SO1.md:930
+#: ../../SO1.md:964
 msgid ""
 "The main output of the reporting process for SO 1-3 is a set of "
 "officially verified estimates of SOC stock in the top 30 centimetres (cm)"
 " of soil (in tonnes per hectare) for each of the seven UNCCD land cover "
 "classes and land cover transitions, and their significance in terms of "
 "land degradation."
-msgstr "SO 1-3报告过程的主要产出是一套经官方核实的、在《荒漠化公约》七种土地覆盖类别的每一种和土地覆盖过渡地带中的土壤顶部30厘米中的土壤有机碳储量估计数（单位：吨/公顷），以及它们在土地退化方面的意义。"
+msgstr ""
+"SO "
+"1-3报告过程的主要产出是一套经官方核实的、在《荒漠化公约》七种土地覆盖类别的每一种和土地覆盖过渡地带中的土壤顶部30厘米中的土壤有机碳储量估计数（单位：吨/公顷），以及它们在土地退化方面的意义。"
 
-#: ../../SO1.md:932
+#: ../../SO1.md:966
 msgid ""
 "National reporting is facilitated though the provision of default "
 "baseline data derived from the International Soil Reference and "
@@ -2458,7 +2550,7 @@ msgid ""
 "compiling national greenhouse gas inventories for mineral soils."
 msgstr "通过提供来自国际土壤参考资料和信息中心（ISRIC）SoilGrids250m数据集的默认基线数据，以及使用修改后的政府间气候变化专门委员会（IPCC）用于编制国家矿物土壤温室气体清单的第1级方法得出的土壤有机碳储量变化的默认估计数，为国家报告提供了便利。"
 
-#: ../../SO1.md:934
+#: ../../SO1.md:968
 msgid ""
 "Parties may complement/replace these data with national data (Tier 2 "
 "method), determining SOC stocks from high spatial resolution digital soil"
@@ -2467,11 +2559,11 @@ msgid ""
 "modelling can adopt the Tier 3 method."
 msgstr "缔约方可以用国家数据补充/替代这些数据（第2级方法），根据高空间分辨率的数字土壤地图或实地测量来确定土壤有机碳储量。有能力采用涉及地面测量和建模的、更复杂的土壤有机碳储量报告方法的缔约方可以采用第3级方法。"
 
-#: ../../SO1.md:936
+#: ../../SO1.md:970
 msgid "1.3.2. Prerequisites for reporting"
 msgstr "1.3.2.报告的先决条件"
 
-#: ../../SO1.md:938
+#: ../../SO1.md:972
 msgid ""
 "An in-depth reading of chapter 5 of the [Good Practice Guidance for SDG "
 "Indicator 15.3.1](https://www.unccd.int/publications/good-practice-"
@@ -2479,13 +2571,16 @@ msgid ""
 "which provides basic information on the processes regulating the "
 "formation and release of SOC stocks and detailing the methodology used to"
 " estimate SOC changes;"
-msgstr "延伸阅读[可持续发展目标指标15.3.1良好做法指南](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)第5章，其中提供了关于调节土壤有机碳储量形成和释放过程的基本信息，并详细说明了用于估计土壤有机碳变化的方法；"
+msgstr ""
+"延伸阅读[可持续发展目标指标15.3.1良好做法指南](https://www.unccd.int/publications/good-"
+"practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
+"land)第5章，其中提供了关于调节土壤有机碳储量形成和释放过程的基本信息，并详细说明了用于估计土壤有机碳变化的方法；"
 
-#: ../../SO1.md:940
+#: ../../SO1.md:974
 msgid "Data complying with the minimum standards listed in table 14 below;"
 msgstr "符合下表14所列最低标准的数据；"
 
-#: ../../SO1.md:942
+#: ../../SO1.md:976
 msgid ""
 "A pool of national experts officially nominated by the national "
 "authorities to verify the results of the SOC analysis or develop and "
@@ -2496,29 +2591,29 @@ msgid ""
 "research centers;"
 msgstr "由国家当局正式提名的国家专家库，以核实土壤有机碳分析的结果，或者在使用国家数据而不是默认数据的情况下，开发和实施一种定制的方法。关键机构可能包括一国的国家统计局、环境部、农业部（特别是土壤部门）、遥感中心，以及大学和研究中心；"
 
-#: ../../SO1.md:944
+#: ../../SO1.md:978
 msgid ""
 "An understanding of the Tier levels of reporting and a decision on what "
 "Tier level is appropriate for the country before attempting the reporting"
 " process."
 msgstr "在尝试使用报告流程之前，了解报告的层级，并决定哪个层级适合该国。"
 
-#: ../../SO1.md:946
+#: ../../SO1.md:980
 msgid "1.3.3. Reporting process and step-by-step procedure"
 msgstr "1.3.3.报告流程和分步程序"
 
-#: ../../SO1.md:948
+#: ../../SO1.md:982
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If Parties decide to use the default data (i.e. adopt the Tier 1 method),"
 " steps 2, 3 and 4 are unnecessary."
 msgstr "报告的分步程序在下文中描述。如果缔约方决定使用默认数据（即采用第1级方法），那么第2、3和4步就没有必要。"
 
-#: ../../SO1.md:950
+#: ../../SO1.md:984
 msgid "Step 1: Select the estimation method"
 msgstr "第1步：选择估算方法"
 
-#: ../../SO1.md:952
+#: ../../SO1.md:986
 msgid ""
 "Parties may use three methods to determine baseline SOC stocks and "
 "estimate changes in SOC stocks. These methods are consistent with the "
@@ -2526,7 +2621,7 @@ msgid ""
 "increasing levels of accuracy and complexity."
 msgstr "缔约方可使用三种方法来确定基线土壤有机碳储量和估计土壤有机碳储量的变化。这些方法与气专委指南[^4]一致，包括准确性和复杂程度越来越高的数据集和处理选项。"
 
-#: ../../SO1.md:956
+#: ../../SO1.md:990
 msgid ""
 "The **Tier 1 method** uses broad methods with default data, and it is "
 "valuable where country-specific data and capacities are scarce or "
@@ -2535,9 +2630,12 @@ msgid ""
 "Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
-msgstr "第1级方法**使用的是采用默认数据的广泛方法，在具体国家的数据和能力缺乏或不可用的情况下，这种方法很有价值。土壤有机碳储量变化的估算参考了气专委指南中的公式，这些公式在[可持续发展目标指标15.3.1的良好做法指南]（https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land）第5章中进行了总结。"
+msgstr ""
+"第1级方法**使用的是采用默认数据的广泛方法，在具体国家的数据和能力缺乏或不可用的情况下，这种方法很有价值。土壤有机碳储量变化的估算参考了气专委指南中的公式，这些公式在[可持续发展目标指标15.3.1的良好做法指南]（https://www.unccd.int/publications"
+"/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-"
+"total-land）第5章中进行了总结。"
 
-#: ../../SO1.md:958
+#: ../../SO1.md:992
 msgid ""
 "The Tier 1 method assumes that following land use/management changes, "
 "carbon stock changes occur over a 20-year period, after which a new "
@@ -2550,14 +2648,14 @@ msgid ""
 "from global digital maps of SOC."
 msgstr "第1级方法假定在土地利用/管理发生变化后，碳储量在20年内发生变化，之后达到一个新的平衡储量。第1级方法使用土地覆盖变化的信息，以及储量变化系数（即土地利用系数、管理系数和投入系数，如有）来估计碳储量的变化。土壤有机碳储量基线是基于自然植被下的参考土壤有机碳储量，按气候/土壤类型分层。作为气专委默认值的替代方案，参考储量可以根据全球土壤有机碳数字化地图确定。"
 
-#: ../../SO1.md:960
+#: ../../SO1.md:994
 msgid ""
 "For change factors, the Tier 1 method is strongly reliant on land cover "
 "change and/or land management change to estimate changes in SOC stocks as"
 " well as the delineation of wetland areas as a proxy for organic soils."
 msgstr "就变化系数而言，第1级方法在很大程度上依赖于土地覆盖变化和/或土地管理变化来估计土壤有机碳储量的变化，以及划定湿地面积作为有机土壤的代用指标。"
 
-#: ../../SO1.md:962
+#: ../../SO1.md:996
 msgid ""
 "The influence of land use and management on SOC is different in mineral "
 "versus organic soil types. Carbon stocks in organic soils are not "
@@ -2569,15 +2667,18 @@ msgid ""
 "Supplement."
 msgstr "土地利用和管理对土壤有机碳的影响在矿物土壤与有机土壤类型中是不同的。有机土壤中的碳储量没有使用第1级方法明确计算，第1级方法仅估计有机土壤的年碳通量。对于有机土壤，该方法使用一个年排放系数来估计排水和/或火灾后的碳损失。有机土壤的损失是使用气专委《湿地增编》第2章中的公式2.2修改版估算的。"
 
-#: ../../SO1.md:964
+#: ../../SO1.md:998
 msgid ""
 "A detailed description of the Tier 1 method is provided in section "
 "5.2.6.1 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
-msgstr "可持续发展目标指标15.3.1的良好做法指南]（https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land）第5.2.6.1节对第1级方法做了详细说明。"
+msgstr ""
+"可持续发展目标指标15.3.1的良好做法指南]（https://www.unccd.int/publications/good-practice-"
+"guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
+"land）第5.2.6.1节对第1级方法做了详细说明。"
 
-#: ../../SO1.md:966
+#: ../../SO1.md:1000
 msgid ""
 "The **Tier 2 method** makes use of additional country-specific data to "
 "complement default values, such as country-specific change factors, "
@@ -2588,15 +2689,18 @@ msgid ""
 "digital soil maps or from measurements taken from national soil surveys."
 msgstr "**第2级方法**利用额外的国家特定数据来补充默认值，如国家特定的变化系数、参考SOC储量、气候区域、土壤类型和/或土地管理分类系统。可以为所有这些组成部分或任何子集得出国别值，然后将之与默认值相结合。参考SOC储量可以根据国家数字化土壤地图或通过国家土壤调查获得的测量结果来确定。"
 
-#: ../../SO1.md:968
+#: ../../SO1.md:1002
 msgid ""
 "A detailed description of the Tier 2 method is provided in section "
 "5.2.6.2 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
-msgstr "可持续发展目标指标15.3.1的良好做法指南]（https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land）第5.2.6.2节对第2级方法进行了详细说明。"
+msgstr ""
+"可持续发展目标指标15.3.1的良好做法指南]（https://www.unccd.int/publications/good-practice-"
+"guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
+"land）第5.2.6.2节对第2级方法进行了详细说明。"
 
-#: ../../SO1.md:970
+#: ../../SO1.md:1004
 msgid ""
 "The **Tier 3 method** is the most complex, involving ground measurements "
 "and modelling, and it is only recommended for countries with adequate "
@@ -2607,11 +2711,11 @@ msgid ""
 " and/or a measurement-based inventory with a monitoring network."
 msgstr "**第3级方法**最复杂，涉及地面测量和建模，只建议有足够技术能力和数据的国家采用。它包含了更先进的方法，能更好地捕捉通量的年度变化，如国家特定的数字化土壤制图和时间序列空间土地利用/管理和气候数据，并结合了经过校准和验证的、基于过程的模型和/或基于测量的清单与监测网络。"
 
-#: ../../SO1.md:972
+#: ../../SO1.md:1006
 msgid "Step 2: Assess available data"
 msgstr "第2步：评估现有数据"
 
-#: ../../SO1.md:974
+#: ../../SO1.md:1008
 msgid ""
 "UNCCD provides prefilled data in the PRAIS 4 platform. The ISRIC "
 "SoilGrids250m dataset is used to obtain a default SOC stock baseline. "
@@ -2620,16 +2724,18 @@ msgid ""
 "data at a sufficient resolution to obtain information for the management "
 "and input change factors, the dynamic component informing SOC trends is "
 "land cover used as a proxy for land-use change."
-msgstr "《荒漠化公约》在PRAIS 4平台上提供了预填充数据。国际土壤参考资料和信息中心SoilGrids250m数据集被用来获得默认的SOC储量基线。SOC储量变化的默认估计值是基于针对矿物土壤的修改后的第1级方法[^5]。由于目前没有分辨率足够的已知全球数据来获得管理和输入变化系数的信息，因此，为SOC趋势提供信息的动态组成部分是作为土地利用变化代用指标的土地覆盖。"
+msgstr ""
+"《荒漠化公约》在PRAIS "
+"4平台上提供了预填充数据。国际土壤参考资料和信息中心SoilGrids250m数据集被用来获得默认的SOC储量基线。SOC储量变化的默认估计值是基于针对矿物土壤的修改后的第1级方法[^5]。由于目前没有分辨率足够的已知全球数据来获得管理和输入变化系数的信息，因此，为SOC趋势提供信息的动态组成部分是作为土地利用变化代用指标的土地覆盖。"
 
-#: ../../SO1.md:978
+#: ../../SO1.md:1012
 msgid ""
 "However, Parties may report their estimates using national SOC stock data"
 " (adopting the Tier 2 or Tier 3 approach) if they meet the specifications"
 " listed in table 14."
 msgstr "然而，缔约方如果符合表14中所列的规格，就可以使用国家SOC储量数据（采用第2级或第3级方法）报告其估计数。"
 
-#: ../../SO1.md:985
+#: ../../SO1.md:1019
 msgid "*__Table 14__. Data specifications for SO 1-3 indicator*"
 msgstr "*__表14__. SO 1-3指标的数据规格*。"
 
@@ -2736,30 +2842,36 @@ msgstr "**元数据**"
 msgid "Metadata information is provided with default data in Trends.Earth."
 msgstr "元数据信息与Trends.Earth中的默认数据一起提供。"
 
-#: ../../SO1.md:1020
+#: ../../SO1.md:1054
 msgid ""
 "Parties that are members of the Global Soil Partnership and are opting to"
 " use the Tier 2 method may also consider the [Global Soil Organic Carbon "
 "Map (GSOCmap)](http://www.fao.org/soils-portal/data-hub/soil-maps-and-"
 "databases/global-soil-organic-carbon-map-gsocmap/en/) as an alternative "
 "to the default SOC stock baseline data."
-msgstr "作为全球土壤伙伴关系成员并选择使用第2级方法的缔约方也可以考虑将[全球土壤有机碳地图（GSOCmap）]（http://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/global-soil-organic-carbon-map-gsocmap/en/）作为默认SOC储量基线数据的替代数据。"
+msgstr ""
+"作为全球土壤伙伴关系成员并选择使用第2级方法的缔约方也可以考虑将[全球土壤有机碳地图（GSOCmap）]（http://www.fao.org"
+"/soils-portal/data-hub/soil-maps-and-databases/global-soil-organic-"
+"carbon-map-gsocmap/en/）作为默认SOC储量基线数据的替代数据。"
 
-#: ../../SO1.md:1022
+#: ../../SO1.md:1056
 msgid ""
 "Other relevant data sources are listed in Appendix C of the [Good "
 "Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
-msgstr "其他相关数据来源列于[可持续发展目标指标15.3.1良好做法指南](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)的附录C。"
+msgstr ""
+"其他相关数据来源列于[可持续发展目标指标15.3.1良好做法指南](https://www.unccd.int/publications"
+"/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-"
+"total-land)的附录C。"
 
-#: ../../SO1.md:1024
+#: ../../SO1.md:1058
 msgid ""
 "Step 3: Determine the baseline soil organic carbon stock and degradation "
 "status"
 msgstr "第3步：确定基线土壤有机碳储量和退化状况"
 
-#: ../../SO1.md:1026
+#: ../../SO1.md:1060
 msgid ""
 "Estimating change in the extent of SOC degradation over time requires "
 "calculating the extent of SOC degradation in the baseline period. This "
@@ -2773,25 +2885,30 @@ msgid ""
 "SOC data."
 msgstr "在估算SOC退化程度随时间的变化时，需要计算基线期内的SOC退化程度。这涉及到将2015年（基线年）的估计SOC储量与之前的一个年份（通常是2000年）进行比较，以衡量每个土地覆盖类型的SOC储量变化。通过对2015年（t0）之前的一个较长时期（10-15年）的年度数值取平均值，将基线期内每个土地覆盖类别的SOC储量的绝对数值进行量化。有了年度土地覆盖产品，就可以推断符合历史SOC数据的趋势。"
 
-#: ../../SO1.md:1028
+#: ../../SO1.md:1062
 msgid ""
 "For example, in the default dataset provided for the baseline period, SOC"
 " changes were obtained from a combination of the SoilGrids250m data and "
 "the ESA CCI-LC annual data, and estimated using the IPCC change factors "
 "averaged over 20 years and then applied on an annual basis within the "
 "2000−2015 period."
-msgstr "例如，在为基线期提供的默认数据集中，SOC的变化是从SoilGrids250m数据和欧空局CCI-LC年度数据的组合中获得的，并使用气专委20年平均变化系数进行估算，然后在2000-2015年期间按年度应用。"
+msgstr ""
+"例如，在为基线期提供的默认数据集中，SOC的变化是从SoilGrids250m数据和欧空局CCI-"
+"LC年度数据的组合中获得的，并使用气专委20年平均变化系数进行估算，然后在2000-2015年期间按年度应用。"
 
-#: ../../SO1.md:1030
+#: ../../SO1.md:1064
 msgid ""
 "The [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land) includes the "
 "following two options for estimating the initial baseline status (t0) at "
 "differing temporal scales for the SOC stocks metric:"
-msgstr "可持续发展目标指标15.3.1的良好做法指南](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)包括以下两种选项，用于估算SOC储量指标在不同时间尺度上的初始基线状态(t0)："
+msgstr ""
+"可持续发展目标指标15.3.1的良好做法指南](https://www.unccd.int/publications/good-practice-"
+"guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
+"land)包括以下两种选项，用于估算SOC储量指标在不同时间尺度上的初始基线状态(t0)："
 
-#: ../../SO1.md:1032
+#: ../../SO1.md:1066
 msgid ""
 "Set a benchmark of SOC stocks with which to compare change, in other "
 "words, assess whether the average SOC stocks in the baseline period are "
@@ -2811,7 +2928,7 @@ msgid ""
 "errors."
 msgstr "设定一个SOC储量的基准，用来比较变化，换句话说，评估基线期的平均SOC储量相对于特定气候或土壤类型的某个潜在值是低、高还是平均，并确定退化状态（即已退化/未退化）。气专委关于原生植被下SOC储量的最新参考资料（来自2019年气专委指南的修订版），反映了默认的气候区域和土壤类型，可被视为一个基准，但理想情况下，将使用国家基准（例如，来自基本未受干扰的系统）。然后，通过使用定义的上下限，将观察到的平均值与基准进行比较，以此确定初始基线状态。如果估计的SOC储量低于基准的下限，该地区就被认为已退化。这一选项受到更新后的2019年气专委SOC参考储量默认值的准确性的影响，尽管这些默认值比2006年气专委默认值有所改进，但在某些情况下仍有很大误差。"
 
-#: ../../SO1.md:1034
+#: ../../SO1.md:1068
 #, python-format
 msgid ""
 "Use the change/status over the baseline period (2000–2015) to set the "
@@ -2823,9 +2940,11 @@ msgid ""
 "‘trajectory’ and relative change. The two epochs are then compared to "
 "determine changes within the baseline period. Negative changes, with an "
 "arbitrary >10% decline in SOC, constitute SOC degradation."
-msgstr "使用基线期（2000-2015年）的变化/状态来设定每个像素的初始基线退化状态（与用于土地生产力的方法类似）。由于SOC储量可能会在较长的时间（多年到十年）内发生变化，因此建议使用“时代”（例如，将2013-2015年的SOC储量与2000-2002年的SOC储量进行比较）而不是单年值来确定“轨迹”和相对变化。然后将这两个时代进行比较，以确定基线期内的变化。负的变化，SOC任意大于10%% d的减少，构成SOC的退化。"
+msgstr ""
+"使用基线期（2000-2015年）的变化/状态来设定每个像素的初始基线退化状态（与用于土地生产力的方法类似）。由于SOC储量可能会在较长的时间（多年到十年）内发生变化，因此建议使用“时代”（例如，将2013-2015年的SOC储量与2000-2002年的SOC储量进行比较）而不是单年值来确定“轨迹”和相对变化。然后将这两个时代进行比较，以确定基线期内的变化。负的变化，SOC任意大于10%%"
+" d的减少，构成SOC的退化。"
 
-#: ../../SO1.md:1036
+#: ../../SO1.md:1070
 msgid ""
 "At higher tiers, the assessment of SOC stock change for the baseline "
 "period may rely on the integration of geospatial data with diverse "
@@ -2834,7 +2953,7 @@ msgid ""
 "baselines could be derived in two distinct ways:"
 msgstr "在更高层级上，对基线期SOC储量变化的评估可能依赖于地理空间数据与不同来源数据的整合，如实地实验、配对地点、监测地点、科学研究和土地管理调查。在这种情况下，基线可以通过两种不同的方式得出："
 
-#: ../../SO1.md:1038
+#: ../../SO1.md:1072
 msgid ""
 "As estimates of total SOC stocks for a particular land use/management "
 "stratification, which could be derived from global datasets by applying "
@@ -2843,22 +2962,24 @@ msgid ""
 "the ones generated by default methods;"
 msgstr "作为特定土地利用/管理分层的SOC总储量的估计值，可通过对土地覆盖数据应用默认值或使用国家方法从全球数据集得出，其中各国使用国家数据和方法产生的结果与默认方法产生的结果相当；"
 
-#: ../../SO1.md:1040
+#: ../../SO1.md:1074
 msgid ""
 "As spatially explicit baselines, where the appropriate resolution would "
 "need to be defined (the suggested spatial resolution is 100m). The PRAIS "
 "4 platform includes prefilled baseline SOC data per land cover class, but"
 " also allows Parties to enter their own SOC data in the reporting tables."
-msgstr "作为空间明确的基线，需要定义适当的分辨率（建议空间分辨率为100米）。PRAIS 4平台包括每个土地覆盖类别的预填SOC基线数据，但也允许缔约方在报告表中输入自己的SOC数据。"
+msgstr ""
+"作为空间明确的基线，需要定义适当的分辨率（建议空间分辨率为100米）。PRAIS "
+"4平台包括每个土地覆盖类别的预填SOC基线数据，但也允许缔约方在报告表中输入自己的SOC数据。"
 
-#: ../../SO1.md:1043
+#: ../../SO1.md:1077
 msgid ""
 "The PRAIS 4 platform includes prefilled baseline SOC data per land cover "
 "class, but also allows Parties to enter their own SOC data in the "
 "reporting tables."
 msgstr "PRAIS 4平台包括每个土地覆盖类别的预填SOC基线数据，但也允许缔约方在报告表中输入自己的SOC数据。"
 
-#: ../../SO1.md:1045
+#: ../../SO1.md:1079
 msgid "Step 4: Estimate change in soil organic carbon stock"
 msgstr "第4步：估计土壤有机碳储量的变化"
 
@@ -2868,7 +2989,7 @@ msgid ""
 "SO1-3.T3 and SO1-3.T5"
 msgstr "PRAIS 4平台中的相关区域：表SO1-3.T1、SO1-3.T2、SO1-3.T3和SO1-3.T5"
 
-#: ../../SO1.md:1051
+#: ../../SO1.md:1085
 msgid ""
 "The recommended method to estimate SOC stock changes uses the trend (or "
 "the direction of change) of SOC stocks observed within the reporting "
@@ -2879,7 +3000,7 @@ msgid ""
 "initial status of SOC stocks."
 msgstr "估计SOC储量变化的推荐方法使用报告期内观察到的SOC储量趋势（或变化方向）以及基线期和报告期之间SOC储量相对变化的幅度。这种方法仅评估基线期和报告期之间是否有（显著的）负变化，对SOC储量的初始状态不做任何假设。"
 
-#: ../../SO1.md:1053
+#: ../../SO1.md:1087
 msgid ""
 "Once the baseline SOC stocks (SOC{sub}`t0`) and the SOC stocks at the end"
 " of the reporting period (SOC{sub}`tn`) for a given reporting unit have "
@@ -2887,39 +3008,39 @@ msgid ""
 "relative percentage change in SOC stocks is calculated as follows:"
 msgstr "对某一给定报告单位的基线SOC储量（SOC{sub}`t0`）和报告期结束时的SOC储量（SOC{sub}`tn`）进行了一致的估计（使用第1-3级方法中的任何一种）后，SOC储量的相对百分比变化计算如下："
 
-#: ../../SO1.md:1055
+#: ../../SO1.md:1089
 msgid "T{sub}`SOC` = (( SOC{sub}`tn` - SOC{sub}`t0` )/ SOC{sub}`t0`) x 100"
 msgstr "T{sub}`SOC` = (( SOC{sub}`tn` - SOC{sub}`t0` )/ SOC{sub}`t0`) x 100"
 
-#: ../../SO1.md:1057
+#: ../../SO1.md:1091
 msgid "Where:"
 msgstr "其中："
 
-#: ../../SO1.md:1059
+#: ../../SO1.md:1093
 msgid ""
 "T{sub}`SOC` = relative change in soil organic carbon for reporting unit "
 "(%)"
 msgstr "T{sub}`SOC` = 报告单位土壤有机碳的相对变化(%)"
 
-#: ../../SO1.md:1061
+#: ../../SO1.md:1095
 msgid ""
 "SOC{sub}`t0` = baseline soil organic carbon stock for reporting unit "
 "(tons of carbon per hectare)"
 msgstr "SOC{sub}`t0` = 报告单位的基线土壤有机碳储量（每公顷碳吨）"
 
-#: ../../SO1.md:1063
+#: ../../SO1.md:1097
 msgid ""
 "SOC{sub}`tn` = soil organic carbon stock for final reporting period for "
 "reporting unit (tons of carbon per hectare)."
 msgstr "SOC{sub}`tn` = 报告单位最后报告期的土壤有机碳储量（每公顷碳吨）。"
 
-#: ../../SO1.md:1065
+#: ../../SO1.md:1099
 msgid ""
 "For assessing changes in SOC stocks, UNCCD suggests two alternative "
 "approaches:"
 msgstr "《荒漠化公约》提出了两种备选办法来评估SOC储量的变化："
 
-#: ../../SO1.md:1067
+#: ../../SO1.md:1101
 msgid ""
 "The first method is based on tests for statistical significance and "
 "compares the average SOC stock with the upper and lower bounds of the "
@@ -2927,27 +3048,27 @@ msgid ""
 "same unit of land falls:"
 msgstr "第一种方法是基于统计学意义的检验，将平均SOC储量与同一土地单位的平均基线SOC的上限和下限进行比较。如果同一土地单位的平均值："
 
-#: ../../SO1.md:1071
+#: ../../SO1.md:1105
 msgid ""
 "a) Outside the lower bounds of the 95 per cent confidence interval "
 "(measured as twice the standard deviation), the area would be considered "
 "degraded (significant decline in SOC);"
 msgstr "a) 处于95%置信区间的下限之外（以标准差的两倍衡量），该地区将被视为已退化（SOC显著减少）；"
 
-#: ../../SO1.md:1072
+#: ../../SO1.md:1106
 msgid ""
 "b) Outside the upper bounds of the 95 per cent confidence interval "
 "(measured as twice the standard deviation), the area would be considered "
 "improved (significant increase in SOC);"
 msgstr "b) 处于95%置信区间的上限之外（以标准差的两倍衡量），该地区将被视为有所改善（SOC显著增加）；"
 
-#: ../../SO1.md:1073
+#: ../../SO1.md:1107
 msgid ""
 "c) Within the 95 per cent confidence interval, the area would be "
 "considered stable (no transition)."
 msgstr "c) 处于95%的置信区间内，该地区将被视为稳定（没有过渡）。"
 
-#: ../../SO1.md:1075
+#: ../../SO1.md:1109
 msgid ""
 "An alternative statistical approach would be to assess the 95 per cent "
 "confidence interval of the difference in SOC stocks between the baseline "
@@ -2956,7 +3077,7 @@ msgid ""
 "difference does not cover zero, then the change is significant."
 msgstr "另一种统计方法是通过综合上述不确定性，评估每单位土地的基线期和报告期之间SOC储量差异的95%置信区间。如果差异的95%置信区间不包括零，则变化显著。"
 
-#: ../../SO1.md:1077
+#: ../../SO1.md:1111
 msgid ""
 "Given the high spatial variability of the data for SOC stocks, it may "
 "happen that confidence intervals are large, and thus the two statistical "
@@ -2964,7 +3085,7 @@ msgid ""
 "degradation is occurring."
 msgstr "鉴于SOC储量数据的高度空间可变性，可能会出现置信区间很大的情况。因此，即使正在发生退化，上述两种统计方法也可能检测不到显著变化。"
 
-#: ../../SO1.md:1079
+#: ../../SO1.md:1113
 msgid ""
 "The second method is to assess both the direction of change and magnitude"
 " of the relative percentage change in SOC stocks, relative to some "
@@ -2973,47 +3094,49 @@ msgid ""
 "defined as:"
 msgstr "第二种方法是评估基线期和报告期之间，相对于某些定义的阈值，SOC储量相对百分比的变化方向和幅度。然后，对于SOC储量，确定变化状态的方法将被定义为："
 
-#: ../../SO1.md:1083
+#: ../../SO1.md:1117
 msgid ""
 "a) Degraded: Reporting units with more than, for example, a 10 per cent "
 "average net reduction in SOC stocks between baseline and current "
 "observations;"
 msgstr "a) 已退化：例如，在基线和当前观测值之间，报告单位的SOC储量平均净减少10%以上；"
 
-#: ../../SO1.md:1084
+#: ../../SO1.md:1118
 msgid ""
 "b) Not degraded: Reporting units with less than, for example, a 10 per "
 "cent average net reduction, no change or an average net increase in SOC "
 "stocks between baseline and current observations."
 msgstr "b) 未退化：在基线和当前观测值之间，报告单位的SOC储量平均净减少10%以下、没有变化或平均净增加。"
 
-#: ../../SO1.md:1086
+#: ../../SO1.md:1120
 msgid ""
 "As a starting point, an arbitrary >10 per cent change threshold is "
 "suggested. Subsequent refinement and justification of this threshold "
 "value will be needed."
 msgstr "作为一个起点，建议采用任意大于10%的变化阈值。随后将需要完善和论证这一阈值。"
 
-#: ../../SO1.md:1088
+#: ../../SO1.md:1122
 msgid ""
 "Parties may decide to use a different threshold than 10 per cent based on"
 " their knowledge of the country and the analysis of national data."
 msgstr "缔约方可根据其对该国的了解和对国家数据的分析，决定使用一个不同于10%的阈值。"
 
-#: ../../SO1.md:1090
+#: ../../SO1.md:1124
 msgid ""
 "The PRAIS 4 platform includes prefilled data for the reporting period "
 "derived from the default data to be accepted by the Parties or replaced "
 "with national data. Parties opting to use their own SOC data are "
 "encouraged to use Trends.Earth to (i) estimate changes in SOC; and (ii) "
 "identify potentially degraded areas."
-msgstr "PRAIS 4平台包括报告期的预填数据，这些数据来自缔约方接受的默认数据或由国家数据取代的数据。鼓励选择使用自己的SOC数据的缔约方使用Trends.Earth来(i)估计SOC的变化；以及(ii)识别有可能退化的地区。"
+msgstr ""
+"PRAIS "
+"4平台包括报告期的预填数据，这些数据来自缔约方接受的默认数据或由国家数据取代的数据。鼓励选择使用自己的SOC数据的缔约方使用Trends.Earth来(i)估计SOC的变化；以及(ii)识别有可能退化的地区。"
 
-#: ../../SO1.md:1092
+#: ../../SO1.md:1126
 msgid "Step 5:  Verify the results"
 msgstr "第5步：验证结果"
 
-#: ../../SO1.md:1094
+#: ../../SO1.md:1128
 msgid ""
 "The default method draws on data generated from the assessment of land "
 "cover change in combination with reference and emission factors obtained "
@@ -3028,11 +3151,11 @@ msgid ""
 "estimates."
 msgstr "默认方法是利用土地覆盖变化评估产生的数据，并结合从气专委默认表格中获得的参考和排放系数，这些表格对应广泛的大陆土地覆盖类型和管理制度。因此，推导出的估计值对于碳储量如何在次国家范围内变化提供的分辨率有限，并且具有很大的不确定性。当应用于局部地区时，这可能会影响SOC变化估计的可靠性。因此，需要国家专家的投入才能发现和强调所获结果的置信度可能较低的情况。这种投入将有助于对估计结果的可靠性进行定性评估。"
 
-#: ../../SO1.md:1096
+#: ../../SO1.md:1130
 msgid "Step 6: Generate reports"
 msgstr "第6步：生成报告"
 
-#: ../../SO1.md:1098
+#: ../../SO1.md:1132
 msgid ""
 "Parties adopting the Tier 1 approach may officially submit the default "
 "data made available in the PRAIS 4 platform. Table SO1-3.T1 of the PRAIS "
@@ -3041,9 +3164,11 @@ msgid ""
 "tonnes/hectare. This default data should be verified by the Parties "
 "before submission, or replaced with alternative national data sources if "
 "opting for the Tier 2 or Tier 3 approach."
-msgstr "采用第1级方法的缔约方可正式提交PRAIS 4平台中提供的默认数据。PRAIS 4平台的表SO1-3.T1显示了国家一级每个土地覆盖类别的表层土壤（至30厘米深）中SOC储量的预先计算估计数，以吨/公顷表示。缔约方应在提交之前核实这一默认数据，如果选择第2级或第3级方法，则应替换为替代的国家数据来源。"
+msgstr ""
+"采用第1级方法的缔约方可正式提交PRAIS 4平台中提供的默认数据。PRAIS "
+"4平台的表SO1-3.T1显示了国家一级每个土地覆盖类别的表层土壤（至30厘米深）中SOC储量的预先计算估计数，以吨/公顷表示。缔约方应在提交之前核实这一默认数据，如果选择第2级或第3级方法，则应替换为替代的国家数据来源。"
 
-#: ../../SO1.md:1100
+#: ../../SO1.md:1134
 msgid ""
 "Changes in SOC stocks for each land cover change (calculated by "
 "Trends.Earth) are reported in tables SO1-3.T2 and SO1-3.T3. Data includes"
@@ -3053,42 +3178,42 @@ msgid ""
 " SO1-3.T4 and SO1-3.T5."
 msgstr "表SO1-3.T2和SO1-3.T3报告了每种土地覆盖变化的SOC储量变化（由Trends.Earth计算）。数据包括以平方公里为单位的净面积变化以及基线期和报告期的初始、最终SOC储量和SOC储量的变化。表SO1-3.T4和SO1-3.T5报告了基于SOC储量变化的SOC退化分析结果。"
 
-#: ../../SO1.md:1102
+#: ../../SO1.md:1136
 msgid ""
 "Maps with default or national data representing SOC stocks, SOC stock "
 "changes and SOC degradation for the baseline and the reporting period are"
 " accessible via the PRAIS 4 platform. These include:"
 msgstr "通过PRAIS 4平台可以获得代表基线期和报告期的SOC储量、SOC储量变化和SOC退化的默认数据或国家数据的地图。其中包括："
 
-#: ../../SO1.md:1104
+#: ../../SO1.md:1138
 msgid "SOC stock in the initial year of the baseline period (2000)"
 msgstr "基线期最初一年（2000年）的SOC储量"
 
-#: ../../SO1.md:1105
+#: ../../SO1.md:1139
 msgid "SOC stock in the baseline year (2015)"
 msgstr "基准年（2015年）的SOC储量"
 
-#: ../../SO1.md:1106
+#: ../../SO1.md:1140
 msgid "SOC stock in the latest reporting year"
 msgstr "最近一个报告年度的SOC储量"
 
-#: ../../SO1.md:1107
+#: ../../SO1.md:1141
 msgid "Change in SOC stock in the baseline period"
 msgstr "基线期内SOC储量变化情况"
 
-#: ../../SO1.md:1108
+#: ../../SO1.md:1142
 msgid "Change in SOC stock in the reporting period"
 msgstr "报告期内SOC储量变化情况"
 
-#: ../../SO1.md:1109
+#: ../../SO1.md:1143
 msgid "SOC degradation in the baseline period"
 msgstr "基线期内SOC退化情况"
 
-#: ../../SO1.md:1110
+#: ../../SO1.md:1144
 msgid "SOC degradation in the reporting period."
 msgstr "报告期内SOC退化情况"
 
-#: ../../SO1.md:1112
+#: ../../SO1.md:1146
 msgid ""
 "For estimates derived from national data, Parties may also provide a "
 "description of the methodology used to estimate SOC stocks, SOC stock "
@@ -3096,25 +3221,25 @@ msgid ""
 "field."
 msgstr "对于根据国家数据得出的估计数，缔约方还可利用“一般性注释”栏，说明用于估计SOC储量、SOC储量变化和SOC相对退化的方法。"
 
-#: ../../SO1.md:1114
+#: ../../SO1.md:1148
 msgid "1.3.4. Dependencies"
 msgstr "1.3.4. 依赖性"
 
-#: ../../SO1.md:1116
+#: ../../SO1.md:1150
 msgid ""
 "Estimates of SOC stock changes are dependent on the land cover data "
 "reported under SO 1-1 and the total land area reported in table SO1-1.T1."
 msgstr "对SOC储量变化的估计依赖于SO 1-1下报告的土地覆盖数据和表SO1-1.T1中报告的土地总面积。"
 
-#: ../../SO1.md:1118
+#: ../../SO1.md:1152
 msgid "1.3.5. Challenges"
 msgstr "1.3.5. 挑战"
 
-#: ../../SO1.md:1120
+#: ../../SO1.md:1154
 msgid "Data availability"
 msgstr "数据可用性"
 
-#: ../../SO1.md:1122
+#: ../../SO1.md:1156
 msgid ""
 "Detailed data on SOC stock are generally unavailable both at global and "
 "national levels. Current data are derived from a combination of "
@@ -3124,7 +3249,7 @@ msgid ""
 "estimates;"
 msgstr "全球和国家两级通常没有关于SOC储量的详细数据。目前的数据是由当代数据和遗留数据组合而成的，并没有完全整合，也没有随着时间的推移而保持一致。未来的数据改进必须包括标准化、可访问性、更高的空间分辨率和改进的不确定性估计；"
 
-#: ../../SO1.md:1124
+#: ../../SO1.md:1158
 msgid ""
 "SOC stock changes are primarily computed from land cover changes, while "
 "management and input factors are often not included because of lack of "
@@ -3133,18 +3258,18 @@ msgid ""
 "considered for future reporting."
 msgstr "SOC储量变化主要是通过土地覆盖的变化来计算的，而管理和投入系数往往因为缺乏数据而没有被包括在内。在今后的报告中，应考虑采用可用的方法来持续收集和处理相关数据，将管理系数纳入SOC的估计中。"
 
-#: ../../SO1.md:1126
+#: ../../SO1.md:1160
 msgid "Unresolved issues"
 msgstr "未解决的问题"
 
-#: ../../SO1.md:1128
+#: ../../SO1.md:1162
 msgid ""
 "There is a challenge associated with drylands which lack topsoil. There "
 "is a need to update the methodology to take such special cases into full "
 "consideration and adjust the calculations accordingly;"
 msgstr "存在与缺乏表土的旱地相关的挑战。有必要更新方法，以充分考虑到这种特殊情况，并相应调整计算方法；"
 
-#: ../../SO1.md:1130
+#: ../../SO1.md:1164
 msgid ""
 "Soil erosion and/or deposition may have significant effects on measured "
 "SOC stocks, but their effects on stock changes are included in the "
@@ -3153,15 +3278,15 @@ msgid ""
 "implementation of the Tier 3 method."
 msgstr "土壤侵蚀和/或沉积可能对测得的SOC储量有重大影响，但它们对储量变化的影响已包括在土地利用和土地覆盖变化的估计中。缔约方可考虑将土壤侵蚀和/或沉积作为实施第3级方法的参数。"
 
-#: ../../SO1.md:1132
+#: ../../SO1.md:1166
 msgid "1.3.6. Summary (main actions)"
 msgstr "1.3.6. 总结（主要行动）"
 
-#: ../../SO1.md:1134
+#: ../../SO1.md:1168
 msgid "Key actions for reporting on SOC changes are as follows:"
 msgstr "报告SOC变化时需采取的主要行动如下："
 
-#: ../../SO1.md:1136
+#: ../../SO1.md:1170
 msgid ""
 "**Select the estimation method:** Parties may opt for one of the three "
 "proposed Tier methods to report national data to UNCCD, depending on "
@@ -3169,7 +3294,7 @@ msgid ""
 "availability of national data;"
 msgstr "**选择估算方法：**缔约方可根据其估算SOC储量变化的技术能力和国家数据的可用性，选择三种拟议的层级方法之一，向《荒漠化公约》报告国家数据；"
 
-#: ../../SO1.md:1138
+#: ../../SO1.md:1172
 msgid ""
 "**Assess available data:** Based on the Tier level deemed most "
 "appropriate for reporting in the respective country, evaluate the "
@@ -3178,7 +3303,7 @@ msgid ""
 "table 14 above;"
 msgstr "**评估可用数据：**根据被认为最适合在各自国家报告的层级，评估默认数据的适合性。如果不适合，选择替代数据源，并确保符合上表14所列的最低规格；"
 
-#: ../../SO1.md:1140
+#: ../../SO1.md:1174
 msgid ""
 "**Determine the baseline SOC stock and degradation status:** Estimate the"
 " average SOC stock in the topsoil (0–30 cm) for each land cover class and"
@@ -3188,7 +3313,7 @@ msgid ""
 "determine the baseline degradation status;"
 msgstr "**确定基准SOC储量和退化状态：**估计每个土地覆盖类别表层土壤（0-30厘米）中的平均SOC储量，并使用第2步中给出的两个选项之一推断基线期（t0）内的初始退化状态。默认情况下，将使用基线期（2000-2015年）的相对SOC变化来确定基准退化状态；"
 
-#: ../../SO1.md:1142
+#: ../../SO1.md:1176
 msgid ""
 "**Estimate change in SOC stocks:** For the major land cover transitions, "
 "report the net change in SOC. Indicate whether there has been SOC "
@@ -3200,79 +3325,94 @@ msgid ""
 "between the baseline and reporting periods are considered degraded;"
 msgstr "**估计SOC储量的变化：**对于主要的土地覆盖过渡，报告SOC的净变化。根据基线期和报告期之间估计的SOC储量变化，指出SOC是否有退化、改善或无明显变化（稳定）。可以采用基于变化重要性的统计方法或基于变化百分比的相对方法。默认情况下，基线期和报告期之间SOC储量相对减少大于10%的土地单位被视为退化；"
 
-#: ../../SO1.md:1144
+#: ../../SO1.md:1178
 msgid ""
 "**Verify the results:** It is recommended that SOC changes and related "
 "land degradation estimates are verified by the concerned national "
 "authorities to assess the accuracy of the results and identify any false "
 "positive and negative situations which can be reported on in the SO 1-4 "
 "forms (SDG indicator 15.3.1);"
-msgstr "**核实结果**：建议由有关国家当局核实SOC变化和相关的土地退化估计数，以评估结果的准确性，并确定可在SO 1-4表格中报告的任何假阳性和假阴性情况（可持续发展目标指标15.3.1）；"
+msgstr ""
+"**核实结果**：建议由有关国家当局核实SOC变化和相关的土地退化估计数，以评估结果的准确性，并确定可在SO "
+"1-4表格中报告的任何假阳性和假阴性情况（可持续发展目标指标15.3.1）；"
 
-#: ../../SO1.md:1146
+#: ../../SO1.md:1180
 msgid ""
 "**Generate reports:** Verify the default data provided in the PRAIS 4 "
 "platform (for the Tier 1 approach) or replace it with national data (for "
 "the Tier 2 or Tier 3 approaches). Include the narrative required to "
 "describe the national context of land degradation based on SOC changes."
-msgstr "**生成报告：**核实PRAIS 4平台提供的默认数据（对于第1级方法）或用国家数据替代（对于第2级或第3级方法）。包括描述基于SOC变化的土地退化的国家背景所需的叙述。"
+msgstr ""
+"**生成报告：**核实PRAIS "
+"4平台提供的默认数据（对于第1级方法）或用国家数据替代（对于第2级或第3级方法）。包括描述基于SOC变化的土地退化的国家背景所需的叙述。"
 
-#: ../../SO1.md:1148
+#: ../../SO1.md:1182
 msgid "1.3.7. Further reading"
 msgstr "1.3.7. 延伸阅读"
 
-#: ../../SO1.md:1150
+#: ../../SO1.md:1184
 msgid ""
 "Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that "
 "is degraded over total land area (version 2). Chapter 5: Carbon Stock, "
 "Above and Below Ground (<https://www.unccd.int/publications/good-"
 "practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
 "land>)."
-msgstr "可持续发展目标指标15.3.1的良好做法指南：已退化土地面积占土地总面积的比例（第2版）。第5章：地上和地下的碳储量（<https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land>）。"
+msgstr ""
+"可持续发展目标指标15.3.1的良好做法指南：已退化土地面积占土地总面积的比例（第2版）。第5章：地上和地下的碳储量（<https://www.unccd.int/publications"
+"/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-"
+"total-land>）。"
 
-#: ../../SO1.md:1151
+#: ../../SO1.md:1185
 msgid ""
 "IPCC, 2006. Eggleston, S., Buendia L., Miwa K., Ngara T., and Tanabe K. "
 "(Eds). 2006 IPCC Guidelines for National Greenhouse Gas Inventories. "
 "Intergovernmental Panel on Climate Change (IPCC)/Institute for Global "
 "Environmental Strategies (IGES), Hayama, Japan."
-msgstr "IPCC, 2006. Eggleston, S., Buendia L., Miwa K., Ngara T., and Tanabe K. (Eds). 《2006年气专委国家温室气体清单指南》。政府间气候变化专门委员会（气专委）/全球环境战略研究所（IGES），日本，叶山。"
+msgstr ""
+"IPCC, 2006. Eggleston, S., Buendia L., Miwa K., Ngara T., and Tanabe K. "
+"(Eds). 《2006年气专委国家温室气体清单指南》。政府间气候变化专门委员会（气专委）/全球环境战略研究所（IGES），日本，叶山。"
 
-#: ../../SO1.md:1152
+#: ../../SO1.md:1186
 msgid ""
 "IPCC, 2013. Hiraishi, T., Krug, T., Tanabe, K., Srivastava, N., "
 "Baasansuren, J., Fukuda, M. and Troxler, T.G. (Eds). 2013 Supplement to "
 "the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: "
 "Wetlands. Intergovernmental Panel on Climate Change (IPCC), Switzerland."
-msgstr "IPCC, 2013. Hiraishi, T., Krug, T., Tanabe, K., Srivastava, N., Baasansuren, J., Fukuda, M. and Troxler, T.G. (Eds). 《2006年气专委国家温室气体清单指南2013年增编：湿地》。政府间气候变化专门委员会，瑞士。"
+msgstr ""
+"IPCC, 2013. Hiraishi, T., Krug, T., Tanabe, K., Srivastava, N., "
+"Baasansuren, J., Fukuda, M. and Troxler, T.G. (Eds). "
+"《2006年气专委国家温室气体清单指南2013年增编：湿地》。政府间气候变化专门委员会，瑞士。"
 
-#: ../../SO1.md:1153
+#: ../../SO1.md:1187
 msgid ""
 "IPCC. 2019. Refinement to the 2006 IPCC Guidelines for National "
 "Greenhouse Gas Inventories. In: Buendia, E., Tanabe, K., Kranjc, A., "
 "Baasansuren, J., Fukuda, M., Ngarize, S., Osako, A., Pyrozhenko, Y., "
 "Shermanau, P., Federici, S. (eds). Intergovernmental Panel on Climate "
 "Change, Geneva, Switzerland."
-msgstr "气专委。《2006年气专委国家温室气体清单指南》2019年修订版。In: Buendia, E., Tanabe, K., Kranjc, A., Baasansuren, J., Fukuda, M., Ngarize, S., Osako, A., Pyrozhenko, Y., Shermanau, P., Federici, S. (eds). 政府间气候变化专门委员会，瑞士日内瓦。"
+msgstr ""
+"气专委。《2006年气专委国家温室气体清单指南》2019年修订版。In: Buendia, E., Tanabe, K., Kranjc, A.,"
+" Baasansuren, J., Fukuda, M., Ngarize, S., Osako, A., Pyrozhenko, Y., "
+"Shermanau, P., Federici, S. (eds). 政府间气候变化专门委员会，瑞士日内瓦。"
 
-#: ../../SO1.md:1154
+#: ../../SO1.md:1188
 msgid ""
 "‘Default data: methods and interpretation. A guidance document for 2018 "
 "UNCCD reporting’ "
 "(<https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf>)."
 msgstr "“默认数据：方法和解释。2018年《荒漠化公约》报告指导文件”（<https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf>）。"
 
-#: ../../SO1.md:1156
+#: ../../SO1.md:1190
 msgid ""
 "1.4. SO 1-4 – Proportion of land that is degraded over total land area "
 "(Sustainable Development Goal indicator 15.3.1)"
 msgstr "1.4. SO 1-4 – 已退化土地面积占土地总面积的比例（可持续发展目标指标15.3.1）"
 
-#: ../../SO1.md:1158
+#: ../../SO1.md:1192
 msgid "1.4.1. Introduction"
 msgstr "1.4.1. 简介"
 
-#: ../../SO1.md:1160
+#: ../../SO1.md:1194
 msgid ""
 "Land degradation is defined as ‘the reduction or loss of the biological "
 "or economic productivity and complexity of rainfed cropland, irrigated "
@@ -3281,7 +3421,7 @@ msgid ""
 "practices[^7]’."
 msgstr "土地退化被定义为“由于各种压力，包括土地使用和管理方法，导致雨养农田、灌溉农田或牧场、草场、森林和林地的生物或经济生产力和复杂性的降低或丧失[^7]”。"
 
-#: ../../SO1.md:1163
+#: ../../SO1.md:1197
 msgid ""
 "Using the three indicators SO 1-1, SO 1-2 and SO 1-3 (hereinafter "
 "referred to as subindicators), UNCCD reporting will estimate the "
@@ -3294,16 +3434,20 @@ msgid ""
 "will be used by the secretariat, in its capacity as the custodian agency "
 "for SDG indicator 15.3.1, to contribute to the overall follow-up and "
 "review by the High-level Political Forum on Sustainable Development."
-msgstr "利用SO 1-1、SO 1-2和SO 1-3三个指标（以下简称次级指标），《荒漠化公约》报告将估算出已退化土地面积占土地总面积的比例，这也是可持续发展目标指标15.3.1，是用于跟踪实现具体目标15.3（“到2030年，防治荒漠化，恢复退化的土地和土壤，包括受荒漠化、干旱和洪涝影响的土地，努力建立一个不再出现土地退化的世界” ）进展的唯一指标。根据第15/COP.13号决定，秘书处将以可持续发展目标指标15.3.1托管机构的身份，利用国家报告中汇编的信息，为可持续发展问题高级别政治论坛的总体后续行动和审查做出贡献。"
+msgstr ""
+"利用SO 1-1、SO 1-2和SO "
+"1-3三个指标（以下简称次级指标），《荒漠化公约》报告将估算出已退化土地面积占土地总面积的比例，这也是可持续发展目标指标15.3.1，是用于跟踪实现具体目标15.3（“到2030年，防治荒漠化，恢复退化的土地和土壤，包括受荒漠化、干旱和洪涝影响的土地，努力建立一个不再出现土地退化的世界”"
+" "
+"）进展的唯一指标。根据第15/COP.13号决定，秘书处将以可持续发展目标指标15.3.1托管机构的身份，利用国家报告中汇编的信息，为可持续发展问题高级别政治论坛的总体后续行动和审查做出贡献。"
 
-#: ../../SO1.md:1165
+#: ../../SO1.md:1199
 msgid ""
 "Knowing the extent and location of degraded land is instrumental to "
 "achieving land degradation neutrality (LDN) at national level and "
 "supporting Parties in setting national voluntary targets."
 msgstr "了解已退化土地的范围和位置有助于在国家层面实现土地退化零增长（LDN），并支持缔约方制定国家自愿目标。"
 
-#: ../../SO1.md:1167
+#: ../../SO1.md:1201
 msgid ""
 "SDG indicator 15.3.1 is reported as a single figure expressed in km2 "
 "quantifying the area of land that is degraded as a proportion of total "
@@ -3311,14 +3455,14 @@ msgid ""
 "excluding the area covered by inland waters, like major rivers and lakes."
 msgstr "可持续发展目标指标15.3.1以单一数字报告，以平方公里为单位，量化了已退化的土地面积占土地总面积的比例，土地总面积是指一个国家的总表面积，不包括主要河流和湖泊等内陆水域覆盖的面积。"
 
-#: ../../SO1.md:1169
+#: ../../SO1.md:1203
 msgid ""
 "UNCCD facilitates reporting on SDG indicator 15.3.1 by providing pre-"
 "filled data in the PRAIS 4 platform with values derived from default "
 "datasets."
 msgstr "《荒漠化公约》通过在PRAIS 4平台中提供预先填写的数据，以及从默认数据集中得出的数值，为可持续发展目标指标15.3.1的报告提供了便利。"
 
-#: ../../SO1.md:1171
+#: ../../SO1.md:1205
 msgid ""
 "Parties have the option to identify areas of ‘false negative’ or of "
 "‘false positive’ errors in the identification of degradation. The "
@@ -3326,27 +3470,32 @@ msgid ""
 "these sites, including their geographical locations, the delineation of "
 "their extents and the processes driving the false negative/false positive"
 " interpretations."
-msgstr "缔约方可以选择确定退化识别中的“假阴性”或“假阳性”错误区域。PRAIS 4平台的报告表格允许对这些地点进行全面描述，包括其地理位置、范围划定以及导致假阴性/假阳性解释的过程。"
+msgstr ""
+"缔约方可以选择确定退化识别中的“假阴性”或“假阳性”错误区域。PRAIS "
+"4平台的报告表格允许对这些地点进行全面描述，包括其地理位置、范围划定以及导致假阴性/假阳性解释的过程。"
 
-#: ../../SO1.md:1173
+#: ../../SO1.md:1207
 msgid ""
 "Parties are also encouraged to identify ‘hotspots’ and ‘brightspots’ as "
 "areas experiencing the most evident and dramatic changes in (i) land "
 "degradation; and (ii) improvement, respectively."
 msgstr "还鼓励缔约方确定“热点”和“亮点”，分别作为在(i)土地退化；和(ii)改善方面发生最明显和最剧烈变化的地区。"
 
-#: ../../SO1.md:1175
+#: ../../SO1.md:1209
 msgid "1.4.2. Prerequisites for reporting"
 msgstr "1.4.2.报告的先决条件"
 
-#: ../../SO1.md:1177
+#: ../../SO1.md:1211
 msgid ""
 "An in-depth reading of chapter 2 of the [Good Practice Guidance for SDG "
 "Indicator 15.3.1](https://www.unccd.int/publications/good-practice-"
 "guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land);"
-msgstr "延伸阅读[可持续发展目标指标15.3.1的良好做法指南]（https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land）第2章；"
+msgstr ""
+"延伸阅读[可持续发展目标指标15.3.1的良好做法指南]（https://www.unccd.int/publications/good-"
+"practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
+"land）第2章；"
 
-#: ../../SO1.md:1179
+#: ../../SO1.md:1213
 msgid ""
 "A pool of national experts officially nominated by the national "
 "authorities to verify the reliability of the land degradation estimates. "
@@ -3360,17 +3509,17 @@ msgid ""
 "Development Goals Report and the Global SDG Indicators Database."
 msgstr "由国家主管部门正式提名的国家专家库，以核实土地退化估计数的可靠性。关键机构可能包括一国的国家统计局、环境部、农业部、水资源部、遥感中心以及大学和研究中心。鉴于在最后提交给联合国统计司以纳入《可持续发展目标报告》和全球可持续发展目标指标数据库之前，国家统计局有责任审查和验证对可持续发展目标指标15.3.1的国家估计数，因此与国家统计局的协商尤为重要。"
 
-#: ../../SO1.md:1181
+#: ../../SO1.md:1215
 msgid "1.4.3. Reporting process and step-by-step procedure"
 msgstr "1.4.3.报告流程和分步程序"
 
-#: ../../SO1.md:1183
+#: ../../SO1.md:1217
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If Parties decide to use the default data, steps 1 and 2 are unnecessary."
 msgstr "报告的分步程序在下文中描述。如果缔约方决定使用默认数据，第1和2步就没有必要。"
 
-#: ../../SO1.md:1185
+#: ../../SO1.md:1219
 msgid "Step 1. Calculate Sustainable Development Goal indicator 15.3.1"
 msgstr "第1步：计算可持续发展目标指标15.3.1"
 
@@ -3378,7 +3527,7 @@ msgstr "第1步：计算可持续发展目标指标15.3.1"
 msgid "Related areas in the PRAIS 4 platform: table SO1-4.T1"
 msgstr "PRAIS 4平台中的相关区域：表SO1-4.T1"
 
-#: ../../SO1.md:1191
+#: ../../SO1.md:1225
 msgid ""
 "In order to calculate SDG indicator 15.3.1, the results of the "
 "degradation analysis for each of the subindicators are integrated using a"
@@ -3388,7 +3537,7 @@ msgid ""
 " unit (pixel) is either degraded or not degraded."
 msgstr "为了计算可持续发展目标指标15.3.1，对每个次级指标的退化分析结果都采用“一个出局，全部出局”（1OAO）的方法进行整合；在该方法中，三个次级指标中任何一个指标的显著减少或负变化都被视为构成土地退化。其结果是一个二元评估，即一个土地单位（像素）要么退化要么未退化。"
 
-#: ../../SO1.md:1193
+#: ../../SO1.md:1227
 msgid ""
 "The analysis of change in degradation involves first establishing a "
 "baseline of land degradation. The baseline sets the benchmark extent of "
@@ -3398,14 +3547,14 @@ msgid ""
 "extent of degraded land is a three-step process:"
 msgstr "对退化变化的分析首先涉及建立土地退化的基线。基线规定了土地退化的基准程度，在报告期内根据这一基准评估实现可持续发展目标15.3和土地退化零增长的进展。实际上，为了计算可持续发展目标指标15.3.1，跟踪退化土地范围的变化是一个三步的过程："
 
-#: ../../SO1.md:1196
+#: ../../SO1.md:1230
 msgid ""
 "Calculate the extent of degradation in the baseline period (t0) from 1 "
 "January 2000 to 31 December 2015 to set the benchmark for measuring "
 "progress towards achieving SDG target 15.3;"
 msgstr "计算2000年1月1日至2015年12月31日基线期（t0）的退化范围，为衡量实现可持续发展目标15.3的进展设定基准；"
 
-#: ../../SO1.md:1198
+#: ../../SO1.md:1232
 msgid ""
 "Calculate the extent of degradation in the reporting period (tn) by "
 "summing (i) areas of land where changes in the subindicators are "
@@ -3414,13 +3563,13 @@ msgid ""
 "improved to a non-degraded state);"
 msgstr "计算报告期（tn）内的退化范围，方法是将（i）次级指标的变化被认为表明新的退化的土地面积；以及（ii）自基线期以来一直处于退化状态的土地面积（即没有改善到非退化状态）相加；"
 
-#: ../../SO1.md:1200
+#: ../../SO1.md:1234
 msgid ""
 "Calculate the change in extent of degradation between the baseline and "
 "reporting periods."
 msgstr "计算基线期和报告期之间退化范围的变化。"
 
-#: ../../SO1.md:1202
+#: ../../SO1.md:1236
 msgid ""
 "The total area of degraded land for the baseline, the reporting period "
 "and the change of the area between the two periods should be reported in "
@@ -3430,7 +3579,7 @@ msgid ""
 "or low)."
 msgstr "应在表SO1-4.T1中报告基线期、报告期的退化土地总面积以及两个时期之间的面积变化。此外，缔约方可以报告关于所使用的方法（如果与1OAO方法不同）的额外信息，以及说明估计的置信度（高、中或低）。"
 
-#: ../../SO1.md:1204
+#: ../../SO1.md:1238
 msgid "Step 2. Estimate progress towards land degradation neutrality"
 msgstr "第2步：估计实现土地退化零增长的进展"
 
@@ -3438,7 +3587,7 @@ msgstr "第2步：估计实现土地退化零增长的进展"
 msgid "Related areas in the PRAIS 4 platform: table SO1-4.T2"
 msgstr "PRAIS 4平台中的相关区域：表SO1-4.T2"
 
-#: ../../SO1.md:1210
+#: ../../SO1.md:1244
 msgid ""
 "Progress made towards LDN should be reported as the net difference "
 "between areas improved (gains) in the reporting period compared to the "
@@ -3451,9 +3600,12 @@ msgid ""
 "values demonstrate that LDN has been both achieved and exceeded. The "
 "values reported in table SO1-4.T2 should therefore help countries with "
 "LDN monitoring and target-setting."
-msgstr "在实现土地退化零增长（LDN）方面取得的进展应报告为报告期内与基线期相比有所改善的地区（收益）和报告期内与基线期相比有所退化的地区（损失）之间的净差额（表 SO1-4.T2）。退化面积和改善面积的差异（平方公里）在LDN状态栏中报告。正值表示改善土地的净收益，负值表示退化的土地多于改善的土地。接近于零的数值表明收益与损失相平衡，LDN已经实现。正值表明LDN已经实现并超额完成。因此，表SO1-4.T2中报告的数值应有助于各国监测LDN和制定目标。"
+msgstr ""
+"在实现土地退化零增长（LDN）方面取得的进展应报告为报告期内与基线期相比有所改善的地区（收益）和报告期内与基线期相比有所退化的地区（损失）之间的净差额（表"
+" "
+"SO1-4.T2）。退化面积和改善面积的差异（平方公里）在LDN状态栏中报告。正值表示改善土地的净收益，负值表示退化的土地多于改善的土地。接近于零的数值表明收益与损失相平衡，LDN已经实现。正值表明LDN已经实现并超额完成。因此，表SO1-4.T2中报告的数值应有助于各国监测LDN和制定目标。"
 
-#: ../../SO1.md:1212
+#: ../../SO1.md:1246
 msgid "Step 3. Identify false positives and false negatives"
 msgstr "第3步：识别假阳性和假阴性"
 
@@ -3461,11 +3613,11 @@ msgstr "第3步：识别假阳性和假阴性"
 msgid "Related areas in the PRAIS 4 platform: : table SO1-4.T3"
 msgstr "PRAIS 4平台中的相关区域：表SO1-4.T3"
 
-#: ../../SO1.md:1218
+#: ../../SO1.md:1252
 msgid "Parties have the option to identify areas of:"
 msgstr "缔约方可以选择确定以下地区："
 
-#: ../../SO1.md:1220
+#: ../../SO1.md:1254
 msgid ""
 "‘False positive’ degradation, where the 1OAO process has incorrectly "
 "indicated that an area is not degraded even though the change in land "
@@ -3473,17 +3625,17 @@ msgid ""
 "the context of SDG indicator 15.3.1; and"
 msgstr "“假阳性”退化地区，即尽管土地状况的变化被认为是足够负面的，符合可持续发展目标指标15.3.1中的退化条件，但IOAO过程却错误地表示某个地区没有退化；以及"
 
-#: ../../SO1.md:1221
+#: ../../SO1.md:1255
 msgid ""
 "‘False negative’ degradation, in which the outcome of the 1OAO process "
 "has incorrectly resulted in an area being identified as degraded."
 msgstr "“假阴性”退化地区，即1OAO过程的结果错误地导致一个地区被确定为退化。"
 
-#: ../../SO1.md:1223
+#: ../../SO1.md:1257
 msgid "What are false positives?"
 msgstr "什么是假阳性？"
 
-#: ../../SO1.md:1225
+#: ../../SO1.md:1259
 msgid ""
 "An example is a woody weed invasion of a grassland, which may raise the "
 "apparent plant productivity even though the outcome in terms of the "
@@ -3496,11 +3648,11 @@ msgid ""
 "invaded by alien plant species."
 msgstr "一个例子是木本杂草入侵草地，这可能会提高表面的植物生产力，尽管就土地状况的变化而言，其结果通常是负面的。这是一个土地状况的虚假“阳性”或表面改善。在1OAO过程中，尽管土地条件的变化被认为是足够负面的，符合可持续发展目标指标15.3.1的退化条件，但正在经历木本植物侵占的地区会被错误地表示为没有退化。在被外来植物物种入侵的土地上也会出现类似的结果。"
 
-#: ../../SO1.md:1227
+#: ../../SO1.md:1261
 msgid "What are false negatives?"
 msgstr "什么是假阴性？"
 
-#: ../../SO1.md:1229
+#: ../../SO1.md:1263
 msgid ""
 "An example is the inverse of the above problem where woody weeds (or "
 "invasive plant species) are removed as part of a remediation process, "
@@ -3510,7 +3662,7 @@ msgid ""
 "incorrectly labelled as being degraded."
 msgstr "一个例子是上述问题的反面，即木本杂草（或入侵植物物种）作为补救过程的一部分被清除，导致表面生产力下降。这通常会导致出现退化的迹象，尽管其目的是恢复退化的土地。在1OAO过程中，被补救的地区会被错误地标示为退化。"
 
-#: ../../SO1.md:1231
+#: ../../SO1.md:1265
 msgid ""
 "In areas where a false positive or false negative degradation outcome is "
 "identified, Parties can use the PRAIS 4 spatial data viewer to provide "
@@ -3522,9 +3674,11 @@ msgid ""
 " of the 1OAO process through Trends.Earth and import the recalculated "
 "results. Without spatial delineation of the false positive and/or "
 "negative area, there will be no material impact on the reporting data."
-msgstr "在发现假阳性或假阴性退化结果的地区，除了表SO1-4.T3的报告栏之外，缔约方还可以使用PRAIS 4空间数据查看器，提供进一步的空间细节。只有在各国确信知道这些违反直觉的过程的时间、地点和程度时，才应进行假阳性和假阴性地区的空间划定。然而，在进行空间报告时，缔约方可以选择通过Trends.Earth重新计算1OAO过程的结果，并导入重新计算的结果。如果不对假阳性和/或假阴性地区进行空间划定，将不会对报告数据产生实质性影响。"
+msgstr ""
+"在发现假阳性或假阴性退化结果的地区，除了表SO1-4.T3的报告栏之外，缔约方还可以使用PRAIS "
+"4空间数据查看器，提供进一步的空间细节。只有在各国确信知道这些违反直觉的过程的时间、地点和程度时，才应进行假阳性和假阴性地区的空间划定。然而，在进行空间报告时，缔约方可以选择通过Trends.Earth重新计算1OAO过程的结果，并导入重新计算的结果。如果不对假阳性和/或假阴性地区进行空间划定，将不会对报告数据产生实质性影响。"
 
-#: ../../SO1.md:1233
+#: ../../SO1.md:1267
 msgid ""
 "Reporting on false positive and negative extents using the PRAIS 4 "
 "platform requires filling in table SO1-4.T3. The PRAIS 4 spatial data "
@@ -3542,9 +3696,13 @@ msgid ""
 "chart should be used as a guide to understand what subindicator is "
 "driving the false positive or negative process being reported within the "
 "polygon extent provided."
-msgstr "使用PRAIS 4平台报告假阳性和假阴性范围需要填写SO1-4.T3表。PRAIS 4空间数据查看器支持用空间信息（矢量格式）来填写该表。然而，这仍然是一个可选的元素，在不提供空间数据的情况下仍然可以填写该表。除了报告假阴性或假阳性过程开始的时期外，还应报告有关地点的位置、面积范围（由PRAIS 4空间数据查看器自动填充，如果使用的话）、假阳性/假阴性结果背后的过程及其判断的依据等信息。对于那些使用PRAIS 4空间数据查看器划定范围的缔约方，可以用一个信息图表来解释每个次级指标所划定的总面积中退化或改善的百分比。该图表应被用作指南，以了解在所提供的多边形范围内，是什么次级指标导致了假阳性或假阴性过程的报告。"
+msgstr ""
+"使用PRAIS 4平台报告假阳性和假阴性范围需要填写SO1-4.T3表。PRAIS "
+"4空间数据查看器支持用空间信息（矢量格式）来填写该表。然而，这仍然是一个可选的元素，在不提供空间数据的情况下仍然可以填写该表。除了报告假阴性或假阳性过程开始的时期外，还应报告有关地点的位置、面积范围（由PRAIS"
+" 4空间数据查看器自动填充，如果使用的话）、假阳性/假阴性结果背后的过程及其判断的依据等信息。对于那些使用PRAIS "
+"4空间数据查看器划定范围的缔约方，可以用一个信息图表来解释每个次级指标所划定的总面积中退化或改善的百分比。该图表应被用作指南，以了解在所提供的多边形范围内，是什么次级指标导致了假阳性或假阴性过程的报告。"
 
-#: ../../SO1.md:1235
+#: ../../SO1.md:1269
 msgid "Step 4. Assess hotspots and brightspots"
 msgstr "第4步：评估热点和亮点"
 
@@ -3552,19 +3710,19 @@ msgstr "第4步：评估热点和亮点"
 msgid "Related areas in the PRAIS 4 platform: tables SO1-4.T4 and SO1-4.T5"
 msgstr "PRAIS 4平台中的相关区域：表SO1-4.T4和SO1-4.T5"
 
-#: ../../SO1.md:1241
+#: ../../SO1.md:1275
 msgid ""
 "UNCCD encourages Parties to signal areas experiencing the most evident "
 "and dramatic change. These are defined as:"
 msgstr "《荒漠化公约》鼓励各缔约方标出变化最明显和最剧烈的地区。这些地区被定义为："
 
-#: ../../SO1.md:1243
+#: ../../SO1.md:1277
 msgid ""
 "Hotspots: areas that are highly vulnerable to degradation in the absence "
 "of urgent remediation activities;"
 msgstr "热点地区：在没有紧急补救活动的情况下，极易出现退化的地区；"
 
-#: ../../SO1.md:1245
+#: ../../SO1.md:1279
 msgid ""
 "Brightspots: areas that do not exhibit any signs of degradation, or which"
 " have been remediated from a degraded state by implementing appropriate "
@@ -3572,7 +3730,7 @@ msgid ""
 "degradation."
 msgstr "亮点地区：没有表现出任何退化迹象的地区，或通过实施适当的补救活动或通过土地规划程序防止退化而从退化状态中得到补救的地区。"
 
-#: ../../SO1.md:1247
+#: ../../SO1.md:1281
 msgid ""
 "Knowledge about location and type of hotspots/brightspots may facilitate "
 "the development of plans of action to redress degradation, including "
@@ -3580,7 +3738,7 @@ msgid ""
 "management of land resources."
 msgstr "了解热点/亮点的位置和类型可能有助于制定行动计划，以纠正退化问题，包括通过对土地资源的保护、恢复、复原和可持续管理来纠正。"
 
-#: ../../SO1.md:1249
+#: ../../SO1.md:1283
 msgid ""
 "Hotspots and brightspots are reported in tables SO1-1.T4 and SO1-1.T5 of "
 "the PRAIS 4 platform, respectively. Parties are invited to enter relevant"
@@ -3594,13 +3752,17 @@ msgid ""
 "responses to land degradation at the landscape scale. In addition, UNCCD "
 "can use these spatial data to create improved information products to "
 "demonstrate the impact of the Convention."
-msgstr "热点和亮点地区分别在PRAIS 4平台的表SO1-1.T4和SO1-1.T5中报告。请缔约方输入相关信息，如位置、面积、采用的评估程序、决定土地状况的驱动因素/程序，以及已经采取和计划采取的补救行动。这些是空间表格，因此应在PRAIS 4空间数据查看器中提供的地理信息系统工具的支持下填写。这是一个额外的可选要素，但这种基于位置的信息可以加强可持续土地管理的空间方法，并有助于在景观尺度上整合土地退化对策。此外，《荒漠化公约》可以使用这些空间数据来创建更好的信息产品，以展示《公约》的影响。"
+msgstr ""
+"热点和亮点地区分别在PRAIS "
+"4平台的表SO1-1.T4和SO1-1.T5中报告。请缔约方输入相关信息，如位置、面积、采用的评估程序、决定土地状况的驱动因素/程序，以及已经采取和计划采取的补救行动。这些是空间表格，因此应在PRAIS"
+" "
+"4空间数据查看器中提供的地理信息系统工具的支持下填写。这是一个额外的可选要素，但这种基于位置的信息可以加强可持续土地管理的空间方法，并有助于在景观尺度上整合土地退化对策。此外，《荒漠化公约》可以使用这些空间数据来创建更好的信息产品，以展示《公约》的影响。"
 
-#: ../../SO1.md:1251
+#: ../../SO1.md:1285
 msgid "Step 5. Generate reports"
 msgstr "第5步：生成报告"
 
-#: ../../SO1.md:1253
+#: ../../SO1.md:1287
 msgid ""
 "Once verified by the Parties, the estimates of land degradation data for "
 "the reporting and baseline periods should be officially submitted to "
@@ -3609,78 +3771,84 @@ msgid ""
 "values should be described in the narrative. A ‘General Comment’ field is"
 " provided at the end of the reporting form of the PRAIS 4 platform for "
 "this purpose."
-msgstr "经缔约方核实后，报告期和基线期的土地退化数据估计数应正式提交给《荒漠化公约》。特殊或异常情况以及与数据解释有关的明显问题可能会影响所报告数值的可靠性，应在叙述中加以说明。为此，PRAIS 4平台的报告表末尾提供了“一般性注释”栏。"
+msgstr ""
+"经缔约方核实后，报告期和基线期的土地退化数据估计数应正式提交给《荒漠化公约》。特殊或异常情况以及与数据解释有关的明显问题可能会影响所报告数值的可靠性，应在叙述中加以说明。为此，PRAIS"
+" 4平台的报告表末尾提供了“一般性注释”栏。"
 
-#: ../../SO1.md:1255
+#: ../../SO1.md:1289
 msgid ""
 "Information on land degradation should be reported in km2 for the entire "
 "country."
 msgstr "关于整个国家土地退化的信息应以平方公里为单位进行报告。"
 
-#: ../../SO1.md:1257
+#: ../../SO1.md:1291
 msgid ""
 "Default maps or maps generated in Trends.Earth using national data "
 "representing land degradation for the baseline/reporting period are made "
 "available in the PRAIS 4 platform. More specifically, the following maps "
 "will be available online:"
-msgstr "默认地图或在Trends.Earth中使用代表基线期/报告期的土地退化的国家数据生成的地图，可在PRAIS 4平台上获得。具体而言，下列地图将在网上提供："
+msgstr ""
+"默认地图或在Trends.Earth中使用代表基线期/报告期的土地退化的国家数据生成的地图，可在PRAIS "
+"4平台上获得。具体而言，下列地图将在网上提供："
 
-#: ../../SO1.md:1259
+#: ../../SO1.md:1293
 msgid ""
 "Proportion of land that is degraded over total land area (SDG indicator "
 "15.3.1) in the baseline period"
 msgstr "基线期内已退化土地面积占土地总面积的比例（可持续发展目标指标15.3.1）"
 
-#: ../../SO1.md:1260
+#: ../../SO1.md:1294
 msgid ""
 "Proportion of land that is degraded over total land area (SDG indicator "
 "15.3.1) in the reporting period"
 msgstr "报告期内已退化土地面积占土地总面积的比例（可持续发展目标指标15.3.1）"
 
-#: ../../SO1.md:1261
+#: ../../SO1.md:1295
 msgid "Progress towards LDN in the reporting period"
 msgstr "报告期内实现土地退化零增长的进展"
 
-#: ../../SO1.md:1262
+#: ../../SO1.md:1296
 msgid ""
 "Degradation hotspots (for countries that provide spatial data in the "
 "PRAIS 4 platform)"
 msgstr "退化热点（针对在PRAIS 4平台中提供空间数据的国家）"
 
-#: ../../SO1.md:1263
+#: ../../SO1.md:1297
 msgid ""
 "Improvement brightspots (for countries that provide spatial data in the "
 "PRAIS 4 platform)."
 msgstr "改善亮点（针对在PRAIS 4平台中提供空间数据的国家）"
 
-#: ../../SO1.md:1265
+#: ../../SO1.md:1299
 msgid "1.4.4. Dependencies"
 msgstr "1.4.4. 依赖性"
 
-#: ../../SO1.md:1267
+#: ../../SO1.md:1301
 msgid ""
 "SDG indicator 15.3.1 relies on the total land area reported in table "
 "SO1-1.T1. Modifying that number will therefore alter the indicator’s "
 "value."
 msgstr "可持续发展目标指标15.3.1依赖于表SO1-1.T1中报告的土地总面积。因此，修改该数字将改变该指标的值。"
 
-#: ../../SO1.md:1269
+#: ../../SO1.md:1303
 msgid ""
 "The ‘Area’ fields of the spatial tables SO1-4.T3,  SO1-4.T4 and SO1-4.T5 "
 "have a dependency on spatial data created by countries using the PRAIS 4 "
 "spatial data viewer. However, they can also be filled in manually without"
 " providing supporting spatial data."
-msgstr "空间表SO1-4.T3、SO1-4.T4和SO1-4.T5的“面积”栏依赖于各国使用PRAIS 4空间数据查看器创建的空间数据。然而，也可以在未提供支持性空间数据的情况下手动填写。"
+msgstr ""
+"空间表SO1-4.T3、SO1-4.T4和SO1-4.T5的“面积”栏依赖于各国使用PRAIS "
+"4空间数据查看器创建的空间数据。然而，也可以在未提供支持性空间数据的情况下手动填写。"
 
-#: ../../SO1.md:1271
+#: ../../SO1.md:1305
 msgid "1.4.5. Summary (main actions)"
 msgstr "1.4.5. 总结（主要行动）"
 
-#: ../../SO1.md:1273
+#: ../../SO1.md:1307
 msgid "Key actions for reporting on the SDG indicator 15.3.1 are as follows:"
 msgstr "报告可持续发展目标指标15.3.1时需采取的主要行动如下："
 
-#: ../../SO1.md:1275
+#: ../../SO1.md:1309
 msgid ""
 "**Calculate the proportion of land that is degraded over total land area "
 "(SDG indicator 15.3.1)**: Using the 1OAO approach to combine the three "
@@ -3690,9 +3858,11 @@ msgid ""
 "subindicators are considered to indicate new degradation; and (ii) areas "
 "of land that have persisted in a degraded state since the baseline period"
 " (i.e. have not improved to a non-degraded state)."
-msgstr "**计算已退化土地面积占土地总面积的比例（可持续发展目标指标15.3.1）**：使用1OAO方法将三个次级指标结合起来，计算基线期和报告期的退化范围。报告期内退化范围的计算方法是将 (i)次级指标的变化被认为表明新的退化的土地面积；以及(ii)自基线期以来一直处于退化状态的土地面积（即没有改善到非退化状态）相加。"
+msgstr ""
+"**计算已退化土地面积占土地总面积的比例（可持续发展目标指标15.3.1）**：使用1OAO方法将三个次级指标结合起来，计算基线期和报告期的退化范围。报告期内退化范围的计算方法是将"
+" (i)次级指标的变化被认为表明新的退化的土地面积；以及(ii)自基线期以来一直处于退化状态的土地面积（即没有改善到非退化状态）相加。"
 
-#: ../../SO1.md:1277
+#: ../../SO1.md:1311
 msgid ""
 "**Estimate progress towards LDN**: Calculate the difference between the "
 "extent of degraded land (losses) and the extent of improved land (gains) "
@@ -3700,7 +3870,7 @@ msgid ""
 "neutrality or a net loss."
 msgstr "**估计实现土地退化零增长的进展情况**：计算报告期内退化土地的范围（损失）和改善土地的范围（收益）之间的差异，以确定是否出现了净收益、中立或净损失。"
 
-#: ../../SO1.md:1279
+#: ../../SO1.md:1313
 msgid ""
 "**Identify false positive and false negative processes** and provide the "
 "relevant justification to support their assessment. Where countries are "
@@ -3708,36 +3878,45 @@ msgid ""
 "recalculating the 1OAO process for SDG indicator 15.3.1 with the "
 "identified areas accounted for, they should use the PRAIS 4 spatial data "
 "viewer to do so (table SO1-4.T3)."
-msgstr "**确定假阳性和假阴性过程**，并提供相关理由来支持其评估。如果各国有信心报告这些过程的位置和范围，并在考虑到已确定的地区的情况下重新计算可持续发展目标指标15.3.1的1OAO过程，它们应使用PRAIS 4空间数据查看器来这样做（表SO1-4.T3）。"
+msgstr ""
+"**确定假阳性和假阴性过程**，并提供相关理由来支持其评估。如果各国有信心报告这些过程的位置和范围，并在考虑到已确定的地区的情况下重新计算可持续发展目标指标15.3.1的1OAO过程，它们应使用PRAIS"
+" 4空间数据查看器来这样做（表SO1-4.T3）。"
 
-#: ../../SO1.md:1281
+#: ../../SO1.md:1315
 msgid ""
 "**Assess hotspots of land degradation and brightspots of land "
 "improvement**, indicating their locations, extents, and actions taken "
 "and/or planned to manage them and ensure the sustainable development of "
 "the areas (tables SO1-4.T4 and SO1-4.T5). Countries are encouraged to "
 "report on hotspots and brightspots using the PRAIS 4 spatial data viewer."
-msgstr "**评估土地退化的热点和土地改善的亮点**，说明其位置、范围，以及为管理这些热点和亮点地区以及确保这些地区的可持续发展而采取和/或计划采取的行动（表SO1-4.T4和SO1-4.T5）。我们鼓励各国使用PRAIS 4空间数据查看器报告热点和亮点。"
+msgstr ""
+"**评估土地退化的热点和土地改善的亮点**，说明其位置、范围，以及为管理这些热点和亮点地区以及确保这些地区的可持续发展而采取和/或计划采取的行动（表SO1-4.T4和SO1-4.T5）。我们鼓励各国使用PRAIS"
+" 4空间数据查看器报告热点和亮点。"
 
-#: ../../SO1.md:1283
+#: ../../SO1.md:1317
 msgid "1.4.6. Further reading"
 msgstr "1.4.6. 延伸阅读"
 
-#: ../../SO1.md:1285
+#: ../../SO1.md:1319
 msgid ""
 "Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that "
 "is degraded over total land area (version 2). Chapter 2: SDG Indicator "
 "15.3.1: Proportion of land that is degraded over total land area "
 "(<https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land>)."
-msgstr "可持续发展目标指标15.3.1的良好做法指南：已退化土地面积占土地总面积的比例（第1版）。第2章：可持续发展目标指标15.3.1：已退化土地面积占土地总面积的比例（<https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land>）。"
+msgstr ""
+"可持续发展目标指标15.3.1的良好做法指南：已退化土地面积占土地总面积的比例（第1版）。第2章：可持续发展目标指标15.3.1：已退化土地面积占土地总面积的比例（<https://www.unccd.int/publications"
+"/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-"
+"total-land>）。"
 
-#: ../../SO1.md:1286
+#: ../../SO1.md:1320
 msgid ""
 "Scientific Conceptual Framework for Land Degradation Neutrality "
 "(<https://knowledge.unccd.int/publication/ldn-scientific-conceptual-"
 "framework-land-degradation-neutrality-report-science-policy>)."
-msgstr "土地退化零增长的科学概念框架(<https://knowledge.unccd.int/publication/ldn-scientific-conceptual-framework-land-degradation-neutrality-report-science-policy>)。"
+msgstr ""
+"土地退化零增长的科学概念框架(<https://knowledge.unccd.int/publication/ldn-scientific-"
+"conceptual-framework-land-degradation-neutrality-report-science-policy>)。"
 
 #: ../../SO1.md:85
 msgid ""
@@ -3765,20 +3944,21 @@ msgid ""
 " index value (NPPmax)."
 msgstr "为避免因存在异常值而可能高估最大值，建议使用土地单位内生产力值的第90个百分位数作为实际最大植被指数值（NPPmax）。"
 
-#: ../../SO1.md:954
+#: ../../SO1.md:988
 msgid ""
 "2006 IPCC Guidelines for National Greenhouse Gas Inventories and its 2019"
 " Refinement, as well as the 2013 Supplement to the 2006 IPCC Guidelines "
 "for National Greenhouse Gas Inventories: Wetlands."
 msgstr "《2006年气专委国家温室气体清单指南》及其2019年修订版，以及《2006年气专委国家温室气体清单指南2013年增编：湿地》。"
 
-#: ../../SO1.md:976
+#: ../../SO1.md:1010
 msgid ""
 "For more information see: ‘Default data: methods and interpretation. A "
 "guidance document for 2018 UNCCD reporting’ available at: "
 "<https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf>.\")."
 msgstr "有关更多信息，请参见“默认数据：方法和解释。2018年《荒漠化公约》报告指导文件”，可在以下网址查阅：<https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf>）。"
 
-#: ../../SO1.md:1161
+#: ../../SO1.md:1195
 msgid "Article 1 of the United Nations Convention to Combat Desertification."
 msgstr "《联合国防治荒漠化公约》第1条。"
+
