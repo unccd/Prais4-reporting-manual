@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-04 19:41+0200\n"
+"POT-Creation-Date: 2022-01-22 17:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,13 +22,18 @@ msgid ""
 "3. Strategic objective 3: To mitigate, adapt to, and manage the effects "
 "of drought in order to enhance resilience of vulnerable populations and "
 "ecosystems"
-msgstr "3. Objetivo estratégico 3: mitigar, gestionar y adaptarse a los efectos de la sequía a fin de aumentar la resiliencia de los ecosistemas y las poblaciones vulnerables."
+msgstr ""
+"3. Objetivo estratégico 3: mitigar, gestionar y adaptarse a los efectos "
+"de la sequía a fin de aumentar la resiliencia de los ecosistemas y las "
+"poblaciones vulnerables."
 
 #: ../../SO3.md:3
 msgid ""
 "3.1. SO 3-1 – Trends in the proportion of land under drought over the "
 "total land area"
-msgstr "3.1. OE 3-1 - Tendencias en la proporción de tierras afectadas por la sequía con respecto al total de la superficie terrestre"
+msgstr ""
+"3.1. OE 3-1 - Tendencias en la proporción de tierras afectadas por la "
+"sequía con respecto al total de la superficie terrestre"
 
 #: ../../SO3.md:5
 msgid "3.1.1. Introduction"
@@ -43,14 +48,25 @@ msgid ""
 "precipitation has been significantly below normal recorded levels, "
 "causing serious hydrological imbalances that adversely affect land "
 "resource production systems[^1]."
-msgstr "La sequía se define como un período de tiempo seco lo suficientemente prolongado como para causar un desequilibrio hidrológico grave (Organización Meteorológica Mundial [OMM], 1992). Asimismo, la Convención de las Naciones Unidas de Lucha contra la Desertificación (CLD) define la sequía como el fenómeno que se produce naturalmente cuando las lluvias han sido considerablemente inferiores a los niveles normales registrados, causando un agudo desequilibrio hídrico que perjudica los sistemas de producción de recursos de tierras[^1]."
+msgstr ""
+"La sequía se define como un período de tiempo seco lo suficientemente "
+"prolongado como para causar un desequilibrio hidrológico grave "
+"(Organización Meteorológica Mundial [OMM], 1992). Asimismo, la Convención"
+" de las Naciones Unidas de Lucha contra la Desertificación (CLD) define "
+"la sequía como el fenómeno que se produce naturalmente cuando las lluvias"
+" han sido considerablemente inferiores a los niveles normales "
+"registrados, causando un agudo desequilibrio hídrico que perjudica los "
+"sistemas de producción de recursos de tierras[^1]."
 
 #: ../../SO3.md:11
 msgid ""
 "Indicator SO 3-1 specifically describes the status of meteorological "
 "drought hazards that occurred during the baseline and reporting periods "
 "within a country."
-msgstr "El indicador OE 3-1 describe específicamente cuál es la situación con respecto a los riesgos de sequía meteorológica que han tenido lugar en un país durante los períodos de referencia y de presentación de informes."
+msgstr ""
+"El indicador OE 3-1 describe específicamente cuál es la situación con "
+"respecto a los riesgos de sequía meteorológica que han tenido lugar en un"
+" país durante los períodos de referencia y de presentación de informes."
 
 #: ../../SO3.md:13
 msgid ""
@@ -68,7 +84,27 @@ msgid ""
 " 3-1. For other indices currently in use, Parties may need to ensure "
 "statistical consistency with the SPI drought intensity classes described "
 "in table 19[^2]."
-msgstr "Existen diversos índices de sequía que pueden emplearse para estimar el riesgo de sequía nacional. La metodología de la CLD para estimar el indicador OE 3-1 recomienda utilizar un índice de sequía mundialmente aceptado, el índice normalizado de precipitación, para describir el riesgo de sequía meteorológica. No obstante, las Partes pueden emplear otros índices para presentar informes, en caso de que ya se estén utilizando a nivel nacional. Por ejemplo, el índice normalizado de precipitación y evapotranspiración puede constituir un índice alternativo, fácilmente comparable con el índice normalizado de precipitación, que proporciona señales de sequía más fiables en las zonas áridas. Las Partes que utilicen el índice normalizado de precipitación y evapotranspiración pueden aplicar los mismos métodos recomendados en el presente manual y en Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3 (Guía de buenas prácticas para la presentación de informes nacionales sobre el objetivo estratégico 3 de la CLD) para presentar informes relativos al indicador OE 3-1. En el caso de otros índices actualmente en uso, las Partes deberán asegurarse de que exista coherencia estadística con respecto a las clases de intensidad de sequía del índice normalizado de precipitación que figuran en la tabla 19[^2]."
+msgstr ""
+"Existen diversos índices de sequía que pueden emplearse para estimar el "
+"riesgo de sequía nacional. La metodología de la CLD para estimar el "
+"indicador OE 3-1 recomienda utilizar un índice de sequía mundialmente "
+"aceptado, el índice normalizado de precipitación, para describir el "
+"riesgo de sequía meteorológica. No obstante, las Partes pueden emplear "
+"otros índices para presentar informes, en caso de que ya se estén "
+"utilizando a nivel nacional. Por ejemplo, el índice normalizado de "
+"precipitación y evapotranspiración puede constituir un índice "
+"alternativo, fácilmente comparable con el índice normalizado de "
+"precipitación, que proporciona señales de sequía más fiables en las zonas"
+" áridas. Las Partes que utilicen el índice normalizado de precipitación y"
+" evapotranspiración pueden aplicar los mismos métodos recomendados en el "
+"presente manual y en Good Practice Guidance for National Reporting on "
+"UNCCD Strategic Objective 3 (Guía de buenas prácticas para la "
+"presentación de informes nacionales sobre el objetivo estratégico 3 de la"
+" CLD) para presentar informes relativos al indicador OE 3-1. En el caso "
+"de otros índices actualmente en uso, las Partes deberán asegurarse de que"
+" exista coherencia estadística con respecto a las clases de intensidad de"
+" sequía del índice normalizado de precipitación que figuran en la tabla "
+"19[^2]."
 
 #: ../../SO3.md:17
 msgid ""
@@ -77,7 +113,14 @@ msgid ""
 "mitigation efforts in conjunction with assessments of drought exposure "
 "(SO 3-2) and vulnerability (SO 3-3). National reporting is facilitated "
 "though the provision of default data."
-msgstr "El objetivo general es que las Partes evalúen el riesgo de sequía y determinen cuáles son las zonas expuestas a la sequía extrema, a fin de establecer un orden de prioridades con respecto a las labores de mitigación, al tiempo que se llevan a cabo evaluaciones sobre la exposición (OE 3-2) y la vulnerabilidad a la sequía (OE 3-3). La presentación de informes nacionales se facilita mediante el suministro de datos por defecto."
+msgstr ""
+"El objetivo general es que las Partes evalúen el riesgo de sequía y "
+"determinen cuáles son las zonas expuestas a la sequía extrema, a fin de "
+"establecer un orden de prioridades con respecto a las labores de "
+"mitigación, al tiempo que se llevan a cabo evaluaciones sobre la "
+"exposición (OE 3-2) y la vulnerabilidad a la sequía (OE 3-3). La "
+"presentación de informes nacionales se facilita mediante el suministro de"
+" datos por defecto."
 
 #: ../../SO3.md:19
 msgid "3.1.2. Prerequisites for reporting"
@@ -93,11 +136,24 @@ msgid ""
 "national-reporting-unccd-strategic-objective-3-mitigate-adapt) detailing "
 "the methodology used to estimate drought hazards and the changes over "
 "time."
-msgstr "Una lectura exhaustiva del capítulo 1 de [Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3: To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems]. (https://www.unccd.int/publications/good-practice-guidance-national-reporting-unccd-strategic-objective-3-mitigate-adapt) (Guía de buenas prácticas para la presentación de informes nacionales sobre el objetivo estratégico 3 de la CLD: mitigar, gestionar y adaptarse a los efectos de la sequía a fin de aumentar la resiliencia de los ecosistemas y las poblaciones vulnerables), donde se detalla la metodología empleada para estimar los riesgos de sequía y los cambios a lo largo del tiempo."
+msgstr ""
+"Una lectura exhaustiva del capítulo 1 de [Good Practice Guidance for "
+"National Reporting on UNCCD Strategic Objective 3: To mitigate, adapt to,"
+" and manage the effects of drought in order to enhance resilience of "
+"vulnerable populations and ecosystems]. "
+"(https://www.unccd.int/publications/good-practice-guidance-national-"
+"reporting-unccd-strategic-objective-3-mitigate-adapt) (Guía de buenas "
+"prácticas para la presentación de informes nacionales sobre el objetivo "
+"estratégico 3 de la CLD: mitigar, gestionar y adaptarse a los efectos de "
+"la sequía a fin de aumentar la resiliencia de los ecosistemas y las "
+"poblaciones vulnerables), donde se detalla la metodología empleada para "
+"estimar los riesgos de sequía y los cambios a lo largo del tiempo."
 
 #: ../../SO3.md:23
 msgid "Data complying with the specifications listed in figure 1 and table 18."
-msgstr "Datos que cumplan las especificaciones indicadas en la figura 1 y en la tabla 18."
+msgstr ""
+"Datos que cumplan las especificaciones indicadas en la figura 1 y en la "
+"tabla 18."
 
 #: ../../SO3.md:25
 msgid ""
@@ -110,17 +166,33 @@ msgid ""
 "environment, ministry of agriculture, remote sensing centre and national "
 "statistical office, as well as relevant universities and research "
 "centres."
-msgstr "Un grupo de expertos nacionales designado oficialmente por las autoridades nacionales con el objetivo de verificar la coherencia de los resultados del proceso de presentación de informes con respecto a la situación sobre el terreno, o de desarrollar y aplicar una metodología personalizada para estimar el indicador OE 3-1, en aquellos casos en los que se prefieran los datos nacionales a los datos por defecto. Entre las instituciones clave se podrían incluir el Servicio Meteorológico e Hidrológico Nacional (SMHN) del país, el ministerio de medioambiente, el ministerio de agricultura, el centro de teleobservación y la oficina nacional de estadística, así como las universidades y los centros de investigación pertinentes. "
+msgstr ""
+"Un grupo de expertos nacionales designado oficialmente por las "
+"autoridades nacionales con el objetivo de verificar la coherencia de los "
+"resultados del proceso de presentación de informes con respecto a la "
+"situación sobre el terreno, o de desarrollar y aplicar una metodología "
+"personalizada para estimar el indicador OE 3-1, en aquellos casos en los "
+"que se prefieran los datos nacionales a los datos por defecto. Entre las "
+"instituciones clave se podrían incluir el Servicio Meteorológico e "
+"Hidrológico Nacional (SMHN) del país, el ministerio de medioambiente, el "
+"ministerio de agricultura, el centro de teleobservación y la oficina "
+"nacional de estadística, así como las universidades y los centros de "
+"investigación pertinentes. "
 
 #: ../../SO3.md:27
 msgid "3.1.3. Reporting process and step-by-step procedure"
-msgstr "3.1.3. Proceso de presentación de informes e instrucciones detalladas paso por paso"
+msgstr ""
+"3.1.3. Proceso de presentación de informes e instrucciones detalladas "
+"paso por paso"
 
 #: ../../SO3.md:29
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If the default data is used, steps 2 to 5 are unnecessary."
-msgstr "A continuación se describen las instrucciones detalladas paso por paso para la presentación de informes. En caso de que se utilicen los datos por defecto, no sería necesario seguir los pasos 2 a 5."
+msgstr ""
+"A continuación se describen las instrucciones detalladas paso por paso "
+"para la presentación de informes. En caso de que se utilicen los datos "
+"por defecto, no sería necesario seguir los pasos 2 a 5."
 
 #: ../../SO3.md:31
 msgid "Step 1: Select precipitation dataset"
@@ -139,7 +211,23 @@ msgid ""
 "global’ coverage that spans 50°S to 50°N. Therefore, Parties with country"
 " boundaries exceeding this range will not be able to use the CHRIPS "
 "dataset. In contrast, the GPCC precipitation data has global coverage."
-msgstr "La CLD proporciona datos por defecto procedentes del producto de monitoreo del Centro Mundial de Climatología de las Precipitaciones (GPCC, por sus siglas en inglés), un producto de precipitación reticular derivado de datos pluviométricos. Las Partes pueden optar por emplear un conjunto de datos por defecto alternativo en Trends.Earth: Climate Hazards Group InfraRed Precipitation with Stations (CHIRPS, por sus siglas en inglés), que genera estimaciones de alta resolución basadas en observaciones por satélite y en datos generados mediante estaciones pluviométricas. A pesar de que CHIRPS proporciona una mayor resolución espacial y un período de registro ligeramente más amplio que resultan ventajosos a la hora de derivar el índice normalizado de precipitación, su cobertura es “cuasimundial” y abarca de los 50ºS a los 50ºN; lo que significa que las Partes cuyas fronteras nacionales superen este margen no podrán emplear el conjunto de datos CHIRPS. El Centro Mundial de Climatología de las Precipitaciones, sin embargo, dispone de datos de precipitación de cobertura mundial."
+msgstr ""
+"La CLD proporciona datos por defecto procedentes del producto de "
+"monitoreo del Centro Mundial de Climatología de las Precipitaciones "
+"(GPCC, por sus siglas en inglés), un producto de precipitación reticular "
+"derivado de datos pluviométricos. Las Partes pueden optar por emplear un "
+"conjunto de datos por defecto alternativo en Trends.Earth: Climate "
+"Hazards Group InfraRed Precipitation with Stations (CHIRPS, por sus "
+"siglas en inglés), que genera estimaciones de alta resolución basadas en "
+"observaciones por satélite y en datos generados mediante estaciones "
+"pluviométricas. A pesar de que CHIRPS proporciona una mayor resolución "
+"espacial y un período de registro ligeramente más amplio que resultan "
+"ventajosos a la hora de derivar el índice normalizado de precipitación, "
+"su cobertura es “cuasimundial” y abarca de los 50ºS a los 50ºN; lo que "
+"significa que las Partes cuyas fronteras nacionales superen este margen "
+"no podrán emplear el conjunto de datos CHIRPS. El Centro Mundial de "
+"Climatología de las Precipitaciones, sin embargo, dispone de datos de "
+"precipitación de cobertura mundial."
 
 #: ../../SO3.md:35
 msgid ""
@@ -148,27 +236,42 @@ msgid ""
 "figure 1 to assess whether the in-country (or regional) precipitation "
 "data is more appropriate to derive indicator SO 3-1 over the globally "
 "available datasets."
-msgstr "Aquellas Partes que deseen emplear datos nacionales proporcionados por el SMHN o productos de precipitación regionales, en lugar de mundiales, pueden seguir el árbol de decisión de la figura 1 para evaluar si los datos de precipitación nacionales (o regionales) son más apropiados para derivar el indicador OE 3-1, en comparación con los conjuntos de datos mundiales disponibles."
+msgstr ""
+"Aquellas Partes que deseen emplear datos nacionales proporcionados por el"
+" SMHN o productos de precipitación regionales, en lugar de mundiales, "
+"pueden seguir el árbol de decisión de la figura 1 para evaluar si los "
+"datos de precipitación nacionales (o regionales) son más apropiados para "
+"derivar el indicador OE 3-1, en comparación con los conjuntos de datos "
+"mundiales disponibles."
 
 #: ../../SO3.md:37
 msgid ""
-"_Figure 1. Decision tree to help Parties chose the best precipitation data source to derive indicator SO 3-1_"
-msgstr "_Figura 1. Árbol de decisión para ayudar a las Partes a elegir la mejor fuente de datos de precipitación a la hora de derivar el indicador OE 3-1_"
+"_Figure 1. Decision tree to help Parties chose the best precipitation "
+"data source to derive indicator SO 3-1_"
+msgstr ""
+"_Figura 1. Árbol de decisión para ayudar a las Partes a elegir la mejor "
+"fuente de datos de precipitación a la hora de derivar el indicador OE "
+"3-1_"
 
-#: ../../SO3.md:40
+#: ../../SO3.md:67
 msgid ""
 "_GPCC: Global Precipitation Climatology Centre_{{br}} _SPI: Standardized "
 "Precipitation Index_{{br}} _CHIRPS: Climate Hazards Group InfraRed "
 "Precipitation with Stations_"
-msgstr "_GPCC: Centro Mundial de Climatología de las Precipitaciones_{{br}} _SPI: Índice Normalizado de Precipitación_{{br}} _CHIRPS: Climate Hazards Group InfraRed Precipitation with Stations_"
+msgstr ""
+"_GPCC: Centro Mundial de Climatología de las Precipitaciones_{{br}} _SPI:"
+" Índice Normalizado de Precipitación_{{br}} _CHIRPS: Climate Hazards "
+"Group InfraRed Precipitation with Stations_"
 
-#: ../../SO3.md:44
+#: ../../SO3.md:71
 msgid ""
 "This decision-making process should help Parties identify data that meets"
 " the specifications summarized in table 18."
-msgstr "Este proceso de toma de decisiones debería ayudar a las Partes a entender qué datos cumplen las especificaciones resumidas en la tabla 18."
+msgstr ""
+"Este proceso de toma de decisiones debería ayudar a las Partes a entender"
+" qué datos cumplen las especificaciones resumidas en la tabla 18."
 
-#: ../../SO3.md:51
+#: ../../SO3.md:78
 msgid "*__Table 18__. Data specifications for SO 3-1 Indicator*"
 msgstr "*__Tabla 18__. Especificaciones de los datos para el indicador OE 3-1*"
 
@@ -196,27 +299,40 @@ msgstr "__Datos de entrada__"
 msgid ""
 "(Data needed to generate drought hazard estimates based on the "
 "Standardized Precipitation Index (SPI) calculations described in Step 2)"
-msgstr "(Datos requeridos para generar estimaciones sobre el riesgo de sequía, basadas en los cálculos del Índice normalizado de precipitación descritos en el Paso 2)"
+msgstr ""
+"(Datos requeridos para generar estimaciones sobre el riesgo de sequía, "
+"basadas en los cálculos del Índice normalizado de precipitación descritos"
+" en el Paso 2)"
 
 #: ../../SO3.md:8
 msgid ""
 "Global Precipitation Climatology Centre (GPCC) monthly precipitation "
 "products,1982–present."
-msgstr "Productos de precipitación mensual del Centro Mundial de Climatología de las Precipitaciones (GPCC), desde 1982 hasta la actualidad."
+msgstr ""
+"Productos de precipitación mensual del Centro Mundial de Climatología de "
+"las Precipitaciones (GPCC), desde 1982 hasta la actualidad."
 
 #: ../../SO3.md:9
 msgid ""
 "Gridded products of monthly precipitation derived from national gauge "
 "networks. The dataset should ideally have a continuous record of at least"
 " 30 years, covering the period 1981–2010."
-msgstr "Productos reticulares de precipitación mensual derivados de redes pluviométricas nacionales. Lo más recomendable es que el conjunto de datos cuente con un registro continuo, de al menos 30 años, que abarque el período de 1981 a 2010."
+msgstr ""
+"Productos reticulares de precipitación mensual derivados de redes "
+"pluviométricas nacionales. Lo más recomendable es que el conjunto de "
+"datos cuente con un registro continuo, de al menos 30 años, que abarque "
+"el período de 1981 a 2010."
 
 #: ../../SO3.md:11
 msgid ""
 "For countries in the 50°S to 50°N range: Climate Hazards Group InfraRed "
 "Precipitation with Stations (CHIRPS) monthly precipitation products, "
 "1981–present, can be accessed in Trends.Earth{sup}`*`."
-msgstr "Para los países situados entre los 50ºS y los 50ºN: los productos de precipitación mensual de Climate Hazards Group InfraRed Precipitation with Stations (CHIRPS), desde 1981 hasta la actualidad, están disponibles en Trends.Earth{sup}`*`."
+msgstr ""
+"Para los países situados entre los 50ºS y los 50ºN: los productos de "
+"precipitación mensual de Climate Hazards Group InfraRed Precipitation "
+"with Stations (CHIRPS), desde 1981 hasta la actualidad, están disponibles"
+" en Trends.Earth{sup}`*`."
 
 #: ../../SO3.md:12 ../../SO3.md:14
 msgid "__Output data__"
@@ -226,19 +342,27 @@ msgstr "__Datos de salida__"
 msgid ""
 "(Intermediate and final gridded products resulting from the analysis "
 "described in Steps 2 to 4)"
-msgstr "(Productos reticulares intermedios y finales que resulten del análisis descrito en los pasos 2 a 4)"
+msgstr ""
+"(Productos reticulares intermedios y finales que resulten del análisis "
+"descrito en los pasos 2 a 4)"
 
 #: ../../SO3.md:15 ../../SO3.md:20
 msgid ""
 "Annual December SPI-12 grids classified into four SPI drought intensity "
 "classes for the baseline and reporting periods{sup}`*`."
-msgstr "Cuadrículas anuales de December SPI-12 clasificadas según las cuatro clases de intensidad de sequía del índice normalizado de precipitación, de los períodos de referencia y de presentación de informes{sup}`*`."
+msgstr ""
+"Cuadrículas anuales de December SPI-12 clasificadas según las cuatro "
+"clases de intensidad de sequía del índice normalizado de precipitación, "
+"de los períodos de referencia y de presentación de informes{sup}`*`."
 
 #: ../../SO3.md:17 ../../SO3.md:22
 msgid ""
 "Total land area for each drought intensity class as well as proportion of"
 " total land area under drought."
-msgstr "Superficie terrestre total de cada una de las clases de intensidad de sequía y proporción de la superficie terrestre total afectada por la sequía."
+msgstr ""
+"Superficie terrestre total de cada una de las clases de intensidad de "
+"sequía y proporción de la superficie terrestre total afectada por la "
+"sequía."
 
 #: ../../SO3.md:19 ../../SO3.md:21 ../../SO3.md:24 ../../SO3.md:26
 msgid "Gridded spatial summary in four-year epochs."
@@ -250,7 +374,9 @@ msgstr "__Clasificación__"
 
 #: ../../SO3.md:26 ../../SO3.md:27
 msgid "Four SPI drought intensity classes as per table 19."
-msgstr "Cuatro clases de intensidad de sequía del índice normalizado de precipitación, tal y como indica la tabla 19."
+msgstr ""
+"Cuatro clases de intensidad de sequía del índice normalizado de "
+"precipitación, tal y como indica la tabla 19."
 
 #: ../../SO3.md:20 ../../SO3.md:27 ../../SO3.md:28
 msgid "__Spatial resolution__"
@@ -258,13 +384,17 @@ msgstr "__Resolución espacial__"
 
 #: ../../SO3.md:29
 msgid "GPCC: 1.0° x 1.0° (~111 km)"
-msgstr "Centro Mundial de Climatología de las Precipitaciones: 1,0° x 1,0° (~111 km)"
+msgstr ""
+"Centro Mundial de Climatología de las Precipitaciones: 1,0° x 1,0° (~111 "
+"km)"
 
 #: ../../SO3.md:30
 msgid ""
 "CHIRPS: 0.05° x 0.05° (~5.55 km) or otherwise assessed by national "
 "authorities based on available data"
-msgstr "CHIRPS: 0,05° x 0,05° (~5,55 km) o según la evaluación llevada a cabo por las autoridades nacionales con base en los datos disponibles"
+msgstr ""
+"CHIRPS: 0,05° x 0,05° (~5,55 km) o según la evaluación llevada a cabo por"
+" las autoridades nacionales con base en los datos disponibles"
 
 #: ../../SO3.md:23 ../../SO3.md:30 ../../SO3.md:31
 msgid "__Quality__"
@@ -279,7 +409,11 @@ msgid ""
 "Data should be continuous where possible; where data completeness is less"
 " than 85%, Parties may consider filling data gaps in accordance with "
 "guidance from the World Meteorological Organization."
-msgstr "Los datos deben ser continuos siempre que sea posible; cuando la exhaustividad de los datos sea inferior al 85%, las Partes podrán considerar la posibilidad de completar los datos que falten siguiendo las indicaciones de la Organización Meteorológica Mundial."
+msgstr ""
+"Los datos deben ser continuos siempre que sea posible; cuando la "
+"exhaustividad de los datos sea inferior al 85%, las Partes podrán "
+"considerar la posibilidad de completar los datos que falten siguiendo las"
+" indicaciones de la Organización Meteorológica Mundial."
 
 #: ../../SO3.md:26 ../../SO3.md:33 ../../SO3.md:34
 msgid "__Metadata__"
@@ -287,24 +421,32 @@ msgstr "__Metadatos__"
 
 #: ../../SO3.md:27 ../../SO3.md:34 ../../SO3.md:35
 msgid "Metadata information is provided with default data."
-msgstr "La información sobre los metadatos se proporciona con los datos por defecto."
+msgstr ""
+"La información sobre los metadatos se proporciona con los datos por "
+"defecto."
 
 #: ../../SO3.md:28 ../../SO3.md:35 ../../SO3.md:36
 msgid "Minimum metadata content as per the mandatory fields listed in Annex II."
-msgstr "El contenido mínimo de los metadatos, según los campos obligatorios, figura en el anexo II."
+msgstr ""
+"El contenido mínimo de los metadatos, según los campos obligatorios, "
+"figura en el anexo II."
 
-#: ../../SO3.md:94
+#: ../../SO3.md:121
 msgid ""
 "{sup}`*` _As stated in Step 3, the December SPI-12 values represent the "
 "precipitation deficits (or excesses) over the Gregorian "
 "(January–December) calendar year._"
-msgstr "{sup}`*` _Tal y como se describe en el paso 3, los valores de December SPI-12 representan los déficits (o los excesos) de precipitación a lo largo de un año natural, según el calendario gregoriano (de enero a diciembre)._"
+msgstr ""
+"{sup}`*` _Tal y como se describe en el paso 3, los valores de December "
+"SPI-12 representan los déficits (o los excesos) de precipitación a lo "
+"largo de un año natural, según el calendario gregoriano (de enero a "
+"diciembre)._"
 
-#: ../../SO3.md:96
+#: ../../SO3.md:123
 msgid "Step 2:  Calculate the Standardized Precipitation Index"
 msgstr "Paso 2: calcular el índice normalizado de precipitación"
 
-#: ../../SO3.md:98
+#: ../../SO3.md:125
 msgid ""
 "Monthly time series of the SPI are based on the selected gridded "
 "precipitation data and calculated using the SPI-12 method, which provides"
@@ -312,9 +454,16 @@ msgid ""
 "12-month accumulation method. For example, the 12-month precipitation "
 "accumulation for April 2019 is the total monthly precipitation for May "
 "2018 to April 2019."
-msgstr "Las series cronológicas mensuales del índice normalizado de precipitación (SPI, por sus siglas en inglés) se basan en los datos de precipitación reticulares seleccionados y se calculan utilizando el método SPI-12, el cual proporciona un resumen anual de los déficits de precipitación de cada mes, mediante un método de acumulación de 12 meses. Por ejemplo, la acumulación de precipitación de 12 meses correspondiente a abril de 2019 es la precipitación mensual total desde mayo de 2018 hasta abril de 2019."
+msgstr ""
+"Las series cronológicas mensuales del índice normalizado de precipitación"
+" (SPI, por sus siglas en inglés) se basan en los datos de precipitación "
+"reticulares seleccionados y se calculan utilizando el método SPI-12, el "
+"cual proporciona un resumen anual de los déficits de precipitación de "
+"cada mes, mediante un método de acumulación de 12 meses. Por ejemplo, la "
+"acumulación de precipitación de 12 meses correspondiente a abril de 2019 "
+"es la precipitación mensual total desde mayo de 2018 hasta abril de 2019."
 
-#: ../../SO3.md:100
+#: ../../SO3.md:127
 msgid ""
 "In order to normalize the 12-month precipitation accumulation data "
 "distributions, the WMO climatological standard normal period of 1981–2010"
@@ -329,47 +478,87 @@ msgid ""
 "historic reporting periods. As such, it is recommended that the reference"
 " period used to calculate the SPI be clearly stated in national reports "
 "of indicator SO 3-1 to the UNCCD."
-msgstr "Para normalizar la distribución de los datos de acumulación de precipitación de 12 meses, se emplea como período de referencia el correspondiente a la normal climatológica estándar de la OMM, que abarca desde 1981 hasta 2010. El método de normalización se basa en una función de distribución de probabilidad Gamma ajustada a las acumulaciones de precipitación de 12 meses en dicho período de referencia. Una vez calculados, estos parámetros de distribución de probabilidad se aplican a cualquier serie cronológica de acumulaciones de precipitación mensual de 12 meses, para obtener la serie cronológica SPI-12 mensual normalizada de cada una de las celdas de la cuadrícula del período de registro completo. No obstante, un cambio en el período de la normal climatológica estándar exigiría recalcular el índice normalizado de precipitación de los períodos de referencia y de todos períodos de presentación de informes anteriores. Por ello, se recomienda indicar claramente cuál es el período de referencia que se ha utilizado para calcular el índice normalizado de precipitación en los informes nacionales relativos al indicador OE 3-1 que se presenten a la CLD."
+msgstr ""
+"Para normalizar la distribución de los datos de acumulación de "
+"precipitación de 12 meses, se emplea como período de referencia el "
+"correspondiente a la normal climatológica estándar de la OMM, que abarca "
+"desde 1981 hasta 2010. El método de normalización se basa en una función "
+"de distribución de probabilidad Gamma ajustada a las acumulaciones de "
+"precipitación de 12 meses en dicho período de referencia. Una vez "
+"calculados, estos parámetros de distribución de probabilidad se aplican a"
+" cualquier serie cronológica de acumulaciones de precipitación mensual de"
+" 12 meses, para obtener la serie cronológica SPI-12 mensual normalizada "
+"de cada una de las celdas de la cuadrícula del período de registro "
+"completo. No obstante, un cambio en el período de la normal climatológica"
+" estándar exigiría recalcular el índice normalizado de precipitación de "
+"los períodos de referencia y de todos períodos de presentación de "
+"informes anteriores. Por ello, se recomienda indicar claramente cuál es "
+"el período de referencia que se ha utilizado para calcular el índice "
+"normalizado de precipitación en los informes nacionales relativos al "
+"indicador OE 3-1 que se presenten a la CLD."
 
-#: ../../SO3.md:102
+#: ../../SO3.md:129
 msgid ""
 "Default SPI data is available in Trends.Earth for the purposes of SO3 "
 "monitoring. However, there are various open access tools that can be used"
 " to derive the SPI, a selection of which is listed in table 3 of the Good"
 " Practice Guidance for National Reporting on UNCCD Strategic Objective 3."
-msgstr "En Trends.Earth se encuentran disponibles los datos por defecto del índice normalizado de precipitación a efectos de seguimiento del OE3. Sin embargo, existen diferentes herramientas de libre acceso que pueden utilizarse para derivar este índice; en la tabla 3 de Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3, figura una selección de dichas herramientas."
+msgstr ""
+"En Trends.Earth se encuentran disponibles los datos por defecto del "
+"índice normalizado de precipitación a efectos de seguimiento del OE3. Sin"
+" embargo, existen diferentes herramientas de libre acceso que pueden "
+"utilizarse para derivar este índice; en la tabla 3 de Good Practice "
+"Guidance for National Reporting on UNCCD Strategic Objective 3, figura "
+"una selección de dichas herramientas."
 
-#: ../../SO3.md:104
+#: ../../SO3.md:131
 msgid ""
 "Step 3: Identify the drought intensity class of each grid cell based on "
 "the calculated Standardized Precipitation Index value"
-msgstr "Paso 3: identificar la clase de intensidad de sequía de cada celda de la cuadrícula con base en el valor calculado del índice normalizado de precipitación"
+msgstr ""
+"Paso 3: identificar la clase de intensidad de sequía de cada celda de la "
+"cuadrícula con base en el valor calculado del índice normalizado de "
+"precipitación"
 
 #: ../../SO3.md:1
 msgid "Related areas in the PRAIS 4 platform: table SO3-1.T1"
 msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO3-1.T1"
 
-#: ../../SO3.md:110
+#: ../../SO3.md:137
 msgid ""
 "To assess the SPI time series for the baseline and reporting periods, the"
 " December SPI-12 values for each year should be extracted. The December "
 "SPI-12 values represent the precipitation deficits (or excesses) over the"
 " Gregorian (January–December) calendar year."
-msgstr "Para evaluar las series cronológicas del índice normalizado de precipitación de los períodos de referencia y de presentación de informes, deben extraerse los valores December SPI-12 de cada año. Los valores December SPI-12 representan los déficits (o los excesos) de precipitación a lo largo de un año natural, según el calendario gregoriano (de enero a diciembre)."
+msgstr ""
+"Para evaluar las series cronológicas del índice normalizado de "
+"precipitación de los períodos de referencia y de presentación de "
+"informes, deben extraerse los valores December SPI-12 de cada año. Los "
+"valores December SPI-12 representan los déficits (o los excesos) de "
+"precipitación a lo largo de un año natural, según el calendario "
+"gregoriano (de enero a diciembre)."
 
-#: ../../SO3.md:112
+#: ../../SO3.md:139
 msgid ""
 "For each of the December SPI-12 grids, the number of cells belonging to "
 "each of the SPI drought intensity classes listed in table 19 should be "
 "counted. Positive SPI values are discarded, since they indicate that "
 "there was no drought in the given period."
-msgstr "Se debe contar, en cada una de las cuadrículas de December SPI-12, cuántas celdas de la cuadrícula corresponden a cada una de las clases de sequía del índice normalizado de precipitación que figuran en la tabla 19. Deben descartarse los valores positivos del índice normalizado de precipitación, pues indican que no se ha producido sequía durante el período en cuestión."
+msgstr ""
+"Se debe contar, en cada una de las cuadrículas de December SPI-12, "
+"cuántas celdas de la cuadrícula corresponden a cada una de las clases de "
+"sequía del índice normalizado de precipitación que figuran en la tabla "
+"19. Deben descartarse los valores positivos del índice normalizado de "
+"precipitación, pues indican que no se ha producido sequía durante el "
+"período en cuestión."
 
-#: ../../SO3.md:114
+#: ../../SO3.md:141
 msgid ""
 "*__Table 19__. Standardized Precipitation Index (SPI) drought intensity "
 "classes*"
-msgstr "*__Tabla 19__. Clases de intensidad de sequía del índice normalizado de precipitación*"
+msgstr ""
+"*__Tabla 19__. Clases de intensidad de sequía del índice normalizado de "
+"precipitación*"
 
 #: ../../SO3.md:1
 msgid "SPI values"
@@ -411,25 +600,33 @@ msgstr "-2 y menos"
 msgid "Extreme drought"
 msgstr "Sequía extrema"
 
-#: ../../SO3.md:130
+#: ../../SO3.md:157
 msgid ""
 "The total area under each drought intensity class should be derived in a "
 "two-step process:"
-msgstr "La superficie total afectada por cada clase de intensidad de sequía debe derivarse siguiendo un proceso de dos pasos:"
+msgstr ""
+"La superficie total afectada por cada clase de intensidad de sequía debe "
+"derivarse siguiendo un proceso de dos pasos:"
 
-#: ../../SO3.md:132
+#: ../../SO3.md:159
 msgid ""
 "(i) Project the drought intensity class grid into a suitable equal area "
 "projection (e.g., Mollweide) to obtain the cells’ area in km{sup}`2`."
-msgstr "i) Proyectar la cuadrícula de la clase de intensidad de sequía en una proyección equivalente adecuada (p. ej., Mollweide), para obtener el área de las celdas en Km{sup}`2`."
+msgstr ""
+"i) Proyectar la cuadrícula de la clase de intensidad de sequía en una "
+"proyección equivalente adecuada (p. ej., Mollweide), para obtener el área"
+" de las celdas en Km{sup}`2`."
 
-#: ../../SO3.md:134
+#: ../../SO3.md:161
 msgid ""
 "(ii) Combine all cells’ area in a given drought class to get the total "
 "area under each drought intensity class."
-msgstr "ii) Combinar el área de todas las celdas de una determinada clase de sequía para obtener la superficie total afectada por cada clase de intensidad de sequía."
+msgstr ""
+"ii) Combinar el área de todas las celdas de una determinada clase de "
+"sequía para obtener la superficie total afectada por cada clase de "
+"intensidad de sequía."
 
-#: ../../SO3.md:136
+#: ../../SO3.md:163
 msgid "Step 4:  Calculate proportion of land under drought"
 msgstr "Paso 4: calcular la proporción de tierras afectadas por la sequía"
 
@@ -437,76 +634,112 @@ msgstr "Paso 4: calcular la proporción de tierras afectadas por la sequía"
 msgid "Related areas in the PRAIS 4 platform: table SO3-1.T2"
 msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO3-1.T2"
 
-#: ../../SO3.md:142
+#: ../../SO3.md:169
 msgid ""
 "The proportion of land in each drought intensity class is calculated for "
 "each reporting year as a percentage of the total land area."
-msgstr "La proporción de tierras de cada clase de intensidad de sequía se calcula, para cada año de presentación de informes, en forma de porcentaje de la superficie terrestre total."
+msgstr ""
+"La proporción de tierras de cada clase de intensidad de sequía se "
+"calcula, para cada año de presentación de informes, en forma de "
+"porcentaje de la superficie terrestre total."
 
-#: ../../SO3.md:144
+#: ../../SO3.md:171
 msgid ""
 "For each of the SPI-12 grids in the baseline and reporting period, the "
 "number of cells falling under each of the SPI drought intensity classes "
 "is counted (cellCount). Then, for each reporting year, the percentage of "
 "the total land area in each drought intensity class is calculated. The "
 "formula is as follows:"
-msgstr "En cada una de las cuadrículas del SPI-12 del período de referencia y de presentación de informes, se lleva a cabo un recuento del número de celdas que recaen en cada una de las clases de intensidad de sequía del índice normalizado de precipitación (este cálculo se conoce como “cellCount”). Posteriormente, se calcula el porcentaje de la superficie terrestre total que corresponde a cada clase de intensidad de sequía en cada uno de los años de presentación de informes. La fórmula se indica a continuación:"
+msgstr ""
+"En cada una de las cuadrículas del SPI-12 del período de referencia y de "
+"presentación de informes, se lleva a cabo un recuento del número de "
+"celdas que recaen en cada una de las clases de intensidad de sequía del "
+"índice normalizado de precipitación (este cálculo se conoce como "
+"“cellCount”). Posteriormente, se calcula el porcentaje de la superficie "
+"terrestre total que corresponde a cada clase de intensidad de sequía en "
+"cada uno de los años de presentación de informes. La fórmula se indica a "
+"continuación:"
 
-#: ../../SO3.md:146
+#: ../../SO3.md:173
 msgid "$P_{ij} = \\frac{cellCount_{ij}}{Total\\ number\\ of\\ cells} \\times 100$"
-msgstr "$P_{ij} = \\frac{cellCount_{ij}}{Número\\ total\\ de\\ celdas} \\times 100$"
+msgstr ""
+"$P_{ij} = \\frac{cellCount_{ij}}{Número\\ total\\ de\\ celdas} \\times "
+"100$"
 
-#: ../../SO3.md:148 ../../SO3.md:487
+#: ../../SO3.md:175 ../../SO3.md:592
 msgid "Where:"
 msgstr "De modo que:"
 
-#: ../../SO3.md:150
+#: ../../SO3.md:177
 msgid ""
-"“P{sub}`ij`” is the proportion of land under the drought "
-"intensity class _i_ in the reporting year _j_"
-msgstr "“P{sub}`ij`” es la proporción de tierras afectadas por la clase de intensidad de sequía _i_ durante el año de presentación de informes _j_"
+"“P{sub}`ij`” is the proportion of land under the drought intensity class "
+"_i_ in the reporting year _j_"
+msgstr ""
+"“P{sub}`ij`” es la proporción de tierras afectadas por la clase de "
+"intensidad de sequía _i_ durante el año de presentación de informes _j_"
 
-#: ../../SO3.md:151
+#: ../../SO3.md:178
 msgid ""
 "“cellCount{sub}`ij`” is the number of pixels under the drought intensity "
 "class  _i_ in the reporting year _j_"
-msgstr "“cellCount{sub}`ij`” es el número de píxeles correspondientes a la clase de intensidad de sequía _i_ durante el año de presentación de informes _j_"
+msgstr ""
+"“cellCount{sub}`ij`” es el número de píxeles correspondientes a la clase "
+"de intensidad de sequía _i_ durante el año de presentación de informes "
+"_j_"
 
-#: ../../SO3.md:152
+#: ../../SO3.md:179
 msgid ""
 "“Total number of cells’” is all the grid cells within the country Party’s"
 " land area."
-msgstr "“Número total de celdas” es el número total de celdas de la cuadrícula dentro de la superficie terrestre de un país Parte."
+msgstr ""
+"“Número total de celdas” es el número total de celdas de la cuadrícula "
+"dentro de la superficie terrestre de un país Parte."
 
-#: ../../SO3.md:154
+#: ../../SO3.md:181
 msgid ""
 "The total area falling under each of the drought intensity classes in "
 "each year is calculated by multiplying cellCount by the area of the cells"
 " (a constant value, since the drought intensity class grid was previously"
 " converted to an equal-area projection)."
-msgstr "La superficie total que recae en cada una de las clases de intensidad de sequía, en cada año, se calcula multiplicando cellCount por el área de las celdas (que es un valor constante, dado que la cuadrícula de intensidad de sequía se ha convertido previamente en una proyección equivalente)."
+msgstr ""
+"La superficie total que recae en cada una de las clases de intensidad de "
+"sequía, en cada año, se calcula multiplicando cellCount por el área de "
+"las celdas (que es un valor constante, dado que la cuadrícula de "
+"intensidad de sequía se ha convertido previamente en una proyección "
+"equivalente)."
 
-#: ../../SO3.md:156
+#: ../../SO3.md:183
 msgid ""
 "Step 5:  Create a gridded spatial summary for the baseline and reporting "
 "periods"
-msgstr "Paso 5: elaborar un resumen espacial reticular de los períodos de referencia y de presentación de informes"
+msgstr ""
+"Paso 5: elaborar un resumen espacial reticular de los períodos de "
+"referencia y de presentación de informes"
 
-#: ../../SO3.md:158
+#: ../../SO3.md:185
 msgid ""
 "In addition to the tabular reports described above, indicator SO 1-3 "
 "should also be summarized spatially to map the most extreme conditions "
 "that occurred in the baseline and reporting periods."
-msgstr "Además de elaborar los informes tabulares anteriormente descritos, también es necesario llevar a cabo un resumen espacial del indicador OE 1-3, con el objetivo de trazar el mapa de las condiciones más extremas que tuvieron lugar en los períodos de referencia y de presentación de informes."
+msgstr ""
+"Además de elaborar los informes tabulares anteriormente descritos, "
+"también es necesario llevar a cabo un resumen espacial del indicador OE "
+"1-3, con el objetivo de trazar el mapa de las condiciones más extremas "
+"que tuvieron lugar en los períodos de referencia y de presentación de "
+"informes."
 
-#: ../../SO3.md:160
+#: ../../SO3.md:187
 msgid ""
 "To summarize the reporting period spatially, the most extreme drought "
 "intensity class should be identified for each grid cell for each "
 "reporting year within the reporting period."
-msgstr "Para llevar a cabo el resumen espacial del período de presentación de informes, se debe determinar la clase de intensidad de sequía más extrema de cada celda de la cuadrícula, de cada uno de los años del período de presentación de informes."
+msgstr ""
+"Para llevar a cabo el resumen espacial del período de presentación de "
+"informes, se debe determinar la clase de intensidad de sequía más extrema"
+" de cada celda de la cuadrícula, de cada uno de los años del período de "
+"presentación de informes."
 
-#: ../../SO3.md:162
+#: ../../SO3.md:189
 msgid ""
 "Data for the baseline period should be summarized spatially using the "
 "gridded SPI-12 data in four-year intervals (2000–2003, 2004–2007, "
@@ -514,61 +747,90 @@ msgid ""
 "monitoring. In this case, the most extreme drought intensity class should"
 " be reported for each grid cell for each four-year period within the "
 "baseline."
-msgstr "Los datos del período de referencia deben resumirse espacialmente utilizando los datos reticulares SPI-12 en intervalos cuatrienales (2000-2003, 2004-2007, 2008-2011 y 2012-2015) que corresponden a los períodos de presentación de informes empleados para llevar a cabo el seguimiento del OE3. En este caso, debe indicarse la clase de intensidad de sequía más extrema de cada celda de la cuadrícula, de cada uno de los períodos cuatrienales de la referencia."
+msgstr ""
+"Los datos del período de referencia deben resumirse espacialmente "
+"utilizando los datos reticulares SPI-12 en intervalos cuatrienales "
+"(2000-2003, 2004-2007, 2008-2011 y 2012-2015) que corresponden a los "
+"períodos de presentación de informes empleados para llevar a cabo el "
+"seguimiento del OE3. En este caso, debe indicarse la clase de intensidad "
+"de sequía más extrema de cada celda de la cuadrícula, de cada uno de los "
+"períodos cuatrienales de la referencia."
 
-#: ../../SO3.md:164
+#: ../../SO3.md:191
 msgid "Step 6: Verify the results"
 msgstr "Paso 6: verificar los resultados"
 
-#: ../../SO3.md:166
+#: ../../SO3.md:193
 msgid ""
 "Parties should be aware of the limitations related to the use of SPI as a"
 " single drought indicator and critically review the default data "
 "vis-à-vis the national rain gauge data and other meteorological sources "
 "before submitting the reports to the UNCCD."
-msgstr "Las Partes deben ser conscientes de las limitaciones que conlleva el uso del índice normalizado de precipitación como único indicador de la sequía y revisar exhaustivamente los datos por defecto en relación con los datos pluviométricos nacionales y otras fuentes meteorológicas, antes de presentar los informes a la CLD."
+msgstr ""
+"Las Partes deben ser conscientes de las limitaciones que conlleva el uso "
+"del índice normalizado de precipitación como único indicador de la sequía"
+" y revisar exhaustivamente los datos por defecto en relación con los "
+"datos pluviométricos nacionales y otras fuentes meteorológicas, antes de "
+"presentar los informes a la CLD."
 
-#: ../../SO3.md:168
+#: ../../SO3.md:195
 msgid "Step 7: Generate reports"
 msgstr "Paso 7: generar informes"
 
-#: ../../SO3.md:170
+#: ../../SO3.md:197
 msgid ""
 "Once verified by the Parties, the estimated drought hazard values for the"
 " reporting and baseline periods should be officially submitted to the "
 "UNCCD. Observed changes and their interpretation may be described in the "
 "“Qualitative Assessment” field of the PRAIS 4 platform."
-msgstr "Una vez que las Partes hayan llevado a cabo la verificación, deberán remitir oficialmente a la CLD las estimaciones sobre los valores del riesgo de sequía correspondientes al período de presentación de informes y de referencia. Los cambios observados podrán describirse, junto con su correspondiente interpretación, en el campo de “evaluación cualitativa” de la plataforma PRAIS 4."
+msgstr ""
+"Una vez que las Partes hayan llevado a cabo la verificación, deberán "
+"remitir oficialmente a la CLD las estimaciones sobre los valores del "
+"riesgo de sequía correspondientes al período de presentación de informes "
+"y de referencia. Los cambios observados podrán describirse, junto con su "
+"correspondiente interpretación, en el campo de “evaluación cualitativa” "
+"de la plataforma PRAIS 4."
 
-#: ../../SO3.md:172
+#: ../../SO3.md:199
 msgid ""
 "Default maps or maps generated in Trends.Earth using national data "
 "representing drought hazard for the baseline/reporting period are made "
 "available in the PRAIS 4 platform. More specifically, the following maps "
 "will be available:"
-msgstr "En la plataforma PRAIS 4 se encuentran disponibles los mapas por defecto o los mapas generados en Trends.Earth con datos nacionales que representan el riesgo de sequía para el período de referencia o de presentación de informes. En concreto, estarán disponibles en línea los siguientes mapas:"
+msgstr ""
+"En la plataforma PRAIS 4 se encuentran disponibles los mapas por defecto "
+"o los mapas generados en Trends.Earth con datos nacionales que "
+"representan el riesgo de sequía para el período de referencia o de "
+"presentación de informes. En concreto, estarán disponibles en línea los "
+"siguientes mapas:"
 
-#: ../../SO3.md:174
+#: ../../SO3.md:201
 msgid "Drought hazard in first epoch of baseline period (2000–2003)"
-msgstr "Peligro de sequía en la primera época del período de referencia (2000-2003)"
+msgstr ""
+"Peligro de sequía en la primera época del período de referencia "
+"(2000-2003)"
 
-#: ../../SO3.md:175
+#: ../../SO3.md:202
 msgid "Drought hazard in second epoch of baseline period (2004–2007)"
-msgstr "Peligro de sequía en la segunda época del período de referencia (2004-2007)"
+msgstr ""
+"Peligro de sequía en la segunda época del período de referencia "
+"(2004-2007)"
 
-#: ../../SO3.md:176
+#: ../../SO3.md:203
 msgid "Drought hazard in third epoch of baseline period (2008–2011)"
-msgstr "Peligro de sequía en la tercera época del período de referencia (2008-2011)"
+msgstr ""
+"Peligro de sequía en la tercera época del período de referencia "
+"(2008-2011)"
 
-#: ../../SO3.md:177
+#: ../../SO3.md:204
 msgid "Drought hazard in fourth epoch of baseline period (2012–2015)"
 msgstr "Peligro de sequía en la cuarta época del período de referencia (2012-2015)"
 
-#: ../../SO3.md:178
+#: ../../SO3.md:205
 msgid "Drought hazard in the reporting period (2016–2019)"
 msgstr "Peligro de sequía en el período de presentación de informes (2016-2019)"
 
-#: ../../SO3.md:180
+#: ../../SO3.md:207
 msgid ""
 "These maps represent the most extreme conditions that occurred in each "
 "epoch, as explained in Step 5. Parties are also encouraged to submit "
@@ -577,28 +839,43 @@ msgid ""
 "“General Comment” field. It would also be beneficial to report on special"
 " cases and issues, describing situations where SPI values might be less "
 "reliable and providing the rationale to adopt a different methodology."
-msgstr "Estos mapas representan las condiciones más extremas que tuvieron lugar en cada época, tal y como se explica en el paso 5. Se alienta a las Partes a que también presenten descripciones sobre la metodología, las fuentes de datos y la exactitud de los datos, en caso de que las estimaciones se hayan obtenido a partir de datos nacionales, sirviéndose del campo de “comentarios generales”. Asimismo, resultaría beneficioso informar sobre casos y cuestiones especiales, describiendo aquellas situaciones en las que los valores del índice normalizado de precipitación podrían ser menos fiables y proporcionando una justificación para adoptar una metodología diferente."
+msgstr ""
+"Estos mapas representan las condiciones más extremas que tuvieron lugar "
+"en cada época, tal y como se explica en el paso 5. Se alienta a las "
+"Partes a que también presenten descripciones sobre la metodología, las "
+"fuentes de datos y la exactitud de los datos, en caso de que las "
+"estimaciones se hayan obtenido a partir de datos nacionales, sirviéndose "
+"del campo de “comentarios generales”. Asimismo, resultaría beneficioso "
+"informar sobre casos y cuestiones especiales, describiendo aquellas "
+"situaciones en las que los valores del índice normalizado de "
+"precipitación podrían ser menos fiables y proporcionando una "
+"justificación para adoptar una metodología diferente."
 
-#: ../../SO3.md:182
+#: ../../SO3.md:209
 msgid "3.1.4. Dependencies"
 msgstr "3.1.4. Dependencias"
 
-#: ../../SO3.md:184
+#: ../../SO3.md:211
 msgid ""
 "Drought hazard data relies on the total land area reported in table "
 "SO1-1.T1 to calculate the proportion of total land area under drought. SO"
 " 3-1 outputs are also used as an input for calculating indicator SO 3-2."
-msgstr "Los datos sobre el peligro de sequía se basan en la superficie terrestre total indicada en la tabla SO1-1.T1 para calcular la proporción de la superficie terrestre total afectada por la sequía. Asimismo, los productos del OE 3-1 se emplean como datos de entrada para calcular el indicador OE 3-2. "
+msgstr ""
+"Los datos sobre el peligro de sequía se basan en la superficie terrestre "
+"total indicada en la tabla SO1-1.T1 para calcular la proporción de la "
+"superficie terrestre total afectada por la sequía. Asimismo, los "
+"productos del OE 3-1 se emplean como datos de entrada para calcular el "
+"indicador OE 3-2. "
 
-#: ../../SO3.md:187
+#: ../../SO3.md:214
 msgid "3.1.5. Challenges"
 msgstr "3.1.5. Retos"
 
-#: ../../SO3.md:189 ../../SO3.md:360 ../../SO3.md:552
+#: ../../SO3.md:216 ../../SO3.md:413 ../../SO3.md:657
 msgid "Data availability and quality"
 msgstr "Disponibilidad y calidad de los datos"
 
-#: ../../SO3.md:191
+#: ../../SO3.md:218
 msgid ""
 "Internationally available precipitation data might not be sufficiently "
 "accurate to estimate the intensity of drought hazard at national level. "
@@ -606,13 +883,22 @@ msgid ""
 "precise and reliable. However, national precipitation data might not be "
 "readily available in digital form and/or might be affected by gaps in the"
 " time series."
-msgstr "Los datos de precipitación disponibles a nivel internacional podrían no ser suficientemente precisos a la hora de estimar la intensidad del peligro de sequía a nivel nacional. Se recomienda emplear datos nacionales, pues se presupone que son más precisos y fiables. Sin embargo, es posible que los datos nacionales de precipitación no estén inmediatamente disponibles en formato digital y podrían existir lagunas en las series cronológicas que afecten a dichos datos."
+msgstr ""
+"Los datos de precipitación disponibles a nivel internacional podrían no "
+"ser suficientemente precisos a la hora de estimar la intensidad del "
+"peligro de sequía a nivel nacional. Se recomienda emplear datos "
+"nacionales, pues se presupone que son más precisos y fiables. Sin "
+"embargo, es posible que los datos nacionales de precipitación no estén "
+"inmediatamente disponibles en formato digital y podrían existir lagunas "
+"en las series cronológicas que afecten a dichos datos."
 
-#: ../../SO3.md:193
+#: ../../SO3.md:220
 msgid "Limitations of the SPI-based estimates"
-msgstr "Limitaciones de las estimaciones basadas en el índice normalizado de precipitación"
+msgstr ""
+"Limitaciones de las estimaciones basadas en el índice normalizado de "
+"precipitación"
 
-#: ../../SO3.md:195
+#: ../../SO3.md:222
 msgid ""
 "While the SPI is recommended as a well-established, flexible and robust "
 "drought index to quantify drought hazard on a global scale, it only "
@@ -625,48 +911,86 @@ msgid ""
 "limitation, the national expert may highlight areas where estimates based"
 " on the SPI may not produce sufficiently accurate results and may base "
 "the estimates on alternative indexes."
-msgstr "El índice normalizado de precipitación se considera un índice de sequía de eficacia probada, flexible y bien consolidado a la hora de cuantificar el riesgo de sequía a escala mundial. No obstante, este índice se basa exclusivamente en la precipitación, de manera que solo cuantifica déficits meteorológicos y tal vez no capte adecuadamente otro tipo de sequías (p. ej., la sequía hidrológica o la agrícola). Además, en aquellas regiones donde la proporción de meses en los que no se ha producido ninguna precipitación es muy baja o alta, los valores del índice normalizado de precipitación deben emplearse e interpretarse cautelosamente; en este tipo de regiones, podría resultar más adecuado aplicar el índice normalizado de precipitación y evapotranspiración. El experto nacional, teniendo presente esta limitación, puede destacar aquellas zonas en las cuales las estimaciones basadas en el índice normalizado de precipitación podrían no ofrecer resultados suficientemente precisos y basar las estimaciones en otros índices alternativos."
+msgstr ""
+"El índice normalizado de precipitación se considera un índice de sequía "
+"de eficacia probada, flexible y bien consolidado a la hora de cuantificar"
+" el riesgo de sequía a escala mundial. No obstante, este índice se basa "
+"exclusivamente en la precipitación, de manera que solo cuantifica "
+"déficits meteorológicos y tal vez no capte adecuadamente otro tipo de "
+"sequías (p. ej., la sequía hidrológica o la agrícola). Además, en "
+"aquellas regiones donde la proporción de meses en los que no se ha "
+"producido ninguna precipitación es muy baja o alta, los valores del "
+"índice normalizado de precipitación deben emplearse e interpretarse "
+"cautelosamente; en este tipo de regiones, podría resultar más adecuado "
+"aplicar el índice normalizado de precipitación y evapotranspiración. El "
+"experto nacional, teniendo presente esta limitación, puede destacar "
+"aquellas zonas en las cuales las estimaciones basadas en el índice "
+"normalizado de precipitación podrían no ofrecer resultados "
+"suficientemente precisos y basar las estimaciones en otros índices "
+"alternativos."
 
-#: ../../SO3.md:197
+#: ../../SO3.md:224
 msgid ""
 "Because of the natural climate variability, any observed changes or "
 "trends in the proportion of land under drought over the short baseline "
 "and reporting time frames should be interpreted with caution. Anomalies "
 "and uncertainties in the estimates should be described in the "
 "“Qualitative Assessment” field."
-msgstr "Debido a la variabilidad natural del clima, se deberán interpretar con precaución todos aquellos cambios o tendencias observados en la proporción de tierras afectadas por la sequía a lo largo de los cortos intervalos de referencia y de presentación de informes. Asimismo, será preciso describir cualquier anomalía o incertidumbre relativa a las estimaciones en el campo de “evaluación cualitativa”."
+msgstr ""
+"Debido a la variabilidad natural del clima, se deberán interpretar con "
+"precaución todos aquellos cambios o tendencias observados en la "
+"proporción de tierras afectadas por la sequía a lo largo de los cortos "
+"intervalos de referencia y de presentación de informes. Asimismo, será "
+"preciso describir cualquier anomalía o incertidumbre relativa a las "
+"estimaciones en el campo de “evaluación cualitativa”."
 
-#: ../../SO3.md:199
+#: ../../SO3.md:226
 msgid ""
 "The adopted timescale, based on the 12-month cycle, might not always be "
 "suitable for characterizing drought impacts in some environments where "
 "other aggregation periods, e.g., 24 months, might be more appropriate."
-msgstr "Es posible que la escala temporal adoptada, que se basa en el ciclo de 12 meses, no siempre sea adecuada para describir la repercusión de la sequía en algunos entornos, en los cuales podría resultar más adecuado aplicar otro tipo de períodos de agregación, p. ej., de 24 meses."
+msgstr ""
+"Es posible que la escala temporal adoptada, que se basa en el ciclo de 12"
+" meses, no siempre sea adecuada para describir la repercusión de la "
+"sequía en algunos entornos, en los cuales podría resultar más adecuado "
+"aplicar otro tipo de períodos de agregación, p. ej., de 24 meses."
 
-#: ../../SO3.md:201
+#: ../../SO3.md:228
 msgid "3.1.6. Summary (main actions)"
 msgstr "3.1.6. Resumen (acciones principales)"
 
-#: ../../SO3.md:203
+#: ../../SO3.md:230
 msgid "Key actions for reporting drought hazard intensity values are as follows:"
-msgstr "Las acciones clave para presentar informes sobre los valores de la intensidad del peligro de sequía son las siguientes:"
+msgstr ""
+"Las acciones clave para presentar informes sobre los valores de la "
+"intensidad del peligro de sequía son las siguientes:"
 
-#: ../../SO3.md:205
+#: ../../SO3.md:232
 msgid ""
 "**Select precipitation dataset**: Parties may decide to use the default "
 "data or alternative national sources, provided they comply with the data "
 "specifications listed in table 18. If Parties decide to use alternative "
 "data sources, they should follow Steps 2 to 5 below:"
-msgstr "**Seleccionar el conjunto de datos de precipitación**: las Partes pueden optar por emplear datos por defecto o fuentes nacionales alternativas, siempre y cuando cumplan las especificaciones de datos que figuran en la tabla 18. En caso de que las Partes decidan utilizar fuentes de datos alternativas, deberán seguir los pasos 2 a 5 que aparecen a continuación:"
+msgstr ""
+"**Seleccionar el conjunto de datos de precipitación**: las Partes pueden "
+"optar por emplear datos por defecto o fuentes nacionales alternativas, "
+"siempre y cuando cumplan las especificaciones de datos que figuran en la "
+"tabla 18. En caso de que las Partes decidan utilizar fuentes de datos "
+"alternativas, deberán seguir los pasos 2 a 5 que aparecen a continuación:"
 
-#: ../../SO3.md:207
+#: ../../SO3.md:234
 msgid ""
 "**Calculate the SPI**: the SPI should be derived for all months in the "
 "full available time series; however, Parties may choose alternative "
 "indexes better suited to their local environmental conditions."
-msgstr "**Calcular el índice normalizado de precipitación**: es preciso derivar el índice normalizado de precipitación de todos los meses de las series cronológicas completas disponibles; no obstante, las Partes pueden escoger índices alternativos que se ajusten mejor a sus condiciones ambientales locales."
+msgstr ""
+"**Calcular el índice normalizado de precipitación**: es preciso derivar "
+"el índice normalizado de precipitación de todos los meses de las series "
+"cronológicas completas disponibles; no obstante, las Partes pueden "
+"escoger índices alternativos que se ajusten mejor a sus condiciones "
+"ambientales locales."
 
-#: ../../SO3.md:209
+#: ../../SO3.md:236
 msgid ""
 "**Identify the drought intensity class of each grid cell**: based on the "
 "SPI calculation, the number of cells belonging to each of the SPI drought"
@@ -674,72 +998,114 @@ msgid ""
 " the drought intensity class grids into a suitable equal area projection,"
 " and calculating the total areas under each drought intensity class in "
 "km2. Data is then reported in table SO3-1.T1."
-msgstr "**Identificar la clase de intensidad de sequía de cada celda de la cuadrícula**: con base en el cálculo efectuado del índice normalizado de precipitación, se debe llevar a cabo un recuento del número de celdas que corresponde a cada una de las clases de intensidad de sequía del índice normalizado de precipitación y convertirlas en áreas; para ello, es necesario proyectar las cuadrículas de las clases de intensidad de sequía en una proyección equivalente y calcular las superficies totales afectadas por cada una de las clases de intensidad de sequía en km2. Posteriormente, se deben indicar los datos en la tabla SO3-1.T1. "
+msgstr ""
+"**Identificar la clase de intensidad de sequía de cada celda de la "
+"cuadrícula**: con base en el cálculo efectuado del índice normalizado de "
+"precipitación, se debe llevar a cabo un recuento del número de celdas que"
+" corresponde a cada una de las clases de intensidad de sequía del índice "
+"normalizado de precipitación y convertirlas en áreas; para ello, es "
+"necesario proyectar las cuadrículas de las clases de intensidad de sequía"
+" en una proyección equivalente y calcular las superficies totales "
+"afectadas por cada una de las clases de intensidad de sequía en km2. "
+"Posteriormente, se deben indicar los datos en la tabla SO3-1.T1. "
 
-#: ../../SO3.md:211
+#: ../../SO3.md:238
 msgid ""
 "**Calculate proportion of land under drought**: the proportion of land in"
 " each drought intensity class and the overall proportion of land under "
 "drought over the total land area are calculated for each reporting year "
 "and reported in tables SO3-1.T1 and SO3-1.T2."
-msgstr "**Calcular la proporción de tierras afectadas por la sequía**: se calcula la proporción de tierras afectadas por cada clase de intensidad de sequía y la proporción total de tierras afectadas por la sequía, respecto a la superficie terrestre total, de cada uno de los años de presentación de informes y posteriormente se indican en las tablas SO3-1.T1 y SO3-1.T2."
+msgstr ""
+"**Calcular la proporción de tierras afectadas por la sequía**: se calcula"
+" la proporción de tierras afectadas por cada clase de intensidad de "
+"sequía y la proporción total de tierras afectadas por la sequía, respecto"
+" a la superficie terrestre total, de cada uno de los años de presentación"
+" de informes y posteriormente se indican en las tablas SO3-1.T1 y "
+"SO3-1.T2."
 
-#: ../../SO3.md:213
+#: ../../SO3.md:240
 msgid ""
 "**Create a gridded spatial summary for the baseline and reporting "
 "periods**: data for the entire time series from 2000 to 2019 should be "
 "summarized spatially using the gridded SPI-12 data in four-year intervals"
 " (2000–2003, 2004–2007, 2008–2011, 2012–2015 and 2016–2019) to map the "
 "most extreme conditions in each period."
-msgstr "**Crear un resumen espacial reticular de los períodos de referencia y de presentación de informes**: los datos de las series cronológicas completas del 2000 al 2019 se deben resumir espacialmente empleando los datos SPI-12 reticulares en intervalos cuatrienales (2000-2003, 2004-2007, 2008-2011, 2012-2015 y 2016-2019) para trazar el mapa de las condiciones más extremas de cada período."
+msgstr ""
+"**Crear un resumen espacial reticular de los períodos de referencia y de "
+"presentación de informes**: los datos de las series cronológicas "
+"completas del 2000 al 2019 se deben resumir espacialmente empleando los "
+"datos SPI-12 reticulares en intervalos cuatrienales (2000-2003, "
+"2004-2007, 2008-2011, 2012-2015 y 2016-2019) para trazar el mapa de las "
+"condiciones más extremas de cada período."
 
-#: ../../SO3.md:215
+#: ../../SO3.md:242
 msgid ""
 "**Verify the results**: aware of the limitations related to the adoption "
 "of the SPI for estimating drought intensity, Parties may verify the "
 "suitability of such an index to describe drought occurrence and intensity"
 " in their countries before officially submitting estimates for UNCCD "
 "reporting."
-msgstr "**Verificar los resultados**: teniendo presentes las limitaciones relacionadas con la adopción del índice normalizado de precipitación a la hora de estimar la intensidad de la sequía, las Partes deben comprobar si dicho índice es idóneo para describir la aparición y la intensidad de la sequía en sus países, antes de remitir oficialmente las estimaciones para la presentación de informes a la CLD."
+msgstr ""
+"**Verificar los resultados**: teniendo presentes las limitaciones "
+"relacionadas con la adopción del índice normalizado de precipitación a la"
+" hora de estimar la intensidad de la sequía, las Partes deben comprobar "
+"si dicho índice es idóneo para describir la aparición y la intensidad de "
+"la sequía en sus países, antes de remitir oficialmente las estimaciones "
+"para la presentación de informes a la CLD."
 
-#: ../../SO3.md:217 ../../SO3.md:578
+#: ../../SO3.md:244 ../../SO3.md:683
 msgid ""
 "**Generate reports**: once verified by the Parties, the data and "
 "supporting narrative for the reporting and baseline periods should be "
 "officially submitted to the UNCCD."
-msgstr "**Generar informes**: una vez que las Partes hayan llevado a cabo la verificación, deberán remitir oficialmente los datos y las descripciones de apoyo de los períodos de presentación de informes y de referencia a la CLD."
+msgstr ""
+"**Generar informes**: una vez que las Partes hayan llevado a cabo la "
+"verificación, deberán remitir oficialmente los datos y las descripciones "
+"de apoyo de los períodos de presentación de informes y de referencia a la"
+" CLD."
 
-#: ../../SO3.md:219
+#: ../../SO3.md:246
 msgid "3.1.7. Further reading"
 msgstr "3.1.7. Lecturas complementarias"
 
-#: ../../SO3.md:221
+#: ../../SO3.md:248
 msgid ""
 "Good Practice Guidance for National Reporting on UNCCD Strategic "
 "Objective 3. Chapter 1. Level 1 Indicator "
 "(<https://www.unccd.int/publications/good-practice-guidance-national-"
 "reporting-unccd-strategic-objective-3-mitigate-adapt>)"
-msgstr "Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3, capítulo 1: “Level 1 Indicator”. (<https://www.unccd.int/publications/good-practice-guidance-national-reporting-unccd-strategic-objective-3-mitigate-adapt>)"
+msgstr ""
+"Good Practice Guidance for National Reporting on UNCCD Strategic "
+"Objective 3, capítulo 1: “Level 1 Indicator”. "
+"(<https://www.unccd.int/publications/good-practice-guidance-national-"
+"reporting-unccd-strategic-objective-3-mitigate-adapt>)"
 
-#: ../../SO3.md:223
+#: ../../SO3.md:250
 msgid ""
 "3.2. SO 3-2 – Trends in the proportion of the total population exposed to"
 " drought"
-msgstr "3.2. OE 3-2 - Tendencias en la proporción de la población total expuesta a la sequía"
+msgstr ""
+"3.2. OE 3-2 - Tendencias en la proporción de la población total expuesta "
+"a la sequía"
 
-#: ../../SO3.md:225
+#: ../../SO3.md:252
 msgid "3.2.1. Introduction"
 msgstr "3.2.1. Introducción"
 
-#: ../../SO3.md:227
+#: ../../SO3.md:254
 msgid ""
 "Indicator SO 3-2 defines the exposure of the population to drought hazard"
 " (identified by indicator SO 3-1) as the total count of people exposed as"
 " well as the percentage of the total population exposed. This indicator "
 "may be further disaggregated by sex if data is available."
-msgstr "El indicador OE 3-2 define la exposición de la población al peligro de sequía (el cual se determina mediante el indicador OE 3-1) como el número total de personas expuestas y el porcentaje de la población total expuesta. Este indicador puede desglosarse posteriormente por sexos si existen datos disponibles."
+msgstr ""
+"El indicador OE 3-2 define la exposición de la población al peligro de "
+"sequía (el cual se determina mediante el indicador OE 3-1) como el número"
+" total de personas expuestas y el porcentaje de la población total "
+"expuesta. Este indicador puede desglosarse posteriormente por sexos si "
+"existen datos disponibles."
 
-#: ../../SO3.md:229
+#: ../../SO3.md:256
 msgid ""
 "The method of computation uses the spatial distribution of the population"
 " or sub-population group (i.e., by sex) to establish its exposure to "
@@ -750,13 +1116,23 @@ msgid ""
 "drought (i.e., to all drought intensity classes), is calculated and "
 "reported. National reporting is facilitated though the provision of "
 "default data."
-msgstr "El método de cómputo consiste en emplear la distribución espacial de la población o del subgrupo de población (es decir, el sexo) para conocer su exposición a la sequía, con base en la ubicación y la extensión de las clases de intensidad de sequía que se ha determinado mediante el indicador OE 3-1. Utilizando esta información, se calcula y se notifica el porcentaje de la población total dentro de cada clase de intensidad de sequía, así como el porcentaje de la población total expuesta a la sequía (es decir, a todas las clases de intensidad de sequía). A fin de facilitar la presentación de informes nacionales, se proporcionan datos por defecto."
+msgstr ""
+"El método de cómputo consiste en emplear la distribución espacial de la "
+"población o del subgrupo de población (es decir, el sexo) para conocer su"
+" exposición a la sequía, con base en la ubicación y la extensión de las "
+"clases de intensidad de sequía que se ha determinado mediante el "
+"indicador OE 3-1. Utilizando esta información, se calcula y se notifica "
+"el porcentaje de la población total dentro de cada clase de intensidad de"
+" sequía, así como el porcentaje de la población total expuesta a la "
+"sequía (es decir, a todas las clases de intensidad de sequía). A fin de "
+"facilitar la presentación de informes nacionales, se proporcionan datos "
+"por defecto."
 
-#: ../../SO3.md:232
+#: ../../SO3.md:259
 msgid "3.2.2. Prerequisites for reporting"
 msgstr "3.2.2. Requisitos previos para la presentación de informes"
 
-#: ../../SO3.md:234
+#: ../../SO3.md:261
 msgid ""
 "An in-depth reading of chapter 2 of the “[Good Practice Guidance for "
 "National Reporting on UNCCD Strategic Objective "
@@ -765,13 +1141,22 @@ msgid ""
 "manage the effects of drought in order to enhance resilience of "
 "vulnerable populations and ecosystems” detailing the methodology used to "
 "estimate drought exposure."
-msgstr "Una lectura exhaustiva del capítulo 2 de [Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf): To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems”, donde se detalla la metodología empleada para estimar la exposición a la sequía."
+msgstr ""
+"Una lectura exhaustiva del capítulo 2 de [Good Practice Guidance for "
+"National Reporting on UNCCD Strategic Objective "
+"3](https://www.unccd.int/sites/default/files/documents/2021-09"
+"/UNCCD_GPG_Strategic-Objective-3_2021.pdf): To mitigate, adapt to, and "
+"manage the effects of drought in order to enhance resilience of "
+"vulnerable populations and ecosystems”, donde se detalla la metodología "
+"empleada para estimar la exposición a la sequía."
 
-#: ../../SO3.md:236
+#: ../../SO3.md:263
 msgid "Data complying with the specifications listed in figure 2 and table 20."
-msgstr "Datos que cumplan las especificaciones indicadas en la figura 2 y en la tabla 20."
+msgstr ""
+"Datos que cumplan las especificaciones indicadas en la figura 2 y en la "
+"tabla 20."
 
-#: ../../SO3.md:238
+#: ../../SO3.md:265
 msgid ""
 "A pool of national experts officially nominated by the national "
 "authorities to verify the consistency of the results of the reporting "
@@ -780,23 +1165,37 @@ msgid ""
 "preferred to default data. The key institution in this case is a "
 "country’s national statistical office, however universities and research "
 "centres may also provide valuable inputs."
-msgstr "Un grupo de expertos nacionales designados oficialmente por las autoridades del país para verificar la coherencia de los resultados del proceso de presentación de informes en relación con la situación sobre el terreno o para desarrollar y aplicar una metodología a medida con la que estimar el indicador OE 3-2, en aquellos casos en los que se prefieran los datos nacionales a los datos por defecto. La institución clave, en este caso, es la oficina nacional de estadística del país, aunque las universidades y los centros de investigación también pueden realizar valiosas aportaciones."
+msgstr ""
+"Un grupo de expertos nacionales designados oficialmente por las "
+"autoridades del país para verificar la coherencia de los resultados del "
+"proceso de presentación de informes en relación con la situación sobre el"
+" terreno o para desarrollar y aplicar una metodología a medida con la que"
+" estimar el indicador OE 3-2, en aquellos casos en los que se prefieran "
+"los datos nacionales a los datos por defecto. La institución clave, en "
+"este caso, es la oficina nacional de estadística del país, aunque las "
+"universidades y los centros de investigación también pueden realizar "
+"valiosas aportaciones."
 
-#: ../../SO3.md:240
+#: ../../SO3.md:267
 msgid "3.2.3. Reporting process and step-by-step procedure"
-msgstr "3.2.3. Proceso de presentación de informes e instrucciones detalladas paso por paso"
+msgstr ""
+"3.2.3. Proceso de presentación de informes e instrucciones detalladas "
+"paso por paso"
 
-#: ../../SO3.md:242
+#: ../../SO3.md:269
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If the default data is used, Steps 2 to 4 are unnecessary."
-msgstr "A continuación se describen las instrucciones detalladas paso por paso para la presentación de informes. En caso de que se utilicen los datos por defecto, no sería necesario seguir los pasos 2 a 4."
+msgstr ""
+"A continuación se describen las instrucciones detalladas paso por paso "
+"para la presentación de informes. En caso de que se utilicen los datos "
+"por defecto, no sería necesario seguir los pasos 2 a 4."
 
-#: ../../SO3.md:244
+#: ../../SO3.md:271
 msgid "Step 1: Select the population dataset"
 msgstr "Paso 1: seleccionar el conjunto de datos de población"
 
-#: ../../SO3.md:246
+#: ../../SO3.md:273
 msgid ""
 "Suitable data for the calculation of indicator SO 3-2 is a spatially "
 "gridded population product, or a georeferenced set of sub-national "
@@ -804,43 +1203,68 @@ msgid ""
 "represent the number of people living in each location (grid cell), "
 "ideally annually, within the baseline and reporting periods. Where "
 "possible, data should be disaggregated by sex."
-msgstr "Los datos idóneos para el cálculo del indicador OE 3-2 son, o bien un producto de población espacialmente reticular, o bien un conjunto georreferenciado de datos de población subnacionales que abarquen toda la extensión del país. Estos datos deben representar el número de personas que vive en cada ubicación (celda de la cuadrícula), preferentemente por años, dentro de los períodos de referencia y de presentación de informes. Asimismo, deberán desglosarse por sexo siempre que sea posible."
+msgstr ""
+"Los datos idóneos para el cálculo del indicador OE 3-2 son, o bien un "
+"producto de población espacialmente reticular, o bien un conjunto "
+"georreferenciado de datos de población subnacionales que abarquen toda la"
+" extensión del país. Estos datos deben representar el número de personas "
+"que vive en cada ubicación (celda de la cuadrícula), preferentemente por "
+"años, dentro de los períodos de referencia y de presentación de informes."
+" Asimismo, deberán desglosarse por sexo siempre que sea posible."
 
-#: ../../SO3.md:248
+#: ../../SO3.md:275
 msgid ""
 "There are various publicly available, fine-resolution population datasets"
 " available at the global scale and two of these, WorldPop and Gridded "
 "Population of the World, version 4 (GPWv4), are recommended by the UNCCD "
 "for deriving indicator SO 3-2. However, WorldPop is provided to country "
 "Parties by default."
-msgstr "Existen varios conjuntos de datos de población de alta resolución disponibles al público a escala mundial; la CLD recomienda dos de ellos, WorldPop y la versión 4 de Gridded Population of the World (GPWv4), para derivar el indicador OE 3-2. No obstante, WorldPop se proporciona a los países Partes por defecto."
+msgstr ""
+"Existen varios conjuntos de datos de población de alta resolución "
+"disponibles al público a escala mundial; la CLD recomienda dos de ellos, "
+"WorldPop y la versión 4 de Gridded Population of the World (GPWv4), para "
+"derivar el indicador OE 3-2. No obstante, WorldPop se proporciona a los "
+"países Partes por defecto."
 
-#: ../../SO3.md:250
+#: ../../SO3.md:277
 msgid ""
 "Parties wishing to use in-country or regional datasets can use the "
 "decision tree in figure 2 to assess whether the in-country (or regional) "
 "population data is more appropriate to derive indicator SO 3-2 over the "
 "globally available datasets."
-msgstr "Las Partes que deseen emplear conjuntos de datos nacionales o regionales pueden utilizar el árbol de decisión de la figura 2 para evaluar si los datos de población nacionales (o regionales) son más apropiados para derivar el indicador OE 3-2, en comparación con el resto de conjuntos de datos disponibles a escala mundial."
+msgstr ""
+"Las Partes que deseen emplear conjuntos de datos nacionales o regionales "
+"pueden utilizar el árbol de decisión de la figura 2 para evaluar si los "
+"datos de población nacionales (o regionales) son más apropiados para "
+"derivar el indicador OE 3-2, en comparación con el resto de conjuntos de "
+"datos disponibles a escala mundial."
 
-#: ../../SO3.md:252
+#: ../../SO3.md:279
 msgid ""
-"_Figure 2. Decision tree to help Parties choose the best population data source to derive indicator SO 3-2_"
-msgstr "_Figura 2. Árbol de decisión para ayudar a las Partes a elegir la mejor fuente de datos sobre población para derivar el indicador OE 3-2_"
+"_Figure 2. Decision tree to help Parties choose the best population data "
+"source to derive indicator SO 3-2_"
+msgstr ""
+"_Figura 2. Árbol de decisión para ayudar a las Partes a elegir la mejor "
+"fuente de datos sobre población para derivar el indicador OE 3-2_"
 
-#: ../../SO3.md:255
+#: ../../SO3.md:308
 msgid ""
 "This decision-making process should help Parties identify data that meets"
 " the specifications summarized in table 20."
-msgstr "Este proceso de toma de decisiones puede ayudar a las Partes a comprender qué datos cumplen las especificaciones que figuran resumidas en la tabla 20."
+msgstr ""
+"Este proceso de toma de decisiones puede ayudar a las Partes a comprender"
+" qué datos cumplen las especificaciones que figuran resumidas en la tabla"
+" 20."
 
-#: ../../SO3.md:262
+#: ../../SO3.md:315
 msgid "*__Table 20__. Data specifications for SO 3-2 Indicator*"
 msgstr "*__Tabla 20__.  Especificaciones de los datos para el indicador OE 3-2*"
 
 #: ../../SO3.md:7
 msgid "(Data needed to generate indicator SO 3-2, as described in Steps 2 to 4)"
-msgstr "(Datos necesarios para generar el indicador OE 3-2, según se describe en los pasos 2 a 4)"
+msgstr ""
+"(Datos necesarios para generar el indicador OE 3-2, según se describe en "
+"los pasos 2 a 4)"
 
 #: ../../SO3.md:8
 msgid "WorldPop data for the period 2000–2020, disaggregated by sex."
@@ -848,37 +1272,53 @@ msgstr "Datos de WorldPop del período 2000-2020, desglosados por sexo."
 
 #: ../../SO3.md:10 ../../SO3.md:13
 msgid "Drought intensity class data as determined by indicator SO 3-1."
-msgstr "Datos sobre la clase de intensidad de sequía de conformidad con el indicador OE 3-1."
+msgstr ""
+"Datos sobre la clase de intensidad de sequía de conformidad con el "
+"indicador OE 3-1."
 
 #: ../../SO3.md:11
 msgid ""
 "Gridded population products derived from national official statistics "
 "from the year 2000 to the reporting year, ideally annual and, if "
 "available, disaggregated by sex."
-msgstr "Productos de población reticulares derivados de estadísticas nacionales oficiales desde el año 2000 hasta el año de presentación de informes, preferentemente por años y, en caso de que estén disponibles, desglosados por sexo."
+msgstr ""
+"Productos de población reticulares derivados de estadísticas nacionales "
+"oficiales desde el año 2000 hasta el año de presentación de informes, "
+"preferentemente por años y, en caso de que estén disponibles, desglosados"
+" por sexo."
 
 #: ../../SO3.md:16
 msgid "(Gridded products resulting from the analysis described in Steps 2 to 4)"
-msgstr "(Productos reticulares resultantes del análisis descrito en los pasos 2 a 4)"
+msgstr ""
+"(Productos reticulares resultantes del análisis descrito en los pasos 2 a"
+" 4)"
 
 #: ../../SO3.md:17
 msgid ""
 "Annual gridded products of total, female and male population exposed to "
 "the four drought intensity classes from the year 2000 to the reporting "
 "year."
-msgstr "Productos reticulares anuales de la población total, femenina y masculina expuesta a las cuatro clases de intensidad de sequía desde el año 2000 hasta el año de presentación de informes."
+msgstr ""
+"Productos reticulares anuales de la población total, femenina y masculina"
+" expuesta a las cuatro clases de intensidad de sequía desde el año 2000 "
+"hasta el año de presentación de informes."
 
 #: ../../SO3.md:19 ../../SO3.md:24
 msgid ""
 "Count and percentage of total, female and male population exposed to "
 "drought and to each drought intensity class."
-msgstr "Número y porcentaje de la población total, femenina y masculina expuesta a la sequía y a cada una de las clases de intensidad de sequía."
+msgstr ""
+"Número y porcentaje de la población total, femenina y masculina expuesta "
+"a la sequía y a cada una de las clases de intensidad de sequía."
 
 #: ../../SO3.md:22
 msgid ""
 "Annual gridded product of population exposed to the four drought "
 "intensity classes from the year 2000 to the reporting year."
-msgstr "Productos reticulares anuales de la población expuesta a las cuatro clases de intensidad de sequía desde el año 2000 hasta el año de presentación de informes."
+msgstr ""
+"Productos reticulares anuales de la población expuesta a las cuatro "
+"clases de intensidad de sequía desde el año 2000 hasta el año de "
+"presentación de informes."
 
 #: ../../SO3.md:28
 msgid "Worldpop: 3-arc seconds (~100 m)"
@@ -892,13 +1332,15 @@ msgstr "Evaluada por las autoridades nacionales con base en los datos disponible
 msgid "To be indicated in the dataset metadata."
 msgstr "Debe indicarse en los metadatos del conjunto de datos."
 
-#: ../../SO3.md:304
+#: ../../SO3.md:357
 msgid ""
 "Step 2:  Overlay gridded population data with indicator SO 3-1 spatial "
 "output"
-msgstr "Paso 2: superponer los datos de población reticulares al resultado espacial del indicador OE 3-1"
+msgstr ""
+"Paso 2: superponer los datos de población reticulares al resultado "
+"espacial del indicador OE 3-1"
 
-#: ../../SO3.md:306
+#: ../../SO3.md:359
 msgid ""
 "Indicator SO 3-2 is calculated by overlaying the population data on the "
 "hazard intensity spatial data for each year. Gap years should be filled "
@@ -908,45 +1350,74 @@ msgid ""
 "addition to the total population, sex-disaggregated population data "
 "grids, if available, should be used in the overlay process to generate "
 "sex-disaggregated drought exposure values."
-msgstr "El indicador OE 3-2 se calcula superponiendo los datos de población a los datos espaciales sobre la intensidad del peligro de cada año. Los años que falten se completarán con los datos de población más próximos disponibles. Por ejemplo, si faltasen los datos correspondientes a 2019, deberían reemplazarse por los datos de 2020 (o el año más próximo disponible), de modo que los datos de 2020 se emplearían tanto para el 2019 como para el 2020. Además de la población total, en el proceso de superposición deberían utilizarse cuadrículas de datos de población desglosados por sexo, si estuvieran disponibles, a fin de generar valores de exposición a la sequía desglosados por sexo."
+msgstr ""
+"El indicador OE 3-2 se calcula superponiendo los datos de población a los"
+" datos espaciales sobre la intensidad del peligro de cada año. Los años "
+"que falten se completarán con los datos de población más próximos "
+"disponibles. Por ejemplo, si faltasen los datos correspondientes a 2019, "
+"deberían reemplazarse por los datos de 2020 (o el año más próximo "
+"disponible), de modo que los datos de 2020 se emplearían tanto para el "
+"2019 como para el 2020. Además de la población total, en el proceso de "
+"superposición deberían utilizarse cuadrículas de datos de población "
+"desglosados por sexo, si estuvieran disponibles, a fin de generar valores"
+" de exposición a la sequía desglosados por sexo."
 
-#: ../../SO3.md:308
+#: ../../SO3.md:361
 msgid ""
 "Population and drought hazard intensity data should have the same "
 "coordinate reference system and projection, which should be consistent "
 "across the reporting periods."
-msgstr "Es preciso que los datos sobre la población y la intensidad del peligro de sequía cuenten con el mismo sistema de referencia por coordenadas y la misma proyección; estos, a su vez, deben ser coherentes a lo largo de los períodos de presentación de informes."
+msgstr ""
+"Es preciso que los datos sobre la población y la intensidad del peligro "
+"de sequía cuenten con el mismo sistema de referencia por coordenadas y la"
+" misma proyección; estos, a su vez, deben ser coherentes a lo largo de "
+"los períodos de presentación de informes."
 
-#: ../../SO3.md:310
+#: ../../SO3.md:363
 msgid ""
 "Step 3: Calculate the total population and the number and percentage of "
 "people within each drought intensity class"
-msgstr "Paso 3: calcular el total de población, así como el número y el porcentaje de personas dentro de cada clase de intensidad de sequía"
+msgstr ""
+"Paso 3: calcular el total de población, así como el número y el "
+"porcentaje de personas dentro de cada clase de intensidad de sequía"
 
 #: ../../SO3.md:1
 msgid ""
 "Related areas in the PRAIS 4 platform: tables SO3-2.T1, SO3-2.T2 and "
 "SO3-2.T3"
-msgstr "Áreas relacionas en la plataforma PRAIS 4: tablas SO3-2.T1, SO3-2.T2 y SO3-2.T3"
+msgstr ""
+"Áreas relacionas en la plataforma PRAIS 4: tablas SO3-2.T1, SO3-2.T2 y "
+"SO3-2.T3"
 
-#: ../../SO3.md:316
+#: ../../SO3.md:369
 msgid ""
 "The yearly total population is obtained by adding the population residing"
 " in each land unit (e.g., grid cell) of a country area for each year "
 "within the baseline and the reporting periods (i.e., from 2000 to the "
 "reporting year)."
-msgstr "La población total anual se obtiene sumando la población que reside en cada unidad de tierra (por ejemplo, la celda de la cuadrícula) de una zona del país para cada año dentro de los períodos de referencia y presentación de informes (es decir, desde el año 2000 hasta el año del período de presentación de informes)."
+msgstr ""
+"La población total anual se obtiene sumando la población que reside en "
+"cada unidad de tierra (por ejemplo, la celda de la cuadrícula) de una "
+"zona del país para cada año dentro de los períodos de referencia y "
+"presentación de informes (es decir, desde el año 2000 hasta el año del "
+"período de presentación de informes)."
 
-#: ../../SO3.md:318
+#: ../../SO3.md:371
 msgid ""
 "Using the outputs of Step 2, the number of people falling within each of "
 "the four drought intensity classes, as well as the total number of people"
 " exposed to drought (i.e., to all drought intensity classes), can be "
 "estimated for each year. The respective percentages are then calculated "
 "out of the total population."
-msgstr "Utilizando los resultados del Paso 2, se puede estimar para cada año el número de personas adscritas a cada una de las cuatro clases de intensidad de sequía, así como el número total de personas expuestas a la sequía (es decir, a todas las clases de intensidad de sequía). A continuación se calculan los porcentajes respectivos sobre la población total."
+msgstr ""
+"Utilizando los resultados del Paso 2, se puede estimar para cada año el "
+"número de personas adscritas a cada una de las cuatro clases de "
+"intensidad de sequía, así como el número total de personas expuestas a la"
+" sequía (es decir, a todas las clases de intensidad de sequía). A "
+"continuación se calculan los porcentajes respectivos sobre la población "
+"total."
 
-#: ../../SO3.md:320
+#: ../../SO3.md:373
 msgid ""
 "Similarly, if sex disaggregated data is used, the number of males and "
 "females that lie within each drought intensity class, as well as the "
@@ -955,51 +1426,79 @@ msgid ""
 "calculated out of the total number of people exposed to each drought "
 "intensity class and to drought overall for each year. Note that the share"
 " within each drought intensity class should equal to 100 per cent."
-msgstr "Del mismo modo, si se emplean datos desglosados por sexo, también se puede calcular el número de hombres y mujeres que hay dentro de cada clase de intensidad de sequía, así como el número total de hombres y mujeres expuestos a la sequía. A continuación se calcula el porcentaje entre mujeres y hombres del número total de personas expuestas a cada clase de intensidad de sequía y a la sequía en general para cada año. Obsérvese que la proporción dentro de cada clase de intensidad de sequía debe ser igual al 100%."
+msgstr ""
+"Del mismo modo, si se emplean datos desglosados por sexo, también se "
+"puede calcular el número de hombres y mujeres que hay dentro de cada "
+"clase de intensidad de sequía, así como el número total de hombres y "
+"mujeres expuestos a la sequía. A continuación se calcula el porcentaje "
+"entre mujeres y hombres del número total de personas expuestas a cada "
+"clase de intensidad de sequía y a la sequía en general para cada año. "
+"Obsérvese que la proporción dentro de cada clase de intensidad de sequía "
+"debe ser igual al 100%."
 
-#: ../../SO3.md:322
+#: ../../SO3.md:375
 msgid "Step 4:  Create a gridded spatial summary in four-year epochs"
 msgstr "Paso 4: Elaborar un resumen espacial reticulado en épocas cuatrienales"
 
-#: ../../SO3.md:324
+#: ../../SO3.md:377
 msgid ""
 "In addition to the annual values of indicator SO 3-2, a gridded spatial "
 "summary for the entire reporting period is also produced. This gridded "
 "spatial summary output gives an indication of the number of people "
 "exposed to the most extreme drought intensity class over the four-year "
 "reporting period for each grid cell."
-msgstr "Además de los valores anuales del indicador OE 3-2, también se produce un resumen espacial reticular para todo el período de presentación de informes. Este resumen espacial reticular ofrece una indicación del número de personas expuestas a la clase de intensidad de sequía más extrema durante el período de presentación de informes cuatrienal para cada celda de la cuadrícula."
+msgstr ""
+"Además de los valores anuales del indicador OE 3-2, también se produce un"
+" resumen espacial reticular para todo el período de presentación de "
+"informes. Este resumen espacial reticular ofrece una indicación del "
+"número de personas expuestas a la clase de intensidad de sequía más "
+"extrema durante el período de presentación de informes cuatrienal para "
+"cada celda de la cuadrícula."
 
-#: ../../SO3.md:326
+#: ../../SO3.md:379
 msgid ""
 "To summarize the reporting period spatially, the most recent population "
 "dataset from the current reporting period is overlaid on the output "
 "generated for indicator SO 3-1 in Step 5, which represents the most "
 "extreme drought intensity class for each year within the reporting "
 "period."
-msgstr "Para resumir espacialmente el período de presentación de informes, el conjunto de datos sobre población más reciente del período de presentación de informes actual se superpone al producto generado para el indicador OE 3-1 en el Paso 5, que representa la clase de intensidad de sequía más extrema para cada año dentro del período de presentación de informes."
+msgstr ""
+"Para resumir espacialmente el período de presentación de informes, el "
+"conjunto de datos sobre población más reciente del período de "
+"presentación de informes actual se superpone al producto generado para el"
+" indicador OE 3-1 en el Paso 5, que representa la clase de intensidad de "
+"sequía más extrema para cada año dentro del período de presentación de "
+"informes."
 
-#: ../../SO3.md:328
+#: ../../SO3.md:381
 msgid ""
 "Similarly, baseline exposure summary spatial data products are generated "
 "for each of the four-year baseline periods (i.e., 2000–2003, 2004–2007, "
 "2008–2011 and 2012–2015) by overlaying the most recent population data of"
 " each group of years on the output generated for indicator SO 3-1 in Step"
 " 5."
-msgstr "Del mismo modo, se generan productos de datos espaciales resumidos de la exposición de referencia para cada uno de los períodos cuatrienales de referencia (es decir, 2000-2003, 2004-2007, 2008-2011 y 2012-2015) superponiendo los datos de población más recientes de cada grupo de años al resultado generado para el indicador OE 3-1 en el Paso 5."
+msgstr ""
+"Del mismo modo, se generan productos de datos espaciales resumidos de la "
+"exposición de referencia para cada uno de los períodos cuatrienales de "
+"referencia (es decir, 2000-2003, 2004-2007, 2008-2011 y 2012-2015) "
+"superponiendo los datos de población más recientes de cada grupo de años "
+"al resultado generado para el indicador OE 3-1 en el Paso 5."
 
-#: ../../SO3.md:330
+#: ../../SO3.md:383
 msgid ""
 "These gridded spatial summaries give an indication of the number of "
 "people exposed to the most extreme drought intensity class in four-year "
 "epochs."
-msgstr "Estos resúmenes espaciales reticulares dan una indicación del número de personas expuestas a la clase de intensidad de sequía más extrema en épocas cuatrienales."
+msgstr ""
+"Estos resúmenes espaciales reticulares dan una indicación del número de "
+"personas expuestas a la clase de intensidad de sequía más extrema en "
+"épocas cuatrienales."
 
-#: ../../SO3.md:332 ../../SO3.md:529
+#: ../../SO3.md:385 ../../SO3.md:634
 msgid "Step 5:  Verify the results"
 msgstr "Paso 5: Verificar los resultados"
 
-#: ../../SO3.md:334
+#: ../../SO3.md:387
 msgid ""
 "The methodology only considers population density and distribution and "
 "does not cover ecosystem exposure to drought. A more comprehensive "
@@ -1007,70 +1506,104 @@ msgid ""
 " at risk, such as agricultural yields, livestock counts, sectoral water "
 "and certain types of vegetation. In addition, being exposed to drought "
 "does not equate to drought vulnerability."
-msgstr "La metodología solo considera la densidad y la distribución de la población y no engloba la exposición de los ecosistemas a la sequía. Una medida más completa de la exposición a la sequía podría contemplar otras entidades físicas en situación de riesgo, como los rendimientos agrícolas, los recuentos de ganado, el uso sectorial del agua y ciertos tipos de vegetación. Además, la exposición no equivale a vulnerabilidad a la sequía."
+msgstr ""
+"La metodología solo considera la densidad y la distribución de la "
+"población y no engloba la exposición de los ecosistemas a la sequía. Una "
+"medida más completa de la exposición a la sequía podría contemplar otras "
+"entidades físicas en situación de riesgo, como los rendimientos "
+"agrícolas, los recuentos de ganado, el uso sectorial del agua y ciertos "
+"tipos de vegetación. Además, la exposición no equivale a vulnerabilidad a"
+" la sequía."
 
-#: ../../SO3.md:336
+#: ../../SO3.md:389
 msgid ""
 "Parties should be aware of these limitations and critically review the "
 "results before submitting the reports to the UNCCD."
-msgstr "Las Partes deben ser conscientes de estas limitaciones y revisar de forma crítica los resultados antes de presentar los informes a la CLD."
+msgstr ""
+"Las Partes deben ser conscientes de estas limitaciones y revisar de forma"
+" crítica los resultados antes de presentar los informes a la CLD."
 
-#: ../../SO3.md:338 ../../SO3.md:535
+#: ../../SO3.md:391 ../../SO3.md:640
 msgid "Step 6: Generate reports"
 msgstr "Paso 6: Generar informes"
 
-#: ../../SO3.md:340
+#: ../../SO3.md:393
 msgid ""
 "Once verified by the Parties, the estimated population exposure to "
 "drought hazard values for the reporting and baseline periods should be "
 "officially submitted to the UNCCD. Observed changes and their "
 "interpretation may be described in the “Qualitative Assessment” field of "
 "the PRAIS 4 platform."
-msgstr "Una vez que las Partes hayan llevado a cabo la verificación, deberán remitir oficialmente a la CLD las estimaciones sobre los valores de la exposición de la población a los riesgos de sequía correspondientes al período de presentación de informes y de referencia. Los cambios observados podrán describirse, junto con su correspondiente interpretación, en el campo de “evaluación cualitativa” de la plataforma PRAIS 4."
+msgstr ""
+"Una vez que las Partes hayan llevado a cabo la verificación, deberán "
+"remitir oficialmente a la CLD las estimaciones sobre los valores de la "
+"exposición de la población a los riesgos de sequía correspondientes al "
+"período de presentación de informes y de referencia. Los cambios "
+"observados podrán describirse, junto con su correspondiente "
+"interpretación, en el campo de “evaluación cualitativa” de la plataforma "
+"PRAIS 4."
 
-#: ../../SO3.md:342
+#: ../../SO3.md:395
 msgid ""
 "Default maps or maps generated in Trends.Earth using national data "
 "representing population exposed to drought for the baseline/reporting "
 "period are made available in the PRAIS 4 platform. More specifically, the"
 " following maps will be available online:"
-msgstr "En la plataforma PRAIS 4 se encuentran disponibles los mapas por defecto o los mapas generados en Trends.Earth con datos nacionales que representan la población expuesta a la sequía para el período de referencia o de presentación de informes. En concreto, estarán disponibles en línea los siguientes mapas:"
+msgstr ""
+"En la plataforma PRAIS 4 se encuentran disponibles los mapas por defecto "
+"o los mapas generados en Trends.Earth con datos nacionales que "
+"representan la población expuesta a la sequía para el período de "
+"referencia o de presentación de informes. En concreto, estarán "
+"disponibles en línea los siguientes mapas:"
 
-#: ../../SO3.md:344
+#: ../../SO3.md:397
 msgid ""
 "Total population exposed to drought in first epoch of baseline period "
 "(2000–2003)"
-msgstr "Población total expuesta a la sequía en la primera época del período de referencia (2000-2003)"
+msgstr ""
+"Población total expuesta a la sequía en la primera época del período de "
+"referencia (2000-2003)"
 
-#: ../../SO3.md:345
+#: ../../SO3.md:398
 msgid ""
 "Total population exposed to drought in second epoch of baseline period "
 "(2004–2007)"
-msgstr "Población total expuesta a la sequía en la segunda época del período de referencia (2004-2007)"
+msgstr ""
+"Población total expuesta a la sequía en la segunda época del período de "
+"referencia (2004-2007)"
 
-#: ../../SO3.md:346
+#: ../../SO3.md:399
 msgid ""
 "Total population exposed to drought in third epoch of baseline period "
 "(2008–2011)"
-msgstr "Población total expuesta a la sequía en la tercera época del período de referencia (2008-2011)"
+msgstr ""
+"Población total expuesta a la sequía en la tercera época del período de "
+"referencia (2008-2011)"
 
-#: ../../SO3.md:347
+#: ../../SO3.md:400
 msgid ""
 "Total population exposed to drought in fourth epoch of baseline period "
 "(2012–2015)"
-msgstr "Población total expuesta a la sequía en la cuarta época del período de referencia (2012-2015)"
+msgstr ""
+"Población total expuesta a la sequía en la cuarta época del período de "
+"referencia (2012-2015)"
 
-#: ../../SO3.md:348
+#: ../../SO3.md:401
 msgid "Total population exposed to drought in the reporting period (2016–2019)"
-msgstr "Población total expuesta a la sequía en el período de presentación de informes (2016-2019)"
+msgstr ""
+"Población total expuesta a la sequía en el período de presentación de "
+"informes (2016-2019)"
 
-#: ../../SO3.md:350
+#: ../../SO3.md:403
 msgid ""
 "These maps show the most extreme drought intensity class a population was"
 " exposed to within each epoch, as explained in Step 4."
-msgstr "Estos mapas muestran la clase de intensidad de sequía más extrema a la que estuvo expuesta una población dentro de cada época, como se explica en el Paso 4."
+msgstr ""
+"Estos mapas muestran la clase de intensidad de sequía más extrema a la "
+"que estuvo expuesta una población dentro de cada época, como se explica "
+"en el Paso 4."
 
-#: ../../SO3.md:352
+#: ../../SO3.md:405
 msgid ""
 "Parties are also encouraged to submit narratives on the methodology, data"
 " sources and data accuracy in the event that the estimates are derived "
@@ -1078,21 +1611,30 @@ msgid ""
 "beneficial to report on special cases and issues, describing situations "
 "where values might be less reliable and providing the rationale to adopt "
 "a different methodology."
-msgstr "Asimismo, se alienta a las Partes a presentar descripciones sobre los métodos, las fuentes de datos y la exactitud de los datos en caso de que las estimaciones se hayan obtenido a partir de datos nacionales, mediante el campo “Comentarios generales”. También resultaría beneficioso informar sobre casos y cuestiones de carácter especial, describiendo las situaciones en las que los valores podrían ser menos fiables y proporcionando una justificación para adoptar una metodología diferente."
+msgstr ""
+"Asimismo, se alienta a las Partes a presentar descripciones sobre los "
+"métodos, las fuentes de datos y la exactitud de los datos en caso de que "
+"las estimaciones se hayan obtenido a partir de datos nacionales, mediante"
+" el campo “Comentarios generales”. También resultaría beneficioso "
+"informar sobre casos y cuestiones de carácter especial, describiendo las "
+"situaciones en las que los valores podrían ser menos fiables y "
+"proporcionando una justificación para adoptar una metodología diferente."
 
-#: ../../SO3.md:354
+#: ../../SO3.md:407
 msgid "3.2.4. Dependencies"
 msgstr "3.2.4. Dependencias"
 
-#: ../../SO3.md:356
+#: ../../SO3.md:409
 msgid "Drought exposure data relies on the SO 3-1 spatial outputs."
-msgstr "Los datos de exposición a la sequía se basan en los resultados espaciales del indicador OE 3-1."
+msgstr ""
+"Los datos de exposición a la sequía se basan en los resultados espaciales"
+" del indicador OE 3-1."
 
-#: ../../SO3.md:358
+#: ../../SO3.md:411
 msgid "3.2.5. Challenges"
 msgstr "3.2.5. Retos"
 
-#: ../../SO3.md:362
+#: ../../SO3.md:415
 msgid ""
 "The WorldPop sex-disaggregated national datasets are offered as several "
 "individual rasters, each representing an age/sex class per year. This "
@@ -1104,51 +1646,85 @@ msgid ""
 "data available on the PRAIS 4 platform as default data. Parties will be "
 "notified when the challenge is solved and the forms pre-filled with the "
 "default data."
-msgstr "Los conjuntos de datos nacionales desglosados por sexo pertenecientes a WorldPop se ofrecen en forma de múltiples rásteres individuales. Cada uno de ellos representa una clase de edad o sexo por año, lo que equivale a una gran cantidad de datos espaciales en formato Geotiff. Almacenar y procesar estos datos, especialmente en el caso de países de gran tamaño, requiere tanto capacidad para procesar datos ráster como acceso a la potencia informática adecuada, por ejemplo, un servicio en la nube. Actualmente, la CLD está desarrollando un procedimiento para el preprocesamiento masivo de datos ráster que, en un futuro, permitirá que los datos desglosados por sexo estén disponibles en la plataforma PRAIS 4 en forma de datos por defecto. Las Partes recibirán la notificación correspondiente una vez se haya superado este reto y se hayan rellenado previamente los formularios con los datos por defecto."
+msgstr ""
+"Los conjuntos de datos nacionales desglosados por sexo pertenecientes a "
+"WorldPop se ofrecen en forma de múltiples rásteres individuales. Cada uno"
+" de ellos representa una clase de edad o sexo por año, lo que equivale a "
+"una gran cantidad de datos espaciales en formato Geotiff. Almacenar y "
+"procesar estos datos, especialmente en el caso de países de gran tamaño, "
+"requiere tanto capacidad para procesar datos ráster como acceso a la "
+"potencia informática adecuada, por ejemplo, un servicio en la nube. "
+"Actualmente, la CLD está desarrollando un procedimiento para el "
+"preprocesamiento masivo de datos ráster que, en un futuro, permitirá que "
+"los datos desglosados por sexo estén disponibles en la plataforma PRAIS 4"
+" en forma de datos por defecto. Las Partes recibirán la notificación "
+"correspondiente una vez se haya superado este reto y se hayan rellenado "
+"previamente los formularios con los datos por defecto."
 
-#: ../../SO3.md:364
+#: ../../SO3.md:417
 msgid ""
 "Global data quality and resolution might not be sufficiently accurate for"
 " national population estimates. The integration of global and national "
 "data might improve the quality and accuracy of the results but will "
 "require additional processing capacity and technical skills."
-msgstr "La calidad y la resolución de los datos mundiales tal vez no sean lo suficientemente precisas para las estimaciones de la población nacional. La integración de los datos mundiales y nacionales podría mejorar la calidad y precisión de los resultados, pero requerirá mayor capacidad de procesamiento y más competencias técnicas."
+msgstr ""
+"La calidad y la resolución de los datos mundiales tal vez no sean lo "
+"suficientemente precisas para las estimaciones de la población nacional. "
+"La integración de los datos mundiales y nacionales podría mejorar la "
+"calidad y precisión de los resultados, pero requerirá mayor capacidad de "
+"procesamiento y más competencias técnicas."
 
-#: ../../SO3.md:366
+#: ../../SO3.md:419
 msgid "3.2.6. Summary (main actions)"
 msgstr "3.2.6. Resumen (acciones principales)"
 
-#: ../../SO3.md:368
+#: ../../SO3.md:421
 msgid ""
 "Key actions for reporting population exposure to drought hazard are as "
 "follows:"
-msgstr "Las acciones principales que requiere la presentación de informes sobre la exposición de la población a los riesgos de sequía son las siguientes:"
+msgstr ""
+"Las acciones principales que requiere la presentación de informes sobre "
+"la exposición de la población a los riesgos de sequía son las siguientes:"
 
-#: ../../SO3.md:370
+#: ../../SO3.md:423
 msgid ""
 "**Select the population dataset**: Parties may decide to use the default "
 "data or alternative national sources, provided they comply with the data "
 "specifications listed in table 20. If Parties decide to use alternative "
 "data sources, they should follow Steps 2 to 4 below:"
-msgstr "**Seleccionar el conjunto de datos sobre población**: las Partes pueden optar por emplear datos por defecto o fuentes nacionales alternativas, siempre y cuando cumplan las especificaciones de datos que figuran en la tabla 20. En caso de que las Partes decidan utilizar fuentes de datos alternativas, deberán seguir los pasos 2 a 4 que aparecen a continuación:"
+msgstr ""
+"**Seleccionar el conjunto de datos sobre población**: las Partes pueden "
+"optar por emplear datos por defecto o fuentes nacionales alternativas, "
+"siempre y cuando cumplan las especificaciones de datos que figuran en la "
+"tabla 20. En caso de que las Partes decidan utilizar fuentes de datos "
+"alternativas, deberán seguir los pasos 2 a 4 que aparecen a continuación:"
 
-#: ../../SO3.md:372
+#: ../../SO3.md:425
 msgid ""
 "**Overlay population data on indicator SO 3-1 spatial output**: indicator"
 " SO 3-2 is calculated by overlaying the yearly population data on yearly "
 "hazard intensity data derived from the SO 3-1 analysis."
-msgstr "**Superponer los datos de población al resultado espacial del indicador OE 3-1**: el indicador OE 3-2 se calcula superponiendo los datos anuales sobre población a los datos anuales de intensidad de los peligros obtenidos del análisis del OE 3-1."
+msgstr ""
+"**Superponer los datos de población al resultado espacial del indicador "
+"OE 3-1**: el indicador OE 3-2 se calcula superponiendo los datos anuales "
+"sobre población a los datos anuales de intensidad de los peligros "
+"obtenidos del análisis del OE 3-1."
 
-#: ../../SO3.md:374
+#: ../../SO3.md:427
 msgid ""
 "**Calculate the total population as well as the number and percentage of "
 "people within each drought intensity class**: the entire population "
 "exposed to drought and the population exposed to each of the drought "
 "intensity classes are estimated and reported as a population count and "
 "percentage of the total population."
-msgstr "**Calcular la población total, así como el número y el porcentaje de personas dentro de cada clase de intensidad de sequía**: la población total expuesta a la sequía y la población expuesta a cada una de las clases de intensidad de la sequía se estiman y se notifican como un recuento de población y un porcentaje de la población total."
+msgstr ""
+"**Calcular la población total, así como el número y el porcentaje de "
+"personas dentro de cada clase de intensidad de sequía**: la población "
+"total expuesta a la sequía y la población expuesta a cada una de las "
+"clases de intensidad de la sequía se estiman y se notifican como un "
+"recuento de población y un porcentaje de la población total."
 
-#: ../../SO3.md:376
+#: ../../SO3.md:429
 msgid ""
 "**Create a gridded spatial summary of indicator SO 3-2 in four-year "
 "epochs**: the gridded spatial summary for each four-year epoch provides "
@@ -1156,43 +1732,63 @@ msgid ""
 "intensity class over each four-year epoch, from 2000 to the reporting "
 "year, at the scale of the grid cell. These four-year periods should be "
 "consistent with the gridded spatial summaries reported at SO 3-1."
-msgstr "**Crear un resumen espacial reticular del indicador OE 3-2 en épocas cuatrienales**: el resumen espacial reticular para cada época cuatrienal proporciona información sobre el número de personas expuestas a la clase de intensidad de sequía más extrema durante cada época cuatrienal, desde el año 2000 hasta el año del período de presentación de informes, en la escala de la celda de la cuadrícula. Estos periodos cuatrienales deben ser coherentes con los resúmenes espaciales reticulares que se notifican mediante el indicador OE 3-1."
+msgstr ""
+"**Crear un resumen espacial reticular del indicador OE 3-2 en épocas "
+"cuatrienales**: el resumen espacial reticular para cada época cuatrienal "
+"proporciona información sobre el número de personas expuestas a la clase "
+"de intensidad de sequía más extrema durante cada época cuatrienal, desde "
+"el año 2000 hasta el año del período de presentación de informes, en la "
+"escala de la celda de la cuadrícula. Estos periodos cuatrienales deben "
+"ser coherentes con los resúmenes espaciales reticulares que se notifican "
+"mediante el indicador OE 3-1."
 
-#: ../../SO3.md:378
+#: ../../SO3.md:431
 msgid ""
 "**Verify the results**: aware of the limitations of the estimated values "
 "of drought exposure, Parties may verify the accuracy and reliability of "
 "such an indicator in their countries before officially submitting "
 "estimates for UNCCD reporting."
-msgstr "**Verificar los resultados**: siendo conscientes de las limitaciones de los valores estimados de la exposición a la sequía, las Partes pueden verificar la exactitud y fiabilidad de dicho indicador en sus países antes de enviar oficialmente las estimaciones para la presentación de informes de la CLD."
+msgstr ""
+"**Verificar los resultados**: siendo conscientes de las limitaciones de "
+"los valores estimados de la exposición a la sequía, las Partes pueden "
+"verificar la exactitud y fiabilidad de dicho indicador en sus países "
+"antes de enviar oficialmente las estimaciones para la presentación de "
+"informes de la CLD."
 
-#: ../../SO3.md:380
+#: ../../SO3.md:433
 msgid ""
 "**Generate reports**: once verified by the Parties, the data and "
 "supporting narrative should be officially submitted to the UNCCD."
-msgstr "**Generar informes**: una vez que las Partes hayan llevado a cabo la verificación, deberán remitir oficialmente los datos y la información descriptiva que los sustenta a la CLD."
+msgstr ""
+"**Generar informes**: una vez que las Partes hayan llevado a cabo la "
+"verificación, deberán remitir oficialmente los datos y la información "
+"descriptiva que los sustenta a la CLD."
 
-#: ../../SO3.md:382
+#: ../../SO3.md:435
 msgid "3.2.7. Further reading"
 msgstr "3.2.7. Lecturas complementarias"
 
-#: ../../SO3.md:384
+#: ../../SO3.md:437
 msgid ""
 "Good Practice Guidance for National Reporting on UNCCD Strategic "
 "Objective 3. Chapter 2. Level 2 Indicator "
 "(<https://www.unccd.int/publications/good-practice-guidance-national-"
 "reporting-unccd-strategic-objective-3-mitigate-adapt>)"
-msgstr "Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3. Capítulo 2: “Level 2 Indicator” (<https://www.unccd.int/publications/good-practice-guidance-national-reporting-unccd-strategic-objective-3-mitigate-adapt>)"
+msgstr ""
+"Good Practice Guidance for National Reporting on UNCCD Strategic "
+"Objective 3. Capítulo 2: “Level 2 Indicator” "
+"(<https://www.unccd.int/publications/good-practice-guidance-national-"
+"reporting-unccd-strategic-objective-3-mitigate-adapt>)"
 
-#: ../../SO3.md:386
+#: ../../SO3.md:439
 msgid "3.3. SO 3-3 – Trends in the degree of drought vulnerability"
 msgstr "3.3. OE 3-3 - Tendencias en el grado de vulnerabilidad a la sequía"
 
-#: ../../SO3.md:388
+#: ../../SO3.md:441
 msgid "3.3.1. Introduction"
 msgstr "3.3.1. Introducción"
 
-#: ../../SO3.md:390
+#: ../../SO3.md:443
 msgid ""
 "The UNCCD approach to assessing drought vulnerability is based on a "
 "composite index, the Drought Vulnerability Index (DVI), which "
@@ -1200,55 +1796,85 @@ msgid ""
 "population of an individual country to drought: i) social, ii) economic "
 "and iii) infrastructural. The DVI does not, at present, address "
 "ecological or ecosystem vulnerability."
-msgstr "El enfoque de evaluación de la vulnerabilidad a la sequía que adopta la CLD se basa en un índice compuesto, el Índice de Vulnerabilidad a la Sequía (IVS), que incorpora tres componentes para reflejar la vulnerabilidad de la población de cada país a la sequía: i) social, ii) económico y iii) de infraestructura. En la actualidad, el IVC no aborda la vulnerabilidad ecológica ni de los ecosistemas."
+msgstr ""
+"El enfoque de evaluación de la vulnerabilidad a la sequía que adopta la "
+"CLD se basa en un índice compuesto, el Índice de Vulnerabilidad a la "
+"Sequía (IVS), que incorpora tres componentes para reflejar la "
+"vulnerabilidad de la población de cada país a la sequía: i) social, ii) "
+"económico y iii) de infraestructura. En la actualidad, el IVC no aborda "
+"la vulnerabilidad ecológica ni de los ecosistemas."
 
-#: ../../SO3.md:392
+#: ../../SO3.md:445
 msgid ""
 "The DVI may be derived through three alternative processes, corresponding"
 " to three increasing levels of computational complexity:"
-msgstr "El IVC puede obtenerse mediante tres procesos alternativos, correspondientes a tres niveles de complejidad computacional que van en aumento:"
+msgstr ""
+"El IVC puede obtenerse mediante tres procesos alternativos, "
+"correspondientes a tres niveles de complejidad computacional que van en "
+"aumento:"
 
-#: ../../SO3.md:394
+#: ../../SO3.md:447
 msgid ""
 "Tier 1 Vulnerability Assessment (VA) – uses at least one factor per "
 "vulnerability component, represented by country-level metrics."
-msgstr "Nivel 1 de evaluación de la vulnerabilidad: utiliza al menos un factor por componente de la vulnerabilidad, representado por parámetros de escala nacional."
+msgstr ""
+"Nivel 1 de evaluación de la vulnerabilidad: utiliza al menos un factor "
+"por componente de la vulnerabilidad, representado por parámetros de "
+"escala nacional."
 
-#: ../../SO3.md:396
+#: ../../SO3.md:449
 msgid ""
 "Tier 2 VA – uses more than one factor per vulnerability component, where "
 "the factors are represented by country-level metrics, with the inclusion "
 "of sex-disaggregated data (where applicable)."
-msgstr "Nivel 2 de evaluación de la vulnerabilidad: utiliza más de un factor por componente de la vulnerabilidad y en él los factores están representados por parámetros de escala nacional, con la inclusión de datos desglosados por sexo (cuando corresponda)."
+msgstr ""
+"Nivel 2 de evaluación de la vulnerabilidad: utiliza más de un factor por "
+"componente de la vulnerabilidad y en él los factores están representados "
+"por parámetros de escala nacional, con la inclusión de datos desglosados "
+"por sexo (cuando corresponda)."
 
-#: ../../SO3.md:398
+#: ../../SO3.md:451
 msgid ""
 "Tier 3 VA – uses more than one factor per vulnerability component, where "
 "factors are represented by sub-national metrics (which may be gridded or "
 "disaggregated by administrative regions  ), with the inclusion of sex-"
 "disaggregated data (where applicable)."
-msgstr "Nivel 3 de evaluación de la vulnerabilidad: utiliza más de un factor por componente de la vulnerabilidad y en él los factores están representados por parámetros de escala subnacional (que pueden ser reticulares o estar desglosados por regiones administrativas), con la inclusión de datos desglosados por sexo (cuando corresponda)."
+msgstr ""
+"Nivel 3 de evaluación de la vulnerabilidad: utiliza más de un factor por "
+"componente de la vulnerabilidad y en él los factores están representados "
+"por parámetros de escala subnacional (que pueden ser reticulares o estar "
+"desglosados por regiones administrativas), con la inclusión de datos "
+"desglosados por sexo (cuando corresponda)."
 
-#: ../../SO3.md:400
+#: ../../SO3.md:453
 msgid ""
 "Parties may opt for the approach best suited to their current capacity to"
 " collect and process data, subject to data availability."
-msgstr "Las Partes pueden optar por el enfoque que mejor se adapte a su capacidad actual de recopilación y procesamiento de datos, con arreglo a la disponibilidad de estos."
+msgstr ""
+"Las Partes pueden optar por el enfoque que mejor se adapte a su capacidad"
+" actual de recopilación y procesamiento de datos, con arreglo a la "
+"disponibilidad de estos."
 
-#: ../../SO3.md:402
+#: ../../SO3.md:455
 msgid ""
 "The UNCCD provides Parties with default data derived from the global DVI "
 "dataset of the European Commission Joint Research Centre (JRC) to "
 "facilitate the reporting process. This data is based on globally "
 "available datasets and should be used in the absence of more accurate "
 "data at national level."
-msgstr "La CLD proporciona a las Partes datos por defecto procedentes del conjunto de datos globales del IVC del Centro Común de Investigación (CCI) de la Comisión Europea para facilitar el proceso de presentación de informes. Estos datos se basan en conjuntos de datos disponibles a escala mundial y deben utilizarse cuando se carezca de otros más precisos en el ámbito nacional."
+msgstr ""
+"La CLD proporciona a las Partes datos por defecto procedentes del "
+"conjunto de datos globales del IVC del Centro Común de Investigación "
+"(CCI) de la Comisión Europea para facilitar el proceso de presentación de"
+" informes. Estos datos se basan en conjuntos de datos disponibles a "
+"escala mundial y deben utilizarse cuando se carezca de otros más precisos"
+" en el ámbito nacional."
 
-#: ../../SO3.md:404
+#: ../../SO3.md:457
 msgid "3.3.2. Prerequisites for reporting"
 msgstr "3.3.2. Requisitos previos para la presentación de informes"
 
-#: ../../SO3.md:406
+#: ../../SO3.md:459
 msgid ""
 "An in-depth reading of chapter 3 of the “[Good Practice Guidance for "
 "National Reporting on UNCCD Strategic Objective "
@@ -1257,13 +1883,20 @@ msgid ""
 "manage the effects of drought in order to enhance resilience of "
 "vulnerable populations and ecosystems” detailing the methodology used to "
 "estimate drought vulnerability."
-msgstr "Una lectura exhaustiva del capítulo 3 de [Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf): To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems, donde se detalla la metodología utilizada para estimar la vulnerabilidad a la sequía."
+msgstr ""
+"Una lectura exhaustiva del capítulo 3 de [Good Practice Guidance for "
+"National Reporting on UNCCD Strategic Objective "
+"3](https://www.unccd.int/sites/default/files/documents/2021-09"
+"/UNCCD_GPG_Strategic-Objective-3_2021.pdf): To mitigate, adapt to, and "
+"manage the effects of drought in order to enhance resilience of "
+"vulnerable populations and ecosystems, donde se detalla la metodología "
+"utilizada para estimar la vulnerabilidad a la sequía."
 
-#: ../../SO3.md:408
+#: ../../SO3.md:461
 msgid "Data complying with the specifications listed in table 21."
 msgstr "Datos que cumplan con las especificaciones indicadas en la tabla 21."
 
-#: ../../SO3.md:410
+#: ../../SO3.md:463
 msgid ""
 "A pool of national experts officially nominated by the national "
 "authorities to verify the consistency of the results of the reporting "
@@ -1272,24 +1905,42 @@ msgid ""
 "preferred to the default data. The key institution in this case is a "
 "country’s national statistical office, however universities and research "
 "centres may also provide valuable inputs."
-msgstr "Un grupo de expertos nacionales designados oficialmente por las autoridades del país para verificar la coherencia de los resultados del proceso de presentación de informes en relación con la situación sobre el terreno o para desarrollar y aplicar una metodología a medida, para estimar el indicador OE 3-3 en aquellos casos en los que se prefieran los datos nacionales a los datos por defecto. La institución clave, en este caso, es la oficina nacional de estadística del país, aunque las universidades y los centros de investigación también pueden realizar valiosas aportaciones."
+msgstr ""
+"Un grupo de expertos nacionales designados oficialmente por las "
+"autoridades del país para verificar la coherencia de los resultados del "
+"proceso de presentación de informes en relación con la situación sobre el"
+" terreno o para desarrollar y aplicar una metodología a medida, para "
+"estimar el indicador OE 3-3 en aquellos casos en los que se prefieran los"
+" datos nacionales a los datos por defecto. La institución clave, en este "
+"caso, es la oficina nacional de estadística del país, aunque las "
+"universidades y los centros de investigación también pueden realizar "
+"valiosas aportaciones."
 
-#: ../../SO3.md:412
+#: ../../SO3.md:465
 msgid "3.3.3. Reporting process and step-by-step procedure"
-msgstr "3.3.3. Proceso de presentación de informes e instrucciones detalladas paso por paso"
+msgstr ""
+"3.3.3. Proceso de presentación de informes e instrucciones detalladas "
+"paso por paso"
 
-#: ../../SO3.md:414
+#: ../../SO3.md:467
 msgid ""
 "The step-by-step procedure for reporting is described in the following "
 "and applies to both the baseline and reporting periods. If the default "
 "data is used, Steps 2 to 4 are unnecessary."
-msgstr "A continuación se describen las instrucciones detalladas paso por paso para la presentación de informes, que se aplican tanto al período de referencia como al de presentación de informes. En caso de que se utilicen los datos por defecto, no sería necesario seguir los pasos 2 a 4."
+msgstr ""
+"A continuación se describen las instrucciones detalladas paso por paso "
+"para la presentación de informes, que se aplican tanto al período de "
+"referencia como al de presentación de informes. En caso de que se "
+"utilicen los datos por defecto, no sería necesario seguir los pasos 2 a "
+"4."
 
-#: ../../SO3.md:416
+#: ../../SO3.md:469
 msgid "Step 1: Select tier of vulnerability assessment based on data availability"
-msgstr "Paso 1: Seleccionar el nivel de evaluación de la vulnerabilidad en función de la disponibilidad de los datos"
+msgstr ""
+"Paso 1: Seleccionar el nivel de evaluación de la vulnerabilidad en "
+"función de la disponibilidad de los datos"
 
-#: ../../SO3.md:418
+#: ../../SO3.md:471
 #, python-format
 msgid ""
 "The vulnerability factors recommended by the UNCCD to derive the DVI "
@@ -1302,15 +1953,31 @@ msgid ""
 "as critical to understanding vulnerability and due to their use for other"
 " reporting requirements such as SO 2 and the Sustainable Development "
 "Goals."
-msgstr "Los factores de vulnerabilidad recomendados por la CLD para obtener el IVS (enumerados en la figura 3) proporcionan una instantánea de la vulnerabilidad socioeconómica de una Parte a la sequía. Los tres factores básicos que se han recomendado para la evaluación de la vulnerabilidad mínima de nivel 1 —“Tasa de alfabetización (% o de la población a partir de los 15 años cumplidos)”, “Proporción de la población que vive por debajo del umbral internacional de pobreza” y “Proporción de la población que utiliza servicios de suministro de agua potable gestionados sin riesgos”— se seleccionaron porque los expertos los consideraron fundamentales para comprender la vulnerabilidad y debido a su uso para otros requisitos de la presentación de informes, como el indicador OE 2 y los Objetivos de Desarrollo Sostenible."
+msgstr ""
+"Los factores de vulnerabilidad recomendados por la CLD para obtener el "
+"IVS (enumerados en la figura 3) proporcionan una instantánea de la "
+"vulnerabilidad socioeconómica de una Parte a la sequía. Los tres factores"
+" básicos que se han recomendado para la evaluación de la vulnerabilidad "
+"mínima de nivel 1 —“Tasa de alfabetización (% o de la población a partir "
+"de los 15 años cumplidos)”, “Proporción de la población que vive por "
+"debajo del umbral internacional de pobreza” y “Proporción de la población"
+" que utiliza servicios de suministro de agua potable gestionados sin "
+"riesgos”— se seleccionaron porque los expertos los consideraron "
+"fundamentales para comprender la vulnerabilidad y debido a su uso para "
+"otros requisitos de la presentación de informes, como el indicador OE 2 y"
+" los Objetivos de Desarrollo Sostenible."
 
-#: ../../SO3.md:420
+#: ../../SO3.md:473
 msgid ""
 "_Figure 3. Social, economic, and infrastructural components and their "
-"associated factors recommended for calculating the Drought Vulnerability Index_"
-msgstr "_Figura 3. Componentes sociales, económicos y de infraestructura, con sus factores asociados, que se recomiendan para calcular el Índice de Vulnerabilidad a la Sequía_"
+"associated factors recommended for calculating the Drought Vulnerability "
+"Index_"
+msgstr ""
+"_Figura 3. Componentes sociales, económicos y de infraestructura, con sus"
+" factores asociados, que se recomiendan para calcular el Índice de "
+"Vulnerabilidad a la Sequía_"
 
-#: ../../SO3.md:423
+#: ../../SO3.md:502
 msgid ""
 "The UNCCD provides default data from the global DVI dataset of the JRC. "
 "The method used to derive the default DVI is similar to the one presented"
@@ -1321,9 +1988,19 @@ msgid ""
 "Prevention and Preparedness (US$/Year/Capital)” and “Global map of "
 "Accessibility: Travel time to major cities”. The default DVI value "
 "represents the median DVI across the country for the period 2000–2018."
-msgstr "La CLD proporciona datos por defecto del conjunto de datos globales del IVS del CCI. El método utilizado para obtener el IVS por defecto es similar al que se presenta en este manual y en Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3, aunque tiene algunas diferencias fundamentales en cuanto al método de normalización (véase el Paso 2) y el número de factores incluidos. En el IVS por defecto se utilizan dos factores más: “Prevención y preparación ante desastres (USD/año/capital)” y “Mapa mundial de accesibilidad: tiempo de viaje a las grandes ciudades”. El valor del IVS por defecto representa la mediana del IVS en todo el país para el período 2000-2018."
+msgstr ""
+"La CLD proporciona datos por defecto del conjunto de datos globales del "
+"IVS del CCI. El método utilizado para obtener el IVS por defecto es "
+"similar al que se presenta en este manual y en Good Practice Guidance for"
+" National Reporting on UNCCD Strategic Objective 3, aunque tiene algunas "
+"diferencias fundamentales en cuanto al método de normalización (véase el "
+"Paso 2) y el número de factores incluidos. En el IVS por defecto se "
+"utilizan dos factores más: “Prevención y preparación ante desastres "
+"(USD/año/capital)” y “Mapa mundial de accesibilidad: tiempo de viaje a "
+"las grandes ciudades”. El valor del IVS por defecto representa la mediana"
+" del IVS en todo el país para el período 2000-2018."
 
-#: ../../SO3.md:425
+#: ../../SO3.md:504
 msgid ""
 "Country Parties that do not have data available to calculate the minimum "
 "Tier 1 VA can report using the default DVI data. However, it is "
@@ -1331,26 +2008,42 @@ msgid ""
 "move up the tiers of VA in order to increase the sensitivity of the DVI "
 "and improve the granularity of the assessment. The decision tree in "
 "figure 4 helps Parties select the tier of VA based on data availability."
-msgstr "Los países Partes que no dispongan de datos para calcular la evaluación de la vulnerabilidad mínima de nivel 1 pueden notificarla utilizando los datos por defecto del IVS. Sin embargo, se recomienda que en los sucesivos ciclos de presentación de informes se procure subir los niveles de evaluación de la vulnerabilidad para aumentar la sensibilidad del IVS y mejorar la granularidad de la evaluación. El árbol de decisiones de la figura 4 ayuda a las Partes a seleccionar el nivel de evaluación de la vulnerabilidad en función de la disponibilidad de los datos."
+msgstr ""
+"Los países Partes que no dispongan de datos para calcular la evaluación "
+"de la vulnerabilidad mínima de nivel 1 pueden notificarla utilizando los "
+"datos por defecto del IVS. Sin embargo, se recomienda que en los "
+"sucesivos ciclos de presentación de informes se procure subir los niveles"
+" de evaluación de la vulnerabilidad para aumentar la sensibilidad del IVS"
+" y mejorar la granularidad de la evaluación. El árbol de decisiones de la"
+" figura 4 ayuda a las Partes a seleccionar el nivel de evaluación de la "
+"vulnerabilidad en función de la disponibilidad de los datos."
 
-#: ../../SO3.md:427
+#: ../../SO3.md:506
 msgid ""
 "National/regional data products used to calculate the DVI should conform "
 "with the specifications listed in table 21."
-msgstr "Los productos de datos nacionales o regionales que se utilicen para calcular el IVS deberán ajustarse a las especificaciones enumeradas en la tabla 21."
+msgstr ""
+"Los productos de datos nacionales o regionales que se utilicen para "
+"calcular el IVS deberán ajustarse a las especificaciones enumeradas en la"
+" tabla 21."
 
-#: ../../SO3.md:429
+#: ../../SO3.md:508
 msgid ""
 "_Figure 4. Decision tree to help Parties choose the best tier of "
 "vulnerability assessment for the SO 3-3 Indicator reporting according to "
-"data availability_ ![](/img/SO3_3b_Decision_tree.jpg)"
-msgstr "_Figura 4. Árbol de decisión para ayudar a las Partes a elegir el mejor nivel de evaluación de la vulnerabilidad para la presentación de informes del indicador del OE 3-3, en función de la disponibilidad de los datos_ ![](/img/SO3_3b_Decision_tree.jpg)"
+"data availability_"
+msgstr ""
+"_Figura 4. Árbol de decisión para ayudar a las Partes a elegir el mejor "
+"nivel de evaluación de la vulnerabilidad para la presentación de informes"
+" del indicador del OE 3-3, en función de la disponibilidad de los datos_"
 
-#: ../../SO3.md:432
+#: ../../SO3.md:537
 msgid "_DVI: Drought Vulnerability Index_{{br}} _VA: Vulnerability Assessment_"
-msgstr "_IVS: Índice de Vulnerabilidad a la Sequía_{{br}} _VA: evaluación de la vulnerabilidad_"
+msgstr ""
+"_IVS: Índice de Vulnerabilidad a la Sequía_{{br}} _VA: evaluación de la "
+"vulnerabilidad_"
 
-#: ../../SO3.md:440
+#: ../../SO3.md:545
 msgid "*__Table 21__. Data specifications for SO 3-3 Indicator*"
 msgstr "*__Tabla 21__. Especificaciones de los datos para el indicador OE 3-3*"
 
@@ -1358,11 +2051,15 @@ msgstr "*__Tabla 21__. Especificaciones de los datos para el indicador OE 3-3*"
 msgid ""
 "Default data (Drought Vulnerability Index dataset produced by the Joint "
 "Research Centre)"
-msgstr "Datos por defecto (conjunto de datos del Índice de Vulnerabilidad a la Sequía elaborado por el Centro Común de Investigación)"
+msgstr ""
+"Datos por defecto (conjunto de datos del Índice de Vulnerabilidad a la "
+"Sequía elaborado por el Centro Común de Investigación)"
 
 #: ../../SO3.md:7
 msgid "(Data needed to generate indicator SO 3-3 as described in Steps 2 to 4)"
-msgstr "(Datos necesarios para generar el indicador OE 3-3, según se describe en los pasos 2 a 4)"
+msgstr ""
+"(Datos necesarios para generar el indicador OE 3-3, según se describe en "
+"los pasos 2 a 4)"
 
 #: ../../SO3.md:8
 msgid ""
@@ -1370,7 +2067,12 @@ msgid ""
 "(DVI) is drawn from various sources such as World Bank, Organisation for "
 "Economic Cooperation and Development, Food and Agriculture Organization "
 "of the United Nations, and Joint Research Centre."
-msgstr "Los datos de entrada utilizados para calcular el Índice de Vulnerabilidad a la Sequía (IVS) por defecto proceden de diversas fuentes, como el Banco Mundial, la Organización de Cooperación y Desarrollo Económicos, la Organización de las Naciones Unidas para la Alimentación y la Agricultura y el Centro Común de Investigación."
+msgstr ""
+"Los datos de entrada utilizados para calcular el Índice de Vulnerabilidad"
+" a la Sequía (IVS) por defecto proceden de diversas fuentes, como el "
+"Banco Mundial, la Organización de Cooperación y Desarrollo Económicos, la"
+" Organización de las Naciones Unidas para la Alimentación y la "
+"Agricultura y el Centro Común de Investigación."
 
 #: ../../SO3.md:9
 msgid ""
@@ -1379,13 +2081,22 @@ msgid ""
 "for National Reporting on UNCCD Strategic Objective "
 "3](https://www.unccd.int/sites/default/files/documents/2021-09"
 "/UNCCD_GPG_Strategic-Objective-3_2021.pdf)\"."
-msgstr "En la tabla 14 de [Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf) se enumeran los conjuntos de datos de libre acceso para el cálculo de los factores necesarios que permiten obtener el IVS."
+msgstr ""
+"En la tabla 14 de [Good Practice Guidance for National Reporting on UNCCD"
+" Strategic Objective "
+"3](https://www.unccd.int/sites/default/files/documents/2021-09"
+"/UNCCD_GPG_Strategic-Objective-3_2021.pdf) se enumeran los conjuntos de "
+"datos de libre acceso para el cálculo de los factores necesarios que "
+"permiten obtener el IVS."
 
 #: ../../SO3.md:11
 msgid ""
 "Alternatively, if available, in-country datasets with higher spatial "
 "resolution and fewer gaps over the baseline and reporting period."
-msgstr "Otra posibilidad, si están disponibles, son los conjuntos de datos del país con mayor resolución espacial y menos lagunas durante los períodos de referencia y presentación de informes."
+msgstr ""
+"Otra posibilidad, si están disponibles, son los conjuntos de datos del "
+"país con mayor resolución espacial y menos lagunas durante los períodos "
+"de referencia y presentación de informes."
 
 #: ../../SO3.md:14
 msgid "(DVI indicator resulting from the analysis described in Steps 2 to 4)"
@@ -1396,17 +2107,24 @@ msgid ""
 "2018 DVI for the baseline and the reporting period. Regions where "
 "droughts could be meaningless, such as deserts and cold areas, are "
 "masked."
-msgstr "IVS de 2018 para los períodos de referencia y presentación de informes. Se ocultan las regiones en las que las sequías podrían ser irrelevantes, como los desiertos y las zonas frías."
+msgstr ""
+"IVS de 2018 para los períodos de referencia y presentación de informes. "
+"Se ocultan las regiones en las que las sequías podrían ser irrelevantes, "
+"como los desiertos y las zonas frías."
 
 #: ../../SO3.md:16
 msgid "Annual or near-annual DVI for the baseline and reporting periods."
-msgstr "IVS anual o casi anual para los períodos de referencia y presentación de informes."
+msgstr ""
+"IVS anual o casi anual para los períodos de referencia y presentación de "
+"informes."
 
 #: ../../SO3.md:18
 msgid ""
 "Continuous, fractional scale from 0 to 1 but classification based on "
 "quantiles to group the vulnerability classes."
-msgstr "Escala continua y fraccionaria de 0 a 1, aunque la clasificación se basa en cuantiles para agrupar las clases de vulnerabilidad."
+msgstr ""
+"Escala continua y fraccionaria de 0 a 1, aunque la clasificación se basa "
+"en cuantiles para agrupar las clases de vulnerabilidad."
 
 #: ../../SO3.md:19
 msgid "Continuous scale from 0 to 1."
@@ -1420,105 +2138,145 @@ msgstr "Escala nacional"
 msgid "National and/or sub-national levels"
 msgstr "Niveles nacionales o subnacionales"
 
-#: ../../SO3.md:475
+#: ../../SO3.md:580
 msgid "Step 2:  Factor normalization"
 msgstr "Paso 2: Normalización de los factores"
 
-#: ../../SO3.md:477
+#: ../../SO3.md:582
 msgid ""
 "In all tiers of VA, factors should be normalized before they can be "
 "compared and aggregated, as the vulnerability factors used are all "
 "measured using different units."
-msgstr "En todos los niveles de la evaluación de la vulnerabilidad, es preciso normalizar los factores antes de poder compararlos y agregarlos, ya que los factores de vulnerabilidad empleados se miden utilizando diferentes unidades."
+msgstr ""
+"En todos los niveles de la evaluación de la vulnerabilidad, es preciso "
+"normalizar los factores antes de poder compararlos y agregarlos, ya que "
+"los factores de vulnerabilidad empleados se miden utilizando diferentes "
+"unidades."
 
-#: ../../SO3.md:479
+#: ../../SO3.md:584
 msgid ""
 "The UNCCD recommends normalizing factors using the maximum and minimum "
 "values within the country using all historic data up to, and including, "
 "the reporting period. This provides the largest range possible, ensuring "
 "that the maximum and minimum values are representative for the country."
-msgstr "La CLD recomienda normalizar los factores empleando los valores máximos y mínimos dentro del país, con todos los datos históricos hasta el período de presentación de informes, inclusive. Esto proporciona el mayor rango posible, lo que garantiza que los valores máximos y mínimos sean representativos del país."
+msgstr ""
+"La CLD recomienda normalizar los factores empleando los valores máximos y"
+" mínimos dentro del país, con todos los datos históricos hasta el período"
+" de presentación de informes, inclusive. Esto proporciona el mayor rango "
+"posible, lo que garantiza que los valores máximos y mínimos sean "
+"representativos del país."
 
-#: ../../SO3.md:481
+#: ../../SO3.md:586
 msgid ""
 "Each time the DVI is calculated to report indicator SO 3-3, the factor "
 "range (i.e., the minimum and maximum values) should be recalculated, and "
 "if values on the reporting periods fall out outside the range, the factor"
 " should be re-normalized using the new range."
-msgstr "Cada vez que se calcule el IVS para informar sobre el indicador OE 3-3, se deberá volver a calcular el rango del factor (es decir, los valores mínimos y máximos) y si los valores de los períodos de presentación de informes quedan fuera del rango será preciso volver a normalizar el factor utilizando el nuevo rango."
+msgstr ""
+"Cada vez que se calcule el IVS para informar sobre el indicador OE 3-3, "
+"se deberá volver a calcular el rango del factor (es decir, los valores "
+"mínimos y máximos) y si los valores de los períodos de presentación de "
+"informes quedan fuera del rango será preciso volver a normalizar el "
+"factor utilizando el nuevo rango."
 
-#: ../../SO3.md:483
+#: ../../SO3.md:588
 msgid ""
 "Where there is a positive correlation/relationship between vulnerability "
 "and the factor[^3]  (i.e., if the factor value increases, vulnerability "
 "also increases), the data should be normalized using the equation below:"
-msgstr "Cuando exista una correlación o relación positiva entre la vulnerabilidad y el factor[^3] (es decir, si el valor del factor aumenta, la vulnerabilidad también), los datos deberán normalizarse mediante la siguiente ecuación:"
+msgstr ""
+"Cuando exista una correlación o relación positiva entre la vulnerabilidad"
+" y el factor[^3] (es decir, si el valor del factor aumenta, la "
+"vulnerabilidad también), los datos deberán normalizarse mediante la "
+"siguiente ecuación:"
 
-#: ../../SO3.md:485
+#: ../../SO3.md:590
 msgid "$Factor = \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 msgstr "$Factor = \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 
-#: ../../SO3.md:489
+#: ../../SO3.md:594
 msgid "X{sub}`i` is the value of the considered factor in the year “i”"
 msgstr "X{sub}`i` es el valor del factor considerado en el año “i”"
 
-#: ../../SO3.md:490
+#: ../../SO3.md:595
 msgid ""
 "X{sub}`min` is the minimum value of the considered factor observed in the"
 " entire time series"
-msgstr "X{sub}`min` es el valor mínimo del factor considerado observado en toda la serie temporal"
+msgstr ""
+"X{sub}`min` es el valor mínimo del factor considerado observado en toda "
+"la serie temporal"
 
-#: ../../SO3.md:491
+#: ../../SO3.md:596
 msgid ""
 "X{sub}`max` is the maximum value of the considered factor observed in the"
 " entire time series"
-msgstr "X{sub}`max` es el valor máximo del factor considerado observado en toda la serie temporal"
+msgstr ""
+"X{sub}`max` es el valor máximo del factor considerado observado en toda "
+"la serie temporal"
 
-#: ../../SO3.md:493
+#: ../../SO3.md:598
 msgid ""
 "In case of negative correlation/relationship between vulnerability and "
 "the factor, the equation is:"
-msgstr "En caso de que haya una correlación o relación negativa entre la vulnerabilidad y el factor, la ecuación es:"
+msgstr ""
+"En caso de que haya una correlación o relación negativa entre la "
+"vulnerabilidad y el factor, la ecuación es:"
 
-#: ../../SO3.md:495
+#: ../../SO3.md:600
 msgid "$Factor = 1 - \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 msgstr "$Factor = 1 - \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 
-#: ../../SO3.md:497
+#: ../../SO3.md:602
 msgid ""
 "After normalization, all factors have a value of between zero and one, "
 "relative to the historical maximum and minimum of the country."
-msgstr "Después de la normalización, todos los factores tienen un valor entre 0 y 1, en relación con el máximo y el mínimo históricos del país."
+msgstr ""
+"Después de la normalización, todos los factores tienen un valor entre 0 y"
+" 1, en relación con el máximo y el mínimo históricos del país."
 
-#: ../../SO3.md:499
+#: ../../SO3.md:604
 msgid ""
 "Normalization of sex-disaggregated data for Tier 1 and 2 VA uses the same"
 " formulas described above, applied once for each piece of sex-related "
 "data."
-msgstr "En la normalización de los datos desglosados por sexo para las evaluaciones de la vulnerabilidad de nivel 1 y 2 se utilizan estas mismas fórmulas que se han descrito, aplicadas una vez para cada dato relativo al sexo."
+msgstr ""
+"En la normalización de los datos desglosados por sexo para las "
+"evaluaciones de la vulnerabilidad de nivel 1 y 2 se utilizan estas mismas"
+" fórmulas que se han descrito, aplicadas una vez para cada dato relativo "
+"al sexo."
 
-#: ../../SO3.md:501
+#: ../../SO3.md:606
 msgid ""
 "For sub-national level data (Tier 3 VA), the calculation should be "
 "applied to the data from all spatial units (e.g., administrative units) "
 "combined, and the factor range should reflect the minimum and maximum "
 "values of the whole country."
-msgstr "En el caso de los datos de nivel subnacional (evaluación de la vulnerabilidad de nivel 3), el cálculo debe aplicarse a los de todas las unidades espaciales (por ejemplo, unidades administrativas) combinadas y el rango del factor debe reflejar los valores mínimos y máximos del conjunto del país."
+msgstr ""
+"En el caso de los datos de nivel subnacional (evaluación de la "
+"vulnerabilidad de nivel 3), el cálculo debe aplicarse a los de todas las "
+"unidades espaciales (por ejemplo, unidades administrativas) combinadas y "
+"el rango del factor debe reflejar los valores mínimos y máximos del "
+"conjunto del país."
 
-#: ../../SO3.md:503
+#: ../../SO3.md:608
 msgid ""
 "For the default DVI, each factor was normalized using the global maximum "
 "and minimum values, rather than historical ranges for the given country. "
 "Normalization at the global scale means the resulting vulnerability "
 "assessment is less sensitive to the local/in-country situation than when "
 "the national range is used."
-msgstr "Para el IVS por defecto, cada factor se ha normalizado utilizando los valores máximos y mínimos globales, en lugar de los rangos históricos del país en cuestión. La normalización a escala mundial significa que la evaluación de la vulnerabilidad resultante es menos sensible a la situación local o del país que cuando se utiliza el rango nacional."
+msgstr ""
+"Para el IVS por defecto, cada factor se ha normalizado utilizando los "
+"valores máximos y mínimos globales, en lugar de los rangos históricos del"
+" país en cuestión. La normalización a escala mundial significa que la "
+"evaluación de la vulnerabilidad resultante es menos sensible a la "
+"situación local o del país que cuando se utiliza el rango nacional."
 
-#: ../../SO3.md:507
+#: ../../SO3.md:612
 msgid "Step 3: Derive the Drought Vulnerability Index components"
 msgstr "Paso 3: Obtener los componentes del Índice de Vulnerabilidad a la Sequía"
 
-#: ../../SO3.md:509
+#: ../../SO3.md:614
 msgid ""
 "This step aims to derive aggregated values for each of the three DVI "
 "components. For Parties adopting the Tier 1 VA approach, the values of "
@@ -1526,23 +2284,37 @@ msgid ""
 "corresponding component. Instead, Tier 2 and Tier 3 VAs require the "
 "calculation of the arithmetic mean of the normalized factors to derive "
 "the aggregated value of each component."
-msgstr "Este paso tiene como objetivo obtener los valores agregados para cada uno de los tres componentes del IVS. En el caso de las Partes que adopten el enfoque de evaluación de la vulnerabilidad de nivel 1, los valores del factor normalizado del paso 2 también son representativos del componente correspondiente. Las evaluaciones de la vulnerabilidad de nivel 2 y 3, en cambio, requieren el cálculo de la media aritmética de los factores normalizados para obtener el valor agregado de cada componente."
+msgstr ""
+"Este paso tiene como objetivo obtener los valores agregados para cada uno"
+" de los tres componentes del IVS. En el caso de las Partes que adopten el"
+" enfoque de evaluación de la vulnerabilidad de nivel 1, los valores del "
+"factor normalizado del paso 2 también son representativos del componente "
+"correspondiente. Las evaluaciones de la vulnerabilidad de nivel 2 y 3, en"
+" cambio, requieren el cálculo de la media aritmética de los factores "
+"normalizados para obtener el valor agregado de cada componente."
 
-#: ../../SO3.md:511
+#: ../../SO3.md:616
 msgid ""
 "The result of this step is a single value for each component and each "
 "geographic unit of the country. If sex-disaggregated data is used, "
 "separate values for male and female are produced for each component."
-msgstr "El resultado de este paso es un valor único para cada componente y unidad geográfica del país. La utilización de datos desglosados por sexo deparará valores separados para hombres y mujeres en cada componente."
+msgstr ""
+"El resultado de este paso es un valor único para cada componente y unidad"
+" geográfica del país. La utilización de datos desglosados por sexo "
+"deparará valores separados para hombres y mujeres en cada componente."
 
-#: ../../SO3.md:513
+#: ../../SO3.md:618
 msgid ""
 "Parties may assign weights to the vulnerability factors if their relative"
 " importance and relevance is known. It is recommended to apply the "
 "weights to the vulnerability factors and not to the three components."
-msgstr "Las Partes pueden asignar ponderaciones a los factores de vulnerabilidad si se conoce su importancia y relevancia relativas. Se recomienda aplicar las ponderaciones a los factores de vulnerabilidad y no a los tres componentes."
+msgstr ""
+"Las Partes pueden asignar ponderaciones a los factores de vulnerabilidad "
+"si se conoce su importancia y relevancia relativas. Se recomienda aplicar"
+" las ponderaciones a los factores de vulnerabilidad y no a los tres "
+"componentes."
 
-#: ../../SO3.md:515
+#: ../../SO3.md:620
 msgid "Step 4:  Calculate the Drought Vulnerability Index"
 msgstr "Paso 4: Calcular el Índice de Vulnerabilidad a la Sequía"
 
@@ -1550,22 +2322,26 @@ msgstr "Paso 4: Calcular el Índice de Vulnerabilidad a la Sequía"
 msgid "Related areas in the PRAIS 4 platform: table SO3-3.T1"
 msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO3-3.T1"
 
-#: ../../SO3.md:521
+#: ../../SO3.md:626
 msgid ""
 "In all tiers of VA, the three components (C{sub}`social`, "
 "C{sub}`economic` and C{sub}`infrastructural`) derived in the previous "
 "steps are used to produce the DVI by calculating their mean value."
-msgstr "En todos los niveles de evaluación de la vulnerabilidad, los tres componentes (C{sub}“social”, C{sub}“económico” y C{sub}“de infraestructura”) obtenidos en los pasos anteriores se utilizan para generar el IVS mediante el cálculo de su valor medio."
+msgstr ""
+"En todos los niveles de evaluación de la vulnerabilidad, los tres "
+"componentes (C{sub}“social”, C{sub}“económico” y C{sub}“de "
+"infraestructura”) obtenidos en los pasos anteriores se utilizan para "
+"generar el IVS mediante el cálculo de su valor medio."
 
-#: ../../SO3.md:523
+#: ../../SO3.md:628
 msgid "$DVI = \\frac{C_{social} + C_{economic} + C_{infrastructural}}{3}$"
 msgstr "$DVI = \\frac{C_{social} + C_{economic} + C_{infrastructural}}{3}$"
 
-#: ../../SO3.md:525
+#: ../../SO3.md:630
 msgid "The DVI ranges from 0 to 1, with 1 being the most vulnerable."
 msgstr "El IVS oscila entre 0 y 1, siendo 1 el más vulnerable."
 
-#: ../../SO3.md:527
+#: ../../SO3.md:632
 msgid ""
 "A Tier 1 VA would result in one DVI at country-level for each reporting "
 "period. For Tier 2 and 3 VAs, where sex-disaggregated factors are used, "
@@ -1575,9 +2351,20 @@ msgid ""
 "populations. For sub-national or gridded components under Tier 3 VA, the "
 "DVI is to be calculated for the smallest spatial unit separately for "
 "males, females and total populations."
-msgstr "Una evaluación de vulnerabilidad de nivel 1 proporcionaría un IVS de ámbito nacional para cada período de presentación de informes. Para las evaluaciones de la vulnerabilidad de nivel 2 y 3, en las que se utilizan factores desglosados por sexo, se recomienda calcular también los IVS específicos por sexo, además del IVS de ámbito nacional. Por lo tanto, una Parte notificaría al menos tres valores de IVS para cada período de presentación de informes, es decir, para las poblaciones total, femenina y masculina. En el caso de los componentes subnacionales o reticulares del nivel 3 de evaluación de la vulnerabilidad, el IVS debe calcularse para la unidad espacial más pequeña por separado para las poblaciones masculina, femenina y total."
+msgstr ""
+"Una evaluación de vulnerabilidad de nivel 1 proporcionaría un IVS de "
+"ámbito nacional para cada período de presentación de informes. Para las "
+"evaluaciones de la vulnerabilidad de nivel 2 y 3, en las que se utilizan "
+"factores desglosados por sexo, se recomienda calcular también los IVS "
+"específicos por sexo, además del IVS de ámbito nacional. Por lo tanto, "
+"una Parte notificaría al menos tres valores de IVS para cada período de "
+"presentación de informes, es decir, para las poblaciones total, femenina "
+"y masculina. En el caso de los componentes subnacionales o reticulares "
+"del nivel 3 de evaluación de la vulnerabilidad, el IVS debe calcularse "
+"para la unidad espacial más pequeña por separado para las poblaciones "
+"masculina, femenina y total."
 
-#: ../../SO3.md:531
+#: ../../SO3.md:636
 msgid ""
 "The DVI method has not yet been validated at the local or national scale "
 "and, as such, may not accurately characterize vulnerability at these "
@@ -1586,17 +2373,29 @@ msgid ""
 " the appropriateness of the default factors and add relevant ones as "
 "needed. The weighting scheme should also be thoroughly considered to "
 "improve results at national and subnational level."
-msgstr "El método de IVS aún no ha sido validado a escala local o nacional y, por lo tanto, es posible que no caracterice con exactitud la vulnerabilidad a estas escalas, ya sea en términos de los factores más relevantes para cada país o del esquema de ponderación de factores más eficaz. Por lo tanto, las Partes pueden verificar la idoneidad de los factores por defecto y añadir los que sean pertinentes según sea necesario. También debe estudiarse detenidamente el esquema de ponderación para mejorar los resultados a escala nacional y subnacional."
+msgstr ""
+"El método de IVS aún no ha sido validado a escala local o nacional y, por"
+" lo tanto, es posible que no caracterice con exactitud la vulnerabilidad "
+"a estas escalas, ya sea en términos de los factores más relevantes para "
+"cada país o del esquema de ponderación de factores más eficaz. Por lo "
+"tanto, las Partes pueden verificar la idoneidad de los factores por "
+"defecto y añadir los que sean pertinentes según sea necesario. También "
+"debe estudiarse detenidamente el esquema de ponderación para mejorar los "
+"resultados a escala nacional y subnacional."
 
-#: ../../SO3.md:533
+#: ../../SO3.md:638
 msgid ""
 "Moreover, the most vulnerable populations and underrepresented groups "
 "should be involved in the determination of the factors to be used to "
 "calculate the components, in order to develop a country-specific and more"
 " effective index."
-msgstr "Además, debe incluirse a las poblaciones más vulnerables y a los grupos infrarrepresentados en la determinación de los factores que vayan a utilizarse para calcular los componentes, con el fin de desarrollar un índice específico para cada país y más eficaz."
+msgstr ""
+"Además, debe incluirse a las poblaciones más vulnerables y a los grupos "
+"infrarrepresentados en la determinación de los factores que vayan a "
+"utilizarse para calcular los componentes, con el fin de desarrollar un "
+"índice específico para cada país y más eficaz."
 
-#: ../../SO3.md:537
+#: ../../SO3.md:642
 msgid ""
 "Once verified by the Parties, the estimated vulnerability values for the "
 "reporting and baseline periods should be officially submitted to the "
@@ -1605,87 +2404,125 @@ msgid ""
 "PRAIS 4 platform. Observed changes and their interpretation may be "
 "described in the “Qualitative Assessment” table of the PRAIS 4 platform "
 "(table SO3-3.T2)."
-msgstr "Tras su verificación por las Partes, deben presentarse oficialmente a la CLD los valores de vulnerabilidad estimados para los períodos de presentación de informes y de referencia. La información sobre el método utilizado (nivel seleccionado y factores por componente) debe comunicarse utilizando el campo “Método” específico de la plataforma PRAIS 4. Los cambios observados y su interpretación pueden describirse en la tabla “Evaluación cualitativa” de la plataforma PRAIS 4 (tabla SO3-3.T2)."
+msgstr ""
+"Tras su verificación por las Partes, deben presentarse oficialmente a la "
+"CLD los valores de vulnerabilidad estimados para los períodos de "
+"presentación de informes y de referencia. La información sobre el método "
+"utilizado (nivel seleccionado y factores por componente) debe comunicarse"
+" utilizando el campo “Método” específico de la plataforma PRAIS 4. Los "
+"cambios observados y su interpretación pueden describirse en la tabla "
+"“Evaluación cualitativa” de la plataforma PRAIS 4 (tabla SO3-3.T2)."
 
-#: ../../SO3.md:539
+#: ../../SO3.md:644
 msgid ""
 "Maps generated in Trends.Earth using national data under Tier 3 VA and "
 "representing vulnerability to drought for the baseline/reporting period "
 "can be uploaded to the PRAIS 4 platform. More specifically, it is "
 "recommended to upload the following maps:"
-msgstr "Los mapas generados en Trends.Earth utilizando datos nacionales en la evaluación de la vulnerabilidad de nivel 3 y que representan la vulnerabilidad a la sequía para el período de referencia o de presentación de informes pueden cargarse en la plataforma PRAIS 4. Más concretamente, se recomienda cargar los siguientes mapas:"
+msgstr ""
+"Los mapas generados en Trends.Earth utilizando datos nacionales en la "
+"evaluación de la vulnerabilidad de nivel 3 y que representan la "
+"vulnerabilidad a la sequía para el período de referencia o de "
+"presentación de informes pueden cargarse en la plataforma PRAIS 4. Más "
+"concretamente, se recomienda cargar los siguientes mapas:"
 
-#: ../../SO3.md:541
+#: ../../SO3.md:646
 msgid "Drought Vulnerability in the baseline period (2000–2015)"
 msgstr "Vulnerabilidad a la sequía en el período de referencia (2000-2015)"
 
-#: ../../SO3.md:542
+#: ../../SO3.md:647
 msgid "Drought Vulnerability in the reporting period (2016–2019)"
-msgstr "Vulnerabilidad a la sequía en el período de presentación de informes (2016-2019)"
+msgstr ""
+"Vulnerabilidad a la sequía en el período de presentación de informes "
+"(2016-2019)"
 
-#: ../../SO3.md:544
+#: ../../SO3.md:649
 msgid ""
 "Information on data sources, data accuracy and any weighting scheme "
 "applied to the vulnerability factors can be submitted using the “General "
 "Comment” field. It would also be beneficial to report on special cases "
 "and issues, describing situations where values might be less reliable and"
 " providing the rationale to include different factors."
-msgstr "La información sobre las fuentes de datos, la exactitud de los datos y cualquier sistema de ponderación aplicado a los factores de vulnerabilidad puede presentarse utilizando el campo “Comentarios generales”. También convendría informar sobre casos y cuestiones especiales, describiendo las situaciones en las que los valores tal vez sean menos fiables y proporcionando la justificación para incluir diferentes factores."
+msgstr ""
+"La información sobre las fuentes de datos, la exactitud de los datos y "
+"cualquier sistema de ponderación aplicado a los factores de "
+"vulnerabilidad puede presentarse utilizando el campo “Comentarios "
+"generales”. También convendría informar sobre casos y cuestiones "
+"especiales, describiendo las situaciones en las que los valores tal vez "
+"sean menos fiables y proporcionando la justificación para incluir "
+"diferentes factores."
 
-#: ../../SO3.md:546
+#: ../../SO3.md:651
 msgid "3.3.4. Dependencies"
 msgstr "3.3.4. Dependencias"
 
-#: ../../SO3.md:548
+#: ../../SO3.md:653
 msgid "SO 2-1 and SO 2-2 can be used for the calculation of SO 3-3."
-msgstr "Para el cálculo del indicador OE 3-3 pueden utilizarse el OE 2-1 y el OE 2-2."
+msgstr ""
+"Para el cálculo del indicador OE 3-3 pueden utilizarse el OE 2-1 y el OE "
+"2-2."
 
-#: ../../SO3.md:550
+#: ../../SO3.md:655
 msgid "3.3.5. Challenges"
 msgstr "3.3.5. Retos"
 
-#: ../../SO3.md:554
+#: ../../SO3.md:659
 msgid ""
 "The availability of data for the considered factors varies substantially "
 "from country to country and the complete set of recommended data might "
 "not be accessible everywhere."
-msgstr "La disponibilidad de datos para los factores considerados varía sustancialmente de un país a otro y el conjunto completo de datos recomendados podría no ser accesible en todas partes."
+msgstr ""
+"La disponibilidad de datos para los factores considerados varía "
+"sustancialmente de un país a otro y el conjunto completo de datos "
+"recomendados podría no ser accesible en todas partes."
 
-#: ../../SO3.md:556
+#: ../../SO3.md:661
 msgid "Methodological approach"
 msgstr "Enfoque metodológico"
 
-#: ../../SO3.md:558
+#: ../../SO3.md:663
 msgid ""
 "The reliability of the DVI method at national and sub-national levels is "
 "still to be verified."
-msgstr "La fiabilidad del método del IVS a escala nacional y subnacional todavía no se ha verificado."
+msgstr ""
+"La fiabilidad del método del IVS a escala nacional y subnacional todavía "
+"no se ha verificado."
 
-#: ../../SO3.md:560
+#: ../../SO3.md:665
 msgid ""
 "Due to the methods used for factor normalization (i.e., using in-country "
 "historic data), DVI values should not be compared between countries."
-msgstr "Debido a los métodos utilizados para la normalización de los factores (es decir, el uso de datos históricos del país), los valores del IVS no deben compararse entre países."
+msgstr ""
+"Debido a los métodos utilizados para la normalización de los factores (es"
+" decir, el uso de datos históricos del país), los valores del IVS no "
+"deben compararse entre países."
 
-#: ../../SO3.md:562
+#: ../../SO3.md:667
 msgid ""
 "Assuming a consistent methodology has been used over time, changes in the"
 " DVI may reflect the efficacy of drought mitigation and adaptation "
 "policies, but they may also reveal the impacts of social and economic "
 "changes disconnected from drought management measures."
-msgstr "Suponiendo que se haya utilizado una metodología coherente a lo largo del tiempo, los cambios en el IVS pueden reflejar la eficacia de las políticas de mitigación y adaptación a las sequías, aunque también pueden revelar los efectos de cambios sociales y económicos que no guardan relación con las medidas de gestión de las sequías."
+msgstr ""
+"Suponiendo que se haya utilizado una metodología coherente a lo largo del"
+" tiempo, los cambios en el IVS pueden reflejar la eficacia de las "
+"políticas de mitigación y adaptación a las sequías, aunque también pueden"
+" revelar los efectos de cambios sociales y económicos que no guardan "
+"relación con las medidas de gestión de las sequías."
 
-#: ../../SO3.md:564
+#: ../../SO3.md:669
 msgid "3.3.6. Summary (main actions)"
 msgstr "3.3.6. Resumen (acciones principales)"
 
-#: ../../SO3.md:566
+#: ../../SO3.md:671
 msgid ""
 "Key actions for reporting population vulnerable to drought hazard are as "
 "follows:"
-msgstr "Las acciones principales que requiere la presentación de informes sobre la población vulnerable a los riesgos de sequía son las siguientes:"
+msgstr ""
+"Las acciones principales que requiere la presentación de informes sobre "
+"la población vulnerable a los riesgos de sequía son las siguientes:"
 
-#: ../../SO3.md:568
+#: ../../SO3.md:673
 msgid ""
 "**Select tier of vulnerability assessment based on data availability**: "
 "Parties are encouraged to opt for one of the three Tiers of VA based on "
@@ -1694,55 +2531,87 @@ msgid ""
 "used to calculate the DVI should comply with the specifications listed in"
 " table 21. If Parties use national/regional data products, they should "
 "follow Steps 2 to 4 below:"
-msgstr "**Seleccionar el nivel de evaluación de la vulnerabilidad en función de la disponibilidad de los datos**: se anima a las Partes a optar por uno de los tres niveles de evaluación de la vulnerabilidad según la disponibilidad de los datos. Si no se dispone de datos para calcular la evaluación de la vulnerabilidad mínima de nivel 1, las Partes pueden utilizar los datos por defecto. Los productos de datos nacionales o regionales que se utilicen para calcular el IVS deberán adecuarse a las especificaciones que figuran en la tabla 21. Si las Partes utilizan productos de datos nacionales o regionales, deberán seguir los pasos 2 a 4 siguientes:"
+msgstr ""
+"**Seleccionar el nivel de evaluación de la vulnerabilidad en función de "
+"la disponibilidad de los datos**: se anima a las Partes a optar por uno "
+"de los tres niveles de evaluación de la vulnerabilidad según la "
+"disponibilidad de los datos. Si no se dispone de datos para calcular la "
+"evaluación de la vulnerabilidad mínima de nivel 1, las Partes pueden "
+"utilizar los datos por defecto. Los productos de datos nacionales o "
+"regionales que se utilicen para calcular el IVS deberán adecuarse a las "
+"especificaciones que figuran en la tabla 21. Si las Partes utilizan "
+"productos de datos nacionales o regionales, deberán seguir los pasos 2 a "
+"4 siguientes:"
 
-#: ../../SO3.md:570
+#: ../../SO3.md:675
 msgid ""
 "**Factor normalization**: factors for each vulnerability component should"
 " be normalized before they can be compared and aggregated, as the "
 "vulnerability factors used are all measured using different units."
-msgstr "**Normalización de los factores**: es preciso normalizar los factores de cada componente de la vulnerabilidad antes de poder compararlos y agregarlos, ya que los factores de vulnerabilidad empleados se miden utilizando diferentes unidades."
+msgstr ""
+"**Normalización de los factores**: es preciso normalizar los factores de "
+"cada componente de la vulnerabilidad antes de poder compararlos y "
+"agregarlos, ya que los factores de vulnerabilidad empleados se miden "
+"utilizando diferentes unidades."
 
-#: ../../SO3.md:572
+#: ../../SO3.md:677
 msgid ""
 "**Derive the DVI components**: the aggregated values for each of the "
 "three DVI components are calculated as the arithmetic mean of the "
 "normalized factors."
-msgstr "**Obtener los componentes del IVS**: los valores agregados para cada uno de los tres componentes del IVS se calculan en forma de media aritmética de los factores normalizados."
+msgstr ""
+"**Obtener los componentes del IVS**: los valores agregados para cada uno "
+"de los tres componentes del IVS se calculan en forma de media aritmética "
+"de los factores normalizados."
 
-#: ../../SO3.md:574
+#: ../../SO3.md:679
 msgid ""
 "**Calculate the DVI**: the three components – social, economic and "
 "infrastructural – derived in the previous steps are used to produce the "
 "DVI by calculating their mean value."
-msgstr "**Calcular el IVS**: los tres componentes (social, económico y de infraestructura) obtenidos en los pasos anteriores se utilizan para generar el IVS mediante el cálculo de su valor medio."
+msgstr ""
+"**Calcular el IVS**: los tres componentes (social, económico y de "
+"infraestructura) obtenidos en los pasos anteriores se utilizan para "
+"generar el IVS mediante el cálculo de su valor medio."
 
-#: ../../SO3.md:576
+#: ../../SO3.md:681
 msgid ""
 "**Verify the results**: aware of the fact that the DVI method has not yet"
 " been validated at the local or national scale, Parties may verify the "
 "appropriateness of the default factors and add relevant ones as needed "
 "before officially submitting estimates for UNCCD reporting."
-msgstr "**Verificar los resultados**: teniendo presente que el método del IVS aún no ha sido validado a escala local o nacional, las Partes pueden verificar la idoneidad de los factores por defecto y añadir los que sean pertinentes según sea necesario antes de enviar oficialmente las estimaciones para la presentación de informes a la CLD."
+msgstr ""
+"**Verificar los resultados**: teniendo presente que el método del IVS aún"
+" no ha sido validado a escala local o nacional, las Partes pueden "
+"verificar la idoneidad de los factores por defecto y añadir los que sean "
+"pertinentes según sea necesario antes de enviar oficialmente las "
+"estimaciones para la presentación de informes a la CLD."
 
-#: ../../SO3.md:580
+#: ../../SO3.md:685
 msgid "3.3.7. Further reading"
 msgstr "3.3.7. Lecturas complementarias"
 
-#: ../../SO3.md:582
+#: ../../SO3.md:687
 msgid ""
 "Good Practice Guidance for National Reporting on UNCCD Strategic "
 "Objective 3. Chapter 3. Level 3 Indicator "
 "(<https://www.unccd.int/sites/default/files/documents/2021-09"
 "/UNCCD_GPG_Strategic-Objective-3_2021.pdf>)."
-msgstr "Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3. Capítulo 3: “Level 3 Indicator” (<https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf>)."
+msgstr ""
+"Good Practice Guidance for National Reporting on UNCCD Strategic "
+"Objective 3. Capítulo 3: “Level 3 Indicator” "
+"(<https://www.unccd.int/sites/default/files/documents/2021-09"
+"/UNCCD_GPG_Strategic-Objective-3_2021.pdf>)."
 
 #: ../../SO3.md:9
 msgid ""
 "\"UNCCD. 1994. Article 1 of the Convention Text: "
 "<http://www2.unccd.int/sites/default/files/relevant-"
 "links/2017-01/UNCCD_Convention_ENG_0.pdf> \""
-msgstr "“CLD. 1994. Texto del artículo 1 de la Convención: <http://www2.unccd.int/sites/default/files/relevant-links/2017-01/UNCCD_Convention_ENG_0.pdf>”"
+msgstr ""
+"“CLD. 1994. Texto del artículo 1 de la Convención: "
+"<http://www2.unccd.int/sites/default/files/relevant-"
+"links/2017-01/UNCCD_Convention_ENG_0.pdf>”"
 
 #: ../../SO3.md:15
 msgid ""
@@ -1751,11 +2620,21 @@ msgid ""
 " Global Multi-Hazard Alert System (GMAS) framework, will provide methods "
 "on how a multitude of drought indices can be translated onto a harmonized"
 " legend of drought classes.\""
-msgstr "“El Sistema Mundial de Clasificación de la Sequía (GDCS, anteriormente Sistema Mundial de Información sobre las Sequías o GDI), que la OMM está desarrollando a través del marco del Sistema Mundial de Alerta de Peligros Múltiples (GMAS), proporcionará métodos sobre cómo traducir multitud de índices de sequía en una leyenda armonizada de clases de sequía”."
+msgstr ""
+"“El Sistema Mundial de Clasificación de la Sequía (GDCS, anteriormente "
+"Sistema Mundial de Información sobre las Sequías o GDI), que la OMM está "
+"desarrollando a través del marco del Sistema Mundial de Alerta de "
+"Peligros Múltiples (GMAS), proporcionará métodos sobre cómo traducir "
+"multitud de índices de sequía en una leyenda armonizada de clases de "
+"sequía”."
 
-#: ../../SO3.md:505
+#: ../../SO3.md:610
 msgid ""
 "See Table 13 of the Good Practice Guidance for National Reporting on "
 "UNCCD Strategic Objective 3 indicating relationship of the 13 recommended"
 " factors with vulnerability"
-msgstr "Véase la tabla 13 de Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3, en la que se indica la relación de los 13 factores recomendados con la vulnerabilidad."
+msgstr ""
+"Véase la tabla 13 de Good Practice Guidance for National Reporting on "
+"UNCCD Strategic Objective 3, en la que se indica la relación de los 13 "
+"factores recomendados con la vulnerabilidad."
+
