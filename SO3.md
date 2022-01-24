@@ -175,7 +175,7 @@ $P_{ij} = \frac{cellCount_{ij}}{Total\ number\ of\ cells} \times 100$
 Where:
 
 - “P{sub}`ij`” is the proportion of land under the drought intensity class _i_ in the reporting year _j_
-- “cellCount{sub}`ij`” is the number of pixels under the drought intensity class  _i_ in the reporting year _j_
+- “cellCount{sub}`ij`” is the number of pixels under the drought intensity class _i_ in the reporting year _j_
 - “Total number of cells’” is all the grid cells within the country Party’s land area.
 
 The total area falling under each of the drought intensity classes in each year is calculated by multiplying cellCount by the area of the cells (a constant value, since the drought intensity class grid was previously converted to an equal-area projection).

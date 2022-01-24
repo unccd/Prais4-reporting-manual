@@ -454,7 +454,7 @@ msgstr "对于基线期和报告期的每个SPI-12网格，属于每个SPI干旱
 
 #: ../../SO3.md:146
 msgid "$P_{ij} = \\frac{cellCount_{ij}}{Total\\ number\\ of\\ cells} \\times 100$"
-msgstr "$P_{ij} = \\frac{cellCount_{ij}}{单元\\总\\数\\} \\乘以100$"
+msgstr "$P_{ij} = \\frac{cellCount_{ij}}{单元\\ 总\\ 数} \\times100$"
 
 #: ../../SO3.md:148 ../../SO3.md:487
 msgid "Where:"
@@ -464,13 +464,13 @@ msgstr "其中："
 msgid ""
 "“P{sub}`ij`” is the proportion of land under the drought "
 "intensity class _i_ in the reporting year _j_"
-msgstr "“P{sub}`ij`”是指在报告年份_j_，属于干旱强度等级_i_的土地比例"
+msgstr "“P{sub}`ij`”是指在报告年份 _j_，属于干旱强度等级 _i_ 的土地比例"
 
 #: ../../SO3.md:151
 msgid ""
 "“cellCount{sub}`ij`” is the number of pixels under the drought intensity "
-"class  _i_ in the reporting year _j_"
-msgstr "“cellCount{sub}`ij`”是指在报告年份_j_，属于干旱强度等级_i_下的像素数量"
+"class _i_ in the reporting year _j_"
+msgstr "“cellCount{sub}`ij`” 是指在报告年份 _j_，属于干旱强度等级 _i_ 下的像素数量"
 
 #: ../../SO3.md:152
 msgid ""
