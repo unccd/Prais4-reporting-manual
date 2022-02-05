@@ -87,7 +87,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.venv', 'README.md']
+exclude_patterns = ['_build', 'build', 'Thumbs.db', '.DS_Store', '.venv', 'README.md']
 # see https://github.com/sphinx-doc/sphinx/issues/2066#issuecomment-474587560
 
 # -- Options for HTML output -------------------------------------------------
@@ -119,6 +119,11 @@ html_context = {
 html_theme_options = {
     'style_nav_header_background': '#ff7100',
     'collapse_navigation': False,
+    'display_version': False,
+    'logo_only': True,
+    'prev_next_buttons_location': 'top',
+    'vcs_pageview_mode': 'edit',
+    'style_external_links': True,
 }
 
 html_context = {

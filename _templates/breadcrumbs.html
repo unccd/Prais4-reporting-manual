@@ -1,0 +1,17 @@
+{% extends "!breadcrumbs.html" %}
+{%- block breadcrumbs %}
+{% endblock %}
+
+{%- block breadcrumbs_aside %}
+  {# Replace breadcrumb with language switcher #}
+  {% if READTHEDOCS %}
+    <li hreflang="en"><a href="/en/{{ current_version }}/">English</a></li>
+    <li hreflang="en"><a href="/ar/{{ current_version }}/">العربية</a></li>
+    <li hreflang="ar"><a href="/es/{{ current_version }}/">Español</a></li>
+    <li hreflang="fr"><a href="/fr/{{ current_version }}/">Français</a></li>
+    <li hreflang="ru"><a href="/ru/{{ current_version }}/">Русский</a></li>
+    <li hreflang="zh"><a href="/zh/{{ current_version }}/">简体中文</a></li>
+  {% else %}
+      {{ super() }}
+  {% endif %}
+{% endblock %}
