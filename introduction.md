@@ -193,7 +193,7 @@ widths: 1 2 1 4 1 1
     - \---
     - Indicator adopted in decision 7/COP.13 as ‘Trends in international
     bilateral and multilateral official development assistance’
-    - \---
+    - X
     - X
   * - SO 5-2
     - Domestic public resources
