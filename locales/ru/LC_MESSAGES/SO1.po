@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-22 17:09+0200\n"
+"POT-Creation-Date: 2022-03-06 14:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,14 +19,14 @@ msgstr ""
 
 #: ../../SO1.md:1
 msgid ""
-"1. Strategic objective 1: To improve the condition of affected ecosystems,"
-" combat desertification/ land degradation, promote sustainable land "
-"management and contribute to land degradation neutrality"
+"1. Strategic objective 1: To improve the condition of affected "
+"ecosystems, combat desertification/ land degradation, promote sustainable"
+" land management and contribute to land degradation neutrality"
 msgstr ""
-"1. Стратегическая цель 1: Улучшение состояния затронутых экосистем, борьба"
-" с опустыниванием/деградацией земель, содействие устойчивому управлению "
-"земельными ресурсами и обеспечение нейтрального баланса деградации "
-"земель."
+"1. Стратегическая цель 1: Улучшение состояния затронутых экосистем, "
+"борьба с опустыниванием/деградацией земель, содействие устойчивому "
+"управлению земельными ресурсами и обеспечение нейтрального баланса "
+"деградации земель."
 
 #: ../../SO1.md:3
 msgid "1.1. SO 1-1 – Trends in land cover"
@@ -4653,10 +4653,10 @@ msgstr "1.4.3. Процесс отчетности и пошаговая про�
 #: ../../SO1.md:1217
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
-"If Parties decide to use the default data, steps 1 and 2 are unnecessary."
+"If Parties decide to use the default data, step 1 is unnecessary."
 msgstr ""
 "Описание пошаговой процедуры представления отчетности приводится ниже. "
-"Если Стороны решат использовать данные по умолчанию, шаги 1 и 2 следует "
+"Если Стороны решат использовать данные по умолчанию, шаг 1 следует "
 "пропустить."
 
 #: ../../SO1.md:1219
@@ -4749,56 +4749,18 @@ msgstr ""
 "средний или низкий)."
 
 #: ../../SO1.md:1238
-msgid "Step 2. Estimate progress towards land degradation neutrality"
-msgstr ""
-"Шаг 2. Оцените прогресс в достижении нейтрального баланса деградации "
-"земель"
-
-#: ../../SO1.md:1
-msgid "Related areas in the PRAIS 4 platform: table SO1-4.T2"
-msgstr "Соответствующие области платформы PRAIS 4: таблица СЦ1-4.T2"
-
-#: ../../SO1.md:1244
-msgid ""
-"Progress made towards LDN should be reported as the net difference "
-"between areas improved (gains) in the reporting period compared to the "
-"baseline and areas degraded (losses) in the reporting period compared to "
-"the baseline (table SO1-4.T2). The difference in areas degraded and "
-"improved (km2) is reported in the LDN status field. Positive values "
-"indicate a net gain in improved land while negative values indicate that "
-"more land was degraded than improved. A value close to zero suggests that"
-" gains were balanced by losses and that LDN has been achieved.  Positive "
-"values demonstrate that LDN has been both achieved and exceeded. The "
-"values reported in table SO1-4.T2 should therefore help countries with "
-"LDN monitoring and target-setting."
-msgstr ""
-"Прогресс, достигнутый в направлении НСЗ, должен быть представлен в виде "
-"чистой разницы между районами, состояние которых улучшилось (прирост) в "
-"отчетном периоде по сравнению с базовым уровнем, и районами, состояние "
-"которых ухудшилось (потери) в отчетном периоде по сравнению с базовым "
-"уровнем (таблица СЦ1-4.T2). Разница между районами с деградацией и "
-"районами с улучшениями (км2) указывается в поле «Состояние НСЗ». "
-"Положительные значения указывают на чистый прирост улучшенных земель, в "
-"то время как отрицательные значения указывают на то, что больше земель "
-"подверглось деградации. Значение, близкое к нулю, говорит о том, что "
-"прибыль была уравновешена потерями и что НСЗ был достигнут. Положительные"
-" значения показывают, что НСЗ был как достигнут, так и превышен. Таким "
-"образом, значения, приведенные в таблице СЦ1-4.T2, должны помочь странам "
-"в мониторинге НСЗ и установлении целевых показателей."
-
-#: ../../SO1.md:1246
-msgid "Step 3. Identify false positives and false negatives"
-msgstr "Шаг 3. Определите ложные положительные и ложные отрицательные результаты"
+msgid "Step 2. Identify false positives and false negatives"
+msgstr "Шаг 2. Определите ложные положительные и ложные отрицательные результаты"
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: : table SO1-4.T3"
 msgstr "Соответствующие области платформы PRAIS 4: таблица СЦ1-4.T3"
 
-#: ../../SO1.md:1252
+#: ../../SO1.md:1244
 msgid "Parties have the option to identify areas of:"
 msgstr "Стороны имеют возможность определять области:"
 
-#: ../../SO1.md:1254
+#: ../../SO1.md:1246
 msgid ""
 "‘False positive’ degradation, where the 1OAO process has incorrectly "
 "indicated that an area is not degraded even though the change in land "
@@ -4810,7 +4772,7 @@ msgstr ""
 "земель считается достаточно негативным, чтобы рассматривать землю как "
 "деградировавшую в контексте показателя 15.3.1 ЦУР; и"
 
-#: ../../SO1.md:1255
+#: ../../SO1.md:1247
 msgid ""
 "‘False negative’ degradation, in which the outcome of the 1OAO process "
 "has incorrectly resulted in an area being identified as degraded."
@@ -4818,11 +4780,11 @@ msgstr ""
 "«ложноотрицательной» деградации, при которой результат процесса 1OAO "
 "ошибочно признал область подвергнувшейся деградации."
 
-#: ../../SO1.md:1257
+#: ../../SO1.md:1249
 msgid "What are false positives?"
 msgstr "Что такое ложноположительные результаты?"
 
-#: ../../SO1.md:1259
+#: ../../SO1.md:1251
 msgid ""
 "An example is a woody weed invasion of a grassland, which may raise the "
 "apparent plant productivity even though the outcome in terms of the "
@@ -4844,11 +4806,11 @@ msgstr ""
 "показателя 15.3.1 ЦУР. Аналогичный результат дает оценка земель, "
 "захваченных чужеродными видами растений."
 
-#: ../../SO1.md:1261
+#: ../../SO1.md:1253
 msgid "What are false negatives?"
 msgstr "Что такое ложноотрицательные результаты?"
 
-#: ../../SO1.md:1263
+#: ../../SO1.md:1255
 msgid ""
 "An example is the inverse of the above problem where woody weeds (or "
 "invasive plant species) are removed as part of a remediation process, "
@@ -4865,7 +4827,7 @@ msgstr ""
 "процессе 1OAO восстановленная территория будет неправильно помечена как "
 "деградированная."
 
-#: ../../SO1.md:1265
+#: ../../SO1.md:1257
 msgid ""
 "In areas where a false positive or false negative degradation outcome is "
 "identified, Parties can use the PRAIS 4 spatial data viewer to provide "
@@ -4892,7 +4854,7 @@ msgstr ""
 "ложноотрицательных земель существенно повлиять на отчетные данные "
 "невозможно."
 
-#: ../../SO1.md:1267
+#: ../../SO1.md:1259
 msgid ""
 "Reporting on false positive and negative extents using the PRAIS 4 "
 "platform requires filling in table SO1-4.T3. The PRAIS 4 spatial data "
@@ -4932,15 +4894,15 @@ msgstr ""
 "ложноотрицательный результат, выявленный в пределах предоставленного "
 "многоугольного участка."
 
-#: ../../SO1.md:1269
-msgid "Step 4. Assess hotspots and brightspots"
-msgstr "Шаг 4. Оцените горячие точки и яркие точки"
+#: ../../SO1.md:1261
+msgid "Step 3. Assess hotspots and brightspots"
+msgstr "Шаг 3. Оцените горячие точки и яркие точки"
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: tables SO1-4.T4 and SO1-4.T5"
 msgstr "Соответствующие области платформы PRAIS 4: таблицы СЦ1-4.T4 и СЦ1-4.T45"
 
-#: ../../SO1.md:1275
+#: ../../SO1.md:1267
 msgid ""
 "UNCCD encourages Parties to signal areas experiencing the most evident "
 "and dramatic change. These are defined as:"
@@ -4949,7 +4911,7 @@ msgstr ""
 "наиболее очевидные и радикальные изменения. Они определяются следующим "
 "образом:"
 
-#: ../../SO1.md:1277
+#: ../../SO1.md:1269
 msgid ""
 "Hotspots: areas that are highly vulnerable to degradation in the absence "
 "of urgent remediation activities;"
@@ -4957,7 +4919,7 @@ msgstr ""
 "горячие точки: районы, крайне уязвимые к деградации в отсутствие срочных "
 "восстановительных мероприятий;"
 
-#: ../../SO1.md:1279
+#: ../../SO1.md:1271
 msgid ""
 "Brightspots: areas that do not exhibit any signs of degradation, or which"
 " have been remediated from a degraded state by implementing appropriate "
@@ -4970,7 +4932,7 @@ msgstr ""
 "посредством процессов планирования земельных ресурсов для предотвращения "
 "деградации."
 
-#: ../../SO1.md:1281
+#: ../../SO1.md:1273
 msgid ""
 "Knowledge about location and type of hotspots/brightspots may facilitate "
 "the development of plans of action to redress degradation, including "
@@ -4982,7 +4944,7 @@ msgstr ""
 " числе путем сохранения, реабилитации, восстановления и устойчивого "
 "управления земельными ресурсами."
 
-#: ../../SO1.md:1283
+#: ../../SO1.md:1275
 msgid ""
 "Hotspots and brightspots are reported in tables SO1-1.T4 and SO1-1.T5 of "
 "the PRAIS 4 platform, respectively. Parties are invited to enter relevant"
@@ -5012,11 +4974,11 @@ msgstr ""
 "пространственные данные для создания улучшенных информационных продуктов,"
 " демонстрирующих влияние Конвенции."
 
-#: ../../SO1.md:1285
-msgid "Step 5. Generate reports"
-msgstr "Шаг 5. Сформируйте отчеты"
+#: ../../SO1.md:1277
+msgid "Step 4. Generate reports"
+msgstr "Шаг 4. Сформируйте отчеты"
 
-#: ../../SO1.md:1287
+#: ../../SO1.md:1279
 msgid ""
 "Once verified by the Parties, the estimates of land degradation data for "
 "the reporting and baseline periods should be officially submitted to "
@@ -5033,7 +4995,7 @@ msgstr ""
 "должны быть указаны в описании. Для этой цели в конце формы отчетности на"
 " платформе PRAIS 4 предусмотрено поле «Общие замечания»."
 
-#: ../../SO1.md:1289
+#: ../../SO1.md:1281
 msgid ""
 "Information on land degradation should be reported in km2 for the entire "
 "country."
@@ -5041,7 +5003,7 @@ msgstr ""
 "Информация о деградации земель должна быть представлена в км2 для всей "
 "страны."
 
-#: ../../SO1.md:1291
+#: ../../SO1.md:1283
 msgid ""
 "Default maps or maps generated in Trends.Earth using national data "
 "representing land degradation for the baseline/reporting period are made "
@@ -5053,7 +5015,7 @@ msgstr ""
 "период, доступны на платформе PRAIS 4. В частности, онлайн будут доступны"
 " следующие карты:"
 
-#: ../../SO1.md:1293
+#: ../../SO1.md:1285
 msgid ""
 "Proportion of land that is degraded over total land area (SDG indicator "
 "15.3.1) in the baseline period"
@@ -5061,7 +5023,7 @@ msgstr ""
 "доля деградированных земель к общей площади земель (показатель 15.3.1 "
 "ЦУР) за базовый период;"
 
-#: ../../SO1.md:1294
+#: ../../SO1.md:1286
 msgid ""
 "Proportion of land that is degraded over total land area (SDG indicator "
 "15.3.1) in the reporting period"
@@ -5069,11 +5031,7 @@ msgstr ""
 "доля деградированных земель к общей площади земель (показатель 15.3.1 "
 "ЦУР) за отчетный период;"
 
-#: ../../SO1.md:1295
-msgid "Progress towards LDN in the reporting period"
-msgstr "прогресс в достижении НСЗ за отчетный период;"
-
-#: ../../SO1.md:1296
+#: ../../SO1.md:1287
 msgid ""
 "Degradation hotspots (for countries that provide spatial data in the "
 "PRAIS 4 platform)"
@@ -5081,7 +5039,7 @@ msgstr ""
 "горячие точки деградации земли (для стран, предоставляющих "
 "пространственные данные на платформе PRAIS 4);"
 
-#: ../../SO1.md:1297
+#: ../../SO1.md:1288
 msgid ""
 "Improvement brightspots (for countries that provide spatial data in the "
 "PRAIS 4 platform)."
@@ -5089,11 +5047,11 @@ msgstr ""
 "яркие точки улучшения состояния земли (для стран, предоставляющих "
 "пространственные данные на платформе PRAIS 4)."
 
-#: ../../SO1.md:1299
+#: ../../SO1.md:1290
 msgid "1.4.4. Dependencies"
 msgstr "1.4.4. Зависимости"
 
-#: ../../SO1.md:1301
+#: ../../SO1.md:1292
 msgid ""
 "SDG indicator 15.3.1 relies on the total land area reported in table "
 "SO1-1.T1. Modifying that number will therefore alter the indicator’s "
@@ -5103,7 +5061,7 @@ msgstr ""
 "таблице СЦ1-1.T1. Таким образом, изменение этого числа приведет к "
 "изменению значения показателя."
 
-#: ../../SO1.md:1303
+#: ../../SO1.md:1294
 msgid ""
 "The ‘Area’ fields of the spatial tables SO1-4.T3,  SO1-4.T4 and SO1-4.T5 "
 "have a dependency on spatial data created by countries using the PRAIS 4 "
@@ -5116,17 +5074,17 @@ msgstr ""
 "заполнены вручную без предоставления вспомогательных пространственных "
 "данных."
 
-#: ../../SO1.md:1305
+#: ../../SO1.md:1296
 msgid "1.4.5. Summary (main actions)"
 msgstr "1.4.5. Краткие выводы (основные действия)"
 
-#: ../../SO1.md:1307
+#: ../../SO1.md:1298
 msgid "Key actions for reporting on the SDG indicator 15.3.1 are as follows:"
 msgstr ""
 "Основные действия для представления отчетности по показателю 15.3.1 ЦУР "
 "заключаются в следующем:"
 
-#: ../../SO1.md:1309
+#: ../../SO1.md:1300
 msgid ""
 "**Calculate the proportion of land that is degraded over total land area "
 "(SDG indicator 15.3.1)**: Using the 1OAO approach to combine the three "
@@ -5146,19 +5104,7 @@ msgstr ""
 "которые остались в состоянии деградации с базового периода (т. е. не их "
 "состояние не улучшилось)."
 
-#: ../../SO1.md:1311
-msgid ""
-"**Estimate progress towards LDN**: Calculate the difference between the "
-"extent of degraded land (losses) and the extent of improved land (gains) "
-"in the reporting period to determine if there has been a net gain, "
-"neutrality or a net loss."
-msgstr ""
-"**Оцените достигнутый прогресс в области НСЗ**: рассчитайте разницу между"
-" степенью деградации земель (потери) и степенью улучшения состояния "
-"земель (прибыль) в отчетном периоде, чтобы определить, была ли получена "
-"чистая прибыль, или чистый убыток, или же состояние осталось нейтральным."
-
-#: ../../SO1.md:1313
+#: ../../SO1.md:1302
 msgid ""
 "**Identify false positive and false negative processes** and provide the "
 "relevant justification to support their assessment. Where countries are "
@@ -5175,7 +5121,7 @@ msgstr ""
 "этого средство просмотра пространственных данных PRAIS 4 (таблица "
 "СЦ1-4.T3)."
 
-#: ../../SO1.md:1315
+#: ../../SO1.md:1304
 msgid ""
 "**Assess hotspots of land degradation and brightspots of land "
 "improvement**, indicating their locations, extents, and actions taken "
@@ -5190,11 +5136,11 @@ msgstr ""
 "точках и ярких точках с помощью средства просмотра пространственных "
 "данных PRAIS 4."
 
-#: ../../SO1.md:1317
+#: ../../SO1.md:1306
 msgid "1.4.6. Further reading"
 msgstr "1.4.6. Дополнительная литература"
 
-#: ../../SO1.md:1319
+#: ../../SO1.md:1308
 msgid ""
 "Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that "
 "is degraded over total land area (version 2). Chapter 2: SDG Indicator "
@@ -5208,7 +5154,7 @@ msgstr ""
 " (<https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land>)."
 
-#: ../../SO1.md:1320
+#: ../../SO1.md:1309
 msgid ""
 "Scientific Conceptual Framework for Land Degradation Neutrality "
 "(<https://knowledge.unccd.int/publication/ldn-scientific-conceptual-"
@@ -5287,4 +5233,81 @@ msgid "Article 1 of the United Nations Convention to Combat Desertification."
 msgstr ""
 "Статья 1 Конвенции Организации Объединенных Наций по борьбе с "
 "опустыниванием."
+
+#~ msgid "Step 2. Estimate progress towards land degradation neutrality"
+#~ msgstr ""
+#~ "Шаг 2. Оцените прогресс в достижении "
+#~ "нейтрального баланса деградации земель"
+
+#~ msgid "Related areas in the PRAIS 4 platform: table SO1-4.T2"
+#~ msgstr "Соответствующие области платформы PRAIS 4: таблица СЦ1-4.T2"
+
+#~ msgid ""
+#~ "Progress made towards LDN should be "
+#~ "reported as the net difference between"
+#~ " areas improved (gains) in the "
+#~ "reporting period compared to the "
+#~ "baseline and areas degraded (losses) in"
+#~ " the reporting period compared to the"
+#~ " baseline (table SO1-4.T2). The difference"
+#~ " in areas degraded and improved (km2)"
+#~ " is reported in the LDN status "
+#~ "field. Positive values indicate a net"
+#~ " gain in improved land while negative"
+#~ " values indicate that more land was"
+#~ " degraded than improved. A value "
+#~ "close to zero suggests that gains "
+#~ "were balanced by losses and that "
+#~ "LDN has been achieved.  Positive values"
+#~ " demonstrate that LDN has been both"
+#~ " achieved and exceeded. The values "
+#~ "reported in table SO1-4.T2 should "
+#~ "therefore help countries with LDN "
+#~ "monitoring and target-setting."
+#~ msgstr ""
+#~ "Прогресс, достигнутый в направлении НСЗ, "
+#~ "должен быть представлен в виде чистой"
+#~ " разницы между районами, состояние которых"
+#~ " улучшилось (прирост) в отчетном периоде"
+#~ " по сравнению с базовым уровнем, и"
+#~ " районами, состояние которых ухудшилось "
+#~ "(потери) в отчетном периоде по сравнению"
+#~ " с базовым уровнем (таблица СЦ1-4.T2). "
+#~ "Разница между районами с деградацией и"
+#~ " районами с улучшениями (км2) указывается"
+#~ " в поле «Состояние НСЗ». Положительные "
+#~ "значения указывают на чистый прирост "
+#~ "улучшенных земель, в то время как "
+#~ "отрицательные значения указывают на то, "
+#~ "что больше земель подверглось деградации. "
+#~ "Значение, близкое к нулю, говорит о "
+#~ "том, что прибыль была уравновешена "
+#~ "потерями и что НСЗ был достигнут. "
+#~ "Положительные значения показывают, что НСЗ "
+#~ "был как достигнут, так и превышен. "
+#~ "Таким образом, значения, приведенные в "
+#~ "таблице СЦ1-4.T2, должны помочь странам "
+#~ "в мониторинге НСЗ и установлении целевых"
+#~ " показателей."
+
+#~ msgid "Progress towards LDN in the reporting period"
+#~ msgstr "прогресс в достижении НСЗ за отчетный период;"
+
+#~ msgid ""
+#~ "**Estimate progress towards LDN**: Calculate"
+#~ " the difference between the extent of"
+#~ " degraded land (losses) and the "
+#~ "extent of improved land (gains) in "
+#~ "the reporting period to determine if "
+#~ "there has been a net gain, "
+#~ "neutrality or a net loss."
+#~ msgstr ""
+#~ "**Оцените достигнутый прогресс в области "
+#~ "НСЗ**: рассчитайте разницу между степенью "
+#~ "деградации земель (потери) и степенью "
+#~ "улучшения состояния земель (прибыль) в "
+#~ "отчетном периоде, чтобы определить, была "
+#~ "ли получена чистая прибыль, или чистый"
+#~ " убыток, или же состояние осталось "
+#~ "нейтральным."
 

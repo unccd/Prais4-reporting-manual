@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-22 17:09+0200\n"
+"POT-Creation-Date: 2022-03-06 14:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,9 +19,9 @@ msgstr ""
 
 #: ../../SO1.md:1
 msgid ""
-"1. Strategic objective 1: To improve the condition of affected ecosystems,"
-" combat desertification/ land degradation, promote sustainable land "
-"management and contribute to land degradation neutrality"
+"1. Strategic objective 1: To improve the condition of affected "
+"ecosystems, combat desertification/ land degradation, promote sustainable"
+" land management and contribute to land degradation neutrality"
 msgstr ""
 "1-الهدف الاستراتيجي 1: تحسين حالة النظم الإيكولوجية المُتضرِّرة، ومكافحة "
 "التَصحُّر/ تدهور الأراضي، وتعزيز الإدارة المستدامة للأراضي، والمساهمة في "
@@ -4427,12 +4427,13 @@ msgid "1.4.3. Reporting process and step-by-step procedure"
 msgstr "1-4-3 عملية الإبلاغ والإجراءات التدريجية"
 
 #: ../../SO1.md:1217
+#, fuzzy
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
-"If Parties decide to use the default data, steps 1 and 2 are unnecessary."
+"If Parties decide to use the default data, step 1 is unnecessary."
 msgstr ""
 "يرد في ما يلي وصف للإجراءات التدريجية للإبلاغ. وإذا قررت الأطراف استخدام "
-"البيانات الافتراضية، تكون الخطوتان 1 و2 غير ضرورتين."
+"البيانات الافتراضية، تكون الخطوتان 1 غير ضرورتين."
 
 #: ../../SO1.md:1219
 msgid "Step 1. Calculate Sustainable Development Goal indicator 15.3.1"
@@ -4518,52 +4519,18 @@ msgstr ""
 "إلى مستوى الثقة في التقديرات (عالية أو متوسطة أو منخفضة)."
 
 #: ../../SO1.md:1238
-msgid "Step 2. Estimate progress towards land degradation neutrality"
-msgstr "الخطوة 2: تقدير التقدم المحرز نحو تحييد أثر تدهور الأراضي"
-
-#: ../../SO1.md:1
-msgid "Related areas in the PRAIS 4 platform: table SO1-4.T2"
-msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: الجدول SO 1-4.T2"
-
-#: ../../SO1.md:1244
-msgid ""
-"Progress made towards LDN should be reported as the net difference "
-"between areas improved (gains) in the reporting period compared to the "
-"baseline and areas degraded (losses) in the reporting period compared to "
-"the baseline (table SO1-4.T2). The difference in areas degraded and "
-"improved (km2) is reported in the LDN status field. Positive values "
-"indicate a net gain in improved land while negative values indicate that "
-"more land was degraded than improved. A value close to zero suggests that"
-" gains were balanced by losses and that LDN has been achieved.  Positive "
-"values demonstrate that LDN has been both achieved and exceeded. The "
-"values reported in table SO1-4.T2 should therefore help countries with "
-"LDN monitoring and target-setting."
-msgstr ""
-"يتعين الإبلاغ عن التقدم المُحرز تجاه تحييد أثر تدهور الأراضي حيث تحسن "
-"الفارق الصافي بين المناطق المحسّنة (المكاسب) في فترة الإبلاغ مقارنةً بخط "
-"الأساس والأراضي المتدهورة (الخسائر) في فترة الإبلاغ مقارنة بخط الأساس "
-"(الجدول SO 1-4.T2). وقد سُجّل الفارق في المناطق المتدهورة والمحسّنة (كم2)"
-" في حقل حالة تحييد أثر تدهور الأراضي. وتشير القيم الإيجابية إلى مكاسب "
-"صافية في الأراضي المحسّنة بينما تشير القيم السلبية إلى تدهور كثيرٍ من "
-"الأراضي مقارنة بتحسينها. وتشير القيمة التي تقترب من الصفر إلى أن المكاسب "
-"كانت متوازنة بالخسائر وأن أثر تحييد تدهور الأراضي قد تحقق. وتدل القيم "
-"الإيجابية على أن أثر تحييد تدهور الأراضي قد تحقق وفاق الحد. ولذلك، ينبغي "
-"أن تساعد القيم الواردة في الجدول SO 1-4.T2 البلدان على الرصد وتحديد "
-"الأهداف باستخدام أثر تحييد تدهور الأراضي."
-
-#: ../../SO1.md:1246
-msgid "Step 3. Identify false positives and false negatives"
-msgstr "الخطوة 3: تحديد الإيجابيات الزائفة والسلبيات الزائفة"
+msgid "Step 2. Identify false positives and false negatives"
+msgstr "الخطوة 2: تحديد الإيجابيات الزائفة والسلبيات الزائفة"
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: : table SO1-4.T3"
 msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: الجدول SO -4.T3"
 
-#: ../../SO1.md:1252
+#: ../../SO1.md:1244
 msgid "Parties have the option to identify areas of:"
 msgstr "للأطراف خيار تحديد المناطق التالية:"
 
-#: ../../SO1.md:1254
+#: ../../SO1.md:1246
 msgid ""
 "‘False positive’ degradation, where the 1OAO process has incorrectly "
 "indicated that an area is not degraded even though the change in land "
@@ -4575,7 +4542,7 @@ msgstr ""
 "في حالة الأرض يُعدّ سلبياً بما فيه الكفاية بحيث يوصف بأنه متدهور في سياق "
 "مؤشر هدف التنمية المستدامة 15-3-1؛"
 
-#: ../../SO1.md:1255
+#: ../../SO1.md:1247
 msgid ""
 "‘False negative’ degradation, in which the outcome of the 1OAO process "
 "has incorrectly resulted in an area being identified as degraded."
@@ -4583,11 +4550,11 @@ msgstr ""
 "التدهور \"السلبي الزائف\"، وتكون فيه محصلة عملية \"استبعاد عنصر يعني "
 "استبعاد الكل\" قد أسفرت على نحو غير صحيح عن تحديد منطقة على أنها متدهورة."
 
-#: ../../SO1.md:1257
+#: ../../SO1.md:1249
 msgid "What are false positives?"
 msgstr "ما هي الإيجابيات الزائفة؟"
 
-#: ../../SO1.md:1259
+#: ../../SO1.md:1251
 msgid ""
 "An example is a woody weed invasion of a grassland, which may raise the "
 "apparent plant productivity even though the outcome in terms of the "
@@ -4608,11 +4575,11 @@ msgstr ""
 "التنمية المستدامة 15-3-1. وتنشأ نتيجة مماثلة في الأراضي التي تغزوها أنواع"
 " نباتية غريبة."
 
-#: ../../SO1.md:1261
+#: ../../SO1.md:1253
 msgid "What are false negatives?"
 msgstr "ما هي السلبيات الزائفة؟"
 
-#: ../../SO1.md:1263
+#: ../../SO1.md:1255
 msgid ""
 "An example is the inverse of the above problem where woody weeds (or "
 "invasive plant species) are removed as part of a remediation process, "
@@ -4627,7 +4594,7 @@ msgstr ""
 "القصد هو استعادة الأراضي المتدهورة. وفي عملية \"استبعاد عنصر يعني استبعاد"
 " الكل\"، سيُطلق على المنطقة المستصلحة وصفٌ غير صحيح وهو أنها متدهورة."
 
-#: ../../SO1.md:1265
+#: ../../SO1.md:1257
 msgid ""
 "In areas where a false positive or false negative degradation outcome is "
 "identified, Parties can use the PRAIS 4 spatial data viewer to provide "
@@ -4650,7 +4617,7 @@ msgstr ""
 "النتائج المُعاد حسابها. وبدون التحديد المكاني للمنطقة الإيجابية و/أو "
 "السلبية الزائفة، لن يكون هناك تأثير مادي على بيانات الإبلاغ."
 
-#: ../../SO1.md:1267
+#: ../../SO1.md:1259
 msgid ""
 "Reporting on false positive and negative extents using the PRAIS 4 "
 "platform requires filling in table SO1-4.T3. The PRAIS 4 spatial data "
@@ -4684,15 +4651,15 @@ msgstr ""
 " العملية الإيجابية أو السلبية الزائفة التي يبلّغ عنها ضمن نطاق تعدد "
 "الميزات المقدمة."
 
-#: ../../SO1.md:1269
-msgid "Step 4. Assess hotspots and brightspots"
-msgstr "الخطوة 4: تقييم المناطق الشديدة التأثر والمناطق البارزة"
+#: ../../SO1.md:1261
+msgid "Step 3. Assess hotspots and brightspots"
+msgstr "الخطوة 3: تقييم المناطق الشديدة التأثر والمناطق البارزة"
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: tables SO1-4.T4 and SO1-4.T5"
 msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: الجدولان SO 1-4.T4 وSO 1-4.T5"
 
-#: ../../SO1.md:1275
+#: ../../SO1.md:1267
 msgid ""
 "UNCCD encourages Parties to signal areas experiencing the most evident "
 "and dramatic change. These are defined as:"
@@ -4701,7 +4668,7 @@ msgstr ""
 " التي شهدت أكثر التغييرات وضوحاً ودراماتيكية. وتُعرَّف هذه المناطق على "
 "أنها:"
 
-#: ../../SO1.md:1277
+#: ../../SO1.md:1269
 msgid ""
 "Hotspots: areas that are highly vulnerable to degradation in the absence "
 "of urgent remediation activities;"
@@ -4709,7 +4676,7 @@ msgstr ""
 "المناطق الشديدة التأثر: المناطق المعرَّضة بشدة للتدهور في غياب أنشطة "
 "الإصلاح العاجلة؛"
 
-#: ../../SO1.md:1279
+#: ../../SO1.md:1271
 msgid ""
 "Brightspots: areas that do not exhibit any signs of degradation, or which"
 " have been remediated from a degraded state by implementing appropriate "
@@ -4720,7 +4687,7 @@ msgstr ""
 "التي عولجت من حالة متدهورة عن طريق تنفيذ أنشطة الإصلاح المناسبة أو من "
 "خلال عمليات تخطيط الأراضي لمنع التدهور."
 
-#: ../../SO1.md:1281
+#: ../../SO1.md:1273
 msgid ""
 "Knowledge about location and type of hotspots/brightspots may facilitate "
 "the development of plans of action to redress degradation, including "
@@ -4731,7 +4698,7 @@ msgstr ""
 "خطط عمل لمعالجة التدهور، بما في ذلك من خلال حفظ موارد الأراضي وإعادة "
 "تأهيلها واستصلاحها وإدارتها على نحو مستدام."
 
-#: ../../SO1.md:1283
+#: ../../SO1.md:1275
 msgid ""
 "Hotspots and brightspots are reported in tables SO1-1.T4 and SO1-1.T5 of "
 "the PRAIS 4 platform, respectively. Parties are invited to enter relevant"
@@ -4758,11 +4725,11 @@ msgstr ""
 "الأمم المتحدة لمكافحة التصحر أن تستخدم هذه البيانات المكانية للخروج "
 "بنواتج معلومات محسَّنة لإثبات أثر الاتفاقية."
 
-#: ../../SO1.md:1285
-msgid "Step 5. Generate reports"
-msgstr "الخطوة 5: إنشاء التقارير"
+#: ../../SO1.md:1277
+msgid "Step 4. Generate reports"
+msgstr "الخطوة 4: إنشاء التقارير"
 
-#: ../../SO1.md:1287
+#: ../../SO1.md:1279
 msgid ""
 "Once verified by the Parties, the estimates of land degradation data for "
 "the reporting and baseline periods should be officially submitted to "
@@ -4779,13 +4746,13 @@ msgstr ""
 "نهاية استمارة الإبلاغ في منصة نظام PRAIS 4 حقل \"التعليقات العامة\" لهذا "
 "الغرض."
 
-#: ../../SO1.md:1289
+#: ../../SO1.md:1281
 msgid ""
 "Information on land degradation should be reported in km2 for the entire "
 "country."
 msgstr "يتعين الإبلاغ عن المعلومات حول تدهور الأراضي بالـ كم2 للبلد بأكمله."
 
-#: ../../SO1.md:1291
+#: ../../SO1.md:1283
 msgid ""
 "Default maps or maps generated in Trends.Earth using national data "
 "representing land degradation for the baseline/reporting period are made "
@@ -4797,7 +4764,7 @@ msgstr ""
 "الأساس/الإبلاغ. وعلى نحو أكثر تحديداً، ستكون الخرائط التالية متاحة على "
 "الإنترنت:"
 
-#: ../../SO1.md:1293
+#: ../../SO1.md:1285
 msgid ""
 "Proportion of land that is degraded over total land area (SDG indicator "
 "15.3.1) in the baseline period"
@@ -4805,7 +4772,7 @@ msgstr ""
 "نسبة الأراضي المتدهورة إلى إجمالي مساحة الأرض (مؤشر هدف التنمية المستدامة"
 " 15-3-1) في فترة خط الأساس"
 
-#: ../../SO1.md:1294
+#: ../../SO1.md:1286
 msgid ""
 "Proportion of land that is degraded over total land area (SDG indicator "
 "15.3.1) in the reporting period"
@@ -4813,11 +4780,7 @@ msgstr ""
 "نسبة الأراضي المتدهورة إلى إجمالي مساحة الأرض (مؤشر هدف التنمية المستدامة"
 " 15-3-1) في فترة الإبلاغ"
 
-#: ../../SO1.md:1295
-msgid "Progress towards LDN in the reporting period"
-msgstr "التقدم المحرز في تحقيق أثر تحييد تدهور الأراضي في فترة الإبلاغ"
-
-#: ../../SO1.md:1296
+#: ../../SO1.md:1287
 msgid ""
 "Degradation hotspots (for countries that provide spatial data in the "
 "PRAIS 4 platform)"
@@ -4825,7 +4788,7 @@ msgstr ""
 "المناطق الشديدة التأثر بالتدهور (للبلدان التي تُوفِّر بيانات مكانية في "
 "منصة نظام PRAIS 4)"
 
-#: ../../SO1.md:1297
+#: ../../SO1.md:1288
 msgid ""
 "Improvement brightspots (for countries that provide spatial data in the "
 "PRAIS 4 platform)."
@@ -4833,11 +4796,11 @@ msgstr ""
 "المناطق البارزة من حيث التحسُن (للبلدان التي تُوفِّر بيانات مكانية في "
 "منصة نظام PRAIS 4)."
 
-#: ../../SO1.md:1299
+#: ../../SO1.md:1290
 msgid "1.4.4. Dependencies"
 msgstr "1-4-4 التبعيات"
 
-#: ../../SO1.md:1301
+#: ../../SO1.md:1292
 msgid ""
 "SDG indicator 15.3.1 relies on the total land area reported in table "
 "SO1-1.T1. Modifying that number will therefore alter the indicator’s "
@@ -4846,7 +4809,7 @@ msgstr ""
 "يعتمد مؤشر هدف التنمية المستدامة 15-3-1 على إجمالي مساحة الأرض المسجَّل "
 "في الجدول SO 1-1.T1. وبالتالي، فإن تعديل هذا الرقم سيغير قيمة المؤشر."
 
-#: ../../SO1.md:1303
+#: ../../SO1.md:1294
 msgid ""
 "The ‘Area’ fields of the spatial tables SO1-4.T3,  SO1-4.T4 and SO1-4.T5 "
 "have a dependency on spatial data created by countries using the PRAIS 4 "
@@ -4858,17 +4821,17 @@ msgstr ""
 "المكانية لنظام PRAIS 4. ومع ذلك، يمكن ملؤها كذلك يدوياً بدون توفير بيانات"
 " مكانية داعمة."
 
-#: ../../SO1.md:1305
+#: ../../SO1.md:1296
 msgid "1.4.5. Summary (main actions)"
 msgstr "1-4-5 الملخص (الإجراءات الرئيسية)"
 
-#: ../../SO1.md:1307
+#: ../../SO1.md:1298
 msgid "Key actions for reporting on the SDG indicator 15.3.1 are as follows:"
 msgstr ""
 "الإجراءات الرئيسية للإبلاغ عن مؤشر هدف التنمية المستدامة 15-3-1 هي كما "
 "يلي:"
 
-#: ../../SO1.md:1309
+#: ../../SO1.md:1300
 msgid ""
 "**Calculate the proportion of land that is degraded over total land area "
 "(SDG indicator 15.3.1)**: Using the 1OAO approach to combine the three "
@@ -4887,18 +4850,7 @@ msgstr ""
 "الجديد؛ و(2) مساحات الأراضي التي استمرت في حالة تدهور منذ فترة خط الأساس "
 "(أي لم تتحسن إلى حالة غير متدهورة)."
 
-#: ../../SO1.md:1311
-msgid ""
-"**Estimate progress towards LDN**: Calculate the difference between the "
-"extent of degraded land (losses) and the extent of improved land (gains) "
-"in the reporting period to determine if there has been a net gain, "
-"neutrality or a net loss."
-msgstr ""
-"**تقدير التقدم المحرز نحو أثر تحييد تدهور الأراضي**: احسب الفارق بين نطاق"
-" الأراضي المتدهورة (الخسائر) ونطاق تحسُّن الأراضي (المكاسب) في فترة "
-"الإبلاغ لتحديد ما إذا كان هناك صافي مكاسب أو حياد أو صافي خسائر."
-
-#: ../../SO1.md:1313
+#: ../../SO1.md:1302
 msgid ""
 "**Identify false positive and false negative processes** and provide the "
 "relevant justification to support their assessment. Where countries are "
@@ -4914,7 +4866,7 @@ msgstr ""
 "عليها للقيام بذلك استخدام عارض البيانات المكانية لنظام PRAIS 4 (الجدول SO"
 " 1-4.T3)."
 
-#: ../../SO1.md:1315
+#: ../../SO1.md:1304
 msgid ""
 "**Assess hotspots of land degradation and brightspots of land "
 "improvement**, indicating their locations, extents, and actions taken "
@@ -4928,11 +4880,11 @@ msgstr ""
 "1-4.T5). وتُشجَّع البلدان على الإبلاغ عن المناطق الأشد تأثراً والمناطق "
 "البارزة باستخدام عارض البيانات المكانية لنظام PRAIS 4."
 
-#: ../../SO1.md:1317
+#: ../../SO1.md:1306
 msgid "1.4.6. Further reading"
 msgstr "1-4-6 قراءات إضافية:"
 
-#: ../../SO1.md:1319
+#: ../../SO1.md:1308
 msgid ""
 "Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that "
 "is degraded over total land area (version 2). Chapter 2: SDG Indicator "
@@ -4946,7 +4898,7 @@ msgstr ""
 "(<https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land>)."
 
-#: ../../SO1.md:1320
+#: ../../SO1.md:1309
 msgid ""
 "Scientific Conceptual Framework for Land Degradation Neutrality "
 "(<https://knowledge.unccd.int/publication/ldn-scientific-conceptual-"
@@ -5021,4 +4973,74 @@ msgstr ""
 #: ../../SO1.md:1195
 msgid "Article 1 of the United Nations Convention to Combat Desertification."
 msgstr "المادة 1 من اتفاقية الأمم المتحدة لمكافحة التصحر."
+
+#~ msgid "Step 2. Estimate progress towards land degradation neutrality"
+#~ msgstr "الخطوة 2: تقدير التقدم المحرز نحو تحييد أثر تدهور الأراضي"
+
+#~ msgid "Related areas in the PRAIS 4 platform: table SO1-4.T2"
+#~ msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: الجدول SO 1-4.T2"
+
+#~ msgid ""
+#~ "Progress made towards LDN should be "
+#~ "reported as the net difference between"
+#~ " areas improved (gains) in the "
+#~ "reporting period compared to the "
+#~ "baseline and areas degraded (losses) in"
+#~ " the reporting period compared to the"
+#~ " baseline (table SO1-4.T2). The difference"
+#~ " in areas degraded and improved (km2)"
+#~ " is reported in the LDN status "
+#~ "field. Positive values indicate a net"
+#~ " gain in improved land while negative"
+#~ " values indicate that more land was"
+#~ " degraded than improved. A value "
+#~ "close to zero suggests that gains "
+#~ "were balanced by losses and that "
+#~ "LDN has been achieved.  Positive values"
+#~ " demonstrate that LDN has been both"
+#~ " achieved and exceeded. The values "
+#~ "reported in table SO1-4.T2 should "
+#~ "therefore help countries with LDN "
+#~ "monitoring and target-setting."
+#~ msgstr ""
+#~ "يتعين الإبلاغ عن التقدم المُحرز تجاه "
+#~ "تحييد أثر تدهور الأراضي حيث تحسن "
+#~ "الفارق الصافي بين المناطق المحسّنة "
+#~ "(المكاسب) في فترة الإبلاغ مقارنةً بخط"
+#~ " الأساس والأراضي المتدهورة (الخسائر) في "
+#~ "فترة الإبلاغ مقارنة بخط الأساس (الجدول"
+#~ " SO 1-4.T2). وقد سُجّل الفارق في "
+#~ "المناطق المتدهورة والمحسّنة (كم2) في حقل"
+#~ " حالة تحييد أثر تدهور الأراضي. وتشير"
+#~ " القيم الإيجابية إلى مكاسب صافية في"
+#~ " الأراضي المحسّنة بينما تشير القيم "
+#~ "السلبية إلى تدهور كثيرٍ من الأراضي "
+#~ "مقارنة بتحسينها. وتشير القيمة التي تقترب"
+#~ " من الصفر إلى أن المكاسب كانت "
+#~ "متوازنة بالخسائر وأن أثر تحييد تدهور "
+#~ "الأراضي قد تحقق. وتدل القيم الإيجابية"
+#~ " على أن أثر تحييد تدهور الأراضي "
+#~ "قد تحقق وفاق الحد. ولذلك، ينبغي أن"
+#~ " تساعد القيم الواردة في الجدول SO "
+#~ "1-4.T2 البلدان على الرصد وتحديد الأهداف"
+#~ " باستخدام أثر تحييد تدهور الأراضي."
+
+#~ msgid "Progress towards LDN in the reporting period"
+#~ msgstr "التقدم المحرز في تحقيق أثر تحييد تدهور الأراضي في فترة الإبلاغ"
+
+#~ msgid ""
+#~ "**Estimate progress towards LDN**: Calculate"
+#~ " the difference between the extent of"
+#~ " degraded land (losses) and the "
+#~ "extent of improved land (gains) in "
+#~ "the reporting period to determine if "
+#~ "there has been a net gain, "
+#~ "neutrality or a net loss."
+#~ msgstr ""
+#~ "**تقدير التقدم المحرز نحو أثر تحييد "
+#~ "تدهور الأراضي**: احسب الفارق بين نطاق"
+#~ " الأراضي المتدهورة (الخسائر) ونطاق تحسُّن"
+#~ " الأراضي (المكاسب) في فترة الإبلاغ "
+#~ "لتحديد ما إذا كان هناك صافي مكاسب"
+#~ " أو حياد أو صافي خسائر."
 

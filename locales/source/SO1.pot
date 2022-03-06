@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-22 20:12+0200\n"
+"POT-Creation-Date: 2022-03-06 14:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2478,7 +2478,7 @@ msgid "1.4.3. Reporting process and step-by-step procedure"
 msgstr ""
 
 #: ../../SO1.md:1217
-msgid "The step-by-step procedure for reporting is described in the following. If Parties decide to use the default data, steps 1 and 2 are unnecessary."
+msgid "The step-by-step procedure for reporting is described in the following. If Parties decide to use the default data, step 1 is unnecessary."
 msgstr ""
 
 #: ../../SO1.md:1219
@@ -2514,170 +2514,150 @@ msgid "The total area of degraded land for the baseline, the reporting period an
 msgstr ""
 
 #: ../../SO1.md:1238
-msgid "Step 2. Estimate progress towards land degradation neutrality"
-msgstr ""
-
-#: ../../SO1.md:1
-msgid "Related areas in the PRAIS 4 platform: table SO1-4.T2"
-msgstr ""
-
-#: ../../SO1.md:1244
-msgid "Progress made towards LDN should be reported as the net difference between areas improved (gains) in the reporting period compared to the baseline and areas degraded (losses) in the reporting period compared to the baseline (table SO1-4.T2). The difference in areas degraded and improved (km2) is reported in the LDN status field. Positive values indicate a net gain in improved land while negative values indicate that more land was degraded than improved. A value close to zero suggests that gains were balanced by losses and that LDN has been achieved.  Positive values demonstrate that LDN has been both achieved and exceeded. The values reported in table SO1-4.T2 should therefore help countries with LDN monitoring and target-setting."
-msgstr ""
-
-#: ../../SO1.md:1246
-msgid "Step 3. Identify false positives and false negatives"
+msgid "Step 2. Identify false positives and false negatives"
 msgstr ""
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: : table SO1-4.T3"
 msgstr ""
 
-#: ../../SO1.md:1252
+#: ../../SO1.md:1244
 msgid "Parties have the option to identify areas of:"
 msgstr ""
 
-#: ../../SO1.md:1254
+#: ../../SO1.md:1246
 msgid "‘False positive’ degradation, where the 1OAO process has incorrectly indicated that an area is not degraded even though the change in land condition is considered sufficiently negative to qualify as degraded in the context of SDG indicator 15.3.1; and"
 msgstr ""
 
-#: ../../SO1.md:1255
+#: ../../SO1.md:1247
 msgid "‘False negative’ degradation, in which the outcome of the 1OAO process has incorrectly resulted in an area being identified as degraded."
 msgstr ""
 
-#: ../../SO1.md:1257
+#: ../../SO1.md:1249
 msgid "What are false positives?"
 msgstr ""
 
-#: ../../SO1.md:1259
+#: ../../SO1.md:1251
 msgid "An example is a woody weed invasion of a grassland, which may raise the apparent plant productivity even though the outcome in terms of the change in land condition would normally be negative. This is a false ‘positive’ or apparent improvement in land condition. In the 1OAO process, the area undergoing woody encroachment would be incorrectly indicated as not degraded even though the change in land condition is considered to be sufficiently negative to qualify as degraded in the context of SDG indicator 15.3.1. A similar outcome arises in lands invaded by alien plant species."
 msgstr ""
 
-#: ../../SO1.md:1261
+#: ../../SO1.md:1253
 msgid "What are false negatives?"
 msgstr ""
 
-#: ../../SO1.md:1263
+#: ../../SO1.md:1255
 msgid "An example is the inverse of the above problem where woody weeds (or invasive plant species) are removed as part of a remediation process, causing a reduction in apparent productivity. This would normally lead to an indication of degradation even though the intention is to restore degraded lands. In the 1OAO process, the remediated area would be incorrectly labelled as being degraded."
 msgstr ""
 
-#: ../../SO1.md:1265
+#: ../../SO1.md:1257
 msgid "In areas where a false positive or false negative degradation outcome is identified, Parties can use the PRAIS 4 spatial data viewer to provide further spatial detail in addition to the reporting fields in table SO1-4.T3. Spatial delineation of false positive and negative areas should only be carried out where countries are confident that they know the timing, location and extent of these counterintuitive processes. However, in reporting spatially, Parties can then opt to recalculate the outcomes of the 1OAO process through Trends.Earth and import the recalculated results. Without spatial delineation of the false positive and/or negative area, there will be no material impact on the reporting data."
 msgstr ""
 
-#: ../../SO1.md:1267
+#: ../../SO1.md:1259
 msgid "Reporting on false positive and negative extents using the PRAIS 4 platform requires filling in table SO1-4.T3. The PRAIS 4 spatial data viewer supports the filling in of this table with spatial information (in vector format). However, it remains an optional element and the table can still be filled in without the provision of spatial data. Information about the location of the sites, the areal extent of the site (auto-filled by the PRAIS 4 spatial data viewer, if used), the processes behind the false positive/false negative outcome and the basis for their judgement should be  reported in addition to the period when the false negative or false positive process started. For those Parties using the PRAIS 4 spatial data viewer to delineate the extents, an informative graphic can be used to interpret the percentage of the total area delineated that is degraded or improved per subindicator. This graphic chart should be used as a guide to understand what subindicator is driving the false positive or negative process being reported within the polygon extent provided."
 msgstr ""
 
-#: ../../SO1.md:1269
-msgid "Step 4. Assess hotspots and brightspots"
+#: ../../SO1.md:1261
+msgid "Step 3. Assess hotspots and brightspots"
 msgstr ""
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: tables SO1-4.T4 and SO1-4.T5"
 msgstr ""
 
-#: ../../SO1.md:1275
+#: ../../SO1.md:1267
 msgid "UNCCD encourages Parties to signal areas experiencing the most evident and dramatic change. These are defined as:"
 msgstr ""
 
-#: ../../SO1.md:1277
+#: ../../SO1.md:1269
 msgid "Hotspots: areas that are highly vulnerable to degradation in the absence of urgent remediation activities;"
 msgstr ""
 
-#: ../../SO1.md:1279
+#: ../../SO1.md:1271
 msgid "Brightspots: areas that do not exhibit any signs of degradation, or which have been remediated from a degraded state by implementing appropriate remediation activities or through land planning processes to prevent degradation."
 msgstr ""
 
-#: ../../SO1.md:1281
+#: ../../SO1.md:1273
 msgid "Knowledge about location and type of hotspots/brightspots may facilitate the development of plans of action to redress degradation, including through the conservation, rehabilitation, restoration and sustainable management of land resources."
 msgstr ""
 
-#: ../../SO1.md:1283
+#: ../../SO1.md:1275
 msgid "Hotspots and brightspots are reported in tables SO1-1.T4 and SO1-1.T5 of the PRAIS 4 platform, respectively. Parties are invited to enter relevant information such as location, area, the adopted assessment process, the drivers/processes determining the status of the land, and remediation actions taken and planned. These are spatial tables and therefore should be completed with the support of the geographic information system tools available in the PRAIS 4 spatial data viewer. This is an additional and optional element, but such location-based information can strengthen spatial approaches to sustainable land management and help integrate responses to land degradation at the landscape scale. In addition, UNCCD can use these spatial data to create improved information products to demonstrate the impact of the Convention."
 msgstr ""
 
-#: ../../SO1.md:1285
-msgid "Step 5. Generate reports"
+#: ../../SO1.md:1277
+msgid "Step 4. Generate reports"
 msgstr ""
 
-#: ../../SO1.md:1287
+#: ../../SO1.md:1279
 msgid "Once verified by the Parties, the estimates of land degradation data for the reporting and baseline periods should be officially submitted to UNCCD. Special or anomalous situations and noticeable issues related to the data interpretation that may affect the reliability of the reported values should be described in the narrative. A ‘General Comment’ field is provided at the end of the reporting form of the PRAIS 4 platform for this purpose."
 msgstr ""
 
-#: ../../SO1.md:1289
+#: ../../SO1.md:1281
 msgid "Information on land degradation should be reported in km2 for the entire country."
 msgstr ""
 
-#: ../../SO1.md:1291
+#: ../../SO1.md:1283
 msgid "Default maps or maps generated in Trends.Earth using national data representing land degradation for the baseline/reporting period are made available in the PRAIS 4 platform. More specifically, the following maps will be available online:"
 msgstr ""
 
-#: ../../SO1.md:1293
+#: ../../SO1.md:1285
 msgid "Proportion of land that is degraded over total land area (SDG indicator 15.3.1) in the baseline period"
 msgstr ""
 
-#: ../../SO1.md:1294
+#: ../../SO1.md:1286
 msgid "Proportion of land that is degraded over total land area (SDG indicator 15.3.1) in the reporting period"
 msgstr ""
 
-#: ../../SO1.md:1295
-msgid "Progress towards LDN in the reporting period"
-msgstr ""
-
-#: ../../SO1.md:1296
+#: ../../SO1.md:1287
 msgid "Degradation hotspots (for countries that provide spatial data in the PRAIS 4 platform)"
 msgstr ""
 
-#: ../../SO1.md:1297
+#: ../../SO1.md:1288
 msgid "Improvement brightspots (for countries that provide spatial data in the PRAIS 4 platform)."
 msgstr ""
 
-#: ../../SO1.md:1299
+#: ../../SO1.md:1290
 msgid "1.4.4. Dependencies"
 msgstr ""
 
-#: ../../SO1.md:1301
+#: ../../SO1.md:1292
 msgid "SDG indicator 15.3.1 relies on the total land area reported in table SO1-1.T1. Modifying that number will therefore alter the indicator’s value."
 msgstr ""
 
-#: ../../SO1.md:1303
+#: ../../SO1.md:1294
 msgid "The ‘Area’ fields of the spatial tables SO1-4.T3,  SO1-4.T4 and SO1-4.T5 have a dependency on spatial data created by countries using the PRAIS 4 spatial data viewer. However, they can also be filled in manually without providing supporting spatial data."
 msgstr ""
 
-#: ../../SO1.md:1305
+#: ../../SO1.md:1296
 msgid "1.4.5. Summary (main actions)"
 msgstr ""
 
-#: ../../SO1.md:1307
+#: ../../SO1.md:1298
 msgid "Key actions for reporting on the SDG indicator 15.3.1 are as follows:"
 msgstr ""
 
-#: ../../SO1.md:1309
+#: ../../SO1.md:1300
 msgid "**Calculate the proportion of land that is degraded over total land area (SDG indicator 15.3.1)**: Using the 1OAO approach to combine the three subindicators, calculate the extent of degradation in the baseline period and in the reporting period. The extent of degradation in the reporting period is calculated by summing (i) areas of land where changes in the subindicators are considered to indicate new degradation; and (ii) areas of land that have persisted in a degraded state since the baseline period (i.e. have not improved to a non-degraded state)."
 msgstr ""
 
-#: ../../SO1.md:1311
-msgid "**Estimate progress towards LDN**: Calculate the difference between the extent of degraded land (losses) and the extent of improved land (gains) in the reporting period to determine if there has been a net gain, neutrality or a net loss."
-msgstr ""
-
-#: ../../SO1.md:1313
+#: ../../SO1.md:1302
 msgid "**Identify false positive and false negative processes** and provide the relevant justification to support their assessment. Where countries are confident in reporting the location and extent of these processes and in recalculating the 1OAO process for SDG indicator 15.3.1 with the identified areas accounted for, they should use the PRAIS 4 spatial data viewer to do so (table SO1-4.T3)."
 msgstr ""
 
-#: ../../SO1.md:1315
+#: ../../SO1.md:1304
 msgid "**Assess hotspots of land degradation and brightspots of land improvement**, indicating their locations, extents, and actions taken and/or planned to manage them and ensure the sustainable development of the areas (tables SO1-4.T4 and SO1-4.T5). Countries are encouraged to report on hotspots and brightspots using the PRAIS 4 spatial data viewer."
 msgstr ""
 
-#: ../../SO1.md:1317
+#: ../../SO1.md:1306
 msgid "1.4.6. Further reading"
 msgstr ""
 
-#: ../../SO1.md:1319
+#: ../../SO1.md:1308
 msgid "Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2). Chapter 2: SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (<https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land>)."
 msgstr ""
 
-#: ../../SO1.md:1320
+#: ../../SO1.md:1309
 msgid "Scientific Conceptual Framework for Land Degradation Neutrality (<https://knowledge.unccd.int/publication/ldn-scientific-conceptual-framework-land-degradation-neutrality-report-science-policy>)."
 msgstr ""
 

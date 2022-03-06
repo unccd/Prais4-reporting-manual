@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-22 17:09+0200\n"
+"POT-Creation-Date: 2022-03-06 14:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,9 +19,9 @@ msgstr ""
 
 #: ../../SO1.md:1
 msgid ""
-"1. Strategic objective 1: To improve the condition of affected ecosystems,"
-" combat desertification/ land degradation, promote sustainable land "
-"management and contribute to land degradation neutrality"
+"1. Strategic objective 1: To improve the condition of affected "
+"ecosystems, combat desertification/ land degradation, promote sustainable"
+" land management and contribute to land degradation neutrality"
 msgstr ""
 "1. Objetivo estratégico 1: Mejorar las condiciones de los ecosistemas "
 "afectados, luchar contra la desertificación y la degradación de las "
@@ -4761,11 +4761,11 @@ msgstr ""
 #: ../../SO1.md:1217
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
-"If Parties decide to use the default data, steps 1 and 2 are unnecessary."
+"If Parties decide to use the default data, step 1 is unnecessary."
 msgstr ""
 "A continuación, se describen las instrucciones detalladas paso por paso "
 "para la presentación de informes. Si las Partes deciden utilizar los "
-"datos por defecto, los pasos 1 y 2 son innecesarios."
+"datos por defecto, el paso 1 es innecesario."
 
 #: ../../SO1.md:1219
 msgid "Step 1. Calculate Sustainable Development Goal indicator 15.3.1"
@@ -4863,56 +4863,18 @@ msgstr ""
 "de las estimaciones (alto, medio o bajo)."
 
 #: ../../SO1.md:1238
-msgid "Step 2. Estimate progress towards land degradation neutrality"
-msgstr ""
-"Paso 2. Estimar el progreso hacia la neutralización de la degradación de "
-"las tierras"
-
-#: ../../SO1.md:1
-msgid "Related areas in the PRAIS 4 platform: table SO1-4.T2"
-msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO1-4.T2"
-
-#: ../../SO1.md:1244
-msgid ""
-"Progress made towards LDN should be reported as the net difference "
-"between areas improved (gains) in the reporting period compared to the "
-"baseline and areas degraded (losses) in the reporting period compared to "
-"the baseline (table SO1-4.T2). The difference in areas degraded and "
-"improved (km2) is reported in the LDN status field. Positive values "
-"indicate a net gain in improved land while negative values indicate that "
-"more land was degraded than improved. A value close to zero suggests that"
-" gains were balanced by losses and that LDN has been achieved.  Positive "
-"values demonstrate that LDN has been both achieved and exceeded. The "
-"values reported in table SO1-4.T2 should therefore help countries with "
-"LDN monitoring and target-setting."
-msgstr ""
-"El progreso hacia la NDT debe ser notificado como la diferencia neta "
-"entre las áreas mejoradas (ganancias) en el período de presentación de "
-"informes comparadas con el valor de referencia y las áreas degradadas "
-"(pérdidas) en el período de presentación de informes comparadas con el "
-"valor de referencia (tabla SO1-4.T2). La diferencia en las áreas "
-"degradadas y mejoradas (km2) se notifica en el campo del estado de la "
-"NDT. Los valores positivos indican una ganancia neta de tierra mejorada, "
-"mientras que los valores negativos indican que se degradó más tierra de "
-"la que se mejoró. Un valor cercano a cero indica que las ganancias se han"
-" equilibrado con las pérdidas y que se ha alcanzado la NDT. Los valores "
-"positivos demuestran que se ha alcanzado y superado la NDT. Los valores "
-"presentados en la tabla SO1-4.T2 deberían, por lo tanto, ayudar a los "
-"países a monitorear y establecer objetivos en materia de NDT."
-
-#: ../../SO1.md:1246
-msgid "Step 3. Identify false positives and false negatives"
-msgstr "Paso 3. Identificar los falsos positivos y los falsos negativos"
+msgid "Step 2. Identify false positives and false negatives"
+msgstr "Paso 2. Identificar los falsos positivos y los falsos negativos"
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: : table SO1-4.T3"
 msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO1-4.T3"
 
-#: ../../SO1.md:1252
+#: ../../SO1.md:1244
 msgid "Parties have the option to identify areas of:"
 msgstr "Las Partes tienen la opción de identificar áreas de:"
 
-#: ../../SO1.md:1254
+#: ../../SO1.md:1246
 msgid ""
 "‘False positive’ degradation, where the 1OAO process has incorrectly "
 "indicated that an area is not degraded even though the change in land "
@@ -4925,7 +4887,7 @@ msgstr ""
 "calificarlo como degradado en el contexto del indicador 15.3.1 de los "
 "ODS; y"
 
-#: ../../SO1.md:1255
+#: ../../SO1.md:1247
 msgid ""
 "‘False negative’ degradation, in which the outcome of the 1OAO process "
 "has incorrectly resulted in an area being identified as degraded."
@@ -4933,11 +4895,11 @@ msgstr ""
 "degradación “falsa negativa”, en la que el resultado del proceso 1OAO ha "
 "dado lugar incorrectamente a que un área sea identificada como degradada."
 
-#: ../../SO1.md:1257
+#: ../../SO1.md:1249
 msgid "What are false positives?"
 msgstr "¿Qué son los falsos positivos?"
 
-#: ../../SO1.md:1259
+#: ../../SO1.md:1251
 msgid ""
 "An example is a woody weed invasion of a grassland, which may raise the "
 "apparent plant productivity even though the outcome in terms of the "
@@ -4960,11 +4922,11 @@ msgstr ""
 "ODS. Un resultado similar se produce en las tierras invadidas por "
 "especies vegetales exóticas."
 
-#: ../../SO1.md:1261
+#: ../../SO1.md:1253
 msgid "What are false negatives?"
 msgstr "¿Qué son los falsos negativos?"
 
-#: ../../SO1.md:1263
+#: ../../SO1.md:1255
 msgid ""
 "An example is the inverse of the above problem where woody weeds (or "
 "invasive plant species) are removed as part of a remediation process, "
@@ -4981,7 +4943,7 @@ msgstr ""
 "el proceso de 1OAO, el área saneada se etiquetaría incorrectamente como "
 "degradada."
 
-#: ../../SO1.md:1265
+#: ../../SO1.md:1257
 msgid ""
 "In areas where a false positive or false negative degradation outcome is "
 "identified, Parties can use the PRAIS 4 spatial data viewer to provide "
@@ -5007,7 +4969,7 @@ msgstr ""
 "positivos o negativos, no habrá ninguna repercusión importante en los "
 "datos de los informes presentados."
 
-#: ../../SO1.md:1267
+#: ../../SO1.md:1259
 msgid ""
 "Reporting on false positive and negative extents using the PRAIS 4 "
 "platform requires filling in table SO1-4.T3. The PRAIS 4 spatial data "
@@ -5045,15 +5007,15 @@ msgstr ""
 "negativo notificado dentro de la extensión del polígono que se "
 "proporciona."
 
-#: ../../SO1.md:1269
-msgid "Step 4. Assess hotspots and brightspots"
-msgstr "Paso 4. Evaluación de las zonas críticas y las zonas prometedoras"
+#: ../../SO1.md:1261
+msgid "Step 3. Assess hotspots and brightspots"
+msgstr "Paso 3. Evaluación de las zonas críticas y las zonas prometedoras"
 
 #: ../../SO1.md:1
 msgid "Related areas in the PRAIS 4 platform: tables SO1-4.T4 and SO1-4.T5"
 msgstr "Áreas relacionadas en la plataforma PRAIS 4: tablas SO1-4.T4 y SO1-4.T5"
 
-#: ../../SO1.md:1275
+#: ../../SO1.md:1267
 msgid ""
 "UNCCD encourages Parties to signal areas experiencing the most evident "
 "and dramatic change. These are defined as:"
@@ -5061,7 +5023,7 @@ msgstr ""
 "La CLD anima a las Partes a señalar las áreas que experimentan los "
 "cambios más evidentes y drásticos. Se definen del siguiente modo:"
 
-#: ../../SO1.md:1277
+#: ../../SO1.md:1269
 msgid ""
 "Hotspots: areas that are highly vulnerable to degradation in the absence "
 "of urgent remediation activities;"
@@ -5069,7 +5031,7 @@ msgstr ""
 "áreas críticas: áreas que son altamente vulnerables a la degradación en "
 "ausencia de actividades urgentes de reparación;"
 
-#: ../../SO1.md:1279
+#: ../../SO1.md:1271
 msgid ""
 "Brightspots: areas that do not exhibit any signs of degradation, or which"
 " have been remediated from a degraded state by implementing appropriate "
@@ -5081,7 +5043,7 @@ msgstr ""
 "reparación apropiadas o a través de procesos de ordenación territorial "
 "para evitar la degradación."
 
-#: ../../SO1.md:1281
+#: ../../SO1.md:1273
 msgid ""
 "Knowledge about location and type of hotspots/brightspots may facilitate "
 "the development of plans of action to redress degradation, including "
@@ -5093,7 +5055,7 @@ msgstr ""
 " la degradación, incluso mediante la conservación, la rehabilitación, la "
 "restauración y la gestión sostenible de los recursos de la tierra."
 
-#: ../../SO1.md:1283
+#: ../../SO1.md:1275
 msgid ""
 "Hotspots and brightspots are reported in tables SO1-1.T4 and SO1-1.T5 of "
 "the PRAIS 4 platform, respectively. Parties are invited to enter relevant"
@@ -5124,11 +5086,11 @@ msgstr ""
 "generar productos de información mejorados que demuestren los efectos de "
 "la Convención."
 
-#: ../../SO1.md:1285
-msgid "Step 5. Generate reports"
-msgstr "Paso 5: Generación de informes"
+#: ../../SO1.md:1277
+msgid "Step 4. Generate reports"
+msgstr "Paso 4: Generación de informes"
 
-#: ../../SO1.md:1287
+#: ../../SO1.md:1279
 msgid ""
 "Once verified by the Parties, the estimates of land degradation data for "
 "the reporting and baseline periods should be officially submitted to "
@@ -5148,7 +5110,7 @@ msgstr ""
 "al final del formulario de presentación de informes de la plataforma "
 "PRAIS 4."
 
-#: ../../SO1.md:1289
+#: ../../SO1.md:1281
 msgid ""
 "Information on land degradation should be reported in km2 for the entire "
 "country."
@@ -5156,7 +5118,7 @@ msgstr ""
 "La información sobre la degradación de las tierras debe indicarse en km2 "
 "para todo el país."
 
-#: ../../SO1.md:1291
+#: ../../SO1.md:1283
 msgid ""
 "Default maps or maps generated in Trends.Earth using national data "
 "representing land degradation for the baseline/reporting period are made "
@@ -5169,7 +5131,7 @@ msgstr ""
 " de presentación de informes. En concreto, estarán disponibles en línea "
 "los siguientes mapas:"
 
-#: ../../SO1.md:1293
+#: ../../SO1.md:1285
 msgid ""
 "Proportion of land that is degraded over total land area (SDG indicator "
 "15.3.1) in the baseline period"
@@ -5177,7 +5139,7 @@ msgstr ""
 "Proporción de tierras degradadas en comparación con la superficie total "
 "(indicador 15.3.1 de los ODS) durante el período de referencia."
 
-#: ../../SO1.md:1294
+#: ../../SO1.md:1286
 msgid ""
 "Proportion of land that is degraded over total land area (SDG indicator "
 "15.3.1) in the reporting period"
@@ -5186,13 +5148,7 @@ msgstr ""
 "(indicador 15.3.1 de los ODS) durante el período de presentación de "
 "informes."
 
-#: ../../SO1.md:1295
-msgid "Progress towards LDN in the reporting period"
-msgstr ""
-"Avances hacia la consecución de la NDT durante el período de presentación"
-" de informes."
-
-#: ../../SO1.md:1296
+#: ../../SO1.md:1287
 msgid ""
 "Degradation hotspots (for countries that provide spatial data in the "
 "PRAIS 4 platform)"
@@ -5200,7 +5156,7 @@ msgstr ""
 "Zonas críticas de degradación (para los países que proporcionan datos "
 "espaciales en la plataforma PRAIS 4)."
 
-#: ../../SO1.md:1297
+#: ../../SO1.md:1288
 msgid ""
 "Improvement brightspots (for countries that provide spatial data in the "
 "PRAIS 4 platform)."
@@ -5208,11 +5164,11 @@ msgstr ""
 "Zonas prometedoras de mejora (para los países que proporcionan datos "
 "espaciales en la plataforma PRAIS 4)."
 
-#: ../../SO1.md:1299
+#: ../../SO1.md:1290
 msgid "1.4.4. Dependencies"
 msgstr "1.4.4. Dependencias"
 
-#: ../../SO1.md:1301
+#: ../../SO1.md:1292
 msgid ""
 "SDG indicator 15.3.1 relies on the total land area reported in table "
 "SO1-1.T1. Modifying that number will therefore alter the indicator’s "
@@ -5222,7 +5178,7 @@ msgstr ""
 "indicada en la tabla SO1-1.T1. Por lo tanto, la modificación de esa cifra"
 " alterará el valor del indicador."
 
-#: ../../SO1.md:1303
+#: ../../SO1.md:1294
 msgid ""
 "The ‘Area’ fields of the spatial tables SO1-4.T3,  SO1-4.T4 and SO1-4.T5 "
 "have a dependency on spatial data created by countries using the PRAIS 4 "
@@ -5235,17 +5191,17 @@ msgstr ""
 "rellenarse manualmente, sin tener que proporcionar datos espaciales que "
 "los sustenten."
 
-#: ../../SO1.md:1305
+#: ../../SO1.md:1296
 msgid "1.4.5. Summary (main actions)"
 msgstr "1.4.5. Resumen (acciones principales)"
 
-#: ../../SO1.md:1307
+#: ../../SO1.md:1298
 msgid "Key actions for reporting on the SDG indicator 15.3.1 are as follows:"
 msgstr ""
 "He aquí las principales acciones para presentar informes sobre el "
 "indicador 15.3.1 de los ODS:"
 
-#: ../../SO1.md:1309
+#: ../../SO1.md:1300
 msgid ""
 "**Calculate the proportion of land that is degraded over total land area "
 "(SDG indicator 15.3.1)**: Using the 1OAO approach to combine the three "
@@ -5267,20 +5223,7 @@ msgstr ""
 "período de referencia continúa siendo degradado (es decir, que no han "
 "mejorado a un estado de no degradadas)."
 
-#: ../../SO1.md:1311
-msgid ""
-"**Estimate progress towards LDN**: Calculate the difference between the "
-"extent of degraded land (losses) and the extent of improved land (gains) "
-"in the reporting period to determine if there has been a net gain, "
-"neutrality or a net loss."
-msgstr ""
-"**Estimar los avances hacia la consecución de la NDT**: Calcular la "
-"diferencia entre la extensión de las tierras degradadas (pérdidas) y la "
-"extensión de las tierras mejoradas (ganancias) en el período de "
-"presentación de informes para determinar si ha habido una ganancia neta, "
-"neutralidad o una pérdida neta."
-
-#: ../../SO1.md:1313
+#: ../../SO1.md:1302
 msgid ""
 "**Identify false positive and false negative processes** and provide the "
 "relevant justification to support their assessment. Where countries are "
@@ -5297,7 +5240,7 @@ msgstr ""
 "áreas identificadas, deben utilizar el visor de datos espaciales de PRAIS"
 " 4 a tal efecto (tabla SO1-4.T3)."
 
-#: ../../SO1.md:1315
+#: ../../SO1.md:1304
 msgid ""
 "**Assess hotspots of land degradation and brightspots of land "
 "improvement**, indicating their locations, extents, and actions taken "
@@ -5313,11 +5256,11 @@ msgstr ""
 "y las áreas prometedoras utilizando el visor de datos espaciales de PRAIS"
 " 4."
 
-#: ../../SO1.md:1317
+#: ../../SO1.md:1306
 msgid "1.4.6. Further reading"
 msgstr "1.4.6. Lecturas complementarias"
 
-#: ../../SO1.md:1319
+#: ../../SO1.md:1308
 msgid ""
 "Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that "
 "is degraded over total land area (version 2). Chapter 2: SDG Indicator "
@@ -5331,7 +5274,7 @@ msgstr ""
 "(<https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-15.3.1-proportion-land-degraded-over-total-land>)."
 
-#: ../../SO1.md:1320
+#: ../../SO1.md:1309
 msgid ""
 "Scientific Conceptual Framework for Land Degradation Neutrality "
 "(<https://knowledge.unccd.int/publication/ldn-scientific-conceptual-"
@@ -5414,4 +5357,88 @@ msgid "Article 1 of the United Nations Convention to Combat Desertification."
 msgstr ""
 "Artículo 1 de la Convención de las Naciones Unidas de Lucha contra la "
 "Desertificación."
+
+#~ msgid "Step 2. Estimate progress towards land degradation neutrality"
+#~ msgstr ""
+#~ "Paso 2. Estimar el progreso hacia "
+#~ "la neutralización de la degradación de"
+#~ " las tierras"
+
+#~ msgid "Related areas in the PRAIS 4 platform: table SO1-4.T2"
+#~ msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO1-4.T2"
+
+#~ msgid ""
+#~ "Progress made towards LDN should be "
+#~ "reported as the net difference between"
+#~ " areas improved (gains) in the "
+#~ "reporting period compared to the "
+#~ "baseline and areas degraded (losses) in"
+#~ " the reporting period compared to the"
+#~ " baseline (table SO1-4.T2). The difference"
+#~ " in areas degraded and improved (km2)"
+#~ " is reported in the LDN status "
+#~ "field. Positive values indicate a net"
+#~ " gain in improved land while negative"
+#~ " values indicate that more land was"
+#~ " degraded than improved. A value "
+#~ "close to zero suggests that gains "
+#~ "were balanced by losses and that "
+#~ "LDN has been achieved.  Positive values"
+#~ " demonstrate that LDN has been both"
+#~ " achieved and exceeded. The values "
+#~ "reported in table SO1-4.T2 should "
+#~ "therefore help countries with LDN "
+#~ "monitoring and target-setting."
+#~ msgstr ""
+#~ "El progreso hacia la NDT debe ser"
+#~ " notificado como la diferencia neta "
+#~ "entre las áreas mejoradas (ganancias) en"
+#~ " el período de presentación de "
+#~ "informes comparadas con el valor de "
+#~ "referencia y las áreas degradadas "
+#~ "(pérdidas) en el período de presentación"
+#~ " de informes comparadas con el valor"
+#~ " de referencia (tabla SO1-4.T2). La "
+#~ "diferencia en las áreas degradadas y "
+#~ "mejoradas (km2) se notifica en el "
+#~ "campo del estado de la NDT. Los"
+#~ " valores positivos indican una ganancia "
+#~ "neta de tierra mejorada, mientras que"
+#~ " los valores negativos indican que se"
+#~ " degradó más tierra de la que "
+#~ "se mejoró. Un valor cercano a cero"
+#~ " indica que las ganancias se han "
+#~ "equilibrado con las pérdidas y que "
+#~ "se ha alcanzado la NDT. Los "
+#~ "valores positivos demuestran que se ha"
+#~ " alcanzado y superado la NDT. Los "
+#~ "valores presentados en la tabla SO1-4.T2"
+#~ " deberían, por lo tanto, ayudar a "
+#~ "los países a monitorear y establecer "
+#~ "objetivos en materia de NDT."
+
+#~ msgid "Progress towards LDN in the reporting period"
+#~ msgstr ""
+#~ "Avances hacia la consecución de la "
+#~ "NDT durante el período de presentación"
+#~ " de informes."
+
+#~ msgid ""
+#~ "**Estimate progress towards LDN**: Calculate"
+#~ " the difference between the extent of"
+#~ " degraded land (losses) and the "
+#~ "extent of improved land (gains) in "
+#~ "the reporting period to determine if "
+#~ "there has been a net gain, "
+#~ "neutrality or a net loss."
+#~ msgstr ""
+#~ "**Estimar los avances hacia la "
+#~ "consecución de la NDT**: Calcular la "
+#~ "diferencia entre la extensión de las "
+#~ "tierras degradadas (pérdidas) y la "
+#~ "extensión de las tierras mejoradas "
+#~ "(ganancias) en el período de "
+#~ "presentación de informes para determinar "
+#~ "si ha habido una ganancia neta, "
+#~ "neutralidad o una pérdida neta."
 
