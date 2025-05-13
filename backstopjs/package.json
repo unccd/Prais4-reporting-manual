@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "backstop test --config=backstop.config.js",
+    "reference": "backstop reference --config=backstop.config.js",
+    "remote": "BACKSTOP_REMOTE_HTTP_PORT=3000 backstop remote --config=backstop.config.js"
+  },
+  "dependencies": {
+    "backstopjs": "^6.3.25"
+  }
+}
