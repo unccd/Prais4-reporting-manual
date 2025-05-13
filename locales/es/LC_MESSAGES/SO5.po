@@ -1,2215 +1,1588 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, UNCCD
-# This file is distributed under the same license as the PRAIS4 Reporting
-# Manual package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: PRAIS4 Reporting Manual \n"
+"Project-Id-Version: prais4-reporting-manual\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-04 19:41+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2025-05-13 16:13+0300\n"
+"PO-Revision-Date: 2025-05-13 16:48\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: prais4-reporting-manual\n"
+"X-Crowdin-Project-ID: 760205\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /master/locales/source/SO5.pot\n"
+"X-Crowdin-File-ID: 18\n"
+"Language: es_ES\n"
 
 #: ../../SO5.md:1
-msgid ""
-"5. Strategic objective 5: To mobilize substantial and additional "
-"financial and non-financial resources to support the implementation of "
-"the Convention by building effective partnerships at global and national "
-"level"
-msgstr "5. Objetivo estratégico 5: Movilizar una cantidad sustancial y adicional de recursos financieros y no financieros para apoyar la aplicación de la Convención mediante alianzas eficaces a escala mundial y nacional."
+msgid "5. Strategic objective 5: To mobilize substantial and additional financial and non-financial resources to support the implementation of the Convention by building effective partnerships at global and national level"
+msgstr ""
 
 #: ../../SO5.md:3
 msgid "Introduction"
-msgstr "Introducción"
+msgstr ""
 
 #: ../../SO5.md:5
-msgid ""
-"The strategic objective (SO) 5 indicator framework aims to enable Parties"
-" to report quantitative and qualitative information on financial and non-"
-"financial resources dedicated to supporting the implementation of the "
-"Convention. The set of indicators aims at comprehensive reporting."
-msgstr "El marco de indicadores del objetivo estratégico (OE) 5 tiene por objetivo que las partes presenten información cuantitativa y cualitativa sobre los recursos financieros y no financieros destinados a apoyar la aplicación de la Convención. El conjunto de indicadores tiene por objetivo la presentación de informes exhaustivos."
+msgid "The strategic objective (SO) 5 indicator framework aims to enable Parties to report quantitative and qualitative information on financial and non-financial resources dedicated to supporting the implementation of the Convention. The set of indicators aims at comprehensive reporting."
+msgstr ""
 
 #: ../../SO5.md:7
-msgid ""
-"This section of the manual addresses the issues related to the "
-"identification of resources specific to desertification/land degradation "
-"and drought (DLDD) and the structure of the indicator framework. It also "
-"explains the Tier approach used."
-msgstr "La presente sección del manual aborda los asuntos relativos a la identificación de los recursos específicos para la desertificación, la degradación de las tierras y la sequía (DDTS), así como la estructura del marco de indicadores. También explica el enfoque por niveles empleado."
+msgid "This section of the manual addresses the issues related to the identification of resources specific to desertification/land degradation and drought (DLDD) and the structure of the indicator framework. It also explains the Tier approach used."
+msgstr ""
 
 #: ../../SO5.md:9
-msgid ""
-"Identification of resources specific to DLDD or tracking resources for "
-"the implementation of the Convention concerns accounting for (i) the "
-"financial and non-financial resources employed by activities that avoid, "
-"reduce, and reverse the effects of land degradation and desertification; "
-"and (ii) the preparedness for, mitigation of and response to drought at "
-"different scales. The most relevant challenge lies in the identification "
-"of DLDD-specific resources among a range of those allocated for other "
-"purposes."
-msgstr "La identificación de los recursos específicos para la DDTS o el seguimiento de los recursos para la aplicación de la Convención implican tener en cuenta i) los recursos financieros y no financieros empleados en aquellas actividades que evitan, reducen y revierten los efectos de la degradación de las tierras y la desertificación, así como ii) la preparación, mitigación y respuesta ante los diferentes grados de sequía. Identificar los recursos específicos para la DDTS entre los recursos destinados a otros propósitos plantea el principal desafío."
+msgid "Identification of resources specific to DLDD or tracking resources for the implementation of the Convention concerns accounting for (i) the financial and non-financial resources employed by activities that avoid, reduce, and reverse the effects of land degradation and desertification; and (ii) the preparedness for, mitigation of and response to drought at different scales. The most relevant challenge lies in the identification of DLDD-specific resources among a range of those allocated for other purposes."
+msgstr ""
 
 #: ../../SO5.md:11
-msgid ""
-"This section of the user manual does not provide a prescriptive "
-"definition of which activities can be accounted for as being DLDD-"
-"relevant, nor does it exclude any; however, it includes activities, "
-"examples, and options as well as a non-exhaustive list of DLDD "
-"activities, which might be useful references for the identification of "
-"relevant activities. It is up to the reporting Party to provide insights "
-"on how those activities are chosen as relevant and explain the "
-"methodology used."
-msgstr "La presente sección del manual de usuario no comprende definiciones prescriptivas de las actividades que pueden considerarse relevantes para la DDTS, ni tampoco excluye ninguna de ellas. No obstante, incluye actividades, ejemplos y opciones, así como listas no exhaustivas de actividades relativas a la DDTS, que pueden ser útiles como referencias para identificar las actividades relevantes. Corresponde a la Parte informante proporcionar información sobre por qué han considerado que las actividades escogidas son relevantes y explicar la metodología empleada."
+msgid "This section of the user manual does not provide a prescriptive definition of which activities can be accounted for as being DLDD-relevant, nor does it exclude any; however, it includes activities, examples, and options as well as a non-exhaustive list of DLDD activities, which might be useful references for the identification of relevant activities. It is up to the reporting Party to provide insights on how those activities are chosen as relevant and explain the methodology used."
+msgstr ""
 
 #: ../../SO5.md:13
 msgid "Structure and aim of the SO 5 indicator framework"
-msgstr "Estructura y objetivo del marco de indicadores del OE 5"
+msgstr ""
 
 #: ../../SO5.md:15
-msgid ""
-"The indicator framework considers the current reporting experiences under"
-" the other Rio conventions. It has been revised taking into account the "
-"measurement, reporting and verification system under the United Nations "
-"Framework Convention on Climate Change (UNFCCC) (with its current "
-"Biennial Update Reports), the National Communications templates, and the "
-"most recent updates regarding the enhanced transparency framework under "
-"the Paris Agreement and the financial reporting framework under the "
-"Convention on Biological Diversity (CBD), with the aim of increasing "
-"synergies in data collection and reporting."
-msgstr "El marco de indicadores parte de las experiencias actuales de presentación de informes ante las demás convenciones de Río. Se ha revisado teniendo en cuenta el sistema de mediciones, presentación de informes y verificación de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC) (con sus actuales informes bienales de actualización), las plantillas para las comunicaciones nacionales, y las últimas actualizaciones relativas al marco de transparencia reforzado del Acuerdo de París y el marco de presentación de informes financieros del Convenio sobre la Diversidad Biológica (CDB), con el propósito de fomentar las sinergias en la recopilación de datos y la presentación de informes."
+msgid "The indicator framework considers the current reporting experiences under the other Rio conventions. It has been revised taking into account the measurement, reporting and verification system under the United Nations Framework Convention on Climate Change (UNFCCC) (with its current Biennial Update Reports), the National Communications templates, and the most recent updates regarding the enhanced transparency framework under the Paris Agreement and the financial reporting framework under the Convention on Biological Diversity (CBD), with the aim of increasing synergies in data collection and reporting."
+msgstr ""
 
 #: ../../SO5.md:17
 msgid "Tier approach for SO 5"
-msgstr "Enfoque por niveles para el OE 5"
+msgstr ""
 
 #: ../../SO5.md:19
-msgid ""
-"The SO 5 indicator framework offers flexibility by introducing Tiers, "
-"facilitating the reporting for those Parties that lack quantitative "
-"and/or detailed data."
-msgstr "El marco de indicadores del OE 5 ofrece flexibilidad al introducir niveles para facilitar la presentación de informes a las Partes que carezcan de datos exhaustivos o cuantitativos."
+msgid "The SO 5 indicator framework offers flexibility by introducing Tiers, facilitating the reporting for those Parties that lack quantitative and/or detailed data."
+msgstr ""
 
 #: ../../SO5.md:21
-msgid ""
-"Tier 1 reporting includes descriptive and qualitative information "
-"relevant to the indicator, as well as information on trends. Descriptions"
-" can include quantitative information at a level of detail which is too "
-"low to be reported in the Tier 2 tabular format. It should also include "
-"all information that cannot be reported in tabular format, such as "
-"descriptions of projects, programmes, instruments, and policies, as well "
-"as case studies, experiences, and best practices."
-msgstr "La presentación de informes correspondiente al nivel 1 incluye información descriptiva y cualitativa relevante para el indicador, así como información sobre las tendencias. Las descripciones pueden incluir información cuantitativa con un grado de detalle demasiado bajo para el formato tabular del nivel 2. Se deberá incluir toda la información que no pueda presentarse en formato tabular, como descripciones de proyectos, programas, instrumentos y políticas, así como casos prácticos, experiencias y buenas prácticas."
+msgid "Tier 1 reporting includes descriptive and qualitative information relevant to the indicator, as well as information on trends. Descriptions can include quantitative information at a level of detail which is too low to be reported in the Tier 2 tabular format. It should also include all information that cannot be reported in tabular format, such as descriptions of projects, programmes, instruments, and policies, as well as case studies, experiences, and best practices."
+msgstr ""
 
 #: ../../SO5.md:23
-msgid ""
-"Tier 2 reporting is additional to Tier 1 reporting and provides a tabular"
-" format to be filled in along 16 parameters included in the columns. Tier"
-" 2 aims to collect more detailed quantitative and descriptive information"
-" at the highest disaggregation level available. The table should be "
-"complemented by information on definitions and methodologies used for the"
-" relevant parameters to be included in the documentation box. Relevant "
-"resources and databases should be included in each indicator, providing "
-"references for data sources, definitions, and methodologies in support of"
-" the reporting."
-msgstr "La presentación de informes correspondiente al nivel 2 es complementaria del nivel 1 y presenta un formato tabular en el que completar los 16 parámetros indicados en las columnas. El nivel 2 tiene por objetivo recopilar información descriptiva y cuantitativa más pormenorizada y lo más desglosada posible. La tabla deberá completarse con información acerca de las definiciones y metodologías empleadas para los parámetros correspondientes, que se incluirán en el recuadro de documentación. En cada uno de los indicadores deberán incluirse los recursos y las bases de datos relevantes, proporcionando referencias a las fuentes de los datos, las definiciones y las metodologías en las que se apoya la presentación de informes."
+msgid "Tier 2 reporting is additional to Tier 1 reporting and provides a tabular format to be filled in along 16 parameters included in the columns. Tier 2 aims to collect more detailed quantitative and descriptive information at the highest disaggregation level available. The table should be complemented by information on definitions and methodologies used for the relevant parameters to be included in the documentation box. Relevant resources and databases should be included in each indicator, providing references for data sources, definitions, and methodologies in support of the reporting."
+msgstr ""
 
 #: ../../SO5.md:25
 msgid "5.1. SO 5-1 – Bilateral and multilateral public resources"
-msgstr "5.1. OE 5-1 - Recursos públicos bilaterales y multilaterales"
+msgstr ""
 
 #: ../../SO5.md:27
 msgid "5.1.1. Introduction"
-msgstr "5.1.1. Introducción"
+msgstr ""
 
 #: ../../SO5.md:29
-msgid ""
-"This indicator aims to capture information on international resources "
-"provided and received through bilateral and multilateral channels. The "
-"indicator envisages reporting of information on the trends over the four "
-"-year period (Tier 1) and additional quantitative data at disaggregated "
-"level in tabular format (Tier 2). Default data will be provided based on "
-"the desertification Rio Marker of the OECD, when available[^1]."
-msgstr "El presente indicador tiene por objetivo recopilar información acerca de los recursos internacionales proporcionados y recibidos a través de canales bilaterales y multilaterales. El indicador prevé la presentación de información sobre las tendencias de un período de cuatro años (nivel 1) y de datos cuantitativos adicionales desglosados en formato tabular (nivel 2). Los datos por defecto se proporcionarán sobre la base del marcador de Río de desertificación de la OCDE, cuando sea posible[^1]."
+msgid "This indicator aims to capture information on international resources provided and received through bilateral and multilateral channels. The indicator envisages reporting of information on the trends over the four -year period (Tier 1) and additional quantitative data at disaggregated level in tabular format (Tier 2). Default data will be provided based on the desertification Rio Marker of the OECD, when available[^1]."
+msgstr ""
 
 #: ../../SO5.md:33
 msgid "5.1.2. Prerequisites for reporting"
-msgstr "5.1.2. Requisitos previos para la presentación de informes"
+msgstr ""
 
 #: ../../SO5.md:35
-msgid ""
-"Institutional arrangements to collect data on international financial and"
-" non-financial resources provided and received through bilateral and "
-"multilateral channels for the implementation of the Convention. Data on "
-"international support provided to and received by third countries are "
-"often collected by a country’s ministry of foreign affairs, development "
-"agencies or national statistical offices. Countries reporting according "
-"to the OECD DAC Creditor Reporting System (CRS) count on a relevant "
-"source of data. If information on the relevance of resources provided and"
-" received specific for DLDD is not available, the country is encouraged "
-"to set up relevant institutional arrangements to start collecting this "
-"information."
-msgstr "Los mecanismos institucionales para recopilar datos sobre los recursos financieros y no financieros proporcionados y recibidos mediante canales bilaterales o multilaterales para la aplicación de la Convención. El ministerio de asuntos exteriores del país, las agencias de desarrollo o los organismos nacionales de estadística a menudo recopilan la información sobre la ayuda internacional proporcionada y recibida por terceros países. Los países que presenten sus informes de conformidad con el Sistema de Notificación de los Países Acreedores (CRS) del Comité de Asistencia para el Desarrollo (CAD) de la OCDE pueden partir de una fuente de datos relevante. Si la información acerca de la relevancia de los recursos proporcionados y recibidos específica para la DDTS no estuviera disponible, se invita al país a poner en marcha los mecanismos institucionales pertinentes para comenzar a recopilar dicha información."
+msgid "Institutional arrangements to collect data on international financial and non-financial resources provided and received through bilateral and multilateral channels for the implementation of the Convention. Data on international support provided to and received by third countries are often collected by a country’s ministry of foreign affairs, development agencies or national statistical offices. Countries reporting according to the OECD DAC Creditor Reporting System (CRS) count on a relevant source of data. If information on the relevance of resources provided and received specific for DLDD is not available, the country is encouraged to set up relevant institutional arrangements to start collecting this information."
+msgstr ""
 
 #: ../../SO5.md:37
 msgid "5.1.3. Reporting process and step-by-step procedure"
-msgstr "5.1.3. Proceso de presentación de informes e instrucciones detalladas paso por paso"
+msgstr ""
 
 #: ../../SO5.md:39
-msgid ""
-"If the default data is used, Parties are encouraged to verify the "
-"information and amend as necessary, or complement the default data with "
-"additional information. Further rows can be added."
-msgstr "Si se emplean datos por defecto, se invita a las Partes a verificar la información y modificarla en caso necesario, o a completar los datos por defecto con información adicional. Se pueden añadir filas adicionales."
+msgid "If the default data is used, Parties are encouraged to verify the information and amend as necessary, or complement the default data with additional information. Further rows can be added."
+msgstr ""
 
 #: ../../SO5.md:41
 msgid "The reporting steps are described in the following sections."
-msgstr "En las siguientes secciones se describen los pasos de la presentación de informes."
+msgstr ""
 
-#: ../../SO5.md:43 ../../SO5.md:367 ../../SO5.md:520 ../../SO5.md:676
+#: ../../SO5.md:43
+#: ../../SO5.md:367
+#: ../../SO5.md:520
+#: ../../SO5.md:676
 msgid "Step 1: Identification of relevant data"
-msgstr "Paso 1: Identificación de los datos relevantes"
+msgstr ""
 
 #: ../../SO5.md:45
-msgid ""
-"If your country is both a provider and a recipient of international "
-"public bilateral and/or multilateral resources, you are encouraged to "
-"provide information on both."
-msgstr "Si el país es tanto un proveedor como un beneficiario de recursos internacionales públicos bilaterales o multilaterales, se le invita a proporcionar información acerca de ambos aspectos."
+msgid "If your country is both a provider and a recipient of international public bilateral and/or multilateral resources, you are encouraged to provide information on both."
+msgstr ""
 
-#: ../../SO5.md:47 ../../SO5.md:528
+#: ../../SO5.md:47
+#: ../../SO5.md:528
 msgid "Flows"
-msgstr "Corrientes"
+msgstr ""
 
 #: ../../SO5.md:49
-msgid ""
-"To report against the SO 5-1 indicator, Parties should look at official "
-"public flows from international sources. This category tracks primarily "
-"resource flows between countries in the form of ‘official development "
-"assistance’ (ODA) and ‘other official flows’ (OOF). Both providers and "
-"recipients of international public support draw upon the OECD DAC system "
-"as a dataset that can be consulted from both the provider and recipient "
-"perspectives."
-msgstr "Para presentar información sobre el indicador del OE 5-1, las Partes deberán analizar las corrientes públicas oficiales de las fuentes internacionales. Esta categoría permite hacer un seguimiento, principalmente, de las corrientes de recursos entre países en forma de asistencia oficial para el desarrollo (AOD) y de otras corrientes oficiales (OCO). Tanto los proveedores como los beneficiarios de la ayuda pública internacional recurren al sistema del CAD de la OCDE como un conjunto de datos que puede consultarse tanto desde la perspectiva del proveedor como desde la del beneficiario."
+msgid "To report against the SO 5-1 indicator, Parties should look at official public flows from international sources. This category tracks primarily resource flows between countries in the form of ‘official development assistance’ (ODA) and ‘other official flows’ (OOF). Both providers and recipients of international public support draw upon the OECD DAC system as a dataset that can be consulted from both the provider and recipient perspectives."
+msgstr ""
 
 #: ../../SO5.md:51
-msgid ""
-"Official transactions are those undertaken by central, state, or local "
-"government agencies at their own risk and responsibility. In case an "
-"activity or project is funded by different sources of funding – for "
-"example, through both public and private resources – it is recommended to"
-" report the amount of public resources under the SO 5-1 indicator and the"
-" amount of private resources under the SO 5-3 indicator. This would lead "
-"to double reporting (the Party would replicate some information related "
-"to the relevant project in two separate tables) but would avoid the "
-"double-counting of amounts."
-msgstr "Las transacciones oficiales son aquellas que llevan a cabo los organismos del gobierno central, nacional o local por su propia cuenta y riesgo. En caso de que una actividad o proyecto se financie con diferentes fuentes de financiación –por ejemplo, a través de recursos tanto públicos como privados–, se recomienda indicar la cuantía de los recursos públicos en el indicador del OE 5-1 y la información sobre la cuantía de los recursos privados en el indicador del OE 5-3. Aunque esto supondría la presentación de información duplicada (la Parte repetiría algunos datos relativos al proyecto en cuestión en dos tablas separadas), evitaría la doble contabilización de las cuantías."
+msgid "Official transactions are those undertaken by central, state, or local government agencies at their own risk and responsibility. In case an activity or project is funded by different sources of funding – for example, through both public and private resources – it is recommended to report the amount of public resources under the SO 5-1 indicator and the amount of private resources under the SO 5-3 indicator. This would lead to double reporting (the Party would replicate some information related to the relevant project in two separate tables) but would avoid the double-counting of amounts."
+msgstr ""
 
-#: ../../SO5.md:53 ../../SO5.md:86 ../../SO5.md:387 ../../SO5.md:543
-#: ../../SO5.md:880 ../../SO5.md:891 ../../SO5.md:902
+#: ../../SO5.md:53
+#: ../../SO5.md:86
+#: ../../SO5.md:387
+#: ../../SO5.md:543
+#: ../../SO5.md:880
+#: ../../SO5.md:891
+#: ../../SO5.md:902
 msgid "Examples"
-msgstr "Ejemplos"
+msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:58
 msgid "For providers:"
-msgstr "Para proveedores:"
+msgstr ""
 
-#: ../../SO5.md:3
-msgid ""
-"Public financial contributions provided to developing countries’ "
-"governments and implementing agencies."
-msgstr "Contribuciones financieras públicas a gobiernos de los países en desarrollo y organismos de ejecución."
+#: ../../SO5.md:60
+msgid "Public financial contributions provided to developing countries’ governments and implementing agencies."
+msgstr ""
 
-#: ../../SO5.md:4
-msgid ""
-"Quantified in-kind contributions provided to projects in developing "
-"countries."
-msgstr "Contribuciones en especie cuantificadas a los proyectos en países en desarrollo."
+#: ../../SO5.md:61
+msgid "Quantified in-kind contributions provided to projects in developing countries."
+msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:62
 msgid "Public financial resources for technical assistance."
-msgstr "Recursos financieros públicos para asistencia técnica."
+msgstr ""
 
-#: ../../SO5.md:6
-msgid ""
-"Support to projects including a component of technology development and "
-"transfer in developing countries."
-msgstr "Apoyo a proyectos que incluyan un componente de desarrollo y transferencia de tecnología en países en desarrollo."
+#: ../../SO5.md:63
+msgid "Support to projects including a component of technology development and transfer in developing countries."
+msgstr ""
 
-#: ../../SO5.md:7
+#: ../../SO5.md:64
 msgid "Contributions to United Nations agencies."
-msgstr "Contribuciones a los organismos de las Naciones Unidas."
+msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:66
 msgid "For recipients:"
-msgstr "Para beneficiarios:"
+msgstr ""
 
-#: ../../SO5.md:11
-msgid ""
-"International financial contributions received by central or local "
-"governments and implementing agencies."
-msgstr "Contribuciones financieras internacionales que reciban los gobiernos centrales o locales y los organismos de ejecución."
+#: ../../SO5.md:68
+msgid "International financial contributions received by central or local governments and implementing agencies."
+msgstr ""
 
-#: ../../SO5.md:12
-msgid ""
-"Financial contributions received from third countries’ governments or "
-"multilateral organizations, funds, or United Nations agencies."
-msgstr "Contribuciones financieras procedentes de gobiernos de terceros países u organizaciones multilaterales, fondos u organismos de las Naciones Unidas."
+#: ../../SO5.md:69
+msgid "Financial contributions received from third countries’ governments or multilateral organizations, funds, or United Nations agencies."
+msgstr ""
 
-#: ../../SO5.md:72 ../../SO5.md:524
+#: ../../SO5.md:72
+#: ../../SO5.md:524
 msgid "Relevance to desertification/land degradation and drought"
-msgstr "Relevancia para la desertificación, la degradación de las tierras y la sequía"
+msgstr ""
 
 #: ../../SO5.md:74
-msgid ""
-"The OECD DAC CRS collects activity-level data on activities targeting the"
-" environmental objectives of the three Rio conventions (CBD, UNCCD and "
-"UNFCCC) through Rio Markers for biodiversity, climate change adaptation, "
-"climate change mitigation and desertification. This category can be "
-"measured using the Rio Marker for Desertification marker to report on ODA"
-" and, where available, on OOF. The OECD Total Official Support for "
-"Sustainable Development (TOSSD) dataset include information on support "
-"provided by developing countries. Relevant activities can be identified "
-"through SDG field (SDG 15.3)."
-msgstr "El CRS del CAD de la OCDE recopila datos sobre actividades que contribuyan a los objetivos ambientales de las tres convenciones de Río (CDB, CLD y CMNUCC) a través de los marcadores de Río para la biodiversidad, la adaptación al cambio climático, la mitigación del cambio climático y la desertificación. Esta categoría puede medirse mediante el marcador de Río de desertificación para presentar información sobre AOD y, cuando proceda, OCO. El conjunto de datos sobre el apoyo oficial total para el desarrollo sostenible de la OCDE incluye información sobre la ayuda aportada por países en desarrollo. Las actividades relevantes pueden identificarse a través del campo de los ODS (ODS 15.3)."
+msgid "The OECD DAC CRS collects activity-level data on activities targeting the environmental objectives of the three Rio conventions (CBD, UNCCD and UNFCCC) through Rio Markers for biodiversity, climate change adaptation, climate change mitigation and desertification. This category can be measured using the Rio Marker for Desertification marker to report on ODA and, where available, on OOF. The OECD Total Official Support for Sustainable Development (TOSSD) dataset include information on support provided by developing countries. Relevant activities can be identified through SDG field (SDG 15.3)."
+msgstr ""
 
 #: ../../SO5.md:76
-msgid ""
-"The methodology used to identify DLDD-relevant activities and the "
-"classification method used should be clearly explained in the narrative "
-"parts of the indicator’s framework and/or in the documentation boxes."
-msgstr "La metodología empleada para identificar las actividades relevantes para la DDTS y el método de clasificación empleado debe explicarse claramente en las partes descriptivas del marco de indicadores o en los recuadros de documentación."
+msgid "The methodology used to identify DLDD-relevant activities and the classification method used should be clearly explained in the narrative parts of the indicator’s framework and/or in the documentation boxes."
+msgstr ""
 
 #: ../../SO5.md:78
 msgid "Step 2: Estimate trends in bilateral and multilateral public resources"
-msgstr "Paso 2: Estimar las tendencias en los recursos públicos bilaterales y multilaterales"
+msgstr ""
 
 #: ../../SO5.md:80
-msgid ""
-"Tier 1 involves reporting trends in the progress indicator in qualitative"
-" terms (increasing, stable or declining trends) based on the expert "
-"opinion of the reporting Party. Choose the option representing the trend "
-"in the international public resources provided and received during the "
-"four-year period for activities relevant to the implementation of the "
-"Convention in the relevant table. Indicate the general trend within that "
-"period, for both tables if your country is both a provider and a "
-"recipient. Otherwise, indicate the trend for either one. Select only one "
-"option for each table."
-msgstr "El nivel 1 incluye la presentación de información cualitativa sobre las tendencias en el indicador de progreso (tendencias al alza, a la baja o a la estabilidad) basada en la opinión de los expertos de la Parte informante. Escoja la opción que representa la tendencia en los recursos públicos internacionales proporcionados y recibidos durante el período de cuatro años para actividades relevantes para la aplicación de la Convención en la tabla correspondiente. Indique la tendencia general durante dicho período, en ambas tablas si su país es tanto proveedor como beneficiario. En caso contrario, indique la tendencia en una de ellas. Seleccione solo una opción por tabla."
+msgid "Tier 1 involves reporting trends in the progress indicator in qualitative terms (increasing, stable or declining trends) based on the expert opinion of the reporting Party. Choose the option representing the trend in the international public resources provided and received during the four-year period for activities relevant to the implementation of the Convention in the relevant table. Indicate the general trend within that period, for both tables if your country is both a provider and a recipient. Otherwise, indicate the trend for either one. Select only one option for each table."
+msgstr ""
 
 #: ../../SO5.md:82
 msgid "Step 3:  Reporting in narrative format"
-msgstr "Paso 3: Presentación de información en formato descriptivo."
+msgstr ""
 
 #: ../../SO5.md:84
-msgid ""
-"SO5-1 requests descriptive and qualitative information relevant to the "
-"international public resources provided and received through bilateral "
-"and multilateral channels. The descriptive section may include all "
-"information that cannot be reported in tabular format and provide general"
-" information on resources provided and received for the implementation of"
-" the Convention."
-msgstr "El OE 5-1 requiere información descriptiva y cualitativa relevante sobre los recursos públicos internacionales proporcionados y recibidos a través de canales bilaterales y multilaterales. La sección descriptiva podrá incluir toda la información que no se haya podido indicar en formato tabular y proporciona información general sobre los recursos proporcionados y recibidos para la aplicación de la Convención."
+msgid "SO5-1 requests descriptive and qualitative information relevant to the international public resources provided and received through bilateral and multilateral channels. The descriptive section may include all information that cannot be reported in tabular format and provide general information on resources provided and received for the implementation of the Convention."
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"International resources provided: […The countries where most projects "
-"under the Convention are carried out are Burkina Faso, Ethiopia, Ghana, "
-"Mali, Morocco, Mozambique, Niger, Peru, Rwanda, Senegal, and the United "
-"Republic of Tanzania.]"
-msgstr "Recursos internacionales proporcionados: […Los países en los que se desarrolla la mayor parte de los proyectos de la Convención son Burkina Faso, Etiopía, Ghana, Malí, Marruecos, Mozambique, el Níger, el Perú, Rwanda, el Senegal y la República Unida de Tanzanía.]"
+#: ../../SO5.md:91
+msgid "International resources provided: […The countries where most projects under the Convention are carried out are Burkina Faso, Ethiopia, Ghana, Mali, Morocco, Mozambique, Niger, Peru, Rwanda, Senegal, and the United Republic of Tanzania.]"
+msgstr ""
 
-#: ../../SO5.md:3
-#, python-format
-msgid ""
-"International resources received: Trinational project ‘Sustainable Forest"
-" Management in the Transboundary Gran Chaco American Ecosystem (Global "
-"Environment Facility (GEF)–Gran Chaco)’ – Project ID 2505 GEF of GEF-4 – "
-"has a GEF grant of USD 2,663,018 for Argentina, plus 60 % of the regional"
-" cost of USD 1,290,909 (approximately USD 774,545).….]"
-msgstr "Recursos internacionales recibidos: Proyecto trinacional “Manejo sostenible de bosques en el ecosistema transfronterizo del Gran Chaco Americano (Fondo para el Medio Ambiente Mundial (FMAM) - Gran Chaco)” –número de identificación del proyecto 2505 FMAM de FMAM-4– recibe una dotación del FMAM de 2.663.018 dólares de los Estados Unidos para la Argentina, más 60% o del coste regional de 1.290.090 dólares de los Estados Unidos (aproximadamente 774.545 dólares).….]"
+#: ../../SO5.md:93
+msgid "International resources received: Trinational project ‘Sustainable Forest Management in the Transboundary Gran Chaco American Ecosystem (Global Environment Facility (GEF)–Gran Chaco)’ – Project ID 2505 GEF of GEF-4 – has a GEF grant of USD 2,663,018 for Argentina, plus 60 % of the regional cost of USD 1,290,909 (approximately USD 774,545).….]"
+msgstr ""
 
-#: ../../SO5.md:96 ../../SO5.md:397
+#: ../../SO5.md:96
+#: ../../SO5.md:397
 msgid "Step 4:  Compiling the table"
-msgstr "Paso 4: Completar la tabla"
+msgstr ""
 
 #: ../../SO5.md:98
-msgid ""
-"Tier 2 involves reporting trends in the progress indicators in a "
-"quantitative manner. Under this Tier, country Parties are encouraged to "
-"report by recording data about individual projects specific to DLDD. "
-"Please compile the table with data at the highest level of disaggregation"
-" available. Parties are encouraged to provide activity-level data."
-msgstr "El nivel 2 incluye la presentación de información cualitativa sobre las tendencias en el indicador de progreso. En este nivel, se invita a los países Partes a registrar datos sobre proyectos individuales específicos para la DDTS. Se ruega completar la tabla con datos lo más desglosados posible. Se invita a las Partes a proporcionar datos sobre las actividades."
+msgid "Tier 2 involves reporting trends in the progress indicators in a quantitative manner. Under this Tier, country Parties are encouraged to report by recording data about individual projects specific to DLDD. Please compile the table with data at the highest level of disaggregation available. Parties are encouraged to provide activity-level data."
+msgstr ""
 
 #: ../../SO5.md:100
-msgid ""
-"Default data are derived from information reported to the OECD DAC by "
-"OECD members based on the desertification Rio Marker[^2];  default data "
-"can be amended by the reporting Party as appropriate."
-msgstr "Los datos por defecto provienen de la información sobre el marcador de Río de desertificación que los miembros de la OCDE presentan ante el CAD[^2]; la Parte informante puede modificar los datos por defecto cuando proceda."
+msgid "Default data are derived from information reported to the OECD DAC by OECD members based on the desertification Rio Marker[^2];  default data can be amended by the reporting Party as appropriate."
+msgstr ""
 
 #: ../../SO5.md:102
 msgid "Tier 2 reporting includes:"
-msgstr "La presentación de informes correspondiente al nivel 2 incluye:"
+msgstr ""
 
 #: ../../SO5.md:104
-msgid ""
-"Detailed information at projects programmes and/or countries/regions, "
-"including amounts."
-msgstr "Información detallada sobre proyectos, programas y países o regiones, incluidas las cuantías."
+msgid "Detailed information at projects programmes and/or countries/regions, including amounts."
+msgstr ""
 
 #: ../../SO5.md:106
-msgid ""
-"Aggregate amounts of resources provided and/or received, by year and/or "
-"over the four-year period."
-msgstr "Cuantías agregadas de recursos proporcionados o recibidos, por año o en el período de cuatro años."
+msgid "Aggregate amounts of resources provided and/or received, by year and/or over the four-year period."
+msgstr ""
 
-#: ../../SO5.md:110 ../../SO5.md:401 ../../SO5.md:554 ../../SO5.md:710
+#: ../../SO5.md:110
+#: ../../SO5.md:401
+#: ../../SO5.md:554
+#: ../../SO5.md:710
 msgid "Parameters"
-msgstr "Parámetros"
+msgstr ""
 
 #: ../../SO5.md:112
-msgid ""
-"The table for SO 5-1 provides space to report activities or projects "
-"relevant to combating DLDD. While the methodological approach to be "
-"chosen by the reporting Party accommodates definitions and methodologies "
-"in use, the reporting manual suggests some approaches and definitions for"
-" each parameter."
-msgstr "La tabla para el OE 5-1 permite informar acerca de actividades o proyectos relevantes para combatir la DDTS. Si bien el enfoque metodológico que escoja la Parte informante incluirá las definiciones y metodologías en uso, el manual de presentación de informes sugiere algunos enfoques y definiciones para cada uno de los parámetros."
+msgid "The table for SO 5-1 provides space to report activities or projects relevant to combating DLDD. While the methodological approach to be chosen by the reporting Party accommodates definitions and methodologies in use, the reporting manual suggests some approaches and definitions for each parameter."
+msgstr ""
 
 #: ../../SO5.md:114
-msgid ""
-"Provided/received: Indicate ‘provided’ if, for the reported activity, the"
-" reporting country is the provider of the resources; indicate ‘received’ "
-"if your country is the recipient of the resources."
-msgstr "Proporcionado/recibido: Indique “proporcionado” si el país informante es el proveedor de los recursos de la actividad sobre la que se está informando; indique “recibido” si el país es el beneficiario de los recursos."
+msgid "Provided/received: Indicate ‘provided’ if, for the reported activity, the reporting country is the provider of the resources; indicate ‘received’ if your country is the recipient of the resources."
+msgstr ""
 
 #: ../../SO5.md:116
-msgid ""
-"Year: Indicate the year relevant to the reported activity. Explain in the"
-" documentation box whether the year refers to the commitment or "
-"disbursement year, and if the fiscal or calendar year is used."
-msgstr "Año: Indique el año correspondiente a la actividad de la que se está informando. Especifique en el recuadro de documentación si el año hace referencia al año del compromiso o al del desembolso, y si se emplea el calendario fiscal o el natural."
+msgid "Year: Indicate the year relevant to the reported activity. Explain in the documentation box whether the year refers to the commitment or disbursement year, and if the fiscal or calendar year is used."
+msgstr ""
 
 #: ../../SO5.md:118
-msgid ""
-"Recipient/provider: Indicate the name of the recipient if the reporting "
-"country is the provider of resources; indicate the name of the provider "
-"if your country is the recipient of resources. This could include the "
-"name of the country or the region; be listed as ‘global’ (bilateral "
-"flows); or include the name of the institution and/or entity "
-"(multilateral flows)."
-msgstr "Beneficiario/proveedor: Indique el nombre del beneficiario cuando el país informante sea el proveedor de los recursos; indique el nombre del proveedor cuando su país sea el beneficiario de los recursos. Podrá incluirse el nombre del país o de la región, la mención “mundial” (corrientes bilaterales), o el nombre de la institución u organismo (corrientes multilaterales)."
+msgid "Recipient/provider: Indicate the name of the recipient if the reporting country is the provider of resources; indicate the name of the provider if your country is the recipient of resources. This could include the name of the country or the region; be listed as ‘global’ (bilateral flows); or include the name of the institution and/or entity (multilateral flows)."
+msgstr ""
 
 #: ../../SO5.md:120
-msgid ""
-"Title of project, programme, activity or other: In cases of contributions"
-" to multilateral development banks/multilateral funds or participation in"
-" replenishments of funds, etc."
-msgstr "Título del proyecto, programa, actividad u otros: En casos de contribuciones a bancos de desarrollo multilaterales o fondos multilaterales, o participación en reposiciones de fondos, etc."
+msgid "Title of project, programme, activity or other: In cases of contributions to multilateral development banks/multilateral funds or participation in replenishments of funds, etc."
+msgstr ""
 
 #: ../../SO5.md:122
-msgid ""
-"Total amount in USD: The amounts should be reported in USD; if the "
-"reporting country decides otherwise, the approach should be explained "
-"clearly in the methodology. This implies the application of an exchange "
-"rate to the different domestic currencies. The OECD DAC CRS includes "
-"amounts in thousands of USD. The World Bank annual average exchange rate "
-"is suggested; please indicate if (and how) a different exchange rate is "
-"used. It is possible to report both amounts committed and disbursed for "
-"each activity. Committed and disbursed figures cannot be summed up; all "
-"reporting shall avoid double-counting across years. From the recipient "
-"perspective, the column “committed” can remain empty."
-msgstr "Cuantía total en dólares de los Estados Unidos: Las cuantías deben indicarse en dólares de los Estados Unidos; si el país informante decidiera lo contrario, el enfoque deberá explicarse claramente en la metodología. Esto implica la aplicación de un tipo de cambio a las diferentes divisas nacionales. El CRS del CAD de la OCDE indica las cuantías en miles de dólares de los Estados Unidos. Se recomienda utilizar el tipo de cambio anual medio del Banco Mundial; se ruega indicar, cuando sea el caso, que se está usando (y de qué manera) un tipo de cambio diferente. Pueden indicarse tanto las cuantías prometidas como las desembolsadas para cada actividad. Las cifras prometidas y desembolsadas no pueden sumarse; durante todo el informe debe evitarse la doble contabilización entre años diferentes. Desde el punto de vista del beneficiario, la columna “prometido” puede dejarse en blanco."
+msgid "Total amount in USD: The amounts should be reported in USD; if the reporting country decides otherwise, the approach should be explained clearly in the methodology. This implies the application of an exchange rate to the different domestic currencies. The OECD DAC CRS includes amounts in thousands of USD. The World Bank annual average exchange rate is suggested; please indicate if (and how) a different exchange rate is used. It is possible to report both amounts committed and disbursed for each activity. Committed and disbursed figures cannot be summed up; all reporting shall avoid double-counting across years. From the recipient perspective, the column “committed” can remain empty."
+msgstr ""
 
 #: ../../SO5.md:124
-msgid ""
-"Sector: Four macro sectors are suggested in the table. Crosscutting "
-"refers to activities that are addressed to more than one sector. The "
-"reporting country has the possibility to indicate other sectors, "
-"accommodating possible different reporting standards and practices. The "
-"indication of ‘other’ is optional; only the name of the sector is to be "
-"included."
-msgstr "Sector: Se sugieren cuatro macrosectores en la tabla. Las actividades transversales son aquellas que abordan más de un sector. El país informante podrá indicar otros sectores para ajustar las normas y prácticas de presentación de informes posiblemente diferentes. Indicar “otros” es opcional; solo debe incluirse el nombre del sector."
+msgid "Sector: Four macro sectors are suggested in the table. Crosscutting refers to activities that are addressed to more than one sector. The reporting country has the possibility to indicate other sectors, accommodating possible different reporting standards and practices. The indication of ‘other’ is optional; only the name of the sector is to be included."
+msgstr ""
 
 #: ../../SO5.md:126
-msgid ""
-"Capacity-building: For each activity and to the extent possible, please "
-"indicate whether it includes a capacity-building component; if the "
-"activity aims, among other things, to build the capacities of the "
-"recipient country; and/or if at least part of the budget of the project "
-"has been dedicated to capacity-building to address DLDD."
-msgstr "Creación de capacidades: Para cada actividad y en la medida en que sea posible se ruega indicar si se incluye el componente de la creación de capacidades, si la actividad tiene por objetivo, entre otros, la creación de capacidades en el país beneficiario, o si al menos parte del presupuesto del proyecto se ha destinado a la creación de capacidades para abordar la DDTS."
+msgid "Capacity-building: For each activity and to the extent possible, please indicate whether it includes a capacity-building component; if the activity aims, among other things, to build the capacities of the recipient country; and/or if at least part of the budget of the project has been dedicated to capacity-building to address DLDD."
+msgstr ""
 
 #: ../../SO5.md:128
-msgid ""
-"Technology transfer: For each activity and to the extent possible, please"
-" indicate whether it includes a technology transfer component; if the "
-"activity aims to transfer and develop technologies in the recipient "
-"country; and/or if at least part of the budget has been dedicated to "
-"transferring technologies to address DLDD."
-msgstr "Transferencia de tecnología: Para cada actividad y en la medida en que sea posible se ruega indicar si se incluye el componente de la transferencia de tecnología, si la actividad tiene por objetivo la transferencia y el desarrollo de tecnología en el país beneficiario, o si al menos parte del presupuesto se ha destinado a la transferencia de tecnología para abordar la DDTS."
+msgid "Technology transfer: For each activity and to the extent possible, please indicate whether it includes a technology transfer component; if the activity aims to transfer and develop technologies in the recipient country; and/or if at least part of the budget has been dedicated to transferring technologies to address DLDD."
+msgstr ""
 
 #: ../../SO5.md:130
-msgid ""
-"Gender equality: For each activity and to the extent possible, indicate "
-"whether it targets gender equality. The OECD DAC CRS system includes a "
-"gender equality policy marker, which could be a useful indicator to "
-"compile this column, as available."
-msgstr "Igualdad de género: Para cada actividad y en la medida en que sea posible se ruega indicar si aborda la igualdad de género. El CRS del CAD de la OCDE incluye un marcador de políticas de igualdad de género que podría ser un indicador útil para completar esta columna, según proceda."
+msgid "Gender equality: For each activity and to the extent possible, indicate whether it targets gender equality. The OECD DAC CRS system includes a gender equality policy marker, which could be a useful indicator to compile this column, as available."
+msgstr ""
 
 #: ../../SO5.md:132
-msgid ""
-"Channel: Please indicate whether the amounts to be considered are "
-"bilateral (country to country), multi-bilateral (a multilateral entity "
-"managing a project on behalf of a country providing earmarked funds for "
-"that activity), or multilateral. Type of flow: Indicate whether the flow "
-"is ODA or OOF. Other categories should be included if a different "
-"classification method is employed."
-msgstr "Canal: Se ruega indicar si las cuantías que deben considerarse son bilaterales (de país a país), multibilaterales (un organismo multilateral gestiona un proyecto en representación de un país que proporciona los fondos asignados a la actividad), o multilaterales. Tipo de corriente: Indique si se trata de AOD o de OCO. Deberán incluirse otras categorías cuando se emplee otro método de clasificación."
+msgid "Channel: Please indicate whether the amounts to be considered are bilateral (country to country), multi-bilateral (a multilateral entity managing a project on behalf of a country providing earmarked funds for that activity), or multilateral. Type of flow: Indicate whether the flow is ODA or OOF. Other categories should be included if a different classification method is employed."
+msgstr ""
 
 #: ../../SO5.md:134
-msgid ""
-"Financial instrument: Please indicate the financial instrument "
-"channelling the public resources reported."
-msgstr "Instrumento financiero: Se ruega indicar el instrumento financiero a través del que se transmiten los recursos públicos indicados."
+msgid "Financial instrument: Please indicate the financial instrument channelling the public resources reported."
+msgstr ""
 
 #: ../../SO5.md:136
-msgid ""
-"Type of support: Indicate whether the activity is directly or indirectly "
-"related to the objectives of the Convention. Reporting this information "
-"could be based on the use of principal and significant Rio Markers as in "
-"the OECD DAC CRS system, where available."
-msgstr "Tipo de ayuda: Indique si la actividad está relacionada directa o indirectamente con los objetivos de la Convención. Esta información puede basarse en los marcadores de Río principales y pertinentes, como en el CRS del CAD de la OCDE, según proceda."
+msgid "Type of support: Indicate whether the activity is directly or indirectly related to the objectives of the Convention. Reporting this information could be based on the use of principal and significant Rio Markers as in the OECD DAC CRS system, where available."
+msgstr ""
 
 #: ../../SO5.md:138
-msgid ""
-"Amount mobilized through public interventions: Indicator SO 5-1 provides "
-"the space to include information on amounts mobilized from the private "
-"sector by official development finance interventions. In this regard, the"
-" OECD DAC offers an instrument-specific approach covering all private "
-"finance leveraged by public interventions with a direct causality link "
-"between flows. A dedicated column in the proposed tabular format is added"
-" to facilitate harmonization with the OECD DAC CRS reporting."
-msgstr "La cuantía movilizada mediante intervenciones públicas: El indicador del OE 5-1 permite incluir información sobre las cuantías del sector privado movilizadas mediante intervenciones financieras para el desarrollo oficiales. A este respecto, el CAD de la OCDE ofrece un enfoque específico del instrumento que da cobertura a toda la financiación privada impulsada por intervenciones públicas con una relación de causalidad directa entre ambas corrientes. Se añade una columna específica al formato tabular propuesto para facilitar la armonización con la presentación de informes del CRS del CAD de la OCDE."
+msgid "Amount mobilized through public interventions: Indicator SO 5-1 provides the space to include information on amounts mobilized from the private sector by official development finance interventions. In this regard, the OECD DAC offers an instrument-specific approach covering all private finance leveraged by public interventions with a direct causality link between flows. A dedicated column in the proposed tabular format is added to facilitate harmonization with the OECD DAC CRS reporting."
+msgstr ""
 
 #: ../../SO5.md:140
-msgid ""
-"Use, impact, (estimated) results: The table provides the space to include"
-" additional project-level information about the use of resources, the "
-"impact with respect to the objectives of the Convention, and results "
-"(estimated if the project did not conclude before the end of the "
-"reporting period)."
-msgstr "Uso, impacto, resultados (estimados): La tabla permite incluir información adicional relativa a proyectos sobre el uso de los recursos, el impacto en lo que respecta a los objetivos de la Convención, y los resultados (estimados si el proyecto no ha concluido antes del período de presentación de informes)."
+msgid "Use, impact, (estimated) results: The table provides the space to include additional project-level information about the use of resources, the impact with respect to the objectives of the Convention, and results (estimated if the project did not conclude before the end of the reporting period)."
+msgstr ""
 
 #: ../../SO5.md:142
-msgid ""
-"Additional information: please include any other activity-level "
-"information that you deem relevant."
-msgstr "Información adicional: Se ruega incluir cualquier otra información relativa a actividades que se considere oportuna."
+msgid "Additional information: please include any other activity-level information that you deem relevant."
+msgstr ""
 
 #: ../../SO5.md:144
 msgid "Table 22 below is compiled with some examples:"
-msgstr "La tabla 22 a continuación contiene algunos ejemplos:"
+msgstr ""
 
 #: ../../SO5.md:162
-msgid ""
-"*__Table 22__. Resources provided and received for Bilateral and "
-"Multilateral Public Resources*"
-msgstr "*__Tabla 22__. Recursos públicos bilaterales y multilaterales proporcionados y recibidos*"
+msgid "*__Table 22__. Resources provided and received for Bilateral and Multilateral Public Resources*"
+msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:166
 msgid "{rspan}`1`P/R{sup}`1`"
-msgstr "P/R{sup}`1`"
+msgstr ""
 
-#: ../../SO5.md:2
+#: ../../SO5.md:167
 msgid "{rspan}`1`Year{sup}`2`"
-msgstr "Año{sup}`2`"
+msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:168
 msgid "{rspan}`1`Recipient or provider{sup}`3`"
-msgstr "Beneficiario o proveedor{sup}`3`"
+msgstr ""
 
-#: ../../SO5.md:4
+#: ../../SO5.md:169
 msgid "{rspan}`1`Title{sup}`4`"
-msgstr "Título{sup}`4`"
+msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:170
 msgid "{cspan}`1` Total amount USD"
-msgstr "Cuantía total USD"
+msgstr ""
 
-#: ../../SO5.md:6
+#: ../../SO5.md:171
 msgid "{rspan}`1`Sector{sup}`5`"
-msgstr "Sector{sup}`5`"
+msgstr ""
 
-#: ../../SO5.md:7
+#: ../../SO5.md:172
 msgid "{rspan}`1`Capacity building{sup}`6`"
-msgstr "Creación de capacidades{sup}`6`"
+msgstr ""
 
-#: ../../SO5.md:8
+#: ../../SO5.md:173
 msgid "{rspan}`1`Technology transfer{sup}`6`"
-msgstr "Transferencia de tecnología{sup}`6`"
+msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:174
 msgid "{rspan}`1`Gender equality{sup}`6`"
-msgstr "Igualdad de género{sup}`6`"
+msgstr ""
 
-#: ../../SO5.md:10
+#: ../../SO5.md:175
 msgid "{rspan}`1`Channel{sup}`7`"
-msgstr "Canal{sup}`7`"
+msgstr ""
 
-#: ../../SO5.md:11
+#: ../../SO5.md:176
 msgid "{rspan}`1`Type of flow{sup}`8`"
-msgstr "Tipo de corriente{sup}`8`"
+msgstr ""
 
-#: ../../SO5.md:12
+#: ../../SO5.md:177
 msgid "{rspan}`1`Financial instrument{sup}`9`"
-msgstr "Instrumento financiero{sup}`9`"
+msgstr ""
 
-#: ../../SO5.md:13
+#: ../../SO5.md:178
 msgid "{rspan}`1`Type of support{sup}`10`"
-msgstr "Tipo de ayuda{sup}`10`"
+msgstr ""
 
-#: ../../SO5.md:14
+#: ../../SO5.md:179
 msgid "{rspan}`1`Amount mobilized through public interventions"
-msgstr "Cuantía movilizada mediante intervenciones públicas"
+msgstr ""
 
-#: ../../SO5.md:15
+#: ../../SO5.md:180
 msgid "{rspan}`1`Use, impact, (estimated) results"
-msgstr "Uso, impacto, resultados (estimados)"
+msgstr ""
 
-#: ../../SO5.md:16
+#: ../../SO5.md:181
 msgid "{rspan}`1`Additional information"
-msgstr "Información adicional"
+msgstr ""
 
-#: ../../SO5.md:17
+#: ../../SO5.md:182
 msgid "Committed"
-msgstr "Prometida"
+msgstr ""
 
-#: ../../SO5.md:18
+#: ../../SO5.md:183
 msgid "Disbursed or received"
-msgstr "Desembolsada o recibida"
+msgstr ""
 
-#: ../../SO5.md:19 ../../SO5.md:37 ../../SO5.md:106
+#: ../../SO5.md:184
+#: ../../SO5.md:202
+#: ../../SO5.md:271
 msgid "P"
-msgstr "P"
+msgstr ""
 
-#: ../../SO5.md:20
+#: ../../SO5.md:185
 msgid "19"
-msgstr "19"
+msgstr ""
 
-#: ../../SO5.md:21 ../../SO5.md:39
+#: ../../SO5.md:186
+#: ../../SO5.md:204
 msgid "Ethiopia"
-msgstr "Etiopía"
+msgstr ""
 
-#: ../../SO5.md:22 ../../SO5.md:40
+#: ../../SO5.md:187
+#: ../../SO5.md:205
 msgid "UNEP Conservation of Biodiversity"
-msgstr "Conservación de la Biodiversidad del PNUMA"
+msgstr ""
 
-#: ../../SO5.md:23 ../../SO5.md:24
+#: ../../SO5.md:188
+#: ../../SO5.md:611
 msgid "1,400,000"
-msgstr "1.400.000"
+msgstr ""
 
-#: ../../SO5.md:24
+#: ../../SO5.md:189
 msgid "800,000"
-msgstr "800.000"
+msgstr ""
 
-#: ../../SO5.md:25 ../../SO5.md:43
+#: ../../SO5.md:190
+#: ../../SO5.md:208
 msgid "Other (environmental protection)"
-msgstr "Otros (protección ambiental)"
+msgstr ""
 
-#: ../../SO5.md:26 ../../SO5.md:44 ../../SO5.md:62 ../../SO5.md:64
-#: ../../SO5.md:113 ../../SO5.md:115
+#: ../../SO5.md:191
+#: ../../SO5.md:209
+#: ../../SO5.md:227
+#: ../../SO5.md:229
+#: ../../SO5.md:278
+#: ../../SO5.md:280
 msgid "Yes"
-msgstr "Sí"
+msgstr ""
 
-#: ../../SO5.md:27 ../../SO5.md:28 ../../SO5.md:45 ../../SO5.md:46
-#: ../../SO5.md:63 ../../SO5.md:114
+#: ../../SO5.md:192
+#: ../../SO5.md:193
+#: ../../SO5.md:210
+#: ../../SO5.md:211
+#: ../../SO5.md:228
+#: ../../SO5.md:279
 msgid "No"
-msgstr "No"
+msgstr ""
 
-#: ../../SO5.md:29 ../../SO5.md:47
+#: ../../SO5.md:194
+#: ../../SO5.md:212
 msgid "Multi -bilateral"
-msgstr "Multibilateral"
+msgstr ""
 
-#: ../../SO5.md:31 ../../SO5.md:49 ../../SO5.md:66 ../../SO5.md:117
+#: ../../SO5.md:196
+#: ../../SO5.md:214
+#: ../../SO5.md:231
+#: ../../SO5.md:282
 msgid "ODA"
-msgstr "AOD"
+msgstr ""
 
-#: ../../SO5.md:32 ../../SO5.md:50
+#: ../../SO5.md:197
+#: ../../SO5.md:215
 msgid "Loan"
-msgstr "Préstamo"
+msgstr ""
 
-#: ../../SO5.md:33 ../../SO5.md:51
+#: ../../SO5.md:198
+#: ../../SO5.md:216
 msgid "Indirectly"
-msgstr "Indirecta"
+msgstr ""
 
-#: ../../SO5.md:34 ../../SO5.md:35 ../../SO5.md:36 ../../SO5.md:52
-#: ../../SO5.md:53 ../../SO5.md:54 ../../SO5.md:69
+#: ../../SO5.md:199
+#: ../../SO5.md:200
+#: ../../SO5.md:201
+#: ../../SO5.md:217
+#: ../../SO5.md:218
+#: ../../SO5.md:219
+#: ../../SO5.md:234
 msgid "\\-"
-msgstr "\\-"
+msgstr ""
 
-#: ../../SO5.md:38
+#: ../../SO5.md:203
 msgid "20"
-msgstr "20"
+msgstr ""
 
-#: ../../SO5.md:42
+#: ../../SO5.md:207
 msgid "600,000"
-msgstr "600.000"
+msgstr ""
 
-#: ../../SO5.md:55 ../../SO5.md:72 ../../SO5.md:89
+#: ../../SO5.md:220
+#: ../../SO5.md:237
+#: ../../SO5.md:254
 msgid "R"
-msgstr "Beneficiario"
+msgstr ""
 
-#: ../../SO5.md:56
+#: ../../SO5.md:221
 msgid "17 - 20"
-msgstr "17 - 20"
+msgstr ""
 
-#: ../../SO5.md:57 ../../SO5.md:74 ../../SO5.md:91
+#: ../../SO5.md:222
+#: ../../SO5.md:239
+#: ../../SO5.md:256
 msgid "GEF"
-msgstr "FMAM"
+msgstr ""
 
-#: ../../SO5.md:58 ../../SO5.md:75 ../../SO5.md:92
+#: ../../SO5.md:223
+#: ../../SO5.md:240
+#: ../../SO5.md:257
 msgid "Revision and Alignment of the NAP with the UNCCD Strategic Plan"
-msgstr "Revisión y alineación del PAN con el Plan Estratégico de la CLD"
+msgstr ""
 
-#: ../../SO5.md:59 ../../SO5.md:60 ../../SO5.md:76 ../../SO5.md:94
+#: ../../SO5.md:224
+#: ../../SO5.md:225
+#: ../../SO5.md:241
+#: ../../SO5.md:259
 msgid "150,000"
-msgstr "150.000"
+msgstr ""
 
-#: ../../SO5.md:61
+#: ../../SO5.md:226
 msgid "Biosphere protection"
-msgstr "Protección de la biosfera"
+msgstr ""
 
-#: ../../SO5.md:65
+#: ../../SO5.md:230
 msgid "Multilateral"
-msgstr "Multilateral"
+msgstr ""
 
-#: ../../SO5.md:67 ../../SO5.md:118
+#: ../../SO5.md:232
+#: ../../SO5.md:283
 msgid "Grant"
-msgstr "Donación"
+msgstr ""
 
-#: ../../SO5.md:68 ../../SO5.md:119
+#: ../../SO5.md:233
+#: ../../SO5.md:284
 msgid "Directly"
-msgstr "Directa"
+msgstr ""
 
-#: ../../SO5.md:70 ../../SO5.md:71
+#: ../../SO5.md:235
+#: ../../SO5.md:236
 msgid "Description"
-msgstr "Descripción"
+msgstr ""
 
-#: ../../SO5.md:15 ../../SO5.md:73 ../../SO5.md:90
+#: ../../SO5.md:238
+#: ../../SO5.md:255
+#: ../../SO5.md:773
 msgid "17"
-msgstr "17"
+msgstr ""
 
-#: ../../SO5.md:28 ../../SO5.md:107
+#: ../../SO5.md:272
+#: ../../SO5.md:786
 msgid "18"
-msgstr "18"
+msgstr ""
 
-#: ../../SO5.md:108
+#: ../../SO5.md:273
 msgid "Ghana"
-msgstr "Ghana"
+msgstr ""
 
-#: ../../SO5.md:109
+#: ../../SO5.md:274
 msgid "Land Management"
-msgstr "Ordenación de las tierras"
+msgstr ""
 
-#: ../../SO5.md:110 ../../SO5.md:111
+#: ../../SO5.md:275
+#: ../../SO5.md:276
 msgid "325,000"
-msgstr "325.000"
+msgstr ""
 
-#: ../../SO5.md:112
+#: ../../SO5.md:277
 msgid "Other (Biosphere protection)"
-msgstr "Otros (Protección de la biosfera)"
+msgstr ""
 
-#: ../../SO5.md:116
+#: ../../SO5.md:281
 msgid "Bilateral"
-msgstr "Bilateral"
+msgstr ""
 
-#: ../../SO5.md:120
+#: ../../SO5.md:285
 msgid "120,000"
-msgstr "120.000"
+msgstr ""
 
-#: ../../SO5.md:121
+#: ../../SO5.md:286
 msgid "The project led to concrete results…"
-msgstr "El proyecto se tradujo en resultados concretos..."
+msgstr ""
 
-#: ../../SO5.md:122
+#: ../../SO5.md:287
 msgid "The project objectives and structure involved…"
-msgstr "Los objetivos y la estructura del proyecto incluían..."
+msgstr ""
 
-#: ../../SO5.md:123
+#: ../../SO5.md:288
 msgid "{cspan}`3` Total 2016{sup}`11`"
-msgstr "Total 2016{sup}`11`"
+msgstr ""
 
-#: ../../SO5.md:31 ../../SO5.md:124 ../../SO5.md:125 ../../SO5.md:128
-#: ../../SO5.md:129 ../../SO5.md:132 ../../SO5.md:133 ../../SO5.md:136
-#: ../../SO5.md:137
+#: ../../SO5.md:289
+#: ../../SO5.md:290
+#: ../../SO5.md:293
+#: ../../SO5.md:294
+#: ../../SO5.md:297
+#: ../../SO5.md:298
+#: ../../SO5.md:301
+#: ../../SO5.md:302
+#: ../../SO5.md:618
 msgid "xxx"
-msgstr "xxx"
+msgstr ""
 
-#: ../../SO5.md:126 ../../SO5.md:130 ../../SO5.md:134 ../../SO5.md:138
-#: ../../SO5.md:142 ../../SO5.md:146
+#: ../../SO5.md:291
+#: ../../SO5.md:295
+#: ../../SO5.md:299
+#: ../../SO5.md:303
+#: ../../SO5.md:307
+#: ../../SO5.md:311
 msgid "{cspan}`10`"
 msgstr ""
 
-#: ../../SO5.md:127
+#: ../../SO5.md:292
 msgid "{cspan}`3` Total 2017{sup}`11`"
-msgstr "Total 2017{sup}`11`"
+msgstr ""
 
-#: ../../SO5.md:131
+#: ../../SO5.md:296
 msgid "{cspan}`3` Total 2018{sup}`11`"
-msgstr "Total 2018{sup}`11`"
+msgstr ""
 
-#: ../../SO5.md:135
+#: ../../SO5.md:300
 msgid "{cspan}`3` Total 2019{sup}`11`"
-msgstr "Total 2019{sup}`11`"
+msgstr ""
 
-#: ../../SO5.md:139
+#: ../../SO5.md:304
 msgid "{cspan}`3` Total resources provided{sup}`11`"
-msgstr "Total recursos proporcionados{sup}`11`"
+msgstr ""
 
-#: ../../SO5.md:140 ../../SO5.md:141 ../../SO5.md:144 ../../SO5.md:145
+#: ../../SO5.md:305
+#: ../../SO5.md:306
+#: ../../SO5.md:309
+#: ../../SO5.md:310
 msgid "Σ"
-msgstr "Σ"
+msgstr ""
 
-#: ../../SO5.md:143
+#: ../../SO5.md:308
 msgid "{cspan}`3` Total resources received{sup}`11`"
-msgstr "Total recursos recibidos{sup}`11`"
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"{sup}`1` Provided/Received{{br}} {sup}`2` 20XX{{br}} {sup}`3` "
-"Recipient/provider country, region, global recipient/provider "
-"institution, entity{{br}} {sup}`4` Title of project, programme, activity "
-"or other{{br}} {sup}`5` Agriculture, forestry, water and sanitation, "
-"cross-cutting, other (specify){{br}} {sup}`6` Yes / No{{br}} {sup}`7` "
-"Bilateral, multilateral (core contribution) multilateral (DLDD-specific) "
-"multi-bilateral, other (specify){{br}} {sup}`8` ODA, OOF other "
-"(specify){{br}} {sup}`9` Grant, concessional loan, non-concessional loan,"
-" equity guarantee/insurance, other (specify){{br}} {sup}`10` Directly or "
-"indirectly related to DLDD{{br}} {sup}`11` If disaggregated information "
-"is not available, the Party can report only the total amount or the total"
-" amounts per year.{{br}}"
-msgstr "{sup}`1` Proporcionado/recibido{{br}} {sup}`2` 20XX{{br}} {sup}`3`País o región beneficiario o proveedor, beneficiario o proveedor mundial, institución u organismo{{br}} {sup}`4` Título del proyecto, programa, actividad u otros{{br}} {sup}`5` Agricultura, silvicultura, agua y saneamiento, transversal, otros (especifique){{br}} {sup}`6` Sí / No{{br}} {sup}`7` Bilateral, multilateral (contribución básica), multilateral (específica para DDTS), multibilateral, otra (especifique){{br}} {sup}`8` AOD, OCO, otros (especifique){{br}} {sup}`9` Donación, préstamo en condiciones favorables, préstamo no bonificado, garantía o seguro de patrimonio, otros (especifique){{br}} {sup}`10` Relación directa o indirecta con la DDTS{{br}} {sup}`11` Si no hay información desglosada disponible, la Parte podrá indicar solo la cuantía o cuantías totales por año.{{br}}"
+#: ../../SO5.md:323
+msgid "{sup}`1` Provided/Received{{br}} {sup}`2` 20XX{{br}} {sup}`3` Recipient/provider country, region, global recipient/provider institution, entity{{br}} {sup}`4` Title of project, programme, activity or other{{br}} {sup}`5` Agriculture, forestry, water and sanitation, cross-cutting, other (specify){{br}} {sup}`6` Yes / No{{br}} {sup}`7` Bilateral, multilateral (core contribution) multilateral (DLDD-specific) multi-bilateral, other (specify){{br}} {sup}`8` ODA, OOF other (specify){{br}} {sup}`9` Grant, concessional loan, non-concessional loan, equity guarantee/insurance, other (specify){{br}} {sup}`10` Directly or indirectly related to DLDD{{br}} {sup}`11` If disaggregated information is not available, the Party can report only the total amount or the total amounts per year.{{br}}"
+msgstr ""
 
-#: ../../SO5.md:340 ../../SO5.md:486 ../../SO5.md:646
+#: ../../SO5.md:340
+#: ../../SO5.md:486
+#: ../../SO5.md:646
 msgid "Aggregating the information"
-msgstr "Agregación de la información"
+msgstr ""
 
 #: ../../SO5.md:342
-msgid ""
-"The aggregation of figures should include all quantified resources "
-"reported in tabular format. It is possible to aggregate figures by status"
-" (committed and disbursed) and by year. It is recommended to then "
-"aggregate figures for the four-year period to generate a total figure for"
-" international resources."
-msgstr "La agregación de las cifras deberá incluir todos los recursos cuantificados en el formato tabular. Es posible agregar cifras por estado (prometido y desembolsado) y por año. Se recomienda agregar posteriormente las cifras correspondientes al período de cuatro años para generar una cifra total de recursos internacionales."
+msgid "The aggregation of figures should include all quantified resources reported in tabular format. It is possible to aggregate figures by status (committed and disbursed) and by year. It is recommended to then aggregate figures for the four-year period to generate a total figure for international resources."
+msgstr ""
 
-#: ../../SO5.md:344 ../../SO5.md:650
-msgid ""
-"Aggregation of figures must avoid double-counting across the table and "
-"the other indicators."
-msgstr "La agregación de cifras debe evitar la doble contabilización dentro de la tabla y entre indicadores."
+#: ../../SO5.md:344
+#: ../../SO5.md:650
+msgid "Aggregation of figures must avoid double-counting across the table and the other indicators."
+msgstr ""
 
-#: ../../SO5.md:346 ../../SO5.md:490
+#: ../../SO5.md:346
+#: ../../SO5.md:490
 msgid "Step 5: Use of documentation box"
-msgstr "Paso 5: Uso del recuadro de documentación"
+msgstr ""
 
 #: ../../SO5.md:348
-msgid ""
-"The aim of the documentation box is to provide space to report necessary "
-"definitions and methodologies employed for each parameter compiled in the"
-" table and included in the description, as relevant. When an "
-"internationally agreed standard is used, it is possible to provide the "
-"relevant reference."
-msgstr "El propósito del recuadro de documentación es indicar las definiciones necesarias y las metodologías utilizadas para cada uno de los parámetros indicados en la tabla e incluidos en la descripción, cuando proceda. Cuando se utilice una norma de consenso internacional, será posible proporcionar la referencia pertinente."
+msgid "The aim of the documentation box is to provide space to report necessary definitions and methodologies employed for each parameter compiled in the table and included in the description, as relevant. When an internationally agreed standard is used, it is possible to provide the relevant reference."
+msgstr ""
 
 #: ../../SO5.md:350
 msgid "5.2. SO5-2 – Domestic public resources"
-msgstr "5.2. SO5-2 - Recursos públicos nacionales"
+msgstr ""
 
 #: ../../SO5.md:352
 msgid "5.2.1. Introduction"
-msgstr "5.2.1. Introducción"
+msgstr ""
 
 #: ../../SO5.md:354
-msgid ""
-"Domestic resources are at the core of the implementation of the "
-"Convention. This indicator aims at creating an overview of the resources "
-"available at national level by measuring the effort that the national "
-"public sector is undertaking in increasing resources for the "
-"implementation of the Convention."
-msgstr "Los recursos nacionales son la piedra angular de la aplicación de la Convención. El presente indicador tiene por objetivo dar una visión general de los recursos disponibles a escala nacional mediante la medición de los esfuerzos que hace el sector público nacional para aumentar los recursos disponibles para la aplicación de la Convención."
+msgid "Domestic resources are at the core of the implementation of the Convention. This indicator aims at creating an overview of the resources available at national level by measuring the effort that the national public sector is undertaking in increasing resources for the implementation of the Convention."
+msgstr ""
 
 #: ../../SO5.md:356
-msgid ""
-"This progress indicator is concerned with domestic resources mobilized "
-"and spent by government agencies at different levels (e.g., central, "
-"state, and local governments) on activities, projects, policies, and "
-"measures to pursue the objectives of the Convention."
-msgstr "Atañen al presente indicador de progreso los recursos nacionales que los organismos de los distintos niveles de gobierno (p. ej., central, nacional y local) movilizan y emplean en actividades, proyectos, políticas y medidas en pos de los objetivos de la Convención."
+msgid "This progress indicator is concerned with domestic resources mobilized and spent by government agencies at different levels (e.g., central, state, and local governments) on activities, projects, policies, and measures to pursue the objectives of the Convention."
+msgstr ""
 
 #: ../../SO5.md:358
-msgid ""
-"The indicator also aims to collect information on public revenues, such "
-"as environmental taxes on land-degrading activities and resources "
-"collected through mechanisms to influence the behavior of the various "
-"entities in the economy regarding DLDD (i.e., incentives)."
-msgstr "El indicador también tiene por objetivo recopilar información sobre ingresos públicos, tales como los impuestos ambientales sobre las actividades que degradan la tierra y los recursos recaudados a través de mecanismos que influyen en el comportamiento de varias entidades económicas con respecto a la DDTS (p. ej., incentivos)."
+msgid "The indicator also aims to collect information on public revenues, such as environmental taxes on land-degrading activities and resources collected through mechanisms to influence the behavior of the various entities in the economy regarding DLDD (i.e., incentives)."
+msgstr ""
 
 #: ../../SO5.md:360
-msgid ""
-"Reporting countries can choose to take advantage of the Tier approach, in"
-" line with the capacities and data availability in the reporting country."
-" It will be possible to compile only Tier 1 (including the narrative "
-"description and the indication of trends) or both Tier 1 and Tier 2 "
-"(including the compilation of the table with more detailed quantitative "
-"data)."
-msgstr "Los países informantes pueden elegir beneficiarse del enfoque por niveles, en función de las capacidades y los datos disponibles en el país informante. Será posible completar solo el nivel 1 (incluido el texto descriptivo y la indicación de las tendencias) o tanto el nivel 1 como el 2 (incluida la tabla con más datos cuantitativos y pormenorizados)."
+msgid "Reporting countries can choose to take advantage of the Tier approach, in line with the capacities and data availability in the reporting country. It will be possible to compile only Tier 1 (including the narrative description and the indication of trends) or both Tier 1 and Tier 2 (including the compilation of the table with more detailed quantitative data)."
+msgstr ""
 
 #: ../../SO5.md:362
-msgid ""
-"Tier 1 involves reporting trends in this progress indicator in "
-"qualitative terms (i.e., increasing, stable or declining trends).   Tier "
-"2 aims to collect information at the highest disaggregation level "
-"available. Countries are encouraged to report using Tier 2."
-msgstr "El nivel 1 incluye la presentación de información cualitativa sobre las tendencias en el presente indicador de progreso (p. ej., tendencias al alza, a la baja o a la estabilidad). El nivel 2 tiene por objetivo recopilar información lo más desglosada posible. Se invita a los países a presentar los informes según el nivel 2."
+msgid "Tier 1 involves reporting trends in this progress indicator in qualitative terms (i.e., increasing, stable or declining trends).   Tier 2 aims to collect information at the highest disaggregation level available. Countries are encouraged to report using Tier 2."
+msgstr ""
 
 #: ../../SO5.md:365
 msgid "5.2.2. Reporting process and step-by-step procedure"
-msgstr "5.2.2. Proceso de presentación de informes e instrucciones detalladas paso por paso"
+msgstr ""
 
 #: ../../SO5.md:369
-msgid ""
-"Data relevant to this indicator are usually collected at central "
-"government level, often from the ministries of economy and finance, "
-"ministries of environment and ministries of agriculture and forestry, as "
-"well as Environmental Agencies."
-msgstr "Normalmente, los datos relevantes para el presente indicador se recopilan a escala del gobierno central, a menudo se encargan de ello los ministerios de economía y finanzas, los ministerios de medioambiente y los ministerios de agricultura y silvicultura, así como los organismos medioambientales."
+msgid "Data relevant to this indicator are usually collected at central government level, often from the ministries of economy and finance, ministries of environment and ministries of agriculture and forestry, as well as Environmental Agencies."
+msgstr ""
 
 #: ../../SO5.md:371
-msgid ""
-"Government budgets do not often include clear information on resources "
-"specific to land degradation. Moreover, resources indirectly allocated to"
-" activities that promote land rehabilitation could be integrated in "
-"sectoral policies. Thus, an inventory approach could be taken in "
-"accordance with the agreed definition of DLDD. More broadly, further "
-"insights on relevant measures and actions are provided by the Convention,"
-" in particular Articles 10.3 and 10.4. Significant international "
-"references are the UN SEEA, the CEPA classification system and the IMF "
-"GFS database."
-msgstr "Los presupuestos de los gobiernos no suelen incluir información clara sobre los recursos específicos contra la degradación de las tierras. Además, los recursos asignados indirectamente a las actividades que contribuyen a la rehabilitación de las tierras pueden integrarse en políticas sectoriales. Por tanto, podrá adoptarse un enfoque de inventario de conformidad con la definición consensuada de la DDTS. De manera más general, la Convención aporta más información sobre medidas y acciones relevantes, en particular, en los artículos 10.3 y 10.4. Las referencias internacionales relevantes son el SCAE de las Naciones Unidas, el sistema de Clasificación de Actividades y Gastos de Protección del Medio Ambiente y la base de datos de estadísticas de las finanzas públicas del Fondo Monetario Internacional."
+msgid "Government budgets do not often include clear information on resources specific to land degradation. Moreover, resources indirectly allocated to activities that promote land rehabilitation could be integrated in sectoral policies. Thus, an inventory approach could be taken in accordance with the agreed definition of DLDD. More broadly, further insights on relevant measures and actions are provided by the Convention, in particular Articles 10.3 and 10.4. Significant international references are the UN SEEA, the CEPA classification system and the IMF GFS database."
+msgstr ""
 
 #: ../../SO5.md:373
-msgid ""
-"The indicator also aims at collecting information on domestic public "
-"revenues collected through measures and actions aimed at incentivizing "
-"behavior consistent with combating land degradation. Those may include "
-"environment-related tax revenues on natural resources, environmental "
-"taxes etc."
-msgstr "El indicador también tiene por objetivo recopilar información sobre los ingresos públicos nacionales recaudados mediante medidas y acciones para el fomento de conductas que contribuyan a la lucha contra la degradación de las tierras, entre los que se incluyen los ingresos procedentes de las tasas sobre los recursos naturales relacionadas con el medioambiente, las tasas medioambientales, etc."
+msgid "The indicator also aims at collecting information on domestic public revenues collected through measures and actions aimed at incentivizing behavior consistent with combating land degradation. Those may include environment-related tax revenues on natural resources, environmental taxes etc."
+msgstr ""
 
 #: ../../SO5.md:375
-msgid ""
-"The reference data sources are central government administrations and "
-"national statistical offices. A significant international reference data "
-"source is the OECD Policy Instruments for the Environment database[^3]."
-msgstr "Las fuentes de datos de referencia son las administraciones públicas centrales y los organismos nacionales de estadística. Una fuente de datos de referencia internacional significativa es la base de datos de la OCDE de instrumentos de política medioambiental[^3]."
+msgid "The reference data sources are central government administrations and national statistical offices. A significant international reference data source is the OECD Policy Instruments for the Environment database[^3]."
+msgstr ""
 
 #: ../../SO5.md:379
 msgid "Step 2: Estimate trends in domestic public resources"
-msgstr "Paso 2: Estimar las tendencias en recursos públicos nacionales"
+msgstr ""
 
 #: ../../SO5.md:381
-msgid ""
-"Tier 1 involves reporting trends in the progress indicator in qualitative"
-" terms (i.e., increasing, stable or declining trends) based on the expert"
-" opinion of the reporting Party. Choose the option representing the trend"
-" for the entire reporting period in the relevant table. Indicate the "
-"trend in both tables if your country provides information on both "
-"expenditures and revenues. Otherwise, indicate the trend for either one. "
-"Select only one option for each table."
-msgstr "El nivel 1 incluye la presentación de información cualitativa sobre las tendencias en el indicador de progreso (tendencias al alza, a la baja o a la estabilización) basada en la opinión de los expertos de la Parte informante. Escoja la opción que represente la tendencia correspondiente al período de presentación de informes completo en la tabla correspondiente. Indique la tendencia en ambas tablas si su país proporciona información tanto sobre gastos como sobre ingresos. En caso contrario, indique la tendencia en una de ellas. Seleccione solo una opción en cada tabla."
+msgid "Tier 1 involves reporting trends in the progress indicator in qualitative terms (i.e., increasing, stable or declining trends) based on the expert opinion of the reporting Party. Choose the option representing the trend for the entire reporting period in the relevant table. Indicate the trend in both tables if your country provides information on both expenditures and revenues. Otherwise, indicate the trend for either one. Select only one option for each table."
+msgstr ""
 
-#: ../../SO5.md:383 ../../SO5.md:539 ../../SO5.md:688
+#: ../../SO5.md:383
+#: ../../SO5.md:539
+#: ../../SO5.md:688
 msgid "Step 3: Reporting in narrative format"
-msgstr "Paso 3: Presentación de información en formato descriptivo."
+msgstr ""
 
 #: ../../SO5.md:385
-msgid ""
-"The aim of this section is to provide Parties the space to report on "
-"information on the context and complement the reporting against Tier 1 "
-"(trends) or Tier 2 (table)."
-msgstr "El propósito de la presente sección es permitir a las Partes presentar información contextual y completar la información presentada en el nivel 1 (tendencias) o 2 (tabla)."
+msgid "The aim of this section is to provide Parties the space to report on information on the context and complement the reporting against Tier 1 (trends) or Tier 2 (table)."
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"“Public expenditures related to sustainable agriculture in year 2018 "
-"increased to USD 168 million.”"
-msgstr "“Los gastos públicos relativos a la agricultura sostenible en 2018 aumentaron a 168 millones de dólares de los Estados Unidos”."
+#: ../../SO5.md:391
+msgid "“Public expenditures related to sustainable agriculture in year 2018 increased to USD 168 million.”"
+msgstr ""
 
-#: ../../SO5.md:2
-msgid ""
-"“National resources allocated to protection and ecosystem restoration are"
-" mainly channeled through the Ministry of Agriculture.”"
-msgstr "“Los recursos nacionales destinados a la protección y restauración de los ecosistemas se dirigen principalmente a través del Ministerio de Agricultura”."
+#: ../../SO5.md:392
+msgid "“National resources allocated to protection and ecosystem restoration are mainly channeled through the Ministry of Agriculture.”"
+msgstr ""
 
-#: ../../SO5.md:3
-msgid ""
-"“The budget allocation of the National Directorate for Planning and "
-"Environmental Land Management, which carries out the NAP, is included in "
-"the National Budget Programme No. 60 for the years 2012, 2013 and 2014."
-msgstr "“Las partidas presupuestarias del Directorado Nacional de Planificación y Ordenación Medioambiental de las Tierras, encargado del PAN, se incluyen en el Plan Presupuestario Nacional n.º 60 para los años 2012, 2013 y 2014”."
+#: ../../SO5.md:393
+msgid "“The budget allocation of the National Directorate for Planning and Environmental Land Management, which carries out the NAP, is included in the National Budget Programme No. 60 for the years 2012, 2013 and 2014."
+msgstr ""
 
-#: ../../SO5.md:4
-msgid ""
-"“Data was retrieved directly from published sources of federal, "
-"provincial and territorial governments; official data was retrieved from "
-"the statistical office.”"
-msgstr "“Los datos proceden directamente de fuentes publicadas por autoridades federales, provinciales y territoriales; los datos oficiales proceden del organismo de estadística.”"
+#: ../../SO5.md:394
+msgid "“Data was retrieved directly from published sources of federal, provincial and territorial governments; official data was retrieved from the statistical office.”"
+msgstr ""
 
 #: ../../SO5.md:399
-msgid ""
-"Tier 2 involves reporting against the progress indicators in a "
-"quantitative manner. Parties are encouraged to provide data on individual"
-" policies, measures or activities combating DLDD, as well as government "
-"budgetary lines and programmes. In this sense, it is recommended to use a"
-" bottom-up, inventory approach for collecting data on DLDD-related "
-"projects, programmes, measures, or budget lines supported by domestic "
-"public resources."
-msgstr "El nivel 2 incluye la presentación de información cuantitativa sobre las tendencias en los indicadores de progreso. Se invita a las Partes a proporcionar datos sobre políticas, medidas o actividades individuales que combatan la DDTS, así como programas y líneas de presupuesto público. En este sentido, se recomienda utilizar un enfoque de inventario ascendente para recopilar datos sobre los proyectos, programas, medidas o líneas de presupuesto relativos a la DDTS y financiados con recursos públicos nacionales."
+msgid "Tier 2 involves reporting against the progress indicators in a quantitative manner. Parties are encouraged to provide data on individual policies, measures or activities combating DLDD, as well as government budgetary lines and programmes. In this sense, it is recommended to use a bottom-up, inventory approach for collecting data on DLDD-related projects, programmes, measures, or budget lines supported by domestic public resources."
+msgstr ""
 
 #: ../../SO5.md:403
-msgid ""
-"The table for SO 5-2 provides space to report those actions that are "
-"considered relevant to combating DLDD. The reporting Party can choose the"
-" methodology to accommodate definitions and approaches in use, but the "
-"reporting manual suggests some approaches and definitions for each "
-"parameter."
-msgstr "La tabla para el OE 5-2 permite informar sobre las acciones que se consideren relevantes para combatir la DDTS. Si bien la Parte informante podrá escoger la metodología que se adapte a las definiciones y enfoques en uso, el manual de presentación de informes sugiere algunos enfoques y definiciones para cada uno de los parámetros."
+msgid "The table for SO 5-2 provides space to report those actions that are considered relevant to combating DLDD. The reporting Party can choose the methodology to accommodate definitions and approaches in use, but the reporting manual suggests some approaches and definitions for each parameter."
+msgstr ""
 
 #: ../../SO5.md:405
-msgid ""
-"Year: Indicate the year relevant to the reported activity. Explain in the"
-" documentation box whether the year refers to the commitment or "
-"disbursement year, and if the fiscal or calendar year is used. It is "
-"possible to indicate the timeframe rather than a specific year, but this "
-"should fall within the reporting period."
-msgstr "Año: Indique el año correspondiente a la actividad de la que se está informando. Especifique en el recuadro de documentación si el año hace referencia al año del compromiso o al del desembolso, y si se emplea el calendario fiscal o el natural. Será posible indicar el marco temporal en lugar de un año específico, pero este deberá incluirse dentro del período de presentación de informes."
+msgid "Year: Indicate the year relevant to the reported activity. Explain in the documentation box whether the year refers to the commitment or disbursement year, and if the fiscal or calendar year is used. It is possible to indicate the timeframe rather than a specific year, but this should fall within the reporting period."
+msgstr ""
 
 #: ../../SO5.md:407
-msgid ""
-"Amount in USD: The amounts should be reported in USD. If the reporting "
-"country decides otherwise, the approach should be explained clearly in "
-"the methodology. This implies the application of an exchange rate to the "
-"respective domestic currencies. The World Bank annual average exchange "
-"rate is suggested; please indicate if (and how) a different exchange rate"
-" is used."
-msgstr "Cuantía en dólares de los Estados Unidos: Las cuantías deben indicarse en dólares de los Estados Unidos; si el país informante decidiera lo contrario, el enfoque deberá explicarse claramente en la metodología. Esto implica la aplicación de un tipo de cambio a las correspondientes divisas nacionales. Se recomienda utilizar el tipo de cambio anual medio del Banco Mundial; se ruega indicar, cuando sea el caso, que se está usando (y de qué manera) un tipo de cambio diferente."
+msgid "Amount in USD: The amounts should be reported in USD. If the reporting country decides otherwise, the approach should be explained clearly in the methodology. This implies the application of an exchange rate to the respective domestic currencies. The World Bank annual average exchange rate is suggested; please indicate if (and how) a different exchange rate is used."
+msgstr ""
 
 #: ../../SO5.md:408
-msgid ""
-"Additional information: Please include any other activity-level "
-"information that you deem relevant, including the title of the measure, "
-"budget lines or activity funded."
-msgstr "Información adicional: Se ruega incluir cualquier otra información relativa a actividades que se considere relevante, incluido el título de la medida, la línea presupuestaria o la actividad financiada."
+msgid "Additional information: Please include any other activity-level information that you deem relevant, including the title of the measure, budget lines or activity funded."
+msgstr ""
 
 #: ../../SO5.md:410
-msgid ""
-"Table 23 below is populated with some examples (further rows can be "
-"added):"
-msgstr "La tabla 23 a continuación contiene algunos ejemplos (pueden añadirse más filas):"
+msgid "Table 23 below is populated with some examples (further rows can be added):"
+msgstr ""
 
 #: ../../SO5.md:417
-msgid ""
-"*__Table 23__.  Resources provided received, and required for domestic "
-"public resources*"
-msgstr "*__Tabla 23__. Recursos públicos nacionales proporcionados, recibidos y necesarios*"
+msgid "*__Table 23__.  Resources provided received, and required for domestic public resources*"
+msgstr ""
 
-#: ../../SO5.md:1 ../../SO5.md:2
+#: ../../SO5.md:422
+#: ../../SO5.md:588
+#: ../../SO5.md:760
 msgid "Year"
-msgstr "Año"
+msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:423
 msgid "Amount in USD"
-msgstr "Cuantía en USD"
+msgstr ""
 
-#: ../../SO5.md:4 ../../SO5.md:7 ../../SO5.md:13
+#: ../../SO5.md:424
+#: ../../SO5.md:594
+#: ../../SO5.md:771
 msgid "Additional information"
-msgstr "Información adicional"
+msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:425
 msgid "__Government expenditures__"
-msgstr "__Gastos del gobierno__"
+msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:429
 msgid "{rspan}`2` Directly related to combating DLDD"
-msgstr "Directamente relacionados con la lucha contra la DDTS"
+msgstr ""
 
-#: ../../SO5.md:10
+#: ../../SO5.md:430
 msgid "2017"
-msgstr "2017"
+msgstr ""
 
-#: ../../SO5.md:11
+#: ../../SO5.md:431
 msgid "USD 163,000"
-msgstr "163.000 USD"
+msgstr ""
 
-#: ../../SO5.md:12
-msgid ""
-"Design phase to support the incorporation of the Indigenous Desert "
-"Alliance as a legal entity. Secondment of an executive staff member for "
-"six months"
-msgstr "La fase de diseño para contribuir a la constitución de la Alianza de Indígenas del Desierto como entidad jurídica. Adscripción de un funcionario directivo durante seis meses"
+#: ../../SO5.md:432
+msgid "Design phase to support the incorporation of the Indigenous Desert Alliance as a legal entity. Secondment of an executive staff member for six months"
+msgstr ""
 
-#: ../../SO5.md:13
+#: ../../SO5.md:433
 msgid "2017–2020"
-msgstr "2017-2020"
+msgstr ""
 
-#: ../../SO5.md:14
+#: ../../SO5.md:434
 msgid "USD 118,000"
-msgstr "118.000 USD"
+msgstr ""
 
-#: ../../SO5.md:15
-msgid ""
-"In-kind contribution to the GEF project 5018 “Revision and Alignment of "
-"National Action Program with UNCCD 10 Years Strategic Plan and Framework”"
-msgstr "Contribución en especie al proyecto del FMAM 5018 “Revisión y Alineación del Plan de Acción Nacional con el Plan y Marco Estratégico de 10 Años de la CLD”"
+#: ../../SO5.md:435
+msgid "In-kind contribution to the GEF project 5018 “Revision and Alignment of National Action Program with UNCCD 10 Years Strategic Plan and Framework”"
+msgstr ""
 
-#: ../../SO5.md:8 ../../SO5.md:16 ../../SO5.md:20
+#: ../../SO5.md:436
+#: ../../SO5.md:440
+#: ../../SO5.md:595
 msgid "2018"
-msgstr "2018"
+msgstr ""
 
-#: ../../SO5.md:17
+#: ../../SO5.md:437
 msgid "USD 3,400,000"
-msgstr "3.400.000 USD"
+msgstr ""
 
-#: ../../SO5.md:18
+#: ../../SO5.md:438
 msgid "PPP DLDD – public contribution to the PPP\\*\\*. Grant funding"
-msgstr "APP DDTS - Contribución pública a la APP\\*\\*. Financiación de donaciones"
+msgstr ""
 
-#: ../../SO5.md:19
+#: ../../SO5.md:439
 msgid "Indirectly related to combating DLDD"
-msgstr "Indirectamente relacionados con la lucha contra la DDTS"
+msgstr ""
 
-#: ../../SO5.md:21
+#: ../../SO5.md:441
 msgid "USD 8,959,024"
-msgstr "8.959.024 USD"
+msgstr ""
 
-#: ../../SO5.md:22
-msgid ""
-"Co-financing of the GEF project “Incentives for the Conservation of "
-"Ecosystem Services of Global Significance”"
-msgstr "Cofinanciación del proyecto del FMAM “Incentivos para la Conservación de Servicios de Ecosistemas de Importancia Mundial”"
+#: ../../SO5.md:442
+msgid "Co-financing of the GEF project “Incentives for the Conservation of Ecosystem Services of Global Significance”"
+msgstr ""
 
-#: ../../SO5.md:23
+#: ../../SO5.md:443
 msgid "__Subsidies__"
-msgstr "__Subsidios__"
+msgstr ""
 
-#: ../../SO5.md:27
+#: ../../SO5.md:447
 msgid "{rspan}`1` Subsidies related to combating DLDD"
-msgstr "Subsidios relacionados con la lucha contra la DDTS"
+msgstr ""
 
-#: ../../SO5.md:28
+#: ../../SO5.md:448
 msgid "2020"
-msgstr "2020"
+msgstr ""
 
-#: ../../SO5.md:29
+#: ../../SO5.md:449
 msgid "USD 12,500,000"
-msgstr "12.500.000 USD"
+msgstr ""
 
-#: ../../SO5.md:30
+#: ../../SO5.md:450
 msgid "Government subsidy for agricultural land restoration – land conservation"
-msgstr "Subsidios públicos para la restauración de las tierras agrícolas - conservación de las tierras"
+msgstr ""
 
-#: ../../SO5.md:31
+#: ../../SO5.md:451
 msgid "2018-2020"
-msgstr "2018-2020"
+msgstr ""
 
-#: ../../SO5.md:32
+#: ../../SO5.md:452
 msgid "USD 5,600,000"
-msgstr "5.600.000 USD"
+msgstr ""
 
-#: ../../SO5.md:33
+#: ../../SO5.md:453
 msgid "Property tax exemption for private land"
-msgstr "Exención del impuesto sobre bienes inmuebles para tierras privadas"
+msgstr ""
 
-#: ../../SO5.md:34 ../../SO5.md:47
+#: ../../SO5.md:454
+#: ../../SO5.md:467
 msgid "_Other transfers_"
-msgstr "_Otras transferencias_"
+msgstr ""
 
-#: ../../SO5.md:38
+#: ../../SO5.md:458
 msgid "{cspan}`3` __Total expenditures/total expenditures per year__"
-msgstr "__Gastos totales/gastos totales por año__"
+msgstr ""
 
-#: ../../SO5.md:39
+#: ../../SO5.md:459
 msgid "__Government revenues__"
-msgstr "__Ingresos del gobierno__"
+msgstr ""
 
-#: ../../SO5.md:43
-msgid ""
-"Environmental taxes for the conservation of land resources and taxes "
-"related to combating DLDD"
-msgstr "Tasas medioambientales para la conservación de los recursos de las tierras y tasas relativas a la lucha contra la DDTS"
+#: ../../SO5.md:463
+msgid "Environmental taxes for the conservation of land resources and taxes related to combating DLDD"
+msgstr ""
 
-#: ../../SO5.md:22 ../../SO5.md:37 ../../SO5.md:44
+#: ../../SO5.md:464
+#: ../../SO5.md:609
+#: ../../SO5.md:795
 msgid "2019"
-msgstr "2019"
+msgstr ""
 
-#: ../../SO5.md:45
+#: ../../SO5.md:465
 msgid "USD 150,000,000"
-msgstr "150.000.000 USD"
+msgstr ""
 
-#: ../../SO5.md:46
+#: ../../SO5.md:466
 msgid "Tax increase on royalties in the mining sector. Indirectly related to DLDD"
-msgstr "Subida de los impuestos sobre los cánones en el sector de la minería. Indirectamente relacionado con la DDTS"
+msgstr ""
 
-#: ../../SO5.md:51
+#: ../../SO5.md:471
 msgid "{cspan}`3` __Total revenues/total revenues per year__"
-msgstr "__Ingresos totales/ingresos totales por año__"
+msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:479
 msgid "\\*\\* The private contribution to this PPP is reported under SO 5-3."
-msgstr "\\*\\* La contribución privada a esta APP se indica en el OE 5-3."
+msgstr ""
 
 #: ../../SO5.md:488
-msgid ""
-"A total figure for **government expenditures, including subsidies and "
-"other transfers**, will be computed automatically. Thus, avoiding any "
-"double counting between these categories is recommended.  A separate "
-"total figure for **government revenues and other transfers** will be "
-"automatically calculated. Subtotal figures by year are also envisaged for"
-" this reporting table."
-msgstr "Se calculará automáticamente la cifra total de los **gastos del gobierno, incluidos subsidios y otras transferencias**. Por ello, se recomienda evitar la doble contabilización entre estas categorías. Se calculará automáticamente la cifra total de los **ingresos públicos y otras transferencias**. Las cifras del subtotal por año también está previsto que se incluyan en esta tabla."
+msgid "A total figure for **government expenditures, including subsidies and other transfers**, will be computed automatically. Thus, avoiding any double counting between these categories is recommended.  A separate total figure for **government revenues and other transfers** will be automatically calculated. Subtotal figures by year are also envisaged for this reporting table."
+msgstr ""
 
 #: ../../SO5.md:492
-msgid ""
-"The aim of the documentation box is to provide space to report the "
-"necessary definitions and methodologies employed for each relevant "
-"parameter included in the table and the description, as relevant. When an"
-" international agreed standard is used, it is possible to provide the "
-"relevant reference."
-msgstr "El propósito del recuadro de documentación es indicar las definiciones necesarias y las metodologías utilizadas para cada uno de los parámetros pertinentes indicados en la tabla y la descripción, según proceda. Cuando se utilice una norma de consenso internacional, será posible proporcionar la referencia pertinente."
+msgid "The aim of the documentation box is to provide space to report the necessary definitions and methodologies employed for each relevant parameter included in the table and the description, as relevant. When an international agreed standard is used, it is possible to provide the relevant reference."
+msgstr ""
 
 #: ../../SO5.md:494
 msgid "Step 6: Qualitative question"
-msgstr "Paso 6: Pregunta cualitativa"
+msgstr ""
 
 #: ../../SO5.md:496
-msgid ""
-"The reporting Party is invited to share information on whether it set a "
-"**target for domestic resource mobilization**. If yes, provide further "
-"details on the features of this target, the timing, and the progress "
-"monitoring process."
-msgstr "Se invita a la Parte informante a indicar si ha establecido un **objetivo para la movilización de recursos nacionales**. En caso afirmativo, proporcione más información acerca de las características de dicho objetivo, sus plazos, y el proceso de seguimiento del progreso."
+msgid "The reporting Party is invited to share information on whether it set a **target for domestic resource mobilization**. If yes, provide further details on the features of this target, the timing, and the progress monitoring process."
+msgstr ""
 
 #: ../../SO5.md:498
 msgid "5.3. SO5-3 – International and domestic private resources"
-msgstr "5.3. OE5-3 - Recursos privados nacionales e internacionales"
+msgstr ""
 
 #: ../../SO5.md:500
 msgid "5.3.1. Introduction"
-msgstr "5.3.1. Introducción"
+msgstr ""
 
 #: ../../SO5.md:502
-msgid ""
-"The indicator aims at monitoring private resources mobilized by the "
-"private sector of the reporting Party for activities and investments ‘at "
-"home’ (domestic) and in third countries (international). The scope of "
-"this indicator encompasses financing by all private sector organizations "
-"including corporations (e.g., private sector funds), households and non-"
-"profit organizations (e.g., philanthropic foundations) from domestic and "
-"international sources. Such private sources of financing provide "
-"resources in the form of concessional and non-concessional resources to "
-"implement the Convention."
-msgstr "El indicador tiene por propósito hacer un seguimiento de los recursos que el sector privado de la Parte informante ha movilizado para actividades e inversiones “en casa” (nacionales) y en terceros países (internacionales). El alcance del presente indicador comprende la financiación nacional o internacional procedente de todas las organizaciones del sector privado, incluidas las sociedades (p. ej., fondos del sector privado), los hogares y las organizaciones sin fines de lucro (p. ej., fundaciones filantrópicas). Tales fuentes de financiación privada proporcionan recursos en forma de recursos en condiciones favorables o no para aplicar la Convención."
+msgid "The indicator aims at monitoring private resources mobilized by the private sector of the reporting Party for activities and investments ‘at home’ (domestic) and in third countries (international). The scope of this indicator encompasses financing by all private sector organizations including corporations (e.g., private sector funds), households and non-profit organizations (e.g., philanthropic foundations) from domestic and international sources. Such private sources of financing provide resources in the form of concessional and non-concessional resources to implement the Convention."
+msgstr ""
 
 #: ../../SO5.md:504
-msgid ""
-"The indicator allows for reporting on innovative sources of finance and "
-"the number of co-financing partners, for those related to the private "
-"sector. Further information related to co-financing and innovative "
-"sources of finance in the public sector could be reported under the "
-"previous two indicators."
-msgstr "El indicador permite presentar información sobre fuentes innovadoras de financiación y el número de asociados de cofinanciación, en el caso del sector privado. La información relativa a la cofinanciación y a fuentes innovadoras de financiación del sector público se puede indicar en los dos indicadores anteriores."
+msgid "The indicator allows for reporting on innovative sources of finance and the number of co-financing partners, for those related to the private sector. Further information related to co-financing and innovative sources of finance in the public sector could be reported under the previous two indicators."
+msgstr ""
 
 #: ../../SO5.md:506
-msgid ""
-"The reporting country should select the most relevant Tier approach based"
-" on the capacities and data available."
-msgstr "El país informante deberá seleccionar el enfoque de nivel más pertinente en función de sus capacidades y de los datos disponibles."
+msgid "The reporting country should select the most relevant Tier approach based on the capacities and data available."
+msgstr ""
 
 #: ../../SO5.md:508
 msgid "5.3.2. Prerequisites for reporting"
-msgstr "5.3.2. Requisitos previos para la presentación de informes"
+msgstr ""
 
 #: ../../SO5.md:510
-msgid ""
-"Institutional arrangements in place for the collection of financial data "
-"on private resources allocated to combat DLDD."
-msgstr "Mecanismos institucionales para recopilar datos financieros sobre los recursos privados destinados a combatir la DDTS."
+msgid "Institutional arrangements in place for the collection of financial data on private resources allocated to combat DLDD."
+msgstr ""
 
 #: ../../SO5.md:512
-msgid ""
-"Capacity to access commercial databases to analyse private sector reports"
-" and dedicated case studies."
-msgstr "Capacidad para acceder a las bases de datos comerciales y analizar informes del sector privado y casos prácticos específicos."
+msgid "Capacity to access commercial databases to analyse private sector reports and dedicated case studies."
+msgstr ""
 
 #: ../../SO5.md:514
-msgid ""
-"Mechanisms to involve private actors in the compilation of the "
-"information."
-msgstr "Mecanismos para involucrar a actores privados en la recopilación de información."
+msgid "Mechanisms to involve private actors in the compilation of the information."
+msgstr ""
 
 #: ../../SO5.md:516
 msgid "5.3.3. Reporting process and step-by-step procedure"
-msgstr "5.3.3. Proceso de presentación de informes e instrucciones detalladas paso por paso"
+msgstr ""
 
 #: ../../SO5.md:518
-msgid ""
-"The UNCCD offers the option to report on SO 5-3 both in qualitative and "
-"quantitative terms, subject to data availability. No default data will be"
-" provided against this indicator."
-msgstr "La CLD permite la opción de presentar información cualitativa y cuantitativa sobre el OE 5-3 en función de los datos disponibles. No se proporcionarán datos por defecto para este indicador."
+msgid "The UNCCD offers the option to report on SO 5-3 both in qualitative and quantitative terms, subject to data availability. No default data will be provided against this indicator."
+msgstr ""
 
 #: ../../SO5.md:522
-msgid ""
-"Data relevant to this indicator are usually collected at central "
-"government level (in turn also from local authorities). Parties are "
-"encouraged to make their best efforts to provide information at the "
-"highest disaggregation level available."
-msgstr "Los datos relevantes para este indicador suelen recogerse a escala del gobierno central (también a veces del gobierno local). Se invita a las partes a hacer todo lo que puedan para proporcionar la información lo más desglosada posible."
+msgid "Data relevant to this indicator are usually collected at central government level (in turn also from local authorities). Parties are encouraged to make their best efforts to provide information at the highest disaggregation level available."
+msgstr ""
 
 #: ../../SO5.md:526
-msgid ""
-"The relevance of funded activities, projects or investments of the "
-"private sector should be consistent with the DLDD-relevance criteria "
-"employed to report against the other indicators for monitoring domestic "
-"and international resource flows."
-msgstr "La relevancia de las actividades, los proyectos o las inversiones del sector privado que han recibido financiación deberá seguir la línea de los criterios de relevancia para la DDTS empleados en la presentación de información sobre los demás indicadores para monitorizar las corrientes de recursos nacionales e internacionales."
+msgid "The relevance of funded activities, projects or investments of the private sector should be consistent with the DLDD-relevance criteria employed to report against the other indicators for monitoring domestic and international resource flows."
+msgstr ""
 
 #: ../../SO5.md:530
-msgid ""
-"OECD statistics on development finance (from the CRS) include activity-"
-"level data on funds from around 40 of the largest philanthropic "
-"foundations, many of which provide finance for environmental "
-"objectives[^4].  The OECD statistics on the amounts mobilized from the "
-"private sector also provide insights on international private sector "
-"contributions for development, including for SDG 14 and 15[^5]."
-msgstr "Las estadísticas de la OCDE sobre financiación para el desarrollo (del CRS) incluyen datos relativos a las actividades sobre los fondos de alrededor de 40 de las mayores fundaciones filantrópicas, muchas de las cuales financian objetivos medioambientales[^4]. Las estadísticas de la OCDE sobre las cuantías movilizadas del sector privado también proporcionan información sobre las contribuciones internacionales del sector privado para el desarrollo, incluidos los ODS 14 y 15[^5]."
+msgid "OECD statistics on development finance (from the CRS) include activity-level data on funds from around 40 of the largest philanthropic foundations, many of which provide finance for environmental objectives[^4].  The OECD statistics on the amounts mobilized from the private sector also provide insights on international private sector contributions for development, including for SDG 14 and 15[^5]."
+msgstr ""
 
 #: ../../SO5.md:535
 msgid "Step 2: Estimate trends in international and domestic private resources"
-msgstr "Paso 2: Estimar las tendencias en recursos privados nacionales e internacionales"
+msgstr ""
 
 #: ../../SO5.md:537
-msgid ""
-"Tier 1 involves reporting trends in the progress indicator in qualitative"
-" terms (i.e., increasing, stable or declining trends) based on the expert"
-" opinion of the reporting Party. Choose the option representing the trend"
-" in the international private resources and domestic private resources "
-"for activities relevant to the implementation of the Convention in the "
-"relevant table for the four-year period. Select only one option for each "
-"table."
-msgstr "El nivel 1 incluye la presentación de información cualitativa sobre las tendencias en el indicador de progreso (tendencias al alza, a la baja o a la estabilidad) basada en la opinión de los expertos de la Parte informante. Escoja la opción que representa la tendencia en los recursos privados internacionales y nacionales para actividades relevantes para la aplicación de la Convención en la tabla correspondiente al período de cuatro años. Seleccione solo una opción por tabla."
+msgid "Tier 1 involves reporting trends in the progress indicator in qualitative terms (i.e., increasing, stable or declining trends) based on the expert opinion of the reporting Party. Choose the option representing the trend in the international private resources and domestic private resources for activities relevant to the implementation of the Convention in the relevant table for the four-year period. Select only one option for each table."
+msgstr ""
 
 #: ../../SO5.md:541
-msgid ""
-"SO5-3 requests the provision of relevant descriptive and qualitative "
-"information. The aim of this section is to provide Parties the space to "
-"report on information on the context and complement the reporting against"
-" Tier 1 (trends) or Tier 2 (table)."
-msgstr "El OE 5-3 requiere la facilitación de información descriptiva y cualitativa relevante. El propósito de la presente sección es permitir a las Partes presentar información contextual y completar la información presentada en el nivel 1 (tendencias) o 2 (tabla)."
+msgid "SO5-3 requests the provision of relevant descriptive and qualitative information. The aim of this section is to provide Parties the space to report on information on the context and complement the reporting against Tier 1 (trends) or Tier 2 (table)."
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"“The reporting country undertook important public–private partnerships "
-"with [the recipient country] and [the third country’s] private companies."
-" These have been mobilizing XY euros to pursue…”"
-msgstr "“El país informante forjó importantes alianzas público-privadas con [el país beneficiario] y empresas privadas [del país tercero], que han movilizado XY euros para...”"
+#: ../../SO5.md:547
+msgid "“The reporting country undertook important public–private partnerships with [the recipient country] and [the third country’s] private companies. These have been mobilizing XY euros to pursue…”"
+msgstr ""
 
-#: ../../SO5.md:3
-#, python-format
-msgid ""
-"“Non-governmental organizations (NGOs) are funded at 80% by public "
-"sources and they need to co-finance 20% of each project/programme (own "
-"contribution). This means that besides the development cooperation "
-"budget, the NGOs are the most important co-financing partners for "
-"activities relevant to the implementation of the Convention. These "
-"contributions come from the private sector, private donations, other "
-"donors and the European Union.”"
-msgstr "“El 80%  de la financiación de las organizaciones no gubernamentales (ONG) es pública, el 20% o de cada proyecto o programa deben cofinanciarlo (contribuciones propias). Esto quiere decir que, más allá del presupuesto de cooperación para el desarrollo, las ONG son los asociados de cofinanciación más importantes para las actividades relevantes para la aplicación de la Convención. Dichas contribuciones proceden del sector privado, de donaciones privadas, de otros donantes y de la Unión Europea”."
+#: ../../SO5.md:549
+msgid "“Non-governmental organizations (NGOs) are funded at 80% by public sources and they need to co-finance 20% of each project/programme (own contribution). This means that besides the development cooperation budget, the NGOs are the most important co-financing partners for activities relevant to the implementation of the Convention. These contributions come from the private sector, private donations, other donors and the European Union.”"
+msgstr ""
 
-#: ../../SO5.md:552 ../../SO5.md:706
+#: ../../SO5.md:552
+#: ../../SO5.md:706
 msgid "Step 4: Compiling the table"
-msgstr "Paso 4: Completar la tabla"
+msgstr ""
 
 #: ../../SO5.md:556
-msgid ""
-"The table for SO 5-3 provides space to report at project level (or at the"
-" highest level of disaggregation available) on actions, investments or "
-"programmes that are considered relevant to combating desertification. The"
-" reporting Party can choose the methodology to accommodate definitions in"
-" use, but the reporting manual suggests some approaches for each "
-"parameter. Reporting countries are encouraged to clearly explain the "
-"definitions used."
-msgstr "La tabla correspondiente al OE 5-3 permite presentar información relativa a proyectos (lo más desglosada posible) sobre acciones, inversiones o programas que se consideren relevantes para la lucha contra la desertificación. Si bien la Parte informante podrá escoger la metodología que se adapte a las definiciones utilizadas, el manual de presentación de informes sugiere algunos enfoques para cada parámetro. Se invita a los países informantes a explicar claramente las definiciones empleadas."
+msgid "The table for SO 5-3 provides space to report at project level (or at the highest level of disaggregation available) on actions, investments or programmes that are considered relevant to combating desertification. The reporting Party can choose the methodology to accommodate definitions in use, but the reporting manual suggests some approaches for each parameter. Reporting countries are encouraged to clearly explain the definitions used."
+msgstr ""
 
 #: ../../SO5.md:558
-msgid ""
-"Year: Indicate the year relevant to the reported activity. Explain "
-"whether the fiscal or calendar year is used."
-msgstr "Año: Indique el año correspondiente a la actividad de la que se está informando. Especifique si se emplea el calendario fiscal o el natural."
+msgid "Year: Indicate the year relevant to the reported activity. Explain whether the fiscal or calendar year is used."
+msgstr ""
 
 #: ../../SO5.md:560
-msgid ""
-"Title of project, programme, activity or other: This field includes the "
-"title of the project or activity, as well as the type of investment and "
-"initiative."
-msgstr "Título del proyecto, programa, actividad u otros: Este campo incluye el título del proyecto o de la actividad, así como el tipo de inversión e iniciativa."
+msgid "Title of project, programme, activity or other: This field includes the title of the project or activity, as well as the type of investment and initiative."
+msgstr ""
 
 #: ../../SO5.md:562
-msgid ""
-"Total amount in USD: The amounts should be reported in USD; if the "
-"reporting country decides otherwise, the approach should be explained "
-"clearly in the methodology. This implies the application of an exchange "
-"rate to the different domestic currencies. The World Bank annual average "
-"exchange rate is suggested; please indicate if (and how) a different "
-"exchange rate is used."
-msgstr "Cuantía total en dólares de los Estados Unidos: Las cuantías deben indicarse en dólares de los Estados Unidos; si el país informante decidiera lo contrario, el enfoque deberá explicarse claramente en la metodología. Esto implica la aplicación de un tipo de cambio a las correspondientes divisas nacionales. Se recomienda utilizar el tipo de cambio anual medio del Banco Mundial; se ruega indicar, cuando sea el caso, que se está usando (y de qué manera) un tipo de cambio diferente."
+msgid "Total amount in USD: The amounts should be reported in USD; if the reporting country decides otherwise, the approach should be explained clearly in the methodology. This implies the application of an exchange rate to the different domestic currencies. The World Bank annual average exchange rate is suggested; please indicate if (and how) a different exchange rate is used."
+msgstr ""
 
 #: ../../SO5.md:564
-msgid ""
-"Financial instrument: Please indicate the financial instrument "
-"channelling the private resources reported."
-msgstr "Instrumento financiero: Se ruega indicar el instrumento financiero a través del que se transmiten los recursos privados indicados."
+msgid "Financial instrument: Please indicate the financial instrument channelling the private resources reported."
+msgstr ""
 
 #: ../../SO5.md:566
-msgid ""
-"Type of institution:  Indicate which private entity is extending the "
-"resources relevant to DLDD."
-msgstr "Tipo de institución: Indique qué tipo de entidad privada proporciona los recursos relevantes para la DDTS."
+msgid "Type of institution:  Indicate which private entity is extending the resources relevant to DLDD."
+msgstr ""
 
 #: ../../SO5.md:568
-msgid ""
-"Recipient/domestic: Indicate the recipient’s name if the reporting "
-"country’s private sector contribution is addressed to a recipient third "
-"country; indicate ‘domestic’ if the private sector of the reporting "
-"country provides contributions to activities in the reporting country "
-"itself."
-msgstr "Beneficiario/nacional: Indique el nombre del beneficiario si la contribución del sector privado del país informante está destinada a un tercer país; indique “nacional” si el sector privado del país informante aporta contribuciones a las actividades en el propio país informante."
+msgid "Recipient/domestic: Indicate the recipient’s name if the reporting country’s private sector contribution is addressed to a recipient third country; indicate ‘domestic’ if the private sector of the reporting country provides contributions to activities in the reporting country itself."
+msgstr ""
 
 #: ../../SO5.md:570
-msgid ""
-"Additional information: Please include any other activity-level "
-"information that you deem relevant, including the name of the private "
-"sector entity, details on the recipient and the description of the "
-"activity."
-msgstr "Información adicional: Se ruega incluir cualquier otra información relativa a actividades que se considere relevante, incluido el nombre de la entidad del sector privado, información pormenorizada sobre el beneficiario y la descripción de la actividad."
+msgid "Additional information: Please include any other activity-level information that you deem relevant, including the name of the private sector entity, details on the recipient and the description of the activity."
+msgstr ""
 
 #: ../../SO5.md:572
-msgid ""
-"Table 24 below is populated with some examples (further rows can be "
-"added):"
-msgstr "La tabla 24 a continuación contiene algunos ejemplos (pueden añadirse más filas):"
+msgid "Table 24 below is populated with some examples (further rows can be added):"
+msgstr ""
 
 #: ../../SO5.md:583
-msgid ""
-"*__Table 24__. Resources provided and received for International and "
-"Domestic private resources*"
-msgstr "*__Tabla 24__. Recursos privados internacionales y nacionales proporcionados y recibidos*"
+msgid "*__Table 24__. Resources provided and received for International and Domestic private resources*"
+msgstr ""
 
-#: ../../SO5.md:2
+#: ../../SO5.md:589
 msgid "Title of project, programme, activity or other"
-msgstr "Título del proyecto, programa, actividad u otros"
+msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:590
 msgid "Total amount in USD"
-msgstr "Cuantía total en dólares de los Estados Unidos"
+msgstr ""
 
-#: ../../SO5.md:4
+#: ../../SO5.md:591
 msgid "Financial instrument{sup}`1`"
-msgstr "Instrumento financiero{sup}`1`"
+msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:592
 msgid "Type of institution{sup}`2`"
-msgstr "Tipo de institución{sup}`2`"
+msgstr ""
 
-#: ../../SO5.md:6
+#: ../../SO5.md:593
 msgid "Recipient/ domestic {sup}`3`"
-msgstr "Beneficiario/nacional{sup}`3`"
+msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:596
 msgid "PPP{sup}`4`"
-msgstr "APP{sup}`4`"
+msgstr ""
 
-#: ../../SO5.md:10
+#: ../../SO5.md:597
 msgid "2,500,000"
-msgstr "2.500.000"
+msgstr ""
 
-#: ../../SO5.md:11 ../../SO5.md:25
+#: ../../SO5.md:598
+#: ../../SO5.md:612
 msgid "Commercial loan"
-msgstr "Préstamo comercial"
+msgstr ""
 
-#: ../../SO5.md:12 ../../SO5.md:26
+#: ../../SO5.md:599
+#: ../../SO5.md:613
 msgid "Private corporation"
-msgstr "Empresa privada"
+msgstr ""
 
-#: ../../SO5.md:13 ../../SO5.md:27
+#: ../../SO5.md:600
+#: ../../SO5.md:614
 msgid "Domestic mobilization"
-msgstr "Movilización nacional"
+msgstr ""
 
-#: ../../SO5.md:14
+#: ../../SO5.md:601
 msgid "Private loan blended with public grant funding"
-msgstr "Préstamo privado combinado con donaciones públicas"
+msgstr ""
 
-#: ../../SO5.md:15 ../../SO5.md:24
+#: ../../SO5.md:602
+#: ../../SO5.md:782
 msgid "2018–2020"
-msgstr "2018-2020"
+msgstr ""
 
-#: ../../SO5.md:16
+#: ../../SO5.md:603
 msgid "Risk mitigation instrument for land restoration"
-msgstr "Instrumento de mitigación de riesgos para la restauración de las tierras"
+msgstr ""
 
-#: ../../SO5.md:17
+#: ../../SO5.md:604
 msgid "3,000,000"
-msgstr "3.000.000"
+msgstr ""
 
-#: ../../SO5.md:18
+#: ../../SO5.md:605
 msgid "Private equity"
-msgstr "Fondos de capital privado"
+msgstr ""
 
-#: ../../SO5.md:19
+#: ../../SO5.md:606
 msgid "Pension fund"
-msgstr "Fondo de pensiones"
+msgstr ""
 
-#: ../../SO5.md:20
+#: ../../SO5.md:607
 msgid "Latin America"
-msgstr "América Latina"
+msgstr ""
 
-#: ../../SO5.md:21
-msgid ""
-"The Risk Mitigation Instrument for Land Restoration project combines a "
-"grant of USD X million with USD 3 million in private equity to deploy "
-"innovative risk mitigation instruments to restore degraded lands in Latin"
-" America."
-msgstr "El proyecto del instrumento de mitigación de riesgos para la restauración de las tierras combina una donación de X millones de dólares de los Estados Unidos con 3 millones de dólares de los Estados Unidos en fondos de capital privado para desplegar instrumentos innovadores de mitigación de riesgos con el propósito de restaurar las tierras degradadas en América Latina."
+#: ../../SO5.md:608
+msgid "The Risk Mitigation Instrument for Land Restoration project combines a grant of USD X million with USD 3 million in private equity to deploy innovative risk mitigation instruments to restore degraded lands in Latin America."
+msgstr ""
 
-#: ../../SO5.md:23
-msgid ""
-"Desertification and Sandstorm Disaster Prevention and Control Project in "
-"the Western Region"
-msgstr "Prevención de desastres de desertificación y tormentas de arena y proyecto de control en la región occidental"
+#: ../../SO5.md:610
+msgid "Desertification and Sandstorm Disaster Prevention and Control Project in the Western Region"
+msgstr ""
 
-#: ../../SO5.md:28
+#: ../../SO5.md:615
 msgid "Executing agency: XY Ecology Technology Co. Ltd."
-msgstr "Organismo de ejecución: XY Ecology Technology Co. Ltd."
+msgstr ""
 
-#: ../../SO5.md:29
+#: ../../SO5.md:616
 msgid "__Total international__"
-msgstr "__Total internacional__"
+msgstr ""
 
-#: ../../SO5.md:36
+#: ../../SO5.md:623
 msgid "__Total domestic__"
-msgstr "__Total nacional__"
+msgstr ""
 
-#: ../../SO5.md:43
+#: ../../SO5.md:630
 msgid "__Total per year__"
-msgstr "__Total por año__"
+msgstr ""
 
-#: ../../SO5.md:45
+#: ../../SO5.md:632
 msgid "yyy"
-msgstr "yyy"
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"{sup}`1` Charitable grant, commercial loans, private export credit, "
-"private equities, private insurance, other (specify){{br}} {sup}`2` "
-"Philanthropic foundation, non-profit institution, pension fund, private "
-"corporation, other (specify){{br}} {sup}`3` Recipient country/region "
-"domestic mobilization{{br}} {sup}`4` The public contribution to the PPP "
-"is reported under SO 5-2."
-msgstr "{sup}`1` Donación benéfica, préstamos comerciales, crédito de exportación privado, fondos de capital privado, seguro privado, otro (especifique){{br}} {sup}`2` Fundación filantrópica, institución sin fines de lucro, fondo de pensiones, sociedad privada, otra (especifique){{br}} {sup}`3` País o región beneficiarios, movilización nacional{{br}} {sup}`4` La contribución pública a la APP se indica en el OE 5-2."
+#: ../../SO5.md:640
+msgid "{sup}`1` Charitable grant, commercial loans, private export credit, private equities, private insurance, other (specify){{br}} {sup}`2` Philanthropic foundation, non-profit institution, pension fund, private corporation, other (specify){{br}} {sup}`3` Recipient country/region domestic mobilization{{br}} {sup}`4` The public contribution to the PPP is reported under SO 5-2."
+msgstr ""
 
 #: ../../SO5.md:648
-msgid ""
-"Figures will be aggregated as totals by geography (one figure for "
-"domestic private resources, one figure for international private "
-"resources) and subtotals per year.  Aggregation by financial instrument "
-"could also be meaningful information to gather, considering the wide "
-"range of instruments and their role within the DLDD financing landscape "
-"at domestic and international level."
-msgstr "Las cifras se agregarán como totales por zona geográfica (una cifra para los recursos privados nacionales, una cifra para los recursos privados internacionales) y subtotales anuales. También podría resultar relevante recopilar la agregación por instrumento financiero, teniendo en cuenta la amplia gama de instrumentos y su papel dentro del panorama de financiación de la DDTS a escala nacional e internacional."
+msgid "Figures will be aggregated as totals by geography (one figure for domestic private resources, one figure for international private resources) and subtotals per year.  Aggregation by financial instrument could also be meaningful information to gather, considering the wide range of instruments and their role within the DLDD financing landscape at domestic and international level."
+msgstr ""
 
-#: ../../SO5.md:652 ../../SO5.md:854
+#: ../../SO5.md:652
+#: ../../SO5.md:854
 msgid "Step 5: Reporting methodological information"
-msgstr "Paso 5: Presentación de información metodológica"
+msgstr ""
 
 #: ../../SO5.md:654
-msgid ""
-"Unlike indicators SO 5-1 and SO 5-2 (which include a documentation box), "
-"the SO 5-3 indicator includes a separate question for the methodological "
-"information. This different approach leaves further flexibility for "
-"reporting countries regarding the requisite information and how to "
-"structure and elaborate on it, considering that reporting on domestic and"
-" international private resources may vary significantly from country to "
-"country."
-msgstr "A diferencia de los indicadores de los OE 5-1 y OE 5-2 (que incluyen un recuadro de documentación), el indicador del OE 5-3 incluye una pregunta independiente para la información metodológica. Este enfoque diferente permite una mayor flexibilidad a los países informantes en lo que respecta a la información requerida y a su estructuración y desarrollo, habida cuenta de que la presentación de información sobre recursos privados nacionales e internacionales puede variar significativamente de un país a otro."
+msgid "Unlike indicators SO 5-1 and SO 5-2 (which include a documentation box), the SO 5-3 indicator includes a separate question for the methodological information. This different approach leaves further flexibility for reporting countries regarding the requisite information and how to structure and elaborate on it, considering that reporting on domestic and international private resources may vary significantly from country to country."
+msgstr ""
 
 #: ../../SO5.md:656
 msgid "5.4. SO5-4 – Technology transfer"
-msgstr "5.4. OE5-4 - Transferencia de tecnología"
+msgstr ""
 
 #: ../../SO5.md:658
 msgid "5.4.1. Introduction"
-msgstr "5.4.1. Introducción"
+msgstr ""
 
 #: ../../SO5.md:660
-msgid ""
-"The Convention explicitly requires Parties to promote, finance and "
-"facilitate the financing of the transfer, acquisition, adaptation and "
-"development of environmentally sound, economically viable and socially "
-"acceptable technologies relevant to combating desertification and/or "
-"mitigating the effects of drought; and encourages the facilitation of "
-"technology cooperation among affected country Parties through financial "
-"assistance or other appropriate means, and through international "
-"cooperation (Article 20)."
-msgstr "La Convención exige de manera explícita que las Partes fomenten, financien y faciliten la financiación de la transferencia, adquisición, adaptación y desarrollo de tecnologías ecológicamente racionales, económicamente viables y socialmente aceptables que sean relevantes para la lucha contra la desertificación o para la mitigación de los efectos de la sequía; también alienta la facilitación de la cooperación tecnológica entre los países Partes afectados a través de asistencia financiera u otros medios apropiados, así como a través de la cooperación internacional (artículo 20)."
+msgid "The Convention explicitly requires Parties to promote, finance and facilitate the financing of the transfer, acquisition, adaptation and development of environmentally sound, economically viable and socially acceptable technologies relevant to combating desertification and/or mitigating the effects of drought; and encourages the facilitation of technology cooperation among affected country Parties through financial assistance or other appropriate means, and through international cooperation (Article 20)."
+msgstr ""
 
 #: ../../SO5.md:662
-msgid ""
-"This indicator aims at collecting information from Parties on resources "
-"allocated to the transfer of technologies to implement the Convention, "
-"both provided to and received from other countries. Moreover, it provides"
-" the space to report on technology transfer requirements, both in a "
-"qualitative and quantitative manner."
-msgstr "El presente indicador tiene por objetivo recopilar información de las Partes sobre los recursos destinados a la transferencia de tecnologías para aplicar la Convención, tanto recibida como proporcionada a otros países. Además, permite informar, cualitativa y cuantitativamente, sobre los requisitos de transferencia de tecnología."
+msgid "This indicator aims at collecting information from Parties on resources allocated to the transfer of technologies to implement the Convention, both provided to and received from other countries. Moreover, it provides the space to report on technology transfer requirements, both in a qualitative and quantitative manner."
+msgstr ""
 
 #: ../../SO5.md:664
 msgid "5.4.2. Prerequisites for reporting"
-msgstr "5.4.2. Requisitos previos para la presentación de informes"
+msgstr ""
 
 #: ../../SO5.md:666
-msgid ""
-"Access to databases which allow for the identification of DLDD-related "
-"projects or activities that include a technology transfer component."
-msgstr "Acceso a las bases de datos que permiten la identificación de proyectos o actividades relativos a la DDTS que incluyan el componente de la transferencia de tecnología."
+msgid "Access to databases which allow for the identification of DLDD-related projects or activities that include a technology transfer component."
+msgstr ""
 
 #: ../../SO5.md:668
-msgid ""
-"Capacity to undertake an inventory or a case-by-case approach if "
-"available data do identify technology transfer projects that address "
-"DLDD."
-msgstr "Capacidad para llevar a cabo un inventario o un enfoque individual de los casos si los datos disponibles permiten identificar los proyectos de transferencia de tecnología que abordan la DDTS."
+msgid "Capacity to undertake an inventory or a case-by-case approach if available data do identify technology transfer projects that address DLDD."
+msgstr ""
 
 #: ../../SO5.md:670
-msgid ""
-"Capacity to select the most significant projects and activities focusing "
-"on technology transfer or including a technology transfer component and "
-"provide information on those selected projects."
-msgstr "Capacidad para seleccionar los proyectos y las actividades más relevantes que se centren en la transferencia de tecnología o incluyan el componente de la transferencia de tecnología, y proporcionar información acerca de dichos proyectos seleccionados."
+msgid "Capacity to select the most significant projects and activities focusing on technology transfer or including a technology transfer component and provide information on those selected projects."
+msgstr ""
 
 #: ../../SO5.md:672
 msgid "5.4.3. Reporting process and step-by-step procedure"
-msgstr "5.4.3. Proceso de presentación de informes e instrucciones detalladas paso por paso"
+msgstr ""
 
 #: ../../SO5.md:674
-msgid ""
-"The UNCCD offers the option to report on SO 5-4 both in qualitative and "
-"quantitative terms, subject to data availability. No default data will be"
-" provided against this indicator."
-msgstr "La CLD permite la opción de presentar información cualitativa y cuantitativa sobre el OE 5-4 en función de los datos disponibles. No se proporcionarán datos por defecto para este indicador."
+msgid "The UNCCD offers the option to report on SO 5-4 both in qualitative and quantitative terms, subject to data availability. No default data will be provided against this indicator."
+msgstr ""
 
 #: ../../SO5.md:678
-msgid ""
-"There is currently no defined methodology for identifying DLDD-relevant "
-"activities that include a technology transfer component or are "
-"specifically aimed at transferring or developing technologies to combat "
-"DLDD; however, the template may accommodate different approaches."
-msgstr "Actualmente, no hay ninguna metodología definida para la identificación de las actividades relevantes para la DDTS que incluyan el componente de la transferencia de tecnología o que tengan por propósito específicamente la transferencia o el desarrollo de tecnologías para combatir la DDTS. No obstante, la plantilla puede ajustarse a diferentes enfoques."
+msgid "There is currently no defined methodology for identifying DLDD-relevant activities that include a technology transfer component or are specifically aimed at transferring or developing technologies to combat DLDD; however, the template may accommodate different approaches."
+msgstr ""
 
 #: ../../SO5.md:680
-msgid ""
-"The suggested approach is to draw upon the OECD DAC CRS database for ODA "
-"flows, OOF, and Private development finance and the Rio Marker for "
-"desertification, and select projects specifically aimed at transferring "
-"or developing technologies to combat DLDD or with a relevant component. "
-"It is possible to consider resources extended to teaching institutions, "
-"research institutes and similar agencies. There are potential "
-"interlinkages with projects dealing with technologies for climate "
-"adaptation, for which taxonomies and classifications are available[^6],  "
-"which could serve as a reference for the identification of relevant "
-"technologies."
-msgstr "El enfoque sugerido es recurrir a la base de datos del CRS del CAD de la OCDE para corrientes de AOD, OCO, y financiación privada para el desarrollo, y al marcador de Río de desertificación, y seleccionar proyectos específicamente destinados a la transferencia o el desarrollo de tecnologías para luchar contra la DDTS o con un componente pertinente. Es posible incluir recursos proporcionados a instituciones académicas, institutos de investigación y organismos similares. Existen interconexiones potenciales con proyectos que aborden las tecnologías para la adaptación climática, para los que hay disponibles taxonomías y clasificaciones[^6] que podrían servir como referencia para identificar las tecnologías relevantes."
+msgid "The suggested approach is to draw upon the OECD DAC CRS database for ODA flows, OOF, and Private development finance and the Rio Marker for desertification, and select projects specifically aimed at transferring or developing technologies to combat DLDD or with a relevant component. It is possible to consider resources extended to teaching institutions, research institutes and similar agencies. There are potential interlinkages with projects dealing with technologies for climate adaptation, for which taxonomies and classifications are available[^6],  which could serve as a reference for the identification of relevant technologies."
+msgstr ""
 
 #: ../../SO5.md:684
-msgid ""
-"Step 2: Estimate trends in technology transfer resources provided and "
-"received"
-msgstr "Paso 2: Estimar las tendencias en los recursos de transferencia de tecnología proporcionados y recibidos"
+msgid "Step 2: Estimate trends in technology transfer resources provided and received"
+msgstr ""
 
 #: ../../SO5.md:686
-msgid ""
-"Choose the option representing the trend in the international resources "
-"provided and received for technology transfer activities for the "
-"implementation of the Convention in the relevant table for the four-year "
-"period. Indicate the general trend within this period, for both tables if"
-" your country is both a provider and a recipient. Otherwise, indicate the"
-" trend for either one. Select only one option for each table."
-msgstr "Escoja la opción que representa la tendencia en los recursos internacionales proporcionados y recibidos para actividades de transferencia de tecnología con el propósito de aplicar la Convención en la tabla correspondiente al período de cuatro años. Indique la tendencia general durante dicho período, en ambas tablas si su país es tanto un proveedor como un beneficiario. En caso contrario, indique la tendencia en una de ellas. Seleccione solo una opción por tabla."
+msgid "Choose the option representing the trend in the international resources provided and received for technology transfer activities for the implementation of the Convention in the relevant table for the four-year period. Indicate the general trend within this period, for both tables if your country is both a provider and a recipient. Otherwise, indicate the trend for either one. Select only one option for each table."
+msgstr ""
 
 #: ../../SO5.md:690
-msgid ""
-"The aim of this section is to provide Parties the space to report "
-"information on context and complement the reporting against Tier 1 "
-"(trends) or Tier 2 (table)."
-msgstr "El propósito de la presente sección es permitir a las Partes presentar información contextual y completar la información presentada en el nivel 1 (tendencias) o 2 (tabla)."
+msgid "The aim of this section is to provide Parties the space to report information on context and complement the reporting against Tier 1 (trends) or Tier 2 (table)."
+msgstr ""
 
 #: ../../SO5.md:692
 msgid "The description may include:"
-msgstr "La descripción incluirá:"
+msgstr ""
 
 #: ../../SO5.md:694
-msgid ""
-"Strategies employed to support technology development and transfer, "
-"including case studies."
-msgstr "Estrategias empleadas para contribuir al desarrollo y la transferencia de tecnología, incluidos casos prácticos."
+msgid "Strategies employed to support technology development and transfer, including case studies."
+msgstr ""
 
 #: ../../SO5.md:696
-msgid ""
-"Support for the development and enhancement of in-country capacities and "
-"technologies."
-msgstr "Contribución al desarrollo y la mejora de las capacidades y tecnologías del país."
+msgid "Support for the development and enhancement of in-country capacities and technologies."
+msgstr ""
 
 #: ../../SO5.md:698
-msgid ""
-"Resources provided, received, and required for the use and dissemination "
-"of modern technology for the collection, transmission, and assessment of "
-"data on land degradation."
-msgstr "Recursos proporcionados, recibidos y necesarios para el uso y la difusión de tecnologías modernas de recopilación, transmisión y evaluación de datos sobre la degradación de las tierras."
+msgid "Resources provided, received, and required for the use and dissemination of modern technology for the collection, transmission, and assessment of data on land degradation."
+msgstr ""
 
 #: ../../SO5.md:700
-msgid ""
-"Measures to facilitate the adaptation of technology, knowledge, know-how "
-"and practices to wide use and integration with modern technology."
-msgstr "Medidas para facilitar la adaptación de las tecnologías, los conocimientos, la experiencia y las prácticas para su uso generalizado y su integración con la tecnología moderna."
+msgid "Measures to facilitate the adaptation of technology, knowledge, know-how and practices to wide use and integration with modern technology."
+msgstr ""
 
 #: ../../SO5.md:702
-msgid ""
-"How Parties cooperate internationally in the fields of technology "
-"transfer as well as scientific research and development."
-msgstr "El modo en que cooperan internacionalmente las Partes en los ámbitos de la transferencia de tecnología y la investigación y el desarrollo científicos."
+msgid "How Parties cooperate internationally in the fields of technology transfer as well as scientific research and development."
+msgstr ""
 
 #: ../../SO5.md:704
-msgid ""
-"Efforts to encourage private sector activities related to technology "
-"development and transfer and how such efforts support developing country "
-"Parties."
-msgstr "Los esfuerzos para fomentar las actividades del sector privado relativas al desarrollo y la transferencia de tecnología y de qué manera contribuyen al desarrollo de los países Partes dichos esfuerzos."
+msgid "Efforts to encourage private sector activities related to technology development and transfer and how such efforts support developing country Parties."
+msgstr ""
 
 #: ../../SO5.md:708
-msgid ""
-"Under Tier 2, country Parties are encouraged to report by recording data "
-"about individual projects aimed at transferring technologies to combat "
-"DLDD. The table is to be compiled either seeking to provide a complete "
-"picture on technology transfer activities; or with selected projects and "
-"measures for which more detailed information is available. In fact, it is"
-" possible to use the SO 5-1 technology transfer parameter to aggregate "
-"total amounts related to technology transfer. Reporting countries should "
-"clearly explain the approach to the compilation of the table, and with "
-"respect to the use of the SO 5-1 parameter."
-msgstr "En el nivel 2, se invita a los países Partes a presentar información registrando datos sobre proyectos individuales que tengan por propósito la transferencia de tecnología para luchar contra la DDTS. La tabla debe completarse o bien intentando proporcionar una imagen general de las actividades de transferencia de tecnología, o bien con una selección de proyectos y medidas para los que haya información más detallada disponible. De hecho, es posible utilizar el parámetro de la transferencia de tecnología del OE 5-1 para agregar cuantías totales relativas a la transferencia de tecnología. Los países informantes deberán explicar claramente el enfoque empleado al completar la tabla, así como el uso que hagan del parámetro del OE 5-1."
+msgid "Under Tier 2, country Parties are encouraged to report by recording data about individual projects aimed at transferring technologies to combat DLDD. The table is to be compiled either seeking to provide a complete picture on technology transfer activities; or with selected projects and measures for which more detailed information is available. In fact, it is possible to use the SO 5-1 technology transfer parameter to aggregate total amounts related to technology transfer. Reporting countries should clearly explain the approach to the compilation of the table, and with respect to the use of the SO 5-1 parameter."
+msgstr ""
 
 #: ../../SO5.md:712
-msgid ""
-"The reporting Party can choose the methodology to accommodate definitions"
-" is use, but the reporting manual suggests some approaches for each "
-"parameter included in the table."
-msgstr "Si bien la Parte informante podrá escoger la metodología que se adapte a las definiciones utilizadas, el manual de presentación de informes sugiere algunos enfoques para cada uno de los parámetros incluidos en la tabla."
+msgid "The reporting Party can choose the methodology to accommodate definitions is use, but the reporting manual suggests some approaches for each parameter included in the table."
+msgstr ""
 
 #: ../../SO5.md:714
-msgid ""
-"Provided/received/required: Indicate ‘provided’ if for the reported "
-"activity the reporting country is the provider of the technology "
-"transferred; indicate ‘received’ if the reporting country is the "
-"recipient of the technology transferred; indicate ‘required’ if the "
-"reported activity is the technology transferred required by the reporting"
-" country."
-msgstr "Proporcionado/recibido/necesario: Indique “proporcionado” si el país informante es el proveedor de la tecnología transferida en la actividad sobre la que se está informando; indique “recibido” si el país informante es el beneficiario de la tecnología transferida; indique “necesario” si la actividad sobre la que se está informando es una transferencia de tecnología que solicita el país informante."
+msgid "Provided/received/required: Indicate ‘provided’ if for the reported activity the reporting country is the provider of the technology transferred; indicate ‘received’ if the reporting country is the recipient of the technology transferred; indicate ‘required’ if the reported activity is the technology transferred required by the reporting country."
+msgstr ""
 
 #: ../../SO5.md:716
-msgid ""
-"Year: Indicate the year relevant to the reported activity. Explain "
-"whether fiscal or calendar year is used. It is possible to indicate a "
-"timeframe rather than a specific year if it falls within the reporting "
-"period."
-msgstr "Año: Indique el año correspondiente a la actividad sobre la que se está informando. Explique si se utiliza el calendario fiscal o el natural. Es posible indicar un marco temporal en lugar de un año específico, siempre y cuando este se encuentre dentro del período de presentación de informes."
+msgid "Year: Indicate the year relevant to the reported activity. Explain whether fiscal or calendar year is used. It is possible to indicate a timeframe rather than a specific year if it falls within the reporting period."
+msgstr ""
 
 #: ../../SO5.md:718
 msgid "Title of project, programme, activity or other."
-msgstr "Título del proyecto, programa, actividad u otros."
+msgstr ""
 
 #: ../../SO5.md:720
-msgid ""
-"Total amount in USD: The amounts should be reported in USD. If the "
-"reporting country decides otherwise, the approach should be explained "
-"clearly in the methodology. This implies the application of an exchange "
-"rate to the different domestic currencies. The World Bank annual average "
-"exchange rate is suggested; please indicate if (and how) a different "
-"exchange rate is used. It is possible to report on either amount "
-"committed or disbursed; the approach used should be explained and double "
-"counting should be avoided."
-msgstr "Cuantía total en dólares de los Estados Unidos: Las cuantías deben indicarse en dólares de los Estados Unidos; si el país informante decidiera lo contrario, el enfoque deberá explicarse claramente en la metodología. Esto implica la aplicación de un tipo de cambio a las correspondientes divisas nacionales. Se recomienda utilizar el tipo de cambio anual medio del Banco Mundial; se ruega indicar, cuando sea el caso, que se está usando (y de qué manera) un tipo de cambio diferente. Es posible presentar información tanto de las cuantías prometidas como de las desembolsadas; se deberá explicar el enfoque utilizado y evitar la doble contabilización."
+msgid "Total amount in USD: The amounts should be reported in USD. If the reporting country decides otherwise, the approach should be explained clearly in the methodology. This implies the application of an exchange rate to the different domestic currencies. The World Bank annual average exchange rate is suggested; please indicate if (and how) a different exchange rate is used. It is possible to report on either amount committed or disbursed; the approach used should be explained and double counting should be avoided."
+msgstr ""
 
 #: ../../SO5.md:722
-msgid ""
-"Recipient/provider: Indicate the name of the recipient if your country is"
-" the provider of resources; indicate the name of provider if your country"
-" is the recipient of resources. It could include the name of the "
-"country/region or be listed as ‘global’ (bilateral flows); or include the"
-" name of the institution and/or entity (multi-bilateral flows). If "
-"information on domestic transfer of technologies is included, indicate "
-"‘domestic’ and provide further information on the providers and "
-"recipients of resources in the initiative."
-msgstr "Beneficiario/proveedor: Indique el nombre del beneficiario cuando su país sea el proveedor de los recursos; indique el nombre del proveedor cuando el país sea el beneficiario de los recursos. Podrá indicarse el nombre del país o la región, la mención “mundial” (corrientes bilaterales), o el nombre de la institución o entidad (corrientes multibilaterales). Si se incluye información sobre la transferencia nacional de tecnologías, indique “nacional” y proporcione más información sobre los proveedores y beneficiarios de los recursos de la iniciativa."
+msgid "Recipient/provider: Indicate the name of the recipient if your country is the provider of resources; indicate the name of provider if your country is the recipient of resources. It could include the name of the country/region or be listed as ‘global’ (bilateral flows); or include the name of the institution and/or entity (multi-bilateral flows). If information on domestic transfer of technologies is included, indicate ‘domestic’ and provide further information on the providers and recipients of resources in the initiative."
+msgstr ""
 
 #: ../../SO5.md:724
-msgid ""
-"Description and objectives: Include information on the objective of the "
-"technology transferred in the new context."
-msgstr "Descripción y objetivos: Incluya información acerca del objetivo de la tecnología transferida en su nuevo contexto."
+msgid "Description and objectives: Include information on the objective of the technology transferred in the new context."
+msgstr ""
 
 #: ../../SO5.md:726
-msgid ""
-"Sector: Indicate the sector according to the classification system used "
-"in other indicators."
-msgstr "Sector: Indique el sector según el sistema de clasificación utilizado para el resto de indicadores."
+msgid "Sector: Indicate the sector according to the classification system used in other indicators."
+msgstr ""
 
 #: ../../SO5.md:728
-msgid ""
-"Type of technology: Indicate the technology/ies being transferred. "
-"Explain the definition and categorization used for DLDD-relevant "
-"technologies in the methodological information."
-msgstr "Tipo de tecnología: Indique la tecnología o las tecnologías que se han transferido. Explique en la información metodológica la definición y clasificación utilizada para las tecnologías relevantes para la DDTS."
+msgid "Type of technology: Indicate the technology/ies being transferred. Explain the definition and categorization used for DLDD-relevant technologies in the methodological information."
+msgstr ""
 
 #: ../../SO5.md:730
 msgid "Activities undertaken by the private sector, public sector of both."
-msgstr "Actividades llevadas a cabo por el sector privado, el público, o ambos."
+msgstr ""
 
 #: ../../SO5.md:732
-msgid ""
-"Status of measure of activity: Indicate whether the activity is planned, "
-"ongoing or completed at the time of the last reporting year."
-msgstr "Estado de la medida o la actividad: Indique si, a fecha del último año del período de presentación de informes, la actividad está planificada, en curso o completada."
+msgid "Status of measure of activity: Indicate whether the activity is planned, ongoing or completed at the time of the last reporting year."
+msgstr ""
 
 #: ../../SO5.md:734
-msgid ""
-"Timeframe of measure or activity: It is possible to indicate the "
-"timeframe covered by the implementation of the project, or the year of "
-"commitment or disbursement of amounts."
-msgstr "Marco temporal de la medida o la actividad: Es posible indicar el marco temporal cubierto por la aplicación del proyecto, o el año del compromiso o del desembolso de las cuantías."
+msgid "Timeframe of measure or activity: It is possible to indicate the timeframe covered by the implementation of the project, or the year of commitment or disbursement of amounts."
+msgstr ""
 
 #: ../../SO5.md:736
-msgid ""
-"Use, impact and (estimated) results: include additional project-level "
-"information about the use of resources, the impact with respect to the "
-"objectives of the Convention, and results (estimated if the project did "
-"not conclude before the end of the reporting period)."
-msgstr "Uso, impacto, resultados (estimados): Incluya información adicional relativa a proyectos sobre el uso de los recursos, el impacto en lo que respecta a los objetivos de la Convención, y los resultados (estimados si el proyecto no ha concluido antes de que acabe el período de presentación de informes)."
+msgid "Use, impact and (estimated) results: include additional project-level information about the use of resources, the impact with respect to the objectives of the Convention, and results (estimated if the project did not conclude before the end of the reporting period)."
+msgstr ""
 
 #: ../../SO5.md:738
-msgid ""
-"Additional information: Please include any other activity-level "
-"information that you deem relevant, including, for example, information "
-"on co-financing arrangements and the respective role of the public and/or"
-" private sector."
-msgstr "Información adicional: Se ruega incluir cualquier otra información relativa a actividades que se considere relevante, incluida la información acerca de, por ejemplo, los acuerdos de cofinanciación y el papel respectivo del sector público o privado."
+msgid "Additional information: Please include any other activity-level information that you deem relevant, including, for example, information on co-financing arrangements and the respective role of the public and/or private sector."
+msgstr ""
 
 #: ../../SO5.md:740
-msgid ""
-"Table 25 below is populated with some examples (further rows can be "
-"added):"
-msgstr "La tabla 25 a continuación contiene algunos ejemplos (pueden añadirse más filas):"
+msgid "Table 25 below is populated with some examples (further rows can be added):"
+msgstr ""
 
 #: ../../SO5.md:752
-msgid ""
-"*__Table 25__.   Resources provided, received, and required for "
-"technology transfer measures or activities*"
-msgstr "*__Tabla 25__.   Recursos proporcionados, recibidos y necesarios para medidas o actividades de transferencia de tecnología*"
+msgid "*__Table 25__.   Resources provided, received, and required for technology transfer measures or activities*"
+msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:759
 msgid "Provided/ received/ required"
-msgstr "Proporcionado/ recibido/ necesario"
+msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:761
 msgid "Title{sup}`1`"
-msgstr "Título{sup}`1`"
+msgstr ""
 
-#: ../../SO5.md:4
+#: ../../SO5.md:762
 msgid "Amount USD"
-msgstr "Cuantía en dólares de los Estados Unidos"
+msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:763
 msgid "Recipient or provider{sup}`2`"
-msgstr "Beneficiario o proveedor{sup}`2`"
+msgstr ""
 
-#: ../../SO5.md:6
+#: ../../SO5.md:764
 msgid "Description and objectives"
-msgstr "Descripción y objetivos"
+msgstr ""
 
-#: ../../SO5.md:7
+#: ../../SO5.md:765
 msgid "Sector"
-msgstr "Sector"
+msgstr ""
 
-#: ../../SO5.md:8
+#: ../../SO5.md:766
 msgid "Type of technology"
-msgstr "Tipo de tecnología"
+msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:767
 msgid "Activities undertaken by{sup}`3`"
-msgstr "Actividades llevadas a cabo por{sup}`3`"
+msgstr ""
 
-#: ../../SO5.md:10
+#: ../../SO5.md:768
 msgid "Status of measure or activity{sup}`4`"
-msgstr "Estado de la medida o la actividad{sup}`4`"
+msgstr ""
 
-#: ../../SO5.md:11
+#: ../../SO5.md:769
 msgid "Timeframe of measure or activity"
-msgstr "Marco temporal de la medida o la actividad"
+msgstr ""
 
-#: ../../SO5.md:12
+#: ../../SO5.md:770
 msgid "Use, impact, and estimated results"
-msgstr "Uso, impacto y resultados estimados"
+msgstr ""
 
-#: ../../SO5.md:14
+#: ../../SO5.md:772
 msgid "__Provided__"
-msgstr "__Proporcionado__"
+msgstr ""
 
-#: ../../SO5.md:16
+#: ../../SO5.md:774
 msgid "Land degradation neutrality"
-msgstr "Neutralización de la degradación de las tierras"
+msgstr ""
 
-#: ../../SO5.md:17
+#: ../../SO5.md:775
 msgid "45,000"
-msgstr "45.000"
+msgstr ""
 
-#: ../../SO5.md:18
+#: ../../SO5.md:776
 msgid "Democratic Republic of the Congo"
-msgstr "República Democrática del Congo"
+msgstr ""
 
-#: ../../SO5.md:19 ../../SO5.md:51
+#: ../../SO5.md:777
+#: ../../SO5.md:809
 msgid "…"
-msgstr "…"
+msgstr ""
 
-#: ../../SO5.md:20
+#: ../../SO5.md:778
 msgid "Bioshpere protection"
-msgstr "Protección de la biosfera"
+msgstr ""
 
-#: ../../SO5.md:21
+#: ../../SO5.md:779
 msgid "Geospatial Technologies for Land Degradation Assessment and Management"
-msgstr "Tecnologías geoespaciales para la evaluación y gestión de la degradación de las tierras"
+msgstr ""
 
-#: ../../SO5.md:22
+#: ../../SO5.md:780
 msgid "Public and private sector"
-msgstr "Sector público y privado"
+msgstr ""
 
-#: ../../SO5.md:23
+#: ../../SO5.md:781
 msgid "Ongoing"
-msgstr "En curso"
+msgstr ""
 
-#: ../../SO5.md:27
+#: ../../SO5.md:785
 msgid "__Received__"
-msgstr "__Recibido__"
+msgstr ""
 
-#: ../../SO5.md:29
+#: ../../SO5.md:787
 msgid "Soil management"
-msgstr "Ordenación del suelo"
+msgstr ""
 
-#: ../../SO5.md:31
+#: ../../SO5.md:789
 msgid "China"
-msgstr "China"
+msgstr ""
 
-#: ../../SO5.md:33
+#: ../../SO5.md:791
 msgid "Environmental protection"
-msgstr "Protección ambiental"
+msgstr ""
 
-#: ../../SO5.md:34
+#: ../../SO5.md:792
 msgid "Technologies of sandy desertification control"
-msgstr "Tecnologías de control de la desertificación arenosa"
+msgstr ""
 
-#: ../../SO5.md:35
+#: ../../SO5.md:793
 msgid "Private"
-msgstr "Privado"
+msgstr ""
 
-#: ../../SO5.md:36
+#: ../../SO5.md:794
 msgid "Completed"
-msgstr "Completada"
+msgstr ""
 
-#: ../../SO5.md:40
+#: ../../SO5.md:798
 msgid "__Required__"
-msgstr "__Necesaria__"
+msgstr ""
 
-#: ../../SO5.md:42
+#: ../../SO5.md:800
 msgid "Regenerative agriculture"
-msgstr "Agricultura regeneradora"
+msgstr ""
 
-#: ../../SO5.md:43
+#: ../../SO5.md:801
 msgid "60,000"
-msgstr "60.000"
+msgstr ""
 
-#: ../../SO5.md:44
+#: ../../SO5.md:802
 msgid "Domestic"
-msgstr "Nacional"
+msgstr ""
 
-#: ../../SO5.md:46
+#: ../../SO5.md:804
 msgid "Agriculture"
-msgstr "Agricultura"
+msgstr ""
 
-#: ../../SO5.md:47
+#: ../../SO5.md:805
 msgid "Planting local flora to stabilize the soil"
-msgstr "Plantación de flora local para estabilizar el suelo"
+msgstr ""
 
-#: ../../SO5.md:48
+#: ../../SO5.md:806
 msgid "Public"
-msgstr "Público"
+msgstr ""
 
-#: ../../SO5.md:49
+#: ../../SO5.md:807
 msgid "Planned"
-msgstr "Planificada"
+msgstr ""
 
-#: ../../SO5.md:50
+#: ../../SO5.md:808
 msgid "2021-2023"
-msgstr "2021-2023"
+msgstr ""
 
-#: ../../SO5.md:53
+#: ../../SO5.md:811
 msgid "__Totals__"
-msgstr "__Totales__"
+msgstr ""
 
-#: ../../SO5.md:66
+#: ../../SO5.md:824
 msgid "__Totals per year__"
-msgstr "__Totales por año__"
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"{sup}`1` Title of project, programme, activity or other{{br}} {sup}`2` "
-"Recipient entity, country, region, global{{br}} {sup}`3` Public sector, "
-"public and/or private sector; private sector{{br}} {sup}`4` "
-"Planned/ongoing/completed {{br}}"
-msgstr "{sup}`1` Título del proyecto, programa, actividad u otro{{br}} {sup}`2` Entidad, país o región beneficiaria, mundial{{br}} {sup}`3` Sector público, sector público y/o privado, sector privado{{br}} {sup}`4` Planificada/en curso/completada{{br}}"
+#: ../../SO5.md:844
+msgid "{sup}`1` Title of project, programme, activity or other{{br}} {sup}`2` Recipient entity, country, region, global{{br}} {sup}`3` Public sector, public and/or private sector; private sector{{br}} {sup}`4` Planned/ongoing/completed {{br}}"
+msgstr ""
 
 #: ../../SO5.md:856
-msgid ""
-"The SO 5-4 indicator includes a separate question for the methodological "
-"information, providing the space to report any relevant approaches and "
-"definition used in the reporting."
-msgstr "El indicador del OE 5-4 incluye una pregunta independiente para la información metodológica, lo que permite presentar información pertinente sobre los enfoques y las definiciones que se hayan utilizado en la presentación de informes."
+msgid "The SO 5-4 indicator includes a separate question for the methodological information, providing the space to report any relevant approaches and definition used in the reporting."
+msgstr ""
 
 #: ../../SO5.md:858
-msgid ""
-"5.5. SO5-5 – Future support for activities related to the implementation "
-"of the Convention"
-msgstr "5.5. OE 5-5 - Apoyo futuro a actividades relacionadas con la aplicación de la Convención"
+msgid "5.5. SO5-5 – Future support for activities related to the implementation of the Convention"
+msgstr ""
 
 #: ../../SO5.md:860
 msgid "5.5.1. Introduction"
-msgstr "5.5.1. Introducción"
+msgstr ""
 
 #: ../../SO5.md:862
-msgid ""
-"SO5-5 is a qualitative indicator with three questions that encourage "
-"country Parties to reflect on future resources to be targeted at "
-"implementing the Convention."
-msgstr "El OE 5-5 es un indicador cualitativo con tres preguntas que alienta a los países Partes a reflexionar sobre los recursos que en el futuro se destinarán a la aplicación de la Convención."
+msgid "SO5-5 is a qualitative indicator with three questions that encourage country Parties to reflect on future resources to be targeted at implementing the Convention."
+msgstr ""
 
 #: ../../SO5.md:864
-msgid ""
-"In particular, the indicator allows country Parties to provide "
-"descriptive information on planned domestic resources, both public and "
-"private. It also provides a space to report on the planned provision and "
-"mobilization of international public and private resources. The third "
-"question aims to facilitate sharing of information on resources needed by"
-" Parties for the implementation of the Convention."
-msgstr "En particular, el indicador permite a los países Partes proporcionar información descriptiva sobre la planificación de recursos nacionales, tanto públicos como privados. También permite presentar información acerca del suministro y la movilización planificados de recursos privados y públicos internacionales. La tercera pregunta tiene por objetivo facilitar el intercambio de información acerca de los recursos que las Partes necesitan para aplicar la Convención."
+msgid "In particular, the indicator allows country Parties to provide descriptive information on planned domestic resources, both public and private. It also provides a space to report on the planned provision and mobilization of international public and private resources. The third question aims to facilitate sharing of information on resources needed by Parties for the implementation of the Convention."
+msgstr ""
 
 #: ../../SO5.md:866
 msgid "5.5.2. Prerequisites for reporting"
-msgstr "5.5.2. Requisitos previos para la presentación de informes"
+msgstr ""
 
 #: ../../SO5.md:868
-msgid ""
-"Access to provisional budgets of central administrations for both "
-"domestic and international resource allocation, and the capacity to "
-"distinguish DLDD-related funds."
-msgstr "Acceso a los borradores de los presupuestos de las administraciones centrales para la distribución de recursos tanto nacionales como internacionales, y capacidad para diferenciar los fondos relacionados con la DDTS."
+msgid "Access to provisional budgets of central administrations for both domestic and international resource allocation, and the capacity to distinguish DLDD-related funds."
+msgstr ""
 
 #: ../../SO5.md:870
-msgid ""
-"Adoption of a consistent and clear methodology to estimate the "
-"quantitative amounts of resources needed to implement the Convention."
-msgstr "Adopción de una metodología coherente y clara para calcular las cuantías cuantitativas de los recursos necesarios para aplicar la Convención."
+msgid "Adoption of a consistent and clear methodology to estimate the quantitative amounts of resources needed to implement the Convention."
+msgstr ""
 
 #: ../../SO5.md:872
 msgid "5.5.3. Reporting process and step-by-step procedure"
-msgstr "5.5.3. Proceso de presentación de informes e instrucciones detalladas paso por paso"
+msgstr ""
 
 #: ../../SO5.md:874
-msgid ""
-"The indicator offers the option to report on three different aspects of "
-"future support through SO 5-5 in qualitative terms. No default data will "
-"be provided against this indicator."
-msgstr "El indicador contempla la opción de presentar información cualitativa sobre tres aspectos diferentes del apoyo futuro a través del OE 5-5. No se proporcionarán datos por defecto para este indicador."
+msgid "The indicator offers the option to report on three different aspects of future support through SO 5-5 in qualitative terms. No default data will be provided against this indicator."
+msgstr ""
 
 #: ../../SO5.md:876
-msgid ""
-"At national level, information can be found in the relevant sections of "
-"public provisional budgets, as well as in environment-related financial "
-"pledges and planned policies and measures related to DLDD. It is possible"
-" to use a case-by-case approach for the domestic private sector, as well "
-"as available data from research, case studies and dedicated datasets."
-msgstr "A escala nacional, la información puede encontrarse en las secciones correspondientes de los borradores de los presupuestos públicos, así como en los compromisos financieros relativos al medioambiente y en las políticas y medidas planificadas relativas a la DDTS. Es posible emplear un enfoque individual de los casos para el sector privado nacional, así como los datos disponibles procedentes de investigaciones, casos prácticos y conjuntos de datos especializados."
+msgid "At national level, information can be found in the relevant sections of public provisional budgets, as well as in environment-related financial pledges and planned policies and measures related to DLDD. It is possible to use a case-by-case approach for the domestic private sector, as well as available data from research, case studies and dedicated datasets."
+msgstr ""
 
 #: ../../SO5.md:878
-msgid ""
-"SO5-5.1: Planned provision and mobilization of domestic public and "
-"private resources"
-msgstr "OE5-5.1: Suministro y movilización planificados de recursos nacionales públicos y privados"
+msgid "SO5-5.1: Planned provision and mobilization of domestic public and private resources"
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"“The reporting country will continue to provide public support to address"
-" land degradation and drought to developing countries and affected "
-"country Parties through bilateral and multilateral channels for "
-"rehabilitation and soil improvement, combating soil erosion and "
-"desertification, and sustainable agriculture.”"
-msgstr "“El país informante continuará proporcionando a países en desarrollo y países Partes afectados apoyo público para abordar la degradación de las tierras y la sequía a través de canales bilaterales y multilaterales para la rehabilitación y mejora del suelo, la lucha contra la erosión del suelo y la desertificación, y la agricultura sostenible”."
+#: ../../SO5.md:884
+msgid "“The reporting country will continue to provide public support to address land degradation and drought to developing countries and affected country Parties through bilateral and multilateral channels for rehabilitation and soil improvement, combating soil erosion and desertification, and sustainable agriculture.”"
+msgstr ""
 
-#: ../../SO5.md:3
-msgid ""
-"“The national system allows for the tracking of future resources aimed at"
-" pursuing Sustainable Development Goal (SDG) 15, thanks to the recently "
-"established strategic committee on SDG implementation in partner "
-"countries, managed by the Ministry of Foreign Affairs. Thus, the "
-"estimated amounts reported will be dedicated to the achievement of SDG "
-"15.”"
-msgstr "“El sistema nacional permite hacer un seguimiento de los recursos que en el futuro se dedicarán a conseguir el Objetivo de Desarrollo Sostenible (ODS) 15, gracias al comité estratégico sobre la aplicación de los ODS en los países asociados, dirigido por el Ministerio de Asuntos Exteriores, que se ha creado recientemente. Por ello, las cuantías estimadas indicadas se destinarán a conseguir el ODS 15”."
+#: ../../SO5.md:886
+msgid "“The national system allows for the tracking of future resources aimed at pursuing Sustainable Development Goal (SDG) 15, thanks to the recently established strategic committee on SDG implementation in partner countries, managed by the Ministry of Foreign Affairs. Thus, the estimated amounts reported will be dedicated to the achievement of SDG 15.”"
+msgstr ""
 
 #: ../../SO5.md:889
-msgid ""
-"SO5-5.2: Planned provision and mobilization of international public and "
-"private resources"
-msgstr "OE5-5.2: Suministro y movilización planificados de recursos internacionales públicos y privados"
+msgid "SO5-5.2: Planned provision and mobilization of international public and private resources"
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"“In the reporting county, a programme on improving food security and "
-"enhancing farmers’ initiatives is being implemented. It is aimed at "
-"sustainably increasing production and fostering jobs for women and youth "
-"by adopting resilient agro-farming practices, restoring degraded lands, "
-"and improving natural resources management. A budget of USD 15 million "
-"(XYZ domestic currency) has been allocated to this measure for the "
-"triennium 2021–2023.”"
-msgstr "“En el país informante se está aplicando un programa para mejorar la inocuidad de los alimentos y fomentar las iniciativas de los agricultores. Tiene por objetivo el aumento sostenible de la producción y el fomento del empleo para las mujeres y la juventud mediante la adopción de prácticas agrícolas resilientes, la restauración de las tierras degradadas, y la mejora de la gestión de los recursos naturales. Se ha asignado un presupuesto de 15 millones de dólares de los Estados Unidos (XYZ en la divisa nacional) a esta medida para el trienio 2021-2023”."
+#: ../../SO5.md:895
+msgid "“In the reporting county, a programme on improving food security and enhancing farmers’ initiatives is being implemented. It is aimed at sustainably increasing production and fostering jobs for women and youth by adopting resilient agro-farming practices, restoring degraded lands, and improving natural resources management. A budget of USD 15 million (XYZ domestic currency) has been allocated to this measure for the triennium 2021–2023.”"
+msgstr ""
 
-#: ../../SO5.md:3
-msgid ""
-"“The central government budget line dedicated to sustainable land "
-"management (see SO 5-2) for the years 2022–2024 is endowed with USD 14 "
-"million across the triennium. In accordance with the recently adopted "
-"“Programming document for national land management”, this budget line "
-"will likely be entirely dedicated to activities pursuing the "
-"implementation of strategic objectives included in the aforementioned "
-"programming document"
-msgstr "“La línea del presupuesto del gobierno central destinada a la ordenación sostenible de las tierras (véase el OE 5-2) para los años 2022-2024 está dotada de 14 millones de dólares de los Estados Unidos para el trienio. De conformidad con el documento de programación para la ordenación nacional de las tierras que se ha aprobado recientemente, es probable que dicha línea presupuestaria se destine por completo a actividades en pos de la aplicación de los objetivos estratégicos incluidos en el documento de programación mencionado anteriormente”."
+#: ../../SO5.md:897
+msgid "“The central government budget line dedicated to sustainable land management (see SO 5-2) for the years 2022–2024 is endowed with USD 14 million across the triennium. In accordance with the recently adopted “Programming document for national land management”, this budget line will likely be entirely dedicated to activities pursuing the implementation of strategic objectives included in the aforementioned programming document"
+msgstr ""
 
 #: ../../SO5.md:900
 msgid "SO5-5.3: Resources needed"
-msgstr "OE5-5-5.3: Recursos necesarios"
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"“Based on the results of the assessment conducted in 2019, the reporting "
-"country aims at developing a land degradation neutrality (LDN) targets "
-"implementation plan. The most promising and feasible measures will be "
-"identified, as well as related budget, capacity-building and technology "
-"transfer needs.”"
-msgstr "“En función de los resultados de la evaluación realizada en 2019, el país informante se propone desarrollar un plan de aplicación de los objetivos de neutralización de la degradación de las tierras. Se identificarán las medidas más prometedoras y viables, así como las necesidades relacionadas en materia de presupuesto, creación de capacidades y transferencia de tecnología”."
+#: ../../SO5.md:906
+msgid "“Based on the results of the assessment conducted in 2019, the reporting country aims at developing a land degradation neutrality (LDN) targets implementation plan. The most promising and feasible measures will be identified, as well as related budget, capacity-building and technology transfer needs.”"
+msgstr ""
 
-#: ../../SO5.md:3
-msgid ""
-"“Regions in the country most affected by DLDD are …. Those regions need "
-"significant investments to reduce vulnerabilities caused by land "
-"degradation. Following a case study survey among the local population, "
-"projects on the ground need to target local communities and indigenous "
-"peoples in sustainable land use with the aim of creating synergies with "
-"local practices and knowledge.”"
-msgstr "“Las regiones del país más afectadas por la DDTS son... Dichas regiones necesitan inversiones significativas para reducir la vulnerabilidad que genera la degradación de las tierras. Basándose en una encuesta de casos prácticos entre la población local, los proyectos sobre el terreno deben destinarse a las comunidades locales y a los pueblos indígenas en el uso sostenible de las tierras con el objetivo de generar sinergias con las prácticas y el conocimiento locales”."
+#: ../../SO5.md:908
+msgid "“Regions in the country most affected by DLDD are …. Those regions need significant investments to reduce vulnerabilities caused by land degradation. Following a case study survey among the local population, projects on the ground need to target local communities and indigenous peoples in sustainable land use with the aim of creating synergies with local practices and knowledge.”"
+msgstr ""
 
-#: ../../SO5.md:5
-msgid ""
-"“The reported estimate of USD 16.96 million is based on a study conducted"
-" on the basis on the Biodiversity Finance Initiative (BIOFIN) "
-"methodology, with further internal developments to adapt it to the "
-"objectives of the national LDN targets."
-msgstr "“La estimación indicada de 16,96 millones de dólares de los Estados Unidos se basa en un estudio que parte de la metodología de la Iniciativa Financiera de Biodiversidad (BIOFIN), con algunas modificaciones internas para adaptarla a los objetivos nacionales de neutralización de la degradación de las tierras”."
+#: ../../SO5.md:910
+msgid "“The reported estimate of USD 16.96 million is based on a study conducted on the basis on the Biodiversity Finance Initiative (BIOFIN) methodology, with further internal developments to adapt it to the objectives of the national LDN targets."
+msgstr ""
 
 #: ../../SO5.md:913
 msgid "**Aggregating the information**"
-msgstr "**Agregación de la información**"
+msgstr ""
 
 #: ../../SO5.md:915
-msgid ""
-"Aggregation of figures for this indicator is not envisaged. Aggregated "
-"figures could be included by reporting countries. In this case, reporting"
-" country should clearly explain how information is aggregated within the "
-"three sub-indicators. Figures across the three indicators cannot be "
-"aggregated, as different in nature and domain. Aggregation of figures "
-"must avoid double counting across years."
-msgstr "No está prevista la agregación de cifras para el presente indicador. Los países informantes podrían incluir cifras agregadas. En este caso, el país informante deberá explicar claramente de qué modo se ha agregado la información de los tres subindicadores. Las cifras de los tres indicadores no pueden agregarse, dadas las diferencias de su naturaleza y dominio. La agregación de cifras debe evitar la doble contabilización entre años."
+msgid "Aggregation of figures for this indicator is not envisaged. Aggregated figures could be included by reporting countries. In this case, reporting country should clearly explain how information is aggregated within the three sub-indicators. Figures across the three indicators cannot be aggregated, as different in nature and domain. Aggregation of figures must avoid double counting across years."
+msgstr ""
 
 #: ../../SO5.md:31
-#, python-format
-msgid ""
-"For methodological information see [Methodological "
-"Note](https://www.unccd.int/sites/default/files/inline-"
-"files/Methodological_Note_Strategic%20Objective%205_clean%20-%20Final.pdf)."
-msgstr "Para obtener información metodológica, véase la [Nota Metodológica] (https://www.unccd.int/sites/default/files/inline-files/Methodological_Note_Strategic%20Objective%205_clean%20-%20Final.pdf)."
+msgid "For methodological information see [Methodological Note](https://www.unccd.int/sites/default/files/inline-files/Methodological_Note_Strategic%20Objective%205_clean%20-%20Final.pdf)."
+msgstr ""
 
 #: ../../SO5.md:108
-msgid ""
-"Default data are included in each provider and recipient country tables. "
-"Reported activities are identified based on the OECD DAC Rio Marker for "
-"desertification. All activities marked with the marker ‘principal’ and "
-"‘significant’ are included in the tables, and respective amounts are "
-"reported at 100 %."
-msgstr "Los datos por defecto se incluyen en las tablas de cada país proveedor y beneficiario. Las actividades indicadas se identifican en función del marcador de Río del CAD de la OCDE de desertificación. Todas las actividades marcadas como “principales” y “relevantes” se incluyen en las tablas y las cuantías correspondientes se indican al 100%."
+msgid "Default data are included in each provider and recipient country tables. Reported activities are identified based on the OECD DAC Rio Marker for desertification. All activities marked with the marker ‘principal’ and ‘significant’ are included in the tables, and respective amounts are reported at 100 %."
+msgstr ""
 
 #: ../../SO5.md:377
 msgid "The database is freely accessible at www.oecd.org/env/policies/database"
-msgstr "La base de datos es de libre acceso a través de www.oecd.org/env/policies/database"
+msgstr ""
 
 #: ../../SO5.md:532
-msgid ""
-"See <https://www.oecd.org/development/financing-sustainable-development"
-"/development-finance-standards/beyond-oda-foundations.htm>."
-msgstr "Véase <https://www.oecd.org/development/financing-sustainable-development/development-finance-standards/beyond-oda-foundations.htm>."
+msgid "See <https://www.oecd.org/development/financing-sustainable-development/development-finance-standards/beyond-oda-foundations.htm>."
+msgstr ""
 
 #: ../../SO5.md:533
-msgid ""
-"See <https://www.oecd.org/dac/financing-sustainable-development"
-"/development-finance-standards/mobilisation.htm>."
-msgstr "Véase <https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/mobilisation.htm>."
+msgid "See <https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/mobilisation.htm>."
+msgstr ""
 
 #: ../../SO5.md:682
-msgid ""
-"https://tech-action.unepdtu.org/wp-content/uploads/sites/2/2021/04"
-"/report-on-taxonomy-of-climate-change-adaptation-technology-including-"
-"factsheets-finalbrief-tna-adaptation-taxonomy.pdf."
-msgstr "https://tech-action.unepdtu.org/wp-content/uploads/sites/2/2021/04/report-on-taxonomy-of-climate-change-adaptation-technology-including-factsheets-finalbrief-tna-adaptation-taxonomy.pdf."
+msgid "https://tech-action.unepdtu.org/wp-content/uploads/sites/2/2021/04/report-on-taxonomy-of-climate-change-adaptation-technology-including-factsheets-finalbrief-tna-adaptation-taxonomy.pdf."
+msgstr ""
 
