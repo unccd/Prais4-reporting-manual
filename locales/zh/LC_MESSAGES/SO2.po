@@ -1,1094 +1,750 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, UNCCD
-# This file is distributed under the same license as the PRAIS4 Reporting
-# Manual package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: PRAIS4 Reporting Manual \n"
+"Project-Id-Version: prais4-reporting-manual\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-04 19:41+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2025-05-13 16:13+0300\n"
+"PO-Revision-Date: 2025-05-13 16:48\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: prais4-reporting-manual\n"
+"X-Crowdin-Project-ID: 760205\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/locales/source/SO2.pot\n"
+"X-Crowdin-File-ID: 12\n"
+"Language: zh_CN\n"
 
 #: ../../SO2.md:1
-msgid ""
-"2. Strategic objective 2: To improve the living conditions of affected "
-"populations"
-msgstr "2. 战略目标2：改善受影响人口的生活条件"
+msgid "2. Strategic objective 2: To improve the living conditions of affected populations"
+msgstr ""
 
 #: ../../SO2.md:3
-msgid ""
-"2.1. SO 2-1 – Trends in population living below the relative poverty line"
-" and/or income inequality in affected areas"
-msgstr "2.1. SO 2-1 – 受影响地区生活在相对贫困线以下的人口和/或收入不平等的趋势"
+msgid "2.1. SO 2-1 – Trends in population living below the relative poverty line and/or income inequality in affected areas"
+msgstr ""
 
 #: ../../SO2.md:5
 msgid "2.1.1. Introduction"
-msgstr "2.1.1. 简介"
+msgstr ""
 
 #: ../../SO2.md:7
-msgid ""
-"Indicator SO 2-1 estimates the well-being of populations in monetary "
-"terms."
-msgstr "指标SO 2-1以货币形式估算人口的福祉。"
+msgid "Indicator SO 2-1 estimates the well-being of populations in monetary terms."
+msgstr ""
 
 #: ../../SO2.md:9
-msgid ""
-"Two metrics are used for this purpose and Parties should specify which "
-"metrics they would like to use:"
-msgstr "有两个指标用于此目的，缔约方应指定它们希望使用的指标："
+msgid "Two metrics are used for this purpose and Parties should specify which metrics they would like to use:"
+msgstr ""
 
 #: ../../SO2.md:11
 msgid "Proportion of the population below the international poverty line, or"
-msgstr "低于国际贫困线的人口比例，或"
+msgstr ""
 
 #: ../../SO2.md:13
 msgid "Income inequality."
-msgstr "收入不平等。"
+msgstr ""
 
 #: ../../SO2.md:15
-msgid ""
-"These metrics can be used interchangeably according to country-specific "
-"conditions."
-msgstr "这些指标可以根据具体国家的情况互换使用。"
+msgid "These metrics can be used interchangeably according to country-specific conditions."
+msgstr ""
 
 #: ../../SO2.md:17
-msgid ""
-"The proportion of the population below the international poverty line is "
-"generally considered relevant to less developed countries, where extreme "
-"poverty and destitution are core development challenges. The "
-"international poverty line is currently set at USD 1.90 a day, based on "
-"2011 purchasing power parity. Therefore, the proportion of the population"
-" below the international poverty line is defined as the percentage of the"
-" population living on less than USD 1.90 a day at 2011 international "
-"prices."
-msgstr "一般认为，低于国际贫困线的人口比例与欠发达国家有关，在这些国家，极端贫困和赤贫是核心发展挑战。根据2011年的购买力平价，国际贫困线目前设定为每天1.90美元。因此，低于国际贫困线的人口比例被定义为按2011年国际价格计算，每天生活费低于1.90美元的人口比例。"
+msgid "The proportion of the population below the international poverty line is generally considered relevant to less developed countries, where extreme poverty and destitution are core development challenges. The international poverty line is currently set at USD 1.90 a day, based on 2011 purchasing power parity. Therefore, the proportion of the population below the international poverty line is defined as the percentage of the population living on less than USD 1.90 a day at 2011 international prices."
+msgstr ""
 
 #: ../../SO2.md:19
-msgid ""
-"Income inequality is a useful metric for both low-income and middle-"
-"income countries as it estimates the extent of wealth distribution in a "
-"region. It is estimated through the Gini index. The Gini index measures "
-"the extent to which the distribution of income (or, in some cases, "
-"consumption expenditure) among individuals or households within an "
-"economy deviates from perfectly equal distribution. A Gini index of 0 "
-"represents perfect equality, while an index of 100 implies perfect "
-"inequality."
-msgstr "收入不平等对低收入和中等收入国家来说都是一个有用的指标，因为它估计了一个地区的财富分配程度。这是通过基尼系数来估算的。基尼系数衡量一个经济体中个人或家庭的收入（或在某些情况下的消费支出）分配偏离完全平等分配的程度。基尼系数为0代表完全平等，而指数为1则代表完全不平等。"
+msgid "Income inequality is a useful metric for both low-income and middle-income countries as it estimates the extent of wealth distribution in a region. It is estimated through the Gini index. The Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from perfectly equal distribution. A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality."
+msgstr ""
 
 #: ../../SO2.md:21
-msgid ""
-"National reporting is facilitated though the provision of default data. "
-"As the proportion of population below the international poverty line by "
-"sex, age, employment status and geographical location (urban/rural) is "
-"also a Sustainable Development Goal (SDG) indicator (SDG indicator "
-"1.1.1), default data is pre-filled from the SDG database. For income "
-"inequality (i.e., the Gini index), default data is pre-filled from the "
-"World Bank database[^1]."
-msgstr "通过提供默认数据为国家报告提供了便利。由于按性别、年龄、就业状况和地理位置（城市/农村）分列的低于国际贫困线的人口比例也是一项可持续发展目标指标（可持续发展目标指标1.1.1），默认数据是根据可持续发展目标数据库预先填充的。而收入不平等（如基尼系数）的默认数据是根据世界银行数据库预先填充的[^1]。"
+msgid "National reporting is facilitated though the provision of default data. As the proportion of population below the international poverty line by sex, age, employment status and geographical location (urban/rural) is also a Sustainable Development Goal (SDG) indicator (SDG indicator 1.1.1), default data is pre-filled from the SDG database. For income inequality (i.e., the Gini index), default data is pre-filled from the World Bank database[^1]."
+msgstr ""
 
 #: ../../SO2.md:25
 msgid "2.1.2. Prerequisites for reporting"
-msgstr "2.1.2.报告的先决条件"
+msgstr ""
 
 #: ../../SO2.md:27
-msgid ""
-"An in-depth reading of SDG indicator 1.1.1 metadata and Gini index "
-"metadata (see section 2.1.7)."
-msgstr "深入阅读可持续发展目标指标1.1.1元数据和基尼系数元数据（见第2.1.7节）。"
+msgid "An in-depth reading of SDG indicator 1.1.1 metadata and Gini index metadata (see section 2.1.7)."
+msgstr ""
 
 #: ../../SO2.md:29
 msgid "Data complying with the specifications listed in table 15."
-msgstr "符合表15所列规格的数据。"
+msgstr ""
 
 #: ../../SO2.md:31
-msgid ""
-"A pool of national experts officially nominated by the national "
-"authorities to verify the suitability and consistency of the default data"
-" against the situation in their country, or to identify and compile data "
-"using national sources for the three metrics. Key institutions might "
-"include a country’s national statistical office and the ministry of "
-"finance, as well as universities and research centres."
-msgstr "由国家主管部门正式提名的国家专家库，根据本国情况核实默认数据的适用性和一致性，或使用三项指标的国家来源确定和汇编数据。关键机构可能包括一国的国家统计局和财政部，以及大学和研究中心。"
+msgid "A pool of national experts officially nominated by the national authorities to verify the suitability and consistency of the default data against the situation in their country, or to identify and compile data using national sources for the three metrics. Key institutions might include a country’s national statistical office and the ministry of finance, as well as universities and research centres."
+msgstr ""
 
 #: ../../SO2.md:33
 msgid "2.1.3. Reporting process and step-by-step procedure"
-msgstr "2.1.3.报告流程和分步程序"
+msgstr ""
 
-#: ../../SO2.md:35 ../../SO2.md:146
+#: ../../SO2.md:35
+#: ../../SO2.md:146
 msgid "The step-by-step procedure for reporting is described in the following."
-msgstr "报告的分步程序在下文中描述。"
+msgstr ""
 
 #: ../../SO2.md:37
 msgid "Step 1: Choose the most suitable metric"
-msgstr "第1步：选择最合适的指标"
+msgstr ""
 
 #: ../../SO2.md:39
-msgid ""
-"Parties are invited to choose the most suitable metric to represent the "
-"well-being of the population in their countries."
-msgstr "请缔约方选择最合适的指标来代表本国人口的福祉。"
+msgid "Parties are invited to choose the most suitable metric to represent the well-being of the population in their countries."
+msgstr ""
 
 #: ../../SO2.md:41
 msgid "Step 2: Identify the relevant dataset"
-msgstr "第2步：确定相关数据集"
+msgstr ""
 
 #: ../../SO2.md:43
-msgid ""
-"The proportion of population below the international poverty line data is"
-" pre-filled from the SDG database, while income inequality (Gini index) "
-"data is pre-filled from the World Bank database."
-msgstr "低于国际贫困线的人口比例数据是根据可持续发展目标数据库预先填充的，而收入不平等（基尼系数）数据是根据世界银行数据库预先填充的。"
+msgid "The proportion of population below the international poverty line data is pre-filled from the SDG database, while income inequality (Gini index) data is pre-filled from the World Bank database."
+msgstr ""
 
 #: ../../SO2.md:45
-msgid ""
-"Parties may also use national data, provided it complies with the data "
-"specifications listed in table 15."
-msgstr "缔约方也可以使用国家数据，只要国家数据符合表15所列的数据规格。"
+msgid "Parties may also use national data, provided it complies with the data specifications listed in table 15."
+msgstr ""
 
 #: ../../SO2.md:50
 msgid "*__Table 15__. Data specifications for SO 2-1 Indicator*"
-msgstr "*__表15__. SO 2-1指标的数据规格*"
+msgstr ""
 
-#: ../../SO2.md:1
+#: ../../SO2.md:56
+#: ../../SO2.md:163
+#: ../../SO2.md:281
 msgid "{rspan}`1` Item"
-msgstr "项目"
+msgstr ""
 
-#: ../../SO2.md:2
+#: ../../SO2.md:57
+#: ../../SO2.md:164
+#: ../../SO2.md:282
 msgid "{cspan}`1` Specifications"
-msgstr "规格"
+msgstr ""
 
-#: ../../SO2.md:3
-msgid ""
-"__Default data__ (Sustainable Development Goal indicator 1.1.1 data and "
-"Gini index World Bank data)"
-msgstr "__默认数据__（可持续发展目标指标1.1.1数据和基尼系数世界银行数据）"
+#: ../../SO2.md:58
+msgid "__Default data__ (Sustainable Development Goal indicator 1.1.1 data and Gini index World Bank data)"
+msgstr ""
 
-#: ../../SO2.md:5 ../../SO2.md:6
+#: ../../SO2.md:60
+#: ../../SO2.md:168
 msgid "__National data__"
-msgstr "__国家数据__"
+msgstr ""
 
-#: ../../SO2.md:6
+#: ../../SO2.md:61
 msgid "Data type"
-msgstr "数据类型"
+msgstr ""
 
-#: ../../SO2.md:7
+#: ../../SO2.md:62
 msgid "Annual data on one of the two metrics for the period 2000–2019."
-msgstr "2000-2019年期间，两个指标之一的年度数据。"
+msgstr ""
 
-#: ../../SO2.md:8
-msgid ""
-"Annual data on one of the two metrics for the period from 2000 to the "
-"latest available year for the reporting period."
-msgstr "从2000年到报告期的最近一年，两个指标之一的年度数据。"
+#: ../../SO2.md:63
+msgid "Annual data on one of the two metrics for the period from 2000 to the latest available year for the reporting period."
+msgstr ""
 
-#: ../../SO2.md:9 ../../SO2.md:10 ../../SO2.md:19
+#: ../../SO2.md:64
+#: ../../SO2.md:172
+#: ../../SO2.md:299
 msgid "__Spatial resolution__"
-msgstr "__空间分辨率__"
+msgstr ""
 
-#: ../../SO2.md:10 ../../SO2.md:11
+#: ../../SO2.md:65
+#: ../../SO2.md:173
 msgid "Country level"
-msgstr "国家一级"
+msgstr ""
 
-#: ../../SO2.md:11 ../../SO2.md:12
+#: ../../SO2.md:66
+#: ../../SO2.md:174
 msgid "Country or sub-national levels"
-msgstr "国家或国家以下各级"
+msgstr ""
 
-#: ../../SO2.md:12 ../../SO2.md:13 ../../SO2.md:22
+#: ../../SO2.md:67
+#: ../../SO2.md:175
+#: ../../SO2.md:302
 msgid "__Quality__"
-msgstr "__质量__"
+msgstr ""
 
-#: ../../SO2.md:13 ../../SO2.md:14 ../../SO2.md:23
+#: ../../SO2.md:68
+#: ../../SO2.md:176
+#: ../../SO2.md:303
 msgid "Specified in the datasets’ metadata."
-msgstr "在数据集的元数据中指定。"
+msgstr ""
 
-#: ../../SO2.md:14 ../../SO2.md:15 ../../SO2.md:24
+#: ../../SO2.md:69
+#: ../../SO2.md:177
+#: ../../SO2.md:304
 msgid "To be indicated in the dataset metadata."
-msgstr "将在数据集元数据中注明。"
+msgstr ""
 
-#: ../../SO2.md:15 ../../SO2.md:16 ../../SO2.md:25
+#: ../../SO2.md:70
+#: ../../SO2.md:178
+#: ../../SO2.md:305
 msgid "__Metadata__"
-msgstr "__元数据__"
+msgstr ""
 
-#: ../../SO2.md:16 ../../SO2.md:17 ../../SO2.md:26
+#: ../../SO2.md:71
+#: ../../SO2.md:179
+#: ../../SO2.md:306
 msgid "Metadata information is provided with default data."
-msgstr "元数据信息与默认数据一起提供。"
+msgstr ""
 
-#: ../../SO2.md:17 ../../SO2.md:18 ../../SO2.md:27
+#: ../../SO2.md:72
+#: ../../SO2.md:180
+#: ../../SO2.md:307
 msgid "Minimum metadata content as per the mandatory fields listed in Annex II."
-msgstr "附件二中按必填字段列出的最低元数据内容。"
+msgstr ""
 
 #: ../../SO2.md:75
-msgid ""
-"Step 3: Report national annual values of the chosen metric and interpret "
-"the data"
-msgstr "第3步：报告所选指标的国家年度值并解释数据"
+msgid "Step 3: Report national annual values of the chosen metric and interpret the data"
+msgstr ""
 
-#: ../../SO2.md:1
-msgid ""
-"Related areas in the PRAIS 4 platform: tables SO2-1.T1, SO2-1.T2 and "
-"SO2-1.T3"
-msgstr "PRAIS 4平台中的相关区域：表SO2-1.T1、SO2-1.T2和SO2-1.T3"
+#: ../../SO2.md:78
+msgid "Related areas in the PRAIS 4 platform: tables SO2-1.T1, SO2-1.T2 and SO2-1.T3"
+msgstr ""
 
 #: ../../SO2.md:81
-msgid ""
-"Parties opting to use an alternative source of national data may enter "
-"the relevant national annual values in tables SO2-1.T1 or SO2-1.T2, "
-"according to the chosen metric."
-msgstr "选择使用其他国家数据来源的缔约方可根据所选择的指标在表SO2-1.T1或SO2-1.T2中输入相关的国家年度值。"
+msgid "Parties opting to use an alternative source of national data may enter the relevant national annual values in tables SO2-1.T1 or SO2-1.T2, according to the chosen metric."
+msgstr ""
 
 #: ../../SO2.md:83
-msgid ""
-"To assist in the data interpretation, countries are encouraged to "
-"visualize their respective metrics by means of a graph (graphs for each "
-"country are available on the [World Bank "
-"website](https://datatopics.worldbank.org/sdgs/index.html)).  While it "
-"may be difficult to attribute specific causal factors to changes in the "
-"metrics, countries may indicate which direct and/or indirect drivers are "
-"presumably behind the observed changes and report this information in the"
-" Qualitative Assessment table (i.e., Table SO2-1.T3)."
-msgstr "为了帮助解释数据，鼓励各国通过图表的方式来展示各自的指标（每个国家的图表都可以在[世界银行网站]（https://datatopics.worldbank.org/sdgs/index.html）上找到）。 虽然可能很难将具体的因果因素归结为指标的变化，但各国可以指出观察到的变化背后可能有哪些直接和/或间接的驱动因素，并在定性评估表（即表SO2-1.T3）中报告这一信息。"
+msgid "To assist in the data interpretation, countries are encouraged to visualize their respective metrics by means of a graph (graphs for each country are available on the [World Bank website](https://datatopics.worldbank.org/sdgs/index.html)).  While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table (i.e., Table SO2-1.T3)."
+msgstr ""
 
 #: ../../SO2.md:85
 msgid "Step 4:  Verify the results"
-msgstr "第4步：验证结果"
+msgstr ""
 
-#: ../../SO2.md:87 ../../SO2.md:197
-msgid ""
-"The reliability of the estimates from global data sources requires inputs"
-" from national experts to detect and highlight situations where the "
-"confidence level of the obtained results might be low. This input would "
-"contribute to a qualitative assessment of the reliability of the "
-"estimates."
-msgstr "来自全球数据源的估计数的可靠性需要国家专家的投入，才能发现和强调所获结果的置信度可能较低的情况。这种投入将有助于对估计数的可靠性进行定性评估。"
+#: ../../SO2.md:87
+#: ../../SO2.md:197
+msgid "The reliability of the estimates from global data sources requires inputs from national experts to detect and highlight situations where the confidence level of the obtained results might be low. This input would contribute to a qualitative assessment of the reliability of the estimates."
+msgstr ""
 
 #: ../../SO2.md:89
 msgid "Step 5: Generate reports"
-msgstr "第5步：生成报告"
+msgstr ""
 
 #: ../../SO2.md:91
-msgid ""
-"Once verified by the Parties, the estimates of the proportion of "
-"population below the international poverty line, or income inequality "
-"should be officially submitted to the United Nations Convention to Combat"
-" Desertification (UNCCD). Observed changes and their interpretation may "
-"be described in the “Qualitative Assessment” table of the PRAIS 4 "
-"platform."
-msgstr "经缔约方核实后，低于国际贫困线的人口比例或收入不平等的估计数应正式提交给《联合国防治荒漠化公约》（《荒漠化公约》）。观察到的变化及其解释可在PRAIS 4平台的“定性评估”表中描述。"
+msgid "Once verified by the Parties, the estimates of the proportion of population below the international poverty line, or income inequality should be officially submitted to the United Nations Convention to Combat Desertification (UNCCD). Observed changes and their interpretation may be described in the “Qualitative Assessment” table of the PRAIS 4 platform."
+msgstr ""
 
 #: ../../SO2.md:93
-msgid ""
-"Optionally, Parties may include additional information in the General "
-"Comment field to describe specific country situations. Sub-national "
-"disaggregated data (e.g., per administrative division, urban vs rural, "
-"affected areas or other socio-economic strata, e.g., sex-disaggregated "
-"data) may be useful to identify where the most significant poverty/income"
-" inequality hotspots/brightspots are located."
-msgstr "另外，缔约方也可以选择在“一般性注释”栏中包括额外的信息，以描述具体的国家情况。次国家分列数据（例如，每个行政区划、城市与农村、受影响地区或其他社会经济阶层，例如，按性别分列的数据）可能有助于确定最重要的贫困/收入不平等热点/亮点所在的地方。"
+msgid "Optionally, Parties may include additional information in the General Comment field to describe specific country situations. Sub-national disaggregated data (e.g., per administrative division, urban vs rural, affected areas or other socio-economic strata, e.g., sex-disaggregated data) may be useful to identify where the most significant poverty/income inequality hotspots/brightspots are located."
+msgstr ""
 
 #: ../../SO2.md:95
-msgid ""
-"Parties are also encouraged to submit narratives on the methodology, data"
-" sources and data accuracy in the event that the estimates are derived "
-"from national data. It would also be beneficial to report on special "
-"cases and issues, describing any deviation from the default method and "
-"providing the rationale to adopt a different methodology."
-msgstr "还鼓励缔约方在估计数来自国家数据的情况下，提交关于方法、数据来源和数据准确性的说明。报告特殊情况和问题也是有益的，能说明任何偏离默认方法的情况并提供采用不同方法的理由。"
+msgid "Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data. It would also be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale to adopt a different methodology."
+msgstr ""
 
 #: ../../SO2.md:97
 msgid "2.1.4. Dependencies"
-msgstr "2.1.4. 依赖性"
+msgstr ""
 
 #: ../../SO2.md:99
-msgid ""
-"Indicator SO 2-1 has no dependencies from other SO, however it could be "
-"used in the calculation of the Drought Vulnerability Index (DVI) for "
-"indicator SO 3-3."
-msgstr "指标SO 2-1与其他SO没有依赖关系，但可用于计算指标SO 3-3的干旱脆弱性指数（DVI）。"
+msgid "Indicator SO 2-1 has no dependencies from other SO, however it could be used in the calculation of the Drought Vulnerability Index (DVI) for indicator SO 3-3."
+msgstr ""
 
 #: ../../SO2.md:101
 msgid "2.1.5. Challenges"
-msgstr "2.1.5. 挑战"
+msgstr ""
 
-#: ../../SO2.md:103 ../../SO2.md:213 ../../SO2.md:362
+#: ../../SO2.md:103
+#: ../../SO2.md:213
+#: ../../SO2.md:362
 msgid "Data availability and quality"
-msgstr "数据可用性和质量"
+msgstr ""
 
-#: ../../SO2.md:105 ../../SO2.md:215
-msgid ""
-"International global data only generically describes the well-being of "
-"the population in a country and might not capture specific situations in "
-"need of consideration. More detailed sub-national data might be needed to"
-" represent the economic situation at the local level."
-msgstr "国际性的全球数据只能笼统地描述一个国家人口的福祉，可能无法反映需要考虑的具体状况。可能需要更详细的次国家数据来反映地方一级的经济状况。"
+#: ../../SO2.md:105
+#: ../../SO2.md:215
+msgid "International global data only generically describes the well-being of the population in a country and might not capture specific situations in need of consideration. More detailed sub-national data might be needed to represent the economic situation at the local level."
+msgstr ""
 
 #: ../../SO2.md:107
 msgid "2.1.6. Summary (main actions)"
-msgstr "2.1.6. 总结（主要行动）"
+msgstr ""
 
 #: ../../SO2.md:109
 msgid "Key actions for reporting on indicator SO 2-1 are as follows:"
-msgstr "报告指标SO 2-1时需采取的关键行动如下："
+msgstr ""
 
 #: ../../SO2.md:111
-msgid ""
-"**Choose the most suitable metric**: Parties are encouraged to choose the"
-" most suitable metric to represent the well-being of the population in "
-"their countries."
-msgstr "**选择最合适的指标**：鼓励缔约方选择最合适的指标来代表本国人口的福祉。"
+msgid "**Choose the most suitable metric**: Parties are encouraged to choose the most suitable metric to represent the well-being of the population in their countries."
+msgstr ""
 
 #: ../../SO2.md:113
-msgid ""
-"**Identify the relevant dataset**: Parties may decide to use the default "
-"data or alternative national sources."
-msgstr "**确定相关数据集**：缔约方可决定使用默认数据或替代国家来源。"
+msgid "**Identify the relevant dataset**: Parties may decide to use the default data or alternative national sources."
+msgstr ""
 
 #: ../../SO2.md:115
-msgid ""
-"**Report national annual values of the chosen metric and interpret the "
-"data**: Parties are invited to report, visualize and interpret the "
-"national annual data."
-msgstr "**报告所选指标的国家年度值并解释数据**：请缔约方报告、展示和解释国家年度数据。"
+msgid "**Report national annual values of the chosen metric and interpret the data**: Parties are invited to report, visualize and interpret the national annual data."
+msgstr ""
 
-#: ../../SO2.md:117 ../../SO2.md:225
-msgid ""
-"**Verify the results**: the reliability of the estimates from global data"
-" sources requires inputs from national experts to qualitatively assess "
-"the reliability of the estimates based on expert knowledge."
-msgstr "**验证结果**：来自全球数据源的估计数的可靠性需要国家专家的投入，以便根据专家知识对估计数的可靠性进行定性评估。"
+#: ../../SO2.md:117
+#: ../../SO2.md:225
+msgid "**Verify the results**: the reliability of the estimates from global data sources requires inputs from national experts to qualitatively assess the reliability of the estimates based on expert knowledge."
+msgstr ""
 
-#: ../../SO2.md:119 ../../SO2.md:227 ../../SO2.md:387
-msgid ""
-"**Generate reports**: once verified by the Parties, the data and "
-"supporting narrative should be officially submitted to the UNCCD."
-msgstr "**生成报告**：经缔约方核实后，应将数据和辅助说明正式提交给《荒漠化公约》。"
+#: ../../SO2.md:119
+#: ../../SO2.md:227
+#: ../../SO2.md:387
+msgid "**Generate reports**: once verified by the Parties, the data and supporting narrative should be officially submitted to the UNCCD."
+msgstr ""
 
 #: ../../SO2.md:121
 msgid "2.1.7. Further reading"
-msgstr "2.1.7. 深入阅读"
+msgstr ""
 
 #: ../../SO2.md:123
-msgid ""
-"SDG indicator 1.1.1 metadata "
-"(<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)"
-msgstr "可持续发展目标指标1.1.1元数据(<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)"
+msgid "SDG indicator 1.1.1 metadata (<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)"
+msgstr ""
 
 #: ../../SO2.md:124
-msgid ""
-"Gini index metadata (<https://databank.worldbank.org/metadataglossary"
-"/world-development-indicators/series/SI.POV.GINI>)"
-msgstr "基尼系数元数据(<https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SI.POV.GINI>)"
+msgid "Gini index metadata (<https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SI.POV.GINI>)"
+msgstr ""
 
 #: ../../SO2.md:126
 msgid "2.2. SO 2-2 – Trends in access to safe drinking water in affected areas"
-msgstr "2.2. SO 2-2 – 受影响地区获得安全饮用水的趋势"
+msgstr ""
 
 #: ../../SO2.md:128
 msgid "2.2.1. Introduction"
-msgstr "2.2.1. 简介"
+msgstr ""
 
 #: ../../SO2.md:130
-msgid ""
-"Having access to water is a key determinant of child survival, maternal "
-"and child health, family well-being and economic productivity. "
-"Accordingly, an increasing trend in access to safe drinking water would "
-"help improve the living conditions of affected populations."
-msgstr "能否获得水是决定儿童生存、妇幼健康、家庭幸福和经济生产力的关键因素。因此，如果趋势表明获得安全饮用水的机会越来越多，将有助于改善受影响人口的生活条件。"
+msgid "Having access to water is a key determinant of child survival, maternal and child health, family well-being and economic productivity. Accordingly, an increasing trend in access to safe drinking water would help improve the living conditions of affected populations."
+msgstr ""
 
 #: ../../SO2.md:132
-msgid ""
-"In order to quantify safely managed drinking water, the proportion of "
-"population using improved drinking water services is determined. This is "
-"currently being measured by the proportion of population using an "
-"improved basic drinking water source. ‘Improved’ drinking water sources "
-"are defined as piped (into dwellings, yards or plots; public taps or "
-"standpipes) and non-piped (boreholes or tube wells; protected dug wells; "
-"protected springs; rainwater; packaged or delivered water) sources which "
-"are located on the premises, available when needed, and free from fecal "
-"and priority chemical contamination."
-msgstr "为了量化得到安全管理的饮用水，要确定使用经改善的饮水服务的人口比例。目前，这是以使用经改善的基本饮用水源的人口比例来衡量的。“经改善的”饮用水源是指位于房地并在需要时可用，且没有受到粪便和优先化学污染的管道水源（进入住宅、院落或地块的自来水；公共水龙头或竖管）和非管道水源（井眼或管井；受保护的挖井；受保护的泉水；雨水；包装水或送水）。"
+msgid "In order to quantify safely managed drinking water, the proportion of population using improved drinking water services is determined. This is currently being measured by the proportion of population using an improved basic drinking water source. ‘Improved’ drinking water sources are defined as piped (into dwellings, yards or plots; public taps or standpipes) and non-piped (boreholes or tube wells; protected dug wells; protected springs; rainwater; packaged or delivered water) sources which are located on the premises, available when needed, and free from fecal and priority chemical contamination."
+msgstr ""
 
 #: ../../SO2.md:134
-msgid ""
-"National reporting is facilitated through the provision of default data "
-"derived from the SDG database. The proportion of population using safely "
-"managed drinking water services is SDG indicator 6.1.1. The indicator is "
-"disaggregated by urban and rural populations, and expressed as a "
-"percentage. Custodian agencies for this indicator are the World Health "
-"Organization (WHO) and the United Nations Children's Fund (UNICEF) which,"
-" through the Joint Monitoring Programme (JMP) for Water, Sanitation and "
-"Hygiene (WASH), have produced regular estimates of national, regional and"
-" global progress on drinking water, sanitation and hygiene since 1990."
-msgstr "通过提供来自可持续发展目标数据库的默认数据，为国家报告提供了便利。可持续发展目标指标6.1.1的内容为“使用得到安全管理的饮用水服务的人口比例”。该指标按城市和农村人口分列，并以百分比表示。该指标的托管机构是世界卫生组织（世卫组织）和联合国儿童基金会（儿基会），它们通过水供应、环境卫生和个人卫生联合监测方案（JMP），自1990年以来定期估算国家、区域和全球在饮用水、环境卫生和个人卫生方面的进展。"
+msgid "National reporting is facilitated through the provision of default data derived from the SDG database. The proportion of population using safely managed drinking water services is SDG indicator 6.1.1. The indicator is disaggregated by urban and rural populations, and expressed as a percentage. Custodian agencies for this indicator are the World Health Organization (WHO) and the United Nations Children's Fund (UNICEF) which, through the Joint Monitoring Programme (JMP) for Water, Sanitation and Hygiene (WASH), have produced regular estimates of national, regional and global progress on drinking water, sanitation and hygiene since 1990."
+msgstr ""
 
 #: ../../SO2.md:136
 msgid "2.2.2. Prerequisites for reporting"
-msgstr "2.2.2.报告的先决条件"
+msgstr ""
 
 #: ../../SO2.md:138
-msgid ""
-"An in-depth reading of the SDG indicator 6.1.1 metadata (see section "
-"2.2.7)."
-msgstr "深入阅读持续发展指标6.1.1元数据和（见第2.2.7节）。"
+msgid "An in-depth reading of the SDG indicator 6.1.1 metadata (see section 2.2.7)."
+msgstr ""
 
 #: ../../SO2.md:140
 msgid "Data complying with the specifications listed in table 16."
-msgstr "符合表16所列规格的数据。"
+msgstr ""
 
 #: ../../SO2.md:142
-msgid ""
-"A pool of national experts officially nominated by the national "
-"authorities to verify the suitability and consistency of the default data"
-" against the situation in their country, or to identify and compile data "
-"using national sources for the three metrics. Key institutions might "
-"include a country’s national statistical office, ministry of health and "
-"ministry of water resources, as well as universities and research "
-"centres."
-msgstr "由国家主管部门正式提名的国家专家库，根据本国情况核实默认数据的适用性和一致性，或使用三项指标的国家来源确定和汇编数据。关键机构可能包括一国的国家统计局、卫生部和水资源部，以及大学和研究中心。"
+msgid "A pool of national experts officially nominated by the national authorities to verify the suitability and consistency of the default data against the situation in their country, or to identify and compile data using national sources for the three metrics. Key institutions might include a country’s national statistical office, ministry of health and ministry of water resources, as well as universities and research centres."
+msgstr ""
 
 #: ../../SO2.md:144
 msgid "2.2.3. Reporting process and step-by-step procedure"
-msgstr "2.2.3.报告流程和分步程序"
+msgstr ""
 
 #: ../../SO2.md:148
 msgid "Step 1: Identify the relevant dataset"
-msgstr "第1步：确定相关数据集"
+msgstr ""
 
 #: ../../SO2.md:150
-msgid ""
-"Default data for this indicator is pre-filled from the SDG database (SDG "
-"indicator 6.1.1); estimates of the proportion of population using "
-"improved drinking water services are regularly produced by the WHO/UNICEF"
-" JMP."
-msgstr "该指标的默认数据是根据可持续发展目标数据库（可持续发展目标指标6.1.1）预先填充的；使用经改善的饮用水服务的人口比例估计数是由世卫组织/儿基会联合监测方案（JMP）定期编制的。"
+msgid "Default data for this indicator is pre-filled from the SDG database (SDG indicator 6.1.1); estimates of the proportion of population using improved drinking water services are regularly produced by the WHO/UNICEF JMP."
+msgstr ""
 
 #: ../../SO2.md:152
-msgid ""
-"Parties may also use national data, provided it complies with the data "
-"specifications listed in table 16."
-msgstr "缔约方也可以使用国家数据，只要国家数据符合表16所列的数据规格。"
+msgid "Parties may also use national data, provided it complies with the data specifications listed in table 16."
+msgstr ""
 
 #: ../../SO2.md:157
 msgid "*__Table 16__. Data specifications for SO 2-2 Indicator*"
-msgstr "*__表16__. SO 2-2指标的数据规格*"
+msgstr ""
 
-#: ../../SO2.md:3
+#: ../../SO2.md:165
 msgid "__Default data__"
-msgstr "__默认数据__"
+msgstr ""
 
-#: ../../SO2.md:5
-msgid ""
-"(Sustainable Development Goal indicator 6.1.1 / World Health Organization"
-" / United Nations Children’s Fund Joint Monitoring Programme)"
-msgstr "（可持续发展目标指标6.1.1/世界卫生组织/联合国儿童基金会联合监测方案）"
+#: ../../SO2.md:167
+msgid "(Sustainable Development Goal indicator 6.1.1 / World Health Organization / United Nations Children’s Fund Joint Monitoring Programme)"
+msgstr ""
 
-#: ../../SO2.md:7
+#: ../../SO2.md:169
 msgid "__Type of data__"
-msgstr "__数据类型__"
+msgstr ""
 
-#: ../../SO2.md:8
-#, python-format
-msgid ""
-"Annual data on the total, urban and rural population using safely managed"
-" drinking water services (% of population) for the period 2000–2020."
-msgstr "2000-2020年期间，使用得到安全管理的饮用水服务的总人口、城市和农村人口（% of人口）的年度数据。"
+#: ../../SO2.md:170
+msgid "Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period 2000–2020."
+msgstr ""
 
-#: ../../SO2.md:9
-#, python-format
-msgid ""
-"Annual data on the total, urban and rural population using safely managed"
-" drinking water services (% of population) for the period from 2000 to "
-"the latest available year for the reporting period."
-msgstr "从2000年到报告期最近一年，使用得到安全管理的饮用水服务的总人口、城市和农村人口（% of人口）的年度数据。"
+#: ../../SO2.md:171
+msgid "Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period from 2000 to the latest available year for the reporting period."
+msgstr ""
 
 #: ../../SO2.md:183
 msgid "Step 2: Report national annual values and interpret the data"
-msgstr "第2步：报告国家年度值并解释数据"
+msgstr ""
 
-#: ../../SO2.md:1
+#: ../../SO2.md:186
 msgid "Related areas in the PRAIS 4 platform: tables SO2-2.T1 and SO2-2.T2"
-msgstr "PRAIS 4平台中的相关区域：表SO2-2.T1和SO2-2.T2"
+msgstr ""
 
 #: ../../SO2.md:189
-msgid ""
-"Parties opting to use an alternative source of national data may enter "
-"the relevant data in table SO2-2.T1. Parties may also provide information"
-" on the dominant change in the metric using the “Qualitative Assessment” "
-"table SO2-2.T2."
-msgstr "选择使用替代国家数据来源的缔约方可在表SO2-2.T1中输入相关数据。缔约方还可利用“定性评估”表SO2-2.T2提供关于该指标的主要变化的信息。"
+msgid "Parties opting to use an alternative source of national data may enter the relevant data in table SO2-2.T1. Parties may also provide information on the dominant change in the metric using the “Qualitative Assessment” table SO2-2.T2."
+msgstr ""
 
 #: ../../SO2.md:191
-#, python-format
-msgid ""
-"To assist in the data interpretation, countries are encouraged to "
-"visualize their respective SDG Indicator 6.1.1 by means of a graph "
-"(graphs for each country, representing each disaggregation, i.e., % rural"
-" population, % urban population, % total population, are available to "
-"view and download from the JMP and World Bank websites)[^2].  While it "
-"may be difficult to attribute specific causal factors to changes in the "
-"metrics, countries may indicate which direct and/or indirect drivers are "
-"presumably behind the observed changes and report this information in the"
-" Qualitative Assessment table."
-msgstr "为了帮助解释数据，鼓励各国以图表方式直观地展示各自的可持续发展目标指标6.1.1（每个国家的图表，代表每个分列，即% r农村人口、% u城市人口、% 总人口，可从JMP和世界银行网站查看和下载）[^2]。虽然可能很难将具体的因果因素归结到指标的变化上，但各国可以指出观察到的变化背后可能有哪些直接和/或间接的驱动因素，并在定性评估表中报告这一信息。"
+msgid "To assist in the data interpretation, countries are encouraged to visualize their respective SDG Indicator 6.1.1 by means of a graph (graphs for each country, representing each disaggregation, i.e., % rural population, % urban population, % total population, are available to view and download from the JMP and World Bank websites)[^2].  While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table."
+msgstr ""
 
 #: ../../SO2.md:195
 msgid "Step 3:  Verify the results"
-msgstr "第3步：验证结果"
+msgstr ""
 
 #: ../../SO2.md:199
 msgid "Step 4: Generate reports"
-msgstr "第4步：生成报告"
+msgstr ""
 
 #: ../../SO2.md:201
-msgid ""
-"Once verified by the Parties, the estimates of the proportion of "
-"population using safely managed drinking water services should be "
-"officially submitted to the UNCCD."
-msgstr "经缔约方核实后，使用得到安全管理的饮用水服务的人口比例估计数应正式提交给《荒漠化公约》。"
+msgid "Once verified by the Parties, the estimates of the proportion of population using safely managed drinking water services should be officially submitted to the UNCCD."
+msgstr ""
 
 #: ../../SO2.md:203
-msgid ""
-"Disaggregated data for this metric (e.g., per administrative division, "
-"urban vs rural, affected areas or other socio-economic strata, e.g., sex-"
-"disaggregated data) may be useful to identify where the most significant "
-"hotspots/brightspots are located. Optionally, Parties may include "
-"additional information to describe specific country situations and "
-"provide more details on data interpretation."
-msgstr "该指标的分列数据（例如，每个行政区划、城市与农村、受影响地区或其他社会经济阶层，例如，按性别分列的数据）可能有助于确定最重要的热点/亮点所在的地方。另外，缔约方还可以包括补充信息，以描述具体国家的情况，并提供关于数据解释的更多细节。"
+msgid "Disaggregated data for this metric (e.g., per administrative division, urban vs rural, affected areas or other socio-economic strata, e.g., sex-disaggregated data) may be useful to identify where the most significant hotspots/brightspots are located. Optionally, Parties may include additional information to describe specific country situations and provide more details on data interpretation."
+msgstr ""
 
 #: ../../SO2.md:205
-msgid ""
-"Parties are also encouraged to submit narratives on the methodology, data"
-" sources and data accuracy in the event that the estimates are derived "
-"from national data. It would also be beneficial to report on special "
-"cases and issues, describing any deviation from the default method and "
-"providing the rationale to adopt a different methodology. A General "
-"Comment field is provided in the PRAIS 4 platform for this purpose."
-msgstr "还鼓励缔约方在估计数来自国家数据的情况下，提交关于方法、数据来源和数据准确性的说明。报告特殊情况和问题也是有益的，能说明任何偏离默认方法的情况并提供采用不同方法的理由。为此，PRAIS 4平台提供了一个“一般性注释”栏。"
+msgid "Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data. It would also be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale to adopt a different methodology. A General Comment field is provided in the PRAIS 4 platform for this purpose."
+msgstr ""
 
 #: ../../SO2.md:207
 msgid "2.2.4. Dependencies"
-msgstr "2.2.4. 依赖性"
+msgstr ""
 
 #: ../../SO2.md:209
-msgid ""
-"Indicator SO 2-2 has no dependencies from other SOs. However, it could be"
-" used in the calculation of the Drought Vulnerability Index (DVI) for "
-"indicator SO 3-3."
-msgstr "指标SO 2-2与其他SO没有依赖关系，但可用于计算指标SO 3-3的干旱脆弱性指数（DVI）。"
+msgid "Indicator SO 2-2 has no dependencies from other SOs. However, it could be used in the calculation of the Drought Vulnerability Index (DVI) for indicator SO 3-3."
+msgstr ""
 
 #: ../../SO2.md:211
 msgid "2.2.5. Challenges"
-msgstr "2.2.5. 挑战"
+msgstr ""
 
 #: ../../SO2.md:217
 msgid "2.2.6. Summary (main actions)"
-msgstr "2.2.6. 总结（主要行动）"
+msgstr ""
 
 #: ../../SO2.md:219
 msgid "Key actions for reporting on indicator SO 2-2 are as follows:"
-msgstr "报告指标SO 2-2时需采取的关键行动如下："
+msgstr ""
 
 #: ../../SO2.md:221
-msgid ""
-"**Identify the relevant dataset**: Parties may decide to use the "
-"recommended default international data or alternative national sources."
-msgstr "**确定相关数据集**：缔约方可决定使用建议的默认国际数据或替代国家来源。"
+msgid "**Identify the relevant dataset**: Parties may decide to use the recommended default international data or alternative national sources."
+msgstr ""
 
 #: ../../SO2.md:223
-msgid ""
-"**Report national annual values and interpret the data**: Parties are "
-"invited to report, visualize and interpret the national annual data."
-msgstr "**报告国家年度值并解释数据**：请缔约方报告、展示和解释国家年度数据。"
+msgid "**Report national annual values and interpret the data**: Parties are invited to report, visualize and interpret the national annual data."
+msgstr ""
 
 #: ../../SO2.md:229
 msgid "2.2.7. Further reading"
-msgstr "2.2.7. 深入阅读"
+msgstr ""
 
 #: ../../SO2.md:231
-msgid ""
-"SDG indicator 6.1.1 metadata "
-"(<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>)"
-msgstr "可持续发展目标指标6.1.1元数据(<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>)"
+msgid "SDG indicator 6.1.1 metadata (<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>)"
+msgstr ""
 
 #: ../../SO2.md:233
-msgid ""
-"2.3. SO 2-3 – Trends in Population Exposure to Land Degradation "
-"Disaggregated by Sex"
-msgstr "2.3. SO 2-3 – 受土地退化影响的人口比例趋势，按性别分列"
+msgid "2.3. SO 2-3 – Trends in Population Exposure to Land Degradation Disaggregated by Sex"
+msgstr ""
 
 #: ../../SO2.md:235
 msgid "2.3.1. Introduction"
-msgstr "2.3.1. 简介"
+msgstr ""
 
 #: ../../SO2.md:237
-msgid ""
-"Indicator SO 3-2 was developed in response to decision 11/COP.14 to align"
-" the reporting process for SO 1 to 5 with gender-responsive indicators "
-"and guidelines and ensure that the gender dimensions of land degradation "
-"are captured."
-msgstr "指标SO 3-2是根据第11/COP.14号决定编制的，目的是使SO 1至5的报告过程与促进性别平等的指标和准则保持一致，并确保土地退化的性别层面得到体现。"
+msgid "Indicator SO 3-2 was developed in response to decision 11/COP.14 to align the reporting process for SO 1 to 5 with gender-responsive indicators and guidelines and ensure that the gender dimensions of land degradation are captured."
+msgstr ""
 
 #: ../../SO2.md:239
-msgid ""
-"The indicator estimates the proportion of populations exposed to land "
-"degradation, disaggregated by sex, as a first step towards addressing the"
-" gender data gap on land degradation within the UNCCD reporting "
-"framework. The methodology uses the spatial distribution of the "
-"population or sub-population group (i.e., by sex) to establish its "
-"exposure to land degradation, as determined by indicator SO 1-4 (i.e., "
-"SDG Indicator 15.3.1)."
-msgstr "该指标按性别分列，估计受土地退化影响的人口比例，作为在《荒漠化公约》报告框架内解决土地退化方面性别数据差距的第一步。该方法利用人口或亚人口群体的空间分布(（即按性别）来确定其受土地退化影响的程度，如指标SO 1-4（即可持续发展目标指标15.3.1）所确定的那样。"
+msgid "The indicator estimates the proportion of populations exposed to land degradation, disaggregated by sex, as a first step towards addressing the gender data gap on land degradation within the UNCCD reporting framework. The methodology uses the spatial distribution of the population or sub-population group (i.e., by sex) to establish its exposure to land degradation, as determined by indicator SO 1-4 (i.e., SDG Indicator 15.3.1)."
+msgstr ""
 
 #: ../../SO2.md:241
-msgid ""
-"The indicator trends in the proportion of population exposed to land "
-"degradation, disaggregated by sex, uses the following metrics:"
-msgstr "按性别分列的受土地退化影响的人口比例趋势指标使用了以下衡量标准："
+msgid "The indicator trends in the proportion of population exposed to land degradation, disaggregated by sex, uses the following metrics:"
+msgstr ""
 
 #: ../../SO2.md:243
 msgid "Percentage of the female population exposed to land degradation"
-msgstr "受土地退化影响的女性人口百分比"
+msgstr ""
 
 #: ../../SO2.md:245
 msgid "Percentage of the male population exposed to land degradation"
-msgstr "受土地退化影响的男性人口百分比"
+msgstr ""
 
 #: ../../SO2.md:247
-msgid ""
-"Percentage of the total (female and male) population exposed to land "
-"degradation"
-msgstr "受土地退化影响的总人口（女性和男性）的百分比"
+msgid "Percentage of the total (female and male) population exposed to land degradation"
+msgstr ""
 
 #: ../../SO2.md:249
-msgid ""
-"National reporting is facilitated though the provision of default data "
-"derived from the Worldpop global dataset on population distributions, "
-"demographics and dynamics and the default indicator SO 1-4 estimates."
-msgstr "通过提供源自全球人口与健康（WorldPop）全球数据集关于人口分布、人口统计和动态的默认数据以及默认指标SO 1-4估计数，为国家报告提供了便利。"
+msgid "National reporting is facilitated though the provision of default data derived from the Worldpop global dataset on population distributions, demographics and dynamics and the default indicator SO 1-4 estimates."
+msgstr ""
 
 #: ../../SO2.md:251
 msgid "2.3.2. Prerequisites for reporting"
-msgstr "2.3.2.报告的先决条件"
+msgstr ""
 
 #: ../../SO2.md:253
-msgid ""
-"An in-depth reading of the methodological note for indicator SO 3-2 (see "
-"section 2.3.7)."
-msgstr "深入阅读指标SO 3-2的方法说明（见第2.3.7节）。"
+msgid "An in-depth reading of the methodological note for indicator SO 3-2 (see section 2.3.7)."
+msgstr ""
 
 #: ../../SO2.md:255
 msgid "Population data complying with the specifications listed in table 17."
-msgstr "符合表17所列规格的人口数据。"
+msgstr ""
 
 #: ../../SO2.md:257
-msgid ""
-"A pool of national experts officially nominated by the national "
-"authorities to verify the suitability and consistency of the default data"
-" against the situation in their country, or to identify and compile data "
-"using national sources for the three metrics. Key institutions might "
-"include a country’s national statistical office, ministry of environment "
-"and ministry of agriculture, as well as universities and research "
-"centres."
-msgstr "由国家主管部门正式提名的国家专家库，根据本国情况核实默认数据的适用性和一致性，或使用三项指标的国家来源确定和汇编数据。关键机构可能包括一国的国家统计局、环境部和农业部，以及大学和研究中心。"
+msgid "A pool of national experts officially nominated by the national authorities to verify the suitability and consistency of the default data against the situation in their country, or to identify and compile data using national sources for the three metrics. Key institutions might include a country’s national statistical office, ministry of environment and ministry of agriculture, as well as universities and research centres."
+msgstr ""
 
 #: ../../SO2.md:259
 msgid "2.3.3. Reporting process and step-by-step procedure"
-msgstr "2.3.3.报告流程和分步程序"
+msgstr ""
 
 #: ../../SO2.md:261
-msgid ""
-"The step-by-step procedure for reporting is described in the following. "
-"If Parties decide to use the default data, steps 2 and 3 are unnecessary."
-msgstr "报告的分步程序在下文中描述。如果缔约方决定使用默认数据，第2和3步就没有必要。"
+msgid "The step-by-step procedure for reporting is described in the following. If Parties decide to use the default data, steps 2 and 3 are unnecessary."
+msgstr ""
 
 #: ../../SO2.md:263
 msgid "Step 1: Select the population dataset"
-msgstr "第1步：选择人口数据集"
+msgstr ""
 
 #: ../../SO2.md:265
-msgid ""
-"Suitable data for the calculation of indicator SO 2-3 is a sex-"
-"disaggregated gridded count of the human population, or a georeferenced "
-"set of sub-national data that covers the full extent of the country. It "
-"must represent the number of male and female individuals per grid cell, "
-"ideally annually, in the time period in question (i.e., the date "
-"timestamp should be at least one of the years within the baseline and "
-"reporting period)."
-msgstr "用于计算指标SO 2-3的合适数据是按性别分列的人口网格化计数，或覆盖全国范围的一套地理参照的次国家数据。它必须代表每个网格单元的男性和女性人数，最好是在有关时间段内每年计算一次（即，日期时间戳应至少是基线期和报告期内的其中一年）。"
+msgid "Suitable data for the calculation of indicator SO 2-3 is a sex-disaggregated gridded count of the human population, or a georeferenced set of sub-national data that covers the full extent of the country. It must represent the number of male and female individuals per grid cell, ideally annually, in the time period in question (i.e., the date timestamp should be at least one of the years within the baseline and reporting period)."
+msgstr ""
 
 #: ../../SO2.md:267
-msgid ""
-"Among the publicly available population datasets at the global scale, the"
-" WorldPop dataset is used by default by the UNCCD for calculating "
-"indicator SO2-3 and provided to Parties in Trends.Earth."
-msgstr "在全球范围内可公开获得的人口数据集中，《荒漠化公约》默认使用全球人口与健康（WorldPop）数据集来计算指标SO2-3，并在Trends.Earth中提供给缔约方。"
+msgid "Among the publicly available population datasets at the global scale, the WorldPop dataset is used by default by the UNCCD for calculating indicator SO2-3 and provided to Parties in Trends.Earth."
+msgstr ""
 
 #: ../../SO2.md:269
-msgid ""
-"An alternative dataset is the Gridded Population of the World, version 4 "
-"(GPWv4)."
-msgstr "另一个数据集是世界网格人口第4版（GPWv4）。"
+msgid "An alternative dataset is the Gridded Population of the World, version 4 (GPWv4)."
+msgstr ""
 
 #: ../../SO2.md:271
-msgid ""
-"Parties may also use national data, provided it complies with the data "
-"specifications listed in table 17."
-msgstr "缔约方也可以使用国家数据，只要国家数据符合表17所列的数据规格。"
+msgid "Parties may also use national data, provided it complies with the data specifications listed in table 17."
+msgstr ""
 
 #: ../../SO2.md:276
 msgid "*__Table 17__. Data specifications for SO 2-3 Indicator*"
-msgstr "*__表17__. SO 2-3指标的数据规格*"
+msgstr ""
 
-#: ../../SO2.md:3
+#: ../../SO2.md:283
 msgid "Default data"
-msgstr "默认数据"
+msgstr ""
 
-#: ../../SO2.md:4
+#: ../../SO2.md:284
 msgid "National data"
-msgstr "国家数据"
+msgstr ""
 
-#: ../../SO2.md:5
+#: ../../SO2.md:285
 msgid "__Input data__"
-msgstr "__输入数据__"
+msgstr ""
 
-#: ../../SO2.md:7
+#: ../../SO2.md:287
 msgid "(Data needed to estimate the population exposed to land degradation)"
-msgstr "（估计受土地退化影响的人口所需的数据）"
+msgstr ""
 
-#: ../../SO2.md:8
-msgid ""
-"WorldPop data disaggregated by sex for the baseline year (2015) and the "
-"latest available year of the reporting period (2019)."
-msgstr "按性别分列的基线年（2015年）和报告期最近一年（2019年）的全球人口与健康（WorldPop）数据。"
+#: ../../SO2.md:288
+msgid "WorldPop data disaggregated by sex for the baseline year (2015) and the latest available year of the reporting period (2019)."
+msgstr ""
 
-#: ../../SO2.md:10 ../../SO2.md:13
-msgid ""
-"Gridded data on land degradation as determined by indicator SO 1-4 for "
-"the baseline and reporting periods."
-msgstr "基线期和报告期由指标SO 1-4确定的土地退化的网格化数据。"
+#: ../../SO2.md:290
+#: ../../SO2.md:293
+msgid "Gridded data on land degradation as determined by indicator SO 1-4 for the baseline and reporting periods."
+msgstr ""
 
-#: ../../SO2.md:11
-msgid ""
-"Gridded population products derived from national official statistics, "
-"disaggregated by sex for the baseline year (ideally the year 2015) and "
-"the latest available year of the reporting period (e.g., 2019)."
-msgstr "按性别分列的基线年（最好是2015年）和报告期最近一年（如2019年）的、源自国家官方统计数据的网格化人口产品。"
+#: ../../SO2.md:291
+msgid "Gridded population products derived from national official statistics, disaggregated by sex for the baseline year (ideally the year 2015) and the latest available year of the reporting period (e.g., 2019)."
+msgstr ""
 
-#: ../../SO2.md:14
+#: ../../SO2.md:294
 msgid "__Output data__"
-msgstr "__输出数据__"
+msgstr ""
 
-#: ../../SO2.md:16
+#: ../../SO2.md:296
 msgid "(Gridded products resulting from the analysis of the three metrics)"
-msgstr "（通过分析三个指标得到的网格化产品）"
+msgstr ""
 
-#: ../../SO2.md:17 ../../SO2.md:18
-msgid ""
-"Gridded products of the female, male and total population exposed to land"
-" degradation in the baseline and reporting periods."
-msgstr "基线期和报告期内受土地退化影响的女性人口、男性人口和总人口的网格化产品。"
+#: ../../SO2.md:297
+#: ../../SO2.md:298
+msgid "Gridded products of the female, male and total population exposed to land degradation in the baseline and reporting periods."
+msgstr ""
 
-#: ../../SO2.md:20
+#: ../../SO2.md:300
 msgid "WorldPop data: 3-arc seconds (~100 m)"
-msgstr "WorldPop数据：3弧秒（~100米）"
+msgstr ""
 
-#: ../../SO2.md:21
+#: ../../SO2.md:301
 msgid "Assessed by national authorities based on available data."
-msgstr "由国家主管部门根据现有数据进行评估。"
+msgstr ""
 
 #: ../../SO2.md:310
 msgid "Step 2:  Standardize the selected datasets"
-msgstr "第2步：将选定的数据集标准化"
+msgstr ""
 
 #: ../../SO2.md:312
-msgid ""
-"The population and the land degradation datasets must be harmonized to "
-"the same grid cell size. For example, the WorldPop dataset and the SO 1-4"
-" land degradation default dataset have resolutions of 100 and 300 metres,"
-" respectively and should be resampled to a common grid cell size. For the"
-" default data, the grid cell size for the analysis is fixed at the 300 "
-"metre resolution of the land degradation dataset to which the population "
-"data is resampled. Countries using national datasets should assess them "
-"in terms of projection and resolution and standardize them through a "
-"resampling process in order to be able to combine them in the analysis of"
-" population exposure to land degradation."
-msgstr "人口和土地退化数据集必须统一为相同的网格单元大小。例如，WorldPop数据集和SO 1-4土地退化默认数据集的分辨率分别为100米和300米时，应重新取样到一个通用的网格单元大小。对于默认数据，用于分析的网格单元大小固定为需为之重新采样人口数据的土地退化数据集的300米分辨率。使用国家数据集的国家应在预测和分辨率方面对数据集进行评估，并通过重新取样过程使其标准化，以便能够在分析受土地退化影响的人口时将其结合起来。"
+msgid "The population and the land degradation datasets must be harmonized to the same grid cell size. For example, the WorldPop dataset and the SO 1-4 land degradation default dataset have resolutions of 100 and 300 metres, respectively and should be resampled to a common grid cell size. For the default data, the grid cell size for the analysis is fixed at the 300 metre resolution of the land degradation dataset to which the population data is resampled. Countries using national datasets should assess them in terms of projection and resolution and standardize them through a resampling process in order to be able to combine them in the analysis of population exposure to land degradation."
+msgstr ""
 
 #: ../../SO2.md:314
-msgid ""
-"The resampling should take into consideration that, for datasets "
-"representing population counts, changes in cell size implies changes in "
-"the number of people in each cell; a resampling method that ensures the "
-"integrity of the continuous data should be used, such as bilinear "
-"interpolation (avoid nearest neighbour techniques)."
-msgstr "在重新取样时应考虑到，在代表人口数量的数据集中，单元格大小的变化代表每个单元格中的人数变化；应使用确保连续数据完整性的重新取样方法，如双线性内插法（避免使用最近邻技术）。"
+msgid "The resampling should take into consideration that, for datasets representing population counts, changes in cell size implies changes in the number of people in each cell; a resampling method that ensures the integrity of the continuous data should be used, such as bilinear interpolation (avoid nearest neighbour techniques)."
+msgstr ""
 
 #: ../../SO2.md:316
-msgid ""
-"Step 3: Estimate the female, male and total population count and "
-"percentage exposed to land degradation"
-msgstr "第3步：估计受土地退化影响的女性人口、男性人口和总人口数量以及百分比"
+msgid "Step 3: Estimate the female, male and total population count and percentage exposed to land degradation"
+msgstr ""
 
-#: ../../SO2.md:1
+#: ../../SO2.md:319
 msgid "Related areas in the PRAIS 4 platform: tables SO2-3.T1 and SO2-3.T2"
-msgstr "PRAIS 4平台中的相关区域：表SO2-3.T1和SO2-3.T2"
+msgstr ""
 
 #: ../../SO2.md:322
-msgid ""
-"The female and male population grids for the baseline and reporting "
-"periods are intersected with the respective land degradation grids. The "
-"values of the cells falling on degraded land are then combined to derive "
-"the female and male population exposed to land degradation. The total "
-"population exposed to land degradation is obtained by combining the "
-"obtained female and male population values."
-msgstr "基线期和报告期的女性和男性人口网格与各自的土地退化网格相交。然后，将属于退化土地的单元格的数值合并，算出受土地退化影响的女性和男性人口数量。通过合并所获得的女性和男性人口数值，得到受土地退化影响的总人口数量。"
+msgid "The female and male population grids for the baseline and reporting periods are intersected with the respective land degradation grids. The values of the cells falling on degraded land are then combined to derive the female and male population exposed to land degradation. The total population exposed to land degradation is obtained by combining the obtained female and male population values."
+msgstr ""
 
 #: ../../SO2.md:324
-msgid ""
-"This analysis should be carried out over two time periods (i.e., the "
-"baseline and reporting period) in order to measure changes over time and "
-"report the observed change in table SO2-3.T2. However, it should be noted"
-" that the land degradation spatial dataset (i.e., the SO1-4 output) "
-"captures temporal trends in the three subindicators (land cover, land "
-"productivity and soil organic carbon (SOC)) over a certain number of "
-"years, whereas population data reflects the populations in specific years"
-" (e.g., 2015 and 2019). To increase accuracy in capturing the number of "
-"people exposed to land degradation in the two reference years (i.e., 2015"
-" for the baseline and 2019 for reporting period), it is recommended that "
-"the population gird closest to the above-mentioned years be used."
-msgstr "这一分析应在两个时间段（即基线期和报告期）内进行，以便测量随时间推移而发生的变化，并在表SO2-3.T2中报告观察到的变化。然而，应该注意的是，土地退化空间数据集（即SO1-4产出）反映的是三个子指标（土地覆盖、土地生产力和土壤有机碳（SOC））在一定年限内的时间趋势，而人口数据则反映了特定年份（如2015年和2019年）的人口数量。为了提高在两个参考年份（即基准期为2015年，报告期为2019年）记录受土地退化影响的人数的准确性，建议使用最接近上述年份的人口网格。"
+msgid "This analysis should be carried out over two time periods (i.e., the baseline and reporting period) in order to measure changes over time and report the observed change in table SO2-3.T2. However, it should be noted that the land degradation spatial dataset (i.e., the SO1-4 output) captures temporal trends in the three subindicators (land cover, land productivity and soil organic carbon (SOC)) over a certain number of years, whereas population data reflects the populations in specific years (e.g., 2015 and 2019). To increase accuracy in capturing the number of people exposed to land degradation in the two reference years (i.e., 2015 for the baseline and 2019 for reporting period), it is recommended that the population gird closest to the above-mentioned years be used."
+msgstr ""
 
 #: ../../SO2.md:326
-msgid ""
-"To calculate the percentage of female, male and total population exposed "
-"to land degradation, the respective populations exposed to land "
-"degradation are divided by the total populations of the corresponding sex"
-" types, multiplied by 100."
-msgstr "为了计算女性人口、男性人口和总人口中受土地退化影响人数的百分比，将各自受土地退化影响的人口除以相应性别类型的总人口，再乘以100。"
+msgid "To calculate the percentage of female, male and total population exposed to land degradation, the respective populations exposed to land degradation are divided by the total populations of the corresponding sex types, multiplied by 100."
+msgstr ""
 
 #: ../../SO2.md:328
 msgid "Step 4: Qualitatively assess the results"
-msgstr "第4步：对结果进行定性评估"
+msgstr ""
 
-#: ../../SO2.md:1
+#: ../../SO2.md:331
 msgid "Related areas in the PRAIS 4 platform: table SO2-3.T3"
-msgstr "PRAIS 4平台中的相关区域：表SO2-3.T3"
+msgstr ""
 
 #: ../../SO2.md:334
-msgid ""
-"Observed changes in the indicator and their interpretation may be "
-"described in the “Qualitative Assessment” table of the PRAIS 4 platform "
-"(table SO2-3.T3)."
-msgstr "观察到的指标变化及其解释可在PRAIS 4平台的“定性评估”表中描述（表SO2-3.T3）。"
+msgid "Observed changes in the indicator and their interpretation may be described in the “Qualitative Assessment” table of the PRAIS 4 platform (table SO2-3.T3)."
+msgstr ""
 
 #: ../../SO2.md:336
-msgid ""
-"It is important to note that changes in the proportion of population "
-"exposure to land degradation may not only be due to the expansion of land"
-" degradation but also to population growth, among other factors."
-msgstr "需要注意的是，受土地退化影响的人口比例的变化可能不仅是由于土地退化范围扩大导致的，还可能是人口增长等因素导致的。"
+msgid "It is important to note that changes in the proportion of population exposure to land degradation may not only be due to the expansion of land degradation but also to population growth, among other factors."
+msgstr ""
 
 #: ../../SO2.md:338
 msgid "Step 5:  Verify the results"
-msgstr "第5步：验证结果"
+msgstr ""
 
 #: ../../SO2.md:340
-msgid ""
-"The reliability of the estimates from global data sources requires inputs"
-" from national experts to identify and highlight situations where the "
-"confidence level of the obtained results might be low."
-msgstr "来自全球数据源的估计数的可靠性需要国家专家的投入，才能发现和强调所获结果的置信度可能较低的情况。"
+msgid "The reliability of the estimates from global data sources requires inputs from national experts to identify and highlight situations where the confidence level of the obtained results might be low."
+msgstr ""
 
 #: ../../SO2.md:342
 msgid "Step 6: Generate reports"
-msgstr "第6步：生成报告"
+msgstr ""
 
 #: ../../SO2.md:344
-msgid ""
-"Once verified by the Parties, the estimates of the female, male and total"
-" population exposed to land degradation should be officially submitted to"
-" the UNCCD."
-msgstr "经缔约方核实后，受土地退化影响的女性人口、男性人口和总人口的估计数应正式提交给《荒漠化公约》。"
+msgid "Once verified by the Parties, the estimates of the female, male and total population exposed to land degradation should be officially submitted to the UNCCD."
+msgstr ""
 
 #: ../../SO2.md:346
-msgid ""
-"Default maps or maps generated in Trends.Earth using national data "
-"representing population exposure to land degradation by sex are made "
-"available in the PRAIS 4 platform. More specifically, the following maps "
-"will be available online:"
-msgstr "默认地图或在Trends.Earth中使用代表按性别分列的受土地退化影响的人口的国家数据生成的地图，可在PRAIS 4平台上获得。更具体地说，下列地图将在网上提供："
+msgid "Default maps or maps generated in Trends.Earth using national data representing population exposure to land degradation by sex are made available in the PRAIS 4 platform. More specifically, the following maps will be available online:"
+msgstr ""
 
 #: ../../SO2.md:348
 msgid "Total population exposed to land degradation"
-msgstr "受土地退化影响的总人口"
+msgstr ""
 
 #: ../../SO2.md:350
 msgid "Female population exposed to land degradation"
-msgstr "受土地退化影响的女性人口"
+msgstr ""
 
 #: ../../SO2.md:352
 msgid "Male population exposed to land degradation"
-msgstr "受土地退化影响的男性人口"
+msgstr ""
 
 #: ../../SO2.md:354
-msgid ""
-"Parties are also encouraged to submit narratives on the methodology, data"
-" sources and data accuracy in the event that the estimates are derived "
-"from national data. It would also be beneficial to report on special "
-"cases and issues, describing any deviation from the default method and "
-"providing the rationale to adopt a different methodology. A “General "
-"comment” field is provided in the PRAIS 4 platform for this purpose."
-msgstr "还鼓励缔约方在估计数来自国家数据的情况下，提交关于方法、数据来源和数据准确性的说明。报告特殊情况和问题也是有益的，能说明任何偏离默认方法的情况并提供采用不同方法的理由。为此，PRAIS 4平台提供了一个“一般性注释”栏。"
+msgid "Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data. It would also be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale to adopt a different methodology. A “General comment” field is provided in the PRAIS 4 platform for this purpose."
+msgstr ""
 
 #: ../../SO2.md:356
 msgid "2.3.4. Dependencies"
-msgstr "2.3.4. 依赖性"
+msgstr ""
 
 #: ../../SO2.md:358
-msgid ""
-"Indicator SO 2-3 relies on the SO 4 indicator spatial datasets, both for "
-"the baseline and reporting periods, as a basis to identify degraded "
-"areas."
-msgstr "指标SO 2-3依赖于SO 4指标的空间数据集，包括基线期和报告期，作为确定已退化地区的依据。"
+msgid "Indicator SO 2-3 relies on the SO 4 indicator spatial datasets, both for the baseline and reporting periods, as a basis to identify degraded areas."
+msgstr ""
 
 #: ../../SO2.md:360
 msgid "2.3.5. Challenges"
-msgstr "2.3.5. 挑战"
+msgstr ""
 
 #: ../../SO2.md:364
-msgid ""
-"Spatial resolution of international data might not always be suitable to "
-"produce a sufficiently detailed representation of the population exposed "
-"to land degradation and its changes. More detailed sub-national data "
-"might be needed to represent local situations with a higher degree of "
-"accuracy. However, this will require downscaling of existing gridded "
-"population datasets to a finer resolution which might incur further "
-"errors. Capacity in performing downscaling processes is therefore "
-"required."
-msgstr "国际数据的空间分辨率可能并不总是适合于充分详细地反映受土地退化及其变化影响的人口。可能需要更详细的次国家一级的数据，以更准确地代表当地情况。然而，这需要将现有的网格化人口数据集按比例缩小到更精细的分辨率，这可能会产生更多的误差。因此，需要具备执行按比例缩小过程的能力。"
+msgid "Spatial resolution of international data might not always be suitable to produce a sufficiently detailed representation of the population exposed to land degradation and its changes. More detailed sub-national data might be needed to represent local situations with a higher degree of accuracy. However, this will require downscaling of existing gridded population datasets to a finer resolution which might incur further errors. Capacity in performing downscaling processes is therefore required."
+msgstr ""
 
 #: ../../SO2.md:365
-msgid ""
-"The WorldPop sex-disaggregated national datasets are presented as several"
-" individual rasters, each representing an age/sex class per year. This "
-"amounts to a large volume of spatial data in Geotiff format. Capacity in "
-"raster data processing and access to appropriate computing power, e.g., a"
-" cloud service, is required to store and process the data, especially for"
-" large countries. The UNCCD is developing a procedure for the bulk "
-"preprocessing of raster data, which will eventually make sex-"
-"disaggregated data available on the PRAIS 4 platform as default data. "
-"Parties will be notified when the challenge is solved and the forms pre-"
-"filled with the default data."
-msgstr "WorldPop按性别分列的国家数据集以几个单独栅格的形式呈现，每个栅格代表每年的一个年龄/性别类别。这相当于大量的Geotiff格式的空间数据。存储和处理数据需要栅格数据处理能力和获得适当的计算能力，例如云服务，对于大国来说尤其如此。《防治荒漠化公约》正在开发一个栅格数据的批量预处理程序，最终将在PRAIS 4平台上提供按性别分列的数据作为默认数据。此挑战得到解决后，将通知各缔约方，并在表格中预先填入默认数据。"
+msgid "The WorldPop sex-disaggregated national datasets are presented as several individual rasters, each representing an age/sex class per year. This amounts to a large volume of spatial data in Geotiff format. Capacity in raster data processing and access to appropriate computing power, e.g., a cloud service, is required to store and process the data, especially for large countries. The UNCCD is developing a procedure for the bulk preprocessing of raster data, which will eventually make sex-disaggregated data available on the PRAIS 4 platform as default data. Parties will be notified when the challenge is solved and the forms pre-filled with the default data."
+msgstr ""
 
 #: ../../SO2.md:367
 msgid "Limitation of the analytical approach"
-msgstr "分析方法的局限性"
+msgstr ""
 
 #: ../../SO2.md:369
-msgid ""
-"Sex-disaggregated data alone might not be sufficient to represent the "
-"gender dynamics and related issues in a specific region. Further socio-"
-"economic and demographic indicators are required to conduct gender "
-"analysis in order to better understand how and why specific populations "
-"are affected by land degradation."
-msgstr "仅仅是按性别分列的数据可能不足以反映特定地区的性别动态和相关问题。需要进一步的社会经济和人口指标来进行性别分析，以便更好地了解特定人群如何以及为何受到土地退化的影响。"
+msgid "Sex-disaggregated data alone might not be sufficient to represent the gender dynamics and related issues in a specific region. Further socio-economic and demographic indicators are required to conduct gender analysis in order to better understand how and why specific populations are affected by land degradation."
+msgstr ""
 
 #: ../../SO2.md:370
-msgid ""
-"On-site exposed populations to land degradation may produce lower-bound "
-"estimates of the exposure of populations to land degradation. In fact, "
-"land degradation in a specific area affects not only populations residing"
-" on degraded land, but also – through environmental, economic and social "
-"linkages – populations elsewhere. In addition, further disaggregation of "
-"data in urban and rural populations could be useful to improve the "
-"indicator."
-msgstr "以受土地退化影响的现场人口为依据，可能会得出对受土地退化影响的人口的下限估计数。事实上，特定地区的土地退化不仅影响居住在退化土地上的人口，而且还通过环境、经济和社会联系影响其他地方的人口。此外，对城市和农村人口的数据进一步分列，可能有助于改进该指标。"
+msgid "On-site exposed populations to land degradation may produce lower-bound estimates of the exposure of populations to land degradation. In fact, land degradation in a specific area affects not only populations residing on degraded land, but also – through environmental, economic and social linkages – populations elsewhere. In addition, further disaggregation of data in urban and rural populations could be useful to improve the indicator."
+msgstr ""
 
 #: ../../SO2.md:371
-msgid ""
-"There are two challenges related to the temporality of the analysis: i) "
-"the land degradation spatial dataset (i.e., the SO1-4 output) captures "
-"temporal trends over a certain number of years, whereas population data "
-"reflects the populations in specific years; ii) changes in the proportion"
-" of population exposure to land degradation over time may not only be due"
-" to the expansion of land degradation but also to population growth, "
-"among other factors."
-msgstr "有两个与分析的时间性有关的挑战：i）土地退化空间数据集（即SO1-4产出）反映了一定年限内的时间趋势，而人口数据则反映了特定年份的人口；ii）随着时间的推移，受土地退化影响的人口比例的变化可能不仅是由于土地退化范围扩大导致的，还可能是人口增长等因素导致的。"
+msgid "There are two challenges related to the temporality of the analysis: i) the land degradation spatial dataset (i.e., the SO1-4 output) captures temporal trends over a certain number of years, whereas population data reflects the populations in specific years; ii) changes in the proportion of population exposure to land degradation over time may not only be due to the expansion of land degradation but also to population growth, among other factors."
+msgstr ""
 
 #: ../../SO2.md:373
 msgid "2.3.6. Summary (main actions)"
-msgstr "2.3.6. 总结（主要行动）"
+msgstr ""
 
 #: ../../SO2.md:375
-msgid ""
-"Key actions for reporting on population exposure to land degradation are "
-"as follows:"
-msgstr "报告受土地退化影响的人口时需采取的关键行动如下："
+msgid "Key actions for reporting on population exposure to land degradation are as follows:"
+msgstr ""
 
 #: ../../SO2.md:377
-msgid ""
-"**Select the population dataset**: Parties may decide to use the default "
-"data or alternative national sources, provided they comply with the data "
-"specifications listed in table 17."
-msgstr "**选择人口数据集**：缔约方可以决定使用默认数据或替代国家来源的数据，只要数据符合表17中所列的数据规格。"
+msgid "**Select the population dataset**: Parties may decide to use the default data or alternative national sources, provided they comply with the data specifications listed in table 17."
+msgstr ""
 
 #: ../../SO2.md:379
-msgid ""
-"**Standardize the selected datasets**: the land degradation datasets must"
-" be harmonized to the same grid cell size as the population gridded data "
-"(assuming it is the finer resolution) in order to combine them in the "
-"analysis of population exposure to land degradation."
-msgstr "**将选定的数据集标准化**：土地退化数据集必须统一到与人口网格化数据（假设分辨率更高）相同的网格单元大小，以便在分析受土地退化影响的人口时将它们结合起来。"
+msgid "**Standardize the selected datasets**: the land degradation datasets must be harmonized to the same grid cell size as the population gridded data (assuming it is the finer resolution) in order to combine them in the analysis of population exposure to land degradation."
+msgstr ""
 
 #: ../../SO2.md:381
-msgid ""
-"**Estimate the number and percentage of the female, male and total "
-"population exposed to land degradation**: the male and female population "
-"grids are intersected with the land degradation grid to derive the total,"
-" male and female population exposed to land degradation and the "
-"percentage of the total population. Data should be entered in tables "
-"SO2-3.T1."
-msgstr "**估计受土地退化影响的女性人口、男性人口和总人口的数量和百分比**：将男性和女性人口网格与土地退化网格相交，得出受土地退化影响的总人口、男性人口和女性人口以及占总人口的百分比。数据应输入表SO2-3.T1中。"
+msgid "**Estimate the number and percentage of the female, male and total population exposed to land degradation**: the male and female population grids are intersected with the land degradation grid to derive the total, male and female population exposed to land degradation and the percentage of the total population. Data should be entered in tables SO2-3.T1."
+msgstr ""
 
 #: ../../SO2.md:383
-msgid ""
-"**Qualitatively assess the results**: changes in the proportion of "
-"populations exposed to land degradation as well as their direct or "
-"indirect drivers should be described in table SO2-3.T3."
-msgstr "**对结果进行定性评估**：应在表SO2-3.T3中描述受土地退化影响的人口比例变化及其直接或间接驱动因素。"
+msgid "**Qualitatively assess the results**: changes in the proportion of populations exposed to land degradation as well as their direct or indirect drivers should be described in table SO2-3.T3."
+msgstr ""
 
 #: ../../SO2.md:385
-msgid ""
-"**Verify the results**: the reliability of the estimates from global data"
-" sources should be assessed in consultation with national experts."
-msgstr "**核实结果**：应与国家专家协商，评估来自全球数据来源的估计数的可靠性。"
+msgid "**Verify the results**: the reliability of the estimates from global data sources should be assessed in consultation with national experts."
+msgstr ""
 
 #: ../../SO2.md:389
 msgid "2.3.7. Further reading"
-msgstr "2.3.7. 深入阅读"
+msgstr ""
 
 #: ../../SO2.md:391
-msgid ""
-"Methodological note on trends in population exposure to land degradation "
-"(<https://www.unccd.int/sites/default/files/inline-"
-"files/MethodologicalNote_PopExposureToLD.pdf>)"
-msgstr "关于受土地退化影响的人口趋势的方法说明 (<https://www.unccd.int/sites/default/files/inline-files/MethodologicalNote_PopExposureToLD.pdf>)"
+msgid "Methodological note on trends in population exposure to land degradation (<https://www.unccd.int/sites/default/files/inline-files/MethodologicalNote_PopExposureToLD.pdf>)"
+msgstr ""
 
 #: ../../SO2.md:23
 msgid "https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map"
-msgstr "https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map"
+msgstr ""
 
 #: ../../SO2.md:193
-msgid ""
-"<https://washdata.org/data/household> and "
-"<https://datatopics.worldbank.org/sdgs/index.html>"
-msgstr "<https://washdata.org/data/household> and <https://datatopics.worldbank.org/sdgs/index.html>"
+msgid "<https://washdata.org/data/household> and <https://datatopics.worldbank.org/sdgs/index.html>"
+msgstr ""
+
