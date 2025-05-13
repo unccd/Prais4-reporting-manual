@@ -1,727 +1,455 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, UNCCD
-# This file is distributed under the same license as the PRAIS4 Reporting
-# Manual package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: PRAIS4 Reporting Manual \n"
+"Project-Id-Version: prais4-reporting-manual\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-04 19:41+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2025-05-13 16:13+0300\n"
+"PO-Revision-Date: 2025-05-13 16:48\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: prais4-reporting-manual\n"
+"X-Crowdin-Project-ID: 760205\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/locales/source/voluntary_targets_and_others.pot\n"
+"X-Crowdin-File-ID: 26\n"
+"Language: zh_CN\n"
 
 #: ../../voluntary_targets_and_others.md:1
-msgid ""
-"6. Strategic objective 1 to 4: voluntary targets, additional indicators "
-"and affected areas"
-msgstr "6. 战略目标1至4：自愿目标、附加指标和受影响区域"
+msgid "6. Strategic objective 1 to 4: voluntary targets, additional indicators and affected areas"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:3
 msgid "6.1. Voluntary targets for strategic objective 1"
-msgstr "6.1. 战略目标1的自愿目标"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:5
 msgid "6.1.1. Introduction"
-msgstr "6.1.1. 简介"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:7
-msgid ""
-"Parties may wish to set national voluntary targets that contribute to "
-"strategic objective 1 (SO 1) and therefore “to improve the condition of "
-"affected ecosystems, combat desertification/land degradation, promote "
-"sustainable land management and contribute to Land Degradation Neutrality"
-" (LDN)”."
-msgstr "缔约方不妨制定有助于实现战略目标1（SO 1）的国家自愿目标，从而“改善受影响生态系统的状况，防治荒漠化/土地退化，促进可持续土地管理，并为实现土地退化零增长（LDN）作出贡献”。"
+msgid "Parties may wish to set national voluntary targets that contribute to strategic objective 1 (SO 1) and therefore “to improve the condition of affected ecosystems, combat desertification/land degradation, promote sustainable land management and contribute to Land Degradation Neutrality (LDN)”."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:9
-msgid ""
-"This includes, but is not limited to, the formulation of LDN voluntary "
-"targets in accordance with Parties’ specific national circumstances and "
-"development priorities. LDN voluntary targets reflect Parties’ ambitions "
-"in achieving no net loss of (and thus neutrality), or gains in, healthy "
-"and productive land when compared to the baseline."
-msgstr "这包括但不限于根据缔约方的具体国情和发展优先事项制定LDN自愿目标。LDN自愿目标反映了缔约方的雄心，即与基线相比，实现健康和生产性土地的无净损失（从而实现中性）或收益。"
+msgid "This includes, but is not limited to, the formulation of LDN voluntary targets in accordance with Parties’ specific national circumstances and development priorities. LDN voluntary targets reflect Parties’ ambitions in achieving no net loss of (and thus neutrality), or gains in, healthy and productive land when compared to the baseline."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:11
-msgid ""
-"The definition of voluntary targets should be based on best available "
-"data and knowledge. The assessment of land degradation and its drivers "
-"plays a key role in informing the decision-making process. Relevant "
-"stakeholders must be involved in the voluntary target definition process "
-"to ensure ownership and that the achievement of LDN does not come at the "
-"expense of adverse social and ecosystem impacts."
-msgstr "定义自愿目标时，应以现有的最佳数据和知识为基础。对土地退化及其驱动因素的评估在为决策过程提供信息方面起着关键作用。相关利益攸关方必须参与到自愿目标的定义过程中，以确保自主权，并确保实现LDN不会以不利的社会和生态系统影响为代价。"
+msgid "The definition of voluntary targets should be based on best available data and knowledge. The assessment of land degradation and its drivers plays a key role in informing the decision-making process. Relevant stakeholders must be involved in the voluntary target definition process to ensure ownership and that the achievement of LDN does not come at the expense of adverse social and ecosystem impacts."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:13
-msgid ""
-"Targets need to be measurable to monitor progress. Parties are invited to"
-" formulate quantifiable, geographically explicit and time-bound voluntary"
-" targets aiming at achieving a neutral (no net loss) or improved (net "
-"gain) state of the land, and defining interventions that contribute to "
-"avoiding, reducing and reversing land degradation, in line with the LDN "
-"response hierarchy (see figure 5)."
-msgstr "目标必须是可衡量的，以监测进展。请缔约方制定可量化的、地理上明确的和有时限的自愿目标，旨在实现土地的中性（无净损失）或改善（净收益）状态，并根据LDN的应对等级，确定有助于避免、减少和扭转土地退化的干预措施（见图5）。"
+msgid "Targets need to be measurable to monitor progress. Parties are invited to formulate quantifiable, geographically explicit and time-bound voluntary targets aiming at achieving a neutral (no net loss) or improved (net gain) state of the land, and defining interventions that contribute to avoiding, reducing and reversing land degradation, in line with the LDN response hierarchy (see figure 5)."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:15
 msgid "![](/img/LD_neutrality_response.jpg)"
-msgstr "![](/img/LD_neutrality_response.jpg)"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:17
 msgid "_Figure 5. Land Degradation Neutrality response hierarchy_"
-msgstr "_图5. 土地退化零增长应对等级"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:19
-msgid ""
-"Geographic specificity helps define realistic targets. Geographically "
-"explicit targets with distinct locations, ecosystem types and maps can "
-"provide increased focus on critical hotspot areas, aid prioritization and"
-" help create realistic and purposeful sub-national commitments and plans."
-msgstr "地理上的特殊性有助于确定现实的目标。包含不同位置、生态系统类型和地图的地理上明确的目标可以使人们更加关注关键的热点地区，有助于确定优先次序，创建现实和有目的的国家以下一级承诺和计划。"
+msgid "Geographic specificity helps define realistic targets. Geographically explicit targets with distinct locations, ecosystem types and maps can provide increased focus on critical hotspot areas, aid prioritization and help create realistic and purposeful sub-national commitments and plans."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:21
-msgid ""
-"An example of a time-bound, measurable and geographically explicit LDN "
-"voluntary target set by Colombia is: “By 2030, the productivity of at "
-"least 2,000 ha of soils with crops and/or pastures will be improved, with"
-" agroforestry production systems in the Caribbean and Andean regions "
-"(Sucre, Santander and Boyacá departments)”."
-msgstr "哥伦比亚制定的一个有时限、可衡量和地理上明确的LDN自愿目标的例子是：“到2030年，加勒比和安第斯地区（苏克雷省、桑坦德省和博亚卡省）的农林生产系统将提高至少2000公顷有作物和/或牧场的土壤的生产力”。"
+msgid "An example of a time-bound, measurable and geographically explicit LDN voluntary target set by Colombia is: “By 2030, the productivity of at least 2,000 ha of soils with crops and/or pastures will be improved, with agroforestry production systems in the Caribbean and Andean regions (Sucre, Santander and Boyacá departments)”."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:23
-msgid ""
-"LDN is intended to be achieved at the national level. Countries typically"
-" aim to achieve this through the definition of a combination of national "
-"target(s) and complementary targets at the sub-national level for a "
-"specific indicator and/or a specific geographic area (i.e., a particular "
-"ecosystem, natural area, watershed or subnational administrative "
-"jurisdiction), which together contribute to realizing Parties’ ambitions "
-"in achieving or exceeding LDN at the national level. Generic examples of "
-"LDN targets at different levels of application are presented in table 26 "
-"below."
-msgstr "LDN打算在国家层面上得以实现。各国通常旨在通过为具体指标和/或具体地理区域（即特定生态系统、自然区、流域或国家以下行政管辖区）界定国家目标和国家以下一级的补充目标来实现这一目标，这些目标共同有助于实现缔约方在国家一级实现或超越LDN的雄心。下文表26列出了不同应用级别的LDN目标的通用示例。"
+msgid "LDN is intended to be achieved at the national level. Countries typically aim to achieve this through the definition of a combination of national target(s) and complementary targets at the sub-national level for a specific indicator and/or a specific geographic area (i.e., a particular ecosystem, natural area, watershed or subnational administrative jurisdiction), which together contribute to realizing Parties’ ambitions in achieving or exceeding LDN at the national level. Generic examples of LDN targets at different levels of application are presented in table 26 below."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:25
-msgid ""
-"*__Table 26__. Generic examples of Land Degradation Neutrality targets at"
-" different levels of application*"
-msgstr "*__表26__. 不同应用级别的土地退化零增长目标的通用示例*"
+msgid "*__Table 26__. Generic examples of Land Degradation Neutrality targets at different levels of application*"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:1
+#: ../../voluntary_targets_and_others.md:30
 msgid "Level of application"
-msgstr "应用级别"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:2
+#: ../../voluntary_targets_and_others.md:31
 msgid "Example"
-msgstr "示例"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:3
+#: ../../voluntary_targets_and_others.md:32
 msgid "National level (no net loss)"
-msgstr "国家一级（无净损失）"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:4
-msgid ""
-"“Achieve Land Degradation Neutrality (LDN) by 2030 compared to the 2015 "
-"baseline”"
-msgstr "“与2015年的基线相比，到2030年实现土地退化零增长（LDN）”"
+#: ../../voluntary_targets_and_others.md:33
+msgid "“Achieve Land Degradation Neutrality (LDN) by 2030 compared to the 2015 baseline”"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:5
+#: ../../voluntary_targets_and_others.md:34
 msgid "National level (net gain)"
-msgstr "国家一级（净收益）"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:6
-#, python-format
-msgid ""
-"“Achieve LDN by 2030 compared to the 2015 baseline, plus an additional "
-"10% of the national territory has improved”"
-msgstr "“与2015年的基线相比，到2030年实现LDN，另外还有10%% o的国土面积得到改善”"
+#: ../../voluntary_targets_and_others.md:35
+msgid "“Achieve LDN by 2030 compared to the 2015 baseline, plus an additional 10% of the national territory has improved”"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:7
+#: ../../voluntary_targets_and_others.md:36
 msgid "Sub-national level (no net loss)"
-msgstr "国家以下一级（无净损失）"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:8
-msgid ""
-"“Achieve LDN in the Western province of country X by 2030 compared to the"
-" 2015 baseline”"
-msgstr "“与2015年的基线相比，到2030年在X国西部省份实现LDN”"
+#: ../../voluntary_targets_and_others.md:37
+msgid "“Achieve LDN in the Western province of country X by 2030 compared to the 2015 baseline”"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:9
+#: ../../voluntary_targets_and_others.md:38
 msgid "Sub-national level (net gain)"
-msgstr "国家以下一级（净收益）"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:10
-#, python-format
-msgid ""
-"“Achieve LDN in the Southern province of country X by 2030 compared to "
-"the 2015 baseline, plus an additional 25% of the province territory has "
-"improved”"
-msgstr "“与2015年的基线相比，到2030年在X国南部省份实现LDN，另外该省25%% o的领土得到改善”"
+#: ../../voluntary_targets_and_others.md:39
+msgid "“Achieve LDN in the Southern province of country X by 2030 compared to the 2015 baseline, plus an additional 25% of the province territory has improved”"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:11
+#: ../../voluntary_targets_and_others.md:40
 msgid "Specific target (to avoid land degradation)"
-msgstr "具体目标（避免土地退化）"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:12
-msgid ""
-"“Halt the conversion of forests and wetlands to other land cover classes "
-"by 2020”"
-msgstr "“到2020年停止将森林和湿地转化为其他土地覆盖类别”"
+#: ../../voluntary_targets_and_others.md:41
+msgid "“Halt the conversion of forests and wetlands to other land cover classes by 2020”"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:13
+#: ../../voluntary_targets_and_others.md:42
 msgid "Specific target (to reduce land degradation)"
-msgstr "具体目标（减少土地退化）"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:14
-msgid ""
-"“Reduce the rate of soil sealing (conversion to artificial land cover) by"
-" 50% by 2030 compared to the 2015 baseline”"
-msgstr "“与2015年的基线相比，到2030年将土壤封闭率（转换为人工土地覆盖）降低50%”"
+#: ../../voluntary_targets_and_others.md:43
+msgid "“Reduce the rate of soil sealing (conversion to artificial land cover) by 50% by 2030 compared to the 2015 baseline”"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:15
+#: ../../voluntary_targets_and_others.md:44
 msgid "Specific target (to reverse land degradation)"
-msgstr "具体目标（扭转土地退化）"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:16
-msgid ""
-"“Improve productivity and Soil Organic Carbon stocks in cropland and "
-"grasslands by 2030 compared to the 2015 baseline”   “Rehabilitate X "
-"million hectares of degraded and abandoned land for crop production by "
-"2030”   “Increase forest cover by 20% by 2030 compared to the 2015 "
-"baseline”"
-msgstr "“与2015年的基线相比，到2030年提高耕地和草地的生产力和土壤有机碳储量”“到2030年恢复X百万公顷的退化土地和废弃土地，将之用于作物生产”“与2015年基线相比，到2030年将森林覆盖率提高20%”"
+#: ../../voluntary_targets_and_others.md:45
+msgid "“Improve productivity and Soil Organic Carbon stocks in cropland and grasslands by 2030 compared to the 2015 baseline”   “Rehabilitate X million hectares of degraded and abandoned land for crop production by 2030”   “Increase forest cover by 20% by 2030 compared to the 2015 baseline”"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:50
-msgid ""
-"Voluntary targets and actions undertaken to address land degradation can "
-"simultaneously contribute to climate change mitigation and adaptation, "
-"biodiversity conservation and multiple Sustainable Development Goals "
-"(SDGs). Thus, there is considerable potential for synergies and it is "
-"very important that LDN targets ensure policy coherence and alignment "
-"with other national commitments made under different Conventions and "
-"related initiatives (i.e., Nationally Determined Contributions, National "
-"Adaptation Plans, National Biodiversity Strategies and Action Plans, land"
-" restoration commitments). In this context, LDN targets should be seen as"
-" an effective means of complementing and strengthening other country "
-"commitments and avoiding duplication of efforts."
-msgstr "为解决土地退化问题而制定的自愿性目标和采取的行动可以同时促进气候变化的减缓和适应、生物多样性的保护和多个可持续发展目标（SDG）。因此，协同增效的潜力很大，而且非常重要的是，LDN目标应确保政策的连贯性，并与其他根据不同公约和相关倡议做出的国家承诺（即国家自主贡献、国家适应计划、国家生物多样性战略和行动计划、土地恢复承诺）保持一致。在这种情况下，LDN目标应被视为补充和加强其他国家承诺并避免重复努力的有效手段。"
+msgid "Voluntary targets and actions undertaken to address land degradation can simultaneously contribute to climate change mitigation and adaptation, biodiversity conservation and multiple Sustainable Development Goals (SDGs). Thus, there is considerable potential for synergies and it is very important that LDN targets ensure policy coherence and alignment with other national commitments made under different Conventions and related initiatives (i.e., Nationally Determined Contributions, National Adaptation Plans, National Biodiversity Strategies and Action Plans, land restoration commitments). In this context, LDN targets should be seen as an effective means of complementing and strengthening other country commitments and avoiding duplication of efforts."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:52
 msgid "6.1.2. Prerequisites for reporting"
-msgstr "6.1.2. 报告的先决条件"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:54
-msgid ""
-"An in-depth reading of the [LDN Target Setting technical "
-"guide](https://knowledge.unccd.int/publication/ldn-target-setting-"
-"technical-guide)."
-msgstr "深入阅读[LDN目标设定技术指南](https://knowledge.unccd.int/publication/ldn-target-setting-technical-guide)。"
+msgid "An in-depth reading of the [LDN Target Setting technical guide](https://knowledge.unccd.int/publication/ldn-target-setting-technical-guide)."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:56
-msgid ""
-"A pool of national experts that report across various Conventions and "
-"related initiatives to ensure alignment and coherence between LDN-"
-"relevant national commitments."
-msgstr "有一个国家专家库，对各种公约和相关倡议进行报告，以确保与LDN相关的国家承诺之间的一致性和连贯性。"
+msgid "A pool of national experts that report across various Conventions and related initiatives to ensure alignment and coherence between LDN-relevant national commitments."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:58
-msgid ""
-"A spatial data file of the target areas or a good understanding of the "
-"location and extent of the targets, allowing them to be reported on in a "
-"spatially explicit manner using the PRAIS 4 spatial data viewer."
-msgstr "有目标区域的空间数据文件或对目标的位置和范围有很好的了解，允许使用PRAIS 4空间数据查看器以空间明确的方式报告这些目标。"
+msgid "A spatial data file of the target areas or a good understanding of the location and extent of the targets, allowing them to be reported on in a spatially explicit manner using the PRAIS 4 spatial data viewer."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:60
 msgid "6.1.3. Reporting process and step-by-step procedure"
-msgstr "6.1.3.报告流程和分步程序"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:62
 #: ../../voluntary_targets_and_others.md:118
 #: ../../voluntary_targets_and_others.md:140
 #: ../../voluntary_targets_and_others.md:164
 msgid "The step-by-step procedure for reporting is as follows."
-msgstr "报告的分步程序在下文中描述。"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:64
 #: ../../voluntary_targets_and_others.md:120
 msgid "Step 1. Declare national voluntary targets"
-msgstr "第1步：宣布国家自愿目标"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:66
-msgid ""
-"National voluntary targets are reported in table SO1-VT.T1 of the PRAIS 4"
-" platform. Parties are invited to articulate, in quantifiable and time-"
-"bound terms, voluntary targets that contribute to LDN and/or SO 1 and to "
-"include information on the expected year of target achievement, location "
-"and total target area, type of LDN intervention (i.e., relevance of the "
-"target to the LDN response hierarchy), planned or ongoing measures to "
-"achieve the target, and the status of target achievement. Since targets "
-"set under the United Nations Convention to Combat Desertification (UNCCD)"
-" can also address commitments made under other Rio Conventions and "
-"associated initiatives, Parties may also indicate other existing goals of"
-" relevance for their LDN targets."
-msgstr "国家自愿目标在PRAIS 4平台的表SO1-VT.T1中报告。请各缔约方以可量化和有时限的方式阐明有助于实现LDN和/或SO 1的自愿目标，并包括以下信息：预计实现目标的年份、地点和目标总面积、LDN干预类型（即目标与LDN应对等级的相关性）、为实现目标而计划或正在采取的措施，以及实现目标的状况。由于在《联合国防治荒漠化公约》（《荒漠化公约》）下设定的目标也可以涉及在其他里约公约和相关倡议下做出的承诺，缔约方也可以指出与它们的LDN目标有关的其他现有目标。"
+msgid "National voluntary targets are reported in table SO1-VT.T1 of the PRAIS 4 platform. Parties are invited to articulate, in quantifiable and time-bound terms, voluntary targets that contribute to LDN and/or SO 1 and to include information on the expected year of target achievement, location and total target area, type of LDN intervention (i.e., relevance of the target to the LDN response hierarchy), planned or ongoing measures to achieve the target, and the status of target achievement. Since targets set under the United Nations Convention to Combat Desertification (UNCCD) can also address commitments made under other Rio Conventions and associated initiatives, Parties may also indicate other existing goals of relevance for their LDN targets."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:68
-msgid ""
-"Table SO1-VT.T1 is a spatial table and therefore should ideally be "
-"completed with the support of the Geographic Information System (GIS) "
-"tools available in PRAIS 4. The PRAIS 4 spatial data viewer enables "
-"Parties to delineate the location and extent of their targets, thereby "
-"making them geographically explicit, or to upload an existing spatial "
-"file (in vector format) of the target areas. This is an additional and "
-"optional element, but such location-based information can strengthen "
-"spatial approaches to sustainable land management and help integrate "
-"responses to land degradation at the landscape scale."
-msgstr "表SO1-VT.T1是一个空间表，因此最好在PRAIS 4中提供的地理信息系统（GIS）工具的帮助下完成。 PRAIS 4空间数据查看器使缔约方能够划定其目标的位置和范围，从而使其在地理上明确，或上传目标区域的现有空间文件（矢量格式）。这是一个额外和可选的要素，但这种基于位置的信息可以加强可持续土地管理的空间方法，并有助于在景观尺度上整合土地退化对策。"
+msgid "Table SO1-VT.T1 is a spatial table and therefore should ideally be completed with the support of the Geographic Information System (GIS) tools available in PRAIS 4. The PRAIS 4 spatial data viewer enables Parties to delineate the location and extent of their targets, thereby making them geographically explicit, or to upload an existing spatial file (in vector format) of the target areas. This is an additional and optional element, but such location-based information can strengthen spatial approaches to sustainable land management and help integrate responses to land degradation at the landscape scale."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:70
-msgid ""
-"Additional information not included in the table may be reported in the "
-"“General Comment” field."
-msgstr "表格中未包括的其他信息可在“一般性注释”栏中报告。"
+msgid "Additional information not included in the table may be reported in the “General Comment” field."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:72
 msgid "Step 2. Describe implemented actions relevant to the targets"
-msgstr "第2步：描述已实施的与目标相关的行动"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:74
-msgid ""
-"Areas of implemented action (projects and initiatives on the ground) "
-"related to the targets can be reported on in table SO1.IA.T1. As for Step"
-" 1, areas of implemented action should ideally be delineated in the PRAIS"
-" 4 spatial data viewer."
-msgstr "与目标相关的已实施行动的区域（实地项目和举措）可在表SO1.IA.T1中报告。就第1步而言，已实施行动的区域最好在PRAIS 4空间数据查看器中划定。"
+msgid "Areas of implemented action (projects and initiatives on the ground) related to the targets can be reported on in table SO1.IA.T1. As for Step 1, areas of implemented action should ideally be delineated in the PRAIS 4 spatial data viewer."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:76
-msgid ""
-"Delineating voluntary targets and related actions currently under "
-"implementation can help track progress towards achieving LDN in a country"
-" by 2030, support the quantification of any remaining gaps and develop "
-"scenarios for closing those gaps. In addition, the UNCCD can use this "
-"spatial data to create information products to demonstrate the impact of "
-"the Convention and global progress towards LDN."
-msgstr "划定了自愿目标和目前正在实施的相关行动后，将有助于跟踪一国到2030年实现LDN的进展情况，支持量化任何剩余的差距，并制定缩小这些差距的方案。此外，《荒漠化公约》可以利用这一空间数据创建信息产品，以展示《公约》的影响和全球在实现LDN方面的进展。"
+msgid "Delineating voluntary targets and related actions currently under implementation can help track progress towards achieving LDN in a country by 2030, support the quantification of any remaining gaps and develop scenarios for closing those gaps. In addition, the UNCCD can use this spatial data to create information products to demonstrate the impact of the Convention and global progress towards LDN."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:78
 msgid "6.1.4. Dependencies"
-msgstr "6.1.4. 依赖性"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:80
-msgid ""
-"Although there is no direct dependency between the voluntary targets and "
-"SO 1 indicators, it is expected that the results of the geospatial "
-"analyses for the estimation of the proportion of degraded land will "
-"inform the definition and spatial delineation of the voluntary targets "
-"and related projects and initiatives on the ground."
-msgstr "尽管自愿目标和SO 1的指标之间没有直接的依赖关系，但预计用于估计已退化土地比例的地理空间分析结果将为自愿目标的定义和空间划分以及实地的相关项目和倡议提供信息。"
+msgid "Although there is no direct dependency between the voluntary targets and SO 1 indicators, it is expected that the results of the geospatial analyses for the estimation of the proportion of degraded land will inform the definition and spatial delineation of the voluntary targets and related projects and initiatives on the ground."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:82
-msgid ""
-"There is a dependency between the targets set in table SO1-VT.T1 and the "
-"implemented actions reported in SO1.IA.T1; each reported action in table "
-"SO1.IA.T1 should correspond to one or more targets reported on in "
-"SO1-VT.T1."
-msgstr "表SO1-VT.T1中设定的目标与SO1.IA.T1中报告的已实施行动之间存在依赖关系；表SO1.IA.T1中报告的每个行动应与SO1-VT.T1中报告的一个或多个目标相对应。"
+msgid "There is a dependency between the targets set in table SO1-VT.T1 and the implemented actions reported in SO1.IA.T1; each reported action in table SO1.IA.T1 should correspond to one or more targets reported on in SO1-VT.T1."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:84
 msgid "6.1.5. Challenges"
-msgstr "6.1.5. 挑战"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:86
 msgid "National coordination"
-msgstr "国家协调"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:88
-msgid ""
-"With respect to the various plans and commitments formulated under the "
-"Rio Conventions and/or other related initiatives, there is the risk of "
-"lack of coherence, overlap and duplication of efforts. There is scope for"
-" better alignment on restoration in national plans between the three Rio "
-"Conventions, which could enhance planning and implementation."
-msgstr "根据《里约公约》和/或其他相关倡议制定的各种计划和承诺存在着缺乏一致性、工作重叠和重复的风险。里约三公约之间的国家计划在恢复方面有待进一步协调，从而加强国家计划的规划和执行。"
+msgid "With respect to the various plans and commitments formulated under the Rio Conventions and/or other related initiatives, there is the risk of lack of coherence, overlap and duplication of efforts. There is scope for better alignment on restoration in national plans between the three Rio Conventions, which could enhance planning and implementation."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:90
-msgid ""
-"National voluntary targets need to be well-defined, measurable and time-"
-"bound to monitor progress. The availability of GIS tools in PRAIS 4 may "
-"support the definition of more accurate and realistic targets in defined "
-"locations."
-msgstr "国家自愿目标需要明确界定、可衡量和有时限，以监测进展情况。PRAIS 4中的地理信息系统工具可以支持在确定的地点定义更准确和更现实的目标。"
+msgid "National voluntary targets need to be well-defined, measurable and time-bound to monitor progress. The availability of GIS tools in PRAIS 4 may support the definition of more accurate and realistic targets in defined locations."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:92
 msgid "6.1.6. Further reading"
-msgstr "6.1.6. 深入阅读"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:94
-msgid ""
-"LDN Target Setting – A technical guide "
-"(<https://knowledge.unccd.int/publication/ldn-target-setting-technical-"
-"guide>)"
-msgstr "LDN目标设定 – 技术指南(<https://knowledge.unccd.int/publication/ldn-target-setting-technical-guide>)"
+msgid "LDN Target Setting – A technical guide (<https://knowledge.unccd.int/publication/ldn-target-setting-technical-guide>)"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:95
-msgid ""
-"Achieving Land Degradation Neutrality at the Country Level: Building "
-"Blocks for LDN Target Setting (<https://www.unccd.int/publications"
-"/achieving-land-degradation-neutrality-country-level-building-blocks-ldn-"
-"target-setting>)"
-msgstr "在国家层面实现土地退化零增长（LDN）：设定LDN目标的构成要素 (<https://www.unccd.int/publications/achieving-land-degradation-neutrality-country-level-building-blocks-ldn-target-setting>)"
+msgid "Achieving Land Degradation Neutrality at the Country Level: Building Blocks for LDN Target Setting (<https://www.unccd.int/publications/achieving-land-degradation-neutrality-country-level-building-blocks-ldn-target-setting>)"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:96
-msgid ""
-"Goals and Commitments for the Restoration Decade. A global overview of "
-"countries’ restoration commitments under the Rio Conventions and other "
-"pledges. © PBL Netherlands Environmental Assessment Agency, The Hague, "
-"2020, PBL publication number: 3906 "
-"(<https://www.pbl.nl/sites/default/files/downloads/pbl-2020-goals-and-"
-"commitments-for-the-restoration-decade-3906.pdf>)"
-msgstr "“恢复十年”的目标和承诺。各国根据里约公约作出的恢复承诺和其他承诺的全球概览。© PBL荷兰环境评估机构，海牙，2020，PBL出版物编号：3906 (<https://www.pbl.nl/sites/default/files/downloads/pbl-2020-goals-and-commitments-for-the-restoration-decade-3906.pdf>)"
+msgid "Goals and Commitments for the Restoration Decade. A global overview of countries’ restoration commitments under the Rio Conventions and other pledges. © PBL Netherlands Environmental Assessment Agency, The Hague, 2020, PBL publication number: 3906 (<https://www.pbl.nl/sites/default/files/downloads/pbl-2020-goals-and-commitments-for-the-restoration-decade-3906.pdf>)"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:98
 msgid "6.2. Voluntary targets for strategic objectives 2, 3 and 4"
-msgstr "6.2. 战略目标2、3和4的自愿目标"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:100
 msgid "6.2.1. Introduction"
-msgstr "6.2.1. 简介"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:102
-msgid ""
-"Parties may wish to set national voluntary targets that contribute to the"
-" achievement of SOs 2, 3 and 4:"
-msgstr "缔约方不妨制定有助于实现战略目标2、3和4的国家自愿目标："
+msgid "Parties may wish to set national voluntary targets that contribute to the achievement of SOs 2, 3 and 4:"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:104
 msgid "SO 2: to improve the living conditions of affected populations;"
-msgstr "SO 2：改善受影响人口的生活条件；"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:106
-msgid ""
-"SO 3: to mitigate, adapt to, and manage the effects of drought in order "
-"to enhance resilience of vulnerable populations and ecosystems;"
-msgstr "SO 3：减轻、适应和管理干旱的影响，以增强脆弱人群和生态系统的复原力；"
+msgid "SO 3: to mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems;"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:108
-msgid ""
-"SO 4: to generate global environmental benefits through effective "
-"implementation of the UNCCD."
-msgstr "SO 4：通过有效执行《荒漠化公约》，产生全球环境效益。"
+msgid "SO 4: to generate global environmental benefits through effective implementation of the UNCCD."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:110
-msgid ""
-"The definition of voluntary targets should be based on best available "
-"data and knowledge. The assessment and estimation of the related "
-"indicators can play a key role in informing the decision-making process."
-msgstr "定义自愿目标时应依据现有的最佳数据和知识。对相关指标的评估和估计可以在为决策过程提供信息方面发挥关键作用。"
+msgid "The definition of voluntary targets should be based on best available data and knowledge. The assessment and estimation of the related indicators can play a key role in informing the decision-making process."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:112
-msgid ""
-"Targets need to be measurable to monitor progress. Parties are invited to"
-" formulate quantifiable, time-bound and, where relevant, geographically "
-"explicit targets."
-msgstr "目标必须是可衡量的，以监测进展情况。请各缔约方制定可量化的、有时限的、以及必要时地理上明确的目标。"
+msgid "Targets need to be measurable to monitor progress. Parties are invited to formulate quantifiable, time-bound and, where relevant, geographically explicit targets."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:114
-msgid ""
-"Voluntary targets and actions undertaken to achieve the UNCCD SOs can "
-"simultaneously contribute to climate change mitigation and adaptation, "
-"biodiversity conservation and multiple SDGs. Thus, there is considerable "
-"potential for synergies and it is very important that targets set under "
-"the UNCCD ensure policy coherence and alignment with other national "
-"commitments made under the SDGs, different Conventions and related "
-"initiatives."
-msgstr "为实现《荒漠化公约》的战略目标而制定的自愿目标和采取的行动可以同时促进气候变化的减缓和适应、生物多样性的保护和多个可持续发展目标。因此，协同增效的潜力很大，而且非常重要的是，在《荒漠化公约》下设定的目标应确保政策的连贯性，并与其他在可持续发展目标、不同公约和相关倡议下作出的国家承诺保持一致。"
+msgid "Voluntary targets and actions undertaken to achieve the UNCCD SOs can simultaneously contribute to climate change mitigation and adaptation, biodiversity conservation and multiple SDGs. Thus, there is considerable potential for synergies and it is very important that targets set under the UNCCD ensure policy coherence and alignment with other national commitments made under the SDGs, different Conventions and related initiatives."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:116
 msgid "6.2.2. Reporting process and step-by-step procedure"
-msgstr "6.2.2.报告流程和分步程序"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:122
-msgid ""
-"Parties are invited to articulate, in quantifiable and time-bound terms, "
-"voluntary targets that contribute to the achievement of SOs 2, 3 and 4, "
-"and to include information on the expected year of achievement or actual "
-"year (if already achieved), the level of application (e.g., national, "
-"sub-national) and the implementation status (achieved, not achieved, "
-"ongoing, extended or postponed, partially achieved)."
-msgstr "请缔约方以可量化和有时限的方式阐明有助于实现战略目标2、3和4的自愿目标，并包括以下信息：预期实现年份或实际实现年份（如果已经实现）、应用级别（例如国家、国家以下一级）和执行状况（实现、未实现、正在进行、延期或推迟、部分实现）。"
+msgid "Parties are invited to articulate, in quantifiable and time-bound terms, voluntary targets that contribute to the achievement of SOs 2, 3 and 4, and to include information on the expected year of achievement or actual year (if already achieved), the level of application (e.g., national, sub-national) and the implementation status (achieved, not achieved, ongoing, extended or postponed, partially achieved)."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:124
-msgid ""
-"Delineating the SO 2, 3 and 4 target areas in PRAIS 4 is not requested at"
-" this stage. However, geographically explicit targets with distinct "
-"locations can help create realistic and purposeful sub-national "
-"commitments and plans."
-msgstr "现阶段不要求在PRAIS 4中划定SO 2、3和4的目标区域。然而，包含不同位置的、在地理上明确的目标有助于创建现实和有目的的国家以下各级承诺和计划。"
+msgid "Delineating the SO 2, 3 and 4 target areas in PRAIS 4 is not requested at this stage. However, geographically explicit targets with distinct locations can help create realistic and purposeful sub-national commitments and plans."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:126
 msgid "Step 2. Provide any complementary information"
-msgstr "第2步：提供任何补充信息"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:128
-msgid ""
-"Complementary information may be reported in the “General Comments” "
-"field. This may include whether the targets have been adopted or "
-"officially endorsed and if so, by which body (institution, government "
-"agency, regulation). Implemented action, such as target-related projects "
-"and initiatives on the ground can also be described."
-msgstr "补充信息可在“一般性注释”栏中报告。这可能包括目标是否已经被采纳或正式认可，如果是，由哪个机构（机构、政府机构、法规）采纳或认可。还可以描述已实施的行动，如与目标相关的实地项目和举措。"
+msgid "Complementary information may be reported in the “General Comments” field. This may include whether the targets have been adopted or officially endorsed and if so, by which body (institution, government agency, regulation). Implemented action, such as target-related projects and initiatives on the ground can also be described."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:130
-msgid ""
-"Furthermore, Parties are encouraged to outline the linkages with the "
-"SDGs, indicate opportunities to create leverage and synergies with their "
-"countries’ socio-economic, infrastructural and biodiversity agendas, and "
-"collaborate with other multilateral environmental agreements."
-msgstr "此外，鼓励缔约方概述与可持续发展目标的联系，指出与本国的社会经济、基础设施和生物多样性议程产生杠杆作用和协同作用的机会，并与其他多边环境协定合作。"
+msgid "Furthermore, Parties are encouraged to outline the linkages with the SDGs, indicate opportunities to create leverage and synergies with their countries’ socio-economic, infrastructural and biodiversity agendas, and collaborate with other multilateral environmental agreements."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:132
 msgid "6.3. Additional Indicators"
-msgstr "6.3. 附加指标"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:134
 msgid "6.3.1. Introduction"
-msgstr "6.3.1. 简介"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:136
-msgid ""
-"Additional indicators at the national and sub-national levels can assist "
-"in both interpreting and understanding the common global indicators "
-"associated with each strategic objective, and address locally-relevant "
-"issues."
-msgstr "国家和国家以下各级的附加指标有助于解释和理解与每个战略目标相关的全球共同指标，并解决与当地相关的问题。"
+msgid "Additional indicators at the national and sub-national levels can assist in both interpreting and understanding the common global indicators associated with each strategic objective, and address locally-relevant issues."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:138
 msgid "6.3.2. Reporting process and step-by-step procedure"
-msgstr "6.3.2.报告流程和分步程序"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:142
 msgid "Step 1. Report any national additional indicators"
-msgstr "第1步：报告任何国家附加指标"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:144
-msgid ""
-"Countries are encouraged to identify complementary indicators for SOs 1 "
-"to 4 to better address national and sub-national specificities. These can"
-" be additional progress indicators or process indicators to monitor "
-"whether actions are being implemented as planned. Additional indicators "
-"can be quantitative and qualitative."
-msgstr "鼓励各国确定战略目标1至4的补充指标，以更好地解决国家和国家以下各级的具体问题。这些可以是额外的进度指标或过程指标，用于监测行动是否按计划实施。附加指标可以是定量的，也可以是定性的。"
+msgid "Countries are encouraged to identify complementary indicators for SOs 1 to 4 to better address national and sub-national specificities. These can be additional progress indicators or process indicators to monitor whether actions are being implemented as planned. Additional indicators can be quantitative and qualitative."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:146
-msgid ""
-"While sex-disaggregated data related to exposure of population to land "
-"degradation and drought are now collected through indicators SO 2-3 and "
-"SO 3-2, Parties are encouraged to identify further gender-responsive "
-"socio-economic and demographic indicators that may provide a better "
-"understanding of how and why specific populations are affected by land "
-"degradation and drought."
-msgstr "虽然现在通过指标SO 2-3和SO 3-2收集了与人口受土地退化和干旱影响有关的按性别分列的数据，但鼓励缔约方进一步确定促进性别平等的社会经济和人口指标，以便更好地了解特定人群如何以及为何受到土地退化和干旱的影响。"
+msgid "While sex-disaggregated data related to exposure of population to land degradation and drought are now collected through indicators SO 2-3 and SO 3-2, Parties are encouraged to identify further gender-responsive socio-economic and demographic indicators that may provide a better understanding of how and why specific populations are affected by land degradation and drought."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:148
-msgid ""
-"Additional indicators can be added on the PRAIS 4 platform via a "
-"dedicated form (referred to as AI for brevity in PRAIS 4).  Parties may "
-"specify the name of the indicators, the associated SOs and their "
-"direction of change. A brief description of the indicators and other "
-"relevant information may be reported in the “Comment” field."
-msgstr "在PRAIS 4平台上，可以通过一个专门的表格（为简洁起见，在PRAIS 4中被称为AI）来添加附加指标。缔约方可以具体说明指标的名称、相关的SO及其变化方向。可以在“注释”栏中报告指标的简要描述和其他相关信息。"
+msgid "Additional indicators can be added on the PRAIS 4 platform via a dedicated form (referred to as AI for brevity in PRAIS 4).  Parties may specify the name of the indicators, the associated SOs and their direction of change. A brief description of the indicators and other relevant information may be reported in the “Comment” field."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:150
 msgid "6.4. Affected Areas"
-msgstr "6.4. 受影响区域"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:152
 msgid "6.4.1. Introduction"
-msgstr "6.4.1. 简介"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:154
-msgid ""
-"By its decision 11/COP.14, the Conference of the Parties requested the "
-"secretariat to further facilitate reporting on SOs 1, 2, 3 and 4 by, "
-"inter alia, including additional data fields specific to affected areas "
-"in the reporting system."
-msgstr "在第11/COP.14号决定中，缔约方会议要求秘书处进一步为关于SO1、2、3和4的报告提供便利，特别是在报告系统中纳入受影响区域特有的额外数据字段。"
+msgid "By its decision 11/COP.14, the Conference of the Parties requested the secretariat to further facilitate reporting on SOs 1, 2, 3 and 4 by, inter alia, including additional data fields specific to affected areas in the reporting system."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:156
-msgid ""
-"Therefore, PRAIS 4 facilitates countries that wish to report on affected "
-"areas as an additional and optional item to national reporting. Parties "
-"have the option to report on affected areas using a specific set of forms"
-" for SOs 1, 2, 3 and 4. The process, forms and tables to report on "
-"affected areas are the same as those used for national reporting. No "
-"default data is made available for affected area reporting."
-msgstr "因此，PRAIS 4为希望报告受影响区域、将其作为国家报告的一个附加和可选项目的国家提供了便利。缔约方可以选择使用SO1、2、3和4的一套特定表格来报告受影响区域的情况。报告受影响区域的程序、表格和表单与国家报告所使用的相同。受影响区域报告没有默认数据。"
+msgid "Therefore, PRAIS 4 facilitates countries that wish to report on affected areas as an additional and optional item to national reporting. Parties have the option to report on affected areas using a specific set of forms for SOs 1, 2, 3 and 4. The process, forms and tables to report on affected areas are the same as those used for national reporting. No default data is made available for affected area reporting."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:158
 msgid "6.4.2. Pre-requisite for reporting"
-msgstr "6.4.2. 报告的先决条件"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:160
 msgid "Sub-national data specific to affected areas."
-msgstr "受影响区域特有的国家以下一级数据。"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:162
 msgid "6.4.3. Reporting process and step-by-step procedure"
-msgstr "6.4.3.报告流程和分步程序"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:166
 msgid "Step 1: Define affected areas"
-msgstr "第1步：确定受影响的区域"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:168
-msgid ""
-"Parties wishing to report on affected areas are invited to specify the "
-"affected area definition in use in their country. In PRAIS 4, Parties may"
-" opt to use the definition of the affected areas contained in Article 1 "
-"of the Convention[^1],  or to provide the operational definition of "
-"affected area in use in their country."
-msgstr "请希望报告受影响区域的缔约方具体说明本国使用的受影响区域定义。在PRAIS 4中，缔约方可以选择使用《公约》第1条所载的受影响区域的定义[^1]，或者提供本国使用的受影响区域的操作性定义。"
+msgid "Parties wishing to report on affected areas are invited to specify the affected area definition in use in their country. In PRAIS 4, Parties may opt to use the definition of the affected areas contained in Article 1 of the Convention[^1],  or to provide the operational definition of affected area in use in their country."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:170
-msgid ""
-"Once this part of the form has been completed and saved, the reporting "
-"forms for SOs 1 to 4 specific to affected areas (referred to as AA for "
-"brevity in the reporting forms) will open. These forms will not contain "
-"pre-filled default data as provided for national reporting. Therefore, "
-"Parties will be required to produce the data specific to affected areas "
-"and report it in the forms as explained in Steps 2–4."
-msgstr "表格的这一部分填写完成并保存后，受影响区域特定的SO 1至4的报告表格（为简洁起见，在报告表格中称为AA）将会打开。这些表格将不包含为国家报告提供的预先填写的默认数据。因此，将要求缔约方提供受影响区域的具体数据，并按照第2-4步中的解释在表格中报告。"
+msgid "Once this part of the form has been completed and saved, the reporting forms for SOs 1 to 4 specific to affected areas (referred to as AA for brevity in the reporting forms) will open. These forms will not contain pre-filled default data as provided for national reporting. Therefore, Parties will be required to produce the data specific to affected areas and report it in the forms as explained in Steps 2–4."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:174
 msgid "Step 2: Delineate affected areas"
-msgstr "第2步：划定受影响区域"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:176
-msgid ""
-"Parties will be required to spatially delineate the area that corresponds"
-" to the definition provided in Step 1 above. Digitization tools in any "
-"GIS software (e.g., ArcGIS, QGIS) could be used for this purpose or "
-"Parties may have an existing spatial file of the affected area available "
-"(e.g., ESRI shapefile, GeoJSON or any widely accepted file format)."
-msgstr "将要求缔约方在空间上划定与上述第1步中提供的定义相对应的区域。任何GIS软件（如ArcGIS、QGIS）中的数字化工具都可用于此目的，或者缔约方可能拥有受影响区域的现有空间文件（如ESRI shapefile、GeoJSON或任何广泛接受的文件格式）。"
+msgid "Parties will be required to spatially delineate the area that corresponds to the definition provided in Step 1 above. Digitization tools in any GIS software (e.g., ArcGIS, QGIS) could be used for this purpose or Parties may have an existing spatial file of the affected area available (e.g., ESRI shapefile, GeoJSON or any widely accepted file format)."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:178
 msgid "Step 3: Calculation of affected area estimates for all indicators"
-msgstr "第3步：计算所有指标的受影响区域的估计数"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:180
-msgid ""
-"Using the shapefile of the affected area produced in Step 2, Parties "
-"should calculate affected area estimates of all indicators for SOs 1 to "
-"4."
-msgstr "缔约方应利用第2步中产生的受影响区域的shapefile，计算SO 1至4的所有指标的受影响区域估计数。"
+msgid "Using the shapefile of the affected area produced in Step 2, Parties should calculate affected area estimates of all indicators for SOs 1 to 4."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:182
-msgid ""
-"Trends.Earth can be used to run these calculations on any area of "
-"interest. When calculating the indicators in Trends.Earth, Parties should"
-" upload the shapefile of the affected area produced in Step 2 and use it "
-"as the area of analysis. Parties should refer to the Trends.Earth "
-"documentation for further information on how to use their own area file "
-"in the calculations. Once the processing is complete, Parties will be "
-"required to upload their results to the PRAIS 4 platform and/or manually "
-"fill in the affected area forms with the required information."
-msgstr "Trends.Earth可用于就任何感兴趣的区域进行这些计算。在Trends.Earth中计算指标时，缔约方应上传第2步中产生的受影响区域的shapefile，并将其作为分析区域。缔约方应参阅Trends.Earth文件，以进一步了解如何在计算中使用它们自己的区域文件。一旦处理完成，缔约方会被要求将其计算结果上传到PRAIS 4平台和/或手动在受影响区域表格中填写规定的信息。"
+msgid "Trends.Earth can be used to run these calculations on any area of interest. When calculating the indicators in Trends.Earth, Parties should upload the shapefile of the affected area produced in Step 2 and use it as the area of analysis. Parties should refer to the Trends.Earth documentation for further information on how to use their own area file in the calculations. Once the processing is complete, Parties will be required to upload their results to the PRAIS 4 platform and/or manually fill in the affected area forms with the required information."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:184
-msgid ""
-"For non-geospatial indicators (e.g., SO2-1, SO2-2, SO4-2 andSO 4-3), "
-"Parties may wish to assess the availability of sub-national information "
-"specific to the affected areas defined in Step 1, and report it in the "
-"forms provided."
-msgstr "对于非地理空间指标（例如SO2-1、SO2-2、SO4-2和SO4-3），缔约方不妨评估第1步中定义的受影响区域特定的国家以下一级信息的可得性，并在所提供的表格中报告。"
+msgid "For non-geospatial indicators (e.g., SO2-1, SO2-2, SO4-2 andSO 4-3), Parties may wish to assess the availability of sub-national information specific to the affected areas defined in Step 1, and report it in the forms provided."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:186
 msgid "Step 4: Generate reports"
-msgstr "第4步：生成报告"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:188
-msgid ""
-"All forms and tables on the PRAIS 4 platform for reporting the affected "
-"areas should be filled in and supporting data and information provided, "
-"if desired, through the upload tools in PRAIS."
-msgstr "应填写PRAIS 4平台上用于报告受影响区域的所有表单和表格，并根据需要通过PRAIS中的上传工具提供支持数据和信息。"
+msgid "All forms and tables on the PRAIS 4 platform for reporting the affected areas should be filled in and supporting data and information provided, if desired, through the upload tools in PRAIS."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:190
-msgid ""
-"Once completed and verified by the Parties, the indicators’ estimates for"
-" the reporting and baseline periods should be officially submitted to the"
-" UNCCD. Parties are also encouraged to submit narratives on the "
-"methodology, data sources and data accuracy."
-msgstr "填写完成并经缔约方核实后，报告期和基线期的指标估计数应正式提交给《荒漠化公约》。还鼓励缔约方提交关于方法、数据来源和数据准确性的说明。"
+msgid "Once completed and verified by the Parties, the indicators’ estimates for the reporting and baseline periods should be officially submitted to the UNCCD. Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:192
 msgid "6.4.4. Challenges"
-msgstr "6.4.4. 挑战"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:194
 msgid "Data availability and quality"
-msgstr "数据可用性和质量"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:196
-msgid ""
-"Depending on the extent of the affected areas, spatial resolution of "
-"global default datasets available in Trends.Earth might not always be "
-"suitable to calculate indicators with enough sensitivity to spatial "
-"variation at sub-national level. Although higher spatial resolution data "
-"might be needed, Parties might be challenged by access to commercial "
-"satellite imagery, for example, where costs might be prohibitive."
-msgstr "根据受影响区域的范围，Trends.Earth中提供的全球默认数据集的空间分辨率可能并不总是适合计算对国家以下一级的空间变化具有足够敏感性的指标。尽管可能需要更高空间分辨率的数据，但缔约方可能会面临获取商业卫星图像的挑战，例如，成本可能过高。"
+msgid "Depending on the extent of the affected areas, spatial resolution of global default datasets available in Trends.Earth might not always be suitable to calculate indicators with enough sensitivity to spatial variation at sub-national level. Although higher spatial resolution data might be needed, Parties might be challenged by access to commercial satellite imagery, for example, where costs might be prohibitive."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:198
 msgid "Methodological approach"
-msgstr "方法论"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:200
-msgid ""
-"Affected area definitions may vary across countries, limiting the "
-"comparability of results across regions and/or globally."
-msgstr "各国对受影响区域的定义可能不同，从而限制了各地区和/或全球结果的可比性。"
+msgid "Affected area definitions may vary across countries, limiting the comparability of results across regions and/or globally."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:202
 msgid "6.4.5. Summary (main actions)"
-msgstr "6.4.5. 总结（主要行动）"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:204
 msgid "Key actions for reporting on affected areas are as follows:"
-msgstr "报告受影响区域时需采取的关键行动如下："
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:206
-msgid ""
-"**Define affected areas**: Parties should specify the affected area "
-"definition in use in their country."
-msgstr "**定义受影响区域**：缔约方应具体说明本国使用的受影响区域定义。"
+msgid "**Define affected areas**: Parties should specify the affected area definition in use in their country."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:208
-msgid ""
-"**Delineate affected areas**: Parties should spatially delineate the area"
-" that corresponds to the definition provided in Step 1."
-msgstr "**划定受影响区域**：缔约方应在空间上划定与第1步中提供的定义相对应的区域。"
+msgid "**Delineate affected areas**: Parties should spatially delineate the area that corresponds to the definition provided in Step 1."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:210
-msgid ""
-"**Calculation of affected area estimates for all indicators**: using the "
-"shapefile of the affected area produced in Step 2, Parties should "
-"calculate affected area estimates for all indicators."
-msgstr "**计算所有指标的受影响区域估计数**：缔约方应利用第2步中产生的受影响区域的shapefile，计算所有指标的受影响区域估计数。"
+msgid "**Calculation of affected area estimates for all indicators**: using the shapefile of the affected area produced in Step 2, Parties should calculate affected area estimates for all indicators."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:212
-msgid ""
-"**Generate reports**: Parties should fill in the reporting forms for SOs "
-"1 to 4 specific to affected areas."
-msgstr "**生成报告**：缔约方应填写受影响区域特定的SO 1至4的报告表。"
+msgid "**Generate reports**: Parties should fill in the reporting forms for SOs 1 to 4 specific to affected areas."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:172
-msgid ""
-"Article 1 of the Convention defines as “affected areas” arid, semi-arid "
-"and/or dry sub-humid areas affected or threatened by desertification"
-msgstr "《公约》第1条将“受影响区域”定义为受荒漠化影响或威胁的干旱、半干旱和/或亚湿润干旱地区"
+msgid "Article 1 of the Convention defines as “affected areas” arid, semi-arid and/or dry sub-humid areas affected or threatened by desertification"
+msgstr ""
 
