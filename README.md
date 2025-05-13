@@ -6,7 +6,7 @@ PDF version is available [here](https://buildmedia.readthedocs.org/media/pdf/pra
 
 ## Local build
 
-    python3.7 -m venv .venv
+    python3.12 -m venv .venv
     source .venv/bin/activate
     pip install --upgrade pip setuptools wheel
     pip install -r requirements.txt

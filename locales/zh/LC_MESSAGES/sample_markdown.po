@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-12 20:48+0300\n"
+"POT-Creation-Date: 2025-05-13 16:13+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../sample_markdown.md:1
 msgid "Heading level 1"
@@ -225,7 +225,7 @@ msgstr ""
 msgid "Boxes"
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:109
 msgid "This is a default note, without any arguments."
 msgstr ""
 
@@ -233,7 +233,7 @@ msgstr ""
 msgid "Blue title"
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:114
 msgid "This is a note, but in a different way"
 msgstr ""
 
@@ -241,7 +241,7 @@ msgstr ""
 msgid "Orange title"
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:120
 msgid "This is a warning"
 msgstr ""
 
@@ -249,7 +249,7 @@ msgstr ""
 msgid "Red title"
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:125
 msgid "This is an error"
 msgstr ""
 
@@ -257,7 +257,7 @@ msgstr ""
 msgid "Green title"
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:130
 msgid "This is a note"
 msgstr ""
 
@@ -280,7 +280,7 @@ msgstr ""
 msgid "Definition"
 msgstr ""
 
-#: ../../sample_markdown.md:142 ../../sample_markdown.md:158
+#: ../../sample_markdown.md:141 ../../sample_markdown.md:158
 msgid "Term 2"
 msgstr ""
 
@@ -288,7 +288,7 @@ msgstr ""
 msgid "Definition paragraph 1. Definition paragraph 2."
 msgstr ""
 
-#: ../../sample_markdown.md:147
+#: ../../sample_markdown.md:144
 msgid "Term 3"
 msgstr ""
 
@@ -418,35 +418,35 @@ msgstr ""
 msgid "Table title 2"
 msgstr ""
 
-#: ../../sample_markdown.md:1 ../../sample_markdown.md:217
+#: ../../sample_markdown.md:198 ../../sample_markdown.md:217
 msgid "Heading row 1, column 1"
 msgstr ""
 
-#: ../../sample_markdown.md:2 ../../sample_markdown.md:218
+#: ../../sample_markdown.md:199 ../../sample_markdown.md:218
 msgid "Heading row 1, column 2"
 msgstr ""
 
-#: ../../sample_markdown.md:3 ../../sample_markdown.md:219
+#: ../../sample_markdown.md:200 ../../sample_markdown.md:219
 msgid "Heading row 1, column 3"
 msgstr ""
 
-#: ../../sample_markdown.md:4 ../../sample_markdown.md:220
+#: ../../sample_markdown.md:201 ../../sample_markdown.md:220
 msgid "Row 1, column 1"
 msgstr ""
 
-#: ../../sample_markdown.md:6 ../../sample_markdown.md:222
+#: ../../sample_markdown.md:203 ../../sample_markdown.md:222
 msgid "Row 1, column 3"
 msgstr ""
 
-#: ../../sample_markdown.md:7 ../../sample_markdown.md:223
+#: ../../sample_markdown.md:204 ../../sample_markdown.md:223
 msgid "Row 2, column 1"
 msgstr ""
 
-#: ../../sample_markdown.md:8 ../../sample_markdown.md:224
+#: ../../sample_markdown.md:205 ../../sample_markdown.md:224
 msgid "Row 2, column 2"
 msgstr ""
 
-#: ../../sample_markdown.md:9 ../../sample_markdown.md:225
+#: ../../sample_markdown.md:206 ../../sample_markdown.md:225
 msgid "Row 2, column 3"
 msgstr ""
 
@@ -594,63 +594,63 @@ msgstr ""
 msgid "Tables (flat-table plugin)"
 msgstr ""
 
-#: ../../sample_markdown.md:306
+#: ../../sample_markdown.md:305
 msgid ""
 "*__Table 1__. Strategic objective (SO) 1 indicators and reporting "
 "attribution*"
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:312
 msgid "{rspan}`1` Indicator code"
 msgstr ""
 
-#: ../../sample_markdown.md:2
+#: ../../sample_markdown.md:313
 msgid "{rspan}`1` Indicator name"
 msgstr ""
 
-#: ../../sample_markdown.md:3
+#: ../../sample_markdown.md:314
 msgid "{rspan}`1` Metrics / proxies"
 msgstr ""
 
-#: ../../sample_markdown.md:4
+#: ../../sample_markdown.md:315
 msgid "{rspan}`1` Adopted / proposed"
 msgstr ""
 
-#: ../../sample_markdown.md:5
+#: ../../sample_markdown.md:316
 msgid "{cspan}`1` Reporting attribution"
 msgstr ""
 
-#: ../../sample_markdown.md:6
+#: ../../sample_markdown.md:317
 msgid "Affected country Parties"
 msgstr ""
 
-#: ../../sample_markdown.md:7
+#: ../../sample_markdown.md:318
 msgid "Developed country Parties"
 msgstr ""
 
-#: ../../sample_markdown.md:8
+#: ../../sample_markdown.md:319
 msgid "SO 1-1"
 msgstr ""
 
-#: ../../sample_markdown.md:9
+#: ../../sample_markdown.md:320
 msgid "Trends in land cover"
 msgstr ""
 
-#: ../../sample_markdown.md:10
+#: ../../sample_markdown.md:321
 msgid "Land cover change"
 msgstr ""
 
-#: ../../sample_markdown.md:11 ../../sample_markdown.md:21
-#: ../../sample_markdown.md:26
+#: ../../sample_markdown.md:322 ../../sample_markdown.md:332
+#: ../../sample_markdown.md:337
 msgid "Indicator adopted in decision 7/COP.13"
 msgstr ""
 
-#: ../../sample_markdown.md:12 ../../sample_markdown.md:22
-#: ../../sample_markdown.md:27 ../../sample_markdown.md:32
+#: ../../sample_markdown.md:323 ../../sample_markdown.md:333
+#: ../../sample_markdown.md:338 ../../sample_markdown.md:343
 msgid "X"
 msgstr ""
 
-#: ../../sample_markdown.md:13
+#: ../../sample_markdown.md:324
 msgid ""
 "{rspan}`3` Indicators under SO 1 and SDG indicator 15.3.1  are optional "
 "for reporting by developed country Parties.  Developed country Parties "
@@ -658,43 +658,43 @@ msgid ""
 "for the purpose  of reporting on progress towards the SDGs"
 msgstr ""
 
-#: ../../sample_markdown.md:18
+#: ../../sample_markdown.md:329
 msgid "SO 1-2"
 msgstr ""
 
-#: ../../sample_markdown.md:19
+#: ../../sample_markdown.md:330
 msgid "Trends in land productivity or functioning of the land"
 msgstr ""
 
-#: ../../sample_markdown.md:20
+#: ../../sample_markdown.md:331
 msgid "Land productivity dynamics"
 msgstr ""
 
-#: ../../sample_markdown.md:23
+#: ../../sample_markdown.md:334
 msgid "SO 1-3"
 msgstr ""
 
-#: ../../sample_markdown.md:24
+#: ../../sample_markdown.md:335
 msgid "Trends in carbon stocks above and below ground"
 msgstr ""
 
-#: ../../sample_markdown.md:25
+#: ../../sample_markdown.md:336
 msgid "Soil organic carbon stock"
 msgstr ""
 
-#: ../../sample_markdown.md:28
+#: ../../sample_markdown.md:339
 msgid "SO 1-4"
 msgstr ""
 
-#: ../../sample_markdown.md:29
+#: ../../sample_markdown.md:340
 msgid "Proportion of land that is degraded over total land area"
 msgstr ""
 
-#: ../../sample_markdown.md:30
+#: ../../sample_markdown.md:341
 msgid "\\---"
 msgstr ""
 
-#: ../../sample_markdown.md:31
+#: ../../sample_markdown.md:342
 msgid "Background for indicator adopted in decision 9/COP.13"
 msgstr ""
 
@@ -722,7 +722,7 @@ msgstr ""
 msgid "The sidebar goes first, then the main text."
 msgstr ""
 
-#: ../../sample_markdown.md:306 ../../sample_markdown.md:373
+#: ../../sample_markdown.md:305 ../../sample_markdown.md:373
 msgid "Sidebar title"
 msgstr ""
 
@@ -745,7 +745,7 @@ msgid ""
 "SO1: 1-3, should be uploaded to the PRAIS."
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:374
 msgid "Another kind of sidebar"
 msgstr ""
 
@@ -769,12 +769,26 @@ msgstr ""
 msgid "Translated texts"
 msgstr ""
 
-#: ../../sample_markdown.md:396
+#: ../../sample_markdown.md:389
+msgid "English version"
+msgstr ""
+
+#: ../../sample_markdown.md:401
 msgid "End of sample text"
 msgstr ""
 
 #: ../../sample_markdown.md:13
 msgid "This is the first footnote."
+msgstr ""
+
+#: ../../sample_markdown.md:50
+msgid "[https://esa.un.org/unpd/wup/DataQuery](https://esa.un.org/unpd/wup/DataQuery/)"
+msgstr ""
+
+#: ../../sample_markdown.md:51
+msgid ""
+"[World Bank "
+"data](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AF)"
 msgstr ""
 
 #: ../../sample_markdown.md:15
@@ -791,15 +805,5 @@ msgstr ""
 
 #: ../../sample_markdown.md:21
 msgid "Add as many paragraphs as you like."
-msgstr ""
-
-#: ../../sample_markdown.md:50
-msgid "[https://esa.un.org/unpd/wup/DataQuery](https://esa.un.org/unpd/wup/DataQuery/)"
-msgstr ""
-
-#: ../../sample_markdown.md:51
-msgid ""
-"[World Bank "
-"data](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AF)"
 msgstr ""
 

@@ -13,3 +13,5 @@ sphinx_rtd_theme
 sphinxnotes-strike
 linkify-it-py
 linuxdoc
+docxbuilder[math]
+sphinx-intl

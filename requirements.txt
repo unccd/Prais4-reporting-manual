@@ -9,11 +9,15 @@ alabaster==1.0.0
     #   -r requirements.in
     #   sphinx
 babel==2.17.0
-    # via sphinx
+    # via
+    #   sphinx
+    #   sphinx-intl
 certifi==2025.4.26
     # via requests
 charset-normalizer==3.4.2
     # via requests
+click==8.2.0
+    # via sphinx-intl
 commonmark==0.9.1
     # via
     #   -r requirements.in
@@ -25,6 +29,8 @@ docutils==0.21.2
     #   recommonmark
     #   sphinx
     #   sphinx-rtd-theme
+docxbuilder[math]==1.2.0
+    # via -r requirements.in
 fspath==20230629
     # via linuxdoc
 idna==3.10
@@ -36,10 +42,14 @@ jinja2==3.1.6
     #   myst-parser
     #   readthedocs-sphinx-ext
     #   sphinx
+latex2mathml==3.78.0
+    # via docxbuilder
 linkify-it-py==2.0.3
     # via -r requirements.in
 linuxdoc==20240924
     # via -r requirements.in
+lxml==5.4.0
+    # via docxbuilder
 markdown==3.8
     # via sphinx-markdown-tables
 markdown-it-py==3.0.0
@@ -48,6 +58,8 @@ markdown-it-py==3.0.0
     #   myst-parser
 markupsafe==3.0.2
     # via jinja2
+mathml2omml==0.0.2
+    # via docxbuilder
 mdit-py-plugins==0.4.2
     # via myst-parser
 mdurl==0.1.2
@@ -61,7 +73,9 @@ packaging==25.0
     #   readthedocs-sphinx-ext
     #   sphinx
 pillow==11.2.1
-    # via -r requirements.in
+    # via
+    #   -r requirements.in
+    #   docxbuilder
 pygments==2.19.1
     # via sphinx
 pyyaml==6.0.2
@@ -77,18 +91,24 @@ requests==2.32.3
 roman-numerals-py==3.1.0
     # via sphinx
 six==1.17.0
-    # via fspath
+    # via
+    #   docxbuilder
+    #   fspath
 snowballstemmer==3.0.1
     # via sphinx
 sphinx==8.2.3
     # via
     #   -r requirements.in
+    #   docxbuilder
     #   linuxdoc
     #   myst-parser
     #   recommonmark
+    #   sphinx-intl
     #   sphinx-rtd-theme
     #   sphinxcontrib-jquery
     #   sphinxnotes-strike
+sphinx-intl==2.3.1
+    # via -r requirements.in
 sphinx-markdown-tables==0.0.17
     # via -r requirements.in
 sphinx-rtd-theme==3.0.2
