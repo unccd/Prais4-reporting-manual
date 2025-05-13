@@ -1,727 +1,455 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, UNCCD
-# This file is distributed under the same license as the PRAIS4 Reporting
-# Manual package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: PRAIS4 Reporting Manual \n"
+"Project-Id-Version: prais4-reporting-manual\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-04 19:41+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2025-05-13 16:13+0300\n"
+"PO-Revision-Date: 2025-05-13 16:48\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: prais4-reporting-manual\n"
+"X-Crowdin-Project-ID: 760205\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/locales/source/voluntary_targets_and_others.pot\n"
+"X-Crowdin-File-ID: 26\n"
+"Language: ru_RU\n"
 
 #: ../../voluntary_targets_and_others.md:1
-msgid ""
-"6. Strategic objective 1 to 4: voluntary targets, additional indicators "
-"and affected areas"
-msgstr "6. Стратегическая цель 1–4: добровольные целевые показатели, дополнительные показатели и затронутые области"
+msgid "6. Strategic objective 1 to 4: voluntary targets, additional indicators and affected areas"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:3
 msgid "6.1. Voluntary targets for strategic objective 1"
-msgstr "6.1. Добровольные целевые показатели для стратегической цели 1"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:5
 msgid "6.1.1. Introduction"
-msgstr "6.1.1. Введение"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:7
-msgid ""
-"Parties may wish to set national voluntary targets that contribute to "
-"strategic objective 1 (SO 1) and therefore “to improve the condition of "
-"affected ecosystems, combat desertification/land degradation, promote "
-"sustainable land management and contribute to Land Degradation Neutrality"
-" (LDN)”."
-msgstr "Стороны, возможно, пожелают установить национальные добровольные целевые показатели для достижения стратегической цели 1 (СЦ 1) и, следовательно, «для улучшения состояния затронутых экосистем, борьбы с опустыниванием/деградацией земель, содействия устойчивому управлению земельными ресурсами и содействия нейтральному балансу деградации земель (НСЗ)»."
+msgid "Parties may wish to set national voluntary targets that contribute to strategic objective 1 (SO 1) and therefore “to improve the condition of affected ecosystems, combat desertification/land degradation, promote sustainable land management and contribute to Land Degradation Neutrality (LDN)”."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:9
-msgid ""
-"This includes, but is not limited to, the formulation of LDN voluntary "
-"targets in accordance with Parties’ specific national circumstances and "
-"development priorities. LDN voluntary targets reflect Parties’ ambitions "
-"in achieving no net loss of (and thus neutrality), or gains in, healthy "
-"and productive land when compared to the baseline."
-msgstr "Это включает, но не ограничивается, формулирование добровольных целевых показателей НСЗ в соответствии с конкретными национальными условиями Сторон и приоритетами развития. Добровольные целевые показатели НСЗ отражают амбиции Сторон по достижению отсутствия чистой потери (и, следовательно, нейтрального баланса) или прироста здоровых и продуктивных земель по сравнению с базовым уровнем."
+msgid "This includes, but is not limited to, the formulation of LDN voluntary targets in accordance with Parties’ specific national circumstances and development priorities. LDN voluntary targets reflect Parties’ ambitions in achieving no net loss of (and thus neutrality), or gains in, healthy and productive land when compared to the baseline."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:11
-msgid ""
-"The definition of voluntary targets should be based on best available "
-"data and knowledge. The assessment of land degradation and its drivers "
-"plays a key role in informing the decision-making process. Relevant "
-"stakeholders must be involved in the voluntary target definition process "
-"to ensure ownership and that the achievement of LDN does not come at the "
-"expense of adverse social and ecosystem impacts."
-msgstr "Определение добровольных целевых показателей должно основываться на лучших имеющихся данных и знаниях. Оценка деградации земель и ее факторов играет ключевую роль в процессе принятия обоснованных решений. Соответствующие заинтересованные стороны должны быть вовлечены в процесс добровольного определения целей, чтобы обеспечить подотчетность и убедиться, что достижение НСЗ не происходило за счет мер, неблагоприятно влияющих на социум и экосистемы."
+msgid "The definition of voluntary targets should be based on best available data and knowledge. The assessment of land degradation and its drivers plays a key role in informing the decision-making process. Relevant stakeholders must be involved in the voluntary target definition process to ensure ownership and that the achievement of LDN does not come at the expense of adverse social and ecosystem impacts."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:13
-msgid ""
-"Targets need to be measurable to monitor progress. Parties are invited to"
-" formulate quantifiable, geographically explicit and time-bound voluntary"
-" targets aiming at achieving a neutral (no net loss) or improved (net "
-"gain) state of the land, and defining interventions that contribute to "
-"avoiding, reducing and reversing land degradation, in line with the LDN "
-"response hierarchy (see figure 5)."
-msgstr "Целевые показатели должны быть измеримыми для отслеживания прогресса. Сторонам предлагается сформулировать поддающиеся количественной оценке, географически четкие и привязанные ко времени добровольные целевые показатели, направленные на достижение нейтрального (без чистых потерь) или улучшенного (чистый прирост) состояния земель и определение мероприятий, способствующих предотвращению, сокращению и обращению вспять деградации земель, в соответствии с иерархией мер реагирования НСЗ (см. рисунок 5)."
+msgid "Targets need to be measurable to monitor progress. Parties are invited to formulate quantifiable, geographically explicit and time-bound voluntary targets aiming at achieving a neutral (no net loss) or improved (net gain) state of the land, and defining interventions that contribute to avoiding, reducing and reversing land degradation, in line with the LDN response hierarchy (see figure 5)."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:15
 msgid "![](/img/LD_neutrality_response.jpg)"
-msgstr "![](/img/LD_neutrality_response.jpg)"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:17
 msgid "_Figure 5. Land Degradation Neutrality response hierarchy_"
-msgstr "_Рисунок 5. Иерархия мер реагирования для достижения нейтрального баланса деградации земель_"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:19
-msgid ""
-"Geographic specificity helps define realistic targets. Geographically "
-"explicit targets with distinct locations, ecosystem types and maps can "
-"provide increased focus on critical hotspot areas, aid prioritization and"
-" help create realistic and purposeful sub-national commitments and plans."
-msgstr "Географическая специфика помогает определить реалистичные цели. Географически четкие цели с определенными местоположениями, типами экосистем и картами могут обеспечить повышенное внимание к критическим зонам, определить приоритеты помощи и помочь создать реалистичные и целенаправленные субнациональные обязательства и планы."
+msgid "Geographic specificity helps define realistic targets. Geographically explicit targets with distinct locations, ecosystem types and maps can provide increased focus on critical hotspot areas, aid prioritization and help create realistic and purposeful sub-national commitments and plans."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:21
-msgid ""
-"An example of a time-bound, measurable and geographically explicit LDN "
-"voluntary target set by Colombia is: “By 2030, the productivity of at "
-"least 2,000 ha of soils with crops and/or pastures will be improved, with"
-" agroforestry production systems in the Caribbean and Andean regions "
-"(Sucre, Santander and Boyacá departments)”."
-msgstr "Примером добровольной цели НСЗ, определенной по срокам, измеримой и географически четкой, является установленная Колумбией цель: «К 2030 году производительность не менее 2000 га почв с сельскохозяйственными культурами и/или пастбищами будет повышена благодаря системам агролесомелиоративного производства в регионах Карибского бассейна и Анд (департаменты Сукре, Сантандер и Бояка)»."
+msgid "An example of a time-bound, measurable and geographically explicit LDN voluntary target set by Colombia is: “By 2030, the productivity of at least 2,000 ha of soils with crops and/or pastures will be improved, with agroforestry production systems in the Caribbean and Andean regions (Sucre, Santander and Boyacá departments)”."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:23
-msgid ""
-"LDN is intended to be achieved at the national level. Countries typically"
-" aim to achieve this through the definition of a combination of national "
-"target(s) and complementary targets at the sub-national level for a "
-"specific indicator and/or a specific geographic area (i.e., a particular "
-"ecosystem, natural area, watershed or subnational administrative "
-"jurisdiction), which together contribute to realizing Parties’ ambitions "
-"in achieving or exceeding LDN at the national level. Generic examples of "
-"LDN targets at different levels of application are presented in table 26 "
-"below."
-msgstr "НСЗ предполагается достичь на национальном уровне. Страны обычно стремятся достичь целей путем определения комбинации национальных целевых показателей и дополнительных целевых показателей на субнациональном уровне для конкретного показателя и/или конкретной географической области (т. е. конкретной экосистемы, природной зоны, водораздела или субнациональной административной юрисдикции), которые в совокупности способствуют реализации амбиций Сторон в достижении или превышении НСЗ на национальном уровне. Обобщенные примеры целевых показателей НСЗ на различных уровнях применения представлены в таблице 26 ниже."
+msgid "LDN is intended to be achieved at the national level. Countries typically aim to achieve this through the definition of a combination of national target(s) and complementary targets at the sub-national level for a specific indicator and/or a specific geographic area (i.e., a particular ecosystem, natural area, watershed or subnational administrative jurisdiction), which together contribute to realizing Parties’ ambitions in achieving or exceeding LDN at the national level. Generic examples of LDN targets at different levels of application are presented in table 26 below."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:25
-msgid ""
-"*__Table 26__. Generic examples of Land Degradation Neutrality targets at"
-" different levels of application*"
-msgstr "*__Таблица 26__. Обобщенные примеры целевых показателей нейтрального баланса деградации земель на различных уровнях применения*"
+msgid "*__Table 26__. Generic examples of Land Degradation Neutrality targets at different levels of application*"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:1
+#: ../../voluntary_targets_and_others.md:30
 msgid "Level of application"
-msgstr "Уровень применения"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:2
+#: ../../voluntary_targets_and_others.md:31
 msgid "Example"
-msgstr "Пример"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:3
+#: ../../voluntary_targets_and_others.md:32
 msgid "National level (no net loss)"
-msgstr "Национальный уровень (без чистых потерь)"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:4
-msgid ""
-"“Achieve Land Degradation Neutrality (LDN) by 2030 compared to the 2015 "
-"baseline”"
-msgstr "«Достичь нейтрального баланса деградации земель (НСЗ) к 2030 году по сравнению с базовым уровнем 2015 года»"
+#: ../../voluntary_targets_and_others.md:33
+msgid "“Achieve Land Degradation Neutrality (LDN) by 2030 compared to the 2015 baseline”"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:5
+#: ../../voluntary_targets_and_others.md:34
 msgid "National level (net gain)"
-msgstr "Национальный уровень (чистая прибыль)"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:6
-#, python-format
-msgid ""
-"“Achieve LDN by 2030 compared to the 2015 baseline, plus an additional "
-"10% of the national territory has improved”"
-msgstr "«Достичь НСЗ к 2030 году по сравнению с базовым уровнем 2015 года плюс дополнительное улучшение 10% of национальной территории»"
+#: ../../voluntary_targets_and_others.md:35
+msgid "“Achieve LDN by 2030 compared to the 2015 baseline, plus an additional 10% of the national territory has improved”"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:7
+#: ../../voluntary_targets_and_others.md:36
 msgid "Sub-national level (no net loss)"
-msgstr "Субнациональный уровень (без чистых потерь)"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:8
-msgid ""
-"“Achieve LDN in the Western province of country X by 2030 compared to the"
-" 2015 baseline”"
-msgstr "«Достичь НСЗ в западной провинции страны X к 2030 году по сравнению с базовым уровнем 2015 года»"
+#: ../../voluntary_targets_and_others.md:37
+msgid "“Achieve LDN in the Western province of country X by 2030 compared to the 2015 baseline”"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:9
+#: ../../voluntary_targets_and_others.md:38
 msgid "Sub-national level (net gain)"
-msgstr "Субнациональный уровень (чистая прибыль)"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:10
-#, python-format
-msgid ""
-"“Achieve LDN in the Southern province of country X by 2030 compared to "
-"the 2015 baseline, plus an additional 25% of the province territory has "
-"improved”"
-msgstr "«Достичь НСЗ в Южной провинции страны X к 2030 году по сравнению с базовым уровнем 2015 года плюс дополнительное улучшение 25% of территории провинции»"
+#: ../../voluntary_targets_and_others.md:39
+msgid "“Achieve LDN in the Southern province of country X by 2030 compared to the 2015 baseline, plus an additional 25% of the province territory has improved”"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:11
+#: ../../voluntary_targets_and_others.md:40
 msgid "Specific target (to avoid land degradation)"
-msgstr "Конкретная цель (избежать деградации земель)"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:12
-msgid ""
-"“Halt the conversion of forests and wetlands to other land cover classes "
-"by 2020”"
-msgstr "«Остановить преобразование лесов и водно-болотных угодий в другие классы растительного покрова к 2020 году»"
+#: ../../voluntary_targets_and_others.md:41
+msgid "“Halt the conversion of forests and wetlands to other land cover classes by 2020”"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:13
+#: ../../voluntary_targets_and_others.md:42
 msgid "Specific target (to reduce land degradation)"
-msgstr "Конкретная цель (сократить деградацию земель)"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:14
-msgid ""
-"“Reduce the rate of soil sealing (conversion to artificial land cover) by"
-" 50% by 2030 compared to the 2015 baseline”"
-msgstr "«Снизить темпы уплотнения почвы (преобразования в искусственный почвенный покров) на 50% к 2030 году по сравнению с базовым уровнем 2015 года»"
+#: ../../voluntary_targets_and_others.md:43
+msgid "“Reduce the rate of soil sealing (conversion to artificial land cover) by 50% by 2030 compared to the 2015 baseline”"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:15
+#: ../../voluntary_targets_and_others.md:44
 msgid "Specific target (to reverse land degradation)"
-msgstr "Конкретная цель (обратить вспять процесс деградации земель)"
+msgstr ""
 
-#: ../../voluntary_targets_and_others.md:16
-msgid ""
-"“Improve productivity and Soil Organic Carbon stocks in cropland and "
-"grasslands by 2030 compared to the 2015 baseline”   “Rehabilitate X "
-"million hectares of degraded and abandoned land for crop production by "
-"2030”   “Increase forest cover by 20% by 2030 compared to the 2015 "
-"baseline”"
-msgstr "«Повысить продуктивность и запасы органического углерода в почве на пахотных землях и лугах к 2030 году по сравнению с базовым уровнем 2015 года» «Восстановить X миллионов гектаров деградированных и заброшенных земель для производства сельскохозяйственных культур к 2030 году» «Увеличить лесной покров на 20% к 2030 году по сравнению с базовым уровнем 2015 года»"
+#: ../../voluntary_targets_and_others.md:45
+msgid "“Improve productivity and Soil Organic Carbon stocks in cropland and grasslands by 2030 compared to the 2015 baseline”   “Rehabilitate X million hectares of degraded and abandoned land for crop production by 2030”   “Increase forest cover by 20% by 2030 compared to the 2015 baseline”"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:50
-msgid ""
-"Voluntary targets and actions undertaken to address land degradation can "
-"simultaneously contribute to climate change mitigation and adaptation, "
-"biodiversity conservation and multiple Sustainable Development Goals "
-"(SDGs). Thus, there is considerable potential for synergies and it is "
-"very important that LDN targets ensure policy coherence and alignment "
-"with other national commitments made under different Conventions and "
-"related initiatives (i.e., Nationally Determined Contributions, National "
-"Adaptation Plans, National Biodiversity Strategies and Action Plans, land"
-" restoration commitments). In this context, LDN targets should be seen as"
-" an effective means of complementing and strengthening other country "
-"commitments and avoiding duplication of efforts."
-msgstr "Добровольные целевые показатели и действия, предпринимаемые для решения проблемы деградации земель, могут одновременно способствовать смягчению последствий изменения климата и адаптации к ним, сохранению биоразнообразия и достижению многочисленных целей устойчивого развития (ЦУР). Таким образом, существует значительный потенциал для синергизма, поэтому крайне важно, чтобы цели НСЗ обеспечивали согласованность политики с другими национальными обязательствами, принятыми в рамках различных Конвенций и связанных с ними инициатив (т. е. определяемые на национальном уровне взносы, национальные планы адаптации, национальные стратегии и планы действий в области биоразнообразия, обязательства по восстановлению земель). В этом контексте целевые показатели НСЗ следует рассматривать как эффективное средство дополнения и укрепления обязательств других стран и предотвращения дублирования усилий."
+msgid "Voluntary targets and actions undertaken to address land degradation can simultaneously contribute to climate change mitigation and adaptation, biodiversity conservation and multiple Sustainable Development Goals (SDGs). Thus, there is considerable potential for synergies and it is very important that LDN targets ensure policy coherence and alignment with other national commitments made under different Conventions and related initiatives (i.e., Nationally Determined Contributions, National Adaptation Plans, National Biodiversity Strategies and Action Plans, land restoration commitments). In this context, LDN targets should be seen as an effective means of complementing and strengthening other country commitments and avoiding duplication of efforts."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:52
 msgid "6.1.2. Prerequisites for reporting"
-msgstr "6.1.2. Предварительные условия для представления отчетности"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:54
-msgid ""
-"An in-depth reading of the [LDN Target Setting technical "
-"guide](https://knowledge.unccd.int/publication/ldn-target-setting-"
-"technical-guide)."
-msgstr "Подробное ознакомление с [техническим руководством по установлению целевых показателей НСЗ](https://knowledge.unccd.int/publication/ldn-target-setting-technical-guide)."
+msgid "An in-depth reading of the [LDN Target Setting technical guide](https://knowledge.unccd.int/publication/ldn-target-setting-technical-guide)."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:56
-msgid ""
-"A pool of national experts that report across various Conventions and "
-"related initiatives to ensure alignment and coherence between LDN-"
-"relevant national commitments."
-msgstr "Группа национальных экспертов, представляющих доклады по различным Конвенциям и связанным с ними инициативам для обеспечения согласованности между национальными обязательствами, относящимися к НСЗ."
+msgid "A pool of national experts that report across various Conventions and related initiatives to ensure alignment and coherence between LDN-relevant national commitments."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:58
-msgid ""
-"A spatial data file of the target areas or a good understanding of the "
-"location and extent of the targets, allowing them to be reported on in a "
-"spatially explicit manner using the PRAIS 4 spatial data viewer."
-msgstr "Файл пространственных данных целевых областей или хорошее представление о местоположении и масштабах целей, позволяющее отчитываться об их достижении в понятном пространственном виде с помощью средства просмотра пространственных данных СОРОО 4."
+msgid "A spatial data file of the target areas or a good understanding of the location and extent of the targets, allowing them to be reported on in a spatially explicit manner using the PRAIS 4 spatial data viewer."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:60
 msgid "6.1.3. Reporting process and step-by-step procedure"
-msgstr "6.1.3. Процесс отчетности и пошаговая процедура"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:62
 #: ../../voluntary_targets_and_others.md:118
 #: ../../voluntary_targets_and_others.md:140
 #: ../../voluntary_targets_and_others.md:164
 msgid "The step-by-step procedure for reporting is as follows."
-msgstr "Пошаговая процедура представления отчетности выглядит следующим образом."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:64
 #: ../../voluntary_targets_and_others.md:120
 msgid "Step 1. Declare national voluntary targets"
-msgstr "Шаг 1. Объявление национальных добровольных целевых показателей"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:66
-msgid ""
-"National voluntary targets are reported in table SO1-VT.T1 of the PRAIS 4"
-" platform. Parties are invited to articulate, in quantifiable and time-"
-"bound terms, voluntary targets that contribute to LDN and/or SO 1 and to "
-"include information on the expected year of target achievement, location "
-"and total target area, type of LDN intervention (i.e., relevance of the "
-"target to the LDN response hierarchy), planned or ongoing measures to "
-"achieve the target, and the status of target achievement. Since targets "
-"set under the United Nations Convention to Combat Desertification (UNCCD)"
-" can also address commitments made under other Rio Conventions and "
-"associated initiatives, Parties may also indicate other existing goals of"
-" relevance for their LDN targets."
-msgstr "Национальные добровольные целевые показатели представлены в таблице SO1-VT.T1 на платформе СОРОО 4. Сторонам предлагается сформулировать в поддающихся количественной оценке и ограниченных по срокам добровольных целевых показателях, которые способствуют НСЗ и/или СЦ 1, и включить информацию об ожидаемой дате достижения целевого показателя, местоположение и общую целевую площадь, тип вмешательства НСЗ (т. е. соответствие целевого показателя иерархии мер реагирования НСЗ), планируемые или текущие меры по достижению целевого показателя и статус достижения целевого показателя. Поскольку цели, установленные в рамках Конвенции Организации Объединенных Наций по борьбе с опустыниванием (КБО ООН), могут также учитывать обязательства, принятые в рамках других Конвенций Рио и связанных с ними инициатив, Стороны могут также указать другие существующие цели, имеющие отношение к их целям в области НСЗ."
+msgid "National voluntary targets are reported in table SO1-VT.T1 of the PRAIS 4 platform. Parties are invited to articulate, in quantifiable and time-bound terms, voluntary targets that contribute to LDN and/or SO 1 and to include information on the expected year of target achievement, location and total target area, type of LDN intervention (i.e., relevance of the target to the LDN response hierarchy), planned or ongoing measures to achieve the target, and the status of target achievement. Since targets set under the United Nations Convention to Combat Desertification (UNCCD) can also address commitments made under other Rio Conventions and associated initiatives, Parties may also indicate other existing goals of relevance for their LDN targets."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:68
-msgid ""
-"Table SO1-VT.T1 is a spatial table and therefore should ideally be "
-"completed with the support of the Geographic Information System (GIS) "
-"tools available in PRAIS 4. The PRAIS 4 spatial data viewer enables "
-"Parties to delineate the location and extent of their targets, thereby "
-"making them geographically explicit, or to upload an existing spatial "
-"file (in vector format) of the target areas. This is an additional and "
-"optional element, but such location-based information can strengthen "
-"spatial approaches to sustainable land management and help integrate "
-"responses to land degradation at the landscape scale."
-msgstr "Таблица SO1-VT.T1 является пространственной таблицей и поэтому в идеале должна быть заполнена при поддержке инструментов Географической информационной системы (ГИС), доступных на платформе СОРОО 4. Средство просмотра пространственных данных СОРОО 4 позволяет Сторонам определять местоположение и протяженность целей, тем самым обозначая их четкие географические границы, или загружать существующий пространственный файл (в векторном формате) целевых областей. Это дополнительный и необязательный элемент, но такая информация, основанная на местоположении, может укрепить пространственные подходы к устойчивому управлению земельными ресурсами и помочь интегрировать меры реагирования на деградацию земель в масштабах ландшафта."
+msgid "Table SO1-VT.T1 is a spatial table and therefore should ideally be completed with the support of the Geographic Information System (GIS) tools available in PRAIS 4. The PRAIS 4 spatial data viewer enables Parties to delineate the location and extent of their targets, thereby making them geographically explicit, or to upload an existing spatial file (in vector format) of the target areas. This is an additional and optional element, but such location-based information can strengthen spatial approaches to sustainable land management and help integrate responses to land degradation at the landscape scale."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:70
-msgid ""
-"Additional information not included in the table may be reported in the "
-"“General Comment” field."
-msgstr "Дополнительная информация, не включенная в таблицу, может быть указана в поле «Общие замечания»."
+msgid "Additional information not included in the table may be reported in the “General Comment” field."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:72
 msgid "Step 2. Describe implemented actions relevant to the targets"
-msgstr "Шаг 2. Опишите осуществленные действия, соответствующие целям"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:74
-msgid ""
-"Areas of implemented action (projects and initiatives on the ground) "
-"related to the targets can be reported on in table SO1.IA.T1. As for Step"
-" 1, areas of implemented action should ideally be delineated in the PRAIS"
-" 4 spatial data viewer."
-msgstr "Области осуществленных действий (проекты и инициативы на местах), связанные с целями, могут быть представлены в таблице SO1.IA.T1. Что касается шага 1, области осуществленных действий в идеале должны быть определены в средстве просмотра пространственных данных СОРОО 4."
+msgid "Areas of implemented action (projects and initiatives on the ground) related to the targets can be reported on in table SO1.IA.T1. As for Step 1, areas of implemented action should ideally be delineated in the PRAIS 4 spatial data viewer."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:76
-msgid ""
-"Delineating voluntary targets and related actions currently under "
-"implementation can help track progress towards achieving LDN in a country"
-" by 2030, support the quantification of any remaining gaps and develop "
-"scenarios for closing those gaps. In addition, the UNCCD can use this "
-"spatial data to create information products to demonstrate the impact of "
-"the Convention and global progress towards LDN."
-msgstr "Определение добровольных целевых показателей и соответствующих действий, осуществляемых в настоящее время, может помочь отследить прогресс в достижении НСЗ в стране к 2030 году, поддержать количественную оценку любых сохраняющихся пробелов и разработать сценарии для их устранения. Кроме того, КБО ООН может использовать эти пространственные данные для создания информационных продуктов, демонстрирующих влияние Конвенции и глобальный прогресс в достижении НСЗ."
+msgid "Delineating voluntary targets and related actions currently under implementation can help track progress towards achieving LDN in a country by 2030, support the quantification of any remaining gaps and develop scenarios for closing those gaps. In addition, the UNCCD can use this spatial data to create information products to demonstrate the impact of the Convention and global progress towards LDN."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:78
 msgid "6.1.4. Dependencies"
-msgstr "6.1.4. Зависимости"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:80
-msgid ""
-"Although there is no direct dependency between the voluntary targets and "
-"SO 1 indicators, it is expected that the results of the geospatial "
-"analyses for the estimation of the proportion of degraded land will "
-"inform the definition and spatial delineation of the voluntary targets "
-"and related projects and initiatives on the ground."
-msgstr "Хотя между добровольными целевыми показателями и показателями СЦ 1 нет прямой зависимости, ожидается, что результаты геопространственного анализа для оценки доли деградированных земель послужат основой для определения и пространственного разграничения добровольных целевых показателей и связанных с ними проектов и инициатив на местах."
+msgid "Although there is no direct dependency between the voluntary targets and SO 1 indicators, it is expected that the results of the geospatial analyses for the estimation of the proportion of degraded land will inform the definition and spatial delineation of the voluntary targets and related projects and initiatives on the ground."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:82
-msgid ""
-"There is a dependency between the targets set in table SO1-VT.T1 and the "
-"implemented actions reported in SO1.IA.T1; each reported action in table "
-"SO1.IA.T1 should correspond to one or more targets reported on in "
-"SO1-VT.T1."
-msgstr "Существует зависимость между целями, указанными в таблице SO1-VT.T1, и осуществленными действиями, описанными в SO1.IA.T1; каждое действие, указанное в таблице SO1.IA.T1, должно соответствовать одной или нескольким целям из таблицы SO1-VT.T1."
+msgid "There is a dependency between the targets set in table SO1-VT.T1 and the implemented actions reported in SO1.IA.T1; each reported action in table SO1.IA.T1 should correspond to one or more targets reported on in SO1-VT.T1."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:84
 msgid "6.1.5. Challenges"
-msgstr "6.1.5. Проблемы"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:86
 msgid "National coordination"
-msgstr "Национальная координация"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:88
-msgid ""
-"With respect to the various plans and commitments formulated under the "
-"Rio Conventions and/or other related initiatives, there is the risk of "
-"lack of coherence, overlap and duplication of efforts. There is scope for"
-" better alignment on restoration in national plans between the three Rio "
-"Conventions, which could enhance planning and implementation."
-msgstr "С учетом различных планов и обязательств, сформулированных в соответствии с Рио-де-Жанейрскими конвенциями и/или другими соответствующими инициативами, существует риск дублирования, наложения и отсутствия согласованности усилий. Существуют возможности для лучшего согласования вопросов восстановления в национальных планах между тремя Рио-де-Жанейрскими конвенциями, что могло бы повысить эффективность планирования и осуществления мер."
+msgid "With respect to the various plans and commitments formulated under the Rio Conventions and/or other related initiatives, there is the risk of lack of coherence, overlap and duplication of efforts. There is scope for better alignment on restoration in national plans between the three Rio Conventions, which could enhance planning and implementation."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:90
-msgid ""
-"National voluntary targets need to be well-defined, measurable and time-"
-"bound to monitor progress. The availability of GIS tools in PRAIS 4 may "
-"support the definition of more accurate and realistic targets in defined "
-"locations."
-msgstr "Национальные добровольные целевые показатели должны быть четко определены, поддаваться измерению и иметь временные рамки для мониторинга прогресса. Наличие инструментов ГИС в СОРОО 4 может способствовать определению более точных и реалистичных целей в установленных местах."
+msgid "National voluntary targets need to be well-defined, measurable and time-bound to monitor progress. The availability of GIS tools in PRAIS 4 may support the definition of more accurate and realistic targets in defined locations."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:92
 msgid "6.1.6. Further reading"
-msgstr "6.1.6. Дополнительная литература"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:94
-msgid ""
-"LDN Target Setting – A technical guide "
-"(<https://knowledge.unccd.int/publication/ldn-target-setting-technical-"
-"guide>)"
-msgstr "Установление целевых показателей НСЗ — Техническое руководство (<https://knowledge.unccd.int/publication/ldn-target-setting-technical-guide>)"
+msgid "LDN Target Setting – A technical guide (<https://knowledge.unccd.int/publication/ldn-target-setting-technical-guide>)"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:95
-msgid ""
-"Achieving Land Degradation Neutrality at the Country Level: Building "
-"Blocks for LDN Target Setting (<https://www.unccd.int/publications"
-"/achieving-land-degradation-neutrality-country-level-building-blocks-ldn-"
-"target-setting>)"
-msgstr "Достижение нейтрального баланса деградации земель на страновом уровне: строительные блоки для определения целевых показателей НСЗ (<https://www.unccd.int/publications/achieving-land-degradation-neutrality-country-level-building-blocks-ldn-target-setting>)"
+msgid "Achieving Land Degradation Neutrality at the Country Level: Building Blocks for LDN Target Setting (<https://www.unccd.int/publications/achieving-land-degradation-neutrality-country-level-building-blocks-ldn-target-setting>)"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:96
-msgid ""
-"Goals and Commitments for the Restoration Decade. A global overview of "
-"countries’ restoration commitments under the Rio Conventions and other "
-"pledges. © PBL Netherlands Environmental Assessment Agency, The Hague, "
-"2020, PBL publication number: 3906 "
-"(<https://www.pbl.nl/sites/default/files/downloads/pbl-2020-goals-and-"
-"commitments-for-the-restoration-decade-3906.pdf>)"
-msgstr "Цели и обязательства на Десятилетие по восстановлению экосистем. Глобальный обзор обязательств стран по восстановлению экосистем в соответствии с Рио-де-Жанейрскими конвенциями и другими обязательствами. © Нидерландское Агентство по оценке окружающей среды PBL, Гаага, 2020 г., Номер публикации PBL: 3906 (<https://www.pbl.nl/sites/default/files/downloads/pbl-2020-goals-and-commitments-for-the-restoration-decade-3906.pdf>)"
+msgid "Goals and Commitments for the Restoration Decade. A global overview of countries’ restoration commitments under the Rio Conventions and other pledges. © PBL Netherlands Environmental Assessment Agency, The Hague, 2020, PBL publication number: 3906 (<https://www.pbl.nl/sites/default/files/downloads/pbl-2020-goals-and-commitments-for-the-restoration-decade-3906.pdf>)"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:98
 msgid "6.2. Voluntary targets for strategic objectives 2, 3 and 4"
-msgstr "6.2. Добровольные целевые показатели для стратегических целей 2, 3 и 4"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:100
 msgid "6.2.1. Introduction"
-msgstr "6.2.1. Введение"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:102
-msgid ""
-"Parties may wish to set national voluntary targets that contribute to the"
-" achievement of SOs 2, 3 and 4:"
-msgstr "Стороны, возможно, пожелают установить национальные добровольные целевые показатели, способствующие достижению целей 2, 3 и 4:"
+msgid "Parties may wish to set national voluntary targets that contribute to the achievement of SOs 2, 3 and 4:"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:104
 msgid "SO 2: to improve the living conditions of affected populations;"
-msgstr "СЦ 2: Улучшение условий жизни затронутого населения;"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:106
-msgid ""
-"SO 3: to mitigate, adapt to, and manage the effects of drought in order "
-"to enhance resilience of vulnerable populations and ecosystems;"
-msgstr "СЦ 3: Смягчение последствий засухи, адаптация к ним и управление ими в целях повышения устойчивости уязвимых групп населения и экосистем;"
+msgid "SO 3: to mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems;"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:108
-msgid ""
-"SO 4: to generate global environmental benefits through effective "
-"implementation of the UNCCD."
-msgstr "СЦ 4: Получение глобальных экологических выгод за счет эффективного осуществления КБО ООН."
+msgid "SO 4: to generate global environmental benefits through effective implementation of the UNCCD."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:110
-msgid ""
-"The definition of voluntary targets should be based on best available "
-"data and knowledge. The assessment and estimation of the related "
-"indicators can play a key role in informing the decision-making process."
-msgstr "Определение добровольных целевых показателей должно основываться на лучших имеющихся данных и знаниях. Оценка и рассмотрение соответствующих показателей могут сыграть ключевую роль в процессе принятия обоснованных решений."
+msgid "The definition of voluntary targets should be based on best available data and knowledge. The assessment and estimation of the related indicators can play a key role in informing the decision-making process."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:112
-msgid ""
-"Targets need to be measurable to monitor progress. Parties are invited to"
-" formulate quantifiable, time-bound and, where relevant, geographically "
-"explicit targets."
-msgstr "Целевые показатели должны быть измеримыми для отслеживания прогресса. Сторонам предлагается сформулировать поддающиеся количественной оценке, привязанные ко времени и, в случае необходимости, географически четкие целевые показатели."
+msgid "Targets need to be measurable to monitor progress. Parties are invited to formulate quantifiable, time-bound and, where relevant, geographically explicit targets."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:114
-msgid ""
-"Voluntary targets and actions undertaken to achieve the UNCCD SOs can "
-"simultaneously contribute to climate change mitigation and adaptation, "
-"biodiversity conservation and multiple SDGs. Thus, there is considerable "
-"potential for synergies and it is very important that targets set under "
-"the UNCCD ensure policy coherence and alignment with other national "
-"commitments made under the SDGs, different Conventions and related "
-"initiatives."
-msgstr "Добровольные целевые показатели и действия, предпринимаемые для достижения СЦ КБО ООН, могут одновременно способствовать смягчению последствий изменения климата и адаптации к ним, сохранению биоразнообразия и достижению многочисленных ЦУР. Таким образом, существует значительный потенциал для синергизма, поэтому крайне важно, чтобы цели, установленные в рамках КБО ООН, обеспечивали согласованность политики с другими национальными обязательствами, принятыми в рамках ЦУР, различных Конвенций и связанных с ними инициатив."
+msgid "Voluntary targets and actions undertaken to achieve the UNCCD SOs can simultaneously contribute to climate change mitigation and adaptation, biodiversity conservation and multiple SDGs. Thus, there is considerable potential for synergies and it is very important that targets set under the UNCCD ensure policy coherence and alignment with other national commitments made under the SDGs, different Conventions and related initiatives."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:116
 msgid "6.2.2. Reporting process and step-by-step procedure"
-msgstr "6.2.2. Процесс отчетности и пошаговая процедура"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:122
-msgid ""
-"Parties are invited to articulate, in quantifiable and time-bound terms, "
-"voluntary targets that contribute to the achievement of SOs 2, 3 and 4, "
-"and to include information on the expected year of achievement or actual "
-"year (if already achieved), the level of application (e.g., national, "
-"sub-national) and the implementation status (achieved, not achieved, "
-"ongoing, extended or postponed, partially achieved)."
-msgstr "Сторонам предлагается сформулировать поддающиеся количественной оценке и ограниченные по срокам добровольные целевые показатели, которые способствуют достижению целей 2, 3 и 4, включив информацию об ожидаемом или фактическом году достижения (если он уже достигнут), уровне применения (например, национальный, субнациональный) и статусе реализации (цель достигнута, не достигнута, работа продолжается, продлена или отложена, цель частично достигнута)."
+msgid "Parties are invited to articulate, in quantifiable and time-bound terms, voluntary targets that contribute to the achievement of SOs 2, 3 and 4, and to include information on the expected year of achievement or actual year (if already achieved), the level of application (e.g., national, sub-national) and the implementation status (achieved, not achieved, ongoing, extended or postponed, partially achieved)."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:124
-msgid ""
-"Delineating the SO 2, 3 and 4 target areas in PRAIS 4 is not requested at"
-" this stage. However, geographically explicit targets with distinct "
-"locations can help create realistic and purposeful sub-national "
-"commitments and plans."
-msgstr "Определение целевых областей СЦ 2, 3 и 4 в СОРОО 4 на данном этапе не требуется. Тем не менее, географически определенные цели с четко обозначенными местоположениями способствуют созданию реалистичных и целенаправленных субнациональных обязательств и планов."
+msgid "Delineating the SO 2, 3 and 4 target areas in PRAIS 4 is not requested at this stage. However, geographically explicit targets with distinct locations can help create realistic and purposeful sub-national commitments and plans."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:126
 msgid "Step 2. Provide any complementary information"
-msgstr "Шаг 2. Предоставление любой дополнительной информации"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:128
-msgid ""
-"Complementary information may be reported in the “General Comments” "
-"field. This may include whether the targets have been adopted or "
-"officially endorsed and if so, by which body (institution, government "
-"agency, regulation). Implemented action, such as target-related projects "
-"and initiatives on the ground can also be described."
-msgstr "Дополнительную информацию можно указать в поле «Общие замечания». Информация может охватывать такие вопросы, как: были ли целевые показатели приняты или официально одобрены, и если да, то каким органом (учреждением, государственным учреждением, регулирующим органом). Также могут быть описаны предпринятые действия, такие как проекты и инициативы, проводимые на местах и связанные с целевыми задачами."
+msgid "Complementary information may be reported in the “General Comments” field. This may include whether the targets have been adopted or officially endorsed and if so, by which body (institution, government agency, regulation). Implemented action, such as target-related projects and initiatives on the ground can also be described."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:130
-msgid ""
-"Furthermore, Parties are encouraged to outline the linkages with the "
-"SDGs, indicate opportunities to create leverage and synergies with their "
-"countries’ socio-economic, infrastructural and biodiversity agendas, and "
-"collaborate with other multilateral environmental agreements."
-msgstr "Кроме того, Сторонам рекомендуется обрисовать связи с ЦУР, указать возможности для нахождения точек соприкосновения и формирования синергии с социально-экономическими, инфраструктурными повестками дня и повестками дня в области биоразнообразия стран, а также для сотрудничества с другими многосторонними природоохранными соглашениями."
+msgid "Furthermore, Parties are encouraged to outline the linkages with the SDGs, indicate opportunities to create leverage and synergies with their countries’ socio-economic, infrastructural and biodiversity agendas, and collaborate with other multilateral environmental agreements."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:132
 msgid "6.3. Additional Indicators"
-msgstr "6.3. Дополнительные показатели"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:134
 msgid "6.3.1. Introduction"
-msgstr "6.3.1. Введение"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:136
-msgid ""
-"Additional indicators at the national and sub-national levels can assist "
-"in both interpreting and understanding the common global indicators "
-"associated with each strategic objective, and address locally-relevant "
-"issues."
-msgstr "Дополнительные показатели на национальном и субнациональном уровнях могут помочь как в интерпретации, так и в понимании общих глобальных показателей, связанных с каждой стратегической целью, и в решении местных проблем."
+msgid "Additional indicators at the national and sub-national levels can assist in both interpreting and understanding the common global indicators associated with each strategic objective, and address locally-relevant issues."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:138
 msgid "6.3.2. Reporting process and step-by-step procedure"
-msgstr "6.3.2. Процесс отчетности и пошаговая процедура"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:142
 msgid "Step 1. Report any national additional indicators"
-msgstr "Шаг 1. Укажите любые дополнительные национальные показатели"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:144
-msgid ""
-"Countries are encouraged to identify complementary indicators for SOs 1 "
-"to 4 to better address national and sub-national specificities. These can"
-" be additional progress indicators or process indicators to monitor "
-"whether actions are being implemented as planned. Additional indicators "
-"can be quantitative and qualitative."
-msgstr "Странам рекомендуется определить дополнительные показатели для СЦ 1–4 в целях более эффективного учета национальных и субнациональных особенностей. Это могут быть дополнительные показатели прогресса или показатели процесса для мониторинга того, выполняются ли действия в соответствии с планом. Дополнительные показатели могут быть количественными и качественными."
+msgid "Countries are encouraged to identify complementary indicators for SOs 1 to 4 to better address national and sub-national specificities. These can be additional progress indicators or process indicators to monitor whether actions are being implemented as planned. Additional indicators can be quantitative and qualitative."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:146
-msgid ""
-"While sex-disaggregated data related to exposure of population to land "
-"degradation and drought are now collected through indicators SO 2-3 and "
-"SO 3-2, Parties are encouraged to identify further gender-responsive "
-"socio-economic and demographic indicators that may provide a better "
-"understanding of how and why specific populations are affected by land "
-"degradation and drought."
-msgstr "Хотя данные с разбивкой по признаку пола, касающиеся подверженности населения деградации земель и засухе, в настоящее время собираются с помощью показателей СЦ 2–3 и СЦ 3–2, Сторонам рекомендуется определить дополнительные социально-экономические и демографические показатели, учитывающие гендерные аспекты, которые могут обеспечить лучшее понимание того, как и почему конкретные группы населения страдают от деградации земель и засухи."
+msgid "While sex-disaggregated data related to exposure of population to land degradation and drought are now collected through indicators SO 2-3 and SO 3-2, Parties are encouraged to identify further gender-responsive socio-economic and demographic indicators that may provide a better understanding of how and why specific populations are affected by land degradation and drought."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:148
-msgid ""
-"Additional indicators can be added on the PRAIS 4 platform via a "
-"dedicated form (referred to as AI for brevity in PRAIS 4).  Parties may "
-"specify the name of the indicators, the associated SOs and their "
-"direction of change. A brief description of the indicators and other "
-"relevant information may be reported in the “Comment” field."
-msgstr "Дополнительные показатели могут быть добавлены на платформу СОРОО 4 с помощью специальной формы (для краткости в СОРОО 4 она называется AI). Стороны могут указать название показателей, связанные с ними СЦ и то, какие изменения они измеряют. Краткое описание показателей и другую соответствующую информацию можно указать в поле «Комментарии»."
+msgid "Additional indicators can be added on the PRAIS 4 platform via a dedicated form (referred to as AI for brevity in PRAIS 4).  Parties may specify the name of the indicators, the associated SOs and their direction of change. A brief description of the indicators and other relevant information may be reported in the “Comment” field."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:150
 msgid "6.4. Affected Areas"
-msgstr "6.4. Затронутые области"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:152
 msgid "6.4.1. Introduction"
-msgstr "6.4.1. Введение"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:154
-msgid ""
-"By its decision 11/COP.14, the Conference of the Parties requested the "
-"secretariat to further facilitate reporting on SOs 1, 2, 3 and 4 by, "
-"inter alia, including additional data fields specific to affected areas "
-"in the reporting system."
-msgstr "В своем решении 11/СОР.14 Конференция Сторон просила секретариат и далее содействовать представлению отчетности по СЦ 1, 2, 3 и 4 путем, в частности, включения в систему отчетности дополнительных полей данных, относящихся к затрагиваемым областям."
+msgid "By its decision 11/COP.14, the Conference of the Parties requested the secretariat to further facilitate reporting on SOs 1, 2, 3 and 4 by, inter alia, including additional data fields specific to affected areas in the reporting system."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:156
-msgid ""
-"Therefore, PRAIS 4 facilitates countries that wish to report on affected "
-"areas as an additional and optional item to national reporting. Parties "
-"have the option to report on affected areas using a specific set of forms"
-" for SOs 1, 2, 3 and 4. The process, forms and tables to report on "
-"affected areas are the same as those used for national reporting. No "
-"default data is made available for affected area reporting."
-msgstr "Таким образом, СОРОО 4 содействует странам, желающим сообщить о затронутых областях, в качестве дополнительного и необязательного элемента в национальной отчетности. Стороны имеют возможность сообщить о затронутых областях, используя определенный набор форм для СЦ 1, 2, 3 и 4. Процесс, формы и таблицы для отчетности по затронутым областям совпадают с таковыми для национальной отчетности. Данные по умолчанию для отчетности по затронутым областям не предоставляются."
+msgid "Therefore, PRAIS 4 facilitates countries that wish to report on affected areas as an additional and optional item to national reporting. Parties have the option to report on affected areas using a specific set of forms for SOs 1, 2, 3 and 4. The process, forms and tables to report on affected areas are the same as those used for national reporting. No default data is made available for affected area reporting."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:158
 msgid "6.4.2. Pre-requisite for reporting"
-msgstr "6.4.2. Предварительное условие для представления отчетности"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:160
 msgid "Sub-national data specific to affected areas."
-msgstr "Субнациональные данные, относящиеся к затронутым областям."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:162
 msgid "6.4.3. Reporting process and step-by-step procedure"
-msgstr "6.4.3. Процесс отчетности и пошаговая процедура"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:166
 msgid "Step 1: Define affected areas"
-msgstr "Шаг 1. Определите затронутые области"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:168
-msgid ""
-"Parties wishing to report on affected areas are invited to specify the "
-"affected area definition in use in their country. In PRAIS 4, Parties may"
-" opt to use the definition of the affected areas contained in Article 1 "
-"of the Convention[^1],  or to provide the operational definition of "
-"affected area in use in their country."
-msgstr "Сторонам, желающим сообщить о затронутых областях, предлагается указать определение затронутой зоны, используемое в их стране. В СОРОО 4 Стороны могут выбрать определение затронутых областей, содержащееся в статье 1 Конвенции[^1], или предоставить оперативное определение затронутой зоны, используемое в их стране."
+msgid "Parties wishing to report on affected areas are invited to specify the affected area definition in use in their country. In PRAIS 4, Parties may opt to use the definition of the affected areas contained in Article 1 of the Convention[^1],  or to provide the operational definition of affected area in use in their country."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:170
-msgid ""
-"Once this part of the form has been completed and saved, the reporting "
-"forms for SOs 1 to 4 specific to affected areas (referred to as AA for "
-"brevity in the reporting forms) will open. These forms will not contain "
-"pre-filled default data as provided for national reporting. Therefore, "
-"Parties will be required to produce the data specific to affected areas "
-"and report it in the forms as explained in Steps 2–4."
-msgstr "Как только эта часть формы будет заполнена и сохранена, откроются формы отчетности для СЦ 1–4, относящиеся к затронутым областям (для краткости в формах отчетности они называются AA). Эти формы не будут содержать предварительно заполненных данных по умолчанию, как это предусмотрено для национальной отчетности. Поэтому Стороны должны будут предоставить собственные данные, относящиеся к затронутым районам, и представить их в формах, как описано в Шагах 2–4."
+msgid "Once this part of the form has been completed and saved, the reporting forms for SOs 1 to 4 specific to affected areas (referred to as AA for brevity in the reporting forms) will open. These forms will not contain pre-filled default data as provided for national reporting. Therefore, Parties will be required to produce the data specific to affected areas and report it in the forms as explained in Steps 2–4."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:174
 msgid "Step 2: Delineate affected areas"
-msgstr "Шаг 2. Определите границы затронутых областей"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:176
-msgid ""
-"Parties will be required to spatially delineate the area that corresponds"
-" to the definition provided in Step 1 above. Digitization tools in any "
-"GIS software (e.g., ArcGIS, QGIS) could be used for this purpose or "
-"Parties may have an existing spatial file of the affected area available "
-"(e.g., ESRI shapefile, GeoJSON or any widely accepted file format)."
-msgstr "Стороны должны будут пространственно обозначить область, соответствующую определению, приведенному в Шаге 1 выше. Для этой цели могут быть использованы инструменты оцифровки в любом программном обеспечении ГИС (например, ArcGIS, QGIS) или уже имеющийся у Стороны пространственный файл затронутой области (например, ESRI shapefile, GeoJSON или любой широко распространенный формат файла)."
+msgid "Parties will be required to spatially delineate the area that corresponds to the definition provided in Step 1 above. Digitization tools in any GIS software (e.g., ArcGIS, QGIS) could be used for this purpose or Parties may have an existing spatial file of the affected area available (e.g., ESRI shapefile, GeoJSON or any widely accepted file format)."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:178
 msgid "Step 3: Calculation of affected area estimates for all indicators"
-msgstr "Шаг 3. Расчет оценок затронутой области по всем показателям"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:180
-msgid ""
-"Using the shapefile of the affected area produced in Step 2, Parties "
-"should calculate affected area estimates of all indicators for SOs 1 to "
-"4."
-msgstr "Используя шейп-файл затронутой области, созданный на этапе 2, Сторонам следует рассчитать оценки затронутой области по всем показателям для СЦ 1-4."
+msgid "Using the shapefile of the affected area produced in Step 2, Parties should calculate affected area estimates of all indicators for SOs 1 to 4."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:182
-msgid ""
-"Trends.Earth can be used to run these calculations on any area of "
-"interest. When calculating the indicators in Trends.Earth, Parties should"
-" upload the shapefile of the affected area produced in Step 2 and use it "
-"as the area of analysis. Parties should refer to the Trends.Earth "
-"documentation for further information on how to use their own area file "
-"in the calculations. Once the processing is complete, Parties will be "
-"required to upload their results to the PRAIS 4 platform and/or manually "
-"fill in the affected area forms with the required information."
-msgstr "Для выполнения этих вычислений в любой интересующей области можно использовать Trends.Earth. При расчете показателей в Trends.Earth Сторонам следует загрузить шейп-файл затронутой области, созданный в шаге 2, и использовать его в качестве области анализа. Сторонам следует ссылаться на документацию Trends.Earth для получения дополнительной информации о том, как использовать их собственный файл области в расчетах. Как только обработка будет завершена, Стороны должны загрузить свои результаты на платформу СОРОО 4 и/или вручную заполнить формы информацией о затронутых областях."
+msgid "Trends.Earth can be used to run these calculations on any area of interest. When calculating the indicators in Trends.Earth, Parties should upload the shapefile of the affected area produced in Step 2 and use it as the area of analysis. Parties should refer to the Trends.Earth documentation for further information on how to use their own area file in the calculations. Once the processing is complete, Parties will be required to upload their results to the PRAIS 4 platform and/or manually fill in the affected area forms with the required information."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:184
-msgid ""
-"For non-geospatial indicators (e.g., SO2-1, SO2-2, SO4-2 andSO 4-3), "
-"Parties may wish to assess the availability of sub-national information "
-"specific to the affected areas defined in Step 1, and report it in the "
-"forms provided."
-msgstr "Для негеопространственных показателей (например, СЦ2-1, СЦ2-2, СЦ4-2 и СЦ4 4-3) Стороны, возможно, пожелают оценить наличие субнациональной информации, специфичной для затрагиваемых районов, определенных в шаге 1, и указать ее в предоставленных формах."
+msgid "For non-geospatial indicators (e.g., SO2-1, SO2-2, SO4-2 andSO 4-3), Parties may wish to assess the availability of sub-national information specific to the affected areas defined in Step 1, and report it in the forms provided."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:186
 msgid "Step 4: Generate reports"
-msgstr "Шаг 4. Сформируйте отчеты"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:188
-msgid ""
-"All forms and tables on the PRAIS 4 platform for reporting the affected "
-"areas should be filled in and supporting data and information provided, "
-"if desired, through the upload tools in PRAIS."
-msgstr "Необходимо заполнить все формы и таблицы на платформе СОРОО 4 для отчетности по затронутым районам, при желании должны быть предоставлены вспомогательные данные и информация с помощью инструментов загрузки на платформе СОРОО."
+msgid "All forms and tables on the PRAIS 4 platform for reporting the affected areas should be filled in and supporting data and information provided, if desired, through the upload tools in PRAIS."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:190
-msgid ""
-"Once completed and verified by the Parties, the indicators’ estimates for"
-" the reporting and baseline periods should be officially submitted to the"
-" UNCCD. Parties are also encouraged to submit narratives on the "
-"methodology, data sources and data accuracy."
-msgstr "После завершения процесса и проверки Сторонами оценки показателей за отчетный и базовый периоды должны быть официально представлены в КБО ООН. Сторонам также рекомендуется представлять информацию о методологии, источниках и точности данных."
+msgid "Once completed and verified by the Parties, the indicators’ estimates for the reporting and baseline periods should be officially submitted to the UNCCD. Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:192
 msgid "6.4.4. Challenges"
-msgstr "6.4.4. Проблемы"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:194
 msgid "Data availability and quality"
-msgstr "Доступность и качество данных"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:196
-msgid ""
-"Depending on the extent of the affected areas, spatial resolution of "
-"global default datasets available in Trends.Earth might not always be "
-"suitable to calculate indicators with enough sensitivity to spatial "
-"variation at sub-national level. Although higher spatial resolution data "
-"might be needed, Parties might be challenged by access to commercial "
-"satellite imagery, for example, where costs might be prohibitive."
-msgstr "В зависимости от масштабов затронутых областей, пространственное разрешение глобальных наборов данных по умолчанию, доступное в Trends.Earth, не всегда подойдет для расчета показателей с достаточной чувствительностью к пространственным изменениям на субнациональном уровне. Несмотря на потребность в данных с более высоким пространственным разрешением, у Сторон может возникнуть проблема с доступом к коммерческим спутниковым снимкам, например, если затраты окажутся непомерно высокими."
+msgid "Depending on the extent of the affected areas, spatial resolution of global default datasets available in Trends.Earth might not always be suitable to calculate indicators with enough sensitivity to spatial variation at sub-national level. Although higher spatial resolution data might be needed, Parties might be challenged by access to commercial satellite imagery, for example, where costs might be prohibitive."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:198
 msgid "Methodological approach"
-msgstr "Методологический подход"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:200
-msgid ""
-"Affected area definitions may vary across countries, limiting the "
-"comparability of results across regions and/or globally."
-msgstr "Определения затронутых областей могут различаться в разных странах, что ограничивает сопоставимость результатов в разных регионах и/или в глобальном масштабе."
+msgid "Affected area definitions may vary across countries, limiting the comparability of results across regions and/or globally."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:202
 msgid "6.4.5. Summary (main actions)"
-msgstr "6.4.5. Краткие выводы (основные действия)"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:204
 msgid "Key actions for reporting on affected areas are as follows:"
-msgstr "Основные действия по представлению отчетности о затронутых областях заключаются в следующем:"
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:206
-msgid ""
-"**Define affected areas**: Parties should specify the affected area "
-"definition in use in their country."
-msgstr "**Определение затронутых областей**: Сторонам следует указать определение затронутой области, используемое в их стране."
+msgid "**Define affected areas**: Parties should specify the affected area definition in use in their country."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:208
-msgid ""
-"**Delineate affected areas**: Parties should spatially delineate the area"
-" that corresponds to the definition provided in Step 1."
-msgstr "**Определение границ затронутых областей**: Сторонам следует пространственно ограничить территорию, соответствующую определению, приведенному в шаге 1."
+msgid "**Delineate affected areas**: Parties should spatially delineate the area that corresponds to the definition provided in Step 1."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:210
-msgid ""
-"**Calculation of affected area estimates for all indicators**: using the "
-"shapefile of the affected area produced in Step 2, Parties should "
-"calculate affected area estimates for all indicators."
-msgstr "**Расчет оценок затронутой области по всем показателям**: используя шейп-файл затронутой области, созданный на этапе 2, Сторонам следует рассчитать оценки для такой территории по всем показателям."
+msgid "**Calculation of affected area estimates for all indicators**: using the shapefile of the affected area produced in Step 2, Parties should calculate affected area estimates for all indicators."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:212
-msgid ""
-"**Generate reports**: Parties should fill in the reporting forms for SOs "
-"1 to 4 specific to affected areas."
-msgstr "**Подготовка отчетов**: Стороны должны заполнить формы отчетности для СЦ 1–4 информацией о затронутой области."
+msgid "**Generate reports**: Parties should fill in the reporting forms for SOs 1 to 4 specific to affected areas."
+msgstr ""
 
 #: ../../voluntary_targets_and_others.md:172
-msgid ""
-"Article 1 of the Convention defines as “affected areas” arid, semi-arid "
-"and/or dry sub-humid areas affected or threatened by desertification"
-msgstr "Статья 1 Конвенции определяет «затронутые области» как засушливые, полузасушливые и/или сухие субгумидные районы, затронутые опустыниванием или находящиеся под угрозой его возникновения"
+msgid "Article 1 of the Convention defines as “affected areas” arid, semi-arid and/or dry sub-humid areas affected or threatened by desertification"
+msgstr ""
 
