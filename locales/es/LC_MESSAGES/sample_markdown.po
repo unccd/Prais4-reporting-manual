@@ -1,21 +1,21 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, UNCCD
-# This file is distributed under the same license as the PRAIS4 Reporting
-# Manual package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: PRAIS4 Reporting Manual \n"
+"Project-Id-Version: prais4-reporting-manual\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-12 20:48+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2025-05-13 16:13+0300\n"
+"PO-Revision-Date: 2025-05-13 16:48\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: prais4-reporting-manual\n"
+"X-Crowdin-Project-ID: 760205\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /master/locales/source/sample_markdown.pot\n"
+"X-Crowdin-File-ID: 24\n"
+"Language: es_ES\n"
 
 #: ../../sample_markdown.md:1
 msgid "Heading level 1"
@@ -30,9 +30,7 @@ msgid "Heading level 3"
 msgstr ""
 
 #: ../../sample_markdown.md:7
-msgid ""
-"This information is required to facilitate analysis of the progress "
-"indicators for strategic objectives 1 and 2."
+msgid "This information is required to facilitate analysis of the progress indicators for strategic objectives 1 and 2."
 msgstr ""
 
 #: ../../sample_markdown.md:9
@@ -48,30 +46,15 @@ msgid "Land area"
 msgstr ""
 
 #: ../../sample_markdown.md:25
-msgid ""
-"Information relating to land area is required over several years to "
-"calculate the proportion of land covered by each land cover class (SO1-1)"
-" and the proportion of land that is degraded over total land area "
-"(Sustainable Development Goal indicator 15.3.1). This information is also"
-" useful to investigate possible climate impacts, which could be "
-"potentially identified by the reduction in size of permanent water "
-"bodies, the disappearance of permanent water bodies and the loss of "
-"coastline."
+msgid "Information relating to land area is required over several years to calculate the proportion of land covered by each land cover class (SO1-1) and the proportion of land that is degraded over total land area (Sustainable Development Goal indicator 15.3.1). This information is also useful to investigate possible climate impacts, which could be potentially identified by the reduction in size of permanent water bodies, the disappearance of permanent water bodies and the loss of coastline."
 msgstr ""
 
 #: ../../sample_markdown.md:31
-msgid ""
-"Total land area, water body area and total country area require "
-"respective estimates to be reported in km{sup}`2` for the corresponding "
-"year. Land area data is pre-filled in the reporting template. The pre-"
-"filled data is editable and thus can be adjusted if these estimates have "
-"changed. Any changes are to be justified in the ‘Comments’ column."
+msgid "Total land area, water body area and total country area require respective estimates to be reported in km{sup}`2` for the corresponding year. Land area data is pre-filled in the reporting template. The pre-filled data is editable and thus can be adjusted if these estimates have changed. Any changes are to be justified in the ‘Comments’ column."
 msgstr ""
 
 #: ../../sample_markdown.md:36
-msgid ""
-"Countries should ensure that data on land area is consistent with data on"
-" land cover and on the proportion of land that is degraded."
+msgid "Countries should ensure that data on land area is consistent with data on land cover and on the proportion of land that is degraded."
 msgstr ""
 
 #: ../../sample_markdown.md:39
@@ -79,27 +62,15 @@ msgid "Demographics"
 msgstr ""
 
 #: ../../sample_markdown.md:41
-msgid ""
-"Demographics are required over several years to estimate the proportion "
-"of population below the international poverty line (SO2-1) and proportion"
-" of population using safely managed drinking water services (SO2-2). "
-"Information relating to population is also useful to ascertain how much "
-"pressure the increases in population are having on land capital in both "
-"rural and urban areas."
+msgid "Demographics are required over several years to estimate the proportion of population below the international poverty line (SO2-1) and proportion of population using safely managed drinking water services (SO2-2). Information relating to population is also useful to ascertain how much pressure the increases in population are having on land capital in both rural and urban areas."
 msgstr ""
 
 #: ../../sample_markdown.md:46
-msgid ""
-"Population estimates should be reported in thousand inhabitants. "
-"Population estimates can be accessed from website of the United Nations, "
-"Department of Economic and Social Affairs, Population Division[^2] and/or"
-" from the World Bank website.[^3]"
+msgid "Population estimates should be reported in thousand inhabitants. Population estimates can be accessed from website of the United Nations, Department of Economic and Social Affairs, Population Division[^2] and/or from the World Bank website.[^3]"
 msgstr ""
 
 #: ../../sample_markdown.md:53
-msgid ""
-"Countries should ensure that data on demographics is consistent with data"
-" on poverty and drinking water"
+msgid "Countries should ensure that data on demographics is consistent with data on poverty and drinking water"
 msgstr ""
 
 #: ../../sample_markdown.md:55
@@ -107,12 +78,7 @@ msgid "Complementary information"
 msgstr ""
 
 #: ../../sample_markdown.md:57
-msgid ""
-"Population datasets that have been further disaggregated (by labor force,"
-" age, male/female) are available from the World Bank. This disaggregated "
-"data may assist in the interpretation of population dynamics and "
-"potential population pressures. Any additional disaggregated data should "
-"also be uploaded to the PRAIS."
+msgid "Population datasets that have been further disaggregated (by labor force, age, male/female) are available from the World Bank. This disaggregated data may assist in the interpretation of population dynamics and potential population pressures. Any additional disaggregated data should also be uploaded to the PRAIS."
 msgstr ""
 
 #: ../../sample_markdown.md:61
@@ -120,10 +86,7 @@ msgid "Images"
 msgstr ""
 
 #: ../../sample_markdown.md:63
-msgid ""
-"![Alt-text for the first "
-"image](https://d33wubrfki0l68.cloudfront.net/eab45e25bb79970178fab7a2d10cba0209372a59/94d9e/assets/images"
-"/philly-magic-garden.jpg \"This is the tooltip\")"
+msgid "![Alt-text for the first image](https://d33wubrfki0l68.cloudfront.net/eab45e25bb79970178fab7a2d10cba0209372a59/94d9e/assets/images/philly-magic-garden.jpg \"This is the tooltip\")"
 msgstr ""
 
 #: ../../sample_markdown.md:63
@@ -143,10 +106,7 @@ msgid "Basic formatting"
 msgstr ""
 
 #: ../../sample_markdown.md:69
-msgid ""
-"Use double asterisks for **bold text**. It also works with __double "
-"underscores__. Use single asterisks or underscores for *italic* _text_. "
-"Use three asterisks for ***really important*** text."
+msgid "Use double asterisks for **bold text**. It also works with __double underscores__. Use single asterisks or underscores for *italic* _text_. Use three asterisks for ***really important*** text."
 msgstr ""
 
 #: ../../sample_markdown.md:73
@@ -154,15 +114,11 @@ msgid "<ins>Underline text</ins> may work using the HTML `<ins>` tag."
 msgstr ""
 
 #: ../../sample_markdown.md:75
-msgid ""
-"Same for {strike}`strikethrough` using the `{strike}` or `{del}` "
-"annotation. Or use this other way to add ~~strikethrough~~ text."
+msgid "Same for {strike}`strikethrough` using the `{strike}` or `{del}` annotation. Or use this other way to add ~~strikethrough~~ text."
 msgstr ""
 
 #: ../../sample_markdown.md:78
-msgid ""
-"Superscript {sup}`text` and subscript {sub}`text` can be produced using "
-"the `{sup}` and `{sub}` annotations, respectively."
+msgid "Superscript {sup}`text` and subscript {sub}`text` can be produced using the `{sup}` and `{sub}` annotations, respectively."
 msgstr ""
 
 #: ../../sample_markdown.md:80
@@ -170,9 +126,7 @@ msgid "Quoted text"
 msgstr ""
 
 #: ../../sample_markdown.md:82
-msgid ""
-"Blockquotes can contain multiple paragraphs. Add a > even on the blank "
-"lines between the paragraphs."
+msgid "Blockquotes can contain multiple paragraphs. Add a > even on the blank lines between the paragraphs."
 msgstr ""
 
 #: ../../sample_markdown.md:84
@@ -180,10 +134,7 @@ msgid "Dorothy followed her through many of the beautiful rooms in her castle."
 msgstr ""
 
 #: ../../sample_markdown.md:86
-msgid ""
-"The Witch bade her clean the pots and kettles and sweep the floor and "
-"keep the fire fed with wood. Blockquotes can contain formatting such as "
-"**bold text** or lists:"
+msgid "The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood. Blockquotes can contain formatting such as **bold text** or lists:"
 msgstr ""
 
 #: ../../sample_markdown.md:89
@@ -203,10 +154,7 @@ msgid "Numbered lists"
 msgstr ""
 
 #: ../../sample_markdown.md:100
-msgid ""
-"Lines starting with numbers followed by periods are converted to numbered"
-" lists. You don't have to number each item manually, you can use number "
-"one for all items:"
+msgid "Lines starting with numbers followed by periods are converted to numbered lists. You don't have to number each item manually, you can use number one for all items:"
 msgstr ""
 
 #: ../../sample_markdown.md:102
@@ -225,7 +173,7 @@ msgstr ""
 msgid "Boxes"
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:109
 msgid "This is a default note, without any arguments."
 msgstr ""
 
@@ -233,7 +181,7 @@ msgstr ""
 msgid "Blue title"
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:114
 msgid "This is a note, but in a different way"
 msgstr ""
 
@@ -241,7 +189,7 @@ msgstr ""
 msgid "Orange title"
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:120
 msgid "This is a warning"
 msgstr ""
 
@@ -249,7 +197,7 @@ msgstr ""
 msgid "Red title"
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:125
 msgid "This is an error"
 msgstr ""
 
@@ -257,7 +205,7 @@ msgstr ""
 msgid "Green title"
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:130
 msgid "This is a note"
 msgstr ""
 
@@ -266,21 +214,22 @@ msgid "Definition lists"
 msgstr ""
 
 #: ../../sample_markdown.md:135
-msgid ""
-"To use definition lists and other formatting supported by "
-"ReStructuredText, use the `{eval-rst}` directive."
+msgid "To use definition lists and other formatting supported by ReStructuredText, use the `{eval-rst}` directive."
 msgstr ""
 
-#: ../../sample_markdown.md:139 ../../sample_markdown.md:155
+#: ../../sample_markdown.md:139
+#: ../../sample_markdown.md:155
 msgid "Term 1"
 msgstr ""
 
-#: ../../sample_markdown.md:140 ../../sample_markdown.md:156
+#: ../../sample_markdown.md:140
+#: ../../sample_markdown.md:156
 #: ../../sample_markdown.md:159
 msgid "Definition"
 msgstr ""
 
-#: ../../sample_markdown.md:142 ../../sample_markdown.md:158
+#: ../../sample_markdown.md:141
+#: ../../sample_markdown.md:158
 msgid "Term 2"
 msgstr ""
 
@@ -288,7 +237,7 @@ msgstr ""
 msgid "Definition paragraph 1. Definition paragraph 2."
 msgstr ""
 
-#: ../../sample_markdown.md:147
+#: ../../sample_markdown.md:144
 msgid "Term 3"
 msgstr ""
 
@@ -317,9 +266,7 @@ msgid "{math}`x_{base}=it+is^{pow}`"
 msgstr ""
 
 #: ../../sample_markdown.md:165
-msgid ""
-"Or, using the `$` sign (provided by the `dollarmath` plugin): "
-"$x_{base}=it+is^{pow}$"
+msgid "Or, using the `$` sign (provided by the `dollarmath` plugin): $x_{base}=it+is^{pow}$"
 msgstr ""
 
 #: ../../sample_markdown.md:167
@@ -418,35 +365,43 @@ msgstr ""
 msgid "Table title 2"
 msgstr ""
 
-#: ../../sample_markdown.md:1 ../../sample_markdown.md:217
+#: ../../sample_markdown.md:198
+#: ../../sample_markdown.md:217
 msgid "Heading row 1, column 1"
 msgstr ""
 
-#: ../../sample_markdown.md:2 ../../sample_markdown.md:218
+#: ../../sample_markdown.md:199
+#: ../../sample_markdown.md:218
 msgid "Heading row 1, column 2"
 msgstr ""
 
-#: ../../sample_markdown.md:3 ../../sample_markdown.md:219
+#: ../../sample_markdown.md:200
+#: ../../sample_markdown.md:219
 msgid "Heading row 1, column 3"
 msgstr ""
 
-#: ../../sample_markdown.md:4 ../../sample_markdown.md:220
+#: ../../sample_markdown.md:201
+#: ../../sample_markdown.md:220
 msgid "Row 1, column 1"
 msgstr ""
 
-#: ../../sample_markdown.md:6 ../../sample_markdown.md:222
+#: ../../sample_markdown.md:203
+#: ../../sample_markdown.md:222
 msgid "Row 1, column 3"
 msgstr ""
 
-#: ../../sample_markdown.md:7 ../../sample_markdown.md:223
+#: ../../sample_markdown.md:204
+#: ../../sample_markdown.md:223
 msgid "Row 2, column 1"
 msgstr ""
 
-#: ../../sample_markdown.md:8 ../../sample_markdown.md:224
+#: ../../sample_markdown.md:205
+#: ../../sample_markdown.md:224
 msgid "Row 2, column 2"
 msgstr ""
 
-#: ../../sample_markdown.md:9 ../../sample_markdown.md:225
+#: ../../sample_markdown.md:206
+#: ../../sample_markdown.md:225
 msgid "Row 2, column 3"
 msgstr ""
 
@@ -466,61 +421,78 @@ msgstr ""
 msgid "IPCC Class"
 msgstr ""
 
-#: ../../sample_markdown.md:238 ../../sample_markdown.md:244
+#: ../../sample_markdown.md:238
+#: ../../sample_markdown.md:244
 msgid "Forest Land"
 msgstr ""
 
-#: ../../sample_markdown.md:239 ../../sample_markdown.md:251
+#: ../../sample_markdown.md:239
+#: ../../sample_markdown.md:251
 msgid "Grassland"
 msgstr ""
 
-#: ../../sample_markdown.md:240 ../../sample_markdown.md:258
+#: ../../sample_markdown.md:240
+#: ../../sample_markdown.md:258
 msgid "Cropland"
 msgstr ""
 
-#: ../../sample_markdown.md:241 ../../sample_markdown.md:265
+#: ../../sample_markdown.md:241
+#: ../../sample_markdown.md:265
 msgid "Wetlands"
 msgstr ""
 
-#: ../../sample_markdown.md:242 ../../sample_markdown.md:272
+#: ../../sample_markdown.md:242
+#: ../../sample_markdown.md:272
 msgid "Settlements"
 msgstr ""
 
-#: ../../sample_markdown.md:243 ../../sample_markdown.md:279
+#: ../../sample_markdown.md:243
+#: ../../sample_markdown.md:279
 msgid "Other Land"
 msgstr ""
 
-#: ../../sample_markdown.md:245 ../../sample_markdown.md:253
-#: ../../sample_markdown.md:261 ../../sample_markdown.md:269
-#: ../../sample_markdown.md:277 ../../sample_markdown.md:285
+#: ../../sample_markdown.md:245
+#: ../../sample_markdown.md:253
+#: ../../sample_markdown.md:261
+#: ../../sample_markdown.md:269
+#: ../../sample_markdown.md:277
+#: ../../sample_markdown.md:285
 msgid "Stable"
 msgstr ""
 
-#: ../../sample_markdown.md:246 ../../sample_markdown.md:250
-#: ../../sample_markdown.md:257 ../../sample_markdown.md:264
+#: ../../sample_markdown.md:246
+#: ../../sample_markdown.md:250
+#: ../../sample_markdown.md:257
+#: ../../sample_markdown.md:264
 msgid "Vegetation loss"
 msgstr ""
 
-#: ../../sample_markdown.md:247 ../../sample_markdown.md:249
+#: ../../sample_markdown.md:247
+#: ../../sample_markdown.md:249
 msgid "Deforestation"
 msgstr ""
 
-#: ../../sample_markdown.md:248 ../../sample_markdown.md:255
+#: ../../sample_markdown.md:248
+#: ../../sample_markdown.md:255
 #: ../../sample_markdown.md:262
 msgid "Innundation"
 msgstr ""
 
-#: ../../sample_markdown.md:252 ../../sample_markdown.md:259
-#: ../../sample_markdown.md:273 ../../sample_markdown.md:280
+#: ../../sample_markdown.md:252
+#: ../../sample_markdown.md:259
+#: ../../sample_markdown.md:273
+#: ../../sample_markdown.md:280
 msgid "Aforestation"
 msgstr ""
 
-#: ../../sample_markdown.md:254 ../../sample_markdown.md:275
+#: ../../sample_markdown.md:254
+#: ../../sample_markdown.md:275
 #: ../../sample_markdown.md:282
 msgid "Agricultural expansion"
 msgstr ""
 
-#: ../../sample_markdown.md:256 ../../sample_markdown.md:263
+#: ../../sample_markdown.md:256
+#: ../../sample_markdown.md:263
 #: ../../sample_markdown.md:284
 msgid "Urban expansion"
 msgstr ""
@@ -533,16 +505,20 @@ msgstr ""
 msgid "Woody Encroachment"
 msgstr ""
 
-#: ../../sample_markdown.md:267 ../../sample_markdown.md:268
-#: ../../sample_markdown.md:270 ../../sample_markdown.md:271
+#: ../../sample_markdown.md:267
+#: ../../sample_markdown.md:268
+#: ../../sample_markdown.md:270
+#: ../../sample_markdown.md:271
 msgid "Wetland drainage"
 msgstr ""
 
-#: ../../sample_markdown.md:274 ../../sample_markdown.md:281
+#: ../../sample_markdown.md:274
+#: ../../sample_markdown.md:281
 msgid "Vegetation establishment"
 msgstr ""
 
-#: ../../sample_markdown.md:276 ../../sample_markdown.md:283
+#: ../../sample_markdown.md:276
+#: ../../sample_markdown.md:283
 msgid "Wetland establishment"
 msgstr ""
 
@@ -594,107 +570,104 @@ msgstr ""
 msgid "Tables (flat-table plugin)"
 msgstr ""
 
-#: ../../sample_markdown.md:306
-msgid ""
-"*__Table 1__. Strategic objective (SO) 1 indicators and reporting "
-"attribution*"
+#: ../../sample_markdown.md:305
+msgid "*__Table 1__. Strategic objective (SO) 1 indicators and reporting attribution*"
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:312
 msgid "{rspan}`1` Indicator code"
 msgstr ""
 
-#: ../../sample_markdown.md:2
+#: ../../sample_markdown.md:313
 msgid "{rspan}`1` Indicator name"
 msgstr ""
 
-#: ../../sample_markdown.md:3
+#: ../../sample_markdown.md:314
 msgid "{rspan}`1` Metrics / proxies"
 msgstr ""
 
-#: ../../sample_markdown.md:4
+#: ../../sample_markdown.md:315
 msgid "{rspan}`1` Adopted / proposed"
 msgstr ""
 
-#: ../../sample_markdown.md:5
+#: ../../sample_markdown.md:316
 msgid "{cspan}`1` Reporting attribution"
 msgstr ""
 
-#: ../../sample_markdown.md:6
+#: ../../sample_markdown.md:317
 msgid "Affected country Parties"
 msgstr ""
 
-#: ../../sample_markdown.md:7
+#: ../../sample_markdown.md:318
 msgid "Developed country Parties"
 msgstr ""
 
-#: ../../sample_markdown.md:8
+#: ../../sample_markdown.md:319
 msgid "SO 1-1"
 msgstr ""
 
-#: ../../sample_markdown.md:9
+#: ../../sample_markdown.md:320
 msgid "Trends in land cover"
 msgstr ""
 
-#: ../../sample_markdown.md:10
+#: ../../sample_markdown.md:321
 msgid "Land cover change"
 msgstr ""
 
-#: ../../sample_markdown.md:11 ../../sample_markdown.md:21
-#: ../../sample_markdown.md:26
+#: ../../sample_markdown.md:322
+#: ../../sample_markdown.md:332
+#: ../../sample_markdown.md:337
 msgid "Indicator adopted in decision 7/COP.13"
 msgstr ""
 
-#: ../../sample_markdown.md:12 ../../sample_markdown.md:22
-#: ../../sample_markdown.md:27 ../../sample_markdown.md:32
+#: ../../sample_markdown.md:323
+#: ../../sample_markdown.md:333
+#: ../../sample_markdown.md:338
+#: ../../sample_markdown.md:343
 msgid "X"
 msgstr ""
 
-#: ../../sample_markdown.md:13
-msgid ""
-"{rspan}`3` Indicators under SO 1 and SDG indicator 15.3.1  are optional "
-"for reporting by developed country Parties.  Developed country Parties "
-"may wish to submit information  on these indicators on a voluntary basis "
-"for the purpose  of reporting on progress towards the SDGs"
+#: ../../sample_markdown.md:324
+msgid "{rspan}`3` Indicators under SO 1 and SDG indicator 15.3.1  are optional for reporting by developed country Parties.  Developed country Parties may wish to submit information  on these indicators on a voluntary basis for the purpose  of reporting on progress towards the SDGs"
 msgstr ""
 
-#: ../../sample_markdown.md:18
+#: ../../sample_markdown.md:329
 msgid "SO 1-2"
 msgstr ""
 
-#: ../../sample_markdown.md:19
+#: ../../sample_markdown.md:330
 msgid "Trends in land productivity or functioning of the land"
 msgstr ""
 
-#: ../../sample_markdown.md:20
+#: ../../sample_markdown.md:331
 msgid "Land productivity dynamics"
 msgstr ""
 
-#: ../../sample_markdown.md:23
+#: ../../sample_markdown.md:334
 msgid "SO 1-3"
 msgstr ""
 
-#: ../../sample_markdown.md:24
+#: ../../sample_markdown.md:335
 msgid "Trends in carbon stocks above and below ground"
 msgstr ""
 
-#: ../../sample_markdown.md:25
+#: ../../sample_markdown.md:336
 msgid "Soil organic carbon stock"
 msgstr ""
 
-#: ../../sample_markdown.md:28
+#: ../../sample_markdown.md:339
 msgid "SO 1-4"
 msgstr ""
 
-#: ../../sample_markdown.md:29
+#: ../../sample_markdown.md:340
 msgid "Proportion of land that is degraded over total land area"
 msgstr ""
 
-#: ../../sample_markdown.md:30
+#: ../../sample_markdown.md:341
 msgid "\\---"
 msgstr ""
 
-#: ../../sample_markdown.md:31
+#: ../../sample_markdown.md:342
 msgid "Background for indicator adopted in decision 9/COP.13"
 msgstr ""
 
@@ -703,15 +676,11 @@ msgid "Links"
 msgstr ""
 
 #: ../../sample_markdown.md:348
-msgid ""
-"[This](https://duckduckgo.com) is a link to "
-"<https://www.markdownguide.org>."
+msgid "[This](https://duckduckgo.com) is a link to <https://www.markdownguide.org>."
 msgstr ""
 
 #: ../../sample_markdown.md:350
-msgid ""
-"HTML is also supported: <a href=\"http://example.com/\" "
-"target=\"_blank\">Hello, world!</a>."
+msgid "HTML is also supported: <a href=\"http://example.com/\" target=\"_blank\">Hello, world!</a>."
 msgstr ""
 
 #: ../../sample_markdown.md:352
@@ -722,7 +691,8 @@ msgstr ""
 msgid "The sidebar goes first, then the main text."
 msgstr ""
 
-#: ../../sample_markdown.md:306 ../../sample_markdown.md:373
+#: ../../sample_markdown.md:305
+#: ../../sample_markdown.md:373
 msgid "Sidebar title"
 msgstr ""
 
@@ -735,46 +705,43 @@ msgid "*Caption* This is the image caption"
 msgstr ""
 
 #: ../../sample_markdown.md:367
-msgid ""
-"If a land degradation map or a ‘support class’ map, which show which "
-"indicator or combination of indicators supports the classification of "
-"‘degraded’ or ‘not degraded’ for a given pixel or land unit, were "
-"produced, they should be uploaded to the PRAIS. Any indicator datasets "
-"used to assess the proportion of land that is degraded, that have not "
-"already been included as part of the previous reporting on indicators "
-"SO1: 1-3, should be uploaded to the PRAIS."
+msgid "If a land degradation map or a ‘support class’ map, which show which indicator or combination of indicators supports the classification of ‘degraded’ or ‘not degraded’ for a given pixel or land unit, were produced, they should be uploaded to the PRAIS. Any indicator datasets used to assess the proportion of land that is degraded, that have not already been included as part of the previous reporting on indicators SO1: 1-3, should be uploaded to the PRAIS."
 msgstr ""
 
-#: ../../sample_markdown.md:1
+#: ../../sample_markdown.md:374
 msgid "Another kind of sidebar"
 msgstr ""
 
 #: ../../sample_markdown.md:377
-msgid ""
-"Voluntary targets can be set to achieve SO1 and therefore “to improve the"
-" condition of affected ecosystems, combat desertification/land "
-"degradation, promote sustainable land management and contribute to land "
-"degradation neutrality”. This includes the formulation by countries of "
-"LDN targets in accordance with their specific national circumstances and "
-"development priorities."
+msgid "Voluntary targets can be set to achieve SO1 and therefore “to improve the condition of affected ecosystems, combat desertification/land degradation, promote sustainable land management and contribute to land degradation neutrality”. This includes the formulation by countries of LDN targets in accordance with their specific national circumstances and development priorities."
 msgstr ""
 
 #: ../../sample_markdown.md:382
-msgid ""
-"The 2018 reporting will describe the countries’ level of ambition in "
-"achieving SO1."
+msgid "The 2018 reporting will describe the countries’ level of ambition in achieving SO1."
 msgstr ""
 
 #: ../../sample_markdown.md:386
 msgid "Translated texts"
 msgstr ""
 
-#: ../../sample_markdown.md:396
+#: ../../sample_markdown.md:389
+msgid "English version"
+msgstr ""
+
+#: ../../sample_markdown.md:401
 msgid "End of sample text"
 msgstr ""
 
 #: ../../sample_markdown.md:13
 msgid "This is the first footnote."
+msgstr ""
+
+#: ../../sample_markdown.md:50
+msgid "[https://esa.un.org/unpd/wup/DataQuery](https://esa.un.org/unpd/wup/DataQuery/)"
+msgstr ""
+
+#: ../../sample_markdown.md:51
+msgid "[World Bank data](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AF)"
 msgstr ""
 
 #: ../../sample_markdown.md:15
@@ -791,15 +758,5 @@ msgstr ""
 
 #: ../../sample_markdown.md:21
 msgid "Add as many paragraphs as you like."
-msgstr ""
-
-#: ../../sample_markdown.md:50
-msgid "[https://esa.un.org/unpd/wup/DataQuery](https://esa.un.org/unpd/wup/DataQuery/)"
-msgstr ""
-
-#: ../../sample_markdown.md:51
-msgid ""
-"[World Bank "
-"data](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AF)"
 msgstr ""
 
