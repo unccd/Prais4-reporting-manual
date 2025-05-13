@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-22 19:12+0200\n"
+"POT-Creation-Date: 2025-05-13 16:13+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -109,88 +109,88 @@ msgstr ""
 msgid "*__Table 15__. Data specifications for SO 2-1 Indicator*"
 msgstr ""
 
-#: ../../SO2.md:1
-#: ../../SO2.md:1
-#: ../../SO2.md:1
+#: ../../SO2.md:56
+#: ../../SO2.md:163
+#: ../../SO2.md:281
 msgid "{rspan}`1` Item"
 msgstr ""
 
-#: ../../SO2.md:2
-#: ../../SO2.md:2
-#: ../../SO2.md:2
+#: ../../SO2.md:57
+#: ../../SO2.md:164
+#: ../../SO2.md:282
 msgid "{cspan}`1` Specifications"
 msgstr ""
 
-#: ../../SO2.md:3
+#: ../../SO2.md:58
 msgid "__Default data__ (Sustainable Development Goal indicator 1.1.1 data and Gini index World Bank data)"
 msgstr ""
 
-#: ../../SO2.md:5
-#: ../../SO2.md:6
+#: ../../SO2.md:60
+#: ../../SO2.md:168
 msgid "__National data__"
 msgstr ""
 
-#: ../../SO2.md:6
+#: ../../SO2.md:61
 msgid "Data type"
 msgstr ""
 
-#: ../../SO2.md:7
+#: ../../SO2.md:62
 msgid "Annual data on one of the two metrics for the period 2000–2019."
 msgstr ""
 
-#: ../../SO2.md:8
+#: ../../SO2.md:63
 msgid "Annual data on one of the two metrics for the period from 2000 to the latest available year for the reporting period."
 msgstr ""
 
-#: ../../SO2.md:9
-#: ../../SO2.md:10
-#: ../../SO2.md:19
+#: ../../SO2.md:64
+#: ../../SO2.md:172
+#: ../../SO2.md:299
 msgid "__Spatial resolution__"
 msgstr ""
 
-#: ../../SO2.md:10
-#: ../../SO2.md:11
+#: ../../SO2.md:65
+#: ../../SO2.md:173
 msgid "Country level"
 msgstr ""
 
-#: ../../SO2.md:11
-#: ../../SO2.md:12
+#: ../../SO2.md:66
+#: ../../SO2.md:174
 msgid "Country or sub-national levels"
 msgstr ""
 
-#: ../../SO2.md:12
-#: ../../SO2.md:13
-#: ../../SO2.md:22
+#: ../../SO2.md:67
+#: ../../SO2.md:175
+#: ../../SO2.md:302
 msgid "__Quality__"
 msgstr ""
 
-#: ../../SO2.md:13
-#: ../../SO2.md:14
-#: ../../SO2.md:23
+#: ../../SO2.md:68
+#: ../../SO2.md:176
+#: ../../SO2.md:303
 msgid "Specified in the datasets’ metadata."
 msgstr ""
 
-#: ../../SO2.md:14
-#: ../../SO2.md:15
-#: ../../SO2.md:24
+#: ../../SO2.md:69
+#: ../../SO2.md:177
+#: ../../SO2.md:304
 msgid "To be indicated in the dataset metadata."
 msgstr ""
 
-#: ../../SO2.md:15
-#: ../../SO2.md:16
-#: ../../SO2.md:25
+#: ../../SO2.md:70
+#: ../../SO2.md:178
+#: ../../SO2.md:305
 msgid "__Metadata__"
 msgstr ""
 
-#: ../../SO2.md:16
-#: ../../SO2.md:17
-#: ../../SO2.md:26
+#: ../../SO2.md:71
+#: ../../SO2.md:179
+#: ../../SO2.md:306
 msgid "Metadata information is provided with default data."
 msgstr ""
 
-#: ../../SO2.md:17
-#: ../../SO2.md:18
-#: ../../SO2.md:27
+#: ../../SO2.md:72
+#: ../../SO2.md:180
+#: ../../SO2.md:307
 msgid "Minimum metadata content as per the mandatory fields listed in Annex II."
 msgstr ""
 
@@ -198,7 +198,7 @@ msgstr ""
 msgid "Step 3: Report national annual values of the chosen metric and interpret the data"
 msgstr ""
 
-#: ../../SO2.md:1
+#: ../../SO2.md:78
 msgid "Related areas in the PRAIS 4 platform: tables SO2-1.T1, SO2-1.T2 and SO2-1.T3"
 msgstr ""
 
@@ -357,23 +357,23 @@ msgstr ""
 msgid "*__Table 16__. Data specifications for SO 2-2 Indicator*"
 msgstr ""
 
-#: ../../SO2.md:3
+#: ../../SO2.md:165
 msgid "__Default data__"
 msgstr ""
 
-#: ../../SO2.md:5
+#: ../../SO2.md:167
 msgid "(Sustainable Development Goal indicator 6.1.1 / World Health Organization / United Nations Children’s Fund Joint Monitoring Programme)"
 msgstr ""
 
-#: ../../SO2.md:7
+#: ../../SO2.md:169
 msgid "__Type of data__"
 msgstr ""
 
-#: ../../SO2.md:8
+#: ../../SO2.md:170
 msgid "Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period 2000–2020."
 msgstr ""
 
-#: ../../SO2.md:9
+#: ../../SO2.md:171
 msgid "Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period from 2000 to the latest available year for the reporting period."
 msgstr ""
 
@@ -381,7 +381,7 @@ msgstr ""
 msgid "Step 2: Report national annual values and interpret the data"
 msgstr ""
 
-#: ../../SO2.md:1
+#: ../../SO2.md:186
 msgid "Related areas in the PRAIS 4 platform: tables SO2-2.T1 and SO2-2.T2"
 msgstr ""
 
@@ -533,53 +533,53 @@ msgstr ""
 msgid "*__Table 17__. Data specifications for SO 2-3 Indicator*"
 msgstr ""
 
-#: ../../SO2.md:3
+#: ../../SO2.md:283
 msgid "Default data"
 msgstr ""
 
-#: ../../SO2.md:4
+#: ../../SO2.md:284
 msgid "National data"
 msgstr ""
 
-#: ../../SO2.md:5
+#: ../../SO2.md:285
 msgid "__Input data__"
 msgstr ""
 
-#: ../../SO2.md:7
+#: ../../SO2.md:287
 msgid "(Data needed to estimate the population exposed to land degradation)"
 msgstr ""
 
-#: ../../SO2.md:8
+#: ../../SO2.md:288
 msgid "WorldPop data disaggregated by sex for the baseline year (2015) and the latest available year of the reporting period (2019)."
 msgstr ""
 
-#: ../../SO2.md:10
-#: ../../SO2.md:13
+#: ../../SO2.md:290
+#: ../../SO2.md:293
 msgid "Gridded data on land degradation as determined by indicator SO 1-4 for the baseline and reporting periods."
 msgstr ""
 
-#: ../../SO2.md:11
+#: ../../SO2.md:291
 msgid "Gridded population products derived from national official statistics, disaggregated by sex for the baseline year (ideally the year 2015) and the latest available year of the reporting period (e.g., 2019)."
 msgstr ""
 
-#: ../../SO2.md:14
+#: ../../SO2.md:294
 msgid "__Output data__"
 msgstr ""
 
-#: ../../SO2.md:16
+#: ../../SO2.md:296
 msgid "(Gridded products resulting from the analysis of the three metrics)"
 msgstr ""
 
-#: ../../SO2.md:17
-#: ../../SO2.md:18
+#: ../../SO2.md:297
+#: ../../SO2.md:298
 msgid "Gridded products of the female, male and total population exposed to land degradation in the baseline and reporting periods."
 msgstr ""
 
-#: ../../SO2.md:20
+#: ../../SO2.md:300
 msgid "WorldPop data: 3-arc seconds (~100 m)"
 msgstr ""
 
-#: ../../SO2.md:21
+#: ../../SO2.md:301
 msgid "Assessed by national authorities based on available data."
 msgstr ""
 
@@ -599,7 +599,7 @@ msgstr ""
 msgid "Step 3: Estimate the female, male and total population count and percentage exposed to land degradation"
 msgstr ""
 
-#: ../../SO2.md:1
+#: ../../SO2.md:319
 msgid "Related areas in the PRAIS 4 platform: tables SO2-3.T1 and SO2-3.T2"
 msgstr ""
 
@@ -619,7 +619,7 @@ msgstr ""
 msgid "Step 4: Qualitatively assess the results"
 msgstr ""
 
-#: ../../SO2.md:1
+#: ../../SO2.md:331
 msgid "Related areas in the PRAIS 4 platform: table SO2-3.T3"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 14:29+0200\n"
+"POT-Creation-Date: 2025-05-13 16:13+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,7 +72,7 @@ msgstr ""
 msgid "Step 1: Report on land area"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:30
 msgid "Related areas in the PRAIS 4 platform: table SO1-1.T1"
 msgstr ""
 
@@ -88,7 +88,7 @@ msgstr ""
 msgid "Step 2: Identify key degradation processes"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:40
 msgid "Related areas in the PRAIS 4 platform: table SO1-1.T2"
 msgstr ""
 
@@ -100,97 +100,97 @@ msgstr ""
 msgid "*__Table 7__. Example of degradation processes that may be identified by a country and the corresponding land cover transitions*"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:50
 msgid "Degradation process"
 msgstr ""
 
-#: ../../SO1.md:2
+#: ../../SO1.md:51
 msgid "Starting land cover state"
 msgstr ""
 
-#: ../../SO1.md:3
+#: ../../SO1.md:52
 msgid "Ending land cover state"
 msgstr ""
 
-#: ../../SO1.md:4
-#: ../../SO1.md:25
-#: ../../SO1.md:33
-#: ../../SO1.md:57
+#: ../../SO1.md:53
+#: ../../SO1.md:249
+#: ../../SO1.md:257
+#: ../../SO1.md:281
 msgid "Urban expansion"
 msgstr ""
 
-#: ../../SO1.md:5
+#: ../../SO1.md:54
 msgid "Grassland, cropland, other land"
 msgstr ""
 
-#: ../../SO1.md:6
+#: ../../SO1.md:55
 msgid "Settlements"
 msgstr ""
 
-#: ../../SO1.md:7
-#: ../../SO1.md:15
-#: ../../SO1.md:17
+#: ../../SO1.md:56
+#: ../../SO1.md:239
+#: ../../SO1.md:241
 msgid "Deforestation"
 msgstr ""
 
-#: ../../SO1.md:8
-#: ../../SO1.md:18
+#: ../../SO1.md:57
+#: ../../SO1.md:67
 msgid "Forest land"
 msgstr ""
 
-#: ../../SO1.md:9
+#: ../../SO1.md:58
 msgid "Grassland, cropland, settlements"
 msgstr ""
 
-#: ../../SO1.md:10
+#: ../../SO1.md:59
 msgid "Vegetation loss (other)"
 msgstr ""
 
-#: ../../SO1.md:11
+#: ../../SO1.md:60
 msgid "Forest land, grassland, cropland"
 msgstr ""
 
-#: ../../SO1.md:12
-#: ../../SO1.md:8
-#: ../../SO1.md:52
+#: ../../SO1.md:61
+#: ../../SO1.md:232
+#: ../../SO1.md:276
 msgid "Other land"
 msgstr ""
 
-#: ../../SO1.md:13
-#: ../../SO1.md:24
-#: ../../SO1.md:32
+#: ../../SO1.md:62
+#: ../../SO1.md:248
+#: ../../SO1.md:256
 msgid "Inundation"
 msgstr ""
 
-#: ../../SO1.md:14
+#: ../../SO1.md:63
 msgid "Vegetated, settlements, bare soil"
 msgstr ""
 
-#: ../../SO1.md:15
-#: ../../SO1.md:20
-#: ../../SO1.md:6
-#: ../../SO1.md:36
+#: ../../SO1.md:64
+#: ../../SO1.md:69
+#: ../../SO1.md:230
+#: ../../SO1.md:260
 msgid "Wetland"
 msgstr ""
 
-#: ../../SO1.md:16
-#: ../../SO1.md:37
+#: ../../SO1.md:65
+#: ../../SO1.md:261
 msgid "Woody encroachment"
 msgstr ""
 
-#: ../../SO1.md:17
+#: ../../SO1.md:66
 msgid "Wetland, grassland"
 msgstr ""
 
-#: ../../SO1.md:19
-#: ../../SO1.md:38
-#: ../../SO1.md:39
-#: ../../SO1.md:41
-#: ../../SO1.md:42
+#: ../../SO1.md:68
+#: ../../SO1.md:262
+#: ../../SO1.md:263
+#: ../../SO1.md:265
+#: ../../SO1.md:266
 msgid "Wetland drainage"
 msgstr ""
 
-#: ../../SO1.md:21
+#: ../../SO1.md:70
 msgid "Grassland, cropland, settlements, other land"
 msgstr ""
 
@@ -202,7 +202,7 @@ msgstr ""
 msgid "Step 3: Select a land cover legend"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:78
 msgid "Related areas in the PRAIS 4 platform: table SO1-1.T3"
 msgstr ""
 
@@ -246,375 +246,375 @@ msgstr ""
 msgid "*__Table 8__. Default reclassification of the European Space Agency Climate Change Initiative Land Cover legend against the seven land cover classes needed for reporting to the UNCCD*"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:109
 msgid "{cspan}`1` UNCCD"
 msgstr ""
 
-#: ../../SO1.md:2
+#: ../../SO1.md:110
 msgid "{cspan}`1` European Space Agency  Climate Change Initiative Land Cover"
 msgstr ""
 
-#: ../../SO1.md:4
-#: ../../SO1.md:6
+#: ../../SO1.md:112
+#: ../../SO1.md:114
 msgid "Code"
 msgstr ""
 
-#: ../../SO1.md:5
-#: ../../SO1.md:7
+#: ../../SO1.md:113
+#: ../../SO1.md:115
 msgid "Label"
 msgstr ""
 
-#: ../../SO1.md:8
+#: ../../SO1.md:116
 msgid "{rspan}`11` 1"
 msgstr ""
 
-#: ../../SO1.md:9
+#: ../../SO1.md:117
 msgid "{rspan}`11` Tree-covered areas"
 msgstr ""
 
-#: ../../SO1.md:10
+#: ../../SO1.md:118
 msgid "50"
 msgstr ""
 
-#: ../../SO1.md:11
+#: ../../SO1.md:119
 msgid "Tree cover, broadleaved, evergreen, closed to open (>15%)"
 msgstr ""
 
-#: ../../SO1.md:12
+#: ../../SO1.md:120
 msgid "60"
 msgstr ""
 
-#: ../../SO1.md:13
+#: ../../SO1.md:121
 msgid "Tree cover, broadleaved, deciduous, closed to open (>15%)"
 msgstr ""
 
-#: ../../SO1.md:14
+#: ../../SO1.md:122
 msgid "61"
 msgstr ""
 
-#: ../../SO1.md:15
+#: ../../SO1.md:123
 msgid "Tree cover, broadleaved, deciduous, closed (>40%)"
 msgstr ""
 
-#: ../../SO1.md:16
+#: ../../SO1.md:124
 msgid "62"
 msgstr ""
 
-#: ../../SO1.md:17
+#: ../../SO1.md:125
 msgid "Tree cover, broadleaved, deciduous, open (15–40%)"
 msgstr ""
 
-#: ../../SO1.md:18
+#: ../../SO1.md:126
 msgid "70"
 msgstr ""
 
-#: ../../SO1.md:19
+#: ../../SO1.md:127
 msgid "Tree cover, needle leaved, evergreen, closed to open (>15%)"
 msgstr ""
 
-#: ../../SO1.md:20
+#: ../../SO1.md:128
 msgid "71"
 msgstr ""
 
-#: ../../SO1.md:21
+#: ../../SO1.md:129
 msgid "Tree cover, needle leaved, evergreen, closed (>40%)"
 msgstr ""
 
-#: ../../SO1.md:22
+#: ../../SO1.md:130
 msgid "72"
 msgstr ""
 
-#: ../../SO1.md:23
+#: ../../SO1.md:131
 msgid "Tree cover, needle leaved, evergreen, open (15–40%)"
 msgstr ""
 
-#: ../../SO1.md:24
+#: ../../SO1.md:132
 msgid "80"
 msgstr ""
 
-#: ../../SO1.md:25
+#: ../../SO1.md:133
 msgid "Tree cover, needle leaved, deciduous, closed to open (>15%)"
 msgstr ""
 
-#: ../../SO1.md:26
+#: ../../SO1.md:134
 msgid "81"
 msgstr ""
 
-#: ../../SO1.md:27
+#: ../../SO1.md:135
 msgid "Tree cover, needle leaved, deciduous, closed (> 40%)"
 msgstr ""
 
-#: ../../SO1.md:28
+#: ../../SO1.md:136
 msgid "82"
 msgstr ""
 
-#: ../../SO1.md:29
+#: ../../SO1.md:137
 msgid "Tree cover, needle leaved, deciduous, open (15–40%)"
 msgstr ""
 
-#: ../../SO1.md:30
+#: ../../SO1.md:138
 msgid "90"
 msgstr ""
 
-#: ../../SO1.md:31
+#: ../../SO1.md:139
 msgid "Tree cover, mixed leaf type (broadleaved and needle leaved)"
 msgstr ""
 
-#: ../../SO1.md:32
+#: ../../SO1.md:140
 msgid "100"
 msgstr ""
 
-#: ../../SO1.md:33
+#: ../../SO1.md:141
 msgid "Mosaic tree and shrub (>50%)/herbaceous cover (< 50%)"
 msgstr ""
 
-#: ../../SO1.md:34
+#: ../../SO1.md:142
 msgid "{rspan}`8` 2"
 msgstr ""
 
-#: ../../SO1.md:35
+#: ../../SO1.md:143
 msgid "{rspan}`8` Grassland"
 msgstr ""
 
-#: ../../SO1.md:36
+#: ../../SO1.md:144
 msgid "110"
 msgstr ""
 
-#: ../../SO1.md:37
+#: ../../SO1.md:145
 msgid "Mosaic herbaceous cover (>50%)/tree and shrub (<50%)"
 msgstr ""
 
-#: ../../SO1.md:38
+#: ../../SO1.md:146
 msgid "120"
 msgstr ""
 
-#: ../../SO1.md:39
+#: ../../SO1.md:147
 msgid "Shrubland"
 msgstr ""
 
-#: ../../SO1.md:40
+#: ../../SO1.md:148
 msgid "121"
 msgstr ""
 
-#: ../../SO1.md:41
+#: ../../SO1.md:149
 msgid "Shrubland evergreen"
 msgstr ""
 
-#: ../../SO1.md:42
+#: ../../SO1.md:150
 msgid "122"
 msgstr ""
 
-#: ../../SO1.md:43
+#: ../../SO1.md:151
 msgid "Shrubland deciduous"
 msgstr ""
 
-#: ../../SO1.md:44
+#: ../../SO1.md:152
 msgid "130"
 msgstr ""
 
-#: ../../SO1.md:45
-#: ../../SO1.md:4
-#: ../../SO1.md:20
+#: ../../SO1.md:153
+#: ../../SO1.md:228
+#: ../../SO1.md:244
 msgid "Grassland"
 msgstr ""
 
-#: ../../SO1.md:46
+#: ../../SO1.md:154
 msgid "140"
 msgstr ""
 
-#: ../../SO1.md:47
+#: ../../SO1.md:155
 msgid "Lichen and mosses"
 msgstr ""
 
-#: ../../SO1.md:48
+#: ../../SO1.md:156
 msgid "151"
 msgstr ""
 
-#: ../../SO1.md:49
+#: ../../SO1.md:157
 msgid "Sparse trees (<15%)"
 msgstr ""
 
-#: ../../SO1.md:50
+#: ../../SO1.md:158
 msgid "152"
 msgstr ""
 
-#: ../../SO1.md:51
+#: ../../SO1.md:159
 msgid "Sparse shrub (<15%)"
 msgstr ""
 
-#: ../../SO1.md:52
+#: ../../SO1.md:160
 msgid "153"
 msgstr ""
 
-#: ../../SO1.md:53
+#: ../../SO1.md:161
 msgid "Sparse herbaceous cover (<15%)"
 msgstr ""
 
-#: ../../SO1.md:54
+#: ../../SO1.md:162
 msgid "{rspan}`5` 3"
 msgstr ""
 
-#: ../../SO1.md:55
+#: ../../SO1.md:163
 msgid "{rspan}`5` Cropland"
 msgstr ""
 
-#: ../../SO1.md:56
-#: ../../SO1.md:68
+#: ../../SO1.md:164
+#: ../../SO1.md:841
 msgid "10"
 msgstr ""
 
-#: ../../SO1.md:57
+#: ../../SO1.md:165
 msgid "Cropland, rainfed"
 msgstr ""
 
-#: ../../SO1.md:58
-#: ../../SO1.md:74
+#: ../../SO1.md:166
+#: ../../SO1.md:847
 msgid "11"
 msgstr ""
 
-#: ../../SO1.md:59
+#: ../../SO1.md:167
 msgid "Herbaceous cover"
 msgstr ""
 
-#: ../../SO1.md:60
-#: ../../SO1.md:80
+#: ../../SO1.md:168
+#: ../../SO1.md:853
 msgid "12"
 msgstr ""
 
-#: ../../SO1.md:61
+#: ../../SO1.md:169
 msgid "Tree or shrub cover"
 msgstr ""
 
-#: ../../SO1.md:62
+#: ../../SO1.md:170
 msgid "20"
 msgstr ""
 
-#: ../../SO1.md:63
+#: ../../SO1.md:171
 msgid "Cropland, irrigated or post-flooding"
 msgstr ""
 
-#: ../../SO1.md:64
+#: ../../SO1.md:172
 msgid "30"
 msgstr ""
 
-#: ../../SO1.md:65
+#: ../../SO1.md:173
 msgid "Mosaic cropland (>50%)/natural vegetation (tree, shrub, herbaceous cover) (<50%)"
 msgstr ""
 
-#: ../../SO1.md:66
+#: ../../SO1.md:174
 msgid "40"
 msgstr ""
 
-#: ../../SO1.md:67
+#: ../../SO1.md:175
 msgid "Mosaic natural vegetation (tree, shrub, herbaceous cover) (>50%)/cropland (< 50%)"
 msgstr ""
 
-#: ../../SO1.md:68
+#: ../../SO1.md:176
 msgid "{rspan}`2` 4"
 msgstr ""
 
-#: ../../SO1.md:69
+#: ../../SO1.md:177
 msgid "{rspan}`2` Wetland"
 msgstr ""
 
-#: ../../SO1.md:70
+#: ../../SO1.md:178
 msgid "160"
 msgstr ""
 
-#: ../../SO1.md:71
+#: ../../SO1.md:179
 msgid "Tree cover, aquatic or regularly flooded in fresh or brackish water"
 msgstr ""
 
-#: ../../SO1.md:72
+#: ../../SO1.md:180
 msgid "170"
 msgstr ""
 
-#: ../../SO1.md:73
+#: ../../SO1.md:181
 msgid "Tree cover, aquatic, regularly flooded in salt or brackish water, mangroves"
 msgstr ""
 
-#: ../../SO1.md:74
+#: ../../SO1.md:182
 msgid "180"
 msgstr ""
 
-#: ../../SO1.md:75
+#: ../../SO1.md:183
 msgid "Shrub or herbaceous cover, flooded, fresh/brackish water"
 msgstr ""
 
-#: ../../SO1.md:76
+#: ../../SO1.md:184
 #: ../../SO1.md:722
-#: ../../SO1.md:38
+#: ../../SO1.md:811
 msgid "5"
 msgstr ""
 
-#: ../../SO1.md:77
-#: ../../SO1.md:7
-#: ../../SO1.md:44
+#: ../../SO1.md:185
+#: ../../SO1.md:231
+#: ../../SO1.md:268
 msgid "Artificial surfaces"
 msgstr ""
 
-#: ../../SO1.md:78
+#: ../../SO1.md:186
 msgid "190"
 msgstr ""
 
-#: ../../SO1.md:79
+#: ../../SO1.md:187
 msgid "Urban areas"
 msgstr ""
 
-#: ../../SO1.md:80
+#: ../../SO1.md:188
 msgid "{rspan}`3` 6"
 msgstr ""
 
-#: ../../SO1.md:81
+#: ../../SO1.md:189
 msgid "{rspan}`3` Other land"
 msgstr ""
 
-#: ../../SO1.md:82
+#: ../../SO1.md:190
 msgid "200"
 msgstr ""
 
-#: ../../SO1.md:83
+#: ../../SO1.md:191
 msgid "Bare areas"
 msgstr ""
 
-#: ../../SO1.md:84
+#: ../../SO1.md:192
 msgid "201"
 msgstr ""
 
-#: ../../SO1.md:85
+#: ../../SO1.md:193
 msgid "Consolidated bare areas"
 msgstr ""
 
-#: ../../SO1.md:86
+#: ../../SO1.md:194
 msgid "202"
 msgstr ""
 
-#: ../../SO1.md:87
+#: ../../SO1.md:195
 msgid "Unconsolidated bare areas"
 msgstr ""
 
-#: ../../SO1.md:88
+#: ../../SO1.md:196
 msgid "220"
 msgstr ""
 
-#: ../../SO1.md:89
+#: ../../SO1.md:197
 msgid "Permanent snow and ice"
 msgstr ""
 
-#: ../../SO1.md:90
+#: ../../SO1.md:198
 #: ../../SO1.md:732
-#: ../../SO1.md:50
+#: ../../SO1.md:823
 msgid "7"
 msgstr ""
 
-#: ../../SO1.md:91
-#: ../../SO1.md:93
-#: ../../SO1.md:9
-#: ../../SO1.md:60
+#: ../../SO1.md:199
+#: ../../SO1.md:201
+#: ../../SO1.md:233
+#: ../../SO1.md:284
 msgid "Water bodies"
 msgstr ""
 
-#: ../../SO1.md:92
+#: ../../SO1.md:200
 msgid "210"
 msgstr ""
 
@@ -622,7 +622,7 @@ msgstr ""
 msgid "Step 4: Generate a transition matrix"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:207
 msgid "Related areas in the PRAIS 4 platform: tables SO1-1.T4a and SO1-1.T4b"
 msgstr ""
 
@@ -642,127 +642,127 @@ msgstr ""
 msgid "*__Table 9__. Example of a land cover transition matrix using the seven UNCCD land cover classes*"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:225
 msgid "{rspan}`1`"
 msgstr ""
 
-#: ../../SO1.md:2
+#: ../../SO1.md:226
 msgid "{cspan}`7` FINAL CLASS"
 msgstr ""
 
-#: ../../SO1.md:3
-#: ../../SO1.md:12
+#: ../../SO1.md:227
+#: ../../SO1.md:236
 msgid "Tree-covered areas"
 msgstr ""
 
-#: ../../SO1.md:5
-#: ../../SO1.md:28
+#: ../../SO1.md:229
+#: ../../SO1.md:252
 msgid "Cropland"
 msgstr ""
 
-#: ../../SO1.md:10
+#: ../../SO1.md:234
 msgid "ORIGINAL CLASS"
 msgstr ""
 
-#: ../../SO1.md:11
+#: ../../SO1.md:235
 msgid "{cspan}`7`"
 msgstr ""
 
-#: ../../SO1.md:13
-#: ../../SO1.md:19
-#: ../../SO1.md:22
-#: ../../SO1.md:27
-#: ../../SO1.md:31
-#: ../../SO1.md:35
-#: ../../SO1.md:40
-#: ../../SO1.md:43
-#: ../../SO1.md:49
-#: ../../SO1.md:51
-#: ../../SO1.md:58
-#: ../../SO1.md:59
-#: ../../SO1.md:61
-#: ../../SO1.md:62
-#: ../../SO1.md:63
-#: ../../SO1.md:64
-#: ../../SO1.md:65
-#: ../../SO1.md:66
-#: ../../SO1.md:67
-#: ../../SO1.md:24
-#: ../../SO1.md:33
-#: ../../SO1.md:17
-#: ../../SO1.md:28
-#: ../../SO1.md:29
-#: ../../SO1.md:34
-#: ../../SO1.md:41
-#: ../../SO1.md:51
-#: ../../SO1.md:53
-#: ../../SO1.md:54
-#: ../../SO1.md:55
-#: ../../SO1.md:57
-#: ../../SO1.md:60
-#: ../../SO1.md:61
-#: ../../SO1.md:63
-#: ../../SO1.md:64
-#: ../../SO1.md:65
-#: ../../SO1.md:66
-#: ../../SO1.md:67
-#: ../../SO1.md:69
-#: ../../SO1.md:70
-#: ../../SO1.md:73
-#: ../../SO1.md:75
-#: ../../SO1.md:77
-#: ../../SO1.md:81
-#: ../../SO1.md:89
-#: ../../SO1.md:100
-#: ../../SO1.md:101
-#: ../../SO1.md:106
-#: ../../SO1.md:113
+#: ../../SO1.md:237
+#: ../../SO1.md:243
+#: ../../SO1.md:246
+#: ../../SO1.md:251
+#: ../../SO1.md:255
+#: ../../SO1.md:259
+#: ../../SO1.md:264
+#: ../../SO1.md:267
+#: ../../SO1.md:273
+#: ../../SO1.md:275
+#: ../../SO1.md:282
+#: ../../SO1.md:283
+#: ../../SO1.md:285
+#: ../../SO1.md:286
+#: ../../SO1.md:287
+#: ../../SO1.md:288
+#: ../../SO1.md:289
+#: ../../SO1.md:290
+#: ../../SO1.md:291
+#: ../../SO1.md:535
+#: ../../SO1.md:544
+#: ../../SO1.md:790
+#: ../../SO1.md:801
+#: ../../SO1.md:802
+#: ../../SO1.md:807
+#: ../../SO1.md:814
+#: ../../SO1.md:824
+#: ../../SO1.md:826
+#: ../../SO1.md:827
+#: ../../SO1.md:828
+#: ../../SO1.md:830
+#: ../../SO1.md:833
+#: ../../SO1.md:834
+#: ../../SO1.md:836
+#: ../../SO1.md:837
+#: ../../SO1.md:838
+#: ../../SO1.md:839
+#: ../../SO1.md:840
+#: ../../SO1.md:842
+#: ../../SO1.md:843
+#: ../../SO1.md:846
+#: ../../SO1.md:848
+#: ../../SO1.md:850
+#: ../../SO1.md:854
+#: ../../SO1.md:862
+#: ../../SO1.md:873
+#: ../../SO1.md:874
+#: ../../SO1.md:879
+#: ../../SO1.md:886
 msgid "Stable"
 msgstr ""
 
-#: ../../SO1.md:14
-#: ../../SO1.md:18
-#: ../../SO1.md:26
-#: ../../SO1.md:34
+#: ../../SO1.md:238
+#: ../../SO1.md:242
+#: ../../SO1.md:250
+#: ../../SO1.md:258
 msgid "Vegetation loss"
 msgstr ""
 
-#: ../../SO1.md:16
+#: ../../SO1.md:240
 msgid "Innundation"
 msgstr ""
 
-#: ../../SO1.md:21
-#: ../../SO1.md:29
-#: ../../SO1.md:45
-#: ../../SO1.md:53
+#: ../../SO1.md:245
+#: ../../SO1.md:253
+#: ../../SO1.md:269
+#: ../../SO1.md:277
 msgid "Afforestation"
 msgstr ""
 
-#: ../../SO1.md:23
-#: ../../SO1.md:47
-#: ../../SO1.md:55
+#: ../../SO1.md:247
+#: ../../SO1.md:271
+#: ../../SO1.md:279
 msgid "Agricultural expansion"
 msgstr ""
 
-#: ../../SO1.md:30
+#: ../../SO1.md:254
 msgid "Withdrawal of agriculture"
 msgstr ""
 
-#: ../../SO1.md:46
-#: ../../SO1.md:54
+#: ../../SO1.md:270
+#: ../../SO1.md:278
 msgid "Vegetation establishment"
 msgstr ""
 
-#: ../../SO1.md:48
-#: ../../SO1.md:56
+#: ../../SO1.md:272
+#: ../../SO1.md:280
 msgid "Wetland establishment"
 msgstr ""
 
-#: ../../SO1.md:50
+#: ../../SO1.md:274
 msgid "Withdrawal of settlements"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:295
 msgid "Land cover change processes are color coded as improvement (green), stable (yellow) or degradation (red). Unlikely transitions are written in red. Note that this is an example of a transition matrix and should not be interpreted as appropriate for countries to adopt without consideration of local conditions and key degradation processes."
 msgstr ""
 
@@ -786,95 +786,95 @@ msgstr ""
 msgid "*__Table 10__. Data specifications for SO 1-1 indicator*"
 msgstr ""
 
-#: ../../SO1.md:1
-#: ../../SO1.md:1
+#: ../../SO1.md:315
+#: ../../SO1.md:512
 msgid "{rspan}`1` Item"
 msgstr ""
 
-#: ../../SO1.md:2
-#: ../../SO1.md:2
+#: ../../SO1.md:316
+#: ../../SO1.md:513
 msgid "{cspan}`1` Specifications"
 msgstr ""
 
-#: ../../SO1.md:3
+#: ../../SO1.md:317
 msgid "Default data (European Space Agency Climate Change Initiative Land Cover (ESA CCI-LC) product)"
 msgstr ""
 
-#: ../../SO1.md:4
-#: ../../SO1.md:4
-#: ../../SO1.md:4
+#: ../../SO1.md:318
+#: ../../SO1.md:515
+#: ../../SO1.md:1027
 msgid "National data"
 msgstr ""
 
-#: ../../SO1.md:5
+#: ../../SO1.md:319
 msgid "Type of data"
 msgstr ""
 
-#: ../../SO1.md:6
+#: ../../SO1.md:320
 msgid "Based on AVHRR, SPOT, PROBA-V and Sentinel-3 satellite imagery"
 msgstr ""
 
-#: ../../SO1.md:7
+#: ../../SO1.md:321
 msgid "Satellite images of finer resolution from national and international sources,  airborne imagery and/or field observation and national/provincial statistics"
 msgstr ""
 
-#: ../../SO1.md:9
+#: ../../SO1.md:323
 msgid "Classification"
 msgstr ""
 
-#: ../../SO1.md:10
+#: ../../SO1.md:324
 msgid "36 land cover classes based on the Food and Agriculture Organization of the United Nations (FAO) Land Cover Classification System (LCCS).  For reporting purposes, the 36 ESA CCI-LC classes are aggregated to the seven  UNCCD classes (see table 8 of this document for aggregation rules)."
 msgstr ""
 
-#: ../../SO1.md:14
+#: ../../SO1.md:328
 msgid "A land cover classification compatible with the seven UNCCD default classes  described in step 2. Ideally, the legend is based on the FAO LCCS/Land Cover  Meta Language (LCML) methodology. However, the legend should be concise and  only include land cover classes of relevance to the reported land degradation processes."
 msgstr ""
 
-#: ../../SO1.md:18
+#: ../../SO1.md:332
 msgid "Temporal coverage"
 msgstr ""
 
-#: ../../SO1.md:19
+#: ../../SO1.md:333
 msgid "Annual data from the year 2000 onward"
 msgstr ""
 
-#: ../../SO1.md:20
+#: ../../SO1.md:334
 msgid "Annual data from the year 2000 onward would be the best option. However, the  bare minimum would be data for the years 2000 and 2015 (for the baseline) and  the latest available year for the reporting period."
 msgstr ""
 
-#: ../../SO1.md:23
+#: ../../SO1.md:337
 msgid "Spatial resolution"
 msgstr ""
 
-#: ../../SO1.md:24
+#: ../../SO1.md:338
 msgid "300 metres (m)"
 msgstr ""
 
-#: ../../SO1.md:25
+#: ../../SO1.md:339
 msgid "The desired spatial resolution is 100m or finer. If such data is not available, it is recommended to use the default data or data with a resolution higher than  that of the default data (300m)."
 msgstr ""
 
-#: ../../SO1.md:28
+#: ../../SO1.md:342
 msgid "Accuracy"
 msgstr ""
 
-#: ../../SO1.md:29
+#: ../../SO1.md:343
 msgid "74%"
 msgstr ""
 
-#: ../../SO1.md:30
+#: ../../SO1.md:344
 msgid "To conform with the data quality of the default land cover product, it is  recommended to ensure an overall mapping accuracy of at least 74%."
 msgstr ""
 
-#: ../../SO1.md:32
+#: ../../SO1.md:346
 msgid "Metadata"
 msgstr ""
 
-#: ../../SO1.md:33
+#: ../../SO1.md:347
 msgid "Metadata information is automatically generated with the default data in Trends.Earth."
 msgstr ""
 
-#: ../../SO1.md:34
+#: ../../SO1.md:348
 msgid "A list of minimum metadata information is listed in Annex II to this document."
 msgstr ""
 
@@ -882,7 +882,7 @@ msgstr ""
 msgid "Step 6: Determine the baseline extent of land cover degradation"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:354
 msgid "Related areas in the PRAIS 4 platform: tables SO1-1.T5, SO1-1.T6 and SO1-1.T8"
 msgstr ""
 
@@ -898,7 +898,7 @@ msgstr ""
 msgid "Step 7: Estimate land cover degradation"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:364
 msgid "Related areas in the PRAIS 4 platform: tables SO1-1.T1, SO1-1.T5, SO1-1.T7 and SO1-1.T9"
 msgstr ""
 
@@ -1175,113 +1175,113 @@ msgstr ""
 msgid "*__Table 11__. Data specifications for SO 1-2 indicator*"
 msgstr ""
 
-#: ../../SO1.md:3
+#: ../../SO1.md:514
 msgid "Default data (Land Productivity Dynamics (LPD) dataset produced by the Joint Research Centre (JRC) of the European Commission)"
 msgstr ""
 
-#: ../../SO1.md:5
+#: ../../SO1.md:516
 msgid "__Input data__"
 msgstr ""
 
-#: ../../SO1.md:7
+#: ../../SO1.md:518
 msgid "(Data needed to generate land productivity estimates based on the three metrics described in Steps 2 and 3)"
 msgstr ""
 
-#: ../../SO1.md:8
+#: ../../SO1.md:519
 msgid "Time series of daily SPOT VGT Normalized Difference Vegetation Index (NDVI) satellite images composited for observation every 10 days (needed to generate the LPD-JRC data)"
 msgstr ""
 
-#: ../../SO1.md:10
+#: ../../SO1.md:521
 msgid "Time series of appropriate vegetation index derived from satellite images with at least  one red and one near infrared spectral band, e.g. Trends.Earth Land Productivity (250m);  Sentinel 3 (300m); or Sentinel 2 (10m, 20m and 60m)."
 msgstr ""
 
-#: ../../SO1.md:13
+#: ../../SO1.md:524
 msgid "__Output data__"
 msgstr ""
 
-#: ../../SO1.md:15
+#: ../../SO1.md:526
 msgid "(Gridded products resulting from the analysis and combination of the three metrics described in Step 3)"
 msgstr ""
 
-#: ../../SO1.md:16
-#: ../../SO1.md:17
+#: ../../SO1.md:527
+#: ../../SO1.md:528
 msgid "Five classes of persistent land productivity trajectories and land productivity degradation gridded data for the baseline period (2000–2015) and the reporting period (2004–2019)**\\***"
 msgstr ""
 
-#: ../../SO1.md:18
+#: ../../SO1.md:529
 msgid "__Classification__"
 msgstr ""
 
-#: ../../SO1.md:19
+#: ../../SO1.md:530
 msgid "Five classes of persistent land productivity trajectories and one class for areas without valid land productivity data:"
 msgstr ""
 
-#: ../../SO1.md:21
-#: ../../SO1.md:30
+#: ../../SO1.md:532
+#: ../../SO1.md:541
 msgid "Declining"
 msgstr ""
 
-#: ../../SO1.md:22
-#: ../../SO1.md:31
-#: ../../SO1.md:48
-#: ../../SO1.md:78
+#: ../../SO1.md:533
+#: ../../SO1.md:542
+#: ../../SO1.md:821
+#: ../../SO1.md:851
 msgid "Moderate decline"
 msgstr ""
 
-#: ../../SO1.md:23
-#: ../../SO1.md:32
-#: ../../SO1.md:72
+#: ../../SO1.md:534
+#: ../../SO1.md:543
+#: ../../SO1.md:845
 msgid "Stressed"
 msgstr ""
 
-#: ../../SO1.md:25
-#: ../../SO1.md:34
+#: ../../SO1.md:536
+#: ../../SO1.md:545
 msgid "Increasing"
 msgstr ""
 
-#: ../../SO1.md:26
-#: ../../SO1.md:35
+#: ../../SO1.md:537
+#: ../../SO1.md:546
 msgid "No data"
 msgstr ""
 
-#: ../../SO1.md:28
+#: ../../SO1.md:539
 msgid "Six classes compatible with those used by the LPD-JRC:"
 msgstr ""
 
-#: ../../SO1.md:37
+#: ../../SO1.md:548
 msgid "__Spatial resolution__"
 msgstr ""
 
-#: ../../SO1.md:38
+#: ../../SO1.md:549
 msgid "1 km"
 msgstr ""
 
-#: ../../SO1.md:39
+#: ../../SO1.md:550
 msgid "The Trends.Earth Land Productivity data at 250m spatial resolution is recommended if data at a finer resolution is not available."
 msgstr ""
 
-#: ../../SO1.md:40
+#: ../../SO1.md:551
 msgid "__Quality__"
 msgstr ""
 
-#: ../../SO1.md:41
+#: ../../SO1.md:552
 msgid "Specified in the metadata of the dataset. Overall, the assessed accuracy of the dataset is >80%."
 msgstr ""
 
-#: ../../SO1.md:42
+#: ../../SO1.md:553
 msgid "To conform with the data quality of the default dataset, it is recommended to ensure an overall mapping accuracy of at least 80%."
 msgstr ""
 
-#: ../../SO1.md:43
+#: ../../SO1.md:554
 msgid "__Metadata__"
 msgstr ""
 
-#: ../../SO1.md:44
+#: ../../SO1.md:555
 msgid "Metadata information is automatically generated with the default data."
 msgstr ""
 
-#: ../../SO1.md:45
-#: ../../SO1.md:28
+#: ../../SO1.md:556
+#: ../../SO1.md:1051
 msgid "Minimum metadata content as per the mandatory fields are listed in Annex II."
 msgstr ""
 
@@ -1353,35 +1353,35 @@ msgstr ""
 msgid "Box 1. What is a z-score"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:596
 msgid "A z-score measures how many standard deviations above or below the mean a data point is. The formula for calculating a z-score is reported below, where ‘z’ is the z-score:"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:599
 msgid "$z = \\frac{data\\ point – mean}{standard\\ deviation}$"
 msgstr ""
 
-#: ../../SO1.md:7
+#: ../../SO1.md:602
 msgid "&nbsp;"
 msgstr ""
 
-#: ../../SO1.md:9
+#: ../../SO1.md:604
 msgid "Important facts about z-scores:"
 msgstr ""
 
-#: ../../SO1.md:10
+#: ../../SO1.md:605
 msgid "A positive z-score indicates that the data point is above average."
 msgstr ""
 
-#: ../../SO1.md:11
+#: ../../SO1.md:606
 msgid "A negative z-score indicates that the data point is below average."
 msgstr ""
 
-#: ../../SO1.md:12
+#: ../../SO1.md:607
 msgid "A z-score close to 0 indicates that the data point is close to average."
 msgstr ""
 
-#: ../../SO1.md:13
+#: ../../SO1.md:608
 msgid "A data point can be considered unusual if its z-score is above or below 3."
 msgstr ""
 
@@ -1447,40 +1447,40 @@ msgstr ""
 msgid "Parties should make the following calculations:"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:637
 msgid "Baseline"
 msgstr ""
 
-#: ../../SO1.md:2
+#: ../../SO1.md:638
 msgid "Reporting period"
 msgstr ""
 
-#: ../../SO1.md:3
+#: ../../SO1.md:639
 msgid "A = Mean annual NPP 2013–2015"
 msgstr ""
 
-#: ../../SO1.md:4
+#: ../../SO1.md:640
 msgid "A = Mean annual NPP of the 3 most recent years"
 msgstr ""
 
-#: ../../SO1.md:5
+#: ../../SO1.md:641
 msgid "B = Mean annual NPP 2000–2012"
 msgstr ""
 
-#: ../../SO1.md:6
+#: ../../SO1.md:642
 msgid "B = Mean annual NPP of the 13 preceding years"
 msgstr ""
 
-#: ../../SO1.md:7
+#: ../../SO1.md:643
 msgid "C = Standard deviation 2000–2012"
 msgstr ""
 
-#: ../../SO1.md:8
+#: ../../SO1.md:644
 msgid "C = Standard deviation of the 13 preceding years"
 msgstr ""
 
-#: ../../SO1.md:9
-#: ../../SO1.md:10
+#: ../../SO1.md:645
+#: ../../SO1.md:646
 msgid "z-score = (A – B) / C"
 msgstr ""
 
@@ -1536,7 +1536,7 @@ msgstr ""
 msgid "Step 5: Combine productivity metrics to assess land productivity degradation in the baseline period"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:685
 msgid "Related areas in the PRAIS 4 platform: table SO1-2.T5"
 msgstr ""
 
@@ -1553,40 +1553,40 @@ msgid "**Table 12**. Combination of productivity metrics to determine whether a 
 msgstr ""
 
 #: ../../SO1.md:697
-#: ../../SO1.md:4
+#: ../../SO1.md:777
 msgid "Class combination"
 msgstr ""
 
 #: ../../SO1.md:698
-#: ../../SO1.md:5
+#: ../../SO1.md:778
 msgid "Trend"
 msgstr ""
 
 #: ../../SO1.md:699
-#: ../../SO1.md:6
+#: ../../SO1.md:779
 msgid "State"
 msgstr ""
 
 #: ../../SO1.md:700
-#: ../../SO1.md:7
+#: ../../SO1.md:780
 msgid "Performance"
 msgstr ""
 
 #: ../../SO1.md:701
-#: ../../SO1.md:23
-#: ../../SO1.md:35
-#: ../../SO1.md:47
-#: ../../SO1.md:59
-#: ../../SO1.md:71
-#: ../../SO1.md:83
-#: ../../SO1.md:95
-#: ../../SO1.md:107
-#: ../../SO1.md:119
+#: ../../SO1.md:796
+#: ../../SO1.md:808
+#: ../../SO1.md:820
+#: ../../SO1.md:832
+#: ../../SO1.md:844
+#: ../../SO1.md:856
+#: ../../SO1.md:868
+#: ../../SO1.md:880
+#: ../../SO1.md:892
 msgid "Degraded"
 msgstr ""
 
 #: ../../SO1.md:702
-#: ../../SO1.md:14
+#: ../../SO1.md:787
 msgid "1"
 msgstr ""
 
@@ -1611,7 +1611,7 @@ msgid "Y"
 msgstr ""
 
 #: ../../SO1.md:707
-#: ../../SO1.md:20
+#: ../../SO1.md:793
 msgid "2"
 msgstr ""
 
@@ -1634,22 +1634,22 @@ msgid "N"
 msgstr ""
 
 #: ../../SO1.md:712
-#: ../../SO1.md:26
+#: ../../SO1.md:799
 msgid "3"
 msgstr ""
 
 #: ../../SO1.md:717
-#: ../../SO1.md:32
+#: ../../SO1.md:805
 msgid "4"
 msgstr ""
 
 #: ../../SO1.md:727
-#: ../../SO1.md:44
+#: ../../SO1.md:817
 msgid "6"
 msgstr ""
 
 #: ../../SO1.md:737
-#: ../../SO1.md:56
+#: ../../SO1.md:829
 msgid "8"
 msgstr ""
 
@@ -1669,7 +1669,7 @@ msgstr ""
 msgid "Step 6: Combine productivity metrics to assess land productivity degradation in the reporting period"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:753
 msgid "Related areas in the PRAIS 4 platform: tables SO1-2.T1, SO1-2.T2, SO1-2.T3, SO1-2.T4 and SO1-2.T6"
 msgstr ""
 
@@ -1689,111 +1689,111 @@ msgstr ""
 msgid "*__Table 13__. Combination of productivity metrics to determine five classes of land productivity dynamics and three classes of land productivity degradation per pixel in the reporting period*"
 msgstr ""
 
-#: ../../SO1.md:2
+#: ../../SO1.md:775
 msgid "{cspan}`2` Changes observed in the three input productivity metrics"
 msgstr ""
 
-#: ../../SO1.md:3
+#: ../../SO1.md:776
 msgid "{cspan}`1` Land productivity dynamics and land productivity degradation status derived from the combination of the three productivity metrics"
 msgstr ""
 
-#: ../../SO1.md:8
+#: ../../SO1.md:781
 msgid "Land productivity dynamics"
 msgstr ""
 
-#: ../../SO1.md:10
+#: ../../SO1.md:783
 msgid "(5 classes)"
 msgstr ""
 
-#: ../../SO1.md:11
+#: ../../SO1.md:784
 msgid "Land productivity degradation status"
 msgstr ""
 
-#: ../../SO1.md:13
+#: ../../SO1.md:786
 msgid "(3 classes)"
 msgstr ""
 
-#: ../../SO1.md:15
-#: ../../SO1.md:16
-#: ../../SO1.md:18
-#: ../../SO1.md:19
-#: ../../SO1.md:21
-#: ../../SO1.md:22
-#: ../../SO1.md:24
-#: ../../SO1.md:25
-#: ../../SO1.md:27
-#: ../../SO1.md:30
-#: ../../SO1.md:31
-#: ../../SO1.md:33
-#: ../../SO1.md:36
-#: ../../SO1.md:37
-#: ../../SO1.md:39
-#: ../../SO1.md:42
-#: ../../SO1.md:43
-#: ../../SO1.md:45
-#: ../../SO1.md:52
-#: ../../SO1.md:58
-#: ../../SO1.md:88
-#: ../../SO1.md:94
+#: ../../SO1.md:788
+#: ../../SO1.md:789
+#: ../../SO1.md:791
+#: ../../SO1.md:792
+#: ../../SO1.md:794
+#: ../../SO1.md:795
+#: ../../SO1.md:797
+#: ../../SO1.md:798
+#: ../../SO1.md:800
+#: ../../SO1.md:803
+#: ../../SO1.md:804
+#: ../../SO1.md:806
+#: ../../SO1.md:809
+#: ../../SO1.md:810
+#: ../../SO1.md:812
+#: ../../SO1.md:815
+#: ../../SO1.md:816
+#: ../../SO1.md:818
+#: ../../SO1.md:825
+#: ../../SO1.md:831
+#: ../../SO1.md:861
+#: ../../SO1.md:867
 msgid "Improving"
 msgstr ""
 
-#: ../../SO1.md:40
-#: ../../SO1.md:46
-#: ../../SO1.md:49
-#: ../../SO1.md:76
-#: ../../SO1.md:79
-#: ../../SO1.md:82
-#: ../../SO1.md:84
-#: ../../SO1.md:85
-#: ../../SO1.md:87
-#: ../../SO1.md:90
-#: ../../SO1.md:91
-#: ../../SO1.md:93
-#: ../../SO1.md:96
-#: ../../SO1.md:97
-#: ../../SO1.md:99
-#: ../../SO1.md:102
-#: ../../SO1.md:103
-#: ../../SO1.md:105
-#: ../../SO1.md:108
-#: ../../SO1.md:109
-#: ../../SO1.md:111
-#: ../../SO1.md:112
-#: ../../SO1.md:114
-#: ../../SO1.md:115
-#: ../../SO1.md:117
-#: ../../SO1.md:118
-#: ../../SO1.md:120
-#: ../../SO1.md:121
+#: ../../SO1.md:813
+#: ../../SO1.md:819
+#: ../../SO1.md:822
+#: ../../SO1.md:849
+#: ../../SO1.md:852
+#: ../../SO1.md:855
+#: ../../SO1.md:857
+#: ../../SO1.md:858
+#: ../../SO1.md:860
+#: ../../SO1.md:863
+#: ../../SO1.md:864
+#: ../../SO1.md:866
+#: ../../SO1.md:869
+#: ../../SO1.md:870
+#: ../../SO1.md:872
+#: ../../SO1.md:875
+#: ../../SO1.md:876
+#: ../../SO1.md:878
+#: ../../SO1.md:881
+#: ../../SO1.md:882
+#: ../../SO1.md:884
+#: ../../SO1.md:885
+#: ../../SO1.md:887
+#: ../../SO1.md:888
+#: ../../SO1.md:890
+#: ../../SO1.md:891
+#: ../../SO1.md:893
+#: ../../SO1.md:894
 msgid "Degrading"
 msgstr ""
 
-#: ../../SO1.md:62
+#: ../../SO1.md:835
 msgid "9"
 msgstr ""
 
-#: ../../SO1.md:86
+#: ../../SO1.md:859
 msgid "13"
 msgstr ""
 
-#: ../../SO1.md:92
+#: ../../SO1.md:865
 msgid "14"
 msgstr ""
 
-#: ../../SO1.md:98
+#: ../../SO1.md:871
 msgid "15"
 msgstr ""
 
-#: ../../SO1.md:104
+#: ../../SO1.md:877
 msgid "16"
 msgstr ""
 
-#: ../../SO1.md:110
+#: ../../SO1.md:883
 msgid "17"
 msgstr ""
 
-#: ../../SO1.md:116
+#: ../../SO1.md:889
 msgid "18"
 msgstr ""
 
@@ -2049,95 +2049,95 @@ msgstr ""
 msgid "*__Table 14__. Data specifications for SO 1-3 indicator*"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:1024
 msgid "{rspan}`1`Item"
 msgstr ""
 
-#: ../../SO1.md:2
+#: ../../SO1.md:1025
 msgid "{cspan}`1`Specifications"
 msgstr ""
 
-#: ../../SO1.md:3
+#: ../../SO1.md:1026
 msgid "Default data"
 msgstr ""
 
-#: ../../SO1.md:5
+#: ../../SO1.md:1028
 msgid "**Input data**"
 msgstr ""
 
-#: ../../SO1.md:7
+#: ../../SO1.md:1030
 msgid "(to generate the soil organic carbon (SOC) stock estimates)"
 msgstr ""
 
-#: ../../SO1.md:8
+#: ../../SO1.md:1031
 msgid "International Soil Reference and Information Centre (ISRIC) SoilGrids250m dataset"
 msgstr ""
 
-#: ../../SO1.md:9
+#: ../../SO1.md:1032
 msgid "Ground observations and measurements"
 msgstr ""
 
-#: ../../SO1.md:10
+#: ../../SO1.md:1033
 msgid "**Output data**"
 msgstr ""
 
-#: ../../SO1.md:12
+#: ../../SO1.md:1035
 msgid "(Gridded products of SOC stock estimates)"
 msgstr ""
 
-#: ../../SO1.md:13
+#: ../../SO1.md:1036
 msgid "Annual gridded products of SOC stocks for the baseline and reporting periods"
 msgstr ""
 
-#: ../../SO1.md:14
+#: ../../SO1.md:1037
 msgid "Gridded products of SOC stocks for the baseline and reporting periods, with as close to annual data as possible"
 msgstr ""
 
-#: ../../SO1.md:15
+#: ../../SO1.md:1038
 msgid "**Classification**"
 msgstr ""
 
-#: ../../SO1.md:16
+#: ../../SO1.md:1039
 msgid "Continuous values of SOC content (tonnes) in the first 30 cm of soil."
 msgstr ""
 
-#: ../../SO1.md:18
+#: ../../SO1.md:1041
 msgid "An arbitrary >10% net reduction in SOC stocks in the first 30 cm of soil in 20 years is used as the threshold to determine degradation."
 msgstr ""
 
-#: ../../SO1.md:19
+#: ../../SO1.md:1042
 msgid "An arbitrary >10% net reduction in SOC stock in the first 30 cm of soil between the baseline and the reporting period is suggested as a threshold to determine degradation."
 msgstr ""
 
-#: ../../SO1.md:20
+#: ../../SO1.md:1043
 msgid "**Spatial resolution**"
 msgstr ""
 
-#: ../../SO1.md:21
+#: ../../SO1.md:1044
 msgid "250m"
 msgstr ""
 
-#: ../../SO1.md:22
+#: ../../SO1.md:1045
 msgid "The desired spatial resolution is 100m or finer."
 msgstr ""
 
-#: ../../SO1.md:23
+#: ../../SO1.md:1046
 msgid "**Quality**"
 msgstr ""
 
-#: ../../SO1.md:24
+#: ../../SO1.md:1047
 msgid "Accuracy of ISRIC’s SoilGrids250m dataset between 30% and 70%"
 msgstr ""
 
-#: ../../SO1.md:25
+#: ../../SO1.md:1048
 msgid "Not less than the default data"
 msgstr ""
 
-#: ../../SO1.md:26
+#: ../../SO1.md:1049
 msgid "**Metadata**"
 msgstr ""
 
-#: ../../SO1.md:27
+#: ../../SO1.md:1050
 msgid "Metadata information is provided with default data in Trends.Earth."
 msgstr ""
 
@@ -2193,7 +2193,7 @@ msgstr ""
 msgid "Step 4: Estimate change in soil organic carbon stock"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:1082
 msgid "Related areas in the PRAIS 4 platform: tables SO1-3.T1, SO1-3.T2, SO1-3.T3 and SO1-3.T5"
 msgstr ""
 
@@ -2485,7 +2485,7 @@ msgstr ""
 msgid "Step 1. Calculate Sustainable Development Goal indicator 15.3.1"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:1222
 msgid "Related areas in the PRAIS 4 platform: table SO1-4.T1"
 msgstr ""
 
@@ -2517,7 +2517,7 @@ msgstr ""
 msgid "Step 2. Identify false positives and false negatives"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:1241
 msgid "Related areas in the PRAIS 4 platform: : table SO1-4.T3"
 msgstr ""
 
@@ -2561,7 +2561,7 @@ msgstr ""
 msgid "Step 3. Assess hotspots and brightspots"
 msgstr ""
 
-#: ../../SO1.md:1
+#: ../../SO1.md:1264
 msgid "Related areas in the PRAIS 4 platform: tables SO1-4.T4 and SO1-4.T5"
 msgstr ""
 

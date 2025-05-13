@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-22 19:12+0200\n"
+"POT-Creation-Date: 2025-05-13 16:13+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -130,39 +130,39 @@ msgstr ""
 msgid "Examples"
 msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:58
 msgid "For providers:"
 msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:60
 msgid "Public financial contributions provided to developing countries’ governments and implementing agencies."
 msgstr ""
 
-#: ../../SO5.md:4
+#: ../../SO5.md:61
 msgid "Quantified in-kind contributions provided to projects in developing countries."
 msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:62
 msgid "Public financial resources for technical assistance."
 msgstr ""
 
-#: ../../SO5.md:6
+#: ../../SO5.md:63
 msgid "Support to projects including a component of technology development and transfer in developing countries."
 msgstr ""
 
-#: ../../SO5.md:7
+#: ../../SO5.md:64
 msgid "Contributions to United Nations agencies."
 msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:66
 msgid "For recipients:"
 msgstr ""
 
-#: ../../SO5.md:11
+#: ../../SO5.md:68
 msgid "International financial contributions received by central or local governments and implementing agencies."
 msgstr ""
 
-#: ../../SO5.md:12
+#: ../../SO5.md:69
 msgid "Financial contributions received from third countries’ governments or multilateral organizations, funds, or United Nations agencies."
 msgstr ""
 
@@ -195,11 +195,11 @@ msgstr ""
 msgid "SO5-1 requests descriptive and qualitative information relevant to the international public resources provided and received through bilateral and multilateral channels. The descriptive section may include all information that cannot be reported in tabular format and provide general information on resources provided and received for the implementation of the Convention."
 msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:91
 msgid "International resources provided: […The countries where most projects under the Convention are carried out are Burkina Faso, Ethiopia, Ghana, Mali, Morocco, Mozambique, Niger, Peru, Rwanda, Senegal, and the United Republic of Tanzania.]"
 msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:93
 msgid "International resources received: Trinational project ‘Sustainable Forest Management in the Transboundary Gran Chaco American Ecosystem (Global Environment Facility (GEF)–Gran Chaco)’ – Project ID 2505 GEF of GEF-4 – has a GEF grant of USD 2,663,018 for Argentina, plus 60 % of the regional cost of USD 1,290,909 (approximately USD 774,545).….]"
 msgstr ""
 
@@ -307,319 +307,319 @@ msgstr ""
 msgid "*__Table 22__. Resources provided and received for Bilateral and Multilateral Public Resources*"
 msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:166
 msgid "{rspan}`1`P/R{sup}`1`"
 msgstr ""
 
-#: ../../SO5.md:2
+#: ../../SO5.md:167
 msgid "{rspan}`1`Year{sup}`2`"
 msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:168
 msgid "{rspan}`1`Recipient or provider{sup}`3`"
 msgstr ""
 
-#: ../../SO5.md:4
+#: ../../SO5.md:169
 msgid "{rspan}`1`Title{sup}`4`"
 msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:170
 msgid "{cspan}`1` Total amount USD"
 msgstr ""
 
-#: ../../SO5.md:6
+#: ../../SO5.md:171
 msgid "{rspan}`1`Sector{sup}`5`"
 msgstr ""
 
-#: ../../SO5.md:7
+#: ../../SO5.md:172
 msgid "{rspan}`1`Capacity building{sup}`6`"
 msgstr ""
 
-#: ../../SO5.md:8
+#: ../../SO5.md:173
 msgid "{rspan}`1`Technology transfer{sup}`6`"
 msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:174
 msgid "{rspan}`1`Gender equality{sup}`6`"
 msgstr ""
 
-#: ../../SO5.md:10
+#: ../../SO5.md:175
 msgid "{rspan}`1`Channel{sup}`7`"
 msgstr ""
 
-#: ../../SO5.md:11
+#: ../../SO5.md:176
 msgid "{rspan}`1`Type of flow{sup}`8`"
 msgstr ""
 
-#: ../../SO5.md:12
+#: ../../SO5.md:177
 msgid "{rspan}`1`Financial instrument{sup}`9`"
 msgstr ""
 
-#: ../../SO5.md:13
+#: ../../SO5.md:178
 msgid "{rspan}`1`Type of support{sup}`10`"
 msgstr ""
 
-#: ../../SO5.md:14
+#: ../../SO5.md:179
 msgid "{rspan}`1`Amount mobilized through public interventions"
 msgstr ""
 
-#: ../../SO5.md:15
+#: ../../SO5.md:180
 msgid "{rspan}`1`Use, impact, (estimated) results"
 msgstr ""
 
-#: ../../SO5.md:16
+#: ../../SO5.md:181
 msgid "{rspan}`1`Additional information"
 msgstr ""
 
-#: ../../SO5.md:17
+#: ../../SO5.md:182
 msgid "Committed"
 msgstr ""
 
-#: ../../SO5.md:18
+#: ../../SO5.md:183
 msgid "Disbursed or received"
 msgstr ""
 
-#: ../../SO5.md:19
-#: ../../SO5.md:37
-#: ../../SO5.md:106
+#: ../../SO5.md:184
+#: ../../SO5.md:202
+#: ../../SO5.md:271
 msgid "P"
 msgstr ""
 
-#: ../../SO5.md:20
+#: ../../SO5.md:185
 msgid "19"
 msgstr ""
 
-#: ../../SO5.md:21
-#: ../../SO5.md:39
+#: ../../SO5.md:186
+#: ../../SO5.md:204
 msgid "Ethiopia"
 msgstr ""
 
-#: ../../SO5.md:22
-#: ../../SO5.md:40
+#: ../../SO5.md:187
+#: ../../SO5.md:205
 msgid "UNEP Conservation of Biodiversity"
 msgstr ""
 
-#: ../../SO5.md:23
-#: ../../SO5.md:24
+#: ../../SO5.md:188
+#: ../../SO5.md:611
 msgid "1,400,000"
 msgstr ""
 
-#: ../../SO5.md:24
+#: ../../SO5.md:189
 msgid "800,000"
 msgstr ""
 
-#: ../../SO5.md:25
-#: ../../SO5.md:43
+#: ../../SO5.md:190
+#: ../../SO5.md:208
 msgid "Other (environmental protection)"
 msgstr ""
 
-#: ../../SO5.md:26
-#: ../../SO5.md:44
-#: ../../SO5.md:62
-#: ../../SO5.md:64
-#: ../../SO5.md:113
-#: ../../SO5.md:115
+#: ../../SO5.md:191
+#: ../../SO5.md:209
+#: ../../SO5.md:227
+#: ../../SO5.md:229
+#: ../../SO5.md:278
+#: ../../SO5.md:280
 msgid "Yes"
 msgstr ""
 
-#: ../../SO5.md:27
-#: ../../SO5.md:28
-#: ../../SO5.md:45
-#: ../../SO5.md:46
-#: ../../SO5.md:63
-#: ../../SO5.md:114
+#: ../../SO5.md:192
+#: ../../SO5.md:193
+#: ../../SO5.md:210
+#: ../../SO5.md:211
+#: ../../SO5.md:228
+#: ../../SO5.md:279
 msgid "No"
 msgstr ""
 
-#: ../../SO5.md:29
-#: ../../SO5.md:47
+#: ../../SO5.md:194
+#: ../../SO5.md:212
 msgid "Multi -bilateral"
 msgstr ""
 
-#: ../../SO5.md:31
-#: ../../SO5.md:49
-#: ../../SO5.md:66
-#: ../../SO5.md:117
+#: ../../SO5.md:196
+#: ../../SO5.md:214
+#: ../../SO5.md:231
+#: ../../SO5.md:282
 msgid "ODA"
 msgstr ""
 
-#: ../../SO5.md:32
-#: ../../SO5.md:50
+#: ../../SO5.md:197
+#: ../../SO5.md:215
 msgid "Loan"
 msgstr ""
 
-#: ../../SO5.md:33
-#: ../../SO5.md:51
+#: ../../SO5.md:198
+#: ../../SO5.md:216
 msgid "Indirectly"
 msgstr ""
 
-#: ../../SO5.md:34
-#: ../../SO5.md:35
-#: ../../SO5.md:36
-#: ../../SO5.md:52
-#: ../../SO5.md:53
-#: ../../SO5.md:54
-#: ../../SO5.md:69
+#: ../../SO5.md:199
+#: ../../SO5.md:200
+#: ../../SO5.md:201
+#: ../../SO5.md:217
+#: ../../SO5.md:218
+#: ../../SO5.md:219
+#: ../../SO5.md:234
 msgid "\\-"
 msgstr ""
 
-#: ../../SO5.md:38
+#: ../../SO5.md:203
 msgid "20"
 msgstr ""
 
-#: ../../SO5.md:42
+#: ../../SO5.md:207
 msgid "600,000"
 msgstr ""
 
-#: ../../SO5.md:55
-#: ../../SO5.md:72
-#: ../../SO5.md:89
+#: ../../SO5.md:220
+#: ../../SO5.md:237
+#: ../../SO5.md:254
 msgid "R"
 msgstr ""
 
-#: ../../SO5.md:56
+#: ../../SO5.md:221
 msgid "17 - 20"
 msgstr ""
 
-#: ../../SO5.md:57
-#: ../../SO5.md:74
-#: ../../SO5.md:91
+#: ../../SO5.md:222
+#: ../../SO5.md:239
+#: ../../SO5.md:256
 msgid "GEF"
 msgstr ""
 
-#: ../../SO5.md:58
-#: ../../SO5.md:75
-#: ../../SO5.md:92
+#: ../../SO5.md:223
+#: ../../SO5.md:240
+#: ../../SO5.md:257
 msgid "Revision and Alignment of the NAP with the UNCCD Strategic Plan"
 msgstr ""
 
-#: ../../SO5.md:59
-#: ../../SO5.md:60
-#: ../../SO5.md:76
-#: ../../SO5.md:94
+#: ../../SO5.md:224
+#: ../../SO5.md:225
+#: ../../SO5.md:241
+#: ../../SO5.md:259
 msgid "150,000"
 msgstr ""
 
-#: ../../SO5.md:61
+#: ../../SO5.md:226
 msgid "Biosphere protection"
 msgstr ""
 
-#: ../../SO5.md:65
+#: ../../SO5.md:230
 msgid "Multilateral"
 msgstr ""
 
-#: ../../SO5.md:67
-#: ../../SO5.md:118
+#: ../../SO5.md:232
+#: ../../SO5.md:283
 msgid "Grant"
 msgstr ""
 
-#: ../../SO5.md:68
-#: ../../SO5.md:119
+#: ../../SO5.md:233
+#: ../../SO5.md:284
 msgid "Directly"
 msgstr ""
 
-#: ../../SO5.md:70
-#: ../../SO5.md:71
+#: ../../SO5.md:235
+#: ../../SO5.md:236
 msgid "Description"
 msgstr ""
 
-#: ../../SO5.md:73
-#: ../../SO5.md:90
-#: ../../SO5.md:15
+#: ../../SO5.md:238
+#: ../../SO5.md:255
+#: ../../SO5.md:773
 msgid "17"
 msgstr ""
 
-#: ../../SO5.md:107
-#: ../../SO5.md:28
+#: ../../SO5.md:272
+#: ../../SO5.md:786
 msgid "18"
 msgstr ""
 
-#: ../../SO5.md:108
+#: ../../SO5.md:273
 msgid "Ghana"
 msgstr ""
 
-#: ../../SO5.md:109
+#: ../../SO5.md:274
 msgid "Land Management"
 msgstr ""
 
-#: ../../SO5.md:110
-#: ../../SO5.md:111
+#: ../../SO5.md:275
+#: ../../SO5.md:276
 msgid "325,000"
 msgstr ""
 
-#: ../../SO5.md:112
+#: ../../SO5.md:277
 msgid "Other (Biosphere protection)"
 msgstr ""
 
-#: ../../SO5.md:116
+#: ../../SO5.md:281
 msgid "Bilateral"
 msgstr ""
 
-#: ../../SO5.md:120
+#: ../../SO5.md:285
 msgid "120,000"
 msgstr ""
 
-#: ../../SO5.md:121
+#: ../../SO5.md:286
 msgid "The project led to concrete results…"
 msgstr ""
 
-#: ../../SO5.md:122
+#: ../../SO5.md:287
 msgid "The project objectives and structure involved…"
 msgstr ""
 
-#: ../../SO5.md:123
+#: ../../SO5.md:288
 msgid "{cspan}`3` Total 2016{sup}`11`"
 msgstr ""
 
-#: ../../SO5.md:124
-#: ../../SO5.md:125
-#: ../../SO5.md:128
-#: ../../SO5.md:129
-#: ../../SO5.md:132
-#: ../../SO5.md:133
-#: ../../SO5.md:136
-#: ../../SO5.md:137
-#: ../../SO5.md:31
+#: ../../SO5.md:289
+#: ../../SO5.md:290
+#: ../../SO5.md:293
+#: ../../SO5.md:294
+#: ../../SO5.md:297
+#: ../../SO5.md:298
+#: ../../SO5.md:301
+#: ../../SO5.md:302
+#: ../../SO5.md:618
 msgid "xxx"
 msgstr ""
 
-#: ../../SO5.md:126
-#: ../../SO5.md:130
-#: ../../SO5.md:134
-#: ../../SO5.md:138
-#: ../../SO5.md:142
-#: ../../SO5.md:146
+#: ../../SO5.md:291
+#: ../../SO5.md:295
+#: ../../SO5.md:299
+#: ../../SO5.md:303
+#: ../../SO5.md:307
+#: ../../SO5.md:311
 msgid "{cspan}`10`"
 msgstr ""
 
-#: ../../SO5.md:127
+#: ../../SO5.md:292
 msgid "{cspan}`3` Total 2017{sup}`11`"
 msgstr ""
 
-#: ../../SO5.md:131
+#: ../../SO5.md:296
 msgid "{cspan}`3` Total 2018{sup}`11`"
 msgstr ""
 
-#: ../../SO5.md:135
+#: ../../SO5.md:300
 msgid "{cspan}`3` Total 2019{sup}`11`"
 msgstr ""
 
-#: ../../SO5.md:139
+#: ../../SO5.md:304
 msgid "{cspan}`3` Total resources provided{sup}`11`"
 msgstr ""
 
-#: ../../SO5.md:140
-#: ../../SO5.md:141
-#: ../../SO5.md:144
-#: ../../SO5.md:145
+#: ../../SO5.md:305
+#: ../../SO5.md:306
+#: ../../SO5.md:309
+#: ../../SO5.md:310
 msgid "Σ"
 msgstr ""
 
-#: ../../SO5.md:143
+#: ../../SO5.md:308
 msgid "{cspan}`3` Total resources received{sup}`11`"
 msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:323
 msgid "{sup}`1` Provided/Received{{br}} {sup}`2` 20XX{{br}} {sup}`3` Recipient/provider country, region, global recipient/provider institution, entity{{br}} {sup}`4` Title of project, programme, activity or other{{br}} {sup}`5` Agriculture, forestry, water and sanitation, cross-cutting, other (specify){{br}} {sup}`6` Yes / No{{br}} {sup}`7` Bilateral, multilateral (core contribution) multilateral (DLDD-specific) multi-bilateral, other (specify){{br}} {sup}`8` ODA, OOF other (specify){{br}} {sup}`9` Grant, concessional loan, non-concessional loan, equity guarantee/insurance, other (specify){{br}} {sup}`10` Directly or indirectly related to DLDD{{br}} {sup}`11` If disaggregated information is not available, the Party can report only the total amount or the total amounts per year.{{br}}"
 msgstr ""
 
@@ -713,19 +713,19 @@ msgstr ""
 msgid "The aim of this section is to provide Parties the space to report on information on the context and complement the reporting against Tier 1 (trends) or Tier 2 (table)."
 msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:391
 msgid "“Public expenditures related to sustainable agriculture in year 2018 increased to USD 168 million.”"
 msgstr ""
 
-#: ../../SO5.md:2
+#: ../../SO5.md:392
 msgid "“National resources allocated to protection and ecosystem restoration are mainly channeled through the Ministry of Agriculture.”"
 msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:393
 msgid "“The budget allocation of the National Directorate for Planning and Environmental Land Management, which carries out the NAP, is included in the National Budget Programme No. 60 for the years 2012, 2013 and 2014."
 msgstr ""
 
-#: ../../SO5.md:4
+#: ../../SO5.md:394
 msgid "“Data was retrieved directly from published sources of federal, provincial and territorial governments; official data was retrieved from the statistical office.”"
 msgstr ""
 
@@ -757,148 +757,148 @@ msgstr ""
 msgid "*__Table 23__.  Resources provided received, and required for domestic public resources*"
 msgstr ""
 
-#: ../../SO5.md:2
-#: ../../SO5.md:1
-#: ../../SO5.md:2
+#: ../../SO5.md:422
+#: ../../SO5.md:588
+#: ../../SO5.md:760
 msgid "Year"
 msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:423
 msgid "Amount in USD"
 msgstr ""
 
-#: ../../SO5.md:4
-#: ../../SO5.md:7
-#: ../../SO5.md:13
+#: ../../SO5.md:424
+#: ../../SO5.md:594
+#: ../../SO5.md:771
 msgid "Additional information"
 msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:425
 msgid "__Government expenditures__"
 msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:429
 msgid "{rspan}`2` Directly related to combating DLDD"
 msgstr ""
 
-#: ../../SO5.md:10
+#: ../../SO5.md:430
 msgid "2017"
 msgstr ""
 
-#: ../../SO5.md:11
+#: ../../SO5.md:431
 msgid "USD 163,000"
 msgstr ""
 
-#: ../../SO5.md:12
+#: ../../SO5.md:432
 msgid "Design phase to support the incorporation of the Indigenous Desert Alliance as a legal entity. Secondment of an executive staff member for six months"
 msgstr ""
 
-#: ../../SO5.md:13
+#: ../../SO5.md:433
 msgid "2017–2020"
 msgstr ""
 
-#: ../../SO5.md:14
+#: ../../SO5.md:434
 msgid "USD 118,000"
 msgstr ""
 
-#: ../../SO5.md:15
+#: ../../SO5.md:435
 msgid "In-kind contribution to the GEF project 5018 “Revision and Alignment of National Action Program with UNCCD 10 Years Strategic Plan and Framework”"
 msgstr ""
 
-#: ../../SO5.md:16
-#: ../../SO5.md:20
-#: ../../SO5.md:8
+#: ../../SO5.md:436
+#: ../../SO5.md:440
+#: ../../SO5.md:595
 msgid "2018"
 msgstr ""
 
-#: ../../SO5.md:17
+#: ../../SO5.md:437
 msgid "USD 3,400,000"
 msgstr ""
 
-#: ../../SO5.md:18
+#: ../../SO5.md:438
 msgid "PPP DLDD – public contribution to the PPP\\*\\*. Grant funding"
 msgstr ""
 
-#: ../../SO5.md:19
+#: ../../SO5.md:439
 msgid "Indirectly related to combating DLDD"
 msgstr ""
 
-#: ../../SO5.md:21
+#: ../../SO5.md:441
 msgid "USD 8,959,024"
 msgstr ""
 
-#: ../../SO5.md:22
+#: ../../SO5.md:442
 msgid "Co-financing of the GEF project “Incentives for the Conservation of Ecosystem Services of Global Significance”"
 msgstr ""
 
-#: ../../SO5.md:23
+#: ../../SO5.md:443
 msgid "__Subsidies__"
 msgstr ""
 
-#: ../../SO5.md:27
+#: ../../SO5.md:447
 msgid "{rspan}`1` Subsidies related to combating DLDD"
 msgstr ""
 
-#: ../../SO5.md:28
+#: ../../SO5.md:448
 msgid "2020"
 msgstr ""
 
-#: ../../SO5.md:29
+#: ../../SO5.md:449
 msgid "USD 12,500,000"
 msgstr ""
 
-#: ../../SO5.md:30
+#: ../../SO5.md:450
 msgid "Government subsidy for agricultural land restoration – land conservation"
 msgstr ""
 
-#: ../../SO5.md:31
+#: ../../SO5.md:451
 msgid "2018-2020"
 msgstr ""
 
-#: ../../SO5.md:32
+#: ../../SO5.md:452
 msgid "USD 5,600,000"
 msgstr ""
 
-#: ../../SO5.md:33
+#: ../../SO5.md:453
 msgid "Property tax exemption for private land"
 msgstr ""
 
-#: ../../SO5.md:34
-#: ../../SO5.md:47
+#: ../../SO5.md:454
+#: ../../SO5.md:467
 msgid "_Other transfers_"
 msgstr ""
 
-#: ../../SO5.md:38
+#: ../../SO5.md:458
 msgid "{cspan}`3` __Total expenditures/total expenditures per year__"
 msgstr ""
 
-#: ../../SO5.md:39
+#: ../../SO5.md:459
 msgid "__Government revenues__"
 msgstr ""
 
-#: ../../SO5.md:43
+#: ../../SO5.md:463
 msgid "Environmental taxes for the conservation of land resources and taxes related to combating DLDD"
 msgstr ""
 
-#: ../../SO5.md:44
-#: ../../SO5.md:22
-#: ../../SO5.md:37
+#: ../../SO5.md:464
+#: ../../SO5.md:609
+#: ../../SO5.md:795
 msgid "2019"
 msgstr ""
 
-#: ../../SO5.md:45
+#: ../../SO5.md:465
 msgid "USD 150,000,000"
 msgstr ""
 
-#: ../../SO5.md:46
+#: ../../SO5.md:466
 msgid "Tax increase on royalties in the mining sector. Indirectly related to DLDD"
 msgstr ""
 
-#: ../../SO5.md:51
+#: ../../SO5.md:471
 msgid "{cspan}`3` __Total revenues/total revenues per year__"
 msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:479
 msgid "\\*\\* The private contribution to this PPP is reported under SO 5-3."
 msgstr ""
 
@@ -986,11 +986,11 @@ msgstr ""
 msgid "SO5-3 requests the provision of relevant descriptive and qualitative information. The aim of this section is to provide Parties the space to report on information on the context and complement the reporting against Tier 1 (trends) or Tier 2 (table)."
 msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:547
 msgid "“The reporting country undertook important public–private partnerships with [the recipient country] and [the third country’s] private companies. These have been mobilizing XY euros to pursue…”"
 msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:549
 msgid "“Non-governmental organizations (NGOs) are funded at 80% by public sources and they need to co-finance 20% of each project/programme (own contribution). This means that besides the development cooperation budget, the NGOs are the most important co-financing partners for activities relevant to the implementation of the Convention. These contributions come from the private sector, private donations, other donors and the European Union.”"
 msgstr ""
 
@@ -1039,107 +1039,107 @@ msgstr ""
 msgid "*__Table 24__. Resources provided and received for International and Domestic private resources*"
 msgstr ""
 
-#: ../../SO5.md:2
+#: ../../SO5.md:589
 msgid "Title of project, programme, activity or other"
 msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:590
 msgid "Total amount in USD"
 msgstr ""
 
-#: ../../SO5.md:4
+#: ../../SO5.md:591
 msgid "Financial instrument{sup}`1`"
 msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:592
 msgid "Type of institution{sup}`2`"
 msgstr ""
 
-#: ../../SO5.md:6
+#: ../../SO5.md:593
 msgid "Recipient/ domestic {sup}`3`"
 msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:596
 msgid "PPP{sup}`4`"
 msgstr ""
 
-#: ../../SO5.md:10
+#: ../../SO5.md:597
 msgid "2,500,000"
 msgstr ""
 
-#: ../../SO5.md:11
-#: ../../SO5.md:25
+#: ../../SO5.md:598
+#: ../../SO5.md:612
 msgid "Commercial loan"
 msgstr ""
 
-#: ../../SO5.md:12
-#: ../../SO5.md:26
+#: ../../SO5.md:599
+#: ../../SO5.md:613
 msgid "Private corporation"
 msgstr ""
 
-#: ../../SO5.md:13
-#: ../../SO5.md:27
+#: ../../SO5.md:600
+#: ../../SO5.md:614
 msgid "Domestic mobilization"
 msgstr ""
 
-#: ../../SO5.md:14
+#: ../../SO5.md:601
 msgid "Private loan blended with public grant funding"
 msgstr ""
 
-#: ../../SO5.md:15
-#: ../../SO5.md:24
+#: ../../SO5.md:602
+#: ../../SO5.md:782
 msgid "2018–2020"
 msgstr ""
 
-#: ../../SO5.md:16
+#: ../../SO5.md:603
 msgid "Risk mitigation instrument for land restoration"
 msgstr ""
 
-#: ../../SO5.md:17
+#: ../../SO5.md:604
 msgid "3,000,000"
 msgstr ""
 
-#: ../../SO5.md:18
+#: ../../SO5.md:605
 msgid "Private equity"
 msgstr ""
 
-#: ../../SO5.md:19
+#: ../../SO5.md:606
 msgid "Pension fund"
 msgstr ""
 
-#: ../../SO5.md:20
+#: ../../SO5.md:607
 msgid "Latin America"
 msgstr ""
 
-#: ../../SO5.md:21
+#: ../../SO5.md:608
 msgid "The Risk Mitigation Instrument for Land Restoration project combines a grant of USD X million with USD 3 million in private equity to deploy innovative risk mitigation instruments to restore degraded lands in Latin America."
 msgstr ""
 
-#: ../../SO5.md:23
+#: ../../SO5.md:610
 msgid "Desertification and Sandstorm Disaster Prevention and Control Project in the Western Region"
 msgstr ""
 
-#: ../../SO5.md:28
+#: ../../SO5.md:615
 msgid "Executing agency: XY Ecology Technology Co. Ltd."
 msgstr ""
 
-#: ../../SO5.md:29
+#: ../../SO5.md:616
 msgid "__Total international__"
 msgstr ""
 
-#: ../../SO5.md:36
+#: ../../SO5.md:623
 msgid "__Total domestic__"
 msgstr ""
 
-#: ../../SO5.md:43
+#: ../../SO5.md:630
 msgid "__Total per year__"
 msgstr ""
 
-#: ../../SO5.md:45
+#: ../../SO5.md:632
 msgid "yyy"
 msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:640
 msgid "{sup}`1` Charitable grant, commercial loans, private export credit, private equities, private insurance, other (specify){{br}} {sup}`2` Philanthropic foundation, non-profit institution, pension fund, private corporation, other (specify){{br}} {sup}`3` Recipient country/region domestic mobilization{{br}} {sup}`4` The public contribution to the PPP is reported under SO 5-2."
 msgstr ""
 
@@ -1312,160 +1312,160 @@ msgstr ""
 msgid "*__Table 25__.   Resources provided, received, and required for technology transfer measures or activities*"
 msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:759
 msgid "Provided/ received/ required"
 msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:761
 msgid "Title{sup}`1`"
 msgstr ""
 
-#: ../../SO5.md:4
+#: ../../SO5.md:762
 msgid "Amount USD"
 msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:763
 msgid "Recipient or provider{sup}`2`"
 msgstr ""
 
-#: ../../SO5.md:6
+#: ../../SO5.md:764
 msgid "Description and objectives"
 msgstr ""
 
-#: ../../SO5.md:7
+#: ../../SO5.md:765
 msgid "Sector"
 msgstr ""
 
-#: ../../SO5.md:8
+#: ../../SO5.md:766
 msgid "Type of technology"
 msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:767
 msgid "Activities undertaken by{sup}`3`"
 msgstr ""
 
-#: ../../SO5.md:10
+#: ../../SO5.md:768
 msgid "Status of measure or activity{sup}`4`"
 msgstr ""
 
-#: ../../SO5.md:11
+#: ../../SO5.md:769
 msgid "Timeframe of measure or activity"
 msgstr ""
 
-#: ../../SO5.md:12
+#: ../../SO5.md:770
 msgid "Use, impact, and estimated results"
 msgstr ""
 
-#: ../../SO5.md:14
+#: ../../SO5.md:772
 msgid "__Provided__"
 msgstr ""
 
-#: ../../SO5.md:16
+#: ../../SO5.md:774
 msgid "Land degradation neutrality"
 msgstr ""
 
-#: ../../SO5.md:17
+#: ../../SO5.md:775
 msgid "45,000"
 msgstr ""
 
-#: ../../SO5.md:18
+#: ../../SO5.md:776
 msgid "Democratic Republic of the Congo"
 msgstr ""
 
-#: ../../SO5.md:19
-#: ../../SO5.md:51
+#: ../../SO5.md:777
+#: ../../SO5.md:809
 msgid "…"
 msgstr ""
 
-#: ../../SO5.md:20
+#: ../../SO5.md:778
 msgid "Bioshpere protection"
 msgstr ""
 
-#: ../../SO5.md:21
+#: ../../SO5.md:779
 msgid "Geospatial Technologies for Land Degradation Assessment and Management"
 msgstr ""
 
-#: ../../SO5.md:22
+#: ../../SO5.md:780
 msgid "Public and private sector"
 msgstr ""
 
-#: ../../SO5.md:23
+#: ../../SO5.md:781
 msgid "Ongoing"
 msgstr ""
 
-#: ../../SO5.md:27
+#: ../../SO5.md:785
 msgid "__Received__"
 msgstr ""
 
-#: ../../SO5.md:29
+#: ../../SO5.md:787
 msgid "Soil management"
 msgstr ""
 
-#: ../../SO5.md:31
+#: ../../SO5.md:789
 msgid "China"
 msgstr ""
 
-#: ../../SO5.md:33
+#: ../../SO5.md:791
 msgid "Environmental protection"
 msgstr ""
 
-#: ../../SO5.md:34
+#: ../../SO5.md:792
 msgid "Technologies of sandy desertification control"
 msgstr ""
 
-#: ../../SO5.md:35
+#: ../../SO5.md:793
 msgid "Private"
 msgstr ""
 
-#: ../../SO5.md:36
+#: ../../SO5.md:794
 msgid "Completed"
 msgstr ""
 
-#: ../../SO5.md:40
+#: ../../SO5.md:798
 msgid "__Required__"
 msgstr ""
 
-#: ../../SO5.md:42
+#: ../../SO5.md:800
 msgid "Regenerative agriculture"
 msgstr ""
 
-#: ../../SO5.md:43
+#: ../../SO5.md:801
 msgid "60,000"
 msgstr ""
 
-#: ../../SO5.md:44
+#: ../../SO5.md:802
 msgid "Domestic"
 msgstr ""
 
-#: ../../SO5.md:46
+#: ../../SO5.md:804
 msgid "Agriculture"
 msgstr ""
 
-#: ../../SO5.md:47
+#: ../../SO5.md:805
 msgid "Planting local flora to stabilize the soil"
 msgstr ""
 
-#: ../../SO5.md:48
+#: ../../SO5.md:806
 msgid "Public"
 msgstr ""
 
-#: ../../SO5.md:49
+#: ../../SO5.md:807
 msgid "Planned"
 msgstr ""
 
-#: ../../SO5.md:50
+#: ../../SO5.md:808
 msgid "2021-2023"
 msgstr ""
 
-#: ../../SO5.md:53
+#: ../../SO5.md:811
 msgid "__Totals__"
 msgstr ""
 
-#: ../../SO5.md:66
+#: ../../SO5.md:824
 msgid "__Totals per year__"
 msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:844
 msgid "{sup}`1` Title of project, programme, activity or other{{br}} {sup}`2` Recipient entity, country, region, global{{br}} {sup}`3` Public sector, public and/or private sector; private sector{{br}} {sup}`4` Planned/ongoing/completed {{br}}"
 msgstr ""
 
@@ -1517,11 +1517,11 @@ msgstr ""
 msgid "SO5-5.1: Planned provision and mobilization of domestic public and private resources"
 msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:884
 msgid "“The reporting country will continue to provide public support to address land degradation and drought to developing countries and affected country Parties through bilateral and multilateral channels for rehabilitation and soil improvement, combating soil erosion and desertification, and sustainable agriculture.”"
 msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:886
 msgid "“The national system allows for the tracking of future resources aimed at pursuing Sustainable Development Goal (SDG) 15, thanks to the recently established strategic committee on SDG implementation in partner countries, managed by the Ministry of Foreign Affairs. Thus, the estimated amounts reported will be dedicated to the achievement of SDG 15.”"
 msgstr ""
 
@@ -1529,11 +1529,11 @@ msgstr ""
 msgid "SO5-5.2: Planned provision and mobilization of international public and private resources"
 msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:895
 msgid "“In the reporting county, a programme on improving food security and enhancing farmers’ initiatives is being implemented. It is aimed at sustainably increasing production and fostering jobs for women and youth by adopting resilient agro-farming practices, restoring degraded lands, and improving natural resources management. A budget of USD 15 million (XYZ domestic currency) has been allocated to this measure for the triennium 2021–2023.”"
 msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:897
 msgid "“The central government budget line dedicated to sustainable land management (see SO 5-2) for the years 2022–2024 is endowed with USD 14 million across the triennium. In accordance with the recently adopted “Programming document for national land management”, this budget line will likely be entirely dedicated to activities pursuing the implementation of strategic objectives included in the aforementioned programming document"
 msgstr ""
 
@@ -1541,15 +1541,15 @@ msgstr ""
 msgid "SO5-5.3: Resources needed"
 msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:906
 msgid "“Based on the results of the assessment conducted in 2019, the reporting country aims at developing a land degradation neutrality (LDN) targets implementation plan. The most promising and feasible measures will be identified, as well as related budget, capacity-building and technology transfer needs.”"
 msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:908
 msgid "“Regions in the country most affected by DLDD are …. Those regions need significant investments to reduce vulnerabilities caused by land degradation. Following a case study survey among the local population, projects on the ground need to target local communities and indigenous peoples in sustainable land use with the aim of creating synergies with local practices and knowledge.”"
 msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:910
 msgid "“The reported estimate of USD 16.96 million is based on a study conducted on the basis on the Biodiversity Finance Initiative (BIOFIN) methodology, with further internal developments to adapt it to the objectives of the national LDN targets."
 msgstr ""
 
