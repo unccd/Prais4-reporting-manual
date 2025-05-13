@@ -36,31 +36,28 @@ Parties wishing to use in-country data provided by the NMHS or regional, rather 
 
 _Figure 1. Decision tree to help Parties chose the best precipitation data source to derive indicator SO 3-1_
 ````{ifconfig} language == 'en'
-![]()
 ```{image} /img/SO3_Decision_tree.jpg
 ```
 ````
 ````{ifconfig} language == 'ru'
-![]()
 ```{image} /img/Figure_1-RU.jpg
 ```
 ````
 ````{ifconfig} language == 'ar'
-![]()
 ```{image} /img/Figure_1-AR.jpg
 ```
 ````
 ````{ifconfig} language == 'zh'
-![]()
 ```{image} /img/Figure_1-ZH.png
+```
 ````
 ````{ifconfig} language == 'es'
-![]()
 ```{image} /img/Figure_1-ES.png
+```
 ````
 ````{ifconfig} language == 'fr'
-![]()
 ```{image} /img/Figure_1-FR.png
+```
 ````
 
 
@@ -278,31 +275,28 @@ Parties wishing to use in-country or regional datasets can use the decision tree
 
 _Figure 2. Decision tree to help Parties choose the best population data source to derive indicator SO 3-2_
 ````{ifconfig} language == 'en'
-![]()
 ```{image} /img/SO3_2_Decision_tree.jpg
 ```
 ````
 ````{ifconfig} language == 'ru'
-![]()
 ```{image} /img/Figure_2-RU.jpg
 ```
 ````
 ````{ifconfig} language == 'ar'
-![]()
 ```{image} /img/Figure_2-AR.jpg
 ```
 ````
 ````{ifconfig} language == 'zh'
-![]()
 ```{image} /img/Figure_2-ZH.png
+```
 ````
 ````{ifconfig} language == 'es'
-![]()
 ```{image} /img/Figure_2-ES.png
+```
 ````
 ````{ifconfig} language == 'fr'
-![]()
 ```{image} /img/Figure_2-FR.png
+```
 ````
 
 This decision-making process should help Parties identify data that meets the specifications summarized in table 20.
@@ -472,31 +466,28 @@ The vulnerability factors recommended by the UNCCD to derive the DVI (listed in 
 
 _Figure 3. Social, economic, and infrastructural components and their associated factors recommended for calculating the Drought Vulnerability Index_
 ````{ifconfig} language == 'en'
-![]()
 ```{image} /img/SO3_3_Decision_tree.jpg
 ```
 ````
 ````{ifconfig} language == 'ru'
-![]()
 ```{image} /img/Figure_3-RU.jpg
 ```
 ````
 ````{ifconfig} language == 'ar'
-![]()
 ```{image} /img/Figure_3-AR.jpg
 ```
 ````
 ````{ifconfig} language == 'zh'
-![]()
 ```{image} /img/Figure_3-ZH.png
+```
 ````
 ````{ifconfig} language == 'es'
-![]()
 ```{image} /img/Figure_3-ES.png
+```
 ````
 ````{ifconfig} language == 'fr'
-![]()
 ```{image} /img/Figure_3-FR.png
+```
 ````
 
 The UNCCD provides default data from the global DVI dataset of the JRC. The method used to derive the default DVI is similar to the one presented in this manual and in the “Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3”, but presents some key differences in terms of the normalization method (see Step 2) and number of factors included. Two additional factors are used in the default DVI: “Disaster Prevention and Preparedness (US$/Year/Capital)” and “Global map of Accessibility: Travel time to major cities”. The default DVI value represents the median DVI across the country for the period 2000–2018.
@@ -507,31 +498,28 @@ National/regional data products used to calculate the DVI should conform with th
 
 _Figure 4. Decision tree to help Parties choose the best tier of vulnerability assessment for the SO 3-3 Indicator reporting according to data availability_
 ````{ifconfig} language == 'en'
-![]()
 ```{image} /img/SO3_3b_Decision_tree.jpg
 ```
 ````
 ````{ifconfig} language == 'ru'
-![]()
 ```{image} /img/Figure_4-RU.jpg
 ```
 ````
 ````{ifconfig} language == 'ar'
-![]()
 ```{image} /img/Figure_4-AR.jpg
 ```
 ````
 ````{ifconfig} language == 'zh'
-![]()
 ```{image} /img/Figure_4-ZH.png
+```
 ````
 ````{ifconfig} language == 'es'
-![]()
 ```{image} /img/Figure_4-ES.png
+```
 ````
 ````{ifconfig} language == 'fr'
-![]()
 ```{image} /img/Figure_4-FR.png
+```
 ````
 
 _DVI: Drought Vulnerability Index_{{br}}
