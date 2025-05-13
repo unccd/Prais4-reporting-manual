@@ -45,6 +45,7 @@ myst_enable_extensions = [
     "smartquotes", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#typography
     "substitution", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#substitutions-with-jinja2
     "tasklist", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#task-lists
+    "dollarmath", # https://myst-parser.readthedocs.io/en/stable/syntax/optional.html#dollar-delimited-math
 ]
 
 myst_substitutions = {
@@ -119,7 +120,7 @@ html_context = {
 html_theme_options = {
     'style_nav_header_background': '#ff7100',
     'collapse_navigation': False,
-    'display_version': False,
+    'version_selector': False,
     'logo_only': True,
     'prev_next_buttons_location': 'top',
     'vcs_pageview_mode': 'edit',
