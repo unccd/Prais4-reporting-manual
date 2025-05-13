@@ -1,2214 +1,1588 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, UNCCD
-# This file is distributed under the same license as the PRAIS4 Reporting
-# Manual package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: PRAIS4 Reporting Manual \n"
+"Project-Id-Version: prais4-reporting-manual\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-04 19:41+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2025-05-13 16:13+0300\n"
+"PO-Revision-Date: 2025-05-13 16:48\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: prais4-reporting-manual\n"
+"X-Crowdin-Project-ID: 760205\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/locales/source/SO5.pot\n"
+"X-Crowdin-File-ID: 18\n"
+"Language: ar_SA\n"
 
 #: ../../SO5.md:1
-msgid ""
-"5. Strategic objective 5: To mobilize substantial and additional "
-"financial and non-financial resources to support the implementation of "
-"the Convention by building effective partnerships at global and national "
-"level"
-msgstr "5- الهدف الاستراتيجي 5: تعبئة موارد مالية وغير مالية كبيرة وإضافية لدعم تنفيذ الاتفاقية من خلال بناء شراكات فعّالة على الصعيدَين العالمي والوطني"
+msgid "5. Strategic objective 5: To mobilize substantial and additional financial and non-financial resources to support the implementation of the Convention by building effective partnerships at global and national level"
+msgstr ""
 
 #: ../../SO5.md:3
 msgid "Introduction"
-msgstr "مقدمة"
+msgstr ""
 
 #: ../../SO5.md:5
-msgid ""
-"The strategic objective (SO) 5 indicator framework aims to enable Parties"
-" to report quantitative and qualitative information on financial and non-"
-"financial resources dedicated to supporting the implementation of the "
-"Convention. The set of indicators aims at comprehensive reporting."
-msgstr "يهدف إطار مؤشر الهدف الاستراتيجي (SO) 5 إلى تمكين الأطراف من الإبلاغ عن المعلومات الكمية والنوعية المتعلقة بالموارد المالية وغير المالية المخصصة لدعم تنفيذ الاتفاقية. وتتوخى مجموعة المؤشرات تحقيق الإبلاغ الشامل."
+msgid "The strategic objective (SO) 5 indicator framework aims to enable Parties to report quantitative and qualitative information on financial and non-financial resources dedicated to supporting the implementation of the Convention. The set of indicators aims at comprehensive reporting."
+msgstr ""
 
 #: ../../SO5.md:7
-msgid ""
-"This section of the manual addresses the issues related to the "
-"identification of resources specific to desertification/land degradation "
-"and drought (DLDD) and the structure of the indicator framework. It also "
-"explains the Tier approach used."
-msgstr "يتناول هذا القسم من الدليل القضايا المتصلة بتحديد الموارد الخاصة بالتصحر/تدهور الأراضي والجفاف (DLDD) وهيكل إطار المؤشرات. ويتناول أيضاً بالشرح نهج المستوى المستخدم."
+msgid "This section of the manual addresses the issues related to the identification of resources specific to desertification/land degradation and drought (DLDD) and the structure of the indicator framework. It also explains the Tier approach used."
+msgstr ""
 
 #: ../../SO5.md:9
-msgid ""
-"Identification of resources specific to DLDD or tracking resources for "
-"the implementation of the Convention concerns accounting for (i) the "
-"financial and non-financial resources employed by activities that avoid, "
-"reduce, and reverse the effects of land degradation and desertification; "
-"and (ii) the preparedness for, mitigation of and response to drought at "
-"different scales. The most relevant challenge lies in the identification "
-"of DLDD-specific resources among a range of those allocated for other "
-"purposes."
-msgstr "يتعلق تحديد الموارد الخاصة بالتصحر وتدهور الأراضي والجفاف أو تتبع الموارد من أجل تنفيذ الاتفاقية بحصر (1) الموارد المالية وغير المالية التي تستخدمها الأنشطة التي تتجنب آثار تدهور الأراضي والتصحر وتقلل منها وتعكس مسارها و(2) والتأهب للجفاف والتخفيف منه والتصدي له على مستويات مختلفة. ويكمن التحدي الأكثر أهمية في تحديد الموارد الخاصة بالتصحر وتدهور الأراضي والجفاف ضمن طائفة من الموارد المخصصة لأغراض أخرى."
+msgid "Identification of resources specific to DLDD or tracking resources for the implementation of the Convention concerns accounting for (i) the financial and non-financial resources employed by activities that avoid, reduce, and reverse the effects of land degradation and desertification; and (ii) the preparedness for, mitigation of and response to drought at different scales. The most relevant challenge lies in the identification of DLDD-specific resources among a range of those allocated for other purposes."
+msgstr ""
 
 #: ../../SO5.md:11
-msgid ""
-"This section of the user manual does not provide a prescriptive "
-"definition of which activities can be accounted for as being DLDD-"
-"relevant, nor does it exclude any; however, it includes activities, "
-"examples, and options as well as a non-exhaustive list of DLDD "
-"activities, which might be useful references for the identification of "
-"relevant activities. It is up to the reporting Party to provide insights "
-"on how those activities are chosen as relevant and explain the "
-"methodology used."
-msgstr "لا يُقدِّم هذا القسم من دليل المستخدم تعريفاً توجيهياً للأنشطة التي يُمكِن اعتبارها ذات صلة بالتصحر وتدهور الأراضي والجفاف، كما أنه لا يستبعد أياً منها؛ غير أنه يشمل أنشطة وأمثلة وخيارات فضلاً عن قائمة غير شاملة بالأنشطة الخاصة بالتصحر وتدهور الأراضي والجفاف، التي قد تكون مراجع مفيدة لتحديد الأنشطة ذات الصلة. والأمر متروك للطرف المُبلِّغ لتقديم رؤى متعمقة عن كيفية اختيار هذه الأنشطة حسب الاقتضاء وشرح المنهجية المُستخدَمة."
+msgid "This section of the user manual does not provide a prescriptive definition of which activities can be accounted for as being DLDD-relevant, nor does it exclude any; however, it includes activities, examples, and options as well as a non-exhaustive list of DLDD activities, which might be useful references for the identification of relevant activities. It is up to the reporting Party to provide insights on how those activities are chosen as relevant and explain the methodology used."
+msgstr ""
 
 #: ../../SO5.md:13
 msgid "Structure and aim of the SO 5 indicator framework"
-msgstr "هيكل وهدف إطار المؤشر SO 5"
+msgstr ""
 
 #: ../../SO5.md:15
-msgid ""
-"The indicator framework considers the current reporting experiences under"
-" the other Rio conventions. It has been revised taking into account the "
-"measurement, reporting and verification system under the United Nations "
-"Framework Convention on Climate Change (UNFCCC) (with its current "
-"Biennial Update Reports), the National Communications templates, and the "
-"most recent updates regarding the enhanced transparency framework under "
-"the Paris Agreement and the financial reporting framework under the "
-"Convention on Biological Diversity (CBD), with the aim of increasing "
-"synergies in data collection and reporting."
-msgstr "يضع إطار المؤشر في الاعتبار التجارب الحالية في مجال الإبلاغ بموجب اتفاقيات ريو الأخرى. وقد جرى تنقيحه مع مراعاة نظام القياس والإبلاغ والتحقَّق بموجب اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ (بتقاريرها المحدَّثة لفترة السنتين الحالية)، ونماذج البلاغات الوطنية وآخر التحديثات المتعلقة بإطار الشفافية المعزَّز بموجب اتفاق باريس وإطار الإبلاغ المالي بموجب اتفاقية التنوع البيولوجي، بهدف زيادة أوجه التآزر في جمع البيانات والإبلاغ عنها."
+msgid "The indicator framework considers the current reporting experiences under the other Rio conventions. It has been revised taking into account the measurement, reporting and verification system under the United Nations Framework Convention on Climate Change (UNFCCC) (with its current Biennial Update Reports), the National Communications templates, and the most recent updates regarding the enhanced transparency framework under the Paris Agreement and the financial reporting framework under the Convention on Biological Diversity (CBD), with the aim of increasing synergies in data collection and reporting."
+msgstr ""
 
 #: ../../SO5.md:17
 msgid "Tier approach for SO 5"
-msgstr "نهج المستوى للهدف الاستراتيجي SO 5"
+msgstr ""
 
 #: ../../SO5.md:19
-msgid ""
-"The SO 5 indicator framework offers flexibility by introducing Tiers, "
-"facilitating the reporting for those Parties that lack quantitative "
-"and/or detailed data."
-msgstr "يُتيح إطار المؤشر SO 5 مرونةً بطرحه للمستويات، مما يُيِّسر عملية الإبلاغ على الأطراف التي تفتقر إلى بيانات كمية و/أو تفصيلية."
+msgid "The SO 5 indicator framework offers flexibility by introducing Tiers, facilitating the reporting for those Parties that lack quantitative and/or detailed data."
+msgstr ""
 
 #: ../../SO5.md:21
-msgid ""
-"Tier 1 reporting includes descriptive and qualitative information "
-"relevant to the indicator, as well as information on trends. Descriptions"
-" can include quantitative information at a level of detail which is too "
-"low to be reported in the Tier 2 tabular format. It should also include "
-"all information that cannot be reported in tabular format, such as "
-"descriptions of projects, programmes, instruments, and policies, as well "
-"as case studies, experiences, and best practices."
-msgstr "يشمل الإبلاغ في المستوى 1 معلومات وصفية ونوعية ذات صلة بالمؤشر، وكذلك معلومات عن الاتجاهات. ويمكن أن تتضمن الأوصاف معلومات كمية بمستوى منخفض للغاية من التفاصيل يتعذر معه الإبلاغ في شكل الجداول للمستوى 2. وينبغي أن تتضمن كذلك جميع المعلومات التي لا يمكن الإبلاغ عنها في شكل الجداول، مثل أوصاف المشاريع والبرامج والأدوات والسياسات، بالإضافة إلى دراسات الحالة والتجارب وأفضل الممارسات."
+msgid "Tier 1 reporting includes descriptive and qualitative information relevant to the indicator, as well as information on trends. Descriptions can include quantitative information at a level of detail which is too low to be reported in the Tier 2 tabular format. It should also include all information that cannot be reported in tabular format, such as descriptions of projects, programmes, instruments, and policies, as well as case studies, experiences, and best practices."
+msgstr ""
 
 #: ../../SO5.md:23
-msgid ""
-"Tier 2 reporting is additional to Tier 1 reporting and provides a tabular"
-" format to be filled in along 16 parameters included in the columns. Tier"
-" 2 aims to collect more detailed quantitative and descriptive information"
-" at the highest disaggregation level available. The table should be "
-"complemented by information on definitions and methodologies used for the"
-" relevant parameters to be included in the documentation box. Relevant "
-"resources and databases should be included in each indicator, providing "
-"references for data sources, definitions, and methodologies in support of"
-" the reporting."
-msgstr "يُعدّ الإبلاغ في المستوى 2 بمثابة إضافة إلى الإبلاغ في المستوى 1 ويوفِّر شكلاً جدولياً إلى جانب 16 بارامتراً (مَعلَمة) الواردة بالأعمدة. ويهدف المستوى 2 إلى جمع معلومات كمية ووصفية أكثر تفصيلاً على أعلى مستوى من التصنيف المتاح. ويتعيّن استكمال الجدول بمعلومات عن التعريفات والمنهجيات المستخدمة في البارامترات ذات الصلة التي من المقرر أن تُدرَج في خانة الوثائق. ويلزم إدراج الموارد وقواعد البيانات ذات الصلة في كل مؤشر، مع توفير مراجع لمصادر البيانات والتعريفات والمنهجيات الداعمة للإبلاغ."
+msgid "Tier 2 reporting is additional to Tier 1 reporting and provides a tabular format to be filled in along 16 parameters included in the columns. Tier 2 aims to collect more detailed quantitative and descriptive information at the highest disaggregation level available. The table should be complemented by information on definitions and methodologies used for the relevant parameters to be included in the documentation box. Relevant resources and databases should be included in each indicator, providing references for data sources, definitions, and methodologies in support of the reporting."
+msgstr ""
 
 #: ../../SO5.md:25
 msgid "5.1. SO 5-1 – Bilateral and multilateral public resources"
-msgstr "5-1 الهدف الاستراتيجي SO 5-1 - موارد عامة ثنائية ومتعددة الأطراف"
+msgstr ""
 
 #: ../../SO5.md:27
 msgid "5.1.1. Introduction"
-msgstr "5-1-1 مقدمة"
+msgstr ""
 
 #: ../../SO5.md:29
-msgid ""
-"This indicator aims to capture information on international resources "
-"provided and received through bilateral and multilateral channels. The "
-"indicator envisages reporting of information on the trends over the four "
-"-year period (Tier 1) and additional quantitative data at disaggregated "
-"level in tabular format (Tier 2). Default data will be provided based on "
-"the desertification Rio Marker of the OECD, when available[^1]."
-msgstr "يهدف هذا المؤشر إلى الحصول على معلومات عن الموارد الدولية المُقدَّمة والمُتلقّاة من خلال القنوات الثنائية والمتعددة الأطراف. ويتوخى المؤشر الإبلاغ عن المعلومات المتعلقة بالاتجاهات على مدى فترة الأيام الأربعة (المستوى 1) والبيانات الكمية الإضافية على مستوى مصنَّف في شكل جداول (المستوى 2). وستُقَدم البيانات الافتراضية بناءً على معالم ريو للتصحر في منظمة التعاون والتنمية في الميدان الاقتصادي، عند توافرها[^1]."
+msgid "This indicator aims to capture information on international resources provided and received through bilateral and multilateral channels. The indicator envisages reporting of information on the trends over the four -year period (Tier 1) and additional quantitative data at disaggregated level in tabular format (Tier 2). Default data will be provided based on the desertification Rio Marker of the OECD, when available[^1]."
+msgstr ""
 
 #: ../../SO5.md:33
 msgid "5.1.2. Prerequisites for reporting"
-msgstr "5-1-2 الشروط المسبقة للإبلاغ"
+msgstr ""
 
 #: ../../SO5.md:35
-msgid ""
-"Institutional arrangements to collect data on international financial and"
-" non-financial resources provided and received through bilateral and "
-"multilateral channels for the implementation of the Convention. Data on "
-"international support provided to and received by third countries are "
-"often collected by a country’s ministry of foreign affairs, development "
-"agencies or national statistical offices. Countries reporting according "
-"to the OECD DAC Creditor Reporting System (CRS) count on a relevant "
-"source of data. If information on the relevance of resources provided and"
-" received specific for DLDD is not available, the country is encouraged "
-"to set up relevant institutional arrangements to start collecting this "
-"information."
-msgstr "الترتيبات المؤسسية لجمع البيانات عن الموارد المالية وغير المالية الدولية المقدَّمة والمستَلمة من خلال القنوات الثنائية والمتعددة الأطراف لتنفيذ الاتفاقية. وغالباً ما تُجمَع البيانات المتعلقة بالدعم الدولي المقدَّم والمُتلقى من بلدان ثالثة من قبل وزارة الشؤون الخارجية أو وكالات التنمية أو المكاتب الإحصائية الوطنية في البلاد. وتعتمد البلدان التي تُبلِغ وفقاً لنظام الإبلاغ الخاص بالجهات الدائنة في لجنة المساعدة الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي عن مصدر ذي صلة بالبيانات. وفي حالة عدم توافر معلومات عن أهمية الموارد المقدَّمة والمُتلقاة الخاصة بالتصحر وتدهور الأراضي والجفاف، يُشجَّع البلد على وضع الترتيبات المؤسسية ذات الصلة لبدء جمع هذه المعلومات."
+msgid "Institutional arrangements to collect data on international financial and non-financial resources provided and received through bilateral and multilateral channels for the implementation of the Convention. Data on international support provided to and received by third countries are often collected by a country’s ministry of foreign affairs, development agencies or national statistical offices. Countries reporting according to the OECD DAC Creditor Reporting System (CRS) count on a relevant source of data. If information on the relevance of resources provided and received specific for DLDD is not available, the country is encouraged to set up relevant institutional arrangements to start collecting this information."
+msgstr ""
 
 #: ../../SO5.md:37
 msgid "5.1.3. Reporting process and step-by-step procedure"
-msgstr "5-1-3 عملية الإبلاغ والإجراءات التدريجية"
+msgstr ""
 
 #: ../../SO5.md:39
-msgid ""
-"If the default data is used, Parties are encouraged to verify the "
-"information and amend as necessary, or complement the default data with "
-"additional information. Further rows can be added."
-msgstr "في حالة استخدام البيانات الافتراضية، تُشجَّع الأطراف على التحقَّق من المعلومات وتعديلها حسب الاقتضاء، أو استكمال البيانات الافتراضية بمعلومات إضافية. ويمكن إضافة مزيد من الصفوف."
+msgid "If the default data is used, Parties are encouraged to verify the information and amend as necessary, or complement the default data with additional information. Further rows can be added."
+msgstr ""
 
 #: ../../SO5.md:41
 msgid "The reporting steps are described in the following sections."
-msgstr "يرد وصف لخطوات الإبلاغ في الأقسام التالية."
+msgstr ""
 
-#: ../../SO5.md:43 ../../SO5.md:367 ../../SO5.md:520 ../../SO5.md:676
+#: ../../SO5.md:43
+#: ../../SO5.md:367
+#: ../../SO5.md:520
+#: ../../SO5.md:676
 msgid "Step 1: Identification of relevant data"
-msgstr "الخطوة 1: تحديد البيانات ذات الصلة"
+msgstr ""
 
 #: ../../SO5.md:45
-msgid ""
-"If your country is both a provider and a recipient of international "
-"public bilateral and/or multilateral resources, you are encouraged to "
-"provide information on both."
-msgstr "إذا كان بلدكم من مقدِّمي الموارد العامة الدولية الثنائية و/أو المتعددة الأطراف ومن المتلقين لها، نشجعكم على تقديم معلومات عن كليهما."
+msgid "If your country is both a provider and a recipient of international public bilateral and/or multilateral resources, you are encouraged to provide information on both."
+msgstr ""
 
-#: ../../SO5.md:47 ../../SO5.md:528
+#: ../../SO5.md:47
+#: ../../SO5.md:528
 msgid "Flows"
-msgstr "التدفقات"
+msgstr ""
 
 #: ../../SO5.md:49
-msgid ""
-"To report against the SO 5-1 indicator, Parties should look at official "
-"public flows from international sources. This category tracks primarily "
-"resource flows between countries in the form of ‘official development "
-"assistance’ (ODA) and ‘other official flows’ (OOF). Both providers and "
-"recipients of international public support draw upon the OECD DAC system "
-"as a dataset that can be consulted from both the provider and recipient "
-"perspectives."
-msgstr "ينبغي للأطراف النظر في التدفقات العامة الرسمية من المصادر الدولية، بغية الإبلاغ وفقاً للمؤشر SO 5-1. وتتَّبع هذه الفئة في المقام الأول تدفقات الموارد بين البلدان في شكل \"مساعدة إنمائية رسمية\" و\"تدفقات رسمية أخرى\". ويعتمد كل من مقدِّمي ومتلقي الدعم العام الدولي على نظام الإبلاغ عن الدائنين في لجنة المساعدة الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي كمجموعة بيانات يمكن الرجوع إليها من منظور كل من المقدَّم والمتلقي."
+msgid "To report against the SO 5-1 indicator, Parties should look at official public flows from international sources. This category tracks primarily resource flows between countries in the form of ‘official development assistance’ (ODA) and ‘other official flows’ (OOF). Both providers and recipients of international public support draw upon the OECD DAC system as a dataset that can be consulted from both the provider and recipient perspectives."
+msgstr ""
 
 #: ../../SO5.md:51
-msgid ""
-"Official transactions are those undertaken by central, state, or local "
-"government agencies at their own risk and responsibility. In case an "
-"activity or project is funded by different sources of funding – for "
-"example, through both public and private resources – it is recommended to"
-" report the amount of public resources under the SO 5-1 indicator and the"
-" amount of private resources under the SO 5-3 indicator. This would lead "
-"to double reporting (the Party would replicate some information related "
-"to the relevant project in two separate tables) but would avoid the "
-"double-counting of amounts."
-msgstr "المعاملات الرسمية هي المعاملات التي تُجريها الوكالات الحكومية المركزية أو التابعة للولاية أو المحلية على مسؤوليتها الخاصة. وفي حالة تمويل نشاط أو مشروع من مصادر تمويل مختلفة - على سبيل المثال، من خلال الموارد العامة والخاصة على حد سواء - يُوصَى بالإبلاغ عن مبلغ الموارد العامة في إطار المؤشر SO 5-1 ومبلغ الموارد الخاصة في إطار المؤشر SO 5-3. ويُسفر مثل ذلك عن الإبلاغ المزدوج (يكرر الطرف بعض المعلومات المتعلقة بالمشروع ذي الصلة في جدولين منفصلين) ولكنه يتجنب الحساب المزدوج للمبالغ."
+msgid "Official transactions are those undertaken by central, state, or local government agencies at their own risk and responsibility. In case an activity or project is funded by different sources of funding – for example, through both public and private resources – it is recommended to report the amount of public resources under the SO 5-1 indicator and the amount of private resources under the SO 5-3 indicator. This would lead to double reporting (the Party would replicate some information related to the relevant project in two separate tables) but would avoid the double-counting of amounts."
+msgstr ""
 
-#: ../../SO5.md:53 ../../SO5.md:86 ../../SO5.md:387 ../../SO5.md:543
-#: ../../SO5.md:880 ../../SO5.md:891 ../../SO5.md:902
+#: ../../SO5.md:53
+#: ../../SO5.md:86
+#: ../../SO5.md:387
+#: ../../SO5.md:543
+#: ../../SO5.md:880
+#: ../../SO5.md:891
+#: ../../SO5.md:902
 msgid "Examples"
-msgstr "الأمثلة"
+msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:58
 msgid "For providers:"
-msgstr "للمقدِّمين:"
+msgstr ""
 
-#: ../../SO5.md:3
-msgid ""
-"Public financial contributions provided to developing countries’ "
-"governments and implementing agencies."
-msgstr "المساهمات المالية العامة المقدَّمة إلى حكومات البلدان النامية والوكالات المنفِّذة."
+#: ../../SO5.md:60
+msgid "Public financial contributions provided to developing countries’ governments and implementing agencies."
+msgstr ""
 
-#: ../../SO5.md:4
-msgid ""
-"Quantified in-kind contributions provided to projects in developing "
-"countries."
-msgstr "المساهمات العينية المقدَّرة كمياً والمقدَّمة لمشاريع في البلدان النامية."
+#: ../../SO5.md:61
+msgid "Quantified in-kind contributions provided to projects in developing countries."
+msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:62
 msgid "Public financial resources for technical assistance."
-msgstr "الموارد المالية العامة للمساعدة الفنية."
+msgstr ""
 
-#: ../../SO5.md:6
-msgid ""
-"Support to projects including a component of technology development and "
-"transfer in developing countries."
-msgstr "دعم المشاريع بما في ذلك عنصر تطوير التكنولوجيا ونقلها في البلدان النامية."
+#: ../../SO5.md:63
+msgid "Support to projects including a component of technology development and transfer in developing countries."
+msgstr ""
 
-#: ../../SO5.md:7
+#: ../../SO5.md:64
 msgid "Contributions to United Nations agencies."
-msgstr "المساهمات المقدَّمة إلى وكالات الأمم المتحدة"
+msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:66
 msgid "For recipients:"
-msgstr "للمتلقّين:"
+msgstr ""
 
-#: ../../SO5.md:11
-msgid ""
-"International financial contributions received by central or local "
-"governments and implementing agencies."
-msgstr "المساهمات المالية الدولية التي تتلقاها الحكومات المركزية أو المحلية والوكالات المنفذِّة."
+#: ../../SO5.md:68
+msgid "International financial contributions received by central or local governments and implementing agencies."
+msgstr ""
 
-#: ../../SO5.md:12
-msgid ""
-"Financial contributions received from third countries’ governments or "
-"multilateral organizations, funds, or United Nations agencies."
-msgstr "المساهمات المالية الواردة من حكومات البلدان الثالثة أو المنظمات المتعددة الأطراف أو الصناديق أو وكالات الأمم المتحدة."
+#: ../../SO5.md:69
+msgid "Financial contributions received from third countries’ governments or multilateral organizations, funds, or United Nations agencies."
+msgstr ""
 
-#: ../../SO5.md:72 ../../SO5.md:524
+#: ../../SO5.md:72
+#: ../../SO5.md:524
 msgid "Relevance to desertification/land degradation and drought"
-msgstr "الصلة بالتصحر/تدهور الأراضي والجفاف"
+msgstr ""
 
 #: ../../SO5.md:74
-msgid ""
-"The OECD DAC CRS collects activity-level data on activities targeting the"
-" environmental objectives of the three Rio conventions (CBD, UNCCD and "
-"UNFCCC) through Rio Markers for biodiversity, climate change adaptation, "
-"climate change mitigation and desertification. This category can be "
-"measured using the Rio Marker for Desertification marker to report on ODA"
-" and, where available, on OOF. The OECD Total Official Support for "
-"Sustainable Development (TOSSD) dataset include information on support "
-"provided by developing countries. Relevant activities can be identified "
-"through SDG field (SDG 15.3)."
-msgstr "يجمع نظام الإبلاغ الخاص بالجهات الدائنة في لجنة المساعدة الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي بيانات على مستوى الأنشطة حول الأنشطة التي تستهدف الأهداف البيئية لاتفاقيات ريو الثلاث (اتفاقية التنوع البيولوجي واتفاقية الأمم المتحدة لمكافحة التصحر واتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ) من خلال معالم ريو للتنوع البيولوجي، والتكيف مع تغير المناخ، والتخفيف من آثار تغير المناخ والتصحر. ويمكن قياس هذه الفئة باستخدام معالم ريو للتصحر للإبلاغ عن المساعدة الإنمائية الرسمية، وحيثما كان متاحاً، عن التدفقات الرسمية الأخرى. وتتضمن مجموعة بيانات مجموع الدعم الرسمي للتنمية المستدامة (TOSSD) التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي معلومات عن الدعم المقدَّم من البلدان النامية. ويمكن التعرف على الأنشطة ذات الصلة من خلال حقل أهداف التنمية المستدامة (هدف التنمية المستدامة 15-3)."
+msgid "The OECD DAC CRS collects activity-level data on activities targeting the environmental objectives of the three Rio conventions (CBD, UNCCD and UNFCCC) through Rio Markers for biodiversity, climate change adaptation, climate change mitigation and desertification. This category can be measured using the Rio Marker for Desertification marker to report on ODA and, where available, on OOF. The OECD Total Official Support for Sustainable Development (TOSSD) dataset include information on support provided by developing countries. Relevant activities can be identified through SDG field (SDG 15.3)."
+msgstr ""
 
 #: ../../SO5.md:76
-msgid ""
-"The methodology used to identify DLDD-relevant activities and the "
-"classification method used should be clearly explained in the narrative "
-"parts of the indicator’s framework and/or in the documentation boxes."
-msgstr "ينبغي شرح المنهجية المُستخدَمة لتحديد الأنشطة ذات الصلة بالتصحر وتدهور الأراضي والجفاف وطريقة التصنيف المستخدمة شرحاً واضحاً في الأجزاء السردية من إطار المؤشر و/أو في خانات الوثائق."
+msgid "The methodology used to identify DLDD-relevant activities and the classification method used should be clearly explained in the narrative parts of the indicator’s framework and/or in the documentation boxes."
+msgstr ""
 
 #: ../../SO5.md:78
 msgid "Step 2: Estimate trends in bilateral and multilateral public resources"
-msgstr "الخطوة 2: تقدير الاتجاهات في الموارد العامة الثنائية والمتعددة الأطراف"
+msgstr ""
 
 #: ../../SO5.md:80
-msgid ""
-"Tier 1 involves reporting trends in the progress indicator in qualitative"
-" terms (increasing, stable or declining trends) based on the expert "
-"opinion of the reporting Party. Choose the option representing the trend "
-"in the international public resources provided and received during the "
-"four-year period for activities relevant to the implementation of the "
-"Convention in the relevant table. Indicate the general trend within that "
-"period, for both tables if your country is both a provider and a "
-"recipient. Otherwise, indicate the trend for either one. Select only one "
-"option for each table."
-msgstr "ينطوي المستوى 1 على الإبلاغ عن اتجاهات مؤشر التقدم من حيث النوعية (اتجاهات متزايدة أو مستقرة أو متراجعة) استناداً إلى رأي الخبراء لدى الطرف المُبلِّغ. ويُحدَّد الخيار الذي يُمثل الاتجاه في الموارد العامة الدولية المقدَّمة والمتلقاة في خلال فترة السنوات الأربع للأنشطة ذات الصلة بتنفيذ الاتفاقية في الجدول ذي الصلة. ويُبيَّن الاتجاه العام في خلال الفترة، لكلا الجدولين إذا كان بلدكم مقدِّماً ومتلقياً في نفس الوقت. وبخلاف ذلك، يُبيَّن الاتجاه بالنسبة إلى أي منهما. ويُحدَّد خيارٌ واحد فقط لكل جدول."
+msgid "Tier 1 involves reporting trends in the progress indicator in qualitative terms (increasing, stable or declining trends) based on the expert opinion of the reporting Party. Choose the option representing the trend in the international public resources provided and received during the four-year period for activities relevant to the implementation of the Convention in the relevant table. Indicate the general trend within that period, for both tables if your country is both a provider and a recipient. Otherwise, indicate the trend for either one. Select only one option for each table."
+msgstr ""
 
 #: ../../SO5.md:82
 msgid "Step 3:  Reporting in narrative format"
-msgstr "الخطوة 3: الإبلاغ بنسق سردي"
+msgstr ""
 
 #: ../../SO5.md:84
-msgid ""
-"SO5-1 requests descriptive and qualitative information relevant to the "
-"international public resources provided and received through bilateral "
-"and multilateral channels. The descriptive section may include all "
-"information that cannot be reported in tabular format and provide general"
-" information on resources provided and received for the implementation of"
-" the Convention."
-msgstr "يطلب الهدف الاستراتيجي SO5-1 معلومات وصفية ونوعية ذات صلة بالموارد العامة الدولية المقدَّمة والمتلقَاة من خلال القنوات الثنائية والمتعددة الأطراف. وقد يشتمل القسم الوصفي على جميع المعلومات التي لا يمكن الإبلاغ عنها في شكل جداول ويوفّر معلومات عامة عن الموارد المقدَّمة والمتلقاة من أجل تنفيذ الاتفاقية."
+msgid "SO5-1 requests descriptive and qualitative information relevant to the international public resources provided and received through bilateral and multilateral channels. The descriptive section may include all information that cannot be reported in tabular format and provide general information on resources provided and received for the implementation of the Convention."
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"International resources provided: […The countries where most projects "
-"under the Convention are carried out are Burkina Faso, Ethiopia, Ghana, "
-"Mali, Morocco, Mozambique, Niger, Peru, Rwanda, Senegal, and the United "
-"Republic of Tanzania.]"
-msgstr "الموارد الدولية المقدَّمة: [...البلدان التي تُنفَّذ فيها معظم المشاريع بموجب الاتفاقية هي بوركينا فاسو، وإثيوبيا، وغانا، ومالي، والمغرب، وموزامبيق، والنيجر، وبيرو، ورواندا، والسنغال، وجمهورية تنزانيا المتحدة.]"
+#: ../../SO5.md:91
+msgid "International resources provided: […The countries where most projects under the Convention are carried out are Burkina Faso, Ethiopia, Ghana, Mali, Morocco, Mozambique, Niger, Peru, Rwanda, Senegal, and the United Republic of Tanzania.]"
+msgstr ""
 
-#: ../../SO5.md:3
-#, python-format
-msgid ""
-"International resources received: Trinational project ‘Sustainable Forest"
-" Management in the Transboundary Gran Chaco American Ecosystem (Global "
-"Environment Facility (GEF)–Gran Chaco)’ – Project ID 2505 GEF of GEF-4 – "
-"has a GEF grant of USD 2,663,018 for Argentina, plus 60 % of the regional"
-" cost of USD 1,290,909 (approximately USD 774,545).….]"
-msgstr "الموارد الدولية المتلقاة: المشروع ثلاثي البلدان \"الإدارة المستدامة للغابات في النظام الإيكولوجي الأمريكي العابر للحدود في غران تشاكو (مرفق البيئة العالمية - غران تشاكو\") - هوية المشروع 2505 GEF لمرفق البيئة العالمية-4 (GEF-4) - حصل على منحة من مرفق البيئة العالمية قدرها 2,663,018 دولاراً أمريكياً لصالح الأرجنتين، إلى جانب 60% ⁦% o⁩من التكلفة الإقليمية البالغة 1,290,909 دولارات أمريكية (حوالي 774،545 دولاراً أمريكياً)....]"
+#: ../../SO5.md:93
+msgid "International resources received: Trinational project ‘Sustainable Forest Management in the Transboundary Gran Chaco American Ecosystem (Global Environment Facility (GEF)–Gran Chaco)’ – Project ID 2505 GEF of GEF-4 – has a GEF grant of USD 2,663,018 for Argentina, plus 60 % of the regional cost of USD 1,290,909 (approximately USD 774,545).….]"
+msgstr ""
 
-#: ../../SO5.md:96 ../../SO5.md:397
+#: ../../SO5.md:96
+#: ../../SO5.md:397
 msgid "Step 4:  Compiling the table"
-msgstr "الخطوة 4: تجميع الجدول"
+msgstr ""
 
 #: ../../SO5.md:98
-msgid ""
-"Tier 2 involves reporting trends in the progress indicators in a "
-"quantitative manner. Under this Tier, country Parties are encouraged to "
-"report by recording data about individual projects specific to DLDD. "
-"Please compile the table with data at the highest level of disaggregation"
-" available. Parties are encouraged to provide activity-level data."
-msgstr "يتضمن المستوى 2 الإبلاغ عن الاتجاهات في مؤشرات التقدم بطريقة كمية. تُشجَّع البلدان الأطراف في ظل هذا المستوى على الإبلاغ عن طريق تسجيل البيانات حول المشاريع الفردية الخاصة بالتصحر وتدهور الأراضي والجفاف. ويُرجى تجميع الجدول بالبيانات على أعلى مستوى متاح من التصنيف. وتُشجَّع الأطراف على تقديم بيانات على مستوى النشاط."
+msgid "Tier 2 involves reporting trends in the progress indicators in a quantitative manner. Under this Tier, country Parties are encouraged to report by recording data about individual projects specific to DLDD. Please compile the table with data at the highest level of disaggregation available. Parties are encouraged to provide activity-level data."
+msgstr ""
 
 #: ../../SO5.md:100
-msgid ""
-"Default data are derived from information reported to the OECD DAC by "
-"OECD members based on the desertification Rio Marker[^2];  default data "
-"can be amended by the reporting Party as appropriate."
-msgstr "تُستمَد البيانات الافتراضية من المعلومات التي قدّمها أعضاء منظمة التعاون والتنمية في الميدان الاقتصادي إلى لجنة المساعدة الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي استناداً إلى معالم ريو للتصحر [^2]؛ ويمكن للطرف المبلِّغ تعديل البيانات الافتراضية حسب الاقتضاء."
+msgid "Default data are derived from information reported to the OECD DAC by OECD members based on the desertification Rio Marker[^2];  default data can be amended by the reporting Party as appropriate."
+msgstr ""
 
 #: ../../SO5.md:102
 msgid "Tier 2 reporting includes:"
-msgstr "يتضمن الإبلاغ في المستوى الثاني:"
+msgstr ""
 
 #: ../../SO5.md:104
-msgid ""
-"Detailed information at projects programmes and/or countries/regions, "
-"including amounts."
-msgstr "معلومات مفصَّلة في برامج المشاريع و/أو البلدان/المناطق، بما في ذلك المبالغ."
+msgid "Detailed information at projects programmes and/or countries/regions, including amounts."
+msgstr ""
 
 #: ../../SO5.md:106
-msgid ""
-"Aggregate amounts of resources provided and/or received, by year and/or "
-"over the four-year period."
-msgstr "المبالغ الإجمالية للموارد المُقدَّمة و/أو المتلقاة، حسب السنة و/أو على مدى فترة السنوات الأربع."
+msgid "Aggregate amounts of resources provided and/or received, by year and/or over the four-year period."
+msgstr ""
 
-#: ../../SO5.md:110 ../../SO5.md:401 ../../SO5.md:554 ../../SO5.md:710
+#: ../../SO5.md:110
+#: ../../SO5.md:401
+#: ../../SO5.md:554
+#: ../../SO5.md:710
 msgid "Parameters"
-msgstr "البارامترات"
+msgstr ""
 
 #: ../../SO5.md:112
-msgid ""
-"The table for SO 5-1 provides space to report activities or projects "
-"relevant to combating DLDD. While the methodological approach to be "
-"chosen by the reporting Party accommodates definitions and methodologies "
-"in use, the reporting manual suggests some approaches and definitions for"
-" each parameter."
-msgstr "يتيح جدول الهدف الاستراتيجي SO 5-1 حيّزاً للإبلاغ عن الأنشطة والمشاريع ذات الصلة بمكافحة التصحر وتدهور الأراضي والجفاف. وفي حين أن النهج المنهجي الذي سيختاره الطرف المُبلِّغ يستوعب التعريفات والمنهجيات المستخدمة، فإنّ دليل الإبلاغ يقترح بعض النُهُج والتعريفات لكل بارامتر."
+msgid "The table for SO 5-1 provides space to report activities or projects relevant to combating DLDD. While the methodological approach to be chosen by the reporting Party accommodates definitions and methodologies in use, the reporting manual suggests some approaches and definitions for each parameter."
+msgstr ""
 
 #: ../../SO5.md:114
-msgid ""
-"Provided/received: Indicate ‘provided’ if, for the reported activity, the"
-" reporting country is the provider of the resources; indicate ‘received’ "
-"if your country is the recipient of the resources."
-msgstr "المقدَّم/المتلقى: يُشار إلى \"المُقدَّم\" إذا كان البلد المبلِّغ هو مقدم الموارد في ما يتعلق بالنشاط المبلَّغ عنه؛ ويُشار إلى \"المستلِم\" إذا كان بلدكم هو المتلقي للموارد."
+msgid "Provided/received: Indicate ‘provided’ if, for the reported activity, the reporting country is the provider of the resources; indicate ‘received’ if your country is the recipient of the resources."
+msgstr ""
 
 #: ../../SO5.md:116
-msgid ""
-"Year: Indicate the year relevant to the reported activity. Explain in the"
-" documentation box whether the year refers to the commitment or "
-"disbursement year, and if the fiscal or calendar year is used."
-msgstr "السنة: يُشار إلى السنة ذات الصلة بالنشاط المبلَّغ عنه. ويُوضَّح في خانات الوثائق ما إذا كانت السنة تشير إلى سنة الالتزام أو السداد، وما إذا كانت السنة المالية أو التقويمية قد استُخدِمت."
+msgid "Year: Indicate the year relevant to the reported activity. Explain in the documentation box whether the year refers to the commitment or disbursement year, and if the fiscal or calendar year is used."
+msgstr ""
 
 #: ../../SO5.md:118
-msgid ""
-"Recipient/provider: Indicate the name of the recipient if the reporting "
-"country is the provider of resources; indicate the name of the provider "
-"if your country is the recipient of resources. This could include the "
-"name of the country or the region; be listed as ‘global’ (bilateral "
-"flows); or include the name of the institution and/or entity "
-"(multilateral flows)."
-msgstr "المتلقي/المُقدِّم: يُشار إلى اسم \"المتلقي\" إذا كان البلد المبلِّغ هو مُقدِّم الموارد؛ ويُشار إلى \" المُقدِّم\" إذا كان بلدكم هو المتلقي للموارد. وقد يشمل ذلك اسم البلد أو المنطقة؛ المدرجة في قائمة \"العالمية\" (التدفقات الثنائية)، أو يشمل اسم المؤسسة و/أو الكيان (التدفقات المتعددة الأطراف)."
+msgid "Recipient/provider: Indicate the name of the recipient if the reporting country is the provider of resources; indicate the name of the provider if your country is the recipient of resources. This could include the name of the country or the region; be listed as ‘global’ (bilateral flows); or include the name of the institution and/or entity (multilateral flows)."
+msgstr ""
 
 #: ../../SO5.md:120
-msgid ""
-"Title of project, programme, activity or other: In cases of contributions"
-" to multilateral development banks/multilateral funds or participation in"
-" replenishments of funds, etc."
-msgstr "عنوان المشروع أو البرنامج أو النشاط أو غير ذلك: في حالات المساهمات في بنوك التنمية المتعددة الأطراف / الصناديق المتعددة الأطراف أو المشاركة في تجديد موارد الصندوق، إلخ."
+msgid "Title of project, programme, activity or other: In cases of contributions to multilateral development banks/multilateral funds or participation in replenishments of funds, etc."
+msgstr ""
 
 #: ../../SO5.md:122
-msgid ""
-"Total amount in USD: The amounts should be reported in USD; if the "
-"reporting country decides otherwise, the approach should be explained "
-"clearly in the methodology. This implies the application of an exchange "
-"rate to the different domestic currencies. The OECD DAC CRS includes "
-"amounts in thousands of USD. The World Bank annual average exchange rate "
-"is suggested; please indicate if (and how) a different exchange rate is "
-"used. It is possible to report both amounts committed and disbursed for "
-"each activity. Committed and disbursed figures cannot be summed up; all "
-"reporting shall avoid double-counting across years. From the recipient "
-"perspective, the column “committed” can remain empty."
-msgstr "إجمالي المبلغ بالدولار الأمريكي: ينبغي الإبلاغ عن المبالغ بالدولار الأمريكي؛ وإذا قرر البلد المبلِّغ خلاف ذلك، ينبغي شرح النهج بوضوح في المنهجية. وهذا يعني ضمناً تطبيق سعر صرف على العملات المحلية المختلفة. ويشمل نظام الإبلاغ الخاص بالجهات الدائنة في لجنة المساعدة الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي مبالغ بآلاف الدولارات الأمريكية. يقترح البنك الدولي متوسط سعر الصرف السنوي؛ يُرجى بيان ما إذا كان (وكيف) يُستخدَم سعر صرف مختلف. ويمكن الإبلاغ عن المبالغ الملتزَم بها والمنفَقة لكل نشاط. ولا يمكن تلخيص الأرقام الملتزَم بها والمنفقَة؛ وينبغي لجميع التقارير أن تتجنب العد المزدوج عبر السنوات. ومن منظور المتلقي، يمكن أن يظل العمود \"الملتزَم\" فارغاً."
+msgid "Total amount in USD: The amounts should be reported in USD; if the reporting country decides otherwise, the approach should be explained clearly in the methodology. This implies the application of an exchange rate to the different domestic currencies. The OECD DAC CRS includes amounts in thousands of USD. The World Bank annual average exchange rate is suggested; please indicate if (and how) a different exchange rate is used. It is possible to report both amounts committed and disbursed for each activity. Committed and disbursed figures cannot be summed up; all reporting shall avoid double-counting across years. From the recipient perspective, the column “committed” can remain empty."
+msgstr ""
 
 #: ../../SO5.md:124
-msgid ""
-"Sector: Four macro sectors are suggested in the table. Crosscutting "
-"refers to activities that are addressed to more than one sector. The "
-"reporting country has the possibility to indicate other sectors, "
-"accommodating possible different reporting standards and practices. The "
-"indication of ‘other’ is optional; only the name of the sector is to be "
-"included."
-msgstr "القطاع: يُقترَح في الجدول أربعة قطاعات كلية. ويشير التقاطع إلى الأنشطة الموجَّهة نحو أكثر من قطاع واحد. ويمكن للبلد المُبلِغ أن يشير إلى قطاعات أخرى، مع مراعاة معايير وممارسات الإبلاغ المختلفة المحتملة. والإشارة إلى كلمة \"أخرى\" اختيارية؛ فاسم القطاع هو وحده الذي يتعين إدراجه."
+msgid "Sector: Four macro sectors are suggested in the table. Crosscutting refers to activities that are addressed to more than one sector. The reporting country has the possibility to indicate other sectors, accommodating possible different reporting standards and practices. The indication of ‘other’ is optional; only the name of the sector is to be included."
+msgstr ""
 
 #: ../../SO5.md:126
-msgid ""
-"Capacity-building: For each activity and to the extent possible, please "
-"indicate whether it includes a capacity-building component; if the "
-"activity aims, among other things, to build the capacities of the "
-"recipient country; and/or if at least part of the budget of the project "
-"has been dedicated to capacity-building to address DLDD."
-msgstr "بناء القدرات: لكل نشاط من الأنشطة وبقدر الإمكان يُرجى بيان ما إذا كان يشمل عنصراً لبناء القدرات؛ وإذا كان النشاط يهدف، من بين أمور أخرى، إلى بناء قدرات البلد المتلقي؛ و/أو إذا ما كان جزءٌ على الأقل من ميزانية المشروع قد خُصِّص لبناء القدرات لمعالجة التصحر وتدهور الأراضي والجفاف."
+msgid "Capacity-building: For each activity and to the extent possible, please indicate whether it includes a capacity-building component; if the activity aims, among other things, to build the capacities of the recipient country; and/or if at least part of the budget of the project has been dedicated to capacity-building to address DLDD."
+msgstr ""
 
 #: ../../SO5.md:128
-msgid ""
-"Technology transfer: For each activity and to the extent possible, please"
-" indicate whether it includes a technology transfer component; if the "
-"activity aims to transfer and develop technologies in the recipient "
-"country; and/or if at least part of the budget has been dedicated to "
-"transferring technologies to address DLDD."
-msgstr "نقل التكنولوجيا: لكل نشاط من الأنشطة وبقدر الإمكان يُرجى بيان ما إذا كان يشمل عنصراً لنقل التكنولوجيا؛ وإذا كان النشاط يهدف، من بين أمور أخرى، إلى نقل التكنولوجيات وتطويرها في البلد المتلقي؛ و/أو إذا ما كان جزءٌ على الأقل من ميزانية المشروع قد خُصِّص لنقل التكنولوجيات لمعالجة التصحر وتدهور الأراضي والجفاف."
+msgid "Technology transfer: For each activity and to the extent possible, please indicate whether it includes a technology transfer component; if the activity aims to transfer and develop technologies in the recipient country; and/or if at least part of the budget has been dedicated to transferring technologies to address DLDD."
+msgstr ""
 
 #: ../../SO5.md:130
-msgid ""
-"Gender equality: For each activity and to the extent possible, indicate "
-"whether it targets gender equality. The OECD DAC CRS system includes a "
-"gender equality policy marker, which could be a useful indicator to "
-"compile this column, as available."
-msgstr "المساواة بين الجنسين: لكل نشاط من الأنشطة، يُبيَّن قدر الإمكان ما إذا كان يستهدف المساواة بين الجنسين. ويتضمن نظامُ لجنة المساعدة الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي دليلاً لسياسة المساواة بين الجنسين، ويمكن أن يكون مؤشراً مفيداً لتجميع هذا العمود، حسب ما هو متاح."
+msgid "Gender equality: For each activity and to the extent possible, indicate whether it targets gender equality. The OECD DAC CRS system includes a gender equality policy marker, which could be a useful indicator to compile this column, as available."
+msgstr ""
 
 #: ../../SO5.md:132
-msgid ""
-"Channel: Please indicate whether the amounts to be considered are "
-"bilateral (country to country), multi-bilateral (a multilateral entity "
-"managing a project on behalf of a country providing earmarked funds for "
-"that activity), or multilateral. Type of flow: Indicate whether the flow "
-"is ODA or OOF. Other categories should be included if a different "
-"classification method is employed."
-msgstr "القناة: يُرجى بيان ما إذا كانت المبالغ التي يتعين النظر فيها ثنائية (من بلد إلى آخر)، أو ثنائية متعددة (كيان متعدد الأطراف يدير مشروعاً بالنيابة عن بلد يُقدِّم أموالاً مخصصة لهذا النشاط)، أو متعددة الأطراف. نوع التدفق: يُرجى بيان ما إذا كان التدفق هو المساعدة الإنمائية الرسمية أو التدفقات الرسمية الأخرى. وينبغي إدراج فئات أخرى في حالة استخدام طريقة تصنيف مختلفة."
+msgid "Channel: Please indicate whether the amounts to be considered are bilateral (country to country), multi-bilateral (a multilateral entity managing a project on behalf of a country providing earmarked funds for that activity), or multilateral. Type of flow: Indicate whether the flow is ODA or OOF. Other categories should be included if a different classification method is employed."
+msgstr ""
 
 #: ../../SO5.md:134
-msgid ""
-"Financial instrument: Please indicate the financial instrument "
-"channelling the public resources reported."
-msgstr "الأداة المالية: يُرجى بيان الأداة المالية التي تُوجِّه الموارد العامة المبلَّغ عنها."
+msgid "Financial instrument: Please indicate the financial instrument channelling the public resources reported."
+msgstr ""
 
 #: ../../SO5.md:136
-msgid ""
-"Type of support: Indicate whether the activity is directly or indirectly "
-"related to the objectives of the Convention. Reporting this information "
-"could be based on the use of principal and significant Rio Markers as in "
-"the OECD DAC CRS system, where available."
-msgstr "نوع الدعم: يُرجَى بيان ما إذا كان النشاط ذا صلة مباشرة أو غير مباشرة بأهداف الاتفاقية. ويمكن أن يستند الإبلاغ عن هذه المعلومات إلى استخدام معالم ريو الرئيسية والهامّة كما هي الحال في نظام لجنة المساعدة الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي، حيثما كان ذلك متاحاً."
+msgid "Type of support: Indicate whether the activity is directly or indirectly related to the objectives of the Convention. Reporting this information could be based on the use of principal and significant Rio Markers as in the OECD DAC CRS system, where available."
+msgstr ""
 
 #: ../../SO5.md:138
-msgid ""
-"Amount mobilized through public interventions: Indicator SO 5-1 provides "
-"the space to include information on amounts mobilized from the private "
-"sector by official development finance interventions. In this regard, the"
-" OECD DAC offers an instrument-specific approach covering all private "
-"finance leveraged by public interventions with a direct causality link "
-"between flows. A dedicated column in the proposed tabular format is added"
-" to facilitate harmonization with the OECD DAC CRS reporting."
-msgstr "المبلغ المعبأ من خلال التدخلات العامة: يوفِّر المؤشر SO 5-1 المجال لإدراج معلومات عن المبالغ التي جرت تعبئتها من القطاع الخاص عن طريق التدخلات الخاصة بالتمويل الإنمائي الرسمي. وفي هذا الصدد، تُقدم لجنة المساعدة الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي نهجاً خاصاً بصكوك محددة يشمل التمويل الخاص برمته الذي تعززه التدخلات العامة مع وجود صلة سببية مباشرة بين التدفقات. ويضاف عمود مخصص في شكل الجداول المقترح لتيسير التنسيق مع إبلاغ لجنة المساعدة الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي."
+msgid "Amount mobilized through public interventions: Indicator SO 5-1 provides the space to include information on amounts mobilized from the private sector by official development finance interventions. In this regard, the OECD DAC offers an instrument-specific approach covering all private finance leveraged by public interventions with a direct causality link between flows. A dedicated column in the proposed tabular format is added to facilitate harmonization with the OECD DAC CRS reporting."
+msgstr ""
 
 #: ../../SO5.md:140
-msgid ""
-"Use, impact, (estimated) results: The table provides the space to include"
-" additional project-level information about the use of resources, the "
-"impact with respect to the objectives of the Convention, and results "
-"(estimated if the project did not conclude before the end of the "
-"reporting period)."
-msgstr "الاستخدام، والتأثير، والنتائج (المقدَّرة): يوفِّر الجدول الحيّز اللازم لإدراج معلومات إضافية على مستوى المشروع بشأن استخدام الموارد، والتأثير في ما يتصل بأهداف الاتفاقية، والنتائج (المقدَّرة إذا لم ينتهِ المشروع قبل نهاية فترة الإبلاغ)."
+msgid "Use, impact, (estimated) results: The table provides the space to include additional project-level information about the use of resources, the impact with respect to the objectives of the Convention, and results (estimated if the project did not conclude before the end of the reporting period)."
+msgstr ""
 
 #: ../../SO5.md:142
-msgid ""
-"Additional information: please include any other activity-level "
-"information that you deem relevant."
-msgstr "معلومات إضافية: يُرجى إدراج أي معلومات أخرى على مستوى الأنشطة ترونها ذات صلة."
+msgid "Additional information: please include any other activity-level information that you deem relevant."
+msgstr ""
 
 #: ../../SO5.md:144
 msgid "Table 22 below is compiled with some examples:"
-msgstr "يرد في الجدول 22 أدناه بعض الأمثلة التالية:"
+msgstr ""
 
 #: ../../SO5.md:162
-msgid ""
-"*__Table 22__. Resources provided and received for Bilateral and "
-"Multilateral Public Resources*"
-msgstr "*__الجدول 22__. الموارد المقدَّمة والمتلقاة للموارد العامة الثنائية والمتعددة الأطراف*"
+msgid "*__Table 22__. Resources provided and received for Bilateral and Multilateral Public Resources*"
+msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:166
 msgid "{rspan}`1`P/R{sup}`1`"
-msgstr "P/R{sup}`1`"
+msgstr ""
 
-#: ../../SO5.md:2
+#: ../../SO5.md:167
 msgid "{rspan}`1`Year{sup}`2`"
-msgstr "السنة{sup}`2`"
+msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:168
 msgid "{rspan}`1`Recipient or provider{sup}`3`"
-msgstr "المتلقي أو المقدِّم{sup}`3`"
+msgstr ""
 
-#: ../../SO5.md:4
+#: ../../SO5.md:169
 msgid "{rspan}`1`Title{sup}`4`"
-msgstr "العنوان{sup}`4`"
+msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:170
 msgid "{cspan}`1` Total amount USD"
-msgstr "إجمالي المبلغ بالدولار الأمريكي"
+msgstr ""
 
-#: ../../SO5.md:6
+#: ../../SO5.md:171
 msgid "{rspan}`1`Sector{sup}`5`"
-msgstr "القطاع{sup}`5`"
+msgstr ""
 
-#: ../../SO5.md:7
+#: ../../SO5.md:172
 msgid "{rspan}`1`Capacity building{sup}`6`"
-msgstr "بناء القدرات{sup}`6`"
+msgstr ""
 
-#: ../../SO5.md:8
+#: ../../SO5.md:173
 msgid "{rspan}`1`Technology transfer{sup}`6`"
-msgstr "نقل التكنولوجيا{sup}`6`"
+msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:174
 msgid "{rspan}`1`Gender equality{sup}`6`"
-msgstr "المساواة بين الجنسين{sup}`6`"
+msgstr ""
 
-#: ../../SO5.md:10
+#: ../../SO5.md:175
 msgid "{rspan}`1`Channel{sup}`7`"
-msgstr "القناة{sup}`7`"
+msgstr ""
 
-#: ../../SO5.md:11
+#: ../../SO5.md:176
 msgid "{rspan}`1`Type of flow{sup}`8`"
-msgstr "نوع التدفق{sup}`8`"
+msgstr ""
 
-#: ../../SO5.md:12
+#: ../../SO5.md:177
 msgid "{rspan}`1`Financial instrument{sup}`9`"
-msgstr "الأداة المالية{sup}`9`"
+msgstr ""
 
-#: ../../SO5.md:13
+#: ../../SO5.md:178
 msgid "{rspan}`1`Type of support{sup}`10`"
-msgstr "نوع الدعم{sup}`10`"
+msgstr ""
 
-#: ../../SO5.md:14
+#: ../../SO5.md:179
 msgid "{rspan}`1`Amount mobilized through public interventions"
-msgstr "المبلغ المعبأ من خلال التدخلات العامة"
+msgstr ""
 
-#: ../../SO5.md:15
+#: ../../SO5.md:180
 msgid "{rspan}`1`Use, impact, (estimated) results"
-msgstr "الاستخدام والتأثير والنتائج (المقدَّرة)"
+msgstr ""
 
-#: ../../SO5.md:16
+#: ../../SO5.md:181
 msgid "{rspan}`1`Additional information"
-msgstr "معلومات إضافية"
+msgstr ""
 
-#: ../../SO5.md:17
+#: ../../SO5.md:182
 msgid "Committed"
-msgstr "الملتزَم بها"
+msgstr ""
 
-#: ../../SO5.md:18
+#: ../../SO5.md:183
 msgid "Disbursed or received"
-msgstr "المصروفة أو المتلقاة"
+msgstr ""
 
-#: ../../SO5.md:19 ../../SO5.md:37 ../../SO5.md:106
+#: ../../SO5.md:184
+#: ../../SO5.md:202
+#: ../../SO5.md:271
 msgid "P"
-msgstr "P"
+msgstr ""
 
-#: ../../SO5.md:20
+#: ../../SO5.md:185
 msgid "19"
-msgstr "19"
+msgstr ""
 
-#: ../../SO5.md:21 ../../SO5.md:39
+#: ../../SO5.md:186
+#: ../../SO5.md:204
 msgid "Ethiopia"
-msgstr "إثيوبيا"
+msgstr ""
 
-#: ../../SO5.md:22 ../../SO5.md:40
+#: ../../SO5.md:187
+#: ../../SO5.md:205
 msgid "UNEP Conservation of Biodiversity"
-msgstr "حفظ التنوع البيولوجي التابع لبرنامج الأمم المتحدة للبيئة"
+msgstr ""
 
-#: ../../SO5.md:23 ../../SO5.md:24
+#: ../../SO5.md:188
+#: ../../SO5.md:611
 msgid "1,400,000"
-msgstr "1400000"
+msgstr ""
 
-#: ../../SO5.md:24
+#: ../../SO5.md:189
 msgid "800,000"
-msgstr "800000"
+msgstr ""
 
-#: ../../SO5.md:25 ../../SO5.md:43
+#: ../../SO5.md:190
+#: ../../SO5.md:208
 msgid "Other (environmental protection)"
-msgstr "أخرى (حماية البيئة)"
+msgstr ""
 
-#: ../../SO5.md:26 ../../SO5.md:44 ../../SO5.md:62 ../../SO5.md:64
-#: ../../SO5.md:113 ../../SO5.md:115
+#: ../../SO5.md:191
+#: ../../SO5.md:209
+#: ../../SO5.md:227
+#: ../../SO5.md:229
+#: ../../SO5.md:278
+#: ../../SO5.md:280
 msgid "Yes"
-msgstr "نعم"
+msgstr ""
 
-#: ../../SO5.md:27 ../../SO5.md:28 ../../SO5.md:45 ../../SO5.md:46
-#: ../../SO5.md:63 ../../SO5.md:114
+#: ../../SO5.md:192
+#: ../../SO5.md:193
+#: ../../SO5.md:210
+#: ../../SO5.md:211
+#: ../../SO5.md:228
+#: ../../SO5.md:279
 msgid "No"
-msgstr "لا"
+msgstr ""
 
-#: ../../SO5.md:29 ../../SO5.md:47
+#: ../../SO5.md:194
+#: ../../SO5.md:212
 msgid "Multi -bilateral"
-msgstr "متعدد - ثنائي"
+msgstr ""
 
-#: ../../SO5.md:31 ../../SO5.md:49 ../../SO5.md:66 ../../SO5.md:117
+#: ../../SO5.md:196
+#: ../../SO5.md:214
+#: ../../SO5.md:231
+#: ../../SO5.md:282
 msgid "ODA"
-msgstr "المساعدة الإنمائية الرسمية"
+msgstr ""
 
-#: ../../SO5.md:32 ../../SO5.md:50
+#: ../../SO5.md:197
+#: ../../SO5.md:215
 msgid "Loan"
-msgstr "القرض"
+msgstr ""
 
-#: ../../SO5.md:33 ../../SO5.md:51
+#: ../../SO5.md:198
+#: ../../SO5.md:216
 msgid "Indirectly"
-msgstr "بشكل غير مباشر"
+msgstr ""
 
-#: ../../SO5.md:34 ../../SO5.md:35 ../../SO5.md:36 ../../SO5.md:52
-#: ../../SO5.md:53 ../../SO5.md:54 ../../SO5.md:69
+#: ../../SO5.md:199
+#: ../../SO5.md:200
+#: ../../SO5.md:201
+#: ../../SO5.md:217
+#: ../../SO5.md:218
+#: ../../SO5.md:219
+#: ../../SO5.md:234
 msgid "\\-"
-msgstr "/-"
+msgstr ""
 
-#: ../../SO5.md:38
+#: ../../SO5.md:203
 msgid "20"
-msgstr "20"
+msgstr ""
 
-#: ../../SO5.md:42
+#: ../../SO5.md:207
 msgid "600,000"
-msgstr "600000"
+msgstr ""
 
-#: ../../SO5.md:55 ../../SO5.md:72 ../../SO5.md:89
+#: ../../SO5.md:220
+#: ../../SO5.md:237
+#: ../../SO5.md:254
 msgid "R"
-msgstr "R"
+msgstr ""
 
-#: ../../SO5.md:56
+#: ../../SO5.md:221
 msgid "17 - 20"
-msgstr "17 - 20"
+msgstr ""
 
-#: ../../SO5.md:57 ../../SO5.md:74 ../../SO5.md:91
+#: ../../SO5.md:222
+#: ../../SO5.md:239
+#: ../../SO5.md:256
 msgid "GEF"
-msgstr "مرفق البيئة العالمية"
+msgstr ""
 
-#: ../../SO5.md:58 ../../SO5.md:75 ../../SO5.md:92
+#: ../../SO5.md:223
+#: ../../SO5.md:240
+#: ../../SO5.md:257
 msgid "Revision and Alignment of the NAP with the UNCCD Strategic Plan"
-msgstr "تنقيح ومواءمة برنامج العمل الوطني مع الخطة الاستراتيجية لاتفاقية الأمم المتحدة لمكافحة التصحر"
+msgstr ""
 
-#: ../../SO5.md:59 ../../SO5.md:60 ../../SO5.md:76 ../../SO5.md:94
+#: ../../SO5.md:224
+#: ../../SO5.md:225
+#: ../../SO5.md:241
+#: ../../SO5.md:259
 msgid "150,000"
-msgstr "150000"
+msgstr ""
 
-#: ../../SO5.md:61
+#: ../../SO5.md:226
 msgid "Biosphere protection"
-msgstr "حماية الغلاف الجوي"
+msgstr ""
 
-#: ../../SO5.md:65
+#: ../../SO5.md:230
 msgid "Multilateral"
-msgstr "متعدد الأطراف"
+msgstr ""
 
-#: ../../SO5.md:67 ../../SO5.md:118
+#: ../../SO5.md:232
+#: ../../SO5.md:283
 msgid "Grant"
-msgstr "المنح"
+msgstr ""
 
-#: ../../SO5.md:68 ../../SO5.md:119
+#: ../../SO5.md:233
+#: ../../SO5.md:284
 msgid "Directly"
-msgstr "بشكل مباشر"
+msgstr ""
 
-#: ../../SO5.md:70 ../../SO5.md:71
+#: ../../SO5.md:235
+#: ../../SO5.md:236
 msgid "Description"
-msgstr "الوصف"
+msgstr ""
 
-#: ../../SO5.md:15 ../../SO5.md:73 ../../SO5.md:90
+#: ../../SO5.md:238
+#: ../../SO5.md:255
+#: ../../SO5.md:773
 msgid "17"
-msgstr "17"
+msgstr ""
 
-#: ../../SO5.md:28 ../../SO5.md:107
+#: ../../SO5.md:272
+#: ../../SO5.md:786
 msgid "18"
-msgstr "18"
+msgstr ""
 
-#: ../../SO5.md:108
+#: ../../SO5.md:273
 msgid "Ghana"
-msgstr "غانا"
+msgstr ""
 
-#: ../../SO5.md:109
+#: ../../SO5.md:274
 msgid "Land Management"
-msgstr "إدارة الأراضي"
+msgstr ""
 
-#: ../../SO5.md:110 ../../SO5.md:111
+#: ../../SO5.md:275
+#: ../../SO5.md:276
 msgid "325,000"
-msgstr "325000"
+msgstr ""
 
-#: ../../SO5.md:112
+#: ../../SO5.md:277
 msgid "Other (Biosphere protection)"
-msgstr "أخرى (حماية الغلاف الجوي)"
+msgstr ""
 
-#: ../../SO5.md:116
+#: ../../SO5.md:281
 msgid "Bilateral"
-msgstr "ثنائي"
+msgstr ""
 
-#: ../../SO5.md:120
+#: ../../SO5.md:285
 msgid "120,000"
-msgstr "120000"
+msgstr ""
 
-#: ../../SO5.md:121
+#: ../../SO5.md:286
 msgid "The project led to concrete results…"
-msgstr "أدى المشروع إلى نتائج ملموسة..."
+msgstr ""
 
-#: ../../SO5.md:122
+#: ../../SO5.md:287
 msgid "The project objectives and structure involved…"
-msgstr "أهداف المشروع وهيكله المعني..."
+msgstr ""
 
-#: ../../SO5.md:123
+#: ../../SO5.md:288
 msgid "{cspan}`3` Total 2016{sup}`11`"
-msgstr "إجمالي 2016{sup}`11`"
+msgstr ""
 
-#: ../../SO5.md:31 ../../SO5.md:124 ../../SO5.md:125 ../../SO5.md:128
-#: ../../SO5.md:129 ../../SO5.md:132 ../../SO5.md:133 ../../SO5.md:136
-#: ../../SO5.md:137
+#: ../../SO5.md:289
+#: ../../SO5.md:290
+#: ../../SO5.md:293
+#: ../../SO5.md:294
+#: ../../SO5.md:297
+#: ../../SO5.md:298
+#: ../../SO5.md:301
+#: ../../SO5.md:302
+#: ../../SO5.md:618
 msgid "xxx"
-msgstr "xxx"
+msgstr ""
 
-#: ../../SO5.md:126 ../../SO5.md:130 ../../SO5.md:134 ../../SO5.md:138
-#: ../../SO5.md:142 ../../SO5.md:146
+#: ../../SO5.md:291
+#: ../../SO5.md:295
+#: ../../SO5.md:299
+#: ../../SO5.md:303
+#: ../../SO5.md:307
+#: ../../SO5.md:311
 msgid "{cspan}`10`"
 msgstr ""
 
-#: ../../SO5.md:127
+#: ../../SO5.md:292
 msgid "{cspan}`3` Total 2017{sup}`11`"
-msgstr "إجمالي 2017{sup}`11`"
+msgstr ""
 
-#: ../../SO5.md:131
+#: ../../SO5.md:296
 msgid "{cspan}`3` Total 2018{sup}`11`"
-msgstr "إجمالي 2018{sup}`11`"
+msgstr ""
 
-#: ../../SO5.md:135
+#: ../../SO5.md:300
 msgid "{cspan}`3` Total 2019{sup}`11`"
-msgstr "إجمالي 2019{sup}`11`"
+msgstr ""
 
-#: ../../SO5.md:139
+#: ../../SO5.md:304
 msgid "{cspan}`3` Total resources provided{sup}`11`"
-msgstr "إجمالي الموارد المقدَّمة{sup}`11`"
+msgstr ""
 
-#: ../../SO5.md:140 ../../SO5.md:141 ../../SO5.md:144 ../../SO5.md:145
+#: ../../SO5.md:305
+#: ../../SO5.md:306
+#: ../../SO5.md:309
+#: ../../SO5.md:310
 msgid "Σ"
-msgstr "Σ"
+msgstr ""
 
-#: ../../SO5.md:143
+#: ../../SO5.md:308
 msgid "{cspan}`3` Total resources received{sup}`11`"
-msgstr "إجمالي الموارد المتلقاة{sup}`11`"
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"{sup}`1` Provided/Received{{br}} {sup}`2` 20XX{{br}} {sup}`3` "
-"Recipient/provider country, region, global recipient/provider "
-"institution, entity{{br}} {sup}`4` Title of project, programme, activity "
-"or other{{br}} {sup}`5` Agriculture, forestry, water and sanitation, "
-"cross-cutting, other (specify){{br}} {sup}`6` Yes / No{{br}} {sup}`7` "
-"Bilateral, multilateral (core contribution) multilateral (DLDD-specific) "
-"multi-bilateral, other (specify){{br}} {sup}`8` ODA, OOF other "
-"(specify){{br}} {sup}`9` Grant, concessional loan, non-concessional loan,"
-" equity guarantee/insurance, other (specify){{br}} {sup}`10` Directly or "
-"indirectly related to DLDD{{br}} {sup}`11` If disaggregated information "
-"is not available, the Party can report only the total amount or the total"
-" amounts per year.{{br}}"
-msgstr "{sup}`1`المُقدَّم/المتلقَّى{{br}} {sup}`2` 20XX{{br}} {sup}`3` البلد المتلقي/المقدِّم، الإقليم، المؤسسة العالمية للمتلقي / المقدِّم، الكيان{{br}} {sup}`4` عنوان المشروع، أو البرنامج، أو النشاط، أو أخرى{{br}} {sup}`5` الزراعة، والحراجة، والمياه والصرف الصحي، الشاملة لعدة قطاعات، أخرى (حدد){{br}} {sup}`6` نعم / لا{{br}} {sup}`7` ثنائي، متعدد الأطراف (المساهمة الأساسية) متعدد الأطراف (خاص بالتصحر وتدهور الأراضي والجفاف) الثنائي - المتعدد الأطراف، أخرى (حدد){{br}} {sup}`8` المساعدة الإنمائية الرسمية، النفقات الرسمية الأخرى، أخرى (حدد){{br}} {sup}`9` منح، قرض تساهلي، قرض غير تساهلي، ضمان/تأمين للأسهم، أخرى (حدد){{br}} {sup}`10` يرتبط ارتباطاً مباشراً أو غير مباشر بالتصحر وتدهور الأراضي والجفاف{{br}} {sup}`11` إذا لم تتوفر معلومات مفصَّلة، لا يستطيع الطرف الإبلاغ إلا عن المبلغ الإجمالي أو المبالغ الإجمالية في السنة.{{br}}"
+#: ../../SO5.md:323
+msgid "{sup}`1` Provided/Received{{br}} {sup}`2` 20XX{{br}} {sup}`3` Recipient/provider country, region, global recipient/provider institution, entity{{br}} {sup}`4` Title of project, programme, activity or other{{br}} {sup}`5` Agriculture, forestry, water and sanitation, cross-cutting, other (specify){{br}} {sup}`6` Yes / No{{br}} {sup}`7` Bilateral, multilateral (core contribution) multilateral (DLDD-specific) multi-bilateral, other (specify){{br}} {sup}`8` ODA, OOF other (specify){{br}} {sup}`9` Grant, concessional loan, non-concessional loan, equity guarantee/insurance, other (specify){{br}} {sup}`10` Directly or indirectly related to DLDD{{br}} {sup}`11` If disaggregated information is not available, the Party can report only the total amount or the total amounts per year.{{br}}"
+msgstr ""
 
-#: ../../SO5.md:340 ../../SO5.md:486 ../../SO5.md:646
+#: ../../SO5.md:340
+#: ../../SO5.md:486
+#: ../../SO5.md:646
 msgid "Aggregating the information"
-msgstr "تجميع المعلومات"
+msgstr ""
 
 #: ../../SO5.md:342
-msgid ""
-"The aggregation of figures should include all quantified resources "
-"reported in tabular format. It is possible to aggregate figures by status"
-" (committed and disbursed) and by year. It is recommended to then "
-"aggregate figures for the four-year period to generate a total figure for"
-" international resources."
-msgstr "ينبغي أن يشمل تجميع الأرقام جميع الموارد الكمية المبلَّغ عنها في شكل جداول. ومن الممكن تجميع الأرقام حسب المركز (الملتزَم والمصروف) وحسب السنة. ويُوصَى عندئذ بتجميع الأرقام لفترة السنوات الأربع للحصول على رقم إجمالي للموارد الدولية."
+msgid "The aggregation of figures should include all quantified resources reported in tabular format. It is possible to aggregate figures by status (committed and disbursed) and by year. It is recommended to then aggregate figures for the four-year period to generate a total figure for international resources."
+msgstr ""
 
-#: ../../SO5.md:344 ../../SO5.md:650
-msgid ""
-"Aggregation of figures must avoid double-counting across the table and "
-"the other indicators."
-msgstr "يلزم أن يتجنب تجميع الأرقام العدّ المزدوج في عموم الجدول والمؤشرات الأخرى."
+#: ../../SO5.md:344
+#: ../../SO5.md:650
+msgid "Aggregation of figures must avoid double-counting across the table and the other indicators."
+msgstr ""
 
-#: ../../SO5.md:346 ../../SO5.md:490
+#: ../../SO5.md:346
+#: ../../SO5.md:490
 msgid "Step 5: Use of documentation box"
-msgstr "الخطوة 5: استخدام خانات الوثائق"
+msgstr ""
 
 #: ../../SO5.md:348
-msgid ""
-"The aim of the documentation box is to provide space to report necessary "
-"definitions and methodologies employed for each parameter compiled in the"
-" table and included in the description, as relevant. When an "
-"internationally agreed standard is used, it is possible to provide the "
-"relevant reference."
-msgstr "الهدف من خانة الوثائق هو توفير حيز للإبلاغ عن التعريفات والمنهجيات اللازمة المستخدمة لكل بارامتر من البارامترات المجمَّعة في الجدول والمدرجة في الوصف، حسب الاقتضاء. وعند استخدام معيار متفَق عليه دولياً، من الممكن تقديم المرجع ذي الصلة."
+msgid "The aim of the documentation box is to provide space to report necessary definitions and methodologies employed for each parameter compiled in the table and included in the description, as relevant. When an internationally agreed standard is used, it is possible to provide the relevant reference."
+msgstr ""
 
 #: ../../SO5.md:350
 msgid "5.2. SO5-2 – Domestic public resources"
-msgstr "5-2 الهدف الاستراتيجي SO5-2 - الموارد العامة المحلية"
+msgstr ""
 
 #: ../../SO5.md:352
 msgid "5.2.1. Introduction"
-msgstr "5-2-1 مقدمة"
+msgstr ""
 
 #: ../../SO5.md:354
-msgid ""
-"Domestic resources are at the core of the implementation of the "
-"Convention. This indicator aims at creating an overview of the resources "
-"available at national level by measuring the effort that the national "
-"public sector is undertaking in increasing resources for the "
-"implementation of the Convention."
-msgstr "تُشكّل الموارد المحلية جوهر تنفيذ الاتفاقية. ويهدف هذا المؤشر إلى إجراء استعراض عام عن الموارد المتاحة على الصعيد الوطني من خلال قياس الجهد الذي يضطلع به القطاع العام الوطني في زيادة الموارد المخصصة لتنفيذ الاتفاقية."
+msgid "Domestic resources are at the core of the implementation of the Convention. This indicator aims at creating an overview of the resources available at national level by measuring the effort that the national public sector is undertaking in increasing resources for the implementation of the Convention."
+msgstr ""
 
 #: ../../SO5.md:356
-msgid ""
-"This progress indicator is concerned with domestic resources mobilized "
-"and spent by government agencies at different levels (e.g., central, "
-"state, and local governments) on activities, projects, policies, and "
-"measures to pursue the objectives of the Convention."
-msgstr "يهتمّ مؤشر التقدم هذا بتعبئة الموارد المحلية وإنفاقها من جانب الوكالات الحكومية على مختلف المستويات (على سبيل المثال، الحكومات المركزية وحكومات الولايات والحكومات المحلية) بشأن الأنشطة والمشاريع والسياسات والتدابير الرامية إلى تحقيق أهداف الاتفاقية."
+msgid "This progress indicator is concerned with domestic resources mobilized and spent by government agencies at different levels (e.g., central, state, and local governments) on activities, projects, policies, and measures to pursue the objectives of the Convention."
+msgstr ""
 
 #: ../../SO5.md:358
-msgid ""
-"The indicator also aims to collect information on public revenues, such "
-"as environmental taxes on land-degrading activities and resources "
-"collected through mechanisms to influence the behavior of the various "
-"entities in the economy regarding DLDD (i.e., incentives)."
-msgstr "يهدف المؤشر أيضاً إلى جمع المعلومات عن العائدات العامة، مثل الضرائب البيئية على الأنشطة المُسبِّبة لتدهور الأراضي والموارد التي تُجمَع من خلال آليات للتأثير على سلوك مختلَف الكيانات في الاقتصاد في ما يتصل بالتصحر وتدهور الأراضي والجفاف (أي الحوافز)."
+msgid "The indicator also aims to collect information on public revenues, such as environmental taxes on land-degrading activities and resources collected through mechanisms to influence the behavior of the various entities in the economy regarding DLDD (i.e., incentives)."
+msgstr ""
 
 #: ../../SO5.md:360
-msgid ""
-"Reporting countries can choose to take advantage of the Tier approach, in"
-" line with the capacities and data availability in the reporting country."
-" It will be possible to compile only Tier 1 (including the narrative "
-"description and the indication of trends) or both Tier 1 and Tier 2 "
-"(including the compilation of the table with more detailed quantitative "
-"data)."
-msgstr "يُمكِن للبلدان المبلِّغة أن تختار الاستفادة من نهج المستويات، بما يتماشى مع القدرات وتوافر البيانات في البلد المبلّغ. وسيتسنّى تجميع المستوى 1 فقط (بما في ذلك الوصف السردي وبيان الاتجاهات) أو كلا المستويين 1 و2 (بما في ذلك تجميع الجدول بمزيد من البيانات الكمية المفصَّلة)."
+msgid "Reporting countries can choose to take advantage of the Tier approach, in line with the capacities and data availability in the reporting country. It will be possible to compile only Tier 1 (including the narrative description and the indication of trends) or both Tier 1 and Tier 2 (including the compilation of the table with more detailed quantitative data)."
+msgstr ""
 
 #: ../../SO5.md:362
-msgid ""
-"Tier 1 involves reporting trends in this progress indicator in "
-"qualitative terms (i.e., increasing, stable or declining trends).   Tier "
-"2 aims to collect information at the highest disaggregation level "
-"available. Countries are encouraged to report using Tier 2."
-msgstr "ينطوي المستوى 1 على الإبلاغ عن الاتجاهات في مؤشر التقدم هذا من حيث النوعية (أي الاتجاهات المتزايدة أو المستقرة أو المتراجعة). ويهدف المستوى 2 إلى جمع المعلومات على أعلى مستوى من التصنيف المتاح. وتُشجَّع البلدان على الإبلاغ باستخدام المستوى 2."
+msgid "Tier 1 involves reporting trends in this progress indicator in qualitative terms (i.e., increasing, stable or declining trends).   Tier 2 aims to collect information at the highest disaggregation level available. Countries are encouraged to report using Tier 2."
+msgstr ""
 
 #: ../../SO5.md:365
 msgid "5.2.2. Reporting process and step-by-step procedure"
-msgstr "5-2-2 عملية الإبلاغ والإجراءات التدريجية"
+msgstr ""
 
 #: ../../SO5.md:369
-msgid ""
-"Data relevant to this indicator are usually collected at central "
-"government level, often from the ministries of economy and finance, "
-"ministries of environment and ministries of agriculture and forestry, as "
-"well as Environmental Agencies."
-msgstr "عادةً ما تُجمع البيانات ذات الصلة بهذا المؤشر على مستوى الحكومات المركزية، وغالباً من وزارات الاقتصاد والمالية ووزارات البيئة ووزارات الزراعة والحراجة، فضلاً عن الوكالات البيئية."
+msgid "Data relevant to this indicator are usually collected at central government level, often from the ministries of economy and finance, ministries of environment and ministries of agriculture and forestry, as well as Environmental Agencies."
+msgstr ""
 
 #: ../../SO5.md:371
-msgid ""
-"Government budgets do not often include clear information on resources "
-"specific to land degradation. Moreover, resources indirectly allocated to"
-" activities that promote land rehabilitation could be integrated in "
-"sectoral policies. Thus, an inventory approach could be taken in "
-"accordance with the agreed definition of DLDD. More broadly, further "
-"insights on relevant measures and actions are provided by the Convention,"
-" in particular Articles 10.3 and 10.4. Significant international "
-"references are the UN SEEA, the CEPA classification system and the IMF "
-"GFS database."
-msgstr "لا تتضمن الميزانيات الحكومية في كثير من الأحيان معلومات واضحة عن الموارد الخاصة بتدهور الأراضي. وعلاوة على ذلك، يمكن إدماج الموارد المخصصة بصورة غير مباشرة للأنشطة التي تعزز استصلاح الأراضي في السياسات القطاعية. وبالتالي، يمكن اتباع نهج جردٍ وفقاً لتعريف التصحر وتدهور الأراضي والجفاف المتفق عليه. وعلى نطاق أوسع، تُقدِم الاتفاقية كثيراً من الأفكار بشأن التدابير والإجراءات ذات الصلة، ولا سيما المادتان 10-3 و10-4. وهناك مراجع دولية هامّة هي نظام المحاسبة البيئية-الاقتصادية التابع للأمم المتحدة، ونظام التصنيف التابع للمبادرة العالمية للاتصال والتثقيف والتوعية العامة، وقاعدة بيانات النظام المالي العالمي التابع لصندوق النقد الدولي."
+msgid "Government budgets do not often include clear information on resources specific to land degradation. Moreover, resources indirectly allocated to activities that promote land rehabilitation could be integrated in sectoral policies. Thus, an inventory approach could be taken in accordance with the agreed definition of DLDD. More broadly, further insights on relevant measures and actions are provided by the Convention, in particular Articles 10.3 and 10.4. Significant international references are the UN SEEA, the CEPA classification system and the IMF GFS database."
+msgstr ""
 
 #: ../../SO5.md:373
-msgid ""
-"The indicator also aims at collecting information on domestic public "
-"revenues collected through measures and actions aimed at incentivizing "
-"behavior consistent with combating land degradation. Those may include "
-"environment-related tax revenues on natural resources, environmental "
-"taxes etc."
-msgstr "يهدف المؤشر أيضاً إلى جمع المعلومات عن الإيرادات العامة المحلية التي تُجمَع من خلال التدابير والإجراءات الرامية إلى تحفيز السلوك المُتسِق مع مكافحة تدهور الأراضي. وقد تشمل الإيراداتَ الضريبية المتعلقة بالبيئة في ما يتصل بالموارد الطبيعية والضرائب البيئية وما إلى ذلك."
+msgid "The indicator also aims at collecting information on domestic public revenues collected through measures and actions aimed at incentivizing behavior consistent with combating land degradation. Those may include environment-related tax revenues on natural resources, environmental taxes etc."
+msgstr ""
 
 #: ../../SO5.md:375
-msgid ""
-"The reference data sources are central government administrations and "
-"national statistical offices. A significant international reference data "
-"source is the OECD Policy Instruments for the Environment database[^3]."
-msgstr "مصادر البيانات المرجعية هي إدارات الحكومة المركزية والمكاتب الإحصائية الوطنية. ومن مصادر البيانات المرجعية الدولية الهامّة أدوات سياسة منظمة التعاون والتنمية في الميدان الاقتصادي لقاعدة البيانات البيئية[^3]."
+msgid "The reference data sources are central government administrations and national statistical offices. A significant international reference data source is the OECD Policy Instruments for the Environment database[^3]."
+msgstr ""
 
 #: ../../SO5.md:379
 msgid "Step 2: Estimate trends in domestic public resources"
-msgstr "الخطوة 2: تقدير الاتجاهات في الموارد العامة المحلية"
+msgstr ""
 
 #: ../../SO5.md:381
-msgid ""
-"Tier 1 involves reporting trends in the progress indicator in qualitative"
-" terms (i.e., increasing, stable or declining trends) based on the expert"
-" opinion of the reporting Party. Choose the option representing the trend"
-" for the entire reporting period in the relevant table. Indicate the "
-"trend in both tables if your country provides information on both "
-"expenditures and revenues. Otherwise, indicate the trend for either one. "
-"Select only one option for each table."
-msgstr "ينطوي المستوى 1 على الإبلاغ عن اتجاهات مؤشر التقدم من حيث النوعية (أي اتجاهات متزايدة أو مستقرة أو متراجعة) استناداً إلى رأي الخبراء لدى الطرف المُبلِّغ. ويُحدد الخيار الذي يُمثِل الاتجاه بالنسبة إلى كامل فترة الإبلاغ في الجدول ذي الصلة. ويُبيَّن الاتجاه في كلا الجدولين إذا قدّم بلدكم معلومات عن النفقات والإيرادات على حد سواء. وبخلاف ذلك، يُبيَّن الاتجاه بالنسبة إلى أي منهما. ويُحدَّد خيارٌ واحد فقط لكل جدول."
+msgid "Tier 1 involves reporting trends in the progress indicator in qualitative terms (i.e., increasing, stable or declining trends) based on the expert opinion of the reporting Party. Choose the option representing the trend for the entire reporting period in the relevant table. Indicate the trend in both tables if your country provides information on both expenditures and revenues. Otherwise, indicate the trend for either one. Select only one option for each table."
+msgstr ""
 
-#: ../../SO5.md:383 ../../SO5.md:539 ../../SO5.md:688
+#: ../../SO5.md:383
+#: ../../SO5.md:539
+#: ../../SO5.md:688
 msgid "Step 3: Reporting in narrative format"
-msgstr "الخطوة 3: الإبلاغ بنسق سردي"
+msgstr ""
 
 #: ../../SO5.md:385
-msgid ""
-"The aim of this section is to provide Parties the space to report on "
-"information on the context and complement the reporting against Tier 1 "
-"(trends) or Tier 2 (table)."
-msgstr "يتمثل الهدف من هذا القسم في إتاحة المجال للأطراف للإبلاغ عن المعلومات المتعلقة بالسياق واستكمال الإبلاغ في ضوء المستوى 1 (الاتجاهات) أو المستوى 2 (الجدول)."
+msgid "The aim of this section is to provide Parties the space to report on information on the context and complement the reporting against Tier 1 (trends) or Tier 2 (table)."
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"“Public expenditures related to sustainable agriculture in year 2018 "
-"increased to USD 168 million.”"
-msgstr "\"ارتفعت النفقات العامة المتصلة بالزراعة المستدامة في عام 2018 إلى 168 مليون دولار أمريكي.\""
+#: ../../SO5.md:391
+msgid "“Public expenditures related to sustainable agriculture in year 2018 increased to USD 168 million.”"
+msgstr ""
 
-#: ../../SO5.md:2
-msgid ""
-"“National resources allocated to protection and ecosystem restoration are"
-" mainly channeled through the Ministry of Agriculture.”"
-msgstr "\"تُوجَّه الموارد الوطنية المخصصة للحماية وإصلاح النظم الإيكولوجية بصفة أساسية عن طريق وزارة الزراعة.\""
+#: ../../SO5.md:392
+msgid "“National resources allocated to protection and ecosystem restoration are mainly channeled through the Ministry of Agriculture.”"
+msgstr ""
 
-#: ../../SO5.md:3
-msgid ""
-"“The budget allocation of the National Directorate for Planning and "
-"Environmental Land Management, which carries out the NAP, is included in "
-"the National Budget Programme No. 60 for the years 2012, 2013 and 2014."
-msgstr "\"ترد مخصصات ميزانية المديرية الوطنية للتخطيط والإدارة البيئية للأراضي، التي تُنفِّذ برنامج العمل الوطني، في برنامج الميزانية الوطنية رقم 60 للأعوام 2012 و2013 و2014."
+#: ../../SO5.md:393
+msgid "“The budget allocation of the National Directorate for Planning and Environmental Land Management, which carries out the NAP, is included in the National Budget Programme No. 60 for the years 2012, 2013 and 2014."
+msgstr ""
 
-#: ../../SO5.md:4
-msgid ""
-"“Data was retrieved directly from published sources of federal, "
-"provincial and territorial governments; official data was retrieved from "
-"the statistical office.”"
-msgstr "\"استُعيدت البيانات مباشرةً من المصادر المنشورة للحكومات الاتحادية وحكومات المقاطعات والأقاليم؛ كما استُعيدت البيانات الرسمية من المكتب الإحصائي.\""
+#: ../../SO5.md:394
+msgid "“Data was retrieved directly from published sources of federal, provincial and territorial governments; official data was retrieved from the statistical office.”"
+msgstr ""
 
 #: ../../SO5.md:399
-msgid ""
-"Tier 2 involves reporting against the progress indicators in a "
-"quantitative manner. Parties are encouraged to provide data on individual"
-" policies, measures or activities combating DLDD, as well as government "
-"budgetary lines and programmes. In this sense, it is recommended to use a"
-" bottom-up, inventory approach for collecting data on DLDD-related "
-"projects, programmes, measures, or budget lines supported by domestic "
-"public resources."
-msgstr "يتضمن المستوى 2 الإبلاغ عن مؤشرات التقدم بطريقة كمية. وتُشجَّع الأطراف على تقديم بيانات عن السياسات أو التدابير أو الأنشطة الفردية الرامية إلى مكافحة التصحر وتدهور الأراضي والجفاف، فضلاً عن بنود وبرامج الميزانية الحكومية. ومن هذا المنطلق، يُوصَى باستخدام نهج جردٍ من القاعدة إلى القمة لجمع البيانات عن المشاريع والبرامج والتدابير المتصلة بالتصحر وتدهور الأراضي والجفاف أو بنود الميزانية المدعومة بالموارد العامة المحلية."
+msgid "Tier 2 involves reporting against the progress indicators in a quantitative manner. Parties are encouraged to provide data on individual policies, measures or activities combating DLDD, as well as government budgetary lines and programmes. In this sense, it is recommended to use a bottom-up, inventory approach for collecting data on DLDD-related projects, programmes, measures, or budget lines supported by domestic public resources."
+msgstr ""
 
 #: ../../SO5.md:403
-msgid ""
-"The table for SO 5-2 provides space to report those actions that are "
-"considered relevant to combating DLDD. The reporting Party can choose the"
-" methodology to accommodate definitions and approaches in use, but the "
-"reporting manual suggests some approaches and definitions for each "
-"parameter."
-msgstr "يُتيح جدول الهدف الاستراتيجي SO 5-2 حيّزاً للإبلاغ عن تلك الإجراءات ذات الصلة بمكافحة التصحر وتدهور الأراضي والجفاف. ويُمكن للطرف المُبلِّغ اختيار المنهجية التي تستوعب التعريفات والمنهجيات المستخدمة، لكنّ دليل الإبلاغ يقترح بعض النُهُج والتعريفات لكل بارامتر."
+msgid "The table for SO 5-2 provides space to report those actions that are considered relevant to combating DLDD. The reporting Party can choose the methodology to accommodate definitions and approaches in use, but the reporting manual suggests some approaches and definitions for each parameter."
+msgstr ""
 
 #: ../../SO5.md:405
-msgid ""
-"Year: Indicate the year relevant to the reported activity. Explain in the"
-" documentation box whether the year refers to the commitment or "
-"disbursement year, and if the fiscal or calendar year is used. It is "
-"possible to indicate the timeframe rather than a specific year, but this "
-"should fall within the reporting period."
-msgstr "السنة: يُشار إلى السنة ذات الصلة بالنشاط المبلَّغ عنه. ويُوضَّح في خانة الوثائق ما إذا كانت السنة تشير إلى سنة الالتزام أو السداد، وما إذا كانت السنة المالية أو التقويمية قد استُخدِمت. ومن الممكن تحديد الإطار الزمني وليس سنة محددة، ولكن ينبغي أن يندرج ذلك ضمن فترة الإبلاغ."
+msgid "Year: Indicate the year relevant to the reported activity. Explain in the documentation box whether the year refers to the commitment or disbursement year, and if the fiscal or calendar year is used. It is possible to indicate the timeframe rather than a specific year, but this should fall within the reporting period."
+msgstr ""
 
 #: ../../SO5.md:407
-msgid ""
-"Amount in USD: The amounts should be reported in USD. If the reporting "
-"country decides otherwise, the approach should be explained clearly in "
-"the methodology. This implies the application of an exchange rate to the "
-"respective domestic currencies. The World Bank annual average exchange "
-"rate is suggested; please indicate if (and how) a different exchange rate"
-" is used."
-msgstr "المبلغ بالدولار الأمريكي: ينبغي الإبلاغ عن المبالغ بالدولار الأمريكي. وإذا قرر البلد المبلِّغ خلاف ذلك، ينبغي شرح النهج بوضوح في المنهجية. وهذا يعني ضمناً تطبيق سعر صرف على العملات المحلية المعنية. ومن المعلوم أنَّه جرى اقتراح متوسط سعر الصرف السنوي للبنك الدولي؛ لذا يُرجى بيان ما إذا كان (وكيف) يُستخدَم سعر صرف مختلف."
+msgid "Amount in USD: The amounts should be reported in USD. If the reporting country decides otherwise, the approach should be explained clearly in the methodology. This implies the application of an exchange rate to the respective domestic currencies. The World Bank annual average exchange rate is suggested; please indicate if (and how) a different exchange rate is used."
+msgstr ""
 
 #: ../../SO5.md:408
-msgid ""
-"Additional information: Please include any other activity-level "
-"information that you deem relevant, including the title of the measure, "
-"budget lines or activity funded."
-msgstr "معلومات إضافية: يُرجى إدراج أي معلومات أخرى عن مستوى الأنشطة تراها ذات صلة، بما في ذلك عنوان التدبير أو بنود الميزانية أو الأنشطة الممولة."
+msgid "Additional information: Please include any other activity-level information that you deem relevant, including the title of the measure, budget lines or activity funded."
+msgstr ""
 
 #: ../../SO5.md:410
-msgid ""
-"Table 23 below is populated with some examples (further rows can be "
-"added):"
-msgstr "الجدول 23 أدناه مُزوَّد ببعض الأمثلة (يمكن إضافة صفوف إضافية):"
+msgid "Table 23 below is populated with some examples (further rows can be added):"
+msgstr ""
 
 #: ../../SO5.md:417
-msgid ""
-"*__Table 23__.  Resources provided received, and required for domestic "
-"public resources*"
-msgstr "*__الجدول 23__. الموارد المقدَّمة والمتلقاة المطلوبة للموارد العامة المحلية*"
+msgid "*__Table 23__.  Resources provided received, and required for domestic public resources*"
+msgstr ""
 
-#: ../../SO5.md:1 ../../SO5.md:2
+#: ../../SO5.md:422
+#: ../../SO5.md:588
+#: ../../SO5.md:760
 msgid "Year"
-msgstr "السنة"
+msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:423
 msgid "Amount in USD"
-msgstr "المبلغ بالدولار الأمريكي"
+msgstr ""
 
-#: ../../SO5.md:4 ../../SO5.md:7 ../../SO5.md:13
+#: ../../SO5.md:424
+#: ../../SO5.md:594
+#: ../../SO5.md:771
 msgid "Additional information"
-msgstr "معلومات إضافية"
+msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:425
 msgid "__Government expenditures__"
-msgstr "__النفقات الحكومية__"
+msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:429
 msgid "{rspan}`2` Directly related to combating DLDD"
-msgstr "المتصلة بصورة مباشرة بمكافحة التصحر والجفاف وتدهور الأراضي"
+msgstr ""
 
-#: ../../SO5.md:10
+#: ../../SO5.md:430
 msgid "2017"
-msgstr "2017"
+msgstr ""
 
-#: ../../SO5.md:11
+#: ../../SO5.md:431
 msgid "USD 163,000"
-msgstr "163000 دولار أمريكي"
+msgstr ""
 
-#: ../../SO5.md:12
-msgid ""
-"Design phase to support the incorporation of the Indigenous Desert "
-"Alliance as a legal entity. Secondment of an executive staff member for "
-"six months"
-msgstr "مرحلة التصميم لدعم إدماج التحالف الصحراوي للسكان الأصليين بوصفه كياناً قانونياً. إعارة موظف تنفيذي لمدة ستة أشهر"
+#: ../../SO5.md:432
+msgid "Design phase to support the incorporation of the Indigenous Desert Alliance as a legal entity. Secondment of an executive staff member for six months"
+msgstr ""
 
-#: ../../SO5.md:13
+#: ../../SO5.md:433
 msgid "2017–2020"
-msgstr "2017–2020"
+msgstr ""
 
-#: ../../SO5.md:14
+#: ../../SO5.md:434
 msgid "USD 118,000"
-msgstr "118000 دولار أمريكي"
+msgstr ""
 
-#: ../../SO5.md:15
-msgid ""
-"In-kind contribution to the GEF project 5018 “Revision and Alignment of "
-"National Action Program with UNCCD 10 Years Strategic Plan and Framework”"
-msgstr "مساهمة عينية في مشروع مرفق البيئة العالمية 5018 \"تنقيح ومواءمة برنامج العمل الوطني مع الخطة وإطار العمل الاستراتيجيين للسنوات العشر لاتفاقية الأمم لمكافحة التصحر\""
+#: ../../SO5.md:435
+msgid "In-kind contribution to the GEF project 5018 “Revision and Alignment of National Action Program with UNCCD 10 Years Strategic Plan and Framework”"
+msgstr ""
 
-#: ../../SO5.md:8 ../../SO5.md:16 ../../SO5.md:20
+#: ../../SO5.md:436
+#: ../../SO5.md:440
+#: ../../SO5.md:595
 msgid "2018"
-msgstr "2018"
+msgstr ""
 
-#: ../../SO5.md:17
+#: ../../SO5.md:437
 msgid "USD 3,400,000"
-msgstr "3400000 دولار أمريكي"
+msgstr ""
 
-#: ../../SO5.md:18
+#: ../../SO5.md:438
 msgid "PPP DLDD – public contribution to the PPP\\*\\*. Grant funding"
-msgstr "الشراكة بين القطاعين العام والخاص في ما يتعلق بالتصحر والجفاف وتدهور الأراضي - المساهمة العامة في الشراكة بين القطاعين العام والخاص/*/*. تمويل المنح"
+msgstr ""
 
-#: ../../SO5.md:19
+#: ../../SO5.md:439
 msgid "Indirectly related to combating DLDD"
-msgstr "المتصلة بصورة غير مباشرة بالتصحر والجفاف وتدهور الأراضي"
+msgstr ""
 
-#: ../../SO5.md:21
+#: ../../SO5.md:441
 msgid "USD 8,959,024"
-msgstr "8959024 دولار أمريكي"
+msgstr ""
 
-#: ../../SO5.md:22
-msgid ""
-"Co-financing of the GEF project “Incentives for the Conservation of "
-"Ecosystem Services of Global Significance”"
-msgstr "التمويل المشترك لمشروع مرفق البيئة العالمية المعنوَن \"الحوافز للحفاظ على خدمات النظم الإيكولوجية ذات الأهمية العالمية\""
+#: ../../SO5.md:442
+msgid "Co-financing of the GEF project “Incentives for the Conservation of Ecosystem Services of Global Significance”"
+msgstr ""
 
-#: ../../SO5.md:23
+#: ../../SO5.md:443
 msgid "__Subsidies__"
-msgstr "__الإعانات__"
+msgstr ""
 
-#: ../../SO5.md:27
+#: ../../SO5.md:447
 msgid "{rspan}`1` Subsidies related to combating DLDD"
-msgstr "الإعانات المتعلقة بمكافحة التصحر والجفاف وتدهور الأراضي"
+msgstr ""
 
-#: ../../SO5.md:28
+#: ../../SO5.md:448
 msgid "2020"
-msgstr "2020"
+msgstr ""
 
-#: ../../SO5.md:29
+#: ../../SO5.md:449
 msgid "USD 12,500,000"
-msgstr "12500000 دولار أمريكي"
+msgstr ""
 
-#: ../../SO5.md:30
+#: ../../SO5.md:450
 msgid "Government subsidy for agricultural land restoration – land conservation"
-msgstr "الإعانة الحكومية لاستصلاح الأراضي الزراعية - حفظ الأراضي"
+msgstr ""
 
-#: ../../SO5.md:31
+#: ../../SO5.md:451
 msgid "2018-2020"
-msgstr "2018-2020"
+msgstr ""
 
-#: ../../SO5.md:32
+#: ../../SO5.md:452
 msgid "USD 5,600,000"
-msgstr "5600000 دولار أمريكي"
+msgstr ""
 
-#: ../../SO5.md:33
+#: ../../SO5.md:453
 msgid "Property tax exemption for private land"
-msgstr "الإعفاء من ضريبة الملكية على الأراضي الخاصة"
+msgstr ""
 
-#: ../../SO5.md:34 ../../SO5.md:47
+#: ../../SO5.md:454
+#: ../../SO5.md:467
 msgid "_Other transfers_"
-msgstr "_التحويلات الأخرى_"
+msgstr ""
 
-#: ../../SO5.md:38
+#: ../../SO5.md:458
 msgid "{cspan}`3` __Total expenditures/total expenditures per year__"
-msgstr "__مجموع النفقات/مجموع النفقات لكل سنة__"
+msgstr ""
 
-#: ../../SO5.md:39
+#: ../../SO5.md:459
 msgid "__Government revenues__"
-msgstr "__الإيرادات الحكومية__"
+msgstr ""
 
-#: ../../SO5.md:43
-msgid ""
-"Environmental taxes for the conservation of land resources and taxes "
-"related to combating DLDD"
-msgstr "الضرائب البيئية لحفظ موارد الأراضي والضرائب المتصلة بمكافحة التصحر والجفاف وتدهور الأراضي"
+#: ../../SO5.md:463
+msgid "Environmental taxes for the conservation of land resources and taxes related to combating DLDD"
+msgstr ""
 
-#: ../../SO5.md:22 ../../SO5.md:37 ../../SO5.md:44
+#: ../../SO5.md:464
+#: ../../SO5.md:609
+#: ../../SO5.md:795
 msgid "2019"
-msgstr "2019"
+msgstr ""
 
-#: ../../SO5.md:45
+#: ../../SO5.md:465
 msgid "USD 150,000,000"
-msgstr "150000000 دولار أمريكي"
+msgstr ""
 
-#: ../../SO5.md:46
+#: ../../SO5.md:466
 msgid "Tax increase on royalties in the mining sector. Indirectly related to DLDD"
-msgstr "زيادة الضرائب على رسوم الامتياز في قطاع التعدين. تتصل بصورة غير مباشرة بالتصحر والجفاف وتدهور الأراضي"
+msgstr ""
 
-#: ../../SO5.md:51
+#: ../../SO5.md:471
 msgid "{cspan}`3` __Total revenues/total revenues per year__"
-msgstr "__مجموع الإيرادات/مجموع الإيرادات لكل سنة__"
+msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:479
 msgid "\\*\\* The private contribution to this PPP is reported under SO 5-3."
-msgstr "\\*\\* يُبلَّغ عن المساهمة الخاصة في هذه الشراكة بين القطاعين العام والخاص بموجب الهدف الاستراتيجي SO 5-3."
+msgstr ""
 
 #: ../../SO5.md:488
-msgid ""
-"A total figure for **government expenditures, including subsidies and "
-"other transfers**, will be computed automatically. Thus, avoiding any "
-"double counting between these categories is recommended.  A separate "
-"total figure for **government revenues and other transfers** will be "
-"automatically calculated. Subtotal figures by year are also envisaged for"
-" this reporting table."
-msgstr "وسيُحسَب تلقائياً رقمٌ إجمالي **للنفقات الحكومية، بما في ذلك الإعانات والتحويلات الأخرى**. وبالتالي، يُوصَى بتجنب أي حساب مزدوج بين هذه الفئات.  وسيُحسَب تلقائياً رقم إجمالي منفصل **للإيرادات الحكومية والتحويلات الأخرى. ويُعتزم أيضاً إدراج الأرقام الفرعية حسب السنة في جدول الإبلاغ هذا."
+msgid "A total figure for **government expenditures, including subsidies and other transfers**, will be computed automatically. Thus, avoiding any double counting between these categories is recommended.  A separate total figure for **government revenues and other transfers** will be automatically calculated. Subtotal figures by year are also envisaged for this reporting table."
+msgstr ""
 
 #: ../../SO5.md:492
-msgid ""
-"The aim of the documentation box is to provide space to report the "
-"necessary definitions and methodologies employed for each relevant "
-"parameter included in the table and the description, as relevant. When an"
-" international agreed standard is used, it is possible to provide the "
-"relevant reference."
-msgstr "الهدف من خانة الوثائق هو توفير حيز للإبلاغ عن التعريفات والمنهجيات اللازمة المستخدَمة لكل بارامتر من البارامترات المُجمَّعة في الجدول والمدرجة في الوصف، حسب الاقتضاء. وعند استخدام معيار متفَّق عليه دولياً، من الممكن تقديم المرجع ذي الصلة."
+msgid "The aim of the documentation box is to provide space to report the necessary definitions and methodologies employed for each relevant parameter included in the table and the description, as relevant. When an international agreed standard is used, it is possible to provide the relevant reference."
+msgstr ""
 
 #: ../../SO5.md:494
 msgid "Step 6: Qualitative question"
-msgstr "الخطوة 6: السؤال النوعي"
+msgstr ""
 
 #: ../../SO5.md:496
-msgid ""
-"The reporting Party is invited to share information on whether it set a "
-"**target for domestic resource mobilization**. If yes, provide further "
-"details on the features of this target, the timing, and the progress "
-"monitoring process."
-msgstr "الطرف المُبلِّغ مدعو إلى مشاركة المعلومات عما إذا حدد **هدفاً بُغية تعبئة الموارد المحلية**. وإذا كانت الإجابة نعم، يلزم تقديم مزيد من التفاصيل حول ميزات هذا الهدف، والتوقيت، وعملية مراقبة التقدم."
+msgid "The reporting Party is invited to share information on whether it set a **target for domestic resource mobilization**. If yes, provide further details on the features of this target, the timing, and the progress monitoring process."
+msgstr ""
 
 #: ../../SO5.md:498
 msgid "5.3. SO5-3 – International and domestic private resources"
-msgstr "5-3 الهدف الاستراتيجي SO5-3 - الموارد الدولية والمحلية الخاصة"
+msgstr ""
 
 #: ../../SO5.md:500
 msgid "5.3.1. Introduction"
-msgstr "5-3-1 مقدمة"
+msgstr ""
 
 #: ../../SO5.md:502
-msgid ""
-"The indicator aims at monitoring private resources mobilized by the "
-"private sector of the reporting Party for activities and investments ‘at "
-"home’ (domestic) and in third countries (international). The scope of "
-"this indicator encompasses financing by all private sector organizations "
-"including corporations (e.g., private sector funds), households and non-"
-"profit organizations (e.g., philanthropic foundations) from domestic and "
-"international sources. Such private sources of financing provide "
-"resources in the form of concessional and non-concessional resources to "
-"implement the Convention."
-msgstr "يهدف المؤشر إلى رصد الموارد الخاصة المعبأة من قبل القطاع الخاص التابع للطرف المبُلِّغ من أجل الأنشطة والاستثمارات \"في الداخل\" (المحلية) وفي بلدان ثالثة (الدولية). ويشمل نطاق هذا المؤشر التمويل من قبل جميع مؤسسات القطاع الخاص بما في ذلك الشركات (على سبيل المثال، صناديق القطاع الخاص)، والأسر والمنظمات غير الربحية (على سبيل المثال، المؤسسات الخيرية) من المصادر المحلية والدولية. وتوفر مصادر التمويل الخاصة هذه الموارد في شكل موارد مُيسَّرة وغير مُيسَّرة لتنفيذ الاتفاقية."
+msgid "The indicator aims at monitoring private resources mobilized by the private sector of the reporting Party for activities and investments ‘at home’ (domestic) and in third countries (international). The scope of this indicator encompasses financing by all private sector organizations including corporations (e.g., private sector funds), households and non-profit organizations (e.g., philanthropic foundations) from domestic and international sources. Such private sources of financing provide resources in the form of concessional and non-concessional resources to implement the Convention."
+msgstr ""
 
 #: ../../SO5.md:504
-msgid ""
-"The indicator allows for reporting on innovative sources of finance and "
-"the number of co-financing partners, for those related to the private "
-"sector. Further information related to co-financing and innovative "
-"sources of finance in the public sector could be reported under the "
-"previous two indicators."
-msgstr "يسمح المؤشر بالإبلاغ عن مصادر التمويل الابتكارية وعدد الشركاء في التمويل المشترك، بما يتعلق بالقطاع الخاص. ويُمكن الإبلاغ عن مزيد من المعلومات المتعلقة بالتمويل المشترك ومصادر التمويل الابتكارية في القطاع العام في إطار المؤشرين السابقين."
+msgid "The indicator allows for reporting on innovative sources of finance and the number of co-financing partners, for those related to the private sector. Further information related to co-financing and innovative sources of finance in the public sector could be reported under the previous two indicators."
+msgstr ""
 
 #: ../../SO5.md:506
-msgid ""
-"The reporting country should select the most relevant Tier approach based"
-" on the capacities and data available."
-msgstr "ينبغي للبلد المبُلِّغ أن يختار النهج الأكثر صلة على أساس القدرات والبيانات المتاحة."
+msgid "The reporting country should select the most relevant Tier approach based on the capacities and data available."
+msgstr ""
 
 #: ../../SO5.md:508
 msgid "5.3.2. Prerequisites for reporting"
-msgstr "5-3-2 الشروط المسبقة للإبلاغ"
+msgstr ""
 
 #: ../../SO5.md:510
-msgid ""
-"Institutional arrangements in place for the collection of financial data "
-"on private resources allocated to combat DLDD."
-msgstr "وضع ترتيبات مؤسسية لجمع البيانات المالية عن الموارد الخاصة المخصصة لمكافحة التصحر والجفاف وتدهور الأراضي."
+msgid "Institutional arrangements in place for the collection of financial data on private resources allocated to combat DLDD."
+msgstr ""
 
 #: ../../SO5.md:512
-msgid ""
-"Capacity to access commercial databases to analyse private sector reports"
-" and dedicated case studies."
-msgstr "القدرة على الوصول إلى قواعد البيانات التجارية لتحليل تقارير القطاع الخاص ودراسات الحالات المخصَّصة."
+msgid "Capacity to access commercial databases to analyse private sector reports and dedicated case studies."
+msgstr ""
 
 #: ../../SO5.md:514
-msgid ""
-"Mechanisms to involve private actors in the compilation of the "
-"information."
-msgstr "آليات لإشراك الجهات الفاعلة الخاصة في تجميع المعلومات."
+msgid "Mechanisms to involve private actors in the compilation of the information."
+msgstr ""
 
 #: ../../SO5.md:516
 msgid "5.3.3. Reporting process and step-by-step procedure"
-msgstr "5-3-3 عملية الإبلاغ والإجراءات التدريجية"
+msgstr ""
 
 #: ../../SO5.md:518
-msgid ""
-"The UNCCD offers the option to report on SO 5-3 both in qualitative and "
-"quantitative terms, subject to data availability. No default data will be"
-" provided against this indicator."
-msgstr "تُتيح اتفاقية الأمم المتحدة لمكافحة التصحر خيار الإبلاغ عن الهدف الاستراتيجي SO 5-3 من الناحيتين النوعية والكمية على حد سواء، رهناً بتوافر البيانات. ولن تُقدم بيانات افتراضية وفقاً لهذا المؤشر."
+msgid "The UNCCD offers the option to report on SO 5-3 both in qualitative and quantitative terms, subject to data availability. No default data will be provided against this indicator."
+msgstr ""
 
 #: ../../SO5.md:522
-msgid ""
-"Data relevant to this indicator are usually collected at central "
-"government level (in turn also from local authorities). Parties are "
-"encouraged to make their best efforts to provide information at the "
-"highest disaggregation level available."
-msgstr "عادةً ما تُجمع البيانات ذات الصلة بهذا المؤشر على مستوى الحكومة المركزية (وتُجمع بدورها أيضاً من السلطات المحلية). وتُشجَّع الأطراف على بذل قصارى جهدها لتوفير المعلومات على أعلى مستوى متاح من التصنيف."
+msgid "Data relevant to this indicator are usually collected at central government level (in turn also from local authorities). Parties are encouraged to make their best efforts to provide information at the highest disaggregation level available."
+msgstr ""
 
 #: ../../SO5.md:526
-msgid ""
-"The relevance of funded activities, projects or investments of the "
-"private sector should be consistent with the DLDD-relevance criteria "
-"employed to report against the other indicators for monitoring domestic "
-"and international resource flows."
-msgstr "ينبغي أن تكون أهمية الأنشطة أو المشاريع أو الاستثمارات المموَّلة للقطاع الخاص مُتسقة مع المعايير ذات الصلة بالتصحر وتدهور الأراضي والجفاف المُستخدَمة للإبلاغ ضد المؤشرات الأخرى لرصد تدفقات الموارد المحلية والدولية."
+msgid "The relevance of funded activities, projects or investments of the private sector should be consistent with the DLDD-relevance criteria employed to report against the other indicators for monitoring domestic and international resource flows."
+msgstr ""
 
 #: ../../SO5.md:530
-msgid ""
-"OECD statistics on development finance (from the CRS) include activity-"
-"level data on funds from around 40 of the largest philanthropic "
-"foundations, many of which provide finance for environmental "
-"objectives[^4].  The OECD statistics on the amounts mobilized from the "
-"private sector also provide insights on international private sector "
-"contributions for development, including for SDG 14 and 15[^5]."
-msgstr "تتضمن إحصاءات منظمة التعاون والتنمية في الميدان الاقتصادي بشأن تمويل التنمية (من نظام الإبلاغ الخاص بالجهات الدائنة) بيانات على مستوى الأنشطة بشأن الأموال من حوالي 40 مؤسسة من أكبر المؤسسات الخيرية، وكثيرٌ منها يوفِّر التمويل لتحقيق الأهداف البيئية[^4]. وتُقدِم إحصاءات منظمة التعاون والتنمية في الميدان الاقتصادي بشأن المبالغ المُعبأة من القطاع الخاص أفكاراً عن مساهمات القطاع الخاص الدولي في التنمية بما في ذلك الهدفين 14 و15 من أهداف التنمية المستدامة[^5]."
+msgid "OECD statistics on development finance (from the CRS) include activity-level data on funds from around 40 of the largest philanthropic foundations, many of which provide finance for environmental objectives[^4].  The OECD statistics on the amounts mobilized from the private sector also provide insights on international private sector contributions for development, including for SDG 14 and 15[^5]."
+msgstr ""
 
 #: ../../SO5.md:535
 msgid "Step 2: Estimate trends in international and domestic private resources"
-msgstr "الخطوة 2: تقدير الاتجاهات في الموارد الدولية والمحلية الخاصة"
+msgstr ""
 
 #: ../../SO5.md:537
-msgid ""
-"Tier 1 involves reporting trends in the progress indicator in qualitative"
-" terms (i.e., increasing, stable or declining trends) based on the expert"
-" opinion of the reporting Party. Choose the option representing the trend"
-" in the international private resources and domestic private resources "
-"for activities relevant to the implementation of the Convention in the "
-"relevant table for the four-year period. Select only one option for each "
-"table."
-msgstr "ينطوي المستوى 1 على الإبلاغ عن اتجاهات مؤشر التقدم من حيث النوعية (أي اتجاهات متزايدة أو مستقرة أو متراجعة) استناداً إلى رأي الخبراء لدى الطرف المُبلِّغ. ويُرجى تحديد الخيار الذي يُمثل الاتجاه في الموارد الدولية والمحلية الخاصة للأنشطة ذات الصلة بتنفيذ الاتفاقية في الجدول ذي الصلة لفترة السنوات الأربع. ويُحدَّد خيارٌ واحد فقط لكل جدول."
+msgid "Tier 1 involves reporting trends in the progress indicator in qualitative terms (i.e., increasing, stable or declining trends) based on the expert opinion of the reporting Party. Choose the option representing the trend in the international private resources and domestic private resources for activities relevant to the implementation of the Convention in the relevant table for the four-year period. Select only one option for each table."
+msgstr ""
 
 #: ../../SO5.md:541
-msgid ""
-"SO5-3 requests the provision of relevant descriptive and qualitative "
-"information. The aim of this section is to provide Parties the space to "
-"report on information on the context and complement the reporting against"
-" Tier 1 (trends) or Tier 2 (table)."
-msgstr "يطلب الهدف الاستراتيجي SO5-3 توفير المعلومات الوصفية والنوعية ذات الصلة. ويتمثل الهدف من هذا القسم في إتاحة المجال للأطراف للإبلاغ عن المعلومات المتعلقة بالسياق واستكمال الإبلاغ في ضوء المستوى 1 (الاتجاهات) أو المستوى 2 (الجدول)."
+msgid "SO5-3 requests the provision of relevant descriptive and qualitative information. The aim of this section is to provide Parties the space to report on information on the context and complement the reporting against Tier 1 (trends) or Tier 2 (table)."
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"“The reporting country undertook important public–private partnerships "
-"with [the recipient country] and [the third country’s] private companies."
-" These have been mobilizing XY euros to pursue…”"
-msgstr "\"أجرى البلد المُبلِغ شراكات هامّة بين القطاعين العام والخاص مع [البلد المتلقي] والشركات الخاصة [في البلد الثالث]. وعملوا على تعبئة XY يورو للمتابعة...\""
+#: ../../SO5.md:547
+msgid "“The reporting country undertook important public–private partnerships with [the recipient country] and [the third country’s] private companies. These have been mobilizing XY euros to pursue…”"
+msgstr ""
 
-#: ../../SO5.md:3
-#, python-format
-msgid ""
-"“Non-governmental organizations (NGOs) are funded at 80% by public "
-"sources and they need to co-finance 20% of each project/programme (own "
-"contribution). This means that besides the development cooperation "
-"budget, the NGOs are the most important co-financing partners for "
-"activities relevant to the implementation of the Convention. These "
-"contributions come from the private sector, private donations, other "
-"donors and the European Union.”"
-msgstr "\"تُموَّل المنظمات غير الحكومية بنسبة 80 ⁦% ⁩ بالموارد العامة ويتعين عليها المشاركة في التمويل بما نسبته 20 ⁦% o⁩ لكل مشروع/برنامج (مساهمة خاصة). ويعني ذلك أنه إلى جانب ميزانية التعاون الإنمائي، تُعدّ المنظمات غير الحكومية من أهم شركاء التمويل المشترك للأنشطة ذات الصلة بتنفيذ الاتفاقية. وتأتي هذه المساهمات من القطاع الخاص والتبرعات الخاصة والجهات المانحة الأخرى والاتحاد الأوروبي.\""
+#: ../../SO5.md:549
+msgid "“Non-governmental organizations (NGOs) are funded at 80% by public sources and they need to co-finance 20% of each project/programme (own contribution). This means that besides the development cooperation budget, the NGOs are the most important co-financing partners for activities relevant to the implementation of the Convention. These contributions come from the private sector, private donations, other donors and the European Union.”"
+msgstr ""
 
-#: ../../SO5.md:552 ../../SO5.md:706
+#: ../../SO5.md:552
+#: ../../SO5.md:706
 msgid "Step 4: Compiling the table"
-msgstr "الخطوة 4: تجميع الجدول"
+msgstr ""
 
 #: ../../SO5.md:556
-msgid ""
-"The table for SO 5-3 provides space to report at project level (or at the"
-" highest level of disaggregation available) on actions, investments or "
-"programmes that are considered relevant to combating desertification. The"
-" reporting Party can choose the methodology to accommodate definitions in"
-" use, but the reporting manual suggests some approaches for each "
-"parameter. Reporting countries are encouraged to clearly explain the "
-"definitions used."
-msgstr "يوفِّر جدول الهدف الاستراتيجي SO 5-3 حيّزاً للإبلاغ على مستوى المشروع (أو على أعلى مستوى متاح من التصنيف) عن الإجراءات أو الاستثمارات أو البرامج التي تُعدّ ذات صلة بمكافحة التصحر. ويُمكن للطرف المُبلِّغ اختيار المنهجية التي تستوعب التعريفات قيد الاستخدام، لكنّ دليل الإبلاغ يقترح بعض النُهُج والتعريفات لكل بارامتر. وتُشجَّع البلدان المُبلِّغة على شرح التعريفات المستخدمة بوضوح."
+msgid "The table for SO 5-3 provides space to report at project level (or at the highest level of disaggregation available) on actions, investments or programmes that are considered relevant to combating desertification. The reporting Party can choose the methodology to accommodate definitions in use, but the reporting manual suggests some approaches for each parameter. Reporting countries are encouraged to clearly explain the definitions used."
+msgstr ""
 
 #: ../../SO5.md:558
-msgid ""
-"Year: Indicate the year relevant to the reported activity. Explain "
-"whether the fiscal or calendar year is used."
-msgstr "السنة: يُشار إلى السنة ذات الصلة بالنشاط المبلَّغ عنه. ويُشرَح ما إذا كانت السنة المالية أو التقويمية قد استُخدمت."
+msgid "Year: Indicate the year relevant to the reported activity. Explain whether the fiscal or calendar year is used."
+msgstr ""
 
 #: ../../SO5.md:560
-msgid ""
-"Title of project, programme, activity or other: This field includes the "
-"title of the project or activity, as well as the type of investment and "
-"initiative."
-msgstr "عنوان المشروع أو البرنامج أو النشاط أو غير ذلك: ويشمل هذا المجال عنوان المشروع أو النشاط، فضلاً عن نوع الاستثمار والمبادرة."
+msgid "Title of project, programme, activity or other: This field includes the title of the project or activity, as well as the type of investment and initiative."
+msgstr ""
 
 #: ../../SO5.md:562
-msgid ""
-"Total amount in USD: The amounts should be reported in USD; if the "
-"reporting country decides otherwise, the approach should be explained "
-"clearly in the methodology. This implies the application of an exchange "
-"rate to the different domestic currencies. The World Bank annual average "
-"exchange rate is suggested; please indicate if (and how) a different "
-"exchange rate is used."
-msgstr "إجمالي المبلغ بالدولار الأمريكي: ينبغي الإبلاغ عن المبالغ بالدولار الأمريكي؛ وإذا قرر البلد المبلِّغ خلاف ذلك، ينبغي شرح النهج بوضوح في المنهجية. وهذا يعني ضمناً تطبيق سعر صرف على العملات المحلية المختلفة. يقترح البنك الدولي متوسط سعر الصرف السنوي؛ يُرجى بيان ما إذا كان (وكيف) يُستخدَم سعر صرف مختلف."
+msgid "Total amount in USD: The amounts should be reported in USD; if the reporting country decides otherwise, the approach should be explained clearly in the methodology. This implies the application of an exchange rate to the different domestic currencies. The World Bank annual average exchange rate is suggested; please indicate if (and how) a different exchange rate is used."
+msgstr ""
 
 #: ../../SO5.md:564
-msgid ""
-"Financial instrument: Please indicate the financial instrument "
-"channelling the private resources reported."
-msgstr "الأداة المالية: يُرجى بيان الأداة المالية التي توجِّه الموارد الخاصة المُبلَّغ عنها."
+msgid "Financial instrument: Please indicate the financial instrument channelling the private resources reported."
+msgstr ""
 
 #: ../../SO5.md:566
-msgid ""
-"Type of institution:  Indicate which private entity is extending the "
-"resources relevant to DLDD."
-msgstr "نوع المؤسسة: يُرجى بيان الكيان الخاص الذي يوفر الموارد ذات الصلة بالتصحر وتدهور الأراضي والجفاف."
+msgid "Type of institution:  Indicate which private entity is extending the resources relevant to DLDD."
+msgstr ""
 
 #: ../../SO5.md:568
-msgid ""
-"Recipient/domestic: Indicate the recipient’s name if the reporting "
-"country’s private sector contribution is addressed to a recipient third "
-"country; indicate ‘domestic’ if the private sector of the reporting "
-"country provides contributions to activities in the reporting country "
-"itself."
-msgstr "المتلقي/المحلي: يُرجى بيان اسم المتلقي إذا كانت مساهمة القطاع الخاص في البلد المبلِّغ موجَّهة إلى بلد ثالث متلقٍ؛ ويُشار إلى \"المحلي\" إذا قدّم القطاع الخاص في البلد المبلِّغ مساهمات في الأنشطة في البلد المبلِّغ نفسه."
+msgid "Recipient/domestic: Indicate the recipient’s name if the reporting country’s private sector contribution is addressed to a recipient third country; indicate ‘domestic’ if the private sector of the reporting country provides contributions to activities in the reporting country itself."
+msgstr ""
 
 #: ../../SO5.md:570
-msgid ""
-"Additional information: Please include any other activity-level "
-"information that you deem relevant, including the name of the private "
-"sector entity, details on the recipient and the description of the "
-"activity."
-msgstr "معلومات إضافية: يُرجى إدراج أي معلومات أخرى على مستوى الأنشطة التي ترونها ذات صلة، بما في ذلك اسم كيان القطاع الخاص، وتفاصيل عن المتلقي ووصف النشاط."
+msgid "Additional information: Please include any other activity-level information that you deem relevant, including the name of the private sector entity, details on the recipient and the description of the activity."
+msgstr ""
 
 #: ../../SO5.md:572
-msgid ""
-"Table 24 below is populated with some examples (further rows can be "
-"added):"
-msgstr "الجدول 24 أدناه مُزوَّد ببعض الأمثلة (يمكن إضافة صفوف إضافية):"
+msgid "Table 24 below is populated with some examples (further rows can be added):"
+msgstr ""
 
 #: ../../SO5.md:583
-msgid ""
-"*__Table 24__. Resources provided and received for International and "
-"Domestic private resources*"
-msgstr "*__الجدول 24__. الموارد المقدَّمة والمتلقاة للموارد الخاصة الدولية والمحلية*"
+msgid "*__Table 24__. Resources provided and received for International and Domestic private resources*"
+msgstr ""
 
-#: ../../SO5.md:2
+#: ../../SO5.md:589
 msgid "Title of project, programme, activity or other"
-msgstr "عنوان المشروع أو البرنامج أو النشاط أو غير ذلك"
+msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:590
 msgid "Total amount in USD"
-msgstr "إجمالي المبلغ بالدولار الأمريكي"
+msgstr ""
 
-#: ../../SO5.md:4
+#: ../../SO5.md:591
 msgid "Financial instrument{sup}`1`"
-msgstr "الأداة المالية{sup}`1`"
+msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:592
 msgid "Type of institution{sup}`2`"
-msgstr "نوع المؤسسة{sup}`2`"
+msgstr ""
 
-#: ../../SO5.md:6
+#: ../../SO5.md:593
 msgid "Recipient/ domestic {sup}`3`"
-msgstr "المتلقي/ المحلي {sup}`3`"
+msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:596
 msgid "PPP{sup}`4`"
-msgstr "الشراكة بين القطاعين العام والخاص{sup}`4`"
+msgstr ""
 
-#: ../../SO5.md:10
+#: ../../SO5.md:597
 msgid "2,500,000"
-msgstr "2500000"
+msgstr ""
 
-#: ../../SO5.md:11 ../../SO5.md:25
+#: ../../SO5.md:598
+#: ../../SO5.md:612
 msgid "Commercial loan"
-msgstr "قرض تجاري"
+msgstr ""
 
-#: ../../SO5.md:12 ../../SO5.md:26
+#: ../../SO5.md:599
+#: ../../SO5.md:613
 msgid "Private corporation"
-msgstr "شركة خاصة"
+msgstr ""
 
-#: ../../SO5.md:13 ../../SO5.md:27
+#: ../../SO5.md:600
+#: ../../SO5.md:614
 msgid "Domestic mobilization"
-msgstr "تعبئة محلية"
+msgstr ""
 
-#: ../../SO5.md:14
+#: ../../SO5.md:601
 msgid "Private loan blended with public grant funding"
-msgstr "قرض خاص ممزوج بتمويل المنح العامة"
+msgstr ""
 
-#: ../../SO5.md:15 ../../SO5.md:24
+#: ../../SO5.md:602
+#: ../../SO5.md:782
 msgid "2018–2020"
-msgstr "2018–2020"
+msgstr ""
 
-#: ../../SO5.md:16
+#: ../../SO5.md:603
 msgid "Risk mitigation instrument for land restoration"
-msgstr "أداة تخفيف المخاطر لاستصلاح الأراضي"
+msgstr ""
 
-#: ../../SO5.md:17
+#: ../../SO5.md:604
 msgid "3,000,000"
-msgstr "3000000"
+msgstr ""
 
-#: ../../SO5.md:18
+#: ../../SO5.md:605
 msgid "Private equity"
-msgstr "الأسهم الخاصة"
+msgstr ""
 
-#: ../../SO5.md:19
+#: ../../SO5.md:606
 msgid "Pension fund"
-msgstr "صندوق المعاشات التقاعدية"
+msgstr ""
 
-#: ../../SO5.md:20
+#: ../../SO5.md:607
 msgid "Latin America"
-msgstr "أمريكا اللاتينية"
+msgstr ""
 
-#: ../../SO5.md:21
-msgid ""
-"The Risk Mitigation Instrument for Land Restoration project combines a "
-"grant of USD X million with USD 3 million in private equity to deploy "
-"innovative risk mitigation instruments to restore degraded lands in Latin"
-" America."
-msgstr "تجمع أداة تخفيف المخاطر لمشروع استصلاح الأراضي بين منحة قدرها 10 ملايين دولار أمريكي ومبلغ 3 ملايين دولار أمريكي في الأسهم الخاصة من أجل الاستعانة بأدوات مبتكرة لتخفيف المخاطر بغية استصلاح الأراضي المتدهورة في أمريكا اللاتينية."
+#: ../../SO5.md:608
+msgid "The Risk Mitigation Instrument for Land Restoration project combines a grant of USD X million with USD 3 million in private equity to deploy innovative risk mitigation instruments to restore degraded lands in Latin America."
+msgstr ""
 
-#: ../../SO5.md:23
-msgid ""
-"Desertification and Sandstorm Disaster Prevention and Control Project in "
-"the Western Region"
-msgstr "مشروع الوقاية من كوارث التصحر والعواصف الرملية ومكافحتها في المنطقة الغربية"
+#: ../../SO5.md:610
+msgid "Desertification and Sandstorm Disaster Prevention and Control Project in the Western Region"
+msgstr ""
 
-#: ../../SO5.md:28
+#: ../../SO5.md:615
 msgid "Executing agency: XY Ecology Technology Co. Ltd."
-msgstr "الوكالة المنفِّذة: XY Ecology Technology Co. Ltd."
+msgstr ""
 
-#: ../../SO5.md:29
+#: ../../SO5.md:616
 msgid "__Total international__"
-msgstr "__المجموع الدولي__"
+msgstr ""
 
-#: ../../SO5.md:36
+#: ../../SO5.md:623
 msgid "__Total domestic__"
-msgstr "__المجموع المحلي__"
+msgstr ""
 
-#: ../../SO5.md:43
+#: ../../SO5.md:630
 msgid "__Total per year__"
-msgstr "__المجموع لكل سنة__"
+msgstr ""
 
-#: ../../SO5.md:45
+#: ../../SO5.md:632
 msgid "yyy"
-msgstr "yyy"
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"{sup}`1` Charitable grant, commercial loans, private export credit, "
-"private equities, private insurance, other (specify){{br}} {sup}`2` "
-"Philanthropic foundation, non-profit institution, pension fund, private "
-"corporation, other (specify){{br}} {sup}`3` Recipient country/region "
-"domestic mobilization{{br}} {sup}`4` The public contribution to the PPP "
-"is reported under SO 5-2."
-msgstr "{sup}`1` المنحة الخيرية، والقروض التجارية، وائتمان التصدير الخاص، والأسهم الخاصة، والتأمين الخاص، وغيرها (حدد){{br}} {sup}`2` المؤسسة الخيرية، والمؤسسة غير الربحية، وصندوق المعاش التقاعدي، والشركة الخاصة، وغيرها (حدد){{br}} {sup}`3` التعبئة المحلية للبلد المتلقي/المنطقة المتلقية{{br}} {sup}`4` يُبلَّغ عن المساهمة العامة في الشراكة بين القطاعين العام والخاص في إطار الهدف الاستراتيجي SO 5-2."
+#: ../../SO5.md:640
+msgid "{sup}`1` Charitable grant, commercial loans, private export credit, private equities, private insurance, other (specify){{br}} {sup}`2` Philanthropic foundation, non-profit institution, pension fund, private corporation, other (specify){{br}} {sup}`3` Recipient country/region domestic mobilization{{br}} {sup}`4` The public contribution to the PPP is reported under SO 5-2."
+msgstr ""
 
 #: ../../SO5.md:648
-msgid ""
-"Figures will be aggregated as totals by geography (one figure for "
-"domestic private resources, one figure for international private "
-"resources) and subtotals per year.  Aggregation by financial instrument "
-"could also be meaningful information to gather, considering the wide "
-"range of instruments and their role within the DLDD financing landscape "
-"at domestic and international level."
-msgstr "سيجري تجميع الأرقام كمجاميع بحسب الجغرافيا (رقم واحد للموارد الخاصة المحلية، ورقم واحد للموارد الخاصة الدولية) وكمجاميع فرعية في السنة. ويُمكِن أيضاً أن يكون التجميع حسب الأدوات المالية معلومات مفيدة جديرة بهذا التجميع، بالنظر إلى الطائفة الواسعة من الأدوات ودورها داخل المشهد التمويلي لمكافحة التصحر وتدهور الأراضي والجفاف على الصعيدين المحلي والدولي."
+msgid "Figures will be aggregated as totals by geography (one figure for domestic private resources, one figure for international private resources) and subtotals per year.  Aggregation by financial instrument could also be meaningful information to gather, considering the wide range of instruments and their role within the DLDD financing landscape at domestic and international level."
+msgstr ""
 
-#: ../../SO5.md:652 ../../SO5.md:854
+#: ../../SO5.md:652
+#: ../../SO5.md:854
 msgid "Step 5: Reporting methodological information"
-msgstr "الخطوة 5: الإبلاغ عن المعلومات المنهجية"
+msgstr ""
 
 #: ../../SO5.md:654
-msgid ""
-"Unlike indicators SO 5-1 and SO 5-2 (which include a documentation box), "
-"the SO 5-3 indicator includes a separate question for the methodological "
-"information. This different approach leaves further flexibility for "
-"reporting countries regarding the requisite information and how to "
-"structure and elaborate on it, considering that reporting on domestic and"
-" international private resources may vary significantly from country to "
-"country."
-msgstr "بخلاف المؤشرين SO 5-1 وSO 5-2 (اللذين يتضمنان خانة للوثائق)، يشتمل المؤشر SO 5-3 على سؤال منفصل عن المعلومات المنهجية. ويترك هذا النهج المختلف مزيداً من المرونة للبلدان المبلِّغة في ما يتعلق بالمعلومات المطلوبة وكيفية هيكلتها وتفصيلها، مع الأخذ في الاعتبار أنَّ الإبلاغ عن الموارد الخاصة المحلية والدولية قد يختلف اختلافاً كبيراً من بلد إلى آخر."
+msgid "Unlike indicators SO 5-1 and SO 5-2 (which include a documentation box), the SO 5-3 indicator includes a separate question for the methodological information. This different approach leaves further flexibility for reporting countries regarding the requisite information and how to structure and elaborate on it, considering that reporting on domestic and international private resources may vary significantly from country to country."
+msgstr ""
 
 #: ../../SO5.md:656
 msgid "5.4. SO5-4 – Technology transfer"
-msgstr "5-4 الهدف الاستراتيجي SO5-4 – نقل التكنولوجيا"
+msgstr ""
 
 #: ../../SO5.md:658
 msgid "5.4.1. Introduction"
-msgstr "5-4-1 مقدمة"
+msgstr ""
 
 #: ../../SO5.md:660
-msgid ""
-"The Convention explicitly requires Parties to promote, finance and "
-"facilitate the financing of the transfer, acquisition, adaptation and "
-"development of environmentally sound, economically viable and socially "
-"acceptable technologies relevant to combating desertification and/or "
-"mitigating the effects of drought; and encourages the facilitation of "
-"technology cooperation among affected country Parties through financial "
-"assistance or other appropriate means, and through international "
-"cooperation (Article 20)."
-msgstr "تُلزِم الاتفاقية الأطراف صراحةً بتعزيز وتمويل وتيسير تمويل نقل وحيازة وتكييف ووضع تكنولوجيات سليمة بيئياً وصالحة اقتصادياً ومقبولة اجتماعياً ذات صلة بمكافحة التصحر و/أو التخفيف من آثار الجفاف؛ وتُشجِّع على تيسير التعاون التكنولوجي في ما بين البلدان الأطراف المتضررة من خلال المساعدة المالية أو غيرها من الوسائل المناسبة، ومن خلال التعاون الدولي (المادة 20)."
+msgid "The Convention explicitly requires Parties to promote, finance and facilitate the financing of the transfer, acquisition, adaptation and development of environmentally sound, economically viable and socially acceptable technologies relevant to combating desertification and/or mitigating the effects of drought; and encourages the facilitation of technology cooperation among affected country Parties through financial assistance or other appropriate means, and through international cooperation (Article 20)."
+msgstr ""
 
 #: ../../SO5.md:662
-msgid ""
-"This indicator aims at collecting information from Parties on resources "
-"allocated to the transfer of technologies to implement the Convention, "
-"both provided to and received from other countries. Moreover, it provides"
-" the space to report on technology transfer requirements, both in a "
-"qualitative and quantitative manner."
-msgstr "يهدف هذا المؤشر إلى جمع معلومات من الأطراف عن الموارد المخصصة لنقل التكنولوجيات لتنفيذ الاتفاقية، سواء المقدَّمة إلى البلدان الأخرى أو الواردة منها. علاوة على ذلك، يُتيح المجال للإبلاغ عن متطلبات نقل التكنولوجيا، من الناحيتين النوعية والكمية على حد سواء."
+msgid "This indicator aims at collecting information from Parties on resources allocated to the transfer of technologies to implement the Convention, both provided to and received from other countries. Moreover, it provides the space to report on technology transfer requirements, both in a qualitative and quantitative manner."
+msgstr ""
 
 #: ../../SO5.md:664
 msgid "5.4.2. Prerequisites for reporting"
-msgstr "5-4-2 الشروط المسبقة للإبلاغ"
+msgstr ""
 
 #: ../../SO5.md:666
-msgid ""
-"Access to databases which allow for the identification of DLDD-related "
-"projects or activities that include a technology transfer component."
-msgstr "الوصول إلى قواعد البيانات التي تتيح تحديد المشاريع أو الأنشطة المتصلة بالتصحر وتدهور الأراضي والجفاف التي تشمل عنصراً لنقل التكنولوجيا."
+msgid "Access to databases which allow for the identification of DLDD-related projects or activities that include a technology transfer component."
+msgstr ""
 
 #: ../../SO5.md:668
-msgid ""
-"Capacity to undertake an inventory or a case-by-case approach if "
-"available data do identify technology transfer projects that address "
-"DLDD."
-msgstr "القدرة على إجراء جرد أو اتباع نهج كل حالة على حدة إذا كانت البيانات المتاحة تحدد بالفعل مشاريع نقل التكنولوجيا التي تعالج التصحر وتدهور الأراضي والجفاف."
+msgid "Capacity to undertake an inventory or a case-by-case approach if available data do identify technology transfer projects that address DLDD."
+msgstr ""
 
 #: ../../SO5.md:670
-msgid ""
-"Capacity to select the most significant projects and activities focusing "
-"on technology transfer or including a technology transfer component and "
-"provide information on those selected projects."
-msgstr "القدرة على اختيار أهم المشاريع والأنشطة التي تركز على نقل التكنولوجيا أو تشمل عنصراً لنقل التكنولوجيا وتوفير المعلومات عن تلك المشاريع المُختارة."
+msgid "Capacity to select the most significant projects and activities focusing on technology transfer or including a technology transfer component and provide information on those selected projects."
+msgstr ""
 
 #: ../../SO5.md:672
 msgid "5.4.3. Reporting process and step-by-step procedure"
-msgstr "5-4-3 عملية الإبلاغ والإجراءات التدريجية"
+msgstr ""
 
 #: ../../SO5.md:674
-msgid ""
-"The UNCCD offers the option to report on SO 5-4 both in qualitative and "
-"quantitative terms, subject to data availability. No default data will be"
-" provided against this indicator."
-msgstr "تُتيح اتفاقية الأمم المتحدة لمكافحة التصحر الخيار للإبلاغ عن الهدف الاستراتيجي SO 5-4 من الناحيتين النوعية والكمية على حد سواء، رهناً بتوافر البيانات. لن تُقدم بيانات افتراضية وفقاً لهذا المؤشر."
+msgid "The UNCCD offers the option to report on SO 5-4 both in qualitative and quantitative terms, subject to data availability. No default data will be provided against this indicator."
+msgstr ""
 
 #: ../../SO5.md:678
-msgid ""
-"There is currently no defined methodology for identifying DLDD-relevant "
-"activities that include a technology transfer component or are "
-"specifically aimed at transferring or developing technologies to combat "
-"DLDD; however, the template may accommodate different approaches."
-msgstr "لا توجد حالياً منهجية محددة لتحديد الأنشطة ذات الصلة بالتصحر وتدهور الأراضي والجفاف التي تشمل عنصراً لنقل التكنولوجيا أو تهدف تحديداً إلى نقل أو تطوير تكنولوجيات لمكافحة التصحر وتدهور الأراضي والجفاف؛ غير أن النموذج قد يستوعب نُهُجاً مختلفة."
+msgid "There is currently no defined methodology for identifying DLDD-relevant activities that include a technology transfer component or are specifically aimed at transferring or developing technologies to combat DLDD; however, the template may accommodate different approaches."
+msgstr ""
 
 #: ../../SO5.md:680
-msgid ""
-"The suggested approach is to draw upon the OECD DAC CRS database for ODA "
-"flows, OOF, and Private development finance and the Rio Marker for "
-"desertification, and select projects specifically aimed at transferring "
-"or developing technologies to combat DLDD or with a relevant component. "
-"It is possible to consider resources extended to teaching institutions, "
-"research institutes and similar agencies. There are potential "
-"interlinkages with projects dealing with technologies for climate "
-"adaptation, for which taxonomies and classifications are available[^6],  "
-"which could serve as a reference for the identification of relevant "
-"technologies."
-msgstr "يتمثل النهج المقترح في الاستفادة من قاعدة بيانات لجنة المساعدة الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي الخاصة بتدفقات المساعدات الإنمائية الرسمية، ومنظمة التعاون والتنمية في الميدان الاقتصادي، والتمويل الإنمائي الخاص، ومعالم ريو للتصحر، واختيار مشاريع تهدف تحديداً إلى نقل أو تطوير تكنولوجيات لمكافحة التصحر وتدهور الأراضي والجفاف أو من خلال عنصر ذي صلة. ويُمكِن النظر في الموارد المقدَّمة إلى المؤسسات التعليمية ومعاهد البحوث والوكالات المماثلة. وهناك أوجه ترابط محتملة مع المشاريع التي تتناول تكنولوجيات التكيف مع المناخ، التي تتوفَّر بشأنها تقسيمات وتصنيفات[^6]، يمكن استخدامها كمرجع لتحديد التكنولوجيات ذات الصلة."
+msgid "The suggested approach is to draw upon the OECD DAC CRS database for ODA flows, OOF, and Private development finance and the Rio Marker for desertification, and select projects specifically aimed at transferring or developing technologies to combat DLDD or with a relevant component. It is possible to consider resources extended to teaching institutions, research institutes and similar agencies. There are potential interlinkages with projects dealing with technologies for climate adaptation, for which taxonomies and classifications are available[^6],  which could serve as a reference for the identification of relevant technologies."
+msgstr ""
 
 #: ../../SO5.md:684
-msgid ""
-"Step 2: Estimate trends in technology transfer resources provided and "
-"received"
-msgstr "الخطوة 2: تقدير الاتجاهات في موارد نقل التكنولوجيا المقدَّمة والمتلقاة"
+msgid "Step 2: Estimate trends in technology transfer resources provided and received"
+msgstr ""
 
 #: ../../SO5.md:686
-msgid ""
-"Choose the option representing the trend in the international resources "
-"provided and received for technology transfer activities for the "
-"implementation of the Convention in the relevant table for the four-year "
-"period. Indicate the general trend within this period, for both tables if"
-" your country is both a provider and a recipient. Otherwise, indicate the"
-" trend for either one. Select only one option for each table."
-msgstr "يُحدَّد الخيار الذي يُمثل الاتجاه في الموارد الدولية المقدَّمة والمتلقاة لأنشطة نقل التكنولوجيا بغية تنفيذ الاتفاقية في الجدول ذي الصلة لفترة السنوات الأربع. ويُبيَّن الاتجاه العام في خلال هذه الفترة، لكلا الجدولين إذا كان بلدكم مقدِّماً ومتلقياً في نفس الوقت. وبخلاف ذلك، يُبيَّن الاتجاه بالنسبة إلى أي منهما. ويُحدَّد خيارٌ واحد فقط لكل جدول."
+msgid "Choose the option representing the trend in the international resources provided and received for technology transfer activities for the implementation of the Convention in the relevant table for the four-year period. Indicate the general trend within this period, for both tables if your country is both a provider and a recipient. Otherwise, indicate the trend for either one. Select only one option for each table."
+msgstr ""
 
 #: ../../SO5.md:690
-msgid ""
-"The aim of this section is to provide Parties the space to report "
-"information on context and complement the reporting against Tier 1 "
-"(trends) or Tier 2 (table)."
-msgstr "يتمثل الهدف من هذا القسم في إتاحة المجال للأطراف للإبلاغ بالمعلومات المتعلقة بالسياق واستكمال الإبلاغ في ضوء المستوى 1 (الاتجاهات) أو المستوى 2 (الجدول)."
+msgid "The aim of this section is to provide Parties the space to report information on context and complement the reporting against Tier 1 (trends) or Tier 2 (table)."
+msgstr ""
 
 #: ../../SO5.md:692
 msgid "The description may include:"
-msgstr "قد يشمل الوصف ما يلي:"
+msgstr ""
 
 #: ../../SO5.md:694
-msgid ""
-"Strategies employed to support technology development and transfer, "
-"including case studies."
-msgstr "الاستراتيجيات المُستخدَمة لدعم تطوير التكنولوجيا ونقلها، بما في ذلك دراسات الحالة."
+msgid "Strategies employed to support technology development and transfer, including case studies."
+msgstr ""
 
 #: ../../SO5.md:696
-msgid ""
-"Support for the development and enhancement of in-country capacities and "
-"technologies."
-msgstr "دعم تطوير وتعزيز القدرات والتكنولوجيات القُطرية."
+msgid "Support for the development and enhancement of in-country capacities and technologies."
+msgstr ""
 
 #: ../../SO5.md:698
-msgid ""
-"Resources provided, received, and required for the use and dissemination "
-"of modern technology for the collection, transmission, and assessment of "
-"data on land degradation."
-msgstr "الموارد المقدَّمة والمستلَمة والمطلوبة لاستخدام ونشر التكنولوجيا الحديثة لجمع البيانات المتعلقة بتدهور الأراضي ونقلها وتقييمها."
+msgid "Resources provided, received, and required for the use and dissemination of modern technology for the collection, transmission, and assessment of data on land degradation."
+msgstr ""
 
 #: ../../SO5.md:700
-msgid ""
-"Measures to facilitate the adaptation of technology, knowledge, know-how "
-"and practices to wide use and integration with modern technology."
-msgstr "التدابير الرامية إلى تيسير تكييف التكنولوجيا والمعارف والدراية والممارسات المتَّبعة في استخدام التكنولوجيا الحديثة وتكاملها على نطاق واسع."
+msgid "Measures to facilitate the adaptation of technology, knowledge, know-how and practices to wide use and integration with modern technology."
+msgstr ""
 
 #: ../../SO5.md:702
-msgid ""
-"How Parties cooperate internationally in the fields of technology "
-"transfer as well as scientific research and development."
-msgstr "كيفية تعاون الأطراف على الصعيد الدولي في مجالات نقل التكنولوجيا فضلاً عن البحث والتطوير العلميَّين."
+msgid "How Parties cooperate internationally in the fields of technology transfer as well as scientific research and development."
+msgstr ""
 
 #: ../../SO5.md:704
-msgid ""
-"Efforts to encourage private sector activities related to technology "
-"development and transfer and how such efforts support developing country "
-"Parties."
-msgstr "الجهود الرامية إلى تشجيع أنشطة القطاع الخاص المتصلة بتطوير التكنولوجيا ونقلها وكيفية دعم هذه الجهود للبلدان النامية الأطراف."
+msgid "Efforts to encourage private sector activities related to technology development and transfer and how such efforts support developing country Parties."
+msgstr ""
 
 #: ../../SO5.md:708
-msgid ""
-"Under Tier 2, country Parties are encouraged to report by recording data "
-"about individual projects aimed at transferring technologies to combat "
-"DLDD. The table is to be compiled either seeking to provide a complete "
-"picture on technology transfer activities; or with selected projects and "
-"measures for which more detailed information is available. In fact, it is"
-" possible to use the SO 5-1 technology transfer parameter to aggregate "
-"total amounts related to technology transfer. Reporting countries should "
-"clearly explain the approach to the compilation of the table, and with "
-"respect to the use of the SO 5-1 parameter."
-msgstr "تُشجَّع البلدان الأطراف، في إطار المستوى 2، على الإبلاغ بتسجيل بيانات عن المشاريع الفردية الرامية إلى نقل التكنولوجيات لمكافحة التصحر وتدهور الأراضي والجفاف. ومن المقرر تجميع الجدول إما سعياً إلى تقديم صورة كاملة عن أنشطة نقل التكنولوجيا؛ أو تقديم مشاريع وتدابير مختارة تتوفر بشأنها معلومات أكثر تفصيلاً. والواقع أنَّه من الممكن استخدام بارامتر نقل التكنولوجيا في إطار الهدف الاستراتيجي SO 5-1 لتجميع مجموع الكميات المتصلة بنقل التكنولوجيا. وينبغي للبلدان المبلِّغة أن تشرح بوضوح النهج المُتّبع في تجميع الجدول، وبما يتعلق باستخدام بارامتر الهدف الاستراتيجي SO 5-1."
+msgid "Under Tier 2, country Parties are encouraged to report by recording data about individual projects aimed at transferring technologies to combat DLDD. The table is to be compiled either seeking to provide a complete picture on technology transfer activities; or with selected projects and measures for which more detailed information is available. In fact, it is possible to use the SO 5-1 technology transfer parameter to aggregate total amounts related to technology transfer. Reporting countries should clearly explain the approach to the compilation of the table, and with respect to the use of the SO 5-1 parameter."
+msgstr ""
 
 #: ../../SO5.md:712
-msgid ""
-"The reporting Party can choose the methodology to accommodate definitions"
-" is use, but the reporting manual suggests some approaches for each "
-"parameter included in the table."
-msgstr "يُمكن للطرف المُبلِّغ اختيار المنهجية التي تستوعب التعريفات قيد الاستخدام، لكن دليل الإبلاغ يقترح بعض النُهُج والتعريفات لكل بارامتر مدرَج في الجدول."
+msgid "The reporting Party can choose the methodology to accommodate definitions is use, but the reporting manual suggests some approaches for each parameter included in the table."
+msgstr ""
 
 #: ../../SO5.md:714
-msgid ""
-"Provided/received/required: Indicate ‘provided’ if for the reported "
-"activity the reporting country is the provider of the technology "
-"transferred; indicate ‘received’ if the reporting country is the "
-"recipient of the technology transferred; indicate ‘required’ if the "
-"reported activity is the technology transferred required by the reporting"
-" country."
-msgstr "المُقدَّم/المتلقى/المطلوب: يُبيَّن \"المُقدَّم\" إذا كان البلد المبلِّغ هو مقدم التكنولوجيا المنقولة في ما يتعلق بالنشاط المبلَّغ عنه؛ ويُشَار إلى \"المتلقى\" إذا كان البلد المبلِّغ هو المتلقي للتكنولوجيا المنقولة؛ ويُشَار إلى \"المطلوب\" إذا كان النشاط المبلَّغ عنه هو التكنولوجيا التي ينقلها البلد المبلِّغ."
+msgid "Provided/received/required: Indicate ‘provided’ if for the reported activity the reporting country is the provider of the technology transferred; indicate ‘received’ if the reporting country is the recipient of the technology transferred; indicate ‘required’ if the reported activity is the technology transferred required by the reporting country."
+msgstr ""
 
 #: ../../SO5.md:716
-msgid ""
-"Year: Indicate the year relevant to the reported activity. Explain "
-"whether fiscal or calendar year is used. It is possible to indicate a "
-"timeframe rather than a specific year if it falls within the reporting "
-"period."
-msgstr "السنة: يُشار إلى السنة ذات الصلة بالنشاط المبلَّغ عنه. ويُشرَح ما إذا كانت السنة المالية أو التقويمية قد استُخدِمت. ومن الممكن تحديد الإطار الزمني وليس سنة محددة، إذا كان ذلك ضمن فترة الإبلاغ."
+msgid "Year: Indicate the year relevant to the reported activity. Explain whether fiscal or calendar year is used. It is possible to indicate a timeframe rather than a specific year if it falls within the reporting period."
+msgstr ""
 
 #: ../../SO5.md:718
 msgid "Title of project, programme, activity or other."
-msgstr "عنوان المشروع أو البرنامج أو النشاط أو غير ذلك."
+msgstr ""
 
 #: ../../SO5.md:720
-msgid ""
-"Total amount in USD: The amounts should be reported in USD. If the "
-"reporting country decides otherwise, the approach should be explained "
-"clearly in the methodology. This implies the application of an exchange "
-"rate to the different domestic currencies. The World Bank annual average "
-"exchange rate is suggested; please indicate if (and how) a different "
-"exchange rate is used. It is possible to report on either amount "
-"committed or disbursed; the approach used should be explained and double "
-"counting should be avoided."
-msgstr "إجمالي المبلغ بالدولار الأمريكي: ينبغي الإبلاغ عن المبالغ بالدولار الأمريكي. وإذا قرر البلد المبلِّغ خلاف ذلك، ينبغي شرح النهج بوضوح في المنهجية. وهذا يعني ضمناً تطبيق سعر صرف على العملات المحلية المختلفة. ومن المعلوم أنَّه جرى اقتراح متوسط سعر الصرف السنوي من البنك الدولي؛ لذا يُرجى بيان ما إذا كان (وكيف) يُستخدَم سعر صرف مختلف. ومن الممكن الإبلاغ عن أي من المبالغ الملتزَم بها أو المصروفة؛ وينبغي شرح النهج المتَّبع وتجنب الحساب المزدوج."
+msgid "Total amount in USD: The amounts should be reported in USD. If the reporting country decides otherwise, the approach should be explained clearly in the methodology. This implies the application of an exchange rate to the different domestic currencies. The World Bank annual average exchange rate is suggested; please indicate if (and how) a different exchange rate is used. It is possible to report on either amount committed or disbursed; the approach used should be explained and double counting should be avoided."
+msgstr ""
 
 #: ../../SO5.md:722
-msgid ""
-"Recipient/provider: Indicate the name of the recipient if your country is"
-" the provider of resources; indicate the name of provider if your country"
-" is the recipient of resources. It could include the name of the "
-"country/region or be listed as ‘global’ (bilateral flows); or include the"
-" name of the institution and/or entity (multi-bilateral flows). If "
-"information on domestic transfer of technologies is included, indicate "
-"‘domestic’ and provide further information on the providers and "
-"recipients of resources in the initiative."
-msgstr "المتلقي/المٌقدِّم: يُرجى بيان اسم \"المتلقي\" إذا كان بلدكم هو مُقدِّم الموارد؛ وبيان اسم \"المٌقدِّم\" إذا كان بلدكم هو المتلقي لها. وقد يشمل اسم البلد/المنطقة؛ أو البلدان المدرجة في قائمة \"العالمية\" (التدفقات الثنائية) أو يشمل اسم المؤسسة و/أو الكيان (التدفقات المتعددة الأطراف). وفي حالة إدراج معلومات عن النقل المحلي للتكنولوجيات، يُرجى الإشارة إلى \"المحلي\" وتقديم معلومات إضافية عن مقدِّمي الموارد ومتلقيها في المبادرة."
+msgid "Recipient/provider: Indicate the name of the recipient if your country is the provider of resources; indicate the name of provider if your country is the recipient of resources. It could include the name of the country/region or be listed as ‘global’ (bilateral flows); or include the name of the institution and/or entity (multi-bilateral flows). If information on domestic transfer of technologies is included, indicate ‘domestic’ and provide further information on the providers and recipients of resources in the initiative."
+msgstr ""
 
 #: ../../SO5.md:724
-msgid ""
-"Description and objectives: Include information on the objective of the "
-"technology transferred in the new context."
-msgstr "الوصف والأهداف: تُدرَج معلومات عن هدف التكنولوجيا المنقولة في السياق الجديد."
+msgid "Description and objectives: Include information on the objective of the technology transferred in the new context."
+msgstr ""
 
 #: ../../SO5.md:726
-msgid ""
-"Sector: Indicate the sector according to the classification system used "
-"in other indicators."
-msgstr "القطاع: يُشار إلى القطاع وفقاً لنظام التصنيف المُستخدَم في مؤشرات أخرى."
+msgid "Sector: Indicate the sector according to the classification system used in other indicators."
+msgstr ""
 
 #: ../../SO5.md:728
-msgid ""
-"Type of technology: Indicate the technology/ies being transferred. "
-"Explain the definition and categorization used for DLDD-relevant "
-"technologies in the methodological information."
-msgstr "نوع التكنولوجيا: يُشار إلى التكنولوجيا/التكنولوجيات الجاري نقلها. ويتعين شرح التعريف والتصنيف المستعان بهما في التكنولوجيات ذات الصلة بالتصحر وتدهور الأراضي والجفاف في المعلومات المنهجية."
+msgid "Type of technology: Indicate the technology/ies being transferred. Explain the definition and categorization used for DLDD-relevant technologies in the methodological information."
+msgstr ""
 
 #: ../../SO5.md:730
 msgid "Activities undertaken by the private sector, public sector of both."
-msgstr "الأنشطة التي يضطلع بها القطاع الخاص والقطاع العام على حد سواء."
+msgstr ""
 
 #: ../../SO5.md:732
-msgid ""
-"Status of measure of activity: Indicate whether the activity is planned, "
-"ongoing or completed at the time of the last reporting year."
-msgstr "حالة مقياس النشاط: يتعين الإشارة إلى ما إذا كان النشاط مخططاً له أو جارياً أو مستكملاً وقت سنة الإبلاغ الأخيرة."
+msgid "Status of measure of activity: Indicate whether the activity is planned, ongoing or completed at the time of the last reporting year."
+msgstr ""
 
 #: ../../SO5.md:734
-msgid ""
-"Timeframe of measure or activity: It is possible to indicate the "
-"timeframe covered by the implementation of the project, or the year of "
-"commitment or disbursement of amounts."
-msgstr "الإطار الزمني للتدابير أو الأنشطة: يمكن بيان الإطار الزمني الذي يغطيه تنفيذ المشروع، أو سنة الالتزام أو صرف المبالغ."
+msgid "Timeframe of measure or activity: It is possible to indicate the timeframe covered by the implementation of the project, or the year of commitment or disbursement of amounts."
+msgstr ""
 
 #: ../../SO5.md:736
-msgid ""
-"Use, impact and (estimated) results: include additional project-level "
-"information about the use of resources, the impact with respect to the "
-"objectives of the Convention, and results (estimated if the project did "
-"not conclude before the end of the reporting period)."
-msgstr "الاستخدام والتأثير والنتائج (المقدَّرة): تُدرَج معلومات إضافية على مستوى المشروع بشأن استخدام الموارد، والتأثير في ما يتصل بأهداف الاتفاقية، والنتائج (المقدَّرة إذا لم ينتهِ المشروع قبل نهاية فترة الإبلاغ)."
+msgid "Use, impact and (estimated) results: include additional project-level information about the use of resources, the impact with respect to the objectives of the Convention, and results (estimated if the project did not conclude before the end of the reporting period)."
+msgstr ""
 
 #: ../../SO5.md:738
-msgid ""
-"Additional information: Please include any other activity-level "
-"information that you deem relevant, including, for example, information "
-"on co-financing arrangements and the respective role of the public and/or"
-" private sector."
-msgstr "معلومات إضافية: يُرجى إدراج أي معلومات أخرى على مستوى الأنشطة ترونها ذات صلة، بما في ذلك، على سبيل المثال، المعلومات المتعلقة بترتيبات التمويل المشترك والدور ذي الصلة لكل من القطاع العام و/أو الخاص."
+msgid "Additional information: Please include any other activity-level information that you deem relevant, including, for example, information on co-financing arrangements and the respective role of the public and/or private sector."
+msgstr ""
 
 #: ../../SO5.md:740
-msgid ""
-"Table 25 below is populated with some examples (further rows can be "
-"added):"
-msgstr "الجدول 25 أدناه مُزوَّد ببعض الأمثلة (يمكن إضافة صفوف إضافية):"
+msgid "Table 25 below is populated with some examples (further rows can be added):"
+msgstr ""
 
 #: ../../SO5.md:752
-msgid ""
-"*__Table 25__.   Resources provided, received, and required for "
-"technology transfer measures or activities*"
-msgstr "*__الجدول 25__. الموارد المقدَّمة والمتلقاة المطلوبة لتدابير أو أنشطة نقل التكنولوجيا*"
+msgid "*__Table 25__.   Resources provided, received, and required for technology transfer measures or activities*"
+msgstr ""
 
-#: ../../SO5.md:1
+#: ../../SO5.md:759
 msgid "Provided/ received/ required"
-msgstr "المُقدَّم/المتلقَّى/المطلوب"
+msgstr ""
 
-#: ../../SO5.md:3
+#: ../../SO5.md:761
 msgid "Title{sup}`1`"
-msgstr "العنوان{sup}`1`"
+msgstr ""
 
-#: ../../SO5.md:4
+#: ../../SO5.md:762
 msgid "Amount USD"
-msgstr "المبلغ بالدولار الأمريكي"
+msgstr ""
 
-#: ../../SO5.md:5
+#: ../../SO5.md:763
 msgid "Recipient or provider{sup}`2`"
-msgstr "المتلقي أو المُقدِّم{sup}`2`"
+msgstr ""
 
-#: ../../SO5.md:6
+#: ../../SO5.md:764
 msgid "Description and objectives"
-msgstr "الوصف والأهداف"
+msgstr ""
 
-#: ../../SO5.md:7
+#: ../../SO5.md:765
 msgid "Sector"
-msgstr "القطاع"
+msgstr ""
 
-#: ../../SO5.md:8
+#: ../../SO5.md:766
 msgid "Type of technology"
-msgstr "نوع التكنولوجيا"
+msgstr ""
 
-#: ../../SO5.md:9
+#: ../../SO5.md:767
 msgid "Activities undertaken by{sup}`3`"
-msgstr "الأنشطة التي تضطلع بها{sup}`3`"
+msgstr ""
 
-#: ../../SO5.md:10
+#: ../../SO5.md:768
 msgid "Status of measure or activity{sup}`4`"
-msgstr "حالة التدبير أو النشاط{sup}`4`"
+msgstr ""
 
-#: ../../SO5.md:11
+#: ../../SO5.md:769
 msgid "Timeframe of measure or activity"
-msgstr "الإطار الزمني للتدابير أو الأنشطة"
+msgstr ""
 
-#: ../../SO5.md:12
+#: ../../SO5.md:770
 msgid "Use, impact, and estimated results"
-msgstr "الاستخدام، والتأثير، والنتائج المقدَّرة"
+msgstr ""
 
-#: ../../SO5.md:14
+#: ../../SO5.md:772
 msgid "__Provided__"
-msgstr "__مقدَّمة__"
+msgstr ""
 
-#: ../../SO5.md:16
+#: ../../SO5.md:774
 msgid "Land degradation neutrality"
-msgstr "تحييد أثر تدهور الأراضي"
+msgstr ""
 
-#: ../../SO5.md:17
+#: ../../SO5.md:775
 msgid "45,000"
-msgstr "45000"
+msgstr ""
 
-#: ../../SO5.md:18
+#: ../../SO5.md:776
 msgid "Democratic Republic of the Congo"
-msgstr "جمهورية الكونغو الديمقراطية"
+msgstr ""
 
-#: ../../SO5.md:19 ../../SO5.md:51
+#: ../../SO5.md:777
+#: ../../SO5.md:809
 msgid "…"
-msgstr "…"
+msgstr ""
 
-#: ../../SO5.md:20
+#: ../../SO5.md:778
 msgid "Bioshpere protection"
-msgstr "حماية الغلاف الجوي"
+msgstr ""
 
-#: ../../SO5.md:21
+#: ../../SO5.md:779
 msgid "Geospatial Technologies for Land Degradation Assessment and Management"
-msgstr "تكنولوجيات الجغرافيا المكانية لتقييم وإدارة تدهور الأراضي"
+msgstr ""
 
-#: ../../SO5.md:22
+#: ../../SO5.md:780
 msgid "Public and private sector"
-msgstr "القطاعان العام والخاص"
+msgstr ""
 
-#: ../../SO5.md:23
+#: ../../SO5.md:781
 msgid "Ongoing"
-msgstr "مستمر"
+msgstr ""
 
-#: ../../SO5.md:27
+#: ../../SO5.md:785
 msgid "__Received__"
-msgstr "__متلقاة__"
+msgstr ""
 
-#: ../../SO5.md:29
+#: ../../SO5.md:787
 msgid "Soil management"
-msgstr "إدارة التربة"
+msgstr ""
 
-#: ../../SO5.md:31
+#: ../../SO5.md:789
 msgid "China"
-msgstr "الصين"
+msgstr ""
 
-#: ../../SO5.md:33
+#: ../../SO5.md:791
 msgid "Environmental protection"
-msgstr "حماية البيئة"
+msgstr ""
 
-#: ../../SO5.md:34
+#: ../../SO5.md:792
 msgid "Technologies of sandy desertification control"
-msgstr "تكنولوجيات مكافحة التصحر الرملي"
+msgstr ""
 
-#: ../../SO5.md:35
+#: ../../SO5.md:793
 msgid "Private"
-msgstr "خاص"
+msgstr ""
 
-#: ../../SO5.md:36
+#: ../../SO5.md:794
 msgid "Completed"
-msgstr "مكتمل"
+msgstr ""
 
-#: ../../SO5.md:40
+#: ../../SO5.md:798
 msgid "__Required__"
-msgstr "__مطلوب__"
+msgstr ""
 
-#: ../../SO5.md:42
+#: ../../SO5.md:800
 msgid "Regenerative agriculture"
-msgstr "الزراعة المتجددة"
+msgstr ""
 
-#: ../../SO5.md:43
+#: ../../SO5.md:801
 msgid "60,000"
-msgstr "60000"
+msgstr ""
 
-#: ../../SO5.md:44
+#: ../../SO5.md:802
 msgid "Domestic"
-msgstr "محلي"
+msgstr ""
 
-#: ../../SO5.md:46
+#: ../../SO5.md:804
 msgid "Agriculture"
-msgstr "الزراعة"
+msgstr ""
 
-#: ../../SO5.md:47
+#: ../../SO5.md:805
 msgid "Planting local flora to stabilize the soil"
-msgstr "زراعة النباتات المحلية من أجل استقرار التربة"
+msgstr ""
 
-#: ../../SO5.md:48
+#: ../../SO5.md:806
 msgid "Public"
-msgstr "عام"
+msgstr ""
 
-#: ../../SO5.md:49
+#: ../../SO5.md:807
 msgid "Planned"
-msgstr "مخطط"
+msgstr ""
 
-#: ../../SO5.md:50
+#: ../../SO5.md:808
 msgid "2021-2023"
-msgstr "2021 - 2023"
+msgstr ""
 
-#: ../../SO5.md:53
+#: ../../SO5.md:811
 msgid "__Totals__"
-msgstr "__الإجماليات__"
+msgstr ""
 
-#: ../../SO5.md:66
+#: ../../SO5.md:824
 msgid "__Totals per year__"
-msgstr "__الإجماليات لكل سنة__"
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"{sup}`1` Title of project, programme, activity or other{{br}} {sup}`2` "
-"Recipient entity, country, region, global{{br}} {sup}`3` Public sector, "
-"public and/or private sector; private sector{{br}} {sup}`4` "
-"Planned/ongoing/completed {{br}}"
-msgstr "{sup}`1` عنوان المشروع أو البرنامج أو النشاط أو أخرى{{br}} {sup}`2` الكيان المتلقي على الأصعدة القُطرية والإقليمية والعالمية{{br}} {sup}`3` القطاع العام، والقطاع العام و/أو الخاص؛ والقطاع الخاص{{br}} {sup}`4` مخطَط/جارٍ/مستكمل {{br}}"
+#: ../../SO5.md:844
+msgid "{sup}`1` Title of project, programme, activity or other{{br}} {sup}`2` Recipient entity, country, region, global{{br}} {sup}`3` Public sector, public and/or private sector; private sector{{br}} {sup}`4` Planned/ongoing/completed {{br}}"
+msgstr ""
 
 #: ../../SO5.md:856
-msgid ""
-"The SO 5-4 indicator includes a separate question for the methodological "
-"information, providing the space to report any relevant approaches and "
-"definition used in the reporting."
-msgstr "يتضمن المؤشر SO 5-4 سؤالاً منفصلاً عن المعلومات المنهجية، مما يُتيح المجال للإبلاغ عن أي نُهُج أو تعريف ذي صلة يُستخدَم في الإبلاغ."
+msgid "The SO 5-4 indicator includes a separate question for the methodological information, providing the space to report any relevant approaches and definition used in the reporting."
+msgstr ""
 
 #: ../../SO5.md:858
-msgid ""
-"5.5. SO5-5 – Future support for activities related to the implementation "
-"of the Convention"
-msgstr "5-5 الهدف الاستراتيجي SO5-5 - دعم الأنشطة المتصلة بتنفيذ الاتفاقية في المستقبل"
+msgid "5.5. SO5-5 – Future support for activities related to the implementation of the Convention"
+msgstr ""
 
 #: ../../SO5.md:860
 msgid "5.5.1. Introduction"
-msgstr "5-5-1 مقدمة"
+msgstr ""
 
 #: ../../SO5.md:862
-msgid ""
-"SO5-5 is a qualitative indicator with three questions that encourage "
-"country Parties to reflect on future resources to be targeted at "
-"implementing the Convention."
-msgstr "الهدف الاستراتيجي SO5-5 هو مؤشر نوعي يتضمن ثلاثة أسئلة تُشجِّع البلدان الأطراف على التفكير في الموارد المقبلة التي ستُوجَّه نحو تنفيذ الاتفاقية."
+msgid "SO5-5 is a qualitative indicator with three questions that encourage country Parties to reflect on future resources to be targeted at implementing the Convention."
+msgstr ""
 
 #: ../../SO5.md:864
-msgid ""
-"In particular, the indicator allows country Parties to provide "
-"descriptive information on planned domestic resources, both public and "
-"private. It also provides a space to report on the planned provision and "
-"mobilization of international public and private resources. The third "
-"question aims to facilitate sharing of information on resources needed by"
-" Parties for the implementation of the Convention."
-msgstr "على وجه الخصوص، يسمح المؤشر للبلدان الأطراف بتقديم معلومات وصفية عن الموارد المحلية المخططة، العامة والخاصة. كما يُقدِّم حيّزاً للإبلاغ عن التوفير والتعبئة المخططين للموارد الدولية العامة والخاصة. أما السؤال الثالث فيهدف إلى تيسير تبادل المعلومات بشأن الموارد التي تحتاج إليها الأطراف لتنفيذ الاتفاقية."
+msgid "In particular, the indicator allows country Parties to provide descriptive information on planned domestic resources, both public and private. It also provides a space to report on the planned provision and mobilization of international public and private resources. The third question aims to facilitate sharing of information on resources needed by Parties for the implementation of the Convention."
+msgstr ""
 
 #: ../../SO5.md:866
 msgid "5.5.2. Prerequisites for reporting"
-msgstr "5-5-2 الشروط المسبقة للإبلاغ"
+msgstr ""
 
 #: ../../SO5.md:868
-msgid ""
-"Access to provisional budgets of central administrations for both "
-"domestic and international resource allocation, and the capacity to "
-"distinguish DLDD-related funds."
-msgstr "الوصول إلى الميزانيات المؤقتة للإدارات المركزية لتخصيص الموارد المحلية والدولية، والقدرة على التمييز بين الصناديق المتعلقة بالتصحر وتدهور الأراضي والجفاف."
+msgid "Access to provisional budgets of central administrations for both domestic and international resource allocation, and the capacity to distinguish DLDD-related funds."
+msgstr ""
 
 #: ../../SO5.md:870
-msgid ""
-"Adoption of a consistent and clear methodology to estimate the "
-"quantitative amounts of resources needed to implement the Convention."
-msgstr "اعتماد منهجية متسقة وواضحة لتقدير المبالغ الكمية من الموارد اللازمة لتنفيذ الاتفاقية."
+msgid "Adoption of a consistent and clear methodology to estimate the quantitative amounts of resources needed to implement the Convention."
+msgstr ""
 
 #: ../../SO5.md:872
 msgid "5.5.3. Reporting process and step-by-step procedure"
-msgstr "5-5-3 عملية الإبلاغ والإجراءات التدريجية"
+msgstr ""
 
 #: ../../SO5.md:874
-msgid ""
-"The indicator offers the option to report on three different aspects of "
-"future support through SO 5-5 in qualitative terms. No default data will "
-"be provided against this indicator."
-msgstr "يُتيح المؤشر خيار الإبلاغ عن ثلاثة جوانب مختلفة للدعم في المستقبل من خلال الهدف الاستراتيجي SO 5-5 من الناحية النوعية. ولن تُقدَّم بيانات افتراضية وفقاً لهذا المؤشر."
+msgid "The indicator offers the option to report on three different aspects of future support through SO 5-5 in qualitative terms. No default data will be provided against this indicator."
+msgstr ""
 
 #: ../../SO5.md:876
-msgid ""
-"At national level, information can be found in the relevant sections of "
-"public provisional budgets, as well as in environment-related financial "
-"pledges and planned policies and measures related to DLDD. It is possible"
-" to use a case-by-case approach for the domestic private sector, as well "
-"as available data from research, case studies and dedicated datasets."
-msgstr "على الصعيد الوطني، يُمكِن الاطلاع على المعلومات في الأقسام ذات الصلة من الميزانيات العامة المؤقتة، وكذلك في التعهدات المالية المتصلة بالبيئة والسياسات والتدابير المخططة المتصلة بالتصحر وتدهور الأراضي والجفاف. ويمكن استخدام نهج التعامل مع كل حالة على حدة في القطاع الخاص المحلي، فضلاً عن البيانات المتاحة من البحوث ودراسات الحالات الإفرادية ومجموعات البيانات المخصصة."
+msgid "At national level, information can be found in the relevant sections of public provisional budgets, as well as in environment-related financial pledges and planned policies and measures related to DLDD. It is possible to use a case-by-case approach for the domestic private sector, as well as available data from research, case studies and dedicated datasets."
+msgstr ""
 
 #: ../../SO5.md:878
-msgid ""
-"SO5-5.1: Planned provision and mobilization of domestic public and "
-"private resources"
-msgstr "الهدف الاستراتيجي SO5-5-1 توفير الموارد المحلية العامة والخاصة وتعبئتها على نحو مخطَّط له"
+msgid "SO5-5.1: Planned provision and mobilization of domestic public and private resources"
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"“The reporting country will continue to provide public support to address"
-" land degradation and drought to developing countries and affected "
-"country Parties through bilateral and multilateral channels for "
-"rehabilitation and soil improvement, combating soil erosion and "
-"desertification, and sustainable agriculture.”"
-msgstr "\"سيواصل البلد المبلِّغ تقديم الدعم العام للبلدان النامية والبلدان الأطراف المتأثرة لمعالجة تدهور الأراضي والجفاف من خلال قنوات ثنائية ومتعددة الأطراف لإعادة التأهيل وتحسين التربة، ومكافحة تآكل التربة والتصحر، والزراعة المستدامة.\""
+#: ../../SO5.md:884
+msgid "“The reporting country will continue to provide public support to address land degradation and drought to developing countries and affected country Parties through bilateral and multilateral channels for rehabilitation and soil improvement, combating soil erosion and desertification, and sustainable agriculture.”"
+msgstr ""
 
-#: ../../SO5.md:3
-msgid ""
-"“The national system allows for the tracking of future resources aimed at"
-" pursuing Sustainable Development Goal (SDG) 15, thanks to the recently "
-"established strategic committee on SDG implementation in partner "
-"countries, managed by the Ministry of Foreign Affairs. Thus, the "
-"estimated amounts reported will be dedicated to the achievement of SDG "
-"15.”"
-msgstr "\"يسمح النظام الوطني بتتبع الموارد المستقبلية الموجَّهة نحو متابعة هدف التنمية المستدامة 15، بفضل اللجنة الاستراتيجية التي أُنشئِت مؤخراً بشأن تنفيذ أهداف التنمية المستدامة في البلدان الشريكة، التي تديرها وزارة الخارجية. وبالتالي، ستُخصَّص المبالغ المقدرة المبلَّغ عنها لتحقيق هدف التنمية المستدامة 15.\""
+#: ../../SO5.md:886
+msgid "“The national system allows for the tracking of future resources aimed at pursuing Sustainable Development Goal (SDG) 15, thanks to the recently established strategic committee on SDG implementation in partner countries, managed by the Ministry of Foreign Affairs. Thus, the estimated amounts reported will be dedicated to the achievement of SDG 15.”"
+msgstr ""
 
 #: ../../SO5.md:889
-msgid ""
-"SO5-5.2: Planned provision and mobilization of international public and "
-"private resources"
-msgstr "الهدف الاستراتيجي SO5-5-2: توفير الموارد العامة والخاصة الدولية وتعبئتها بشكل مخطَط"
+msgid "SO5-5.2: Planned provision and mobilization of international public and private resources"
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"“In the reporting county, a programme on improving food security and "
-"enhancing farmers’ initiatives is being implemented. It is aimed at "
-"sustainably increasing production and fostering jobs for women and youth "
-"by adopting resilient agro-farming practices, restoring degraded lands, "
-"and improving natural resources management. A budget of USD 15 million "
-"(XYZ domestic currency) has been allocated to this measure for the "
-"triennium 2021–2023.”"
-msgstr "\"في البلد المبلِّغ، يجري تنفيذ برنامج حول تحسين الأمن الغذائي وتعزيز مبادرات المزارعين. ويهدف البرنامج إلى زيادة الإنتاج بشكل مُستَدام وتعزيز فرص العمل للنساء والشباب من خلال اعتماد الممارسات الزراعية المرنة، واستصلاح الأراضي المتدهورة، وتحسين إدارة الموارد الطبيعية. وقد خُصِّص لهذا التدبير ميزانية قدرها 15 مليون دولار أمريكي (XYZ بالعملة المحلية) لفترة السنوات الثلاث 2021-2023.\""
+#: ../../SO5.md:895
+msgid "“In the reporting county, a programme on improving food security and enhancing farmers’ initiatives is being implemented. It is aimed at sustainably increasing production and fostering jobs for women and youth by adopting resilient agro-farming practices, restoring degraded lands, and improving natural resources management. A budget of USD 15 million (XYZ domestic currency) has been allocated to this measure for the triennium 2021–2023.”"
+msgstr ""
 
-#: ../../SO5.md:3
-msgid ""
-"“The central government budget line dedicated to sustainable land "
-"management (see SO 5-2) for the years 2022–2024 is endowed with USD 14 "
-"million across the triennium. In accordance with the recently adopted "
-"“Programming document for national land management”, this budget line "
-"will likely be entirely dedicated to activities pursuing the "
-"implementation of strategic objectives included in the aforementioned "
-"programming document"
-msgstr "\"مُنِح بند الميزانية الحكومية المركزية المُخصص للإدارة المستدامة للأراضي (انظر الهدف الاستراتيجي SO 5-2) للسنوات 2022-2024 مبلغ 14 مليون دولار أميركي على امتداد فترة السنوات الثلاث. ووفقاً لـ \"وثيقة البرمجة الوطنية لإدارة الأراضي \" التي اعتُمِدت مؤخراً، يُرجَّح أن يكون هذا البند من الميزانية مخصصاً بالكامل للأنشطة الرامية إلى تنفيذ الأهداف الاستراتيجية الواردة في وثيقة البرمجة المذكورة أعلاه."
+#: ../../SO5.md:897
+msgid "“The central government budget line dedicated to sustainable land management (see SO 5-2) for the years 2022–2024 is endowed with USD 14 million across the triennium. In accordance with the recently adopted “Programming document for national land management”, this budget line will likely be entirely dedicated to activities pursuing the implementation of strategic objectives included in the aforementioned programming document"
+msgstr ""
 
 #: ../../SO5.md:900
 msgid "SO5-5.3: Resources needed"
-msgstr "الهدف الاستراتيجي SO5-5-3: الموارد المطلوبة"
+msgstr ""
 
-#: ../../SO5.md:1
-msgid ""
-"“Based on the results of the assessment conducted in 2019, the reporting "
-"country aims at developing a land degradation neutrality (LDN) targets "
-"implementation plan. The most promising and feasible measures will be "
-"identified, as well as related budget, capacity-building and technology "
-"transfer needs.”"
-msgstr "استناداً إلى نتائج التقييم الذي أُجري في عام 2019، يهدف البلد المبلِّغ إلى وضع خطة لتنفيذ أهداف تحييد أثر تدهور الأراضي. وسيجري تحديد أكثر التدابير الواعدة والممكنة، فضلاً عن احتياجات الميزانية ذات الصلة، وبناء القدرات، ونقل التكنولوجيا\"."
+#: ../../SO5.md:906
+msgid "“Based on the results of the assessment conducted in 2019, the reporting country aims at developing a land degradation neutrality (LDN) targets implementation plan. The most promising and feasible measures will be identified, as well as related budget, capacity-building and technology transfer needs.”"
+msgstr ""
 
-#: ../../SO5.md:3
-msgid ""
-"“Regions in the country most affected by DLDD are …. Those regions need "
-"significant investments to reduce vulnerabilities caused by land "
-"degradation. Following a case study survey among the local population, "
-"projects on the ground need to target local communities and indigenous "
-"peoples in sustainable land use with the aim of creating synergies with "
-"local practices and knowledge.”"
-msgstr "\"المناطق الأكثر تضرراً من التصحر وتدهور الأراضي والجفاف هي.... وتحتاج تلك المناطق إلى استثمارات كبيرة للحد من مَواطن الضعف الناجمة عن تدهور الأراضي. وفي أعقاب دراسة استقصائية عن دراسة حالة السكان المحليين، يلزم أن تستهدف المشاريع على أرض الواقع المجتمعات المحلية والشعوب الأصلية في مجال الاستخدام المُستدام للأراضي بهدف إيجاد أوجه تآزر مع الممارسات والمعارف المحلية.\""
+#: ../../SO5.md:908
+msgid "“Regions in the country most affected by DLDD are …. Those regions need significant investments to reduce vulnerabilities caused by land degradation. Following a case study survey among the local population, projects on the ground need to target local communities and indigenous peoples in sustainable land use with the aim of creating synergies with local practices and knowledge.”"
+msgstr ""
 
-#: ../../SO5.md:5
-msgid ""
-"“The reported estimate of USD 16.96 million is based on a study conducted"
-" on the basis on the Biodiversity Finance Initiative (BIOFIN) "
-"methodology, with further internal developments to adapt it to the "
-"objectives of the national LDN targets."
-msgstr "\"يستند التقدير المبلَّغ عنه والبالغ 16.96 مليون دولار أمريكي إلى دراسة أُجريت على أساس منهجية مبادرة تمويل التنوع البيولوجي، مع مزيد من التطورات الداخلية لتكييفها مع الأهداف الوطنية لتحييد أثر تدهور الأراضي."
+#: ../../SO5.md:910
+msgid "“The reported estimate of USD 16.96 million is based on a study conducted on the basis on the Biodiversity Finance Initiative (BIOFIN) methodology, with further internal developments to adapt it to the objectives of the national LDN targets."
+msgstr ""
 
 #: ../../SO5.md:913
 msgid "**Aggregating the information**"
-msgstr "**تجميع المعلومات**"
+msgstr ""
 
 #: ../../SO5.md:915
-msgid ""
-"Aggregation of figures for this indicator is not envisaged. Aggregated "
-"figures could be included by reporting countries. In this case, reporting"
-" country should clearly explain how information is aggregated within the "
-"three sub-indicators. Figures across the three indicators cannot be "
-"aggregated, as different in nature and domain. Aggregation of figures "
-"must avoid double counting across years."
-msgstr "ليس من المزمع تجميع الأرقام الخاصة بهذا المؤشر. ويمكن للبلدان المبلِّغة إدراج الأرقام الإجمالية. وفي هذه الحالة، ينبغي للبلد المُبلِّغ أن يشرح بوضوح كيفية تجميع المعلومات في إطار المؤشرات الفرعية الثلاثة. ولا يمكن تجميع الأرقام على نطاق المؤشرات الثلاثة، حيث إنها مختلفة في طبيعتها ومجالها. ويجب أن يتجنب تجميع الأرقام العدّ المزدوج عبر السنوات."
+msgid "Aggregation of figures for this indicator is not envisaged. Aggregated figures could be included by reporting countries. In this case, reporting country should clearly explain how information is aggregated within the three sub-indicators. Figures across the three indicators cannot be aggregated, as different in nature and domain. Aggregation of figures must avoid double counting across years."
+msgstr ""
 
 #: ../../SO5.md:31
-#, python-format
-msgid ""
-"For methodological information see [Methodological "
-"Note](https://www.unccd.int/sites/default/files/inline-"
-"files/Methodological_Note_Strategic%20Objective%205_clean%20-%20Final.pdf)."
-msgstr "للاطلاع على المعلومات المنهجية، انظر [المذكرة المنهجية](https://www.unccd.int/sites/default/files/inline-files/Methodological_Note_Strategic⁦%⁩20Objective⁦%⁩205_clean⁦%⁩20-⁦%⁩20Final.pdf)."
+msgid "For methodological information see [Methodological Note](https://www.unccd.int/sites/default/files/inline-files/Methodological_Note_Strategic%20Objective%205_clean%20-%20Final.pdf)."
+msgstr ""
 
 #: ../../SO5.md:108
-msgid ""
-"Default data are included in each provider and recipient country tables. "
-"Reported activities are identified based on the OECD DAC Rio Marker for "
-"desertification. All activities marked with the marker ‘principal’ and "
-"‘significant’ are included in the tables, and respective amounts are "
-"reported at 100 %."
-msgstr "ترد البيانات الافتراضية في كل جدول من جداول البلدان المُقدِّمة والمتلقية. وتُحدَّد الأنشطة المبلَّغ عنها استناداً إلى معالم ريو للتصحر التي وضعتها لجنة المساعدة الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي. وترد في الجداول جميع الأنشطة الموسومة بالعلامة \"الرئيسية\" و\"الهامّة\"، ويُبلَّغ عن المبالغ ذات الصلة بنسبة 100 في المائة."
+msgid "Default data are included in each provider and recipient country tables. Reported activities are identified based on the OECD DAC Rio Marker for desertification. All activities marked with the marker ‘principal’ and ‘significant’ are included in the tables, and respective amounts are reported at 100 %."
+msgstr ""
 
 #: ../../SO5.md:377
 msgid "The database is freely accessible at www.oecd.org/env/policies/database"
-msgstr "قاعدة البيانات مُتاحة مجاناً عبر الصفحة  www.oecd.org/env/policies/database"
+msgstr ""
 
 #: ../../SO5.md:532
-msgid ""
-"See <https://www.oecd.org/development/financing-sustainable-development"
-"/development-finance-standards/beyond-oda-foundations.htm>."
-msgstr "تفضلوا بمطالعة <https://www.oecd.org/development/financing-sustainable-development/development-finance-standards/beyond-oda-foundations.htm>."
+msgid "See <https://www.oecd.org/development/financing-sustainable-development/development-finance-standards/beyond-oda-foundations.htm>."
+msgstr ""
 
 #: ../../SO5.md:533
-msgid ""
-"See <https://www.oecd.org/dac/financing-sustainable-development"
-"/development-finance-standards/mobilisation.htm>."
-msgstr "تفضلوا بمطالعة <https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/mobilisation.htm>."
+msgid "See <https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/mobilisation.htm>."
+msgstr ""
 
 #: ../../SO5.md:682
-msgid ""
-"https://tech-action.unepdtu.org/wp-content/uploads/sites/2/2021/04"
-"/report-on-taxonomy-of-climate-change-adaptation-technology-including-"
-"factsheets-finalbrief-tna-adaptation-taxonomy.pdf."
-msgstr "https://tech-action.unepdtu.org/wp-content/uploads/sites/2/2021/04/report-on-taxonomy-of-climate-change-adaptation-technology-including-factsheets-finalbrief-tna-adaptation-taxonomy.pdf."
+msgid "https://tech-action.unepdtu.org/wp-content/uploads/sites/2/2021/04/report-on-taxonomy-of-climate-change-adaptation-technology-including-factsheets-finalbrief-tna-adaptation-taxonomy.pdf."
+msgstr ""
+
