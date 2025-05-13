@@ -5,12 +5,12 @@
 {%- block breadcrumbs_aside %}
   {# Replace breadcrumb with language switcher #}
   {% if READTHEDOCS %}
-    <li hreflang="en"><a href="/en/{{ current_version }}/">English</a></li>
-    <li hreflang="en"><a href="/ar/{{ current_version }}/">العربية</a></li>
-    <li hreflang="ar"><a href="/es/{{ current_version }}/">Español</a></li>
-    <li hreflang="fr"><a href="/fr/{{ current_version }}/">Français</a></li>
-    <li hreflang="ru"><a href="/ru/{{ current_version }}/">Русский</a></li>
-    <li hreflang="zh"><a href="/zh/{{ current_version }}/">简体中文</a></li>
+    <li hreflang="en"><a href="/en/{{ current_version }}/{{ pagename }}.html">English</a></li>
+    <li class="breadcrumb-item" hreflang="ar"><a href="/ar/{{ current_version }}/{{ pagename }}.html">العربية</a></li>
+    <li class="breadcrumb-item" hreflang="es"><a href="/es/{{ current_version }}/{{ pagename }}.html">Español</a></li>
+    <li class="breadcrumb-item" hreflang="fr"><a href="/fr/{{ current_version }}/{{ pagename }}.html">Français</a></li>
+    <li class="breadcrumb-item" hreflang="ru"><a href="/ru/{{ current_version }}/{{ pagename }}.html">Русский</a></li>
+    <li class="breadcrumb-item" hreflang="zh-Hans"><a href="/zh-cn/{{ current_version }}/{{ pagename }}.html">简体中文</a></li>
   {% else %}
       {{ super() }}
   {% endif %}

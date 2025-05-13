@@ -109,12 +109,6 @@ html_css_files = [
     'css/rtl.css'
 ]
 
-html_context = {
-    'css_files': [
-        '_static/custom.css',  # overrides for wide tables in RTD theme
-        ],
-    }
-
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
@@ -122,6 +116,7 @@ html_theme_options = {
     'style_nav_header_background': '#ff7100',
     'collapse_navigation': False,
     'version_selector': False,
+    'language_selector': True,
     'logo_only': True,
     'prev_next_buttons_location': 'top',
     'vcs_pageview_mode': 'edit',
@@ -134,6 +129,7 @@ html_context = {
     "github_repo": "Prais4-reporting-manual",
     "github_version": "master",
     "conf_py_path": "/",
+    "current_version": "latest",
 }
 
 # The name for this set of Sphinx documents.  If None, it defaults to
