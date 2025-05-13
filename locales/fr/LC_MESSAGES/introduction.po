@@ -1,1028 +1,700 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, UNCCD
-# This file is distributed under the same license as the PRAIS4 Reporting
-# Manual package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: PRAIS4 Reporting Manual \n"
+"Project-Id-Version: prais4-reporting-manual\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-18 17:31+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2025-05-13 16:13+0300\n"
+"PO-Revision-Date: 2025-05-13 16:48\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: prais4-reporting-manual\n"
+"X-Crowdin-Project-ID: 760205\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/locales/source/introduction.pot\n"
+"X-Crowdin-File-ID: 22\n"
+"Language: fr_FR\n"
 
 #: ../../introduction.md:1
 msgid "Introduction"
-msgstr "Introduction"
+msgstr ""
 
 #: ../../introduction.md:3
 msgid "Background"
-msgstr "Contexte"
+msgstr ""
 
 #: ../../introduction.md:5
-msgid ""
-"By its decision 7/COP.13, the Conference of the Parties (COP) to the "
-"United Nations Convention to Combat Desertification (UNCCD) adopted the "
-"UNCCD 2018–2030 Strategic Framework, containing five strategic objectives"
-" (SOs) and an implementation framework. The SOs are:"
-msgstr "En vertu de sa décision 7/COP.13, la Conférence des Parties à la Convention des Nations Unies sur la lutte contre la désertification (CNULCD) a adopté le cadre stratégique 2018-2030 de la CNULCD. Celui-ci contient cinq objectifs stratégiques et un cadre de mise en œuvre. Les objectifs stratégiques sont les suivants :"
+msgid "By its decision 7/COP.13, the Conference of the Parties (COP) to the United Nations Convention to Combat Desertification (UNCCD) adopted the UNCCD 2018–2030 Strategic Framework, containing five strategic objectives (SOs) and an implementation framework. The SOs are:"
+msgstr ""
 
 #: ../../introduction.md:7
-msgid ""
-"SO 1: To improve the condition of affected ecosystems, combat "
-"desertification/land degradation, promote sustainable land management and"
-" contribute to land degradation neutrality;"
-msgstr "Objectif stratégique 1 : Améliorer l’état des écosystèmes touchés, lutter contre la désertification et la dégradation des terres, promouvoir la gestion durable des terres et favoriser la neutralité en matière de dégradation des terres"
+msgid "SO 1: To improve the condition of affected ecosystems, combat desertification/land degradation, promote sustainable land management and contribute to land degradation neutrality;"
+msgstr ""
 
 #: ../../introduction.md:9
 msgid "SO 2: To improve the living conditions of affected populations;"
-msgstr "Objectif stratégique 2 : Améliorer les conditions de vie des populations touchées"
+msgstr ""
 
 #: ../../introduction.md:11
-msgid ""
-"SO 3: To mitigate, adapt to, and manage the effects of drought in order "
-"to enhance resilience of vulnerable populations and ecosystems;"
-msgstr "Objectif stratégique 3 : Atténuer les effets de la sécheresse, s’y adapter et les gérer, afin de renforcer la résilience des populations et des écosystèmes vulnérables"
+msgid "SO 3: To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems;"
+msgstr ""
 
 #: ../../introduction.md:13
-msgid ""
-"SO 4: To generate global environmental benefits through effective "
-"implementation of the UNCCD; and"
-msgstr "Objectif stratégique 4 : Faire en sorte qu’une mise en œuvre efficace de la Convention procure des avantages pour l’environnement à l’échelle mondiale"
+msgid "SO 4: To generate global environmental benefits through effective implementation of the UNCCD; and"
+msgstr ""
 
 #: ../../introduction.md:15
-msgid ""
-"SO 5: To mobilize substantial and additional financial and non-financial "
-"resources to support the implementation of the Convention by building "
-"effective partnerships at global and national level."
-msgstr "Objectif stratégique 5 : Mobiliser des ressources financières et non financières additionnelles et importantes en faveur de la mise en œuvre de la Convention par l’instauration de partenariats mondiaux et nationaux efficaces"
+msgid "SO 5: To mobilize substantial and additional financial and non-financial resources to support the implementation of the Convention by building effective partnerships at global and national level."
+msgstr ""
 
 #: ../../introduction.md:17
-msgid ""
-"The implementation framework defines the roles and responsibilities of "
-"Parties and Convention institutions in meeting the SOs. For Parties, the "
-"implementation framework sets specific aims under three broad headings: "
-"(a) financial and non-financial resources; (b) policy and planning; and "
-"(c) actions on the ground."
-msgstr "Le cadre de mise en œuvre définit les rôles et les responsabilités des Parties et des institutions de la Convention dans la réalisation des objectifs stratégiques. Il fixe des objectifs spécifiques dans trois domaines pour les Parties : a) ressources financières et non financières ; b) politique générale et planification ; et c) action sur le terrain."
+msgid "The implementation framework defines the roles and responsibilities of Parties and Convention institutions in meeting the SOs. For Parties, the implementation framework sets specific aims under three broad headings: (a) financial and non-financial resources; (b) policy and planning; and (c) actions on the ground."
+msgstr ""
 
 #: ../../introduction.md:19
-msgid ""
-"Progress made in the implementation of the UNCCD 2018–2030 Strategic "
-"Framework has been regularly reviewed through the national reporting "
-"process since 2018. The reporting procedures, as well as the role and "
-"responsibilities of the Committee for the Review of the Implementation of"
-" the Convention (CRIC) in reviewing the reports, are spelled out in "
-"decisions 13/COP.13 and 15/COP.13."
-msgstr "Depuis 2018, les progrès accomplis dans la mise en œuvre du cadre stratégique 2018-2030 sont régulièrement examinés dans le cadre du cycle de présentation de rapports nationaux. Les procédures relatives à la présentation des rapports, ainsi que le rôle et les responsabilités du Comité chargé de l’examen de la mise en œuvre de la Convention, sont détaillés dans les décisions 13/COP.13 et 15/COP.13."
+msgid "Progress made in the implementation of the UNCCD 2018–2030 Strategic Framework has been regularly reviewed through the national reporting process since 2018. The reporting procedures, as well as the role and responsibilities of the Committee for the Review of the Implementation of the Convention (CRIC) in reviewing the reports, are spelled out in decisions 13/COP.13 and 15/COP.13."
+msgstr ""
 
 #: ../../introduction.md:21
 msgid "Purpose of national reporting"
-msgstr "Objectif de la présentation de rapports nationaux"
+msgstr ""
 
 #: ../../introduction.md:23
-msgid ""
-"Up-to-date information on measures taken, results achieved and challenges"
-" faced by country Parties is of critical importance for the COP to be "
-"able to adopt targeted decisions and guidance aimed at supporting the "
-"effective achievement of the SOs. The information communicated by Parties"
-" through reporting is valuable also for other stakeholders that work on "
-"the implementation of the UNCCD at national and local levels. From these "
-"viewpoints, national reporting is an indispensable tool to bringing "
-"forward effective planning and implementation of the Convention and the "
-"achievement of the SOs at global and national level."
-msgstr "La communication d’informations à jour sur les mesures prises, les résultats obtenus et les difficultés rencontrées par les pays parties est primordiale. En effet, elle permet à la Conférence des Parties de prendre des décisions adaptées et de fournir des orientations ciblées en faveur de la réalisation des objectifs stratégiques. Les informations communiquées par les Parties dans leurs rapports sont également utiles aux autres parties prenantes engagées dans la mise en œuvre de la Convention à l’échelle nationale et locale. Dans cette perspective, la présentation de rapports nationaux constitue un outil indispensable pour favoriser la planification et la mise en œuvre efficaces de la Convention, ainsi que la réalisation des objectifs stratégiques à l’échelle mondiale et nationale."
+msgid "Up-to-date information on measures taken, results achieved and challenges faced by country Parties is of critical importance for the COP to be able to adopt targeted decisions and guidance aimed at supporting the effective achievement of the SOs. The information communicated by Parties through reporting is valuable also for other stakeholders that work on the implementation of the UNCCD at national and local levels. From these viewpoints, national reporting is an indispensable tool to bringing forward effective planning and implementation of the Convention and the achievement of the SOs at global and national level."
+msgstr ""
 
 #: ../../introduction.md:25
-msgid ""
-"Since 2018, the UNCCD reporting process has also contributed to the "
-"follow-up of progress in implementing the 2030 Agenda for Sustainable "
-"Development. As the custodian agency for Sustainable Development Goal "
-"(SDG) indicator 15.3.1 “Proportion of land that is degraded over total "
-"land area”, the UNCCD secretariat is requested to use relevant "
-"information submitted in the national reports as a contribution to the "
-"overall follow-up and review by the High-level Political Forum on "
-"Sustainable Development."
-msgstr "Depuis 2018, les rapports nationaux soumis par les Parties à la CNULCD contribuent au suivi des progrès de la mise en œuvre du Programme de développement durable à l’horizon 2030. Le Secrétariat de la CNULCD, qui est l’organisme dépositaire de l’indicateur 15.3.1 des objectifs de développement durable (ODD) « Surface des terres dégradées, en proportion de la surface terrestre », transmet les informations pertinentes fournies dans les rapports nationaux au Forum politique de haut niveau pour le développement durable, chargé du processus général de suivi et d’examen des ODD."
+msgid "Since 2018, the UNCCD reporting process has also contributed to the follow-up of progress in implementing the 2030 Agenda for Sustainable Development. As the custodian agency for Sustainable Development Goal (SDG) indicator 15.3.1 “Proportion of land that is degraded over total land area”, the UNCCD secretariat is requested to use relevant information submitted in the national reports as a contribution to the overall follow-up and review by the High-level Political Forum on Sustainable Development."
+msgstr ""
 
 #: ../../introduction.md:27
 msgid "Indicator and monitoring framework"
-msgstr "Cadre des indicateurs et du suivi"
+msgstr ""
 
 #: ../../introduction.md:29
-msgid ""
-"The UNCCD indicator and monitoring framework has a hierarchical structure"
-" that makes it possible to distinguish what to measure (progress "
-"indicators) and how it should be measured (metrics/proxies)."
-msgstr "Le cadre des indicateurs et du suivi de la CNULCD repose sur une structure hiérarchique, avec d’un côté les éléments à mesurer (indicateurs de progrès) et de l’autre côté les méthodes de mesure utilisées (éléments mesurés/indicateurs supplétifs)."
+msgid "The UNCCD indicator and monitoring framework has a hierarchical structure that makes it possible to distinguish what to measure (progress indicators) and how it should be measured (metrics/proxies)."
+msgstr ""
 
 #: ../../introduction.md:31
-msgid ""
-"Indicators used for reporting on progress towards the SOs are those "
-"adopted by Parties in decision 7/COP.13, 9/COP.13 and 11/COP.14. In "
-"addition to the indicators adopted by the COP, five newly proposed "
-"indicators (i.e. SO 2-3, SO 4-3, SO 5-3, SO 5-4 and SO 5-5) will be "
-"tested during the 2022 reporting process. All newly proposed indicators "
-"will be considered optional in reporting until the COP takes a decision "
-"on whether to formally adopt them. Integrating them in the forthcoming "
-"reporting process will enable Parties to assess the suitability of the "
-"indicators for measuring progress towards the SOs and take an informed "
-"decision at the twentieth session of the CRIC held in conjunction with "
-"the COP. Table 1 through table 5 below contain an overview of the "
-"indicators, their related metrics/proxies and their statuses (i.e. "
-"whether the indicator is officially adopted, and if so, when it was "
-"adopted; or whether it is newly proposed and will be tested in the "
-"forthcoming reporting process). The tables also provide information on "
-"the reporting attributions."
-msgstr "Les indicateurs utilisés dans les rapports nationaux sont ceux adoptés par les Parties dans les décisions 7/COP.13, 9/COP.13 et 11/COP.14. Outre ces indicateurs, cinq nouveaux indicateurs (OS 2-3, OS 4-3, OS 5-3, OS 5-4 et OS 5-5) seront testés lors du cycle de présentation des rapports de 2022. Leur emploi sera facultatif jusqu’à ce que la Conférence des Parties statue sur leur utilisation. Les Parties pourront ainsi évaluer la pertinence de ces nouveaux indicateurs et la décision finale sera prise lors de la vingtième session du Comité chargé de l’examen de la mise en œuvre de la Convention, organisée en même temps que la Conférence des Parties. Les tableaux 1 à 5 ci-dessous offrent une vue d’ensemble des indicateurs, des éléments mesurés/indicateurs supplétifs associés, ainsi que du statut des indicateurs (c’est-à-dire si l’indicateur a été officiellement adopté et, le cas échéant, quand, ou s’il est nouveau et sera testé au cours du prochain cycle de présentation de rapports). Ils indiquent également les obligations de présentation de rapports des pays parties touchés et des pays parties développés pour chaque indicateur."
+msgid "Indicators used for reporting on progress towards the SOs are those adopted by Parties in decision 7/COP.13, 9/COP.13 and 11/COP.14. In addition to the indicators adopted by the COP, five newly proposed indicators (i.e. SO 2-3, SO 4-3, SO 5-3, SO 5-4 and SO 5-5) will be tested during the 2022 reporting process. All newly proposed indicators will be considered optional in reporting until the COP takes a decision on whether to formally adopt them. Integrating them in the forthcoming reporting process will enable Parties to assess the suitability of the indicators for measuring progress towards the SOs and take an informed decision at the twentieth session of the CRIC held in conjunction with the COP. Table 1 through table 5 below contain an overview of the indicators, their related metrics/proxies and their statuses (i.e. whether the indicator is officially adopted, and if so, when it was adopted; or whether it is newly proposed and will be tested in the forthcoming reporting process). The tables also provide information on the reporting attributions."
+msgstr ""
 
 #: ../../introduction.md:33
-msgid ""
-"Reporting on the implementation framework will be done through "
-"qualitative information, largely by narratives on national experiences, "
-"and on a voluntary basis."
-msgstr "La présentation des rapports relatifs au cadre de mise en œuvre sera volontaire. Elle s’appuiera sur des données qualitatives, principalement des énoncés décrivant l’expérience des pays."
+msgid "Reporting on the implementation framework will be done through qualitative information, largely by narratives on national experiences, and on a voluntary basis."
+msgstr ""
 
 #: ../../introduction.md:38
-msgid ""
-"*__Table 1__. Strategic objective (SO) 1 indicators and reporting "
-"attribution*"
-msgstr "*__Table 1__. Indicateurs et obligations de rapport pour l’objectif stratégique (OS) 1"
+msgid "*__Table 1__. Strategic objective (SO) 1 indicators and reporting attribution*"
+msgstr ""
 
-#: ../../introduction.md:1
+#: ../../introduction.md:43
+#: ../../introduction.md:83
+#: ../../introduction.md:120
+#: ../../introduction.md:152
+#: ../../introduction.md:184
 msgid "{rspan}`1` Indicator code"
-msgstr "Code de l’indicateur"
+msgstr ""
 
-#: ../../introduction.md:2
+#: ../../introduction.md:44
+#: ../../introduction.md:84
+#: ../../introduction.md:121
+#: ../../introduction.md:153
+#: ../../introduction.md:185
 msgid "{rspan}`1` Indicator name"
-msgstr "Nom de l’indicateur"
+msgstr ""
 
-#: ../../introduction.md:3
+#: ../../introduction.md:45
+#: ../../introduction.md:85
+#: ../../introduction.md:122
+#: ../../introduction.md:154
+#: ../../introduction.md:186
 msgid "{rspan}`1` Metrics / proxies"
-msgstr "Éléments mesurés/indicateurs supplétifs"
+msgstr ""
 
-#: ../../introduction.md:4
+#: ../../introduction.md:46
+#: ../../introduction.md:86
+#: ../../introduction.md:123
+#: ../../introduction.md:155
+#: ../../introduction.md:187
 msgid "{rspan}`1` Adopted / proposed"
-msgstr "Adopté/proposé"
+msgstr ""
 
-#: ../../introduction.md:5
+#: ../../introduction.md:47
+#: ../../introduction.md:87
+#: ../../introduction.md:124
+#: ../../introduction.md:156
+#: ../../introduction.md:188
 msgid "{cspan}`1` Reporting attribution"
-msgstr "Obligation de rapport"
+msgstr ""
 
-#: ../../introduction.md:6
+#: ../../introduction.md:48
+#: ../../introduction.md:88
+#: ../../introduction.md:125
+#: ../../introduction.md:157
+#: ../../introduction.md:189
 msgid "Affected country Parties"
-msgstr "Pays parties touchés"
+msgstr ""
 
-#: ../../introduction.md:7
+#: ../../introduction.md:49
+#: ../../introduction.md:89
+#: ../../introduction.md:126
+#: ../../introduction.md:158
+#: ../../introduction.md:190
 msgid "Developed country Parties"
-msgstr "Pays parties développés"
+msgstr ""
 
-#: ../../introduction.md:8
+#: ../../introduction.md:50
 msgid "SO 1-1"
-msgstr "Objectif stratégique 1-1 :"
+msgstr ""
 
-#: ../../introduction.md:9
+#: ../../introduction.md:51
 msgid "Trends in land cover"
-msgstr "Évolution de la structure du couvert terrestre"
+msgstr ""
 
-#: ../../introduction.md:10
+#: ../../introduction.md:52
 msgid "Land cover change"
-msgstr "Modification du couvert terrestre"
+msgstr ""
 
-#: ../../introduction.md:11 ../../introduction.md:15 ../../introduction.md:16
-#: ../../introduction.md:17 ../../introduction.md:21 ../../introduction.md:22
+#: ../../introduction.md:53
+#: ../../introduction.md:59
+#: ../../introduction.md:64
+#: ../../introduction.md:97
+#: ../../introduction.md:103
+#: ../../introduction.md:167
 msgid "Indicator adopted in decision 7/COP.13"
-msgstr "Indicateur adopté dans la décision 7/COP.13"
+msgstr ""
 
-#: ../../introduction.md:12 ../../introduction.md:14 ../../introduction.md:16
-#: ../../introduction.md:17 ../../introduction.md:18 ../../introduction.md:19
-#: ../../introduction.md:20 ../../introduction.md:22 ../../introduction.md:23
-#: ../../introduction.md:24 ../../introduction.md:28
+#: ../../introduction.md:54
+#: ../../introduction.md:60
+#: ../../introduction.md:65
+#: ../../introduction.md:70
+#: ../../introduction.md:98
+#: ../../introduction.md:104
+#: ../../introduction.md:131
+#: ../../introduction.md:137
+#: ../../introduction.md:143
+#: ../../introduction.md:168
+#: ../../introduction.md:196
+#: ../../introduction.md:197
+#: ../../introduction.md:202
+#: ../../introduction.md:203
 msgid "X"
-msgstr "X"
+msgstr ""
 
-#: ../../introduction.md:13
+#: ../../introduction.md:55
 msgid "{rspan}`3` *[^1]"
-msgstr "[^1]: "
+msgstr ""
 
-#: ../../introduction.md:14
+#: ../../introduction.md:56
 msgid "SO 1-2"
-msgstr "OBJECTIF STRATÉGIQUE 1-2 :"
+msgstr ""
 
-#: ../../introduction.md:15
+#: ../../introduction.md:57
 msgid "Trends in land productivity or functioning of the land"
-msgstr "Évolution de la productivité ou du fonctionnement des terres"
+msgstr ""
 
-#: ../../introduction.md:16
+#: ../../introduction.md:58
 msgid "Land productivity dynamics"
-msgstr "Dynamiques de la productivité des terres"
+msgstr ""
 
-#: ../../introduction.md:19
+#: ../../introduction.md:61
 msgid "SO 1-3"
-msgstr "OBJECTIF STRATÉGIQUE 1-3 :"
+msgstr ""
 
-#: ../../introduction.md:9 ../../introduction.md:20
+#: ../../introduction.md:62
+#: ../../introduction.md:160
 msgid "Trends in carbon stocks above and below ground"
-msgstr "Évolution des stocks de carbone dans le sol et en surface"
+msgstr ""
 
-#: ../../introduction.md:21
+#: ../../introduction.md:63
 msgid "Soil organic carbon stock"
-msgstr "Stock de carbone organique dans le sol"
+msgstr ""
 
-#: ../../introduction.md:24
+#: ../../introduction.md:66
 msgid "SO 1-4"
-msgstr "OBJECTIF STRATÉGIQUE 1-4 :"
+msgstr ""
 
-#: ../../introduction.md:25
+#: ../../introduction.md:67
 msgid "Proportion of land that is degraded over total land area"
-msgstr "Surface des terres dégradées, en proportion de la surface terrestre"
+msgstr ""
 
-#: ../../introduction.md:10 ../../introduction.md:13 ../../introduction.md:17
-#: ../../introduction.md:18 ../../introduction.md:19 ../../introduction.md:23
-#: ../../introduction.md:25 ../../introduction.md:26 ../../introduction.md:30
-#: ../../introduction.md:33 ../../introduction.md:38
+#: ../../introduction.md:68
+#: ../../introduction.md:99
+#: ../../introduction.md:105
+#: ../../introduction.md:112
+#: ../../introduction.md:132
+#: ../../introduction.md:138
+#: ../../introduction.md:144
+#: ../../introduction.md:169
+#: ../../introduction.md:176
+#: ../../introduction.md:193
+#: ../../introduction.md:200
+#: ../../introduction.md:206
+#: ../../introduction.md:216
+#: ../../introduction.md:221
 msgid "\\---"
-msgstr "\\---"
+msgstr ""
 
-#: ../../introduction.md:27
+#: ../../introduction.md:69
 msgid "Background for indicator adopted in decision 9/COP.13"
-msgstr "Contexte de l’indicateur adopté dans la décision 9/COP.13"
+msgstr ""
 
 #: ../../introduction.md:78
-msgid ""
-"*__Table 2__. Strategic objective (SO) 2 indicators and reporting "
-"attributions*"
-msgstr "*__Table 2__. Indicateurs et obligations de rapport pour l’objectif stratégique (OS) 2"
+msgid "*__Table 2__. Strategic objective (SO) 2 indicators and reporting attributions*"
+msgstr ""
 
-#: ../../introduction.md:8
+#: ../../introduction.md:90
 msgid "SO 2-1"
-msgstr "OBJECTIF STRATÉGIQUE 2-1 :"
+msgstr ""
 
-#: ../../introduction.md:9
-msgid ""
-"Trends in population living below the relative poverty line and/or income"
-" inequality in affected areas"
-msgstr "Évolution de la population vivant sous le seuil de pauvreté relatif et/ou de l’inégalité de revenu dans les zones touchées"
+#: ../../introduction.md:91
+msgid "Trends in population living below the relative poverty line and/or income inequality in affected areas"
+msgstr ""
 
-#: ../../introduction.md:10
+#: ../../introduction.md:92
 msgid "Proportion of the population below the international poverty line"
-msgstr "Part de la population vivant sous le seuil de pauvreté"
+msgstr ""
 
-#: ../../introduction.md:12
+#: ../../introduction.md:94
 msgid "OR"
-msgstr "OU"
+msgstr ""
 
-#: ../../introduction.md:14
+#: ../../introduction.md:96
 msgid "Income inequality"
-msgstr "inégalités de revenu"
+msgstr ""
 
-#: ../../introduction.md:18
+#: ../../introduction.md:100
 msgid "SO 2-2"
-msgstr "OBJECTIF STRATÉGIQUE 2-2 :"
+msgstr ""
 
-#: ../../introduction.md:19
+#: ../../introduction.md:101
 msgid "Trends in access to safe drinking water in affected areas"
-msgstr "Évolution de l’accès à l’eau potable dans les zones touchées"
+msgstr ""
 
-#: ../../introduction.md:20
+#: ../../introduction.md:102
 msgid "Proportion of population using safely managed drinking water services"
-msgstr "Part de la population utilisant des services d’approvisionnement en eau potable gérés en toute sécurité"
+msgstr ""
 
-#: ../../introduction.md:24
+#: ../../introduction.md:106
 msgid "SO 2-3"
-msgstr "OBJECTIF STRATÉGIQUE 2-3 :"
+msgstr ""
 
-#: ../../introduction.md:25
-msgid ""
-"Trends in the proportion of the population exposed to land degradation, "
-"disaggregated by sex"
-msgstr "Évolution de la part de la population exposée à la dégradation des terres, ventilée par sexe"
+#: ../../introduction.md:107
+msgid "Trends in the proportion of the population exposed to land degradation, disaggregated by sex"
+msgstr ""
 
-#: ../../introduction.md:26
-msgid ""
-"Proportion of the population exposed to land degradation, disaggregated "
-"by sex"
-msgstr "Part de la population exposée à la dégradation des terres, ventilée par sexe"
+#: ../../introduction.md:108
+msgid "Proportion of the population exposed to land degradation, disaggregated by sex"
+msgstr ""
 
-#: ../../introduction.md:27
-msgid ""
-"Indicator proposed in response to decision 11/COP.14, which requested the"
-" Secretariat to align reporting for SOs 1– 5 with gender-responsive "
-"indicators"
-msgstr "Indicateur proposé en réponse à la décision 11/COP.14, dans laquelle il était demandé au Secrétariat d’utiliser des indicateurs tenant compte du genre pour les OS 1 à 5"
+#: ../../introduction.md:109
+msgid "Indicator proposed in response to decision 11/COP.14, which requested the Secretariat to align reporting for SOs 1– 5 with gender-responsive indicators"
+msgstr ""
 
-#: ../../introduction.md:24 ../../introduction.md:29 ../../introduction.md:30
-#: ../../introduction.md:34 ../../introduction.md:35 ../../introduction.md:39
-#: ../../introduction.md:40
+#: ../../introduction.md:111
+#: ../../introduction.md:175
+#: ../../introduction.md:212
+#: ../../introduction.md:213
+#: ../../introduction.md:217
+#: ../../introduction.md:218
+#: ../../introduction.md:222
+#: ../../introduction.md:223
 msgid "Optional"
-msgstr "Facultatif"
+msgstr ""
 
 #: ../../introduction.md:115
-msgid ""
-"*__Table 3__. Strategic objective (SO) 3 indicators and reporting "
-"attributions*"
-msgstr "*__Table 3__. Indicateurs et obligations de rapport pour l’objectif stratégique (OS) 3"
+msgid "*__Table 3__. Strategic objective (SO) 3 indicators and reporting attributions*"
+msgstr ""
 
-#: ../../introduction.md:8
+#: ../../introduction.md:127
 msgid "SO 3-1"
-msgstr "OBJECTIF STRATÉGIQUE 3-1 :"
+msgstr ""
 
-#: ../../introduction.md:9
+#: ../../introduction.md:128
 msgid "Trends in the proportion of land under drought over the total land area"
-msgstr "Évolution de la surface des terres touchées par la sécheresse, en proportion de la surface terrestre"
+msgstr ""
 
-#: ../../introduction.md:10
-msgid ""
-"Proportion of land in each drought intensity class as defined by the "
-"Standardized Precipitation Index"
-msgstr "Surface des terres pour chaque niveau d’intensité de la sécheresse tel que défini par l’indice de précipitations normalisé"
+#: ../../introduction.md:129
+msgid "Proportion of land in each drought intensity class as defined by the Standardized Precipitation Index"
+msgstr ""
 
-#: ../../introduction.md:11 ../../introduction.md:17 ../../introduction.md:23
+#: ../../introduction.md:130
+#: ../../introduction.md:136
+#: ../../introduction.md:142
 msgid "Indicator adopted in decision 7/COP.14"
-msgstr "Indicateur adopté dans la décision 7/COP.14"
+msgstr ""
 
-#: ../../introduction.md:14
+#: ../../introduction.md:133
 msgid "SO 3-2"
-msgstr "OBJECTIF STRATÉGIQUE 3-2 :"
+msgstr ""
 
-#: ../../introduction.md:15
+#: ../../introduction.md:134
 msgid "Trends in the proportion of the total population exposed to drought"
-msgstr "Évolution de la part de la population totale exposée à la sécheresse"
+msgstr ""
 
-#: ../../introduction.md:16
+#: ../../introduction.md:135
 msgid "Proportion of the population exposed to drought, disaggregated by sex"
-msgstr "Part de la population exposée à la sécheresse, ventilée par sexe"
+msgstr ""
 
-#: ../../introduction.md:20
+#: ../../introduction.md:139
 msgid "SO 3-3"
-msgstr "OBJECTIF STRATÉGIQUE 3-3 :"
+msgstr ""
 
-#: ../../introduction.md:21
+#: ../../introduction.md:140
 msgid "Trends in the degree of drought vulnerability"
-msgstr "Évolution du degré de vulnérabilité à la sécheresse"
+msgstr ""
 
-#: ../../introduction.md:22
+#: ../../introduction.md:141
 msgid "Drought Vulnerability Index"
-msgstr "Indice de vulnérabilité à la sécheresse"
+msgstr ""
 
 #: ../../introduction.md:147
-msgid ""
-"*__Table 4__. Strategic objective (SO) 4 indicators and reporting "
-"attributions*"
-msgstr "*__Table 4__. Indicateurs et obligations de rapport pour l’objectif stratégique (OS) 4"
+msgid "*__Table 4__. Strategic objective (SO) 4 indicators and reporting attributions*"
+msgstr ""
 
-#: ../../introduction.md:8
+#: ../../introduction.md:159
 msgid "SO 4-1"
-msgstr "OBJECTIF STRATÉGIQUE 4-1 :"
+msgstr ""
 
-#: ../../introduction.md:10
-msgid ""
-"{cspan}`3` Trends in carbon stocks above and below ground is a "
-"multipurpose indicator used to measure progress towards both strategic "
-"objectives 1 and 4. See progress indicator SO 1-3."
-msgstr "L’évolution des stocks de carbone dans le sol et en surface est utilisée pour mesurer les progrès accomplis dans la réalisation des objectifs stratégiques 1 et 4. Voir indicateur de progrès OS 1-3."
+#: ../../introduction.md:161
+msgid "{cspan}`3` Trends in carbon stocks above and below ground is a multipurpose indicator used to measure progress towards both strategic objectives 1 and 4. See progress indicator SO 1-3."
+msgstr ""
 
-#: ../../introduction.md:13
+#: ../../introduction.md:164
 msgid "SO 4-2"
-msgstr "SO 4-2"
+msgstr ""
 
-#: ../../introduction.md:14
+#: ../../introduction.md:165
 msgid "Trends in abundance and distribution of selected species"
-msgstr "Évolution de l’abondance et de la répartition de certaines espèces"
+msgstr ""
 
-#: ../../introduction.md:15
+#: ../../introduction.md:166
 msgid "Red List Index"
-msgstr "Indice Liste rouge"
+msgstr ""
 
-#: ../../introduction.md:19
+#: ../../introduction.md:170
 msgid "SO 4-3"
-msgstr "OBJECTIF STRATÉGIQUE 4-3 :"
+msgstr ""
 
-#: ../../introduction.md:20
+#: ../../introduction.md:171
 msgid "Trends in protected area coverage of important biodiversity areas"
-msgstr "Évolution de la surface des aires protégées dans les territoires riches en biodiversité"
+msgstr ""
 
-#: ../../introduction.md:21
-msgid ""
-"Average proportion of Terrestrial Key Biodiversity Areas covered by "
-"protected areas"
-msgstr "Surface moyenne des zones clés pour la biodiversité terrestres qui est protégée"
+#: ../../introduction.md:172
+msgid "Average proportion of Terrestrial Key Biodiversity Areas covered by protected areas"
+msgstr ""
 
-#: ../../introduction.md:22
-msgid ""
-"Complementary indicator and corresponding metric proposed  in response to"
-" CRIC 17 recommendations and decision 7/COP.13."
-msgstr "Indicateur complémentaire et mesure correspondante proposés en réponse aux recommandations 17 du Comité chargé de l’examen de la mise en œuvre de la Convention et à la décision 7/COP.13."
+#: ../../introduction.md:173
+msgid "Complementary indicator and corresponding metric proposed  in response to CRIC 17 recommendations and decision 7/COP.13."
+msgstr ""
 
 #: ../../introduction.md:179
-msgid ""
-"*__Table 5__. Strategic objective (SO) 5 indicators and reporting "
-"attributions*"
-msgstr "*__Table 5__. Indicateurs et obligations de rapport pour l’objectif stratégique (OS) 5"
+msgid "*__Table 5__. Strategic objective (SO) 5 indicators and reporting attributions*"
+msgstr ""
 
-#: ../../introduction.md:8
+#: ../../introduction.md:191
 msgid "SO 5-1"
-msgstr "OBJECTIF STRATÉGIQUE 5-1 :"
+msgstr ""
 
-#: ../../introduction.md:9
+#: ../../introduction.md:192
 msgid "Bilateral and multilateral public resources"
-msgstr "Ressources publiques bilatérales et multilatérales"
+msgstr ""
 
-#: ../../introduction.md:11
-msgid ""
-"Indicator adopted in decision 7/COP.13 as ‘Trends in international "
-"bilateral and multilateral official development assistance’"
-msgstr "Indicateur adopté dans la décision 7/COP.13 sous l’intitulé « Évolution de l’aide publique internationale au développement, bilatérale et multilatérale »"
+#: ../../introduction.md:194
+msgid "Indicator adopted in decision 7/COP.13 as ‘Trends in international bilateral and multilateral official development assistance’"
+msgstr ""
 
-#: ../../introduction.md:15
+#: ../../introduction.md:198
 msgid "SO 5-2"
-msgstr "OBJECTIF STRATÉGIQUE 5-2 :"
+msgstr ""
 
-#: ../../introduction.md:16
+#: ../../introduction.md:199
 msgid "Domestic public resources"
-msgstr "Ressources publiques nationales"
+msgstr ""
 
-#: ../../introduction.md:18
-msgid ""
-"Indicator adopted in decision 7/COP.13 as ‘Trends in domestic public "
-"resources’"
-msgstr "Indicateur adopté dans la décision 7/COP.13 sous l’intitulé « Évolution des ressources publiques nationales »"
+#: ../../introduction.md:201
+msgid "Indicator adopted in decision 7/COP.13 as ‘Trends in domestic public resources’"
+msgstr ""
 
-#: ../../introduction.md:21
+#: ../../introduction.md:204
 msgid "SO 5-3"
-msgstr "OBJECTIF STRATÉGIQUE 5-3 :"
+msgstr ""
 
-#: ../../introduction.md:22
+#: ../../introduction.md:205
 msgid "International and domestic private resources"
-msgstr "Ressources privées nationales et internationales"
+msgstr ""
 
-#: ../../introduction.md:24
-msgid ""
-"{rspan}`2` Indicators proposed in response to decision 11/COP.14, which "
-"requested the Global Mechanism to include additional quantitative data in"
-" the reporting template for SO 5 and provide information before the start"
-" of  the next reporting process on the possible development of progress "
-"indicators  on technology transfer under SO 5"
-msgstr "Indicateurs proposés en réponse à la décision 11/COP.14, dans laquelle il était demandé au Mécanisme mondial d’ajouter des données quantitatives dans le modèle de rapport pour l’OS 5, ainsi que de fournir des informations, avant le début du prochain cycle de présentation de rapports, sur la possibilité d’élaborer des indicateurs de progrès sur le transfert de technologies au titre de l’OS 5."
+#: ../../introduction.md:207
+msgid "{rspan}`2` Indicators proposed in response to decision 11/COP.14, which requested the Global Mechanism to include additional quantitative data in the reporting template for SO 5 and provide information before the start of  the next reporting process on the possible development of progress indicators  on technology transfer under SO 5"
+msgstr ""
 
-#: ../../introduction.md:31
+#: ../../introduction.md:214
 msgid "SO 5-4"
-msgstr "OBJECTIF STRATÉGIQUE 5-4 :"
+msgstr ""
 
-#: ../../introduction.md:32
+#: ../../introduction.md:215
 msgid "Technology transfer"
-msgstr "Transfert de technologies"
+msgstr ""
 
-#: ../../introduction.md:36
+#: ../../introduction.md:219
 msgid "SO 5-5"
-msgstr "OBJECTIF STRATÉGIQUE 5-5 :"
+msgstr ""
 
-#: ../../introduction.md:37
-msgid ""
-"Future support for activities related to the implementation of the "
-"Convention"
-msgstr "Appui futur aux activités liées à la mise en œuvre de la Convention"
+#: ../../introduction.md:220
+msgid "Future support for activities related to the implementation of the Convention"
+msgstr ""
 
 #: ../../introduction.md:226
 msgid "Reporting tools"
-msgstr "Outils de présentation de rapports"
+msgstr ""
 
 #: ../../introduction.md:228
-msgid ""
-"Since the 2018 reporting process, the performance review and assessment "
-"of implementation system (PRAIS) has been upgraded to bring it into line "
-"with modern systems architecture and the requests made by Parties at the "
-"fourteenth session of the COP. PRAIS 4 will offer the following "
-"improvements over PRAIS 3, among other things:"
-msgstr "Depuis 2018, le système d’examen de la performance et d’évaluation de la mise en œuvre (PRAIS) a évolué pour être compatible avec les systèmes modernes et répondre aux demandes formulées par les Parties lors de la quatorzième session de la Conférence des Parties. Le système PRAIS 4 offre plusieurs améliorations par rapport à PRAIS 3, notamment :"
+msgid "Since the 2018 reporting process, the performance review and assessment of implementation system (PRAIS) has been upgraded to bring it into line with modern systems architecture and the requests made by Parties at the fourteenth session of the COP. PRAIS 4 will offer the following improvements over PRAIS 3, among other things:"
+msgstr ""
 
 #: ../../introduction.md:230
-msgid ""
-"A more user-friendly interface, including web-based reporting forms pre-"
-"filled with default data derived from global data sources. Information "
-"entered in the forms will be summarized in standalone country reports, "
-"downloadable and sharable outside the system. The system will also "
-"include additional data fields specific to affected areas for SOs 1 to 4;"
-msgstr "Une interface plus conviviale, avec notamment des formulaires préremplis avec des données par défaut tirées de sources mondiales et disponibles en ligne. Les données saisies dans les formulaires seront synthétisées sous forme de rapports de pays individuels, lesquels peuvent être téléchargés et partagés en dehors du système. Des champs de données spécialement conçus pour les zones touchées au titre des OS 1 et 4 seront également ajoutés ;"
+msgid "A more user-friendly interface, including web-based reporting forms pre-filled with default data derived from global data sources. Information entered in the forms will be summarized in standalone country reports, downloadable and sharable outside the system. The system will also include additional data fields specific to affected areas for SOs 1 to 4;"
+msgstr ""
 
 #: ../../introduction.md:232
-msgid ""
-"A centralized database to securely store and manage country-submitted "
-"data;"
-msgstr "Une base de données centralisée pour stocker et gérer en toute sécurité les données communiquées par les pays ;"
+msgid "A centralized database to securely store and manage country-submitted data;"
+msgstr ""
 
 #: ../../introduction.md:234
-msgid ""
-"New functionality to ingest and manage large geospatial datasets; this "
-"will permit the user to define, for instance, the location and boundaries"
-" of land degradation hotspots or zones of voluntary land degradation "
-"neutrality targets;"
-msgstr "Une nouvelle fonctionnalité de traitement et de gestion des gros volumes de données géospatiales : l’utilisateur peut définir, par exemple, l’emplacement et le périmètre des zones très touchées par la dégradation des terres ou des zones où des cibles de neutralité en matière de dégradation des terres ont été fixées à titre volontaire."
+msgid "New functionality to ingest and manage large geospatial datasets; this will permit the user to define, for instance, the location and boundaries of land degradation hotspots or zones of voluntary land degradation neutrality targets;"
+msgstr ""
 
 #: ../../introduction.md:236
-msgid ""
-"Analytical, synthesis and visualization functions for the submitted data "
-"[^2]."
-msgstr "Fonctions d’analyse, de synthèse et de visualisation des données communiquées [^2]."
+msgid "Analytical, synthesis and visualization functions for the submitted data [^2]."
+msgstr ""
 
 #: ../../introduction.md:238
-msgid ""
-"The following reporting tools will be made available to country Parties "
-"in the six official United Nations languages:"
-msgstr "Plusieurs outils de présentation de rapports seront mis à la disposition des pays parties dans les six langues officielles des Nations Unies :"
+msgid "The following reporting tools will be made available to country Parties in the six official United Nations languages:"
+msgstr ""
 
 #: ../../introduction.md:240
-msgid ""
-"The PRAIS 4 user manual, which provides step-by-step procedures for "
-"system access and use;"
-msgstr "Le manuel d’utilisation de PRAIS 4, qui détaille les procédures d’accès et d’utilisation étape par étape ;"
+msgid "The PRAIS 4 user manual, which provides step-by-step procedures for system access and use;"
+msgstr ""
 
 #: ../../introduction.md:242
-msgid ""
-"This reporting manual, which provides step-by-step methodological "
-"guidance for the preparation of national reports;"
-msgstr "Le présent guide relatif à la présentation de rapports, qui fournit des orientations d’ordre méthodologique visant à faciliter la préparation des rapports nationaux ;"
+msgid "This reporting manual, which provides step-by-step methodological guidance for the preparation of national reports;"
+msgstr ""
 
 #: ../../introduction.md:244
 msgid "An updated glossary of reporting terms and definitions."
-msgstr "Un glossaire mis à jour contenant des termes et leurs définitions."
+msgstr ""
 
 #: ../../introduction.md:246
-msgid ""
-"In addition, Parties can also refer to the following methodological "
-"reference documents (in English only):"
-msgstr "Les Parties peuvent également se reporter aux guides méthodologiques de référence ci-dessous (disponibles en anglais uniquement) :"
+msgid "In addition, Parties can also refer to the following methodological reference documents (in English only):"
+msgstr ""
 
 #: ../../introduction.md:248
-msgid ""
-"Version 2 of the [Good Practice Guidance for SDG Indicator "
-"15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
-"indicator-1531-proportion-land-degraded-over-total-land): Proportion of "
-"land that is degraded over total land area;"
-msgstr "Version 2.0 du [Guide de bonnes pratiques pour l’indicateur 15.3.1 des ODD : Surface des terres dégradées, en proportion de la surface terrestre](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) ;"
+msgid "Version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land): Proportion of land that is degraded over total land area;"
+msgstr ""
 
 #: ../../introduction.md:250
-msgid ""
-"Good Practice Guidance for National Reporting on UNCCD Strategic "
-"Objective 3."
-msgstr "Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3 [Guide de bonnes pratiques pour la présentation des rapports nationaux sur l’objectif stratégique 3 de la CNULCD]"
+msgid "Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3."
+msgstr ""
 
 #: ../../introduction.md:254
 msgid "Data analytics tools"
-msgstr "Outils statistiques"
+msgstr ""
 
 #: ../../introduction.md:256
-msgid ""
-"In line with decision 11/COP.14, Conservation International has further "
-"enhanced and expanded [Trends.Earth](http://trends.earth/docs/en/) to "
-"support the preparation and analysis of data for UNCCD national reporting"
-" in a format that can be automatically transferred to PRAIS."
-msgstr "En vertu de la décision 11/COP.14, Conservation International a développé et amélioré le site [Trends.Earth](http://trends.earth/docs/fr/). Les fichiers de données peuvent désormais être directement exportés dans le système PRAIS, ce qui facilite la préparation et l’analyse des données utilisées dans les rapports nationaux."
+msgid "In line with decision 11/COP.14, Conservation International has further enhanced and expanded [Trends.Earth](http://trends.earth/docs/en/) to support the preparation and analysis of data for UNCCD national reporting in a format that can be automatically transferred to PRAIS."
+msgstr ""
 
 #: ../../introduction.md:258
-msgid ""
-"Trends.Earth is a free and open-source tool for monitoring indicators of "
-"land change. More specifically, Trends.Earth supports:"
-msgstr "Trends.Earth est un outil libre et gratuit de surveillance du changement des terres. En particulier, il propose les fonctionnalités suivantes :"
+msgid "Trends.Earth is a free and open-source tool for monitoring indicators of land change. More specifically, Trends.Earth supports:"
+msgstr ""
 
 #: ../../introduction.md:260
-msgid ""
-"The calculation of the SO 1 indicators, including SDG Indicator 15.3.1, "
-"following version 2 of the [Good Practice Guidance for SDG Indicator "
-"15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
-"indicator-1531-proportion-land-degraded-over-total-land);"
-msgstr "Calcul des indicateurs de l’OS 1, notamment l’indicateur 15.3.1 des ODD, en suivant la version 2.0 du [Guide de bonnes pratiques pour l’indicateur 15.3.1 des ODD](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) ;"
+msgid "The calculation of the SO 1 indicators, including SDG Indicator 15.3.1, following version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land);"
+msgstr ""
 
 #: ../../introduction.md:262
-msgid ""
-"The recalculation of SDG indicator 15.3.1, accounting for any reported "
-"false positive and false negative degradation processes;"
-msgstr "Le recalcul de l’indicateur 15.3.1 des ODD, en tenant compte des faux positifs et des faux négatifs liés aux processus de dégradation des terres ;"
+msgid "The recalculation of SDG indicator 15.3.1, accounting for any reported false positive and false negative degradation processes;"
+msgstr ""
 
 #: ../../introduction.md:264
-msgid ""
-"The calculation of indicator SO 2-3: Trends in the proportion of "
-"population exposed to land degradation, disaggregated by sex;"
-msgstr "Le calcul de l’indicateur OS 2-3 ; « Évolution de la part de la population exposée à la dégradation des terres, ventilée par sexe »"
+msgid "The calculation of indicator SO 2-3: Trends in the proportion of population exposed to land degradation, disaggregated by sex;"
+msgstr ""
 
 #: ../../introduction.md:266
-msgid ""
-"The calculation of the SO 3 indicators following the Good Practice "
-"Guidance for National Reporting on UNCCD Strategic Objective 3;"
-msgstr "Le calcul des indicateurs de l’OS 3, en suivant le guide de bonnes pratiques pour la présentation des rapports nationaux sur l’objectif stratégique 3 de la CNULCD ;"
+msgid "The calculation of the SO 3 indicators following the Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3;"
+msgstr ""
 
 #: ../../introduction.md:268
-msgid ""
-"Access to global data sources, including default data sources for "
-"national reporting;"
-msgstr "L’accès aux sources de données mondiales, notamment les sources des données par défaut utilisées dans l’élaboration des rapports nationaux ;"
+msgid "Access to global data sources, including default data sources for national reporting;"
+msgstr ""
 
 #: ../../introduction.md:270
-msgid ""
-"Integration of nationally or locally available data and nationally "
-"determined assumptions;"
-msgstr "L’intégration des données disponibles à l’échelle nationale ou locale et des hypothèses formulées à l’échelle nationale ;"
+msgid "Integration of nationally or locally available data and nationally determined assumptions;"
+msgstr ""
 
 #: ../../introduction.md:272
 msgid "Data transfer to PRAIS."
-msgstr "Le transfert des données vers PRAIS."
+msgstr ""
 
 #: ../../introduction.md:274
 msgid "Default data"
-msgstr "Données par défaut"
+msgstr ""
 
 #: ../../introduction.md:276
-msgid ""
-"With a view to reducing the reporting burden and in accordance with the "
-"procedure established in decision 22/COP.11, the PRAIS 4 forms will be "
-"pre-filled with default national estimates based on available global data"
-" sources. Country Parties will have the possibility to verify or replace "
-"these national estimates using data sourced/computed nationally/locally."
-msgstr "En vue d’alléger la charge de travail liée à l’établissement des rapports, et conformément à la procédure instaurée par la décision 22/COP.11, les formulaires accessibles dans PRAIS 4 seront préremplis avec des estimations nationales par défaut calculées à partir des sources de données mondiales disponibles. Après vérification de ces estimations, les pays parties pourront soit les accepter, soit les remplacer par des données obtenues ou calculées à l’échelle nationale ou locale."
+msgid "With a view to reducing the reporting burden and in accordance with the procedure established in decision 22/COP.11, the PRAIS 4 forms will be pre-filled with default national estimates based on available global data sources. Country Parties will have the possibility to verify or replace these national estimates using data sourced/computed nationally/locally."
+msgstr ""
 
 #: ../../introduction.md:278
-msgid ""
-"In order to provide national-level extracts of the global data sources "
-"for national reporting, the United Nations Geospatial Hub (hereinafter "
-"referred to as UN Map Data) was used, which is a worldwide geospatial "
-"database consisting of country and geographic name information and a "
-"coherent alignment of national boundaries for consistent representation "
-"on a global scale. UN Map Data includes geospatial web services, which "
-"aim to provide a contextual global webservices background to the "
-"international community. The current flagship United Nations geospatial "
-"service is entitled Clear Map[^3] (hereinafter referred to as UN Clear "
-"Map). UN Clear Map was originally designed and created for the use of the"
-" United Nations Secretariat and system for their website and related web "
-"products, but is now a publicly available resource subject to the terms "
-"of use. The UN Clear Map service is available in PRAIS 4 in different "
-"cartographic styles and web canvases to give countries context for the "
-"geospatial reporting data. However, the UN Clear Map has scale "
-"constraints, as it cannot be used beyond a map scale of 1:4.5 million. As"
-" the PRAIS 4 map view is fixed to the extent of the country boundaries, "
-"countries which are fixed at scales finer than this will not be able to "
-"use UN Clear Map. Alternative web map services are provided for context "
-"at finer scales to compensate for the scale constraints of UN Clear Map."
-msgstr "Les données mondiales utilisées pour établir les estimations nationales par défaut ont été fournies par le Centre d’information géospatiale des Nations Unies (également dénommé « données cartographiques des Nations Unies » dans le présent document), une base de données géospatiales mondiales. Les noms des pays et des éléments géographiques et le tracé des frontières nationales sont repris de cette base de données afin de garantir une représentation cohérente à l’échelle mondiale. Le Centre fournit des services d’information géospatiale et des solutions de cartographie Web à destination de la communauté internationale. Le service phare des Nations Unies en matière d’information géospatiale est le programme Clear Map[^3]. Au départ réservé au Secrétariat des Nations Unies pour les cartes publiées sur son site Internet et utilisées dans ses produits Web associés, Clear Map est désormais disponible en libre accès sous réserve de l’acceptation des conditions générales d’utilisation. La version de Clear Map disponible dans PRAIS 4 est compatible avec différents types de site Web et propose plusieurs fonds de carte, afin que les pays puissent facilement resituer leurs données géospatiales dans leur contexte. Toutefois, l’échelle des cartes est limitée à 1 : 4,5 millions. Le modèle de carte disponible dans PRAIS 4 n’affiche que les frontières nationales, par conséquent les pays souhaitant une carte avec une échelle plus fine ne pourront pas utiliser Clear Map."
+msgid "In order to provide national-level extracts of the global data sources for national reporting, the United Nations Geospatial Hub (hereinafter referred to as UN Map Data) was used, which is a worldwide geospatial database consisting of country and geographic name information and a coherent alignment of national boundaries for consistent representation on a global scale. UN Map Data includes geospatial web services, which aim to provide a contextual global webservices background to the international community. The current flagship United Nations geospatial service is entitled Clear Map[^3] (hereinafter referred to as UN Clear Map). UN Clear Map was originally designed and created for the use of the United Nations Secretariat and system for their website and related web products, but is now a publicly available resource subject to the terms of use. The UN Clear Map service is available in PRAIS 4 in different cartographic styles and web canvases to give countries context for the geospatial reporting data. However, the UN Clear Map has scale constraints, as it cannot be used beyond a map scale of 1:4.5 million. As the PRAIS 4 map view is fixed to the extent of the country boundaries, countries which are fixed at scales finer than this will not be able to use UN Clear Map. Alternative web map services are provided for context at finer scales to compensate for the scale constraints of UN Clear Map."
+msgstr ""
 
 #: ../../introduction.md:280
-msgid ""
-"The UN Map Data has been prepared by the United Nations Geospatial "
-"Information Section (formerly Cartographic Section) in New York. The "
-"designations employed and the presentation of material contained in the "
-"UN Map Data do not imply the expression of any opinion whatsoever on the "
-"part of the UNCCD concerning the legal status of any country, territory, "
-"city or area or of its authorities, or concerning the delimitation of its"
-" frontiers or boundaries."
-msgstr "Les données cartographiques des Nations Unies sont préparées par la Section de l’information géospatiale des Nations Unies (anciennement Section de cartographie), basée à New York. Les désignations employées et la présentation des éléments dans les données cartographiques des Nations Unies n’impliquent pas l’expression d’une opinion quelconque de la part de la CNULCD concernant le statut légal d’un pays, d’un territoire, d’un domaine ou d’une ville, de ses autorités ou concernant les limites de ses frontières."
+msgid "The UN Map Data has been prepared by the United Nations Geospatial Information Section (formerly Cartographic Section) in New York. The designations employed and the presentation of material contained in the UN Map Data do not imply the expression of any opinion whatsoever on the part of the UNCCD concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries."
+msgstr ""
 
 #: ../../introduction.md:282
-msgid ""
-"Countries wishing to replace the default national estimates using "
-"nationally or locally available data are advised and encouraged to use "
-"Trends.Earth for the preparation, analysis and transfer of their data "
-"into PRAIS. This includes the use of a national border which differs from"
-" the UN Map Data used for the preparation of the default datasets "
-"described above. Careful consideration should be given to the use of an "
-"alternative national border in that it must be consistent with the total "
-"land area reported under SO 1-1. Otherwise, discrepancies may arise in "
-"the reporting data derived from geospatial analysis using that border."
-msgstr "Pour les pays qui souhaitent remplacer les estimations nationales par défaut par des données disponibles à l’échelle nationale ou locale, l’utilisation de Trends.Earth pour la préparation, l’analyse et le transfert vers PRAIS des données est fortement conseillée. À noter que la frontière nationale utilisée dans Trends-Earth n’est pas la même que celle des données cartographiques des Nations Unies utilisées dans l’élaboration des estimations par défaut décrites ci-dessus. Si le choix est fait d’utiliser un tracé différent, il convient de veiller à ce que celui-ci corresponde bien à la surface terrestre totale rapportée au titre de l’objectif stratégique 1-1. Faute de quoi, des anomalies risquent d’apparaître dans les données dérivées de l’analyse géospatiale pour laquelle ce tracé a été utilisé."
+msgid "Countries wishing to replace the default national estimates using nationally or locally available data are advised and encouraged to use Trends.Earth for the preparation, analysis and transfer of their data into PRAIS. This includes the use of a national border which differs from the UN Map Data used for the preparation of the default datasets described above. Careful consideration should be given to the use of an alternative national border in that it must be consistent with the total land area reported under SO 1-1. Otherwise, discrepancies may arise in the reporting data derived from geospatial analysis using that border."
+msgstr ""
 
 #: ../../introduction.md:286
 msgid "Open data sharing"
-msgstr "Partage des données ouvertes"
+msgstr ""
 
 #: ../../introduction.md:288
-msgid ""
-"By its decision 16/COP.11, the COP requested the secretariat to ensure "
-"that data and information from the reporting process are available and "
-"accessible to all, especially at the national and local levels."
-msgstr "En vertu de sa décision 16/COP.11, la Conférence des Parties a demandé au Secrétariat qu’il veille à ce que les données et les informations du processus de présentation de rapports soient disponibles et accessibles à tous, en particulier aux échelons local et national."
+msgid "By its decision 16/COP.11, the COP requested the secretariat to ensure that data and information from the reporting process are available and accessible to all, especially at the national and local levels."
+msgstr ""
 
 #: ../../introduction.md:290
-msgid ""
-"When uploading data to PRAIS, particularly spatial data and associated "
-"attribute data, country Parties will be prompted to choose whether to: "
-"(i) use an existing Creative Commons licence; or (ii) use an existing "
-"licence of their own."
-msgstr "Au moment de transférer leurs données vers PRAIS, en particulier les données spatiales et les attributs liés, les pays parties devront choisir entre l’utilisation i) d’une licence Creative Commons existante ou ii) d’une licence existante dont ils sont titulaires."
+msgid "When uploading data to PRAIS, particularly spatial data and associated attribute data, country Parties will be prompted to choose whether to: (i) use an existing Creative Commons licence; or (ii) use an existing licence of their own."
+msgstr ""
 
 #: ../../introduction.md:292
-msgid ""
-"These options aim to empower country Parties reporting through PRAIS to "
-"set the terms of use of the national data uploaded or created as part of "
-"the reporting process. Country Parties are free to choose a licence that "
-"meets their requirements. However, most of the default data provided to "
-"Parties through PRAIS and Trends.Earth is already in the public domain as"
-" described here, while other default datasets have been licenced by their"
-" respective data providers, namely the European Space Agency Climate "
-"Change Initiative Land Cover and the International Soil Reference and "
-"Information Centre SoilGrids, under an Attribution-ShareAlike licence. "
-"Thus, these datasets are subject to the terms of the Attribution-"
-"ShareAlike license. Users of these datasets, such as the UNCCD and its "
-"Parties, must reshare the data on the same terms granted by the licensor "
-"and with proper attribution to them. For more information on the issue of"
-" data sharing, see Annex I of this reporting manual."
-msgstr "Cette procédure vise à inciter les pays parties utilisant PRAIS à fixer des conditions d’utilisation pour les données nationales importées ou créées dans le cadre du processus de présentation des rapports. Les pays parties sont libres de choisir la licence d’utilisation qui leur convient le mieux. Toutefois, les données par défaut fournies dans PRAIS et Trends.Earth appartiennent déjà en majorité au domaine public. Pour le reste, elles sont soumises à une licence Attribution-ShareAlike par leurs propriétaires, à savoir l’Agence spatiale européenne, dans le cadre de son Initiative sur le changement climatique, qui produit des images de la couverture terrestre, et le Centre international de référence et d’information pédologique, dans le cadre de son système SoilGrids. Par conséquent, ces ensembles des données sont distribués selon les termes de la licence Attribution-ShareAlike. Les utilisateurs, tels que la CNULCD et ses pays parties, doivent repartager les données selon les termes accordés par le donneur de licence et indiquer que celui-ci est le propriétaire des données. Pour de plus amples informations sur la question du partage des données, consultez l’annexe I du présent manuel."
+msgid "These options aim to empower country Parties reporting through PRAIS to set the terms of use of the national data uploaded or created as part of the reporting process. Country Parties are free to choose a licence that meets their requirements. However, most of the default data provided to Parties through PRAIS and Trends.Earth is already in the public domain as described here, while other default datasets have been licenced by their respective data providers, namely the European Space Agency Climate Change Initiative Land Cover and the International Soil Reference and Information Centre SoilGrids, under an Attribution-ShareAlike licence. Thus, these datasets are subject to the terms of the Attribution-ShareAlike license. Users of these datasets, such as the UNCCD and its Parties, must reshare the data on the same terms granted by the licensor and with proper attribution to them. For more information on the issue of data sharing, see Annex I of this reporting manual."
+msgstr ""
 
 #: ../../introduction.md:294
 msgid "Reporting frequency"
-msgstr "Fréquence de présentation des rapports"
+msgstr ""
 
 #: ../../introduction.md:296
-msgid ""
-"By its decision 15/COP. 13, the COP approved a four-year frequency for "
-"national reporting. During the first reporting process under the UNCCD "
-"2018–2030 Strategic Framework in 2018, Parties reported data and "
-"information for the baseline period 2000–2015. From the 2022 reporting "
-"process onward, Parties will quantify the indicators and report national "
-"estimates for four-year reporting periods as indicated in table 6 below."
-msgstr "En vertu de sa décision 15/COP. 13, la Conférence des Parties a approuvé la publication des rapports nationaux tous les quatre ans. En 2018, lors du premier cycle de présentation de rapports au titre du Cadre stratégique 2018-2030 de la CNULCD, les données fournies par les pays portaient sur la période de référence 2000-2015. À partir de 2022, les indicateurs et les estimations nationales seront calculés sur une période de quatre ans, comme indiqué dans le tableau 6 ci-dessous."
+msgid "By its decision 15/COP. 13, the COP approved a four-year frequency for national reporting. During the first reporting process under the UNCCD 2018–2030 Strategic Framework in 2018, Parties reported data and information for the baseline period 2000–2015. From the 2022 reporting process onward, Parties will quantify the indicators and report national estimates for four-year reporting periods as indicated in table 6 below."
+msgstr ""
 
 #: ../../introduction.md:298
-msgid ""
-"*__Table 6__. UNCCD reporting process and corresponding reporting periods"
-" (current reporting process and period in bold)*"
-msgstr "*__Table 6__. Cycles de présentation des rapports de la CNULCD et périodes examinées (cycle et période actuels en gras)"
+msgid "*__Table 6__. UNCCD reporting process and corresponding reporting periods (current reporting process and period in bold)*"
+msgstr ""
 
-#: ../../introduction.md:1
+#: ../../introduction.md:305
 msgid "UNCCD Reporting Process"
-msgstr "Cycle de présentation de rapports de la CNULCD"
+msgstr ""
 
-#: ../../introduction.md:2
+#: ../../introduction.md:306
 msgid "UNCCD Reporting Periods"
-msgstr "Période examinée"
+msgstr ""
 
-#: ../../introduction.md:3
+#: ../../introduction.md:307
 msgid "2018"
-msgstr "2018"
+msgstr ""
 
-#: ../../introduction.md:4
+#: ../../introduction.md:308
 msgid "Baseline 2000-2015"
-msgstr "Seuil de référence 2000-2015"
+msgstr ""
 
-#: ../../introduction.md:5
+#: ../../introduction.md:309
 msgid "__2022__"
-msgstr "__2022__"
+msgstr ""
 
-#: ../../introduction.md:6
+#: ../../introduction.md:310
 msgid "__2016-2019__"
-msgstr "__2016-2019__"
+msgstr ""
 
-#: ../../introduction.md:7
+#: ../../introduction.md:311
 msgid "2026"
-msgstr "2026"
+msgstr ""
 
-#: ../../introduction.md:8
+#: ../../introduction.md:312
 msgid "2020-2023"
-msgstr "2020-2023"
+msgstr ""
 
-#: ../../introduction.md:9
+#: ../../introduction.md:313
 msgid "2030"
-msgstr "2030"
+msgstr ""
 
-#: ../../introduction.md:10
+#: ../../introduction.md:314
 msgid "2024-2027"
-msgstr "2024-2027"
+msgstr ""
 
-#: ../../introduction.md:11
+#: ../../introduction.md:315
 msgid "2034"
-msgstr "2034"
+msgstr ""
 
-#: ../../introduction.md:12
+#: ../../introduction.md:316
 msgid "2028-2031"
-msgstr "2028-2031"
+msgstr ""
 
 #: ../../introduction.md:319
 msgid "Recalculations and time series consistency"
-msgstr "Recalculs et cohérence des séries chronologiques"
+msgstr ""
 
 #: ../../introduction.md:321
-msgid ""
-"Advances in methodologies and data availability may require periodic "
-"recalculations of previously submitted national estimates. While "
-"recalculations may require refinements in terms of target-setting, they "
-"ensure the consistency of the time series and the comparability between "
-"the baseline and future monitoring data."
-msgstr "L’évolution des méthodologies et de la disponibilité des données peut nécessiter un recalcul des estimations nationales déjà soumises. Le cas échéant, les cibles doivent être affinées, toutefois cela permet de garantir la cohérence des séries chronologiques et la comparabilité entre les données de référence et les données de suivi ultérieures."
+msgid "Advances in methodologies and data availability may require periodic recalculations of previously submitted national estimates. While recalculations may require refinements in terms of target-setting, they ensure the consistency of the time series and the comparability between the baseline and future monitoring data."
+msgstr ""
 
 #: ../../introduction.md:323
-msgid ""
-"In this reporting process, the key reasons for recalculation, accompanied"
-" by explanatory information (including the quantitative impact of the "
-"recalculation on (i) the baseline estimates compared with the baseline "
-"reported in 2018; and (ii) previously submitted national targets), should"
-" be reported. A separate reporting form has been created in PRAIS 4 for "
-"this purpose."
-msgstr "Dans le cadre du cycle 2022, les principaux motifs du recalcul doivent être indiqués et des explications doivent être fournies, notamment l’incidence quantitative du recalcul sur i) les estimations de référence par rapport aux données portant sur la période de référence publiées en 2018 et ii) les cibles nationales précédemment transmises. Un formulaire de restitution des données distinct a été élaboré dans PRAIS 4 à cette fin."
+msgid "In this reporting process, the key reasons for recalculation, accompanied by explanatory information (including the quantitative impact of the recalculation on (i) the baseline estimates compared with the baseline reported in 2018; and (ii) previously submitted national targets), should be reported. A separate reporting form has been created in PRAIS 4 for this purpose."
+msgstr ""
 
 #: ../../introduction.md:325
-msgid ""
-"For instance, given the evolution of the calculation methods presented in"
-" version 2 of the [Good Practice Guidance for SDG Indicator "
-"15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
-"indicator-1531-proportion-land-degraded-over-total-land), it is "
-"recommended that previously submitted baseline estimates of all SO 1 "
-"indicators, including SDG Indicator 15.3.1, be recalculated and included "
-"in the national report to be submitted in 2022. Default national "
-"estimates provided through the PRAIS forms have already been recalculated"
-" for country Parties using the new calculation methods. Therefore, "
-"recalculation methods should only be reported if opting to use national "
-"datasets."
-msgstr "Ainsi, compte tenu de l’évolution de la méthode de calcul présentée dans la version 2 du [Guide de bonnes pratiques pour l’indicateur 15.3.1 des ODD](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land), il est conseillé de refaire les estimations de référence de l’ensemble des indicateurs de l’OS 1, notamment l’indicateur 15.3.1 des ODD, et d’intégrer celles-ci dans le rapport national de 2022. Les estimations nationales par défaut fournies dans les formulaires disponibles dans PRAIS ont déjà été recalculées pour le compte des pays parties à l’aide des nouvelles méthodes. Par conséquent, on précisera les méthodes de recalcul utilisées uniquement en cas de recours à des ensembles de données nationaux."
+msgid "For instance, given the evolution of the calculation methods presented in version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land), it is recommended that previously submitted baseline estimates of all SO 1 indicators, including SDG Indicator 15.3.1, be recalculated and included in the national report to be submitted in 2022. Default national estimates provided through the PRAIS forms have already been recalculated for country Parties using the new calculation methods. Therefore, recalculation methods should only be reported if opting to use national datasets."
+msgstr ""
 
 #: ../../introduction.md:327
-msgid ""
-"For a broader discussion on the issue of recalculations, see chapter 6 of"
-" version 2 of the [Good Practice Guidance for SDG Indicator "
-"15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
-"indicator-1531-proportion-land-degraded-over-total-land)."
-msgstr "Pour plus de détails sur la question du recalcul, consulter le chapitre 6 de la version 2.0 du [Guide de bonnes pratiques pour l’indicateur 15.3.1 des ODD](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)."
+msgid "For a broader discussion on the issue of recalculations, see chapter 6 of version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)."
+msgstr ""
 
 #: ../../introduction.md:329
 msgid "Process and schedule for the 2022 reporting process"
-msgstr "Procédure et calendrier de la présentation des rapports 2022"
+msgstr ""
 
 #: ../../introduction.md:331
-msgid ""
-"The 2022 reporting process is expected to commence in November 2021, "
-"contingent on the timing of the PRAIS 4 launch. If reporting commences at"
-" the beginning of November 2021, the deadline for submission of national "
-"reports could be May 2022, still pending a final decision by the "
-"Executive Secretary and the CRIC Bureau, who will assess progress made in"
-" reporting by Parties early next year."
-msgstr "Le cycle de présentation des rapports nationaux 2022 doit démarrer en novembre 2021, sous réserve du lancement en temps voulu du système PRAIS 4. S’il démarre au début du mois de novembre 2021, l’échéance de remise des rapports pourrait être fixée à mai 2022. La date finale sera arrêtée par le Secrétaire exécutif et par le Bureau du Comité chargé de l’examen de la mise en œuvre de la Convention, qui évalueront l’avancement de la préparation des rapports par les Parties en début d’année prochaine."
+msgid "The 2022 reporting process is expected to commence in November 2021, contingent on the timing of the PRAIS 4 launch. If reporting commences at the beginning of November 2021, the deadline for submission of national reports could be May 2022, still pending a final decision by the Executive Secretary and the CRIC Bureau, who will assess progress made in reporting by Parties early next year."
+msgstr ""
 
 #: ../../introduction.md:333
-msgid ""
-"Various measures will be taken to support Parties in preparing the "
-"national reports and providing high quality information:"
-msgstr "Plusieurs mesures d’appui seront mises en place pour faciliter l’élaboration des rapports nationaux et garantir la qualité des informations :"
+msgid "Various measures will be taken to support Parties in preparing the national reports and providing high quality information:"
+msgstr ""
 
 #: ../../introduction.md:335
-msgid ""
-"Capacity development activities will be organized starting in November "
-"2021. Due to COVID-19 and related travel restrictions, those capacity "
-"development activities will have to be designed as online tuition and "
-"webinars aimed at introducing national focal points and assigned "
-"reporting officers to the new reporting requirements, methodologies, data"
-" and tools;"
-msgstr "Des activités visant à renforcer les capacités seront organisées à compter de novembre 2021. En raison des contraintes sanitaires et de déplacement liées à la COVID-19, ces activités auront lieu en ligne sous forme de cours ou de webinaires. Les coordonnateurs nationaux et les agents chargés de l’élaboration des rapports pourront se familiariser avec les nouvelles exigences, méthodes, données et avec les nouveaux outils en matière de présentation de rapports."
+msgid "Capacity development activities will be organized starting in November 2021. Due to COVID-19 and related travel restrictions, those capacity development activities will have to be designed as online tuition and webinars aimed at introducing national focal points and assigned reporting officers to the new reporting requirements, methodologies, data and tools;"
+msgstr ""
 
 #: ../../introduction.md:337
-msgid ""
-"The secretariat and the Global Mechanism, with the assistance of "
-"consultants, will provide technical backstopping throughout the reporting"
-" process;"
-msgstr "Le secrétariat et le Mécanisme mondial, avec l’aide de consultants, offriront un appui technique tout au long du processus."
+msgid "The secretariat and the Global Mechanism, with the assistance of consultants, will provide technical backstopping throughout the reporting process;"
+msgstr ""
 
 #: ../../introduction.md:339
-msgid ""
-"An online helpdesk facility will be available via PRAIS 4 to respond to "
-"queries from Parties;"
-msgstr "Un service d’assistance en ligne sera disponible dans PRAIS 4 pour répondre aux requêtes des Parties."
+msgid "An online helpdesk facility will be available via PRAIS 4 to respond to queries from Parties;"
+msgstr ""
 
 #: ../../introduction.md:341
-msgid ""
-"National reports will undergo a quality assurance procedure prior to "
-"final submission to ensure the provision of consistent, transparent, "
-"comparable, accurate and complete information."
-msgstr "Les rapports nationaux seront soumis à une procédure d’assurance qualité avant leur présentation finale afin de vérifier que les informations fournies sont cohérentes, transparentes, comparables, exactes et exhaustives."
+msgid "National reports will undergo a quality assurance procedure prior to final submission to ensure the provision of consistent, transparent, comparable, accurate and complete information."
+msgstr ""
 
 #: ../../introduction.md:343
-msgid ""
-"At its twenty-first session, the CRIC will review and analyse the "
-"information submitted during the 2022 reporting process."
-msgstr "Au cours de sa vingt et unième session, le Comité chargé de l’examen de la mise en œuvre de la Convention procédera à l’examen et à l’analyse des rapports soumis durant le cycle de présentation de rapports 2022."
+msgid "At its twenty-first session, the CRIC will review and analyse the information submitted during the 2022 reporting process."
+msgstr ""
 
 #: ../../introduction.md:73
-msgid ""
-"Indicators under SO 1 and SDG indicator 15.3.1 are optional for reporting"
-" by developed country Parties. Developed country Parties may wish to "
-"submit information on these indicators on a voluntary basis for the "
-"purpose of reporting on progress towards the SDGs."
-msgstr "Les indicateurs de l’OS 1 et l’indicateur 15.3.1 des ODD sont facultatifs dans les rapports des pays parties développés. Les pays parties développés peuvent communiquer des informations sur ces indicateurs de façon volontaire, en vue de contribuer aux rapports sur les ODD."
+msgid "Indicators under SO 1 and SDG indicator 15.3.1 are optional for reporting by developed country Parties. Developed country Parties may wish to submit information on these indicators on a voluntary basis for the purpose of reporting on progress towards the SDGs."
+msgstr ""
 
 #: ../../introduction.md:252
-msgid ""
-"Delivery of analytical, synthesis and visualization functions expected in"
-" September - December 2022."
-msgstr "Les fonctions d’analyse, de synthèse et de visualisation devraient être prêtes entre septembre et décembre 2022."
+msgid "Delivery of analytical, synthesis and visualization functions expected in September - December 2022."
+msgstr ""
 
 #: ../../introduction.md:284
 msgid "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
-msgstr "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
-
-#~ msgid ""
-#~ "*__Table 1__. Strategic objective (SO) 1"
-#~ " indicators and reporting attributions*"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "{rspan}`3` Indicators under SO 1 and "
-#~ "SDG indicator 15.3.1 are optional for"
-#~ " reporting by developed country Parties."
-#~ " Developed country Parties may wish "
-#~ "to submit information on these "
-#~ "indicators on a voluntary basis for "
-#~ "the purpose of reporting on progress "
-#~ "towards the SDGs."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Analytical, synthesis and visualization "
-#~ "functions for the submitted data."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Version 2 of the Good Practice "
-#~ "Guidance for SDG Indicator 15.3.1: "
-#~ "Proportion of land that is degraded "
-#~ "over total land area;"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The calculation of the SO 1 "
-#~ "indicators, including SDG Indicator 15.3.1,"
-#~ " following version 2 of the Good "
-#~ "Practice Guidance for SDG Indicator "
-#~ "15.3.1;"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In order to provide national-level "
-#~ "extracts of the global data sources "
-#~ "for national reporting, the United "
-#~ "Nations Geospatial Hub (hereinafter referred"
-#~ " to as UN Map Data) was used,"
-#~ " which is a worldwide geospatial "
-#~ "database consisting of country and "
-#~ "geographic name information and a "
-#~ "coherent alignment of national boundaries "
-#~ "for consistent representation on a "
-#~ "global scale. UN Map Data includes "
-#~ "geospatial web services, which aim to"
-#~ " provide a contextual global webservices"
-#~ " background to the international community."
-#~ " The current flagship United Nations "
-#~ "geospatial service is entitled [Clear "
-#~ "Map](https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887)"
-#~ " (hereinafter referred to as UN Clear"
-#~ " Map). UN Clear Map was originally"
-#~ " designed and created for the use "
-#~ "of the United Nations Secretariat and"
-#~ " system for their website and related"
-#~ " web products, but is now a "
-#~ "publicly available resource subject to "
-#~ "the terms of use. The UN Clear "
-#~ "Map service is available in PRAIS "
-#~ "4 in different cartographic styles and"
-#~ " web canvases to give countries "
-#~ "context for the geospatial reporting "
-#~ "data. However, the UN Clear Map "
-#~ "has scale constraints, as it cannot "
-#~ "be used beyond a map scale of "
-#~ "1:4.5 million. As the PRAIS 4 map"
-#~ " view is fixed to the extent of"
-#~ " the country boundaries, countries which"
-#~ " are fixed at scales finer than "
-#~ "this will not be able to use "
-#~ "UN Clear Map. Alternative web map "
-#~ "services are provided for context at "
-#~ "finer scales to compensate for the "
-#~ "scale constraints of UN Clear Map."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "For instance, given the evolution of "
-#~ "the calculation methods presented in "
-#~ "version 2 of the Good Practice "
-#~ "Guidance for SDG Indicator 15.3.1, it"
-#~ " is recommended that previously submitted"
-#~ " baseline estimates of all SO 1 "
-#~ "indicators, including SDG Indicator 15.3.1,"
-#~ " be recalculated and included in the"
-#~ " national report to be submitted in"
-#~ " 2022. Default national estimates provided"
-#~ " through the PRAIS forms have already"
-#~ " been recalculated for country Parties "
-#~ "using the new calculation methods. "
-#~ "Therefore, recalculation methods should only"
-#~ " be reported if opting to use "
-#~ "national datasets."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "For a broader discussion on the "
-#~ "issue of recalculations, see chapter 6"
-#~ " of version 2 of the Good "
-#~ "Practice Guidance for SDG Indicator "
-#~ "15.3.1."
-#~ msgstr ""
+msgstr ""
 
