@@ -1,704 +1,440 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, UNCCD
-# This file is distributed under the same license as the PRAIS4 Reporting
-# Manual package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: PRAIS4 Reporting Manual \n"
+"Project-Id-Version: prais4-reporting-manual\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-04 19:41+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2025-05-13 16:13+0300\n"
+"PO-Revision-Date: 2025-05-13 16:48\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: prais4-reporting-manual\n"
+"X-Crowdin-Project-ID: 760205\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/locales/source/SO4.pot\n"
+"X-Crowdin-File-ID: 16\n"
+"Language: zh_CN\n"
 
 #: ../../SO4.md:1
-msgid ""
-"4. Strategic objective 4: To generate global environmental benefits "
-"through effective implementation of the United Nations Convention to "
-"Combat Desertification"
-msgstr "4. 战略目标4：通过有效执行《联合国防治荒漠化公约》，产生全球环境效益"
+msgid "4. Strategic objective 4: To generate global environmental benefits through effective implementation of the United Nations Convention to Combat Desertification"
+msgstr ""
 
 #: ../../SO4.md:3
 msgid "4.1. SO 4-1 – Trends in carbon stocks above and below ground"
-msgstr "4.1. SO 4-1 – 地上和地下碳储量趋势"
+msgstr ""
 
 #: ../../SO4.md:5
-msgid ""
-"Trends in carbon stocks above and below ground is a multipurpose "
-"indicator used to measure progress towards strategic objectives (SOs) 1 "
-"and 4. Quantitative data and a qualitative assessment of trends in this "
-"indicator are reported under SO 1 (progress indicator SO 1-3)."
-msgstr "地上和地下碳储量趋势是一个多用途指标，用于衡量实现战略目标（SO）1和4的进展情况。SO 1下报告了该指标的定量数据和定性评估（进展指标SO 1-3）。"
+msgid "Trends in carbon stocks above and below ground is a multipurpose indicator used to measure progress towards strategic objectives (SOs) 1 and 4. Quantitative data and a qualitative assessment of trends in this indicator are reported under SO 1 (progress indicator SO 1-3)."
+msgstr ""
 
 #: ../../SO4.md:7
 msgid "4.2. SO 4-2 – Trends in abundance and distribution of selected species"
-msgstr "4.2. SO 4-2 – 选定物种的丰度和分布趋势"
+msgstr ""
 
 #: ../../SO4.md:9
 msgid "4.2.1. Introduction"
-msgstr "4.2.1. 简介"
+msgstr ""
 
 #: ../../SO4.md:11
-msgid ""
-"The world’s species are impacted by several threatening processes, "
-"including habitat destruction and degradation, overexploitation, invasive"
-" alien species, human disturbance, pollution and climate change. On-"
-"ground land restoration actions under the implementation of the United "
-"Nations Convention to Combat Desertification (UNCCD) can mitigate "
-"threatening processes and reduce species extinction risk. The Red List "
-"Index (RLI) can be used to assess overall changes in the extinction risk "
-"of groups of species because of these threats and the extent to which "
-"threats are being mitigated. The RLI is also Sustainable Development Goal"
-" (SDG) indicator 15.5.1[^1].  The RLI estimates trends in the overall "
-"extinction risk of sets of species to determine trends in biodiversity "
-"status. It is based on changes in the number of species in each category "
-"of extinction risk on the International Union for Conservation of Nature "
-"(IUCN) Red List of Threatened Species[^2]."
-msgstr "世界上的物种受到多个威胁进程的影响，包括栖息地破坏和退化、过度开发、外来物种入侵、人类干扰、污染和气候变化。根据《联合国防治荒漠化公约》（《荒漠化公约》）实施的实地土地恢复行动可以减缓威胁进程，减少物种灭绝的风险。红色名录指数（RLI）可以用来评估由于这些威胁造成的物种群体灭绝风险的整体变化，以及威胁得到缓解的程度。RLI也是可持续发展目标指标15.5.1[^1]。 RLI估计各组物种的总体灭绝风险趋势，以确定生物多样性状况的趋势。它是基于世界自然保护联盟（IUCN）濒临灭绝物种红色名录[^2]上每一类灭绝风险的物种数量变化而创建的。"
+msgid "The world’s species are impacted by several threatening processes, including habitat destruction and degradation, overexploitation, invasive alien species, human disturbance, pollution and climate change. On-ground land restoration actions under the implementation of the United Nations Convention to Combat Desertification (UNCCD) can mitigate threatening processes and reduce species extinction risk. The Red List Index (RLI) can be used to assess overall changes in the extinction risk of groups of species because of these threats and the extent to which threats are being mitigated. The RLI is also Sustainable Development Goal (SDG) indicator 15.5.1[^1].  The RLI estimates trends in the overall extinction risk of sets of species to determine trends in biodiversity status. It is based on changes in the number of species in each category of extinction risk on the International Union for Conservation of Nature (IUCN) Red List of Threatened Species[^2]."
+msgstr ""
 
 #: ../../SO4.md:13
-msgid ""
-"The RLI value ranges from 1 (all species are categorized as ‘Least "
-"Concern’) to 0 (all species are categorized as ‘Extinct’), and so "
-"indicates how far the set of species has moved overall towards "
-"extinction. Thus, the RLI allows comparisons between sets of species in "
-"both their overall level of extinction risk (i.e. how threatened they are"
-" on average) and in the rate at which this risk changes over time. A "
-"downward trend in the RLI over time means that the expected rate of "
-"future species extinctions is worsening (i.e. the rate of biodiversity "
-"loss is increasing). An upward trend means that the expected rate of "
-"species extinctions is declining (i.e. the rate of biodiversity loss is "
-"decreasing), and a horizontal line means that the expected rate of "
-"species extinctions is remaining the same, although in each of these "
-"cases it does not mean that biodiversity loss has stopped. Currently, the"
-" RLI is available for five taxonomic groups: birds, mammals, amphibians, "
-"cycads and warm-water reef-forming corals. It has also been aggregated "
-"into a single index for these five groups[^3]."
-msgstr "RLI值的范围从1（所有物种都被归类为“无危”）到0（所有物种都被归类为“灭绝”），因此表明这组物种整体上走向灭绝的程度。因此，RLI可以比较各组物种的总体灭绝风险水平（即它们平均受威胁的程度）和这种风险随时间变化的速度。RLI的下降趋势意味着未来物种灭绝的预期速度正在恶化（即生物多样性丧失的速度正在上升）。上升趋势意味着预期的物种灭绝速度在下降（即生物多样性丧失速度在下降），水平线意味着预期的物种灭绝速度保持不变，尽管在每一种情况下，这并不意味着生物多样性丧失已经停止。目前，RLI可用于五个分类群：鸟类、哺乳动物、两栖动物、苏铁植物和温水造礁珊瑚。它也被汇总为这五个群的单一指数[^3]。"
+msgid "The RLI value ranges from 1 (all species are categorized as ‘Least Concern’) to 0 (all species are categorized as ‘Extinct’), and so indicates how far the set of species has moved overall towards extinction. Thus, the RLI allows comparisons between sets of species in both their overall level of extinction risk (i.e. how threatened they are on average) and in the rate at which this risk changes over time. A downward trend in the RLI over time means that the expected rate of future species extinctions is worsening (i.e. the rate of biodiversity loss is increasing). An upward trend means that the expected rate of species extinctions is declining (i.e. the rate of biodiversity loss is decreasing), and a horizontal line means that the expected rate of species extinctions is remaining the same, although in each of these cases it does not mean that biodiversity loss has stopped. Currently, the RLI is available for five taxonomic groups: birds, mammals, amphibians, cycads and warm-water reef-forming corals. It has also been aggregated into a single index for these five groups[^3]."
+msgstr ""
 
 #: ../../SO4.md:15
-msgid ""
-"The main output of the reporting process for SO 4-2 is a set of "
-"officially verified annual estimates of RLI values for 2000–2020. "
-"National reporting is facilitated through the provision of default data "
-"pre-filled from the SDG database for indicator 15.5.1."
-msgstr "SO 4-2报告过程的主要产出是一套经官方核实的2000-2020年RLI数值的年度估计数。通过提供从可持续发展目标数据库为指标15.5.1预先填写的默认数据，为国家报告提供了便利。"
+msgid "The main output of the reporting process for SO 4-2 is a set of officially verified annual estimates of RLI values for 2000–2020. National reporting is facilitated through the provision of default data pre-filled from the SDG database for indicator 15.5.1."
+msgstr ""
 
 #: ../../SO4.md:21
 msgid "4.2.2. Prerequisites for reporting"
-msgstr "4.2.2.报告的先决条件"
+msgstr ""
 
 #: ../../SO4.md:23
-msgid ""
-"An in-depth reading of [SDG indicator 15.5.1 metadata "
-"document](https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf);"
-msgstr "深入阅读[可持续发展目标指标15.5.1元数据文件]（https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf）；"
+msgid "An in-depth reading of [SDG indicator 15.5.1 metadata document](https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf);"
+msgstr ""
 
 #: ../../SO4.md:25
-msgid ""
-"Consultation with national experts on biodiversity, species extinction "
-"risk, and land management and conservation; Convention on Biological "
-"Diversity (CBD) national focal points; national statistical offices and "
-"IUCN State Members;"
-msgstr "与生物多样性、物种灭绝风险以及土地管理和保护方面的国家专家、《生物多样性公约》国家联络人；国家统计局和世界自然保护联盟的成员国进行磋商；"
+msgid "Consultation with national experts on biodiversity, species extinction risk, and land management and conservation; Convention on Biological Diversity (CBD) national focal points; national statistical offices and IUCN State Members;"
+msgstr ""
 
 #: ../../SO4.md:27
-msgid ""
-"Familiarity with the ‘Advanced Search’ function on the IUCN Red List "
-"website to enable customized calculation of the RLI: "
-"<https://www.iucnredlist.org/search>."
-msgstr "熟悉世界自然保护联盟红色名录网站上的“高级搜索”功能，能够对RLI进行自定义计算：<https://www.iucnredlist.org/search>。"
+msgid "Familiarity with the ‘Advanced Search’ function on the IUCN Red List website to enable customized calculation of the RLI: <https://www.iucnredlist.org/search>."
+msgstr ""
 
 #: ../../SO4.md:29
 msgid "4.2.3. Reporting process and step-by-step procedures"
-msgstr "4.2.3. 报告流程和分步程序"
+msgstr ""
 
-#: ../../SO4.md:31 ../../SO4.md:143
+#: ../../SO4.md:31
+#: ../../SO4.md:143
 msgid "The step-by-step procedure for reporting is described in the following."
-msgstr "报告的分步程序在下文中描述。"
+msgstr ""
 
 #: ../../SO4.md:33
 msgid "Step 1: Report Red List Index data"
-msgstr "第1步：报告红色名录指数数据"
+msgstr ""
 
-#: ../../SO4.md:1
+#: ../../SO4.md:36
 msgid "Related areas in the PRAIS 4 platform: table SO4-2.T1"
-msgstr "PRAIS 4平台中的相关区域：表SO4-2.T1"
+msgstr ""
 
 #: ../../SO4.md:39
-msgid ""
-"The RLI is SDG indicator 15.5.1. Therefore, the RLI data are pre-filled "
-"from the SDG database, including the national-level index value as well "
-"as the upper and lower bounds of uncertainty around the national "
-"estimate. No further action is required if Parties choose to use the "
-"default data."
-msgstr "RLI是持续发展目标指标15.5.1。因此，RLI数据是根据可持续发展目标数据库预先填写的，包括国家一级的指数值以及国家估计数不确定性的上限和下限。如果缔约方选择使用默认数据，则无需采取进一步行动。"
+msgid "The RLI is SDG indicator 15.5.1. Therefore, the RLI data are pre-filled from the SDG database, including the national-level index value as well as the upper and lower bounds of uncertainty around the national estimate. No further action is required if Parties choose to use the default data."
+msgstr ""
 
 #: ../../SO4.md:41
-msgid ""
-"Parties may decide to customize/complement the values to be reported in "
-"table SO4-2.T1. Customised RLI values can be produced from the Red List "
-"website[^4].  The RLI can be disaggregated to produce RLIs for different "
-"subsets of species with different policy relevance (e.g. migratory "
-"species, etc.) or for all species showing trends driven by different "
-"threatening processes (e.g. invasive alien species, biological resource "
-"use, etc.). At present, disaggregated RLI data is only available at "
-"subregional, regional or global scales and it is not available for single"
-" countries."
-msgstr "缔约方可决定自定义/补充要在表SO4-2.T1中报告的数值。自定义的RLI值可以从红色名录网站上产生[^4]。可以对RLI进行分类，以便为具有不同政策相关性的不同物种子集（如迁徙物种等）产生RLI，或为所有物种产生RLI，从而显示由不同威胁进程（如外来入侵物种、生物资源利用等）驱动的趋势。目前，只有在次区域、区域或全球范围内才有分类的RLI数据，没有单个国家的数据。"
+msgid "Parties may decide to customize/complement the values to be reported in table SO4-2.T1. Customised RLI values can be produced from the Red List website[^4].  The RLI can be disaggregated to produce RLIs for different subsets of species with different policy relevance (e.g. migratory species, etc.) or for all species showing trends driven by different threatening processes (e.g. invasive alien species, biological resource use, etc.). At present, disaggregated RLI data is only available at subregional, regional or global scales and it is not available for single countries."
+msgstr ""
 
 #: ../../SO4.md:43
-msgid ""
-"Parties may want to report on regional-scale subsets of species that are "
-"more relevant to the implementation of the UNCCD. National experts on "
-"biodiversity, species extinction risk, and land management and land "
-"conservation actions implemented to mitigate extinction risk should be "
-"involved here to decide what disaggregation to use to complete the "
-"report."
-msgstr "缔约方可能希望报告与《荒漠化公约》的实施更相关的区域范围内的物种子集。生物多样性、物种灭绝风险以及为减轻灭绝风险而实施的土地管理和土地保护行动方面的国家专家应参与其中，以决定采用何种分类方法来完成报告。"
+msgid "Parties may want to report on regional-scale subsets of species that are more relevant to the implementation of the UNCCD. National experts on biodiversity, species extinction risk, and land management and land conservation actions implemented to mitigate extinction risk should be involved here to decide what disaggregation to use to complete the report."
+msgstr ""
 
 #: ../../SO4.md:45
-msgid ""
-"Details on the customization of the RLI values should be reported in the "
-"‘General Comments’ section provided in the PRAIS 4 platform."
-msgstr "关于自定义RLI值的详情，应该在PRAIS 4平台中提供的“一般性注释”部分报告。"
+msgid "Details on the customization of the RLI values should be reported in the ‘General Comments’ section provided in the PRAIS 4 platform."
+msgstr ""
 
 #: ../../SO4.md:49
 msgid "Step 2: Qualitatively assess the Red List Index data"
-msgstr "第2步：对红色名录指数数据进行定性评估"
+msgstr ""
 
-#: ../../SO4.md:1
+#: ../../SO4.md:52
 msgid "Related areas in the PRAIS 4 platform: table SO4-2.T2"
-msgstr "PRAIS 4平台中的相关区域：表SO4-2.T2"
+msgstr ""
 
 #: ../../SO4.md:55
-msgid ""
-"Countries are encouraged to identify and then rank which drivers directly"
-" or indirectly cause negative changes or downward trends. Countries are "
-"also encouraged to comment on the policy responses or levers that have "
-"caused positive changes, upward trends or reversal of negative trends in "
-"the RLI[^5]."
-msgstr "鼓励各国确定哪些驱动因素直接或间接导致负面变化或下降趋势，然后对其进行排序。还鼓励各国对造成RLI积极变化、上升趋势或扭转消极趋势的政策反应或手段发表评论[^5]。"
+msgid "Countries are encouraged to identify and then rank which drivers directly or indirectly cause negative changes or downward trends. Countries are also encouraged to comment on the policy responses or levers that have caused positive changes, upward trends or reversal of negative trends in the RLI[^5]."
+msgstr ""
 
 #: ../../SO4.md:59
 msgid "Step 3:  Verify the results"
-msgstr "第3步：验证结果"
+msgstr ""
 
 #: ../../SO4.md:61
-msgid ""
-"The reliability of the default RLI data needs to be verified by national "
-"experts to detect and highlight situations where the confidence level of "
-"the obtained results might be low. This would qualitatively assess the "
-"reliability of the estimates based on expert knowledge and on a correct "
-"interpretation of the data."
-msgstr "默认RLI数据的可靠性需要由国家专家进行验证，以发现和强调所获得结果的置信度可能较低的情况。这将对基于专家知识和对数据正确解释而得出的估计数的可靠性进行质量评估。"
+msgid "The reliability of the default RLI data needs to be verified by national experts to detect and highlight situations where the confidence level of the obtained results might be low. This would qualitatively assess the reliability of the estimates based on expert knowledge and on a correct interpretation of the data."
+msgstr ""
 
-#: ../../SO4.md:63 ../../SO4.md:169
+#: ../../SO4.md:63
+#: ../../SO4.md:169
 msgid "Step 4: Generate reports"
-msgstr "第4步：生成报告"
+msgstr ""
 
 #: ../../SO4.md:65
-msgid ""
-"Once verified by the Parties, the estimates of the RLI indicator as well "
-"as the qualitative assessment should be officially submitted to UNCCD."
-msgstr "经缔约方核实后，RLI指标的估计数以及定性评估应正式提交给《荒漠化公约》。"
+msgid "Once verified by the Parties, the estimates of the RLI indicator as well as the qualitative assessment should be officially submitted to UNCCD."
+msgstr ""
 
 #: ../../SO4.md:67
-msgid ""
-"Parties have the option to use the ‘General Comment’ field to add any "
-"relevant information, or to report on specific country or regional "
-"situations."
-msgstr "缔约方可以选择使用“一般性注释”栏来添加任何相关信息，或报告具体的国家或地区情况。"
+msgid "Parties have the option to use the ‘General Comment’ field to add any relevant information, or to report on specific country or regional situations."
+msgstr ""
 
 #: ../../SO4.md:69
 msgid "4.2.4. Dependencies"
-msgstr "4.2.4. 依赖性"
+msgstr ""
 
 #: ../../SO4.md:71
 msgid "The SO 4-2 indicator has no interdependencies with other SOs."
-msgstr "SO 4-2指标与其他SO没有相互依赖关系。"
+msgstr ""
 
 #: ../../SO4.md:73
 msgid "4.2.5. Challenges"
-msgstr "4.2.5. 挑战"
+msgstr ""
 
-#: ../../SO4.md:75 ../../SO4.md:185
+#: ../../SO4.md:75
+#: ../../SO4.md:185
 msgid "Data interpretation"
-msgstr "数据解释"
+msgstr ""
 
 #: ../../SO4.md:77
-msgid ""
-"The main challenge is the interpretation of changes in the indicator and "
-"specifically understanding the drivers of trends in the indicator. The "
-"RLI is an aggregate indicator across a small number of taxa and therefore"
-" does not include all species in a country. National experts on "
-"biodiversity, species extinction risk, and land management and land "
-"conservation actions implemented to mitigate extinction risk will be "
-"crucial for correct interpretation."
-msgstr "主要挑战在于如何解释指标的变化，特别是理解指标趋势的驱动因素。RLI是一个跨越少数分类群的综合指标，因此并不包括一个国家的所有物种。生物多样性、物种灭绝风险以及为减轻灭绝风险而实施的土地管理和土地保护行动方面的国家专家在正确解释方面发挥着至关重要的作用。"
+msgid "The main challenge is the interpretation of changes in the indicator and specifically understanding the drivers of trends in the indicator. The RLI is an aggregate indicator across a small number of taxa and therefore does not include all species in a country. National experts on biodiversity, species extinction risk, and land management and land conservation actions implemented to mitigate extinction risk will be crucial for correct interpretation."
+msgstr ""
 
 #: ../../SO4.md:79
-msgid ""
-"There are also several sources of uncertainty in the RLI values and "
-"trends pertaining to lack of knowledge about species extinction risk, "
-"poor data on species, and delays in learning about changes to species "
-"extinction risk. The RLI metadata for SDG indicator 15.5.1 should be "
-"consulted for more information."
-msgstr "RLI值和趋势的不确定性还有几个来源，与对物种灭绝风险的缺乏了解、物种数据不佳以及对物种灭绝风险变化的了解滞后有关。更多信息应参考可持续发展目标指标15.5.1的RLI元数据。"
+msgid "There are also several sources of uncertainty in the RLI values and trends pertaining to lack of knowledge about species extinction risk, poor data on species, and delays in learning about changes to species extinction risk. The RLI metadata for SDG indicator 15.5.1 should be consulted for more information."
+msgstr ""
 
 #: ../../SO4.md:81
 msgid "4.2.6. Summary"
-msgstr "4.2.6. 总结"
+msgstr ""
 
-#: ../../SO4.md:83 ../../SO4.md:193
+#: ../../SO4.md:83
+#: ../../SO4.md:193
 msgid "Key actions for reporting on RLI are as follows:"
-msgstr "报告RLI时需采取的关键行动如下："
+msgstr ""
 
 #: ../../SO4.md:85
-msgid ""
-"**Report RLI data**: Parties can use the default data or can choose to "
-"report using customized RLI values."
-msgstr "**报告RLI数据**：缔约方可以使用默认数据，也可以选择使用自定义的RLI值进行报告。"
+msgid "**Report RLI data**: Parties can use the default data or can choose to report using customized RLI values."
+msgstr ""
 
 #: ../../SO4.md:87
-msgid ""
-"**Qualitatively assess the RLI data**: Parties can report on the direct "
-"and indirect drivers of trends in the RLI and any levers used to bring "
-"about positive and transformative change."
-msgstr "**对RLI数据进行定性评估**：缔约方可以报告RLI趋势的直接和间接驱动因素，以及用于带来积极和变革性变化的任何手段。"
+msgid "**Qualitatively assess the RLI data**: Parties can report on the direct and indirect drivers of trends in the RLI and any levers used to bring about positive and transformative change."
+msgstr ""
 
 #: ../../SO4.md:89
-msgid ""
-"**Verify the results**: Aware of the limitations of the RLI values, "
-"Parties may verify the accuracy and reliability of such indicators in "
-"their countries before officially submitting estimates for UNCCD "
-"reporting."
-msgstr "**核实结果**：在意识到RLI值的局限性后，缔约方可在正式提交估计数用于《荒漠化公约》报告之前，核实本国此类指标的准确性和可靠性。"
+msgid "**Verify the results**: Aware of the limitations of the RLI values, Parties may verify the accuracy and reliability of such indicators in their countries before officially submitting estimates for UNCCD reporting."
+msgstr ""
 
-#: ../../SO4.md:91 ../../SO4.md:201
-msgid ""
-"**Generate reports**: Once verified by the Parties, the data and "
-"supporting narrative should be officially submitted to UNCCD."
-msgstr "**生成报告**：经缔约方核实后，应将数据和辅助说明正式提交给《荒漠化公约》。"
+#: ../../SO4.md:91
+#: ../../SO4.md:201
+msgid "**Generate reports**: Once verified by the Parties, the data and supporting narrative should be officially submitted to UNCCD."
+msgstr ""
 
 #: ../../SO4.md:93
 msgid "4.2.7. Further reading"
-msgstr "4.2.7. 深入阅读"
+msgstr ""
 
 #: ../../SO4.md:95
-msgid ""
-"SDG indicator 15.5.1 metadata document "
-"(<https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf>)."
-msgstr "可持续发展目标指标15.5.1元数据文件(<https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf>)。"
+msgid "SDG indicator 15.5.1 metadata document (<https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf>)."
+msgstr ""
 
 #: ../../SO4.md:96
-msgid ""
-"Butchart et al. (2006) Biodiversity indicators based on trends in "
-"conservation status: strengths of the IUCN Red List Index. Conservation "
-"Biology 20: 579–581 "
-"(<http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2006.00410.x/abstract>)."
-msgstr "Butchart et al. (2006) Biodiversity indicators based on trends in conservation status: strengths of the IUCN Red List Index. Conservation Biology 20: 579–581 (<http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2006.00410.x/abstract>)."
+msgid "Butchart et al. (2006) Biodiversity indicators based on trends in conservation status: strengths of the IUCN Red List Index. Conservation Biology 20: 579–581 (<http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2006.00410.x/abstract>)."
+msgstr ""
 
 #: ../../SO4.md:97
-msgid ""
-"Butchart et al (2010) Global Biodiversity: Indicators of Recent Declines,"
-" Science, 328 (5982), pp. 1164–1168 "
-"(<https://science.sciencemag.org/content/328/5982/1164>)."
-msgstr "Butchart et al (2010) Global Biodiversity: Indicators of Recent Declines, Science, 328 (5982), pp. 1164–1168 (<https://science.sciencemag.org/content/328/5982/1164>)."
+msgid "Butchart et al (2010) Global Biodiversity: Indicators of Recent Declines, Science, 328 (5982), pp. 1164–1168 (<https://science.sciencemag.org/content/328/5982/1164>)."
+msgstr ""
 
 #: ../../SO4.md:99
-msgid ""
-"4.3. SO 4-3 Trends in protected area coverage of important biodiversity "
-"areas"
-msgstr "4.3. SO 4-3 重要生物多样性地区的保护区覆盖率趋势"
+msgid "4.3. SO 4-3 Trends in protected area coverage of important biodiversity areas"
+msgstr ""
 
 #: ../../SO4.md:101
 msgid "4.3.1. Introduction"
-msgstr "4.3.1. 简介"
+msgstr ""
 
 #: ../../SO4.md:103
-msgid ""
-"Protecting important sites for biodiversity is critical to halting the "
-"decline in biodiversity and ensuring the long-term and sustainable use of"
-" terrestrial natural resources. Establishing protected areas is an "
-"important mechanism for achieving this aim, and this indicator measures "
-"progress toward the conservation, restoration and sustainable use of "
-"terrestrial ecosystems and their services."
-msgstr "保护生物多样性的重要地点对于阻止生物多样性的减少和确保陆地自然资源的长期和可持续利用至关重要。建立保护区是实现这一目标的一个重要机制，这一指标衡量的是在保护、恢复和可持续利用陆地生态系统及其服务方面的进展。"
+msgid "Protecting important sites for biodiversity is critical to halting the decline in biodiversity and ensuring the long-term and sustainable use of terrestrial natural resources. Establishing protected areas is an important mechanism for achieving this aim, and this indicator measures progress toward the conservation, restoration and sustainable use of terrestrial ecosystems and their services."
+msgstr ""
 
 #: ../../SO4.md:105
-msgid ""
-"Protected areas as defined by the IUCN[^6]  are clearly defined "
-"geographical spaces, recognized, dedicated and managed, through legal or "
-"other effective means, to achieve the long-term conservation of nature "
-"with associated ecosystem services and cultural values. A variety of "
-"specific management objectives and levels of access are recognized within"
-" this definition, spanning conservation, restoration and sustainable use."
-msgstr "世界自然保护联盟[^6]定义的保护区是明确界定的地理空间，通过法律或其他有效手段加以确认、专用和管理，以实现对自然及相关生态系统服务和文化价值的长期保护。在这个定义中，各种具体的管理目标和准入水平都得到了认可，涵盖保护、恢复和可持续利用。"
+msgid "Protected areas as defined by the IUCN[^6]  are clearly defined geographical spaces, recognized, dedicated and managed, through legal or other effective means, to achieve the long-term conservation of nature with associated ecosystem services and cultural values. A variety of specific management objectives and levels of access are recognized within this definition, spanning conservation, restoration and sustainable use."
+msgstr ""
 
 #: ../../SO4.md:107
-msgid ""
-"In addition to protecting biodiversity, protected areas have high social "
-"and economic value because they support local livelihoods, protect "
-"watersheds from erosion, contain a wealth of genetic resources, support "
-"recreation and tourism industries, provide for science, research and "
-"education, and contain many cultural and other non-material values."
-msgstr "除了保护生物多样性之外，保护区还具有很高的社会经济价值，因为它们支持当地的生计，保护流域不受侵蚀，包含丰富的遗传资源，支持娱乐和旅游产业，为科学、研究和教育提供资源，并包含许多文化价值和其他非物质价值。"
+msgid "In addition to protecting biodiversity, protected areas have high social and economic value because they support local livelihoods, protect watersheds from erosion, contain a wealth of genetic resources, support recreation and tourism industries, provide for science, research and education, and contain many cultural and other non-material values."
+msgstr ""
 
 #: ../../SO4.md:109
-msgid ""
-"The metric average proportion of terrestrial Key Biodiversity Areas "
-"(KBAs) covered by protected areas, which is SDG indicator 15.1.2b, shows "
-"temporal trends in the mean percentage of each important site for "
-"terrestrial biodiversity (i.e. those that contribute significantly to the"
-" global persistence of biodiversity) that is covered by designated "
-"protected areas."
-msgstr "保护区内陆地生物多样性关键区域（KBA）的公制平均比例，即可持续发展目标指标15.1.2b，显示了被指定保护区覆盖的每个陆地生物多样性重要场所（即那些对全球生物多样性的持续存在有重大贡献的地点）的平均比例方面的时间趋势。"
+msgid "The metric average proportion of terrestrial Key Biodiversity Areas (KBAs) covered by protected areas, which is SDG indicator 15.1.2b, shows temporal trends in the mean percentage of each important site for terrestrial biodiversity (i.e. those that contribute significantly to the global persistence of biodiversity) that is covered by designated protected areas."
+msgstr ""
 
 #: ../../SO4.md:111
-msgid ""
-"The metadata for SDG indicator 15.1.2 includes other effective area-based"
-" conservation measures (OECMs) in addition to protected areas. OECMs are "
-"defined as ‘a geographically defined area other than a protected area, "
-"which is governed and managed in ways that achieve positive and sustained"
-" long-term outcomes for the in situ conservation of biodiversity, with "
-"associated ecosystem functions and services and where applicable, "
-"cultural, spiritual, socio-economic, and other locally relevant values’."
-msgstr "可持续发展目标指标15.1.2的元数据除保护区外，还包括其他有效的地区保护措施（OECM）。其他有效的地区保护措施是指“保护区以外的地理定义地区，对其治理和管理是为了实现生物多样性就地养护的积极、持续的长期成果，并取得相关的生态系统功能和服务，以及在适用情况下实现文化、精神、社会经济价值和其他与当地相关的价值”。"
+msgid "The metadata for SDG indicator 15.1.2 includes other effective area-based conservation measures (OECMs) in addition to protected areas. OECMs are defined as ‘a geographically defined area other than a protected area, which is governed and managed in ways that achieve positive and sustained long-term outcomes for the in situ conservation of biodiversity, with associated ecosystem functions and services and where applicable, cultural, spiritual, socio-economic, and other locally relevant values’."
+msgstr ""
 
 #: ../../SO4.md:113
-msgid ""
-"KBAs are sites that contribute significantly to the global persistence of"
-" biodiversity and are identified following global criteria[^7]  applied "
-"at national levels. The KBAs include:"
-msgstr "生物多样性关键区域是对全球生物多样性的持续存在有重大贡献的地点，并按照在国家层面应用的全球标准[^7]进行确认。生物多样性关键区域包括："
+msgid "KBAs are sites that contribute significantly to the global persistence of biodiversity and are identified following global criteria[^7]  applied at national levels. The KBAs include:"
+msgstr ""
 
 #: ../../SO4.md:115
-msgid ""
-"Important bird and biodiversity areas, which are sites that contribute "
-"significantly to the global persistence of biodiversity, identified using"
-" data on birds, of which >13,000 sites in total have been identified from"
-" all of the world’s countries;"
-msgstr "重要的鸟类和生物多样性区域，这些区域是对全球生物多样性的持续存在有重大贡献的地点，利用鸟类的数据来确定，其中世界各国共确定了13000多个地点；"
+msgid "Important bird and biodiversity areas, which are sites that contribute significantly to the global persistence of biodiversity, identified using data on birds, of which >13,000 sites in total have been identified from all of the world’s countries;"
+msgstr ""
 
 #: ../../SO4.md:117
-msgid ""
-"Alliance for Zero Extinction sites, which are sites holding effectively "
-"the entire population of at least one species assessed as critically "
-"endangered or endangered on the IUCN Red List of Threatened Species. 853 "
-"sites have been identified for 1,483 species of mammals, birds, "
-"amphibians, reptiles, freshwater crustaceans, reef-building corals, "
-"conifers, cycads and other taxa; and"
-msgstr "零灭绝联盟地点，即有效地保存了至少一个在世界自然保护联盟濒临灭绝物种红色名录上被评估为“极危”或“濒危”物种的全部种群的地点。已经为1483种哺乳动物、鸟类、两栖动物、爬行动物、淡水甲壳类、造礁珊瑚、针叶树、苏铁植物和其他分类群确定了853个地点；并且"
+msgid "Alliance for Zero Extinction sites, which are sites holding effectively the entire population of at least one species assessed as critically endangered or endangered on the IUCN Red List of Threatened Species. 853 sites have been identified for 1,483 species of mammals, birds, amphibians, reptiles, freshwater crustaceans, reef-building corals, conifers, cycads and other taxa; and"
+msgstr ""
 
 #: ../../SO4.md:119
-msgid ""
-"KBAs identified using an earlier version of the KBA criteria, including "
-"those identified in ecosystem hotspot profiles developed with the support"
-" of the Critical Ecosystem Partnership Fund."
-msgstr "使用早期版本的生物多样性关键区域标准确定了生物多样性关键区域，包括在关键生态系统合作基金支持下制定的生态系统热点概况中确定的生物多样性关键区域。"
+msgid "KBAs identified using an earlier version of the KBA criteria, including those identified in ecosystem hotspot profiles developed with the support of the Critical Ecosystem Partnership Fund."
+msgstr ""
 
 #: ../../SO4.md:121
-msgid ""
-"Data on protected areas are managed in the World Database on Protected "
-"Areas by the UN Environment Programme World Conservation Monitoring "
-"Centre (UNEP-WCMC)[^8]."
-msgstr "关于保护区的数据由联合国环境规划署世界自然保护监测中心（UNEP-WCMC）[^8]在世界保护区数据库中管理。"
+msgid "Data on protected areas are managed in the World Database on Protected Areas by the UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)[^8]."
+msgstr ""
 
 #: ../../SO4.md:123
-msgid ""
-"Data on OECMs are managed in the World Database on OECMs by the UNEP-"
-"WCMC[^9]."
-msgstr "关于其他有效的地区保护措施的数据由联合国环境规划署世界自然保护监测中心[^9]在世界其他有效的地区保护措施数据库中管理。"
+msgid "Data on OECMs are managed in the World Database on OECMs by the UNEP-WCMC[^9]."
+msgstr ""
 
 #: ../../SO4.md:125
-msgid ""
-"Data on KBAs are managed in the World Database of Key Biodiversity Areas "
-"by BirdLife International on behalf of the Key Biodiversity Areas "
-"Partnership[^10]."
-msgstr "关于生物多样性关键区域的数据由国际鸟盟代表关键生物多样性地区伙伴关系[^10]在世界生物多样性关键区域数据库中管理。"
+msgid "Data on KBAs are managed in the World Database of Key Biodiversity Areas by BirdLife International on behalf of the Key Biodiversity Areas Partnership[^10]."
+msgstr ""
 
 #: ../../SO4.md:127
-msgid ""
-"The main output of the reporting process for SO 4-3 is a set of "
-"officially verified annual estimates of the values of average proportion "
-"of terrestrial KBAs covered by protected areas for 2000–2020. National "
-"reporting is facilitated through the provision of default data pre-filled"
-" from the SDG database for indicator 15.1.2b."
-msgstr "SO 4-3报告过程的主要产出是一套经官方核实的2000-2020年受保护区覆盖的陆地生物多样性关键区域的平均比例的年度估计数。通过提供从可持续发展目标数据库为指标15.1.2b预先填写的默认数据，为国家报告提供了便利。"
+msgid "The main output of the reporting process for SO 4-3 is a set of officially verified annual estimates of the values of average proportion of terrestrial KBAs covered by protected areas for 2000–2020. National reporting is facilitated through the provision of default data pre-filled from the SDG database for indicator 15.1.2b."
+msgstr ""
 
 #: ../../SO4.md:135
 msgid "4.3.2. Prerequisites for reporting"
-msgstr "4.3.2.报告的先决条件"
+msgstr ""
 
 #: ../../SO4.md:137
 msgid "An in-depth reading of the SDG indicator 15.1.2 metadata document;"
-msgstr "深入阅读可持续发展目标指标15.1.2元数据文件；"
+msgstr ""
 
 #: ../../SO4.md:139
-msgid ""
-"Consultation with national experts on KBA and protected areas, CBD "
-"national focal points, national statistical offices, IUCN State Members "
-"and KBA regional focal points."
-msgstr "与生物多样性关键区域和保护区方面的国家专家、《生物多样性公约》国家联络人、国家统计局、世界自然保护联盟成员国和生物多样性关键区域的区域联络人进行磋商。"
+msgid "Consultation with national experts on KBA and protected areas, CBD national focal points, national statistical offices, IUCN State Members and KBA regional focal points."
+msgstr ""
 
 #: ../../SO4.md:141
 msgid "4.3.3. Reporting process and step-by-step procedures"
-msgstr "4.3.3. 报告流程和分步程序"
+msgstr ""
 
 #: ../../SO4.md:145
 msgid "Step 1: Report indicator data"
-msgstr "第1步：报告指标数据"
+msgstr ""
 
-#: ../../SO4.md:1
+#: ../../SO4.md:148
 msgid "Related areas in the PRAIS 4 platform: table SO4-3.T1"
-msgstr "PRAIS 4平台中的相关区域：表SO4-3.T1"
+msgstr ""
 
 #: ../../SO4.md:151
-msgid ""
-"Default data for this indicator is pre-filled in table SO4-3.T1 from the "
-"SDG database (SDG indicator 15.1.2b), including the national-level value "
-"as well as the upper and lower bounds of uncertainty around the national "
-"estimate[^11].  For data specifications for the SO 4-3 indicator, see the"
-" official metadata for SDG indicator 15.1.2."
-msgstr "该指标的默认数据根据可持续发展目标数据库（可持续发展目标指标15.1.2b）在表SO4-3.T1中预先填充，包括国家一级的数值以及国家估计数不确定性的上限和下限[^11]。关于SO 4-3指标的数据规格，请参见可持续发展目标指标15.1.2的官方元数据。"
+msgid "Default data for this indicator is pre-filled in table SO4-3.T1 from the SDG database (SDG indicator 15.1.2b), including the national-level value as well as the upper and lower bounds of uncertainty around the national estimate[^11].  For data specifications for the SO 4-3 indicator, see the official metadata for SDG indicator 15.1.2."
+msgstr ""
 
 #: ../../SO4.md:153
-msgid ""
-"A Party may choose to report using the default data or alternative "
-"national data sources, if available. Any deviation from the guidance "
-"provided should be reported and justified in the ‘Comment’ column of the "
-"reporting table."
-msgstr "缔约方可选择使用默认数据或替代国家数据来源（如果有的话）进行报告。对所提供的指导的任何偏离都应在报告表的“注释”栏中报告并说明理由。"
+msgid "A Party may choose to report using the default data or alternative national data sources, if available. Any deviation from the guidance provided should be reported and justified in the ‘Comment’ column of the reporting table."
+msgstr ""
 
 #: ../../SO4.md:157
 msgid "Step 2: Qualitatively assess the results"
-msgstr "第2步：对结果进行定性评估"
+msgstr ""
 
-#: ../../SO4.md:1
+#: ../../SO4.md:160
 msgid "Related areas in the PRAIS 4 platform: table SO4-3.T2"
-msgstr "PRAIS 4平台中的相关区域：表SO4-3.T2"
+msgstr ""
 
 #: ../../SO4.md:163
-msgid ""
-"Parties are encouraged to provide comments on the interpretation of the "
-"indicator, including the direction of indicator change. While it may be "
-"difficult to attribute specific causal factors to changes in the "
-"indicator, countries are encouraged to indicate which direct and/or "
-"indirect drivers are presumably behind the observed changes using the "
-"comment box in table SO4-3.T2 in the PRAIS 4 platform."
-msgstr "鼓励缔约方提供关于指标解释的评论，包括指标变化的方向。虽然可能难以将具体的因果因素归因于指标的变化，但鼓励各国利用PRAIS 4平台中表SO4-3.T2的注释框，注明观察到的变化背后大概有哪些直接和/或间接驱动因素。"
+msgid "Parties are encouraged to provide comments on the interpretation of the indicator, including the direction of indicator change. While it may be difficult to attribute specific causal factors to changes in the indicator, countries are encouraged to indicate which direct and/or indirect drivers are presumably behind the observed changes using the comment box in table SO4-3.T2 in the PRAIS 4 platform."
+msgstr ""
 
 #: ../../SO4.md:165
 msgid "Step 3: Verify the results"
-msgstr "第3步：验证结果"
+msgstr ""
 
 #: ../../SO4.md:167
-msgid ""
-"The reliability of the default SO 4-3 indicator data needs to be verified"
-" by national experts to detect and highlight situations where the "
-"confidence level of the obtained results might be low. This would "
-"qualitatively assess the reliability of the estimates based on expert "
-"knowledge and on a correct interpretation of the data."
-msgstr "默认SO 4-3指标数据的可靠性需要由国家专家进行验证，以发现和强调所获得结果的置信度可能较低的情况。这将对基于专家知识和对数据正确解释而得出的估计数的可靠性进行质量评估。"
+msgid "The reliability of the default SO 4-3 indicator data needs to be verified by national experts to detect and highlight situations where the confidence level of the obtained results might be low. This would qualitatively assess the reliability of the estimates based on expert knowledge and on a correct interpretation of the data."
+msgstr ""
 
 #: ../../SO4.md:171
-msgid ""
-"Once verified by the Parties, the estimates of the SO 4-3 indicator as "
-"well as the qualitative assessment should be officially submitted to "
-"UNCCD."
-msgstr "经缔约方核实后，SO 4-3指标的估计数以及定性评估应正式提交给《荒漠化公约》。"
+msgid "Once verified by the Parties, the estimates of the SO 4-3 indicator as well as the qualitative assessment should be officially submitted to UNCCD."
+msgstr ""
 
 #: ../../SO4.md:173
-msgid ""
-"Parties have the option to include additional information in the ‘General"
-" Comments’ field to add any relevant information or to report on specific"
-" country or regional situations."
-msgstr "缔约方可以选择使用“一般性注释”栏加入额外信息，以添加任何相关信息或报告具体的国家或地区情况。"
+msgid "Parties have the option to include additional information in the ‘General Comments’ field to add any relevant information or to report on specific country or regional situations."
+msgstr ""
 
 #: ../../SO4.md:175
 msgid "4.3.4. Dependencies"
-msgstr "4.3.4. 依赖性"
+msgstr ""
 
 #: ../../SO4.md:177
 msgid "The SO 4-3 indicator has no interdependencies with other SOs."
-msgstr "SO 4-3指标与其他SO没有相互依赖关系。"
+msgstr ""
 
 #: ../../SO4.md:179
 msgid "4.3.5. Challenges"
-msgstr "4.3.5. 挑战"
+msgstr ""
 
 #: ../../SO4.md:181
 msgid "Data availability and quality"
-msgstr "数据可用性和质量"
+msgstr ""
 
 #: ../../SO4.md:183
-msgid ""
-"KBAs focus mainly on subsets of biodiversity such as birds and highly "
-"threatened species. There are plans to improve KBAs with wider taxonomic "
-"coverage."
-msgstr "生物多样性关键区域主要关注生物多样性的子集，如鸟类和受到严重威胁的物种。已经有计划来改进生物多样性关键区域，并扩大分类覆盖范围。"
+msgid "KBAs focus mainly on subsets of biodiversity such as birds and highly threatened species. There are plans to improve KBAs with wider taxonomic coverage."
+msgstr ""
 
 #: ../../SO4.md:187
-msgid ""
-"This indicator and metric are very intuitive and only minor challenges "
-"exist. The reporting Party should understand where and why there are KBAs"
-" in their country, otherwise the metric will have less meaning."
-msgstr "该指标和衡量标准非常直观，只存在很小的挑战。提交报告的缔约方应了解本国哪里有生物多样性关键区域以及为什么有生物多样性关键区域，否则该衡量标准的意义就不大了。"
+msgid "This indicator and metric are very intuitive and only minor challenges exist. The reporting Party should understand where and why there are KBAs in their country, otherwise the metric will have less meaning."
+msgstr ""
 
 #: ../../SO4.md:189
-msgid ""
-"Data on KBAs and protected areas is generally widely available; however, "
-"challenges exist at the national level in ensuring the designated "
-"protected areas are effective at reducing biodiversity loss."
-msgstr "关于生物多样性关键区域和保护区的数据普遍可以获得；然而，在确保指定的保护区有效减少生物多样性丧失方面，在国家层面存在各种挑战。"
+msgid "Data on KBAs and protected areas is generally widely available; however, challenges exist at the national level in ensuring the designated protected areas are effective at reducing biodiversity loss."
+msgstr ""
 
 #: ../../SO4.md:191
 msgid "4.3.6. Summary"
-msgstr "4.3.6. 总结"
+msgstr ""
 
 #: ../../SO4.md:195
-msgid ""
-"**Report indicator data**: Parties can use the default data or can choose"
-" to report using national data."
-msgstr "**报告指标数据**：缔约方可以使用默认数据，也可以选择使用国家数据进行报告。"
+msgid "**Report indicator data**: Parties can use the default data or can choose to report using national data."
+msgstr ""
 
 #: ../../SO4.md:197
-msgid ""
-"**Qualitatively assess the results**: Changes in the indicator should be "
-"described in table SO4-3.T2."
-msgstr "**对结果进行定性评估**：指标的变化应在表SO4-3.T2中描述。"
+msgid "**Qualitatively assess the results**: Changes in the indicator should be described in table SO4-3.T2."
+msgstr ""
 
 #: ../../SO4.md:199
-msgid ""
-"**Verify the results**: Aware of the limitations of the SO 4-3 indicator "
-"values, Parties may verify the accuracy and reliability of such indicator"
-" in their countries before officially submitting estimates for UNCCD "
-"reporting."
-msgstr "**核实结果**：在意识到SO 4-3指标值的局限性后，缔约方可在正式提交估计数用于《荒漠化公约》报告之前，核实本国此类指标的准确性和可靠性。"
+msgid "**Verify the results**: Aware of the limitations of the SO 4-3 indicator values, Parties may verify the accuracy and reliability of such indicator in their countries before officially submitting estimates for UNCCD reporting."
+msgstr ""
 
 #: ../../SO4.md:203
 msgid "4.3.7. Further reading"
-msgstr "4.3.7. 深入阅读"
+msgstr ""
 
 #: ../../SO4.md:205
-msgid ""
-"SDG indicator 15.1.2 metadata document "
-"(<https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf>)."
-msgstr "可持续发展目标指标15.1.2元数据文件(<https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf>)。"
+msgid "SDG indicator 15.1.2 metadata document (<https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf>)."
+msgstr ""
 
 #: ../../SO4.md:207
-msgid ""
-"Butchart, S. H. M. et al. (2012). Protecting important sites for "
-"biodiversity contributes to meeting global conservation targets. PLoS One"
-" 7(3): e32529 "
-"(<http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032529>)."
-msgstr "Butchart, S. H. M. et al. (2012). Protecting important sites for biodiversity contributes to meeting global conservation targets. PLoS One 7(3): e32529 (<http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032529>)."
+msgid "Butchart, S. H. M. et al. (2012). Protecting important sites for biodiversity contributes to meeting global conservation targets. PLoS One 7(3): e32529 (<http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032529>)."
+msgstr ""
 
 #: ../../SO4.md:209
-msgid ""
-"Eken, G. et al. (2004). Key biodiversity areas as site conservation "
-"targets. BioScience 54: 1110–1118 "
-"(<http://bioscience.oxfordjournals.org/content/54/12/1110.short>)."
-msgstr "Eken, G. et al. (2004). Key biodiversity areas as site conservation targets. BioScience 54: 1110–1118 (<http://bioscience.oxfordjournals.org/content/54/12/1110.short>)."
+msgid "Eken, G. et al. (2004). Key biodiversity areas as site conservation targets. BioScience 54: 1110–1118 (<http://bioscience.oxfordjournals.org/content/54/12/1110.short>)."
+msgstr ""
 
 #: ../../SO4.md:211
-msgid ""
-"IUCN (2016). A Global Standard for the Identification of Key Biodiversity"
-" Areas. International Union for Conservation of Nature, Gland, "
-"Switzerland (<https://portals.iucn.org/library/node/46259>)."
-msgstr "IUCN (2016). A Global Standard for the Identification of Key Biodiversity Areas. International Union for Conservation of Nature, Gland, Switzerland (<https://portals.iucn.org/library/node/46259>)."
+msgid "IUCN (2016). A Global Standard for the Identification of Key Biodiversity Areas. International Union for Conservation of Nature, Gland, Switzerland (<https://portals.iucn.org/library/node/46259>)."
+msgstr ""
 
 #: ../../SO4.md:213
-msgid ""
-"Donald, P. et al. (2018) Important Bird and Biodiversity Areas (IBAs): "
-"the development and characteristics of a global inventory of key sites "
-"for biodiversity. Bird Conservation International. 29:177–198."
-msgstr "Donald, P. et al. (2018) Important Bird and Biodiversity Areas (IBAs): the development and characteristics of a global inventory of key sites for biodiversity. Bird Conservation International. 29:177–198."
+msgid "Donald, P. et al. (2018) Important Bird and Biodiversity Areas (IBAs): the development and characteristics of a global inventory of key sites for biodiversity. Bird Conservation International. 29:177–198."
+msgstr ""
 
 #: ../../SO4.md:215
-msgid ""
-"Ricketts, T. H. et al. (2005). Pinpointing and preventing imminent "
-"extinctions. Proceedings of the National Academy of Sciences of the "
-"U.S.A. 102: 18497–18501 "
-"(<http://www.pnas.org/content/102/51/18497.short>)."
-msgstr "Ricketts, T. H. et al. (2005). Pinpointing and preventing imminent extinctions. Proceedings of the National Academy of Sciences of the U.S.A. 102: 18497–18501 (<http://www.pnas.org/content/102/51/18497.short>)."
+msgid "Ricketts, T. H. et al. (2005). Pinpointing and preventing imminent extinctions. Proceedings of the National Academy of Sciences of the U.S.A. 102: 18497–18501 (<http://www.pnas.org/content/102/51/18497.short>)."
+msgstr ""
 
 #: ../../SO4.md:217
-msgid ""
-"Langhammer, P. F. et al. (2007). Identification and Gap Analysis of Key "
-"Biodiversity Areas: Targets for Comprehensive Protected Area Systems. "
-"IUCN World Commission on Protected Areas Best Practice Protected Area "
-"Guidelines Series No. 15. IUCN, Gland, Switzerland "
-"(<https://portals.iucn.org/library/node/9055>)."
-msgstr "Langhammer, P. F. et al. (2007). Identification and Gap Analysis of Key Biodiversity Areas: Targets for Comprehensive Protected Area Systems. IUCN World Commission on Protected Areas Best Practice Protected Area Guidelines Series No. 15. IUCN, Gland, Switzerland (<https://portals.iucn.org/library/node/9055>)."
+msgid "Langhammer, P. F. et al. (2007). Identification and Gap Analysis of Key Biodiversity Areas: Targets for Comprehensive Protected Area Systems. IUCN World Commission on Protected Areas Best Practice Protected Area Guidelines Series No. 15. IUCN, Gland, Switzerland (<https://portals.iucn.org/library/node/9055>)."
+msgstr ""
 
 #: ../../SO4.md:17
 msgid "https://sdg.tracking-progress.org/indicator/15-5-1-red-list-index/."
-msgstr "https://sdg.tracking-progress.org/indicator/15-5-1-red-list-index/."
+msgstr ""
 
 #: ../../SO4.md:18
-msgid ""
-"IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1. "
-"<https://www.iucnredlist.org>."
-msgstr "IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1. <https://www.iucnredlist.org>."
+msgid "IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1. <https://www.iucnredlist.org>."
+msgstr ""
 
 #: ../../SO4.md:19
-msgid ""
-"For methodology see: Butchart et al (2010) Global Biodiversity: "
-"Indicators of Recent Declines, Science, 328 (5982), pp. 1164–1168. "
-"<https://science.sciencemag.org/content/328/5982/1164>."
-msgstr "关于方法，请参见：Butchart et al (2010) Global Biodiversity: Indicators of Recent Declines, Science, 328 (5982), pp. 1164–1168. <https://science.sciencemag.org/content/328/5982/1164>."
+msgid "For methodology see: Butchart et al (2010) Global Biodiversity: Indicators of Recent Declines, Science, 328 (5982), pp. 1164–1168. <https://science.sciencemag.org/content/328/5982/1164>."
+msgstr ""
 
 #: ../../SO4.md:47
 msgid "<https://www.iucnredlist.org/search>."
-msgstr "<https://www.iucnredlist.org/search>."
+msgstr ""
 
 #: ../../SO4.md:57
-msgid ""
-"The direct and indirect drivers available for selection in the table and "
-"the levers which can reverse negative trends are summarized from the "
-"Intergovernmental Science-Policy Platform on Biodiversity (IPBES) (2019):"
-" Global assessment report on biodiversity and ecosystem services of the "
-"Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem "
-"Services. E. S. Brondizio, J. Settele, S. Díaz, and H. T. Ngo (editors). "
-"IPBES secretariat, Bonn, Germany. 1148 pages. Available at: "
-"<https://ipbes.net/global-assessment>."
-msgstr "表中可供选择的直接和间接驱动因素以及可扭转消极趋势的手段从“生物多样性政府间科学政策平台（IPBES）（2019）：生物多样性和生态系统服务政府间科学政策平台关于生物多样性和生态系统服务的全球评估报告”中总结而来。E. S. Brondizio、J. Settele、S. Díaz 和 H. T. Ngo（编辑）。政府间科学政策平台秘书处，德国波恩。1148页。可在以下网址查阅：<https://ipbes.net/global-assessment>。"
+msgid "The direct and indirect drivers available for selection in the table and the levers which can reverse negative trends are summarized from the Intergovernmental Science-Policy Platform on Biodiversity (IPBES) (2019): Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. E. S. Brondizio, J. Settele, S. Díaz, and H. T. Ngo (editors). IPBES secretariat, Bonn, Germany. 1148 pages. Available at: <https://ipbes.net/global-assessment>."
+msgstr ""
 
 #: ../../SO4.md:129
-msgid ""
-"For an explanation of categories, see: <https://www.iucn.org/theme"
-"/protected-areas/about/protected-area-categories>."
-msgstr "关于类别的解释，请参见：<https://www.iucn.org/theme/protected-areas/about/protected-area-categories>。"
+msgid "For an explanation of categories, see: <https://www.iucn.org/theme/protected-areas/about/protected-area-categories>."
+msgstr ""
 
 #: ../../SO4.md:130
-msgid ""
-"For a detailed methodology, see: A Global Standard for the Identification"
-" of Key Biodiversity Areas (IUCN 2016). "
-"<https://portals.iucn.org/library/sites/library/files/documents/2016-048.pdf>."
-msgstr "有关详细的方法，请参见：确定生物多样性关键区域的全球标准（IUCN 2016）。<https://portals.iucn.org/library/sites/library/files/documents/2016-048.pdf>。"
+msgid "For a detailed methodology, see: A Global Standard for the Identification of Key Biodiversity Areas (IUCN 2016). <https://portals.iucn.org/library/sites/library/files/documents/2016-048.pdf>."
+msgstr ""
 
 #: ../../SO4.md:131
 msgid "See <https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA>."
-msgstr "参见<https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA>。"
+msgstr ""
 
 #: ../../SO4.md:132
 msgid "www.protectedplanet.net/en/thematic-areas/oecms."
-msgstr "www.protectedplanet.net/en/thematic-areas/oecms."
+msgstr ""
 
 #: ../../SO4.md:133
 msgid "www.keybiodiversityareas.org/kba-data."
-msgstr "www.keybiodiversityareas.org/kba-data."
+msgstr ""
 
 #: ../../SO4.md:155
-msgid ""
-"SDG indicator 15.1.2b data is updated each November/December using the "
-"latest versions of the datasets on protected areas, OECMs and KBAs."
-msgstr "可持续发展目标指标15.1.2b的数据每年11月/12月使用关于保护区、其他有效的地区保护措施和生物多样性关键区域的数据集的最新版本进行更新。"
+msgid "SDG indicator 15.1.2b data is updated each November/December using the latest versions of the datasets on protected areas, OECMs and KBAs."
+msgstr ""
+
