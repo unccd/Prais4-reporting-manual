@@ -1,1094 +1,750 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, UNCCD
-# This file is distributed under the same license as the PRAIS4 Reporting
-# Manual package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: PRAIS4 Reporting Manual \n"
+"Project-Id-Version: prais4-reporting-manual\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-04 19:41+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2025-05-13 16:13+0300\n"
+"PO-Revision-Date: 2025-05-13 16:48\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: prais4-reporting-manual\n"
+"X-Crowdin-Project-ID: 760205\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/locales/source/SO2.pot\n"
+"X-Crowdin-File-ID: 12\n"
+"Language: ru_RU\n"
 
 #: ../../SO2.md:1
-msgid ""
-"2. Strategic objective 2: To improve the living conditions of affected "
-"populations"
-msgstr "2. Стратегическая цель 2: Улучшение условий жизни затронутого населения"
+msgid "2. Strategic objective 2: To improve the living conditions of affected populations"
+msgstr ""
 
 #: ../../SO2.md:3
-msgid ""
-"2.1. SO 2-1 – Trends in population living below the relative poverty line"
-" and/or income inequality in affected areas"
-msgstr "2.1. СЦ 2-1 — Тенденции в численности населения, живущего ниже относительной черты бедности, и/или неравенство доходов в затронутых регионах"
+msgid "2.1. SO 2-1 – Trends in population living below the relative poverty line and/or income inequality in affected areas"
+msgstr ""
 
 #: ../../SO2.md:5
 msgid "2.1.1. Introduction"
-msgstr "2.1.1. Введение"
+msgstr ""
 
 #: ../../SO2.md:7
-msgid ""
-"Indicator SO 2-1 estimates the well-being of populations in monetary "
-"terms."
-msgstr "Показатель СЦ 2-1 оценивает благосостояние населения в денежном выражении."
+msgid "Indicator SO 2-1 estimates the well-being of populations in monetary terms."
+msgstr ""
 
 #: ../../SO2.md:9
-msgid ""
-"Two metrics are used for this purpose and Parties should specify which "
-"metrics they would like to use:"
-msgstr "Для этой цели используются две метрики, при этом Стороны должны указать, какие метрики они хотели бы использовать:"
+msgid "Two metrics are used for this purpose and Parties should specify which metrics they would like to use:"
+msgstr ""
 
 #: ../../SO2.md:11
 msgid "Proportion of the population below the international poverty line, or"
-msgstr "Долю населения, живущего за международной чертой бедности, или"
+msgstr ""
 
 #: ../../SO2.md:13
 msgid "Income inequality."
-msgstr "Неравенство доходов."
+msgstr ""
 
 #: ../../SO2.md:15
-msgid ""
-"These metrics can be used interchangeably according to country-specific "
-"conditions."
-msgstr "Эти метрики могут заменять друг друга в зависимости от условий конкретной страны."
+msgid "These metrics can be used interchangeably according to country-specific conditions."
+msgstr ""
 
 #: ../../SO2.md:17
-msgid ""
-"The proportion of the population below the international poverty line is "
-"generally considered relevant to less developed countries, where extreme "
-"poverty and destitution are core development challenges. The "
-"international poverty line is currently set at USD 1.90 a day, based on "
-"2011 purchasing power parity. Therefore, the proportion of the population"
-" below the international poverty line is defined as the percentage of the"
-" population living on less than USD 1.90 a day at 2011 international "
-"prices."
-msgstr "Доля населения, живущего за международной чертой бедности, как правило, считается актуальной для менее развитых стран, где крайняя нищета и бедность являются основными проблемами в области развития. Международная черта бедности в настоящее время установлена на уровне 1,90 доллара США в день, исходя из паритета покупательной способности 2011 года. Таким образом, доля населения, находящегося за международной чертой бедности, определяется как процент населения, живущего менее чем на 1,90 доллара США в день с учетом международных цен 2011 года."
+msgid "The proportion of the population below the international poverty line is generally considered relevant to less developed countries, where extreme poverty and destitution are core development challenges. The international poverty line is currently set at USD 1.90 a day, based on 2011 purchasing power parity. Therefore, the proportion of the population below the international poverty line is defined as the percentage of the population living on less than USD 1.90 a day at 2011 international prices."
+msgstr ""
 
 #: ../../SO2.md:19
-msgid ""
-"Income inequality is a useful metric for both low-income and middle-"
-"income countries as it estimates the extent of wealth distribution in a "
-"region. It is estimated through the Gini index. The Gini index measures "
-"the extent to which the distribution of income (or, in some cases, "
-"consumption expenditure) among individuals or households within an "
-"economy deviates from perfectly equal distribution. A Gini index of 0 "
-"represents perfect equality, while an index of 100 implies perfect "
-"inequality."
-msgstr "Неравенство доходов является полезной метрикой для стран как с низким, так и средним уровнем дохода, поскольку с его помощью оценивается степень распределения материального благосостояния в регионе. Оно оценивается с помощью коэффициента Джини. Коэффициент Джини измеряет степень, в которой распределение доходов (или, в некоторых случаях, потребительских расходов) между отдельными лицами или домохозяйствами в рамках экономики отклоняется от абсолютно равного распределения. Коэффициент Джини, равный 0, означает абсолютное равенство, в то время как коэффициент, равный 100, подразумевает абсолютное неравенство."
+msgid "Income inequality is a useful metric for both low-income and middle-income countries as it estimates the extent of wealth distribution in a region. It is estimated through the Gini index. The Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from perfectly equal distribution. A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality."
+msgstr ""
 
 #: ../../SO2.md:21
-msgid ""
-"National reporting is facilitated though the provision of default data. "
-"As the proportion of population below the international poverty line by "
-"sex, age, employment status and geographical location (urban/rural) is "
-"also a Sustainable Development Goal (SDG) indicator (SDG indicator "
-"1.1.1), default data is pre-filled from the SDG database. For income "
-"inequality (i.e., the Gini index), default data is pre-filled from the "
-"World Bank database[^1]."
-msgstr "Национальная отчетность упрощается за счет предоставления данных по умолчанию. Поскольку доля населения, находящегося за международной чертой бедности, в разбивке по полу, возрасту, статусу занятости и географическому положению (городское/сельское) также является показателем достижения Целей устойчивого развития (ЦУР) (показатель 1.1.1 ЦУР), данные по умолчанию предварительно заполняются информацией из базы данных ЦУР. Для вычисления неравенства доходов (т. е. коэффициента Джини) данные по умолчанию предварительно получены из базы данных Всемирного банка[^1]."
+msgid "National reporting is facilitated though the provision of default data. As the proportion of population below the international poverty line by sex, age, employment status and geographical location (urban/rural) is also a Sustainable Development Goal (SDG) indicator (SDG indicator 1.1.1), default data is pre-filled from the SDG database. For income inequality (i.e., the Gini index), default data is pre-filled from the World Bank database[^1]."
+msgstr ""
 
 #: ../../SO2.md:25
 msgid "2.1.2. Prerequisites for reporting"
-msgstr "2.1.2. Предварительные условия для представления отчетности"
+msgstr ""
 
 #: ../../SO2.md:27
-msgid ""
-"An in-depth reading of SDG indicator 1.1.1 metadata and Gini index "
-"metadata (see section 2.1.7)."
-msgstr "Углубленное изучение метаданных показателя 1.1.1 ЦУР и метаданных коэффициента Джини (см. раздел 2.1.7)."
+msgid "An in-depth reading of SDG indicator 1.1.1 metadata and Gini index metadata (see section 2.1.7)."
+msgstr ""
 
 #: ../../SO2.md:29
 msgid "Data complying with the specifications listed in table 15."
-msgstr "Данные, соответствующие спецификациям, перечисленным в таблице 15."
+msgstr ""
 
 #: ../../SO2.md:31
-msgid ""
-"A pool of national experts officially nominated by the national "
-"authorities to verify the suitability and consistency of the default data"
-" against the situation in their country, or to identify and compile data "
-"using national sources for the three metrics. Key institutions might "
-"include a country’s national statistical office and the ministry of "
-"finance, as well as universities and research centres."
-msgstr "Группа национальных экспертов, официально назначенных национальными властями для проверки соответствия и согласованности данных по умолчанию с ситуацией в их стране или для выявления и сбора данных с использованием национальных источников для трех показателей. К ключевым учреждениям относятся национальное статистическое управление страны и министерство финансов, а также университеты и исследовательские центры."
+msgid "A pool of national experts officially nominated by the national authorities to verify the suitability and consistency of the default data against the situation in their country, or to identify and compile data using national sources for the three metrics. Key institutions might include a country’s national statistical office and the ministry of finance, as well as universities and research centres."
+msgstr ""
 
 #: ../../SO2.md:33
 msgid "2.1.3. Reporting process and step-by-step procedure"
-msgstr "2.1.3. Процесс отчетности и пошаговая процедура"
+msgstr ""
 
-#: ../../SO2.md:35 ../../SO2.md:146
+#: ../../SO2.md:35
+#: ../../SO2.md:146
 msgid "The step-by-step procedure for reporting is described in the following."
-msgstr "Описание пошаговой процедуры представления отчетности приводится ниже."
+msgstr ""
 
 #: ../../SO2.md:37
 msgid "Step 1: Choose the most suitable metric"
-msgstr "Шаг 1. Выберите наиболее подходящую метрику"
+msgstr ""
 
 #: ../../SO2.md:39
-msgid ""
-"Parties are invited to choose the most suitable metric to represent the "
-"well-being of the population in their countries."
-msgstr "Сторонам предлагается выбрать наиболее подходящую метрику для представления результатов в области благосостояния населения в их странах."
+msgid "Parties are invited to choose the most suitable metric to represent the well-being of the population in their countries."
+msgstr ""
 
 #: ../../SO2.md:41
 msgid "Step 2: Identify the relevant dataset"
-msgstr "Шаг 2. Определите соответствующий набор данных"
+msgstr ""
 
 #: ../../SO2.md:43
-msgid ""
-"The proportion of population below the international poverty line data is"
-" pre-filled from the SDG database, while income inequality (Gini index) "
-"data is pre-filled from the World Bank database."
-msgstr "Данные о доле населения ниже международной черты бедности предварительно выбраны из базы данных ЦУР, в то время как данные о неравенстве доходов (коэффициент Джини) предварительно заполняются из базы данных Всемирного банка."
+msgid "The proportion of population below the international poverty line data is pre-filled from the SDG database, while income inequality (Gini index) data is pre-filled from the World Bank database."
+msgstr ""
 
 #: ../../SO2.md:45
-msgid ""
-"Parties may also use national data, provided it complies with the data "
-"specifications listed in table 15."
-msgstr "Стороны могут также использовать национальные данные при условии, что они соответствуют спецификациям данных, перечисленным в таблице 15."
+msgid "Parties may also use national data, provided it complies with the data specifications listed in table 15."
+msgstr ""
 
 #: ../../SO2.md:50
 msgid "*__Table 15__. Data specifications for SO 2-1 Indicator*"
-msgstr "*__Таблица 15__. Спецификации данных для показателя СЦ 2-1*"
+msgstr ""
 
-#: ../../SO2.md:1
+#: ../../SO2.md:56
+#: ../../SO2.md:163
+#: ../../SO2.md:281
 msgid "{rspan}`1` Item"
-msgstr " Единица"
+msgstr ""
 
-#: ../../SO2.md:2
+#: ../../SO2.md:57
+#: ../../SO2.md:164
+#: ../../SO2.md:282
 msgid "{cspan}`1` Specifications"
-msgstr " Спецификации"
+msgstr ""
 
-#: ../../SO2.md:3
-msgid ""
-"__Default data__ (Sustainable Development Goal indicator 1.1.1 data and "
-"Gini index World Bank data)"
-msgstr "__ Данные по умолчанию__ (Данные по показателю 1.1.1 Целей в области устойчивого развития и данные Всемирного банка по коэффициенту Джини)"
+#: ../../SO2.md:58
+msgid "__Default data__ (Sustainable Development Goal indicator 1.1.1 data and Gini index World Bank data)"
+msgstr ""
 
-#: ../../SO2.md:5 ../../SO2.md:6
+#: ../../SO2.md:60
+#: ../../SO2.md:168
 msgid "__National data__"
-msgstr "__Национальные данные__"
+msgstr ""
 
-#: ../../SO2.md:6
+#: ../../SO2.md:61
 msgid "Data type"
-msgstr "Тип данных"
+msgstr ""
 
-#: ../../SO2.md:7
+#: ../../SO2.md:62
 msgid "Annual data on one of the two metrics for the period 2000–2019."
-msgstr "Ежегодные данные по одной из двух метрик за период 2000–2019 годов"
+msgstr ""
 
-#: ../../SO2.md:8
-msgid ""
-"Annual data on one of the two metrics for the period from 2000 to the "
-"latest available year for the reporting period."
-msgstr "Ежегодные данные по одной из двух метрик за период с 2000 года по последний доступный год за отчетный период"
+#: ../../SO2.md:63
+msgid "Annual data on one of the two metrics for the period from 2000 to the latest available year for the reporting period."
+msgstr ""
 
-#: ../../SO2.md:9 ../../SO2.md:10 ../../SO2.md:19
+#: ../../SO2.md:64
+#: ../../SO2.md:172
+#: ../../SO2.md:299
 msgid "__Spatial resolution__"
-msgstr "__Пространственное разрешение__"
+msgstr ""
 
-#: ../../SO2.md:10 ../../SO2.md:11
+#: ../../SO2.md:65
+#: ../../SO2.md:173
 msgid "Country level"
-msgstr "Страновой уровень"
+msgstr ""
 
-#: ../../SO2.md:11 ../../SO2.md:12
+#: ../../SO2.md:66
+#: ../../SO2.md:174
 msgid "Country or sub-national levels"
-msgstr "Страновой или субнациональный уровни"
+msgstr ""
 
-#: ../../SO2.md:12 ../../SO2.md:13 ../../SO2.md:22
+#: ../../SO2.md:67
+#: ../../SO2.md:175
+#: ../../SO2.md:302
 msgid "__Quality__"
-msgstr "__Качество__"
+msgstr ""
 
-#: ../../SO2.md:13 ../../SO2.md:14 ../../SO2.md:23
+#: ../../SO2.md:68
+#: ../../SO2.md:176
+#: ../../SO2.md:303
 msgid "Specified in the datasets’ metadata."
-msgstr "Указано в метаданных наборов данных."
+msgstr ""
 
-#: ../../SO2.md:14 ../../SO2.md:15 ../../SO2.md:24
+#: ../../SO2.md:69
+#: ../../SO2.md:177
+#: ../../SO2.md:304
 msgid "To be indicated in the dataset metadata."
-msgstr "Должно быть указано в метаданных набора данных."
+msgstr ""
 
-#: ../../SO2.md:15 ../../SO2.md:16 ../../SO2.md:25
+#: ../../SO2.md:70
+#: ../../SO2.md:178
+#: ../../SO2.md:305
 msgid "__Metadata__"
-msgstr "__Метаданные__"
+msgstr ""
 
-#: ../../SO2.md:16 ../../SO2.md:17 ../../SO2.md:26
+#: ../../SO2.md:71
+#: ../../SO2.md:179
+#: ../../SO2.md:306
 msgid "Metadata information is provided with default data."
-msgstr "Информация о метаданных предоставляется с данными по умолчанию."
+msgstr ""
 
-#: ../../SO2.md:17 ../../SO2.md:18 ../../SO2.md:27
+#: ../../SO2.md:72
+#: ../../SO2.md:180
+#: ../../SO2.md:307
 msgid "Minimum metadata content as per the mandatory fields listed in Annex II."
-msgstr "Минимальное содержание метаданных в расчете на обязательные поля указано в Приложении II."
+msgstr ""
 
 #: ../../SO2.md:75
-msgid ""
-"Step 3: Report national annual values of the chosen metric and interpret "
-"the data"
-msgstr "Шаг 3. Сообщите национальные годовые значения выбранной метрики и объясните данные"
+msgid "Step 3: Report national annual values of the chosen metric and interpret the data"
+msgstr ""
 
-#: ../../SO2.md:1
-msgid ""
-"Related areas in the PRAIS 4 platform: tables SO2-1.T1, SO2-1.T2 and "
-"SO2-1.T3"
-msgstr "Соответствующие области платформы PRAIS 4: таблицы СЦ2-1.T1, СЦ2-1.T2 и СЦ2-1.T3"
+#: ../../SO2.md:78
+msgid "Related areas in the PRAIS 4 platform: tables SO2-1.T1, SO2-1.T2 and SO2-1.T3"
+msgstr ""
 
 #: ../../SO2.md:81
-msgid ""
-"Parties opting to use an alternative source of national data may enter "
-"the relevant national annual values in tables SO2-1.T1 or SO2-1.T2, "
-"according to the chosen metric."
-msgstr "Стороны, решившие использовать альтернативный источник национальных данных, могут ввести соответствующие национальные годовые значения в таблицы СЦ2-1.T1 или СЦ2-1.T2 в соответствии с выбранной метрикой."
+msgid "Parties opting to use an alternative source of national data may enter the relevant national annual values in tables SO2-1.T1 or SO2-1.T2, according to the chosen metric."
+msgstr ""
 
 #: ../../SO2.md:83
-msgid ""
-"To assist in the data interpretation, countries are encouraged to "
-"visualize their respective metrics by means of a graph (graphs for each "
-"country are available on the [World Bank "
-"website](https://datatopics.worldbank.org/sdgs/index.html)).  While it "
-"may be difficult to attribute specific causal factors to changes in the "
-"metrics, countries may indicate which direct and/or indirect drivers are "
-"presumably behind the observed changes and report this information in the"
-" Qualitative Assessment table (i.e., Table SO2-1.T3)."
-msgstr "В качестве поддержки интерпретации данных странам рекомендуется визуализировать свои соответствующие метрики с помощью графика (графики для каждой страны доступны на [веб-сайте Всемирного банка](https://datatopics.worldbank.org/sdgs/index.html)). Хотя может быть трудно приписать конкретные факторы, ставшие причиной изменений в метриках, страны могут указать, какие прямые и/или косвенные факторы предположительно стоят за наблюдаемыми изменениями, и добавить эту информацию в таблицу качественной оценки (т. е. в таблицу СЦ2-1.T3)."
+msgid "To assist in the data interpretation, countries are encouraged to visualize their respective metrics by means of a graph (graphs for each country are available on the [World Bank website](https://datatopics.worldbank.org/sdgs/index.html)).  While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table (i.e., Table SO2-1.T3)."
+msgstr ""
 
 #: ../../SO2.md:85
 msgid "Step 4:  Verify the results"
-msgstr "Шаг 4. Проверьте результаты"
+msgstr ""
 
-#: ../../SO2.md:87 ../../SO2.md:197
-msgid ""
-"The reliability of the estimates from global data sources requires inputs"
-" from national experts to detect and highlight situations where the "
-"confidence level of the obtained results might be low. This input would "
-"contribute to a qualitative assessment of the reliability of the "
-"estimates."
-msgstr "Надежность оценок из глобальных источников данных требует участия национальных экспертов для выявления и определения ситуаций, в которых уровень достоверности полученных результатов может быть низким. Этот вклад будет способствовать качественной экспертизе надежности оценок."
+#: ../../SO2.md:87
+#: ../../SO2.md:197
+msgid "The reliability of the estimates from global data sources requires inputs from national experts to detect and highlight situations where the confidence level of the obtained results might be low. This input would contribute to a qualitative assessment of the reliability of the estimates."
+msgstr ""
 
 #: ../../SO2.md:89
 msgid "Step 5: Generate reports"
-msgstr "Шаг 5. Сформируйте отчет"
+msgstr ""
 
 #: ../../SO2.md:91
-msgid ""
-"Once verified by the Parties, the estimates of the proportion of "
-"population below the international poverty line, or income inequality "
-"should be officially submitted to the United Nations Convention to Combat"
-" Desertification (UNCCD). Observed changes and their interpretation may "
-"be described in the “Qualitative Assessment” table of the PRAIS 4 "
-"platform."
-msgstr "После проверки Сторонами оценки доли населения, находящегося за международной чертой бедности, или неравенства в доходах должны быть официально представлены Конвенции Организации Объединенных Наций по борьбе с опустыниванием (КБО ООН). Наблюдаемые изменения и их интерпретация могут быть описаны в таблице «Качественная оценка» на платформе PRAIS 4."
+msgid "Once verified by the Parties, the estimates of the proportion of population below the international poverty line, or income inequality should be officially submitted to the United Nations Convention to Combat Desertification (UNCCD). Observed changes and their interpretation may be described in the “Qualitative Assessment” table of the PRAIS 4 platform."
+msgstr ""
 
 #: ../../SO2.md:93
-msgid ""
-"Optionally, Parties may include additional information in the General "
-"Comment field to describe specific country situations. Sub-national "
-"disaggregated data (e.g., per administrative division, urban vs rural, "
-"affected areas or other socio-economic strata, e.g., sex-disaggregated "
-"data) may be useful to identify where the most significant poverty/income"
-" inequality hotspots/brightspots are located."
-msgstr "При желании Стороны могут включить дополнительную информацию в поле «Общие замечания» для описания ситуаций в конкретных странах. Субнациональные дезагрегированные данные (например, по административному делению, городскому и сельскому районам, затронутым районам или другим социально-экономическим слоям, например, данные с разбивкой по полу) могут быть полезны для определения того, где расположены наиболее значительные очаги бедности/неравенства доходов/яркие точки."
+msgid "Optionally, Parties may include additional information in the General Comment field to describe specific country situations. Sub-national disaggregated data (e.g., per administrative division, urban vs rural, affected areas or other socio-economic strata, e.g., sex-disaggregated data) may be useful to identify where the most significant poverty/income inequality hotspots/brightspots are located."
+msgstr ""
 
 #: ../../SO2.md:95
-msgid ""
-"Parties are also encouraged to submit narratives on the methodology, data"
-" sources and data accuracy in the event that the estimates are derived "
-"from national data. It would also be beneficial to report on special "
-"cases and issues, describing any deviation from the default method and "
-"providing the rationale to adopt a different methodology."
-msgstr "Сторонам также рекомендуется представлять описания методологии, источников данных и точности данных в том случае, если оценки получены на основе национальных данных. Также было бы полезно предоставлять информацию об особых случаях и проблемах, описывая любые отклонения от метода по умолчанию и предоставляя обоснование для принятия другой методологии."
+msgid "Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data. It would also be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale to adopt a different methodology."
+msgstr ""
 
 #: ../../SO2.md:97
 msgid "2.1.4. Dependencies"
-msgstr "2.1.4. Зависимости"
+msgstr ""
 
 #: ../../SO2.md:99
-msgid ""
-"Indicator SO 2-1 has no dependencies from other SO, however it could be "
-"used in the calculation of the Drought Vulnerability Index (DVI) for "
-"indicator SO 3-3."
-msgstr "Показатель СЦ 2-1 не зависит от других СЦ, однако он может быть использован при расчете Индекса уязвимости к засухе (DVI) для показателя СЦ 3-3."
+msgid "Indicator SO 2-1 has no dependencies from other SO, however it could be used in the calculation of the Drought Vulnerability Index (DVI) for indicator SO 3-3."
+msgstr ""
 
 #: ../../SO2.md:101
 msgid "2.1.5. Challenges"
-msgstr "2.1.5. Проблемы"
+msgstr ""
 
-#: ../../SO2.md:103 ../../SO2.md:213 ../../SO2.md:362
+#: ../../SO2.md:103
+#: ../../SO2.md:213
+#: ../../SO2.md:362
 msgid "Data availability and quality"
-msgstr "Доступность и качество данных"
+msgstr ""
 
-#: ../../SO2.md:105 ../../SO2.md:215
-msgid ""
-"International global data only generically describes the well-being of "
-"the population in a country and might not capture specific situations in "
-"need of consideration. More detailed sub-national data might be needed to"
-" represent the economic situation at the local level."
-msgstr "Международные глобальные данные лишь в общих чертах описывают благосостояние населения в стране и могут не отражать конкретные ситуации, требующие рассмотрения. Для представления экономической ситуации на местном уровне могут потребоваться более подробные субнациональные данные."
+#: ../../SO2.md:105
+#: ../../SO2.md:215
+msgid "International global data only generically describes the well-being of the population in a country and might not capture specific situations in need of consideration. More detailed sub-national data might be needed to represent the economic situation at the local level."
+msgstr ""
 
 #: ../../SO2.md:107
 msgid "2.1.6. Summary (main actions)"
-msgstr "2.1.6. Краткие выводы (основные действия)"
+msgstr ""
 
 #: ../../SO2.md:109
 msgid "Key actions for reporting on indicator SO 2-1 are as follows:"
-msgstr "Основные действия для представления отчетности по показателю СЦ 2-1 заключаются в следующем:"
+msgstr ""
 
 #: ../../SO2.md:111
-msgid ""
-"**Choose the most suitable metric**: Parties are encouraged to choose the"
-" most suitable metric to represent the well-being of the population in "
-"their countries."
-msgstr "**Выберите наиболее подходящую метрику**: Сторонам настоятельно рекомендуется выбрать наиболее подходящую метрику для представления результатов в области благосостояния населения в их странах."
+msgid "**Choose the most suitable metric**: Parties are encouraged to choose the most suitable metric to represent the well-being of the population in their countries."
+msgstr ""
 
 #: ../../SO2.md:113
-msgid ""
-"**Identify the relevant dataset**: Parties may decide to use the default "
-"data or alternative national sources."
-msgstr "**Определите соответствующий набор данных**: Стороны могут принять решение использовать данные по умолчанию или данные из альтернативных национальных источников."
+msgid "**Identify the relevant dataset**: Parties may decide to use the default data or alternative national sources."
+msgstr ""
 
 #: ../../SO2.md:115
-msgid ""
-"**Report national annual values of the chosen metric and interpret the "
-"data**: Parties are invited to report, visualize and interpret the "
-"national annual data."
-msgstr "**Сообщите национальные годовые значения выбранной метрики и объясните данные**: Сторонам предлагается сообщить, визуализировать и интерпретировать национальные годовые данные."
+msgid "**Report national annual values of the chosen metric and interpret the data**: Parties are invited to report, visualize and interpret the national annual data."
+msgstr ""
 
-#: ../../SO2.md:117 ../../SO2.md:225
-msgid ""
-"**Verify the results**: the reliability of the estimates from global data"
-" sources requires inputs from national experts to qualitatively assess "
-"the reliability of the estimates based on expert knowledge."
-msgstr "**Проведите проверку результатов**: надежность оценок из глобальных источников данных требует участия национальных экспертов для качественной проверки надежности оценок на основе экспертных знаний."
+#: ../../SO2.md:117
+#: ../../SO2.md:225
+msgid "**Verify the results**: the reliability of the estimates from global data sources requires inputs from national experts to qualitatively assess the reliability of the estimates based on expert knowledge."
+msgstr ""
 
-#: ../../SO2.md:119 ../../SO2.md:227 ../../SO2.md:387
-msgid ""
-"**Generate reports**: once verified by the Parties, the data and "
-"supporting narrative should be officially submitted to the UNCCD."
-msgstr "**Подготовьте отчеты**: после проверки Сторонами данные и вспомогательная описательная часть должны быть официально представлены КБО ООН."
+#: ../../SO2.md:119
+#: ../../SO2.md:227
+#: ../../SO2.md:387
+msgid "**Generate reports**: once verified by the Parties, the data and supporting narrative should be officially submitted to the UNCCD."
+msgstr ""
 
 #: ../../SO2.md:121
 msgid "2.1.7. Further reading"
-msgstr "2.1.7. Дополнительная литература"
+msgstr ""
 
 #: ../../SO2.md:123
-msgid ""
-"SDG indicator 1.1.1 metadata "
-"(<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)"
-msgstr "Метаданные показателя ЦУР 1.1.1 (<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)"
+msgid "SDG indicator 1.1.1 metadata (<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)"
+msgstr ""
 
 #: ../../SO2.md:124
-msgid ""
-"Gini index metadata (<https://databank.worldbank.org/metadataglossary"
-"/world-development-indicators/series/SI.POV.GINI>)"
-msgstr "Метаданные коэффициента Джини (<https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SI.POV.GINI>)"
+msgid "Gini index metadata (<https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SI.POV.GINI>)"
+msgstr ""
 
 #: ../../SO2.md:126
 msgid "2.2. SO 2-2 – Trends in access to safe drinking water in affected areas"
-msgstr "2.2. СЦ2-2 — Тенденции в области доступа к безопасной питьевой воде в затронутых районах"
+msgstr ""
 
 #: ../../SO2.md:128
 msgid "2.2.1. Introduction"
-msgstr "2.2.1. Введение"
+msgstr ""
 
 #: ../../SO2.md:130
-msgid ""
-"Having access to water is a key determinant of child survival, maternal "
-"and child health, family well-being and economic productivity. "
-"Accordingly, an increasing trend in access to safe drinking water would "
-"help improve the living conditions of affected populations."
-msgstr "Доступ к чистой воде является ключевым фактором, определяющим выживание детей, здоровье матери и ребенка, благосостояние семьи и экономическую производительность. Соответственно, тенденция к расширению доступа к безопасной питьевой воде будет способствовать улучшению условий жизни затронутого населения."
+msgid "Having access to water is a key determinant of child survival, maternal and child health, family well-being and economic productivity. Accordingly, an increasing trend in access to safe drinking water would help improve the living conditions of affected populations."
+msgstr ""
 
 #: ../../SO2.md:132
-msgid ""
-"In order to quantify safely managed drinking water, the proportion of "
-"population using improved drinking water services is determined. This is "
-"currently being measured by the proportion of population using an "
-"improved basic drinking water source. ‘Improved’ drinking water sources "
-"are defined as piped (into dwellings, yards or plots; public taps or "
-"standpipes) and non-piped (boreholes or tube wells; protected dug wells; "
-"protected springs; rainwater; packaged or delivered water) sources which "
-"are located on the premises, available when needed, and free from fecal "
-"and priority chemical contamination."
-msgstr "Для количественной оценки безопасной питьевой воды определяется доля населения, пользующегося улучшенными услугами по снабжению питьевой водой. В настоящее время это измеряется долей населения, пользующегося улучшенным основным источником питьевой воды. «Улучшенные» источники питьевой воды определяются как водопроводные (в жилые помещения, дворы или участки; общественные краны или стояки) и не трубопроводные (скважины или трубчатые колодцы; защищенные вырытые колодцы; защищенные источники; дождевая вода; упакованная или доставленная вода) источники, которые расположены в помещениях, доступны при необходимости и не загрязнены фекалиями или химическими веществами."
+msgid "In order to quantify safely managed drinking water, the proportion of population using improved drinking water services is determined. This is currently being measured by the proportion of population using an improved basic drinking water source. ‘Improved’ drinking water sources are defined as piped (into dwellings, yards or plots; public taps or standpipes) and non-piped (boreholes or tube wells; protected dug wells; protected springs; rainwater; packaged or delivered water) sources which are located on the premises, available when needed, and free from fecal and priority chemical contamination."
+msgstr ""
 
 #: ../../SO2.md:134
-msgid ""
-"National reporting is facilitated through the provision of default data "
-"derived from the SDG database. The proportion of population using safely "
-"managed drinking water services is SDG indicator 6.1.1. The indicator is "
-"disaggregated by urban and rural populations, and expressed as a "
-"percentage. Custodian agencies for this indicator are the World Health "
-"Organization (WHO) and the United Nations Children's Fund (UNICEF) which,"
-" through the Joint Monitoring Programme (JMP) for Water, Sanitation and "
-"Hygiene (WASH), have produced regular estimates of national, regional and"
-" global progress on drinking water, sanitation and hygiene since 1990."
-msgstr "Национальная отчетность упрощается за счет предоставления стандартных данных, полученных из базы данных ЦУР. Доля населения, пользующегося услугами безопасной питьевой воды, составляет показатель ЦУР 6.1.1. Показатель разделен на данные городского и сельского населения и выражен в процентах. Учреждениями-хранителями этого показателя являются Всемирная организация здравоохранения (ВОЗ) и Детский фонд Организации Объединенных Наций (ЮНИСЕФ), которые в рамках Совместной программы мониторинга (СПМ) в области водоснабжения, санитарии и гигиены (ВССГ) с 1990 года регулярно проводят оценки национального, регионального и глобального прогресса в области питьевой воды, санитарии и гигиены."
+msgid "National reporting is facilitated through the provision of default data derived from the SDG database. The proportion of population using safely managed drinking water services is SDG indicator 6.1.1. The indicator is disaggregated by urban and rural populations, and expressed as a percentage. Custodian agencies for this indicator are the World Health Organization (WHO) and the United Nations Children's Fund (UNICEF) which, through the Joint Monitoring Programme (JMP) for Water, Sanitation and Hygiene (WASH), have produced regular estimates of national, regional and global progress on drinking water, sanitation and hygiene since 1990."
+msgstr ""
 
 #: ../../SO2.md:136
 msgid "2.2.2. Prerequisites for reporting"
-msgstr "2.2.2. Предварительные условия для представления отчетности"
+msgstr ""
 
 #: ../../SO2.md:138
-msgid ""
-"An in-depth reading of the SDG indicator 6.1.1 metadata (see section "
-"2.2.7)."
-msgstr "Подробное ознакомление с метаданными показателя ЦУР 6.1.1 (см. раздел 2.2.7)."
+msgid "An in-depth reading of the SDG indicator 6.1.1 metadata (see section 2.2.7)."
+msgstr ""
 
 #: ../../SO2.md:140
 msgid "Data complying with the specifications listed in table 16."
-msgstr "Данные, соответствующие спецификациям, перечисленным в таблице 16."
+msgstr ""
 
 #: ../../SO2.md:142
-msgid ""
-"A pool of national experts officially nominated by the national "
-"authorities to verify the suitability and consistency of the default data"
-" against the situation in their country, or to identify and compile data "
-"using national sources for the three metrics. Key institutions might "
-"include a country’s national statistical office, ministry of health and "
-"ministry of water resources, as well as universities and research "
-"centres."
-msgstr "Группа национальных экспертов, официально назначенных национальными властями для проверки соответствия и согласованности данных по умолчанию с ситуацией в их стране или для выявления и сбора данных с использованием национальных источников для трех показателей. К ключевым учреждениям относятся национальное статистическое управление страны, министерство здравоохранения и министерство водных ресурсов, а также университеты и исследовательские центры."
+msgid "A pool of national experts officially nominated by the national authorities to verify the suitability and consistency of the default data against the situation in their country, or to identify and compile data using national sources for the three metrics. Key institutions might include a country’s national statistical office, ministry of health and ministry of water resources, as well as universities and research centres."
+msgstr ""
 
 #: ../../SO2.md:144
 msgid "2.2.3. Reporting process and step-by-step procedure"
-msgstr "2.2.3. Процесс отчетности и пошаговая процедура"
+msgstr ""
 
 #: ../../SO2.md:148
 msgid "Step 1: Identify the relevant dataset"
-msgstr "Шаг 1. Определите соответствующий набор данных"
+msgstr ""
 
 #: ../../SO2.md:150
-msgid ""
-"Default data for this indicator is pre-filled from the SDG database (SDG "
-"indicator 6.1.1); estimates of the proportion of population using "
-"improved drinking water services are regularly produced by the WHO/UNICEF"
-" JMP."
-msgstr "Данные по умолчанию для этого показателя предварительно заполняются из базы данных ЦУР (показатель ЦУР 6.1.1); оценки доли населения, пользующегося улучшенными услугами по снабжению питьевой водой, регулярно подготавливаются СПМ ВОЗ/ЮНИСЕФ."
+msgid "Default data for this indicator is pre-filled from the SDG database (SDG indicator 6.1.1); estimates of the proportion of population using improved drinking water services are regularly produced by the WHO/UNICEF JMP."
+msgstr ""
 
 #: ../../SO2.md:152
-msgid ""
-"Parties may also use national data, provided it complies with the data "
-"specifications listed in table 16."
-msgstr "Стороны могут также использовать национальные данные при условии, что они соответствуют спецификациям данных, перечисленным в таблице 16."
+msgid "Parties may also use national data, provided it complies with the data specifications listed in table 16."
+msgstr ""
 
 #: ../../SO2.md:157
 msgid "*__Table 16__. Data specifications for SO 2-2 Indicator*"
-msgstr "*__Таблица 16__. Спецификации данных для показателя СЦ 2-2*"
+msgstr ""
 
-#: ../../SO2.md:3
+#: ../../SO2.md:165
 msgid "__Default data__"
-msgstr "__Данные по умолчанию__"
+msgstr ""
 
-#: ../../SO2.md:5
-msgid ""
-"(Sustainable Development Goal indicator 6.1.1 / World Health Organization"
-" / United Nations Children’s Fund Joint Monitoring Programme)"
-msgstr "(Показатель Целей в области устойчивого развития 6.1.1 / Совместная программа мониторинга Всемирной Организации здравоохранения / Детского фонда Организации Объединенных Наций)"
+#: ../../SO2.md:167
+msgid "(Sustainable Development Goal indicator 6.1.1 / World Health Organization / United Nations Children’s Fund Joint Monitoring Programme)"
+msgstr ""
 
-#: ../../SO2.md:7
+#: ../../SO2.md:169
 msgid "__Type of data__"
-msgstr "__Тип данных__"
+msgstr ""
 
-#: ../../SO2.md:8
-#, python-format
-msgid ""
-"Annual data on the total, urban and rural population using safely managed"
-" drinking water services (% of population) for the period 2000–2020."
-msgstr "Ежегодные данные об общей численности городского и сельского населения, пользующегося услугами безопасной питьевой воды (% of население) за период с 2000 по 2020 год."
+#: ../../SO2.md:170
+msgid "Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period 2000–2020."
+msgstr ""
 
-#: ../../SO2.md:9
-#, python-format
-msgid ""
-"Annual data on the total, urban and rural population using safely managed"
-" drinking water services (% of population) for the period from 2000 to "
-"the latest available year for the reporting period."
-msgstr "Ежегодные данные об общей численности городского и сельского населения, пользующегося услугами безопасной питьевой воды (% of население) за период с 2000 года по последний доступный год за отчетный период."
+#: ../../SO2.md:171
+msgid "Annual data on the total, urban and rural population using safely managed drinking water services (% of population) for the period from 2000 to the latest available year for the reporting period."
+msgstr ""
 
 #: ../../SO2.md:183
 msgid "Step 2: Report national annual values and interpret the data"
-msgstr "Шаг 2. Сообщите национальные годовые значения и объясните данные"
+msgstr ""
 
-#: ../../SO2.md:1
+#: ../../SO2.md:186
 msgid "Related areas in the PRAIS 4 platform: tables SO2-2.T1 and SO2-2.T2"
-msgstr "Соответствующие области платформы PRAIS 4: таблицы СЦ2-2.T1 и СЦ2-2.T2"
+msgstr ""
 
 #: ../../SO2.md:189
-msgid ""
-"Parties opting to use an alternative source of national data may enter "
-"the relevant data in table SO2-2.T1. Parties may also provide information"
-" on the dominant change in the metric using the “Qualitative Assessment” "
-"table SO2-2.T2."
-msgstr "Стороны, решившие использовать альтернативный источник национальных данных, могут внести соответствующие данные в таблицу СЦ2-2.T1. Стороны могут также предоставить информацию о доминирующем изменении показателя, используя таблицу «Качественная оценка» СЦ2-2.T2."
+msgid "Parties opting to use an alternative source of national data may enter the relevant data in table SO2-2.T1. Parties may also provide information on the dominant change in the metric using the “Qualitative Assessment” table SO2-2.T2."
+msgstr ""
 
 #: ../../SO2.md:191
-#, python-format
-msgid ""
-"To assist in the data interpretation, countries are encouraged to "
-"visualize their respective SDG Indicator 6.1.1 by means of a graph "
-"(graphs for each country, representing each disaggregation, i.e., % rural"
-" population, % urban population, % total population, are available to "
-"view and download from the JMP and World Bank websites)[^2].  While it "
-"may be difficult to attribute specific causal factors to changes in the "
-"metrics, countries may indicate which direct and/or indirect drivers are "
-"presumably behind the observed changes and report this information in the"
-" Qualitative Assessment table."
-msgstr "В качестве поддержки интерпретации данных странам рекомендуется визуализировать свой соответствующий показатель ЦУР 6.1.1 с помощью графика (графики для каждой страны, представляющие каждую дезагрегацию, т. е. % rсельское население, % uгородское население, % общую численность населения, доступны для просмотра и загрузки с веб-сайтов СПМ и Всемирного банка)[^2]. Хотя может быть трудно приписать конкретные факторы, ставшие причиной изменений в метриках, страны могут указать, какие прямые и/или косвенные факторы предположительно стоят за наблюдаемыми изменениями, и добавить эту информацию в таблицу «Качественная оценка»."
+msgid "To assist in the data interpretation, countries are encouraged to visualize their respective SDG Indicator 6.1.1 by means of a graph (graphs for each country, representing each disaggregation, i.e., % rural population, % urban population, % total population, are available to view and download from the JMP and World Bank websites)[^2].  While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table."
+msgstr ""
 
 #: ../../SO2.md:195
 msgid "Step 3:  Verify the results"
-msgstr "Шаг 3. Проверьте результаты"
+msgstr ""
 
 #: ../../SO2.md:199
 msgid "Step 4: Generate reports"
-msgstr "Шаг 4. Сформируйте отчеты"
+msgstr ""
 
 #: ../../SO2.md:201
-msgid ""
-"Once verified by the Parties, the estimates of the proportion of "
-"population using safely managed drinking water services should be "
-"officially submitted to the UNCCD."
-msgstr "После проверки Сторонами оценки доли населения, пользующегося услугами безопасной питьевой воды, должны быть официально представлены КБО ООН."
+msgid "Once verified by the Parties, the estimates of the proportion of population using safely managed drinking water services should be officially submitted to the UNCCD."
+msgstr ""
 
 #: ../../SO2.md:203
-msgid ""
-"Disaggregated data for this metric (e.g., per administrative division, "
-"urban vs rural, affected areas or other socio-economic strata, e.g., sex-"
-"disaggregated data) may be useful to identify where the most significant "
-"hotspots/brightspots are located. Optionally, Parties may include "
-"additional information to describe specific country situations and "
-"provide more details on data interpretation."
-msgstr "Дезагрегированные данные в рамках этой метрики (например, по административному делению, городскому и сельскому районам, затронутым районам или другим социально-экономическим слоям, например, данные с разбивкой по полу) могут быть полезны для определения того, где расположены наиболее значительные горячие/яркие точки. При желании Стороны могут включить дополнительную информацию для описания ситуации в конкретных странах и предоставить более подробную информацию об интерпретации данных."
+msgid "Disaggregated data for this metric (e.g., per administrative division, urban vs rural, affected areas or other socio-economic strata, e.g., sex-disaggregated data) may be useful to identify where the most significant hotspots/brightspots are located. Optionally, Parties may include additional information to describe specific country situations and provide more details on data interpretation."
+msgstr ""
 
 #: ../../SO2.md:205
-msgid ""
-"Parties are also encouraged to submit narratives on the methodology, data"
-" sources and data accuracy in the event that the estimates are derived "
-"from national data. It would also be beneficial to report on special "
-"cases and issues, describing any deviation from the default method and "
-"providing the rationale to adopt a different methodology. A General "
-"Comment field is provided in the PRAIS 4 platform for this purpose."
-msgstr "Сторонам также рекомендуется представлять описания методологии, источников данных и точности данных в том случае, если оценки получены на основе национальных данных. Также было бы полезно предоставлять информацию об особых случаях и проблемах, описывая любые отклонения от метода по умолчанию и предоставляя обоснование для принятия другой методологии. Для этой цели на платформе PRAIS 4 предусмотрено поле «Общие замечания»."
+msgid "Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data. It would also be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale to adopt a different methodology. A General Comment field is provided in the PRAIS 4 platform for this purpose."
+msgstr ""
 
 #: ../../SO2.md:207
 msgid "2.2.4. Dependencies"
-msgstr "2.2.4. Зависимости"
+msgstr ""
 
 #: ../../SO2.md:209
-msgid ""
-"Indicator SO 2-2 has no dependencies from other SOs. However, it could be"
-" used in the calculation of the Drought Vulnerability Index (DVI) for "
-"indicator SO 3-3."
-msgstr "Показатель СЦ 2-2 не зависит от других СЦ. Однако он может быть использован при расчете Индекса уязвимости к засухе (DVI) для показателя СЦ 3-3."
+msgid "Indicator SO 2-2 has no dependencies from other SOs. However, it could be used in the calculation of the Drought Vulnerability Index (DVI) for indicator SO 3-3."
+msgstr ""
 
 #: ../../SO2.md:211
 msgid "2.2.5. Challenges"
-msgstr "2.2.5. Проблемы"
+msgstr ""
 
 #: ../../SO2.md:217
 msgid "2.2.6. Summary (main actions)"
-msgstr "2.2.6. Краткие выводы (основные действия)"
+msgstr ""
 
 #: ../../SO2.md:219
 msgid "Key actions for reporting on indicator SO 2-2 are as follows:"
-msgstr "Основные действия для представления отчетности по показателю СЦ 2-2 заключаются в следующем:"
+msgstr ""
 
 #: ../../SO2.md:221
-msgid ""
-"**Identify the relevant dataset**: Parties may decide to use the "
-"recommended default international data or alternative national sources."
-msgstr "**Определите соответствующий набор данных**: Стороны могут принять решение использовать рекомендуемые международные данные по умолчанию или данные из альтернативных национальных источников."
+msgid "**Identify the relevant dataset**: Parties may decide to use the recommended default international data or alternative national sources."
+msgstr ""
 
 #: ../../SO2.md:223
-msgid ""
-"**Report national annual values and interpret the data**: Parties are "
-"invited to report, visualize and interpret the national annual data."
-msgstr "**Сообщите национальные годовые значения и объясните данные**: Сторонам предлагается сообщить, визуализировать и интерпретировать национальные годовые данные."
+msgid "**Report national annual values and interpret the data**: Parties are invited to report, visualize and interpret the national annual data."
+msgstr ""
 
 #: ../../SO2.md:229
 msgid "2.2.7. Further reading"
-msgstr "2.2.7. Дополнительная литература"
+msgstr ""
 
 #: ../../SO2.md:231
-msgid ""
-"SDG indicator 6.1.1 metadata "
-"(<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>)"
-msgstr "Метаданные показателя ЦУР 6.1.1 (<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>)"
+msgid "SDG indicator 6.1.1 metadata (<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>)"
+msgstr ""
 
 #: ../../SO2.md:233
-msgid ""
-"2.3. SO 2-3 – Trends in Population Exposure to Land Degradation "
-"Disaggregated by Sex"
-msgstr "2.3. СЦ 2-3 — Тенденции подверженности населения деградации земель в разбивке по полу"
+msgid "2.3. SO 2-3 – Trends in Population Exposure to Land Degradation Disaggregated by Sex"
+msgstr ""
 
 #: ../../SO2.md:235
 msgid "2.3.1. Introduction"
-msgstr "2.3.1. Введение"
+msgstr ""
 
 #: ../../SO2.md:237
-msgid ""
-"Indicator SO 3-2 was developed in response to decision 11/COP.14 to align"
-" the reporting process for SO 1 to 5 with gender-responsive indicators "
-"and guidelines and ensure that the gender dimensions of land degradation "
-"are captured."
-msgstr "Показатель СЦ 3-2 был разработан в ответ на решение 11/СОР.14 для согласования процесса отчетности по СЦ 1-5 с показателями и руководящими принципами, учитывающими гендерные аспекты, и обеспечения учета гендерных аспектов в области деградации земель."
+msgid "Indicator SO 3-2 was developed in response to decision 11/COP.14 to align the reporting process for SO 1 to 5 with gender-responsive indicators and guidelines and ensure that the gender dimensions of land degradation are captured."
+msgstr ""
 
 #: ../../SO2.md:239
-msgid ""
-"The indicator estimates the proportion of populations exposed to land "
-"degradation, disaggregated by sex, as a first step towards addressing the"
-" gender data gap on land degradation within the UNCCD reporting "
-"framework. The methodology uses the spatial distribution of the "
-"population or sub-population group (i.e., by sex) to establish its "
-"exposure to land degradation, as determined by indicator SO 1-4 (i.e., "
-"SDG Indicator 15.3.1)."
-msgstr "Этот показатель оценивает долю населения, подверженного деградации земель, в разбивке по полу, в качестве первого шага на пути устранения гендерного разрыва в данных о деградации земель в рамках отчетности КБО ООН. Методология использует пространственное распределение населения или подгруппы населения (т. е. разделение по полу) для определения их подверженности деградации земель, как определено показателем СЦ 1-4 (т. е. показателем ЦУР 15.3.1)."
+msgid "The indicator estimates the proportion of populations exposed to land degradation, disaggregated by sex, as a first step towards addressing the gender data gap on land degradation within the UNCCD reporting framework. The methodology uses the spatial distribution of the population or sub-population group (i.e., by sex) to establish its exposure to land degradation, as determined by indicator SO 1-4 (i.e., SDG Indicator 15.3.1)."
+msgstr ""
 
 #: ../../SO2.md:241
-msgid ""
-"The indicator trends in the proportion of population exposed to land "
-"degradation, disaggregated by sex, uses the following metrics:"
-msgstr "Для определения тенденций показателя доли населения, подверженного деградации земель, в разбивке по полу используются следующие метрики:"
+msgid "The indicator trends in the proportion of population exposed to land degradation, disaggregated by sex, uses the following metrics:"
+msgstr ""
 
 #: ../../SO2.md:243
 msgid "Percentage of the female population exposed to land degradation"
-msgstr "процентная доля женского населения, подверженного деградации земель;"
+msgstr ""
 
 #: ../../SO2.md:245
 msgid "Percentage of the male population exposed to land degradation"
-msgstr "процентная доля мужского населения, подверженного деградации земель;"
+msgstr ""
 
 #: ../../SO2.md:247
-msgid ""
-"Percentage of the total (female and male) population exposed to land "
-"degradation"
-msgstr "процентная доля от общей численности населения (женского и мужского), подверженного деградации земель."
+msgid "Percentage of the total (female and male) population exposed to land degradation"
+msgstr ""
 
 #: ../../SO2.md:249
-msgid ""
-"National reporting is facilitated though the provision of default data "
-"derived from the Worldpop global dataset on population distributions, "
-"demographics and dynamics and the default indicator SO 1-4 estimates."
-msgstr "Национальная отчетность упрощается за счет предоставления данных по умолчанию, полученных из глобального набора данных Worldpop о распределении населения, демографии и динамике, а также оценок по умолчанию показателя СЦ 1-4."
+msgid "National reporting is facilitated though the provision of default data derived from the Worldpop global dataset on population distributions, demographics and dynamics and the default indicator SO 1-4 estimates."
+msgstr ""
 
 #: ../../SO2.md:251
 msgid "2.3.2. Prerequisites for reporting"
-msgstr "2.3.2. Предварительные условия для представления отчетности"
+msgstr ""
 
 #: ../../SO2.md:253
-msgid ""
-"An in-depth reading of the methodological note for indicator SO 3-2 (see "
-"section 2.3.7)."
-msgstr "Подробное изучение методологической записки по показателю СЦ 3-2 (см. раздел 2.3.7)."
+msgid "An in-depth reading of the methodological note for indicator SO 3-2 (see section 2.3.7)."
+msgstr ""
 
 #: ../../SO2.md:255
 msgid "Population data complying with the specifications listed in table 17."
-msgstr "Данные о населении, соответствующие спецификациям, перечисленным в таблице 17."
+msgstr ""
 
 #: ../../SO2.md:257
-msgid ""
-"A pool of national experts officially nominated by the national "
-"authorities to verify the suitability and consistency of the default data"
-" against the situation in their country, or to identify and compile data "
-"using national sources for the three metrics. Key institutions might "
-"include a country’s national statistical office, ministry of environment "
-"and ministry of agriculture, as well as universities and research "
-"centres."
-msgstr "Группа национальных экспертов, официально назначенных национальными властями для проверки соответствия и согласованности данных по умолчанию с ситуацией в их стране или для выявления и сбора данных с использованием национальных источников для трех показателей. К ключевым учреждениям относятся национальное статистическое управление страны, министерство окружающей среды и министерство сельского хозяйства, а также университеты и исследовательские центры."
+msgid "A pool of national experts officially nominated by the national authorities to verify the suitability and consistency of the default data against the situation in their country, or to identify and compile data using national sources for the three metrics. Key institutions might include a country’s national statistical office, ministry of environment and ministry of agriculture, as well as universities and research centres."
+msgstr ""
 
 #: ../../SO2.md:259
 msgid "2.3.3. Reporting process and step-by-step procedure"
-msgstr "2.3.3. Процесс отчетности и пошаговая процедура"
+msgstr ""
 
 #: ../../SO2.md:261
-msgid ""
-"The step-by-step procedure for reporting is described in the following. "
-"If Parties decide to use the default data, steps 2 and 3 are unnecessary."
-msgstr "Описание пошаговой процедуры представления отчетности приводится ниже. Если Стороны решат использовать данные по умолчанию, шаги 2 и 3 следует пропустить."
+msgid "The step-by-step procedure for reporting is described in the following. If Parties decide to use the default data, steps 2 and 3 are unnecessary."
+msgstr ""
 
 #: ../../SO2.md:263
 msgid "Step 1: Select the population dataset"
-msgstr "Шаг 1. Выберите набор данных о населении"
+msgstr ""
 
 #: ../../SO2.md:265
-msgid ""
-"Suitable data for the calculation of indicator SO 2-3 is a sex-"
-"disaggregated gridded count of the human population, or a georeferenced "
-"set of sub-national data that covers the full extent of the country. It "
-"must represent the number of male and female individuals per grid cell, "
-"ideally annually, in the time period in question (i.e., the date "
-"timestamp should be at least one of the years within the baseline and "
-"reporting period)."
-msgstr "Подходящими данными для расчета показателя СЦ 2-3 являются данные о численности населения в разбивке по полу с привязкой к сетке координат или набор субнациональных данных с географической привязкой, охватывающий всю территорию страны. Он должен представлять количество людей мужского и женского пола на ячейку сетки координат, в идеале ежегодно, в течение рассматриваемого периода времени (т. е. отметка даты должна быть по крайней мере за один год в пределах базового и отчетного периода)."
+msgid "Suitable data for the calculation of indicator SO 2-3 is a sex-disaggregated gridded count of the human population, or a georeferenced set of sub-national data that covers the full extent of the country. It must represent the number of male and female individuals per grid cell, ideally annually, in the time period in question (i.e., the date timestamp should be at least one of the years within the baseline and reporting period)."
+msgstr ""
 
 #: ../../SO2.md:267
-msgid ""
-"Among the publicly available population datasets at the global scale, the"
-" WorldPop dataset is used by default by the UNCCD for calculating "
-"indicator SO2-3 and provided to Parties in Trends.Earth."
-msgstr "Среди общедоступных наборов данных о населении в глобальном масштабе набор данных WorldPop по умолчанию используется КБО ООН для расчета показателя СЦ2-3 и доступен для Сторон в Trends.Earth."
+msgid "Among the publicly available population datasets at the global scale, the WorldPop dataset is used by default by the UNCCD for calculating indicator SO2-3 and provided to Parties in Trends.Earth."
+msgstr ""
 
 #: ../../SO2.md:269
-msgid ""
-"An alternative dataset is the Gridded Population of the World, version 4 "
-"(GPWv4)."
-msgstr "Альтернативным набором данных является население мира с привязкой к сетке координат, версия 4 (GPWv4)."
+msgid "An alternative dataset is the Gridded Population of the World, version 4 (GPWv4)."
+msgstr ""
 
 #: ../../SO2.md:271
-msgid ""
-"Parties may also use national data, provided it complies with the data "
-"specifications listed in table 17."
-msgstr "Стороны могут также использовать национальные данные при условии, что они соответствуют спецификациям данных, перечисленным в таблице 17."
+msgid "Parties may also use national data, provided it complies with the data specifications listed in table 17."
+msgstr ""
 
 #: ../../SO2.md:276
 msgid "*__Table 17__. Data specifications for SO 2-3 Indicator*"
-msgstr "*__Таблица 17__. Спецификации данных для показателя СЦ 2-3*"
+msgstr ""
 
-#: ../../SO2.md:3
+#: ../../SO2.md:283
 msgid "Default data"
-msgstr "Данные по умолчанию"
+msgstr ""
 
-#: ../../SO2.md:4
+#: ../../SO2.md:284
 msgid "National data"
-msgstr "Национальные данные"
+msgstr ""
 
-#: ../../SO2.md:5
+#: ../../SO2.md:285
 msgid "__Input data__"
-msgstr "__Исходные данные__"
+msgstr ""
 
-#: ../../SO2.md:7
+#: ../../SO2.md:287
 msgid "(Data needed to estimate the population exposed to land degradation)"
-msgstr "(Данные, необходимые для оценки населения, подверженного деградации земель)"
+msgstr ""
 
-#: ../../SO2.md:8
-msgid ""
-"WorldPop data disaggregated by sex for the baseline year (2015) and the "
-"latest available year of the reporting period (2019)."
-msgstr "Данные WorldPop в разбивке по полу за базовый год (2015 г.) и последний доступный год отчетного периода (2019 г.)."
+#: ../../SO2.md:288
+msgid "WorldPop data disaggregated by sex for the baseline year (2015) and the latest available year of the reporting period (2019)."
+msgstr ""
 
-#: ../../SO2.md:10 ../../SO2.md:13
-msgid ""
-"Gridded data on land degradation as determined by indicator SO 1-4 for "
-"the baseline and reporting periods."
-msgstr "Привязанные к сетке координат данные о деградации земель, определенные по показателю СЦ 1-4 для базового и отчетного периодов."
+#: ../../SO2.md:290
+#: ../../SO2.md:293
+msgid "Gridded data on land degradation as determined by indicator SO 1-4 for the baseline and reporting periods."
+msgstr ""
 
-#: ../../SO2.md:11
-msgid ""
-"Gridded population products derived from national official statistics, "
-"disaggregated by sex for the baseline year (ideally the year 2015) and "
-"the latest available year of the reporting period (e.g., 2019)."
-msgstr "Привязанные к сетке координат демографические продукты, полученные на основе национальной официальной статистики, в разбивке по полу за базовый год (в идеале 2015 год) и последний доступный год отчетного периода (например, 2019 год)."
+#: ../../SO2.md:291
+msgid "Gridded population products derived from national official statistics, disaggregated by sex for the baseline year (ideally the year 2015) and the latest available year of the reporting period (e.g., 2019)."
+msgstr ""
 
-#: ../../SO2.md:14
+#: ../../SO2.md:294
 msgid "__Output data__"
-msgstr "__Выходные данные__"
+msgstr ""
 
-#: ../../SO2.md:16
+#: ../../SO2.md:296
 msgid "(Gridded products resulting from the analysis of the three metrics)"
-msgstr "(Продукты с привязкой к сетке координат, полученные в результате анализа трех метрик)"
+msgstr ""
 
-#: ../../SO2.md:17 ../../SO2.md:18
-msgid ""
-"Gridded products of the female, male and total population exposed to land"
-" degradation in the baseline and reporting periods."
-msgstr "Привязанные к сетке координат продукты, содержащие информацию о женском, мужском и общем населении, затронутом в результате деградации земель в базовом и отчетном периодах."
+#: ../../SO2.md:297
+#: ../../SO2.md:298
+msgid "Gridded products of the female, male and total population exposed to land degradation in the baseline and reporting periods."
+msgstr ""
 
-#: ../../SO2.md:20
+#: ../../SO2.md:300
 msgid "WorldPop data: 3-arc seconds (~100 m)"
-msgstr "Данные WorldPop: 3 угловых секунды (~100 м)."
+msgstr ""
 
-#: ../../SO2.md:21
+#: ../../SO2.md:301
 msgid "Assessed by national authorities based on available data."
-msgstr "Оценивается национальными органами власти на основе имеющихся данных."
+msgstr ""
 
 #: ../../SO2.md:310
 msgid "Step 2:  Standardize the selected datasets"
-msgstr "Шаг 2. Стандартизация выбранных наборов данных"
+msgstr ""
 
 #: ../../SO2.md:312
-msgid ""
-"The population and the land degradation datasets must be harmonized to "
-"the same grid cell size. For example, the WorldPop dataset and the SO 1-4"
-" land degradation default dataset have resolutions of 100 and 300 metres,"
-" respectively and should be resampled to a common grid cell size. For the"
-" default data, the grid cell size for the analysis is fixed at the 300 "
-"metre resolution of the land degradation dataset to which the population "
-"data is resampled. Countries using national datasets should assess them "
-"in terms of projection and resolution and standardize them through a "
-"resampling process in order to be able to combine them in the analysis of"
-" population exposure to land degradation."
-msgstr "Наборы данных о населении и деградации земель должны обладать одинаковым размером ячеек сетки координат. Например, набор данных WorldPop и набор данных по умолчанию для оценки деградации земель СЦ 1-4 имеют разрешение 100 и 300 метров соответственно и должны быть отформатированы, чтобы размер ячейки сетки координат совпадал. Для данных по умолчанию размер ячейки сетки координат для анализа фиксируется с разрешением 300 метров набора данных о деградации земель, с которым повторно сопоставляются данные о населении. Страны, использующие национальные наборы данных, должны оценивать их с точки зрения прогноза и разрешения и стандартизировать их с помощью процесса повторной выборки, чтобы иметь возможность объединить их в анализе подверженности населения деградации земель."
+msgid "The population and the land degradation datasets must be harmonized to the same grid cell size. For example, the WorldPop dataset and the SO 1-4 land degradation default dataset have resolutions of 100 and 300 metres, respectively and should be resampled to a common grid cell size. For the default data, the grid cell size for the analysis is fixed at the 300 metre resolution of the land degradation dataset to which the population data is resampled. Countries using national datasets should assess them in terms of projection and resolution and standardize them through a resampling process in order to be able to combine them in the analysis of population exposure to land degradation."
+msgstr ""
 
 #: ../../SO2.md:314
-msgid ""
-"The resampling should take into consideration that, for datasets "
-"representing population counts, changes in cell size implies changes in "
-"the number of people in each cell; a resampling method that ensures the "
-"integrity of the continuous data should be used, such as bilinear "
-"interpolation (avoid nearest neighbour techniques)."
-msgstr "При повторной выборке следует учитывать, что для наборов данных, представляющих количество населения, изменение размера ячейки влечет за собой изменение количества людей в каждой ячейке; следует использовать метод повторной выборки, обеспечивающий целостность непрерывных данных, такой как билинейная интерполяция (избегайте методов ближайших соседних частиц)."
+msgid "The resampling should take into consideration that, for datasets representing population counts, changes in cell size implies changes in the number of people in each cell; a resampling method that ensures the integrity of the continuous data should be used, such as bilinear interpolation (avoid nearest neighbour techniques)."
+msgstr ""
 
 #: ../../SO2.md:316
-msgid ""
-"Step 3: Estimate the female, male and total population count and "
-"percentage exposed to land degradation"
-msgstr "Шаг 3. Оцените численность женщин, мужчин и общую численность населения, а также процентную долю населения, подверженного деградации земель"
+msgid "Step 3: Estimate the female, male and total population count and percentage exposed to land degradation"
+msgstr ""
 
-#: ../../SO2.md:1
+#: ../../SO2.md:319
 msgid "Related areas in the PRAIS 4 platform: tables SO2-3.T1 and SO2-3.T2"
-msgstr "Соответствующие области платформы PRAIS 4: таблицы СЦ2-3.T1 и СЦ2-3.T2"
+msgstr ""
 
 #: ../../SO2.md:322
-msgid ""
-"The female and male population grids for the baseline and reporting "
-"periods are intersected with the respective land degradation grids. The "
-"values of the cells falling on degraded land are then combined to derive "
-"the female and male population exposed to land degradation. The total "
-"population exposed to land degradation is obtained by combining the "
-"obtained female and male population values."
-msgstr "Сетки координат численности женского и мужского населения за базовый и отчетный периоды пересекаются с соответствующими сетками координат деградации земель. Значения ячеек, приходящихся на деградированные земли, затем объединяются для получения данных о женском и мужском населении, подверженном деградации земель. Общая численность населения, подверженного деградации земель, высчитывается путем объединения полученных значений численности женского и мужского населения."
+msgid "The female and male population grids for the baseline and reporting periods are intersected with the respective land degradation grids. The values of the cells falling on degraded land are then combined to derive the female and male population exposed to land degradation. The total population exposed to land degradation is obtained by combining the obtained female and male population values."
+msgstr ""
 
 #: ../../SO2.md:324
-msgid ""
-"This analysis should be carried out over two time periods (i.e., the "
-"baseline and reporting period) in order to measure changes over time and "
-"report the observed change in table SO2-3.T2. However, it should be noted"
-" that the land degradation spatial dataset (i.e., the SO1-4 output) "
-"captures temporal trends in the three subindicators (land cover, land "
-"productivity and soil organic carbon (SOC)) over a certain number of "
-"years, whereas population data reflects the populations in specific years"
-" (e.g., 2015 and 2019). To increase accuracy in capturing the number of "
-"people exposed to land degradation in the two reference years (i.e., 2015"
-" for the baseline and 2019 for reporting period), it is recommended that "
-"the population gird closest to the above-mentioned years be used."
-msgstr "Этот анализ следует проводить в течение двух периодов времени (т. е. базового и отчетного периодов), чтобы измерить изменения с течением времени и сообщить о наблюдаемых изменениях в таблице СЦ2-3.T2. Однако следует отметить, что пространственный набор данных о деградации земель (т. е. результат СЦ1-4) отражает временные тенденции по трем субпоказателям (почвенный покров, продуктивность земель и почвенный органический углерод (ПОУ)) за определенное количество лет, в то время как данные о населении отражают население в конкретные годы (например, 2015 и 2019 годы). Для повышения точности определения числа людей, подвергшихся деградации земель в течение двух базовых лет (т. е. 2015 года для базового и 2019 года для отчетного периода), рекомендуется использовать данные о населении, наиболее близкие к вышеупомянутым годам."
+msgid "This analysis should be carried out over two time periods (i.e., the baseline and reporting period) in order to measure changes over time and report the observed change in table SO2-3.T2. However, it should be noted that the land degradation spatial dataset (i.e., the SO1-4 output) captures temporal trends in the three subindicators (land cover, land productivity and soil organic carbon (SOC)) over a certain number of years, whereas population data reflects the populations in specific years (e.g., 2015 and 2019). To increase accuracy in capturing the number of people exposed to land degradation in the two reference years (i.e., 2015 for the baseline and 2019 for reporting period), it is recommended that the population gird closest to the above-mentioned years be used."
+msgstr ""
 
 #: ../../SO2.md:326
-msgid ""
-"To calculate the percentage of female, male and total population exposed "
-"to land degradation, the respective populations exposed to land "
-"degradation are divided by the total populations of the corresponding sex"
-" types, multiplied by 100."
-msgstr "Для расчета процентной доли женщин, мужчин и всего населения, подверженного деградации земель, соответствующие группы населения, подверженные деградации земель, делятся на общую численность населения соответствующего пола, умноженную на 100."
+msgid "To calculate the percentage of female, male and total population exposed to land degradation, the respective populations exposed to land degradation are divided by the total populations of the corresponding sex types, multiplied by 100."
+msgstr ""
 
 #: ../../SO2.md:328
 msgid "Step 4: Qualitatively assess the results"
-msgstr "Шаг 4. Качественная оценка результатов"
+msgstr ""
 
-#: ../../SO2.md:1
+#: ../../SO2.md:331
 msgid "Related areas in the PRAIS 4 platform: table SO2-3.T3"
-msgstr "Соответствующие области платформы PRAIS 4: таблица СЦ2-3.T3"
+msgstr ""
 
 #: ../../SO2.md:334
-msgid ""
-"Observed changes in the indicator and their interpretation may be "
-"described in the “Qualitative Assessment” table of the PRAIS 4 platform "
-"(table SO2-3.T3)."
-msgstr "Наблюдаемые изменения показателя и их интерпретация могут быть описаны в таблице «Качественная оценка» на платформе PRAIS 4 (таблица СЦ2-3.T3)."
+msgid "Observed changes in the indicator and their interpretation may be described in the “Qualitative Assessment” table of the PRAIS 4 platform (table SO2-3.T3)."
+msgstr ""
 
 #: ../../SO2.md:336
-msgid ""
-"It is important to note that changes in the proportion of population "
-"exposure to land degradation may not only be due to the expansion of land"
-" degradation but also to population growth, among other factors."
-msgstr "Важно отметить, что изменения в доле населения, подверженного деградации земель, могут быть обусловлены не только расширением масштабов деградации земель, но и, среди прочих факторов, ростом численности населения."
+msgid "It is important to note that changes in the proportion of population exposure to land degradation may not only be due to the expansion of land degradation but also to population growth, among other factors."
+msgstr ""
 
 #: ../../SO2.md:338
 msgid "Step 5:  Verify the results"
-msgstr "Шаг 5. Проверьте результаты"
+msgstr ""
 
 #: ../../SO2.md:340
-msgid ""
-"The reliability of the estimates from global data sources requires inputs"
-" from national experts to identify and highlight situations where the "
-"confidence level of the obtained results might be low."
-msgstr "Надежность оценок из глобальных источников данных требует участия национальных экспертов для выявления и определения ситуаций, в которых уровень достоверности полученных результатов может быть низким."
+msgid "The reliability of the estimates from global data sources requires inputs from national experts to identify and highlight situations where the confidence level of the obtained results might be low."
+msgstr ""
 
 #: ../../SO2.md:342
 msgid "Step 6: Generate reports"
-msgstr "Шаг 6. Сформируйте отчеты"
+msgstr ""
 
 #: ../../SO2.md:344
-msgid ""
-"Once verified by the Parties, the estimates of the female, male and total"
-" population exposed to land degradation should be officially submitted to"
-" the UNCCD."
-msgstr "После проверки Сторонами оценки численности женщин, мужчин и всего населения, подверженного деградации земель, должны быть официально представлены КБО ООН."
+msgid "Once verified by the Parties, the estimates of the female, male and total population exposed to land degradation should be officially submitted to the UNCCD."
+msgstr ""
 
 #: ../../SO2.md:346
-msgid ""
-"Default maps or maps generated in Trends.Earth using national data "
-"representing population exposure to land degradation by sex are made "
-"available in the PRAIS 4 platform. More specifically, the following maps "
-"will be available online:"
-msgstr "Карты по умолчанию или карты, созданные в Тrends.Earth с использованием национальных данных, отражающих численность населения, подверженного деградации земли, с разбивкой по полу, доступны на платформе PRAIS 4. В частности, онлайн будут доступны следующие карты:"
+msgid "Default maps or maps generated in Trends.Earth using national data representing population exposure to land degradation by sex are made available in the PRAIS 4 platform. More specifically, the following maps will be available online:"
+msgstr ""
 
 #: ../../SO2.md:348
 msgid "Total population exposed to land degradation"
-msgstr "общая численность населения, подверженного деградации земель;"
+msgstr ""
 
 #: ../../SO2.md:350
 msgid "Female population exposed to land degradation"
-msgstr "женское население, подверженное деградации земель;"
+msgstr ""
 
 #: ../../SO2.md:352
 msgid "Male population exposed to land degradation"
-msgstr "мужское население, подверженное деградации земель."
+msgstr ""
 
 #: ../../SO2.md:354
-msgid ""
-"Parties are also encouraged to submit narratives on the methodology, data"
-" sources and data accuracy in the event that the estimates are derived "
-"from national data. It would also be beneficial to report on special "
-"cases and issues, describing any deviation from the default method and "
-"providing the rationale to adopt a different methodology. A “General "
-"comment” field is provided in the PRAIS 4 platform for this purpose."
-msgstr "Сторонам также рекомендуется представлять описания методологии, источников данных и точности данных в том случае, если оценки получены на основе национальных данных. Также было бы полезно предоставлять информацию об особых случаях и проблемах, описывая любые отклонения от метода по умолчанию и предоставляя обоснование для принятия другой методологии. Для этой цели на платформе PRAIS 4 предусмотрено поле «Общие замечания»."
+msgid "Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data. It would also be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale to adopt a different methodology. A “General comment” field is provided in the PRAIS 4 platform for this purpose."
+msgstr ""
 
 #: ../../SO2.md:356
 msgid "2.3.4. Dependencies"
-msgstr "2.3.4. Зависимости"
+msgstr ""
 
 #: ../../SO2.md:358
-msgid ""
-"Indicator SO 2-3 relies on the SO 4 indicator spatial datasets, both for "
-"the baseline and reporting periods, as a basis to identify degraded "
-"areas."
-msgstr "Показатель СЦ 2-3 опирается на пространственные наборы данных показателя СЦ 4 в качестве основы для определения деградированных районов как для базового, так и для отчетного периодов."
+msgid "Indicator SO 2-3 relies on the SO 4 indicator spatial datasets, both for the baseline and reporting periods, as a basis to identify degraded areas."
+msgstr ""
 
 #: ../../SO2.md:360
 msgid "2.3.5. Challenges"
-msgstr "2.3.5. Проблемы"
+msgstr ""
 
 #: ../../SO2.md:364
-msgid ""
-"Spatial resolution of international data might not always be suitable to "
-"produce a sufficiently detailed representation of the population exposed "
-"to land degradation and its changes. More detailed sub-national data "
-"might be needed to represent local situations with a higher degree of "
-"accuracy. However, this will require downscaling of existing gridded "
-"population datasets to a finer resolution which might incur further "
-"errors. Capacity in performing downscaling processes is therefore "
-"required."
-msgstr "Пространственное разрешение международных данных не всегда может быть подходящим для получения достаточно подробного представления о численности населении, подверженного деградации земель, и ее изменениях. Для более точного представления местных ситуаций могут потребоваться более подробные субнациональные данные. Однако для этого потребуется уменьшить масштаб существующих наборов данных о населении с привязкой к сетке координат до более высокого разрешения, что может привести к дальнейшим ошибкам. Поэтому требуется потенциал для выполнения процессов масштабирования."
+msgid "Spatial resolution of international data might not always be suitable to produce a sufficiently detailed representation of the population exposed to land degradation and its changes. More detailed sub-national data might be needed to represent local situations with a higher degree of accuracy. However, this will require downscaling of existing gridded population datasets to a finer resolution which might incur further errors. Capacity in performing downscaling processes is therefore required."
+msgstr ""
 
 #: ../../SO2.md:365
-msgid ""
-"The WorldPop sex-disaggregated national datasets are presented as several"
-" individual rasters, each representing an age/sex class per year. This "
-"amounts to a large volume of spatial data in Geotiff format. Capacity in "
-"raster data processing and access to appropriate computing power, e.g., a"
-" cloud service, is required to store and process the data, especially for"
-" large countries. The UNCCD is developing a procedure for the bulk "
-"preprocessing of raster data, which will eventually make sex-"
-"disaggregated data available on the PRAIS 4 platform as default data. "
-"Parties will be notified when the challenge is solved and the forms pre-"
-"filled with the default data."
-msgstr "Национальные наборы данных WorldPop с разбивкой по полу представлены в виде нескольких отдельных растров, каждый из которых представляет класс возраста/пола за год. Это большой объем пространственных данных в формате Geotiff. Для хранения и обработки данных, особенно в крупных странах, требуются возможности обработки растровых данных и доступ к соответствующим вычислительным мощностям, например, к облачному сервису. КБО ООН разрабатывает процедуру массовой предварительной обработки растровых данных, которая в итоге сделает данные с разбивкой по полу доступными на платформе PRAIS 4 в качестве данных по умолчанию. Стороны получат уведомление, когда проблема будет решена, и формы будут предварительно заполнены данными по умолчанию."
+msgid "The WorldPop sex-disaggregated national datasets are presented as several individual rasters, each representing an age/sex class per year. This amounts to a large volume of spatial data in Geotiff format. Capacity in raster data processing and access to appropriate computing power, e.g., a cloud service, is required to store and process the data, especially for large countries. The UNCCD is developing a procedure for the bulk preprocessing of raster data, which will eventually make sex-disaggregated data available on the PRAIS 4 platform as default data. Parties will be notified when the challenge is solved and the forms pre-filled with the default data."
+msgstr ""
 
 #: ../../SO2.md:367
 msgid "Limitation of the analytical approach"
-msgstr "Ограничения аналитического подхода"
+msgstr ""
 
 #: ../../SO2.md:369
-msgid ""
-"Sex-disaggregated data alone might not be sufficient to represent the "
-"gender dynamics and related issues in a specific region. Further socio-"
-"economic and demographic indicators are required to conduct gender "
-"analysis in order to better understand how and why specific populations "
-"are affected by land degradation."
-msgstr "Одних только данных с разбивкой по полу может быть недостаточно для представления гендерной динамики и связанных с ней проблем в конкретном регионе. Для проведения гендерного анализа необходимы дополнительные социально-экономические и демографические показатели, чтобы лучше понять, как и почему деградация земель затрагивает конкретные группы населения."
+msgid "Sex-disaggregated data alone might not be sufficient to represent the gender dynamics and related issues in a specific region. Further socio-economic and demographic indicators are required to conduct gender analysis in order to better understand how and why specific populations are affected by land degradation."
+msgstr ""
 
 #: ../../SO2.md:370
-msgid ""
-"On-site exposed populations to land degradation may produce lower-bound "
-"estimates of the exposure of populations to land degradation. In fact, "
-"land degradation in a specific area affects not only populations residing"
-" on degraded land, but also – through environmental, economic and social "
-"linkages – populations elsewhere. In addition, further disaggregation of "
-"data in urban and rural populations could be useful to improve the "
-"indicator."
-msgstr "Население, подверженное деградации земель на местах, может давать оценки подверженности населения деградации земель, представляющие собой нижние границы. Фактически деградация земель в конкретном районе затрагивает не только население, проживающее на деградированных землях, но и, из-за экологических, экономических и социальных связей, население в других местах. Кроме того, для улучшения показателя может быть полезным дальнейшее дезагрегирование данных по городскому и сельскому населению."
+msgid "On-site exposed populations to land degradation may produce lower-bound estimates of the exposure of populations to land degradation. In fact, land degradation in a specific area affects not only populations residing on degraded land, but also – through environmental, economic and social linkages – populations elsewhere. In addition, further disaggregation of data in urban and rural populations could be useful to improve the indicator."
+msgstr ""
 
 #: ../../SO2.md:371
-msgid ""
-"There are two challenges related to the temporality of the analysis: i) "
-"the land degradation spatial dataset (i.e., the SO1-4 output) captures "
-"temporal trends over a certain number of years, whereas population data "
-"reflects the populations in specific years; ii) changes in the proportion"
-" of population exposure to land degradation over time may not only be due"
-" to the expansion of land degradation but also to population growth, "
-"among other factors."
-msgstr "Существуют две проблемы, связанные с временным характером анализа: i) пространственный набор данных о деградации земель (т. е. результат СЦ1-4) отражает временные тенденции за определенное количество лет, в то время как данные о населении отражают численность населения в конкретные годы; ii) изменения доли населения, подверженного деградации земель, с течением времени могут быть обусловлены не только расширением масштабов деградации земель, но и, среди прочих факторов, ростом численности населения."
+msgid "There are two challenges related to the temporality of the analysis: i) the land degradation spatial dataset (i.e., the SO1-4 output) captures temporal trends over a certain number of years, whereas population data reflects the populations in specific years; ii) changes in the proportion of population exposure to land degradation over time may not only be due to the expansion of land degradation but also to population growth, among other factors."
+msgstr ""
 
 #: ../../SO2.md:373
 msgid "2.3.6. Summary (main actions)"
-msgstr "2.3.6. Краткие выводы (основные действия)"
+msgstr ""
 
 #: ../../SO2.md:375
-msgid ""
-"Key actions for reporting on population exposure to land degradation are "
-"as follows:"
-msgstr "Основные меры по представлению отчетности о подверженности населения деградации земель заключаются в следующем:"
+msgid "Key actions for reporting on population exposure to land degradation are as follows:"
+msgstr ""
 
 #: ../../SO2.md:377
-msgid ""
-"**Select the population dataset**: Parties may decide to use the default "
-"data or alternative national sources, provided they comply with the data "
-"specifications listed in table 17."
-msgstr "**Выберите набор данных о населении**: Стороны могут принять решение использовать данные по умолчанию или альтернативные национальные источники при условии, что они соответствуют спецификациям данных, перечисленным в таблице 17."
+msgid "**Select the population dataset**: Parties may decide to use the default data or alternative national sources, provided they comply with the data specifications listed in table 17."
+msgstr ""
 
 #: ../../SO2.md:379
-msgid ""
-"**Standardize the selected datasets**: the land degradation datasets must"
-" be harmonized to the same grid cell size as the population gridded data "
-"(assuming it is the finer resolution) in order to combine them in the "
-"analysis of population exposure to land degradation."
-msgstr "**Проведите стандартизацию выбранных наборов данных**: наборы данных о деградации земель должны обладать тем же размером ячейки сетки координат, что и данные о населении в сетке координат (при условии, что это более высокое разрешение), чтобы их можно было объединить при анализе подверженности населения деградации земель."
+msgid "**Standardize the selected datasets**: the land degradation datasets must be harmonized to the same grid cell size as the population gridded data (assuming it is the finer resolution) in order to combine them in the analysis of population exposure to land degradation."
+msgstr ""
 
 #: ../../SO2.md:381
-msgid ""
-"**Estimate the number and percentage of the female, male and total "
-"population exposed to land degradation**: the male and female population "
-"grids are intersected with the land degradation grid to derive the total,"
-" male and female population exposed to land degradation and the "
-"percentage of the total population. Data should be entered in tables "
-"SO2-3.T1."
-msgstr "**Оцените численность и процентную долю женского, мужского и всего населения, подверженного деградации земель**: сетки координат мужского и женского населения накладываются на сетку координат деградации земель для получения общей численности мужского и женского населения, подверженного деградации земель, и процентной доли от общей численности населения. Данные должны быть внесены в таблицы СЦ2-3.T1."
+msgid "**Estimate the number and percentage of the female, male and total population exposed to land degradation**: the male and female population grids are intersected with the land degradation grid to derive the total, male and female population exposed to land degradation and the percentage of the total population. Data should be entered in tables SO2-3.T1."
+msgstr ""
 
 #: ../../SO2.md:383
-msgid ""
-"**Qualitatively assess the results**: changes in the proportion of "
-"populations exposed to land degradation as well as their direct or "
-"indirect drivers should be described in table SO2-3.T3."
-msgstr "**Проведите качественную оценку результатов**: изменения в доле населения, подверженного деградации земель, а также их прямые или косвенные факторы должны быть описаны в таблице СЦ2-3.T3."
+msgid "**Qualitatively assess the results**: changes in the proportion of populations exposed to land degradation as well as their direct or indirect drivers should be described in table SO2-3.T3."
+msgstr ""
 
 #: ../../SO2.md:385
-msgid ""
-"**Verify the results**: the reliability of the estimates from global data"
-" sources should be assessed in consultation with national experts."
-msgstr "**Проведите проверку результатов**: надежность оценок из глобальных источников данных следует оценивать в консультации с национальными экспертами."
+msgid "**Verify the results**: the reliability of the estimates from global data sources should be assessed in consultation with national experts."
+msgstr ""
 
 #: ../../SO2.md:389
 msgid "2.3.7. Further reading"
-msgstr "2.3.7. Дополнительная литература"
+msgstr ""
 
 #: ../../SO2.md:391
-msgid ""
-"Methodological note on trends in population exposure to land degradation "
-"(<https://www.unccd.int/sites/default/files/inline-"
-"files/MethodologicalNote_PopExposureToLD.pdf>)"
-msgstr "Методологическая записка о тенденциях подверженности населения деградации земель (<https://www.unccd.int/sites/default/files/inline-files/MethodologicalNote_PopExposureToLD.pdf>)"
+msgid "Methodological note on trends in population exposure to land degradation (<https://www.unccd.int/sites/default/files/inline-files/MethodologicalNote_PopExposureToLD.pdf>)"
+msgstr ""
 
 #: ../../SO2.md:23
 msgid "https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map"
-msgstr "https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map"
+msgstr ""
 
 #: ../../SO2.md:193
-msgid ""
-"<https://washdata.org/data/household> and "
-"<https://datatopics.worldbank.org/sdgs/index.html>"
-msgstr "<https://washdata.org/data/household> и <https://datatopics.worldbank.org/sdgs/index.html>"
+msgid "<https://washdata.org/data/household> and <https://datatopics.worldbank.org/sdgs/index.html>"
+msgstr ""
+
