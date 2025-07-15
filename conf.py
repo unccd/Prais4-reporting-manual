@@ -10,7 +10,7 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
+import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
@@ -32,21 +32,20 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinxnotes.strike',
     'linuxdoc.rstFlatTable', # https://return42.github.io/linuxdoc/linuxdoc-howto/table-markup.html#flat-table
-    # 'sphinx.ext.mathjax', # https://www.sphinx-doc.org/en/master/usage/extensions/math.html#module-sphinx.ext.mathjax
-    'sphinx.ext.ifconfig', # https://www.sphinx-doc.org/en/master/usage/extensions/ifconfig.html
-    'docxbuilder', # https://docxbuilder.readthedocs.io/en/latest/docxbuilder.html
+    # 'sphinx.ext.mathjax',  # https://www.sphinx-doc.org/en/master/usage/extensions/math.html#module-sphinx.ext.mathjax
+    'sphinx.ext.ifconfig',   # https://www.sphinx-doc.org/en/master/usage/extensions/ifconfig.html
+    'docxbuilder',           # https://docxbuilder.readthedocs.io/en/latest/docxbuilder.html
 ]
 
 myst_enable_extensions = [
-    "deflist", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#definition-lists
-    "dollarmath", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#math-shortcuts
-    "html_image", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#images
-    "linkify", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#linkify
+    "deflist",      # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#definition-lists
+    "dollarmath",   # https://myst-parser.readthedocs.io/en/stable/syntax/optional.html#dollar-delimited-math
+    "html_image",   # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#images
+    "linkify",      # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#linkify
     "replacements", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#typography
-    "smartquotes", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#typography
+    "smartquotes",  # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#typography
     "substitution", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#substitutions-with-jinja2
-    "tasklist", # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#task-lists
-    "dollarmath", # https://myst-parser.readthedocs.io/en/stable/syntax/optional.html#dollar-delimited-math
+    "tasklist",     # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#task-lists
 ]
 
 myst_substitutions = {
@@ -151,16 +150,22 @@ html_favicon = 'img/favicon.ico'
 # see https://docs.readthedocs.io/en/stable/guides/pdf-non-ascii-languages.html
 latex_engine = 'xelatex'
 
+FONT_DIR='_static/fonts'
+fonts = [file for file in os.listdir(FONT_DIR)]
+latex_additional_files = [f'{FONT_DIR}/{font}' for font in fonts]
+
 # latex_toplevel_sectioning='chapter'
 latex_use_modindex = False
 
 latex_elements = {
     'papersize': 'a4paper',
     'pointsize': '10pt',
-    'fncychap': '',
+    # 'fncychap': '\\usepackage[Sonny]{fncychap}', # alternative styles: Rejne, Lenny, Glenn, Conny, Bjornstrup, Sonny.
     'fontenc': '\\usepackage{fontspec}',
     'preamble': r'''
-    \usepackage[UTF8]{ctex}
+    % \usepackage[UTF8]{ctex}
+    \usepackage[nofonts]{ctex}
+
     \setcounter{secnumdepth}{-1}
     \setcounter{tocdepth}{0}
     \usepackage{caption}
@@ -168,28 +173,83 @@ latex_elements = {
     \usepackage{array}
     \usepackage[none]{hyphenat}
     \usepackage[document]{ragged2e}
+    \usepackage{polyglossia}
+    \usepackage{xurl}                   % Improves line breaking of long URLs
+
     \usepackage[defaultsans]{lato}
-    \usepackage{inconsolata}
-    \captionsetup{labelformat=empty}
-    \protected\def\sphinxstyletheadfamily {\bfseries}
+    % --- Set the font path ---
+    % Since Sphinx copies the font files directly into the _build/latex/ directory,
+    % the path for fontspec should be '.' (current directory) or left empty.
+    \defaultfontfeatures{Path=./, Extension={.ttf}}
+
+    % --- Main document font (Latin, Cyrillic, etc.) ---
+    % Choose Sans or Serif based on preference for primary text
+    % \setmainfont{NotoSans}[
+    %     Ligatures=TeX,
+    %     Scale=1.0,
+    %     Extension = .ttf,
+    %     UprightFont = *-Regular,
+    %     ItalicFont = *-Italic,
+    %     BoldFont = *-Bold,
+    %     BoldItalicFont = *-BoldItalic,
+    % ]
+
+    % --- Chinese Font ---
+    \setCJKmainfont{NotoSansSC}[
+        UprightFont = *-Regular,
+        BoldFont = *-Bold,
+        Extension = .ttf,
+    ]
+
+    % --- Arabic Font ---
+    \newfontfamily\arabicfont{NotoNaskhArabic}[
+        Script=Arabic,
+        Language=Default, % or specific language like "Arabic=Default"
+        UprightFont = *-Regular,
+        BoldFont = *-Bold,
+        Extension = .ttf,
+    ]
+
+    \setmonofont{NotoSansMono-Regular}
+
+    % \usepackage{unicode-math}
+    % \setmathfont{Latin Modern Math}
+
+    \captionsetup{labelformat=empty} % Remove automatic figure/table numbers
+    \protected\def\sphinxstyletheadfamily {\bfseries} % Ensure table headers are bold
+
+    \usepackage{fancyhdr}
+    \usepackage{titlesec}
+    \usepackage{titletoc}
     \titleformat{\chapter}[display]
-        {\bfseries\fontsize{16}{14}\bfseries}{\chaptertitlename\ \thechapter}{16pt}{}
+        {\bfseries\fontsize{16}{14}\bfseries\color{black}}
+        {\chaptertitlename\ \thechapter}    % Label content
+        {16pt}                              % Space between label and title
+        {\MakeUppercase}                    % Before code
     \titleformat{\section}[display]
-        {\bfseries\fontsize{14}{12}\bfseries\color{black}}{\sectiontitlename\ \thesection}{14pt}{}
+        {\bfseries\fontsize{14}{12}\bfseries\color{black}}
+        {\sectiontitlename\ \thesection}
+        {14pt}{}
     \titleformat{\subsection}[display]
-        {\bfseries\fontsize{12}{10}\bfseries\color{black}}{\sectiontitlename\ \thesection}{12pt}{}
+        {\bfseries\fontsize{12}{10}\bfseries\color{black}}
+        {\sectiontitlename\ \thesection}
+        {12pt}{}
     \titleformat{\subsubsection}[display]
-        {\normalfont\fontsize{12}{10}\normalfont\color{black}}{\sectiontitlename\ \thesection}{11pt}{}
+        {\normalfont\fontsize{12}{10}\normalfont\color{black}}
+        {\sectiontitlename\ \thesection}
+        {11pt}{}
+
     \sphinxsetup{%
-        InnerLinkColor={rgb}{0,0,0.94},
-        OuterLinkColor={rgb}{0,0,0.94}
+        InnerLinkColor={rgb}{0,0,0},
+        OuterLinkColor={rgb}{0,0.4,0.72}
     }
-    \fancyhf{}
-    \fancypagestyle{normal}{
-        \fancyhf{}
+    % --- Fancy Header/Footer ---
+    \fancyhf{}                 % Clear default headers/footers
+    \fancypagestyle{normal}{   % Redefine the 'normal' page style
+        \fancyhf{}             % Clear headers/footers for normal page style
         \fancyhead{}
         \fancyfoot{}
-        \fancyfoot[LE,RO]{\thepage}
+        \fancyfoot[LE,RO]{\thepage} % Page number on left-even, right-odd footer
     }
     ''',  # see https://texblog.org/2007/11/07/headerfooter-in-latex-with-fancyhdr/
     'figure_align': 'H',

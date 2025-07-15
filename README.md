@@ -11,8 +11,8 @@ PDF version is available [here](https://buildmedia.readthedocs.org/media/pdf/pra
     pip install --upgrade pip setuptools wheel
     pip install -r requirements.txt
     # sphinx-build -b html . _build/html
-    # python -m sphinx -T -E -b html -d _build/doctrees -D language=en . _build/html
-    # python -m sphinx -b latex -D language=en -d _build/doctrees . _build/latex
+    # python -m sphinx -T -E -b html -d _build/.doctrees/en -D language=en . _build/html
+    # python -m sphinx -b latex -D language=en -d _build/.doctrees/en . _build/latex
     # cd _build/latex
     # latexmk -r latexmkrc -pdf -f -dvi- -ps- -jobname=prais4-reporting-manual -interaction=nonstopmode
 
