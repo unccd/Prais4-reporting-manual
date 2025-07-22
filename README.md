@@ -11,7 +11,7 @@ PDF version is available [here](https://buildmedia.readthedocs.org/media/pdf/pra
     pip install --upgrade pip setuptools wheel
     pip install -r requirements.txt
 
-## Build HTML version
+## Build HTML version (English only)
 
     READTHEDOCS=True sphinx-build -b html -d _build/.doctrees/en -D language=en . _build/html/en/latest
 
@@ -37,6 +37,7 @@ PDF version is available [here](https://buildmedia.readthedocs.org/media/pdf/pra
 ## Prerequisites for PDF build
 
     latexmk
+    chktex
     texlive-xetex
     fonts-freefont-otf
     texlive-fonts-extra
