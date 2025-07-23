@@ -20,7 +20,7 @@ import os
 
 project = "PRAIS4 Reporting Manual"
 copyright = "2025, UNCCD"
-author = "UNCCD"
+author = "United Nations Convention to Combat Desertification (UNCCD)"
 
 
 # -- General configuration ---------------------------------------------------
@@ -130,7 +130,7 @@ html_theme_options = {
 
 html_context = {
     "display_github": True,
-    "github_user": "eaudeweb",
+    "github_user": "unccd",
     "github_repo": "Prais4-reporting-manual",
     "github_version": "master",
     "conf_py_path": "/",
@@ -156,7 +156,7 @@ html_favicon = "img/favicon.ico"
 # see https://docs.readthedocs.io/en/stable/guides/pdf-non-ascii-languages.html
 latex_engine = "xelatex"
 
-FONT_DIR = "_static/fonts"
+FONT_DIR = "_fonts"
 fonts = [file for file in os.listdir(FONT_DIR)]
 latex_additional_files = [f"{FONT_DIR}/{font}" for font in fonts]
 latex_additional_files.append("latex_preamble.tex.txt")
@@ -167,9 +167,11 @@ latex_use_modindex = False
 latex_elements = {
     "papersize": "a4paper",
     "pointsize": "10pt",
-    # 'fncychap': '\\usepackage[Sonny]{fncychap}', # alternative styles: Rejne, Lenny, Glenn, Conny, Bjornstrup, Sonny.
+    "fncychap": "\\usepackage[Bjarne]{fncychap}",
+    # alternative styles: Bjarne (default), Rejne, Lenny, Glenn, Conny, Bjornstrup, Sonny.
     "fontenc": "\\usepackage{fontspec}",
     "figure_align": "H",
+    "sphinxsetup": "hmargin=0.5in, vmargin={1in,1in}, marginpar=0.5in",
     "preamble": r"\input{latex_preamble.tex.txt}",
 }
 
