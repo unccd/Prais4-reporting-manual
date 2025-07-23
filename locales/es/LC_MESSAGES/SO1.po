@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-06 14:29+0200\n"
+"POT-Creation-Date: 2025-07-22 21:25+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../SO1.md:1
 msgid ""
@@ -166,7 +166,7 @@ msgstr ""
 msgid "Step 1: Report on land area"
 msgstr "Paso 1: Presentación de informes sobre la superficie terrestre"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:30
 msgid "Related areas in the PRAIS 4 platform: table SO1-1.T1"
 msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO1-1.T1"
 
@@ -222,7 +222,7 @@ msgstr ""
 msgid "Step 2: Identify key degradation processes"
 msgstr "Paso 2: Identificación de los principales procesos de degradación"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:40
 msgid "Related areas in the PRAIS 4 platform: table SO1-1.T2"
 msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO1-1.T2"
 
@@ -259,80 +259,80 @@ msgstr ""
 "identificar y las correspondientes transiciones de la cubierta "
 "terrestre*."
 
-#: ../../SO1.md:1
+#: ../../SO1.md:50
 msgid "Degradation process"
 msgstr "Proceso de degradación"
 
-#: ../../SO1.md:2
+#: ../../SO1.md:51
 msgid "Starting land cover state"
 msgstr "Estado inicial de la cubierta terrestre"
 
-#: ../../SO1.md:3
+#: ../../SO1.md:52
 msgid "Ending land cover state"
 msgstr "Estado final de la cubierta terrestre"
 
-#: ../../SO1.md:4 ../../SO1.md:25 ../../SO1.md:33 ../../SO1.md:57
+#: ../../SO1.md:53 ../../SO1.md:248 ../../SO1.md:256 ../../SO1.md:280
 msgid "Urban expansion"
 msgstr "Expansión urbana"
 
-#: ../../SO1.md:5
+#: ../../SO1.md:54
 msgid "Grassland, cropland, other land"
 msgstr "Pastizales, tierras de cultivo, otras tierras"
 
-#: ../../SO1.md:6
+#: ../../SO1.md:55
 msgid "Settlements"
 msgstr "Asentamientos"
 
-#: ../../SO1.md:7 ../../SO1.md:15 ../../SO1.md:17
+#: ../../SO1.md:56 ../../SO1.md:238 ../../SO1.md:240
 msgid "Deforestation"
 msgstr "Deforestación"
 
-#: ../../SO1.md:8 ../../SO1.md:18
+#: ../../SO1.md:57 ../../SO1.md:67
 msgid "Forest land"
 msgstr "Tierras forestales"
 
-#: ../../SO1.md:9
+#: ../../SO1.md:58
 msgid "Grassland, cropland, settlements"
 msgstr "Pastizales, tierras de cultivo, asentamientos"
 
-#: ../../SO1.md:10
+#: ../../SO1.md:59
 msgid "Vegetation loss (other)"
 msgstr "Pérdida de vegetación (otro)"
 
-#: ../../SO1.md:11
+#: ../../SO1.md:60
 msgid "Forest land, grassland, cropland"
 msgstr "Tierras forestales, pastizales, tierras de cultivo"
 
-#: ../../SO1.md:8 ../../SO1.md:12 ../../SO1.md:52
+#: ../../SO1.md:61 ../../SO1.md:231 ../../SO1.md:275
 msgid "Other land"
 msgstr "Otras tierras"
 
-#: ../../SO1.md:13 ../../SO1.md:24 ../../SO1.md:32
+#: ../../SO1.md:62 ../../SO1.md:247 ../../SO1.md:255
 msgid "Inundation"
 msgstr "Inundación"
 
-#: ../../SO1.md:14
+#: ../../SO1.md:63
 msgid "Vegetated, settlements, bare soil"
 msgstr "Tierras con vegetación, asentamientos, suelos desnudos"
 
-#: ../../SO1.md:6 ../../SO1.md:15 ../../SO1.md:20 ../../SO1.md:36
+#: ../../SO1.md:64 ../../SO1.md:69 ../../SO1.md:229 ../../SO1.md:259
 msgid "Wetland"
 msgstr "Humedales"
 
-#: ../../SO1.md:16 ../../SO1.md:37
+#: ../../SO1.md:65 ../../SO1.md:260
 msgid "Woody encroachment"
 msgstr "Invasión de cultivos leñosos"
 
-#: ../../SO1.md:17
+#: ../../SO1.md:66
 msgid "Wetland, grassland"
 msgstr "Humedales, pastizales"
 
-#: ../../SO1.md:19 ../../SO1.md:38 ../../SO1.md:39 ../../SO1.md:41
-#: ../../SO1.md:42
+#: ../../SO1.md:68 ../../SO1.md:261 ../../SO1.md:262 ../../SO1.md:264
+#: ../../SO1.md:265
 msgid "Wetland drainage"
 msgstr "Drenaje de humedales"
 
-#: ../../SO1.md:21
+#: ../../SO1.md:70
 msgid "Grassland, cropland, settlements, other land"
 msgstr "Pastizales, tierras de cultivo, asentamientos, otras tierras"
 
@@ -349,7 +349,7 @@ msgstr ""
 msgid "Step 3: Select a land cover legend"
 msgstr "Paso 3: Selección de una leyenda de la cubierta terrestre"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:78
 msgid "Related areas in the PRAIS 4 platform: table SO1-1.T3"
 msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO1-1.T3"
 
@@ -485,253 +485,261 @@ msgstr ""
 "respecto a las siete clases de cubierta terrestre necesarias para "
 "presentar informes ante la CLD*."
 
-#: ../../SO1.md:1
+#: ../../SO1.md:109
+#, python-brace-format
 msgid "{cspan}`1` UNCCD"
 msgstr " CLD"
 
-#: ../../SO1.md:2
-msgid "{cspan}`1` European Space Agency  Climate Change Initiative Land Cover"
+#: ../../SO1.md:110
+#, python-brace-format
+msgid "{cspan}`1` European Space Agency Climate Change Initiative Land Cover"
 msgstr ""
 " Iniciativa sobre el cambio climático Land Cover de la Agencia Espacial "
 "Europea"
 
-#: ../../SO1.md:4 ../../SO1.md:6
+#: ../../SO1.md:111 ../../SO1.md:113
 msgid "Code"
 msgstr "Código"
 
-#: ../../SO1.md:5 ../../SO1.md:7
+#: ../../SO1.md:112 ../../SO1.md:114
 msgid "Label"
 msgstr "Identificación"
 
-#: ../../SO1.md:8
+#: ../../SO1.md:115
+#, python-brace-format
 msgid "{rspan}`11` 1"
 msgstr "` 1"
 
-#: ../../SO1.md:9
+#: ../../SO1.md:116
+#, python-brace-format
 msgid "{rspan}`11` Tree-covered areas"
 msgstr "` Áreas arboladas"
 
-#: ../../SO1.md:10
+#: ../../SO1.md:117
 msgid "50"
 msgstr "50"
 
-#: ../../SO1.md:11
+#: ../../SO1.md:118
 msgid "Tree cover, broadleaved, evergreen, closed to open (>15%)"
 msgstr "Cubierta forestal, latifoliada, perennifolia, cerrada a abierta (>15%)"
 
-#: ../../SO1.md:12
+#: ../../SO1.md:119
 msgid "60"
 msgstr "60"
 
-#: ../../SO1.md:13
+#: ../../SO1.md:120
 msgid "Tree cover, broadleaved, deciduous, closed to open (>15%)"
 msgstr "Cubierta forestal, latifoliada, caducifolia, cerrada a abierta (>15%)"
 
-#: ../../SO1.md:14
+#: ../../SO1.md:121
 msgid "61"
 msgstr "61"
 
-#: ../../SO1.md:15
+#: ../../SO1.md:122
 msgid "Tree cover, broadleaved, deciduous, closed (>40%)"
 msgstr "Cubierta forestal, latifoliada, caducifolia, cerrada (>40%)"
 
-#: ../../SO1.md:16
+#: ../../SO1.md:123
 msgid "62"
 msgstr "62"
 
-#: ../../SO1.md:17
+#: ../../SO1.md:124
 msgid "Tree cover, broadleaved, deciduous, open (15–40%)"
 msgstr "Cubierta forestal, latifoliada, caducifolia, abierta (15-40%)"
 
-#: ../../SO1.md:18
+#: ../../SO1.md:125
 msgid "70"
 msgstr "70"
 
-#: ../../SO1.md:19
+#: ../../SO1.md:126
 msgid "Tree cover, needle leaved, evergreen, closed to open (>15%)"
 msgstr "Cubierta forestal, conífera, perennifolia, cerrada a abierta (>15%)"
 
-#: ../../SO1.md:20
+#: ../../SO1.md:127
 msgid "71"
 msgstr "71"
 
-#: ../../SO1.md:21
+#: ../../SO1.md:128
 msgid "Tree cover, needle leaved, evergreen, closed (>40%)"
 msgstr "Cubierta forestal, conífera, perennifolia, cerrada (>40%)"
 
-#: ../../SO1.md:22
+#: ../../SO1.md:129
 msgid "72"
 msgstr "72"
 
-#: ../../SO1.md:23
+#: ../../SO1.md:130
 msgid "Tree cover, needle leaved, evergreen, open (15–40%)"
 msgstr "Cubierta forestal, conífera, perennifolia, abierta (15–40%)"
 
-#: ../../SO1.md:24
+#: ../../SO1.md:131
 msgid "80"
 msgstr "80"
 
-#: ../../SO1.md:25
+#: ../../SO1.md:132
 msgid "Tree cover, needle leaved, deciduous, closed to open (>15%)"
 msgstr "Cubierta forestal, conífera, caducifolia, cerrada a abierta (>15%)"
 
-#: ../../SO1.md:26
+#: ../../SO1.md:133
 msgid "81"
 msgstr "81"
 
-#: ../../SO1.md:27
+#: ../../SO1.md:134
 msgid "Tree cover, needle leaved, deciduous, closed (> 40%)"
 msgstr "Cubierta forestal, conífera, caducifolia, cerrada (>40%)"
 
-#: ../../SO1.md:28
+#: ../../SO1.md:135
 msgid "82"
 msgstr "82"
 
-#: ../../SO1.md:29
+#: ../../SO1.md:136
 msgid "Tree cover, needle leaved, deciduous, open (15–40%)"
 msgstr "Cubierta forestal, conífera, caducifolia, abierta (15-40%)"
 
-#: ../../SO1.md:30
+#: ../../SO1.md:137
 msgid "90"
 msgstr "90"
 
-#: ../../SO1.md:31
+#: ../../SO1.md:138
 msgid "Tree cover, mixed leaf type (broadleaved and needle leaved)"
 msgstr "Cubierta forestal, tipo de hoja mixta (latifoliada y conífera)"
 
-#: ../../SO1.md:32
+#: ../../SO1.md:139
 msgid "100"
 msgstr "100"
 
-#: ../../SO1.md:33
+#: ../../SO1.md:140
 msgid "Mosaic tree and shrub (>50%)/herbaceous cover (< 50%)"
 msgstr "Mosaico de árboles y arbustos (>50%)/cubierta herbácea (<50%)"
 
-#: ../../SO1.md:34
+#: ../../SO1.md:141
+#, python-brace-format
 msgid "{rspan}`8` 2"
 msgstr " 2"
 
-#: ../../SO1.md:35
+#: ../../SO1.md:142
+#, python-brace-format
 msgid "{rspan}`8` Grassland"
 msgstr " Pastizales"
 
-#: ../../SO1.md:36
+#: ../../SO1.md:143
 msgid "110"
 msgstr "110"
 
-#: ../../SO1.md:37
+#: ../../SO1.md:144
 msgid "Mosaic herbaceous cover (>50%)/tree and shrub (<50%)"
 msgstr "Mosaico de cubierta herbácea (>50%)/árboles y arbustos (<50%)"
 
-#: ../../SO1.md:38
+#: ../../SO1.md:145
 msgid "120"
 msgstr "120"
 
-#: ../../SO1.md:39
+#: ../../SO1.md:146
 msgid "Shrubland"
 msgstr "Matorrales"
 
-#: ../../SO1.md:40
+#: ../../SO1.md:147
 msgid "121"
 msgstr "121"
 
-#: ../../SO1.md:41
+#: ../../SO1.md:148
 msgid "Shrubland evergreen"
 msgstr "Matorrales perennifolios"
 
-#: ../../SO1.md:42
+#: ../../SO1.md:149
 msgid "122"
 msgstr "122"
 
-#: ../../SO1.md:43
+#: ../../SO1.md:150
 msgid "Shrubland deciduous"
 msgstr "Matorrales caducifolios"
 
-#: ../../SO1.md:44
+#: ../../SO1.md:151
 msgid "130"
 msgstr "130"
 
-#: ../../SO1.md:4 ../../SO1.md:20 ../../SO1.md:45
+#: ../../SO1.md:152 ../../SO1.md:227 ../../SO1.md:243
 msgid "Grassland"
 msgstr "Pastizales"
 
-#: ../../SO1.md:46
+#: ../../SO1.md:153
 msgid "140"
 msgstr "140"
 
-#: ../../SO1.md:47
+#: ../../SO1.md:154
 msgid "Lichen and mosses"
 msgstr "Líquenes y musgos"
 
-#: ../../SO1.md:48
+#: ../../SO1.md:155
 msgid "151"
 msgstr "151"
 
-#: ../../SO1.md:49
+#: ../../SO1.md:156
 msgid "Sparse trees (<15%)"
 msgstr "Árboles dispersos (<15%)"
 
-#: ../../SO1.md:50
+#: ../../SO1.md:157
 msgid "152"
 msgstr "152"
 
-#: ../../SO1.md:51
+#: ../../SO1.md:158
 msgid "Sparse shrub (<15%)"
 msgstr "Arbustos dispersos (<15%)"
 
-#: ../../SO1.md:52
+#: ../../SO1.md:159
 msgid "153"
 msgstr "153"
 
-#: ../../SO1.md:53
+#: ../../SO1.md:160
 msgid "Sparse herbaceous cover (<15%)"
 msgstr "Cubierta herbácea dispersa (<15%)"
 
-#: ../../SO1.md:54
+#: ../../SO1.md:161
+#, python-brace-format
 msgid "{rspan}`5` 3"
 msgstr " 3"
 
-#: ../../SO1.md:55
+#: ../../SO1.md:162
+#, python-brace-format
 msgid "{rspan}`5` Cropland"
 msgstr "Tierras de cultivo"
 
-#: ../../SO1.md:56 ../../SO1.md:68
+#: ../../SO1.md:163 ../../SO1.md:840
 msgid "10"
 msgstr "10"
 
-#: ../../SO1.md:57
+#: ../../SO1.md:164
 msgid "Cropland, rainfed"
 msgstr "Tierras de cultivo, de secano"
 
-#: ../../SO1.md:58 ../../SO1.md:74
+#: ../../SO1.md:165 ../../SO1.md:846
 msgid "11"
 msgstr "11"
 
-#: ../../SO1.md:59
+#: ../../SO1.md:166
 msgid "Herbaceous cover"
 msgstr "Cubierta herbácea"
 
-#: ../../SO1.md:60 ../../SO1.md:80
+#: ../../SO1.md:167 ../../SO1.md:852
 msgid "12"
 msgstr "12"
 
-#: ../../SO1.md:61
+#: ../../SO1.md:168
 msgid "Tree or shrub cover"
 msgstr "Cubierta arbórea o arbustiva"
 
-#: ../../SO1.md:62
+#: ../../SO1.md:169
 msgid "20"
 msgstr "20"
 
-#: ../../SO1.md:63
+#: ../../SO1.md:170
 msgid "Cropland, irrigated or post-flooding"
 msgstr "Tierras de cultivo, de regadío o posinundación"
 
-#: ../../SO1.md:64
+#: ../../SO1.md:171
 msgid "30"
 msgstr "30"
 
-#: ../../SO1.md:65
+#: ../../SO1.md:172
 msgid ""
 "Mosaic cropland (>50%)/natural vegetation (tree, shrub, herbaceous cover)"
 " (<50%)"
@@ -739,11 +747,11 @@ msgstr ""
 "Mosaico de tierras de cultivo (>50%)/vegetación natural (cubierta "
 "arbórea, arbustiva o herbácea) (<50%)"
 
-#: ../../SO1.md:66
+#: ../../SO1.md:173
 msgid "40"
 msgstr "40"
 
-#: ../../SO1.md:67
+#: ../../SO1.md:174
 msgid ""
 "Mosaic natural vegetation (tree, shrub, herbaceous cover) (>50%)/cropland"
 " (< 50%)"
@@ -751,29 +759,31 @@ msgstr ""
 "Mosaico de vegetación natural (cubierta arbórea, arbustiva o herbácea) "
 "(>50%)/tierras de cultivo (<50%)"
 
-#: ../../SO1.md:68
+#: ../../SO1.md:175
+#, python-brace-format
 msgid "{rspan}`2` 4"
 msgstr " 4"
 
-#: ../../SO1.md:69
+#: ../../SO1.md:176
+#, python-brace-format
 msgid "{rspan}`2` Wetland"
 msgstr " Humedales"
 
-#: ../../SO1.md:70
+#: ../../SO1.md:177
 msgid "160"
 msgstr "160"
 
-#: ../../SO1.md:71
+#: ../../SO1.md:178
 msgid "Tree cover, aquatic or regularly flooded in fresh or brackish water"
 msgstr ""
 "Cubierta forestal, acuática o regularmente inundada en agua dulce o "
 "salobre"
 
-#: ../../SO1.md:72
+#: ../../SO1.md:179
 msgid "170"
 msgstr "170"
 
-#: ../../SO1.md:73
+#: ../../SO1.md:180
 msgid ""
 "Tree cover, aquatic, regularly flooded in salt or brackish water, "
 "mangroves"
@@ -781,91 +791,93 @@ msgstr ""
 "Cubierta forestal, acuática, regularmente inundada en agua salada o "
 "salobre, manglares"
 
-#: ../../SO1.md:74
+#: ../../SO1.md:181
 msgid "180"
 msgstr "180"
 
-#: ../../SO1.md:75
+#: ../../SO1.md:182
 msgid "Shrub or herbaceous cover, flooded, fresh/brackish water"
 msgstr "Cubierta arbustiva o herbácea, inundada, agua dulce/salobre"
 
-#: ../../SO1.md:38 ../../SO1.md:76 ../../SO1.md:722
+#: ../../SO1.md:183 ../../SO1.md:721 ../../SO1.md:810
 msgid "5"
 msgstr "5"
 
-#: ../../SO1.md:7 ../../SO1.md:44 ../../SO1.md:77
+#: ../../SO1.md:184 ../../SO1.md:230 ../../SO1.md:267
 msgid "Artificial surfaces"
 msgstr "Superficies artificiales"
 
-#: ../../SO1.md:78
+#: ../../SO1.md:185
 msgid "190"
 msgstr "190"
 
-#: ../../SO1.md:79
+#: ../../SO1.md:186
 msgid "Urban areas"
 msgstr "Áreas urbanas"
 
-#: ../../SO1.md:80
+#: ../../SO1.md:187
+#, python-brace-format
 msgid "{rspan}`3` 6"
 msgstr " 6"
 
-#: ../../SO1.md:81
+#: ../../SO1.md:188
+#, python-brace-format
 msgid "{rspan}`3` Other land"
 msgstr " Otras tierras"
 
-#: ../../SO1.md:82
+#: ../../SO1.md:189
 msgid "200"
 msgstr "200"
 
-#: ../../SO1.md:83
+#: ../../SO1.md:190
 msgid "Bare areas"
 msgstr "Áreas desnudas"
 
-#: ../../SO1.md:84
+#: ../../SO1.md:191
 msgid "201"
 msgstr "201"
 
-#: ../../SO1.md:85
+#: ../../SO1.md:192
 msgid "Consolidated bare areas"
 msgstr "Áreas desnudas consolidadas"
 
-#: ../../SO1.md:86
+#: ../../SO1.md:193
 msgid "202"
 msgstr "202"
 
-#: ../../SO1.md:87
+#: ../../SO1.md:194
 msgid "Unconsolidated bare areas"
 msgstr "Áreas desnudas no consolidadas"
 
-#: ../../SO1.md:88
+#: ../../SO1.md:195
 msgid "220"
 msgstr "220"
 
-#: ../../SO1.md:89
+#: ../../SO1.md:196
 msgid "Permanent snow and ice"
 msgstr "Hielo y nieve permanentes"
 
-#: ../../SO1.md:50 ../../SO1.md:90 ../../SO1.md:732
+#: ../../SO1.md:197 ../../SO1.md:731 ../../SO1.md:822
 msgid "7"
 msgstr "7"
 
-#: ../../SO1.md:9 ../../SO1.md:60 ../../SO1.md:91 ../../SO1.md:93
+#: ../../SO1.md:198 ../../SO1.md:200 ../../SO1.md:232 ../../SO1.md:283
 msgid "Water bodies"
 msgstr "Masas de agua"
 
-#: ../../SO1.md:92
+#: ../../SO1.md:199
 msgid "210"
 msgstr "210"
 
-#: ../../SO1.md:204
+#: ../../SO1.md:203
 msgid "Step 4: Generate a transition matrix"
 msgstr "Paso 4: Generación de una matriz de transición"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:206
 msgid "Related areas in the PRAIS 4 platform: tables SO1-1.T4a and SO1-1.T4b"
 msgstr "Áreas relacionadas en la plataforma PRAIS 4: tablas SO1-1.T4a y SO1-1.T4b"
 
-#: ../../SO1.md:210
+#: ../../SO1.md:209
 msgid ""
 "Land degradation is context-specific and tightly dependent on the "
 "characteristics of the environment. Land degradation processes are not "
@@ -882,7 +894,7 @@ msgstr ""
 "procesos de la cubierta terrestre se espera que provoquen una degradación"
 " o mejora de las tierras o una ausencia de cambios."
 
-#: ../../SO1.md:212
+#: ../../SO1.md:211
 msgid ""
 "Table 9 presents an example of a transition matrix for the default UNCCD "
 "land cover classes. The matrix shows suggested interpretations of changes"
@@ -900,7 +912,7 @@ msgstr ""
 "múltiples partes interesadas teniendo en cuenta las condiciones "
 "nacionales y locales."
 
-#: ../../SO1.md:214
+#: ../../SO1.md:213
 msgid ""
 "For completeness, water bodies are also included in the matrix, although "
 "the focus of reporting is on total land area for the purpose of "
@@ -922,7 +934,7 @@ msgstr ""
 "extensión de las masas de agua interiores afecta a la superficie "
 "terrestre total, que debe modificarse en consecuencia."
 
-#: ../../SO1.md:219
+#: ../../SO1.md:218
 msgid ""
 "*__Table 9__. Example of a land cover transition matrix using the seven "
 "UNCCD land cover classes*"
@@ -930,77 +942,82 @@ msgstr ""
 "*__Tabla 9__. Ejemplo de matriz de transición de la cubierta terrestre "
 "con las siete clases de cubierta terrestre de la CLD*"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:224
+#, python-brace-format
 msgid "{rspan}`1`"
 msgstr ""
 
-#: ../../SO1.md:2
+#: ../../SO1.md:225
+#, python-brace-format
 msgid "{cspan}`7` FINAL CLASS"
 msgstr " CLASE FINAL"
 
-#: ../../SO1.md:3 ../../SO1.md:12
+#: ../../SO1.md:226 ../../SO1.md:235
 msgid "Tree-covered areas"
 msgstr "Áreas arboladas"
 
-#: ../../SO1.md:5 ../../SO1.md:28
+#: ../../SO1.md:228 ../../SO1.md:251
 msgid "Cropland"
 msgstr "Tierras de cultivo"
 
-#: ../../SO1.md:10
+#: ../../SO1.md:233
 msgid "ORIGINAL CLASS"
 msgstr "CLASE ORIGINAL"
 
-#: ../../SO1.md:11
+#: ../../SO1.md:234
+#, python-brace-format
 msgid "{cspan}`7`"
 msgstr ""
 
-#: ../../SO1.md:13 ../../SO1.md:17 ../../SO1.md:19 ../../SO1.md:22
-#: ../../SO1.md:24 ../../SO1.md:27 ../../SO1.md:28 ../../SO1.md:29
-#: ../../SO1.md:31 ../../SO1.md:33 ../../SO1.md:34 ../../SO1.md:35
-#: ../../SO1.md:40 ../../SO1.md:41 ../../SO1.md:43 ../../SO1.md:49
-#: ../../SO1.md:51 ../../SO1.md:53 ../../SO1.md:54 ../../SO1.md:55
-#: ../../SO1.md:57 ../../SO1.md:58 ../../SO1.md:59 ../../SO1.md:60
-#: ../../SO1.md:61 ../../SO1.md:62 ../../SO1.md:63 ../../SO1.md:64
-#: ../../SO1.md:65 ../../SO1.md:66 ../../SO1.md:67 ../../SO1.md:69
-#: ../../SO1.md:70 ../../SO1.md:73 ../../SO1.md:75 ../../SO1.md:77
-#: ../../SO1.md:81 ../../SO1.md:89 ../../SO1.md:100 ../../SO1.md:101
-#: ../../SO1.md:106 ../../SO1.md:113
+#: ../../SO1.md:236 ../../SO1.md:242 ../../SO1.md:245 ../../SO1.md:250
+#: ../../SO1.md:254 ../../SO1.md:258 ../../SO1.md:263 ../../SO1.md:266
+#: ../../SO1.md:272 ../../SO1.md:274 ../../SO1.md:281 ../../SO1.md:282
+#: ../../SO1.md:284 ../../SO1.md:285 ../../SO1.md:286 ../../SO1.md:287
+#: ../../SO1.md:288 ../../SO1.md:289 ../../SO1.md:290 ../../SO1.md:534
+#: ../../SO1.md:543 ../../SO1.md:789 ../../SO1.md:800 ../../SO1.md:801
+#: ../../SO1.md:806 ../../SO1.md:813 ../../SO1.md:823 ../../SO1.md:825
+#: ../../SO1.md:826 ../../SO1.md:827 ../../SO1.md:829 ../../SO1.md:832
+#: ../../SO1.md:833 ../../SO1.md:835 ../../SO1.md:836 ../../SO1.md:837
+#: ../../SO1.md:838 ../../SO1.md:839 ../../SO1.md:841 ../../SO1.md:842
+#: ../../SO1.md:845 ../../SO1.md:847 ../../SO1.md:849 ../../SO1.md:853
+#: ../../SO1.md:861 ../../SO1.md:872 ../../SO1.md:873 ../../SO1.md:878
+#: ../../SO1.md:885
 msgid "Stable"
 msgstr "Estable"
 
-#: ../../SO1.md:14 ../../SO1.md:18 ../../SO1.md:26 ../../SO1.md:34
+#: ../../SO1.md:237 ../../SO1.md:241 ../../SO1.md:249 ../../SO1.md:257
 msgid "Vegetation loss"
 msgstr "Pérdida de vegetación"
 
-#: ../../SO1.md:16
+#: ../../SO1.md:239
 msgid "Innundation"
 msgstr "Inundación"
 
-#: ../../SO1.md:21 ../../SO1.md:29 ../../SO1.md:45 ../../SO1.md:53
+#: ../../SO1.md:244 ../../SO1.md:252 ../../SO1.md:268 ../../SO1.md:276
 msgid "Afforestation"
 msgstr "Forestación"
 
-#: ../../SO1.md:23 ../../SO1.md:47 ../../SO1.md:55
+#: ../../SO1.md:246 ../../SO1.md:270 ../../SO1.md:278
 msgid "Agricultural expansion"
 msgstr "Expansión de la agricultura"
 
-#: ../../SO1.md:30
+#: ../../SO1.md:253
 msgid "Withdrawal of agriculture"
 msgstr "Desaparición de la agricultura"
 
-#: ../../SO1.md:46 ../../SO1.md:54
+#: ../../SO1.md:269 ../../SO1.md:277
 msgid "Vegetation establishment"
 msgstr "Introducción de vegetación"
 
-#: ../../SO1.md:48 ../../SO1.md:56
+#: ../../SO1.md:271 ../../SO1.md:279
 msgid "Wetland establishment"
 msgstr "Introducción de humedales"
 
-#: ../../SO1.md:50
+#: ../../SO1.md:273
 msgid "Withdrawal of settlements"
 msgstr "Desaparición de los asentamientos"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:294
 msgid ""
 "Land cover change processes are color coded as improvement (green), "
 "stable (yellow) or degradation (red). Unlikely transitions are written in"
@@ -1015,7 +1032,7 @@ msgstr ""
 "apropiado para que los países lo adopten sin tener en cuenta las "
 "condiciones locales y los principales procesos de degradación."
 
-#: ../../SO1.md:298
+#: ../../SO1.md:297
 msgid ""
 "Depending on the land cover legend selected in Step 3, Parties will need "
 "to provide their interpretation of land cover transitions using tables "
@@ -1028,7 +1045,7 @@ msgstr ""
 "SO1-1.T4b para i) las clases de cubierta terrestre por defecto de la CLD;"
 " ii) o las clases de cubierta terrestre nacionales, respectivamente."
 
-#: ../../SO1.md:300
+#: ../../SO1.md:299
 msgid ""
 "The PRAIS 4 platform includes functions to modify the default transition "
 "matrix data and assign a ‘–’ or ‘+’ sign to each transition depending on "
@@ -1051,11 +1068,11 @@ msgstr ""
 "de la matriz de transición en PRAIS 4 por sí sola no dará lugar a un "
 "nuevo cálculo de los datos espaciales para el OE 1-1."
 
-#: ../../SO1.md:302
+#: ../../SO1.md:301
 msgid "Step 5: Assess available data"
 msgstr "Paso 5: Evaluación de los datos disponibles"
 
-#: ../../SO1.md:304
+#: ../../SO1.md:303
 msgid ""
 "UNCCD provides prefilled default data in the PRAIS 4 platform derived "
 "from the latest ESA CCI-LC dataset to lighten the reporting burden. "
@@ -1068,19 +1085,21 @@ msgstr ""
 "notificar sus estimaciones utilizando datos nacionales sobre la cubierta "
 "terrestre si cumplen las especificaciones indicadas en la tabla 10."
 
-#: ../../SO1.md:309
+#: ../../SO1.md:308
 msgid "*__Table 10__. Data specifications for SO 1-1 indicator*"
 msgstr "*__Tabla 10__. Especificaciones de los datos para el indicador del OE 1-1*"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:314 ../../SO1.md:511
+#, python-brace-format
 msgid "{rspan}`1` Item"
 msgstr " Elemento"
 
-#: ../../SO1.md:2
+#: ../../SO1.md:315 ../../SO1.md:512
+#, python-brace-format
 msgid "{cspan}`1` Specifications"
 msgstr " Especificaciones"
 
-#: ../../SO1.md:3
+#: ../../SO1.md:316
 msgid ""
 "Default data (European Space Agency Climate Change Initiative Land Cover "
 "(ESA CCI-LC) product)"
@@ -1088,19 +1107,19 @@ msgstr ""
 "Datos por defecto (producto de la iniciativa sobre el cambio climático "
 "Land Cover de la Agencia Espacial Europea [ESA CCI LC])"
 
-#: ../../SO1.md:4
+#: ../../SO1.md:317 ../../SO1.md:514 ../../SO1.md:1026
 msgid "National data"
 msgstr "Datos nacionales"
 
-#: ../../SO1.md:5
+#: ../../SO1.md:318
 msgid "Type of data"
 msgstr "Tipo de datos"
 
-#: ../../SO1.md:6
+#: ../../SO1.md:319
 msgid "Based on AVHRR, SPOT, PROBA-V and Sentinel-3 satellite imagery"
 msgstr "Basados en las imágenes de los satélites AVHRR, SPOT, PROBA-V y Sentinel-3"
 
-#: ../../SO1.md:7
+#: ../../SO1.md:320
 msgid ""
 "Satellite images of finer resolution from national and international "
 "sources,  airborne imagery and/or field observation and "
@@ -1110,11 +1129,11 @@ msgstr ""
 "nacionales e internacionales, imágenes aéreas u observación sobre el "
 "terreno y estadísticas nacionales/provinciales"
 
-#: ../../SO1.md:9
+#: ../../SO1.md:322
 msgid "Classification"
 msgstr "Clasificación"
 
-#: ../../SO1.md:10
+#: ../../SO1.md:323
 msgid ""
 "36 land cover classes based on the Food and Agriculture Organization of "
 "the United Nations (FAO) Land Cover Classification System (LCCS).  For "
@@ -1128,7 +1147,7 @@ msgstr ""
 "la CLD (véase la tabla 8 de este documento para consultar las normas de "
 "agregación)."
 
-#: ../../SO1.md:14
+#: ../../SO1.md:327
 msgid ""
 "A land cover classification compatible with the seven UNCCD default "
 "classes  described in step 2. Ideally, the legend is based on the FAO "
@@ -1144,15 +1163,15 @@ msgstr ""
 "clases de cubierta terrestre relevantes para los procesos de degradación "
 "de las tierras comunicados."
 
-#: ../../SO1.md:18
+#: ../../SO1.md:331
 msgid "Temporal coverage"
 msgstr "Cubierta temporal"
 
-#: ../../SO1.md:19
+#: ../../SO1.md:332
 msgid "Annual data from the year 2000 onward"
 msgstr "Datos anuales del año 2000 en adelante"
 
-#: ../../SO1.md:20
+#: ../../SO1.md:333
 msgid ""
 "Annual data from the year 2000 onward would be the best option. However, "
 "the  bare minimum would be data for the years 2000 and 2015 (for the "
@@ -1163,15 +1182,15 @@ msgstr ""
 " 2000 y 2015 (a efectos de referencia) y del último año disponible para "
 "el período de presentación de informes."
 
-#: ../../SO1.md:23
+#: ../../SO1.md:336
 msgid "Spatial resolution"
 msgstr "Resolución espacial"
 
-#: ../../SO1.md:24
+#: ../../SO1.md:337
 msgid "300 metres (m)"
 msgstr "300 metros (m)"
 
-#: ../../SO1.md:25
+#: ../../SO1.md:338
 msgid ""
 "The desired spatial resolution is 100m or finer. If such data is not "
 "available, it is recommended to use the default data or data with a "
@@ -1181,15 +1200,15 @@ msgstr ""
 "de estos datos, se recomienda utilizar los datos por defecto o los datos "
 "con una resolución mayor a la de los datos por defecto (300 m)."
 
-#: ../../SO1.md:28
+#: ../../SO1.md:341
 msgid "Accuracy"
 msgstr "Precisión"
 
-#: ../../SO1.md:29
+#: ../../SO1.md:342
 msgid "74%"
 msgstr "74%"
 
-#: ../../SO1.md:30
+#: ../../SO1.md:343
 msgid ""
 "To conform with the data quality of the default land cover product, it is"
 "  recommended to ensure an overall mapping accuracy of at least 74%."
@@ -1198,11 +1217,11 @@ msgstr ""
 "terrestre por defecto, se recomienda obtener una precisión cartográfica "
 "global de, al menos, el 74%."
 
-#: ../../SO1.md:32
+#: ../../SO1.md:345
 msgid "Metadata"
 msgstr "Metadatos"
 
-#: ../../SO1.md:33
+#: ../../SO1.md:346
 msgid ""
 "Metadata information is automatically generated with the default data in "
 "Trends.Earth."
@@ -1210,7 +1229,7 @@ msgstr ""
 "La información de los metadatos se genera automáticamente con los datos "
 "por defecto en Trends.Earth."
 
-#: ../../SO1.md:34
+#: ../../SO1.md:347
 msgid ""
 "A list of minimum metadata information is listed in Annex II to this "
 "document."
@@ -1218,13 +1237,13 @@ msgstr ""
 "En el anexo II de este documento se incluye una lista de información "
 "básica de los metadatos."
 
-#: ../../SO1.md:351
+#: ../../SO1.md:350
 msgid "Step 6: Determine the baseline extent of land cover degradation"
 msgstr ""
 "Paso 6: Determinación de la extensión de referencia de la degradación de "
 "la cubierta terrestre"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:353
 msgid ""
 "Related areas in the PRAIS 4 platform: tables SO1-1.T5, SO1-1.T6 and "
 "SO1-1.T8"
@@ -1232,7 +1251,7 @@ msgstr ""
 "Áreas relacionadas en la plataforma PRAIS 4: tablas SO1-1.T5, SO1-1.T6 y "
 "SO1-1.T8"
 
-#: ../../SO1.md:357
+#: ../../SO1.md:356
 msgid ""
 "The baseline sets the benchmark against which change in the extent of "
 "land cover degradation is compared in subsequent reporting periods. "
@@ -1261,7 +1280,7 @@ msgstr ""
 "de informes. Estos cambios se utilizan para supervisar el progreso de las"
 " partes en lo referente al OE 1-1."
 
-#: ../../SO1.md:359
+#: ../../SO1.md:358
 msgid ""
 "Default national estimates of land cover change and land cover "
 "degradation for the baseline period are made available in tables SO1-1.T6"
@@ -1287,11 +1306,11 @@ msgstr ""
 "herramientas para estimar automáticamente los cambios y la degradación de"
 " la cubierta terrestre."
 
-#: ../../SO1.md:361
+#: ../../SO1.md:360
 msgid "Step 7: Estimate land cover degradation"
 msgstr "Paso 7: Estimación de la degradación de la cubierta terrestre"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:363
 msgid ""
 "Related areas in the PRAIS 4 platform: tables SO1-1.T1, SO1-1.T5, "
 "SO1-1.T7 and SO1-1.T9"
@@ -1299,7 +1318,7 @@ msgstr ""
 "Áreas relacionadas en la plataforma PRAIS 4: tablas SO1-1.T1, SO1-1.T5, "
 "SO1-1.T7 y SO1-1.T9"
 
-#: ../../SO1.md:367
+#: ../../SO1.md:366
 msgid ""
 "Default national estimates of land cover change and land cover "
 "degradation for the reporting period are made available in tables "
@@ -1318,7 +1337,7 @@ msgstr ""
 "la del año inicial de dicho período (2016). Estas estimaciones pueden "
 "aceptarse, ajustarse o sustituirse con datos nacionales, según proceda."
 
-#: ../../SO1.md:369
+#: ../../SO1.md:368
 msgid ""
 "Using the selected data, legend and transition matrix, Parties may "
 "produce national estimates of (i) land cover change; (ii) land cover "
@@ -1334,11 +1353,11 @@ msgstr ""
 "Trends.Earth e importar los resultados a la plataforma PRAIS 4, donde se "
 "pueden crear los mapas correspondientes."
 
-#: ../../SO1.md:371
+#: ../../SO1.md:370
 msgid "Step 8: Verify the results"
 msgstr "Paso 8: Verificación de los resultados"
 
-#: ../../SO1.md:373
+#: ../../SO1.md:372
 msgid ""
 "The remote-sensing interpretation of land cover changes varies greatly "
 "across the globe, strongly influenced by the prevailing climatic "
@@ -1360,11 +1379,11 @@ msgstr ""
 "contribuiría a una evaluación cualitativa de la fiabilidad de las "
 "estimaciones."
 
-#: ../../SO1.md:375
+#: ../../SO1.md:374
 msgid "Step 9: Generate reports"
 msgstr "Paso 9: Generación de informes"
 
-#: ../../SO1.md:377
+#: ../../SO1.md:376
 msgid ""
 "The PRAIS 4 platform enables the reporting of quantitative information on"
 " land cover, land cover changes and land cover degradation. In the "
@@ -1379,17 +1398,17 @@ msgstr ""
 " defecto. En el caso de las estimaciones generadas con datos nacionales, "
 "las partes deberán proporcionar:"
 
-#: ../../SO1.md:379
+#: ../../SO1.md:378
 msgid "A description of the legend and transition matrix;"
 msgstr "Una descripción de la leyenda y de la matriz de transición."
 
-#: ../../SO1.md:381
+#: ../../SO1.md:380
 msgid "National land cover datasets for the baseline and the reporting period;"
 msgstr ""
 "Los conjuntos de datos nacionales sobre la cubierta terrestre para el "
 "período de referencia y de presentación de informes."
 
-#: ../../SO1.md:383
+#: ../../SO1.md:382
 msgid ""
 "Land cover change information, including a land cover area change matrix "
 "and a spatial dataset that shows the areas subject to degradation, "
@@ -1401,7 +1420,7 @@ msgstr ""
 "mejoras o a la ausencia de cambios en función de los datos de la cubierta"
 " terrestre."
 
-#: ../../SO1.md:385
+#: ../../SO1.md:384
 msgid ""
 "Information on land cover, land cover changes and land cover degradation "
 "should be reported in km2 for the entire country. Reporting on affected "
@@ -1414,7 +1433,7 @@ msgstr ""
 "debe llevarse a cabo a través de un conjunto separado de formularios en "
 "la plataforma PRAIS 4."
 
-#: ../../SO1.md:387
+#: ../../SO1.md:386
 msgid ""
 "If the default datasets have been replaced with national land cover data,"
 " countries are encouraged to upload the relevant geospatial data to "
@@ -1429,7 +1448,7 @@ msgstr ""
 "describan los datos espaciales, tal como se indica en el formulario de "
 "carga de metadatos."
 
-#: ../../SO1.md:389
+#: ../../SO1.md:388
 msgid ""
 "Default maps or maps generated in Trends.Earth using national data "
 "representing land cover, land cover change and land cover degradation for"
@@ -1442,43 +1461,43 @@ msgstr ""
 "cubierta terrestre para el período de referencia o de presentación de "
 "informes. En concreto, los siguientes mapas estarán disponibles en línea:"
 
-#: ../../SO1.md:391
+#: ../../SO1.md:390
 msgid "Land cover map of the initial year of the baseline period (2000)"
 msgstr ""
 "Mapa de la cubierta terrestre del año inicial del período de referencia "
 "(2000)"
 
-#: ../../SO1.md:393
+#: ../../SO1.md:392
 msgid "Land cover map of the final year of the baseline period year (2015)"
 msgstr ""
 "Mapa de la cubierta terrestre del último año del período de referencia "
 "(2015)"
 
-#: ../../SO1.md:395
+#: ../../SO1.md:394
 msgid "Land cover map of the latest reporting year"
 msgstr ""
 "Mapa de la cubierta terrestre del último año del período de presentación "
 "de informes"
 
-#: ../../SO1.md:397
+#: ../../SO1.md:396
 msgid "Land cover change in the baseline period"
 msgstr "Cambios de la cubierta terrestre en el período de referencia"
 
-#: ../../SO1.md:399
+#: ../../SO1.md:398
 msgid "Land cover change in the reporting period"
 msgstr "Cambios de la cubierta terrestre en el período de presentación de informes"
 
-#: ../../SO1.md:401
+#: ../../SO1.md:400
 msgid "Land cover degradation in the baseline period"
 msgstr "Degradación de la cubierta terrestre en el período de referencia"
 
-#: ../../SO1.md:403
+#: ../../SO1.md:402
 msgid "Land cover degradation in the reporting period."
 msgstr ""
 "Degradación de la cubierta terrestre en el período de presentación de "
 "informes"
 
-#: ../../SO1.md:405
+#: ../../SO1.md:404
 msgid ""
 "Parties are also invited to submit narratives on methods and process used"
 " and to report on special cases and issues using the ‘General Comment’ "
@@ -1488,11 +1507,11 @@ msgstr ""
 "métodos y procesos empleados y a informar sobre casos y cuestiones "
 "especiales mediante el campo “Comentarios generales”."
 
-#: ../../SO1.md:407
+#: ../../SO1.md:406
 msgid "1.1.4. Dependencies"
 msgstr "1.1.4. Dependencias"
 
-#: ../../SO1.md:409
+#: ../../SO1.md:408
 msgid ""
 "Land cover data is used not only to report on SO 1-1, but also to "
 "stratify the indicators on land productivity and soil organic carbon "
@@ -1506,7 +1525,7 @@ msgstr ""
 "subindicadores para calcular la proporción de tierras degradadas en "
 "comparación con la superficie total (OE 1-4)."
 
-#: ../../SO1.md:411
+#: ../../SO1.md:410
 msgid ""
 "The total land area declared under table SO1-1.T1 drives the calculation "
 "of subsequent reporting elements across the SOs, which will be listed as "
@@ -1518,15 +1537,15 @@ msgstr ""
 "figurarán como dependientes en la tabla SO1-1.T1 dentro de la sección "
 "respectiva del manual de presentación de informes."
 
-#: ../../SO1.md:413
+#: ../../SO1.md:412
 msgid "1.1.5. Challenges"
 msgstr "1.1.5. Retos"
 
-#: ../../SO1.md:415 ../../SO1.md:926
+#: ../../SO1.md:414 ../../SO1.md:925
 msgid "Data availability and quality"
 msgstr "Disponibilidad y calidad de los datos"
 
-#: ../../SO1.md:417
+#: ../../SO1.md:416
 msgid ""
 "Spatial resolution of default data might not always be suitable to "
 "accurately represent land cover and its changes at national level, "
@@ -1545,7 +1564,7 @@ msgstr ""
 " dispone de ellos, puede ayudar a mejorar la calidad y la fiabilidad de "
 "los resultados."
 
-#: ../../SO1.md:419
+#: ../../SO1.md:418
 msgid ""
 "For analysis and reporting of change in land cover, it is essential to "
 "have consistent data (i.e. data derived from the same data source using "
@@ -1558,7 +1577,7 @@ msgstr ""
 "procesamiento) durante un largo período de tiempo; esto suele ser un reto"
 " a nivel tanto nacional como mundial."
 
-#: ../../SO1.md:421
+#: ../../SO1.md:420
 msgid ""
 "The validation of national land cover information may need to be cross-"
 "checked in the field, also in consultation with local experts. This might"
@@ -1577,11 +1596,11 @@ msgstr ""
 "resolución disponibles en Google Earth) podría reducir considerablemente "
 "los costos y la asignación de recursos."
 
-#: ../../SO1.md:423
+#: ../../SO1.md:422
 msgid "Land cover classification"
 msgstr "Clasificación de la cubierta terrestre"
 
-#: ../../SO1.md:425
+#: ../../SO1.md:424
 msgid ""
 "National land cover legends and transition matrices may be more accurate "
 "in capturing local degradation processes and land cover transitions, but "
@@ -1599,7 +1618,7 @@ msgstr ""
 " clave de la cubierta terrestre en un país, debe buscarse un equilibrio "
 "entre la precisión y la facilidad de gestión de la información."
 
-#: ../../SO1.md:427
+#: ../../SO1.md:426
 msgid ""
 "Existing national land cover maps and data need to be converted to the "
 "seven UNCCD classes. The required aggregation of land cover classes to "
@@ -1616,7 +1635,7 @@ msgstr ""
 "las normas internacionales puede contribuir al proceso de conversión y a "
 "la precisión de los productos."
 
-#: ../../SO1.md:429
+#: ../../SO1.md:428
 msgid ""
 "Land cover information provided to UNCCD should be consistent over time; "
 "changes in the land cover classification methodology require "
@@ -1627,17 +1646,17 @@ msgstr ""
 "clasificación de la cubierta terrestre exigen que se vuelvan a calcular "
 "las estimaciones nacionales presentadas anteriormente."
 
-#: ../../SO1.md:431
+#: ../../SO1.md:430
 msgid "1.1.6. Summary (main actions)"
 msgstr "1.1.6. Resumen (acciones principales)"
 
-#: ../../SO1.md:433
+#: ../../SO1.md:432
 msgid "Key actions for reporting on land cover changes are as follows:"
 msgstr ""
 "Las acciones clave para presentar informes sobre los cambios en la "
 "cubierta terrestre son las siguientes:"
 
-#: ../../SO1.md:435
+#: ../../SO1.md:434
 msgid ""
 "**Report on land area**: Information on total land area, the area covered"
 " by water bodies and total country area is to be reported in table "
@@ -1648,7 +1667,7 @@ msgstr ""
 "agua y la superficie total del país se debe comunicar mediante la tabla "
 "SO1-1.T1."
 
-#: ../../SO1.md:437
+#: ../../SO1.md:436
 msgid ""
 "**Identify the key land degradation processes** through the appropriate "
 "consultative process and insert the results in table SO1-1.T2."
@@ -1657,7 +1676,7 @@ msgstr ""
 " del proceso consultivo apropiado e introducir los resultados en la tabla"
 " SO1-1.T2."
 
-#: ../../SO1.md:439
+#: ../../SO1.md:438
 msgid ""
 "**Select a land cover legend**, ensuring compatibility with the UNCCD "
 "default legend. Insert the legend in table SO1-1.T3 if different from the"
@@ -1667,7 +1686,7 @@ msgstr ""
 "compatibilidad con la leyenda por defecto de la CLD. Insertar la leyenda "
 "en la tabla SO1-1.T3 si es diferente de la leyenda por defecto de la CLD."
 
-#: ../../SO1.md:441
+#: ../../SO1.md:440
 msgid ""
 "**Generate a transition matrix**. For each land cover transition, "
 "indicate whether it is likely to lead to degradation, improvement or "
@@ -1682,7 +1701,7 @@ msgstr ""
 "CLD; de lo contrario, recurrir a la tabla SO1-1.T4b para las leyendas "
 "nacionales."
 
-#: ../../SO1.md:443
+#: ../../SO1.md:442
 msgid ""
 "**Select data to be used**; ensure compliance with the minimum "
 "specifications listed in table 10."
@@ -1690,7 +1709,7 @@ msgstr ""
 "**Seleccionar los datos que se van a utilizar**; garantizar el "
 "cumplimiento de las especificaciones mínimas que figuran en la tabla 10."
 
-#: ../../SO1.md:445
+#: ../../SO1.md:444
 msgid ""
 "**Determine the baseline extent of land cover degradation** using the "
 "selected data, legend and transition matrix for the baseline period "
@@ -1705,7 +1724,7 @@ msgstr ""
 "los cálculos en Trends.Earth e introducir esta información en las tablas "
 "SO1-1.T5, SO1-1.T6 y SO1-1.T8."
 
-#: ../../SO1.md:447
+#: ../../SO1.md:446
 msgid ""
 "**Estimate land cover degradation** using the selected data, legend and "
 "transition matrix for the reporting period and based on an assessment of "
@@ -1720,7 +1739,7 @@ msgstr ""
 "terrestre, ejecutar los cálculos en Trends.Earth e introducir esta "
 "información en las tablas SO1-1.T5, SO1-1.T7 y SO1-1.T9."
 
-#: ../../SO1.md:449
+#: ../../SO1.md:448
 msgid ""
 "**Verify the results**: It is recommended that land cover and related "
 "land degradation estimates are verified by the concerned national "
@@ -1735,7 +1754,7 @@ msgstr ""
 "falso positivo que se pueda comunicar en los formularios del OE 1-4 "
 "(indicador 15.3.1 de los ODS)."
 
-#: ../../SO1.md:451
+#: ../../SO1.md:450
 msgid ""
 "**Generate reports**: Verify the accuracy of the quantitative information"
 " entered in the report and include the narrative information on methods "
@@ -1745,11 +1764,11 @@ msgstr ""
 "cuantitativa introducida en el informe e incluir la información "
 "descriptiva sobre los métodos y procesos utilizados."
 
-#: ../../SO1.md:453
+#: ../../SO1.md:452
 msgid "1.1.7. Further reading"
 msgstr "1.1.7. Lecturas complementarias"
 
-#: ../../SO1.md:455
+#: ../../SO1.md:454
 msgid ""
 "Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that "
 "is degraded over total land area (version 2). Chapter 3: Land cover and "
@@ -1762,7 +1781,7 @@ msgstr ""
 "practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
 "land>)."
 
-#: ../../SO1.md:457
+#: ../../SO1.md:456
 msgid ""
 "Di Gregorio, A., & Jansen, L.J.M. (2000). Land cover classification "
 "system (LCCS). Classification concepts and user manual for software "
@@ -1772,15 +1791,15 @@ msgstr ""
 "System. Classification concepts and user manual. Software version 2.0. "
 "Roma: FAO (<http://www.fao.org/3/y7220e/y7220e00.htm>)."
 
-#: ../../SO1.md:459
+#: ../../SO1.md:458
 msgid "1.2. SO 1-2 – Trends in land productivity"
 msgstr "1.2. OE 1-2: Tendencias en la productividad de las tierras"
 
-#: ../../SO1.md:461
+#: ../../SO1.md:460
 msgid "1.2.1. Introduction"
 msgstr "1.2.1. Introducción"
 
-#: ../../SO1.md:463
+#: ../../SO1.md:462
 msgid ""
 "Land productivity is the biological productive capacity of the land: the "
 "principal source of the food, fiber and fuel that sustains humans. The "
@@ -1801,7 +1820,7 @@ msgstr ""
 "funcionamiento de los ecosistemas sobre el crecimiento de las plantas y "
 "la biomasa."
 
-#: ../../SO1.md:466
+#: ../../SO1.md:465
 msgid ""
 "Land productivity is calculated from Earth observation data representing "
 "net primary productivity (NPP). Vegetation indices, such as the "
@@ -1814,7 +1833,7 @@ msgstr ""
 "diferencia normalizada (NDVI) o el índice de vegetación mejorado, se "
 "utilizan a menudo como sustitutos de la PPN."
 
-#: ../../SO1.md:468
+#: ../../SO1.md:467
 msgid ""
 "The main output of the reporting process for indicator SO 1-2 is a set of"
 " officially verified estimates of the extent of five classes of "
@@ -1829,7 +1848,7 @@ msgstr ""
 "cambios a escala nacional y su importancia en términos de degradación de "
 "las tierras."
 
-#: ../../SO1.md:470
+#: ../../SO1.md:469
 msgid ""
 "National reporting is facilitated though the provision of default data "
 "derived from available global data sources, namely the Land Productivity "
@@ -1842,11 +1861,11 @@ msgstr ""
 "productividad de la tierra (LPD, por sus siglas en inglés) del Centro "
 "Común de Investigación de la Comisión Europea."
 
-#: ../../SO1.md:472
+#: ../../SO1.md:471
 msgid "1.2.2. Prerequisites for reporting"
 msgstr "1.2.2. Requisitos previos para la presentación de informes"
 
-#: ../../SO1.md:474
+#: ../../SO1.md:473
 msgid ""
 "An in-depth reading of chapter 4 of the [Good Practice Guidance for SDG "
 "Indicator 15.3.1](https://www.unccd.int/publications/good-practice-"
@@ -1862,13 +1881,13 @@ msgstr ""
 " metodología utilizada para estimar los cambios en la productividad de la"
 " tierra."
 
-#: ../../SO1.md:476
+#: ../../SO1.md:475
 msgid "Data complying with the specifications listed in table 11 below;"
 msgstr ""
 "Datos que cumplen con las especificaciones indicadas en la tabla 11 "
 "incluida más adelante."
 
-#: ../../SO1.md:478
+#: ../../SO1.md:477
 msgid ""
 "A pool of national experts officially nominated by the national "
 "authorities to verify the consistency of the land productivity default "
@@ -1890,19 +1909,19 @@ msgstr ""
 "el centro de teledetección, así como universidades y centros de "
 "investigación."
 
-#: ../../SO1.md:480
+#: ../../SO1.md:479
 msgid "1.2.3. Reporting process and step-by-step procedure"
 msgstr ""
 "1.2.3. Proceso de presentación de informes e instrucciones detalladas "
 "paso por paso"
 
-#: ../../SO1.md:482
+#: ../../SO1.md:481
 msgid "Estimating land productivity degradation entails:"
 msgstr ""
 "Estimar la degradación de la productividad de la tierra implica lo "
 "siguiente:"
 
-#: ../../SO1.md:484
+#: ../../SO1.md:483
 msgid ""
 "Producing a land productivity degradation map as a binary representation "
 "of degraded/not degraded land in the baseline period;"
@@ -1911,7 +1930,7 @@ msgstr ""
 "representación binaria de las tierras degradadas/no degradadas en el "
 "período de referencia."
 
-#: ../../SO1.md:486
+#: ../../SO1.md:485
 msgid ""
 "Mapping land productivity dynamics in the reporting period, indicating "
 "areas that have degraded, improved or remained stable compared to the "
@@ -1922,7 +1941,7 @@ msgstr ""
 "mejorado o permanecido estables en comparación con los datos de "
 "referencia."
 
-#: ../../SO1.md:488
+#: ../../SO1.md:487
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If the default data is used, steps 2 to 6 are unnecessary."
@@ -1931,11 +1950,11 @@ msgstr ""
 "para la presentación de informes. Si se utilizan los datos por defecto, "
 "los pasos 2 y 6 son innecesarios."
 
-#: ../../SO1.md:490
+#: ../../SO1.md:489
 msgid "Step 1: Select Earth observation dataset"
 msgstr "Paso 1: Seleccionar el conjunto de datos de observación de la Tierra"
 
-#: ../../SO1.md:492
+#: ../../SO1.md:491
 msgid ""
 "UNCCD provides default data from the LPD dataset of the JRC. The LPD "
 "dataset represents five classes of land productivity dynamics from 2000 "
@@ -1953,7 +1972,7 @@ msgstr ""
 "diferencias normalizadas (IVDN) procedentes de varios sensores "
 "satelitales."
 
-#: ../../SO1.md:494
+#: ../../SO1.md:493
 msgid ""
 "An alternative global dataset is Trends.Earth Land Productivity, derived "
 "from the Moderate Resolution Imaging Spectrometer (MODIS) data, which "
@@ -1967,11 +1986,11 @@ msgstr ""
 "píxeles de 250 metros (m) durante períodos de 16 días entre el 18 de "
 "febrero de 2000 y la actualidad."
 
-#: ../../SO1.md:496
+#: ../../SO1.md:495
 msgid "Both datasets are available in Trends.Earth."
 msgstr "Ambos conjuntos de datos están disponibles en Trends.Earth."
 
-#: ../../SO1.md:498
+#: ../../SO1.md:497
 msgid ""
 "Parties may evaluate and use these or other datasets, provided they meet "
 "the specifications listed in table 11 below."
@@ -1980,7 +1999,7 @@ msgstr ""
 "siempre que cumplan con las especificaciones que figuran en la tabla 11 a"
 " continuación."
 
-#: ../../SO1.md:500
+#: ../../SO1.md:499
 msgid ""
 "Parties may also generate their own vegetation index time series directly"
 " from the satellite imagery assuming that those images have at least one "
@@ -1995,13 +2014,13 @@ msgstr ""
 "Dependiendo del índice de vegetación elegido, también pueden ser "
 "necesarias otras bandas espectrales."
 
-#: ../../SO1.md:507
+#: ../../SO1.md:506
 msgid "*__Table 11__. Data specifications for SO 1-2 indicator*"
 msgstr ""
 "*__Tabla 11__. Especificaciones de los datos para el indicador del "
 "objetivo estratégico 1-2*"
 
-#: ../../SO1.md:3
+#: ../../SO1.md:513
 msgid ""
 "Default data (Land Productivity Dynamics (LPD) dataset produced by the "
 "Joint Research Centre (JRC) of the European Commission)"
@@ -2010,11 +2029,11 @@ msgstr ""
 "productividad de la tierra del Centro Común de Investigación [CCI] de la "
 "Comisión Europea)"
 
-#: ../../SO1.md:5
+#: ../../SO1.md:515
 msgid "__Input data__"
 msgstr "__Datos de entrada__"
 
-#: ../../SO1.md:7
+#: ../../SO1.md:517
 msgid ""
 "(Data needed to generate land productivity estimates based on the three "
 "metrics described in Steps 2 and 3)"
@@ -2022,7 +2041,7 @@ msgstr ""
 "(Datos necesarios para generar estimaciones sobre la productividad de la "
 "tierra basadas en las tres métricas descritas en los pasos 2 y 3)"
 
-#: ../../SO1.md:8
+#: ../../SO1.md:518
 msgid ""
 "Time series of daily SPOT VGT Normalized Difference Vegetation Index "
 "(NDVI) satellite images composited for observation every 10 days (needed "
@@ -2033,7 +2052,7 @@ msgstr ""
 "observación cada 10 días (necesaria para generar los datos sobre la "
 "dinámica de la productividad de la tierra del CCI)"
 
-#: ../../SO1.md:10
+#: ../../SO1.md:520
 msgid ""
 "Time series of appropriate vegetation index derived from satellite images"
 " with at least  one red and one near infrared spectral band, e.g. "
@@ -2045,11 +2064,11 @@ msgstr ""
 "cercano, por ejemplo, Productividad de la Tierra de Trends.Earth (250 m);"
 " Sentinel 3 (300 m); o Sentinel 2 (10 m, 20 m y 60 m)."
 
-#: ../../SO1.md:13
+#: ../../SO1.md:523
 msgid "__Output data__"
 msgstr "__Datos de salida__"
 
-#: ../../SO1.md:15
+#: ../../SO1.md:525
 msgid ""
 "(Gridded products resulting from the analysis and combination of the "
 "three metrics described in Step 3)"
@@ -2057,7 +2076,7 @@ msgstr ""
 "(Productos reticulares resultantes del análisis y la combinación de las "
 "tres métricas descritas en el paso 3)"
 
-#: ../../SO1.md:16 ../../SO1.md:17
+#: ../../SO1.md:526 ../../SO1.md:527
 msgid ""
 "Five classes of persistent land productivity trajectories and land "
 "productivity degradation gridded data for the baseline period (2000–2015)"
@@ -2068,11 +2087,11 @@ msgstr ""
 "el período de referencia (2000-2015) y el período de presentación de "
 "informes (2004-2019)**\\***"
 
-#: ../../SO1.md:18
+#: ../../SO1.md:528
 msgid "__Classification__"
 msgstr "__Clasificación__"
 
-#: ../../SO1.md:19
+#: ../../SO1.md:529
 msgid ""
 "Five classes of persistent land productivity trajectories and one class "
 "for areas without valid land productivity data:"
@@ -2081,41 +2100,41 @@ msgstr ""
 " una clase para las áreas sin datos válidos de productividad de la "
 "tierra:"
 
-#: ../../SO1.md:21 ../../SO1.md:30
+#: ../../SO1.md:531 ../../SO1.md:540
 msgid "Declining"
 msgstr "Disminución"
 
-#: ../../SO1.md:22 ../../SO1.md:31 ../../SO1.md:48 ../../SO1.md:78
+#: ../../SO1.md:532 ../../SO1.md:541 ../../SO1.md:820 ../../SO1.md:850
 msgid "Moderate decline"
 msgstr "Disminución moderada"
 
-#: ../../SO1.md:23 ../../SO1.md:32 ../../SO1.md:72
+#: ../../SO1.md:533 ../../SO1.md:542 ../../SO1.md:844
 msgid "Stressed"
 msgstr "Sometida a estrés"
 
-#: ../../SO1.md:25 ../../SO1.md:34
+#: ../../SO1.md:535 ../../SO1.md:544
 msgid "Increasing"
 msgstr "Aumento"
 
-#: ../../SO1.md:26 ../../SO1.md:35
+#: ../../SO1.md:536 ../../SO1.md:545
 msgid "No data"
 msgstr "Sin datos"
 
-#: ../../SO1.md:28
+#: ../../SO1.md:538
 msgid "Six classes compatible with those used by the LPD-JRC:"
 msgstr ""
 "Seis clases compatibles con las utilizadas en el conjunto de datos sobre "
 "la dinámica de la productividad de la tierra del CCI:"
 
-#: ../../SO1.md:37
+#: ../../SO1.md:547
 msgid "__Spatial resolution__"
 msgstr "__Resolución espacial__"
 
-#: ../../SO1.md:38
+#: ../../SO1.md:548
 msgid "1 km"
 msgstr "1 km"
 
-#: ../../SO1.md:39
+#: ../../SO1.md:549
 msgid ""
 "The Trends.Earth Land Productivity data at 250m spatial resolution is "
 "recommended if data at a finer resolution is not available."
@@ -2124,11 +2143,11 @@ msgstr ""
 " con una resolución espacial de 250 m si no se dispone de datos con una "
 "resolución más alta."
 
-#: ../../SO1.md:40
+#: ../../SO1.md:550
 msgid "__Quality__"
 msgstr "__Calidad__"
 
-#: ../../SO1.md:41
+#: ../../SO1.md:551
 msgid ""
 "Specified in the metadata of the dataset. Overall, the assessed accuracy "
 "of the dataset is >80%."
@@ -2136,7 +2155,7 @@ msgstr ""
 "Especificada en los metadatos del conjunto de datos. En general, la "
 "precisión evaluada del conjunto de datos es superior a 80%."
 
-#: ../../SO1.md:42
+#: ../../SO1.md:552
 msgid ""
 "To conform with the data quality of the default dataset, it is "
 "recommended to ensure an overall mapping accuracy of at least 80%."
@@ -2145,17 +2164,17 @@ msgstr ""
 "defecto, se recomienda obtener una precisión cartográfica global de, al "
 "menos, el 80%."
 
-#: ../../SO1.md:43
+#: ../../SO1.md:553
 msgid "__Metadata__"
 msgstr "__Metadatos__"
 
-#: ../../SO1.md:44
+#: ../../SO1.md:554
 msgid "Metadata information is automatically generated with the default data."
 msgstr ""
 "La información de los metadatos se genera automáticamente con los datos "
 "por defecto."
 
-#: ../../SO1.md:28 ../../SO1.md:45
+#: ../../SO1.md:555 ../../SO1.md:1050
 msgid ""
 "Minimum metadata content as per the mandatory fields are listed in Annex "
 "II."
@@ -2163,7 +2182,7 @@ msgstr ""
 "El contenido mínimo de los metadatos, según los campos obligatorios, "
 "figura en el anexo II."
 
-#: ../../SO1.md:559
+#: ../../SO1.md:558
 msgid ""
 "**\\***_Version 2 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
@@ -2181,11 +2200,11 @@ msgstr ""
 "informes. Esto proporciona una base más coherente para la evaluación de "
 "los cambios en la Tendencia de la productividad._"
 
-#: ../../SO1.md:561
+#: ../../SO1.md:560
 msgid "Step 2:  Select a productivity index"
 msgstr "Paso 2: Seleccionar un índice de productividad"
 
-#: ../../SO1.md:563
+#: ../../SO1.md:562
 msgid ""
 "The NDVI is recommended as the default index for countries to use in the "
 "absence of evidence to indicate that an alternative index is better "
@@ -2206,7 +2225,7 @@ msgstr ""
 "(PPN), biomasa y cubierta vegetal en regiones de bosques lluviosos "
 "tropicales o áridas."
 
-#: ../../SO1.md:565
+#: ../../SO1.md:564
 msgid ""
 "Other indices, such as the EVI, may also be suitable. Although some of "
 "these indices may perform better than NDVI under some specific vegetation"
@@ -2227,11 +2246,11 @@ msgstr ""
 "teniendo en cuenta que una amplia investigación ha demostrado la fuerte "
 "relación entre el IVDN y la productividad primaria."
 
-#: ../../SO1.md:567
+#: ../../SO1.md:566
 msgid "Step 3: Estimate annual productivity"
 msgstr "Paso 3: Estimar la productividad anual"
 
-#: ../../SO1.md:569
+#: ../../SO1.md:568
 msgid ""
 "The estimation of annual productivity should take into consideration "
 "that, due to the natural cycles of growth and senescence of vegetation, "
@@ -2252,7 +2271,7 @@ msgstr ""
 "interpretarse como áreas que presentan una mejora, a menos que se evalúe "
 "lo contrario a nivel nacional."
 
-#: ../../SO1.md:571
+#: ../../SO1.md:570
 msgid ""
 "Further indications on options to estimate the start and length of the "
 "growing season are given in section 4.2.4.1 of the [Good Practice "
@@ -2267,11 +2286,11 @@ msgstr ""
 "indicaciones sobre las opciones para estimar el inicio y la duración de "
 "la estación de crecimiento."
 
-#: ../../SO1.md:573
+#: ../../SO1.md:572
 msgid "Step 4: Calculate land productivity metrics"
 msgstr "Paso 4: Calcular las métricas de productividad de la tierra"
 
-#: ../../SO1.md:575
+#: ../../SO1.md:574
 msgid ""
 "Estimating changes in productivity over time is based on the multi-"
 "temporal analysis of the annual productivity using three metrics:"
@@ -2280,7 +2299,7 @@ msgstr ""
 " basa en el análisis multitemporal de la productividad anual, mediante el"
 " uso de tres métricas:"
 
-#: ../../SO1.md:577
+#: ../../SO1.md:576
 msgid ""
 "**Trend**: measures the trajectory of change in annual productivity over "
 "the long term per pixel;"
@@ -2288,7 +2307,7 @@ msgstr ""
 "**Tendencia**: mide la trayectoria de cambio de la productividad anual a "
 "largo plazo por píxel."
 
-#: ../../SO1.md:579
+#: ../../SO1.md:578
 msgid ""
 "**State**: compares the current to historical annual productivity per "
 "pixel;"
@@ -2296,7 +2315,7 @@ msgstr ""
 "**Estado**: compara la productividad anual actual con la histórica por "
 "píxel."
 
-#: ../../SO1.md:581
+#: ../../SO1.md:580
 msgid ""
 "**Performance**: indicates the level of local annual productivity over an"
 " area compared with other areas with a similar land productivity "
@@ -2306,7 +2325,7 @@ msgstr ""
 " comparación con otras áreas con un potencial de productividad de la "
 "tierra similar."
 
-#: ../../SO1.md:583
+#: ../../SO1.md:582
 msgid ""
 "The changes observed in each of the three metrics are combined to "
 "determine persistent land productivity trajectories represented in five "
@@ -2324,11 +2343,11 @@ msgstr ""
 " se encuentra estable en el período de presentación de informes (véase el"
 " paso 5)."
 
-#: ../../SO1.md:585
+#: ../../SO1.md:584
 msgid "Productivity Trend"
 msgstr "Tendencia de la productividad"
 
-#: ../../SO1.md:587
+#: ../../SO1.md:586
 msgid ""
 "To calculate the productivity Trend, Parties should determine the "
 "trajectory of change in productivity over a 16-year time interval on a "
@@ -2345,7 +2364,7 @@ msgstr ""
 "informes (es decir, un período de 16 años que finaliza en el último año "
 "de notificación de datos: 2004-2019)."
 
-#: ../../SO1.md:589
+#: ../../SO1.md:588
 msgid ""
 "The Trend metric is calculated by fitting a linear regression model to "
 "the time series and determining the significance of the trend slope by "
@@ -2362,11 +2381,11 @@ msgstr ""
 "Los valores z reflejan la magnitud de la pendiente, y los valores de "
 "mayor magnitud indican una mayor fuerza del proceso en curso."
 
-#: ../../SO1.md:591
+#: ../../SO1.md:590
 msgid "Box 1. What is a z-score"
 msgstr "Cuadro 1. Qué es un valor z"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:595
 msgid ""
 "A z-score measures how many standard deviations above or below the mean a"
 " data point is. The formula for calculating a z-score is reported below, "
@@ -2376,43 +2395,43 @@ msgstr ""
 "de la media se encuentra un punto de datos. La fórmula para calcular un "
 "valor z es la siguiente, donde “z” es el valor z:"
 
-#: ../../SO1.md:1
-msgid "$z = \\frac{data\\ point – mean}{standard\\ deviation}$"
+#: ../../SO1.md:598
+msgid "$z = \\frac{data\\ point - mean}{standard\\ deviation}$"
 msgstr "$z = \\frac{data\\ point – mean}{standard\\ deviation}$"
 
-#: ../../SO1.md:7
+#: ../../SO1.md:601
 msgid "&nbsp;"
 msgstr "&nbsp;"
 
-#: ../../SO1.md:9
+#: ../../SO1.md:603
 msgid "Important facts about z-scores:"
 msgstr "Datos importantes sobre los valores z:"
 
-#: ../../SO1.md:10
+#: ../../SO1.md:604
 msgid "A positive z-score indicates that the data point is above average."
 msgstr ""
 "Un valor z positivo indica que el punto de datos está por encima de la "
 "media."
 
-#: ../../SO1.md:11
+#: ../../SO1.md:605
 msgid "A negative z-score indicates that the data point is below average."
 msgstr ""
 "Un valor z negativo indica que el punto de datos está por debajo de la "
 "media."
 
-#: ../../SO1.md:12
+#: ../../SO1.md:606
 msgid "A z-score close to 0 indicates that the data point is close to average."
 msgstr ""
 "Un valor z cercano a 0 indica que el punto de datos está cerca de la "
 "media."
 
-#: ../../SO1.md:13
+#: ../../SO1.md:607
 msgid "A data point can be considered unusual if its z-score is above or below 3."
 msgstr ""
 "Un punto de datos puede considerarse inusual si su valor z es superior o "
 "inferior a 3."
 
-#: ../../SO1.md:611
+#: ../../SO1.md:610
 msgid ""
 "As recommended in the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
@@ -2425,27 +2444,27 @@ msgstr ""
 "indicator-1531-proportion-land-degraded-over-total-land), los intervalos "
 "de valores z se pueden establecer de la siguiente manera:"
 
-#: ../../SO1.md:613
+#: ../../SO1.md:612
 msgid "z-score < –1.96 = degrading"
 msgstr "Valor z < -1,96 = degradación"
 
-#: ../../SO1.md:614
-msgid "z-score < –1.28 AND ≥ –1.96 = potentially degrading"
-msgstr "Valor z < -1,28 Y ≥ -1,96 = degradación potencial"
+#: ../../SO1.md:613
+msgid "z-score < –1.28 AND $\\ge$ –1.96 = potentially degrading"
+msgstr "Valor z < -1,28 Y $\\ge$ -1,96 = degradación potencial"
+
+#: ../../SO1.md:614 ../../SO1.md:652
+msgid "z-score $\\ge$ –1.28 AND $\\le$ 1.28 = no significant change"
+msgstr "Valor z $\\ge$ -1,28 Y $\\le$ 1,28 = sin cambios significativos"
 
 #: ../../SO1.md:615 ../../SO1.md:653
-msgid "z-score ≥ –1.28 AND ≤ 1.28 = no significant change"
-msgstr "Valor z ≥ -1,28 Y ≤ 1,28 = sin cambios significativos"
+msgid "z-score > 1.28 AND $\\le$ 1.96 = potentially improving"
+msgstr "Valor z > 1,28 Y $\\le$ 1,96 = mejora potencial"
 
 #: ../../SO1.md:616 ../../SO1.md:654
-msgid "z-score > 1.28 AND ≤ 1.96 = potentially improving"
-msgstr "Valor z > 1,28 Y ≤ 1,96 = mejora potencial"
-
-#: ../../SO1.md:617 ../../SO1.md:655
 msgid "z-score > 1.96 = improving"
 msgstr "Valor z > 1,96 = mejora"
 
-#: ../../SO1.md:619
+#: ../../SO1.md:618
 msgid ""
 "However, for the purposes of UNCCD reporting, the five classes above are "
 "simplified into the following three classes:"
@@ -2453,19 +2472,19 @@ msgstr ""
 "Sin embargo, a efectos de la presentación de informes de la CLD, las "
 "cinco clases anteriores se simplifican en las tres clases siguientes:"
 
-#: ../../SO1.md:621 ../../SO1.md:659
+#: ../../SO1.md:620 ../../SO1.md:658
 msgid "z-score < –1.28 = degrading"
 msgstr "Valor z < -1,28 = degradación"
 
-#: ../../SO1.md:622 ../../SO1.md:660
-msgid "z-score ≥ -1.28 AND ≤ 1.28"
-msgstr "Valor z ≥ -1,28 Y ≤ -1,28 = estable"
+#: ../../SO1.md:621
+msgid "z-score $\\ge$ –1.28 AND $\\le$ 1.28"
+msgstr "Valor z $\\ge$ -1,28 Y $\\le$ -1,28 = estable"
 
-#: ../../SO1.md:623 ../../SO1.md:661
+#: ../../SO1.md:622 ../../SO1.md:660
 msgid "z-score > 1.28 = improving"
 msgstr "Valor z > 1,28 = mejora"
 
-#: ../../SO1.md:625
+#: ../../SO1.md:624
 msgid ""
 "The pixels with the lowest negative z-score level (< –1.28) are "
 "considered degraded and other areas are considered not degraded."
@@ -2473,11 +2492,11 @@ msgstr ""
 "Los píxeles con el nivel de valor z negativo más bajo (< -1,28) se "
 "consideran degradados y las demás áreas se consideran no degradadas."
 
-#: ../../SO1.md:627
+#: ../../SO1.md:626
 msgid "Productivity State"
 msgstr "Estado de la productividad"
 
-#: ../../SO1.md:629
+#: ../../SO1.md:628
 msgid ""
 "Productivity State is determined by comparing the mean annual NPP of the "
 "three most recent years to the distribution of annual NPP values observed"
@@ -2494,59 +2513,59 @@ msgstr ""
 "recientes con los 13 años anteriores para el período de presentación de "
 "informes."
 
-#: ../../SO1.md:631
+#: ../../SO1.md:630
 msgid "Parties should make the following calculations:"
 msgstr "Las Partes deben realizar los siguientes cálculos:"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:636
 msgid "Baseline"
 msgstr "Referencia"
 
-#: ../../SO1.md:2
+#: ../../SO1.md:637
 msgid "Reporting period"
 msgstr "Período de presentación de informes"
 
-#: ../../SO1.md:3
+#: ../../SO1.md:638
 msgid "A = Mean annual NPP 2013–2015"
 msgstr "A = PPN media anual del período 2013-2015"
 
-#: ../../SO1.md:4
+#: ../../SO1.md:639
 msgid "A = Mean annual NPP of the 3 most recent years"
 msgstr "A = PPN media anual de los 3 años más recientes"
 
-#: ../../SO1.md:5
+#: ../../SO1.md:640
 msgid "B = Mean annual NPP 2000–2012"
 msgstr "B = PPN media anual del período 2000-2012"
 
-#: ../../SO1.md:6
+#: ../../SO1.md:641
 msgid "B = Mean annual NPP of the 13 preceding years"
 msgstr "B = PPN media anual de los 13 años anteriores"
 
-#: ../../SO1.md:7
+#: ../../SO1.md:642
 msgid "C = Standard deviation 2000–2012"
 msgstr "C = Desviación estándar 2000-2012"
 
-#: ../../SO1.md:8
+#: ../../SO1.md:643
 msgid "C = Standard deviation of the 13 preceding years"
 msgstr "C = Desviación estándar de los 13 años anteriores"
 
-#: ../../SO1.md:9 ../../SO1.md:10
+#: ../../SO1.md:644 ../../SO1.md:645
 msgid "z-score = (A – B) / C"
 msgstr "Valor z = (A - B) / C"
 
-#: ../../SO1.md:649
+#: ../../SO1.md:648
 msgid "Class definitions for the Z scores are as follows:"
 msgstr "Las definiciones de las clases para los valores z son las siguientes:"
 
-#: ../../SO1.md:651
+#: ../../SO1.md:650
 msgid "z-score < –1.96 = degraded"
 msgstr "Valor z < -1,96 = degradada"
 
-#: ../../SO1.md:652
-msgid "z-score < –1.28 AND ≥ –1.96 = at risk of degrading"
-msgstr "Valor z < -1,28 Y ≥ -1,96 = en riesgo de degradación"
+#: ../../SO1.md:651
+msgid "z-score < –1.28 AND $\\ge$ –1.96 = at risk of degrading"
+msgstr "Valor z < -1,28 Y $\\ge$ -1,96 = en riesgo de degradación"
 
-#: ../../SO1.md:657
+#: ../../SO1.md:656
 msgid ""
 "Similar to the productivity Trend, the above-mentioned five classes are "
 "reduced to three when reporting data to UNCCD:"
@@ -2554,7 +2573,11 @@ msgstr ""
 "Al igual que en el caso de la Tendencia de la productividad, las 5 clases"
 " mencionadas se reducen a 3 cuando se notifican datos a la CLD:"
 
-#: ../../SO1.md:663
+#: ../../SO1.md:659
+msgid "z-score $\\ge$ -1.28 AND $\\le$ 1.28"
+msgstr "Valor z $\\ge$ -1,28 Y $\\le$ -1,28 = estable"
+
+#: ../../SO1.md:662
 msgid ""
 "For the purposes of calculating the land productivity sub-indicator, "
 "UNCCD recommends considering only the area of the lowest negative z-score"
@@ -2566,11 +2589,11 @@ msgstr ""
 "valor z negativo más bajo (< -1,96). Las áreas en otras clases de valor z"
 " deben ser consideradas como no degradadas."
 
-#: ../../SO1.md:665
+#: ../../SO1.md:664
 msgid "Productivity Performance"
 msgstr "Desempeño de la productividad"
 
-#: ../../SO1.md:667
+#: ../../SO1.md:666
 msgid ""
 "In contrast to Trend and State, which are temporal metrics, productivity "
 "Performance is a spatial metric involving benchmarking the level of local"
@@ -2583,7 +2606,8 @@ msgstr ""
 " relación con otras unidades de tierra (es decir, otros píxeles) dentro "
 "de la misma Unidad Funcional de Cubierta Terrestre/Ecosistema (LCEU)[^2]."
 
-#: ../../SO1.md:671
+#: ../../SO1.md:670
+#, python-brace-format
 msgid ""
 "Productivity Performance is calculated by comparing the mean annual "
 "productivity value per pixel with the maximum productivity index value "
@@ -2607,19 +2631,20 @@ msgstr ""
 "productividad está cerca del nivel más alto para esa unidad de tierra en "
 "ese período."
 
-#: ../../SO1.md:675
+#: ../../SO1.md:674
 msgid "The resulting dataset would then include only two classes:"
 msgstr "El conjunto de datos resultante incluiría entonces solo dos clases:"
 
-#: ../../SO1.md:677
+#: ../../SO1.md:676
+#, python-brace-format
 msgid "z-score < 0.5 NPP{sub}`max` = degrading"
 msgstr "Valor z < 0,5 PPN{sub}`máx` = degradación"
 
-#: ../../SO1.md:678
-msgid "z-score ≥ 0.5 NPP{sub}`max` = improving"
-msgstr "Valor z ≥ 0,5 PPN{sub}`máx` = mejora"
+#: ../../SO1.md:677
+msgid "z-score $\\ge$ 0.5 NPP{sub}`max` = improving"
+msgstr "Valor z $\\ge$ 0,5 PPN{sub}`máx` = mejora"
 
-#: ../../SO1.md:680
+#: ../../SO1.md:679
 msgid ""
 "The productivity Performance in the reporting periods should be "
 "calculated from the mean of the annual productivity assessments over the "
@@ -2631,7 +2656,7 @@ msgstr ""
 " de productividad durante los años transcurridos desde la evaluación "
 "anterior (o de referencia) hasta el año en curso."
 
-#: ../../SO1.md:682
+#: ../../SO1.md:681
 msgid ""
 "Step 5: Combine productivity metrics to assess land productivity "
 "degradation in the baseline period"
@@ -2639,11 +2664,11 @@ msgstr ""
 "Paso 5: Combinar las métricas de productividad para evaluar la "
 "degradación de la productividad de la tierra en el período de referencia"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:684
 msgid "Related areas in the PRAIS 4 platform: table SO1-2.T5"
 msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO1-2.T5"
 
-#: ../../SO1.md:688
+#: ../../SO1.md:687
 msgid ""
 "The outputs obtained from the three metrics are used to estimate the "
 "extent of the degraded land in the baseline period."
@@ -2651,7 +2676,7 @@ msgstr ""
 "Los resultados obtenidos de las tres métricas se utilizan para estimar la"
 " extensión de la tierra degradada en el período de referencia."
 
-#: ../../SO1.md:690
+#: ../../SO1.md:689
 msgid ""
 "Table 12 below shows how to transform the outputs of the three metrics "
 "into two classes (degraded land/not degraded land) to assess the land "
@@ -2664,7 +2689,7 @@ msgstr ""
 "período de referencia. En la tabla, “Y” indica la tierra degradada y “N” "
 "indica la tierra no degradada."
 
-#: ../../SO1.md:693
+#: ../../SO1.md:692
 msgid ""
 "**Table 12**. Combination of productivity metrics to determine whether a "
 "pixel is degraded or not degraded"
@@ -2672,68 +2697,68 @@ msgstr ""
 "**Tabla 12**. Combinación de métricas de productividad para determinar si"
 " un píxel está degradado o no en el período de referencia"
 
-#: ../../SO1.md:4 ../../SO1.md:697
+#: ../../SO1.md:696 ../../SO1.md:776
 msgid "Class combination"
 msgstr "Combinación de clases"
 
-#: ../../SO1.md:5 ../../SO1.md:698
+#: ../../SO1.md:697 ../../SO1.md:777
 msgid "Trend"
 msgstr "Tendencia"
 
-#: ../../SO1.md:6 ../../SO1.md:699
+#: ../../SO1.md:698 ../../SO1.md:778
 msgid "State"
 msgstr "Estado"
 
-#: ../../SO1.md:7 ../../SO1.md:700
+#: ../../SO1.md:699 ../../SO1.md:779
 msgid "Performance"
 msgstr "Desempeño"
 
-#: ../../SO1.md:23 ../../SO1.md:35 ../../SO1.md:47 ../../SO1.md:59
-#: ../../SO1.md:71 ../../SO1.md:83 ../../SO1.md:95 ../../SO1.md:107
-#: ../../SO1.md:119 ../../SO1.md:701
+#: ../../SO1.md:700 ../../SO1.md:795 ../../SO1.md:807 ../../SO1.md:819
+#: ../../SO1.md:831 ../../SO1.md:843 ../../SO1.md:855 ../../SO1.md:867
+#: ../../SO1.md:879 ../../SO1.md:891
 msgid "Degraded"
 msgstr "Degradada"
 
-#: ../../SO1.md:14 ../../SO1.md:702
+#: ../../SO1.md:701 ../../SO1.md:786
 msgid "1"
 msgstr "1"
 
-#: ../../SO1.md:703 ../../SO1.md:704 ../../SO1.md:705 ../../SO1.md:706
-#: ../../SO1.md:708 ../../SO1.md:709 ../../SO1.md:711 ../../SO1.md:713
-#: ../../SO1.md:715 ../../SO1.md:716 ../../SO1.md:718 ../../SO1.md:721
-#: ../../SO1.md:724 ../../SO1.md:725 ../../SO1.md:726 ../../SO1.md:729
-#: ../../SO1.md:735
+#: ../../SO1.md:702 ../../SO1.md:703 ../../SO1.md:704 ../../SO1.md:705
+#: ../../SO1.md:707 ../../SO1.md:708 ../../SO1.md:710 ../../SO1.md:712
+#: ../../SO1.md:714 ../../SO1.md:715 ../../SO1.md:717 ../../SO1.md:720
+#: ../../SO1.md:723 ../../SO1.md:724 ../../SO1.md:725 ../../SO1.md:728
+#: ../../SO1.md:734
 msgid "Y"
 msgstr ""
 
-#: ../../SO1.md:20 ../../SO1.md:707
+#: ../../SO1.md:706 ../../SO1.md:792
 msgid "2"
 msgstr "2"
 
-#: ../../SO1.md:710 ../../SO1.md:714 ../../SO1.md:719 ../../SO1.md:720
-#: ../../SO1.md:723 ../../SO1.md:728 ../../SO1.md:730 ../../SO1.md:731
-#: ../../SO1.md:733 ../../SO1.md:734 ../../SO1.md:736 ../../SO1.md:738
-#: ../../SO1.md:739 ../../SO1.md:740 ../../SO1.md:741
+#: ../../SO1.md:709 ../../SO1.md:713 ../../SO1.md:718 ../../SO1.md:719
+#: ../../SO1.md:722 ../../SO1.md:727 ../../SO1.md:729 ../../SO1.md:730
+#: ../../SO1.md:732 ../../SO1.md:733 ../../SO1.md:735 ../../SO1.md:737
+#: ../../SO1.md:738 ../../SO1.md:739 ../../SO1.md:740
 msgid "N"
 msgstr ""
 
-#: ../../SO1.md:26 ../../SO1.md:712
+#: ../../SO1.md:711 ../../SO1.md:798
 msgid "3"
 msgstr "3"
 
-#: ../../SO1.md:32 ../../SO1.md:717
+#: ../../SO1.md:716 ../../SO1.md:804
 msgid "4"
 msgstr "4"
 
-#: ../../SO1.md:44 ../../SO1.md:727
+#: ../../SO1.md:726 ../../SO1.md:816
 msgid "6"
 msgstr "6"
 
-#: ../../SO1.md:56 ../../SO1.md:737
+#: ../../SO1.md:736 ../../SO1.md:828
 msgid "8"
 msgstr "8"
 
-#: ../../SO1.md:744
+#: ../../SO1.md:743
 msgid ""
 "_Note: Lookup table indicating combinations of productivity metrics to "
 "determine whether a pixel is degraded (‘Y’) or not degraded (‘N’): "
@@ -2750,7 +2775,7 @@ msgstr ""
 "Tendencia significativamente negativa constituye una degradación, "
 "independientemente de las métricas de Estado o Desempeño)._"
 
-#: ../../SO1.md:746
+#: ../../SO1.md:745
 msgid ""
 "An alternative approach, suggesting a variant of the above metric "
 "combinations, is described in section 4.2.5 and table 4-5 of the [Good "
@@ -2767,7 +2792,7 @@ msgstr ""
 "combinaciones de métricas mencionadas, para que lo examinen los países "
 "Partes."
 
-#: ../../SO1.md:748
+#: ../../SO1.md:747
 msgid ""
 "The total area of land productivity degradation in the baseline period "
 "should be reported in table SO1-2.T5 of the PRAIS 4 platform."
@@ -2776,7 +2801,7 @@ msgstr ""
 "período de referencia debe ser presentada en la tabla SO1-2.T5 de la "
 "plataforma PRAIS 4."
 
-#: ../../SO1.md:750
+#: ../../SO1.md:749
 msgid ""
 "Step 6: Combine productivity metrics to assess land productivity "
 "degradation in the reporting period"
@@ -2785,7 +2810,7 @@ msgstr ""
 "degradación de la productividad de la tierra en el período de "
 "presentación de informes"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:752
 msgid ""
 "Related areas in the PRAIS 4 platform: tables SO1-2.T1, SO1-2.T2, "
 "SO1-2.T3, SO1-2.T4 and SO1-2.T6"
@@ -2793,7 +2818,7 @@ msgstr ""
 "Áreas relacionadas en la plataforma PRAIS 4: tablas SO1-2.T1, SO1-2.T2, "
 "SO1-2.T3, SO1-2.T4 y SO1-2.T6"
 
-#: ../../SO1.md:755
+#: ../../SO1.md:754
 msgid ""
 "The outputs obtained from the three metrics are used to estimate the "
 "extent of the degraded land in the reporting period. This process is "
@@ -2806,7 +2831,7 @@ msgstr ""
 "fuera, todos fuera” utilizado para estimar el indicador 15.3.1 de los "
 "ODS."
 
-#: ../../SO1.md:757
+#: ../../SO1.md:756
 msgid ""
 "Table 13 summarizes the combinations of productivity metrics to determine"
 " the land productivity dynamics and the land productivity degradation "
@@ -2823,7 +2848,7 @@ msgstr ""
 "degradación de la productividad de la tierra en el período de "
 "presentación de informes (es decir, “mejora”, “estable”, “degradación”)."
 
-#: ../../SO1.md:759
+#: ../../SO1.md:758
 msgid ""
 "Parties may use this table to combine custom Trend, State and Performance"
 " results derived from national data to estimate land productivity "
@@ -2834,7 +2859,7 @@ msgstr ""
 "nacionales para estimar la dinámica y la degradación de la productividad "
 "de la tierra."
 
-#: ../../SO1.md:769
+#: ../../SO1.md:768
 msgid ""
 "*__Table 13__. Combination of productivity metrics to determine five "
 "classes of land productivity dynamics and three classes of land "
@@ -2845,11 +2870,13 @@ msgstr ""
 "de degradación de la productividad de la tierra por píxel en el período "
 "de presentación de informes*"
 
-#: ../../SO1.md:2
+#: ../../SO1.md:774
+#, python-brace-format
 msgid "{cspan}`2` Changes observed in the three input productivity metrics"
 msgstr " Cambios observados en las tres métricas de productividad de entrada"
 
-#: ../../SO1.md:3
+#: ../../SO1.md:775
+#, python-brace-format
 msgid ""
 "{cspan}`1` Land productivity dynamics and land productivity degradation "
 "status derived from the combination of the three productivity metrics"
@@ -2858,70 +2885,70 @@ msgstr ""
 "productividad de la tierra derivados de la combinación de las tres "
 "métricas de productividad"
 
-#: ../../SO1.md:8
+#: ../../SO1.md:780
 msgid "Land productivity dynamics"
 msgstr "Dinámica de la productividad de la tierra"
 
-#: ../../SO1.md:10
+#: ../../SO1.md:782
 msgid "(5 classes)"
 msgstr "(5 clases)"
 
-#: ../../SO1.md:11
+#: ../../SO1.md:783
 msgid "Land productivity degradation status"
 msgstr "Estado de degradación de la productividad de la tierra"
 
-#: ../../SO1.md:13
+#: ../../SO1.md:785
 msgid "(3 classes)"
 msgstr "(3 clases)"
 
-#: ../../SO1.md:15 ../../SO1.md:16 ../../SO1.md:18 ../../SO1.md:19
-#: ../../SO1.md:21 ../../SO1.md:22 ../../SO1.md:24 ../../SO1.md:25
-#: ../../SO1.md:27 ../../SO1.md:30 ../../SO1.md:31 ../../SO1.md:33
-#: ../../SO1.md:36 ../../SO1.md:37 ../../SO1.md:39 ../../SO1.md:42
-#: ../../SO1.md:43 ../../SO1.md:45 ../../SO1.md:52 ../../SO1.md:58
-#: ../../SO1.md:88 ../../SO1.md:94
+#: ../../SO1.md:787 ../../SO1.md:788 ../../SO1.md:790 ../../SO1.md:791
+#: ../../SO1.md:793 ../../SO1.md:794 ../../SO1.md:796 ../../SO1.md:797
+#: ../../SO1.md:799 ../../SO1.md:802 ../../SO1.md:803 ../../SO1.md:805
+#: ../../SO1.md:808 ../../SO1.md:809 ../../SO1.md:811 ../../SO1.md:814
+#: ../../SO1.md:815 ../../SO1.md:817 ../../SO1.md:824 ../../SO1.md:830
+#: ../../SO1.md:860 ../../SO1.md:866
 msgid "Improving"
 msgstr "Mejora"
 
-#: ../../SO1.md:40 ../../SO1.md:46 ../../SO1.md:49 ../../SO1.md:76
-#: ../../SO1.md:79 ../../SO1.md:82 ../../SO1.md:84 ../../SO1.md:85
-#: ../../SO1.md:87 ../../SO1.md:90 ../../SO1.md:91 ../../SO1.md:93
-#: ../../SO1.md:96 ../../SO1.md:97 ../../SO1.md:99 ../../SO1.md:102
-#: ../../SO1.md:103 ../../SO1.md:105 ../../SO1.md:108 ../../SO1.md:109
-#: ../../SO1.md:111 ../../SO1.md:112 ../../SO1.md:114 ../../SO1.md:115
-#: ../../SO1.md:117 ../../SO1.md:118 ../../SO1.md:120 ../../SO1.md:121
+#: ../../SO1.md:812 ../../SO1.md:818 ../../SO1.md:821 ../../SO1.md:848
+#: ../../SO1.md:851 ../../SO1.md:854 ../../SO1.md:856 ../../SO1.md:857
+#: ../../SO1.md:859 ../../SO1.md:862 ../../SO1.md:863 ../../SO1.md:865
+#: ../../SO1.md:868 ../../SO1.md:869 ../../SO1.md:871 ../../SO1.md:874
+#: ../../SO1.md:875 ../../SO1.md:877 ../../SO1.md:880 ../../SO1.md:881
+#: ../../SO1.md:883 ../../SO1.md:884 ../../SO1.md:886 ../../SO1.md:887
+#: ../../SO1.md:889 ../../SO1.md:890 ../../SO1.md:892 ../../SO1.md:893
 msgid "Degrading"
 msgstr "Degradación"
 
-#: ../../SO1.md:62
+#: ../../SO1.md:834
 msgid "9"
 msgstr "9"
 
-#: ../../SO1.md:86
+#: ../../SO1.md:858
 msgid "13"
 msgstr "13"
 
-#: ../../SO1.md:92
+#: ../../SO1.md:864
 msgid "14"
 msgstr "14"
 
-#: ../../SO1.md:98
+#: ../../SO1.md:870
 msgid "15"
 msgstr "15"
 
-#: ../../SO1.md:104
+#: ../../SO1.md:876
 msgid "16"
 msgstr "16"
 
-#: ../../SO1.md:110
+#: ../../SO1.md:882
 msgid "17"
 msgstr "17"
 
-#: ../../SO1.md:116
+#: ../../SO1.md:888
 msgid "18"
 msgstr "18"
 
-#: ../../SO1.md:897
+#: ../../SO1.md:896
 msgid ""
 "_Note: The last column illustrates how a pixel’s land productivity "
 "degradation status can be inferred from the class of land productivity "
@@ -2933,7 +2960,7 @@ msgstr ""
 "clase de dinámica de la productividad de la tierra obtenida de la "
 "combinación de las tres métricas de productividad de entrada._"
 
-#: ../../SO1.md:899
+#: ../../SO1.md:898
 msgid ""
 "National estimates of land productivity dynamics by land cover type "
 "should be reported using tables SO1-2.T1 and SO1-2.T2 of the PRAIS 4 "
@@ -2957,11 +2984,11 @@ msgstr ""
 "clases de la última columna de la tabla 13) en el período de presentación"
 " de informes debe presentarse en la tabla SO1-2.T6."
 
-#: ../../SO1.md:901
+#: ../../SO1.md:900
 msgid "Step 7:  Verify the results"
 msgstr "Paso 7: Verificar los resultados"
 
-#: ../../SO1.md:903
+#: ../../SO1.md:902
 msgid ""
 "The seasonal dynamics of productivity vary greatly across the globe, "
 "strongly influenced by the prevailing climatic conditions and land "
@@ -2982,11 +3009,11 @@ msgstr ""
 "los resultados obtenidos podría ser bajo. Esta aportación contribuiría a "
 "una evaluación cualitativa de la fiabilidad de las estimaciones."
 
-#: ../../SO1.md:905
+#: ../../SO1.md:904
 msgid "Step 8: Generate reports"
 msgstr "Paso 8: Generar informes"
 
-#: ../../SO1.md:907
+#: ../../SO1.md:906
 msgid ""
 "Once verified by the Parties, the estimates of land productivity dynamics"
 " and land degradation for the reporting and baseline periods should be "
@@ -3011,7 +3038,7 @@ msgstr ""
 " de informes de la plataforma PRAIS 4 se incluye un campo para ingresar "
 "comentarios generales."
 
-#: ../../SO1.md:909
+#: ../../SO1.md:908
 msgid ""
 "Information on land productivity dynamics and land productivity "
 "degradation should be reported in km2 for the entire country."
@@ -3020,7 +3047,7 @@ msgstr ""
 "degradación de la productividad de la tierra debe notificarse en km2 para"
 " todo el país."
 
-#: ../../SO1.md:911
+#: ../../SO1.md:910
 msgid ""
 "If the default datasets are replaced with national land cover data, "
 "countries are encouraged to make the relevant geospatial data and "
@@ -3031,7 +3058,7 @@ msgstr ""
 "los datos geoespaciales pertinentes y los metadatos correspondientes en "
 "la plataforma PRAIS 4."
 
-#: ../../SO1.md:913
+#: ../../SO1.md:912
 msgid ""
 "Maps generated with default or national data on land productivity "
 "dynamics and land productivity degradation for the baseline and the "
@@ -3044,31 +3071,31 @@ msgstr ""
 "informes se crearán en la plataforma PRAIS 4. Estos mapas incluirán lo "
 "siguiente:"
 
-#: ../../SO1.md:915
+#: ../../SO1.md:914
 msgid "Land productivity dynamics in the baseline period"
 msgstr "dinámica de la productividad de la tierra en el período de referencia;"
 
-#: ../../SO1.md:916
+#: ../../SO1.md:915
 msgid "Land productivity dynamics in the reporting period"
 msgstr ""
 "dinámica de la productividad de la tierra en el período de presentación "
 "de informes;"
 
-#: ../../SO1.md:917
+#: ../../SO1.md:916
 msgid "Land productivity degradation in the baseline period"
 msgstr "degradación de la productividad de la tierra en el período de referencia;"
 
-#: ../../SO1.md:918
+#: ../../SO1.md:917
 msgid "Land productivity degradation in the reporting period."
 msgstr ""
 "degradación de la productividad de la tierra en el período de "
 "presentación de informes."
 
-#: ../../SO1.md:920
+#: ../../SO1.md:919
 msgid "1.2.4. Dependencies"
 msgstr "1.2.4. Dependencias"
 
-#: ../../SO1.md:922
+#: ../../SO1.md:921
 msgid ""
 "Land productivity data relies on the land cover data reported under SO "
 "1-1 to disaggregate land productivity classes by the seven UNCCD land "
@@ -3084,11 +3111,11 @@ msgstr ""
 "SO1-2.T6 depende de la superficie total de la tierra presentada en la "
 "tabla SO1-1.T1."
 
-#: ../../SO1.md:924
+#: ../../SO1.md:923
 msgid "1.2.5. Challenges"
 msgstr "1.2.5. Retos"
 
-#: ../../SO1.md:928
+#: ../../SO1.md:927
 msgid ""
 "Spatial resolution of international data might not always be suitable to "
 "produce a sufficiently detailed representation of the land productivity "
@@ -3101,7 +3128,7 @@ msgstr ""
 " de los pequeños Estados insulares en desarrollo (PEID) o los países "
 "montañosos."
 
-#: ../../SO1.md:929
+#: ../../SO1.md:928
 msgid ""
 "Land productivity in certain climatic zones where the annual growing "
 "season is highly variable or erratic, or where there is sparse or no "
@@ -3118,11 +3145,11 @@ msgstr ""
 "trópicos húmedos, también pueden mostrar poca variación en la "
 "productividad, lo que hace que los datos no sean fiables."
 
-#: ../../SO1.md:931
+#: ../../SO1.md:930
 msgid "Analytical approach"
 msgstr "Enfoque analítico"
 
-#: ../../SO1.md:933
+#: ../../SO1.md:932
 msgid ""
 "It is important to consider that applying a 16-year window for the "
 "reporting period of land productivity versus a 4-year window for land "
@@ -3138,17 +3165,17 @@ msgstr ""
 "con los otros indicadores) cuando se combinen para obtener el indicador "
 "15.3.1 de los ODS."
 
-#: ../../SO1.md:935
+#: ../../SO1.md:934
 msgid "1.2.6. Summary (main actions)"
 msgstr "1.2.6. Resumen (acciones principales)"
 
-#: ../../SO1.md:937
+#: ../../SO1.md:936
 msgid "Key actions for reporting on land productivity dynamics are as follows:"
 msgstr ""
 "Las acciones clave para presentar informes sobre la dinámica de la "
 "productividad de la tierra son las siguientes:"
 
-#: ../../SO1.md:939
+#: ../../SO1.md:938
 msgid ""
 "Select image dataset: UNCCD makes available default data, which may be "
 "verified and officially accepted. If Parties decide to use alternative "
@@ -3161,7 +3188,7 @@ msgstr ""
 "verificar el cumplimiento de los requisitos mínimos enumerados en la "
 "tabla 11 y seguir los pasos 2 a 6 que se indican a continuación."
 
-#: ../../SO1.md:940
+#: ../../SO1.md:939
 msgid ""
 "Select a productivity index: NDVI is recommended as the default index; "
 "however, countries may choose alternative indexes that are better suited "
@@ -3171,7 +3198,7 @@ msgstr ""
 " por defecto; sin embargo, los países pueden elegir índices alternativos "
 "que se adapten mejor a su dinámica local de productividad de la tierra."
 
-#: ../../SO1.md:941
+#: ../../SO1.md:940
 msgid ""
 "Estimate annual productivity: For each pixel, estimate the annual "
 "productivity as the integral of values from the start to the end of the "
@@ -3181,7 +3208,7 @@ msgstr ""
 " anual como la integral de los valores desde el inicio hasta el final de "
 "la estación de crecimiento del índice de productividad seleccionado."
 
-#: ../../SO1.md:942
+#: ../../SO1.md:941
 msgid ""
 "Calculate land productivity metrics: For each pixel, estimate Trend, "
 "State and Performance metrics;"
@@ -3189,7 +3216,7 @@ msgstr ""
 "Calcular las métricas de productividad de la tierra: para cada píxel, "
 "estimar las métricas de Tendencia, Estado y Desempeño."
 
-#: ../../SO1.md:943
+#: ../../SO1.md:942
 msgid ""
 "Combine productivity metrics to assess land productivity degradation in "
 "the baseline period: Using table 12 as a guide, combine the metrics to "
@@ -3201,7 +3228,7 @@ msgstr ""
 "tabla 12 como guía, combinar las métricas para evaluar si un píxel está "
 "degradado o no en el período de referencia."
 
-#: ../../SO1.md:944
+#: ../../SO1.md:943
 msgid ""
 "Combine productivity metrics to assess land productivity degradation in "
 "the reporting period: Using table 13 as a guide, combine the metrics to "
@@ -3222,7 +3249,7 @@ msgstr ""
 "cálculos en Trends.Earth e ingresar esta información en las tablas "
 "SO1-2.T1 a SO1-2.T6."
 
-#: ../../SO1.md:945
+#: ../../SO1.md:944
 msgid ""
 "Verify the results: It is recommended that land productivity and related "
 "land degradation estimates are verified by the concerned national "
@@ -3237,7 +3264,7 @@ msgstr ""
 "positiva o negativa sobre la que se pueda informar en los formularios del"
 " objetivo estratégico 1-4 (indicador 15.3.1 de los ODS)."
 
-#: ../../SO1.md:946
+#: ../../SO1.md:945
 msgid ""
 "Generate reports: Once verified by the Parties, the data and supporting "
 "narrative for the reporting and baseline periods should be officially "
@@ -3247,11 +3274,11 @@ msgstr ""
 "información descriptiva de apoyo para los períodos de presentación de "
 "informes y de referencia deben presentarse oficialmente a la CLD."
 
-#: ../../SO1.md:948
+#: ../../SO1.md:947
 msgid "1.2.7. Further reading"
 msgstr "1.2.7. Lecturas complementarias"
 
-#: ../../SO1.md:950
+#: ../../SO1.md:949
 msgid ""
 "Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that "
 "is degraded over total land area (version 2). Chapter 4: Land "
@@ -3263,7 +3290,7 @@ msgstr ""
 "productivity” (<https://www.unccd.int/publications/good-practice-"
 "guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land>)."
 
-#: ../../SO1.md:951
+#: ../../SO1.md:950
 msgid ""
 "Cherlet, M., Hutchinson, C., Reynolds, J., Hill, J., Sommer, S., von "
 "Maltitz, G. (Eds.), World Atlas of Desertification, Publication Office of"
@@ -3273,23 +3300,23 @@ msgstr ""
 "Maltitz, G. (eds.), World Atlas of Desertification, Oficina de "
 "Publicaciones de la Unión Europea, Luxemburgo, 2018."
 
-#: ../../SO1.md:952
+#: ../../SO1.md:951
 msgid "Trend.Earth website documentation (<https://trends.earth/docs/en/>)."
 msgstr ""
 "Documentación del sitio web de Trend.Earth "
 "(<https://trends.earth/docs/es/>)."
 
-#: ../../SO1.md:954
+#: ../../SO1.md:953
 msgid "1.3. SO 1-3 – Trends in carbon stocks above and below ground"
 msgstr ""
 "1.3.Objetivo estratégico 1-3 - Tendencias en las reservas de carbono en "
 "la superficie y en el suelo"
 
-#: ../../SO1.md:956
+#: ../../SO1.md:955
 msgid "1.3.1. Introduction"
 msgstr "1.3.1. Introducción"
 
-#: ../../SO1.md:958
+#: ../../SO1.md:957
 msgid ""
 "Carbon stocks reflect the integration of multiple processes affecting "
 "plant growth as well as decomposition, which together control the gains "
@@ -3304,7 +3331,7 @@ msgstr ""
 "servicios de los ecosistemas, y sus niveles y dinámica reflejan el tipo "
 "de suelo, el uso de la tierra y las prácticas de gestión."
 
-#: ../../SO1.md:960
+#: ../../SO1.md:959
 msgid ""
 "As outlined in the UNCCD decision 22/COP.11, soil organic carbon (SOC) "
 "stock is the metric currently used to assess carbon stocks and will be "
@@ -3315,7 +3342,7 @@ msgstr ""
 "carbono y serán sustituidas por las reservas totales de carbono del "
 "sistema terrestre una vez que estén operativas."
 
-#: ../../SO1.md:962
+#: ../../SO1.md:961
 msgid ""
 "The UNCCD methodology for estimating the proportion of land that is "
 "degraded over total land area (i.e. SDG indicator 15.3.1) uses SOC stock "
@@ -3334,7 +3361,7 @@ msgstr ""
 " la erosión y, en última instancia, la productividad de la vegetación y, "
 "en contextos agrícolas, el rendimiento."
 
-#: ../../SO1.md:964
+#: ../../SO1.md:963
 msgid ""
 "The main output of the reporting process for SO 1-3 is a set of "
 "officially verified estimates of SOC stock in the top 30 centimetres (cm)"
@@ -3349,7 +3376,7 @@ msgstr ""
 "de cubierta terrestre de la CLD y las transiciones de la cubierta "
 "terrestre, y su importancia en términos de degradación de las tierras."
 
-#: ../../SO1.md:966
+#: ../../SO1.md:965
 msgid ""
 "National reporting is facilitated though the provision of default "
 "baseline data derived from the International Soil Reference and "
@@ -3367,7 +3394,7 @@ msgstr ""
 "(IPCC) para la compilación de inventarios nacionales de gases de efecto "
 "invernadero para los suelos minerales."
 
-#: ../../SO1.md:968
+#: ../../SO1.md:967
 msgid ""
 "Parties may complement/replace these data with national data (Tier 2 "
 "method), determining SOC stocks from high spatial resolution digital soil"
@@ -3382,11 +3409,11 @@ msgstr ""
 "presentación de informes sobre estas reservas que impliquen mediciones "
 "sobre el terreno y modelización pueden adoptar el método de nivel 3."
 
-#: ../../SO1.md:970
+#: ../../SO1.md:969
 msgid "1.3.2. Prerequisites for reporting"
 msgstr "1.3.2. Requisitos previos para la presentación de informes"
 
-#: ../../SO1.md:972
+#: ../../SO1.md:971
 msgid ""
 "An in-depth reading of chapter 5 of the [Good Practice Guidance for SDG "
 "Indicator 15.3.1](https://www.unccd.int/publications/good-practice-"
@@ -3403,13 +3430,13 @@ msgstr ""
 " y la liberación de las reservas de SOC y detalla la metodología "
 "utilizada para estimar los cambios en el SOC."
 
-#: ../../SO1.md:974
+#: ../../SO1.md:973
 msgid "Data complying with the minimum standards listed in table 14 below;"
 msgstr ""
 "Datos que cumplen con las normas mínimas indicadas en la tabla 14 "
 "incluida a continuación."
 
-#: ../../SO1.md:976
+#: ../../SO1.md:975
 msgid ""
 "A pool of national experts officially nominated by the national "
 "authorities to verify the results of the SOC analysis or develop and "
@@ -3428,7 +3455,7 @@ msgstr ""
 " el departamento de suelos), el centro de teledetección, así como "
 "universidades y centros de investigación."
 
-#: ../../SO1.md:978
+#: ../../SO1.md:977
 msgid ""
 "An understanding of the Tier levels of reporting and a decision on what "
 "Tier level is appropriate for the country before attempting the reporting"
@@ -3438,13 +3465,13 @@ msgstr ""
 "sobre qué nivel es apropiado para el país antes de comenzar el proceso de"
 " presentación de informes."
 
-#: ../../SO1.md:980
+#: ../../SO1.md:979
 msgid "1.3.3. Reporting process and step-by-step procedure"
 msgstr ""
 "1.3.3. Proceso de presentación de informes e instrucciones detalladas "
 "paso por paso"
 
-#: ../../SO1.md:982
+#: ../../SO1.md:981
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If Parties decide to use the default data (i.e. adopt the Tier 1 method),"
@@ -3455,11 +3482,11 @@ msgstr ""
 "datos por defecto (es decir, adoptar el método de nivel 1), los pasos 2, "
 "3 y 4 son innecesarios."
 
-#: ../../SO1.md:984
+#: ../../SO1.md:983
 msgid "Step 1: Select the estimation method"
 msgstr "Paso 1: Seleccionar el método de estimación"
 
-#: ../../SO1.md:986
+#: ../../SO1.md:985
 msgid ""
 "Parties may use three methods to determine baseline SOC stocks and "
 "estimate changes in SOC stocks. These methods are consistent with the "
@@ -3472,7 +3499,7 @@ msgstr ""
 "datos y opciones de procesamiento con niveles crecientes de precisión y "
 "complejidad."
 
-#: ../../SO1.md:990
+#: ../../SO1.md:989
 msgid ""
 "The **Tier 1 method** uses broad methods with default data, and it is "
 "valuable where country-specific data and capacities are scarce or "
@@ -3491,7 +3518,7 @@ msgstr ""
 "15.3.1 de los ODS] (https://www.unccd.int/publications/good-practice-"
 "guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)."
 
-#: ../../SO1.md:992
+#: ../../SO1.md:991
 msgid ""
 "The Tier 1 method assumes that following land use/management changes, "
 "carbon stock changes occur over a 20-year period, after which a new "
@@ -3516,7 +3543,7 @@ msgstr ""
 "por defecto del IPCC, las reservas de referencia pueden determinarse a "
 "partir de mapas digitales globales de SOC."
 
-#: ../../SO1.md:994
+#: ../../SO1.md:993
 msgid ""
 "For change factors, the Tier 1 method is strongly reliant on land cover "
 "change and/or land management change to estimate changes in SOC stocks as"
@@ -3528,7 +3555,7 @@ msgstr ""
 "de SOC, así como de la delimitación de las áreas de humedales como "
 "indicador indirecto de los suelos orgánicos."
 
-#: ../../SO1.md:996
+#: ../../SO1.md:995
 msgid ""
 "The influence of land use and management on SOC is different in mineral "
 "versus organic soil types. Carbon stocks in organic soils are not "
@@ -3549,7 +3576,7 @@ msgstr ""
 " adaptación de la ecuación 2.2 del capítulo 2 del suplemento del IPCC "
 "sobre los humedales."
 
-#: ../../SO1.md:998
+#: ../../SO1.md:997
 msgid ""
 "A detailed description of the Tier 1 method is provided in section "
 "5.2.6.1 of the [Good Practice Guidance for SDG Indicator "
@@ -3562,7 +3589,7 @@ msgstr ""
 "indicator-1531-proportion-land-degraded-over-total-land) incluye una "
 "descripción detallada del método de nivel 1."
 
-#: ../../SO1.md:1000
+#: ../../SO1.md:999
 msgid ""
 "The **Tier 2 method** makes use of additional country-specific data to "
 "complement default values, such as country-specific change factors, "
@@ -3582,7 +3609,7 @@ msgstr ""
 "referencia pueden determinarse a partir de mapas digitales nacionales de "
 "suelos o de mediciones realizadas en estudios de suelos a nivel nacional."
 
-#: ../../SO1.md:1002
+#: ../../SO1.md:1001
 msgid ""
 "A detailed description of the Tier 2 method is provided in section "
 "5.2.6.2 of the [Good Practice Guidance for SDG Indicator "
@@ -3595,7 +3622,7 @@ msgstr ""
 "indicator-1531-proportion-land-degraded-over-total-land) incluye una "
 "descripción detallada del método de nivel 2."
 
-#: ../../SO1.md:1004
+#: ../../SO1.md:1003
 msgid ""
 "The **Tier 3 method** is the most complex, involving ground measurements "
 "and modelling, and it is only recommended for countries with adequate "
@@ -3614,11 +3641,11 @@ msgstr ""
 " con modelos calibrados y validados basados en procesos o un inventario "
 "basado en mediciones con una red de seguimiento."
 
-#: ../../SO1.md:1006
+#: ../../SO1.md:1005
 msgid "Step 2: Assess available data"
 msgstr "Paso 2: Evaluación de los datos disponibles"
 
-#: ../../SO1.md:1008
+#: ../../SO1.md:1007
 msgid ""
 "UNCCD provides prefilled data in the PRAIS 4 platform. The ISRIC "
 "SoilGrids250m dataset is used to obtain a default SOC stock baseline. "
@@ -3639,7 +3666,7 @@ msgstr ""
 "cubierta terrestre utilizada como indicador indirecto del cambio de uso "
 "de la tierra."
 
-#: ../../SO1.md:1012
+#: ../../SO1.md:1011
 msgid ""
 "However, Parties may report their estimates using national SOC stock data"
 " (adopting the Tier 2 or Tier 3 approach) if they meet the specifications"
@@ -3649,35 +3676,37 @@ msgstr ""
 "datos nacionales sobre las reservas de SOC (adoptando el enfoque de nivel"
 " 2 o 3) si cumplen las especificaciones que figuran en la tabla 14."
 
-#: ../../SO1.md:1019
+#: ../../SO1.md:1018
 msgid "*__Table 14__. Data specifications for SO 1-3 indicator*"
 msgstr ""
 "*__Tabla 14__. Especificaciones de los datos del indicador del objetivo "
 "estratégico 1-3*."
 
-#: ../../SO1.md:1
+#: ../../SO1.md:1023
+#, python-brace-format
 msgid "{rspan}`1`Item"
 msgstr " Elemento"
 
-#: ../../SO1.md:2
+#: ../../SO1.md:1024
+#, python-brace-format
 msgid "{cspan}`1`Specifications"
 msgstr " Especificaciones"
 
-#: ../../SO1.md:3
+#: ../../SO1.md:1025
 msgid "Default data"
 msgstr "Datos por defecto"
 
-#: ../../SO1.md:5
+#: ../../SO1.md:1027
 msgid "**Input data**"
 msgstr "**Datos de entrada**"
 
-#: ../../SO1.md:7
+#: ../../SO1.md:1029
 msgid "(to generate the soil organic carbon (SOC) stock estimates)"
 msgstr ""
 "(para generar las estimaciones de las reservas de carbono orgánico del "
 "suelo [SOC])"
 
-#: ../../SO1.md:8
+#: ../../SO1.md:1030
 msgid ""
 "International Soil Reference and Information Centre (ISRIC) SoilGrids250m"
 " dataset"
@@ -3685,19 +3714,19 @@ msgstr ""
 "Conjunto de datos SoilGrids250m del Centro Internacional de Referencia e "
 "Información en Suelos (ISRIC)"
 
-#: ../../SO1.md:9
+#: ../../SO1.md:1031
 msgid "Ground observations and measurements"
 msgstr "Observaciones y mediciones sobre el terreno"
 
-#: ../../SO1.md:10
+#: ../../SO1.md:1032
 msgid "**Output data**"
 msgstr "**Datos de salida**"
 
-#: ../../SO1.md:12
+#: ../../SO1.md:1034
 msgid "(Gridded products of SOC stock estimates)"
 msgstr "(Productos reticulados de las estimaciones de las reservas de SOC)"
 
-#: ../../SO1.md:13
+#: ../../SO1.md:1035
 msgid ""
 "Annual gridded products of SOC stocks for the baseline and reporting "
 "periods"
@@ -3705,7 +3734,7 @@ msgstr ""
 "Productos reticulados anuales de las reservas de SOC para los períodos de"
 " referencia y de presentación de informes"
 
-#: ../../SO1.md:14
+#: ../../SO1.md:1036
 msgid ""
 "Gridded products of SOC stocks for the baseline and reporting periods, "
 "with as close to annual data as possible"
@@ -3714,17 +3743,17 @@ msgstr ""
 "referencia y de presentación de informes, con datos lo más parecidos "
 "posible a los anuales"
 
-#: ../../SO1.md:15
+#: ../../SO1.md:1037
 msgid "**Classification**"
 msgstr "**Clasificación**"
 
-#: ../../SO1.md:16
+#: ../../SO1.md:1038
 msgid "Continuous values of SOC content (tonnes) in the first 30 cm of soil."
 msgstr ""
 "Valores continuos del contenido de SOC (toneladas) en los primeros 30 cm "
 "del suelo."
 
-#: ../../SO1.md:18
+#: ../../SO1.md:1040
 msgid ""
 "An arbitrary >10% net reduction in SOC stocks in the first 30 cm of soil "
 "in 20 years is used as the threshold to determine degradation."
@@ -3733,7 +3762,7 @@ msgstr ""
 "los primeros 30 cm del suelo en 20 años se utiliza como umbral para "
 "determinar la degradación."
 
-#: ../../SO1.md:19
+#: ../../SO1.md:1041
 msgid ""
 "An arbitrary >10% net reduction in SOC stock in the first 30 cm of soil "
 "between the baseline and the reporting period is suggested as a threshold"
@@ -3744,43 +3773,43 @@ msgstr ""
 "período de presentación de informes como umbral para determinar la "
 "degradación."
 
-#: ../../SO1.md:20
+#: ../../SO1.md:1042
 msgid "**Spatial resolution**"
 msgstr "**Resolución espacial**"
 
-#: ../../SO1.md:21
+#: ../../SO1.md:1043
 msgid "250m"
 msgstr "250 m"
 
-#: ../../SO1.md:22
+#: ../../SO1.md:1044
 msgid "The desired spatial resolution is 100m or finer."
 msgstr "La resolución espacial deseada es de 100 m o más fina."
 
-#: ../../SO1.md:23
+#: ../../SO1.md:1045
 msgid "**Quality**"
 msgstr "**Calidad**"
 
-#: ../../SO1.md:24
+#: ../../SO1.md:1046
 msgid "Accuracy of ISRIC’s SoilGrids250m dataset between 30% and 70%"
 msgstr ""
 "Precisión del conjunto de datos SoilGrids250m del ISRIC entre el 30% y el"
 " 70%"
 
-#: ../../SO1.md:25
+#: ../../SO1.md:1047
 msgid "Not less than the default data"
 msgstr "No menos que los datos por defecto"
 
-#: ../../SO1.md:26
+#: ../../SO1.md:1048
 msgid "**Metadata**"
 msgstr "**Metadatos**"
 
-#: ../../SO1.md:27
+#: ../../SO1.md:1049
 msgid "Metadata information is provided with default data in Trends.Earth."
 msgstr ""
 "La información de los metadatos se proporciona con los datos por defecto "
 "en Trends.Earth."
 
-#: ../../SO1.md:1054
+#: ../../SO1.md:1053
 msgid ""
 "Parties that are members of the Global Soil Partnership and are opting to"
 " use the Tier 2 method may also consider the [Global Soil Organic Carbon "
@@ -3795,7 +3824,7 @@ msgstr ""
 "soil-organic-carbon-map-gsocmap/en/) como una alternativa a los datos de "
 "referencia por defecto de las reservas de SOC."
 
-#: ../../SO1.md:1056
+#: ../../SO1.md:1055
 msgid ""
 "Other relevant data sources are listed in Appendix C of the [Good "
 "Practice Guidance for SDG Indicator "
@@ -3808,7 +3837,7 @@ msgstr ""
 "(https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
 
-#: ../../SO1.md:1058
+#: ../../SO1.md:1057
 msgid ""
 "Step 3: Determine the baseline soil organic carbon stock and degradation "
 "status"
@@ -3816,7 +3845,7 @@ msgstr ""
 "Paso 3: Determinar las reservas de carbono orgánico del suelo y el estado"
 " de degradación de referencia"
 
-#: ../../SO1.md:1060
+#: ../../SO1.md:1059
 msgid ""
 "Estimating change in the extent of SOC degradation over time requires "
 "calculating the extent of SOC degradation in the baseline period. This "
@@ -3841,7 +3870,7 @@ msgstr ""
 " de productos anuales de la cubierta terrestre permite extrapolar una "
 "tendencia ajustada a los datos históricos de SOC."
 
-#: ../../SO1.md:1062
+#: ../../SO1.md:1061
 msgid ""
 "For example, in the default dataset provided for the baseline period, SOC"
 " changes were obtained from a combination of the SoilGrids250m data and "
@@ -3857,7 +3886,7 @@ msgstr ""
 "del IPCC promediados a lo largo de 20 años y luego aplicados cada año "
 "durante el período 2000-2015."
 
-#: ../../SO1.md:1064
+#: ../../SO1.md:1063
 msgid ""
 "The [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
@@ -3872,7 +3901,7 @@ msgstr ""
 "opciones siguientes para estimar el estado inicial de referencia (t0) a "
 "diferentes escalas temporales para la métrica de las reservas de SOC:"
 
-#: ../../SO1.md:1066
+#: ../../SO1.md:1065
 msgid ""
 "Set a benchmark of SOC stocks with which to compare change, in other "
 "words, assess whether the average SOC stocks in the baseline period are "
@@ -3911,7 +3940,7 @@ msgstr ""
 "valores por defecto del IPCC de 2006, en algunos casos siguen presentando"
 " errores significativos."
 
-#: ../../SO1.md:1068
+#: ../../SO1.md:1067
 #, python-format
 msgid ""
 "Use the change/status over the baseline period (2000–2015) to set the "
@@ -3936,7 +3965,7 @@ msgstr ""
 " referencia. Los cambios negativos, con una disminución arbitraria "
 "superior al 10% d del SOC, constituyen una degradación del SOC."
 
-#: ../../SO1.md:1070
+#: ../../SO1.md:1069
 msgid ""
 "At higher tiers, the assessment of SOC stock change for the baseline "
 "period may rely on the integration of geospatial data with diverse "
@@ -3951,7 +3980,7 @@ msgstr ""
 "ordenación de las tierras. En este contexto, los valores de referencia "
 "podrían derivarse de dos maneras distintas:"
 
-#: ../../SO1.md:1072
+#: ../../SO1.md:1071
 msgid ""
 "As estimates of total SOC stocks for a particular land use/management "
 "stratification, which could be derived from global datasets by applying "
@@ -3966,7 +3995,7 @@ msgstr ""
 "los países empleen datos y métodos nacionales que arrojen resultados "
 "comparables a los generados por los métodos por defecto."
 
-#: ../../SO1.md:1074
+#: ../../SO1.md:1073
 msgid ""
 "As spatially explicit baselines, where the appropriate resolution would "
 "need to be defined (the suggested spatial resolution is 100m). The PRAIS "
@@ -3980,7 +4009,7 @@ msgstr ""
 "las Partes ingresar sus propios datos de SOC en las tablas de "
 "información."
 
-#: ../../SO1.md:1077
+#: ../../SO1.md:1076
 msgid ""
 "The PRAIS 4 platform includes prefilled baseline SOC data per land cover "
 "class, but also allows Parties to enter their own SOC data in the "
@@ -3990,11 +4019,11 @@ msgstr ""
 "por clase de cubierta terrestre, pero también permite a las Partes "
 "ingresar sus propios datos de SOC en las tablas de notificación."
 
-#: ../../SO1.md:1079
+#: ../../SO1.md:1078
 msgid "Step 4: Estimate change in soil organic carbon stock"
 msgstr "Paso 4: Estimar el cambio en las reservas de carbono orgánico del suelo"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:1081
 msgid ""
 "Related areas in the PRAIS 4 platform: tables SO1-3.T1, SO1-3.T2, "
 "SO1-3.T3 and SO1-3.T5"
@@ -4002,7 +4031,7 @@ msgstr ""
 "Áreas relacionadas en la plataforma PRAIS 4: tablas SO1-3.T1, SO1-3.T2, "
 "SO1-3.T3 y SO1-3.T5"
 
-#: ../../SO1.md:1085
+#: ../../SO1.md:1084
 msgid ""
 "The recommended method to estimate SOC stock changes uses the trend (or "
 "the direction of change) of SOC stocks observed within the reporting "
@@ -4021,7 +4050,8 @@ msgstr ""
 "referencia y el período de presentación de informes y no hace ninguna "
 "suposición sobre el estado inicial de las reservas de SOC."
 
-#: ../../SO1.md:1087
+#: ../../SO1.md:1086
+#, python-brace-format
 msgid ""
 "Once the baseline SOC stocks (SOC{sub}`t0`) and the SOC stocks at the end"
 " of the reporting period (SOC{sub}`tn`) for a given reporting unit have "
@@ -4035,15 +4065,17 @@ msgstr ""
 "a 3), el cambio porcentual relativo en las reservas de SOC se calcula de "
 "la siguiente manera:"
 
-#: ../../SO1.md:1089
+#: ../../SO1.md:1088
+#, python-brace-format
 msgid "T{sub}`SOC` = (( SOC{sub}`tn` - SOC{sub}`t0` )/ SOC{sub}`t0`) x 100"
 msgstr "T{sub}`SOC` = (( SOC{sub}`tn` - SOC{sub}`t0` )/ SOC{sub}`t0`) x 100"
 
-#: ../../SO1.md:1091
+#: ../../SO1.md:1090
 msgid "Where:"
 msgstr "Donde:"
 
-#: ../../SO1.md:1093
+#: ../../SO1.md:1092
+#, python-brace-format
 msgid ""
 "T{sub}`SOC` = relative change in soil organic carbon for reporting unit "
 "(%)"
@@ -4051,7 +4083,8 @@ msgstr ""
 "T{sub}`SOC` = cambio relativo del carbono orgánico del suelo para la "
 "unidad de presentación de informes (%)"
 
-#: ../../SO1.md:1095
+#: ../../SO1.md:1094
+#, python-brace-format
 msgid ""
 "SOC{sub}`t0` = baseline soil organic carbon stock for reporting unit "
 "(tons of carbon per hectare)"
@@ -4059,7 +4092,8 @@ msgstr ""
 "SOC{sub}`t0` = reserva de carbono orgánico del suelo de referencia para "
 "la unidad de presentación de informes (toneladas de carbono por hectárea)"
 
-#: ../../SO1.md:1097
+#: ../../SO1.md:1096
+#, python-brace-format
 msgid ""
 "SOC{sub}`tn` = soil organic carbon stock for final reporting period for "
 "reporting unit (tons of carbon per hectare)."
@@ -4068,7 +4102,7 @@ msgstr ""
 "final de presentación de informes para la unidad de presentación de "
 "informes (toneladas de carbono por hectárea)."
 
-#: ../../SO1.md:1099
+#: ../../SO1.md:1098
 msgid ""
 "For assessing changes in SOC stocks, UNCCD suggests two alternative "
 "approaches:"
@@ -4076,7 +4110,7 @@ msgstr ""
 "Para evaluar los cambios en las reservas de SOC, la CLD sugiere dos "
 "enfoques alternativos:"
 
-#: ../../SO1.md:1101
+#: ../../SO1.md:1100
 msgid ""
 "The first method is based on tests for statistical significance and "
 "compares the average SOC stock with the upper and lower bounds of the "
@@ -4088,7 +4122,7 @@ msgstr ""
 "inferior del promedio de SOC de referencia para la misma unidad de "
 "tierra. Si el promedio para la misma unidad de tierra cae:"
 
-#: ../../SO1.md:1105
+#: ../../SO1.md:1104
 msgid ""
 "a) Outside the lower bounds of the 95 per cent confidence interval "
 "(measured as twice the standard deviation), the area would be considered "
@@ -4098,7 +4132,7 @@ msgstr ""
 "(medido como el doble de la desviación estándar), el área se consideraría"
 " degradada (disminución significativa del SOC);"
 
-#: ../../SO1.md:1106
+#: ../../SO1.md:1105
 msgid ""
 "b) Outside the upper bounds of the 95 per cent confidence interval "
 "(measured as twice the standard deviation), the area would be considered "
@@ -4108,7 +4142,7 @@ msgstr ""
 "(medido como el doble de la desviación estándar), el área se consideraría"
 " mejorada (aumento significativo del SOC);"
 
-#: ../../SO1.md:1107
+#: ../../SO1.md:1106
 msgid ""
 "c) Within the 95 per cent confidence interval, the area would be "
 "considered stable (no transition)."
@@ -4116,7 +4150,7 @@ msgstr ""
 "c) dentro del intervalo de confianza del 95%, el área se consideraría "
 "estable (sin transición)."
 
-#: ../../SO1.md:1109
+#: ../../SO1.md:1108
 msgid ""
 "An alternative statistical approach would be to assess the 95 per cent "
 "confidence interval of the difference in SOC stocks between the baseline "
@@ -4131,7 +4165,7 @@ msgstr ""
 "Si el intervalo de confianza del 95% de la diferencia no cubre el cero, "
 "entonces el cambio es significativo."
 
-#: ../../SO1.md:1111
+#: ../../SO1.md:1110
 msgid ""
 "Given the high spatial variability of the data for SOC stocks, it may "
 "happen that confidence intervals are large, and thus the two statistical "
@@ -4143,7 +4177,7 @@ msgstr ""
 "los dos enfoques estadísticos descritos anteriormente pueden no detectar "
 "un cambio significativo aunque se esté produciendo una degradación."
 
-#: ../../SO1.md:1113
+#: ../../SO1.md:1112
 msgid ""
 "The second method is to assess both the direction of change and magnitude"
 " of the relative percentage change in SOC stocks, relative to some "
@@ -4157,7 +4191,7 @@ msgstr ""
 "de presentación de informes. Entonces, para las reservas de SOC, el "
 "método para determinar el estado de cambio se definirá como:"
 
-#: ../../SO1.md:1117
+#: ../../SO1.md:1116
 msgid ""
 "a) Degraded: Reporting units with more than, for example, a 10 per cent "
 "average net reduction in SOC stocks between baseline and current "
@@ -4167,7 +4201,7 @@ msgstr ""
 "ejemplo, una reducción neta media del 10% en las reservas de SOC entre el"
 " valor de referencia y las observaciones actuales;"
 
-#: ../../SO1.md:1118
+#: ../../SO1.md:1117
 msgid ""
 "b) Not degraded: Reporting units with less than, for example, a 10 per "
 "cent average net reduction, no change or an average net increase in SOC "
@@ -4178,7 +4212,7 @@ msgstr ""
 "medio de las reservas de SOC entre el valor de referencia y las "
 "observaciones actuales."
 
-#: ../../SO1.md:1120
+#: ../../SO1.md:1119
 msgid ""
 "As a starting point, an arbitrary >10 per cent change threshold is "
 "suggested. Subsequent refinement and justification of this threshold "
@@ -4188,7 +4222,7 @@ msgstr ""
 " a 10%. Será necesario perfeccionar y justificar posteriormente este "
 "umbral."
 
-#: ../../SO1.md:1122
+#: ../../SO1.md:1121
 msgid ""
 "Parties may decide to use a different threshold than 10 per cent based on"
 " their knowledge of the country and the analysis of national data."
@@ -4196,7 +4230,7 @@ msgstr ""
 "Las Partes pueden decidir utilizar un umbral diferente al 10% en función "
 "de su conocimiento del país y del análisis de los datos nacionales."
 
-#: ../../SO1.md:1124
+#: ../../SO1.md:1123
 msgid ""
 "The PRAIS 4 platform includes prefilled data for the reporting period "
 "derived from the default data to be accepted by the Parties or replaced "
@@ -4211,11 +4245,11 @@ msgstr ""
 " Trends.Earth para i) estimar los cambios en el SOC; e ii) identificar "
 "las áreas potencialmente degradadas."
 
-#: ../../SO1.md:1126
+#: ../../SO1.md:1125
 msgid "Step 5:  Verify the results"
 msgstr "Paso 5: Verificar los resultados"
 
-#: ../../SO1.md:1128
+#: ../../SO1.md:1127
 msgid ""
 "The default method draws on data generated from the assessment of land "
 "cover change in combination with reference and emission factors obtained "
@@ -4243,11 +4277,11 @@ msgstr ""
 "obtenidos podría ser bajo. Esta aportación contribuiría a una evaluación "
 "cualitativa de la fiabilidad de las estimaciones."
 
-#: ../../SO1.md:1130
+#: ../../SO1.md:1129
 msgid "Step 6: Generate reports"
 msgstr "Paso 6: Generar informes"
 
-#: ../../SO1.md:1132
+#: ../../SO1.md:1131
 msgid ""
 "Parties adopting the Tier 1 approach may officially submit the default "
 "data made available in the PRAIS 4 platform. Table SO1-3.T1 of the PRAIS "
@@ -4267,7 +4301,7 @@ msgstr ""
 "sustituidos por fuentes de datos nacionales alternativas si se opta por "
 "el enfoque de nivel 2 o 3."
 
-#: ../../SO1.md:1134
+#: ../../SO1.md:1133
 msgid ""
 "Changes in SOC stocks for each land cover change (calculated by "
 "Trends.Earth) are reported in tables SO1-3.T2 and SO1-3.T3. Data includes"
@@ -4285,7 +4319,7 @@ msgstr ""
 "del SOC basado en los cambios de las reservas de SOC se presentan en las "
 "tablas SO1-3.T4 y SO1-3.T5."
 
-#: ../../SO1.md:1136
+#: ../../SO1.md:1135
 msgid ""
 "Maps with default or national data representing SOC stocks, SOC stock "
 "changes and SOC degradation for the baseline and the reporting period are"
@@ -4297,35 +4331,35 @@ msgstr ""
 "presentación de informes a través de la plataforma PRAIS 4. Estos "
 "incluyen:"
 
-#: ../../SO1.md:1138
+#: ../../SO1.md:1137
 msgid "SOC stock in the initial year of the baseline period (2000)"
 msgstr "Reservas de SOC en el año inicial del período de referencia (2000)"
 
-#: ../../SO1.md:1139
+#: ../../SO1.md:1138
 msgid "SOC stock in the baseline year (2015)"
 msgstr "Reservas de SOC en el año de referencia (2015)"
 
-#: ../../SO1.md:1140
+#: ../../SO1.md:1139
 msgid "SOC stock in the latest reporting year"
 msgstr "Reservas de SOC en el último año de presentación de informes"
 
-#: ../../SO1.md:1141
+#: ../../SO1.md:1140
 msgid "Change in SOC stock in the baseline period"
 msgstr "Cambio en las reservas de SOC en el período de referencia"
 
-#: ../../SO1.md:1142
+#: ../../SO1.md:1141
 msgid "Change in SOC stock in the reporting period"
 msgstr "Cambio en las reservas de SOC en el período de presentación de informes"
 
-#: ../../SO1.md:1143
+#: ../../SO1.md:1142
 msgid "SOC degradation in the baseline period"
 msgstr "Degradación del SOC en el período de referencia"
 
-#: ../../SO1.md:1144
+#: ../../SO1.md:1143
 msgid "SOC degradation in the reporting period."
 msgstr "Degradación del SOC en el período de presentación de informes"
 
-#: ../../SO1.md:1146
+#: ../../SO1.md:1145
 msgid ""
 "For estimates derived from national data, Parties may also provide a "
 "description of the methodology used to estimate SOC stocks, SOC stock "
@@ -4337,11 +4371,11 @@ msgstr ""
 "para estimar las reservas de SOC, los cambios en las reservas de SOC y la"
 " degradación relativa del SOC utilizando el campo “Comentario general”."
 
-#: ../../SO1.md:1148
+#: ../../SO1.md:1147
 msgid "1.3.4. Dependencies"
 msgstr "1.3.4. Dependencias"
 
-#: ../../SO1.md:1150
+#: ../../SO1.md:1149
 msgid ""
 "Estimates of SOC stock changes are dependent on the land cover data "
 "reported under SO 1-1 and the total land area reported in table SO1-1.T1."
@@ -4351,15 +4385,15 @@ msgstr ""
 "estratégico 1-1 y de la superficie total de tierra presentada en la tabla"
 " SO1-1.T1."
 
-#: ../../SO1.md:1152
+#: ../../SO1.md:1151
 msgid "1.3.5. Challenges"
 msgstr "1.3.5. Retos"
 
-#: ../../SO1.md:1154
+#: ../../SO1.md:1153
 msgid "Data availability"
 msgstr "Disponibilidad de los datos"
 
-#: ../../SO1.md:1156
+#: ../../SO1.md:1155
 msgid ""
 "Detailed data on SOC stock are generally unavailable both at global and "
 "national levels. Current data are derived from a combination of "
@@ -4376,7 +4410,7 @@ msgstr ""
 "accesibilidad, una mayor resolución espacial y una mejor estimación de la"
 " incertidumbre."
 
-#: ../../SO1.md:1158
+#: ../../SO1.md:1157
 msgid ""
 "SOC stock changes are primarily computed from land cover changes, while "
 "management and input factors are often not included because of lack of "
@@ -4391,11 +4425,11 @@ msgstr ""
 "procesar de forma coherente los datos pertinentes para incluir los "
 "factores de gestión en las estimaciones de SOC."
 
-#: ../../SO1.md:1160
+#: ../../SO1.md:1159
 msgid "Unresolved issues"
 msgstr "Cuestiones sin resolver"
 
-#: ../../SO1.md:1162
+#: ../../SO1.md:1161
 msgid ""
 "There is a challenge associated with drylands which lack topsoil. There "
 "is a need to update the methodology to take such special cases into full "
@@ -4405,7 +4439,7 @@ msgstr ""
 " reto. Es necesario actualizar la metodología para tener plenamente en "
 "cuenta estos casos especiales y ajustar los cálculos en consecuencia."
 
-#: ../../SO1.md:1164
+#: ../../SO1.md:1163
 msgid ""
 "Soil erosion and/or deposition may have significant effects on measured "
 "SOC stocks, but their effects on stock changes are included in the "
@@ -4420,17 +4454,17 @@ msgstr ""
 "erosión o la deposición del suelo como parámetros para la aplicación del "
 "método de nivel 3."
 
-#: ../../SO1.md:1166
+#: ../../SO1.md:1165
 msgid "1.3.6. Summary (main actions)"
 msgstr "1.3.6. Resumen (acciones principales)"
 
-#: ../../SO1.md:1168
+#: ../../SO1.md:1167
 msgid "Key actions for reporting on SOC changes are as follows:"
 msgstr ""
 "Las acciones clave para presentar informes sobre los cambios en el SOC "
 "son las siguientes:"
 
-#: ../../SO1.md:1170
+#: ../../SO1.md:1169
 msgid ""
 "**Select the estimation method:** Parties may opt for one of the three "
 "proposed Tier methods to report national data to UNCCD, depending on "
@@ -4443,7 +4477,7 @@ msgstr ""
 "cambios en las reservas de SOC y de la disponibilidad de datos "
 "nacionales."
 
-#: ../../SO1.md:1172
+#: ../../SO1.md:1171
 msgid ""
 "**Assess available data:** Based on the Tier level deemed most "
 "appropriate for reporting in the respective country, evaluate the "
@@ -4457,7 +4491,7 @@ msgstr ""
 "seleccionar fuentes de datos alternativas y garantizar el cumplimiento de"
 " las especificaciones mínimas enumeradas en la tabla 14 precedente."
 
-#: ../../SO1.md:1174
+#: ../../SO1.md:1173
 msgid ""
 "**Determine the baseline SOC stock and degradation status:** Estimate the"
 " average SOC stock in the topsoil (0–30 cm) for each land cover class and"
@@ -4474,7 +4508,7 @@ msgstr ""
 " se utilizará el cambio relativo de SOC en el período de referencia "
 "(2000-2015) para determinar el estado de degradación inicial."
 
-#: ../../SO1.md:1176
+#: ../../SO1.md:1175
 msgid ""
 "**Estimate change in SOC stocks:** For the major land cover transitions, "
 "report the net change in SOC. Indicate whether there has been SOC "
@@ -4497,7 +4531,7 @@ msgstr ""
 "los períodos de referencia y de presentación de informes se consideran "
 "degradadas."
 
-#: ../../SO1.md:1178
+#: ../../SO1.md:1177
 msgid ""
 "**Verify the results:** It is recommended that SOC changes and related "
 "land degradation estimates are verified by the concerned national "
@@ -4512,7 +4546,7 @@ msgstr ""
 "falso positivo que se pueda comunicar en los formularios del objetivo "
 "estratégico 1-4 (indicador 15.3.1 de los ODS)."
 
-#: ../../SO1.md:1180
+#: ../../SO1.md:1179
 msgid ""
 "**Generate reports:** Verify the default data provided in the PRAIS 4 "
 "platform (for the Tier 1 approach) or replace it with national data (for "
@@ -4525,11 +4559,11 @@ msgstr ""
 " necesaria para describir el contexto nacional de la degradación de las "
 "tierras en función de los cambios del SOC."
 
-#: ../../SO1.md:1182
+#: ../../SO1.md:1181
 msgid "1.3.7. Further reading"
 msgstr "1.3.7. Lecturas complementarias"
 
-#: ../../SO1.md:1184
+#: ../../SO1.md:1183
 msgid ""
 "Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that "
 "is degraded over total land area (version 2). Chapter 5: Carbon Stock, "
@@ -4543,7 +4577,7 @@ msgstr ""
 "practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
 "land>)."
 
-#: ../../SO1.md:1185
+#: ../../SO1.md:1184
 msgid ""
 "IPCC, 2006. Eggleston, S., Buendia L., Miwa K., Ngara T., and Tanabe K. "
 "(Eds). 2006 IPCC Guidelines for National Greenhouse Gas Inventories. "
@@ -4556,7 +4590,7 @@ msgstr ""
 "(IPCC)/Instituto de Estrategias Ambientales Mundiales (IGES), Hayama, "
 "Japón."
 
-#: ../../SO1.md:1186
+#: ../../SO1.md:1185
 msgid ""
 "IPCC, 2013. Hiraishi, T., Krug, T., Tanabe, K., Srivastava, N., "
 "Baasansuren, J., Fukuda, M. and Troxler, T.G. (Eds). 2013 Supplement to "
@@ -4569,7 +4603,7 @@ msgstr ""
 "Wetlands. Grupo Intergubernamental de Expertos sobre el Cambio Climático "
 "(IPCC), Suiza."
 
-#: ../../SO1.md:1187
+#: ../../SO1.md:1186
 msgid ""
 "IPCC. 2019. Refinement to the 2006 IPCC Guidelines for National "
 "Greenhouse Gas Inventories. In: Buendia, E., Tanabe, K., Kranjc, A., "
@@ -4583,7 +4617,7 @@ msgstr ""
 "Shermanau, P., Federici, S. (eds.). Grupo Intergubernamental de Expertos "
 "sobre el Cambio Climático (IPCC), Ginebra, Suiza."
 
-#: ../../SO1.md:1188
+#: ../../SO1.md:1187
 msgid ""
 "‘Default data: methods and interpretation. A guidance document for 2018 "
 "UNCCD reporting’ "
@@ -4593,7 +4627,7 @@ msgstr ""
 "UNCCD reporting "
 "(<https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf>)."
 
-#: ../../SO1.md:1190
+#: ../../SO1.md:1189
 msgid ""
 "1.4. SO 1-4 – Proportion of land that is degraded over total land area "
 "(Sustainable Development Goal indicator 15.3.1)"
@@ -4602,11 +4636,11 @@ msgstr ""
 "comparación con la superficie total (Indicador 15.3.1 de los Objetivos de"
 " Desarrollo Sostenible)"
 
-#: ../../SO1.md:1192
+#: ../../SO1.md:1191
 msgid "1.4.1. Introduction"
 msgstr "1.4.1. Introducción"
 
-#: ../../SO1.md:1194
+#: ../../SO1.md:1193
 msgid ""
 "Land degradation is defined as ‘the reduction or loss of the biological "
 "or economic productivity and complexity of rainfed cropland, irrigated "
@@ -4621,7 +4655,7 @@ msgstr ""
 "combinación de procesos, incluidos el uso de la tierra y las prácticas de"
 " ordenación[^7]”."
 
-#: ../../SO1.md:1197
+#: ../../SO1.md:1196
 msgid ""
 "Using the three indicators SO 1-1, SO 1-2 and SO 1-3 (hereinafter "
 "referred to as subindicators), UNCCD reporting will estimate the "
@@ -4650,7 +4684,7 @@ msgstr ""
 " contribuir al seguimiento y examen generales del Foro Político de Alto "
 "Nivel sobre el Desarrollo Sostenible."
 
-#: ../../SO1.md:1199
+#: ../../SO1.md:1198
 msgid ""
 "Knowing the extent and location of degraded land is instrumental to "
 "achieving land degradation neutrality (LDN) at national level and "
@@ -4661,7 +4695,7 @@ msgstr ""
 "tierras (NDT) a nivel nacional y apoyar a las Partes en el "
 "establecimiento de metas nacionales voluntarias."
 
-#: ../../SO1.md:1201
+#: ../../SO1.md:1200
 msgid ""
 "SDG indicator 15.3.1 is reported as a single figure expressed in km2 "
 "quantifying the area of land that is degraded as a proportion of total "
@@ -4674,7 +4708,7 @@ msgstr ""
 "de un país, excluyendo la superficie cubierta por aguas interiores, como "
 "los principales ríos y lagos."
 
-#: ../../SO1.md:1203
+#: ../../SO1.md:1202
 msgid ""
 "UNCCD facilitates reporting on SDG indicator 15.3.1 by providing pre-"
 "filled data in the PRAIS 4 platform with values derived from default "
@@ -4684,7 +4718,7 @@ msgstr ""
 "los ODS proporcionando datos previamente rellenados en la plataforma "
 "PRAIS 4 con valores derivados de conjuntos de datos por defecto."
 
-#: ../../SO1.md:1205
+#: ../../SO1.md:1204
 msgid ""
 "Parties have the option to identify areas of ‘false negative’ or of "
 "‘false positive’ errors in the identification of degradation. The "
@@ -4700,7 +4734,7 @@ msgstr ""
 "ubicación geográfica, la delimitación de su extensión y los procesos que "
 "conducen a las interpretaciones de falsos negativos/falsos positivos."
 
-#: ../../SO1.md:1207
+#: ../../SO1.md:1206
 msgid ""
 "Parties are also encouraged to identify ‘hotspots’ and ‘brightspots’ as "
 "areas experiencing the most evident and dramatic changes in (i) land "
@@ -4711,11 +4745,11 @@ msgstr ""
 "evidentes y drásticos en i) la degradación de las tierras; y ii) la "
 "mejora, respectivamente."
 
-#: ../../SO1.md:1209
+#: ../../SO1.md:1208
 msgid "1.4.2. Prerequisites for reporting"
 msgstr "1.4.2. Requisitos previos para la presentación de informes"
 
-#: ../../SO1.md:1211
+#: ../../SO1.md:1210
 msgid ""
 "An in-depth reading of chapter 2 of the [Good Practice Guidance for SDG "
 "Indicator 15.3.1](https://www.unccd.int/publications/good-practice-"
@@ -4726,7 +4760,7 @@ msgstr ""
 "15.3.1 de los ODS] (https://www.unccd.int/publications/good-practice-"
 "guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)."
 
-#: ../../SO1.md:1213
+#: ../../SO1.md:1212
 msgid ""
 "A pool of national experts officially nominated by the national "
 "authorities to verify the reliability of the land degradation estimates. "
@@ -4752,13 +4786,13 @@ msgstr ""
 "para su inclusión en el Informe de los Objetivos de Desarrollo Sostenible"
 " y en la Base de Datos Mundial de Indicadores de los ODS."
 
-#: ../../SO1.md:1215
+#: ../../SO1.md:1214
 msgid "1.4.3. Reporting process and step-by-step procedure"
 msgstr ""
 "1.4.3. Proceso de presentación de informes e instrucciones detalladas "
 "paso por paso"
 
-#: ../../SO1.md:1217
+#: ../../SO1.md:1216
 msgid ""
 "The step-by-step procedure for reporting is described in the following. "
 "If Parties decide to use the default data, step 1 is unnecessary."
@@ -4767,17 +4801,17 @@ msgstr ""
 "para la presentación de informes. Si las Partes deciden utilizar los "
 "datos por defecto, el paso 1 es innecesario."
 
-#: ../../SO1.md:1219
+#: ../../SO1.md:1218
 msgid "Step 1. Calculate Sustainable Development Goal indicator 15.3.1"
 msgstr ""
 "Paso 1. Calcular el indicador 15.3.1 de los Objetivos de Desarrollo "
 "Sostenible"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:1221
 msgid "Related areas in the PRAIS 4 platform: table SO1-4.T1"
 msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO1-4.T1"
 
-#: ../../SO1.md:1225
+#: ../../SO1.md:1224
 msgid ""
 "In order to calculate SDG indicator 15.3.1, the results of the "
 "degradation analysis for each of the subindicators are integrated using a"
@@ -4794,7 +4828,7 @@ msgstr ""
 "tierras. El resultado es una evaluación binaria en la que una unidad de "
 "tierra (píxel) está degradada o no está degradada."
 
-#: ../../SO1.md:1227
+#: ../../SO1.md:1226
 msgid ""
 "The analysis of change in degradation involves first establishing a "
 "baseline of land degradation. The baseline sets the benchmark extent of "
@@ -4812,7 +4846,7 @@ msgstr ""
 "del cambio en la extensión de la tierra degradada es un proceso de tres "
 "pasos:"
 
-#: ../../SO1.md:1230
+#: ../../SO1.md:1229
 msgid ""
 "Calculate the extent of degradation in the baseline period (t0) from 1 "
 "January 2000 to 31 December 2015 to set the benchmark for measuring "
@@ -4823,7 +4857,7 @@ msgstr ""
 "establecer el punto de referencia para medir el progreso hacia el logro "
 "de la meta 15.3 de los ODS."
 
-#: ../../SO1.md:1232
+#: ../../SO1.md:1231
 msgid ""
 "Calculate the extent of degradation in the reporting period (tn) by "
 "summing (i) areas of land where changes in the subindicators are "
@@ -4838,7 +4872,7 @@ msgstr ""
 "estado degradado desde el período de referencia (es decir, que no han "
 "mejorado a un estado no degradado)."
 
-#: ../../SO1.md:1234
+#: ../../SO1.md:1233
 msgid ""
 "Calculate the change in extent of degradation between the baseline and "
 "reporting periods."
@@ -4846,7 +4880,7 @@ msgstr ""
 "Calcular el cambio en la extensión de la degradación entre los períodos "
 "de referencia y de presentación de informes."
 
-#: ../../SO1.md:1236
+#: ../../SO1.md:1235
 msgid ""
 "The total area of degraded land for the baseline, the reporting period "
 "and the change of the area between the two periods should be reported in "
@@ -4862,19 +4896,19 @@ msgstr ""
 "si es diferente del enfoque 1OAO, así como indicar el nivel de confianza "
 "de las estimaciones (alto, medio o bajo)."
 
-#: ../../SO1.md:1238
+#: ../../SO1.md:1237
 msgid "Step 2. Identify false positives and false negatives"
 msgstr "Paso 2. Identificar los falsos positivos y los falsos negativos"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:1240
 msgid "Related areas in the PRAIS 4 platform: : table SO1-4.T3"
 msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO1-4.T3"
 
-#: ../../SO1.md:1244
+#: ../../SO1.md:1243
 msgid "Parties have the option to identify areas of:"
 msgstr "Las Partes tienen la opción de identificar áreas de:"
 
-#: ../../SO1.md:1246
+#: ../../SO1.md:1245
 msgid ""
 "‘False positive’ degradation, where the 1OAO process has incorrectly "
 "indicated that an area is not degraded even though the change in land "
@@ -4887,7 +4921,7 @@ msgstr ""
 "calificarlo como degradado en el contexto del indicador 15.3.1 de los "
 "ODS; y"
 
-#: ../../SO1.md:1247
+#: ../../SO1.md:1246
 msgid ""
 "‘False negative’ degradation, in which the outcome of the 1OAO process "
 "has incorrectly resulted in an area being identified as degraded."
@@ -4895,11 +4929,11 @@ msgstr ""
 "degradación “falsa negativa”, en la que el resultado del proceso 1OAO ha "
 "dado lugar incorrectamente a que un área sea identificada como degradada."
 
-#: ../../SO1.md:1249
+#: ../../SO1.md:1248
 msgid "What are false positives?"
 msgstr "¿Qué son los falsos positivos?"
 
-#: ../../SO1.md:1251
+#: ../../SO1.md:1250
 msgid ""
 "An example is a woody weed invasion of a grassland, which may raise the "
 "apparent plant productivity even though the outcome in terms of the "
@@ -4922,11 +4956,11 @@ msgstr ""
 "ODS. Un resultado similar se produce en las tierras invadidas por "
 "especies vegetales exóticas."
 
-#: ../../SO1.md:1253
+#: ../../SO1.md:1252
 msgid "What are false negatives?"
 msgstr "¿Qué son los falsos negativos?"
 
-#: ../../SO1.md:1255
+#: ../../SO1.md:1254
 msgid ""
 "An example is the inverse of the above problem where woody weeds (or "
 "invasive plant species) are removed as part of a remediation process, "
@@ -4943,7 +4977,7 @@ msgstr ""
 "el proceso de 1OAO, el área saneada se etiquetaría incorrectamente como "
 "degradada."
 
-#: ../../SO1.md:1257
+#: ../../SO1.md:1256
 msgid ""
 "In areas where a false positive or false negative degradation outcome is "
 "identified, Parties can use the PRAIS 4 spatial data viewer to provide "
@@ -4969,7 +5003,7 @@ msgstr ""
 "positivos o negativos, no habrá ninguna repercusión importante en los "
 "datos de los informes presentados."
 
-#: ../../SO1.md:1259
+#: ../../SO1.md:1258
 msgid ""
 "Reporting on false positive and negative extents using the PRAIS 4 "
 "platform requires filling in table SO1-4.T3. The PRAIS 4 spatial data "
@@ -5007,15 +5041,15 @@ msgstr ""
 "negativo notificado dentro de la extensión del polígono que se "
 "proporciona."
 
-#: ../../SO1.md:1261
+#: ../../SO1.md:1260
 msgid "Step 3. Assess hotspots and brightspots"
 msgstr "Paso 3. Evaluación de las zonas críticas y las zonas prometedoras"
 
-#: ../../SO1.md:1
+#: ../../SO1.md:1263
 msgid "Related areas in the PRAIS 4 platform: tables SO1-4.T4 and SO1-4.T5"
 msgstr "Áreas relacionadas en la plataforma PRAIS 4: tablas SO1-4.T4 y SO1-4.T5"
 
-#: ../../SO1.md:1267
+#: ../../SO1.md:1266
 msgid ""
 "UNCCD encourages Parties to signal areas experiencing the most evident "
 "and dramatic change. These are defined as:"
@@ -5023,7 +5057,7 @@ msgstr ""
 "La CLD anima a las Partes a señalar las áreas que experimentan los "
 "cambios más evidentes y drásticos. Se definen del siguiente modo:"
 
-#: ../../SO1.md:1269
+#: ../../SO1.md:1268
 msgid ""
 "Hotspots: areas that are highly vulnerable to degradation in the absence "
 "of urgent remediation activities;"
@@ -5031,7 +5065,7 @@ msgstr ""
 "áreas críticas: áreas que son altamente vulnerables a la degradación en "
 "ausencia de actividades urgentes de reparación;"
 
-#: ../../SO1.md:1271
+#: ../../SO1.md:1270
 msgid ""
 "Brightspots: areas that do not exhibit any signs of degradation, or which"
 " have been remediated from a degraded state by implementing appropriate "
@@ -5043,7 +5077,7 @@ msgstr ""
 "reparación apropiadas o a través de procesos de ordenación territorial "
 "para evitar la degradación."
 
-#: ../../SO1.md:1273
+#: ../../SO1.md:1272
 msgid ""
 "Knowledge about location and type of hotspots/brightspots may facilitate "
 "the development of plans of action to redress degradation, including "
@@ -5055,7 +5089,7 @@ msgstr ""
 " la degradación, incluso mediante la conservación, la rehabilitación, la "
 "restauración y la gestión sostenible de los recursos de la tierra."
 
-#: ../../SO1.md:1275
+#: ../../SO1.md:1274
 msgid ""
 "Hotspots and brightspots are reported in tables SO1-1.T4 and SO1-1.T5 of "
 "the PRAIS 4 platform, respectively. Parties are invited to enter relevant"
@@ -5086,11 +5120,11 @@ msgstr ""
 "generar productos de información mejorados que demuestren los efectos de "
 "la Convención."
 
-#: ../../SO1.md:1277
+#: ../../SO1.md:1276
 msgid "Step 4. Generate reports"
 msgstr "Paso 4: Generación de informes"
 
-#: ../../SO1.md:1279
+#: ../../SO1.md:1278
 msgid ""
 "Once verified by the Parties, the estimates of land degradation data for "
 "the reporting and baseline periods should be officially submitted to "
@@ -5110,7 +5144,7 @@ msgstr ""
 "al final del formulario de presentación de informes de la plataforma "
 "PRAIS 4."
 
-#: ../../SO1.md:1281
+#: ../../SO1.md:1280
 msgid ""
 "Information on land degradation should be reported in km2 for the entire "
 "country."
@@ -5118,7 +5152,7 @@ msgstr ""
 "La información sobre la degradación de las tierras debe indicarse en km2 "
 "para todo el país."
 
-#: ../../SO1.md:1283
+#: ../../SO1.md:1282
 msgid ""
 "Default maps or maps generated in Trends.Earth using national data "
 "representing land degradation for the baseline/reporting period are made "
@@ -5131,7 +5165,7 @@ msgstr ""
 " de presentación de informes. En concreto, estarán disponibles en línea "
 "los siguientes mapas:"
 
-#: ../../SO1.md:1285
+#: ../../SO1.md:1284
 msgid ""
 "Proportion of land that is degraded over total land area (SDG indicator "
 "15.3.1) in the baseline period"
@@ -5139,7 +5173,7 @@ msgstr ""
 "Proporción de tierras degradadas en comparación con la superficie total "
 "(indicador 15.3.1 de los ODS) durante el período de referencia."
 
-#: ../../SO1.md:1286
+#: ../../SO1.md:1285
 msgid ""
 "Proportion of land that is degraded over total land area (SDG indicator "
 "15.3.1) in the reporting period"
@@ -5148,7 +5182,7 @@ msgstr ""
 "(indicador 15.3.1 de los ODS) durante el período de presentación de "
 "informes."
 
-#: ../../SO1.md:1287
+#: ../../SO1.md:1286
 msgid ""
 "Degradation hotspots (for countries that provide spatial data in the "
 "PRAIS 4 platform)"
@@ -5156,7 +5190,7 @@ msgstr ""
 "Zonas críticas de degradación (para los países que proporcionan datos "
 "espaciales en la plataforma PRAIS 4)."
 
-#: ../../SO1.md:1288
+#: ../../SO1.md:1287
 msgid ""
 "Improvement brightspots (for countries that provide spatial data in the "
 "PRAIS 4 platform)."
@@ -5164,11 +5198,11 @@ msgstr ""
 "Zonas prometedoras de mejora (para los países que proporcionan datos "
 "espaciales en la plataforma PRAIS 4)."
 
-#: ../../SO1.md:1290
+#: ../../SO1.md:1289
 msgid "1.4.4. Dependencies"
 msgstr "1.4.4. Dependencias"
 
-#: ../../SO1.md:1292
+#: ../../SO1.md:1291
 msgid ""
 "SDG indicator 15.3.1 relies on the total land area reported in table "
 "SO1-1.T1. Modifying that number will therefore alter the indicator’s "
@@ -5178,7 +5212,7 @@ msgstr ""
 "indicada en la tabla SO1-1.T1. Por lo tanto, la modificación de esa cifra"
 " alterará el valor del indicador."
 
-#: ../../SO1.md:1294
+#: ../../SO1.md:1293
 msgid ""
 "The ‘Area’ fields of the spatial tables SO1-4.T3,  SO1-4.T4 and SO1-4.T5 "
 "have a dependency on spatial data created by countries using the PRAIS 4 "
@@ -5191,17 +5225,17 @@ msgstr ""
 "rellenarse manualmente, sin tener que proporcionar datos espaciales que "
 "los sustenten."
 
-#: ../../SO1.md:1296
+#: ../../SO1.md:1295
 msgid "1.4.5. Summary (main actions)"
 msgstr "1.4.5. Resumen (acciones principales)"
 
-#: ../../SO1.md:1298
+#: ../../SO1.md:1297
 msgid "Key actions for reporting on the SDG indicator 15.3.1 are as follows:"
 msgstr ""
 "He aquí las principales acciones para presentar informes sobre el "
 "indicador 15.3.1 de los ODS:"
 
-#: ../../SO1.md:1300
+#: ../../SO1.md:1299
 msgid ""
 "**Calculate the proportion of land that is degraded over total land area "
 "(SDG indicator 15.3.1)**: Using the 1OAO approach to combine the three "
@@ -5223,7 +5257,7 @@ msgstr ""
 "período de referencia continúa siendo degradado (es decir, que no han "
 "mejorado a un estado de no degradadas)."
 
-#: ../../SO1.md:1302
+#: ../../SO1.md:1301
 msgid ""
 "**Identify false positive and false negative processes** and provide the "
 "relevant justification to support their assessment. Where countries are "
@@ -5240,7 +5274,7 @@ msgstr ""
 "áreas identificadas, deben utilizar el visor de datos espaciales de PRAIS"
 " 4 a tal efecto (tabla SO1-4.T3)."
 
-#: ../../SO1.md:1304
+#: ../../SO1.md:1303
 msgid ""
 "**Assess hotspots of land degradation and brightspots of land "
 "improvement**, indicating their locations, extents, and actions taken "
@@ -5256,11 +5290,11 @@ msgstr ""
 "y las áreas prometedoras utilizando el visor de datos espaciales de PRAIS"
 " 4."
 
-#: ../../SO1.md:1306
+#: ../../SO1.md:1305
 msgid "1.4.6. Further reading"
 msgstr "1.4.6. Lecturas complementarias"
 
-#: ../../SO1.md:1308
+#: ../../SO1.md:1307
 msgid ""
 "Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that "
 "is degraded over total land area (version 2). Chapter 2: SDG Indicator "
@@ -5274,7 +5308,7 @@ msgstr ""
 "(<https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-15.3.1-proportion-land-degraded-over-total-land>)."
 
-#: ../../SO1.md:1309
+#: ../../SO1.md:1308
 msgid ""
 "Scientific Conceptual Framework for Land Degradation Neutrality "
 "(<https://knowledge.unccd.int/publication/ldn-scientific-conceptual-"
@@ -5301,7 +5335,7 @@ msgstr ""
 " y arroyos (naturales o artificiales, quietas o que fluyen, interiores o "
 "marinas), embalses artificiales, lagunas costeras y estuarios."
 
-#: ../../SO1.md:669
+#: ../../SO1.md:668
 msgid ""
 "The calculation of productivity Performance is strongly dependent on the "
 "definition of the LCEU. Unlike the Trend and State metrics, which assess "
@@ -5314,7 +5348,7 @@ msgstr ""
 "rendimiento es una comparación espacial, y los resultados pueden cambiar "
 "si se modifica la extensión sobre la que se lleva a cabo el análisis."
 
-#: ../../SO1.md:673
+#: ../../SO1.md:672
 msgid ""
 "To avoid possible overestimation of the maximum value due to the presence"
 " of outliers, it is recommended to use the 90th percentile of the "
@@ -5326,7 +5360,7 @@ msgstr ""
 "valores de productividad dentro de la unidad de tierra como valor máximo "
 "real del índice de vegetación (NPPmax)."
 
-#: ../../SO1.md:988
+#: ../../SO1.md:987
 msgid ""
 "2006 IPCC Guidelines for National Greenhouse Gas Inventories and its 2019"
 " Refinement, as well as the 2013 Supplement to the 2006 IPCC Guidelines "
@@ -5341,7 +5375,7 @@ msgstr ""
 "humedales (2013 Supplement to the 2006 IPCC Guidelines for National "
 "Greenhouse Gas Inventories: Wetlands)."
 
-#: ../../SO1.md:1010
+#: ../../SO1.md:1009
 msgid ""
 "For more information see: ‘Default data: methods and interpretation. A "
 "guidance document for 2018 UNCCD reporting’ available at: "
@@ -5352,7 +5386,7 @@ msgstr ""
 "en: "
 "<https://prais.unccd.int/sites/default/files/helper_documents/3-DD_Guidance_EN_1.pdf>.\")."
 
-#: ../../SO1.md:1195
+#: ../../SO1.md:1194
 msgid "Article 1 of the United Nations Convention to Combat Desertification."
 msgstr ""
 "Artículo 1 de la Convención de las Naciones Unidas de Lucha contra la "
