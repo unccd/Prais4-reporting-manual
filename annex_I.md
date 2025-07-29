@@ -31,7 +31,7 @@ Additionally, the Creative Commons Universal Public Domain Dedication 1.0 (CC0) 
 
 Figure 10 provides an overview of the public domain dedication and each Creative Commons licence and whether they allow remixes, commercial use, free cultural works and if they meet the ‘open’ definition.
 
-INSERT FIGURE
+![](/img/fig10.png)
 
 _Figure 10: Overview of various CC license options (source: Wikipedia, further information can be found at https://creativecommons.org/share-your-work/cclicenses/)_
 

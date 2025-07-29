@@ -40,27 +40,11 @@ The alternative dataset available via Trends.Earth is the Climate Hazards Group 
 
 The decision tree in figure 5 can help Parties to decide which data set and approach is most appropriate to support reporting for their national situation.
 
-REPLACE FIGURE
-
 _Figure 5. Decision tree to help Parties chose the best precipitation data source to derive indicator SO 3-1_
-```{ifconfig} language == 'en'
-![](/img/SO3_Decision_tree.jpg)
-```
-```{ifconfig} language == 'ru'
-![](/img/Figure_1-RU.jpg)
-```
-```{ifconfig} language == 'ar'
-![](/img/Figure_1-AR.jpg)
-```
-```{ifconfig} language == 'zh'
-![](/img/Figure_1-ZH.png)
-```
-```{ifconfig} language == 'es'
-![](/img/Figure_1-ES.png)
-```
-```{ifconfig} language == 'fr'
-![](/img/Figure_1-FR.png)
-```
+
+
+![](/img/fig5.png)
+
 
 _GMID: Global Multi-Index Drought,_{{br}}
 _SPI: Standardized Precipitation Index,_{{br}}
@@ -175,7 +159,6 @@ The proportion of land under drought irrespective of intensity class is calculat
 
 For each of the annual SPI-12 grids, the total number of cells falling in any of the SPI drought intensity classes is counted (cellCount). Then, for each reporting year, the percentage of the total land area under drought is calculated. The formula is as follows:
 
-*INSERT IMAGE*
 
 $P_{ij} = \frac{cellCount_{ij}}{Total\ number\ of\ cells} \times 100$
 
@@ -290,24 +273,9 @@ Parties wishing to use in-country or regional population datasets can use the de
 *REPLACE FIGURE*
 
 _Figure 6. Decision tree to help Parties choose the best population data source to derive indicator SO 3-2_
-```{ifconfig} language == 'en'
-![](/img/SO3_2_Decision_tree.jpg)
-```
-```{ifconfig} language == 'ru'
-![](/img/Figure_2-RU.jpg)
-```
-```{ifconfig} language == 'ar'
-![](/img/Figure_2-AR.jpg)
-```
-```{ifconfig} language == 'zh'
-![](/img/Figure_2-ZH.png)
-```
-```{ifconfig} language == 'es'
-![](/img/Figure_2-ES.png)
-```
-```{ifconfig} language == 'fr'
-![](/img/Figure_2-FR.png)
-```
+
+![](/img/fig6.png)
+
 
 This decision-making process should help Parties identify data that meets the specifications summarized in table 20.
 
@@ -484,26 +452,8 @@ These were selected because they were identified by experts as critical to under
 REPLACE IMAGE?
 
 _Figure 7. Social, economic, and infrastructural components and their associated factors recommended for calculating the Drought Vulnerability Index_
-```{ifconfig} language == 'en'
-![](/img/SO3_3_Decision_tree.jpg)
-```
-```{ifconfig} language == 'ru'
-![](/img/Figure_3-RU.jpg)
-```
-```{ifconfig} language == 'ar'
-![](/img/Figure_3-AR.jpg)
-```
-```{ifconfig} language == 'zh'
-![](/img/Figure_3-ZH.png)
-```
-```{ifconfig} language == 'es'
-![](/img/Figure_3-ES.png)
-```
-```
-```{ifconfig} language == 'fr'
-![](/img/Figure_3-FR.png)
-```
 
+![](/img/fig7.png)
 
 The UNCCD provides default data from the global DVI dataset of the JRC. The method used to derive the default DVI is similar to the one presented in this manual and in the [“Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3”](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf), but presents some key differences in terms of the normalization method (see Step 2) and number of factors included. Two additional factors are used in the default DVI: “Disaster Prevention and Preparedness (USD/Year/Capital)” and “Global map of Accessibility: Travel time to major cities”. A single default DVI value is provided and represents the median DVI across the country for the period 2000–2018. Therefore, this default value is used to populate the year 2018 in table SO3-3.T1.
 
@@ -514,24 +464,8 @@ National/regional data products used to calculate the DVI should conform with th
 REPLACE FIGURE?
 
 _Figure 8. Decision tree to help Parties choose the best tier of vulnerability assessment for the SO 3-3 Indicator reporting according to data availability_
-```{ifconfig} language == 'en'
-![](/img/SO3_3b_Decision_tree.jpg)
-```
-```{ifconfig} language == 'ru'
-![](/img/Figure_4-RU.jpg)
-```
-```{ifconfig} language == 'ar'
-![](/img/Figure_4-AR.jpg)
-```
-```{ifconfig} language == 'zh'
-![](/img/Figure_4-ZH.png)
-```
-```{ifconfig} language == 'es'
-![](/img/Figure_4-ES.png)
-```
-```{ifconfig} language == 'fr'
-![](/img/Figure_4-FR.png)
-```
+
+![](/img/fig8.png)
 
 _DVI: Drought Vulnerability Index_{{br}}
 _VA: Vulnerability Assessment_
@@ -584,8 +518,6 @@ The [Good Practice Guidance for National Reporting on UNCCD Strategic Objective 
 
 Where there is a positive correlation/relationship between vulnerability and the factor[^3]  (i.e., if the factor value increases, vulnerability also increases), the data should be normalized using the equation below:
 
-INSERT IMAGE?
-
 $Factor = \frac{X_{i} - X_{min}}{X_{max} - X_{min}}$
 
 Where:
@@ -595,8 +527,6 @@ Where:
 - X{sub}`max` is the maximum value of the considered factor observed in the entire time series
 
 In case of negative correlation/relationship between vulnerability and the factor, the equation is:
-
-INSERT IMAGE?
 
 $Factor = 1 - \frac{X_{i} - X_{min}}{X_{max} - X_{min}}$
 
@@ -625,8 +555,6 @@ Related areas in the PRAIS 4 platform: table SO3-3.T1
 ```
 
 In all tiers of VA, the three components (C{sub}`social`, C{sub}`economic` and C{sub}`infrastructural`) derived in the previous steps are used to produce the DVI by calculating their mean value.
-
-INSERT IMAGE?
 
 $DVI = \frac{C_{social} + C_{economic} + C_{infrastructural}}{3}$
 

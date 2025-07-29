@@ -36,7 +36,7 @@ widths: 2 4
 * - Specific target (to avoid land degradation)
   - “ By 2030 in Georgia protected areas coverage should reach 12 %”
 * - Specific target (to reduce land degradation)
-  - “ In areas identified as hotspots in Somalia by 2030 improve land productivity on 33,342 ha of Tree-covered areas, 472,227 ha of grassland, 7709 ha of cropland currently showing stressed productivity through sustainable land management practices.”
+  - “ In areas identified as hotspots in Somalia by 2030 improve land productivity on 33,342 ha of Tree-covered areas, 472,227 ha of     grassland, 7709 ha of cropland currently showing stressed productivity through sustainable land management practices.”
 * - Specific target (to reverse land degradation)
   - “ In the Kedougou region of Senegal over the period 2020-2035, 1,348.27 km2 of marginal areas (artificial areas, bare land, and other domains) will be restored and sustainably managed.”
 ```
@@ -47,7 +47,7 @@ Voluntary targets and actions undertaken to address land degradation can simulta
 
 - An in-depth reading of the [LDN Target Setting technical guide](https://knowledge.unccd.int/publication/ldn-target-setting-technical-guide).
 
-- Familiarity with Section 2 of the Addendum to Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area.
+- Familiarity with Section 2 of the [Addendum to Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land): Proportion of land that is degraded over total land area.
 
 - A pool of national experts that report across various Conventions and related initiatives to ensure alignment and coherence between LDN-relevant national commitments and targets.
 
@@ -87,7 +87,7 @@ For any new unreported target, Parties are invited to complete as comprehensivel
 
 Table SO1-VT.T1 is a spatial table and therefore should ideally be completed with the support of the Geographic Information System (GIS) tools available in PRAIS 4. The PRAIS 4 spatial data viewer enables Parties to delineate the location and extent of their subnational targets, thereby making them spatially explicit, or to upload an existing spatial file (in vector format) of the target areas. While this is an additional and optional element, it is recommended since such location-based information strengthens spatial approaches to sustainable land management and helps integrate responses to land degradation at the landscape scale, strengthen monitoring and reporting efforts and inform future prioritization of investments for implementation activities.
 
-For example during the 2022 reporting, Bhutan declared one of its LDN targets as the   implementation of sustainable land management (SLM) in an area of 35 Km2.  Polygons representing the three administrative units concerned were uploaded to PRAIS and are also included in Bhutan´s LDN DSS. Türkiye has also implemented a LDN DSS. For example in one microbasin in the east of the country 34 % of the croplands showed declining land productivity trends, indicating ongoing degradation processes. To counterbalance anticipated losses of natural capital, different cropland parcels were prioritized within the micro basin to implement SLM practices to reverse, reduce and avoid land degradation. For example, in 44 ha, crop rotation with certified chickpeas and wheat was introduced. This and other mapped areas were uploaded as spatially explicit voluntary targets to PRAIS 4 during the reporting process.
+For example during the 2022 reporting, Bhutan declared one of its LDN targets as the   implementation of sustainable land management (SLM) in an area of 35 Km2.  Polygons representing the three administrative units concerned were uploaded to PRAIS and are also included in Bhutan´s [LDN DSS](https://wocatapps.users.earthengine.app/view/dss-bhutan). Türkiye has also implemented [a LDN DSS](https://projectgeffao.users.earthengine.app/view/ldn-turkey). For example in one microbasin in the east of the country 34 % of the croplands showed declining land productivity trends, indicating ongoing degradation processes. To counterbalance anticipated losses of natural capital, different cropland parcels were prioritized within the micro basin to implement SLM practices to reverse, reduce and avoid land degradation. For example, in 44 ha, crop rotation with certified chickpeas and wheat was introduced. This and other mapped areas were uploaded as spatially explicit voluntary targets to PRAIS 4 during the reporting process.
 
 Additional information not included in the table may be reported in the “General Comments” field at the bottom of the form.
 
@@ -112,7 +112,7 @@ There is a dependency between the targets set in table SO1-VT.T1 and the impleme
 
 ### 6.1.5. Challenges
 
-National coordination
+*National coordination*
 
 - With respect to the various plans and commitments formulated under the Rio Conventions and/or other related initiatives, there is the risk of lack of coherence, overlap and duplication of efforts. There is scope for better alignment on restoration in national plans between the three Rio Conventions, which could enhance planning and implementation.
 

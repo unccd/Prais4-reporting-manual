@@ -36,7 +36,7 @@ The step-by-step procedure for reporting is described in the following.
 Related areas in the PRAIS 4 platform: table SO4-2.T1
 ```
 
-The RLI is SDG indicator 15.5.1. Therefore, the RLI data are pre-filled from the SDG database. This information has already been validated by national statistics offices through the SDG process, and synchronized with PRAIS. Therefore, it does not require additional verification by Parties. Hence, no further action is required if Parties choose to use the default data. Additional information on data validation may be found in the SDG indicator 15.5.1 metadata document
+The RLI is SDG indicator 15.5.1. Therefore, the RLI data are pre-filled from the SDG database. This information has already been validated by national statistics offices through the SDG process, and synchronized with PRAIS. Therefore, it does not require additional verification by Parties. Hence, no further action is required if Parties choose to use the default data. Additional information on data validation may be found in the [SDG indicator 15.5.1 metadata document](https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf)
 
 Parties may decide to customize/complement the values to be reported in table SO4-2.T1. They may do so by clicking on the “National Data” button above the table. Basic metadata, as outlined in Annex II, for the datasets to be used should be provided in the Data Sources form that opens when “Edit Data Sources” is selected.
 
@@ -121,7 +121,7 @@ The main output of the reporting process for SO 4-3 is a set of officially verif
 
 ### 4.3.2. Prerequisites for reporting
 
-- An in-depth reading of the SDG indicator 15.1.2. metadata document;
+- An in-depth reading of the [SDG indicator 15.1.2. metadata document](https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf);
 
 - Consultation with national experts on KBA protected areas and OECMs, CBD national focal points, national statistical offices, IUCN State Members and KBA regional focal points.
 
@@ -135,7 +135,7 @@ The step-by-step procedure for reporting is described in the following.
 Related areas in the PRAIS 4 platform: table SO4-3.T1
 ```
 
-Default data for this indicator is pre-filled in table SO4-3.T1 from the SDG database (SDG indicator 15.1.2b[^9]). This information has already been validated by national statistics offices through the SDG process, and synchronized with PRAIS. Therefore, it does not require additional verification by Parties. Hence, no further action is required if Parties choose to use the default data. Additional information on the data specifications for the SO 4-3 indicator and data validation may be found in the official metadata for SDG indicator 15.1.2 document.
+Default data for this indicator is pre-filled in table SO4-3.T1 from the SDG database (SDG indicator 15.1.2b[^9]). This information has already been validated by national statistics offices through the SDG process, and synchronized with PRAIS. Therefore, it does not require additional verification by Parties. Hence, no further action is required if Parties choose to use the default data. Additional information on the data specifications for the SO 4-3 indicator and data validation may be found in the official metadata for [SDG indicator 15.1.2 document](https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf).
 
 Parties may decide to report alternative national data in table SO4-3.T1. They may do so by clicking on the “National Data” button above the table. Basic metadata, as outlined in Annex II, for the datasets to be used should be provided in the Data Sources form that opens when “Edit Data Sources” is selected.
 

@@ -16,7 +16,7 @@ National reporting is facilitated though the provision of: (i) default data deri
 
 - An in-depth reading of chapter 3 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land): Proportion of land that is degraded over total land area (version 2), which provides an overview of the land cover indicator, its definition and classifications, and the recommended methodology to assess land cover degradation;
 
--	Familiarity with Sections 1 and 3 of the Addendum to Good Practice Guidance for SDG Indicator 15.3.1: Proportion of land that is degraded over total land area (version 2).
+-	Familiarity with Sections 1 and 3 of the [Addendum to Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land): Proportion of land that is degraded over total land area (version 2).
 
 - Data complying with the minimum standards listed in table 10 below;
 
@@ -314,7 +314,7 @@ In Ecuador, experts developed a land cover assessment methodology that divided t
 ·	Valles Interandinos: Inter-Andean valley ecosystems, excluding Altoandino and Litoral Seco.
 ·	Amazonía: Evergreen forests from the Andean Montane East to the Amazon basin.
 
- [FIGURE]
+ ![](/img/fig2.png)
 
 Figure 2 Ecuador defined six subnational ecoregions for which specific transition matrices were established.
 
@@ -468,7 +468,7 @@ The total land area declared under table CP-1.T1 drives the calculation of subse
 
 #### Data availability and quality
 
-- The GLAD and GLC_FCS30D datasets at 30m spatial resolution that are provided in Trends.Earth and described in the GPG Addendum should be evaluated for suitability by small island developing States (SIDS) and mountainous countries, as these need the highest spatial resolution data. Spatial resolution of default data might not always be suitable to accurately represent land cover and its changes at national level for these areas or countries. Complementing/refining international data analysis with local-scale data, if available, can help improve the quality and reliability of the results.
+- The GLAD and GLC_FCS30D datasets at 30m spatial resolution that are provided in Trends.Earth and described in the GPG [Addendum](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land) should be evaluated for suitability by small island developing States (SIDS) and mountainous countries, as these need the highest spatial resolution data. Spatial resolution of default data might not always be suitable to accurately represent land cover and its changes at national level for these areas or countries. Complementing/refining international data analysis with local-scale data, if available, can help improve the quality and reliability of the results.
 
 - For analysis and reporting of change in land cover, it is essential to have consistent data (i.e. data derived from the same data source using the same processing technique) over a long period of time; this is often a challenge at both the national and global levels.
 
@@ -1158,7 +1158,7 @@ Related areas in the PRAIS 4 platform: table SO1-3.T2
 
 This step is required if a modified tier 1 or a tier 2 approach is adopted. Approaches to estimating SOC changes for a Tier 3 implementation are presented in step 5. As mentioned in the previous step, to estimate changes in soil organic carbon (SOC) stocks, conversion coefficients for land cover transitions are applied. The default conversion coefficients represent the proportional change in SOC stocks over a 20-year period following a land cover conversion. Figure 3 shows the default conversion coefficients. In this figure each cell represents a conversion coefficient, which indicates the proportional change in SOC stocks 20 years after a land cover change. The cells with a value of "1" (light yellow) indicate that there was no change in SOC stocks even if a land cover transition occurred. Cells with values lower than 1 (purple) indicate SOC loss after conversion. Cells with values higher than 1 (green) indicate SOC gains after conversion.
 
-[FIGURE] - POZA
+![](/img/Fig3.png)
 Figure 3: Default Land Use Conversion Coefficients for Soil Organic Carbon (SOC) Stock Changes. Source: [Trends.Earth User Guide](https://docs.trends.earth/en/latest/index.html)
 
 Since the rate of SOC sequestration is influenced by environmental factors such as precipitation, evaporation, solar radiation, and temperature, it is not reasonable to apply the same conversion coefficient to vastly different climatic conditions. For instance, SOC loss due to land conversion in a cold and dry region will occur at a different rate than in a hot and humid region. To account for this regional variability, different sets of conversion coefficients are assigned based on climate zones:
@@ -1310,7 +1310,7 @@ In practical terms, for the purposes of calculating SDG indicator 15.3.1, tracki
 
 _Figure 4. The “Status Matrix” is a 3 x 3 matrix to assess Status by comparing the reporting period assessment (columns) and the baseline (rows). The categories Stable and Improved correspond to Not Degraded areas._
 
-[FIGURE] - poza
+![](/img/fig4.png)
 
 4. **Change Assessment**: The change in extent of degradation between the baseline and the reporting period is calculated as the difference between the total area of degraded land in and the most recent reporting period, and the baseline. It can be expressed as either the change in terms of absolute area or as the change in terms of the proportion of degraded area over the total land area (percentage).
 
