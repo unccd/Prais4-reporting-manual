@@ -33,7 +33,7 @@ Figure 10 provides an overview of the public domain dedication and each Creative
 
 ![](/img/fig10.png)
 
-_Figure 10: Overview of various CC license options (source: Wikipedia, further information can be found at https://creativecommons.org/share-your-work/cclicenses/)_
+_**Figure 10**. Overview of various CC license options (source: Wikipedia, further information can be found at https://creativecommons.org/share-your-work/cclicenses/)_
 
 As explained in the introduction of this reporting manual, Parties are strongly recommended to maximize the interoperability and impact of their reported data and support legal, confident, and consistent reuse of national data by the secretariat. Therefore, they are encouraged to select an open licence for their national country Party data, choosing either:
 

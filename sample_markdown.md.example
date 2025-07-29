@@ -64,6 +64,16 @@ potential population pressures. Any additional disaggregated data should also be
 
 ![Alt-text for the second image](/img/80-CMEMS-TAC-WIND.png "Tooltip 2")
 
+
+## Figures
+
+```{figure} img/fig8.png
+---
+class: with-border
+---
+**Figure 8.** This is the caption
+```
+
 ## Basic formatting
 
 Use double asterisks for **bold text**. It also works with __double underscores__.

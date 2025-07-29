@@ -40,11 +40,9 @@ The alternative dataset available via Trends.Earth is the Climate Hazards Group 
 
 The decision tree in figure 5 can help Parties to decide which data set and approach is most appropriate to support reporting for their national situation.
 
-_Figure 5. Decision tree to help Parties chose the best precipitation data source to derive indicator SO 3-1_
-
+_**Figure 5.** Decision tree to help Parties chose the best precipitation data source to derive indicator SO 3-1_
 
 ![](/img/fig5.png)
-
 
 _GMID: Global Multi-Index Drought,_{{br}}
 _SPI: Standardized Precipitation Index,_{{br}}
@@ -270,12 +268,9 @@ However, Parties may choose to use alternative global or national datasets of an
 
 Parties wishing to use in-country or regional population datasets can use the decision tree in figure 6 to assess whether this data is more appropriate to derive indicator SO 3-2 over the globally available datasets.
 
-*REPLACE FIGURE*
-
-_Figure 6. Decision tree to help Parties choose the best population data source to derive indicator SO 3-2_
+_**Figure 6.** Decision tree to help Parties choose the best population data source to derive indicator SO 3-2_
 
 ![](/img/fig6.png)
-
 
 This decision-making process should help Parties identify data that meets the specifications summarized in table 20.
 
@@ -449,9 +444,7 @@ The vulnerability factors (listed in figure 7) recommended by the UNCCD to deriv
 
 These were selected because they were identified by experts as critical to understanding vulnerability and due to their use for other reporting requirements such as SO 2 and the Sustainable Development Goals.
 
-REPLACE IMAGE?
-
-_Figure 7. Social, economic, and infrastructural components and their associated factors recommended for calculating the Drought Vulnerability Index_
+_**Figure 7.** Social, economic, and infrastructural components and their associated factors recommended for calculating the Drought Vulnerability Index_
 
 ![](/img/fig7.png)
 
@@ -461,9 +454,7 @@ Country Parties that do not have data available to calculate the minimum Tier 1 
 
 National/regional data products used to calculate the DVI should conform with the specifications listed in table 21.
 
-REPLACE FIGURE?
-
-_Figure 8. Decision tree to help Parties choose the best tier of vulnerability assessment for the SO 3-3 Indicator reporting according to data availability_
+_**Figure 8.** Decision tree to help Parties choose the best tier of vulnerability assessment for the SO 3-3 Indicator reporting according to data availability_
 
 ![](/img/fig8.png)
 

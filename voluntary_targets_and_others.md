@@ -12,9 +12,9 @@ The definition and/or revision of voluntary targets should be based on best avai
 
 Targets need to be measurable to monitor progress. Parties are invited to formulate specific, quantitative, spatially explicit and time-bound voluntary targets aiming at achieving a neutral (no net loss) or improved (net gain) state of the land, and defining interventions that contribute to avoiding, reducing and reversing land degradation, in line with the LDN response hierarchy (see figure 9).
 
-![](/img/LD_neutrality_response.jpg)
+![](/img/fig9.jpg)
 
-_Figure 9. Land Degradation Neutrality response hierarchy_
+_**Figure 9.** Land Degradation Neutrality response hierarchy_
 
 Geographic specificity helps define realistic targets. Spatially explicit targets with distinct locations, ecosystem types and maps can provide increased focus on critical hotspot areas, aid prioritization and help create realistic and purposeful sub-national commitments and plans.
 

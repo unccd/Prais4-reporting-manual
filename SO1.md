@@ -316,7 +316,7 @@ In Ecuador, experts developed a land cover assessment methodology that divided t
 
  ![](/img/fig2.png)
 
-Figure 2 Ecuador defined six subnational ecoregions for which specific transition matrices were established.
+_**Figure 2.** Ecuador defined six subnational ecoregions for which specific transition matrices were established._
 
 Once ecoregions were defined, a specific transition matrix for each zone was established, by incorporating local expertise and stakeholder input. These zone-specific transition matrices ensured that land cover changes were assessed within their ecological and socio-economic context, rather than by applying a uniform classification across the entire country. Finally, the results from each region were integrated to provide a national-level assessment that reflects local realities while maintaining coherence in LDN and SDG indicator 15.3.1 monitoring.
  
@@ -1160,7 +1160,8 @@ Related areas in the PRAIS 4 platform: table SO1-3.T2
 This step is required if a modified tier 1 or a tier 2 approach is adopted. Approaches to estimating SOC changes for a Tier 3 implementation are presented in step 5. As mentioned in the previous step, to estimate changes in soil organic carbon (SOC) stocks, conversion coefficients for land cover transitions are applied. The default conversion coefficients represent the proportional change in SOC stocks over a 20-year period following a land cover conversion. Figure 3 shows the default conversion coefficients. In this figure each cell represents a conversion coefficient, which indicates the proportional change in SOC stocks 20 years after a land cover change. The cells with a value of "1" (light yellow) indicate that there was no change in SOC stocks even if a land cover transition occurred. Cells with values lower than 1 (purple) indicate SOC loss after conversion. Cells with values higher than 1 (green) indicate SOC gains after conversion.
 
 ![](/img/fig3.png)
-Figure 3: Default Land Use Conversion Coefficients for Soil Organic Carbon (SOC) Stock Changes. Source: [Trends.Earth User Guide](https://docs.trends.earth/en/latest/index.html)
+
+_**Figure 3.** Default Land Use Conversion Coefficients for Soil Organic Carbon (SOC) Stock Changes. Source: [Trends.Earth User Guide](https://docs.trends.earth/en/latest/index.html)_
 
 Since the rate of SOC sequestration is influenced by environmental factors such as precipitation, evaporation, solar radiation, and temperature, it is not reasonable to apply the same conversion coefficient to vastly different climatic conditions. For instance, SOC loss due to land conversion in a cold and dry region will occur at a different rate than in a hot and humid region. To account for this regional variability, different sets of conversion coefficients are assigned based on climate zones:
 
@@ -1309,7 +1310,7 @@ In practical terms, for the purposes of calculating SDG indicator 15.3.1, tracki
 
 3. **Status Assessment**: The “Status”, or final condition of the land at the end of each reporting period, is determined by combining the results of the current period assessment with the baseline assessment. This can be done using The “Status Matrix” (see figure 4) which shows the different possible combinations of the changes in land condition between the baseline and the reporting periods. This comparison is essential to account for areas identified as degraded in the baseline that have since remained unchanged in land condition. For example, if an area was classified as degraded during the baseline period but was stable afterwards, the land's condition is still degraded as there has been no improvement since the baseline. The resulting Status map enables the estimation of SDG Indicator 15.3.1 by providing a spatially explicit view of areas that are either stable, improved, or degraded, considering also their initial condition.
 
-_Figure 4. The “Status Matrix” is a 3 x 3 matrix to assess Status by comparing the reporting period assessment (columns) and the baseline (rows). The categories Stable and Improved correspond to Not Degraded areas._
+_**Figure 4.** The “Status Matrix” is a 3 x 3 matrix to assess Status by comparing the reporting period assessment (columns) and the baseline (rows). The categories Stable and Improved correspond to Not Degraded areas._
 
 ![](/img/fig4.png)
 
