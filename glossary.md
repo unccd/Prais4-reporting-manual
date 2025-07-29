@@ -3,8 +3,9 @@
 ```{glossary}
 
 Above ground biomass
-    The biomass of living vegetation, both woody and herbaceous, above the soil including stems, stumps, branches, bark, seeds, and foliage 
-    See also ‘Below ground biomass’.
+    The biomass of living vegetation, both woody and herbaceous, above the soil including stems, stumps, branches, bark, seeds, and foliage
+
+    *See also ‘Below ground biomass’.*
 
 Adaptation
     The process of adjustment to actual or expected climate and its effects. In human systems, adaptation seeks to moderate or avoid harm or exploit beneficial opportunities. In some natural systems, human intervention may facilitate adjustment to expected climate and its effects. 
@@ -23,34 +24,45 @@ Aggregation
 
 Agriculture, value added (% of gross domestic product)
     One of the factors recommended to estimate the economic component of the Drought Vulnerability Index (DVI). Agriculture corresponds to International Standard Industrial Classifications (ISIC) divisions 1-5 and includes forestry, hunting, and fishing, as well as cultivation of crops and livestock production. This factor refers to the value added for agriculture as a percentage of the gross value added at factor cost. It implies a higher coping capacity of populations.
-    See also ‘Drought Vulnerability Index (DVI)’
+
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Agroforestry
     Integrates the use of woody perennials with agricultural crops and/ or animals for a variety of benefits and services, including better use of soil and water re-sources; multiple fuel, fodder, and food products; and habitat for associated species. 
 
 Alternative Livelihoods
-    Alternatives partially or completely substitute for the benefits (monetary and nonmonetary) that would normally be obtained from the exploitation of particular natural resources. Interventions that provide an alternative resource to the one being exploited (e.g. promoting imported animal protein as an alternative to locally hunted bushmeat), Interventions that provide an alternative occupation so as to reduce the need to exploit natural resources for income (e.g. promoting butterfly farming as a substitute for expanding agriculture) Interventions that encourage an alternative method of exploiting a resource that has a lower impact than the original method (e.g. promoting fuel ‐ efficient stoves to reduce the need to fell trees for firewood or changing marketing strategy to increase incomes from the sale of wild coffee, thus reducing the need to convert more forest into farmland.
-    see also ´Compensation Schemes´ and ´Incentive schemes´
+    Alternatives partially or completely substitute for the benefits (monetary and nonmonetary) that would normally be obtained from the exploitation of particular natural resources.
+
+     - Interventions that provide an alternative resource to the one being exploited (e.g. promoting imported animal protein as an alternative to locally hunted bushmeat)     
+     - Interventions that provide an alternative occupation so as to reduce the need to exploit natural resources for income (e.g. promoting butterfly farming as a substitute for expanding agriculture)
+     - Interventions that encourage an alternative method of exploiting a resource that has a lower impact than the original method (e.g. promoting fuel ‐ efficient stoves to reduce the need to fell trees for firewood or changing marketing strategy to increase incomes from the sale of wild coffee, thus reducing the need to convert more forest into farmland.
+
+    *see also ´Compensation Schemes´ and ´Incentive schemes´*
 
 Aridity
     Distinguished from drought as being an enduring feature of a location/environment. It is a natural permanent imbalance in the water availability consisting of low average annual precipitation, with high spatial and temporal variability, resulting in overall low moisture and low carrying capacity of the ecosystems.
 
 Artificial areas
-    For the purpose of UNCCD reporting, this land cover class is composed of any type of areas with a predominant artificial surface cover as a result of human activities. Natural vegetation can also be present, but it isn't dominant respect the artificial surface. Any urban or associated area is included in this class, as for example urban parks or sport facilities. The class also includes industrial areas, waste dump deposit and extraction sites: - construction sites (cities, green urban areas, towns and transportation as road and rail networks and associated land), - port and airport areas, - mineral extraction (open mines and quarries) or waste disposal,- continuous and discontinuous urban fabric and industrial or commercial units.
+    For the purpose of UNCCD reporting, this land cover class is composed of any type of areas with a predominant artificial surface cover as a result of human activities. Natural vegetation can also be present, but it isn't dominant respect the artificial surface. Any urban or associated area is included in this class, as for example urban parks or sport facilities. The class also includes industrial areas, waste dump deposit and extraction sites:
+     - construction sites (cities, green urban areas, towns and transportation as road and rail networks and associated land),
+     - port and airport areas,
+     - mineral extraction (open mines and quarries) or waste disposal,
+     - continuous and discontinuous urban fabric and industrial or commercial units.
 
 Baseline
-    The baseline (or reference) is the state against which change is measured. In the context of Land Degradation Neutrality (LDN), the initial (t0) estimated value of each of the indicators used to monitor progress in the achievement of LDN for each land type. The baseline values of these indicators are measured at the time of implementation of the LDN conceptual framework.
+    The baseline (or reference) is the state against which change is measured.
+    In the context of Land Degradation Neutrality (LDN), the initial (t0) estimated value of each of the indicators used to monitor progress in the achievement of LDN for each land type. The baseline values of these indicators are measured at the time of implementation of the LDN conceptual framework.
 
 Baseline period
     For UNCCD reporting the baseline period during which baseline conditions should be calculated, is the 16 years from 1 January 2000 to 31 December 2015.
 
 Below ground biomass
     All biomass of live roots. Fine roots of less than 2 mm diameter are often excluded because these often cannot be distinguished empirically from soil organic matter or litter 
-    See also ‘Above ground biomass’.
+    *See also ‘Above ground biomass’.*
 
 Brightspots
     A term used to describe an area which is experiencing the most evident and dramatic change. Brightspots do not exhibit any signs of degradation, or have been remediated from a degraded state by implementing appropriate remediation activities, or through land planning processes to prevent degradation.
-    See also ‘Hotspots’
+    *See also ‘Hotspots’*
 
 Capacity building, capacity development
     For the purpose of UNCCD reporting, capacity building and capacity development are equivalent terms, which both refer to the process by which countries obtain, strengthen and maintain their capability to meet the obligations laid down by the Convention and the requirements of the Strategy. The Convention dedicated a full article to capacity building, education and public awareness (art. 19) as a key supporting measure to combat desertification and mitigate the effects of drought. The article emphasises cooperation among Parties in supporting capacity building for the implementation of the Convention.  
@@ -60,7 +72,7 @@ Carbon stock
 
 Classification
     Abstract representation of real-world phenomena using classifiers. 
-    See also ‘Classifier, class’
+    *See also ‘Classifier, class’*
 
 Classification of Environmental Protection Activities (CEPA)
     The (European standard statistical) classification of Environmental Protection Activities (CEPA) is an established international classification since 2001. CEPA 2000 is a generic, multi-purpose, functional classification used for classifying activities, products, expenditure and other transactions related to environmental protection. The CEPA classification is used to report on the European environmental economic accounts (EU Regulation n. 691/2011), and it is useful to identify expenditures for environmental protection in the national budgets related to DLDD. In particular, 
@@ -70,20 +82,21 @@ Classification system
 
 Classifier, class
     Definition used to assign objects to legend classes. NOTE: Classifiers can be algorithmically defined, or defined according to a set of classification system specific rules.
-    See also ‘Classification system’
+    *See also ‘Classification system’*
 
 Climate change
     Climate change refers to a change in the state of the climate that can be identified (e.g., by using statistical tests) by changes in the mean and/or the variability of its properties and that persists for an extended period, typically decades or longer. Climate change may be due to natural internal processes or external forcings such as modulations of the solar cycles, volcanic eruptions and persistent anthropogenic changes in the composition of the atmosphere or in land use.
 
 Climate finance
-    Refers to local, national or transnational financing- drawn from public, private and alternative sources of financing - that seeks to support mitigation and adaptation actions that will address climate change. The UNFCCC Standing Committee on Finance (SCF) adopted an operational definition of climate finance as follows: “ Climate finance aims at reducing emissions and enhancing sinks of greenhouse gases, aims at reducing vulnerability, increasing adaptive capacity, and mainstreaming and increasing resilience of human and ecological systems to negative climate impacts, and includes financing for actions identified in a country’s nationally determined contribution, adaptation communication, national adaptation plan, long-term low-emission development strategy or other national plan for implementing and achieving the goals of the Paris Agreement and the objective of the Convention.”
+    Refers to local, national or transnational financing- drawn from public, private and alternative sources of financing - that seeks to support mitigation and adaptation actions that will address climate change.
+    The UNFCCC Standing Committee on Finance (SCF) adopted an operational definition of climate finance as follows: “ Climate finance aims at reducing emissions and enhancing sinks of greenhouse gases, aims at reducing vulnerability, increasing adaptive capacity, and mainstreaming and increasing resilience of human and ecological systems to negative climate impacts, and includes financing for actions identified in a country’s nationally determined contribution, adaptation communication, national adaptation plan, long-term low-emission development strategy or other national plan for implementing and achieving the goals of the Paris Agreement and the objective of the Convention.”
 
 Commitment
     A commitment is a firm written obligation by a government or official agency, backed by the appropriation or availability of the necessary funds, to provide resources of a specified amount under specified financial terms and conditions and for specified purposes for the benefit of a recipient country or a multilateral agency. Donors unable to comply with this definition should explain the definition that they use.
 
 Compensation schemes
     These involve explicit acknowledgment of the social and individual costs of conservation, particularly with regard to access restrictions that negatively affect local people's livelihoods, and aim to adequately compensate for the losses incurred.
-    See also ´Alternative livelihoods´ and ´Incentive schemes´  
+    *See also ´Alternative livelihoods´ and ´Incentive schemes´*  
 
 Consumption
     Consumption is an activity in which institutional units use up goods or services; consumption can be either intermediate or final. It is the use of goods and services for the satisfaction of individual or collective human needs or wants.
@@ -98,8 +111,9 @@ Cropland
     For the purpose of UNCCD reporting, this land cover class includes any geographic areas with a predominant cultivated surface cover of either herbaceous crops or woody crops. The class is composed of a main layer of cultivated herbaceous plants (graminoids or forbs), including herbaceous crops used for hay, and/or of a main layer of permanent cultivated tree or shrub crops and includes all types of orchards and plantations (fruit trees, coffee and tea plantation, oil palms, rubber plantation, Christmas trees etc.). All the non-perennial crops that do not last for more than two growing seasons and crops like sugar cane where the upper part of the plant is regularly harvested while the root system can remain for more than one year in the field are included in this class. The class also includes croplands rain fed, irrigated or post-flooding and aquatic crops, which are standing in water over extensive periods during their cultivation time (e.g. paddy rice, tidal rice and deep water rice). This class also includes crop fields from small size (< 2ha) to medium large size (>2ha). Areas planted with trees for afforestation purposes and forest plantations are included in this class. The vegetative cover can be present, it depends from the time of observation during the crops period. This class also includes multiple or layered crops composed of at least two layers of cultivated woody and herbaceous crops. A common case is the presence of one layer of woody crops (trees or shrubs) and another layer of herbaceous crop, (such as for olive trees with wheat fields in the Mediterranean area and intense horticulture, oasis or typical coastal African agriculture, where herbaceous fields are covered by palm trees, etc. etc.). This class also includes different layers of cultivated plants combined with significant areas of natural vegetation: i) mixed herbaceous and woody crops; ii) mosaic crops (>50%) / natural vegetation (<50%); and iii) mosaic natural vegetation (>50%) / crops (< 50%).
 
 Cultivated area equipped for irrigation (%)
-    One of the factors recommended to estimate the infrastructural component of the Drought Vulnerability Index (DVI). The cultivated land that is equipped for irrigation, expressed as a percentage of the total cultivated land. This factor is not valid for the few countries that irrigate pastures. It is calculated by dividing the area equipped for irrigation (which is the area equipped to provide water via irrigation to crops, including full/partial controlled irrigation, equipped lowland areas and areas equipped for spate irrigation) by the cultivated area. This refers to the physical area actually cultivated and does not include land which is temporarily fallow. This factor gives an indication of the short-term coping capacity of the agriculture sector to drought. However, it does not consider if this equipment is in working order, if land is being irrigated or if there is long-term planning on the use of the water resources for irrigation to ensure long-term adaptive capacity.
-    See also ‘Drought Vulnerability Index (DVI)’
+    One of the factors recommended to estimate the infrastructural component of the Drought Vulnerability Index (DVI).
+    The cultivated land that is equipped for irrigation, expressed as a percentage of the total cultivated land. This factor is not valid for the few countries that irrigate pastures. It is calculated by dividing the area equipped for irrigation (which is the area equipped to provide water via irrigation to crops, including full/partial controlled irrigation, equipped lowland areas and areas equipped for spate irrigation) by the cultivated area. This refers to the physical area actually cultivated and does not include land which is temporarily fallow. This factor gives an indication of the short-term coping capacity of the agriculture sector to drought. However, it does not consider if this equipment is in working order, if land is being irrigated or if there is long-term planning on the use of the water resources for irrigation to ensure long-term adaptive capacity.
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Data
     Characteristics of information, usually numerical, that are collected through observation. 
@@ -114,18 +128,19 @@ Deforestation
     Conversion of forest to non-forest. 
 
 Degraded Land
-    Land degradation is the reduction or loss of the biological or economic productivity and complexity of rain‑fed cropland, irrigated cropland, or range, pasture, forest and woodlands resulting from a combination of pressures, including land use and management practices. (Source: UNCCD Good Practice Guidance, SDG Indicator 15.3.1, https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded)
+    Land degradation is the reduction or loss of the biological or economic productivity and complexity of rain‑fed cropland, irrigated cropland, or range, pasture, forest and woodlands resulting from a combination of pressures, including land use and management practices.
+    (Source: UNCCD Good Practice Guidance, SDG Indicator 15.3.1, https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded)
 
 Degree of drought vulnerability
     For the purpose of UNCCD reporting, the assessment of a country’s vulnerability to drought as represented by the Drought Vulnerability Index (DVI).
-    See also ‘Drought Vulnerability Index (DVI)’
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Desertification
     Land degradation in arid, semi-arid and dry sub-humid areas resulting from various factors, including climatic variations and human activities.
 
 Desertification, land degradation and drought (DLDD)
     Summarizes the combined issues and impacts related to desertification, land degradation and drought.
-    See also ‘Desertification’, ‘Land degradation’ and ‘Drought’.
+    *See also ‘Desertification’, ‘Land degradation’ and ‘Drought’.*
 
 Disaggregation
     Disaggregation is the breakdown of observations, usually within a common branch of a hierarchy, to a more detailed level to that at which detailed observations are taken.
@@ -141,7 +156,7 @@ Drought
 
 Drought intensity class
     Class of drought intensity as described by a drought index. For UNCCD reporting, drought intensity class refers to classes of Standardized Precipitation Index (SPI) values by drought intensity: mild drought (0 to -0.99), moderate drought (-1 to -1.49), severe drought (-1.5 to -1.99) and extreme drought (less than -2). As the intensity classes become increasingly extreme, the likelihood of those values occurring (and the time spent in that category) decreases.
-    See also ‘Standardized Precipitation Index (SPI)’
+    *See also ‘Standardized Precipitation Index (SPI)’*
 
 Drought mitigation
     Mitigation is the lessening or minimizing of the adverse impacts of a hazardous event, in this case drought. Mitigation measures include engineering techniques and hazard-resistant construction as well as improved environmental and social policies and public awareness. It should be noted that, in climate change policy, “mitigation” is defined differently, and is the term used for the reduction of greenhouse gas emissions that are the source of climate change.
@@ -174,8 +189,9 @@ Ecosystem services
     The benefits that people obtain from ecosystems. These include: a) provision services such as supply of nutritious food and water; b) regulating services such as climate change mitigation, flood management and disease control; c) cultural services such as spiritual, recreational, and cultural benefits; and d) supporting services, such as nutrient cycling, that maintain the conditions for life on Earth 
 
 Energy consumption per capita
-    One of the factors recommended to estimate the economic component of the Drought Vulnerability Index (DVI). Use of primary energy on a per capita basis, where primary energy refers to energy before transformation to other end-use fuels. This includes indigenous production plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport.7 Though it does reflect climatic, geographic and economic factors, such as the relative price of energy, it is a measure of economic activity, with high-income economies consuming five times as much energy on a per capita basis than low- and middle-income economies. This factor implies that a growing economy would be more able to implement short-term coping and long-term adaptation strategies.
-    See also ‘Drought Vulnerability Index (DVI)’
+    One of the factors recommended to estimate the economic component of the Drought Vulnerability Index (DVI).
+    Use of primary energy on a per capita basis, where primary energy refers to energy before transformation to other end-use fuels. This includes indigenous production plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport.7 Though it does reflect climatic, geographic and economic factors, such as the relative price of energy, it is a measure of economic activity, with high-income economies consuming five times as much energy on a per capita basis than low- and middle-income economies. This factor implies that a growing economy would be more able to implement short-term coping and long-term adaptation strategies.
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Enhanced Vegetation Index (EVI)
     An 'optimized' vegetation index for use with remote sensing data, similar to NDVI. It is designed to enhance the vegetation signal with improved sensitivity in high biomass regions.
@@ -197,11 +213,11 @@ Exposure
 
 False negative
     A result which wrongly indicates that a particular condition or attribute is absent. For UNCCD reporting, a false negative occurs when the One-Out All-Out process has incorrectly resulted in an area being identified as degraded in the context of SDG indicator 15.3.1. 
-    See also “False positive”
+    *See also “False positive”*
 
 False positive
     A result which wrongly indicates that a particular condition or attribute is present. For UNCCD reporting, a false positive occurs when the One-Out All-Out process has incorrectly indicated that an area is not degraded even though the change in land condition is considered sufficiently negative to qualify as degraded in the context of SDG indicator 15.3.1. 
-    See also “False negative”
+    *See also “False negative”*
 
 Financial instrument
     Within the flow categories (see Type of flow) are numerous financial instruments. Financial instruments are categorised as grants, debt instruments (concessional or non-concessional loans, reimbursable grants, bonds and asset-backed securities), equities and shares in collective investment vehicles, insurances. The financial instrument classification also includes instruments that do not necessarily generate a flow (i.e. contingent liabilities) such as guarantees.
@@ -217,30 +233,34 @@ Gain (monitored)
     See also loss (monitored). 
 
 GDP per capita (constant 2010 US dollars)
-    One of the factors recommended to estimate the economic component of the Drought Vulnerability Index (DVI). GDP per capita is gross domestic product (GDP) divided by midyear population. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant 2010 U.S. dollars. This is a proxy for the average standard of living of residents in a country or area.
-    See also ‘Drought Vulnerability Index (DVI)’
+    One of the factors recommended to estimate the economic component of the Drought Vulnerability Index (DVI).
+    GDP per capita is gross domestic product (GDP) divided by midyear population. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant 2010 U.S. dollars. This is a proxy for the average standard of living of residents in a country or area.
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Gender
     Refers to the social attributes and opportunities associated with being male and female, and the relationships between women and men, and girls and boys, as well as the relations between women and those between men. These attributes, opportunities and relationships are socially constructed and are learned through socialization processes. They are context/time specific and changeable. Gender is part of the broader sociocultural context.
 
 Gender equality (Equality between women and men)
-    Gender equality refers to the equal rights, responsibilities and opportunities of women and men and girls and boys. Equality does not mean that women and men will become the same but that women’s and men’s rights, responsibilities and opportunities will not depend on whether they are born male or female. Gender equality implies that the interests, needs and priorities of both women and men are taken into consideration, recognizing the diversity of different groups of women and men. Gender equality is not a women’s issue but should concern and fully engage men as well as women. Equality between women and men is seen both as a human rights issue and as a precondition for, and indicator of, sustainable people-centered development. For the purpose of SO5 reporting, the “gender equality” parameter aims at collecting information on both the relevance of gender equality and mainstreaming in the reported activity, and the gender-related outcomes of the activity. The Gender policy marker included in the OECD DAC CRS allows for the identification of activities targeted to the policy objective. For further information on the scoring system, see https://one.oecd.org/document/DCD/DAC/STAT(2020)44/ADD2/FINAL/en/pdf , pg.48.
+    Gender equality refers to the equal rights, responsibilities and opportunities of women and men and girls and boys. Equality does not mean that women and men will become the same but that women’s and men’s rights, responsibilities and opportunities will not depend on whether they are born male or female. Gender equality implies that the interests, needs and priorities of both women and men are taken into consideration, recognizing the diversity of different groups of women and men. Gender equality is not a women’s issue but should concern and fully engage men as well as women. Equality between women and men is seen both as a human rights issue and as a precondition for, and indicator of, sustainable people-centered development.
+    For the purpose of SO5 reporting, the “gender equality” parameter aims at collecting information on both the relevance of gender equality and mainstreaming in the reported activity, and the gender-related outcomes of the activity. The Gender policy marker included in the OECD DAC CRS allows for the identification of activities targeted to the policy objective. For further information on the scoring system, see https://one.oecd.org/document/DCD/DAC/STAT(2020)44/ADD2/FINAL/en/pdf , pg.48.
 
 Gender-responsive
     Gender-responsive programming and policies intentionally employ gender considerations to affect the design, implementation and results of programs and policies. Gender-responsiveness means paying attention to the unique needs of females, valuing their perspectives, respecting their experiences, understanding developmental differences between girls and boys, women and men and ultimately empowering girls and women.  
 
 Gini Index
-    The Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from a perfectly equal distribution. The Gini index measures the area between the Lorenz curve and the hypothetical line of absolute equality, expressed as a percentage of the maximum area under the line. A Gini index of zero represents perfect equality and 100, perfect inequality.
+    The Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from a perfectly equal distribution. The Gini index measures the area between the Lorenz curve and the hypothetical line of absolute equality, expressed as a percentage of the maximum area under the line.
+    A Gini index of zero represents perfect equality and 100, perfect inequality.
 
 Good practice(s)
     Measures, methods or activities that match a specific objective or are suitable for a specific natural and human environment.
 
 Government effectiveness
     One of the factors recommended to estimate the social component of the Drought Vulnerability Index (DVI). It captures perceptions of the quality of public services, the quality of the civil service and the degree of its independence from political pressures, the quality of policy formulation and implementation, and the credibility of the government’s commitment to such policies. As such, it is one of the proxies to assess a country’s ability to cope with drought events.
-    See also ‘Drought Vulnerability Index (DVI)’
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Government Finance Statistics (GFS) database
-    The Government Finance Statistics (GFS) database from the International Monetary Fund (IMF) contains fiscal data for all reporting countries. It includes detailed data on revenues, expenditures, transactions in financial assets and liabilities, and balance sheet data and includes data for the general government sector and its subsectors (e.g., central government, local government, state government and social security funds). This site also includes preset presentations of GFS data by country and by indicators, as well as provides the option to download data with customized queries. GFS data are compiled by country authorities and reported to the IMF Statistics Department annually. In addition, sub annual (monthly or quarterly) fiscal data can be found in the International Finance Statistics datasets.
+    The Government Finance Statistics (GFS) database from the International Monetary Fund (IMF) contains fiscal data for all reporting countries. It includes detailed data on revenues, expenditures, transactions in financial assets and liabilities, and balance sheet data and includes data for the general government sector and its subsectors (e.g., central government, local government, state government and social security funds). This site also includes preset presentations of GFS data by country and by indicators, as well as provides the option to download data with customized queries.
+    GFS data are compiled by country authorities and reported to the IMF Statistics Department annually. In addition, sub annual (monthly or quarterly) fiscal data can be found in the International Finance Statistics datasets.
 
 Grassland
     For the purpose of UNCCD reporting, this land cover class includes any geographic areas dominated by a vegetative cover of 15% or more, it includes natural shrubs life forms, herbaceous plants (e.g. Forbs and Graminoids, grasslands, prairies, steppes and savannahs) or a combination of them, irrespective of different human and/or animal activities, such as: grazing, selective re-management etc; or consist of life forms of Lichens/Mosses. A separate cover condition exists for Lichens/Mosses that can be only applied if this life form contributes at least 25% to the total vegetative cover. Trees can be present in scattered form if their cover is less than 15%. This class also includes mosaic natural vegetation of herbaceous (>50%) and shrub or trees (<50%). This class also includes any geographic areas were the cover of natural vegetation is between 2% and 15% (sparse): i)natural shrubs cover open to closed (>15%); or ii) natural herbaceous plants cover open to closed (>15%); or iii) sparse natural vegetation (herbaceous, shrubs and trees) (< 15%).
@@ -272,7 +292,7 @@ Improved land
 
 Incentive Schemes
     Incentive schemes such as payment for ecosystem services (PES) only provide alternatives as in ‐ kind payment if people change their behavior in accordance with agreements negotiated in advance.
-    See also ´Alternative livelihoods´ and ´Compensation schemes´  
+    *See also ´Alternative livelihoods´ and ´Compensation schemes´*  
 
 Income
     Income is money that an individual or business receives in exchange for providing a good or service or through investing capital. 
@@ -297,7 +317,7 @@ Land cover
 
 Land cover class
     Class of land cover within a broader set of classes defined within a land cover classification system. It is specified by the properties of the elements that constitute a particular class.
-    See also ‘Classifier, class’, ‘Classification system’, ‘Land Cover’
+    *See also ‘Classifier, class’, ‘Classification system’, ‘Land Cover’*
 
 Land cover degradation
     Land cover degradation is the deterioration or reduction in the quality, extent, or functionality of the physical surface cover of the land, such as vegetation, soil, water bodies, or artificial surfaces, resulting in a diminished capacity to support ecosystem services, biodiversity, and land productivity
@@ -342,7 +362,8 @@ Land unit
     The finest-resolution spatial unit. In most cases this will typically be the extent of land occupied by an image pixel. 
 
 Land use
-    The arrangements, activities and inputs that people undertake in a certain land cover type to maintain it or produce change. NOTE This definition of land use establishes a direct link between land cover and the actions of people in their environment. Multiple land uses can coexist at the same location (e.g. forestry and recreation). This is contrary to the term land cover classes, which are mutually exclusive. 
+    The arrangements, activities and inputs that people undertake in a certain land cover type to maintain it or produce change.
+    NOTE This definition of land use establishes a direct link between land cover and the actions of people in their environment. Multiple land uses can coexist at the same location (e.g. forestry and recreation). This is contrary to the term land cover classes, which are mutually exclusive. 
 
 Land-based natural capital
     The natural capital of land resources. This includes the properties of the soil (chemical, physical and biological factors), geomorphological, biotic and hydrological features, that interact with each other and with climate to determine the quantity and nature of ecosystem services provided by the land. 
@@ -352,21 +373,23 @@ LDN target (country level)
 
 Legend
     Application of a classification in a specific area using a defined mapping scale and specific data set.
-    See also ‘Classification’
+    *See also ‘Classification’*
 
 Leveraging mechanism
     In the context of the SO5 indicators framework, leveraging is intended as the mechanism of mobilization of resources through a range of financial instruments from the private sector. The OECD DAC provides detailed guidance in Annex 6 of the Creditor Reporting System directives on reporting amounts mobilised from the private sector, through a range of leveraging mechanisms, i.e. guarantees, syndicated loans, shares in collective investment vehicles (CIVs), direct investment in companies (DICs) / special purpose vehicles (SPVs), credit lines, simple cofinancing arrangements and project finance schemes extended for development purposes.
 
 Life expectancy at birth
-    One of the factors recommended to estimate the social component of the Drought Vulnerability Index (DVI). Life expectancy at birth refers to the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life. This is an indication of the health status of a country, where a healthier population would be inherently more resilient to drought impacts. 
-    See also ‘Drought Vulnerability Index (DVI)’
+    One of the factors recommended to estimate the social component of the Drought Vulnerability Index (DVI).
+    Life expectancy at birth refers to the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life. This is an indication of the health status of a country, where a healthier population would be inherently more resilient to drought impacts. 
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Like for like
     Refers to the principle of counterbalancing losses in one land type with equivalent (or greater) gains in the same land type elsewhere in order to maintain (or exceed) LDN. 
 
 Literacy rate (per cent of people aged 15 years and above)
-    One of the factors recommended to estimate the economic component of the Drought Vulnerability Index (DVI). The percentage of people aged 15 years and above that can both read and write, with understanding, a short simple statement about their everyday life. The literacy rate is described as an outcome indicator to evaluate educational attainment, although does not necessarily measure the quality of education. It can predict the quality of the labour force and can be used as a proxy instrument to measure the effectiveness of education systems. The accumulated achievement of education is fundamental for further intellectual growth and social and economic development. A high rate of female literacy implies that women can seek and use information for the betterment of the health, nutrition and education of their household members and are empowered to play a meaningful role.11 A populace with a high literacy rate would be better equipped to both cope with drought and implement drought mitigation and adaptation strategies.
-    See also ‘Drought Vulnerability Index (DVI)’
+    One of the factors recommended to estimate the economic component of the Drought Vulnerability Index (DVI).
+    The percentage of people aged 15 years and above that can both read and write, with understanding, a short simple statement about their everyday life. The literacy rate is described as an outcome indicator to evaluate educational attainment, although does not necessarily measure the quality of education. It can predict the quality of the labour force and can be used as a proxy instrument to measure the effectiveness of education systems. The accumulated achievement of education is fundamental for further intellectual growth and social and economic development. A high rate of female literacy implies that women can seek and use information for the betterment of the health, nutrition and education of their household members and are empowered to play a meaningful role.11 A populace with a high literacy rate would be better equipped to both cope with drought and implement drought mitigation and adaptation strategies.
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Livelihood
     A livelihood comprises the capabilities, assets (including both material and social resources) and activities required for a means of living. A livelihood is sustainable when it can cope with and recover from stress and shocks and maintain or enhance its capabilities and assets both now and in the future, while not undermining the natural resource base. 
@@ -386,10 +409,18 @@ Metrics
 
 Mineral soil
     Mineral soils are formed initially by the weathering of parent rock, often accompanied by deposition of material by ice, water and/or wind. As part of the IPCC definition every soil that does not meet the definition of organic soil is considered a mineral soil. 
-    See also “Organic soil”
+    *See also “Organic soil”*
 
 Multilateral contribution, Multi-bilateral contribution
-    The definition of a multilateral contribution is based on two criteria: the multilateral character of the recipient institution and the multilateral character of the contribution. Provider’s contributions that satisfy both criteria and the following conditions should be recorded under the heading "multilateral": a) the recipient institution conducts all or part of its activities in favour of development and developing countries; and, b) the recipient institution: i) is an international agency, institution or organisation whose members are governments, who are represented at the highest decision-taking level by persons acting in an official capacity and not as individuals; or ii) is a fund managed autonomously by a multilateral agency as defined in i); and, c) funds are pooled so that they lose their identity and become an integral part of the recipient institution’s financial assets. Conditions a) and b) define the multilateral character of the agency. Condition c) is a test of the multilateral character of the contribution. If it is not immediately clear whether funds provided to a multilateral organisation can be considered as pooled, determination is made on the basis of the degree of control over the disposal of the funds contributed. If, on scrutiny, it is found that the donor country has maintained control over its contributions to such an extent that the decisions regarding disposal of the funds are on balance taken at the donor’s discretion, the flows concerned should be recorded as bilateral (these contributions are often referred to as “multi-bilateral” or “earmarked” contributions).
+    The definition of a multilateral contribution is based on two criteria: the multilateral character of the recipient institution and the multilateral character of the contribution.
+    Provider’s contributions that satisfy both criteria and the following conditions should be recorded under the heading "multilateral":
+     a) the recipient institution conducts all or part of its activities in favour of development and developing countries; and,
+     b) the recipient institution:
+      i) is an international agency, institution or organisation whose members are governments, who are represented at the highest decision-taking level by persons acting in an official capacity and not as individuals; or
+     ii) is a fund managed autonomously by a multilateral agency as defined in i); and,
+     c) funds are pooled so that they lose their identity and become an integral part of the recipient institution’s financial assets.
+    Conditions a) and b) define the multilateral character of the agency. Condition c) is a test of the multilateral character of the contribution.
+    If it is not immediately clear whether funds provided to a multilateral organisation can be considered as pooled, determination is made on the basis of the degree of control over the disposal of the funds contributed. If, on scrutiny, it is found that the donor country has maintained control over its contributions to such an extent that the decisions regarding disposal of the funds are on balance taken at the donor’s discretion, the flows concerned should be recorded as bilateral (these contributions are often referred to as “multi-bilateral” or “earmarked” contributions).
 
 Natural capital
     The stock of natural resources that provides flows of valuable goods and services. 
@@ -407,13 +438,21 @@ Normalized Difference Vegetation Index (NDVI)
     The Normalized Difference Vegetation Index (NDVI) is an indicator of the greenness of the biomes. Even though it is not a physical property of the vegetation cover, its very simple formulation NDVI = (REF_nir – REF_red)/(REF_nir + REF_red) where REF_nir and REF_red are the spectral reflectances measured in the near infrared and red wavebands respectively, makes it widely used for ecosystems monitoring.
 
 OECD DAC CRS
-    Organization for Economic Co-operation and Development (OECD) Development Assistance Committee (DAC) Creditor Reporting System (CRS). The OECD DAC’s collection of data on resource flows from donors to developing countries. Definitions and approaches used in the default data for SO5-1 and SO5-3 indicators can be found in the OECD DAC Converged Statistical Reporting Directives for the Creditor Reporting System (CRS)   https://one.oecd.org/document/DCD/DAC(2024)40/FINAL/en/pdf ),To access the database: https://stats.oecd.org/Index.aspx?DataSetCode=crs1
+    Organization for Economic Co-operation and Development (OECD) Development Assistance Committee (DAC) Creditor Reporting System (CRS). The OECD DAC’s collection of data on resource flows from donors to developing countries. Definitions and approaches used in the default data for SO5-1 and SO5-3 indicators can be found in the OECD DAC Converged Statistical Reporting Directives for the Creditor Reporting System (CRS)   https://one.oecd.org/document/DCD/DAC(2024)40/FINAL/en/pdf ).
+    To access the database: https://stats.oecd.org/Index.aspx?DataSetCode=crs1
 
 One-out, all-out (1OAO)
     A conservative approach to combining different indicators/metrics to assess status, which follows the precautionary principle (adapted from European Communities, 2013). The one-out, all-out approach is applied to LDN such that where any of the indicators shows significant negative change, it is considered a loss (and conversely, if at least one indicator shows a positive trend and none shows a negative trend it is considered a gain). 
 
 Organic soils
-    Accumulations of organic matter at various stages of decomposition become organic soils and include peat land, muck land, or bogs and fens. Organic soils are identified on the basis of criteria 1 and 2, or 1 and 3 listed below: 1. Thickness of organic horizon ≥10 cm. A horizon of <20 cm must have ≥12% organic carbon when mixed to a depth of 20 cm. 2. Soils that are never saturated with water for more than a few days must contain more than 20% organic carbon by weight (i.e., about 35% organic matter). 3. Soils are subject to water saturation episodes and has either: a. At least 12% organic carbon by weight (i.e., about 20% organic matter) if the soil has no clay; or b. At least 18% organic carbon by weight (i.e., about 30% organic matter) if the soil has 60% or more clay; or c. An intermediate, proportional amount of organic carbon for intermediate amounts of clay. All other types of soils are classified as mineral soils. 
+    Accumulations of organic matter at various stages of decomposition become organic soils and include peat land, muck land, or bogs and fens.
+    Organic soils are identified on the basis of criteria 1 and 2, or 1 and 3 listed below:
+     1. Thickness of organic horizon ≥10 cm. A horizon of <20 cm must have ≥12% organic carbon when mixed to a depth of 20 cm.
+     2. Soils that are never saturated with water for more than a few days must contain more than 20% organic carbon by weight (i.e., about 35% organic matter).
+     3. Soils are subject to water saturation episodes and has either:
+      a. At least 12% organic carbon by weight (i.e., about 20% organic matter) if the soil has no clay; or
+      b. At least 18% organic carbon by weight (i.e., about 30% organic matter) if the soil has 60% or more clay; or
+      c. An intermediate, proportional amount of organic carbon for intermediate amounts of clay. All other types of soils are classified as mineral soils. 
 
 Other Effective Area based conservation measures
     A geographically defined area other than a protected area, which is governed and managed in ways that achieve positive and sustained long-term outcomes for the in‑situ conservation of biodiversity, with associated ecosystem functions and services and, where applicable, cultural, spiritual, socio‑economic and other locally relevant values.
@@ -444,15 +483,15 @@ Population
 
 Population aged 15-64 years (per cent of total population)
     The total population between the ages 15 to 64 as a percentage of the total population. It is an indication of the impacts different age groups have on the environment and on infrastructure, helping in the analysis of resource use and formulation of future policy and planning goals with regard to infrastructure and development.
-    See also ‘Drought Vulnerability Index (DVI)’
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Population below the international poverty line (per cent)
     The percentage of the population living on less than $2.15 a day at 2017 purchasing power.
-    See also ‘Drought Vulnerability Index (DVI)’
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Population using safely managed drinking water services (per cent)
     Proportion of population that is using an improved drinking water source that is located on the premises, available when needed, and free from faecal and priority chemical contamination.
-    See also ‘Drought Vulnerability Index (DVI)’, ‘improved drinking water source’
+    *See also ‘Drought Vulnerability Index (DVI)’, ‘improved drinking water source’*
 
 Poverty line
     A line drawn at a particular level of income or at a particular value of consumption. Households whose incomes fall below the level of the poverty line or whose consumption level is valued at less than the value of the poverty line are classified as poor. Households with incomes or consumption levels valued above this line are described as the non-poor. The international poverty line is currently set at USD 2.15 a day.
@@ -461,13 +500,18 @@ Protected Area
     A legally or effectively managed geographic unit dedicated to long-term biodiversity conservation.
 
 Precipitation
-    The liquid or solid product of the condensation or sublimation of water vapour falling from clouds or deposited from air on to the ground. (Source: World Meteorological Organization and UNESCO, 1998)
+    The liquid or solid product of the condensation or sublimation of water vapour falling from clouds or deposited from air on to the ground.
+    *(Source: World Meteorological Organization and UNESCO, 1998)*
 
 Prevention
     Activities and measures to minimize existing and new disaster risks.
 
 Private resources
-    Private transactions are those undertaken by firms and individuals resident in the reporting country from their own private funds. Private resources comprise both international and domestic transactions on: private long-term capital transactions made by residents of reporting countries, grants by non-governmental organisations (NGOs) and other private sources based in reporting countries; amounts mobilised from the private sector by provider countries’ official development finance interventions: for methodological details in the OECD DAC CRS, see Annex 6 https://one.oecd.org/document/DCD/DAC(2024)40/ADD1/FINAL/en/pdf
+    Private transactions are those undertaken by firms and individuals resident in the reporting country from their own private funds.
+    Private resources comprise both international and domestic transactions on:
+     1. private long-term capital transactions made by residents of reporting countries,
+     2. grants by non-governmental organisations (NGOs) and other private sources based in reporting countries;
+     3. amounts mobilised from the private sector by provider countries’ official development finance interventions: for methodological details in the OECD DAC CRS, see Annex 6 https://one.oecd.org/document/DCD/DAC(2024)40/ADD1/FINAL/en/pdf
 
 Productivity index
     The algorithm used to estimate land productivity levels from image data.
@@ -479,19 +523,22 @@ Proxy
     Indirect and approximate measure in the unavailability of a direct measure based on a specific indicator.
 
 Public Borrowing
-    A fiscal deficit occurs when a government’s budget expenditures exceed revenues. Instead of increasing tax revenue or cutting public expenditure to close a budget deficit, a government may decide to borrow financial resources. A country’s gross government debt (also called public debt, or sovereign debt) is the cumulative financial liabilities of the government sector from borrowing to cover past government deficits. Public borrowing includes the issuance of green bonds (land restoration bonds) and sustainability-linked bonds (land impact bonds).
+    A fiscal deficit occurs when a government’s budget expenditures exceed revenues. Instead of increasing tax revenue or cutting public expenditure to close a budget deficit, a government may decide to borrow financial resources. A country’s gross government debt (also called public debt, or sovereign debt) is the cumulative financial liabilities of the government sector from borrowing to cover past government deficits.
+    Public borrowing includes the issuance of green bonds (land restoration bonds) and sustainability-linked bonds (land impact bonds).
 
 Public expenditure
     Public expenditure – or government spending – includes all government consumption plus subsidies, transfer payments and guarantees (contingent expenditures). In national income accounting, the acquisition by governments of goods and services for current use is classed as government final consumption expenditure. This type of public expenditure – together with public investment into gross capital formation – constitutes one of the major components of GDP of a country. Public expenditures include green subsidies, repurposing subsidies, ecological fiscal transfers, green insurance, and green public procurement. In the context of land issues, applications include land investment subsidies, reducing harm to biodiversity, land service payments, weather insurance for farmers, and purchase of local farm produce by public entities.
 
 Public Investment
-    Public investment constitutes gross capital formation by the government and adds to the stock of public capital in an economy (i.e. the aggregate body of government-owned assets that are used as a means for productivity). In Organisation for Economic Co-operation and Development (OECD) countries, public investment represents about 15 % of total annual investment (public and private). Public investment can boost economic growth and provide the necessary public infrastructure (such as in water, transport, energy, schools and hospitals, public housing) to mobilize and guide private investment activity. Public investments include the establishment of national land funds, and the use of instruments like equity, guarantees, loans, blended finance or public-private partnerships to finance investments on land or building rural infrastructures.
+    Public investment constitutes gross capital formation by the government and adds to the stock of public capital in an economy (i.e. the aggregate body of government-owned assets that are used as a means for productivity). In Organisation for Economic Co-operation and Development (OECD) countries, public investment represents about 15 % of total annual investment (public and private). Public investment can boost economic growth and provide the necessary public infrastructure (such as in water, transport, energy, schools and hospitals, public housing) to mobilize and guide private investment activity.
+    Public investments include the establishment of national land funds, and the use of instruments like equity, guarantees, loans, blended finance or public-private partnerships to finance investments on land or building rural infrastructures.
 
 Public resources
     Public, or official, transactions are those undertaken by central, state or local government agencies at their own risk and responsibility, regardless of whether these agencies have raised the funds through taxation or through borrowing from the private sector. This includes transactions by public corporations i.e. corporations over which the government secures control by owning more than half of the voting equity securities or otherwise controlling more than half of the equity holders’ voting power; or through special legislation empowering the government to determine corporate policy or to appoint directors.
 
 Public Revenue
-    Public revenue – or government or national revenue – is money received by a government from taxes and non-tax sources such as fees. Public revenue as well as public expenditure – or government spending – are components of the government budget and core tools of the government’s fiscal policy. Domestic budget revenue includes revenue by central, regional and local governments, including municipalities. Public revenues include green use of tax revenue, green taxes, environmental tax discounts, green concessions, In the context of land issues, applications include tax revenue for land investment, carbon emissions land tax, land remediation tax relief, water use concessions.
+    Public revenue – or government or national revenue – is money received by a government from taxes and non-tax sources such as fees. Public revenue as well as public expenditure – or government spending – are components of the government budget and core tools of the government’s fiscal policy. Domestic budget revenue includes revenue by central, regional and local governments, including municipalities.
+    Public revenues include green use of tax revenue, green taxes, environmental tax discounts, green concessions, In the context of land issues, applications include tax revenue for land investment, carbon emissions land tax, land remediation tax relief, water use concessions.
 
 Raster data
     Data that are described by a cell grid, one value per cell. The cells are arrayed in a row and column pattern to provide “wall to wall” coverage of a study region. Cell values are used to represent the type or quality of mapped variables, typically those that may change across a region e.g., elevation, mean temperature, slope, average rainfall, or soil moisture.
@@ -506,8 +553,9 @@ Reforestation
     Planting of forests on lands that have previously contained forests but that have been converted to some other use.
 
 Refugee population
+    One of the factors recommended to estimate the economic component of the Drought Vulnerability Index (DVI).
     The population of people recognized as refugees under the following criteria: the 1951 Convention Relating to the Status of Refugees or its 1967 Protocol; the 1969 Organization of African Unity Convention Governing the Specific Aspects of Refugee Problems in Africa; in accordance with the UNHCR statute; and those granted refugee-like humanitarian status or people provided temporary protection. Country of asylum is the country where an asylum claim was filed and granted. Refugee populations are more likely to be exposed to natural hazards (living in makeshift dwellings, etc.) and less capable of coping with disasters.
-    See also ‘Drought Vulnerability Index (DVI)’
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Regional Action Programme (RAP)
     Regional Action Programmes promote and strengthen technical cooperation networks to harmonize, complement and increase the efficiency of national action programmes.The purpose of regional action programmes is to identify the factors contributing to desertification and practical measures necessary to combat desertification and mitigate the effects of drought at regional level. These programmes may include agreed joint programmes for the sustainable management of transboundary natural resources, scientific and technical cooperation, and strengthening of relevant institutions to harmonize, complement and increase the efficiency of national action programmes.
@@ -537,14 +585,20 @@ Restoration
     The process of assisting the recovery of an ecosystem that has been degraded. Restoration seeks to re-establish the pre-existing ecological structure and function, including biotic integrity
 
 Rio marker
-    Indicators developed by the OECD Development Assistance Committee (DAC) to identify activities contributing to meeting the objectives of the three Rio Conventions. Rio Markers in use are: climate change mitigation, climate change adaptation, biodiversity, desertification. A scoring system of three values is used, in which official development finance activities reported to the DAC CRS are screened and “marked” as either (i) targeting the conventions as a “principal” objective (score “2”) or (ii) as a “significant” objective (score “1”), or (iii) not targeting the objective (score “0”). The application of the scoring system is supported by a definition and eligibility criteria for activities contributing to UNCCD. In the context of SO5, Rio Markers are a fundamental tool for the identification of DLDD relevant projects, initiatives or activities for SO5-1 (international financial resources). Part of the default data provided for SO5-1 are reported under the OECD DAC CRS and marked with Rio Marker for desertification (pincipal or significant). For further information on the scoring system under the OECD DAC CRS see Annex 20, https://one.oecd.org/document/DCD/DAC(2024)40/ADD2/FINAL/en/pdf. For further information on the OECD methodology used in the provision of default data for SO5, see https://www.oecd.org/en/publications/development-finance-to-combat-desertification-land-degradation-and-drought_23f62ad9-en.html. For further information on the methodology used to identify DLDD relevant financial resources, see the Good Practice Guidance for National Reporting on Strategic Objective 5
+    Indicators developed by the OECD Development Assistance Committee (DAC) to identify activities contributing to meeting the objectives of the three Rio Conventions. Rio Markers in use are: climate change mitigation, climate change adaptation, biodiversity, desertification. A scoring system of three values is used, in which official development finance activities reported to the DAC CRS are screened and “marked” as either (i) targeting the conventions as a “principal” objective (score “2”) or (ii) as a “significant” objective (score “1”), or (iii) not targeting the objective (score “0”). The application of the scoring system is supported by a definition and eligibility criteria for activities contributing to UNCCD.
+    In the context of SO5, Rio Markers are a fundamental tool for the identification of DLDD relevant projects, initiatives or activities for SO5-1 (international financial resources). Part of the default data provided for SO5-1 are reported under the OECD DAC CRS and marked with Rio Marker for desertification (pincipal or significant).
+    For further information on the scoring system under the OECD DAC CRS see Annex 20, https://one.oecd.org/document/DCD/DAC(2024)40/ADD2/FINAL/en/pdf.
+    For further information on the OECD methodology used in the provision of default data for SO5, see https://www.oecd.org/en/publications/development-finance-to-combat-desertification-land-degradation-and-drought_23f62ad9-en.html.
+    For further information on the methodology used to identify DLDD relevant financial resources, see the Good Practice Guidance for National Reporting on Strategic Objective 5
 
 Rural population (per cent)
+    One of the factors recommended to estimate the social component of the Drought Vulnerability Index (DVI).
     The percentage of the total population that live in rural areas, which is calculated by subtracting the urban population from the total population. may have greater income inequities, and livelihoods that are more dependent on natural resources, for example, which may make them disproportionately vulnerable to drought.
-    See also ‘Drought Vulnerability Index (DVI)’
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Safely managed drinking water source(s)
-    An improved drinking water source which is located on premises, available when needed, and free of fecal and priority chemical contamination. See “Improved drinking water sources”
+    An improved drinking water source which is located on premises, available when needed, and free of fecal and priority chemical contamination.
+    *See “Improved drinking water sources”*
 
 Satellite image/data
     An image of the Earth’s surface made by means of artificial satellites.
@@ -554,7 +608,7 @@ Sex
 
 Social vulnerability factors
     The observable/measured variables, available as global and/or country and sub-national datasets recommended for use in the construction of the social component of the Drought Vulnerability Index (DVI). These factors have been used in scientific literature and recommended by experts to define social vulnerability to drought.
-    See also ‘Drought Vulnerability Index (DVI)’
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Soil Organic Carbon (SOC)
     The amount of carbon stored in soil. SOC is the main component of soil organic matter (SOM). The persistence of SOC is seen as an ecosystem property, in that its level reflects the biogeochemical functioning of the ecosystem. Often, in several modelling approaches, SOC is conceptually divided into sub-pools with fast (Active sub-pool), intermediate (Slow sub-pool), and long (Passive sub-pool) turnover times. In observational studies however, ‘short-lived’ SOC can persist for long periods in the soil if it is, for instance, physically protected from degradation within the soil matrix. Similarly, ‘long-lived’ SOC forms can be rapidly degraded given favourable microbial conditions.
@@ -566,7 +620,8 @@ Soil Organic Carbon (SOC) stock
     The mass of SOC per unit area for a reference soil layer. The reporting standard is SOC stock in tonnes of organic carbon per hectare to a depth of 30 cm. Determination of SOC stock requires measurements of SOC concentration in soil, corrected for water content, soil bulk density and gravel content.
 
 Soil Organic Matter (SOM)
-    Organic carbon in mineral and organic soils (including peat) to a specified soil layer chosen by the country and applied consistently through the time series. Live fine roots (of less than 2 mm diameter) are included with soil organic matter where they cannot be distinguished from it empirically. Note: The definition here does not explicitly mention soil microfauna and microbes, however, these are also included where they cannot be distinguished from the SOM empirically.
+    Organic carbon in mineral and organic soils (including peat) to a specified soil layer chosen by the country and applied consistently through the time series. Live fine roots (of less than 2 mm diameter) are included with soil organic matter where they cannot be distinguished from it empirically.
+    Note: The definition here does not explicitly mention soil microfauna and microbes, however, these are also included where they cannot be distinguished from the SOM empirically.
 
 Spatial disaggregation
     Spatial disaggregation or downscaling is the process by which information at a coarse spatial scale is translated to finer scales while maintaining consistency in the original dataset.
@@ -599,10 +654,17 @@ Status Map
     A spatial representation of the status of land condition, illustrating areas categorized as degraded, stable, or improved compared to the baseline. It can be derived by integrating period assessment results with baseline data and serves as the basis for SDG Indicator 15.3.1 reporting and land degradation neutrality (LDN) monitoring.
 
 Strategic objectives
-    Higher level objectives defined in the context of the UNCCD 2018-2030 Strategic Framework to guide the actions of all UNCCD stakeholders and partners in the 2018-2030 period. More specifically, the UNCCD 2018-2030 Strategic Framework defines the following strategic objectives: Strategic objective 1: To improve the condition of affected ecosystems, combat desertification/land degradation, promote sustainable land management and contribute to land degradation neutrality Strategic objective 2: To improve the living conditions of affected populations Strategic objective 3: To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems Strategic objective 4: To generate global benefits through effective implementation of the United Nations Convention to Combat Desertification Strategic objective 5: To mobilize substantial and additional financial and non-financial resources to support the implementation of the Convention by building effective partnerships at global and national level.
+    Higher level objectives defined in the context of the UNCCD 2018-2030 Strategic Framework to guide the actions of all UNCCD stakeholders and partners in the 2018-2030 period. More specifically, the UNCCD 2018-2030 Strategic Framework defines the following strategic objectives:
+     Strategic objective 1: To improve the condition of affected ecosystems, combat desertification/land degradation, promote sustainable land management and contribute to land degradation neutrality
+     Strategic objective 2: To improve the living conditions of affected populations
+     Strategic objective 3: To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems
+     Strategic objective 4: To generate global benefits through effective implementation of the United Nations Convention to Combat Desertification
+     Strategic objective 5: To mobilize substantial and additional financial and non-financial resources to support the implementation of the Convention by building effective partnerships at global and national level.
 
 Sustainability
-    Sustainability refers to: a. use of the biosphere by present generations while maintaining its potential yield (benefit) for future generations; and/or, b. non—declining trends of economic growth and development that might be impaired by natural resource depletion and environmental degradation.
+    Sustainability refers to:
+     a. use of the biosphere by present generations while maintaining its potential yield (benefit) for future generations; and/or,
+     b. non—declining trends of economic growth and development that might be impaired by natural resource depletion and environmental degradation.
 
 Sustainable consumption and production
     Sustainable consumption and production refers to the use of services and related products, which respond to basic needs and bring a better quality of life while minimizing the use of natural resources and toxic materials as well as the emissions of waste and pollutants over the life cycle of the service or product so as not to jeopardize the needs of future generations.
@@ -638,11 +700,14 @@ Total land area
     The total surface area of a country excluding the area covered by inland waters such as major rivers and lakes.
 
 Total Official Support for Sustainable Development (TOSSD)
-    Total Official Support for Sustainable Development (TOSSD) is a new international standard for measuring the full array of resources in support of the 2030 Agenda. It is designed to monitor all official resources flowing into developing countries for their sustainable development, but also private resources mobilised through official means. (Source: https://www.tossd.org/what-is-tossd/) In the context of SO5, part of the default data provided is sourced from the TOSSD database, providing a more comprehensive overview of the DLDD relevant finance flows towards developing countries. For further information on the methodology used to identify DLDD relevant financial resources, see the Good Practice Guidance for National Reporting on Strategic Objective 5.
+    Total Official Support for Sustainable Development (TOSSD) is a new international standard for measuring the full array of resources in support of the 2030 Agenda. It is designed to monitor all official resources flowing into developing countries for their sustainable development, but also private resources mobilised through official means. (Source: https://www.tossd.org/what-is-tossd/)
+    In the context of SO5, part of the default data provided is sourced from the TOSSD database, providing a more comprehensive overview of the DLDD relevant finance flows towards developing countries.
+    For further information on the methodology used to identify DLDD relevant financial resources, see the Good Practice Guidance for National Reporting on Strategic Objective 5.
 
 Total renewable water resources per capita
+    One of the factors recommended to estimate the infrastructural component of the Drought Vulnerability Index (DVI).
     The total annual actual renewable water resources per inhabitant, including surface and groundwater sources for the whole country. This variable does not take into account whether the water is easily accessible, or safe, but is indicative of how much water each person in a country could have access to at any given time, which may indicate a higher adaptive capacity to drought.
-    See also ‘Drought Vulnerability Index (DVI)’
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Tree-covered areas
     For the purpose of UNCCD reporting, this land cover class includes any geographic area where the vegetative cover is dominant (cover >15%) and consists of a main layer of natural trees with a cover between 15% -100%: i) Tree cover closed to open: >15%; ii) Trees cover open : 15-40%; and iii) Tree cover closed: 40-100%;. Other types of plants (shrubs and/or herbs) can be present, even with a density higher than trees: Mosaic trees and shrubs (>50%) / herbaceous cover (< 50%).
@@ -657,14 +722,16 @@ UNCCD National Action Programmes (NAPs)
     National action programmes (NAPs) are the key instruments to implement the Convention. They are often supported by action programmes at sub-regional (SRAP) and regional (RAP) levels. The NAPs are developed through a participatory approach involving various stakeholders, including relevant governmental offices, scientific institutions and local communities. They spell out the practical steps and measures to be taken to combat desertification in specific ecosystems.
 
 Vector data
-    A representation of the world using points, lines and polygons. Vector models are useful for storing data that has discrete boundaries, such as country borders, land parcels and streets. (Source: https://support.esri.com/en/other-resources/gis-dictionary/term/vector%20data%20model)
+    A representation of the world using points, lines and polygons. Vector models are useful for storing data that has discrete boundaries, such as country borders, land parcels and streets.
+    (Source: https://support.esri.com/en/other-resources/gis-dictionary/term/vector%20data%20model)
 
 Vegetation Index
     Vegetation indices (VIs) are spectral transformations of two or more bands designed to enhance the contribution of vegetation properties and allow reliable spatial and temporal inter-comparisons of terrestrial photosynthetic activity and canopy structural variations. NDVI and EVI are two well know vegetation indices.
 
 Vulnerability
-    Vulnerability refers to conditions determined by physical, social, economic and environmental factors or processes, which increase the susceptibility of an individual, a community, assets or systems to the impacts of hazards, such as drought. Hence, vulnerability is an inherent property of a system that exists independently of the external hazard, i.e. the same level of hazard may impose different consequences in different systems (communities, individuals, countries, regions) due to the distinct underlying vulnerabilities of the systems. In turn, vulnerability to the hazard and its impacts can be altered by the actions of society, such as land and water management practices, among others. For UNCCD reporting, three components of vulnerability are considered: social vulnerability, economic vulnerability and infrastructural vulnerability.
-    See also ‘Drought Vulnerability Index (DVI)’
+    Vulnerability refers to conditions determined by physical, social, economic and environmental factors or processes, which increase the susceptibility of an individual, a community, assets or systems to the impacts of hazards, such as drought. Hence, vulnerability is an inherent property of a system that exists independently of the external hazard, i.e. the same level of hazard may impose different consequences in different systems (communities, individuals, countries, regions) due to the distinct underlying vulnerabilities of the systems. In turn, vulnerability to the hazard and its impacts can be altered by the actions of society, such as land and water management practices, among others.
+    For UNCCD reporting, three components of vulnerability are considered: social vulnerability, economic vulnerability and infrastructural vulnerability.
+    *See also ‘Drought Vulnerability Index (DVI)’*
 
 Water bodies
     For the purpose of UNCCD reporting, this land cover class includes any geographic area covered by inland water bodies with a water persistence of 12 months per year. In some cases the water can be frozen for part of the year (less than 10 months). This class refers to areas that are naturally or artificially covered by water, such as lakes and/or rivers. It includes areas that are covered by water due to the construction of artefacts such as reservoirs, canals, artificial lakes, etc. Without these, the area would not be covered by water. The class also includes coastal water bodies composed on the basis of geographical features in relation to the sea (lagoons and estuaries). Because the geographic extent of water bodies can change, boundaries must be set consistently with this class 7 according to the dominant situation during the year and/or across multiple years. It includes: i) Lakes, rivers and streams (natural/artificial, standing/flowing, inland/sea); ii) Artificial reservoirs; iii) Coastal lagoons; and iv) Estuaries.
