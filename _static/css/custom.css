@@ -348,3 +348,8 @@ blockquote.pull-quote {
 .wy-nav-content {
   max-width: 968px;
 }
+
+div.switch-menus {
+  /* hide the top-left switchers */
+  display: none;
+}
