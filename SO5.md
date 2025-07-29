@@ -374,7 +374,7 @@ The indicator also aims at collecting information on domestic public revenues co
 
 The reference data sources are central government administrations and national statistical offices. A significant international reference data source is the OECD Policy Instruments for the Environment database[^3].
 
-[^3]: The database is freely accessible at www.oecd.org/env/policies/database
+[^3]: The database is freely accessible at <www.oecd.org/env/policies/database>
 
 #### Step 2: Estimate trends in domestic public resources
 
@@ -679,7 +679,7 @@ There is currently no defined methodology for identifying DLDD-relevant activiti
 
 The suggested approach is to draw upon the OECD DAC CRS database for ODA flows, OOF, and Private development finance and the Rio Marker for desertification, and select projects specifically aimed at transferring or developing technologies to combat DLDD or with a relevant component. It is possible to consider resources extended to teaching institutions, research institutes and similar agencies. There are potential interlinkages with projects dealing with technologies for climate adaptation, for which taxonomies and classifications are available[^6],  which could serve as a reference for the identification of relevant technologies.
 
-[^6]: https://tech-action.unepdtu.org/wp-content/uploads/sites/2/2021/04/report-on-taxonomy-of-climate-change-adaptation-technology-including-factsheets-finalbrief-tna-adaptation-taxonomy.pdf.
+[^6]: <https://tech-action.unepdtu.org/wp-content/uploads/sites/2/2021/04/report-on-taxonomy-of-climate-change-adaptation-technology-including-factsheets-finalbrief-tna-adaptation-taxonomy.pdf>.
 
 #### Step 2: Estimate trends in technology transfer resources provided and received
 

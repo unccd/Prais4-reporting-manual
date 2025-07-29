@@ -77,11 +77,11 @@ The SO1 Voluntary Targets form (SO1-VT) can be found under the SO1 main tab of t
 
 Parties have three options if there is pre-filled target information in their national report:
 
-1.	Edit the existing target using the ‘Revise’ button and provide comments in the ‘Revision text’ field after editing imported targets to explain why a previously reported target has been changed; This can be the case for targets that remain valid and for which a country may wish to increase its level of ambition (e.g., by increasing the number of hectares, or reducing the deadline of achievement), or to simply update its formulation (e.g., if a target aimed to increase forest cover by 20%, and a 5% increase has already been achieved by the time of reporting, the target can now be revised to reflect the remaining 15% increase and reported accordingly);
+1. Edit the existing target using the ‘Revise’ button and provide comments in the ‘Revision text’ field after editing imported targets to explain why a previously reported target has been changed; This can be the case for targets that remain valid and for which a country may wish to increase its level of ambition (e.g., by increasing the number of hectares, or reducing the deadline of achievement), or to simply update its formulation (e.g., if a target aimed to increase forest cover by 20%, and a 5% increase has already been achieved by the time of reporting, the target can now be revised to reflect the remaining 15% increase and reported accordingly);
 
-2.	Add a new unreported target using the ‘Add New’ button at the end of the table;
+2. Add a new unreported target using the ‘Add New’ button at the end of the table;
 
-3.	Remove the existing target if it is considered no longer applicable using the ‘Remove’ button in the last column of the table.
+3. Remove the existing target if it is considered no longer applicable using the ‘Remove’ button in the last column of the table.
 
 For any new unreported target, Parties are invited to complete as comprehensively as possible all the fields in table SO1-VT.T1. Parties should also select in the drop-down menu of this table the ‘Level of Application’ of the reported target, i.e. if it is a national or subnational target. If reporting a national target (e.g. “Achieve Land Degradation Neutrality (LDN) by 2030 compared to the 2015 baseline”), the ‘Total target area’ field will be disabled since it is assumed the target has national coverage. Also, Parties are not required to report geospatial information if the target has national application.
 
@@ -93,7 +93,7 @@ Additional information not included in the table may be reported in the “Gener
 
 #### Step 2. Describe implemented actions relevant to the targets
 
-Areas of implemented action (projects and initiatives on the ground) related to the targets can be reported on in table SO1.IA.T1. 
+Areas of implemented action (projects and initiatives on the ground) related to the targets can be reported on in table SO1.IA.T1.
 If Parties already reported implemented actions in PRAIS as part of their 2022 national report, they will be pre-filled in this table.
 
 As in SO1-VT.T1, Parties have the same three options to manage the existing implemented actions in the reporting form (i.e. edit, remove or add new implemented actions).
@@ -112,7 +112,7 @@ There is a dependency between the targets set in table SO1-VT.T1 and the impleme
 
 ### 6.1.5. Challenges
 
-*National coordination*
+**National coordination**
 
 - With respect to the various plans and commitments formulated under the Rio Conventions and/or other related initiatives, there is the risk of lack of coherence, overlap and duplication of efforts. There is scope for better alignment on restoration in national plans between the three Rio Conventions, which could enhance planning and implementation.
 
@@ -120,9 +120,9 @@ There is a dependency between the targets set in table SO1-VT.T1 and the impleme
 
 ### 6.1.6. Additional Resources
 
-- Achieving Land Degradation Neutrality at the Country Level: Building Blocks for LDN Target Setting (https://www.unccd.int/publications/achieving-land-degradation-neutrality-country-level-building-blocks-ldn-target-setting)
-- Goals and Commitments for the Restoration Decade. A global overview of countries’ restoration commitments under the Rio Conventions and other pledges. © PBL Netherlands Environmental Assessment Agency, The Hague, 2020, PBL publication number: 3906 (https://www.pbl.nl/sites/default/files/downloads/pbl-2020-goals-and-commitments-for-the-restoration-decade-3906.pdf)
-- Global Ambition for Land Restoration Report – 2024 (https://grih.info/reports/)
+- Achieving Land Degradation Neutrality at the Country Level: Building Blocks for LDN Target Setting (<https://www.unccd.int/publications/achieving-land-degradation-neutrality-country-level-building-blocks-ldn-target-setting>)
+- Goals and Commitments for the Restoration Decade. A global overview of countries’ restoration commitments under the Rio Conventions and other pledges. © PBL Netherlands Environmental Assessment Agency, The Hague, 2020, PBL publication number: 3906 (<https://www.pbl.nl/sites/default/files/downloads/pbl-2020-goals-and-commitments-for-the-restoration-decade-3906.pdf>)
+- Global Ambition for Land Restoration Report – 2024 (<https://grih.info/reports/>)
 
 ## 6.2. Voluntary targets for strategic objectives 2, 3 and 4
 

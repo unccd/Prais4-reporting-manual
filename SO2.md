@@ -20,16 +20,16 @@ On the other hand, income inequality is a useful alternative to the poverty metr
 
 National reporting is facilitated though the provision of default data. As the proportion of population below the international poverty line by sex, age, employment status and geographical location (urban/rural) is also a Sustainable Development Goal (SDG) indicator (SDG indicator 1.1.1), default data is pre-filled from the United Nations Department of Economic and Social Affairs (UN-DESA) SDG Indicators database[^1] for indicator 1.1.1. If used, this data does not require further validation by the Party. For income inequality (i.e., the Gini index), default data is pre-filled from the World Bank database[^2]. If income inequality data is used, it may require validation by the Party.
 
-[^1]: https://unstats.un.org/sdgs/dataportal/database
-[^2]: https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map
+[^1]: <https://unstats.un.org/sdgs/dataportal/database>
+[^2]: <https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map>
 
 ### 2.1.2. Prerequisites for reporting
 
-- An in-depth reading of SDG indicator 1.1.1 metadata (https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf) and Gini index metadata (https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SI.POV.GINI) .
+- An in-depth reading of SDG indicator 1.1.1 metadata (<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>) and Gini index metadata (<https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SI.POV.GINI>).
 
 - Data complying with the specifications listed in table 15.
 
--	A pool of national experts officially nominated by the national authorities to verify the suitability and consistency of the default data against the situation in their country, or to identify and compile data using national sources for the two metrics. Key institutions might include a country’s national statistical office and the ministry of finance, as well as universities and research centres.
+- A pool of national experts officially nominated by the national authorities to verify the suitability and consistency of the default data against the situation in their country, or to identify and compile data using national sources for the two metrics. Key institutions might include a country’s national statistical office and the ministry of finance, as well as universities and research centres.
 
 ### 2.1.3. Reporting process and step-by-step procedure
 
@@ -118,8 +118,8 @@ Key actions for reporting on indicator SO 2-1 are as follows:
 
 ### 2.1.7. Additional Resources
 
-- Limitations of the SDG Indicator 1.1.1 are discussed in section 4.b of the related metadata document ( https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf)
-- Limitations and exceptions in relation to the Gini index are discussed in this World Bank document (https://databank.worldbank.org/metadataglossary/jobs/series/SI.POV.GINI)
+- Limitations of the SDG Indicator 1.1.1 are discussed in section 4.b of the related metadata document ( <https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)
+- Limitations and exceptions in relation to the Gini index are discussed in this World Bank document (<https://databank.worldbank.org/metadataglossary/jobs/series/SI.POV.GINI>)
 
 ## 2.2. SO 2-2 – Trends in access to safe drinking water in affected areas
 
@@ -131,11 +131,11 @@ In order to quantify safely managed drinking water, the proportion of population
 
 National reporting is facilitated through the provision of default data  pre-filled from the United Nations Department of Economic and Social Affairs (UN-DESA) SDG database[^3]. The proportion of population using safely managed drinking water services is SDG Indicator 6.1.1. The indicator is disaggregated by urban and rural populations, and expressed as a percentage. Custodian agencies for this indicator are the World Health Organization (WHO) and the United Nations Children’s Fund (UNICEF) which, through the Joint Monitoring Programme (JMP) for Water, Sanitation and Hygiene (WASH), have produced regular estimates of national, regional and global progress on drinking water, sanitation and hygiene since 1990.
 
-[^3]: https://unstats.un.org/sdgs/dataportal/database
+[^3]: <https://unstats.un.org/sdgs/dataportal/database>
 
 ### 2.2.2. Prerequisites for reporting
 
-- An in-depth reading of the SDG indicator 6.1.1 metadata (https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf).
+- An in-depth reading of the SDG indicator 6.1.1 metadata (<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>).
 
 - Data complying with the specifications listed in table 16.
 
@@ -187,7 +187,7 @@ Parties opting to use an alternative source of national data may enter the relev
 
 To assist in the data interpretation, countries are encouraged to visualize their respective SDG Indicator 6.1.1 by means of a graph (graphs for each country, representing each disaggregation, i.e., % rural population, % urban population, % total population, are available to view and download from the JMP, World Bank and Our World in Data websites)[^4].  While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table.
 
-[^4]:https://washdata.org/data/household,  https://datatopics.worldbank.org/sdgs/index.html and https://ourworldindata.org/sdgs/clean-water-sanitation
+[^4]:<https://washdata.org/data/household>,  <https://datatopics.worldbank.org/sdgs/index.html> and <https://ourworldindata.org/sdgs/clean-water-sanitation>
 
 #### Step 3:  Verify the results
 
@@ -245,7 +245,7 @@ National reporting is facilitated though the provision of default data derived f
 
 ### 2.3.2. Prerequisites for reporting
 
-- An in-depth reading of the methodological note on trends in population exposure to land degradation (SO2-3) (https://www.unccd.int/sites/default/files/inline-files/MethodologicalNote_PopExposureToLD.pdf).
+- An in-depth reading of the methodological note on trends in population exposure to land degradation (SO2-3) (<https://www.unccd.int/sites/default/files/inline-files/MethodologicalNote_PopExposureToLD.pdf>).
 
 - Population data complying with the specifications listed in table 17.
 
@@ -378,7 +378,7 @@ Key actions for reporting on population exposure to land degradation are as foll
 
 6. **Save form and submit for review**: once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved prior to review by the UNCCD.
 
-### 2.3.7. Additional Resources 
+### 2.3.7. Additional Resources
 
-- Public Release Statement on the WorldPop dataset production: https://data.worldpop.org/repo/prj/Global_2015_2030/R2024B/doc/Global2_Release_Statement_R2024B_v1.pdf
--  Beta Test Our New Global Population Data – 2015 to 2030, WorldPop (https://www.worldpop.org/blog/beta-test-our-new-global-population-data-2015-to-2030/)
+- Public Release Statement on the WorldPop dataset production: <https://data.worldpop.org/repo/prj/Global_2015_2030/R2024B/doc/Global2_Release_Statement_R2024B_v1.pdf>
+- Beta Test Our New Global Population Data – 2015 to 2030, WorldPop (<https://www.worldpop.org/blog/beta-test-our-new-global-population-data-2015-to-2030/>)

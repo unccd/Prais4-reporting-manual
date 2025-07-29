@@ -14,8 +14,8 @@ The RLI value ranges from 1 (all species are categorized as ‘Least Concern’)
 
 The main output of the reporting process for SO 4-2 is a set of officially verified annual estimates of RLI values for 2000–2023. National reporting is facilitated through the provision of default data pre-filled from the SDG database for indicator 15.5.1.
 
-[^1]: https://sdg.tracking-progress.org/indicator/15-5-1-red-list-index/.
-[^2]: IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1. https://www.iucnredlist.org.
+[^1]: <https://sdg.tracking-progress.org/indicator/15-5-1-red-list-index/>.
+[^2]: IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1. <https://www.iucnredlist.org>.
 [^3]: For methodology see: Butchart et al (2010) Global Biodiversity: Indicators of Recent Declines, Science, 328 (5982), pp. 1164–1168. <https://science.sciencemag.org/content/328/5982/1164>.
 
 ### 4.2.2. Prerequisites for reporting
@@ -56,7 +56,7 @@ Related areas in the PRAIS 4 platform: table SO4-2.T2
 
 Countries are encouraged to identify and then rank drivers which directly or indirectly cause negative changes or downward trends. Countries are also encouraged to comment on the policy responses or levers that have caused positive changes, upward trends or reversal of negative trends in the RLI[^5].
 
-[^5]: The direct and indirect drivers available for selection in the table and the levers which can reverse negative trends are summarized from the Intergovernmental Science-Policy Platform on Biodiversity (IPBES) (2019): Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. E. S. Brondizio, J. Settele, S. Díaz, and H. T. Ngo (editors). IPBES secretariat, Bonn, Germany. 1148 pages. Available at: https://ipbes.net/global-assessment.
+[^5]: The direct and indirect drivers available for selection in the table and the levers which can reverse negative trends are summarized from the Intergovernmental Science-Policy Platform on Biodiversity (IPBES) (2019): Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. E. S. Brondizio, J. Settele, S. Díaz, and H. T. Ngo (editors). IPBES secretariat, Bonn, Germany. 1148 pages. Available at: <https://ipbes.net/global-assessment>.
 
 #### Step 3:  Verify the results
 
@@ -94,9 +94,8 @@ Key actions for reporting on RLI are as follows:
 
 ### 4.2.7. Additional Resources
 
-- Butchart et al. (2006) Biodiversity indicators based on trends in conservation status: strengths of the IUCN Red List Index. Conservation Biology 20: 579–581 (http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2006.00410.x/abstract).
-- Butchart et al (2025) Measuring trends in extinction risk: a review of two decades of development and application of the Red List Index. Phil. Trans. R. Soc. B 380: 20230206. (DOI: https://doi.org/10.1098/rstb.2023.0206).  
-
+- Butchart et al. (2006) Biodiversity indicators based on trends in conservation status: strengths of the IUCN Red List Index. Conservation Biology 20: 579–581 (<http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2006.00410.x/abstract>).
+- Butchart et al (2025) Measuring trends in extinction risk: a review of two decades of development and application of the Red List Index. Phil. Trans. R. Soc. B 380: 20230206. (DOI: <https://doi.org/10.1098/rstb.2023.0206>).  
 
 ## 4.3. SO 4-3 Trends in protected area coverage of important biodiversity areas
 
@@ -113,7 +112,6 @@ Protected areas as defined by the IUCN[^7] are clearly defined geographical spac
 OECMs are defined as ‘a geographically defined area other than a protected area, which is governed and managed in ways that achieve positive and sustained long-term outcomes for the in situ conservation of biodiversity, with associated ecosystem functions and services and where applicable, cultural, spiritual, socio-economic, and other locally relevant values’.
 
 The main output of the reporting process for SO 4-3 is a set of officially verified annual estimates of the values of average proportion of terrestrial KBAs covered by protected areas and/or OECMs for 2000–2023. National reporting is facilitated through the provision of default data pre-filled from the United Nations Department of Economic and Social Affairs (UN-DESA) SDG Indicators Database[^8] for indicator 15.1.2 (b).
-
 
 [^6]: For an explanation of categories, see: <https://www.iucn.org/theme/protected-areas/about/protected-area-categories>.
 [^7]: For a detailed methodology, see: A Global Standard for the Identification of Key Biodiversity Areas (IUCN 2016). <https://portals.iucn.org/library/sites/library/files/documents/2016-048.pdf>.

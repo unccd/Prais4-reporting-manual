@@ -106,7 +106,6 @@ SPI and SPEI were calculated based on the most widely used and recommended proba
 The full GMID dataset is available at: https://eidc.ac.uk/
 ```
 
-
 #### Step 2:  Calculate the Standardized Precipitation Index
 
 Monthly time series of the SPI are based on the selected gridded precipitation data and calculated using the SPI-12 method, which provides an annual summary of precipitation deficits for each month using a 12-month accumulation method. For example, the 12-month precipitation accumulation for December 2019 is the total monthly precipitation for January 2019 to December 2019.
@@ -157,14 +156,13 @@ The proportion of land under drought irrespective of intensity class is calculat
 
 For each of the annual SPI-12 grids, the total number of cells falling in any of the SPI drought intensity classes is counted (cellCount). Then, for each reporting year, the percentage of the total land area under drought is calculated. The formula is as follows:
 
-
 $P_{ij} = \frac{cellCount_{ij}}{Total\ number\ of\ cells} \times 100$
 
 Where:
 
 - “P{sub}`ij`” is the proportion of land under drought in the reporting year _j_
 - “cellCount{sub}`ij`” is the total number of pixels under drought in the reporting year _j_
-- •	“Total number of cells” is all the grid cells within the country Party’s land area.
+- “Total number of cells” is all the grid cells within the country Party’s land area.
 
 The total area falling under drought in each year is calculated by multiplying cellCount by the area of the cells (a constant value, since the drought intensity class grid was previously converted to an equal-area projection).
 
@@ -199,7 +197,7 @@ Once the form has been completed and verified by the Parties, it should be marke
 
 ### 3.1.4. Dependencies
 
-Drought hazard data relies on the total land area reported in table CP-1.T1 to calculate the proportion of total land area under drought. SO 3-1 outputs are also used as an input for calculating indicator SO 3-2.             
+Drought hazard data relies on the total land area reported in table CP-1.T1 to calculate the proportion of total land area under drought. SO 3-1 outputs are also used as an input for calculating indicator SO 3-2.
 
 ### 3.1.5. Challenges
 
@@ -209,7 +207,7 @@ Drought hazard data relies on the total land area reported in table CP-1.T1 to c
 
 #### Limitations of the SPI-based estimates
 
-- •	While the SPI is recommended as a well-established, flexible and robust drought index to quantify drought hazard on a global scale, it only quantifies the meteorological deficits, since it is solely based on precipitation, and other types of drought (e.g., hydrological, agricultural) may not be well captured. Moreover, in regions with very low and/or a high proportion of months with zero precipitation, the SPI values should be used and interpreted with caution; the application of the SPEI might be more appropriate in such regions. Being aware of this limitation, the national expert may highlight areas where estimates based on the SPI may not produce sufficiently accurate results and may base the estimates on alternative indexes. A discussion of SPI limitations can be found in section 1.5 of the [“Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/publications/good-practice-guidance-national-reporting-unccd-strategic-objective-3-mitigate-adapt)
+- While the SPI is recommended as a well-established, flexible and robust drought index to quantify drought hazard on a global scale, it only quantifies the meteorological deficits, since it is solely based on precipitation, and other types of drought (e.g., hydrological, agricultural) may not be well captured. Moreover, in regions with very low and/or a high proportion of months with zero precipitation, the SPI values should be used and interpreted with caution; the application of the SPEI might be more appropriate in such regions. Being aware of this limitation, the national expert may highlight areas where estimates based on the SPI may not produce sufficiently accurate results and may base the estimates on alternative indexes. A discussion of SPI limitations can be found in section 1.5 of the [“Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/publications/good-practice-guidance-national-reporting-unccd-strategic-objective-3-mitigate-adapt)
 
 - Hyper arid areas are included in the default SPI data provided. However, the index values over these areas should be considered carefully given the limitations of drought index computation over such areas. These limitations may lead to an over or underestimation of drought events in hyper arid areas.
 
@@ -237,7 +235,7 @@ Key actions for reporting drought hazard intensity values are as follows:
 
 ### 3.1.7. Additional Resources
 
-- WMO, 2018, Guide to climatological practices, second edition. Geneva, Switzerland. (https://library.wmo.int/doc_num.php?explnum_id=5541
+- WMO, 2018, Guide to climatological practices, second edition. Geneva, Switzerland. (<https://library.wmo.int/doc_num.php?explnum_id=5541>
 
 ## 3.2. SO 3-2 – Trends in the proportion of the total population exposed to drought
 
@@ -320,13 +318,13 @@ widths: 1 3 3
   - Minimum metadata content as per the mandatory fields listed in Annex II.
 ```
 
-#### Step 2:  Overlay gridded population data with indicator SO 3-1 spatial output
+#### Step 2: Overlay gridded population data with indicator SO 3-1 spatial output
 
 Indicator SO 3-2 is calculated by overlaying the population data on the drought hazard intensity (SO3-1) spatial data for each year. If non-default data is used gap years should be filled with the closest available population data. For example, if the 2019 data is missing, it should be replaced by the 2020 data (or the closest available year), then 2020 data would be used for both 2019 and 2020. In addition to the total population, sex-disaggregated population data grids, if available, should be used in the overlay process to generate sex-disaggregated drought exposure values.
 
 Population and drought hazard intensity data should have the same coordinate reference system and geographical projection, which should be consistent across the annual reporting periods. Moreover, both data sets need to have the same grid size. To do this the 0.1° x 0.1° (~11.1 km) GMID data should be resampled to a 0.00083º ( ~100 m) grid (same as WorldPop) using the Nearest Neighbour resampling technique.
 
-#### Step 3: CCalculate the proportion of the population exposed within each drought intensity class
+#### Step 3: Calculate the proportion of the population exposed within each drought intensity class
 
 ```{note}
 Related areas in the PRAIS 4 platform: tables SO3-2.T1, SO3-2.T2 and SO3-2.T3
@@ -338,11 +336,11 @@ Similarly, if sex disaggregated data is used, the number of males and females wi
 
 Parties are encouraged to submit narratives in the Comments field associated with tables SO3-2.T1, SO3-2.T2 and SO3-2.T3 on the methodology, data sources and data accuracy in the event that the estimates are derived from non-default alternative global or national data.
 
-#### Step 4:  Create drought exposure maps in four-year periods
+#### Step 4: Create drought exposure maps in four-year periods
 
 In addition to the annual values of indicator SO 3-2 entered in the tables in step 3, drought exposure maps in four-year periods for the entire period are also to be produced externally and uploaded to PRAIS. These exposure maps give an indication of the number of people exposed to the highest intensity drought class over each four-year period for each grid cell. Four-year periods have been chosen to reduce the reporting burden and the quantity of data to be uploaded in PRAIS. See step 5 for indicator 3-1 for more detail on preparing the drought maps.
 
-#### Step 5:  Verify the results
+#### Step 5: Verify the results
 
 Parties should be aware of the limitations of using SPI as a drought indicator (see SO3-1 above)   and critically review the results before submitting the reports to the UNCCD.
 
@@ -359,10 +357,9 @@ Default maps are made available in the PRAIS 4 platform as follows:
 - Total population exposed to drought in 2016–2019
 - Total population exposed to drought in 2020–2023
 
-
 These maps show the highest drought intensity class a population was exposed to within each 4-year period, as explained in Step 4.
 
-PParties that generate maps in Trends.Earth using national or alternative data representing population exposed to drought can upload the same maps listed above to PRAIS 4 should they have sufficient data availability.
+Parties that generate maps in Trends.Earth using national or alternative data representing population exposed to drought can upload the same maps listed above to PRAIS 4 should they have sufficient data availability.
 
 Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data using the “General Comments” field. It would also be beneficial to report on special cases and issues, describing situations where values might be less reliable and providing the rationale for the adoption of a different methodology.
 
@@ -402,7 +399,7 @@ Key actions for reporting population exposure to drought hazard are as follows:
 
 ### 3.2.7. Additional Resources
 
-- Beta Test Our New Global Population Data – 2015 to 2030, WorldPop (https://www.worldpop.org/blog/beta-test-our-new-global-population-data-2015-to-2030/)
+- Beta Test Our New Global Population Data – 2015 to 2030, WorldPop (<https://www.worldpop.org/blog/beta-test-our-new-global-population-data-2015-to-2030/>)
 
 ## 3.3. SO 3-3 – Trends in the degree of drought vulnerability
 
@@ -438,9 +435,9 @@ The step-by-step procedure for reporting is described in the following. If the d
 
 The vulnerability factors (listed in figure 7) recommended by the UNCCD to derive the DVI  provide a snapshot of a Party’s socio-economic vulnerability to drought. The three core factors that have been recommended for the minimum Tier 1 VA are:
 
-1.	Literacy rate (% of people aged 15 and above); 
-2.	Proportion of population below the international poverty line
-3.	Proportion of population using safely managed drinking water services.
+1. Literacy rate (% of people aged 15 and above);
+2. Proportion of population below the international poverty line
+3. Proportion of population using safely managed drinking water services.
 
 These were selected because they were identified by experts as critical to understanding vulnerability and due to their use for other reporting requirements such as SO 2 and the Sustainable Development Goals.
 
@@ -553,7 +550,7 @@ The DVI ranges from 0 to 1, with 1 being the most vulnerable.
 
 A Tier 1 VA would result in one DVI at country-level for each year  where data is available (ideally 2000 to 2023). For Tier 2 and 3 VAs, where sex-disaggregated factors are used, it is recommended that sex-specific DVIs are also calculated, in addition to the country-level DVI. Hence, a Party would report three DVI values for each year available, i.e., for the total, female and male populations. For sub-national or gridded components under Tier 3 VA, the DVI is to be calculated for the smallest spatial unit separately for males, females and total populations. The annual DVI values for males, females and total population should be used to complete table SO3-3.T1.
 
-#### Step 5:  Verify the results
+#### Step 5: Verify the results
 
 The DVI method has not yet been validated at the local or national scale and, as such, may not accurately characterize vulnerability at these scales, either in terms of the factors most relevant to each country or the most effective factor weighting scheme. Therefore, Parties may verify the appropriateness of the default factors and add relevant ones as needed. Any weighting scheme used by Parties should also be thoroughly assessed if used to improve results at national and subnational level.
 
@@ -606,4 +603,3 @@ Key actions for reporting population vulnerable to drought hazard are as follows
 5. **Verify the results**: aware of the fact that the DVI method has not yet been validated at the local or national scale, Parties should verify the appropriateness of the default factors and add relevant ones as needed before officially submitting estimates for UNCCD reporting.
 
 6. **Save form and submit for review**: once verified by the Parties, the data and supporting narrative for the period assessed should be marked as “In Review” and saved prior to review by the UNCCD.
-

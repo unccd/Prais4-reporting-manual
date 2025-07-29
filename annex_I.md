@@ -10,10 +10,9 @@ Decision 17/COP.11 para. 14 requests the secretariat to develop a policy to acce
 
 There are three mechanisms to share non-default reporting datasets in PRAIS:  
 
-1.	Uploading data directly to PRAIS and supplying metadata (information about the dataset) on the forms provided;
-2.	Via data transfer from Trends.Earth (when using national data for calculating UNCCD indicators in Trends.Earth);
-3.	Creating spatial reporting data on the Spatial Data Viewer in PRAIS.
-
+1. Uploading data directly to PRAIS and supplying metadata (information about the dataset) on the forms provided;
+2. Via data transfer from Trends.Earth (when using national data for calculating UNCCD indicators in Trends.Earth);
+3. Creating spatial reporting data on the Spatial Data Viewer in PRAIS.
 
 ## 3. Licence Instructions
 
@@ -27,28 +26,28 @@ The Creative Commons (CC) licences are a well-developed, tested suite of licence
 
 - Non-Commercial (NC): This condition indicates that the data can be reused and combined, but not for commercial purposes. This ensures that corporations cannot make profit on your data, but there are use cases that are not so clear-cut and may hinder reuse that you would be okay with.
 
-Additionally, the Creative Commons Universal Public Domain Dedication 1.0 (CC0) is available for waiving copyright and dedicating data to the worldwide public domain. See [here](https://creativecommons.org/publicdomain/zero/1.0/deed.en) for further information.
+Additionally, the Creative Commons Universal Public Domain Dedication 1.0 (CC0) is available for waiving copyright and dedicating data to the worldwide public domain. See <https://creativecommons.org/publicdomain/zero/1.0/deed.en> for further information.
 
 Figure 10 provides an overview of the public domain dedication and each Creative Commons licence and whether they allow remixes, commercial use, free cultural works and if they meet the ‘open’ definition.
 
 ![](/img/fig10.png)
 
-_**Figure 10**. Overview of various CC license options (source: Wikipedia, further information can be found at https://creativecommons.org/share-your-work/cclicenses/)_
+_**Figure 10**. Overview of various CC license options (source: Wikipedia, further information can be found at <https://creativecommons.org/share-your-work/cclicenses/>)_
 
 As explained in the introduction of this reporting manual, Parties are strongly recommended to maximize the interoperability and impact of their reported data and support legal, confident, and consistent reuse of national data by the secretariat. Therefore, they are encouraged to select an open licence for their national country Party data, choosing either:
 
-- The Creative Commons Universal *Public Domain Dedication 1.0 (CC0)*. See [here](https://creativecommons.org/publicdomain/zero/1.0/deed.en) for further information;
+- The Creative Commons Universal _Public Domain Dedication 1.0 (CC0)*. See <https://creativecommons.org/publicdomain/zero/1.0/deed.en> for further information;
 
-- The open Creative Commons *Attribution 4.0 International (CC BY) licence*, which means users of the data are free to:
+- The open Creative Commons _Attribution 4.0 International (CC BY) licence*, which means users of the data are free to:
 
-    -	Share — Copy and redistribute the material in any medium or format.
-    -	Adapt — Remix, transform, and build upon the material.
+  - Share — Copy and redistribute the material in any medium or format.
+  - Adapt — Remix, transform, and build upon the material.
 
 However, in return for using the data, users must respect the following terms:
 
--	Attribution — Users must give appropriate credit, provide a link to the licence and indicate if changes were made. Users may do so in any reasonable manner.
+- Attribution — Users must give appropriate credit, provide a link to the licence and indicate if changes were made. Users may do so in any reasonable manner.
 
-See [here](https://creativecommons.org/licenses/by/4.0/deed.en) for further information (translated into all United Nations languages).
+See <https://creativecommons.org/licenses/by/4.0/deed.en> for further information (translated into all United Nations languages).
 
 Either of these options will ensure national data can be legally, confidently, and consistently reused across systems for better tracking of global and regional status and trends in land degradation and drought and for seamless data sharing with UNCCD partners.
 
@@ -70,5 +69,3 @@ The UNCCD shall not be held responsible for any use of information beyond that s
 Therefore, country Parties should familiarize themselves with the options described above and fill out the licence form accordingly.
 
 Parties should note that if no USL form is submitted then the default CC BY-NC 4.0 license will apply to the submitted Data.
-
-

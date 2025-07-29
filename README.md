@@ -44,4 +44,3 @@ PDF version is available [here](https://buildmedia.readthedocs.org/media/pdf/pra
     texlive-lang-arabic
     texlive-lang-chinese
     texlive-lang-cjk
-

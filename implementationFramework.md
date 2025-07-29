@@ -14,33 +14,29 @@ The implementation framework describes the approach adopted to support and imple
 
 For the 2026 reporting process, the relevant part of the implementation framework is placed separately under each SO. For SO1- SO4 these sections focus on two broad areas:
 
-
 **(a) Policy and planning**
 
-Sharing experiences in: 
-(i) the development, implementation and monitoring of national, subregional and regional action programmes and/or plans for UNCCD implementation; 
-(ii) the establishment of policies and enabling environments; 
+Sharing experiences in:
+(i) the development, implementation and monitoring of national, subregional and regional action programmes and/or plans for UNCCD implementation;
+(ii) the establishment of policies and enabling environments;
 (iii) mainstreaming of efforts to combat desertification/land degradation and drought (DLDD);
 (iv) improvements in drought preparedness and management.
 (v) leveraging of synergies with other Conventions and goals.
 
-
 **(b) Actions on the ground**
 
-Sharing experience in: 
+Sharing experience in:
 (i) successful implementation practices used to achieve sustainable land management;
-(ii) establishing knowledge sharing systems; 
+(ii) establishing knowledge sharing systems;
 (iii) drought risk management and early warning systems;
 (iv) alternative livelihoods.
 
-
 **(c) Financial and non-financial resources**
 
-Sharing experiences in: 
-(i) the development, implementation and monitoring of national strategies for mobilizing resources for UNCCD implementation; 
+Sharing experiences in:
+(i) the development, implementation and monitoring of national strategies for mobilizing resources for UNCCD implementation;
 (ii) leveraging of synergies with other Conventions and goals, especially in relation to mobilizing resources;
 (iii) national circumstances and institutional arrangements relevant to the reporting process on Strategic Objective 5 and the progress indicators.
-
 
 ### 7.1.2. Approach to reporting and structure of the reporting template
 
@@ -60,7 +56,7 @@ The following sections in this reporting manual provide advice on the specific c
 
 ## 7.2. Policy and planning
 
-Parties are encouraged to answer questions related to the following five main topics. Not all SOs address all of these topics. 
+Parties are encouraged to answer questions related to the following five main topics. Not all SOs address all of these topics.
 
 ### 7.2.1. Action plans and programmes
 
@@ -80,9 +76,9 @@ Relevant to SO1, SO2, SO3
 
 This section focuses on identifying policies, legislative measures, funding mechanisms and other organizational processes that have been established to ensure an enabling environment for promoting and implementing solutions to:
 
-1.	combat desertification/land degradation (SO1);
-2.	address inclusion of underrepresented groups in the implementation of the Convention (SO2) and 
-3.	combat drought and promote drought resilience (SO3).
+1. combat desertification/land degradation (SO1);
+2. address inclusion of underrepresented groups in the implementation of the Convention (SO2) and
+3. combat drought and promote drought resilience (SO3).
 
 The reporting template encourages Parties to list and describe the most important enabling activities related to the SO. Parties should be as comprehensive as possible in describing these, identifying the status of the activity, any successes achieved and the challenges that are being addressed in its implementation.
 
@@ -110,7 +106,7 @@ Parties are invited to identify any national drought plans. Should such a plan e
 
 A file with further information may also be uploaded. This might include additional information, for example on the establishment of a multi-stakeholder coordination mechanism (body) on drought preparedness, establishment and maintenance of a drought monitoring and early warning system, drought vulnerability and impact assessments at various levels (sector wide, regional or national), and/or implementation of practical drought risk mitigation measures (such as water harvesting, crop insurance and/or irrigation practices). Additional information may also report on gender-responsive drought management, preparedness and resilience-building. In this regard, of special interest would be a description of the approach/procedure used to develop drought preparedness and/or contingency plans.
 
-Parties may include information on the coverage (national/local) of the drought policy/measure and list the authorities and other main stakeholders involved in the implementation. They may also include the main aims and activities of the drought policy/measure, the actions taken and the results achieved so far, including the main success factors. 
+Parties may include information on the coverage (national/local) of the drought policy/measure and list the authorities and other main stakeholders involved in the implementation. They may also include the main aims and activities of the drought policy/measure, the actions taken and the results achieved so far, including the main success factors.
 
 ### 7.2.5 Synergies
 
@@ -144,7 +140,7 @@ This form allows Parties to report on their implementation of sustainable land m
 
 In addition to the table to be completed, Parties can expand on their experience through the Comments field of by uploading a file. Furthermore, Parties may provide links to documented good practices that have been uploaded to the UNCCD´s designated/accredited World Overview of Conservation Approaches and Technologies (WOCAT) database[^1] or another similar online database. Parties wishing to document new good practices are encouraged to do so using the WOCAT database
 
-[^1]:https://qcat.wocat.net/en/wocat/
+[^1]:<https://qcat.wocat.net/en/wocat/>
 
 ### 7.3.2. Establishing knowledge-sharing systems
 
@@ -160,7 +156,7 @@ Parties are encouraged to describe their experience in establishing systems for 
 
 Knowledge-sharing systems range from community-level farmers’ networks to national databanks and multi-country peer learning networks. They have a variety of functions, such as facilitating communication on SLM and alerts on drought, the sharing of experiences, information and technologies, institutional coordination, provision of scientific data and information, and promotion of the upscaling of good practices. The description to be included on the form or uploaded as a separate file may also include information on experiences in promoting women’s access to knowledge and technology.
 
-Via the available reporting table, when available, a list of the international, regional, national or subnational information/knowledge-sharing systems and networks on DLDD in which the country participates should be included. If possible, a link to each system/network website should be added. The list, together with the links, will be made available on the UNCCD website at https://www.unccd.int/resources/knowledge-sharing-systems.
+Via the available reporting table, when available, a list of the international, regional, national or subnational information/knowledge-sharing systems and networks on DLDD in which the country participates should be included. If possible, a link to each system/network website should be added. The list, together with the links, will be made available on the UNCCD website at <https://www.unccd.int/resources/knowledge-sharing-systems>.
 
 The table also allows Parties to provide a description of each experience, They are encouraged to include information on the purpose and coverage (area/population) of the information/knowledge system or network, its specific focus/topic if any, the language(s) the information is available in, and a brief description of the main activities. They may also explain how the system/network has been used/useful so far, and the main success factors and challenges encountered.
 
@@ -206,7 +202,7 @@ In addition to the table to be completed, Parties can expand on their experience
 
 In the description, Parties may include information on the type of activities, people involved, aim of the activities, and action taken. In reporting on capacity-building, extension services and other activities, if possible indicate the numbers or percentage of participants who were women, youth, indigenous people and/or local community members. The narrative should also describe the outcomes of the activities and the main success factors.
 
-Parties are also asked to indicate how the UNCCD Community of Learning and Practice on Drought Management has supported the efforts in developing drought risk management plans and early warning systems. 
+Parties are also asked to indicate how the UNCCD Community of Learning and Practice on Drought Management has supported the efforts in developing drought risk management plans and early warning systems.
 
 Furthermore, Parties may describe any support provided to another country to develop and operationalize drought risk management, monitoring and early warning systems and safety net programmes. In the description, it is recommended to include information on the type of practice, main activities, main stakeholders involved, duration, and resources used. The reasons for the successful implementation of this practice, how it has avoided or reduced land degradation in the long term, and the main success factors should also be reported.
 
@@ -239,7 +235,6 @@ Relevant to SO5
 ```
 
 This refers to strategies and actions aimed at leveraging synergies in DLDD-related activities and integrating DLDD in planning and implementation to generate simultaneous benefits and added value for other multilateral environmental agreements or international commitments. In relation to SO5 Parties can provide information on synergies in the mobilization of financial and non-financial resources for the three Rio Conventions. If such synergies exist, Parties are asked to describe their experience, including challenges and opportunities. Parties could also indicate and provide details if relevant on whether they plan to mobilize resources jointly for the three Rio Conventions in the future.
-
 
 ### 7.4.3. Reporting process
 

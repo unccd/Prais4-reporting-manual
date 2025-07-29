@@ -1,0 +1,13 @@
+{
+  "line-length": {
+    "strict": false,
+    "line_length": 9999,
+    "code_blocks": false
+  },
+  "strong-style": {
+    "style": "asterisk"
+  },
+  "no-duplicate-heading": false,
+  "no-alt-text": false,
+  "no-emphasis-as-heading": false
+}
