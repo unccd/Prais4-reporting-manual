@@ -1159,7 +1159,7 @@ Related areas in the PRAIS 4 platform: table SO1-3.T2
 
 This step is required if a modified tier 1 or a tier 2 approach is adopted. Approaches to estimating SOC changes for a Tier 3 implementation are presented in step 5. As mentioned in the previous step, to estimate changes in soil organic carbon (SOC) stocks, conversion coefficients for land cover transitions are applied. The default conversion coefficients represent the proportional change in SOC stocks over a 20-year period following a land cover conversion. Figure 3 shows the default conversion coefficients. In this figure each cell represents a conversion coefficient, which indicates the proportional change in SOC stocks 20 years after a land cover change. The cells with a value of "1" (light yellow) indicate that there was no change in SOC stocks even if a land cover transition occurred. Cells with values lower than 1 (purple) indicate SOC loss after conversion. Cells with values higher than 1 (green) indicate SOC gains after conversion.
 
-![](/img/Fig3.png)
+![](/img/fig3.png)
 Figure 3: Default Land Use Conversion Coefficients for Soil Organic Carbon (SOC) Stock Changes. Source: [Trends.Earth User Guide](https://docs.trends.earth/en/latest/index.html)
 
 Since the rate of SOC sequestration is influenced by environmental factors such as precipitation, evaporation, solar radiation, and temperature, it is not reasonable to apply the same conversion coefficient to vastly different climatic conditions. For instance, SOC loss due to land conversion in a cold and dry region will occur at a different rate than in a hot and humid region. To account for this regional variability, different sets of conversion coefficients are assigned based on climate zones:
