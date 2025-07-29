@@ -78,12 +78,24 @@ The default UNCCD land cover legend includes the following seven classes: tree-c
 
 [^1]: The default UNCCD land cover legend for aggregate reporting is a modified version of the Intergovernmental Panel on Climate Change land use categories, where ‘water bodies’ are separated from ‘wetlands’ and grouped in a seventh class including: lakes, rivers and streams (natural/artificial, standing/flowing, inland/sea), artificial reservoirs, coastal lagoons, and estuaries.
 
-It is important to highlight that the objective of SO 1-1 reporting is to capture and document past and ongoing key land cover changes causing land degradation, not to report a fully comprehensive national land cover legend which lists all possible land cover classes occurring within a country. Accordingly, a mapping exercise to should be undertaken to  national land cover legends should be customize the land cover legend such that it willd to only include only the minimum number of classes needed to capture and monitor land degradation processes reported on in Step 12. To illustrate, during the 2022 reporting cycle, some Parties implemented country-specific adaptations to the land cover legends. See Box 1 to read more on these legend adaptation examples.
+It is important to highlight that the objective of SO 1-1 reporting is to capture and document past and ongoing key land cover changes causing land degradation, not to report a fully comprehensive national land cover legend which lists all possible land cover classes occurring within a country.
+Accordingly, a mapping exercise should be undertaken to customize the land cover legend such that it will include only the minimum number of classes needed to capture and monitor land degradation processes reported on in Step 1.
+To illustrate, during the 2022 reporting cycle, some Parties implemented country-specific adaptations to the land cover legends. See Box 1 to read more on these legend adaptation examples.
 
-```{note} Box 1: Country-specific adaptations to the land cover legend
-Countries with highly diverse environments and contrasting land degradation processes often require a more detailed land cover classification. In these cases, increasing the number of land cover classes or subdividing the country into regions for tailored analysis is essential. For example, during Colombia’s 2022 reporting process, experts highlighted glacier retreat and snow cover reduction as key degradation processes.  To monitor such changes effectively, the standard seven UNCCD land cover classes were insufficient. After careful analysis of national land cover maps, experts determined that a minimum of 12 land cover classes was necessary, including the addition of Permanent Snow and Glaciers.  
-Even in the absence of national land cover datasets, countries can modify the default land cover legend from the datasets provided by the UNCCD to better align with national dynamics.  
-The standardized global land cover maps are derived from the ESA-CCI dataset, which originally includes 36 classes but is reclassified and mapped into seven broad categories for aggregate reporting. However, these 36 land cover classes can be re-classified differently to capture key land degradation processes at the national level. For example, Bhutan utilized the default land cover dataset but applied their own reclassification approaches to ensure that shrublands were explicitly represented. In Bhutan, woody encroachment was identified as a significant degradation process, necessitating the differentiation of shrublands from forests. After evaluating various reclassification options, experts adopted a seven-class legend that included shrublands while merging wetlands with water bodies, as Bhutan wetlands were not well mapped in the ESA-CCI dataset. 
+```{admonition} Box 1: Country-specific adaptations to the land cover legend
+
+Countries with highly diverse environments and contrasting land degradation processes often require a more detailed land cover classification.
+In these cases, increasing the number of land cover classes or subdividing the country into regions for tailored analysis is essential.
+For example, during Colombia’s 2022 reporting process, experts highlighted glacier retreat and snow cover reduction as key degradation processes.
+To monitor such changes effectively, the standard seven UNCCD land cover classes were insufficient. After careful analysis of national land cover maps, experts determined that a minimum of 12 land cover classes was necessary, including the addition of Permanent Snow and Glaciers.
+
+Even in the absence of national land cover datasets, countries can modify the default land cover legend from the datasets provided by the UNCCD to better align with national dynamics.
+
+The standardized global land cover maps are derived from the ESA-CCI dataset, which originally includes 36 classes but is reclassified and mapped into seven broad categories for aggregate reporting.
+However, these 36 land cover classes can be re-classified differently to capture key land degradation processes at the national level. For example, Bhutan utilized the default land cover dataset but applied their own reclassification approaches to ensure that shrublands were explicitly represented.
+In Bhutan, woody encroachment was identified as a significant degradation process, necessitating the differentiation of shrublands from forests.
+After evaluating various reclassification options, experts adopted a seven-class legend that included shrublands while merging wetlands with water bodies, as Bhutan wetlands were not well mapped in the ESA-CCI dataset.
+
 More details on these and other examples can be found in the chapter entitled “Trends in Land Cover” in the publication The Land Story (UNCCD, 2024).
 ```
 
@@ -302,11 +314,19 @@ Land cover change processes are color coded as improvement (green), stable (yell
 
 Depending on the land cover legend selected in Step 2, Parties will need to provide their interpretation of land cover transitions using tables SO1-1.T3 for (i) UNCCD default land cover classes; (ii) or national land cover classes.
 
-Table SO1-1.T3 gives the option to provide one transition matrix covering the total land area of the country or up to five region specific transition matrices. This may be appropriate where a country has more than one ecoregion and transitions vary regionally.  See Box 2 for an example of a country that took this approach in the 2022 reporting. If this option is chosen, Parties should give each added region a unique name and upload a vector file delineating the regional border.  The relevant land cover transitions for each region should then be defined.  The combined land area for the region-specific transition matrices must sum to the total land area for the country. These calculations should be carried out external to PRAIS in Trends.Earth or another computing environment.
+Table SO1-1.T3 gives the option to provide one transition matrix covering the total land area of the country or up to five region specific transition matrices.
+This may be appropriate where a country has more than one ecoregion and transitions vary regionally.
+See Box 2 for an example of a country that took this approach in the 2022 reporting.
+If this option is chosen, Parties should give each added region a unique name and upload a vector file delineating the regional border.
+The relevant land cover transitions for each region should then be defined.
+The combined land area for the region-specific transition matrices must sum to the total land area for the country.
+These calculations should be carried out external to PRAIS in Trends.Earth or another computing environment.
 
-The PRAIS 4 platform includes functions to modify the default transition matrix data and assign a ‘–’ or ‘+’ sign to each transition depending on whether it causes a degradation or improvement of the land according to national circumstances. However, if opting to modify the default transition matrix (i.e. table SO1-1.T3), the transition matrix should first be edited in Trends.Earth so that the reported transitions can be integrated into the calculations of the SO 1-1 outputs and SDG indicator 15.3.1. Editing the transition matrix in PRAIS 4 alone will not result in a recalculation of the spatial data for SO 1-1.
+The PRAIS 4 platform includes functions to modify the default transition matrix data and assign a ‘–’ or ‘+’ sign to each transition depending on whether it causes a degradation or improvement of the land according to national circumstances.
+However, if opting to modify the default transition matrix (i.e. table SO1-1.T3), the transition matrix should first be edited in Trends.Earth so that the reported transitions can be integrated into the calculations of the SO 1-1 outputs and SDG indicator 15.3.1.
+Editing the transition matrix in PRAIS 4 alone will not result in a recalculation of the spatial data for SO 1-1.
 
-```{note} Box 2: Defining regional transition
+```{admonition} Box 2: Defining regional transition
 
 In Ecuador, experts developed a land cover assessment methodology that divided the country into homogeneous zones, each with distinct environmental characteristics (Figure 2). The proposed zoning included:
 - Litoral Seco: Areas with ustic or aridic moisture regimes.
@@ -319,7 +339,8 @@ In Ecuador, experts developed a land cover assessment methodology that divided t
 
 _**Figure 2.** Ecuador defined six subnational ecoregions for which specific transition matrices were established._
 
-Once ecoregions were defined, a specific transition matrix for each zone was established, by incorporating local expertise and stakeholder input. These zone-specific transition matrices ensured that land cover changes were assessed within their ecological and socio-economic context, rather than by applying a uniform classification across the entire country. Finally, the results from each region were integrated to provide a national-level assessment that reflects local realities while maintaining coherence in LDN and SDG indicator 15.3.1 monitoring.
+Once ecoregions were defined, a specific transition matrix for each zone was established, by incorporating local expertise and stakeholder input. These zone-specific transition matrices ensured that land cover changes were assessed within their ecological and socio-economic context, rather than by applying a uniform classification across the entire country.
+Finally, the results from each region were integrated to provide a national-level assessment that reflects local realities while maintaining coherence in LDN and SDG indicator 15.3.1 monitoring.
  
 Another example on tailoring the transition matrix can be found in the chapter entitled “Trends in Land Cover” in the publication The Land Story (UNCCD, 2024)
 ```
@@ -352,7 +373,7 @@ Parties should report the annual land cover extent (in km2) per land cover class
 ```{tabularcolumns} |p{2cm}|p{5cm}|p{7cm}|
 ```
 
-```{flat-table} *__Table 10__. Data specifications for SO 1-1 indicator*
+```{flat-table} *__Table 10__. Land cover data specifications for SO 1-1 indicator*
 ---
 header-rows: 2
 stub-columns: 1
@@ -377,7 +398,7 @@ widths: 1 3 4
   only include land cover classes of relevance to the reported land degradation processes.
  * - Temporal coverage
    - Annual data from the year 2000 to the year 2022 (2023 not available from the data providers at the time of publication of this manual)
-   - The  minimum requirement is for data at intervals, namely, 2000, 2015, 2019 and 2023, or closest available year.
+   - The minimum requirement is for data at intervals, namely, 2000, 2015, 2019 and 2023, or closest available year.
  * - Spatial resolution
    - 300 metres (m)
    - The desired spatial resolution is 100m or finer. If such data is not available,
@@ -413,7 +434,7 @@ Default national estimates of land cover change and land cover degradation for t
 #### Step 6: Estimate land cover degradation for the reporting period
 
 ```{note}
-Related areas in the PRAIS 4 platform: tables  SO1-1.T6 and SO1-1.T7
+Related areas in the PRAIS 4 platform: tables SO1-1.T6 and SO1-1.T7
 ```
 
 Default national estimates of land cover change and land cover degradation for the reporting period are made available in tables SO1-1.T6 and SO1-1.T7, respectively. These estimates are calculated by comparing the land cover in the most recent available year of the reporting period (i.e. ideally 2023, but 2022 for the default data) with that of the initial year of the reporting period (2016). These estimates can be accepted, adjusted or replaced using national data, as appropriate.
@@ -438,7 +459,7 @@ The PRAIS 4 platform enables the reporting of quantitative information on land c
 
 Information on land cover, land cover changes and land cover degradation should be reported in km2 for the entire country.
 
-If the default datasets have been replaced with national land cover data, countries are encouraged to upload the relevant geospatial data to PRAIS. Any spatial data uploaded to the system must be supported by appropriate metadata describing the spatial data, as indicated in the data source form and further described in Annex II of this manual.
+If the default datasets have been replaced with national land cover data, countries are encouraged to upload the relevant geospatial data to PRAIS. Any spatial data uploaded to the system must be supported by appropriate metadata describing the spatial data, as indicated in the data source form and further described in [Annex II](annex_II.md) of this manual.
 
 Default maps or maps generated in Trends.Earth using national data representing land cover, land cover change and land cover degradation for the baseline/reporting period are made available in the PRAIS 4 platform. More specifically, the following maps will be available online:
 
@@ -973,16 +994,16 @@ Once the form has been completed and verified by the Parties, it should be marke
 
 ### 1.2.4. Dependencies
 
-Land productivity data relies on the land cover data reported under SO 1-1 to disaggregate land productivity classes. The ‘per cent of total land area’ field in reporting tables SO1-2.T3  is dependent on the total land area reported in table CP-1.T1.
+Land productivity data relies on the land cover data reported under SO 1-1 to disaggregate land productivity classes. The ‘per cent of total land area’ field in reporting tables SO1-2.T3 is dependent on the total land area reported in table CP-1.T1.
 
 ### 1.2.5. Challenges
 
-Data availability and quality
+**Data availability and quality**
 
 - Spatial resolution of international data might not always be suitable to produce a sufficiently detailed representation of the land productivity dynamics at the national level, especially for SIDS or mountainous countries. Alternative LPD datasets including those that may be appropriate for SIDS are discussed in the [Addendum to the Good Practice Guidance](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land) (section 3.2.3).
 - Land productivity in certain climatic zones where the annual growing season is highly variable or erratic, or where there is sparse or no vegetation, is difficult to accurately measure, resulting in no data for these areas. Areas of dense vegetation and year-round growth, as in the humid tropics, can also show little variation in productivity, making data unreliable. A discussion of efforts to enhance the assessment of land productivity in hyperarid areas can be found in the [Addendum to the Good Practice Guidance](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land) (section 3.2.1).
 
-Analytical approach
+**Analytical approach**
 
 - It is important to consider that applying a 16-year window for the reporting period of land productivity versus an 8-year window for land cover and SOC stock changes will likely increase the impact of productivity (compared to the other indicators) when they are combined to derive the SDG indicator 15.3.1.
 
@@ -1125,12 +1146,12 @@ widths: 2 4 4
   - National data
 * - **Input data**
 
-    (to generate the soil organic carbon (SOC) stock estimates)
+    to generate the soil organic carbon (SOC) stock estimates
   - International Soil Reference and Information Centre (ISRIC) SoilGrids250m dataset
   - Ground observations and measurements or any other country-specific data to improve specification of any components
 * - **Output data**
 
-    (Gridded products of SOC stock estimates)
+    Gridded products of SOC stock estimates
   - Gridded products of SOC stocks for the reference, baseline and reporting periods (2000, 2015, 2019, 2023)
   - Gridded products of SOC stocks for the reference, baseline and reporting periods, with as close to annual data as possible
 * - **Classification**
@@ -1149,11 +1170,20 @@ widths: 2 4 4
 
 #### Step 3: Map land cover changes for SOC change estimation
 
-This step is required if a modified tier 1 or a tier 2 approach is adopted. Changes in SOC stocks over time are modeled using land cover conversion coefficients as proxies for land use, meaning that accurate identification of land cover transitions is essential for reliable results.
+This step is required if a modified tier 1 or a tier 2 approach is adopted.
+Changes in SOC stocks over time are modeled using land cover conversion coefficients as proxies for land use, meaning that accurate identification of land cover transitions is essential for reliable results.
 
-For the default dataset used in SOC stock change estimation, seven land cover classes, adapted from the IPCC land use categories, are used. The information on the changes in land cover over time is derived from the ESA-CCI default land cover dataset. Default conversion coefficients are available allowing for estimation of SOC changes. Parties may decide to use a custom land cover legend. In this case they should answer “Yes” to the opening question on the form and the subsequent tables will be dynamically updated with the custom land cover classes, replacing the default UNCCD seven classes.   However, nationally determined conversion coefficients will be required.
+For the default dataset used in SOC stock change estimation, seven land cover classes, adapted from the IPCC land use categories, are used.
+The information on the changes in land cover over time is derived from the ESA-CCI default land cover dataset.
+Default conversion coefficients are available allowing for estimation of SOC changes.
+Parties may decide to use a custom land cover legend.
+In this case they should answer “Yes” to the opening question on the form and the subsequent tables will be dynamically updated with the custom land cover classes, replacing the default UNCCD seven classes.
+However, nationally determined conversion coefficients will be required.
 
-When possible countries may prefer to use national land cover maps. However, in order to apply the default SOC conversion coefficients, the land cover classifications must be aligned with the seven default categories. If a country has nationally determined SOC conversion coefficients for the national land cover legend, then it is acceptable to use additional land cover categories.  Further refinements can be achieved through subnational stratification, where conversion coefficients vary based on subnational regions.
+When possible, countries may prefer to use national land cover maps.
+However, in order to apply the default SOC conversion coefficients, the land cover classifications must be aligned with the seven default categories.
+If a country has nationally determined SOC conversion coefficients for the national land cover legend, then it is acceptable to use additional land cover categories.
+Further refinements can be achieved through subnational stratification, where conversion coefficients vary based on subnational regions.
 
 #### Step 4: Estimate changes in SOC stocks
 
@@ -1161,13 +1191,23 @@ When possible countries may prefer to use national land cover maps. However, in 
 Related areas in the PRAIS 4 platform: table SO1-3.T2
 ```
 
-This step is required if a modified tier 1 or a tier 2 approach is adopted. Approaches to estimating SOC changes for a Tier 3 implementation are presented in step 5. As mentioned in the previous step, to estimate changes in soil organic carbon (SOC) stocks, conversion coefficients for land cover transitions are applied. The default conversion coefficients represent the proportional change in SOC stocks over a 20-year period following a land cover conversion. Figure 3 shows the default conversion coefficients. In this figure each cell represents a conversion coefficient, which indicates the proportional change in SOC stocks 20 years after a land cover change. The cells with a value of "1" (light yellow) indicate that there was no change in SOC stocks even if a land cover transition occurred. Cells with values lower than 1 (purple) indicate SOC loss after conversion. Cells with values higher than 1 (green) indicate SOC gains after conversion.
+This step is required if a modified tier 1 or a tier 2 approach is adopted.
+Approaches to estimating SOC changes for a Tier 3 implementation are presented in step 5.
+As mentioned in the previous step, to estimate changes in soil organic carbon (SOC) stocks, conversion coefficients for land cover transitions are applied.
+The default conversion coefficients represent the proportional change in SOC stocks over a 20-year period following a land cover conversion.
+Figure 3 shows the default conversion coefficients.
+In this figure each cell represents a conversion coefficient, which indicates the proportional change in SOC stocks 20 years after a land cover change.
+The cells with a value of "1" (light yellow) indicate that there was no change in SOC stocks even if a land cover transition occurred.
+Cells with values lower than 1 (purple) indicate SOC loss after conversion.
+Cells with values higher than 1 (green) indicate SOC gains after conversion.
 
 ![](/img/fig3.png)
 
 _**Figure 3.** Default Land Use Conversion Coefficients for Soil Organic Carbon (SOC) Stock Changes. Source: [Trends.Earth User Guide](https://docs.trends.earth/en/latest/index.html)_
 
-Since the rate of SOC sequestration is influenced by environmental factors such as precipitation, evaporation, solar radiation, and temperature, it is not reasonable to apply the same conversion coefficient to vastly different climatic conditions. For instance, SOC loss due to land conversion in a cold and dry region will occur at a different rate than in a hot and humid region. To account for this regional variability, different sets of conversion coefficients are assigned based on climate zones:
+Since the rate of SOC sequestration is influenced by environmental factors such as precipitation, evaporation, solar radiation, and temperature, it is not reasonable to apply the same conversion coefficient to vastly different climatic conditions.
+For instance, SOC loss due to land conversion in a cold and dry region will occur at a different rate than in a hot and humid region.
+To account for this regional variability, different sets of conversion coefficients are assigned based on climate zones:
 
 - Temperate Dry (f= 0.80)
 - Temperate Moist (f= 0.69)
@@ -1175,41 +1215,63 @@ Since the rate of SOC sequestration is influenced by environmental factors such 
 - Tropical Moist (f= 0.48)
 - Tropical Montane (f= 0.64)
 
-It should be noted that since the reporting periods to the UNCCD are not a fixed 20-year period, it is necessary to estimate the annual rate of SOC change and adjust the conversion coefficients to be representative of the period over which the land cover change occurred. The approach to adjusting the conversion coefficients is fully described in the [Addendum to the Good Practice Guidance](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land).
+It should be noted that since the reporting periods to the UNCCD are not a fixed 20-year period, it is necessary to estimate the annual rate of SOC change and adjust the conversion coefficients to be representative of the period over which the land cover change occurred.
+The approach to adjusting the conversion coefficients is fully described in the [Addendum to the Good Practice Guidance](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land).
 
-If the default UNCCD data are used, then table SO1-3.T1 is automatically pre-filled with estimates of SOC (in tonnes per hectare) in the topsoil for each of the seven default land cover classes for the reference, baseline and reporting periods.  If Parties use alternative national data they should provide these values and also provide basic metadata (see Annex II) for the datasets to be used in the Data Sources form that opens when “Edit Data Sources” is selected.
+If the default UNCCD data are used, then table SO1-3.T1 is automatically pre-filled with estimates of SOC (in tonnes per hectare) in the topsoil for each of the seven default land cover classes for the reference, baseline and reporting periods.
+If Parties use alternative national data they should provide these values and also provide basic metadata (see Annex II) for the datasets to be used in the Data Sources form that opens when “Edit Data Sources” is selected.
 
 How to calculate the changes in SOC stock over the baseline period (2000 to 2015) and the reporting period (2016 to 2023), using the SOC reference values and the land use conversion coefficients is described in detail in the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) and the [Addendum to the Good Practice Guidance](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land), Section 3.
 
 #### Step 5:  Identify significant SOC changes
 
-This step is required irrespective of the tier used. In the case of a modified Tier 1 or a Tier 2 approach, once the conversion coefficients and land cover transitions have been identified, the change of SOC stocks are calculated for each of the two periods, namely the baseline (2000 – 2015) and reporting period (2016 – 2023). The method to be applied is to assess both the direction of change and magnitude of the relative percentage change in SOC stocks, for both the baseline and reporting period. Then, for SOC stocks, the method of determining the status of change will be defined as:
+```{note}
+Related areas in the PRAIS 4 platform: table SO1-3.T2
+```
 
-a) Degraded: Reporting units with more than, for example, a 10 % average net reduction in SOC stocks between the beginning and end of the baseline period ( 2000 – 2015) and the beginning and end of the reporting period (2016 – 2023);
-b) Stable: Reporting units with less than, for example, a 10 per cent average net reduction or net increase, or no change in SOC stocks between baseline and current observations;
-c) Improved: Reporting units with more than, for example, a 10 % average net increase in SOC stocks between the beginning and end of the baseline period (2000 – 2015) and the beginning and end of the reporting period (2016 – 2023).
+This step is required irrespective of the tier used. In the case of a modified Tier 1 or a Tier 2 approach, once the conversion coefficients and land cover transitions have been identified, the change of SOC stocks are calculated for each of the two periods, namely the baseline (2000 – 2015) and reporting period (2016 – 2023).
+The method to be applied is to assess both the direction of change and magnitude of the relative percentage change in SOC stocks, for both the baseline and reporting period.
+Then, for SOC stocks, the method of determining the status of change will be defined as:
 
-This 10% threshold is a suggested starting point but can be refined based on national data, expert knowledge, country-specific conditions and dataset-specific conditions. Trends.Earth offers countries the flexibility to explore different thresholds, and the resulting SOC degradation estimates, as the SOC stock change rasters contain the percentage change per pixel.
+- **Degraded**: Reporting units with more than, for example, a 10 % average net reduction in SOC stocks between the beginning and end of the baseline period ( 2000 – 2015) and the beginning and end of the reporting period (2016 – 2023);
 
-An alternative method is based on tests for statistical significance and compares the average SOC stock over the reporting period with the upper and lower bounds of the average SOC stock in the baseline period for the same unit of land. This method is presented in more detail in the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).
+- **Stable**: Reporting units with less than, for example, a 10 per cent average net reduction or net increase, or no change in SOC stocks between baseline and current observations;
 
-Both of these approaches presented only detect changes in SOC in areas where land cover changes occur. However, it is equally crucial to detect and model SOC changes in areas where land cover remains stable. Tier 3 methods, such as calibrated and validated ecosystem (process-based) modeling, offer a more comprehensive solution. These methods link models with country-specific spatial datasets, such as soil maps, land use, climate, and agricultural activity, providing a higher level of accuracy for estimating changes in SOC stocks. These approaches deliver more precise insights into SOC dynamics and therefore can improve the estimations of SDG indicator 15.3.1. Examples of countries which adopted aspects of a Tier 3 strategy during the 2022 reporting are presented in Section 3 of the [Addendum to the Good Practice Guidance](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land).
+- **Improved**: Reporting units with more than, for example, a 10 % average net increase in SOC stocks between the beginning and end of the baseline period (2000 – 2015) and the beginning and end of the reporting period (2016 – 2023).
+
+This 10% threshold is a suggested starting point but can be refined based on national data, expert knowledge, country-specific conditions and dataset-specific conditions.
+Trends.Earth offers countries the flexibility to explore different thresholds, and the resulting SOC degradation estimates, as the SOC stock change rasters contain the percentage change per pixel.
+
+An alternative method is based on tests for statistical significance and compares the average SOC stock over the reporting period with the upper and lower bounds of the average SOC stock in the baseline period for the same unit of land.
+This method is presented in more detail in the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).
+
+Both of these approaches presented only detect changes in SOC in areas where land cover changes occur.
+However, it is equally crucial to detect and model SOC changes in areas where land cover remains stable.
+Tier 3 methods, such as calibrated and validated ecosystem (process-based) modeling, offer a more comprehensive solution.
+These methods link models with country-specific spatial datasets, such as soil maps, land use, climate, and agricultural activity, providing a higher level of accuracy for estimating changes in SOC stocks.
+These approaches deliver more precise insights into SOC dynamics and therefore can improve the estimations of SDG indicator 15.3.1.
+Examples of countries which adopted aspects of a Tier 3 strategy during the 2022 reporting are presented in Section 3 of the [Addendum to the Good Practice Guidance](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land).
 
 Once the national estimates of SOC degradation, improvement and stable SOC have been calculated for both the baseline and reporting period, the values in km2, as well as the percentage of total land area that this represents for each class are used to populate table SO1-3.T2.
 
 #### Step 6: Verify the results
 
-The default method draws on data generated from the assessment of land cover change  associated with a set of default land conversion coefficients to determine SOC changes. As such, derived estimates provide limited information on how carbon stocks vary subnationally and have great uncertainty.
+The default method draws on data generated from the assessment of land cover change associated with a set of default land conversion coefficients to determine SOC changes.
+As such, derived estimates provide limited information on how carbon stocks vary subnationally and have great uncertainty.
 
-If countries have the ability to carry out sub-national assessments, they should indicate this in the reporting form by selecting “Yes” on the toggle button below Table SO1-3.T2. They may then upload a file describing this analysis in more detail.
+If countries have the ability to carry out sub-national assessments, they should indicate this in the reporting form by selecting “Yes” on the toggle button below Table SO1-3.T2.
+They may then upload a file describing this analysis in more detail.
 
-Irrespective of the tier applied and the specific methods used, inputs from national experts are necessary to verify the results and detect and highlight situations where the confidence level of the obtained results might be low. This input would contribute to a qualitative assessment of the reliability of the estimates.
+Irrespective of the tier applied and the specific methods used, inputs from national experts are necessary to verify the results and detect and highlight situations where the confidence level of the obtained results might be low.
+This input would contribute to a qualitative assessment of the reliability of the estimates.
 
 #### Step 7: Save form and submit for review
 
-Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in cases where the default data and approach are not used.  This may be done via the Comments fields associated with the tables SO1-3.T1 and SO1-3.T2 or in the General Comments field provided at the end of the reporting form.
+Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in cases where the default data and approach are not used.
+This may be done via the Comments fields associated with the tables SO1-3.T1 and SO1-3.T2 or in the General Comments field provided at the end of the reporting form.
 
-Maps with default data representing SOC stocks and SOC degradation for the reference, baseline and the reporting periods are accessible via the PRAIS 4 platform.  If Parties do not use the default values and choose to calculate the values based on alternative data they should upload maps to PRAIS:  
+Maps with default data representing SOC stocks and SOC degradation for the reference, baseline and the reporting periods are accessible via the PRAIS 4 platform.
+If Parties do not use the default values and choose to calculate the values based on alternative data they should upload maps to PRAIS:
 
 - SOC stock in the initial (reference) year of the baseline period (2000)
 - SOC stock in the final year of the baseline period (2015)  
@@ -1217,13 +1279,14 @@ Maps with default data representing SOC stocks and SOC degradation for the refer
 - SOC stock in the latest reporting year (ideally 2023)
 - Change in SOC stock in the baseline period (2000 to 2015)
 - Change in SOC stock in the reporting period (2016 to 2023)
+- SOC degradation in the baseline period (2000 to 2015)
 - SOC degradation in the reporting period (2016 to 2023)
 
 Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
 
 ### 1.3.4. Dependencies
 
-Estimates of SOC stock per land cover class  in SO1-3.T1 are dependent on the land cover legend reported under SO 1-1.T2 (if the Party has opted to report a national land cover legend) and the estimates of SOC degradation status in SO1-3.T2 are dependent on the total land area reported in table CP-1.T1.
+Estimates of SOC stock per land cover class in SO1-3.T1 are dependent on the land cover legend reported under SO 1-1.T2 (if the Party has opted to report a national land cover legend) and the estimates of SOC degradation status in SO1-3.T2 are dependent on the total land area reported in table CP-1.T1.
 
 ### 1.3.5. Challenges
 
@@ -1261,22 +1324,27 @@ If Parties adopt a Tier 1 approach or elements of a Tier 2 approach they should 
 
 ### 1.3.7. Additional Resources
 
-- UNCCD, 2024. The Land Story: Country experiences with reporting on land degradation and drought, Chapter: Trends in Carbon Stocks: (<https://www.unccd.int/sites/default/files/2024-12/2315444E.pdf>)  
+- UNCCD, 2024. The Land Story: Country experiences with reporting on land degradation and drought, Chapter: Trends in Carbon Stocks: (<https://www.unccd.int/resources/publications/land-story-country-experiences-reporting-land-degradation-and-drought>)
 - IPCC, 2006. Eggleston, S., Buendia L., Miwa K., Ngara T., and Tanabe K. (Eds). 2006 IPCC Guidelines for National Greenhouse Gas Inventories. Intergovernmental Panel on Climate Change (IPCC)/Institute for Global Environmental Strategies (IGES), Hayama, Japan.
 - IPCC, 2013. Hiraishi, T., Krug, T., Tanabe, K., Srivastava, N., Baasansuren, J., Fukuda, M. and Troxler, T.G. (Eds). 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands. Intergovernmental Panel on Climate Change (IPCC), Switzerland.
 - IPCC. 2019. Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. In: Buendia, E., Tanabe, K., Kranjc, A., Baasansuren, J., Fukuda, M., Ngarize, S., Osako, A., Pyrozhenko, Y., Shermanau, P., Federici, S. (eds). Intergovernmental Panel on Climate Change, Geneva, Switzerland.
-- ‘Trends.Earth, A User Guide’ (<https://docs.trends.earth/en/latest/index.html>).
+- ‘Trends.Earth User Guide’ (<https://docs.trends.earth/en/latest/index.html>).
 
 ## 1.4. SO 1-4 – Proportion of land that is degraded over total land area (Sustainable Development Goal indicator 15.3.1)
 
 ### 1.4.1. Introduction
 
 Land degradation is defined as ‘the reduction or loss of the biological or economic productivity and complexity of rainfed cropland, irrigated cropland, or range, pasture, forest and woodlands resulting from a combination of pressures, including land use and management practices[^7]’.
+
 [^7]: Article 1 of the United Nations Convention to Combat Desertification.
 
-Using the three indicators SO 1-1, SO 1-2 and SO 1-3 (hereinafter referred to as subindicators), UNCCD reporting will estimate the proportion of land that is degraded over total land area, which is also SDG indicator 15.3.1 and the only indicator used to track progress towards target 15.3: ‘By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land-degradation neutral world’. In line with decision 15/COP.13, the estimates of SDG indicator 15.3.1 contained in national reports will be submitted by the secretariat, in its capacity as the custodian agency for this indicator, to the United Nations Statistics Division for publication in the SDG Report and Global Database.
+Using the three indicators SO 1-1, SO 1-2 and SO 1-3 (hereinafter referred to as subindicators), UNCCD reporting will estimate the proportion of land that is degraded over total land area, which is also SDG indicator 15.3.1 and the only indicator used to track progress towards target 15.3: ‘By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land-degradation neutral world’.
+In line with decision 15/COP.13, the estimates of SDG indicator 15.3.1 contained in national reports will be submitted by the secretariat, in its capacity as the custodian agency for this indicator, to the United Nations Statistics Division for publication in the SDG Report and Global Database.
 
-Knowing the extent and location of degraded land is instrumental to achieving land degradation neutrality (LDN) at national level and supporting Parties in setting national voluntary targets. SDG Indicator 15.3.1 is reported as a percentage value, representing the proportion of degraded land in relation to a country's total land area—defined as the entire surface area excluding inland waters such as major rivers and lakes. The area in km2 is reported as ancillary information, for transparency and as it allows regional and global aggregates to be calculated.
+Knowing the extent and location of degraded land is instrumental to achieving land degradation neutrality (LDN) at national level and supporting Parties in setting national voluntary targets.
+
+SDG Indicator 15.3.1 is reported as a percentage value, representing the proportion of degraded land in relation to a country's total land area—defined as the entire surface area excluding inland waters such as major rivers and lakes.
+The area in km2 is reported as ancillary information, for transparency and as it allows regional and global aggregates to be calculated.
 
 UNCCD facilitates reporting on SDG indicator 15.3.1 by providing pre-filled data in the PRAIS 4 platform with values derived from default datasets.
 
@@ -1290,7 +1358,9 @@ Parties are also encouraged to identify and describe ‘hotspots’ and ‘brigh
 
 - Familiarity with the [Addendum to Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land): Proportion of land that is degraded over total land area (version 2).
 
-- A pool of national experts officially nominated by the national authorities to verify the reliability of the land degradation estimates. Key institutions might include a country’s national statistical office, ministry of environment, ministry of agriculture, ministry of water resources, remote-sensing centre, as well as universities and research centers. Consultation with the national statistics office is particularly important given its responsibility to review and validate national estimates of SDG indicator 15.3.1 prior to the final submission to the United Nations Statistics Division for inclusion in the Sustainable Development Goals Report and the Global SDG Indicators Database.
+- A pool of national experts officially nominated by the national authorities to verify the reliability of the land degradation estimates.
+Key institutions might include a country’s national statistical office, ministry of environment, ministry of agriculture, ministry of water resources, remote-sensing centre, as well as universities and research centers.
+Consultation with the national statistics office is particularly important given its responsibility to review and validate national estimates of SDG indicator 15.3.1 prior to the final submission to the United Nations Statistics Division for inclusion in the Sustainable Development Goals Report and the Global SDG Indicators Database.
 
 ### 1.4.3. Reporting process and step-by-step procedure
 
@@ -1305,28 +1375,38 @@ Related areas in the PRAIS 4 platform: table SO1-4.T1 and SO1-4.T2
 In order to calculate SDG indicator 15.3.1, the results of the degradation analysis for each of the subindicators are integrated using a One-Out All-Out (1OAO) method in which a significant reduction or negative change in any one of the three subindicators is considered to comprise land degradation. The result is a binary assessment where a land unit (pixel) is either degraded or not degraded (stable or improved).
 
 The analysis of change in degradation involves first establishing a baseline of land degradation. The baseline sets the benchmark extent of land degradation against which progress towards achieving SDG target 15.3 and LDN is assessed in the reporting period.
+
 In practical terms, for the purposes of calculating SDG indicator 15.3.1, tracking change in the extent of degraded land is a four-step process:
 
-1. **Baseline assessment**: In the Baseline Assessment, the results of the degradation analysis for each of the sub-indicators for the baseline period (2000-2015) are combined using the 1OAO method. The resulting baseline map shows areas that degraded, improved or remained stable during the baseline period, and enables the calculation of the baseline extent of degradation as a benchmark for measuring progress towards achieving SDG target 15.3.
+1. **Baseline assessment**: In the Baseline Assessment, the results of the degradation analysis for each of the sub-indicators for the baseline period (2000-2015) are combined using the 1OAO method.
+The resulting baseline map shows areas that degraded, improved or remained stable during the baseline period, and enables the calculation of the baseline extent of degradation as a benchmark for measuring progress towards achieving SDG target 15.3.
 
 2. **Period assessment**: Similarly, the Period Assessment is the result of the evaluation of land condition for a specific reporting period, based on the combination of the three sub-indicators by applying the 1OAO method.
 
-3. **Status Assessment**: The “Status”, or final condition of the land at the end of each reporting period, is determined by combining the results of the current period assessment with the baseline assessment. This can be done using The “Status Matrix” (see figure 4) which shows the different possible combinations of the changes in land condition between the baseline and the reporting periods. This comparison is essential to account for areas identified as degraded in the baseline that have since remained unchanged in land condition. For example, if an area was classified as degraded during the baseline period but was stable afterwards, the land's condition is still degraded as there has been no improvement since the baseline. The resulting Status map enables the estimation of SDG Indicator 15.3.1 by providing a spatially explicit view of areas that are either stable, improved, or degraded, considering also their initial condition.  
+3. **Status Assessment**: The “Status”, or final condition of the land at the end of each reporting period, is determined by combining the results of the current period assessment with the baseline assessment.
+This can be done using The “Status Matrix” (see figure 4) which shows the different possible combinations of the changes in land condition between the baseline and the reporting periods.
+This comparison is essential to account for areas identified as degraded in the baseline that have since remained unchanged in land condition.
+For example, if an area was classified as degraded during the baseline period but was stable afterwards, the land's condition is still degraded as there has been no improvement since the baseline.
+The resulting Status map enables the estimation of SDG Indicator 15.3.1 by providing a spatially explicit view of areas that are either stable, improved, or degraded, considering also their initial condition.  
   
 _**Figure 4.** The “Status Matrix” is a 3 x 3 matrix to assess Status by comparing the reporting period assessment (columns) and the baseline (rows). The categories Stable and Improved correspond to Not Degraded areas._  
 ![](/img/fig4.png)
 
-4. **Change Assessment**: The change in extent of degradation between the baseline and the reporting period is calculated as the difference between the total area of degraded land in and the most recent reporting period, and the baseline. It can be expressed as either the change in terms of absolute area or as the change in terms of the proportion of degraded area over the total land area (percentage).
+4. **Change Assessment**: The change in extent of degradation between the baseline and the reporting period is calculated as the difference between the total area of degraded land in and the most recent reporting period, and the baseline.
+It can be expressed as either the change in terms of absolute area or as the change in terms of the proportion of degraded area over the total land area (percentage).
 
 The results of the Status Assessment can be reported in table SO1-4.T1 which allows reporting of the area of changes in land condition between the baseline period and the reporting period to reflect the final land condition.
 
 Parties may also provide information in the comments field after Table SO1-4.T1 on assumptions and procedures adopted in relation to completion of the status matrix.
 
-The total area of degraded land for the baseline and the two reporting periods (up to 2019 and 2023 respectively) should be reported in table SO1-4.T2. While the 2026 UNCCD reporting process focuses on the period 2016–2023, it is necessary to recalculate the baseline and 2019 estimates submitted in the previous reporting round. This ensures consistency across the time series, enhances comparability over time, and enables a complete submission to the United Nations Statistics Division for inclusion in the SDG database.
+The total area of degraded land for the baseline and the two reporting periods (up to 2019 and 2023 respectively) should be reported in table SO1-4.T2.
+While the 2026 UNCCD reporting process focuses on the period 2016–2023, it is necessary to recalculate the baseline and 2019 estimates submitted in the previous reporting round.
+This ensures consistency across the time series, enhances comparability over time, and enables a complete submission to the United Nations Statistics Division for inclusion in the SDG database.
 
 The area change and the proportion of degraded land relative to the total land area (SDG indicator 15.3.1) will be automatically calculated in table SO1-4.T2 based on the total land area estimates contained in table CP-1.T1.
 
-In addition, Parties should report additional information on the indicators used, the method used, for example if different from the 1OAO approach, as well as indicate the level of confidence of the estimates (high, medium or low). This can be done by using the tick boxes and toggle buttons as well as the comments field after table SO1-4.T2.
+In addition, Parties should report additional information on the indicators used, the method used, for example if different from the 1OAO approach, as well as indicate the level of confidence of the estimates (high, medium or low).
+This can be done by using the tick boxes and toggle buttons as well as the comments field after table SO1-4.T2.
 
 #### Step 2. Identify false positives and false negatives
 
@@ -1351,7 +1431,12 @@ In areas where a false positive or false negative degradation outcome is identif
 
 Reporting on false positive and negative extents using the PRAIS 4 platform requires filling in table SO1-4.T3. The PRAIS 4 spatial data viewer supports the filling in of this table with spatial information (in vector format). However, it remains an optional element and the table can still be filled in without the provision of spatial data. Information about the location of the sites, the areal extent of the site (auto-filled by the PRAIS 4 spatial data viewer, if used), the processes behind the false positive/false negative outcome and the basis for their judgement should be  reported in addition to the period when the false negative or false positive process started. For those Parties using the PRAIS 4 spatial data viewer to delineate the extents, an informative graphic can be used to interpret the percentage of the total area delineated that is degraded or improved per subindicator. This graphic chart should be used as a guide to understand what subindicator is driving the false positive or negative process being reported within the polygon extent provided.
 
-For example, during the 2022 reporting cycle, Türkiye identified false positive cases where areas had been originally coded as improved. These were then recoded to degraded as they had in fact been converted to artificial surfaces. Some false negative areas were also highlighted as they had been marked as degraded, when in reality the land was improved due to afforestation. Türkiye’s land degradation analysis was based on a set of nationally generated data sets, and the analysis of false positives and negatives was carried out in a workshop where participants were able to use a decision support system to aid the analysis. Ultimately, discussions and interpretation made among the experts led to the results reported. Further details on this as well as other examples of the identification of false positives/negatives are described in The Land Story (UNCCD, 2024).
+For example, during the 2022 reporting cycle, Türkiye identified false positive cases where areas had been originally coded as improved.
+These were then recoded to degraded as they had in fact been converted to artificial surfaces.
+Some false negative areas were also highlighted as they had been marked as degraded, when in reality the land was improved due to afforestation.
+Türkiye’s land degradation analysis was based on a set of nationally generated data sets, and the analysis of false positives and negatives was carried out in a workshop where participants were able to use a decision support system to aid the analysis.
+Ultimately, discussions and interpretation made among the experts led to the results reported.
+Further details on this as well as other examples of the identification of false positives/negatives are described in The Land Story (UNCCD, 2024).
 
 #### Step 3. Assess hotspots and brightspots
 
@@ -1368,22 +1453,29 @@ UNCCD encourages Parties to signal areas experiencing the most evident and drama
 In previous reporting countries have taken different approaches to identifying land degradation hotspots. These approaches include:
 
 - **Context-specific approaches**: Each country tailors its hotspot identification method based on national priorities and data availability, often guided through participatory workshops with local experts.
-- **Use of existing data and tools**: Countries  use pre-identified polygons (e.g., from forest fire, mining, or overgrazing zones) and national degradation maps integrated into their Land Degradation Neutrality Decision Support System (LDN DSS).
+- **Use of existing data and tools**: Countries use pre-identified polygons (e.g., from forest fire, mining, or overgrazing zones) and national degradation maps integrated into their Land Degradation Neutrality Decision Support System (LDN DSS).
 - **Convergence of evidence**: Some countries apply a multicriteria analysis in the LDN DSS, combining various indicators (e.g., erosion, salinization, biomass loss, NPP decline) to identify priority areas through evidence convergence.
 
-Brightspots are generally associated with areas where countries have implemented sustainable land management (SLM) practises, and actual improvements have been noted.
+Brightspots are generally associated with areas where countries have implemented sustainable land management (SLM) practices, and actual improvements have been noted.
 
 Knowledge about location and type of hotspots/brightspots may facilitate the development of plans of action to redress degradation, including through the conservation, rehabilitation, restoration and sustainable management of land resources.
 
-Hotspots and brightspots are reported in tables SO1-4.T4 and SO1-4.T5 of the PRAIS 4 platform, respectively. Parties are invited to enter relevant information such as location, area, the adopted assessment process, the drivers/processes determining the status of the land, and remediation actions taken and planned. These are spatial tables and therefore should be completed with the support of the geographic information system tools available in the PRAIS 4 spatial data viewer. This is an additional and optional element, but such location-based information can strengthen spatial approaches to sustainable land management and help integrate responses to land degradation at the landscape scale. In addition, UNCCD can use these spatial data to create improved information products to demonstrate the impact of the Convention. Parties are invited to provide descriptive information or stories on one or more of the hotspots/brightspots reported via the text fields provided. This information helps to contextualise the spatial information provided.
+Hotspots and brightspots are reported in tables SO1-4.T4 and SO1-4.T5 of the PRAIS 4 platform, respectively. Parties are invited to enter relevant information such as location, area, the adopted assessment process, the drivers/processes determining the status of the land, and remediation actions taken and planned. These are spatial tables and therefore should be completed with the support of the geographic information system tools available in the PRAIS 4 spatial data viewer. This is an additional and optional element, but such location-based information can strengthen spatial approaches to sustainable land management and help integrate responses to land degradation at the landscape scale. In addition, UNCCD can use these spatial data to create improved information products to demonstrate the impact of the Convention.
+
+Parties are invited to provide descriptive information or stories on one or more of the hotspots/brightspots reported via the text fields provided.
+This information helps to contextualise the spatial information provided.
 
 #### Step 4. Verify the results
 
-Verification should take place during the derivation of each sub-indicator. In addition the implementation of the 1OAO or alternative methods to assessing land degradation should be verified. Furthermore, the Parties should assess and justify the level of confidence in the assessment of the proportion of degraded land. Any declared false positives/negatives, hotspots and brightspots should also be carefully verified.
+Verification should take place during the derivation of each sub-indicator.
+In addition, the implementation of the 1OAO or alternative methods to assessing land degradation should be verified.
+Furthermore, the Parties should assess and justify the level of confidence in the assessment of the proportion of degraded land.
+Any declared false positives/negatives, hotspots and brightspots should also be carefully verified.
 
 #### Step 5. Save form and submit for review
 
-Special or anomalous situations and noticeable issues related to the data interpretation that may affect the reliability of the reported values should be described in the narrative. A ‘General Comments’ field is provided at the end of the reporting form of the PRAIS 4 platform for this purpose.
+Special or anomalous situations and noticeable issues related to the data interpretation that may affect the reliability of the reported values should be described in the narrative.
+A ‘General Comments’ field is provided at the end of the reporting form of the PRAIS 4 platform for this purpose.
 
 Information on land degradation should be reported in km2 for the entire country.
 
@@ -1396,9 +1488,13 @@ Default maps or maps generated in Trends.Earth using national data representing 
 - Degradation hotspots (for countries that provide spatial data in the PRAIS 4 platform)
 - Improvement brightspots (for countries that provide spatial data in the PRAIS 4 platform).
 
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved.
+Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+
 ### 1.4.4. Dependencies
 
-SDG indicator 15.3.1 relies on the total land area reported in table CP-1.T1. Modifying that number will therefore alter the indicator’s value.
+SDG indicator 15.3.1 relies on the total land area reported in table CP-1.T1.
+Modifying that number will therefore alter the indicator’s value.
 
 The ‘Area’ fields of the spatial tables SO1-4.T3,  SO1-4.T4 and SO1-4.T5 have a dependency on spatial data created by countries using the PRAIS 4 spatial data viewer. However, they can also be filled in manually without providing supporting spatial data.
 
@@ -1406,7 +1502,8 @@ The ‘Area’ fields of the spatial tables SO1-4.T3,  SO1-4.T4 and SO1-4.T5 hav
 
 Key actions for reporting on the SDG indicator 15.3.1 are as follows:
 
-1. **Calculate the proportion of land that is degraded over total land area (SDG indicator 15.3.1)**: Using the 1OAO approach to combine the three subindicators, calculate the extent of degradation in the baseline period and in the two reporting periods (2019 and 2023 respectively). The extent of degradation in the reporting periods is calculated by summing (i) areas of land where changes in the subindicators are considered to indicate new degradation; and (ii) areas of land that have persisted in a degraded state since the baseline period (i.e. have not improved to a non-degraded state).
+1. **Calculate the proportion of land that is degraded over total land area (SDG indicator 15.3.1)**: Using the 1OAO approach to combine the three subindicators, calculate the extent of degradation in the baseline period and in the two reporting periods (2019 and 2023 respectively).
+The extent of degradation in the reporting periods is calculated by summing (i) areas of land where changes in the subindicators are considered to indicate new degradation; and (ii) areas of land that have persisted in a degraded state since the baseline period (i.e. have not improved to a non-degraded state).
 
 2. **Identify false positive and false negative processes** and provide the relevant justification to support their assessment. Where countries are confident in reporting the location and extent of these processes and in recalculating the 1OAO process for SDG indicator 15.3.1 with the identified areas accounted for, they should use the PRAIS 4 spatial data viewer to do so (table SO1-4.T3).
 
@@ -1416,7 +1513,7 @@ Key actions for reporting on the SDG indicator 15.3.1 are as follows:
 
 5. **Save form and submit for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved prior to review by the UNCCD.
 
-### 1.4.6. Further reading
+### 1.4.6. Additional Resources
 
 - UNCCD; 2024, The Land Story: Country experiences with reporting on land degradation and drought, Chapter: Land Degradation, UNCCD: (<https://www.unccd.int/resources/publications/land-story-country-experiences-reporting-land-degradation-and-drought>)
 - Scientific Conceptual Framework for Land Degradation Neutrality ( <https://www.unccd.int/resources/reports/scientific-conceptual-framework-land-degradation-neutrality-report-science-policy>)
