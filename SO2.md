@@ -275,26 +275,20 @@ widths: 2 3 3
   - {cspan}`1` Specifications
 * - Default data
   - National data
-* - __Input data__
-
+* - __Input data__ 
     (Data needed to estimate the population exposed to land degradation)
-  - WorldPop data disaggregated by sex for the baseline year (2015) and the latest available year of the reporting period (2023) – (with the 2020 data duplicated for 2023 due to the lack of updated WorldPop population data post-2020)..
-
+  - WorldPop data disaggregated by sex for the baseline year (2015) and the latest available year of the reporting period (2023) – (with the 2020 data duplicated for 2023 due to the lack of updated WorldPop population data post-2020). 
     Gridded data on land degradation as determined by indicator SO 1-4 for the baseline and reporting periods.
-  - Gridded population products derived from national official statistics, disaggregated by sex for the baseline year (ideally the year 2015) and the latest available year of the reporting period (e.g., 2023).
-
+  - Gridded population products derived from national official statistics, disaggregated by sex for the baseline year (ideally the year 2015) and the latest available year of the reporting period (e.g., 2023). 
     Gridded data on land degradation as determined by indicator SO 1-4 for the baseline and reporting periods.
-* - __Output data__
-
+* - __Output data__ 
     (Gridded products resulting from the analysis of the three metrics)
   - Gridded products of the female, male and total population exposed to land degradation in the baseline and reporting periods.
   - Gridded products of the female, male and total population exposed to land degradation in the baseline and reporting periods.
 * - __Spatial resolution__
-  - WorldPop data: 3-arc seconds (~100 m)
-
-   Land degradation data: 250 m 
-
-   Output data: 250 m 
+  - WorldPop data: 3-arc seconds (~100 m) 
+    Land degradation data: 250 m 
+    Output data: 250 m
   - Assessed by national authorities based on available data.
 * - __Metadata__
   - Metadata information is provided with default data.

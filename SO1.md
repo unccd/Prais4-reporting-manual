@@ -95,7 +95,7 @@ When the suitable land cover legend has been identified, Parties should click on
 
 - *Exhaustive*, such that the entire land area of the country can be attributed to classes from the legend and monitored through time.
 
-Wherever possible, UNCCD encourages Parties to use the Land Cover Meta Language (LCML) of the Food and Agriculture Organization of the United Nations (FAO)[^2}], which provides a structured approach to land cover definition and interpretation. The LCML is the conceptual and structural backbone of various land cover classifications, including the land cover legend used by the ESA CCI-LC products.
+Wherever possible, UNCCD encourages Parties to use the Land Cover Meta Language (LCML) of the Food and Agriculture Organization of the United Nations (FAO)[^2], which provides a structured approach to land cover definition and interpretation. The LCML is the conceptual and structural backbone of various land cover classifications, including the land cover legend used by the ESA CCI-LC products.
 
 Table 8 shows the conversion between the default UNCCD legend and the ESA CCI-LC legend.
 
@@ -569,14 +569,16 @@ widths: 4 5 5
   - National data
 * - __Input data__
 
-    Data needed to generate land productivity estimates based on the three metrics described in Step 5
-  - Time series of daily MODIS satellite images used to calculate Normalized Difference Vegetation Index (NDVI) (MOD13Q1) composited for periods of 16 days (needed to generate the Trends.Earth LPD data)
-  - Time series of appropriate vegetation index derived from satellite images with at least one red and one near infrared spectral band. 
-  * - __Output data__
-
+    Data needed to generate land productivity estimates based on the three metrics described in Step5 5
+  - Time series of daily MODIS satellite images used to calculate Normalized Difference Vegetation Index
+   (NDVI) (MOD13Q1) composited for periods of 10 days (needed to generate the Trends.Earth LPD data)
+  - Time series of appropriate vegetation index derived from satellite images with at least
+  one red and one near infrared spectral band.
+* - __Output data__ 
     Gridded products resulting from the analysis and combination of the three metrics described in Step 5
-  - Five classes of persistent land productivity trajectories and land productivity degradation gridded data for the baseline period (2000–2015) and the reporting period (2008–2023)*
-  - Five classes of persistent land productivity trajectories and land productivity degradation gridded data for the baseline period (2000–2015) and the reporting period (2008–2023)*
+  - Five classes of persistent land productivity trajectories and land productivity degradation gridded data
+  for the baseline period (2000–2015) and the reporting period (2008–2023)**\***
+  - Five classes of persistent land productivity trajectories and land productivity degradation gridded data for the baseline period (2000–2015) and the reporting period (2008–2023)**\***
 * - __Classification__
   - Five classes of persistent land productivity trajectories and one class for areas without valid land productivity data:
 
@@ -744,35 +746,31 @@ _Table 12. Specific timeframes recommended to estimate each Land Productivity me
 
 ```{flat-table}
 ---
-:header-rows: 1
-:widths: 4 3 3 3 4
+header-rows: 3
 ---
 * -
-  - Trends in Land Productivity 
-* - Period 
-  - Trend / Trajectory
-(16 years)
-  - State (16 years)
-
-    - Baseline (13 years)
-    - Comparison Period (3 years)
-  - Performance 
-(16 years)
-* - Baseline: 2000-2015 
-  - 2000 -2015
+  - {cspan}`4` Trends in Land Productivity
+* - Period
+  - {rspan}`2` Trend / Trajectory (16 years)
+  - {cspan}`2` State (16 years)
+  - {rspan}`2` Performance (16 years)
+* - Baseline (13 years)
+  - Comparison Period (3 years)
+* - Baseline: 2000-2015
+  - 2000-2015
   - 2000-2012
   - 2013-2015
-  - 2000 -2015
-* - Reporting Period 1:  2016-2019 
-  - 2004 -2019
+  - 2000-2015
+* - Reporting Period 1: 2016-2019
+  - 2004-2019
   - 2004-2016
   - 2017-2019
-  - 2004 -2019
-* - Reporting Period 2: 2016-2023 
-  - 2008 -2023
+  - 2004-2019
+* - Reporting Period 2: 2016-2023
+  - 2008-2023
   - 2008-2020
   - 2021-2023
-  - 2008 -2023
+  - 2008-2023
 ```
 
 Table 13 summarizes the combinations of productivity metrics to determine the land productivity dynamics and ultimately the land productivity degradation status of each pixel and their relationships. The metrics can be combined into five classes of persistent land productivity dynamics and three classes of land productivity degradation (i.e. ‘improving’, ‘stable’, ‘degrading’).

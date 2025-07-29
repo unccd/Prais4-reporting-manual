@@ -120,7 +120,7 @@ html_css_files = ["css/custom.css", "css/rtl.css"]
 html_theme_options = {
     "style_nav_header_background": "#ff7100",
     "collapse_navigation": False,
-    "version_selector": False,
+    "version_selector": True,
     "language_selector": True,
     "logo_only": True,
     "prev_next_buttons_location": "top",
