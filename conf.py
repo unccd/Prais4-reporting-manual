@@ -164,6 +164,8 @@ latex_additional_files.append("latex_preamble.tex.txt")
 # latex_toplevel_sectioning='chapter'
 latex_use_modindex = False
 
+latex_table_style = ["nocolorrows"]
+
 latex_elements = {
     "papersize": "a4paper",
     "pointsize": "10pt",

@@ -510,7 +510,7 @@ Key actions for reporting on land cover changes are as follows:
 
 - Using land-cover information to monitor progress on Sustainable Development Goal 15, FAO eLearning Course (2024), (https://elearning.fao.org/course/view.php?id=1098)
 
-## 1.2. SO 1-2 – TTrends in land productivity or functioning of the land
+## 1.2. SO 1-2 – Trends in land productivity or functioning of the land
 
 ### 1.2.1. Introduction
 
@@ -569,12 +569,13 @@ widths: 4 5 5
   - National data
 * - __Input data__
 
-    Data needed to generate land productivity estimates based on the three metrics described in Step5 5
+    Data needed to generate land productivity estimates based on the three metrics described in Step 5
   - Time series of daily MODIS satellite images used to calculate Normalized Difference Vegetation Index
-   (NDVI) (MOD13Q1) composited for periods of 10 days (needed to generate the Trends.Earth LPD data)
+    (NDVI) (MOD13Q1) composited for periods of 10 days (needed to generate the Trends.Earth LPD data)
   - Time series of appropriate vegetation index derived from satellite images with at least
-  one red and one near infrared spectral band.
-* - __Output data__ 
+    one red and one near infrared spectral band.
+* - __Output data__
+
     Gridded products resulting from the analysis and combination of the three metrics described in Step 5
   - Five classes of persistent land productivity trajectories and land productivity degradation gridded data
   for the baseline period (2000–2015) and the reporting period (2008–2023)**\***
@@ -742,31 +743,33 @@ Related areas in the PRAIS 4 platform: tables SO1-2.T1 and SO1-2.T2
 
 The outputs obtained from the three metrics are used to estimate the land productivity dynamics in both the baseline and the reporting period, as shown in table 12.
 
-_Table 12. Specific timeframes recommended to estimate each Land Productivity metric (Trend, State and Performance) for multiple reporting periods._
+```{tabularcolumns} |L|C|C|C|C|
+```
 
-```{flat-table}
+```{flat-table} *__Table 12__. Specific timeframes recommended to estimate each Land Productivity metric (Trend, State and Performance) for multiple reporting periods.*
 ---
 header-rows: 3
+stub-columns: 1
 ---
 * -
-  - {cspan}`4` Trends in Land Productivity
-* - Period
-  - {rspan}`2` Trend / Trajectory (16 years)
-  - {cspan}`2` State (16 years)
-  - {rspan}`2` Performance (16 years)
-* - Baseline (13 years)
-  - Comparison Period (3 years)
-* - Baseline: 2000-2015
+  - {cspan}`3` Trends in Land Productivity
+* - {rspan}`1` Period
+  - {rspan}`1` Trend / Trajectory{{br}}(16 years)
+  - {cspan}`1` State (16 years)
+  - {rspan}`1` Performance{{br}}(16 years)
+* - Baseline{{br}}(13 years)
+  - Comparison Period{{br}}(3 years)
+* - Baseline:{{br}}2000-2015
   - 2000-2015
   - 2000-2012
   - 2013-2015
   - 2000-2015
-* - Reporting Period 1: 2016-2019
+* - Reporting Period 1:{{br}}2016-2019
   - 2004-2019
   - 2004-2016
   - 2017-2019
   - 2004-2019
-* - Reporting Period 2: 2016-2023
+* - Reporting Period 2:{{br}}2016-2023
   - 2008-2023
   - 2008-2020
   - 2021-2023
@@ -777,8 +780,6 @@ Table 13 summarizes the combinations of productivity metrics to determine the la
 
 Parties may use this table to combine custom Trend, State and Performance results derived from national data to estimate land productivity dynamics and degradation.
 
-_Table 13. Combination of productivity metrics to determine five classes of land productivity dynamics and three classes of land productivity degradation per pixel in the baseline and reporting periods_
-
 {{pagebreak}}
 
 ```{tabularcolumns} |p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{3cm}|p{3cm}|
@@ -787,7 +788,7 @@ _Table 13. Combination of productivity metrics to determine five classes of land
 ```{cssclass} table-13
 ```
 
-```{flat-table} *__Table 13__. Combination of productivity metrics to determine five classes of land productivity dynamics and three classes of land productivity degradation per pixel in the reporting period*
+```{flat-table} *__Table 13__. Combination of productivity metrics to determine five classes of land productivity dynamics and three classes of land productivity degradation per pixel in the baseline and reporting periods*
 ---
 header-rows: 2
 widths: 2 2 2 2 3 3
