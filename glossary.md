@@ -5,7 +5,7 @@
 Above ground biomass
     The biomass of living vegetation, both woody and herbaceous, above the soil including stems, stumps, branches, bark, seeds, and foliage
 
-    *See also {term}`Below ground biomass`.*
+    _See also {term}`Below ground biomass`._
 
 Adaptation
     The process of adjustment to actual or expected climate and its effects. In human systems, adaptation seeks to moderate or avoid harm or exploit beneficial opportunities. In some natural systems, human intervention may facilitate adjustment to expected climate and its effects.
@@ -25,7 +25,7 @@ Aggregation
 Agriculture, value added (% of gross domestic product)
     One of the factors recommended to estimate the economic component of the Drought Vulnerability Index (DVI). Agriculture corresponds to International Standard Industrial Classifications (ISIC) divisions 1-5 and includes forestry, hunting, and fishing, as well as cultivation of crops and livestock production. This factor refers to the value added for agriculture as a percentage of the gross value added at factor cost. It implies a higher coping capacity of populations.
 
-    *See also {term}`Drought Vulnerability Index (DVI)`*
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Agroforestry
     Integrates the use of woody perennials with agricultural crops and/ or animals for a variety of benefits and services, including better use of soil and water re-sources; multiple fuel, fodder, and food products; and habitat for associated species.
@@ -37,7 +37,7 @@ Alternative Livelihoods
      - Interventions that provide an alternative occupation so as to reduce the need to exploit natural resources for income (e.g. promoting butterfly farming as a substitute for expanding agriculture)
      - Interventions that encourage an alternative method of exploiting a resource that has a lower impact than the original method (e.g. promoting fuel ‐ efficient stoves to reduce the need to fell trees for firewood or changing marketing strategy to increase incomes from the sale of wild coffee, thus reducing the need to convert more forest into farmland.
 
-    *See also {term}`Compensation Schemes` and {term}`Incentive schemes`*
+    _See also {term}`Compensation Schemes` and {term}`Incentive schemes`._
 
 Aridity
     Distinguished from drought as being an enduring feature of a location/environment. It is a natural permanent imbalance in the water availability consisting of low average annual precipitation, with high spatial and temporal variability, resulting in overall low moisture and low carrying capacity of the ecosystems.
@@ -60,12 +60,12 @@ Baseline period
 Below ground biomass
     All biomass of live roots. Fine roots of less than 2 mm diameter are often excluded because these often cannot be distinguished empirically from soil organic matter or litter.
 
-    *See also {term}`Above ground biomass`.*
+    _See also {term}`Above ground biomass`._
 
 Brightspots
     A term used to describe an area which is experiencing the most evident and dramatic change. Brightspots do not exhibit any signs of degradation, or have been remediated from a degraded state by implementing appropriate remediation activities, or through land planning processes to prevent degradation.
 
-    *See also {term}`Hotspots`*
+    _See also {term}`Hotspots`._
 
 Capacity building, capacity development
     For the purpose of UNCCD reporting, capacity building and capacity development are equivalent terms, which both refer to the process by which countries obtain, strengthen and maintain their capability to meet the obligations laid down by the Convention and the requirements of the Strategy. The Convention dedicated a full article to capacity building, education and public awareness (art. 19) as a key supporting measure to combat desertification and mitigate the effects of drought. The article emphasises cooperation among Parties in supporting capacity building for the implementation of the Convention.
@@ -76,7 +76,7 @@ Carbon stock
 Classification
     Abstract representation of real-world phenomena using classifiers.
 
-    *See also {term}`Classifier, class`*
+    _See also {term}`Classifier, class`._
 
 Classification of Environmental Protection Activities (CEPA)
     The (European standard statistical) classification of Environmental Protection Activities (CEPA) is an established international classification since 2001. CEPA 2000 is a generic, multi-purpose, functional classification used for classifying activities, products, expenditure and other transactions related to environmental protection. The CEPA classification is used to report on the European environmental economic accounts (EU Regulation n. 691/2011), and it is useful to identify expenditures for environmental protection in the national budgets related to DLDD. In particular,
@@ -87,7 +87,7 @@ Classification system
 Classifier, class
     Definition used to assign objects to legend classes. NOTE: Classifiers can be algorithmically defined, or defined according to a set of classification system specific rules.
 
-    *See also {term}`Classification system`*
+    _See also {term}`Classification system`._
 
 Climate change
     Climate change refers to a change in the state of the climate that can be identified (e.g., by using statistical tests) by changes in the mean and/or the variability of its properties and that persists for an extended period, typically decades or longer. Climate change may be due to natural internal processes or external forcings such as modulations of the solar cycles, volcanic eruptions and persistent anthropogenic changes in the composition of the atmosphere or in land use.
@@ -102,7 +102,7 @@ Commitment
 
 Compensation schemes
     These involve explicit acknowledgment of the social and individual costs of conservation, particularly with regard to access restrictions that negatively affect local people's livelihoods, and aim to adequately compensate for the losses incurred.
-    *See also {term}`Alternative livelihoods` and {term}`Incentive schemes`*  
+    _See also {term}`Alternative livelihoods` and {term}`Incentive schemes`._
 
 Consumption
     Consumption is an activity in which institutional units use up goods or services; consumption can be either intermediate or final. It is the use of goods and services for the satisfaction of individual or collective human needs or wants.
@@ -138,7 +138,7 @@ Cultivated area equipped for irrigation (%)
     This factor gives an indication of the short-term coping capacity of the agriculture sector to drought.
     However, it does not consider if this equipment is in working order, if land is being irrigated or if there is long-term planning on the use of the water resources for irrigation to ensure long-term adaptive capacity.
 
-    *See also {term}`Drought Vulnerability Index (DVI)`*
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Data
     Characteristics of information, usually numerical, that are collected through observation.
@@ -160,7 +160,7 @@ Degraded Land
 Degree of drought vulnerability
     For the purpose of UNCCD reporting, the assessment of a country’s vulnerability to drought as represented by the Drought Vulnerability Index (DVI).
 
-    *See also {term}`Drought Vulnerability Index (DVI)`*
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Desertification
     Land degradation in arid, semi-arid and dry sub-humid areas resulting from various factors, including climatic variations and human activities.
@@ -168,7 +168,7 @@ Desertification
 Desertification, land degradation and drought (DLDD)
     Summarizes the combined issues and impacts related to desertification, land degradation and drought.
 
-    *See also {term}`Desertification`, {term}`Land degradation` and {term}`Drought`.*
+    _See also {term}`Desertification`, {term}`Land degradation` and {term}`Drought`._
 
 Disaggregation
     Disaggregation is the breakdown of observations, usually within a common branch of a hierarchy, to a more detailed level to that at which detailed observations are taken.
@@ -189,7 +189,7 @@ Drought intensity class
     Class of drought intensity as described by a drought index. For UNCCD reporting, drought intensity class refers to classes of Standardized Precipitation Index (SPI) values by drought intensity: mild drought (0 to -0.99), moderate drought (-1 to -1.49), severe drought (-1.5 to -1.99) and extreme drought (less than -2).
     As the intensity classes become increasingly extreme, the likelihood of those values occurring (and the time spent in that category) decreases.
 
-    *See also {term}`Standardized Precipitation Index (SPI)`*
+    _See also {term}`Standardized Precipitation Index (SPI)`._
 
 Drought mitigation
     Mitigation is the lessening or minimizing of the adverse impacts of a hazardous event, in this case drought.
@@ -243,7 +243,7 @@ Energy consumption per capita
     Though it does reflect climatic, geographic and economic factors, such as the relative price of energy, it is a measure of economic activity, with high-income economies consuming five times as much energy on a per capita basis than low- and middle-income economies.
     This factor implies that a growing economy would be more able to implement short-term coping and long-term adaptation strategies.
 
-    *See also {term}`Drought Vulnerability Index (DVI)`*
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Enhanced Vegetation Index (EVI)
     An 'optimized' vegetation index for use with remote sensing data, similar to NDVI.
@@ -275,13 +275,13 @@ False negative
     A result which wrongly indicates that a particular condition or attribute is absent.
     For UNCCD reporting, a false negative occurs when the One-Out All-Out process has incorrectly resulted in an area being identified as degraded in the context of SDG indicator 15.3.1.
 
-    *See also {term}`False positive`*
+    _See also {term}`False positive`._
 
 False positive
     A result which wrongly indicates that a particular condition or attribute is present.
     For UNCCD reporting, a false positive occurs when the One-Out All-Out process has incorrectly indicated that an area is not degraded even though the change in land condition is considered sufficiently negative to qualify as degraded in the context of SDG indicator 15.3.1.
 
-    *See also {term}`False negative`*
+    _See also {term}`False negative`._
 
 Financial instrument
     Within the flow categories (see Type of flow) are numerous financial instruments.
@@ -308,7 +308,7 @@ GDP per capita (constant 2010 US dollars)
     It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources.
     Data are in constant 2010 U.S. dollars. This is a proxy for the average standard of living of residents in a country or area.
 
-    *See also {term}`Drought Vulnerability Index (DVI)`*
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Gender
     Refers to the social attributes and opportunities associated with being male and female, and the relationships between women and men, and girls and boys, as well as the relations between women and those between men.
@@ -347,7 +347,7 @@ Government effectiveness
     It captures perceptions of the quality of public services, the quality of the civil service and the degree of its independence from political pressures, the quality of policy formulation and implementation, and the credibility of the government’s commitment to such policies.
     As such, it is one of the proxies to assess a country’s ability to cope with drought events.
 
-    *See also {term}`Drought Vulnerability Index (DVI)`*
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Government Finance Statistics (GFS) database
     The Government Finance Statistics (GFS) database from the International Monetary Fund (IMF) contains fiscal data for all reporting countries. It includes detailed data on revenues, expenditures, transactions in financial assets and liabilities, and balance sheet data and includes data for the general government sector and its subsectors (e.g., central government, local government, state government and social security funds).
@@ -377,7 +377,7 @@ Hazard
 Hotspots
     A term used to describe an area which is experiencing the most evident and dramatic change. Hotspots are highly vulnerable to degradation in the absence of urgent remediation activities.
 
-    _See also {term}`Brightspots`_
+    _See also {term}`Brightspots`._
 
 Natural hydrometeorological deficit
     It is that precipitation shortfall, leading to soil moisture depletion, streamflow reduction, or ecosystem stress, without human extraction or diversion.
@@ -396,7 +396,7 @@ Improved land
 Incentive Schemes
     Incentive schemes such as payment for ecosystem services (PES) only provide alternatives as in ‐ kind payment if people change their behavior in accordance with agreements negotiated in advance.
 
-    _See also {term}`Alternative livelihoods` and {term}`Compensation schemes`_  
+    _See also {term}`Alternative livelihoods` and {term}`Compensation schemes`._
 
 Income
     Income is money that an individual or business receives in exchange for providing a good or service or through investing capital.
@@ -425,7 +425,7 @@ Land cover
 Land cover class
     Class of land cover within a broader set of classes defined within a land cover classification system. It is specified by the properties of the elements that constitute a particular class.
 
-    _See also {term}`Classifier, class`, {term}`Classification system`, {term}`Land Cover`*
+    _See also {term}`Classifier, class`, {term}`Classification system`, {term}`Land Cover`._
 
 Land cover degradation
     Land cover degradation is the deterioration or reduction in the quality, extent, or functionality of the physical surface cover of the land, such as vegetation, soil, water bodies, or artificial surfaces, resulting in a diminished capacity to support ecosystem services, biodiversity, and land productivity.
@@ -501,7 +501,7 @@ LDN target (country level)
 Legend
     Application of a classification in a specific area using a defined mapping scale and specific data set.
 
-    _See also {term}`Classification`_
+    _See also {term}`Classification`._
 
 Leveraging mechanism
     In the context of the SO5 indicators framework, leveraging is intended as the mechanism of mobilization of resources through a range of financial instruments from the private sector.
@@ -513,7 +513,7 @@ Life expectancy at birth
     Life expectancy at birth refers to the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.
     This is an indication of the health status of a country, where a healthier population would be inherently more resilient to drought impacts.
 
-    _See also {term}`Drought Vulnerability Index (DVI)`_
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Like for like
     Refers to the principle of counterbalancing losses in one land type with equivalent (or greater) gains in the same land type elsewhere in order to maintain (or exceed) LDN.
@@ -527,7 +527,7 @@ Literacy rate (per cent of people aged 15 years and above)
     A high rate of female literacy implies that women can seek and use information for the betterment of the health, nutrition and education of their household members and are empowered to play a meaningful role.
     A populace with a high literacy rate would be better equipped to both cope with drought and implement drought mitigation and adaptation strategies.
 
-    _See also {term}`Drought Vulnerability Index (DVI)`_
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Livelihood
     A livelihood comprises the capabilities, assets (including both material and social resources) and activities required for a means of living. A livelihood is sustainable when it can cope with and recover from stress and shocks and maintain or enhance its capabilities and assets both now and in the future, while not undermining the natural resource base.
@@ -535,7 +535,7 @@ Livelihood
 Loss (monitored)
     In the context of LDN, a decline in land-based natural capital for a specific area of land (e.g., land unit) over a specified timeframe, measured as significant decline in SOC or NPP, or a negative land cover change (as defined by country, within agreed guidelines.
 
-    _See also {term}`gain<Gain (monitored)>`_
+    _See also {term}`gain<Gain (monitored)>`._
 
 Mainstreaming gender
     This is a globally accepted strategy for promoting gender equality.
@@ -552,7 +552,7 @@ Mineral soil
     Mineral soils are formed initially by the weathering of parent rock, often accompanied by deposition of material by ice, water and/or wind.
     As part of the IPCC definition every soil that does not meet the definition of organic soil is considered a mineral soil.
 
-    _See also {term}`Organic soils`_
+    _See also {term}`Organic soils`._
 
 Multilateral contribution, Multi-bilateral contribution
     The definition of a multilateral contribution is based on two criteria: the multilateral character of the recipient institution and the multilateral character of the contribution.
@@ -654,17 +654,17 @@ Population aged 15-64 years (per cent of total population)
     The total population between the ages 15 to 64 as a percentage of the total population.
     It is an indication of the impacts different age groups have on the environment and on infrastructure, helping in the analysis of resource use and formulation of future policy and planning goals with regard to infrastructure and development.
 
-    _See also {term}`Drought Vulnerability Index (DVI)`_
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Population below the international poverty line (per cent)
     The percentage of the population living on less than $2.15 a day at 2017 purchasing power.
 
-    _See also {term}`Drought Vulnerability Index (DVI)`_
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Population using safely managed drinking water services (per cent)
     Proportion of population that is using an improved drinking water source that is located on the premises, available when needed, and free from faecal and priority chemical contamination.
 
-    _See also {term}`Drought Vulnerability Index (DVI)`, {term}`Improved drinking water source`_
+    _See also {term}`Drought Vulnerability Index (DVI)`, {term}`Improved drinking water source`._
 
 Poverty line
     A line drawn at a particular level of income or at a particular value of consumption.
@@ -755,7 +755,7 @@ Refugee population
     Country of asylum is the country where an asylum claim was filed and granted.
     Refugee populations are more likely to be exposed to natural hazards (living in makeshift dwellings, etc.) and less capable of coping with disasters.
 
-    _See also {term}`Drought Vulnerability Index (DVI)`_
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Regional Action Programme (RAP)
     Regional Action Programmes promote and strengthen technical cooperation networks to harmonize, complement and increase the efficiency of national action programmes.
@@ -810,12 +810,12 @@ Rural population (per cent)
 
     The percentage of the total population that live in rural areas, which is calculated by subtracting the urban population from the total population. may have greater income inequities, and livelihoods that are more dependent on natural resources, for example, which may make them disproportionately vulnerable to drought.
 
-    _See also {term}`Drought Vulnerability Index (DVI)`_
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Safely managed drinking water source(s)
     An improved drinking water source which is located on premises, available when needed, and free of fecal and priority chemical contamination.
 
-    _See also {term}`Improved drinking water source`_
+    _See also {term}`Improved drinking water source`._
 
 Satellite image/data
     An image of the Earth’s surface made by means of artificial satellites.
@@ -827,7 +827,7 @@ Social vulnerability factors
     The observable/measured variables, available as global and/or country and sub-national datasets recommended for use in the construction of the social component of the Drought Vulnerability Index (DVI).
     These factors have been used in scientific literature and recommended by experts to define social vulnerability to drought.
 
-    _See also {term}`Drought Vulnerability Index (DVI)`_
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Soil Organic Carbon (SOC)
     The amount of carbon stored in soil. SOC is the main component of soil organic matter (SOM).
@@ -954,7 +954,7 @@ Total renewable water resources per capita
     The total annual actual renewable water resources per inhabitant, including surface and groundwater sources for the whole country.
     This variable does not take into account whether the water is easily accessible, or safe, but is indicative of how much water each person in a country could have access to at any given time, which may indicate a higher adaptive capacity to drought.
 
-    _See also {term}`Drought Vulnerability Index (DVI)`_
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Tree-covered areas
     For the purpose of UNCCD reporting, this land cover class includes any geographic area where the vegetative cover is dominant (cover >15%) and consists of a main layer of natural trees with a cover between 15% -100%:
@@ -992,7 +992,7 @@ Vulnerability
 
     For UNCCD reporting, three components of vulnerability are considered: social vulnerability, economic vulnerability and infrastructural vulnerability.
 
-    _See also {term}`Drought Vulnerability Index (DVI)`_
+    _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Water bodies
     For the purpose of UNCCD reporting, this land cover class includes any geographic area covered by inland water bodies with a water persistence of 12 months per year.
