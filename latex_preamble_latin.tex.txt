@@ -1,0 +1,18 @@
+% --- Latin and Cyrillic fonts ---
+
+\defaultfontfeatures{Extension=.ttf}
+
+\setmainfont{NotoSans}[UprightFont=*-Regular, ItalicFont=*-Italic, BoldFont=*-Bold, BoldItalicFont = *-BoldItalic]
+\setsansfont{NotoSans}[UprightFont=*-Regular, ItalicFont=*-Italic, BoldFont=*-Bold, BoldItalicFont = *-BoldItalic]
+\setmonofont{NotoSansMono}[UprightFont=*-Regular, BoldFont=*-Bold]
+\newfontfamily{\notocondensedfont}{NotoSansCondensed}[Scale=0.8, UprightFont=*-Regular, ItalicFont=*-Italic, BoldFont=*-Bold, BoldItalicFont = *-SemiBoldItalic]
+
+% Use condensed font for Latin tables
+\renewcommand{\sphinxstyletheadfamily}{\notocondensedfont\bfseries}
+% \protected\def\sphinxstyletheadfamily {\notocondensedfont}
+\BeforeBeginEnvironment{tabular}{\notocondensedfont}
+\AfterEndEnvironment{tabular}{\normalfont}
+\BeforeBeginEnvironment{tabulary}{\notocondensedfont}
+\AfterEndEnvironment{tabulary}{\normalfont}
+\BeforeBeginEnvironment{longtable}{\notocondensedfont}
+\AfterEndEnvironment{longtable}{\normalfont}

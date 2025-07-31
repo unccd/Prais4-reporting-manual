@@ -1,0 +1,8 @@
+% --- Chinese Fonts ---
+\defaultfontfeatures{Script=CJK, UprightFont=*-Regular, BoldFont=*-Bold, Extension=.ttf}
+\setmainfont{NotoSansSC}
+\newfontfamily{\chinesefont}{NotoSansSC} % serif
+\newfontfamily{\chinesefontsf}{NotoSansSC} % sans-serif
+\newfontfamily{\chinesefonttt}{NotoSansSC} % monospace
+\setdigitfont{NotoSansSC}
+\defaultfontfeatures{Extension=.ttf}

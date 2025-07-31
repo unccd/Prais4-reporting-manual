@@ -1,0 +1,9 @@
+% --- Arabic Fonts ---
+\defaultfontfeatures{Script=Arabic, Numbers=Arabic, UprightFont=*-Regular,BoldFont=*-Bold, Extension=.ttf}
+
+\setmainfont{NotoNaskhArabic}
+\newfontfamily{\arabicfont}{NotoNaskhArabic}
+\newfontfamily{\arabicfontsf}{NotoNaskhArabic}
+\newfontfamily{\arabicfonttt}{NotoNaskhArabic}
+\setdigitfont{NotoNaskhArabic}
+\defaultfontfeatures{Extension=.ttf}
