@@ -84,13 +84,13 @@ The SO 4-2 indicator has no interdependencies with other SOs.
 
 Key actions for reporting on RLI are as follows:
 
-1. **Report RLI data**: Parties can use the default data which has already been validated by national statistics offices through the SDG process or can choose to report using customized RLI values.
+1. **Report anual RLI data**: Parties can use the default data which has already been validated by national statistics offices through the SDG process or can choose to report using customized RLI values.
 
 2. **Qualitatively assess the RLI data**: Parties can report on the direct and indirect drivers of trends in the RLI and any levers used to bring about positive and transformative change.
 
 3. **Verify the results**: If customized RLI values are used, rather than the default data, then Parties should verify the accuracy and reliability of such indicators in their countries before officially submitting estimates for UNCCD reporting.
 
-4. **Save form and submit for review**: Once verified by the Parties, the data and supporting narrative should be  marked as “In Review” and saved prior to review by the UNCCD.
+4. **Save form and submit for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved prior to review by the UNCCD.
 
 ### 4.2.7. Additional Resources
 
@@ -173,7 +173,7 @@ The SO 4-3 indicator has no interdependencies with other SOs.
 
 - This indicator and metric are very intuitive and only minor challenges exist. The reporting Party should understand where and why there are KBAs in their country, otherwise the metric will have less meaning. In addition, Parties should interpret the indicator as the mean percentage of each important site for terrestrial biodiversity (i.e., those that contribute significantly to the global persistence of biodiversity) that is covered by designated protected areas.
 
-- Data on KBAs and protected areas is generally widely available; however, challenges exist at the national level in ensuring the designated protected areas are effective at reducing biodiversity loss.
+- Data on KBAs and protected areas is generally widely available; however, the indicator does not measure the effectiveness of protected areas in reducing biodiversity loss.
 
 ### 4.3.6. Summary (main actions)
 
