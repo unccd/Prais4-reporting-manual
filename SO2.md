@@ -16,7 +16,7 @@ The choice of the metric to use depends on the country-specific -income category
 
 The metric represented by the proportion of the population below the international poverty line is generally considered relevant to less developed countries, where extreme poverty and destitution are core development challenges. The international poverty line is currently set at USD 2.15 a day, based on 2017 purchasing power parity. Therefore, the proportion of the population below the international poverty line is defined as the percentage of the population living on less than USD 2.15 a day at 2017 international prices.
 
-On the other hand, income inequality is a useful alternative to the poverty metric for those countries where poverty is no longer an issue, as it estimates the extent of wealth distribution in a region. It is estimated through the Gini index. The Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from perfectly equal distribution. A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.  
+On the other hand, income inequality is a useful alternative to the poverty metric for those countries where poverty is no longer an issue, as it estimates the extent of wealth distribution in a region. It is estimated through the Gini index. The Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from perfectly equal distribution. A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.
 
 National reporting is facilitated though the provision of default data. As the proportion of population below the international poverty line by sex, age, employment status and geographical location (urban/rural) is also a Sustainable Development Goal (SDG) indicator (SDG indicator 1.1.1), default data is pre-filled from the United Nations Department of Economic and Social Affairs (UN-DESA) SDG Indicators database[^1] for indicator 1.1.1. If used, this data does not require further validation by the Party. For income inequality (i.e., the Gini index), default data is pre-filled from the World Bank database[^2]. If income inequality data is used, it may require validation by the Party.
 
@@ -78,11 +78,11 @@ Related areas in the PRAIS 4 platform: tables SO2-1.T1, SO2-1.T2 and SO2-1.T3
 
 Parties opting to use an alternative source of national data may enter the relevant national annual values in tables SO2-1.T1 or SO2-1.T2, according to the chosen metric. Parties should click on the “National Data” button above the tables in order to edit the tables. Basic metadata, as outlined in Annex II, for the datasets to be used should be provided in the Data Sources form that opens when “Edit Data Sources” is selected.
 
-To assist in the data interpretation, countries are encouraged to visualize their respective metrics by means of a graph (graphs for each country are available on the [World Bank website](https://datatopics.worldbank.org/sdgs/index.html)).  While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table (i.e., Table SO2-1.T3).
+To assist in the data interpretation, countries are encouraged to visualize their respective metrics by means of a graph (graphs for each country are available on the [World Bank website](https://datatopics.worldbank.org/sdgs/index.html)). While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table (i.e., Table SO2-1.T3).
 
-#### Step 4:  Verify the results
+#### Step 4: Verify the results
 
-If Parties use the default Gini index or enter their own national data for either metric, then its  reliability requires verification from national experts to detect and highlight situations where the confidence level of the obtained results might be low. These checks would contribute to a qualitative assessment of the reliability of the estimates. Parties should report this assessment in a narrative form in the comments field below the tables.
+If Parties use the default Gini index or enter their own national data for either metric, then its reliability requires verification from national experts to detect and highlight situations where the confidence level of the obtained results might be low. These checks would contribute to a qualitative assessment of the reliability of the estimates. Parties should report this assessment in a narrative form in the comments field below the tables.
 
 Optionally, Parties may include additional information in the General Comments field to describe specific country situations. Sub-national disaggregated data (e.g., per administrative division, urban vs rural, affected areas or other socio-economic strata, e.g., sex-disaggregated data) may be useful to identify where the most significant poverty/income inequality areas are located.
 
@@ -112,9 +112,9 @@ Key actions for reporting on indicator SO 2-1 are as follows:
 
 3. **Report national annual values of the chosen metric and interpret the data**: Parties are invited to report, visualize and interpret the national annual data.
 
-4. **Save form and submit for review**: If Gini index or national data are used, rather than the default data on Proportion of population below the international poverty line, then Parties should consult with national experts to qualitatively assess the reliability of the estimates. Default data on the Proportion of population below the international poverty line has already been validated by national authorities through the SDG process.
+4. **Verify the results**: If Gini index or national data are used, rather than the default data on Proportion of population below the international poverty line, then Parties should consult with national experts to qualitatively assess the reliability of the estimates. Default data on the Proportion of population below the international poverty line has already been validated by national authorities through the SDG process.
 
-5. **Generate reports**: once verified by the Parties, the form should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+5. **Save form and submit for review**: once verified by the Parties, the form should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
 
 ### 2.1.7. Additional Resources
 
@@ -129,7 +129,7 @@ Access to water is a key determinant of child survival, maternal and child healt
 
 In order to quantify safely managed drinking water, the proportion of population using improved drinking water services is determined. This is currently measured by the proportion of population using an improved basic drinking water source.
 
-National reporting is facilitated through the provision of default data  pre-filled from the United Nations Department of Economic and Social Affairs (UN-DESA) SDG database[^3]. The proportion of population using safely managed drinking water services is SDG Indicator 6.1.1. The indicator is disaggregated by urban and rural populations, and expressed as a percentage. Custodian agencies for this indicator are the World Health Organization (WHO) and the United Nations Children’s Fund (UNICEF) which, through the Joint Monitoring Programme (JMP) for Water, Sanitation and Hygiene (WASH), have produced regular estimates of national, regional and global progress on drinking water, sanitation and hygiene since 1990.
+National reporting is facilitated through the provision of default data pre-filled from the United Nations Department of Economic and Social Affairs (UN-DESA) SDG database[^3]. The proportion of population using safely managed drinking water services is SDG Indicator 6.1.1. The indicator is disaggregated by urban and rural populations, and expressed as a percentage. Custodian agencies for this indicator are the World Health Organization (WHO) and the United Nations Children’s Fund (UNICEF) which, through the Joint Monitoring Programme (JMP) for Water, Sanitation and Hygiene (WASH), have produced regular estimates of national, regional and global progress on drinking water, sanitation and hygiene since 1990.
 
 [^3]: <https://unstats.un.org/sdgs/dataportal/database>
 
@@ -185,11 +185,11 @@ Related areas in the PRAIS 4 platform: tables SO2-2.T1 and SO2-2.T2
 
 Parties opting to use an alternative source of national data may enter the relevant data in table SO2-2.T1. They may do so by clicking on the “National Data” button above the table. Basic metadata, as outlined in Annex II, for the datasets to be used should be provided in the Data Sources form that opens when “Edit Data Sources” is selected. Parties may also provide information on the dominant change in the metric using the “Qualitative Assessment” table SO2-2.T2.
 
-To assist in the data interpretation, countries are encouraged to visualize their respective SDG Indicator 6.1.1 by means of a graph (graphs for each country, representing each disaggregation, i.e., % rural population, % urban population, % total population, are available to view and download from the JMP, World Bank and Our World in Data websites)[^4].  While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table.
+To assist in the data interpretation, countries are encouraged to visualize their respective SDG Indicator 6.1.1 by means of a graph (graphs for each country, representing each disaggregation, i.e., % rural population, % urban population, % total population, are available to view and download from the JMP, World Bank and Our World in Data websites)[^4]. While it may be difficult to attribute specific causal factors to changes in the metrics, countries may indicate which direct and/or indirect drivers are presumably behind the observed changes and report this information in the Qualitative Assessment table.
 
-[^4]:<https://washdata.org/data/household>,  <https://datatopics.worldbank.org/sdgs/index.html> and <https://ourworldindata.org/sdgs/clean-water-sanitation>
+[^4]:<https://washdata.org/data/household>, <https://datatopics.worldbank.org/sdgs/index.html> and <https://ourworldindata.org/sdgs/clean-water-sanitation>
 
-#### Step 3:  Verify the results
+#### Step 3: Verify the results
 
 If Parties use the default data provided, this has already been validated by national statistics offices through the SDG process, and synchronized with PRAIS. Therefore, it does not require additional verification.
 
@@ -257,9 +257,9 @@ The step-by-step procedure for reporting is described in the following. If Parti
 
 #### Step 1: Select the population dataset
 
-The dataset to be chosen should cover the full extent of the country.  The required format is a gridded count of the human population. If the initial data is in another format (e.g. georeferenced vector dataset providing population counts at administrative region level), then it will need to be reformatted outside of PRAIS to a gridded dataset. The final product must be sex-disaggregated and represent the number of male and female individuals per grid cell and be representative of the time period in question (i.e., the date timestamp should be at least one of the years within the baseline and reporting periods).
+The dataset to be chosen should cover the full extent of the country. The required format is a gridded count of the human population. If the initial data is in another format (e.g. georeferenced vector dataset providing population counts at administrative region level), then it will need to be reformatted outside of PRAIS to a gridded dataset. The final product must be sex-disaggregated and represent the number of male and female individuals per grid cell and be representative of the time period in question (i.e., the date timestamp should be at least one of the years within the baseline and reporting periods).
 
-Among the publicly available global population datasets, the WorldPop dataset is used by default by the UNCCD for calculating indicator SO2-3 and provided to Parties in Trends.Earth.  Parties should note that this 2000-2020 WorldPop dataset has not been updated and therefore the final three years (2021, 2022, and 2023) duplicate values for 2020. It should also be noted that while the School of Geography and Environmental Science at the University of Southampton (UK) has recently released a new global demographic dataset for 2015–2030, it was still in beta format at the time the 2026 reporting process was launched and will not be made available as default data. Beta versions of datasets can contain inconsistencies, errors or anomalies. As soon as this new global demographic dataset is formally published, Parties will be able to download it from Trends.Earth and import it to PRAIS 4 to replace the default data.
+Among the publicly available global population datasets, the WorldPop dataset is used by default by the UNCCD for calculating indicator SO2-3 and provided to Parties in Trends.Earth. Parties should note that this 2000-2020 WorldPop dataset has not been updated and therefore the final three years (2021, 2022, and 2023) duplicate values for 2020. It should also be noted that while the School of Geography and Environmental Science at the University of Southampton (UK) has recently released a new global demographic dataset for 2015–2030, it was still in beta format at the time the 2026 reporting process was launched and will not be made available as default data. Beta versions of datasets can contain inconsistencies, errors or anomalies. As soon as this new global demographic dataset is formally published, Parties will be able to download it from Trends.Earth and import it to PRAIS 4 to replace the default data.
 
 Parties may use alternative global population data sets or national data, provided they comply with the data specifications listed in table 17.
 
@@ -277,9 +277,11 @@ widths: 2 3 3
   - National data
 * - __Input data__ 
     (Data needed to estimate the population exposed to land degradation)
-  - WorldPop data disaggregated by sex for the baseline year (2015) and the latest available year of the reporting period (2023) – (with the 2020 data duplicated for 2023 due to the lack of updated WorldPop population data post-2020). 
+  - WorldPop data disaggregated by sex for the baseline year (2015) and the latest available year of the reporting period (2023) – (with the 2020 data duplicated for 2023 due to the lack of updated WorldPop population data post-2020).
+
     Gridded data on land degradation as determined by indicator SO 1-4 for the baseline and reporting periods.
-  - Gridded population products derived from national official statistics, disaggregated by sex for the baseline year (ideally the year 2015) and the latest available year of the reporting period (e.g., 2023). 
+  - Gridded population products derived from national official statistics, disaggregated by sex for the baseline year (ideally the year 2015) and the latest available year of the reporting period (e.g., 2023).
+
     Gridded data on land degradation as determined by indicator SO 1-4 for the baseline and reporting periods.
 * - __Output data__ 
     (Gridded products resulting from the analysis of the three metrics)
@@ -295,13 +297,13 @@ widths: 2 3 3
   - Minimum metadata content as per the mandatory fields listed in Annex II.
 ```
 
-#### Step 2:  Standardize the selected datasets
+#### Step 2: Standardize the selected datasets
 
 The population and the land degradation datasets must be harmonized to the same grid cell size. For example, the WorldPop dataset and the SO 1-4 land degradation default dataset have resolutions of 100 and 250 metres, respectively and should be resampled to a common grid cell size. For the default data, the grid cell size for the analysis is fixed at the 250 metre resolution of the land degradation dataset to which the population data is resampled. Countries using alternative global or national datasets should assess them in terms of geographical projection and spatial resolution and standardize them through a resampling process in order to combine them in the analysis of population exposure to land degradation.
 
 The resampling, which must be carried out in a spatial data analysis software outside of PRAIS, should take into consideration that, for datasets representing population counts, changes in cell size implies changes in the number of people in each cell; a resampling method that ensures the integrity of the numerical data should be used, such as bilinear interpolation (avoid nearest neighbour techniques).
 
-#### Step 3: Estimate the female, male and total population count and percentage exposed to land degradation
+#### Step 3: Estimate the female, male and total population count and percentage of each population cohort exposed to land degradation
 
 ```{note}
 Related areas in the PRAIS 4 platform: tables SO2-3.T1 and SO2-3.T2
@@ -331,7 +333,7 @@ It is important to note that changes in the proportion of population exposure to
 
 Parties are encouraged to submit narratives in the Comments field associated with tables SO2-3.T1and SO2-3.T2 on the methodology, data sources and data accuracy in the event that the estimates are derived from non-default alternative global or national data.
 
-#### Step 5:  Verify the results
+#### Step 5: Verify the results
 
 The reliability of the estimates require inputs from national experts to identify and highlight situations where the confidence level of the obtained results might be low.
 
