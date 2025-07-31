@@ -36,9 +36,9 @@ _**Figure 10**. Overview of various CC license options (source: Wikipedia, furth
 
 As explained in the introduction of this reporting manual, Parties are strongly recommended to maximize the interoperability and impact of their reported data and support legal, confident, and consistent reuse of national data by the secretariat. Therefore, they are encouraged to select an open licence for their national country Party data, choosing either:
 
-- The Creative Commons Universal _Public Domain Dedication 1.0 (CC0)*. See <https://creativecommons.org/publicdomain/zero/1.0/deed.en> for further information;
+- The Creative Commons Universal **Public Domain Dedication 1.0 (CC0)**. See <https://creativecommons.org/publicdomain/zero/1.0/deed.en> for further information;
 
-- The open Creative Commons _Attribution 4.0 International (CC BY) licence*, which means users of the data are free to:
+- The open Creative Commons **Attribution 4.0 International (CC BY) licence**, which means users of the data are free to:
 
   - Share — Copy and redistribute the material in any medium or format.
   - Adapt — Remix, transform, and build upon the material.
@@ -57,14 +57,17 @@ For these reasons, Parties that license data with SA must grant the secretariat 
 
 ### 3.2 User Specific Licence (USL)
 
-Taking the explanation of the licence options provided in section 3.1 into account, Parties should  select a User Specific Licence (USL) to determine the terms of use of the Data contained in their national reports by filling out the licence form provided in PRAIS, which can be accessed from the "Spatial Layers" tab or directly from the country “Overview” page in the list of menu items on the right hand side.
+Taking the explanation of the licence options provided in section 3.1 into account, Parties should select a User Specific Licence (USL) to determine the terms of use of the Data contained in their national reports by filling out the licence form provided in PRAIS, which can be accessed from the "Spatial Layers" tab or directly from the country “Overview” page in the list of menu items on the right hand side.
 
 By choosing a USL, the user consents to the chosen licence. It is understood that the following terms and conditions are agreed to:
 
 - Nothing in or relating to this USL shall be deemed a waiver, express or implied, of any of the privileges and immunities of the United Nations Convention to Combat Desertification (UNCCD) or the United Nations, including its subsidiary organs.
 - The name and emblem of the UNCCD is the property of the UNCCD, which owns all rights to its use. The logo can only be used to identify events and activities related to the UNCCD.
 
-The UNCCD shall not be held responsible for any use of information beyond that stipulated in this USL, where prior authorization was not sought and granted in accordance with the conditions expressed and communicated by the UNCCD.The USL will determine the conditions of reuse of national datasets hosted on PRAIS and managed by the UNCCD secretariat for the purposes of national reporting. For the purposes of this agreement, the “Data” comprises any national data, with particular recognition of spatial data and associated attribute data provided by the country Party in the reporting process to the UNCCD through its creation on the PRAIS Spatial Data Viewer, using the PRAIS upload tool or via Trends.Earth or other third party software tools. The Data will be used in regional and global aggregate maps, statistics and other information products by the secretariat, in fulfilling its mandate under Decision 11/COP.14, and may be provided to partners of the UNCCD on request and on the understanding that they read and consent to be bound by the terms and conditions of use set out in the USL (if the data is not already in the public domain or its source licence applies additional restriction on use of the data).
+The UNCCD shall not be held responsible for any use of information beyond that stipulated in this USL, where prior authorization was not sought and granted in accordance with the conditions expressed and communicated by the UNCCD.
+The USL will determine the conditions of reuse of national datasets hosted on PRAIS and managed by the UNCCD secretariat for the purposes of national reporting.
+For the purposes of this agreement, the “Data” comprises any national data, with particular recognition of spatial data and associated attribute data provided by the country Party in the reporting process to the UNCCD through its creation on the PRAIS Spatial Data Viewer, using the PRAIS upload tool or via Trends.Earth or other third party software tools.
+The Data will be used in regional and global aggregate maps, statistics and other information products by the secretariat, in fulfilling its mandate under Decision 11/COP.14, and may be provided to partners of the UNCCD on request and on the understanding that they read and consent to be bound by the terms and conditions of use set out in the USL (if the data is not already in the public domain or its source licence applies additional restriction on use of the data).
 
 Therefore, country Parties should familiarize themselves with the options described above and fill out the licence form accordingly.
 
