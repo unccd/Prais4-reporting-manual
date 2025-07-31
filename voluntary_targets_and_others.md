@@ -22,7 +22,7 @@ An example of a specific, time-bound, quantitative and spatially explicit LDN vo
 
 LDN is intended to be achieved at the national level. Countries typically aim to achieve this through the definition of a combination of national target(s) and complementary targets at the sub-national level for a specific indicator and/or a specific geographic area (i.e., a particular ecosystem, natural area, watershed or subnational administrative jurisdiction), which together contribute to meeting Parties’ ambitions in achieving or exceeding LDN at the national level. Some examples of LDN targets from the 2022 national reporting at different levels of application are presented in table 22.
 
-```{list-table} *__Table 22__. Illustrative examples  of Land Degradation Neutrality targets at different levels of application, based on the 2022 national reporting*
+```{list-table} *__Table 22__. Illustrative examples of Land Degradation Neutrality targets at different levels of application, based on the 2022 national reporting*
 ---
 header-rows: 1
 widths: 2 4
@@ -34,11 +34,11 @@ widths: 2 4
 * - Sub-national level
   - “By 2030, the extent of tree-covered areas in the Barbados National Park has increased by 10 % relative to the 2019 baseline”
 * - Specific target (to avoid land degradation)
-  - “ By 2030 in Georgia protected areas coverage should reach 12 %”
+  - “By 2030 in Georgia protected areas coverage should reach 12%”
 * - Specific target (to reduce land degradation)
-  - “ In areas identified as hotspots in Somalia by 2030 improve land productivity on 33,342 ha of Tree-covered areas, 472,227 ha of     grassland, 7709 ha of cropland currently showing stressed productivity through sustainable land management practices.”
+  - “In areas identified as hotspots in Somalia by 2030 improve land productivity on 33,342 ha of Tree-covered areas, 472,227 ha of     grassland, 7709 ha of cropland currently showing stressed productivity through sustainable land management practices.”
 * - Specific target (to reverse land degradation)
-  - “ In the Kedougou region of Senegal over the period 2020-2035, 1,348.27 km2 of marginal areas (artificial areas, bare land, and other domains) will be restored and sustainably managed.”
+  - “In the Kedougou region of Senegal over the period 2020-2035, 1,348.27 km2 of marginal areas (artificial areas, bare land, and other domains) will be restored and sustainably managed.”
 ```
 
 Voluntary targets and actions undertaken to address land degradation can simultaneously contribute to climate change mitigation and adaptation, biodiversity conservation and multiple Sustainable Development Goals (SDGs). Thus, there is considerable potential for synergies and it is very important that LDN targets ensure policy coherence and alignment with other national commitments made under different Conventions and related initiatives (i.e., Nationally Determined Contributions, National Adaptation Plans, National Biodiversity Strategies and Action Plans, land restoration commitments). In this context, LDN targets should be seen as an effective means of complementing and strengthening other country commitments and avoiding duplication of efforts.
@@ -71,7 +71,7 @@ National Voluntary Targets are pre-filled for Parties using the latest informati
 
 - LDN Pilot Project.
 
-Changes, updates or additions to the pre-filled information on these targets  will supersede the existing information and be considered official once submitted.
+Changes, updates or additions to the pre-filled information on these targets will supersede the existing information and be considered official once submitted.
 
 The SO1 Voluntary Targets form (SO1-VT) can be found under the SO1 main tab of the PRAIS 4 platform. National voluntary targets are reported in table SO1-VT.T1.
 
@@ -87,13 +87,14 @@ For any new unreported target, Parties are invited to complete as comprehensivel
 
 Table SO1-VT.T1 is a spatial table and therefore should ideally be completed with the support of the Geographic Information System (GIS) tools available in PRAIS 4. The PRAIS 4 spatial data viewer enables Parties to delineate the location and extent of their subnational targets, thereby making them spatially explicit, or to upload an existing spatial file (in vector format) of the target areas. While this is an additional and optional element, it is recommended since such location-based information strengthens spatial approaches to sustainable land management and helps integrate responses to land degradation at the landscape scale, strengthen monitoring and reporting efforts and inform future prioritization of investments for implementation activities.
 
-For example during the 2022 reporting, Bhutan declared one of its LDN targets as the   implementation of sustainable land management (SLM) in an area of 35 Km2.  Polygons representing the three administrative units concerned were uploaded to PRAIS and are also included in Bhutan´s [LDN DSS](https://wocatapps.users.earthengine.app/view/dss-bhutan). Türkiye has also implemented [a LDN DSS](https://projectgeffao.users.earthengine.app/view/ldn-turkey). For example in one microbasin in the east of the country 34 % of the croplands showed declining land productivity trends, indicating ongoing degradation processes. To counterbalance anticipated losses of natural capital, different cropland parcels were prioritized within the micro basin to implement SLM practices to reverse, reduce and avoid land degradation. For example, in 44 ha, crop rotation with certified chickpeas and wheat was introduced. This and other mapped areas were uploaded as spatially explicit voluntary targets to PRAIS 4 during the reporting process.
+For example during the 2022 reporting, Bhutan declared one of its LDN targets as the implementation of sustainable land management (SLM) in an area of 35 Km2. Polygons representing the three administrative units concerned were uploaded to PRAIS and are also included in Bhutan's [LDN DSS](https://wocatapps.users.earthengine.app/view/dss-bhutan). Türkiye has also implemented [a LDN DSS](https://projectgeffao.users.earthengine.app/view/ldn-turkey). For example in one microbasin in the east of the country 34% of the croplands showed declining land productivity trends, indicating ongoing degradation processes. To counterbalance anticipated losses of natural capital, different cropland parcels were prioritized within the micro basin to implement SLM practices to reverse, reduce and avoid land degradation. For example, in 44 ha, crop rotation with certified chickpeas and wheat was introduced. This and other mapped areas were uploaded as spatially explicit voluntary targets to PRAIS 4 during the reporting process.
 
 Additional information not included in the table may be reported in the “General Comments” field at the bottom of the form.
 
 #### Step 2. Describe implemented actions relevant to the targets
 
 Areas of implemented action (projects and initiatives on the ground) related to the targets can be reported on in table SO1.IA.T1.
+
 If Parties already reported implemented actions in PRAIS as part of their 2022 national report, they will be pre-filled in this table.
 
 As in SO1-VT.T1, Parties have the same three options to manage the existing implemented actions in the reporting form (i.e. edit, remove or add new implemented actions).
@@ -112,7 +113,7 @@ There is a dependency between the targets set in table SO1-VT.T1 and the impleme
 
 ### 6.1.5. Challenges
 
-**National coordination**
+#### National coordination
 
 - With respect to the various plans and commitments formulated under the Rio Conventions and/or other related initiatives, there is the risk of lack of coherence, overlap and duplication of efforts. There is scope for better alignment on restoration in national plans between the three Rio Conventions, which could enhance planning and implementation.
 
@@ -174,7 +175,8 @@ Countries are encouraged to identify complementary indicators for SOs 1 to 4 to 
 
 While sex-disaggregated data related to exposure of population to land degradation and drought are now collected through indicators SO 2-3 and SO 3-2, Parties are encouraged to identify further gender-responsive socio-economic and demographic indicators that may provide a better understanding of how and why specific populations are affected by land degradation and drought.
 
-Additional indicators can be added on the PRAIS 4 platform via a dedicated form (referred to as AI for brevity in PRAIS 4). The form can be found on the main banner of the PRAIS 4 platform after the SO5 tab.  Parties may specify the name of the indicators, the associated SOs and their direction of change. They may also add an extra image representing a map or a chart visualizing the indicator. The type of image won’t be verified automatically by the PRAIS system. The images added will be displayed in the Appendices of the National Report with footnotes mentioning them in the Additional Indicators national report section. A brief description of the indicators, any images uploaded and other relevant information may be reported in the “Comments” field. Metadata describing the dataset used to calculate the additional indicator can be reported by filling out the metadata form provided in the table. One metadata form can be completed per additional indicator reported.
+Additional indicators can be added on the PRAIS 4 platform via a dedicated form (referred to as AI for brevity in PRAIS 4). The form can be found on the main banner of the PRAIS 4 platform after the SO5 tab. Parties may specify the name of the indicators, the associated SOs and their direction of change. They may also add an extra image representing a map or a chart visualizing the indicator. The type of image won’t be verified automatically by the PRAIS system. The images added will be displayed in the Appendices of the National Report with footnotes mentioning them in the Additional Indicators national report section. A brief description of the indicators, any images uploaded and other relevant information may be reported in the “Comments” field. Metadata describing the dataset used to calculate the additional indicator can be reported by filling out the metadata form provided in the table. One metadata form can be completed per additional indicator reported.
+
 Complementary information may be reported in the “General Comments” field.
 
 ## 6.4. Affected Areas
@@ -203,13 +205,15 @@ Once this part of the form has been completed and saved, the reporting forms for
 
 #### Step 2: Delineate affected areas
 
-In order to calculate the indicators for affected areas using geospatial information, Parties will be required to spatially delineate the area that corresponds to the definition provided in Step 1 above. This has to be conducted outside of PRAIS.  Digitization tools in any GIS software (e.g., ArcGIS, QGIS) could be used for this purpose or Parties may have an existing spatial file of the affected area available (e.g., ESRI shapefile, GeoJSON or any widely accepted file format) which they can upload to Trends.Earth.
+In order to calculate the indicators for affected areas using geospatial information, Parties will be required to spatially delineate the area that corresponds to the definition provided in Step 1 above. This has to be conducted outside of PRAIS.
+Digitization tools in any GIS software (e.g., ArcGIS, QGIS) could be used for this purpose or Parties may have an existing spatial file of the affected area available (e.g., ESRI shapefile, GeoJSON or any widely accepted file format) which they can upload to Trends.Earth.
 
 #### Step 3: Calculation of affected area estimates for all indicators
 
 Using the shapefile of the affected area produced in Step 2, Parties should calculate affected area estimates of all indicators for SOs 1 to 4.
 
-Trends.Earth can be used to run these calculations on the affected area defined. When calculating the indicators in Trends.Earth, Parties should upload the shapefile of the affected area produced in Step 2 and use it as the area of analysis. Parties should refer to the Trends.Earth documentation for further information on how to use their own area file in the calculations. Once the indicators have been calculated in Trends.Earth and are ready for packaging for upload to PRAIS, Parties should ensure that the checkbox indicating the results are for Affected Areas only is ticked in Trends.Earth. This will ensure that when the results are uploaded to the PRAIS platform the results will automatically populate the Affected Area forms.  . However, any uploaded geospatial information for affected areas will overwrite any existing national data in PRAIS. Parties may also manually fill in the affected area forms with the required information.
+Trends.Earth can be used to run these calculations on the affected area defined. When calculating the indicators in Trends.Earth, Parties should upload the shapefile of the affected area produced in Step 2 and use it as the area of analysis. Parties should refer to the Trends.Earth documentation for further information on how to use their own area file in the calculations. Once the indicators have been calculated in Trends.Earth and are ready for packaging for upload to PRAIS, Parties should ensure that the checkbox indicating the results are for Affected Areas only is ticked in Trends.Earth. This will ensure that when the results are uploaded to the PRAIS platform the results will automatically populate the Affected Area forms.
+However, any uploaded geospatial information for affected areas will overwrite any existing national data in PRAIS. Parties may also manually fill in the affected area forms with the required information.
 
 For non-geospatial indicators (e.g., SO2-1, SO2-2, SO4-2 and SO 4-3), Parties may wish to assess the availability of sub-national information specific to the affected areas defined in Step 1, and report it in the forms provided.
 
