@@ -4,7 +4,8 @@
 
 ### 7.1.1. Introduction
 
-The implementation framework describes the approach adopted to support and implement the strategic objectives and furthermore provides Parties with an opportunity to share their knowledge and experiences. Although voluntary, this is a vital part of reporting as it helps to contextualise the quantitative information provided for each SO and indicator and it also provides additional narrative information about the actions on the ground that are being implemented by the Parties.  Where relevant, Parties should report concrete cases of effective interventions, measurable improvements, tangible impacts and success stories demonstrating practical implementation at national and local level since the adoption of the strategic framework. Stories shared here can help to motivate other Parties and build understanding of successes and challenges in implementing the Convention. The main objectives of this part of reporting are to:
+The implementation framework describes the approach adopted to support and implement the strategic objectives and furthermore provides Parties with an opportunity to share their knowledge and experiences. Although voluntary, this is a vital part of reporting as it helps to contextualise the quantitative information provided for each SO and indicator and it also provides additional narrative information about the actions on the ground that are being implemented by the Parties.
+Where relevant, Parties should report concrete cases of effective interventions, measurable improvements, tangible impacts and success stories demonstrating practical implementation at national and local level since the adoption of the strategic framework. Stories shared here can help to motivate other Parties and build understanding of successes and challenges in implementing the Convention. The main objectives of this part of reporting are to:
 
 - Understand how policies and plans are being implemented to reach the goals of the Convention;
 
@@ -14,43 +15,58 @@ The implementation framework describes the approach adopted to support and imple
 
 For the 2026 reporting process, the relevant part of the implementation framework is placed separately under each SO. For SO1- SO4 these sections focus on two broad areas:
 
-**(a) Policy and planning**
+#### a) Policy and planning
 
 Sharing experiences in:
+
 (i) the development, implementation and monitoring of national, subregional and regional action programmes and/or plans for UNCCD implementation;
+
 (ii) the establishment of policies and enabling environments;
+
 (iii) mainstreaming of efforts to combat desertification/land degradation and drought (DLDD);
+
 (iv) improvements in drought preparedness and management.
+
 (v) leveraging of synergies with other Conventions and goals.
 
-**(b) Actions on the ground**
+#### b) Actions on the ground
 
 Sharing experience in:
+
 (i) successful implementation practices used to achieve sustainable land management;
+
 (ii) establishing knowledge sharing systems;
+
 (iii) drought risk management and early warning systems;
+
 (iv) alternative livelihoods.
 
-**(c) Financial and non-financial resources**
+#### c) Financial and non-financial resources
 
 Sharing experiences in:
+
 (i) the development, implementation and monitoring of national strategies for mobilizing resources for UNCCD implementation;
+
 (ii) leveraging of synergies with other Conventions and goals, especially in relation to mobilizing resources;
+
 (iii) national circumstances and institutional arrangements relevant to the reporting process on Strategic Objective 5 and the progress indicators.
 
 ### 7.1.2. Approach to reporting and structure of the reporting template
 
 Reporting on the implementation framework is generally in a tabular and narrative format, and is voluntary.
 
-A specific reporting template (SOx-IF) can be found as the final element for each of the SOs in  the PRAIS 4 platform and includes one or more of the applicable sections.
+A specific reporting template (SOx-IF) can be found as the final element for each of the SOs in the PRAIS 4 platform and includes one or more of the applicable sections.
 
-The template poses a series of high-level questions to which the Parties can answer “Yes/No”. If the answer is “Yes”, then the Parties have the opportunity to provide additional information on each topic detailing the country´s experience. This additional information can be provided by filling in the tables, containing a combination of selections from drop-down menus and free descriptive text.
+The template poses a series of high-level questions to which the Parties can answer “Yes/No”. If the answer is “Yes”, then the Parties have the opportunity to provide additional information on each topic detailing the country's experience. This additional information can be provided by filling in the tables, containing a combination of selections from drop-down menus and free descriptive text.
 
 Additionally, comment boxes are included at the end of each form where other relevant information which is not easily or fully described in the tables or through answers to the specific questions can be added. The narrative nature of the implementation framework section gives Parties an opportunity to provide and share information on experiences and challenges. Parties are also encouraged to add one or more examples in support of the stated experiences, including the approach/procedure that was used, how the reported examples were successful, and what factors contributed to their success.
 
 ### 7.1.3. Reporting for Action
 
-The information provided through reporting on the implementation framework will be used, inter alia, for the official sessions of the Committee for the Review of the Implementation of the Convention to highlight experiences gained in the implementation of the Convention.  For example, the information from the 2022 reporting cycle was used to compile examples of interventions made by countries to halt and reverse land degradation. These examples are presented in the publication [The Land Story](https://www.unccd.int/resources/publications/land-story-country-experiences-reporting-land-degradation-and-drought) (UNCCD, 2024). Material contributed to the implementation framework in this reporting cycle can provide additional examples and case studies for a future edition of a similar publication. Such case studies can serve as an inspiration to all countries and provide practical ideas on how they can address land degradation in their own countries.
+The information provided through reporting on the implementation framework will be used, inter alia, for the official sessions of the Committee for the Review of the Implementation of the Convention to highlight experiences gained in the implementation of the Convention.
+For example, the information from the 2022 reporting cycle was used to compile examples of interventions made by countries to halt and reverse land degradation. These examples are presented in the publication [The Land Story](https://www.unccd.int/resources/publications/land-story-country-experiences-reporting-land-degradation-and-drought) (UNCCD, 2024).
+Material contributed to the implementation framework in this reporting cycle can provide additional examples and case studies for a future edition of a similar publication.
+Such case studies can serve as an inspiration to all countries and provide practical ideas on how they can address land degradation in their own countries.
 
 The following sections in this reporting manual provide advice on the specific content and type of information that is required in the tables and narratives concerning each area/aim within the Implementation Framework part of the reporting.
 
@@ -80,11 +96,18 @@ This section focuses on identifying policies, legislative measures, funding mech
 2. address inclusion of underrepresented groups in the implementation of the Convention (SO2) and
 3. combat drought and promote drought resilience (SO3).
 
-The reporting template encourages Parties to list and describe the most important enabling activities related to the SO. Parties should be as comprehensive as possible in describing these, identifying the status of the activity, any successes achieved and the challenges that are being addressed in its implementation.
+The reporting template encourages Parties to list and describe the most important enabling activities related to the SO.
+Parties should be as comprehensive as possible in describing these, identifying the status of the activity, any successes achieved and the challenges that are being addressed in its implementation.
 
-For SO1 and SO3 there are questions about the support provided to other Parties for implementing the Convention. Details on the type of support provided can be presented. These questions are addressed in principle to Parties to the Convention which may not suffer from DLDD, but which support those that do. However, they may also address Parties that engage in South–South cooperation as part of the implementation of this Convention.
+For SO1 and SO3 there are questions about the support provided to other Parties for implementing the Convention.
+Details on the type of support provided can be presented.
+These questions are addressed in principle to Parties to the Convention which may not suffer from DLDD, but which support those that do.
+However, they may also address Parties that engage in South–South cooperation as part of the implementation of this Convention.
 
-For SO2 it is important to report on how women, youth, Indigenous people and local communities have been fully engaged in all policy processes, as they are too often excluded or their involvement is minimized, while they are also among the most vulnerable to the harsh impacts of DLDD. At the same time, policies should take into account the resourcefulness demonstrated by these population groups on some occasions in drought adaptation and mitigation, and give due recognition and encouragement of this resourcefulness.  In order for any country to successfully address and manage DLDD, actions must be taken to fully engage the entirety of the population, and leverage their various perspectives, experiences and abilities. Further information on these issues, with several country-based examples, can be found in the recent UNCCD publication "[Differentiated impacts of desertification, land degradation and drought on women and men](https://www.unccd.int/resources/brief/study-differentiated-impacts-dldd-women-and-men-summary-decision-makers)" and "[Women-led solutions for drought resilience](https://www.unccd.int/resources/publications/women-led-solutions-drought-resilience)”.
+For SO2 it is important to report on how women, youth, Indigenous people and local communities have been fully engaged in all policy processes, as they are too often excluded or their involvement is minimized, while they are also among the most vulnerable to the harsh impacts of DLDD.
+At the same time, policies should take into account the resourcefulness demonstrated by these population groups on some occasions in drought adaptation and mitigation, and give due recognition and encouragement of this resourcefulness.
+In order for any country to successfully address and manage DLDD, actions must be taken to fully engage the entirety of the population, and leverage their various perspectives, experiences and abilities.
+Further information on these issues, with several country-based examples, can be found in the recent UNCCD publication "[Differentiated impacts of desertification, land degradation and drought on women and men](https://www.unccd.int/resources/brief/study-differentiated-impacts-dldd-women-and-men-summary-decision-makers)" and "[Women-led solutions for drought resilience](https://www.unccd.int/resources/publications/women-led-solutions-drought-resilience)”.
 
 ### 7.2.3. Mainstreaming efforts to combat desertification/land degradation and drought
 
@@ -92,9 +115,12 @@ For SO2 it is important to report on how women, youth, Indigenous people and loc
 Relevant to SO1, SO3
 ```
 
-Parties are encouraged to report on their approach to mainstreaming DLDD in a range of policy areas with a view to increasing the impact and effectiveness of the implementation of the Convention. These policy areas cover (i) economic, (ii) environmental, (iii) social, (iv) land, (v) gender and (VI) agricultural policies. Parties may choose to address issues related to income generation/poverty reduction, gender equality, unemployment, migration, disaster preparedness, energy efficiency or wildlife conservation, among others.
+Parties are encouraged to report on their approach to mainstreaming DLDD in a range of policy areas with a view to increasing the impact and effectiveness of the implementation of the Convention.
+These policy areas cover (i) economic, (ii) environmental, (iii) social, (iv) land, (v) gender and (VI) agricultural policies.
+Parties may choose to address issues related to income generation/poverty reduction, gender equality, unemployment, migration, disaster preparedness, energy efficiency or wildlife conservation, among others.
 
-Parties may include the rationale behind the mainstreaming of DLDD in policies, information on coverage/users of the policy, and details of the process for preparing and deciding on the methods for the mainstreaming. Where possible the impact and effectiveness of the actions should also be discussed, as well as the main success factors  and challenges encountered.
+Parties may include the rationale behind the mainstreaming of DLDD in policies, information on coverage/users of the policy, and details of the process for preparing and deciding on the methods for the mainstreaming.
+Where possible the impact and effectiveness of the actions should also be discussed, as well as the main success factors and challenges encountered.
 
 ### 7.2.4 National drought plans
 
@@ -238,8 +264,12 @@ This refers to strategies and actions aimed at leveraging synergies in DLDD-rela
 
 ### 7.4.3. Reporting process
 
-Information on the reporting process for SO-5 helps to ensure understanding, clarity and transparency, in relation to implementing the Convention.  It allows Parties to share how they organise, coordinate and validate their national reporting process as well as reflect on lessons learned and challenges.
+Information on the reporting process for SO-5 helps to ensure understanding, clarity and transparency, in relation to implementing the Convention.
+It allows Parties to share how they organise, coordinate and validate their national reporting process as well as reflect on lessons learned and challenges.
 
-Therefore, Parties are asked to offer information on national circumstances and institutional arrangements relevant to the reporting process on Strategic Objective 5 and its progress indicators. To this effect, a table for reporting qualitative information is provided.  Details on the national entities involved in the reporting process can be provided using both the drop-down menus and the narrative fields. In particular the role of the entities involved should be described as comprehensively as possible.
+Therefore, Parties are asked to offer information on national circumstances and institutional arrangements relevant to the reporting process on Strategic Objective 5 and its progress indicators.
+To this effect, a table for reporting qualitative information is provided.
+Details on the national entities involved in the reporting process can be provided using both the drop-down menus and the narrative fields.
+In particular the role of the entities involved should be described as comprehensively as possible.
 
-*Finally, country Parties can offer any other concluding general comments on the reporting process in the General Comments field.*
+**Finally, country Parties can offer any other concluding general comments on the reporting process in the General Comments field.**
