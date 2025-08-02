@@ -321,7 +321,7 @@ The PRAIS 4 platform includes functions to modify the default transition matrix 
 However, if opting to modify the default transition matrix (i.e. table SO1-1.T3), the transition matrix should first be edited in Trends.Earth so that the reported transitions can be integrated into the calculations of the SO 1-1 outputs and SDG indicator 15.3.1.
 Editing the transition matrix in PRAIS 4 alone will not result in a recalculation of the spatial data for SO 1-1.
 
-```{admonition} Box 2: Defining regional transition
+```{admonition} Box 2. Defining regional transition
 
 In Ecuador, experts developed a land cover assessment methodology that divided the country into homogeneous zones, each with distinct environmental characteristics (Figure 2). The proposed zoning included:
 - Litoral Seco: Areas with ustic or aridic moisture regimes.
@@ -405,7 +405,7 @@ widths: 1 3 4
    recommended to ensure an overall mapping accuracy of at least 74%.
  * - Metadata
    - Metadata information is automatically generated with the default data in Trends.Earth.
-   - A list of minimum metadata information is listed in Annex II to this document.
+   - A list of minimum metadata information is listed in {doc}`Annex II <annex_II>` to this document.
 ```
 
 #### Step 5: Determine the baseline extent of land cover degradation
@@ -627,7 +627,7 @@ widths: 4 5 5
   - To conform with the data quality of the default dataset, it is recommended to ensure an overall mapping accuracy of at least 80%.
 * - __Metadata__
   - Metadata information is automatically generated with the default data.
-  - Minimum metadata content as per the mandatory fields are listed in Annex II.
+  - Minimum metadata content as per the mandatory fields are listed in {doc}`Annex II <annex_II>`.
 ```
 
 *_Version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) recommends that productivity Trend is assessed over a period of 16 years for both the baseline and reporting periods. This provides a more consistent basis for the assessment of changes in the productivity Trend._
@@ -961,7 +961,7 @@ Parties should also indicate if a sub-national (regional) assessment was used in
 
 Verification of the results involves choosing the most reliable LPD map to ensure the accuracy of the final land degradation map.  To facilitate such verification, Parties may choose to compare the results of alternative LPD datasets using additional datasets that can help with a qualitative assessment of the results. Section 3.2.1 of the Addendum provides several examples of how Parties have carried out this verification process in the previous reporting round. A summary of these is provided in Box 4.
 
-```{admonition} Box 4 Approaches to verifying LPD maps
+```{admonition} Box 4. Approaches to verifying LPD maps
 Argentina used a national forest map to assess the ability of different LPD maps to represent declining trends in productivity in areas that were known to have undergone forest loss.
 
 Many countries have used national burned area maps and in some cases the MODIS burned area product to assess whether LPD maps correctly identify declining productivity.
@@ -1165,7 +1165,7 @@ widths: 2 4 4
   - Not less than the default data
 * - **Metadata**
   - Metadata information is provided with default data in Trends.Earth.
-  - Minimum metadata content as per the mandatory fields are listed in Annex II.
+  - Minimum metadata content as per the mandatory fields are listed in {doc}`Annex II <annex_II>`.
 ```
 
 #### Step 3: Map land cover changes for SOC change estimation

@@ -875,7 +875,7 @@ msgid "Metadata information is automatically generated with the default data in 
 msgstr ""
 
 #: ../../SO1.md:344
-msgid "A list of minimum metadata information is listed in Annex II to this document."
+msgid "A list of minimum metadata information is listed in {doc}`Annex II <annex_II>` to this document."
 msgstr ""
 
 #: ../../SO1.md:347
@@ -1282,7 +1282,7 @@ msgstr ""
 
 #: ../../SO1.md:552
 #: ../../SO1.md:1047
-msgid "Minimum metadata content as per the mandatory fields are listed in Annex II."
+msgid "Minimum metadata content as per the mandatory fields are listed in {doc}`Annex II <annex_II>`."
 msgstr ""
 
 #: ../../SO1.md:555

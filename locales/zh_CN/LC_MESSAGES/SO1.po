@@ -1019,9 +1019,9 @@ msgstr "元数据信息用Trends.Earth中的默认数据自动生成。"
 
 #: ../../SO1.md:347
 msgid ""
-"A list of minimum metadata information is listed in Annex II to this "
+"A list of minimum metadata information is listed in {doc}`Annex II <annex_II>` to this "
 "document."
-msgstr "本文件附件二列出了最低限度的元数据信息清单。"
+msgstr "本文件{doc}`附件二 <annex_II>`列出了最低限度的元数据信息清单。"
 
 #: ../../SO1.md:350
 msgid "Step 6: Determine the baseline extent of land cover degradation"

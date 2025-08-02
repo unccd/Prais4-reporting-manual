@@ -67,7 +67,7 @@ widths: 1 3 3
   - Country or sub-national levels
 * - __Metadata__
   - Metadata information is provided with default data. 
-  - Minimum metadata content as per the mandatory fields listed in Annex II. 
+  - Minimum metadata content as per the mandatory fields listed in {doc}`Annex II <annex_II>`.
 ```
 
 #### Step 3: Report national annual values of the chosen metric and interpret the data
@@ -174,7 +174,7 @@ widths: 2 5 5
   - Country or sub-national levels
 * - __Metadata__
   - Metadata information is provided with default data. 
-  - Minimum metadata content as per the mandatory fields listed in Annex II. 
+  - Minimum metadata content as per the mandatory fields listed in {doc}`Annex II <annex_II>`.
 ```
 
 #### Step 2: Report national annual values and interpret the data
@@ -294,7 +294,7 @@ widths: 2 3 3
   - Assessed by national authorities based on available data.
 * - __Metadata__
   - Metadata information is provided with default data.
-  - Minimum metadata content as per the mandatory fields listed in Annex II.
+  - Minimum metadata content as per the mandatory fields listed in {doc}`Annex II <annex_II>`.
 ```
 
 #### Step 2: Standardize the selected datasets

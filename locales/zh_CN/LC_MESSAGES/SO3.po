@@ -311,8 +311,8 @@ msgid "Metadata information is provided with default data."
 msgstr "元数据信息与默认数据一起提供。"
 
 #: ../../SO3.md:108 ../../SO3.md:335 ../../SO3.md:541
-msgid "Minimum metadata content as per the mandatory fields listed in Annex II."
-msgstr "附件二中按必填字段列出的最低元数据内容。"
+msgid "Minimum metadata content as per the mandatory fields listed in {doc}`Annex II <annex_II>`."
+msgstr "按必填字段列出的最低元数据内容，如{doc}`附件二 <annex_II>`中所示。"
 
 #: ../../SO3.md:111
 #, python-brace-format
@@ -479,9 +479,9 @@ msgstr "对于基线期和报告期的每个SPI-12网格，属于每个SPI干旱
 
 #: ../../SO3.md:163
 msgid ""
-"$P_{ij} = \\frac{cellCount_{ij}}{\\text{Total\\ number\\ of\\ cells}} "
+"$P_{ij} = \\frac{cellCount_{ij}}{\\text{Total number of cells}} "
 "\\times 100$"
-msgstr "$P_{ij} = \\frac{cellCount_{ij}}{\\text{单元\\ 总\\ 数}} \\times100$"
+msgstr "$P_{ij} = \\frac{cellCount_{ij}}{\\text{单元 总 数}} \\times100$"
 
 #: ../../SO3.md:165 ../../SO3.md:556
 msgid "Where:"
@@ -503,7 +503,7 @@ msgstr "“cellCount{sub}`ij`” 是指在报告年份 _j_，属于干旱强度�
 
 #: ../../SO3.md:169
 msgid ""
-"“Total number of cells’” is all the grid cells within the country Party’s"
+"“Total number of cells” is all the grid cells within the country Party’s"
 " land area."
 msgstr "“单元总数”是指国家缔约方土地面积内的所有网格单元。"
 
@@ -757,9 +757,9 @@ msgstr ""
 
 #: ../../SO3.md:240
 msgid ""
-"3.2. SO 3-2 – Trends in the proportion of the total population exposed to"
+"3.2. SO 3-2 – Trends in the proportion of the population exposed to"
 " drought"
-msgstr "3.2. SO 3-2 – 受干旱影响的总人口比例趋势"
+msgstr "3.2. SO 3-2 – 受干旱影响的人口比例趋势"
 
 #: ../../SO3.md:242
 msgid "3.2.1. Introduction"
@@ -1542,7 +1542,7 @@ msgstr "每次计算DVI以报告指标SO 3-3时，应重新计算系数范围（
 #: ../../SO3.md:552
 msgid ""
 "Where there is a positive correlation/relationship between vulnerability "
-"and the factor[^3]  (i.e., if the factor value increases, vulnerability "
+"and the factor[^3] (i.e., if the factor value increases, vulnerability "
 "also increases), the data should be normalized using the equation below:"
 msgstr "如果脆弱性与系数[^3]之间存在正相关/关系（即如果系数值增加，脆弱性也会增加），则应使用以下等式对数据进行归一化处理："
 
@@ -1650,7 +1650,7 @@ msgstr "PRAIS 4平台中的相关区域：表SO3-3.T1"
 msgid ""
 "In all tiers of VA, the three components (C{sub}`social`, "
 "C{sub}`economic` and C{sub}`infrastructural`) derived in the previous "
-"steps are used to produce the DVI by calculating their mean value."
+"steps are used to produce the DVI by calculating their arithmetic mean value."
 msgstr "在脆弱性评估的所有层级中，前述步骤中得出的三个成分（C{sub}`社会`、C{sub}`经济`和C{sub}`基础设施`）通过计算其平均值来产生DVI。"
 
 #: ../../SO3.md:592
@@ -1817,7 +1817,7 @@ msgstr "**得出DVI成分**：三个DVI成分中每一个成分的合计值都�
 msgid ""
 "**Calculate the DVI**: the three components – social, economic and "
 "infrastructural – derived in the previous steps are used to produce the "
-"DVI by calculating their mean value."
+"DVI by calculating their arithmetic mean value."
 msgstr "**计算DVI**：在前面的步骤中得出的三个成分——社会、经济和基础设施——通过计算其平均值来产生DVI。"
 
 #: ../../SO3.md:645

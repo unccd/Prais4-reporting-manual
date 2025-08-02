@@ -222,8 +222,8 @@ msgid "Metadata information is provided with default data."
 msgstr "元数据信息与默认数据一起提供。"
 
 #: ../../SO2.md:17 ../../SO2.md:18 ../../SO2.md:27
-msgid "Minimum metadata content as per the mandatory fields listed in Annex II."
-msgstr "附件二中按必填字段列出的最低元数据内容。"
+msgid "Minimum metadata content as per the mandatory fields listed in {doc}`Annex II <annex_II>`."
+msgstr "{doc}`附件二 <annex_II>`中按必填字段列出的最低元数据内容。"
 
 #: ../../SO2.md:75
 msgid ""

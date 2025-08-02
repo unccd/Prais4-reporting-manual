@@ -222,8 +222,8 @@ msgid "Metadata information is provided with default data."
 msgstr "Информация о метаданных предоставляется с данными по умолчанию."
 
 #: ../../SO2.md:17 ../../SO2.md:18 ../../SO2.md:27
-msgid "Minimum metadata content as per the mandatory fields listed in Annex II."
-msgstr "Минимальное содержание метаданных в расчете на обязательные поля указано в Приложении II."
+msgid "Minimum metadata content as per the mandatory fields listed in {doc}`Annex II <annex_II>`."
+msgstr "Минимальное содержание метаданных в расчете на обязательные поля указано в {doc}`Приложении II<annex_II>`."
 
 #: ../../SO2.md:75
 msgid ""

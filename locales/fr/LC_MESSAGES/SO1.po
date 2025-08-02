@@ -1241,10 +1241,10 @@ msgstr ""
 
 #: ../../SO1.md:347
 msgid ""
-"A list of minimum metadata information is listed in Annex II to this "
+"A list of minimum metadata information is listed in {doc}`Annex II <annex_II>` to this "
 "document."
 msgstr ""
-"Une liste des métadonnées minimales exigées figure à l’annexe II jointe "
+"Une liste des métadonnées minimales exigées figure à {doc}`l’annexe II<annex_II>` jointe "
 "au présent document."
 
 #: ../../SO1.md:350

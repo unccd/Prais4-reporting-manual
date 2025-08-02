@@ -227,7 +227,7 @@ msgstr ""
 #: ../../SO3.md:108
 #: ../../SO3.md:335
 #: ../../SO3.md:541
-msgid "Minimum metadata content as per the mandatory fields listed in Annex II."
+msgid "Minimum metadata content as per the mandatory fields listed in {doc}`Annex II <annex_II>`."
 msgstr ""
 
 #: ../../SO3.md:111
@@ -339,7 +339,7 @@ msgid "For each of the SPI-12 grids in the baseline and reporting period, the nu
 msgstr ""
 
 #: ../../SO3.md:163
-msgid "$P_{ij} = \\frac{cellCount_{ij}}{\\text{Total\\ number\\ of\\ cells}} \\times 100$"
+msgid "$P_{ij} = \\frac{cellCount_{ij}}{\\text{Total number of cells}} \\times 100$"
 msgstr ""
 
 #: ../../SO3.md:165
@@ -356,7 +356,7 @@ msgid "“cellCount{sub}`ij`” is the number of pixels under the drought intens
 msgstr ""
 
 #: ../../SO3.md:169
-msgid "“Total number of cells’” is all the grid cells within the country Party’s land area."
+msgid "“Total number of cells” is all the grid cells within the country Party’s land area."
 msgstr ""
 
 #: ../../SO3.md:171
@@ -507,7 +507,7 @@ msgid "Good Practice Guidance for National Reporting on UNCCD Strategic Objectiv
 msgstr ""
 
 #: ../../SO3.md:240
-msgid "3.2. SO 3-2 – Trends in the proportion of the total population exposed to drought"
+msgid "3.2. SO 3-2 – Trends in the proportion of the population exposed to drought"
 msgstr ""
 
 #: ../../SO3.md:242
@@ -960,7 +960,7 @@ msgid "Each time the DVI is calculated to report indicator SO 3-3, the factor ra
 msgstr ""
 
 #: ../../SO3.md:552
-msgid "Where there is a positive correlation/relationship between vulnerability and the factor[^3]  (i.e., if the factor value increases, vulnerability also increases), the data should be normalized using the equation below:"
+msgid "Where there is a positive correlation/relationship between vulnerability and the factor[^3] (i.e., if the factor value increases, vulnerability also increases), the data should be normalized using the equation below:"
 msgstr ""
 
 #: ../../SO3.md:554
@@ -1028,7 +1028,7 @@ msgid "Related areas in the PRAIS 4 platform: table SO3-3.T1"
 msgstr ""
 
 #: ../../SO3.md:590
-msgid "In all tiers of VA, the three components (C{sub}`social`, C{sub}`economic` and C{sub}`infrastructural`) derived in the previous steps are used to produce the DVI by calculating their mean value."
+msgid "In all tiers of VA, the three components (C{sub}`social`, C{sub}`economic` and C{sub}`infrastructural`) derived in the previous steps are used to produce the DVI by calculating their arithmetic mean value."
 msgstr ""
 
 #: ../../SO3.md:592
@@ -1124,7 +1124,7 @@ msgid "**Derive the DVI components**: the aggregated values for each of the thre
 msgstr ""
 
 #: ../../SO3.md:643
-msgid "**Calculate the DVI**: the three components – social, economic and infrastructural – derived in the previous steps are used to produce the DVI by calculating their mean value."
+msgid "**Calculate the DVI**: the three components – social, economic and infrastructural – derived in the previous steps are used to produce the DVI by calculating their arithmetic mean value."
 msgstr ""
 
 #: ../../SO3.md:645

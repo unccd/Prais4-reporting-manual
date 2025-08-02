@@ -10,7 +10,7 @@ The United Nations Convention to Combat Desertification (UNCCD) defines drought 
 
 Indicator SO 3-1 specifically describes the status (i.e., the occurrence or absence of drought and its severity, if occurring) of meteorological drought hazards on an annual basis within a country.
 
-There are several drought indices that may be used to estimate national drought hazard. The UNCCD methodology to estimate indicator SO 3-1 recommends using a specific globally accepted drought index known as the Standardized Precipitation Index (SPI), to characterize the meteorological drought hazard. However, Parties may report using other indices if already in use at national level, e.g., the Standardized Precipitation Evapotranspiration Index (SPEI). For other indices currently in use, Parties may need to ensure statistical consistency with the SPI drought intensity classes described in in table 19[^2].
+There are several drought indices that may be used to estimate national drought hazard. The UNCCD methodology to estimate indicator SO 3-1 recommends using a specific globally accepted drought index known as the Standardized Precipitation Index (SPI), to characterize the meteorological drought hazard. However, Parties may report using other indices if already in use at national level, e.g., the Standardized Precipitation Evapotranspiration Index (SPEI). For other indices currently in use, Parties may need to ensure statistical consistency with the SPI drought intensity classes described in table 19[^2].
 
 [^2]: "The Global Drought Classification System (GDCS, formerly the Global Drought Indicator or GDI), currently under development by WMO through the Global Multi-Hazard Alert System (GMAS) framework, will provide methods on how a multitude of drought indices can be translated onto a harmonized legend of drought classes."
 
@@ -67,10 +67,10 @@ widths: 2 3 3
 * - __Input data__
 
     Data needed to generate drought hazard estimates based on the Standardized Precipitation Index (SPI) calculations described in Step 2
-  - Global Precipitation Climatology Centre (GPCC) monthly precipitation products,1982–present.
+  - Global Multi-Index Drought (GMID) monthly drought index products, 1980–2023.
   - Gridded products of monthly total precipitation derived from national gauge networks. In order to calculate the WMO-aligned reference period, the dataset should ideally have a continuous record of at least 30 years, covering the period 1981–2010.
   
-    For countries in the 50°S to 50°N range: Climate Hazards Group InfraRed Precipitation with Stations (CHIRPS) monthly precipitation products, 1981–present, can be accessed in Trends.Earth*. Alternative accumulation periods to SPI-12 are also possible in Trends.Earth when using CHIRPS ,e.g. SPI-9, SPI-24 and SPI-48.
+    For countries in the 50°S to 50°N range: Climate Hazards Group InfraRed Precipitation with Stations (CHIRPS) monthly precipitation products, 1981–present, can be accessed in Trends.Earth*. Alternative accumulation periods to SPI-12 are also possible in Trends.Earth when using CHIRPS, e.g. SPI-9, SPI-24 and SPI-48.
 * - __Output data__
 
     Intermediate and final gridded products resulting from the analysis described in Steps 2 to 4
@@ -95,12 +95,12 @@ widths: 2 3 3
   - Data should be continuous where possible; where data completeness is less than 85%, Parties may consider filling data gaps in accordance with guidance from the World Meteorological Organization (WMO, 2018).
 * - __Metadata__
   - Metadata information is provided with default data.
-  - Minimum metadata content as per the mandatory fields listed in Annex II.
+  - Minimum metadata content as per the mandatory fields listed in {doc}`Annex II <annex_II>`.
 ```
 
 {sup}`*` _As stated in Step 3, the December SPI-12 values represent the precipitation deficits (or excesses) over the Gregorian (January–December) calendar year._
 
-```{admonition} Box 5 The Global Multi-Index Drought (GMID) dataset
+```{admonition} Box 5. The Global Multi-Index Drought (GMID) dataset
 This dataset comprises the Standardized Precipitation Index (SPI) and the Standardized Precipitation Evapotranspiration Index (SPEI) from 1- to 12-month time scales at high spatial resolution, covering the period 1980-2023 on a global scale. The dataset affords spatial coverage across global longitudes from -180° to 180° and latitudes from 90° to -90°. The data are provided in geographic coordinates (latitude/longitude) based on the WGS 84 (World Geodetic System 1984) reference system, at 0.1° resolution.
 
 SPI and SPEI were calculated based on the most widely used and recommended probability distribution for their calculation at different time scales.   Thus, SPI was calculated adopting a Gamma distribution, while SPEI was computed adopting a log-logistic distribution. The dataset was generated using different meteorological input datasets, including: precipitation data from the Multi-Source Weighted-Ensemble Precipitation (MSWEP) v2.8 (https://www.gloh2o.org/mswep/), and potential evapotranspiration data derived from the Global Land Evaporation Amsterdam Model (GLEAM) v4.2a (https://www.gleam.eu). The data was downloaded at daily time steps, then aggregated monthly, and finally summarized at different accumulation periods to obtain the indices at 1-, 2-, 3-, 4-, 5-, 6-, 7-, 8-, 9-, 10-, 11- and 12-month times scales.
@@ -158,12 +158,12 @@ The proportion of land under drought irrespective of intensity class is calculat
 
 For each of the annual SPI-12 grids, the total number of cells falling in any of the SPI drought intensity classes is counted (cellCount). Then, for each reporting year, the percentage of the total land area under drought is calculated. The formula is as follows:
 
-$P_{ij} = \frac{cellCount_{ij}}{\text{Total\ number\ of\ cells}} \times 100$
+$P_{ij} = \frac{cellCount_{ij}}{\text{Total number of cells}} \times 100$
 
 Where:
 
-- “P{sub}`ij`” is the proportion of land under drought in the reporting year _j_
-- “cellCount{sub}`ij`” is the total number of pixels under drought in the reporting year _j_
+- “P{sub}`ij`” is the proportion of land under drought in the reporting year (j)
+- “cellCount{sub}`ij`” is the total number of pixels under drought in the reporting year (j)
 - “Total number of cells” is all the grid cells within the country Party’s land area.
 
 The total area falling under drought in each year is calculated by multiplying cellCount by the area of the cells (a constant value, since the drought intensity class grid was previously converted to an equal-area projection).
@@ -223,7 +223,7 @@ Key actions for reporting drought hazard intensity values are as follows:
 
 1. **Select drought index or precipitation dataset**: Parties may decide to use the default drought index data or alternative national sources, provided they comply with the data specifications listed in table 18. If Parties decide to use an alternative precipitation data source, they should follow actions 2 to 5 below:
 
-2. **Calculate the SPI**: the SPI should be derived for all months in the full available time series; however, Parties may choose alternative indexes better suited to their local environmental conditions.
+2. **Calculate the SPI**: the SPI should be derived for all months in the full available time series; however, Parties may choose alternative indexes (e.g., SPEI) better suited to their local environmental conditions.
 
 3. **Identify the drought intensity class of each grid cell**: based on the SPI (or other drought index) calculation, the number of cells belonging to each of the drought intensity classes should be counted and converted to areas by projecting the drought intensity class grids into a suitable equal area projection, and calculating the total area under each drought intensity class in km2. Data is then reported in table SO3-1.T1.
 
@@ -239,7 +239,7 @@ Key actions for reporting drought hazard intensity values are as follows:
 
 - WMO, 2018, Guide to climatological practices, second edition. Geneva, Switzerland. (<https://library.wmo.int/doc_num.php?explnum_id=5541>
 
-## 3.2. SO 3-2 – Trends in the proportion of the total population exposed to drought
+## 3.2. SO 3-2 – Trends in the proportion of the population exposed to drought
 
 ### 3.2.1. Introduction
 
@@ -317,7 +317,7 @@ widths: 1 3 3
   - Assessed by national authorities based on available data.
 * - __Metadata__
   - Metadata information is provided with default data.
-  - Minimum metadata content as per the mandatory fields listed in Annex II.
+  - Minimum metadata content as per the mandatory fields listed in {doc}`Annex II <annex_II>`.
 ```
 
 #### Step 2: Overlay gridded population data with indicator SO 3-1 spatial output
@@ -344,7 +344,7 @@ In addition to the annual values of indicator SO 3-2 entered in the tables in st
 
 #### Step 5: Verify the results
 
-Parties should be aware of the limitations of using SPI as a drought indicator (see SO3-1 above)   and critically review the results before submitting the reports to the UNCCD.
+Parties should be aware of the limitations of using SPI as a drought indicator (see SO3-1 above) and critically review the results before submitting the reports to the UNCCD.
 
 #### Step 6: Save form and submit for review
 
@@ -435,7 +435,7 @@ The step-by-step procedure for reporting is described in the following. If the d
 
 #### Step 1: Select tier of vulnerability assessment based on data availability
 
-The vulnerability factors (listed in figure 7) recommended by the UNCCD to derive the DVI  provide a snapshot of a Party’s socio-economic vulnerability to drought. The three core factors that have been recommended for the minimum Tier 1 VA are:
+The vulnerability factors (listed in figure 7) recommended by the UNCCD to derive the DVI provide a snapshot of a Party’s socio-economic vulnerability to drought. The three core factors that have been recommended for the minimum Tier 1 VA are:
 
 1. Literacy rate (% of people aged 15 and above);
 2. Proportion of population below the international poverty line
@@ -497,16 +497,17 @@ widths: 1 3 3
   - To be indicated in the dataset metadata.
 * - __Metadata__
   - Metadata information is provided with default data.
-  - Minimum metadata content as per the mandatory fields listed in Annex II.
+  - Minimum metadata content as per the mandatory fields listed in {doc}`Annex II <annex_II>`.
 ```
 
 #### Step 2:  Factor normalization
 
 In all tiers of VA, factors should be normalized before they can be compared and aggregated, as the vulnerability factors used are all measured using different units.
 
-The [Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf) recommends normalizing factors using the maximum and minimum values within the country using all historic data up to and including the latest year for reporting (2023).  This provides the largest range possible, ensuring that the maximum and minimum values are representative of the country.
+The [Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf) recommends normalizing factors using the maximum and minimum values within the country using all historic data up to and including the latest year for reporting (2023).
+This provides the largest range possible, ensuring that the maximum and minimum values are representative of the country.
 
-Where there is a positive correlation/relationship between vulnerability and the factor[^3]  (i.e., if the factor value increases, vulnerability also increases), the data should be normalized using the equation below:
+Where there is a positive correlation/relationship between vulnerability and the factor[^3] (i.e., if the factor value increases, vulnerability also increases), the data should be normalized using the equation below:
 
 $Factor = \frac{X_{i} - X_{min}}{X_{max} - X_{min}}$
 
@@ -544,13 +545,13 @@ Parties may assign weights to the vulnerability factors if their relative import
 Related areas in the PRAIS 4 platform: table SO3-3.T1
 ```
 
-In all tiers of VA, the three components (C{sub}`social`, C{sub}`economic` and C{sub}`infrastructural`) derived in the previous steps are used to produce the DVI by calculating their mean value.
+In all tiers of VA, the three components (C{sub}`social`, C{sub}`economic` and C{sub}`infrastructural`) derived in the previous steps are used to produce the DVI by calculating their arithmetic mean value.
 
 $DVI = \frac{C_{\text{social}} + C_{\text{economic}} + C_{\text{infrastructural}}}{3}$
 
 The DVI ranges from 0 to 1, with 1 being the most vulnerable.
 
-A Tier 1 VA would result in one DVI at country-level for each year  where data is available (ideally 2000 to 2023). For Tier 2 and 3 VAs, where sex-disaggregated factors are used, it is recommended that sex-specific DVIs are also calculated, in addition to the country-level DVI. Hence, a Party would report three DVI values for each year available, i.e., for the total, female and male populations. For sub-national or gridded components under Tier 3 VA, the DVI is to be calculated for the smallest spatial unit separately for males, females and total populations. The annual DVI values for males, females and total population should be used to complete table SO3-3.T1.
+A Tier 1 VA would result in one DVI at country-level for each year where data is available (ideally 2000 to 2023). For Tier 2 and 3 VAs, where sex-disaggregated factors are used, it is recommended that sex-specific DVIs are also calculated, in addition to the country-level DVI. Hence, a Party would report three DVI values for each year available, i.e., for the total, female and male populations. For sub-national or gridded components under Tier 3 VA, the DVI is to be calculated for the smallest spatial unit separately for males, females and total populations. The annual DVI values for males, females and total population should be used to complete table SO3-3.T1.
 
 #### Step 5: Verify the results
 
@@ -600,7 +601,7 @@ Key actions for reporting population vulnerable to drought hazard are as follows
 
 3. **Derive the DVI components**: the aggregated values for each of the three DVI components are calculated as the arithmetic mean of the normalized factors.
 
-4. **Calculate the DVI**: the three components – social, economic and infrastructural – derived in the previous steps are used to produce the annual DVI values by calculating their mean value.
+4. **Calculate the DVI**: the three components – social, economic and infrastructural – derived in the previous steps are used to produce the annual DVI values by calculating their arithmetic mean value.
 
 5. **Verify the results**: aware of the fact that the DVI method has not yet been validated at the local or national scale, Parties should verify the appropriateness of the default factors and add relevant ones as needed before officially submitting estimates for UNCCD reporting.
 
