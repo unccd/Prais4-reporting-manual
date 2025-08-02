@@ -111,17 +111,13 @@ Wherever possible, UNCCD encourages Parties to use the Land Cover Meta Language 
 
 Table 8 shows the conversion between the default UNCCD legend and the ESA CCI-LC legend.
 
-```{tabularcolumns} |p{1cm}|p{3cm}|p{1cm}|p{9cm}|
-```
-
 ```{flat-table} *__Table 8__. Default reclassification of the European Space Agency Climate Change Initiative Land Cover legend against the seven land cover classes needed for reporting to the UNCCD*
 ---
 header-rows: 2
 widths: 1 3 1 9
 ---
 * - {cspan}`1` UNCCD
-  - {cspan}`1` European Space Agency 
-    Climate Change Initiative Land Cover
+  - {cspan}`1` European Space Agency Climate Change Initiative Land Cover
 * - Code
   - Label
   - Code
@@ -674,7 +670,7 @@ class: font-style-italic
 A z-score measures how many standard deviations above or below the mean a data point is. The formula for calculating a z-score is reported below, where ‘z’ is the z-score:
 
   ```{rst-class} align-center
-  $z = \frac{data\ point – mean}{standard\ deviation}$
+  $z = \frac{data\ point - mean}{standard\ deviation}$
   ```
 
 &nbsp;
@@ -689,16 +685,16 @@ Important facts about z-scores:
 
 As recommended in the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land), z-score intervals may be set as follows:
 
-- z-score < –1.96 = degrading
-- z-score < –1.28 AND ≥ –1.96 = potentially degrading
-- z-score ≥ –1.28 AND ≤ 1.28 = no significant change
-- z-score > 1.28 AND ≤ 1.96 = potentially improving
+- z-score < -1.96 = degrading
+- z-score < -1.28 AND $\ge$ -1.96 = potentially degrading
+- z-score $\ge$ -1.28 AND $\le$ 1.28 = no significant change
+- z-score > 1.28 AND $\le$ 1.96 = potentially improving
 - z-score > 1.96 = improving
 
 However, for the purposes of UNCCD reporting, the five classes above are simplified into the following three classes:
 
-- z-score < –1.28 = degrading
-- z-score ≥ -1.28 AND ≤ 1.28 = stable
+- z-score < -1.28 = degrading
+- z-score $\ge$ -1.28 AND $\le$ 1.28 = stable
 - z-score > 1.28 = improving
 
 The pixels with the lowest negative z-score level (< –1.28) are considered degraded and other areas (stable and improving) are considered not degraded.
@@ -723,25 +719,25 @@ header-rows: 1
   - B = Mean annual NPP of the 13 preceding years
 * - C = Standard deviation 2000–2012
   - C = Standard deviation of the 13 preceding years
-* - z-score = (A – B) / C
-  - z-score = (A – B) / C
+* - z-score = (A - B) / C
+  - z-score = (A - B) / C
 ```
 
 Class definitions for the Z scores are as follows:
 
-- z-score < –1.96 = degraded
-- z-score < –1.28 AND ≥ –1.96 = at risk of degrading
-- z-score ≥ –1.28 AND ≤ 1.28 = no significant change
-- z-score > 1.28 AND ≤ 1.96 = potentially improving
+- z-score < -1.96 = degraded
+- z-score < -1.28 AND $\ge$ -1.96 = at risk of degrading
+- z-score $\ge$ -1.28 AND $\le$ 1.28 = no significant change
+- z-score > 1.28 AND $\le$ 1.96 = potentially improving
 - z-score > 1.96 = improving
 
 Similar to the productivity Trend, the above-mentioned five classes are reduced to three when reporting data to UNCCD:
 
 - z-score < –1.28 = degrading
-- z-score ≥ -1.28 AND ≤ 1.28 = stable
+- z-score $\ge$ -1.28 AND $\le$ 1.28 = stable
 - z-score > 1.28 = improving
 
-For the purposes of calculating the land productivity sub-indicator, UNCCD recommends considering only the area of the lowest negative z-score level (< –1.96) as degraded. Areas in all other z-score classes should be considered as not degraded.
+For the purposes of calculating the land productivity sub-indicator, UNCCD recommends considering only the area of the lowest negative z-score level (< -1.96) as degraded. Areas in all other z-score classes should be considered as not degraded.
 
 ##### Productivity Performance
 
@@ -756,7 +752,7 @@ Productivity Performance is calculated by comparing the mean annual productivity
 The resulting dataset would then include only two classes:
 
 - z-score < 0.5 NPP{sub}`max` = degrading
-- z-score ≥ 0.5 NPP{sub}`max` = improving
+- z-score $\ge$ 0.5 NPP{sub}`max` = improving
 
 The productivity Performance in the reporting period should be calculated from the mean of the annual productivity assessments over the previous 16 years up to the current year, i.e. 2008 to 2023, for the current reporting period.  
 

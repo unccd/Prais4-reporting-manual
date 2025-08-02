@@ -156,7 +156,7 @@ The proportion of land under drought irrespective of intensity class is calculat
 
 For each of the annual SPI-12 grids, the total number of cells falling in any of the SPI drought intensity classes is counted (cellCount). Then, for each reporting year, the percentage of the total land area under drought is calculated. The formula is as follows:
 
-$P_{ij} = \frac{cellCount_{ij}}{Total\ number\ of\ cells} \times 100$
+$P_{ij} = \frac{cellCount_{ij}}{\text{Total\ number\ of\ cells}} \times 100$
 
 Where:
 
@@ -544,7 +544,7 @@ Related areas in the PRAIS 4 platform: table SO3-3.T1
 
 In all tiers of VA, the three components (C{sub}`social`, C{sub}`economic` and C{sub}`infrastructural`) derived in the previous steps are used to produce the DVI by calculating their mean value.
 
-$DVI = \frac{C_{social} + C_{economic} + C_{infrastructural}}{3}$
+$DVI = \frac{C_{\text{social}} + C_{\text{economic}} + C_{\text{infrastructural}}}{3}$
 
 The DVI ranges from 0 to 1, with 1 being the most vulnerable.
 

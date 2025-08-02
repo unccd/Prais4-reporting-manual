@@ -1,21 +1,34 @@
-\setcounter{secnumdepth}{-1}
-\setcounter{tocdepth}{0}
+\setcounter{secnumdepth}{-1} % Remove chapter numbering
+\setcounter{tocdepth}{1} % Set depth of table of contents
 
-% \usepackage[nofonts]{ctex}
-\usepackage[UTF8]{ctex}
+\usepackage[fontset=none]{ctex}
+% \usepackage[UTF8]{ctex}
 \usepackage{caption}
 \usepackage{lscape}
 \usepackage{array}
-\usepackage[none]{hyphenat}
 \usepackage[document]{ragged2e}
 \usepackage{polyglossia}
-\usepackage{xurl}                   % Improves line breaking of long URLs
-\usepackage{fancyhdr}
+\usepackage{xurl} % Improves line breaking of long URLs
+\usepackage{fancyhdr} % see https://texblog.org/2007/11/07/headerfooter-in-latex-with-fancyhdr/
 \usepackage{titlesec}
 \usepackage{titletoc}
+\usepackage{etoolbox} % for patching commands
+\usepackage{unicode-math}
+\usepackage{amsmath}
+\usepackage{sectsty}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+% \usepackage[
+%     a4paper,
+%     top=2cm,
+%     bottom=2cm,
+%     left=1cm,
+%     right=1cm,
+%     headheight=12pt,
+%     footskip=1cm
+% ]{geometry}
 
 % --- Attempts to improve font rendering ---
-% \usepackage{unicode-math}
 % \usepackage[defaultsans]{lato}
 % \defaultfontfeatures[FandolSong]{Script=Default}
 % --- Set local font path ---
@@ -23,68 +36,93 @@
 % the path for fontspec should be '.' (current directory) or left empty.
 % \defaultfontfeatures{Path=./, Extension={.ttf}}
 %
-% --- Main document font (Latin, Cyrillic, etc.) ---
-% Choose Sans or Serif based on preference for primary text
-% \setmainfont{NotoSans}[
-%     Ligatures=TeX,
-%     Scale=1.0,
-%     Extension = .ttf,
-%     UprightFont = *-Regular,
-%     ItalicFont = *-Italic,
-%     BoldFont = *-Bold,
-%     BoldItalicFont = *-BoldItalic,
-% ]
-%
-% --- Chinese Font ---
-% \setCJKmainfont{NotoSansSC}[
-%    UprightFont = *-Regular,
-%    BoldFont = *-Bold,
-%    Extension = .ttf,
-%]
-%
-% --- Arabic Font ---
-%\newfontfamily\arabicfont{NotoNaskhArabic}[
-%    Script=Arabic,
-%    Language=Default, % or specific language like "Arabic=Default"
-%    UprightFont = *-Regular,
-%    BoldFont = *-Bold,
-%    Extension = .ttf,
-%]
-%
-% \setmonofont{NotoSansMono-Regular}
-% \setmathfont{Latin Modern Math}
 
 \captionsetup{labelformat=empty} % Remove automatic figure/table numbers
-% \protected\def\sphinxstyletheadfamily {\bfseries} % Bold table headers
+% \captionsetup[table]{position=below} % Tables captions below the table (not working properly)
+
+% \usepackage{colortbl}
+% \protected\def\sphinxstylethead {\cellcolor{green}\textsf}
 % \renewcommand{\rowcolors}{} % Disable alternating row colors in tables
+% \definecolor{sphinxheadercolor}{rgb}{1,1,1} % White
 
-\titleformat{\chapter}[display]
-    {\bfseries\fontsize{16}{14}\bfseries\color{black}}
-    {\chaptertitlename\ \thechapter}    % Label content
-    {16pt}                              % Space between label and title
-    {\MakeUppercase}                    % Before code
-\titleformat{\section}[display]
-    {\bfseries\fontsize{14}{12}\bfseries\color{black}}
-    {\sectiontitlename\ \thesection}
-    {14pt}{}
+% \newcommand{\sphinxtitle}{} % Declare the command
+% \AtBeginDocument{\renewcommand{\sphinxtitle}{PRAIS4 Reporting Manual}}
+
+% --- Chapter titles and TOC ---
+
+\titleformat{\chapter}[display] % format of chapter titles
+% [display] means the title will be set in a block, taking up the full width of the text
+{\bfseries\fontsize{16}{14}\bfseries\color{black}} % font formatting
+{\chaptertitlename\ \thechapter} % Pre-title (like "Chapter 1"), appears before the actual title text
+% Our chapters are not numbered because of secnumdepth
+{16pt}  % vertical space between the "pre-title" and the actual chapter title
+{\MakeUppercase}
+
+\titleformat{\section}[display] % format of section titles
+{\bfseries\fontsize{14}{12}\bfseries\color{black}}
+{\sectiontitlename\ \thesection}
+{14pt}{}
+
 \titleformat{\subsection}[display]
-    {\bfseries\fontsize{12}{10}\bfseries\color{black}}
-    {\sectiontitlename\ \thesection}
-    {12pt}{}
-\titleformat{\subsubsection}[display]
-    {\normalfont\fontsize{12}{10}\normalfont\color{black}}
-    {\sectiontitlename\ \thesection}
-    {11pt}{}
+{\bfseries\fontsize{12}{10}\bfseries\color{black}}
+{\sectiontitlename\ \thesection}
+{12pt}{}
 
+\titleformat{\subsubsection}[display]
+{\normalfont\fontsize{12}{10}\normalfont\color{black}}
+{\sectiontitlename\ \thesection}
+{11pt}{}
+
+% --- Hyperlinks ---
 \sphinxsetup{%
     InnerLinkColor={rgb}{0,0,0},
     OuterLinkColor={rgb}{0,0.4,0.72}
 }
+
 % --- Fancy Header/Footer ---
-\fancyhf{}                 % Clear default headers/footers
-\fancypagestyle{normal}{   % Redefine the 'normal' page style
-    \fancyhf{}             % Clear headers/footers for normal page style
-    \fancyhead{}
-    \fancyfoot{}
-    \fancyfoot[LE,RO]{\thepage} % Page number on left-even, right-odd footer
+\fancyhf{}  % Clear default headers/footers
+\fancypagestyle{plain}{ % first page of a chapter and special pages
+\fancyhf{} % Clear headers/footers for plain style
+\fancyfoot[R]{\footnotesize\thepage}
+% No lines for plain style
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+}
+\fancypagestyle{normal}{
+    \fancyhf{}
+    % \fancyhead[L]{\chaptertitlename\ \thechapter} % chapter number
+    % \fancyhead[R]{\rightmark} % section name
+    \fancyhead[L]{\footnotesize\rightmark} % chapter name
+    \fancyfoot[R]{\footnotesize\thepage} % Page numbers
+    \renewcommand{\headrulewidth}{0.4pt}
+    \renewcommand{\footrulewidth}{0.4pt}
+}
+
+% --- Format boxes ---
+\definecolor{titlebg}{HTML}{6AB0DE}
+\definecolor{boxbg}{HTML}{E7F2FA}
+\tcbset{
+  fonttitle=\bfseries,
+  coltitle=blue!10!black,
+  colbacktitle=titlebg,
+  colback=boxbg,
+  colframe=titlebg,
+  boxrule=0.5pt,
+  arc=1pt,
+  left=4pt,
+  right=4pt,
+  top=4pt,
+  bottom=4pt
+}
+
+% \renewenvironment{sphinxnote}[1][]{%
+%   \begin{tcolorbox}[title=#1,#1]}{\end{tcolorbox}}
+
+\renewenvironment{sphinxadmonition}[2]{%
+    \begin{tcolorbox}[title=#2]}%
+    {\end{tcolorbox}}
+
+% reduce the default width at 72dpi for presumably better quality
+\renewcommand{\sphinxlogo}{
+    \includegraphics[width=0.33\textwidth]{unccd_logo_blue.png}\par
 }

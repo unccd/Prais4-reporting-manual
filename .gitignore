@@ -5,3 +5,5 @@ latexmkrc
 *.mo
 .idea
 .envrc
+__pycache__
+*.pyc

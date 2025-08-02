@@ -1,0 +1,30 @@
+\usepackage{hyphenat}
+
+% --- Latin and Cyrillic fonts ---
+
+\defaultfontfeatures{Path=./, Extension=.ttf}
+
+\setmainfont{NotoSans}[UprightFont=*-Regular, ItalicFont=*-Italic, BoldFont=*-Bold, BoldItalicFont = *-BoldItalic]
+\setsansfont{NotoSans}[UprightFont=*-Regular, ItalicFont=*-Italic, BoldFont=*-Bold, BoldItalicFont = *-BoldItalic]
+\setmonofont{NotoSansMono}[UprightFont=*-Regular, BoldFont=*-Bold]
+\newfontfamily{\notocondensedfont}{NotoSansCondensed}[Scale=0.8, UprightFont=*-Regular, ItalicFont=*-Italic, BoldFont=*-Bold, BoldItalicFont = *-SemiBoldItalic]
+
+\setmainfont{NotoSans}[UprightFont=*-Regular, ItalicFont=*-Italic, BoldFont=*-Bold, BoldItalicFont = *-BoldItalic]
+
+% \setCJKmainfont{NotoSerifSC}[Script=CJK, UprightFont=*-Regular, BoldFont=*-Bold, Extension=.ttf]
+
+\setmathfont{NotoSansMath}[Path=./, Extension={.ttf}, UprightFont=*, BoldFont=*]
+
+
+% Use condensed font for Latin tables
+\renewcommand{\sphinxstyletheadfamily}{\notocondensedfont\bfseries}
+% \protected\def\sphinxstyletheadfamily {\notocondensedfont}
+\BeforeBeginEnvironment{tabular}{\notocondensedfont}
+\AfterEndEnvironment{tabular}{\normalfont}
+\BeforeBeginEnvironment{tabulary}{\notocondensedfont}
+\AfterEndEnvironment{tabulary}{\normalfont}
+\BeforeBeginEnvironment{longtable}{\notocondensedfont}
+\AfterEndEnvironment{longtable}{\normalfont}
+
+% special hyphenation instructions
+\hyphenation{Про-из-во-ди-тель-ность}

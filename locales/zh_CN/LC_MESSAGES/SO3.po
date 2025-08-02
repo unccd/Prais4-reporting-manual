@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-13 20:13+0300\n"
+"POT-Creation-Date: 2025-08-02 15:43+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../SO3.md:1
 msgid ""
@@ -189,11 +189,13 @@ msgstr "这一决策过程应有助于缔约方确定符合表18所概述的规�
 msgid "*__Table 18__. Data specifications for SO 3-1 Indicator*"
 msgstr "*__表18__. SO 3-1指标的数据规格*"
 
-#: ../../SO3.md:73 ../../SO3.md:301 ../../SO3.md:515
+#: ../../SO3.md:73 ../../SO3.md:301 ../../SO3.md:514
+#, python-brace-format
 msgid "{rspan}`1` Item"
 msgstr "项目"
 
-#: ../../SO3.md:74 ../../SO3.md:302 ../../SO3.md:516
+#: ../../SO3.md:74 ../../SO3.md:302 ../../SO3.md:515
+#, python-brace-format
 msgid "{cspan}`1` Specifications"
 msgstr "规格"
 
@@ -201,11 +203,11 @@ msgstr "规格"
 msgid "Default data"
 msgstr "默认数据"
 
-#: ../../SO3.md:76 ../../SO3.md:304 ../../SO3.md:518
+#: ../../SO3.md:76 ../../SO3.md:304 ../../SO3.md:517
 msgid "National data"
 msgstr "国家数据"
 
-#: ../../SO3.md:77 ../../SO3.md:305 ../../SO3.md:519
+#: ../../SO3.md:77 ../../SO3.md:305 ../../SO3.md:518
 msgid "__Input data__"
 msgstr "__输入数据__"
 
@@ -229,13 +231,14 @@ msgid ""
 msgstr "每月降水量的网格化产品，来自国家测绘网络。该数据集最好有至少30年的连续记录，涵盖1981-2010年期间。"
 
 #: ../../SO3.md:83
+#, python-brace-format
 msgid ""
 "For countries in the 50°S to 50°N range: Climate Hazards Group InfraRed "
 "Precipitation with Stations (CHIRPS) monthly precipitation products, "
 "1981–present, can be accessed in Trends.Earth{sup}`*`."
 msgstr "处于南纬50度至北纬50度范围内的国家，可在Trends.Earth中获取1981年至今的气候灾害组红外降水站点（CHIRPS）月度降水产品{sup}`*`。"
 
-#: ../../SO3.md:84 ../../SO3.md:314 ../../SO3.md:526
+#: ../../SO3.md:84 ../../SO3.md:314 ../../SO3.md:525
 msgid "__Output data__"
 msgstr "__输出数据__"
 
@@ -246,6 +249,7 @@ msgid ""
 msgstr "（由第2至4步所述的分析产生的中间和最终网格化产品）"
 
 #: ../../SO3.md:87 ../../SO3.md:92
+#, python-brace-format
 msgid ""
 "Annual December SPI-12 grids classified into four SPI drought intensity "
 "classes for the baseline and reporting periods{sup}`*`."
@@ -261,7 +265,7 @@ msgstr "每个干旱强度等级的土地总面积以及受旱土地总面积的
 msgid "Gridded spatial summary in four-year epochs."
 msgstr "四年期时代的网格化空间汇总。"
 
-#: ../../SO3.md:97 ../../SO3.md:531
+#: ../../SO3.md:97 ../../SO3.md:530
 msgid "__Classification__"
 msgstr "__分类__"
 
@@ -269,7 +273,7 @@ msgstr "__分类__"
 msgid "Four SPI drought intensity classes as per table 19."
 msgstr "根据表19，四个SPI干旱强度等级。"
 
-#: ../../SO3.md:100 ../../SO3.md:327 ../../SO3.md:534
+#: ../../SO3.md:100 ../../SO3.md:327 ../../SO3.md:533
 msgid "__Spatial resolution__"
 msgstr "__空间分辨率__"
 
@@ -283,11 +287,11 @@ msgid ""
 "authorities based on available data"
 msgstr "CHIRPS: 0.05° x 0.05° (~5.55 km)，或由国家主管部门根据现有数据进行其他评估"
 
-#: ../../SO3.md:103 ../../SO3.md:330 ../../SO3.md:537
+#: ../../SO3.md:103 ../../SO3.md:330 ../../SO3.md:536
 msgid "__Quality__"
 msgstr "__质量__"
 
-#: ../../SO3.md:104 ../../SO3.md:331 ../../SO3.md:538
+#: ../../SO3.md:104 ../../SO3.md:331 ../../SO3.md:537
 msgid "Specified in the datasets’ metadata."
 msgstr "在数据集的元数据中指定。"
 
@@ -298,19 +302,20 @@ msgid ""
 "guidance from the World Meteorological Organization."
 msgstr "在可能的情况下，数据应该是连续的；如果数据的完整性低于85%，缔约方可以考虑根据世界气象组织的指导意见填补数据空白。"
 
-#: ../../SO3.md:106 ../../SO3.md:333 ../../SO3.md:540
+#: ../../SO3.md:106 ../../SO3.md:333 ../../SO3.md:539
 msgid "__Metadata__"
 msgstr "__元数据__"
 
-#: ../../SO3.md:107 ../../SO3.md:334 ../../SO3.md:541
+#: ../../SO3.md:107 ../../SO3.md:334 ../../SO3.md:540
 msgid "Metadata information is provided with default data."
 msgstr "元数据信息与默认数据一起提供。"
 
-#: ../../SO3.md:108 ../../SO3.md:335 ../../SO3.md:542
+#: ../../SO3.md:108 ../../SO3.md:335 ../../SO3.md:541
 msgid "Minimum metadata content as per the mandatory fields listed in Annex II."
 msgstr "附件二中按必填字段列出的最低元数据内容。"
 
 #: ../../SO3.md:111
+#, python-brace-format
 msgid ""
 "{sup}`*` _As stated in Step 3, the December SPI-12 values represent the "
 "precipitation deficits (or excesses) over the Gregorian "
@@ -437,6 +442,7 @@ msgid ""
 msgstr "每个干旱强度等级下的总面积应分两步得出："
 
 #: ../../SO3.md:149
+#, python-brace-format
 msgid ""
 "(i) Project the drought intensity class grid into a suitable equal area "
 "projection (e.g., Mollweide) to obtain the cells’ area in km{sup}`2`."
@@ -472,20 +478,24 @@ msgid ""
 msgstr "对于基线期和报告期的每个SPI-12网格，属于每个SPI干旱强度等级的单元格数量被计算出来（cellCount）。然后，在每个报告年度，计算每个干旱强度等级的土地总面积的百分比。计算公式如下："
 
 #: ../../SO3.md:163
-msgid "$P_{ij} = \\frac{cellCount_{ij}}{Total\\ number\\ of\\ cells} \\times 100$"
-msgstr "$P_{ij} = \\frac{cellCount_{ij}}{单元\\ 总\\ 数} \\times100$"
+msgid ""
+"$P_{ij} = \\frac{cellCount_{ij}}{\\text{Total\\ number\\ of\\ cells}} "
+"\\times 100$"
+msgstr "$P_{ij} = \\frac{cellCount_{ij}}{\\text{单元\\ 总\\ 数}} \\times100$"
 
-#: ../../SO3.md:165 ../../SO3.md:557
+#: ../../SO3.md:165 ../../SO3.md:556
 msgid "Where:"
 msgstr "其中："
 
 #: ../../SO3.md:167
+#, python-brace-format
 msgid ""
 "“P{sub}`ij`” is the proportion of land under the drought intensity class "
 "_i_ in the reporting year _j_"
 msgstr "“P{sub}`ij`”是指在报告年份 _j_，属于干旱强度等级 _i_ 的土地比例"
 
 #: ../../SO3.md:168
+#, python-brace-format
 msgid ""
 "“cellCount{sub}`ij`” is the number of pixels under the drought intensity "
 "class _i_ in the reporting year _j_"
@@ -615,7 +625,7 @@ msgstr "干旱灾害数据依靠表SO1-1.T1中报告的土地总面积来计算�
 msgid "3.1.5. Challenges"
 msgstr "3.1.5. 挑战"
 
-#: ../../SO3.md:206 ../../SO3.md:394 ../../SO3.md:622
+#: ../../SO3.md:206 ../../SO3.md:394 ../../SO3.md:621
 msgid "Data availability and quality"
 msgstr "数据可用性和质量"
 
@@ -723,7 +733,7 @@ msgid ""
 "reporting."
 msgstr "**核实结果**：在意识到与采用SPI估计干旱强度有关的局限性后，缔约方可在正式提交估计数用于《荒漠化公约》报告之前，核实这种指数是否适合描述其国家的干旱发生率和强度。"
 
-#: ../../SO3.md:234 ../../SO3.md:648
+#: ../../SO3.md:234 ../../SO3.md:647
 msgid ""
 "**Generate reports**: once verified by the Parties, the data and "
 "supporting narrative for the reporting and baseline periods should be "
@@ -928,7 +938,7 @@ msgstr "WorldPop：3弧秒（~100米）"
 msgid "Assessed by national authorities based on available data."
 msgstr "由国家主管部门根据现有数据进行评估。"
 
-#: ../../SO3.md:332 ../../SO3.md:539
+#: ../../SO3.md:332 ../../SO3.md:538
 msgid "To be indicated in the dataset metadata."
 msgstr "将在数据集元数据中注明。"
 
@@ -1041,7 +1051,7 @@ msgid ""
 "epochs."
 msgstr "这些网格化的空间汇总指示了在四年期时代内受最极端干旱强度等级影响的人数。"
 
-#: ../../SO3.md:366 ../../SO3.md:599
+#: ../../SO3.md:366 ../../SO3.md:598
 msgid "Step 5:  Verify the results"
 msgstr "第5步：验证结果"
 
@@ -1061,7 +1071,7 @@ msgid ""
 "results before submitting the reports to the UNCCD."
 msgstr "缔约方应意识到这些局限性，并在向《荒漠化公约》提交报告之前严格审查结果。"
 
-#: ../../SO3.md:372 ../../SO3.md:605
+#: ../../SO3.md:372 ../../SO3.md:604
 msgid "Step 6: Generate reports"
 msgstr "第6步：生成报告"
 
@@ -1382,11 +1392,11 @@ msgid ""
 "Index_"
 msgstr "_图3. 建议用于计算干旱脆弱性指数的社会、经济和基础设施成分及其相关系数_"
 
-#: ../../SO3.md:456
+#: ../../SO3.md:457
 msgid "![](/img/SO3_3_Decision_tree.jpg)"
 msgstr ""
 
-#: ../../SO3.md:476
+#: ../../SO3.md:475
 msgid ""
 "The UNCCD provides default data from the global DVI dataset of the JRC. "
 "The method used to derive the default DVI is similar to the one presented"
@@ -1399,7 +1409,7 @@ msgid ""
 "represents the median DVI across the country for the period 2000–2018."
 msgstr "《荒漠化公约》提供的默认数据来自欧盟委员会联合研究中心（JRC）的全球DVI数据集。用于得出默认DVI的方法与本手册和《关于<荒漠化公约>战略目标3的国家报告的良好做法指南》中的方法相似，但在归一化方法（见第2步）和所包括的系数数量方面存在一些关键差异。默认的DVI中使用了两个额外的系数：“防灾和备灾（美元/年/资本）”和“全球可及性地图：到主要城市的旅行时间”。默认的DVI值代表2000-2018年期间整个国家的DVI中位数。"
 
-#: ../../SO3.md:478
+#: ../../SO3.md:477
 msgid ""
 "Country Parties that do not have data available to calculate the minimum "
 "Tier 1 VA can report using the default DVI data. However, it is "
@@ -1409,42 +1419,42 @@ msgid ""
 "figure 4 helps Parties select the tier of VA based on data availability."
 msgstr "没有数据来计算最低的第1级脆弱性评估的国家缔约方可以使用默认的DVI数据进行报告。然而，建议在连续的报告周期内努力提高脆弱性评估的层级，以提高DVI的敏感性并改善评估的精细度。图4中的决策树有助于缔约方根据数据的可用性来选择脆弱性评估的层级。"
 
-#: ../../SO3.md:480
+#: ../../SO3.md:479
 msgid ""
 "National/regional data products used to calculate the DVI should conform "
 "with the specifications listed in table 21."
 msgstr "用于计算DVI的国家/地区数据产品应符合表21中列出的规格。"
 
-#: ../../SO3.md:482
+#: ../../SO3.md:481
 msgid ""
 "_Figure 4. Decision tree to help Parties choose the best tier of "
 "vulnerability assessment for the SO 3-3 Indicator reporting according to "
 "data availability_"
 msgstr "_图4. 帮助缔约方根据数据可用性为SO 3-3指标报告选择最佳脆弱性评估层级的决策树_"
 
-#: ../../SO3.md:484
+#: ../../SO3.md:483
 msgid "![](/img/SO3_3b_Decision_tree.jpg)"
 msgstr ""
 
-#: ../../SO3.md:502
+#: ../../SO3.md:501
 msgid "_DVI: Drought Vulnerability Index_{{br}} _VA: Vulnerability Assessment_"
 msgstr "_DVI：干旱脆弱性指数_{{br}}_VA：脆弱性评估_"
 
-#: ../../SO3.md:510
+#: ../../SO3.md:509
 msgid "*__Table 21__. Data specifications for SO 3-3 Indicator*"
 msgstr "*__表21__. SO 3-3指标的数据规格*"
 
-#: ../../SO3.md:517
+#: ../../SO3.md:516
 msgid ""
 "Default data (Drought Vulnerability Index dataset produced by the Joint "
 "Research Centre)"
 msgstr "默认数据（联合研究中心制作的干旱脆弱性指数数据集）"
 
-#: ../../SO3.md:521
+#: ../../SO3.md:520
 msgid "(Data needed to generate indicator SO 3-3 as described in Steps 2 to 4)"
 msgstr "（生成指标SO 3-3所需的数据，如第2至4步中所述）"
 
-#: ../../SO3.md:522
+#: ../../SO3.md:521
 msgid ""
 "Input data used to calculate the default Drought Vulnerability Index "
 "(DVI) is drawn from various sources such as World Bank, Organisation for "
@@ -1452,7 +1462,7 @@ msgid ""
 "of the United Nations, and Joint Research Centre."
 msgstr "用于计算默认干旱脆弱性指数（DVI）的输入数据来自不同的来源，如世界银行、经济合作与发展组织、联合国粮食及农业组织以及联合研究中心。"
 
-#: ../../SO3.md:523
+#: ../../SO3.md:522
 msgid ""
 "Freely available datasets for the calculation of the factors needed to "
 "derive the DVI are listed in table 14 of the \"[Good Practice Guidance "
@@ -1463,57 +1473,57 @@ msgstr ""
 "用于计算得出DVI所需系数的免费数据集列于“[关于《荒漠化公约》战略目标3的国家报告的良好做法指南](https://www.unccd.int/sites/default/files/documents/2021-09"
 "/UNCCD_GPG_Strategic-Objective-3_2021.pdf) ”的表14。"
 
-#: ../../SO3.md:525
+#: ../../SO3.md:524
 msgid ""
 "Alternatively, if available, in-country datasets with higher spatial "
 "resolution and fewer gaps over the baseline and reporting period."
 msgstr "或者，如果有的话，在基线期和报告期间，空间分辨率较高和差距较小的国内数据集。"
 
-#: ../../SO3.md:528
+#: ../../SO3.md:527
 msgid "(DVI indicator resulting from the analysis described in Steps 2 to 4)"
 msgstr "（由第2至4步所述的分析得出的DVI指标）"
 
-#: ../../SO3.md:529
+#: ../../SO3.md:528
 msgid ""
 "2018 DVI for the baseline and the reporting period. Regions where "
 "droughts could be meaningless, such as deserts and cold areas, are "
 "masked."
 msgstr "基线期和报告期的2018年DVI。干旱可能没有意义的地区，如沙漠和寒冷地区，被掩盖了。"
 
-#: ../../SO3.md:530
+#: ../../SO3.md:529
 msgid "Annual or near-annual DVI for the baseline and reporting periods."
 msgstr "基线期和报告期的年度或接近年度的DVI。"
 
-#: ../../SO3.md:532
+#: ../../SO3.md:531
 msgid ""
 "Continuous, fractional scale from 0 to 1 but classification based on "
 "quantiles to group the vulnerability classes."
 msgstr "从0到1的连续分数标度，但基于分位数进行分类，将脆弱性类别分组。"
 
-#: ../../SO3.md:533
+#: ../../SO3.md:532
 msgid "Continuous scale from 0 to 1."
 msgstr "从0到1的连续标度。"
 
-#: ../../SO3.md:535
+#: ../../SO3.md:534
 msgid "Country level"
 msgstr "国家一级"
 
-#: ../../SO3.md:536
+#: ../../SO3.md:535
 msgid "National and/or sub-national levels"
 msgstr "国家和/或国家以下各级"
 
-#: ../../SO3.md:545
+#: ../../SO3.md:544
 msgid "Step 2:  Factor normalization"
 msgstr "第2步：系数归一化"
 
-#: ../../SO3.md:547
+#: ../../SO3.md:546
 msgid ""
 "In all tiers of VA, factors should be normalized before they can be "
 "compared and aggregated, as the vulnerability factors used are all "
 "measured using different units."
 msgstr "在脆弱性评估的所有层级中，由于所使用的脆弱性系数都是用不同的单位来衡量的，因此在进行比较和汇总之前，应该对这些系数进行归一化。"
 
-#: ../../SO3.md:549
+#: ../../SO3.md:548
 msgid ""
 "The UNCCD recommends normalizing factors using the maximum and minimum "
 "values within the country using all historic data up to, and including, "
@@ -1521,7 +1531,7 @@ msgid ""
 "that the maximum and minimum values are representative for the country."
 msgstr "《荒漠化公约》建议利用报告期之前（包括报告期）的所有历史数据，利用国内的最大值和最小值对系数进行归一化处理。这提供了尽可能大的范围，确保最大值和最小值对该国都具有代表性。"
 
-#: ../../SO3.md:551
+#: ../../SO3.md:550
 msgid ""
 "Each time the DVI is calculated to report indicator SO 3-3, the factor "
 "range (i.e., the minimum and maximum values) should be recalculated, and "
@@ -1529,57 +1539,60 @@ msgid ""
 " should be re-normalized using the new range."
 msgstr "每次计算DVI以报告指标SO 3-3时，应重新计算系数范围（即最小值和最大值），如果报告期的数值超出该范围，应使用新的范围重新对系数进行归一化。"
 
-#: ../../SO3.md:553
+#: ../../SO3.md:552
 msgid ""
 "Where there is a positive correlation/relationship between vulnerability "
 "and the factor[^3]  (i.e., if the factor value increases, vulnerability "
 "also increases), the data should be normalized using the equation below:"
 msgstr "如果脆弱性与系数[^3]之间存在正相关/关系（即如果系数值增加，脆弱性也会增加），则应使用以下等式对数据进行归一化处理："
 
-#: ../../SO3.md:555
+#: ../../SO3.md:554
 msgid "$Factor = \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 msgstr "$Factor = \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 
-#: ../../SO3.md:559
+#: ../../SO3.md:558
+#, python-brace-format
 msgid "X{sub}`i` is the value of the considered factor in the year “i”"
 msgstr "X{sub}`i`是“i”年所考虑的系数的值"
 
-#: ../../SO3.md:560
+#: ../../SO3.md:559
+#, python-brace-format
 msgid ""
 "X{sub}`min` is the minimum value of the considered factor observed in the"
 " entire time series"
 msgstr "X{sub}`min`是在整个时间序列中观察到的所考虑系数的最小值"
 
-#: ../../SO3.md:561
+#: ../../SO3.md:560
+#, python-brace-format
 msgid ""
 "X{sub}`max` is the maximum value of the considered factor observed in the"
 " entire time series"
 msgstr "X{sub}`max`是在整个时间序列中观察到的所考虑系数的最大值"
 
-#: ../../SO3.md:563
+#: ../../SO3.md:562
 msgid ""
 "In case of negative correlation/relationship between vulnerability and "
 "the factor, the equation is:"
 msgstr "如果脆弱性和系数之间存在负相关/关系，等式为："
 
-#: ../../SO3.md:565
+#: ../../SO3.md:564
 msgid "$Factor = 1 - \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 msgstr "$Factor = 1 - \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 
-#: ../../SO3.md:567
+#: ../../SO3.md:566
 msgid ""
 "After normalization, all factors have a value of between zero and one, "
 "relative to the historical maximum and minimum of the country."
 msgstr "在归一化之后，相对于国家的历史最大值和最小值，所有系数的数值都在0和1之间。"
 
-#: ../../SO3.md:569
+#: ../../SO3.md:568
 msgid ""
 "Normalization of sex-disaggregated data for Tier 1 and 2 VA uses the same"
 " formulas described above, applied once for each piece of sex-related "
 "data."
 msgstr "供第1级和第2级脆弱性评估的按性别分列的数据的归一化使用上述相同的公式，对每个与性别有关的数据应用一次。"
 
-#: ../../SO3.md:571
+#: ../../SO3.md:570
 msgid ""
 "For sub-national level data (Tier 3 VA), the calculation should be "
 "applied to the data from all spatial units (e.g., administrative units) "
@@ -1587,7 +1600,7 @@ msgid ""
 "values of the whole country."
 msgstr "对于次国家级数据（第3级脆弱性评估），计算应应用于来自所有空间单位（如行政单位）的合并数据，系数范围应反映整个国家的最小值和最大值。"
 
-#: ../../SO3.md:573
+#: ../../SO3.md:572
 msgid ""
 "For the default DVI, each factor was normalized using the global maximum "
 "and minimum values, rather than historical ranges for the given country. "
@@ -1596,11 +1609,11 @@ msgid ""
 "the national range is used."
 msgstr "对于默认的DVI，每个系数都使用全球最大值和最小值，而不是给定国家的历史范围进行归一化。在全球范围内进行归一化，意味着所产生的脆弱性评估对地方/国家情况的敏感性低于使用国家范围时。"
 
-#: ../../SO3.md:577
+#: ../../SO3.md:576
 msgid "Step 3: Derive the Drought Vulnerability Index components"
 msgstr "第3步：推导出干旱脆弱性指数的成分"
 
-#: ../../SO3.md:579
+#: ../../SO3.md:578
 msgid ""
 "This step aims to derive aggregated values for each of the three DVI "
 "components. For Parties adopting the Tier 1 VA approach, the values of "
@@ -1610,44 +1623,47 @@ msgid ""
 "the aggregated value of each component."
 msgstr "该步骤旨在得出三个DVI成分中每个成分的合计值。对于采用第1级脆弱性评估方法的缔约方，第2步中归一化的系数值也代表了相应的成分。相反，第2级和第3级脆弱性评估需要计算归一化系数的算术平均值，以得出每个成分的合计值。"
 
-#: ../../SO3.md:581
+#: ../../SO3.md:580
 msgid ""
 "The result of this step is a single value for each component and each "
 "geographic unit of the country. If sex-disaggregated data is used, "
 "separate values for male and female are produced for each component."
 msgstr "这一步推导出的是每个成分和国家的每个地理单位的单一数值。如果使用的是按性别分列的数据，则为每个成分产生单独的男性和女性的数值。"
 
-#: ../../SO3.md:583
+#: ../../SO3.md:582
 msgid ""
 "Parties may assign weights to the vulnerability factors if their relative"
 " importance and relevance is known. It is recommended to apply the "
 "weights to the vulnerability factors and not to the three components."
 msgstr "如果知道脆弱性系数的相对重要性和相关性，缔约方可以给这些系数分配权重。建议将权重应用于脆弱性系数，而不是三个成分。"
 
-#: ../../SO3.md:585
+#: ../../SO3.md:584
 msgid "Step 4:  Calculate the Drought Vulnerability Index"
 msgstr "第4步：计算干旱脆弱性指数"
 
-#: ../../SO3.md:588
+#: ../../SO3.md:587
 msgid "Related areas in the PRAIS 4 platform: table SO3-3.T1"
 msgstr "PRAIS 4平台中的相关区域：表SO3-3.T1"
 
-#: ../../SO3.md:591
+#: ../../SO3.md:590
+#, python-brace-format
 msgid ""
 "In all tiers of VA, the three components (C{sub}`social`, "
 "C{sub}`economic` and C{sub}`infrastructural`) derived in the previous "
 "steps are used to produce the DVI by calculating their mean value."
 msgstr "在脆弱性评估的所有层级中，前述步骤中得出的三个成分（C{sub}`社会`、C{sub}`经济`和C{sub}`基础设施`）通过计算其平均值来产生DVI。"
 
-#: ../../SO3.md:593
-msgid "$DVI = \\frac{C_{social} + C_{economic} + C_{infrastructural}}{3}$"
-msgstr "$DVI = \\frac{C_{社会} + C_{经济} + C_{基础设施}}{3}$"
+#: ../../SO3.md:592
+msgid ""
+"$DVI = \\frac{C_{\\text{social}} + C_{\\text{economic}} + "
+"C_{\\text{infrastructural}}}{3}$"
+msgstr "$DVI = \\frac{C_{\\text{社会}} + C_{\\text{经济}} + C_{\\text{基础设施}}}{3}$"
 
-#: ../../SO3.md:595
+#: ../../SO3.md:594
 msgid "The DVI ranges from 0 to 1, with 1 being the most vulnerable."
 msgstr "DVI的范围从0到1，其中1是最脆弱的。"
 
-#: ../../SO3.md:597
+#: ../../SO3.md:596
 msgid ""
 "A Tier 1 VA would result in one DVI at country-level for each reporting "
 "period. For Tier 2 and 3 VAs, where sex-disaggregated factors are used, "
@@ -1659,7 +1675,7 @@ msgid ""
 "males, females and total populations."
 msgstr "第1级脆弱性评估将在每个报告期产生一个国家一级的DVI。对于第2和第3级脆弱性评估，在使用按性别分列的系数的情况下，建议除了国家一级的DVI之外，还要计算特定性别的DVI。因此，缔约方将报告每个报告期的至少三个DVI值，即总人口、女性人口和男性人口。对于第3级脆弱性评估下的次国家或网格化成分，将分别为男性人口、女性人口和总人口计算最小空间单位的DVI。"
 
-#: ../../SO3.md:601
+#: ../../SO3.md:600
 msgid ""
 "The DVI method has not yet been validated at the local or national scale "
 "and, as such, may not accurately characterize vulnerability at these "
@@ -1670,7 +1686,7 @@ msgid ""
 "improve results at national and subnational level."
 msgstr "DVI方法尚未在地方或国家范围内得到验证，因此，无论是从与每个国家最相关的系数还是从最有效的系数加权方案来看，都可能无法准确描述这些范围内的脆弱性。因此，缔约方可以核实默认系数的适当性，并根据需要添加相关系数。还应彻底考虑加权方案，以改善国家和国家以下各级的结果。"
 
-#: ../../SO3.md:603
+#: ../../SO3.md:602
 msgid ""
 "Moreover, the most vulnerable populations and underrepresented groups "
 "should be involved in the determination of the factors to be used to "
@@ -1678,7 +1694,7 @@ msgid ""
 " effective index."
 msgstr "此外，最弱势人群和代表性不足的人群应参与确定用于计算各成分的系数，以便制定一个针对具体国家的、更有效的指数。"
 
-#: ../../SO3.md:607
+#: ../../SO3.md:606
 msgid ""
 "Once verified by the Parties, the estimated vulnerability values for the "
 "reporting and baseline periods should be officially submitted to the "
@@ -1692,7 +1708,7 @@ msgstr ""
 "4平台的专用“方法”栏来报告所使用的方法（选定的层级和每个成分的系数）的信息。观察到的变化及其解释可在PRAIS "
 "4平台的“定性评估”表中描述（表SO3-3.T2）。"
 
-#: ../../SO3.md:609
+#: ../../SO3.md:608
 msgid ""
 "Maps generated in Trends.Earth using national data under Tier 3 VA and "
 "representing vulnerability to drought for the baseline/reporting period "
@@ -1702,15 +1718,15 @@ msgstr ""
 "在Trends.Earth中使用第3级脆弱性评估下的国家数据生成的、代表基线期/报告期干旱脆弱性的地图可以上传到PRAIS "
 "4平台。更具体地说，建议上传以下地图："
 
-#: ../../SO3.md:611
+#: ../../SO3.md:610
 msgid "Drought Vulnerability in the baseline period (2000–2015)"
 msgstr "基线期（2000-2015年）的干旱脆弱性"
 
-#: ../../SO3.md:612
+#: ../../SO3.md:611
 msgid "Drought Vulnerability in the reporting period (2016–2019)"
 msgstr "报告期（2016-2019年）的干旱脆弱性"
 
-#: ../../SO3.md:614
+#: ../../SO3.md:613
 msgid ""
 "Information on data sources, data accuracy and any weighting scheme "
 "applied to the vulnerability factors can be submitted using the “General "
@@ -1719,42 +1735,42 @@ msgid ""
 " providing the rationale to include different factors."
 msgstr "关于数据来源、数据准确性和适用于脆弱性系数的任何加权方案的信息，可使用“一般性注释”栏提交。报告特殊情况和问题也是有益的，能够说明数值可能不太可靠的情况并提供纳入不同系数的理由。"
 
-#: ../../SO3.md:616
+#: ../../SO3.md:615
 msgid "3.3.4. Dependencies"
 msgstr "3.3.4. 依赖性"
 
-#: ../../SO3.md:618
+#: ../../SO3.md:617
 msgid "SO 2-1 and SO 2-2 can be used for the calculation of SO 3-3."
 msgstr "SO 2-1和SO 2-2可用于计算SO 3-3。"
 
-#: ../../SO3.md:620
+#: ../../SO3.md:619
 msgid "3.3.5. Challenges"
 msgstr "3.3.5. 挑战"
 
-#: ../../SO3.md:624
+#: ../../SO3.md:623
 msgid ""
 "The availability of data for the considered factors varies substantially "
 "from country to country and the complete set of recommended data might "
 "not be accessible everywhere."
 msgstr "有关所考虑系数的数据可用性在各国之间有很大差异，可能不是所有地方都能获得完整的建议数据。"
 
-#: ../../SO3.md:626
+#: ../../SO3.md:625
 msgid "Methodological approach"
 msgstr "方法论"
 
-#: ../../SO3.md:628
+#: ../../SO3.md:627
 msgid ""
 "The reliability of the DVI method at national and sub-national levels is "
 "still to be verified."
 msgstr "在国家和国家以下各级，DVI方法的可靠性仍有待验证。"
 
-#: ../../SO3.md:630
+#: ../../SO3.md:629
 msgid ""
 "Due to the methods used for factor normalization (i.e., using in-country "
 "historic data), DVI values should not be compared between countries."
 msgstr "由于用于系数归一化的方法（即使用国内的历史数据）存在差异，不应在国家之间比较DVI值。"
 
-#: ../../SO3.md:632
+#: ../../SO3.md:631
 msgid ""
 "Assuming a consistent methodology has been used over time, changes in the"
 " DVI may reflect the efficacy of drought mitigation and adaptation "
@@ -1762,17 +1778,17 @@ msgid ""
 "changes disconnected from drought management measures."
 msgstr "假设长期使用一致的方法，DVI的变化可能反映干旱缓解和适应政策的有效性，但也可能揭示与干旱管理措施无关的社会和经济变化的影响。"
 
-#: ../../SO3.md:634
+#: ../../SO3.md:633
 msgid "3.3.6. Summary (main actions)"
 msgstr "3.3.6. 总结（主要行动）"
 
-#: ../../SO3.md:636
+#: ../../SO3.md:635
 msgid ""
 "Key actions for reporting population vulnerable to drought hazard are as "
 "follows:"
 msgstr "报告易受干旱灾害的人口时需采取的关键行动如下："
 
-#: ../../SO3.md:638
+#: ../../SO3.md:637
 msgid ""
 "**Select tier of vulnerability assessment based on data availability**: "
 "Parties are encouraged to opt for one of the three Tiers of VA based on "
@@ -1783,28 +1799,28 @@ msgid ""
 "follow Steps 2 to 4 below:"
 msgstr "**根据数据的可用性选择脆弱性评估的层级**：鼓励缔约方根据数据的可用性，选择三个脆弱性评估层级中的一个层级。在没有数据来计算最低一级脆弱性评估的情况下，缔约方可以使用默认数据。用于计算DVI的国家/地区数据产品应符合表21中所列的规格。如果缔约方使用国家/地区数据产品，应遵循以下第2至4步："
 
-#: ../../SO3.md:640
+#: ../../SO3.md:639
 msgid ""
 "**Factor normalization**: factors for each vulnerability component should"
 " be normalized before they can be compared and aggregated, as the "
 "vulnerability factors used are all measured using different units."
 msgstr "**系数归一化**：由于使用的脆弱性系数都是用不同的单位来衡量的，每个脆弱性成分的系数都应归一化，然后才能进行比较和汇总。"
 
-#: ../../SO3.md:642
+#: ../../SO3.md:641
 msgid ""
 "**Derive the DVI components**: the aggregated values for each of the "
 "three DVI components are calculated as the arithmetic mean of the "
 "normalized factors."
 msgstr "**得出DVI成分**：三个DVI成分中每一个成分的合计值都按照归一化系数的算术平均值计算。"
 
-#: ../../SO3.md:644
+#: ../../SO3.md:643
 msgid ""
 "**Calculate the DVI**: the three components – social, economic and "
 "infrastructural – derived in the previous steps are used to produce the "
 "DVI by calculating their mean value."
 msgstr "**计算DVI**：在前面的步骤中得出的三个成分——社会、经济和基础设施——通过计算其平均值来产生DVI。"
 
-#: ../../SO3.md:646
+#: ../../SO3.md:645
 msgid ""
 "**Verify the results**: aware of the fact that the DVI method has not yet"
 " been validated at the local or national scale, Parties may verify the "
@@ -1812,11 +1828,11 @@ msgid ""
 "before officially submitting estimates for UNCCD reporting."
 msgstr "**核实结果**：在意识到DVI方法尚未在地方或国家范围内得到验证后，缔约方可以核实默认系数的适当性，并在正式提交估计数用于《荒漠化公约》报告之前，根据需要添加相关系数。"
 
-#: ../../SO3.md:650
+#: ../../SO3.md:649
 msgid "3.3.7. Further reading"
 msgstr "3.3.7. 深入阅读"
 
-#: ../../SO3.md:652
+#: ../../SO3.md:651
 msgid ""
 "Good Practice Guidance for National Reporting on UNCCD Strategic "
 "Objective 3. Chapter 3. Level 3 Indicator "
@@ -1845,7 +1861,7 @@ msgid ""
 " legend of drought classes.\""
 msgstr "“全球干旱分类系统（GDCS，前称“全球干旱指标”或GDI），目前正在由世界气象组织通过全球多灾种警报系统（GMAS）框架进行开发，它将提供如何将众多干旱指数转化为统一的干旱等级图例的方法。”"
 
-#: ../../SO3.md:575
+#: ../../SO3.md:574
 msgid ""
 "See Table 13 of the Good Practice Guidance for National Reporting on "
 "UNCCD Strategic Objective 3 indicating relationship of the 13 recommended"
