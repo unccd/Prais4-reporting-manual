@@ -1,0 +1,17 @@
+% --- Chinese Fonts ---
+\usepackage[none]{hyphenat}
+
+\defaultfontfeatures{Script=CJK, UprightFont=*-Regular, BoldFont=*-Bold, ItalicFont=*-Bold, Extension=.ttf}
+\newfontfamily{\chinesefont}{NotoSerifSC} % serif
+\newfontfamily{\chinesefontsf}{NotoSansSC} % sans-serif
+\newfontfamily{\chinesefonttt}{NotoSansSC} % monospace
+
+\setCJKmainfont{NotoSerifSC}
+\setCJKsansfont{NotoSansSC}
+\setCJKmonofont{NotoSansSC}
+\setmainfont{NotoSerif}
+\setsansfont{NotoSans}
+\setmonofont{NotoSansSC}
+\setmathfont{NotoSansMath}[Path=./, Extension={.ttf}, UprightFont=*, BoldFont=*]
+\setmathrm{NotoSansSC} % upright Roman font in math to a CJK font
+\setmathsf{NotoSansSC}

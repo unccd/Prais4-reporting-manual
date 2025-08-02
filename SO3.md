@@ -35,21 +35,27 @@ The UNCCD provides default data from the Global Precipitation Climatology Centre
 Parties wishing to use in-country data provided by the NMHS or regional, rather than global, precipitation products can use the decision tree in figure 1 to assess whether the in-country (or regional) precipitation data is more appropriate to derive indicator SO 3-1 over the globally available datasets.
 
 _Figure 1. Decision tree to help Parties chose the best precipitation data source to derive indicator SO 3-1_
+
 ```{ifconfig} language == 'en'
 ![](/img/SO3_Decision_tree.jpg)
 ```
+
 ```{ifconfig} language == 'ru'
 ![](/img/Figure_1-RU.jpg)
 ```
+
 ```{ifconfig} language == 'ar'
 ![](/img/Figure_1-AR.jpg)
 ```
+
 ```{ifconfig} language == 'zh'
 ![](/img/Figure_1-ZH.png)
 ```
+
 ```{ifconfig} language == 'es'
 ![](/img/Figure_1-ES.png)
 ```
+
 ```{ifconfig} language == 'fr'
 ![](/img/Figure_1-FR.png)
 ```
@@ -160,7 +166,7 @@ The proportion of land in each drought intensity class is calculated for each re
 
 For each of the SPI-12 grids in the baseline and reporting period, the number of cells falling under each of the SPI drought intensity classes is counted (cellCount). Then, for each reporting year, the percentage of the total land area in each drought intensity class is calculated. The formula is as follows:
 
-$P_{ij} = \frac{cellCount_{ij}}{Total\ number\ of\ cells} \times 100$
+$P_{ij} = \frac{cellCount_{ij}}{\text{Total\ number\ of\ cells}} \times 100$
 
 Where:
 
@@ -267,21 +273,27 @@ There are various publicly available, fine-resolution population datasets availa
 Parties wishing to use in-country or regional datasets can use the decision tree in figure 2 to assess whether the in-country (or regional) population data is more appropriate to derive indicator SO 3-2 over the globally available datasets.
 
 _Figure 2. Decision tree to help Parties choose the best population data source to derive indicator SO 3-2_
+
 ```{ifconfig} language == 'en'
 ![](/img/SO3_2_Decision_tree.jpg)
 ```
+
 ```{ifconfig} language == 'ru'
 ![](/img/Figure_2-RU.jpg)
 ```
+
 ```{ifconfig} language == 'ar'
 ![](/img/Figure_2-AR.jpg)
 ```
+
 ```{ifconfig} language == 'zh'
 ![](/img/Figure_2-ZH.png)
 ```
+
 ```{ifconfig} language == 'es'
 ![](/img/Figure_2-ES.png)
 ```
+
 ```{ifconfig} language == 'fr'
 ![](/img/Figure_2-FR.png)
 ```
@@ -452,26 +464,30 @@ The step-by-step procedure for reporting is described in the following and appli
 The vulnerability factors recommended by the UNCCD to derive the DVI (listed in figure 3) provides a snapshot of a Party’s socio-economic vulnerability to drought. The three core factors that have been recommended for the minimum Tier 1 VA – ‘Literacy rate (% of people aged 15 and above)’, ‘Proportion of population below the international poverty line’ and the ‘Proportion of population using safely managed drinking water services’ – were selected because they were identified by experts as critical to understanding vulnerability and due to their use for other reporting requirements such as SO 2 and the Sustainable Development Goals.
 
 _Figure 3. Social, economic, and infrastructural components and their associated factors recommended for calculating the Drought Vulnerability Index_
+
 ```{ifconfig} language == 'en'
 ![](/img/SO3_3_Decision_tree.jpg)
 ```
+
 ```{ifconfig} language == 'ru'
 ![](/img/Figure_3-RU.jpg)
 ```
+
 ```{ifconfig} language == 'ar'
 ![](/img/Figure_3-AR.jpg)
 ```
+
 ```{ifconfig} language == 'zh'
 ![](/img/Figure_3-ZH.png)
 ```
+
 ```{ifconfig} language == 'es'
 ![](/img/Figure_3-ES.png)
 ```
-```
+
 ```{ifconfig} language == 'fr'
 ![](/img/Figure_3-FR.png)
 ```
-
 
 The UNCCD provides default data from the global DVI dataset of the JRC. The method used to derive the default DVI is similar to the one presented in this manual and in the “Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3”, but presents some key differences in terms of the normalization method (see Step 2) and number of factors included. Two additional factors are used in the default DVI: “Disaster Prevention and Preparedness (US$/Year/Capital)” and “Global map of Accessibility: Travel time to major cities”. The default DVI value represents the median DVI across the country for the period 2000–2018.
 
@@ -480,21 +496,27 @@ Country Parties that do not have data available to calculate the minimum Tier 1 
 National/regional data products used to calculate the DVI should conform with the specifications listed in table 21.
 
 _Figure 4. Decision tree to help Parties choose the best tier of vulnerability assessment for the SO 3-3 Indicator reporting according to data availability_
+
 ```{ifconfig} language == 'en'
 ![](/img/SO3_3b_Decision_tree.jpg)
 ```
+
 ```{ifconfig} language == 'ru'
 ![](/img/Figure_4-RU.jpg)
 ```
+
 ```{ifconfig} language == 'ar'
 ![](/img/Figure_4-AR.jpg)
 ```
+
 ```{ifconfig} language == 'zh'
 ![](/img/Figure_4-ZH.png)
 ```
+
 ```{ifconfig} language == 'es'
 ![](/img/Figure_4-ES.png)
 ```
+
 ```{ifconfig} language == 'fr'
 ![](/img/Figure_4-FR.png)
 ```
@@ -590,7 +612,7 @@ Related areas in the PRAIS 4 platform: table SO3-3.T1
 
 In all tiers of VA, the three components (C{sub}`social`, C{sub}`economic` and C{sub}`infrastructural`) derived in the previous steps are used to produce the DVI by calculating their mean value.
 
-$DVI = \frac{C_{social} + C_{economic} + C_{infrastructural}}{3}$
+$DVI = \frac{C_{\text{social}} + C_{\text{economic}} + C_{\text{infrastructural}}}{3}$
 
 The DVI ranges from 0 to 1, with 1 being the most vulnerable.
 

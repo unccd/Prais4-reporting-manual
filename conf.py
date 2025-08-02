@@ -11,6 +11,7 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 import os
+from sphinx.application import Sphinx
 
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
@@ -19,8 +20,8 @@ import os
 # -- Project information -----------------------------------------------------
 
 project = "PRAIS4 Reporting Manual"
+author = "United Nations Convention to Combat Desertification (UNCCD)"
 copyright = "2025, UNCCD"
-author = "UNCCD"
 
 
 # -- General configuration ---------------------------------------------------
@@ -41,6 +42,7 @@ extensions = [
 myst_enable_extensions = [
     "deflist",  # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#definition-lists
     "dollarmath",  # https://myst-parser.readthedocs.io/en/stable/syntax/optional.html#dollar-delimited-math
+    "amsmath",  # https://myst-parser.readthedocs.io/en/stable/syntax/optional.html#direct-latex-math
     "html_image",  # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#images
     "linkify",  # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#linkify
     "replacements",  # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#typography
@@ -130,7 +132,7 @@ html_theme_options = {
 
 html_context = {
     "display_github": True,
-    "github_user": "eaudeweb",
+    "github_user": "unccd",
     "github_repo": "Prais4-reporting-manual",
     "github_version": "master",
     "conf_py_path": "/",
@@ -156,26 +158,34 @@ html_favicon = "img/favicon.ico"
 # see https://docs.readthedocs.io/en/stable/guides/pdf-non-ascii-languages.html
 latex_engine = "xelatex"
 
-FONT_DIR = "_static/fonts"
+FONT_DIR = "_fonts"
 fonts = [file for file in os.listdir(FONT_DIR)]
+
 latex_additional_files = [f"{FONT_DIR}/{font}" for font in fonts]
+
+# Do not use .tex as suffix, else the file is submitted itself
+# to the PDF build process, use .tex.txt or .sty.
 latex_additional_files.append("latex_preamble.tex.txt")
 
 # latex_toplevel_sectioning='chapter'
-latex_use_modindex = False
+# latex_use_modindex = False
+
+latex_table_style = ["nocolorrows"]
+
+# redefined in the preamble
+# latex_logo = "img/unccd_logo_blue.png"
+latex_additional_files.append("img/unccd_logo_blue.png")
 
 latex_elements = {
     "papersize": "a4paper",
     "pointsize": "10pt",
-    # 'fncychap': '\\usepackage[Sonny]{fncychap}', # alternative styles: Rejne, Lenny, Glenn, Conny, Bjornstrup, Sonny.
+    "fncychap": "\\usepackage[Bjarne]{fncychap}",
+    # alternative styles: Bjarne (default), Rejne, Lenny, Glenn, Conny, Bjornstrup, Sonny.
     "fontenc": "\\usepackage{fontspec}",
     "figure_align": "H",
+    "sphinxsetup": "hmargin=0.5in, vmargin={1in,1in}, marginpar=0.5in",
     "preamble": r"\input{latex_preamble.tex.txt}",
 }
-
-pdf_documents = [
-    ("index", "PRAIS4_user_manual", "PRAIS4 User Manual", "UNCCD", "2021-06-15"),
-]
 
 # Enable numfig for automatic numbering of table
 # Also adjust captionsetup in latex_elements for the PDF output
@@ -184,3 +194,80 @@ numfig = False
 numfig_format = {
     "table": "Table %s",
 }
+
+docx_pagebreak_before_section = 1
+docx_update_fields = True
+docx_table_options = {
+    "landscape_columns": 7,
+    "header_in_all_page": True,
+}
+
+def setup(app: Sphinx):
+    latex_preambles = {
+        "ar": "latex_preamble_ar.tex.txt",
+        "zh_CN": "latex_preamble_cjk.tex.txt",
+        # else latex_preamble_latin.tex.txt
+    }
+    preamble_file = latex_preambles.get(
+        app.config.language, "latex_preamble_latin.tex.txt"
+    )
+    app.config.latex_additional_files.append(preamble_file)
+    app.config.latex_elements["preamble"] += r"\input{" + preamble_file + "}"
+
+    if app.config.language == "ar":
+        # use babel instead of polyglossia for Arabic
+        # "temporary" workaround
+        app.config.latex_elements["babel"] = r"\usepackage[arabic]{babel}"
+        # note: it doesn't work without \usepackage{polyglossia} in the preamble
+
+    # handle title and author
+    translation_data = {
+        "en": (
+            "PRAIS4 Reporting Manual",
+            "United Nations Convention to Combat Desertification (UNCCD)",
+        ),
+        "es": (
+            "Manual de presentación de informes del PRAIS4",
+            "Convención de las Naciones Unidas de Lucha contra la Desertificación (CNULD)",
+        ),
+        "fr": (
+            "Manuel sur la présentation de rapports au moyen du système PRAIS 4",
+            "Convention des Nations Unies sur la lutte contre la désertification (CNULCD)",
+        ),
+        "ar": (
+            "دليل الإبلاغ عن نظام استعراض الأداء وتقييم التنفيذ 4 (PRAIS4)",
+            "اتفاقية الأمم المتحدة لمكافحة التصحر (UNCCD)",
+        ),
+        "zh_CN": ("PRAIS4报告手册", "联合国防治荒漠化公约"),
+        "ru": (
+            "Руководство по отчетности СОРОО4",
+            "Конвенцией ООН по борьбе с опустыниванием (КБОООН)",
+        ),
+    }
+    app.config.project, app.config.author = translation_data.get(
+        app.config.language, translation_data["en"]
+    )
+
+    app.config.latex_documents = [
+        (
+            "index",
+            f"prais4-reporting-manual-{app.config.language}.tex",
+            app.config.project,
+            app.config.author,
+            "manual",
+            True,
+        ),
+    ]
+
+    app.config.docx_documents = [
+        (
+            "index",
+            f"prais4-reporting-manual-{app.config.language}.docx",
+            {
+                "title": app.config.project,
+                "creator": app.config.author,
+                "subject": app.config.project,
+            },
+            True,
+        ),
+    ]

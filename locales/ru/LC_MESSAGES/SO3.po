@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-13 20:13+0300\n"
+"POT-Creation-Date: 2025-08-02 15:43+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../SO3.md:1
 msgid ""
@@ -261,11 +261,13 @@ msgstr ""
 msgid "*__Table 18__. Data specifications for SO 3-1 Indicator*"
 msgstr "*__Таблица 18__. Спецификации данных для показателя СЦ 3-1*"
 
-#: ../../SO3.md:73 ../../SO3.md:301 ../../SO3.md:515
+#: ../../SO3.md:73 ../../SO3.md:301 ../../SO3.md:514
+#, python-brace-format
 msgid "{rspan}`1` Item"
 msgstr " Единица"
 
-#: ../../SO3.md:74 ../../SO3.md:302 ../../SO3.md:516
+#: ../../SO3.md:74 ../../SO3.md:302 ../../SO3.md:515
+#, python-brace-format
 msgid "{cspan}`1` Specifications"
 msgstr " Спецификации"
 
@@ -273,11 +275,11 @@ msgstr " Спецификации"
 msgid "Default data"
 msgstr "Данные по умолчанию"
 
-#: ../../SO3.md:76 ../../SO3.md:304 ../../SO3.md:518
+#: ../../SO3.md:76 ../../SO3.md:304 ../../SO3.md:517
 msgid "National data"
 msgstr "Национальные данные"
 
-#: ../../SO3.md:77 ../../SO3.md:305 ../../SO3.md:519
+#: ../../SO3.md:77 ../../SO3.md:305 ../../SO3.md:518
 msgid "__Input data__"
 msgstr "__Исходные данные__"
 
@@ -309,6 +311,7 @@ msgstr ""
 "30 годам, и охватывать период с 1981 по 2010 год."
 
 #: ../../SO3.md:83
+#, python-brace-format
 msgid ""
 "For countries in the 50°S to 50°N range: Climate Hazards Group InfraRed "
 "Precipitation with Stations (CHIRPS) monthly precipitation products, "
@@ -319,7 +322,7 @@ msgstr ""
 "инфракрасного спектра осадков Группы климатических опасностей со "
 "станционными данными (CHIRPS). Доступны в Trends.Earth{sup}`*`."
 
-#: ../../SO3.md:84 ../../SO3.md:314 ../../SO3.md:526
+#: ../../SO3.md:84 ../../SO3.md:314 ../../SO3.md:525
 msgid "__Output data__"
 msgstr "__Выходные данные__"
 
@@ -332,6 +335,7 @@ msgstr ""
 "результате анализа, описанного на этапах 2-4)"
 
 #: ../../SO3.md:87 ../../SO3.md:92
+#, python-brace-format
 msgid ""
 "Annual December SPI-12 grids classified into four SPI drought intensity "
 "classes for the baseline and reporting periods{sup}`*`."
@@ -354,7 +358,7 @@ msgstr ""
 "Пространственная сводка с привязкой к сетке координат за четырехлетние "
 "периоды."
 
-#: ../../SO3.md:97 ../../SO3.md:531
+#: ../../SO3.md:97 ../../SO3.md:530
 msgid "__Classification__"
 msgstr "__Классификация__"
 
@@ -362,7 +366,7 @@ msgstr "__Классификация__"
 msgid "Four SPI drought intensity classes as per table 19."
 msgstr "Четыре класса интенсивности засухи СИО в соответствии с таблицей 19."
 
-#: ../../SO3.md:100 ../../SO3.md:327 ../../SO3.md:534
+#: ../../SO3.md:100 ../../SO3.md:327 ../../SO3.md:533
 msgid "__Spatial resolution__"
 msgstr "__Пространственное разрешение__"
 
@@ -378,11 +382,11 @@ msgstr ""
 "CHIRPS: 0,05° x 0,05° (~5,55 км), может быть также оценено национальными "
 "властями иным образом на основе имеющихся данных"
 
-#: ../../SO3.md:103 ../../SO3.md:330 ../../SO3.md:537
+#: ../../SO3.md:103 ../../SO3.md:330 ../../SO3.md:536
 msgid "__Quality__"
 msgstr "__Качество__"
 
-#: ../../SO3.md:104 ../../SO3.md:331 ../../SO3.md:538
+#: ../../SO3.md:104 ../../SO3.md:331 ../../SO3.md:537
 msgid "Specified in the datasets’ metadata."
 msgstr "Указано в метаданных наборов данных."
 
@@ -397,21 +401,22 @@ msgstr ""
 "заполнении пробелов в данных в соответствии с руководящими указаниями "
 "Всемирной метеорологической организации."
 
-#: ../../SO3.md:106 ../../SO3.md:333 ../../SO3.md:540
+#: ../../SO3.md:106 ../../SO3.md:333 ../../SO3.md:539
 msgid "__Metadata__"
 msgstr "__Метаданные__"
 
-#: ../../SO3.md:107 ../../SO3.md:334 ../../SO3.md:541
+#: ../../SO3.md:107 ../../SO3.md:334 ../../SO3.md:540
 msgid "Metadata information is provided with default data."
 msgstr "Информация о метаданных предоставляется с данными по умолчанию."
 
-#: ../../SO3.md:108 ../../SO3.md:335 ../../SO3.md:542
+#: ../../SO3.md:108 ../../SO3.md:335 ../../SO3.md:541
 msgid "Minimum metadata content as per the mandatory fields listed in Annex II."
 msgstr ""
 "Минимальное содержание метаданных в расчете на обязательные поля указано "
 "в Приложении II."
 
 #: ../../SO3.md:111
+#, python-brace-format
 msgid ""
 "{sup}`*` _As stated in Step 3, the December SPI-12 values represent the "
 "precipitation deficits (or excesses) over the Gregorian "
@@ -579,6 +584,7 @@ msgstr ""
 "рассчитывается в два этапа:"
 
 #: ../../SO3.md:149
+#, python-brace-format
 msgid ""
 "(i) Project the drought intensity class grid into a suitable equal area "
 "projection (e.g., Mollweide) to obtain the cells’ area in km{sup}`2`."
@@ -626,14 +632,19 @@ msgstr ""
 " Формула выглядит следующим образом:"
 
 #: ../../SO3.md:163
-msgid "$P_{ij} = \\frac{cellCount_{ij}}{Total\\ number\\ of\\ cells} \\times 100$"
-msgstr "$P_{ij} = \\frac{cellCount_{ij}}{Total\\ number\\ of\\ cells} \\times 100$"
+msgid ""
+"$P_{ij} = \\frac{cellCount_{ij}}{\\text{Total\\ number\\ of\\ cells}} "
+"\\times 100$"
+msgstr ""
+"$P_{ij} = \\frac{cellCount_{ij}}{\\text{Total\\ number\\ of\\ cells}} "
+"\\times 100$"
 
-#: ../../SO3.md:165 ../../SO3.md:557
+#: ../../SO3.md:165 ../../SO3.md:556
 msgid "Where:"
 msgstr "Где:"
 
 #: ../../SO3.md:167
+#, python-brace-format
 msgid ""
 "“P{sub}`ij`” is the proportion of land under the drought intensity class "
 "_i_ in the reporting year _j_"
@@ -642,6 +653,7 @@ msgstr ""
 "засухи _i_ в отчетном году _j_"
 
 #: ../../SO3.md:168
+#, python-brace-format
 msgid ""
 "“cellCount{sub}`ij`” is the number of pixels under the drought intensity "
 "class _i_ in the reporting year _j_"
@@ -816,7 +828,7 @@ msgstr ""
 msgid "3.1.5. Challenges"
 msgstr "3.1.5. Проблемы"
 
-#: ../../SO3.md:206 ../../SO3.md:394 ../../SO3.md:622
+#: ../../SO3.md:206 ../../SO3.md:394 ../../SO3.md:621
 msgid "Data availability and quality"
 msgstr "Доступность и качество данных"
 
@@ -984,7 +996,7 @@ msgstr ""
 " засухи в своих странах до официального представления оценок в отчетах "
 "для КБО ООН."
 
-#: ../../SO3.md:234 ../../SO3.md:648
+#: ../../SO3.md:234 ../../SO3.md:647
 msgid ""
 "**Generate reports**: once verified by the Parties, the data and "
 "supporting narrative for the reporting and baseline periods should be "
@@ -1256,7 +1268,7 @@ msgstr "WorldPop: 3 угловых секунды (~100 м)"
 msgid "Assessed by national authorities based on available data."
 msgstr "Оценивается национальными органами власти на основе имеющихся данных."
 
-#: ../../SO3.md:332 ../../SO3.md:539
+#: ../../SO3.md:332 ../../SO3.md:538
 msgid "To be indicated in the dataset metadata."
 msgstr "Указывается в метаданных набора данных."
 
@@ -1420,7 +1432,7 @@ msgstr ""
 " представление о количестве людей, подвергшихся воздействию засухи самого"
 " экстремального класса интенсивности за периоды, равные четырем годам."
 
-#: ../../SO3.md:366 ../../SO3.md:599
+#: ../../SO3.md:366 ../../SO3.md:598
 msgid "Step 5:  Verify the results"
 msgstr "Шаг 5. Проверьте результаты"
 
@@ -1449,7 +1461,7 @@ msgstr ""
 "Сторонам следует знать об этих ограничениях и критически проанализировать"
 " результаты до представления докладов КБО ООН."
 
-#: ../../SO3.md:372 ../../SO3.md:605
+#: ../../SO3.md:372 ../../SO3.md:604
 msgid "Step 6: Generate reports"
 msgstr "Шаг 6. Сформируйте отчет"
 
@@ -1880,11 +1892,11 @@ msgstr ""
 "связанные с ними факторы, рекомендуемые для расчета Индекса уязвимости к "
 "засухе_"
 
-#: ../../SO3.md:456
+#: ../../SO3.md:457
 msgid "![](/img/SO3_3_Decision_tree.jpg)"
 msgstr ""
 
-#: ../../SO3.md:476
+#: ../../SO3.md:475
 msgid ""
 "The UNCCD provides default data from the global DVI dataset of the JRC. "
 "The method used to derive the default DVI is similar to the one presented"
@@ -1908,7 +1920,7 @@ msgstr ""
 " DVI по умолчанию представляет собой медианный DVI по всей стране за "
 "период с 2000 по 2018 год."
 
-#: ../../SO3.md:478
+#: ../../SO3.md:477
 msgid ""
 "Country Parties that do not have data available to calculate the minimum "
 "Tier 1 VA can report using the default DVI data. However, it is "
@@ -1925,7 +1937,7 @@ msgstr ""
 "решений на рисунке 4 помогает Сторонам выбрать уровень ОУ на основе "
 "доступности данных."
 
-#: ../../SO3.md:480
+#: ../../SO3.md:479
 msgid ""
 "National/regional data products used to calculate the DVI should conform "
 "with the specifications listed in table 21."
@@ -1933,7 +1945,7 @@ msgstr ""
 "Национальные/региональные продукты данных, используемые для расчета DVI, "
 "должны соответствовать спецификациям, перечисленным в таблице 21."
 
-#: ../../SO3.md:482
+#: ../../SO3.md:481
 msgid ""
 "_Figure 4. Decision tree to help Parties choose the best tier of "
 "vulnerability assessment for the SO 3-3 Indicator reporting according to "
@@ -1943,19 +1955,19 @@ msgstr ""
 " оценки уязвимости для отчетности по показателю СЦ 3-3 в соответствии с "
 "доступностью данных_"
 
-#: ../../SO3.md:484
+#: ../../SO3.md:483
 msgid "![](/img/SO3_3b_Decision_tree.jpg)"
 msgstr ""
 
-#: ../../SO3.md:502
+#: ../../SO3.md:501
 msgid "_DVI: Drought Vulnerability Index_{{br}} _VA: Vulnerability Assessment_"
 msgstr "_DVI: Индекс уязвимости к засухе_{{br}}_VA: Оценка уязвимости_"
 
-#: ../../SO3.md:510
+#: ../../SO3.md:509
 msgid "*__Table 21__. Data specifications for SO 3-3 Indicator*"
 msgstr "*__Таблица 21__. Спецификации данных для показателя СЦ 3-3*"
 
-#: ../../SO3.md:517
+#: ../../SO3.md:516
 msgid ""
 "Default data (Drought Vulnerability Index dataset produced by the Joint "
 "Research Centre)"
@@ -1963,11 +1975,11 @@ msgstr ""
 "Данные по умолчанию (набор данных Индекса уязвимости к засухе, "
 "подготовленный Объединенным исследовательским центром)"
 
-#: ../../SO3.md:521
+#: ../../SO3.md:520
 msgid "(Data needed to generate indicator SO 3-3 as described in Steps 2 to 4)"
 msgstr "(Данные, необходимые для расчета показателя СЦ 3-3 согласно шагам 2-4)"
 
-#: ../../SO3.md:522
+#: ../../SO3.md:521
 msgid ""
 "Input data used to calculate the default Drought Vulnerability Index "
 "(DVI) is drawn from various sources such as World Bank, Organisation for "
@@ -1980,7 +1992,7 @@ msgstr ""
 "и сельскохозяйственная организация Объединенных Наций и Объединенный "
 "исследовательский центр."
 
-#: ../../SO3.md:523
+#: ../../SO3.md:522
 msgid ""
 "Freely available datasets for the calculation of the factors needed to "
 "derive the DVI are listed in table 14 of the \"[Good Practice Guidance "
@@ -1994,7 +2006,7 @@ msgstr ""
 "ООН](https://www.unccd.int/sites/default/files/documents/2021-09"
 "/UNCCD_GPG_Strategic-Objective-3_2021.pdf)»."
 
-#: ../../SO3.md:525
+#: ../../SO3.md:524
 msgid ""
 "Alternatively, if available, in-country datasets with higher spatial "
 "resolution and fewer gaps over the baseline and reporting period."
@@ -2003,13 +2015,13 @@ msgstr ""
 " более высоким пространственным разрешением и меньшим количеством "
 "пробелов за базовый и отчетный периоды, если таковые имеются."
 
-#: ../../SO3.md:528
+#: ../../SO3.md:527
 msgid "(DVI indicator resulting from the analysis described in Steps 2 to 4)"
 msgstr ""
 "(Показатель DVI, полученный в результате анализа, описанного на этапах "
 "2-4)"
 
-#: ../../SO3.md:529
+#: ../../SO3.md:528
 msgid ""
 "2018 DVI for the baseline and the reporting period. Regions where "
 "droughts could be meaningless, such as deserts and cold areas, are "
@@ -2019,11 +2031,11 @@ msgstr ""
 "будут иметь никакого влияния, такие как пустыни и холодные области, "
 "скрыты."
 
-#: ../../SO3.md:530
+#: ../../SO3.md:529
 msgid "Annual or near-annual DVI for the baseline and reporting periods."
 msgstr "Годовой или почти годовой DVI для базового и отчетного периодов."
 
-#: ../../SO3.md:532
+#: ../../SO3.md:531
 msgid ""
 "Continuous, fractional scale from 0 to 1 but classification based on "
 "quantiles to group the vulnerability classes."
@@ -2031,23 +2043,23 @@ msgstr ""
 "Непрерывная дробная шкала от 0 до 1, однако с классификацией на основе "
 "квинтилей для группировки классов уязвимости."
 
-#: ../../SO3.md:533
+#: ../../SO3.md:532
 msgid "Continuous scale from 0 to 1."
 msgstr "Непрерывная шкала от 0 до 1."
 
-#: ../../SO3.md:535
+#: ../../SO3.md:534
 msgid "Country level"
 msgstr "Страновой уровень"
 
-#: ../../SO3.md:536
+#: ../../SO3.md:535
 msgid "National and/or sub-national levels"
 msgstr "Национальный и/или субнациональный уровни"
 
-#: ../../SO3.md:545
+#: ../../SO3.md:544
 msgid "Step 2:  Factor normalization"
 msgstr "Шаг 2. Стандартизация факторов"
 
-#: ../../SO3.md:547
+#: ../../SO3.md:546
 msgid ""
 "In all tiers of VA, factors should be normalized before they can be "
 "compared and aggregated, as the vulnerability factors used are all "
@@ -2057,7 +2069,7 @@ msgstr ""
 "чем их можно будет сравнивать и агрегировать, поскольку все используемые "
 "факторы уязвимости измеряются в разных единицах измерения."
 
-#: ../../SO3.md:549
+#: ../../SO3.md:548
 msgid ""
 "The UNCCD recommends normalizing factors using the maximum and minimum "
 "values within the country using all historic data up to, and including, "
@@ -2070,7 +2082,7 @@ msgstr ""
 "обеспечивает максимально возможный диапазон, гарантируя, что максимальные"
 " и минимальные значения являются репрезентативными для страны."
 
-#: ../../SO3.md:551
+#: ../../SO3.md:550
 msgid ""
 "Each time the DVI is calculated to report indicator SO 3-3, the factor "
 "range (i.e., the minimum and maximum values) should be recalculated, and "
@@ -2083,7 +2095,7 @@ msgstr ""
 "диапазона, фактор следует повторно стандартизировать с использованием "
 "нового диапазона."
 
-#: ../../SO3.md:553
+#: ../../SO3.md:552
 msgid ""
 "Where there is a positive correlation/relationship between vulnerability "
 "and the factor[^3]  (i.e., if the factor value increases, vulnerability "
@@ -2094,15 +2106,17 @@ msgstr ""
 "вместе с уязвимостью), данные должны быть стандартизированы с "
 "использованием приведенного ниже уравнения:"
 
-#: ../../SO3.md:555
+#: ../../SO3.md:554
 msgid "$Factor = \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 msgstr "$Factor = \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 
-#: ../../SO3.md:559
+#: ../../SO3.md:558
+#, python-brace-format
 msgid "X{sub}`i` is the value of the considered factor in the year “i”"
 msgstr "X{sub}`i` — значение рассматриваемого фактора в году “i”"
 
-#: ../../SO3.md:560
+#: ../../SO3.md:559
+#, python-brace-format
 msgid ""
 "X{sub}`min` is the minimum value of the considered factor observed in the"
 " entire time series"
@@ -2110,7 +2124,8 @@ msgstr ""
 "X{sub}`min` — минимальное значение рассматриваемого фактора, наблюдаемое "
 "во всем временном ряду"
 
-#: ../../SO3.md:561
+#: ../../SO3.md:560
+#, python-brace-format
 msgid ""
 "X{sub}`max` is the maximum value of the considered factor observed in the"
 " entire time series"
@@ -2118,7 +2133,7 @@ msgstr ""
 "X{sub}`max` — максимальное значение рассматриваемого фактора, наблюдаемое"
 " во всем временном ряду"
 
-#: ../../SO3.md:563
+#: ../../SO3.md:562
 msgid ""
 "In case of negative correlation/relationship between vulnerability and "
 "the factor, the equation is:"
@@ -2126,11 +2141,11 @@ msgstr ""
 "В случае отрицательной корреляции/взаимосвязи между уязвимостью и "
 "фактором уравнение выглядит следующим образом:"
 
-#: ../../SO3.md:565
+#: ../../SO3.md:564
 msgid "$Factor = 1 - \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 msgstr "$Factor = 1 - \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 
-#: ../../SO3.md:567
+#: ../../SO3.md:566
 msgid ""
 "After normalization, all factors have a value of between zero and one, "
 "relative to the historical maximum and minimum of the country."
@@ -2138,7 +2153,7 @@ msgstr ""
 "После стандартизации значение всех факторов составляет от нуля до единицы"
 " относительно исторического максимума и минимума страны."
 
-#: ../../SO3.md:569
+#: ../../SO3.md:568
 msgid ""
 "Normalization of sex-disaggregated data for Tier 1 and 2 VA uses the same"
 " formulas described above, applied once for each piece of sex-related "
@@ -2148,7 +2163,7 @@ msgstr ""
 "используются формулы, описанные выше, которые применяются один раз для "
 "каждой части данных, связанных с разбивкой по полу."
 
-#: ../../SO3.md:571
+#: ../../SO3.md:570
 msgid ""
 "For sub-national level data (Tier 3 VA), the calculation should be "
 "applied to the data from all spatial units (e.g., administrative units) "
@@ -2160,7 +2175,7 @@ msgstr ""
 "единиц) вместе взятых, при этом диапазон факторов должен отражать "
 "минимальные и максимальные значения по всей стране."
 
-#: ../../SO3.md:573
+#: ../../SO3.md:572
 msgid ""
 "For the default DVI, each factor was normalized using the global maximum "
 "and minimum values, rather than historical ranges for the given country. "
@@ -2175,11 +2190,11 @@ msgstr ""
 "местной/внутристрановой ситуации, чем при использовании национального "
 "диапазона."
 
-#: ../../SO3.md:577
+#: ../../SO3.md:576
 msgid "Step 3: Derive the Drought Vulnerability Index components"
 msgstr "Шаг 3. Определите компоненты Индекса уязвимости к засухе"
 
-#: ../../SO3.md:579
+#: ../../SO3.md:578
 msgid ""
 "This step aims to derive aggregated values for each of the three DVI "
 "components. For Parties adopting the Tier 1 VA approach, the values of "
@@ -2195,7 +2210,7 @@ msgstr ""
 "уровня 3 требуют вычисления среднего арифметического стандартизированных "
 "факторов для получения агрегированного значения каждого компонента."
 
-#: ../../SO3.md:581
+#: ../../SO3.md:580
 msgid ""
 "The result of this step is a single value for each component and each "
 "geographic unit of the country. If sex-disaggregated data is used, "
@@ -2206,7 +2221,7 @@ msgstr ""
 "данные с разбивкой по полу, то для каждого компонента рассчитываются "
 "отдельные значения для мужчин и женщин."
 
-#: ../../SO3.md:583
+#: ../../SO3.md:582
 msgid ""
 "Parties may assign weights to the vulnerability factors if their relative"
 " importance and relevance is known. It is recommended to apply the "
@@ -2217,36 +2232,41 @@ msgstr ""
 "применять такие коэффициенты к факторам уязвимости, а не к трем "
 "компонентам."
 
-#: ../../SO3.md:585
+#: ../../SO3.md:584
 msgid "Step 4:  Calculate the Drought Vulnerability Index"
 msgstr "Шаг 4. Рассчитайте Индекс уязвимости к засухе"
 
-#: ../../SO3.md:588
+#: ../../SO3.md:587
 msgid "Related areas in the PRAIS 4 platform: table SO3-3.T1"
 msgstr "Соответствующие области платформы PRAIS 4: таблица SO3-3.T1"
 
-#: ../../SO3.md:591
+#: ../../SO3.md:590
+#, python-brace-format
 msgid ""
 "In all tiers of VA, the three components (C{sub}`social`, "
 "C{sub}`economic` and C{sub}`infrastructural`) derived in the previous "
 "steps are used to produce the DVI by calculating their mean value."
 msgstr ""
-"Вне зависимости от уровня ОУ три компонента (C{sub}«социальный», "
-"C{sub}«экономический» и C{sub}«инфраструктурный»), полученные на "
+"Вне зависимости от уровня ОУ три компонента (C{sub}`социальный`, "
+"C{sub}`экономический` и C{sub}`инфраструктурный`), полученные на "
 "предыдущих этапах, используются для определения DVI путем вычисления их "
 "среднего значения."
 
-#: ../../SO3.md:593
-msgid "$DVI = \\frac{C_{social} + C_{economic} + C_{infrastructural}}{3}$"
-msgstr "$DVI = \\frac{C_{social} + C_{economic} + C_{infrastructural}}{3}$"
+#: ../../SO3.md:592
+msgid ""
+"$DVI = \\frac{C_{\\text{social}} + C_{\\text{economic}} + "
+"C_{\\text{infrastructural}}}{3}$"
+msgstr ""
+"$DVI = \\frac{C_{\\text{социальный}} + C_{\\text{экономический}} + C_{\\t"
+"ext{инфраструктурный}}}{3}$"
 
-#: ../../SO3.md:595
+#: ../../SO3.md:594
 msgid "The DVI ranges from 0 to 1, with 1 being the most vulnerable."
 msgstr ""
 "DVI колеблется от 0 до 1, причем 1 означает самую высокую степень "
 "уязвимости."
 
-#: ../../SO3.md:597
+#: ../../SO3.md:596
 msgid ""
 "A Tier 1 VA would result in one DVI at country-level for each reporting "
 "period. For Tier 2 and 3 VAs, where sex-disaggregated factors are used, "
@@ -2268,7 +2288,7 @@ msgstr ""
 "пространственной единицы отдельно для мужского, женского населения и "
 "общей численности населения."
 
-#: ../../SO3.md:601
+#: ../../SO3.md:600
 msgid ""
 "The DVI method has not yet been validated at the local or national scale "
 "and, as such, may not accurately characterize vulnerability at these "
@@ -2287,7 +2307,7 @@ msgstr ""
 "коэффициентов значимости также должна быть тщательно выверена для "
 "повышения точности результатов на национальном и субнациональном уровнях."
 
-#: ../../SO3.md:603
+#: ../../SO3.md:602
 msgid ""
 "Moreover, the most vulnerable populations and underrepresented groups "
 "should be involved in the determination of the factors to be used to "
@@ -2299,7 +2319,7 @@ msgstr ""
 "использоваться для расчета компонентов, с тем чтобы разработать более "
 "эффективный индекс для конкретной страны."
 
-#: ../../SO3.md:607
+#: ../../SO3.md:606
 msgid ""
 "Once verified by the Parties, the estimated vulnerability values for the "
 "reporting and baseline periods should be officially submitted to the "
@@ -2317,7 +2337,7 @@ msgstr ""
 "описаны в таблице «Качественная оценка» платформы PRAIS 4 (таблица "
 "SO3-3.T2)."
 
-#: ../../SO3.md:609
+#: ../../SO3.md:608
 msgid ""
 "Maps generated in Trends.Earth using national data under Tier 3 VA and "
 "representing vulnerability to drought for the baseline/reporting period "
@@ -2329,15 +2349,15 @@ msgstr ""
 "период, могут быть загружены на платформу PRAIS 4. В частности, "
 "рекомендуется загрузить следующие карты:"
 
-#: ../../SO3.md:611
+#: ../../SO3.md:610
 msgid "Drought Vulnerability in the baseline period (2000–2015)"
 msgstr "Уязвимость к засухе в базовый период (2000–2015 годы)"
 
-#: ../../SO3.md:612
+#: ../../SO3.md:611
 msgid "Drought Vulnerability in the reporting period (2016–2019)"
 msgstr "Уязвимость к засухе в отчетный период (2016–2019 годы)"
 
-#: ../../SO3.md:614
+#: ../../SO3.md:613
 msgid ""
 "Information on data sources, data accuracy and any weighting scheme "
 "applied to the vulnerability factors can be submitted using the “General "
@@ -2351,19 +2371,19 @@ msgstr ""
 "проблемах, указывая ситуации, когда надежность значений может быть ниже, "
 "и предоставляя обоснование для использования других факторов."
 
-#: ../../SO3.md:616
+#: ../../SO3.md:615
 msgid "3.3.4. Dependencies"
 msgstr "3.3.4. Зависимости"
 
-#: ../../SO3.md:618
+#: ../../SO3.md:617
 msgid "SO 2-1 and SO 2-2 can be used for the calculation of SO 3-3."
 msgstr "СЦ 2-1 и СЦ 2-2 могут быть использованы для расчета СЦ 3-3."
 
-#: ../../SO3.md:620
+#: ../../SO3.md:619
 msgid "3.3.5. Challenges"
 msgstr "3.3.5. Проблемы"
 
-#: ../../SO3.md:624
+#: ../../SO3.md:623
 msgid ""
 "The availability of data for the considered factors varies substantially "
 "from country to country and the complete set of recommended data might "
@@ -2373,11 +2393,11 @@ msgstr ""
 "от страны к стране, и полный набор рекомендуемых данных может быть "
 "доступен не везде."
 
-#: ../../SO3.md:626
+#: ../../SO3.md:625
 msgid "Methodological approach"
 msgstr "Методологический подход"
 
-#: ../../SO3.md:628
+#: ../../SO3.md:627
 msgid ""
 "The reliability of the DVI method at national and sub-national levels is "
 "still to be verified."
@@ -2385,7 +2405,7 @@ msgstr ""
 "Надежность метода DVI на национальном и субнациональном уровнях еще "
 "предстоит проверить."
 
-#: ../../SO3.md:630
+#: ../../SO3.md:629
 msgid ""
 "Due to the methods used for factor normalization (i.e., using in-country "
 "historic data), DVI values should not be compared between countries."
@@ -2394,7 +2414,7 @@ msgstr ""
 "использованием исторических данных внутри страны), не следует сравнивать "
 "между собой значения DVI разных стран."
 
-#: ../../SO3.md:632
+#: ../../SO3.md:631
 msgid ""
 "Assuming a consistent methodology has been used over time, changes in the"
 " DVI may reflect the efficacy of drought mitigation and adaptation "
@@ -2407,11 +2427,11 @@ msgstr ""
 "также могут выявить последствия социальных и экономических изменений, не "
 "связанных с мерами по борьбе с засухой."
 
-#: ../../SO3.md:634
+#: ../../SO3.md:633
 msgid "3.3.6. Summary (main actions)"
 msgstr "3.3.6. Краткие выводы (основные действия)"
 
-#: ../../SO3.md:636
+#: ../../SO3.md:635
 msgid ""
 "Key actions for reporting population vulnerable to drought hazard are as "
 "follows:"
@@ -2419,7 +2439,7 @@ msgstr ""
 "Основные действия по предоставлению отчетности об уязвимости населения к "
 "засухе заключаются в следующем:"
 
-#: ../../SO3.md:638
+#: ../../SO3.md:637
 msgid ""
 "**Select tier of vulnerability assessment based on data availability**: "
 "Parties are encouraged to opt for one of the three Tiers of VA based on "
@@ -2438,7 +2458,7 @@ msgstr ""
 "Стороны используют национальные/региональные продукты данных, им следует "
 "выполнить шаги 2-4, перечисленные ниже:"
 
-#: ../../SO3.md:640
+#: ../../SO3.md:639
 msgid ""
 "**Factor normalization**: factors for each vulnerability component should"
 " be normalized before they can be compared and aggregated, as the "
@@ -2449,7 +2469,7 @@ msgstr ""
 "агрегировать, поскольку все используемые факторы уязвимости измеряются в "
 "разных единицах измерения."
 
-#: ../../SO3.md:642
+#: ../../SO3.md:641
 msgid ""
 "**Derive the DVI components**: the aggregated values for each of the "
 "three DVI components are calculated as the arithmetic mean of the "
@@ -2459,7 +2479,7 @@ msgstr ""
 "трех компонентов DVI рассчитываются как среднее арифметическое "
 "стандартизированных факторов."
 
-#: ../../SO3.md:644
+#: ../../SO3.md:643
 msgid ""
 "**Calculate the DVI**: the three components – social, economic and "
 "infrastructural – derived in the previous steps are used to produce the "
@@ -2469,7 +2489,7 @@ msgstr ""
 "инфраструктурный, — полученные на предыдущих этапах, используются для "
 "расчета DVI путем вычисления их среднего значения."
 
-#: ../../SO3.md:646
+#: ../../SO3.md:645
 msgid ""
 "**Verify the results**: aware of the fact that the DVI method has not yet"
 " been validated at the local or national scale, Parties may verify the "
@@ -2482,11 +2502,11 @@ msgstr ""
 "соответствующими факторами по мере необходимости, прежде чем официально "
 "представлять оценки для отчетности КБО ООН."
 
-#: ../../SO3.md:650
+#: ../../SO3.md:649
 msgid "3.3.7. Further reading"
 msgstr "3.3.7. Дополнительная литература"
 
-#: ../../SO3.md:652
+#: ../../SO3.md:651
 msgid ""
 "Good Practice Guidance for National Reporting on UNCCD Strategic "
 "Objective 3. Chapter 3. Level 3 Indicator "
@@ -2522,7 +2542,7 @@ msgstr ""
 "(ГМАС), предлагает методы, позволяющие составить согласованную легенду "
 "классов засухи на основе множества индексов засухи»."
 
-#: ../../SO3.md:575
+#: ../../SO3.md:574
 msgid ""
 "See Table 13 of the Good Practice Guidance for National Reporting on "
 "UNCCD Strategic Objective 3 indicating relationship of the 13 recommended"

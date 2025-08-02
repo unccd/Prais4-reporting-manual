@@ -45,3 +45,13 @@ PDF version is available [here](https://buildmedia.readthedocs.org/media/pdf/pra
     texlive-lang-chinese
     texlive-lang-cjk
 
+## Other stuff
+
+To see less noise when diffing po files, add in `.gitconfig`
+
+    [diff "msgcat"]
+        textconv = msgcat --no-location --no-wrap --sort-output
+
+And add in `.gitattributes`:
+
+    *.po    diff=msgcat
