@@ -1,7 +1,18 @@
 # Annex III: Glossary
 
-```{glossary}
+```{ifconfig} language == 'en'
+|
+{term}`A <Above ground biomass>` | {term}`B <Baseline>` | {term}`C <Capacity building, capacity development>` |
+{term}`D <Data>` | {term}`E <Economic vulnerability factors>` | {term}`F <False negative>` |
+{term}`G <Gain (monitored)>`|
+{term}`H <Hazard>` | {term}`I <Implementation Framework>` | {term}`K <Key Biodiversity Area>` |
+{term}`L <Land cover>` | {term}`M <Mainstreaming gender>` | {term}`N <Natural capital>` | {term}`O <OECD DAC CRS>` |
+{term}`P <Partnership>` | {term}`R <Raster data>` | {term}`S <Safely managed drinking water source(s)>` |
+{term}`T <Target>` | {term}`U <UNCCD National Action Programmes (NAPs)>` | {term}`V <Vector data>` |
+{term}`W <Water bodies>`|
+```
 
+```{glossary}
 Above ground biomass
     The biomass of living vegetation, both woody and herbaceous, above the soil including stems, stumps, branches, bark, seeds, and foliage
 
@@ -574,7 +585,7 @@ Natural capital
     The stock of natural resources that provides flows of valuable goods and services.
 
 Net Primary Productivity (NPP)
-    The net amount of carbon assimilated after photosynthesis and autotrophic respiration over a given period of time (Clark et al. 2001).
+    The net amount of carbon assimilated after photosynthesis and autotrophic respiration over a given period of time.
     NPP is measured in mass of carbon per area per unit of time (for example kg C/ha/year or g C/m2/day).
     Remote sensing is the most effective way to estimate NPP in fine detail at national scales, but it is not directly measured by EO sensors.
     NPP is estimated from known correlations between the fraction of absorbed photosynthetically active radiation (fAPAR) and plant growth vigour and biomass within specific land cover types and locations.
@@ -606,7 +617,7 @@ One-out, all-out (1OAO)
 Organic soils
     Accumulations of organic matter at various stages of decomposition become organic soils and include peat land, muck land, or bogs and fens.
     Organic soils are identified on the basis of criteria 1 and 2, or 1 and 3 listed below:
-    1. Thickness of organic horizon ≥10 cm. A horizon of <20 cm must have ≥12% organic carbon when mixed to a depth of 20 cm.
+    1. Thickness of organic horizon $\ge$ 10 cm. A horizon of <20 cm must have $\ge$ 12% organic carbon when mixed to a depth of 20 cm.
     2. Soils that are never saturated with water for more than a few days must contain more than 20% organic carbon by weight (i.e., about 35% organic matter).
     3. Soils are subject to water saturation episodes and has either:
 
@@ -677,8 +688,6 @@ Protected Area
 
 Precipitation
     The liquid or solid product of the condensation or sublimation of water vapour falling from clouds or deposited from air on to the ground.
-
-    _(Source: World Meteorological Organization and UNESCO, 1998)_
 
 Prevention
     Activities and measures to minimize existing and new disaster risks.

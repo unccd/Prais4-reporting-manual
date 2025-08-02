@@ -96,7 +96,7 @@ However, these 36 land cover classes can be re-classified differently to capture
 In Bhutan, woody encroachment was identified as a significant degradation process, necessitating the differentiation of shrublands from forests.
 After evaluating various reclassification options, experts adopted a seven-class legend that included shrublands while merging wetlands with water bodies, as Bhutan wetlands were not well mapped in the ESA-CCI dataset.
 
-More details on these and other examples can be found in the chapter entitled “Trends in Land Cover” in the publication The Land Story (UNCCD, 2024).
+More details on these and other examples can be found in the chapter entitled “Trends in Land Cover” in the publication [The Land Story](https://www.unccd.int/resources/publications/land-story-country-experiences-reporting-land-degradation-and-drought) (UNCCD, 2024).
 ```
 
 When the suitable land cover legend has been identified, Parties should click on one of the toggle options related to the question on whether the seven UNCCD land cover classes are sufficient to monitor key degradation processes. If a country selects “No” they should fill in table SO1-1.T2 with national land cover classes showing how they map to the default seven UNCCD land cover classes. Countries are strongly encouraged to build the legend with a limited number of relevant classes and not to exceed 15 land cover classes in total.  This will make reporting more manageable, reduce the risk of performance issues on the web browser and would reduce the transitions to be described and reported in Step 3.  With reference to the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land), and its associated [Addendum](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land) the legend should be:
@@ -233,7 +233,6 @@ For completeness, water bodies are also included in the matrix, although the foc
 ---
 header-rows: 3
 stub-columns: 1
-widths: 1 1 1 1 1 1 1 1 1
 ---
 * - {rspan}`1`
   - {cspan}`7` FINAL CLASS
@@ -338,7 +337,7 @@ _**Figure 2.** Ecuador defined six subnational ecoregions for which specific tra
 Once ecoregions were defined, a specific transition matrix for each zone was established, by incorporating local expertise and stakeholder input. These zone-specific transition matrices ensured that land cover changes were assessed within their ecological and socio-economic context, rather than by applying a uniform classification across the entire country.
 Finally, the results from each region were integrated to provide a national-level assessment that reflects local realities while maintaining coherence in LDN and SDG indicator 15.3.1 monitoring.
  
-Another example on tailoring the transition matrix can be found in the chapter entitled “Trends in Land Cover” in the publication The Land Story (UNCCD, 2024)
+Another example on tailoring the transition matrix can be found in the chapter entitled “Trends in Land Cover” in the publication [The Land Story](https://www.unccd.int/resources/publications/land-story-country-experiences-reporting-land-degradation-and-drought) (UNCCD, 2024)
 ```
 
 #### Step 4: Assess available land cover data
@@ -570,7 +569,7 @@ Note: if answering ‘Yes’, the subsequent tables will be dynamically updated 
 
 UNCCD provides default data from the Trends.Earth LPD dataset. This LPD dataset is derived from the Moderate Resolution Imaging Spectrometer (MODIS) data, which integrates NDVI observations at 250 metre (m) pixel resolution over 16-day periods between 2001 to now.
 
-Two alternative data sets, the JRC LPD and the FAO-WOCAT LPD are available through Trends.Earth. Parties may evaluate and use these or other datasets, provided they meet the specifications listed in table 11 below. The [FAO WOCAT LPD Comparison App](https://wocatapps.users.earthengine.app/view/ldn-prais4) available through Google Earth Engine may be used by Parties for this purpose.  For example, during the 2022 reporting process Bhutan used this tool to compare a series of land productivity maps generated using EO data but varying algorithmic approaches. During a participatory workshop, participants examined the various maps and by pooling their expert knowledge and the outcomes of the analysis, they were able to choose a map which aligned most closely with the known situation in the country. This example is described in more detail in The Land Story (UNCCD, 2024).
+Two alternative data sets, the JRC LPD and the FAO-WOCAT LPD are available through Trends.Earth. Parties may evaluate and use these or other datasets, provided they meet the specifications listed in table 11 below. The [FAO WOCAT LPD Comparison App](https://wocatapps.users.earthengine.app/view/ldn-prais4) available through Google Earth Engine may be used by Parties for this purpose.  For example, during the 2022 reporting process Bhutan used this tool to compare a series of land productivity maps generated using EO data but varying algorithmic approaches. During a participatory workshop, participants examined the various maps and by pooling their expert knowledge and the outcomes of the analysis, they were able to choose a map which aligned most closely with the known situation in the country. This example is described in more detail in [The Land Story](https://www.unccd.int/resources/publications/land-story-country-experiences-reporting-land-degradation-and-drought) (UNCCD, 2024).
 
 Parties may also generate their own vegetation index time series and consequently LPD input datasets directly from satellite imagery. Two additional apps deployed in Google Earth Engine that may be used to visualise alternative LPD parameteriations are the [Real Time LPD App](https://apacheta.projects.earthengine.app/view/lpd-realtime) and [high-resolution version for SIDS](https://apacheta.projects.earthengine.app/view/lpd-realtime-sids).  Section 3.2 of the [Addendum](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land) to the Good Practice Guidance provides comprehensive information and guidance on the selection of LPD input datasets and LPD algorithms.
 
@@ -962,12 +961,17 @@ Parties should also indicate if a sub-national (regional) assessment was used in
 
 Verification of the results involves choosing the most reliable LPD map to ensure the accuracy of the final land degradation map.  To facilitate such verification, Parties may choose to compare the results of alternative LPD datasets using additional datasets that can help with a qualitative assessment of the results. Section 3.2.1 of the Addendum provides several examples of how Parties have carried out this verification process in the previous reporting round. A summary of these is provided in Box 4.
 
-```{note} Box 4 Approaches to verifying LPD maps
-Argentina used a national forest map to assess the ability of different LPD maps to represent declining trends in productivity in areas that were known to have undergone forest loss. 
-Many countries have used national burned area maps and in some cases the MODIS burned area product to assess whether LPD maps correctly identify declining productivity. 
+```{admonition} Box 4 Approaches to verifying LPD maps
+Argentina used a national forest map to assess the ability of different LPD maps to represent declining trends in productivity in areas that were known to have undergone forest loss.
+
+Many countries have used national burned area maps and in some cases the MODIS burned area product to assess whether LPD maps correctly identify declining productivity.
+
 Bhutan used mining area datasets to identify different mining sites that were active during the LPD assessment period. They found that some LPD maps did not detect the expected declining trends, which allowed them to select more appropriate LPD models.
-Ecuador took advantage of the option in the Trends-Earth software to apply climate corrections in the calculation of the LPD indicator. This accounted for the high inter-annual variability in precipitation due to the El Niño Southern Oscillation. More comprehensive details on this example are given in The Land Story (UNCCD, 2024). 
-A global scale study investigated if changes in trends in land productivity could be identified in areas subject to restoration and sustainable land management. The study highlighted that at least 10 years were needed after the start of the implemented action for interventions to show measurable impacts on productivity. 
+
+Ecuador took advantage of the option in the Trends-Earth software to apply climate corrections in the calculation of the LPD indicator. This accounted for the high inter-annual variability in precipitation due to the El Niño Southern Oscillation. More comprehensive details on this example are given in [The Land Story](https://www.unccd.int/resources/publications/land-story-country-experiences-reporting-land-degradation-and-drought) (UNCCD, 2024).
+
+A global scale study investigated if changes in trends in land productivity could be identified in areas subject to restoration and sustainable land management. The study highlighted that at least 10 years were needed after the start of the implemented action for interventions to show measurable impacts on productivity.
+
 National parks and nature reserves may be expected to show increasing land productivity over time. However, the situation may often be more complex depending on the ecological   status and type of management practiced in each park. Therefore, it is crucial for experts to identify specific national protected areas where recovery is expected over the period covered by the LPD map. To support this verification, global datasets such as the World Database on Protected Areas (WDPA) can be used.
 ```
 

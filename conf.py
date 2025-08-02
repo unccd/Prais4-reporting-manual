@@ -37,6 +37,7 @@ extensions = [
     # 'sphinx.ext.mathjax',  # https://www.sphinx-doc.org/en/master/usage/extensions/math.html#module-sphinx.ext.mathjax
     "sphinx.ext.ifconfig",  # https://www.sphinx-doc.org/en/master/usage/extensions/ifconfig.html
     "docxbuilder",  # https://docxbuilder.readthedocs.io/en/latest/docxbuilder.html
+    "sphinx_new_tab_link",  # https://github.com/ftnext/sphinx-new-tab-link
 ]
 
 myst_enable_extensions = [
@@ -196,6 +197,8 @@ numfig = False
 numfig_format = {
     "table": "Table %s",
 }
+
+new_tab_link_show_external_link_icon = False  # already provided by the theme
 
 docx_pagebreak_before_section = 1
 docx_update_fields = True

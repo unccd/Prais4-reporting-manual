@@ -100,9 +100,11 @@ widths: 2 3 3
 
 {sup}`*` _As stated in Step 3, the December SPI-12 values represent the precipitation deficits (or excesses) over the Gregorian (January–December) calendar year._
 
-```{note} Box 5 The Global Multi-Index Drought (GMID) dataset
+```{admonition} Box 5 The Global Multi-Index Drought (GMID) dataset
 This dataset comprises the Standardized Precipitation Index (SPI) and the Standardized Precipitation Evapotranspiration Index (SPEI) from 1- to 12-month time scales at high spatial resolution, covering the period 1980-2023 on a global scale. The dataset affords spatial coverage across global longitudes from -180° to 180° and latitudes from 90° to -90°. The data are provided in geographic coordinates (latitude/longitude) based on the WGS 84 (World Geodetic System 1984) reference system, at 0.1° resolution.
+
 SPI and SPEI were calculated based on the most widely used and recommended probability distribution for their calculation at different time scales.   Thus, SPI was calculated adopting a Gamma distribution, while SPEI was computed adopting a log-logistic distribution. The dataset was generated using different meteorological input datasets, including: precipitation data from the Multi-Source Weighted-Ensemble Precipitation (MSWEP) v2.8 (https://www.gloh2o.org/mswep/), and potential evapotranspiration data derived from the Global Land Evaporation Amsterdam Model (GLEAM) v4.2a (https://www.gleam.eu). The data was downloaded at daily time steps, then aggregated monthly, and finally summarized at different accumulation periods to obtain the indices at 1-, 2-, 3-, 4-, 5-, 6-, 7-, 8-, 9-, 10-, 11- and 12-month times scales.
+
 The full GMID dataset is available at: https://eidc.ac.uk/
 ```
 
