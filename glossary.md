@@ -13,6 +13,8 @@
 ```
 
 ```{glossary}
+:sorted:
+
 Above ground biomass
     The biomass of living vegetation, both woody and herbaceous, above the soil including stems, stumps, branches, bark, seeds, and foliage
 
