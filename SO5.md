@@ -107,7 +107,7 @@ Domestic resources are at the core of the implementation of the Convention. This
 
 ### 5.2.2. Prerequisites for reporting
 
--	An in-depth reading of the Good Practice Guidance for SO5 which provides an overview of the Strategic Objective 5, the methodology underlying the default data provided and of potential other data sources and methodological approaches which can be used to report against the SO5 indicator;
+-	An in-depth reading of the [Good Practice Guidance for SO5](https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-national-reporting-unccd-strategic-objective-5) which provides an overview of the Strategic Objective 5, the methodology underlying the default data provided and of potential other data sources and methodological approaches which can be used to report against the SO5 indicator;
 
 - Identification of experts to verify the reliability of the information records on DLDD-related resource flows and related activities and programs. Ideally, experts have knowledge of OECD PINE reporting system and/or collect and report data at national level about domestic resources allocated for the implementation of DLDD activities and programs, including through national budgetary processes.
 
@@ -159,7 +159,7 @@ The indicator aims at capturing information on private (non-public) resources mo
 
 ### 5.3.2. Prerequisites for reporting
 
-- An in-depth reading of the Good Practice Guidance for SO5 which provides an overview of the Strategic Objective 5, the methodology underlying the default data provided and of potential other data sources and methodological approaches which can be used to report against SO5 indicator;  
+- An in-depth reading of the [Good Practice Guidance for SO5](https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-national-reporting-unccd-strategic-objective-5) which provides an overview of the Strategic Objective 5, the methodology underlying the default data provided and of potential other data sources and methodological approaches which can be used to report against SO5 indicator;  
 
 - Identification of experts to verify the reliability of the information records on DLDD-related resource flows and related activities and programs. Ideally, experts have knowledge that includes: the voluntary reporting frameworks used by national private companies to report on their environmentally-related investments and activities within the reporting country or in third countries; the national private sector entities active in the fight against DLDD or related fields within the country, or in third countries; the international private charities financing interventions in the reporting country and the OECD DAC Private Development Finance database.
 
@@ -271,7 +271,7 @@ The primary objective of this progress indicator is to identify and report on fi
 
 ### 5.5.2. Prerequisites for reporting
 
-- An in-depth reading of the Good Practice Guidance for SO5 which provides an overview of the Strategic Objective 5, the methodology underlying the default data provided and of potential other data sources and methodological approaches which can be used to report against SO5 indicator;
+- An in-depth reading of the [Good Practice Guidance for SO5](https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-national-reporting-unccd-strategic-objective-5) which provides an overview of the Strategic Objective 5, the methodology underlying the default data provided and of potential other data sources and methodological approaches which can be used to report against SO5 indicator;
 
 - Identification of experts to verify the reliability of the information records on DLDD-related resource flows and related activities and programs. Ideally, experts have knowledge of: policy priorities and national planning related to DLDD and LDN, public budgets, environment-related financial pledges and planned policies and measures related to DLDD; private sector information and related investment plans, dedicated datasets on private sector activities related to DLDD.
 
@@ -327,7 +327,7 @@ Each row in the table represents one activity, spending or funding, or investmen
 
 -	Year: indicate the year in which the financial transaction has been recorded;
 
--	Provider of the funds: indicate the country or private institution that disbursed the funds.
+-	Provider of the funds: indicate the country or private institution that disbursed the funds;
 
 -	Country name: For SO5-2 indicate the economic unit involved;
 
