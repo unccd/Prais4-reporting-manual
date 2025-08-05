@@ -12,7 +12,7 @@ Two metrics may be used for this purpose and Parties should specify which of the
 
 - Income inequality (Gini Index).
 
-The choice of the metric to use depends on the country-specific -income category or poverty level.
+The choice of the metric to use depends on the country-specific income category or poverty level.
 
 The metric represented by the proportion of the population below the international poverty line is generally considered relevant to less developed countries, where extreme poverty and destitution are core development challenges. The international poverty line is currently set at USD 2.15 a day, based on 2017 purchasing power parity. Therefore, the proportion of the population below the international poverty line is defined as the percentage of the population living on less than USD 2.15 a day at 2017 international prices.
 
