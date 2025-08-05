@@ -18,7 +18,7 @@ There are three mechanisms to share non-default reporting datasets in PRAIS:
 
 ### 3.1. Creative Commons Licences for National Reports
 
-The Creative Commons (CC) licences are a well-developed, tested suite of licences that are standard for sharing data. The licence options available to Parties in the PRAIS USL form are– from most open to most restrictive – CC BY, CC BY-SA, CC BY-NC and CC BY-NC-SA. Each licence requires one or more of the following conditions:
+The Creative Commons (CC) licences are a well-developed, tested suite of licences that are standard for sharing data. The licence options available to Parties in the PRAIS User Specific Licence (USL) form are– from most open to most restrictive – CC BY, CC BY-SA, CC BY-NC and CC BY-NC-SA. Each licence requires one or more of the following conditions:
 
 - Attribution (BY): Attribution is important to give you credit for the data and show its provenance. It is a required condition for all CC licenses.
 
