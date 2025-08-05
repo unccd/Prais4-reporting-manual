@@ -45,7 +45,7 @@ Voluntary targets and actions undertaken to address land degradation can simulta
 
 ### 6.1.2. Prerequisites for reporting
 
-- An in-depth reading of the [LDN Target Setting technical guide](https://knowledge.unccd.int/publication/ldn-target-setting-technical-guide).
+- An in-depth reading of the [LDN Target Setting technical guide](https://www.unccd.int/resources/publications/ldn-target-setting-technical-guide).
 
 - Familiarity with Section 2 of the [Addendum to Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land): Proportion of land that is degraded over total land area.
 
@@ -187,7 +187,7 @@ By its decision 11/COP.14, the Conference of the Parties requested the secretari
 
 Therefore, PRAIS 4 facilitates countries that wish to report on affected areas as an additional and optional item to national reporting. Parties have the option to report on affected areas using a specific set of forms for SOs 1, 2, 3 and 4. The process, forms and tables to report on affected areas are the same as those used for national reporting. No default data is made available for affected area reporting. All spatial data analysis must be carried out outside the PRAIS platform, using Trends.Earth or another spatial data processing tool. If the analysis is done in Trends.Earth, Parties should check the appropriate box within the tool to enable automatic upload of the data to the PRAIS reporting platform.
 
-### 6.4.2. Pre-requisite for reporting
+### 6.4.2. Prerequisites for reporting
 
 - Sub-national data specific to affected areas.
 
