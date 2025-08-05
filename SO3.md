@@ -237,7 +237,7 @@ Key actions for reporting drought hazard intensity values are as follows:
 
 ### 3.1.7. Additional Resources
 
-- WMO, 2018, Guide to climatological practices, second edition. Geneva, Switzerland. (<https://library.wmo.int/viewer/60113>
+- WMO, 2018, Guide to climatological practices, second edition. Geneva, Switzerland. (<https://library.wmo.int/viewer/60113>)
 
 ## 3.2. SO 3-2 – Trends in the proportion of the population exposed to drought
 
