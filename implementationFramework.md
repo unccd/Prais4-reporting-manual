@@ -164,7 +164,7 @@ This form allows Parties to report on their implementation of sustainable land m
 
 - Identify the major challenges (e.g. institutional, knowledge of SLM, legal framework, etc.) encountered in the implementation.
 
-In addition to the table to be completed, Parties can expand on their experience through the Comments field of by uploading a file. Furthermore, Parties may provide links to documented good practices that have been uploaded to the UNCCD´s designated/accredited World Overview of Conservation Approaches and Technologies (WOCAT) database[^1] or another similar online database. Parties wishing to document new good practices are encouraged to do so using the WOCAT database
+In addition to the table to be completed, Parties can expand on their experience through the Comments field or by uploading a file. Furthermore, Parties may provide links to documented good practices that have been uploaded to the UNCCD´s designated/accredited World Overview of Conservation Approaches and Technologies (WOCAT) database[^1] or another similar online database. Parties wishing to document new good practices are encouraged to do so using the WOCAT database
 
 [^1]:<https://qcat.wocat.net/en/wocat/>
 
@@ -264,6 +264,10 @@ This refers to strategies and actions aimed at leveraging synergies in DLDD-rela
 
 ### 7.4.3. Reporting process
 
+```{note}
+Relevant to SO5
+```
+
 Information on the reporting process for SO-5 helps to ensure understanding, clarity and transparency, in relation to implementing the Convention.
 It allows Parties to share how they organise, coordinate and validate their national reporting process as well as reflect on lessons learned and challenges.
 
@@ -272,4 +276,4 @@ To this effect, a table for reporting qualitative information is provided.
 Details on the national entities involved in the reporting process can be provided using both the drop-down menus and the narrative fields.
 In particular the role of the entities involved should be described as comprehensively as possible.
 
-**Finally, country Parties can offer any other concluding general comments on the reporting process in the General Comments field.**
+Finally, country Parties can offer any other concluding general comments on the reporting process in the General Comments field.
