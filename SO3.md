@@ -6,7 +6,7 @@
 
 The United Nations Convention to Combat Desertification (UNCCD) defines drought as the naturally occurring phenomenon that exists when precipitation has been significantly below normal recorded levels, causing serious hydrological imbalances that adversely affect land resource production systems[^1].
 
-[^1]: "UNCCD. 1994. Article 1 of the Convention Text: <http://www2.unccd.int/sites/default/files/relevant-links/2017-01/UNCCD_Convention_ENG_0.pdf> "
+[^1]: "UNCCD. 1994. Article 1 of the Convention Text: <http://www.unccd.int/sites/default/files/relevant-links/2017-01/UNCCD_Convention_ENG_0.pdf> "
 
 Indicator SO 3-1 specifically describes the status (i.e., the occurrence or absence of drought and its severity, if occurring) of meteorological drought hazards on an annual basis within a country.
 
@@ -158,12 +158,12 @@ The proportion of land under drought irrespective of intensity class is calculat
 
 For each of the annual SPI-12 grids, the total number of cells falling in any of the SPI drought intensity classes is counted (cellCount). Then, for each reporting year, the percentage of the total land area under drought is calculated. The formula is as follows:
 
-$P_{ij} = \frac{cellCount_{ij}}{\text{Total number of cells}} \times 100$
+$P_{j} = \frac{cellCount_{j}}{\text{Total number of cells}} \times 100$
 
 Where:
 
-- “P{sub}`ij`” is the proportion of land under drought in the reporting year (j)
-- “cellCount{sub}`ij`” is the total number of pixels under drought in the reporting year (j)
+- “P{sub}`j`” is the proportion of land under drought in the reporting year (j)
+- “cellCount{sub}`j`” is the total number of pixels under drought in the reporting year (j)
 - “Total number of cells” is all the grid cells within the country Party’s land area.
 
 The total area falling under drought in each year is calculated by multiplying cellCount by the area of the cells (a constant value, since the drought intensity class grid was previously converted to an equal-area projection).
@@ -237,7 +237,7 @@ Key actions for reporting drought hazard intensity values are as follows:
 
 ### 3.1.7. Additional Resources
 
-- WMO, 2018, Guide to climatological practices, second edition. Geneva, Switzerland. (<https://library.wmo.int/doc_num.php?explnum_id=5541>
+- WMO, 2018, Guide to climatological practices, second edition. Geneva, Switzerland. (<[https://library.wmo.int/doc_num.php?explnum_id=5541](https://library.wmo.int/viewer/60113)>
 
 ## 3.2. SO 3-2 – Trends in the proportion of the population exposed to drought
 
@@ -340,7 +340,7 @@ Parties are encouraged to submit narratives in the Comments field associated wit
 
 #### Step 4: Create drought exposure maps in four-year periods
 
-In addition to the annual values of indicator SO 3-2 entered in the tables in step 3, drought exposure maps in four-year periods for the entire period are also to be produced externally and uploaded to PRAIS. These exposure maps give an indication of the number of people exposed to the highest intensity drought class over each four-year period for each grid cell. Four-year periods have been chosen to reduce the reporting burden and the quantity of data to be uploaded in PRAIS. See step 5 for indicator 3-1 for more detail on preparing the drought maps.
+In addition to the annual values of indicator SO 3-2 entered in the tables in step 3, drought exposure maps in four-year periods for the entire period are also to be produced externally and uploaded to PRAIS. These exposure maps give an indication of the number of people exposed to the highest intensity drought class over each four-year period for each grid cell. Four-year periods have been chosen to reduce the reporting burden and the quantity of data to be uploaded in PRAIS. See step 5 for indicator SO 3-1 for more detail on preparing the drought maps.
 
 #### Step 5: Verify the results
 
