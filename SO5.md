@@ -57,7 +57,7 @@ This indicator aims at capturing the information on international resources prov
 
 ### 5.1.2. Prerequisites for reporting
 
--	An in-depth reading of the Good Practice Guidance for SO5, which provides an overview of the Strategic Objective 5, the methodology underlying the default data provided and of potential other data sources and methodological approaches which can be used to report against the SO5 indicator;
+-	An in-depth reading of the [Good Practice Guidance for SO5](https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-national-reporting-unccd-strategic-objective-5), which provides an overview of the Strategic Objective 5, the methodology underlying the default data provided and of potential other data sources and methodological approaches which can be used to report against the SO5 indicator;
 
 - Identification of experts to verify the reliability of the information records on DLDD-related financial resources and related activities. Ideally, experts have knowledge of OECD DAC CRS reporting system and/or collect and report data at national level about international resources received and/or provided for the implementation of DLDD activities and programs.
 
