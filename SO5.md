@@ -31,7 +31,7 @@ To the extent possible the Global Mechanism seeks to pre-populate quantitative f
 
 ### Validating default data for SO5-1 to SO5-3
 
-For indicators SO5-1, SO5-2 and SO5-3, Parties are requested to validate the quantitative default data provided by the Global Mechanism. To this effect, Parties are requested to *download activity-level default data for their country* by clicking on the "Download activity data" button in the “Quantitative data” section under each of the three progress indicators in the PRAIS4 platform. This provides an Excel file which Parties are requested to save on their own computer systems.
+For indicators SO5-1, SO5-2 and SO5-3, Parties are requested to validate the quantitative default data provided by the Global Mechanism. To this effect, Parties are requested to *download activity-level default data for their country* by clicking on the "Download" button in the “Quantitative data” section under each of the three progress indicators in the PRAIS4 platform. This provides an Excel file which Parties are requested to save on their own computer systems.
 
 Parties are asked to verify the activity-level default data provided in the Excel file for accuracy. This will likely involve referring to different Ministries and agencies to crosscheck information records on DLDD-related resource flows and related activities. Parties should keep in mind that default data are provided from data sources as illustrated in the Good Practice Guidance and following the methodologies and approaches explained therein.
 
