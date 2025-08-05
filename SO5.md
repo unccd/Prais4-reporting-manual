@@ -39,13 +39,15 @@ Thereafter, Parties will select one of three options: confirming default data, c
 
 -	*Confirming the default data provided*in the Excel spreadsheet does not entail any action by the Party. The amounts shown in the summary tables will remain as they are, and their submission will confirm the figures as part of the national reporting of the country. In case no default data is provided, see “correcting default data”.
 
--	*Correcting default data* entails that Parties will *upload modified activity-level data* – or *provide activity-level data in the empty Excel spreadsheet if no default data is provided*. Parties can directly edit and modify data included in the Excel spreadsheet, possibly including new and additional activity-level data entries or deleting or adjusting selected default data entries. Parties can upload the modified Excel table by clicking on the button “Upload activity data” in the “Quantitative data” section under each progress indicator in the PRAIS4 platform. When the modified table is uploaded, the data shown in country reports will be drawn from the modified Excel spreadsheet that the Party has uploaded in the reporting system. No further manual data entry will be necessary in the respective summary tables for these progress indicators.
+-	*Correcting default data* entails that Parties will *upload modified activity-level data* – or *provide activity-level data in the empty Excel spreadsheet if no default data is provided*. Parties can directly edit and modify data included in the Excel spreadsheet, possibly including new and additional activity-level data entries or deleting or adjusting selected default data entries. Parties can upload the modified Excel table by clicking on the button “Upload file” in the “Quantitative data” section under each progress indicator in the PRAIS4 platform. When the modified table is uploaded, the data shown in country reports will be drawn from the modified Excel spreadsheet that the Party has uploaded in the reporting system. No further manual data entry will be necessary in the respective summary tables for these progress indicators.
 
 In providing updated data, Parties are asked to compile the Excel spreadsheet with data at the highest level of disaggregation available. When updating activity-level information, *Parties are requested to avoid double-counting across SO5-1, SO5-2 and SO5-3* progress indicators.
 
-- *Reject all activity-level data*. Through this option, country Parties choose not to make use of any of the default data on DLDD-related activities provided in the PRAIS4 platform. In that case, country Parties are asked to manually enter annual aggregate amounts for resource flows into the summary data tables provided under the SO5-1 through SO5-4 indicators, as part of their Tier 2 reporting.
+- *Reject all activity-level data*. Through this option, country Parties choose not to make use of any of the default data on DLDD-related activities provided in the PRAIS4 platform. In that case, country Parties are asked to select the option “Use custom data” in the  “Quantative data” section under each progress indicator and manually enter annual aggregate amounts for resource flows into the summary data tables provided under the SO5-1 through SO5-4 indicators, as part of their Tier 2 reporting.
 
 In summary, Parties are asked to preferably either confirm or correct the default data provided to them. This will greatly facilitate their subsequent reporting effort under the SO5-1 through SO5-3 indicators as no further manual entry of quantitative data concerning DLDD-related resource flows may be necessary in the reporting progress. Confirming or correcting default data will also offer the greatest possible level of detail, at the activity level, in the reporting process on Strategic Objective 5 of the Convention.
+
+For SO5-4, no default data are provided, but Parties will be able to download an empty Excel spreadsheet and input data in the system when uploading the file in the “Quantitative data” section under SO5-4. 
 
 ## 5.1. SO 5-1 – Bilateral and multilateral public resources
 
@@ -71,7 +73,7 @@ Under Tier 1, SO5-1 requests descriptive and qualitative information relevant to
 
 In doing so, Parties are asked to select the applicable sustainable land management (SLM) and land governance intervention measures involved, using the drop-down menu provided (multiple selections are possible), based on categories of measures used in the UNCCD Financial Needs Assessment (FNA)[^2]. 
 
-Parties should also choose the most appropriate option in the drop-down menus as well as completing the free-text fields in relation to  the impacts and results, the challenges and lessons learned, for each presented initiative. There is also room for sharing additional information, preferably by providing a link to the underlying documentation.
+Parties should also choose the most appropriate option in the drop-down menus as well as completing the free-text fields in relation to the impacts and results, the challenges and lessons learned, for each presented initiative. There is also room for sharing additional information, preferably by providing a link to the underlying documentation.
 
 [^2]: UNCCD (2024b). See also the GPG.
 
@@ -241,7 +243,7 @@ Parties should choose the most appropriate option in the drop-down menus as well
 
 Under Tier 2, the template provides a summary table with quantitative aggregated data. The table shows total amounts of international (public and private) resources provided, international (public and private) resources received, and domestic (public and private) resources spent (expenditures and investments) for the transfer of DLDD-technology for each year of the reporting period. All amounts relate to actual amounts of funds that have been paid or received during a given year. As no default data are provided for SO5-4, aggregate amounts shown are related to those activities which have been indicated by the Party as relevant to technology transfer in the Excel spreadsheets for SO5-1, SO5-2 and SO5-3.
 
-The SO5-4 data is compiled automatically from the tables SO5-1 to SO5-3 by aggregating information from rows that have "yes" on the “technology transfer” column. Any changes in the SO5-1 to SO5-3 excel files will trigger also a recalculation for SO5-4.
+The SO5-4 summary table is compiled automatically from the tables SO5-1 to SO5-3 by aggregating information from rows that have "yes" on the “technology transfer” column. Any changes in the SO5-1 to SO5-3 excel files will trigger also a recalculation for SO5-4.
 
 #### Step 4: Offering general comments
 
@@ -257,7 +259,7 @@ Once the form has been completed and verified by the Parties, it should be marke
 
 ### 5.4.4. Challenges
 
-In the case where Parties compile the “Technology transfer” column with “Yes” in the Excel spreadsheets for SO5-1, SO-2 and/or SO5-3, and also compile separately the SO5-4 Excel spreadsheet, Parties should pay attention to avoiding double counting or double reporting of projects and investments. As long as projects are indicated with “Yes” in the relevant columns in the SO5-1, SO-2 and/or SO5-3 spreadsheets these will be included automatically in the SO5-4 spreadsheet.
+In the case where Parties compile the “Technology transfer” column with “Yes” in the Excel spreadsheets for SO5-1, SO-2 and/or SO5-3, and also compile separately the SO5-4 Excel spreadsheet, Parties should pay attention to report again the relevant projects in the SO5-1 to SO5-3 tables in the new Excel spreadsheet dedicated to SO5-4, as aggregates will be updated on the basis of the newly uploaded file.
 
 ## 5.5. SO5-5 – Future support for activities related to the implementation of the Convention
 
@@ -313,33 +315,7 @@ A separate section of the PRAIS4 platform for SO5 is dedicated to methodological
 
 The table shown in the dedicated section in PRAIS4 *includes methodological information for default data*, as explained in the [Good Practice Guidance for SO5](https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-national-reporting-unccd-strategic-objective-5). Reporting Parties can accept the methodological information, or integrate/revise the information if the default data are changed or the suggested approach is not followed.
 
-Reporting Parties may verify that:
-
--	the suggested exchange rate has been used in providing quantitative amounts, and if not, report the correct exchange rate between the original currency and USD;
-
--	the reference year is the calendar year, and if not, change to fiscal year;
-
--	the list of channels (OECD DAC CRS list channels of delivery) is exhaustive, and if not, integrate it or substitute it with the classification used;
-
--	the OECD DAC CRS types of flows, the UNCCD Financial Needs Assessment or other classification of financial flows is exhaustive, and if not, integrate it or substitute it with the classification used;
-
--	the reference sector classification used is based on the three-digit purpose codes of the OECD DAC CRS or on other sectoral classification;
-
--	the OECD DAC CRS list of financial instruments is used, and if not, integrate it or substitute it with the classification used;
-
--	the relevance to DLDD is based on the definitions used in the “type of support” column or other approaches are used.
-
 Furthermore, initiatives relevant to the transfer of DLDD technology should be identified through the compilation of the “technology transfer” column by the reporting Party. Thus, the reporting Party should explain in the methodological information how the initiatives have been identified – for example, on the basis of the UNCCD SLM technology groups. For further guidance please refer to the Good Practice Guidance.
-
-For international financial resources (public or private), reporting Parties may verify:
-
--	the list of beneficiaries of financial resources provided is the OECD list of ODA recipients, or another reference list is used;
-
--	the OECD DAC methodology to estimate the amount of private finance mobilized through public interventions, and the information on the leveraging mechanism, is used, or other methodologies are employed;
-
--	the identification of initiatives with a capacity building component is made through the OECD DAC CRS Free-standing technical cooperation marker or other approaches are used;
-
--	the gender equality marker in the OECD DAC CRS is used or other approaches are used.
 
 ## 5.7. Compiling the template with activity-level data (Excel spreadsheet)
 
@@ -351,25 +327,33 @@ Each row in the table represents one activity, spending or funding, or investmen
 
 -	Year: indicate the year in which the financial transaction has been recorded;
 
--	Provider of the funds: indicate the country or private institution that disbursed the funds. For SO5-2 indicate 'domestic' or the name of your country;
+-	Provider of the funds: indicate the country or private institution that disbursed the funds.
 
--	Recipient/beneficiary: indicate the country/region that is the beneficiary of the funds. For SO5-1, if you are a recipient country, you can indicate the name of your country. For SO5-2 indicate 'domestic' or the name of your country;
+-	Country name: For SO5-2 indicate the economic unit involved;
 
--	Channel: the channel is the first implementing entity of the project, initiative or activity. Select the category of entity from the drop-down list, or select “Other” and specify with free text;
+-	Recipient/beneficiary: indicate the country/region that is the beneficiary of the funds. For SO5-1, if you are a recipient country, you can indicate the name of your country. For SO5-2 indicate the economic unit involved as the destination of the transfer (collector/recipient/beneficiary of the payment);
 
--	Title of project, initiative or activity, or other: indicate the title / short description of the initiative related to the amount disbursed;
+-	Channel: the channel is the first implementing entity of the project, initiative or activity. For SO5-2 indicate the geographic scope;
+
+-	Title of project, initiative or activity, or other: indicate the title / short description of the initiative related to the amount disbursed or the name of the instrument;
 
 -	Amount USD: provide amounts disbursed in the reported year in USD (not in domestic or other currencies). Please apply the exchange rate to convert to USD if applicable;
 
+-	Amount: for SO5-2, provide amounts in domestic currency. Note that figures in the summary tables are provided in USD, applying exchange rates as provided in the SO5-2 ST sheet of the Excel file;
+
 -	Sector: indicate the macro sector selecting from the drop-down list or select other and specify the sector. We recommend using the suggestions from the drop-down list;
 
-Type of flow: use the drop-down list to choose the relevant type of flow. For SO5-1, indicate whether the flow is Official Development Assistance, non-export credit, Other Official Flow, officially supported export credits, private sector instrument; for SO5-2, indicate whether the flow is an expenditure, investment, revenue, borrowing or other; for SO5-3, indicate whether the flow is Private Development Finance, Private Foreign Direct Investment, other private flow at market terms;
+- Type of flow: use the drop-down list to choose the relevant type of flow. For SO5-1, indicate whether the flow is Official Development Assistance, non-export credit, Other Official Flow, officially supported export credits, private sector instrument; for SO5-2, indicate whether the flow is an expenditure, investment, revenue, borrowing or other; for SO5-3, indicate whether the flow is Private Development Finance, Private Foreign Direct Investment, other private flow at market terms;
 
 -	Financial instrument: use the drop-down list to choose the relevant financial instrument;
 
+-	Instrument category: for SO5-2 indicate the instrument type;
+
+-	Instrument type: for So5-2 indicate the detailed type of instrument;
+
 -	Type of support: indicate whether the objective of the project, initiative or activity is principal (main or exclusive objective is combating DLDD) or significant (other objectives are also pursued);
 
--	Amount of private resources USD: for SO5-1 and SO5-2, indicate the amount of private resources mobilized through the public financial intervention reported in the “Amount USD” column;
+-	Amount of private resources USD: for SO5-1 and SO5-2, indicate the amount of private resources mobilized through the public financial intervention reported in the “Amount USD” or “Amount” column. For SO5-3 indicate the amount in USD of the private transaction;
 
 -	Leveraging mechanism for private mobilization: use the drop-down list to choose the relevant leveraging mechanism for private mobilization, as explained in the relevant OECD DAC methodology;
 
