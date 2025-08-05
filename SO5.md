@@ -37,7 +37,7 @@ Parties are asked to verify the activity-level default data provided in the Exce
 
 Thereafter, Parties will select one of three options: confirming default data, correcting default data, or rejecting default data.
 
--	*Confirming the default data provided*in the Excel spreadsheet does not entail any action by the Party. The amounts shown in the summary tables will remain as they are, and their submission will confirm the figures as part of the national reporting of the country. In case no default data is provided, see “correcting default data”.
+-	*Confirming the default data provided* in the Excel spreadsheet does not entail any action by the Party. The amounts shown in the summary tables will remain as they are, and their submission will confirm the figures as part of the national reporting of the country. In case no default data is provided, see “correcting default data”.
 
 -	*Correcting default data* entails that Parties will *upload modified activity-level data* – or *provide activity-level data in the empty Excel spreadsheet if no default data is provided*. Parties can directly edit and modify data included in the Excel spreadsheet, possibly including new and additional activity-level data entries or deleting or adjusting selected default data entries. Parties can upload the modified Excel table by clicking on the button “Upload file” in the “Quantitative data” section under each progress indicator in the PRAIS4 platform. When the modified table is uploaded, the data shown in country reports will be drawn from the modified Excel spreadsheet that the Party has uploaded in the reporting system. No further manual data entry will be necessary in the respective summary tables for these progress indicators.
 
