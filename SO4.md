@@ -60,7 +60,7 @@ Countries are encouraged to identify and then rank drivers which directly or ind
 
 #### Step 3:  Verify the results
 
-If the default data is used, no further verification is required, as the information has already been validated by national statistics offices through the SDG process and synchronized with PRAIS: Only in the case that alternative data has been used should its reliability be verified by national experts to detect and highlight situations where the confidence level of the obtained results might be low. This would qualitatively assess the reliability of the estimates based on expert knowledge and on a correct interpretation of the data.
+If the default data is used, no further verification is required, as the information has already been validated by national statistics offices through the SDG process and synchronized with PRAIS. Only in the case that alternative data has been used should its reliability be verified by national experts to detect and highlight situations where the confidence level of the obtained results might be low. This would qualitatively assess the reliability of the estimates based on expert knowledge and on a correct interpretation of the data.
 
 #### Step 4: Save form and submit for review
 
@@ -115,7 +115,7 @@ The main output of the reporting process for SO 4-3 is a set of officially verif
 
 [^6]: For an explanation of categories, see: <https://www.iucn.org/theme/protected-areas/about/protected-area-categories>.
 [^7]: For a detailed methodology, see: A Global Standard for the Identification of Key Biodiversity Areas (IUCN 2016). <https://portals.iucn.org/library/sites/library/files/documents/2016-048.pdf>.
-[^8]: See <https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA>.
+[^8]: See <https://unstats.un.org/sdgs/dataportal/database>.
 
 ### 4.3.2. Prerequisites for reporting
 
