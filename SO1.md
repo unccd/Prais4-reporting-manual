@@ -224,7 +224,7 @@ Once the suitable land cover legend is identified, land cover changes can be lin
 
 Table 9 presents an example of a transition matrix for the default UNCCD land cover classes. The matrix shows suggested interpretations of changes in land cover that may result in land degradation, improvement or stability. Parties might use this matrix as a preliminary framework to be evaluated and adjusted through a multi-stakeholder participatory process and in consideration of the national and local conditions.
 
-For completeness, water bodies are also included in the matrix, although the focus of reporting is on total land area for the purpose of calculating SDG indicator 15.3.1. All water body-related transitions are set as ‘stable’ by default, but Parties may alter these values if changes in the extent of water bodies during the baseline or the reporting period had a significant impact on land cover. It should be noted that any change in the extent of inland water bodies affects the total land area, which needs to be adjusted accordingly.
+For completeness, water bodies are also included in the matrix, although the focus of reporting is on total land area for the purpose of calculating SDG indicator 15.3.1. All water body related transitions are set as ‘stable’ by default, but Parties may alter these values if changes in the extent of water bodies during the baseline or the reporting period had a significant impact on land cover. It should be noted that any change in the extent of inland water bodies affects the total land area, which needs to be adjusted accordingly.
 
 ````{only} html
 
@@ -361,7 +361,7 @@ UNCCD provides prefilled default land cover extent data in the PRAIS 4 platform 
 
 Parties opting to use an alternative source of national data may enter the relevant national annual values in table SO1-1.T4. Parties should click on the “National Data” button above the tables in order to edit the tables. Basic metadata, as outlined in Annex II, for the datasets to be used should be provided in the Data Sources form that opens when “Edit Data Sources” is selected.
 
-Two additional datasets are available at 30m spatial resolution and potentially useful for SIDS reporting:
+Two additional datasets are available at 30m spatial resolution and potentially useful for Small Island Developing States (SIDS) reporting:
 
 - The Global Land Analysis and Discovery (GLAD) land cover (available for years 2000, 2005, 2010, 2015 and 2020)
 - The GLC_FCS30D land cover (available every five years from 1985 to 2000, then annually up to 2022)
@@ -463,7 +463,7 @@ The PRAIS 4 platform enables the reporting of quantitative information on land c
 
 Information on land cover, land cover changes and land cover degradation should be reported in km2 for the entire country.
 
-If the default datasets have been replaced with national land cover data, countries are encouraged to upload the relevant geospatial data to PRAIS. Any spatial data uploaded to the system must be supported by appropriate metadata describing the spatial data, as indicated in the data source form and further described in [Annex II](annex_II.md) of this manual.
+If the default datasets have been replaced with national land cover data, countries are encouraged to upload the relevant geospatial data to PRAIS 4. Any spatial data uploaded to the system must be supported by appropriate metadata describing the spatial data, as indicated in the data source form and further described in [Annex II](annex_II.md) of this manual.
 
 Default maps or maps generated in Trends.Earth using national data representing land cover, land cover change and land cover degradation for the baseline/reporting period are made available in the PRAIS 4 platform. More specifically, the following maps will be available online:
 
@@ -521,7 +521,7 @@ Key actions for reporting on land cover changes are as follows:
 
 3. **Generate one or more transition matrices**. For each land cover transition, indicate whether it is likely to lead to degradation, improvement or stable conditions.  Parties can provide one transition matrix covering the total land area of the country or up to five region-specific transition matrices.  The combined land area for the region-specific transition matrices must sum to the total land area for the country. Enter this information in table SO1-1.T3
 
-4. **Select land cover data to be used**; ensure compliance with the minimum specifications listed in table 10.
+4. **Select land cover data to be used**: ensure compliance with the minimum specifications listed in table 10.
 
 5. **Determine the baseline extent of land cover degradation** using the selected data, legend and transition matrix for the baseline period 2000–2015. If national land cover data is used, run the calculations in Trends.Earth and enter this information in tables SO1-1.T5 and SO1-1.T7.
 
