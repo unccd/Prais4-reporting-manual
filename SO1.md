@@ -558,7 +558,7 @@ National reporting is facilitated though the provision of default data derived f
 
 - An in-depth reading of chapter 4 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) providing an overview on land productivity and detailing the methodology used to estimate land productivity changes;
 
-- Familiarity with Section 1 and Section 3 of the [Addendum to Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land): Proportion of land that is degraded over total land area (version 2).
+- Familiarity with Section 1 and Section 3 of the [Addendum to Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land): Proportion of land that is degraded over total land area (version 2);
 
 - Data complying with the specifications listed in table 11 below;
 
@@ -651,7 +651,7 @@ Other indices, such as the Enhanced Vegetation Index (EVI) or Soil Adjusted Vege
 
 The estimation of annual productivity should take into consideration that, due to the natural cycles of growth and senescence of vegetation, NPP is best represented by a time series of observations captured during the full growing season. Therefore, for each pixel location, the annual productivity will be the integral of values from the start to the end of the growing season of the selected productivity index. Areas with increasing NPP should be interpreted as improving, unless assessed otherwise at country level.
 
-Further indications on options to estimate the start and length of the growing season are given in section 4.2.4.1 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).Section 3.2.1 of the [Addendum](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land) provides additional considerations on how to estimate annual productivity, including developments in enhancing the assessment in hyperarid areas.
+Further indications on options to estimate the start and length of the growing season are given in section 4.2.4.1 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land). Section 3.2.1 of the [Addendum](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land) provides additional considerations on how to estimate annual productivity, including developments in enhancing the assessment in hyperarid areas.
 
 #### Step 5: Calculate land productivity metrics
 
