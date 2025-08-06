@@ -313,7 +313,7 @@ The UN Clear Map Data has been prepared by the United Nations Geospatial Informa
 
 For cartographic representation and preparation of the default data, PRAIS uses the international boundaries of countries taken from the United Nations Map 0 geodata which is suitable for 1:1 million scale representation and serves global mapping purposes as opposed to local mapping.
 Countries can opt to use an alternative country border by uploading the polygon directly to the PRAIS spatial data viewer.
-However, should Parties opt to use an alternative country boundary layer, they are encouraged to engage with the Second Administrative Level Boundaries ([SALB](https://www.salb.un.org/)) programme of the Geospatial Information Section & Statistics Division when opting to use their own boundary.
+However, should Parties opt to use an alternative country boundary layer, they are encouraged to engage with the Second Administrative Level Boundaries ([SALB](https://salb.un.org/)) programme of the Geospatial Information Section & Statistics Division when opting to use their own boundary.
 The programme’s objective is to promote accessible, interoperable and global data and information on subnational units and boundaries.
 Participation in the programme will ensure Member States of the United Nations will avail of a global repository of authoritative information and geospatial data about the administrative unit structure of countries down to the second subnational level, and through time.
 Parties should engage with the SALB program directly by sending an email to <salb@un.org>.
