@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-22 09:58+0300\n"
+"POT-Creation-Date: 2025-08-02 15:43+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -102,13 +102,13 @@ msgstr ""
 
 #: ../../SO3.md:73
 #: ../../SO3.md:301
-#: ../../SO3.md:515
+#: ../../SO3.md:514
 msgid "{rspan}`1` Item"
 msgstr ""
 
 #: ../../SO3.md:74
 #: ../../SO3.md:302
-#: ../../SO3.md:516
+#: ../../SO3.md:515
 msgid "{cspan}`1` Specifications"
 msgstr ""
 
@@ -119,13 +119,13 @@ msgstr ""
 
 #: ../../SO3.md:76
 #: ../../SO3.md:304
-#: ../../SO3.md:518
+#: ../../SO3.md:517
 msgid "National data"
 msgstr ""
 
 #: ../../SO3.md:77
 #: ../../SO3.md:305
-#: ../../SO3.md:519
+#: ../../SO3.md:518
 msgid "__Input data__"
 msgstr ""
 
@@ -147,7 +147,7 @@ msgstr ""
 
 #: ../../SO3.md:84
 #: ../../SO3.md:314
-#: ../../SO3.md:526
+#: ../../SO3.md:525
 msgid "__Output data__"
 msgstr ""
 
@@ -173,7 +173,7 @@ msgid "Gridded spatial summary in four-year epochs."
 msgstr ""
 
 #: ../../SO3.md:97
-#: ../../SO3.md:531
+#: ../../SO3.md:530
 msgid "__Classification__"
 msgstr ""
 
@@ -184,7 +184,7 @@ msgstr ""
 
 #: ../../SO3.md:100
 #: ../../SO3.md:327
-#: ../../SO3.md:534
+#: ../../SO3.md:533
 msgid "__Spatial resolution__"
 msgstr ""
 
@@ -198,13 +198,13 @@ msgstr ""
 
 #: ../../SO3.md:103
 #: ../../SO3.md:330
-#: ../../SO3.md:537
+#: ../../SO3.md:536
 msgid "__Quality__"
 msgstr ""
 
 #: ../../SO3.md:104
 #: ../../SO3.md:331
-#: ../../SO3.md:538
+#: ../../SO3.md:537
 msgid "Specified in the datasets’ metadata."
 msgstr ""
 
@@ -214,20 +214,20 @@ msgstr ""
 
 #: ../../SO3.md:106
 #: ../../SO3.md:333
-#: ../../SO3.md:540
+#: ../../SO3.md:539
 msgid "__Metadata__"
 msgstr ""
 
 #: ../../SO3.md:107
 #: ../../SO3.md:334
-#: ../../SO3.md:541
+#: ../../SO3.md:540
 msgid "Metadata information is provided with default data."
 msgstr ""
 
 #: ../../SO3.md:108
 #: ../../SO3.md:335
-#: ../../SO3.md:542
-msgid "Minimum metadata content as per the mandatory fields listed in Annex II."
+#: ../../SO3.md:541
+msgid "Minimum metadata content as per the mandatory fields listed in {doc}`Annex II <annex_II>`."
 msgstr ""
 
 #: ../../SO3.md:111
@@ -339,11 +339,11 @@ msgid "For each of the SPI-12 grids in the baseline and reporting period, the nu
 msgstr ""
 
 #: ../../SO3.md:163
-msgid "$P_{ij} = \\frac{cellCount_{ij}}{Total\\ number\\ of\\ cells} \\times 100$"
+msgid "$P_{ij} = \\frac{cellCount_{ij}}{\\text{Total number of cells}} \\times 100$"
 msgstr ""
 
 #: ../../SO3.md:165
-#: ../../SO3.md:557
+#: ../../SO3.md:556
 msgid "Where:"
 msgstr ""
 
@@ -356,7 +356,7 @@ msgid "“cellCount{sub}`ij`” is the number of pixels under the drought intens
 msgstr ""
 
 #: ../../SO3.md:169
-msgid "“Total number of cells’” is all the grid cells within the country Party’s land area."
+msgid "“Total number of cells” is all the grid cells within the country Party’s land area."
 msgstr ""
 
 #: ../../SO3.md:171
@@ -437,7 +437,7 @@ msgstr ""
 
 #: ../../SO3.md:206
 #: ../../SO3.md:394
-#: ../../SO3.md:622
+#: ../../SO3.md:621
 msgid "Data availability and quality"
 msgstr ""
 
@@ -494,7 +494,7 @@ msgid "**Verify the results**: aware of the limitations related to the adoption 
 msgstr ""
 
 #: ../../SO3.md:234
-#: ../../SO3.md:648
+#: ../../SO3.md:647
 msgid "**Generate reports**: once verified by the Parties, the data and supporting narrative for the reporting and baseline periods should be officially submitted to the UNCCD."
 msgstr ""
 
@@ -507,7 +507,7 @@ msgid "Good Practice Guidance for National Reporting on UNCCD Strategic Objectiv
 msgstr ""
 
 #: ../../SO3.md:240
-msgid "3.2. SO 3-2 – Trends in the proportion of the total population exposed to drought"
+msgid "3.2. SO 3-2 – Trends in the proportion of the population exposed to drought"
 msgstr ""
 
 #: ../../SO3.md:242
@@ -621,7 +621,7 @@ msgid "Assessed by national authorities based on available data."
 msgstr ""
 
 #: ../../SO3.md:332
-#: ../../SO3.md:539
+#: ../../SO3.md:538
 msgid "To be indicated in the dataset metadata."
 msgstr ""
 
@@ -678,7 +678,7 @@ msgid "These gridded spatial summaries give an indication of the number of peopl
 msgstr ""
 
 #: ../../SO3.md:366
-#: ../../SO3.md:599
+#: ../../SO3.md:598
 msgid "Step 5:  Verify the results"
 msgstr ""
 
@@ -691,7 +691,7 @@ msgid "Parties should be aware of these limitations and critically review the re
 msgstr ""
 
 #: ../../SO3.md:372
-#: ../../SO3.md:605
+#: ../../SO3.md:604
 msgid "Step 6: Generate reports"
 msgstr ""
 
@@ -863,279 +863,279 @@ msgstr ""
 msgid "_Figure 3. Social, economic, and infrastructural components and their associated factors recommended for calculating the Drought Vulnerability Index_"
 msgstr ""
 
-#: ../../SO3.md:456
+#: ../../SO3.md:457
 msgid "![](/img/SO3_3_Decision_tree.jpg)"
 msgstr ""
 
-#: ../../SO3.md:476
+#: ../../SO3.md:475
 msgid "The UNCCD provides default data from the global DVI dataset of the JRC. The method used to derive the default DVI is similar to the one presented in this manual and in the “Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3”, but presents some key differences in terms of the normalization method (see Step 2) and number of factors included. Two additional factors are used in the default DVI: “Disaster Prevention and Preparedness (US$/Year/Capital)” and “Global map of Accessibility: Travel time to major cities”. The default DVI value represents the median DVI across the country for the period 2000–2018."
 msgstr ""
 
-#: ../../SO3.md:478
+#: ../../SO3.md:477
 msgid "Country Parties that do not have data available to calculate the minimum Tier 1 VA can report using the default DVI data. However, it is recommended that efforts are made over successive reporting cycles to move up the tiers of VA in order to increase the sensitivity of the DVI and improve the granularity of the assessment. The decision tree in figure 4 helps Parties select the tier of VA based on data availability."
 msgstr ""
 
-#: ../../SO3.md:480
+#: ../../SO3.md:479
 msgid "National/regional data products used to calculate the DVI should conform with the specifications listed in table 21."
 msgstr ""
 
-#: ../../SO3.md:482
+#: ../../SO3.md:481
 msgid "_Figure 4. Decision tree to help Parties choose the best tier of vulnerability assessment for the SO 3-3 Indicator reporting according to data availability_"
 msgstr ""
 
-#: ../../SO3.md:484
+#: ../../SO3.md:483
 msgid "![](/img/SO3_3b_Decision_tree.jpg)"
 msgstr ""
 
-#: ../../SO3.md:502
+#: ../../SO3.md:501
 msgid "_DVI: Drought Vulnerability Index_{{br}} _VA: Vulnerability Assessment_"
 msgstr ""
 
-#: ../../SO3.md:510
+#: ../../SO3.md:509
 msgid "*__Table 21__. Data specifications for SO 3-3 Indicator*"
 msgstr ""
 
-#: ../../SO3.md:517
+#: ../../SO3.md:516
 msgid "Default data (Drought Vulnerability Index dataset produced by the Joint Research Centre)"
 msgstr ""
 
-#: ../../SO3.md:521
+#: ../../SO3.md:520
 msgid "(Data needed to generate indicator SO 3-3 as described in Steps 2 to 4)"
 msgstr ""
 
-#: ../../SO3.md:522
+#: ../../SO3.md:521
 msgid "Input data used to calculate the default Drought Vulnerability Index (DVI) is drawn from various sources such as World Bank, Organisation for Economic Cooperation and Development, Food and Agriculture Organization of the United Nations, and Joint Research Centre."
 msgstr ""
 
-#: ../../SO3.md:523
+#: ../../SO3.md:522
 msgid "Freely available datasets for the calculation of the factors needed to derive the DVI are listed in table 14 of the \"[Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3](https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf)\"."
 msgstr ""
 
-#: ../../SO3.md:525
+#: ../../SO3.md:524
 msgid "Alternatively, if available, in-country datasets with higher spatial resolution and fewer gaps over the baseline and reporting period."
 msgstr ""
 
-#: ../../SO3.md:528
+#: ../../SO3.md:527
 msgid "(DVI indicator resulting from the analysis described in Steps 2 to 4)"
 msgstr ""
 
-#: ../../SO3.md:529
+#: ../../SO3.md:528
 msgid "2018 DVI for the baseline and the reporting period. Regions where droughts could be meaningless, such as deserts and cold areas, are masked."
 msgstr ""
 
-#: ../../SO3.md:530
+#: ../../SO3.md:529
 msgid "Annual or near-annual DVI for the baseline and reporting periods."
 msgstr ""
 
-#: ../../SO3.md:532
+#: ../../SO3.md:531
 msgid "Continuous, fractional scale from 0 to 1 but classification based on quantiles to group the vulnerability classes."
 msgstr ""
 
-#: ../../SO3.md:533
+#: ../../SO3.md:532
 msgid "Continuous scale from 0 to 1."
 msgstr ""
 
-#: ../../SO3.md:535
+#: ../../SO3.md:534
 msgid "Country level"
 msgstr ""
 
-#: ../../SO3.md:536
+#: ../../SO3.md:535
 msgid "National and/or sub-national levels"
 msgstr ""
 
-#: ../../SO3.md:545
+#: ../../SO3.md:544
 msgid "Step 2:  Factor normalization"
 msgstr ""
 
-#: ../../SO3.md:547
+#: ../../SO3.md:546
 msgid "In all tiers of VA, factors should be normalized before they can be compared and aggregated, as the vulnerability factors used are all measured using different units."
 msgstr ""
 
-#: ../../SO3.md:549
+#: ../../SO3.md:548
 msgid "The UNCCD recommends normalizing factors using the maximum and minimum values within the country using all historic data up to, and including, the reporting period. This provides the largest range possible, ensuring that the maximum and minimum values are representative for the country."
 msgstr ""
 
-#: ../../SO3.md:551
+#: ../../SO3.md:550
 msgid "Each time the DVI is calculated to report indicator SO 3-3, the factor range (i.e., the minimum and maximum values) should be recalculated, and if values on the reporting periods fall out outside the range, the factor should be re-normalized using the new range."
 msgstr ""
 
-#: ../../SO3.md:553
-msgid "Where there is a positive correlation/relationship between vulnerability and the factor[^3]  (i.e., if the factor value increases, vulnerability also increases), the data should be normalized using the equation below:"
+#: ../../SO3.md:552
+msgid "Where there is a positive correlation/relationship between vulnerability and the factor[^3] (i.e., if the factor value increases, vulnerability also increases), the data should be normalized using the equation below:"
 msgstr ""
 
-#: ../../SO3.md:555
+#: ../../SO3.md:554
 msgid "$Factor = \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 msgstr ""
 
-#: ../../SO3.md:559
+#: ../../SO3.md:558
 msgid "X{sub}`i` is the value of the considered factor in the year “i”"
 msgstr ""
 
-#: ../../SO3.md:560
+#: ../../SO3.md:559
 msgid "X{sub}`min` is the minimum value of the considered factor observed in the entire time series"
 msgstr ""
 
-#: ../../SO3.md:561
+#: ../../SO3.md:560
 msgid "X{sub}`max` is the maximum value of the considered factor observed in the entire time series"
 msgstr ""
 
-#: ../../SO3.md:563
+#: ../../SO3.md:562
 msgid "In case of negative correlation/relationship between vulnerability and the factor, the equation is:"
 msgstr ""
 
-#: ../../SO3.md:565
+#: ../../SO3.md:564
 msgid "$Factor = 1 - \\frac{X_{i} - X_{min}}{X_{max} - X_{min}}$"
 msgstr ""
 
-#: ../../SO3.md:567
+#: ../../SO3.md:566
 msgid "After normalization, all factors have a value of between zero and one, relative to the historical maximum and minimum of the country."
 msgstr ""
 
-#: ../../SO3.md:569
+#: ../../SO3.md:568
 msgid "Normalization of sex-disaggregated data for Tier 1 and 2 VA uses the same formulas described above, applied once for each piece of sex-related data."
 msgstr ""
 
-#: ../../SO3.md:571
+#: ../../SO3.md:570
 msgid "For sub-national level data (Tier 3 VA), the calculation should be applied to the data from all spatial units (e.g., administrative units) combined, and the factor range should reflect the minimum and maximum values of the whole country."
 msgstr ""
 
-#: ../../SO3.md:573
+#: ../../SO3.md:572
 msgid "For the default DVI, each factor was normalized using the global maximum and minimum values, rather than historical ranges for the given country. Normalization at the global scale means the resulting vulnerability assessment is less sensitive to the local/in-country situation than when the national range is used."
 msgstr ""
 
-#: ../../SO3.md:577
+#: ../../SO3.md:576
 msgid "Step 3: Derive the Drought Vulnerability Index components"
 msgstr ""
 
-#: ../../SO3.md:579
+#: ../../SO3.md:578
 msgid "This step aims to derive aggregated values for each of the three DVI components. For Parties adopting the Tier 1 VA approach, the values of the factor normalized in Step 2 are also representative of the corresponding component. Instead, Tier 2 and Tier 3 VAs require the calculation of the arithmetic mean of the normalized factors to derive the aggregated value of each component."
 msgstr ""
 
-#: ../../SO3.md:581
+#: ../../SO3.md:580
 msgid "The result of this step is a single value for each component and each geographic unit of the country. If sex-disaggregated data is used, separate values for male and female are produced for each component."
 msgstr ""
 
-#: ../../SO3.md:583
+#: ../../SO3.md:582
 msgid "Parties may assign weights to the vulnerability factors if their relative importance and relevance is known. It is recommended to apply the weights to the vulnerability factors and not to the three components."
 msgstr ""
 
-#: ../../SO3.md:585
+#: ../../SO3.md:584
 msgid "Step 4:  Calculate the Drought Vulnerability Index"
 msgstr ""
 
-#: ../../SO3.md:588
+#: ../../SO3.md:587
 msgid "Related areas in the PRAIS 4 platform: table SO3-3.T1"
 msgstr ""
 
-#: ../../SO3.md:591
-msgid "In all tiers of VA, the three components (C{sub}`social`, C{sub}`economic` and C{sub}`infrastructural`) derived in the previous steps are used to produce the DVI by calculating their mean value."
+#: ../../SO3.md:590
+msgid "In all tiers of VA, the three components (C{sub}`social`, C{sub}`economic` and C{sub}`infrastructural`) derived in the previous steps are used to produce the DVI by calculating their arithmetic mean value."
 msgstr ""
 
-#: ../../SO3.md:593
-msgid "$DVI = \\frac{C_{social} + C_{economic} + C_{infrastructural}}{3}$"
+#: ../../SO3.md:592
+msgid "$DVI = \\frac{C_{\\text{social}} + C_{\\text{economic}} + C_{\\text{infrastructural}}}{3}$"
 msgstr ""
 
-#: ../../SO3.md:595
+#: ../../SO3.md:594
 msgid "The DVI ranges from 0 to 1, with 1 being the most vulnerable."
 msgstr ""
 
-#: ../../SO3.md:597
+#: ../../SO3.md:596
 msgid "A Tier 1 VA would result in one DVI at country-level for each reporting period. For Tier 2 and 3 VAs, where sex-disaggregated factors are used, it is recommended that sex-specific DVIs are also calculated, in addition to the country-level DVI. Hence, a Party would report at least three DVI values for each reporting period, i.e., for the total, female and male populations. For sub-national or gridded components under Tier 3 VA, the DVI is to be calculated for the smallest spatial unit separately for males, females and total populations."
 msgstr ""
 
-#: ../../SO3.md:601
+#: ../../SO3.md:600
 msgid "The DVI method has not yet been validated at the local or national scale and, as such, may not accurately characterize vulnerability at these scales, either in terms of the factors most relevant to each country or the most effective factor weighting scheme. Therefore, Parties may verify the appropriateness of the default factors and add relevant ones as needed. The weighting scheme should also be thoroughly considered to improve results at national and subnational level."
 msgstr ""
 
-#: ../../SO3.md:603
+#: ../../SO3.md:602
 msgid "Moreover, the most vulnerable populations and underrepresented groups should be involved in the determination of the factors to be used to calculate the components, in order to develop a country-specific and more effective index."
 msgstr ""
 
-#: ../../SO3.md:607
+#: ../../SO3.md:606
 msgid "Once verified by the Parties, the estimated vulnerability values for the reporting and baseline periods should be officially submitted to the UNCCD. Information on the method used (selected tier and factors per component) should be reported using the dedicated “Method” field in the PRAIS 4 platform. Observed changes and their interpretation may be described in the “Qualitative Assessment” table of the PRAIS 4 platform (table SO3-3.T2)."
 msgstr ""
 
-#: ../../SO3.md:609
+#: ../../SO3.md:608
 msgid "Maps generated in Trends.Earth using national data under Tier 3 VA and representing vulnerability to drought for the baseline/reporting period can be uploaded to the PRAIS 4 platform. More specifically, it is recommended to upload the following maps:"
 msgstr ""
 
-#: ../../SO3.md:611
+#: ../../SO3.md:610
 msgid "Drought Vulnerability in the baseline period (2000–2015)"
 msgstr ""
 
-#: ../../SO3.md:612
+#: ../../SO3.md:611
 msgid "Drought Vulnerability in the reporting period (2016–2019)"
 msgstr ""
 
-#: ../../SO3.md:614
+#: ../../SO3.md:613
 msgid "Information on data sources, data accuracy and any weighting scheme applied to the vulnerability factors can be submitted using the “General Comment” field. It would also be beneficial to report on special cases and issues, describing situations where values might be less reliable and providing the rationale to include different factors."
 msgstr ""
 
-#: ../../SO3.md:616
+#: ../../SO3.md:615
 msgid "3.3.4. Dependencies"
 msgstr ""
 
-#: ../../SO3.md:618
+#: ../../SO3.md:617
 msgid "SO 2-1 and SO 2-2 can be used for the calculation of SO 3-3."
 msgstr ""
 
-#: ../../SO3.md:620
+#: ../../SO3.md:619
 msgid "3.3.5. Challenges"
 msgstr ""
 
-#: ../../SO3.md:624
+#: ../../SO3.md:623
 msgid "The availability of data for the considered factors varies substantially from country to country and the complete set of recommended data might not be accessible everywhere."
 msgstr ""
 
-#: ../../SO3.md:626
+#: ../../SO3.md:625
 msgid "Methodological approach"
 msgstr ""
 
-#: ../../SO3.md:628
+#: ../../SO3.md:627
 msgid "The reliability of the DVI method at national and sub-national levels is still to be verified."
 msgstr ""
 
-#: ../../SO3.md:630
+#: ../../SO3.md:629
 msgid "Due to the methods used for factor normalization (i.e., using in-country historic data), DVI values should not be compared between countries."
 msgstr ""
 
-#: ../../SO3.md:632
+#: ../../SO3.md:631
 msgid "Assuming a consistent methodology has been used over time, changes in the DVI may reflect the efficacy of drought mitigation and adaptation policies, but they may also reveal the impacts of social and economic changes disconnected from drought management measures."
 msgstr ""
 
-#: ../../SO3.md:634
+#: ../../SO3.md:633
 msgid "3.3.6. Summary (main actions)"
 msgstr ""
 
-#: ../../SO3.md:636
+#: ../../SO3.md:635
 msgid "Key actions for reporting population vulnerable to drought hazard are as follows:"
 msgstr ""
 
-#: ../../SO3.md:638
+#: ../../SO3.md:637
 msgid "**Select tier of vulnerability assessment based on data availability**: Parties are encouraged to opt for one of the three Tiers of VA based on data availability. In the absence of data to calculate the minimum Tier 1 VA, Parties may use the default data. National/regional data products used to calculate the DVI should comply with the specifications listed in table 21. If Parties use national/regional data products, they should follow Steps 2 to 4 below:"
 msgstr ""
 
-#: ../../SO3.md:640
+#: ../../SO3.md:639
 msgid "**Factor normalization**: factors for each vulnerability component should be normalized before they can be compared and aggregated, as the vulnerability factors used are all measured using different units."
 msgstr ""
 
-#: ../../SO3.md:642
+#: ../../SO3.md:641
 msgid "**Derive the DVI components**: the aggregated values for each of the three DVI components are calculated as the arithmetic mean of the normalized factors."
 msgstr ""
 
-#: ../../SO3.md:644
-msgid "**Calculate the DVI**: the three components – social, economic and infrastructural – derived in the previous steps are used to produce the DVI by calculating their mean value."
+#: ../../SO3.md:643
+msgid "**Calculate the DVI**: the three components – social, economic and infrastructural – derived in the previous steps are used to produce the DVI by calculating their arithmetic mean value."
 msgstr ""
 
-#: ../../SO3.md:646
+#: ../../SO3.md:645
 msgid "**Verify the results**: aware of the fact that the DVI method has not yet been validated at the local or national scale, Parties may verify the appropriateness of the default factors and add relevant ones as needed before officially submitting estimates for UNCCD reporting."
 msgstr ""
 
-#: ../../SO3.md:650
+#: ../../SO3.md:649
 msgid "3.3.7. Further reading"
 msgstr ""
 
-#: ../../SO3.md:652
+#: ../../SO3.md:651
 msgid "Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3. Chapter 3. Level 3 Indicator (<https://www.unccd.int/sites/default/files/documents/2021-09/UNCCD_GPG_Strategic-Objective-3_2021.pdf>)."
 msgstr ""
 
@@ -1147,6 +1147,6 @@ msgstr ""
 msgid "\"The Global Drought Classification System (GDCS, formerly the Global Drought Indicator or GDI), currently under development by WMO through the Global Multi-Hazard Alert System (GMAS) framework, will provide methods on how a multitude of drought indices can be translated onto a harmonized legend of drought classes.\""
 msgstr ""
 
-#: ../../SO3.md:575
+#: ../../SO3.md:574
 msgid "See Table 13 of the Good Practice Guidance for National Reporting on UNCCD Strategic Objective 3 indicating relationship of the 13 recommended factors with vulnerability"
 msgstr ""

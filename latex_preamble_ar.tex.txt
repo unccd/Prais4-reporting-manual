@@ -1,0 +1,22 @@
+% --- Arabic Fonts ---
+\usepackage[none]{hyphenat}
+
+% \defaultfontfeatures{Script=Arabic, UprightFont=*-Regular, BoldFont=*-Bold, ItalicFont=*-Bold, Extension=.ttf, ArabicDigits}
+
+
+% % -- for babel ---
+% \newfontfamily{\arabicfont}{NotoNaskhArabic}[Script=Arabic, UprightFont=*-Regular, BoldFont=*-Bold, ItalicFont=*-Bold, Extension=.ttf]
+% \newfontfamily{\arabicfontsf}{NotoSansArabic}[Script=Arabic, UprightFont=*-Regular, BoldFont=*-Bold, ItalicFont=*-Bold, Extension=.ttf]
+% \newfontfamily{\arabicfonttt}{NotoSansMono}[UprightFont=*-Regular, BoldFont=*-Bold, ItalicFont=*-Bold, Extension=.ttf]
+
+% --- for polyglossia ---
+\setmainfont{NotoNaskhArabic}[Script=Arabic, UprightFont=*-Regular, BoldFont=*-Bold, ItalicFont=*-Bold, Extension=.ttf]
+\setsansfont{NotoSansArabic}[Script=Arabic, UprightFont=*-Regular, BoldFont=*-Bold, ItalicFont=*-Bold, Extension=.ttf]
+\setmonofont{NotoSansMono}[UprightFont=*-Regular, BoldFont=*-Bold, ItalicFont=*-Bold, Extension=.ttf]
+
+\setmathfont{NotoSansMath}[Path=./, Extension={.ttf}, UprightFont=*, BoldFont=*]
+
+% \setmathrm{NotoNaskhArabic} % upright Roman font in math to a CJK font
+% \setmathsf{NotoNaskhArabic}
+
+% \setmainlanguage{arabic} % this seems to break the pdf build when using babel

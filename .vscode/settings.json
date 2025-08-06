@@ -1,0 +1,13 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "editor.formatOnSave": false,
+    "markdownlint.configFile": ".markdownlint.json",
+    "myst.preview.extensions": [
+        "dollarmath",
+        "deflist",
+        "amsmath",
+        "colon_fence"
+    ]
+}

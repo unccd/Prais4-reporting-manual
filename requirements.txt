@@ -104,12 +104,16 @@ sphinx==8.2.3
     #   myst-parser
     #   recommonmark
     #   sphinx-intl
+    #   sphinx-new-tab-link
     #   sphinx-rtd-theme
+    #   sphinxcontrib-extdevhelper-kasane
     #   sphinxcontrib-jquery
     #   sphinxnotes-strike
 sphinx-intl==2.3.1
     # via -r requirements.in
 sphinx-markdown-tables==0.0.17
+    # via -r requirements.in
+sphinx-new-tab-link==0.8.0
     # via -r requirements.in
 sphinx-rtd-theme==3.0.2
     # via -r requirements.in
@@ -117,6 +121,8 @@ sphinxcontrib-applehelp==2.0.0
     # via sphinx
 sphinxcontrib-devhelp==2.0.0
     # via sphinx
+sphinxcontrib-extdevhelper-kasane==0.2.0
+    # via sphinx-new-tab-link
 sphinxcontrib-htmlhelp==2.1.0
     # via sphinx
 sphinxcontrib-jquery==4.1
