@@ -313,7 +313,7 @@ The UN Clear Map Data has been prepared by the United Nations Geospatial Informa
 
 For cartographic representation and preparation of the default data, PRAIS uses the international boundaries of countries taken from the United Nations Map 0 geodata which is suitable for 1:1 million scale representation and serves global mapping purposes as opposed to local mapping.
 Countries can opt to use an alternative country border by uploading the polygon directly to the PRAIS spatial data viewer.
-However, should Parties opt to use an alternative country boundary layer, they are encouraged to engage with the Second Administrative Level Boundaries ([SALB](https://www.unsalb.org/)) programme of the Geospatial Information Section & Statistics Division when opting to use their own boundary.
+However, should Parties opt to use an alternative country boundary layer, they are encouraged to engage with the Second Administrative Level Boundaries ([SALB](https://www.salb.un.org/)) programme of the Geospatial Information Section & Statistics Division when opting to use their own boundary.
 The programme’s objective is to promote accessible, interoperable and global data and information on subnational units and boundaries.
 Participation in the programme will ensure Member States of the United Nations will avail of a global repository of authoritative information and geospatial data about the administrative unit structure of countries down to the second subnational level, and through time.
 Parties should engage with the SALB program directly by sending an email to <salb@un.org>.
@@ -345,7 +345,7 @@ By applying the CC0 public domain dedication or CC BY licences to national datas
 
 These guidelines are designed to maximize the interoperability of submitted national data by clearly defining its conditions of reuse. Interoperability and synergies in information exchange between Conventions is only possible when data can be legally, confidently, and consistently reused across systems, which requires reuse conditions that are both explicit and standardized.
 
-You can read more about the licences in Annex 1 of these guidelines and you can find comprehensive information at the [Creative Commons website](https://creativecommons.org/share-your-work/cclicenses/).
+You can read more about the licences in Annex I of these guidelines and you can find comprehensive information at the [Creative Commons website](https://creativecommons.org/share-your-work/cclicenses/).
 
 Taking the above guidelines into account, Parties have the option to fill out a User Specific Licence (USL) form in PRAIS and choose whether to: (i) use an existing Creative Commons licence; or (ii) opt for an exemption and select a custom licence.
 
@@ -491,4 +491,4 @@ If better national estimates are available, the Parties should click on the “N
 However, it is important to ensure consistency with the data used to report the proportion of population exposure to land degradation and drought.
 Any changes are to be justified in the “Comments” field following the table.
 
-A field for “general Comments” is also provided if any additional information or clarifications are to be provided in relation to the land area and demographics data provided.
+A field for “General Comments” is also provided if any additional information or clarifications are to be provided in relation to the land area and demographics data provided.
