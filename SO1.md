@@ -1406,9 +1406,15 @@ This can be done using The “Status Matrix” (see figure 4) which shows the di
 This comparison is essential to account for areas identified as degraded in the baseline that have since remained unchanged in land condition.
 For example, if an area was classified as degraded during the baseline period but was stable afterwards, the land's condition is still degraded as there has been no improvement since the baseline.
 The resulting Status map enables the estimation of SDG Indicator 15.3.1 by providing a spatially explicit view of areas that are either stable, improved, or degraded, considering also their initial condition.  
-  
-_**Figure 4.** The “Status Matrix” is a 3 x 3 matrix to assess Status by comparing the reporting period assessment (columns) and the baseline (rows). The categories Stable and Improved correspond to Not Degraded areas._  
-![](/img/fig4.png)
+
+```{figure} /img/fig4.png
+:width: 50%
+:align: center
+
+_**Figure 4.** The “Status Matrix” is a 3 x 3 matrix to assess Status by comparing the reporting period assessment (columns) and the baseline (rows). The categories Stable and Improved correspond to Not Degraded areas._
+```
+
+\* Not Degraded areas
 
 4. **Change Assessment**: The change in extent of degradation between the baseline and the reporting period is calculated as the difference between the total area of degraded land in and the most recent reporting period, and the baseline.
 It can be expressed as either the change in terms of absolute area or as the change in terms of the proportion of degraded area over the total land area (percentage).
