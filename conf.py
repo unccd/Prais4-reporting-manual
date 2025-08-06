@@ -50,6 +50,7 @@ myst_enable_extensions = [
     "smartquotes",  # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#typography
     "substitution",  # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#substitutions-with-jinja2
     "tasklist",  # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#task-lists
+    "attrs_inline",  # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#syntax-attributes-inline
 ]
 
 myst_substitutions = {
@@ -166,7 +167,9 @@ latex_additional_files = [f"{FONT_DIR}/{font}" for font in fonts]
 
 # Do not use .tex as suffix, else the file is submitted itself
 # to the PDF build process, use .tex.txt or .sty.
-latex_additional_files.append("latex_preamble.tex.txt")
+latex_additional_files.extend([
+    "latex_preamble.tex.txt",
+])
 
 # latex_toplevel_sectioning='chapter'
 # latex_use_modindex = False

@@ -226,6 +226,8 @@ Table 9 presents an example of a transition matrix for the default UNCCD land co
 
 For completeness, water bodies are also included in the matrix, although the focus of reporting is on total land area for the purpose of calculating SDG indicator 15.3.1. All water body-related transitions are set as ‘stable’ by default, but Parties may alter these values if changes in the extent of water bodies during the baseline or the reporting period had a significant impact on land cover. It should be noted that any change in the extent of inland water bodies affects the total land area, which needs to be adjusted accordingly.
 
+````{only} html
+
 ```{cssclass} table-9
 ```
 
@@ -249,7 +251,7 @@ stub-columns: 1
   - Stable
   - Vegetation loss
   - Deforestation
-  - Innundation
+  - _Innundation_
   - Deforestation
   - Vegetation loss
   - Stable
@@ -257,7 +259,7 @@ stub-columns: 1
   - Afforestation
   - Stable
   - Agricultural expansion
-  - Inundation
+  - _Inundation_
   - Urban expansion
   - Vegetation loss
   - Stable
@@ -265,12 +267,12 @@ stub-columns: 1
   - Afforestation
   - Withdrawal of agriculture
   - Stable
-  - Inundation
+  - _Inundation_
   - Urban expansion
   - Vegetation loss
   - Stable
 * - Wetland
-  - Woody encroachment
+  - _Woody encroachment_
   - Wetland drainage
   - Wetland drainage
   - Stable
@@ -278,7 +280,7 @@ stub-columns: 1
   - Wetland drainage
   - Stable
 * - Artificial surfaces
-  - Afforestation
+  - _Afforestation_
   - Vegetation establishment
   - Agricultural expansion
   - Wetland establishment
@@ -302,9 +304,16 @@ stub-columns: 1
   - Stable
   - Stable
 ```
+````
+
+```{only} latex
+*__Table 9__. Example of a land cover transition matrix using the seven UNCCD land cover classes*
+
+![](/img/table9.png)
+```
 
 ```{note}
-Land cover change processes are color coded as improvement (green), stable (yellow) or degradation (purple). Unlikely transitions are written in red. Note that this is an example of a transition matrix and should not be interpreted as appropriate for countries to adopt without consideration of local conditions and key degradation processes.
+Land cover change processes are color coded as improvement ([green]{.bg-green}), stable ([yellow]{.bg-yellow}) or degradation ([purple]{.bg-purple}). Unlikely transitions are written in _italics_. Note that this is an example of a transition matrix and should not be interpreted as appropriate for countries to adopt without consideration of local conditions and key degradation processes.
 ```
 
 Depending on the land cover legend selected in Step 2, Parties will need to provide their interpretation of land cover transitions using tables SO1-1.T3 for (i) UNCCD default land cover classes; (ii) or national land cover classes.
@@ -800,7 +809,7 @@ Table 13 summarizes the combinations of productivity metrics to determine the la
 
 Parties may use this table to combine custom Trend, State and Performance results derived from national data to estimate land productivity dynamics and degradation.
 
-{{pagebreak}}
+```` {only} html
 
 ```{tabularcolumns} |p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{3cm}|p{3cm}|
 ```
@@ -934,6 +943,15 @@ widths: 2 2 2 2 3 3
   - Degraded
   - Declining
   - Degrading
+```
+````
+
+{{pagebreak}}
+
+```{only} latex
+*__Table 13__. Combination of productivity metrics to determine five classes of land productivity dynamics and three classes of land productivity degradation per pixel in the baseline and reporting periods*
+
+![](/img/table13.png)
 ```
 
 _Note: The last column illustrates how a pixel’s land productivity degradation status can be inferred from the class of land productivity dynamics obtained from the combination of the three input productivity metrics._
