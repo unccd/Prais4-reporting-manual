@@ -1146,7 +1146,7 @@ If Parties decide to use the default data (i.e., adopt the Tier 1 method), steps
 
 #### Step 2: Establish SOC reference values
 
-This step is required if a modified tier 1 or a tier 2 approach is adopted. SOC values should be established for the reference year 2000. The default reference map used in the reporting process is the ISRIC SoilGrids 250m carbon stock map, which estimates SOC stocks for the top 30 cm of soil. However, given the high uncertainty in ISRIC datasets where in-situ soil data are sparse, countries are encouraged to use alternative datasets, including global or national SOC maps, to improve accuracy. Countries which participate in the Global Soil Organic Carbon Map (GSOCmap) initiative of the Food and Agriculture Organization of the United Nations (FAO) may choose to use the national SOC maps developed through that process. Table 14 lists the specification regarding data requirements for indicator SO1-3.
+This step is required if the UNCCD default data are not used (i.e., if a modified tier 1 or a tier 2 approach is adopted). SOC values should be established for the reference year 2000. The default reference map used in the reporting process is the ISRIC SoilGrids 250m carbon stock map, which estimates SOC stocks for the top 30 cm of soil. However, given the high uncertainty in ISRIC datasets where in-situ soil data are sparse, countries are encouraged to use alternative datasets, including global or national SOC maps, to improve accuracy. Countries which participate in the Global Soil Organic Carbon Map (GSOCmap) initiative of the Food and Agriculture Organization of the United Nations (FAO) may choose to use the national SOC maps developed through that process. Table 14 lists the specification regarding data requirements for indicator SO1-3.
 
 {{pagebreak}}
 
@@ -1188,7 +1188,7 @@ widths: 2 4 4
 
 #### Step 3: Map land cover changes for SOC change estimation
 
-This step is required if a modified tier 1 or a tier 2 approach is adopted.
+This step is required if the UNCCD default data are not used (i.e.,if a modified tier 1 or a tier 2 approach is adopted).
 Changes in SOC stocks over time are modeled using land cover conversion coefficients as proxies for land use, meaning that accurate identification of land cover transitions is essential for reliable results.
 
 For the default dataset used in SOC stock change estimation, seven land cover classes, adapted from the IPCC land use categories, are used.
@@ -1209,7 +1209,7 @@ Further refinements can be achieved through subnational stratification, where co
 Related areas in the PRAIS 4 platform: table SO1-3.T2
 ```
 
-This step is required if a modified tier 1 or a tier 2 approach is adopted.
+This step is required if the UNCCD default data are not used (i.e.,if a modified tier 1 or a tier 2 approach is adopted).
 Approaches to estimating SOC changes for a Tier 3 implementation are presented in step 5.
 As mentioned in the previous step, to estimate changes in soil organic carbon (SOC) stocks, conversion coefficients for land cover transitions are applied.
 The default conversion coefficients represent the proportional change in SOC stocks over a 20-year period following a land cover conversion.
@@ -1237,7 +1237,7 @@ It should be noted that since the reporting periods to the UNCCD are not a fixed
 The approach to adjusting the conversion coefficients is fully described in the [Addendum to the Good Practice Guidance](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land).
 
 If the default UNCCD data are used, then table SO1-3.T1 is automatically pre-filled with estimates of SOC (in tonnes per hectare) in the topsoil for each of the seven default land cover classes for the reference, baseline and reporting periods.
-If Parties use alternative national data they should provide these values and also provide basic metadata (see Annex II) for the datasets to be used in the Data Sources form that opens when “Edit Data Sources” is selected.
+If Parties use alternative national data they should provide these values and also provide basic metadata (see {doc}`Annex II <annex_II>`) for the datasets to be used in the Data Sources form that opens when “Edit Data Sources” is selected.
 
 How to calculate the changes in SOC stock over the baseline period (2000 to 2015) and the reporting period (2016 to 2023), using the SOC reference values and the land use conversion coefficients is described in detail in the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) and the [Addendum to the Good Practice Guidance](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land), Section 3.
 
