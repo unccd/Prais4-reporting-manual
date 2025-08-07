@@ -1390,7 +1390,7 @@ The step-by-step procedure for reporting is described in the following. If Parti
 Related areas in the PRAIS 4 platform: table SO1-4.T1 and SO1-4.T2
 ```
 
-In order to calculate SDG indicator 15.3.1, the results of the degradation analysis for each of the subindicators are integrated using a One-Out All-Out (1OAO) method in which a significant reduction or negative change in any one of the three subindicators is considered to comprise land degradation. The result is a binary assessment where a land unit (pixel) is either degraded or not degraded (stable or improved).
+In order to calculate SDG indicator 15.3.1, the results of the degradation analysis for each of the subindicators are integrated using a One-Out All-Out (1OAO) method in which a significant reduction or negative change in any one of the three subindicators is considered to represent land degradation. The result is a binary assessment where a land unit (pixel) is either degraded or not degraded (stable or improved).
 
 The analysis of change in degradation involves first establishing a baseline of land degradation. The baseline sets the benchmark extent of land degradation against which progress towards achieving SDG target 15.3 and LDN is assessed in the reporting period.
 
@@ -1470,9 +1470,9 @@ Related areas in the PRAIS 4 platform: tables SO1-4.T4 and SO1-4.T5
 
 UNCCD encourages Parties to signal areas experiencing the most evident and dramatic change. These are defined as:
 
-- Hotspots: areas that are highly vulnerable to degradation in the absence of urgent remediation activities;
+- **Hotspots**: areas that are highly vulnerable to degradation in the absence of urgent remediation activities;
 
-- Brightspots: areas that do not exhibit any signs of degradation, or which have been remediated from a degraded state by implementing appropriate remediation activities or through land planning processes to prevent degradation.
+- **Brightspots**: areas that do not exhibit any signs of degradation, or which have been remediated from a degraded state by implementing appropriate remediation activities or through land planning processes to prevent degradation.
 
 In previous reporting countries have taken different approaches to identifying land degradation hotspots. These approaches include:
 
