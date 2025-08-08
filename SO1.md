@@ -491,7 +491,7 @@ Land cover data is used not only to report on SO 1-1, but also to stratify the i
 
 Parties should also note that if a custom land cover legend is reported in SO1-1, the same custom land cover classes can be used to report information on SO1-2 and SO1-3 indicators as well.
 
-The total land area declared under table CP-1.T1 drives the calculation of subsequent reporting elements across the SOs, which will be listed as dependent on table SO1-1.T1 in the respective section of this reporting manual. However, for reporting indicator SO1-1, the ‘Percent of total country area’ field in reporting table SO1-1.T7 is dependent on the total country area reported in table CP-1.T1.
+The total land area declared under table CP-1.T1 drives the calculation of subsequent reporting elements across the SOs, which will be listed as dependent on table CP-1.T1 in the respective section of this reporting manual. For reporting indicator SO1-1, the ‘Percent of total country area’ field in reporting table SO1-1.T7 is dependent on the total country area reported in table CP-1.T1.
 
 ### 1.1.5. Challenges
 
@@ -701,11 +701,11 @@ As recommended in the [Good Practice Guidance for SDG Indicator 15.3.1](https://
 
 However, for the purposes of UNCCD reporting, the five classes above are simplified into the following three classes:
 
-- z-score < -1.28 = degrading
+- z-score < -1.28 = potentially degrading
 - z-score $\ge$ -1.28 AND $\le$ 1.28 = stable
-- z-score > 1.28 = improving
+- z-score > 1.28 = potentially improving
 
-The pixels with the lowest negative z-score level (< –1.28) are considered degraded and other areas (stable and improving) are considered not degraded.
+Nonetheless, only the pixels with the lowest negative z-score level (< –1.96) are considered degraded and other areas (stable and improving) are considered not degraded.
 
 ##### Productivity State
 
@@ -741,11 +741,11 @@ Class definitions for the Z scores are as follows:
 
 Similar to the productivity Trend, the above-mentioned five classes are reduced to three when reporting data to UNCCD:
 
-- z-score < –1.28 = degrading
+- z-score < –1.28 = potentially degrading
 - z-score $\ge$ -1.28 AND $\le$ 1.28 = stable
-- z-score > 1.28 = improving
+- z-score > 1.28 = potentially improving
 
-For the purposes of calculating the land productivity sub-indicator, UNCCD recommends considering only the area of the lowest negative z-score level (< -1.96) as degraded. Areas in all other z-score classes should be considered as not degraded.
+Nonetheless, for the purposes of calculating the land productivity sub-indicator, UNCCD recommends considering only the area of the lowest negative z-score level (< -1.96) as degraded. Areas in all other z-score classes should be considered as not degraded.
 
 ##### Productivity Performance
 
