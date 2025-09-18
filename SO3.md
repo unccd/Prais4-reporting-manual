@@ -180,7 +180,7 @@ The highest drought intensity for the four-year periods should be mapped using t
 
 Parties should be aware of the limitations related to the use of SPI as a single drought indicator and critically review the default data vis-à-vis the national rain gauge data and other meteorological sources before submitting their national reports.
 
-#### Step 7: Save form and submit for review
+#### Step 7: Save form and make available for review
 
 Observed changes and their interpretation may be described in the comments fields associated with the reporting tables of the PRAIS 4 platform.
 
@@ -195,7 +195,7 @@ Default drought intensity maps or maps generated in Trends.Earth using national 
 
 Parties should note that the default four-year drought intensity maps are based on the same default data reported in SO3-1.T1. However, as explained in step 5, should a Party report national data and there are years missing, the summary maps can be produced using the available data that aligns best with the above four-year periods. Parties are also encouraged to submit narratives, by using the “General Comments” field, on the methodology, data sources, data accuracy and data gaps in the event that the estimates are derived from national data. It would also be beneficial to report on special cases and issues, describing situations where SPI values might be less reliable and providing the rationale for adoption of a different methodology.
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 3.1.4. Dependencies
 
@@ -233,7 +233,7 @@ Key actions for reporting drought hazard intensity values are as follows:
 
 6. **Verify the results**: aware of the limitations related to the use of the SPI or other drought indexes for estimating drought intensity, Parties should verify the suitability of such an index to describe drought occurrence and intensity in their countries before officially submitting estimates for UNCCD reporting.
 
-7. **Save form and submit for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved prior to review by the UNCCD.
+7. **Save form and make available for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for review by the UNCCD.
 
 ### 3.1.7. Additional Resources
 
@@ -346,7 +346,7 @@ In addition to the annual values of indicator SO 3-2 entered in the tables in st
 
 Parties should be aware of the limitations of using SPI as a drought indicator (see SO3-1 above) and critically review the results before submitting the reports to the UNCCD.
 
-#### Step 6: Save form and submit for review
+#### Step 6: Save form and make available for review
 
 Observed changes and their interpretation may be described in the comments fields associated with each table in the PRAIS 4 platform.
 
@@ -365,7 +365,7 @@ Parties that generate maps in Trends.Earth using national or alternative data re
 
 Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in the event that the estimates are derived from national data using the “General Comments” field. It would also be beneficial to report on special cases and issues, describing situations where values might be less reliable and providing the rationale for the adoption of a different methodology.
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 3.2.4. Dependencies
 
@@ -397,7 +397,7 @@ Key actions for reporting population exposure to drought hazard are as follows:
 
 5. **Verify the results**: aware of the limitations of the estimated values of drought exposure, Parties may verify the accuracy and reliability of such an indicator in their countries before officially submitting estimates for UNCCD reporting.
 
-6. **Save form and submit for review**: once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved prior to review by the UNCCD.
+6. **Save form and make available for review**: once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for review by the UNCCD.
 
 ### 3.2.7. Additional Resources
 
@@ -559,7 +559,7 @@ The DVI method has not yet been validated at the local or national scale and, as
 
 Moreover, the most vulnerable populations and underrepresented groups should be involved in the determination of the factors to be used to calculate the components, in order to develop a country-specific and more effective index.
 
-#### Step 6: Save form and submit for review
+#### Step 6: Save form and make available for review
 
 Information on the method used (selected tier and factors per component) should be reported using the dedicated comments field associated with the table SO3-3.T1 in the PRAIS 4 platform. Observed changes and their interpretation may also be described in this field.
 
@@ -570,7 +570,7 @@ Maps generated in Trends.Earth using national data under Tier 3 VA and represent
 
 Information on data sources, data accuracy and any weighting scheme applied to the vulnerability factors can be submitted using the “General Comments” field. It would also be beneficial to report on special cases and issues, describing situations where values might be less reliable and providing the rationale for inclusion of different factors.
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 3.3.4. Dependencies
 
@@ -605,4 +605,4 @@ Key actions for reporting population vulnerable to drought hazard are as follows
 
 5. **Verify the results**: aware of the fact that the DVI method has not yet been validated at the local or national scale, Parties should verify the appropriateness of the default factors and add relevant ones as needed before officially submitting estimates for UNCCD reporting.
 
-6. **Save form and submit for review**: once verified by the Parties, the data and supporting narrative for the period assessed should be marked as “In Review” and saved prior to review by the UNCCD.
+6. **Save form and make available for review**: once verified by the Parties, the data and supporting narrative for the period assessed should be marked as “In Review” and saved thereby making it available for review by the UNCCD.
