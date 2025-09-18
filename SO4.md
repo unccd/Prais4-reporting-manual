@@ -62,11 +62,11 @@ Countries are encouraged to identify and then rank drivers which directly or ind
 
 If the default data is used, no further verification is required, as the information has already been validated by national statistics offices through the SDG process and synchronized with PRAIS. Only in the case that alternative data has been used should its reliability be verified by national experts to detect and highlight situations where the confidence level of the obtained results might be low. This would qualitatively assess the reliability of the estimates based on expert knowledge and on a correct interpretation of the data.
 
-#### Step 4: Save form and submit for review
+#### Step 4: Save form and make available for review
 
 Parties have the option to use the ‘General Comments’ field to add any relevant information, or to report on specific country or regional situations.
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 4.2.4. Dependencies
 
@@ -90,7 +90,7 @@ Key actions for reporting on RLI are as follows:
 
 3. **Verify the results**: If customized RLI values are used, rather than the default data, then Parties should verify the accuracy and reliability of such indicators in their countries before officially submitting estimates for UNCCD reporting.
 
-4. **Save form and submit for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved prior to review by the UNCCD.
+4. **Save form and make available for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for review by the UNCCD.
 
 ### 4.2.7. Additional Resources
 
@@ -153,11 +153,11 @@ Parties are encouraged to provide comments on the interpretation of the indicato
 
 If the default data is used, no further verification is required, as the information has already been validated by national statistics offices through the SDG process and synchronized with PRAIS. Only in the case that alternative data has been used should its reliability be verified by national experts to detect and highlight situations where the confidence level of the obtained results might be low. This would qualitatively assess the reliability of the estimates based on expert knowledge and on a correct interpretation of the data.
 
-#### Step 4: Save form and submit for review
+#### Step 4: Save form and make available for review
 
 Parties have the option to include additional information in the ‘General Comments’ field to add any relevant information or to report on specific country or regional situations.
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 4.3.4. Dependencies
 
@@ -185,7 +185,7 @@ Key actions for reporting on KBA are as follows:
 
 3. **Verify the results**: If customized protected area coverage values are used, rather than the default data, then Parties should verify the accuracy and reliability of such indicators in their countries before officially submitting estimates for UNCCD reporting.
 
-4. **Save form and submit for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved prior to review by the UNCCD.
+4. **Save form and make available for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for review by the UNCCD.
 
 ### 4.3.7. Additional Resources
 
