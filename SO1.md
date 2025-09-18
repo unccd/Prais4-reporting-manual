@@ -1330,7 +1330,7 @@ In order to calculate SDG indicator 15.3.1, the results of the degradation analy
 
 The analysis of change in degradation involves first establishing a baseline of land degradation. The baseline sets the benchmark extent of land degradation against which progress towards achieving SDG target 15.3 and LDN is assessed in the reporting period.
 
-In practical terms, for the purposes of calculating SDG indicator 15.3.1, tracking change in the extent of degraded land is a four-step process:
+In practical terms, for the purposes of calculating SDG indicator 15.3.1, tracking change in the extent of degraded land is a four-stage process:
 
 1. **Baseline assessment**: In the Baseline Assessment, the results of the degradation analysis for each of the sub-indicators for the baseline period (2000-2015) are combined using the 1OAO method.
 The resulting baseline map shows areas that degraded, improved or remained stable during the baseline period, and enables the calculation of the baseline extent of degradation as a benchmark for measuring progress towards achieving SDG target 15.3.
@@ -1355,7 +1355,7 @@ _**Figure 4.** The “Status Matrix” is a 3 x 3 matrix to assess Status by com
 4. **Change Assessment**: The change in extent of degradation between the baseline and the reporting period is calculated as the difference between the total area of degraded land in and the most recent reporting period, and the baseline.
 It can be expressed as either the change in terms of absolute area or as the change in terms of the proportion of degraded area over the total land area (percentage).
 
-The results of the Status Assessment can be reported in table SO1-4.T1 which allows reporting of the area of changes in land condition between the baseline period and the reporting period to reflect the final land condition.
+The results of the Status Assessment can be reported in table SO1-4.T1.
 
 Parties may also provide information in the comments field after Table SO1-4.T1 on assumptions and procedures adopted in relation to completion of the status matrix.
 
