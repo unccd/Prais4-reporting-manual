@@ -342,11 +342,19 @@ Parties are encouraged to submit narratives in the Comments field associated wit
 
 In addition to the annual values of indicator SO 3-2 entered in the tables in step 3, drought exposure maps in four-year periods for the entire period are also to be produced externally and uploaded to PRAIS. These exposure maps give an indication of the number of people exposed to the highest intensity drought class over each four-year period for each grid cell. Four-year periods have been chosen to reduce the reporting burden and the quantity of data to be uploaded in PRAIS. See step 5 for indicator SO 3-1 for more detail on preparing the drought maps.
 
-#### Step 5: Verify the results
+#### Step 5: Report factors used to calculate DVI
+
+When national data is used to complete table SO3-3.T1, pParties should also report on the factors used in the calculation. Once any data is entered in table SO3-3.T1, a set of additional tables under the heading “Method” will be made available for completion.  For each of the social, economic and structural components, Parties should identify those factors used in the calculation of the DVI. Moreover, Parties should indicate for each factor used, if sex-disaggregated data was available and if calculations were made at a subnational level.  
+
+Once the tables have been completed, PRAIS will automatically determine and display the Tier level used in the assessment.    
+
+Parties should also provide an indication of how the DVI is changing over time, by selecting one of the options in table SO3-3.T2. Supporting information can be provided in the associated comments field. 
+
+#### Step 6: Verify the results
 
 Parties should be aware of the limitations of using SPI as a drought indicator (see SO3-1 above) and critically review the results before submitting the reports to the UNCCD.
 
-#### Step 6: Save form and make available for review
+#### Step 7: Save form and make available for review
 
 Observed changes and their interpretation may be described in the comments fields associated with each table in the PRAIS 4 platform.
 
@@ -395,9 +403,11 @@ Key actions for reporting population exposure to drought hazard are as follows:
 
 4. **Create drought exposure maps in four-year periods**: the gridded spatial summary for each four-year period provides information on the number of people exposed to the highest drought intensity class over each four-year period, from 2000 (or earliest year for which population data is available) to the reporting year, at the scale of the grid cell. These four-year periods should be consistent with the gridded spatial summaries reported at SO 3-1.
 
-5. **Verify the results**: aware of the limitations of the estimated values of drought exposure, Parties may verify the accuracy and reliability of such an indicator in their countries before officially submitting estimates for UNCCD reporting.
+5. **Report factors used to calculate DVI**: When national data is used to complete table SO3-3.T1, Parties should also report on the factors used in the calculation.
 
-6. **Save form and make available for review**: once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for review by the UNCCD.
+6. **Verify the results**: aware of the limitations of the estimated values of drought exposure, Parties may verify the accuracy and reliability of such an indicator in their countries before officially submitting estimates for UNCCD reporting.
+7. 
+8. **Save form and make available for review**: once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for review by the UNCCD.
 
 ### 3.2.7. Additional Resources
 
