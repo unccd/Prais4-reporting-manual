@@ -105,6 +105,12 @@ When reporting a new action or editing an existing one, the actions should be de
 
 Delineating voluntary targets and related actions currently under implementation can help track progress towards achieving LDN in a country by 2030, support the quantification of any remaining gaps and develop scenarios for closing those gaps. In addition, the UNCCD can use this spatial data to create information products to demonstrate the impact of the Convention and global progress towards LDN.
 
+#### Step 2. Save form and make available for review
+
+Parties have the option to include additional information in the ‘General Comments’ field to add any relevant information or to report on specific country or regional situations. 
+
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and saved. Once the UNCCD has completed its review and any review comments have been resolved by the Parties, the form can be marked as “Finalized” and saved. 
+
 ### 6.1.4. Dependencies
 
 Although there is no direct dependency between the voluntary targets and SO 1 indicators, it is expected that the results of the geospatial analyses for the estimation of the proportion of degraded land will inform the definition and spatial delineation of the voluntary targets and related projects and initiatives on the ground.
@@ -159,6 +165,10 @@ Complementary information may be reported in the “General Comments” field. T
 
 Furthermore, Parties are encouraged to outline the linkages with the SDGs, indicate opportunities to create leverage and synergies with their countries’ socio-economic, climate change and biodiversity agendas, and collaborate with other multilateral environmental agreements.
 
+#### Step 3. Save form and make available for review 
+
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and saved. Once the UNCCD has completed its review and any review comments have been resolved by the Parties, the form can be marked as “Finalized” and saved.
+
 ## 6.3. Additional Indicators
 
 ### 6.3.1. Introduction
@@ -178,6 +188,10 @@ While sex-disaggregated data related to exposure of population to land degradati
 Additional indicators can be added on the PRAIS 4 platform via a dedicated form (referred to as AI for brevity in PRAIS 4). The form can be found on the main banner of the PRAIS 4 platform after the SO5 tab. Parties may specify the name of the indicators, the associated SOs and their direction of change. They may also add an extra image representing a map or a chart visualizing the indicator. The type of image won’t be verified automatically by the PRAIS system. The images added will be displayed in the Appendices of the National Report with footnotes mentioning them in the Additional Indicators national report section. A brief description of the indicators, any images uploaded and other relevant information may be reported in the “Comments” field. Metadata describing the dataset used to calculate the additional indicator can be reported by filling out the metadata form provided in the table. One metadata form can be completed per additional indicator reported.
 
 Complementary information may be reported in the “General Comments” field.
+
+#### Step 2. Save form and make available for review 
+
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and saved. Once the UNCCD has completed its review and any review comments have been resolved by the Parties, the form can be marked as “Finalized” and saved.
 
 ## 6.4. Affected Areas
 
@@ -217,11 +231,11 @@ However, any uploaded geospatial information for affected areas will overwrite a
 
 For non-geospatial indicators (e.g., SO2-1, SO2-2, SO4-2 and SO 4-3), Parties may wish to assess the availability of sub-national information specific to the affected areas defined in Step 1, and report it in the forms provided.
 
-#### Step 4: Save forms and submit for review
+#### Step 4: Save forms and make available for review
 
 All forms and tables on the PRAIS 4 platform for reporting the affected areas should be filled in and supporting data and information provided, if desired, through the upload tools in PRAIS.
 
-Similar to the main national reporting sections, the completed and verified forms should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Similar to the main national reporting sections, the completed and verified forms should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 6.4.4. Challenges
 
@@ -243,4 +257,4 @@ Key actions for reporting on affected areas are as follows:
 
 3. **Calculation of affected area estimates for all indicators**: using the shapefile of the affected area produced in Step 2, Parties should calculate affected area estimates for all indicators ideally in Trends.Earth.
 
-4. **Save forms and submit for review**: After completion and verification, the forms should be marked “in review” and saved.
+4. **Save forms and make available for review**: After completion and verification, the forms should be marked “in review” and saved.
