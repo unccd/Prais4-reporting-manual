@@ -412,14 +412,13 @@ D) Improved communication – the platform should have a transparent review and 
 
 E) Flexibility – the platform should clearly outline the differentiated reporting obligations of Affected Country Parties and Developed Country Parties, while allowing countries the flexibility to adjust the indicators they report—for example, by choosing to report on optional indicators or on indicators generally considered not applicable to their country category.
 
-Once a reporting form has been completed and all the tables in that form have been completed, the Reporting Officer can submit the form for review by the secretariat.
-This will lock the form for further editing and allow the review process to begin.
-The review is carried out by the UNCCD secretariat, and is necessary to ensure that reported figures are consistent and that the proposed reporting methodology is applied correctly.
-When a form is submitted for review, its status in the platform is set to “In Review”.
-If during the review process the need for clarifications or amendments arises, the reviewers can insert feedback via comments and send back the form to the national reporting officer.
+Once a reporting form has been completed and all the tables in that form have been completed, the Reporting Officer can make the form  available for review by the secretariat.
+This will lock the form so that no further editing can take place and allow the review process to begin.
+The review is carried out by the UNCCD secretariat, and is necessary to ensure that reported figures are consistent and that the  reporting methodology is applied correctly.
+To make a form available for review, its status in the platform is set to “In Review”. If during the review process the need for clarifications or amendments arises, the reviewers can insert feedback via comments and send back the form to the national reporting officer.
 The national reporting officer is notified that the review process is completed and that a number of comments need to be addressed.
 The form will then be again set to “Open” mode and the reporting officer can modify the report accordingly and resubmit it for another review cycle.
-When no further clarifications or amendments are required the form is considered finalized and ready for the final submission to the secretariat.
+When no further clarifications or amendments are required, the form is considered finalized and ready for the final submission to the secretariat.
 
 Building on the lessons learned from the 2022 reporting process, a number of system validation rules have been implemented in PRAIS for 2026 reporting.
 These will appear as errors when users try to save the reporting form.
