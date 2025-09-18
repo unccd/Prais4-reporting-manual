@@ -556,9 +556,9 @@ National reporting is facilitated though the provision of default data derived f
 
 ### 1.2.2. Prerequisites for reporting
 
-- An in-depth reading of chapter 4 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) providing an overview on land productivity and detailing the methodology used to estimate land productivity changes;
-
-- Familiarity with Section 1 and Section 3 of the [Addendum to Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land): Proportion of land that is degraded over total land area (version 2);
+- An in-depth reading of Section 1 and Section 3 of the [Addendum to Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land): Proportion of land that is degraded over total land area (version 2), which details a number of methodological approaches to calculating land productivity changes;
+  
+- Familiarity with chapter 4 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) providing an overview on land productivity and detailing one methodology that may be used to estimate land productivity changes;
 
 - Data complying with the specifications listed in table 11 below;
 
