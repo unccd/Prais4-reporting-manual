@@ -556,7 +556,7 @@ A Tier 1 VA would result in one DVI at country-level for each year where data is
 
 #### Step 5: Report factors used to calculate DVI
 
-When national data is used to complete table SO3-3.T1, pParties should also report on the factors used in the calculation. Once any data is entered in table SO3-3.T1, a set of additional tables under the heading “Method” will be made available for completion.  For each of the social, economic and structural components, Parties should identify those factors used in the calculation of the DVI. Moreover, Parties should indicate for each factor used, if sex-disaggregated data was available and if calculations were made at a subnational level.  
+When national data is used to complete table SO3-3.T1, Parties should also report on the factors used in the calculation. Once any data is entered in table SO3-3.T1, a set of additional tables under the heading “Method” will be made available for completion.  For each of the social, economic and structural components, Parties should identify those factors used in the calculation of the DVI. Moreover, Parties should indicate for each factor used, if sex-disaggregated data was available and if calculations were made at a subnational level.  
 
 Once the tables have been completed, PRAIS will automatically determine and display the Tier level used in the assessment.    
 
