@@ -88,9 +88,9 @@ Optionally, Parties may include additional information in the General Comments f
 
 Parties are also encouraged to submit narratives via the General Comments field on the methodology, data sources and data accuracy in the event that the estimates are derived using national data. It would also be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale for the adoption of a different methodology.
 
-#### Step 5: Save form and submit for review
+#### Step 5: Save form and make available for review
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 2.1.4. Dependencies
 
@@ -114,7 +114,7 @@ Key actions for reporting on indicator SO 2-1 are as follows:
 
 4. **Verify the results**: If Gini index or national data are used, rather than the default data on Proportion of population below the international poverty line, then Parties should consult with national experts to qualitatively assess the reliability of the estimates. Default data on the Proportion of population below the international poverty line has already been validated by national authorities through the SDG process.
 
-5. **Save form and submit for review**: once verified by the Parties, the form should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+5. **Save form and make available for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for review by the UNCCD..
 
 ### 2.1.7. Additional Resources
 
@@ -199,9 +199,9 @@ If Parties enter their own national data, then its reliability requires inputs f
 
 It would also be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale for the adoption of a different methodology. Such information can be entered in the General Comments field.
 
-#### Step 4: Save form and submit for review
+#### Step 4: Save form and make available for review
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 2.2.4. Dependencies
 
@@ -223,7 +223,7 @@ Key actions for reporting on indicator SO 2-2 are as follows:
 
 3. **Verify the results**: If the default data is used this has already been validated by national statistics office through the SDG process, and synchronized with PRAIS. Therefore, it does not require additional verification by Parties. However, the use of alternative (non-default) national data sources requires input from national experts to qualitatively assess the reliability of the estimates based on expert knowledge.
 
-4. **Save form and submit for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved prior to review by the UNCCD.
+4. **Save form and make available for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for review by the UNCCD.
 
 ## 2.3. SO 2-3 – Trends in the Proportion of Population Exposed to Land Degradation Disaggregated by Sex
 
@@ -337,11 +337,11 @@ Parties are encouraged to submit narratives in the Comments field associated wit
 
 The reliability of the estimates require inputs from national experts to identify and highlight situations where the confidence level of the obtained results might be low.
 
-#### Step 6: Save form and submit for review
+#### Step 6: Save form and make available for review
 
 It would be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale for adoption of a different methodology. A “General comments” field is provided in the PRAIS 4 platform for this purpose.
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 2.3.4. Dependencies
 
@@ -378,8 +378,8 @@ Key actions for reporting on population exposure to land degradation are as foll
 
 5. **Verify the results**: the reliability of the estimates from alternative (non-default) data sources should be assessed in consultation with national experts.
 
-6. **Save form and submit for review**: once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved prior to review by the UNCCD.
-
+6. **Save form and make available for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for review by the UNCCD.
+   
 ### 2.3.7. Additional Resources
 
 - Public Release Statement on the WorldPop dataset production: <https://data.worldpop.org/repo/prj/Global_2015_2030/R2024B/doc/Global2_Release_Statement_R2024B_v1.pdf>
