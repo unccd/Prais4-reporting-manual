@@ -451,7 +451,7 @@ Parties are invited to provide background information, a commentary on how land 
 
 The remote-sensing interpretation of land cover changes varies greatly across the globe, strongly influenced by the prevailing climatic conditions and land management practices. This may affect the reliability of applying estimates from global data sources to local areas and require inputs from national experts to identify and highlight situations where the confidence level of the obtained results might be low. Therefore, Parties should identify any false positive and negative situations and report them in the SO 1-4 forms (SDG indicator 15.3.1). This input would contribute to a qualitative assessment of the reliability of the estimates.
 
-#### Step 8: Save form and submit for review
+#### Step 8: Save form and make available for review
 
 The PRAIS 4 platform enables the reporting of quantitative information on land cover, land cover changes and land cover degradation. In the absence of more accurate and detailed data at the national level, Parties may officially submit to UNCCD the default estimates. For estimates generated using national data, Parties should provide:
 
@@ -483,7 +483,7 @@ Default maps or maps generated in Trends.Earth using national data representing 
 
 Parties are also invited to submit narratives on methods and processes used and to report on special cases and issues using the ‘General Comments’ field.
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 1.1.4. Dependencies
 
@@ -529,7 +529,7 @@ Key actions for reporting on land cover changes are as follows:
 
 7. **Verify the results**: It is recommended that land cover and related land degradation estimates are verified by the concerned national authorities to assess the accuracy of the results and identify any false positive and negative situations which can be reported on in the SO 1-4 forms (SDG indicator 15.3.1).
 
-8. **Save form and submit for review**: Verify the accuracy of the quantitative information entered in the report and include the narrative information on methods and process used in the various comment fields provided. Then, the data and supporting narrative should be marked as “In Review” and saved prior to review by the UNCCD.
+8. **Save form and make available for review**: Verify the accuracy of the quantitative information entered in the report and include the narrative information on methods and process used in the various comment fields provided. Then, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for review by the UNCCD.
 
 ### 1.1.7. Additional Resources
 
@@ -943,7 +943,7 @@ Maps generated with default or national data on land productivity dynamics and l
 - Land productivity degradation in the baseline period
 - Land productivity degradation in the reporting period.
 
-Once the form has been completed and verified by the Parties, it should be saved and marked as “In Review”. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 1.2.4. Dependencies
 
@@ -1219,7 +1219,7 @@ They may then upload a file describing this analysis in more detail.
 Irrespective of the tier applied and the specific methods used, inputs from national experts are necessary to verify the results and detect and highlight situations where the confidence level of the obtained results might be low.
 This input would contribute to a qualitative assessment of the reliability of the estimates.
 
-#### Step 7: Save form and submit for review
+#### Step 7: Save form and make available for review
 
 Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in cases where the default data and approach are not used.
 This may be done via the Comments fields associated with the tables SO1-3.T1 and SO1-3.T2 or in the General Comments field provided at the end of the reporting form.
@@ -1236,7 +1236,7 @@ If Parties do not use the default values and choose to calculate the values base
 - SOC degradation in the baseline period (2000 to 2015)
 - SOC degradation in the reporting period (2016 to 2023)
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 1.3.4. Dependencies
 
@@ -1274,7 +1274,7 @@ If Parties adopt a Tier 1 approach or elements of a Tier 2 approach they should 
 
 6. **Verify the results:** It is recommended that SOC changes and related land degradation estimates are verified by the relevant national authorities to assess the accuracy of the results and identify any false positive and negative situations which can be reported on in the SO 1-4 forms (SDG indicator 15.3.1);
 
-7. **Save form and submit for review:** Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved prior to review by the UNCCD.
+7. **Save form and make available for review:** Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for  review by the UNCCD.
 
 ### 1.3.7. Additional Resources
 
@@ -1432,7 +1432,7 @@ In addition, the implementation of the 1OAO or alternative methods to assessing 
 Furthermore, the Parties should assess and justify the level of confidence in the assessment of the proportion of degraded land.
 Any declared false positives/negatives, hotspots and brightspots should also be carefully verified.
 
-#### Step 5. Save form and submit for review
+#### Step 5. Save form and make available for review
 
 Special or anomalous situations and noticeable issues related to the data interpretation that may affect the reliability of the reported values should be described in the narrative.
 A ‘General Comments’ field is provided at the end of the reporting form of the PRAIS 4 platform for this purpose.
@@ -1449,7 +1449,7 @@ Default maps or maps generated in Trends.Earth using national data representing 
 - Improvement brightspots (for countries that provide spatial data in the PRAIS 4 platform).
 
 Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved.
-Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 1.4.4. Dependencies
 
@@ -1471,7 +1471,7 @@ The extent of degradation in the reporting periods is calculated by summing (i) 
 
 4. **Verify the results**: It is recommended that the data, methods and analyses that led to the calculation of SDG indicator 15.3.1 are thoroughly verified by the concerned national authorities to assess the accuracy of the results and confirm any false positive and negative situations, as well as hotspots and brightspots reported;
 
-5. **Save form and submit for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved prior to review by the UNCCD.
+5. **Save form and make available for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for  review by the UNCCD.
 
 ### 1.4.6. Additional Resources
 
