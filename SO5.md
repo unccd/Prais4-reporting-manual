@@ -89,9 +89,9 @@ Reporting Parties are invited to offer any further comments and information deem
 
 Parties are requested to validate any default quantitative data from the Global Mechanism that has been used in the compilation of the forms. Experts should also verify the completeness and correctness of any qualitative or national data used to complete the reporting.
 
-#### Step 6: Save form and submit for review
+#### Step 6: Save form and make available for review
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 5.1.3 Challenges
 
@@ -141,9 +141,9 @@ Reporting country Parties are invited to offer any further comments and informat
 
 Parties are requested to validate any default quantitative data from the Global Mechanism that has been used in the compilation of the forms. Experts should also verify the completeness and correctness of any qualitative or national data used to complete the reporting.
 
-#### Step 6: Save form and submit for review
+#### Step 6: Save form and make available for review
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 5.2.4 Challenges
 
@@ -193,9 +193,9 @@ Reporting country Parties are invited to offer any further comments and informat
 
 Parties are requested to validate any default quantitative data from the Global Mechanism that has been used in the compilation of the forms. Experts should also verify the completeness and correctness of any qualitative or national data used to complete the reporting.
 
-#### Step 6: Save form and submit for review
+#### Step 6: Save form and make available for review
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 5.3.3 Challenges
 
@@ -253,9 +253,9 @@ Reporting country Parties are invited to offer any further comments and informat
 
 Experts should also verify completeness and correctness of any qualitative or national data used to complete the reporting.
 
-#### Step 6: Save form and submit for review
+#### Step 6: Save form and make available for review
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 5.4.4. Challenges
 
@@ -301,9 +301,9 @@ Reporting country Parties are invited to offer any further comments and informat
 
 Experts should verify the completeness and correctness of any qualitative or national data used to complete the reporting.
 
-#### Step 4: Save form and submit for review
+#### Step 4: Save form and make available for review
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 5.5.4. Challenges
 
