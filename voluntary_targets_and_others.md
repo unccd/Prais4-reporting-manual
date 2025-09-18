@@ -105,7 +105,7 @@ When reporting a new action or editing an existing one, the actions should be de
 
 Delineating voluntary targets and related actions currently under implementation can help track progress towards achieving LDN in a country by 2030, support the quantification of any remaining gaps and develop scenarios for closing those gaps. In addition, the UNCCD can use this spatial data to create information products to demonstrate the impact of the Convention and global progress towards LDN.
 
-#### Step 2. Save form and make available for review
+#### Step 3. Save form and make available for review
 
 Parties have the option to include additional information in the ‘General Comments’ field to add any relevant information or to report on specific country or regional situations. 
 
