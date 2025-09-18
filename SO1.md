@@ -572,7 +572,7 @@ The step-by-step procedure for reporting is described in the following. If the d
 
 Decide whether to stratify this indicator using the seven UNCCD land cover classes or a custom land cover legend, if such a legend was reported in SO1-1.T2, by answering the related opening question on the form.
 
-Note: if answering ‘Yes’, the subsequent tables will be dynamically updated with the custom land cover classes, replacing the default UNCCD seven classes.
+Note: if answering ‘Yes’, the subsequent tables will be dynamically updated with the names of the custom land cover classes, replacing the default UNCCD seven classes.
 
 #### Step 2: Select Earth observation dataset
 
@@ -580,7 +580,7 @@ UNCCD provides default data from the Trends.Earth LPD dataset. This LPD dataset 
 
 Two alternative data sets, the JRC LPD and the FAO-WOCAT LPD are available through Trends.Earth. Parties may evaluate and use these or other datasets, provided they meet the specifications listed in table 11 below. The [FAO WOCAT LPD Comparison App](https://wocatapps.users.earthengine.app/view/ldn-prais4) available through Google Earth Engine may be used by Parties for this purpose.  For example, during the 2022 reporting process Bhutan used this tool to compare a series of land productivity maps generated using EO data but varying algorithmic approaches. During a participatory workshop, participants examined the various maps and by pooling their expert knowledge and the outcomes of the analysis, they were able to choose a map which aligned most closely with the known situation in the country. This example is described in more detail in [The Land Story](https://www.unccd.int/resources/publications/land-story-country-experiences-reporting-land-degradation-and-drought) (UNCCD, 2024).
 
-Parties may also generate their own vegetation index time series and consequently LPD input datasets directly from satellite imagery. Two additional apps deployed in Google Earth Engine that may be used to visualise alternative LPD parameteriations are the [Real Time LPD App](https://apacheta.projects.earthengine.app/view/lpd-realtime) and [high-resolution version for SIDS](https://apacheta.projects.earthengine.app/view/lpd-realtime-sids).  Section 3.2 of the [Addendum](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land) to the Good Practice Guidance provides comprehensive information and guidance on the selection of LPD input datasets and LPD algorithms.
+Parties may also generate their own vegetation index time series and consequently LPD input datasets directly from satellite imagery. Two additional apps deployed in Google Earth Engine that may be used to visualise alternative LPD parameterizations are the [Real Time LPD App](https://apacheta.projects.earthengine.app/view/lpd-realtime) and [high-resolution version for SIDS](https://apacheta.projects.earthengine.app/view/lpd-realtime-sids).  Section 3.2 of the [Addendum](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land) to the Good Practice Guidance provides comprehensive information and guidance on the selection of LPD input datasets and LPD algorithms.
 
 {{pagebreak}}
 
@@ -607,8 +607,8 @@ widths: 4 5 5
 
     Gridded products resulting from the analysis and combination of the three metrics described in Step 5
   - Five classes of persistent land productivity trajectories and land productivity degradation gridded data
-  for the baseline period (2000–2015) and the reporting period (2008–2023)**\***
-  - Five classes of persistent land productivity trajectories and land productivity degradation gridded data for the baseline period (2000–2015) and the reporting period (2008–2023)**\***
+  for the baseline period (2000–2015) and the reporting period (2008–2023)
+  - Five classes of persistent land productivity trajectories and land productivity degradation gridded data for the baseline period (2000–2015) and the reporting period (2008–2023)
 * - __Classification__
   - Five classes of persistent land productivity trajectories and one class for areas without valid land productivity data:
 
@@ -639,7 +639,6 @@ widths: 4 5 5
   - Minimum metadata content as per the mandatory fields are listed in {doc}`Annex II <annex_II>`.
 ```
 
-*_Version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) recommends that productivity Trend is assessed over a period of 16 years for both the baseline and reporting periods. This provides a more consistent basis for the assessment of changes in the productivity Trend._
 
 #### Step 3:  Select a productivity index
 
@@ -655,15 +654,19 @@ Further indications on options to estimate the start and length of the growing s
 
 #### Step 5: Calculate land productivity metrics
 
-Estimating changes in productivity over time is based on the multi-temporal analysis of the annual productivity using three metrics:
+There are various approaches to determining changes in land productivity over time. Three algorithmic approaches are described in section 3.2.2 of the Addendum and these may be explored with various data sets using the apps deployed in Google Earth Engine, mentioned in step 2 above.  
+
+The Trends.Earth LPD algorithm is the one implemented on the default data available through PRAIS. It estimates changes in productivity over time based on the multi-temporal analysis of the annual productivity using three metrics:
 
 1. **Trend/Trajectory**: measures the trajectory of change in annual productivity over the long term per pixel;
 
 2. **State**: compares the current to historical annual productivity per pixel;
 
-3. **Performance**: indicates the level of local annual productivity over an area compared with other areas with a similar land productivity potential.
+3. **Performance**: evaluates local annual productivity over an area compared with other areas with a similar land productivity potential.
 
 The changes observed in each of the three metrics are combined to determine persistent land productivity trajectories represented in five classes (see table 13 below). They are also used to determine whether a pixel is degraded, improved or stable in the baseline and reporting periods (see Step 6).
+
+Instead of the z-score approach described in the UNCCD Good Practice Guidance, the implementation in Trends.Earth uses alternative statistical methods for calculating the “trend” and ‘state’ metrics, as described below.  These methods are less sensitive to outliers and annual fluctuations, providing more robust and interpretable results for national and global reporting 
 
 ##### Productivity Trend
 
