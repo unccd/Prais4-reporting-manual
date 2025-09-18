@@ -672,43 +672,7 @@ Instead of the z-score approach described in the UNCCD Good Practice Guidance, t
 
 To calculate the productivity Trend (also known as Trajectory), Parties should determine the trajectory of change in productivity over a 16-year time interval on a pixel level. The Trend metric is calculated over an interval of 16 years for both the baseline (2000–2015) and the reporting period (i.e. a 16-year period ending in the last year of data being reported (i.e. 2008–2023).
 
-The Trend metric is calculated by fitting a linear regression model to the time series and determining the significance of the trend slope by calculating its z-score (Box 3). Positive z-scores indicate a trend of increasing productivity, while negative scores indicate decreasing productivity. Z-scores reflect the magnitude of the slope, with scores of higher magnitude indicating greater strength of the ongoing process.
-
-````{admonition} Box 3. What is a z-score
----
-class: font-style-italic
----
-A z-score measures how many standard deviations above or below the mean a data point is. The formula for calculating a z-score is reported below, where ‘z’ is the z-score:
-
-  ```{rst-class} align-center
-  $z = \frac{data\ point - mean}{standard\ deviation}$
-  ```
-
-&nbsp;
-
-Important facts about z-scores:
-- A positive z-score indicates that the data point is above average.
-- A negative z-score indicates that the data point is below average.
-- A z-score close to 0 indicates that the data point is close to average.
-- A data point can be considered unusual if its z-score is above or below 3.
-
-````
-
-As recommended in the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land), z-score intervals may be set as follows:
-
-- z-score < -1.96 = degrading
-- z-score < -1.28 AND $\ge$ -1.96 = potentially degrading
-- z-score $\ge$ -1.28 AND $\le$ 1.28 = no significant change
-- z-score > 1.28 AND $\le$ 1.96 = potentially improving
-- z-score > 1.96 = improving
-
-However, for the purposes of UNCCD reporting, the five classes above are simplified into the following three classes:
-
-- z-score < -1.28 = potentially degrading
-- z-score $\ge$ -1.28 AND $\le$ 1.28 = stable
-- z-score > 1.28 = potentially improving
-
-Nonetheless, only the pixels with the lowest negative z-score level (< –1.96) are considered degraded and other areas (stable and improving) are considered not degraded.
+The Trend metric is calculated by fitting a linear regression model to the time series and determining the significance of the trend slope using a Mann-Kendall significance test. Trends with p ≤ 0.05 are considered significant, which if positive are considered potential improvement and if negative are considered potential degradation. Parties who wish to use this approach within Trends.Earth also have the option to apply corrections to account for climatic variability, especially rainfall.
 
 ##### Productivity State
 
@@ -716,39 +680,14 @@ Productivity State is determined by comparing the mean annual NPP of the three m
 
 While it is recommended to maintain a 13-year historical period and a 3-year recent comparison period for consistency and comparability, the length of the two periods can be parameterized in the Trends.Earth software to suit specific conditions.
 
-Parties should make the following calculations:
+The vegetation index values are then grouped into percentile classes to detect shifts in productivity: 
 
-```{list-table}
----
-header-rows: 1
----
-* - Baseline
-  - Reporting period
-* - A = Mean annual NPP 2013–2015
-  - A = Mean annual NPP of the 3 most recent years
-* - B = Mean annual NPP 2000–2012
-  - B = Mean annual NPP of the 13 preceding years
-* - C = Standard deviation 2000–2012
-  - C = Standard deviation of the 13 preceding years
-* - z-score = (A - B) / C
-  - z-score = (A - B) / C
-```
+- A drop of ≥2 classes between the baseline and the recent comparison period suggests potential degradation; 
 
-Class definitions for the Z scores are as follows:
+ - A rise of ≥2 classes between the baseline and the recent comparison period indicates potential improvement; 
 
-- z-score < -1.96 = degraded
-- z-score < -1.28 AND $\ge$ -1.96 = at risk of degrading
-- z-score $\ge$ -1.28 AND $\le$ 1.28 = no significant change
-- z-score > 1.28 AND $\le$ 1.96 = potentially improving
-- z-score > 1.96 = improving
+- Small changes reflect stability. 
 
-Similar to the productivity Trend, the above-mentioned five classes are reduced to three when reporting data to UNCCD:
-
-- z-score < –1.28 = potentially degrading
-- z-score $\ge$ -1.28 AND $\le$ 1.28 = stable
-- z-score > 1.28 = potentially improving
-
-Nonetheless, for the purposes of calculating the land productivity sub-indicator, UNCCD recommends considering only the area of the lowest negative z-score level (< -1.96) as degraded. Areas in all other z-score classes should be considered as not degraded.
 
 ##### Productivity Performance
 
@@ -756,14 +695,7 @@ In contrast to Trend and State, which are temporal metrics, productivity Perform
 
 [^4]: The calculation of productivity Performance is strongly dependent on the definition of the LCEU. Unlike the Trend and State metrics, which assess changes over time, Performance is a spatial comparison, and the results may change if the extent over which the analysis is conducted changes.
 
-Productivity Performance is calculated by comparing the mean annual productivity value per pixel with the maximum productivity index value observed within the same LCEU for a given assessment period. Pixels are considered degraded when their productivity potential is less than a half of the maximum value observed in a given LCEU. The maximum value is in turn defined as the 90th percentile of pixel values in the LCEU (NPP{sub}`max`)[^5]. Therefore, productivity Performance values close to 1 represent pixels in which productivity is close to the highest level for that land unit in that period.
-
-[^5]: To avoid possible overestimation of the maximum value due to the presence of outliers, it is recommended to use the 90th percentile of the productivity values within the land unit as the actual maximum vegetation index value (NPPmax).
-
-The resulting dataset would then include only two classes:
-
-- z-score < 0.5 NPP{sub}`max` = degrading
-- z-score $\ge$ 0.5 NPP{sub}`max` = improving
+Within each ecological unit, productivity values are ranked, and areas falling below 50% of their unit’s 90th percentile are flagged as potentially degraded. 
 
 The productivity Performance in the reporting period should be calculated from the mean of the annual productivity assessments over the previous 16 years up to the current year, i.e. 2008 to 2023, for the current reporting period.  
 
@@ -896,7 +828,7 @@ widths: 2 2 2 2 3 3
   - Stable
   - Stable
   - Degraded
-  - Stressed
+  - Stable but Stressed
   - Stable
 * - 11
   - Stable
@@ -996,7 +928,7 @@ A global scale study investigated if changes in trends in land productivity coul
 National parks and nature reserves may be expected to show increasing land productivity over time. However, the situation may often be more complex depending on the ecological   status and type of management practiced in each park. Therefore, it is crucial for experts to identify specific national protected areas where recovery is expected over the period covered by the LPD map. To support this verification, global datasets such as the World Database on Protected Areas (WDPA) can be used.
 ```
 
-#### Step 9: Save form and submit for review
+#### Step 9: Save form and make available for review
 
 Parties are also encouraged to submit narratives on the methodology, data sources and data accuracy in case the estimates are derived from national data. It would also be beneficial to report on special cases and issues, describing any deviation from the default method and providing the rationale for the adoption of a different methodology. A general comments field is provided at the end of the reporting form in the PRAIS 4 platform for this purpose.
 
@@ -1011,7 +943,7 @@ Maps generated with default or national data on land productivity dynamics and l
 - Land productivity degradation in the baseline period
 - Land productivity degradation in the reporting period.
 
-Once the form has been completed and verified by the Parties, it should be marked as “In Review” and then saved. Once the UNCCD has completed its review and all issues have been addressed, the form can be marked as “Finalized” and then Saved.
+Once the form has been completed and verified by the Parties, it should be saved and marked as “In Review”. Once the UNCCD has completed its review and all comments have been resolved, the form can be marked as “Finalized” and then Saved.
 
 ### 1.2.4. Dependencies
 
@@ -1026,6 +958,7 @@ Land productivity data relies on the land cover data reported under SO 1-1 to di
 
 **Analytical approach**
 
+- Even when the same input dataset is used, applying different algorithms can lead to varying results due to differences in methodology. Furthermore algorithm parameters can be fine-tuned meaning that even the same LPD algorithm applied to the same input dataset can produce different outputs depending on how it is parametrized. Countries are encouraged to explore these parameters in consultation with experts and stakeholders to ensure that the final results align with national knowledge and objectives. 
 - It is important to consider that applying a 16-year window for the reporting period of land productivity versus an 8-year window for land cover and SOC stock changes will likely increase the impact of productivity (compared to the other indicators) when they are combined to derive the SDG indicator 15.3.1.
 
 ### 1.2.6. Summary (main actions)
@@ -1039,7 +972,7 @@ Key actions for reporting on land productivity dynamics are as follows:
 5. **Calculate land productivity metrics**: For each pixel, estimate Trend (Trajectory), State and Performance metrics;
 6. **Combine productivity metrics to assess land productivity dynamics and therefore degradation in the baseline and reporting periods**: Using table 12 as a guide, combine the metrics to determine the land productivity dynamics (five classes of persistent land productivity trajectories) and the land productivity degradation status in the baseline and reporting period (three classes of degradation status). If national land productivity data is used, run the calculations in Trends.Earth and enter this information in the tables;
 7. **Verify the results**: It is recommended that land productivity and related land degradation estimates are verified by the concerned national authorities to assess the accuracy of the results and to identify any false positive and negative situations which can be reported on in the SO 1-4 forms (SDG indicator 15.3.1);
-8. **Save form and submit for review**: Once verified by the Parties, the data and supporting narrative for the reporting and baseline periods should be marked as “In Review” and saved prior to review by the UNCCD.
+8. **Save form and make available for review**: Once verified by the Parties, the data and supporting narrative for the reporting and baseline periods should be marked as “In Review” and saved thereby making it available for review by the UNCCD.
 
 ### 1.2.7. Additional Resources
 
