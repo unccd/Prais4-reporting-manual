@@ -4,15 +4,15 @@
 
 By its decision 7/COP.13, the Conference of the Parties (COP) to the United Nations Convention to Combat Desertification (UNCCD) adopted the UNCCD 2018–2030 Strategic Framework, containing (a) five strategic objectives (SOs) and (b) an implementation framework. The SOs are:  
 
-- SO 1: To improve the condition of affected ecosystems, combat desertification/land degradation, promote sustainable land management and contribute to land degradation neutrality;
+- SO1: To improve the condition of affected ecosystems, combat desertification/land degradation, promote sustainable land management and contribute to land degradation neutrality;
 
-- SO 2: To improve the living conditions of affected populations;  
+- SO2: To improve the living conditions of affected populations;  
 
-- SO 3: To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems;  
+- SO3: To mitigate, adapt to, and manage the effects of drought in order to enhance resilience of vulnerable populations and ecosystems;  
 
-- SO 4: To generate global environmental benefits through effective implementation of the UNCCD; and  
+- SO4: To generate global environmental benefits through effective implementation of the UNCCD; and  
 
-- SO 5: To mobilize substantial and additional financial and non-financial resources to support the implementation of the Convention by building effective partnerships at global and national level.  
+- SO5: To mobilize substantial and additional financial and non-financial resources to support the implementation of the Convention by building effective partnerships at global and national level.  
 
 The implementation framework (IF) defines the roles and responsibilities of Parties and Convention institutions in meeting the SOs.
 Based on a comprehensive review of the IF reporting forms after the 2022 reporting process, it will not be presented as a stand-alone section in the 2026 national reporting cycle.
