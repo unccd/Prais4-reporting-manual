@@ -425,7 +425,7 @@ These will appear as errors when users try to save the reporting form.
 Errors (arising from the application of system validation rules) appear on the forms to highlight any major discrepancies in reported data (see inter-tabular consistency paragraph below).
 The error message will help the user understand the issue and indicate to the user how to rectify the problem before being allowed to save the form.
 
-Inter-tabular consistency: The total country area and demographics, as presented in the country profile (CP-1.T1 and CP-1.T2), constitute the basis for reporting in many of the other reporting tables.
+Inter-tabular consistency: the total country area and demographics, as presented in the country profile (CP-1.T1 and CP-1.T2), constitute the basis for reporting in many of the other reporting tables.
 For inter-tabular consistency, the total country, land and water body area as well as total population must not be less than the corresponding area or population estimates in SO1, SO2-3, SO3-1 and SO3-2 tables.
 The system automatically prefills the total country, land and water body areas and national population in the country profile based on default data.
 If any reported degraded area, area under drought or populations exposed exceed the values reported in the country profile an error will appear since the percentage value reported cannot normally exceed 100%.
@@ -434,7 +434,7 @@ Having negative numbers in tables where only positive numbers are allowed or hav
 
 ## Process and schedule for the 2026 reporting process
 
-The deadlines for submission of national reports are tentatively set for November 2026 for reporting on SO 1, and February 2027 for the remaining SOs. The CRIC Bureau will monitor progress made throughout the 2026 reporting process to decide on adjustments to this timeline, if needed.
+The deadlines for submission of national reports are tentatively set for November 2026 for reporting on SO1, and February 2027 for the remaining SOs. The CRIC Bureau will monitor progress made throughout the 2026 reporting process to decide on adjustments to this timeline, if needed.
 
 Various measures will be taken by the secretariat to support Parties in preparing the national reports and providing high quality information:
 
@@ -469,7 +469,7 @@ The pre-filled data can be changed by clicking on the ‘National Data’ switch
 However, it is important to ensure consistency with the land cover data and the SDG indicator 15.3.1 estimates.
 Parties should note that the total country area is auto-calculated in PRAIS from the addition of the total land area and water bodies and is therefore not an editable field.
 
-Any changes to the default estimates are to be justified in the ‘Comments’ column.
+Any changes to the default estimates are to be justified in the ‘Comments’ column or ´Comments´ field below the table.
 
 ### Demographics
 
