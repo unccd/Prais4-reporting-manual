@@ -39,7 +39,7 @@ In a nutshell, national reporting puts data and information on land to good use.
 The UNCCD indicator and monitoring framework has a hierarchical structure that makes it possible to distinguish what to measure (progress indicators) and how it should be measured (metrics/proxies).  
 
 Indicators used for reporting on progress towards the SOs are those adopted by Parties in decision 7/COP.13, 9/COP.13, 11/COP.14 and 4/COP.16.
-Table 1 through table 5 below contain an overview of the indicators, their related metrics/proxies, the decisions in which they have been adopted, and the reporting attributions (i.e., whether the indicators are required or optional for reporting by affected and developed country Parties).
+Table 1 through Table 5 below contain an overview of the indicators, their related metrics/proxies, the decisions in which they have been adopted, and the reporting attributions (i.e., whether the indicators are required or optional for reporting by affected and developed country Parties).
 While some indicators are marked as not applicable for developed country Parties, each developed country Party may choose whether to report on them or not.
 If a developed country Party decides to report on an indicator marked as not applicable, it can do so by changing the indicator form’s status from 'not applicable' to 'open' in PRAIS.
 
@@ -248,8 +248,8 @@ For the 2026 reporting process, the performance review and assessment of impleme
 - The Overview tab allows each Party to monitor the status of all their SO and indicators, and to track progress in completing the national report. By default, forms are labelled as either “open” or “not applicable”.
 If a Party wishes to report on an indicator marked as “not applicable” they can simply change the form status to “open” and enter the required information.
 Once a form is ready for quality assurance, the Party should change its status to “in review” to notify the secretariat.
-The review process is iterative: after addressing any issues raised during the review, the Party should resubmit the form by setting it to “in review” again.
-Once the Secretariat approves the form, its status should be updated to “Finalized” prior to the formal submission of the overall report;
+The review process is iterative: after resolving any comments posted during the review, the Party should resubmit the form by setting it to “in review” again.
+Once the Secretariat approves the form, its status should be updated to “Finalized” prior to the formal submission of SO1 and/or the overall report;
 
 - A specific tab entitled CP to capture Country Profile information including land area and population;
 
@@ -257,7 +257,7 @@ Once the Secretariat approves the form, its status should be updated to “Final
 
 - Parties can now stratify the land productivity and soil organic carbon stock indicators using custom/national land cover classes as an alternative to the default UNCCD seven land cover classes;
 
-- The SO 1 forms now also support the reporting of land improvement, in addition to land degradation, providing valuable insights in the context of achieving LDN;
+- The SO1 forms now also support the reporting of land improvement, in addition to land degradation, providing valuable insights in the context of achieving LDN;
 
 - Data on SDG indicators — excluding SDG indicator 15.3.1 — have been imported from the SDG Global Database as default data and synchronized with PRAIS to reduce the reporting burden and avoid duplication of data validation efforts;
 
@@ -313,7 +313,7 @@ The UN Clear Map Data has been prepared by the United Nations Geospatial Informa
 
 For cartographic representation and preparation of the default data, PRAIS uses the international boundaries of countries taken from the United Nations Map 0 geodata which is suitable for 1:1 million scale representation and serves global mapping purposes as opposed to local mapping.
 Countries can opt to use an alternative country border by uploading the polygon directly to the PRAIS spatial data viewer.
-However, should Parties opt to use an alternative country boundary layer, they are encouraged to engage with the Second Administrative Level Boundaries ([SALB](https://salb.un.org/)) programme of the Geospatial Information Section & Statistics Division when opting to use their own boundary.
+However, should Parties opt to use an alternative country boundary layer, they are encouraged to engage with the Second Administrative Level Boundaries ([SALB](https://salb.un.org/)) programme of the Geospatial Information Section & Statistics Division.
 The programme’s objective is to promote accessible, interoperable and global data and information on subnational units and boundaries.
 Participation in the programme will ensure Member States of the United Nations will avail of a global repository of authoritative information and geospatial data about the administrative unit structure of countries down to the second subnational level, and through time.
 Parties should engage with the SALB program directly by sending an email to <salb@un.org>.
@@ -353,7 +353,7 @@ It is important to note that most of the default datasets have been licensed by 
 
 ## Reporting frequency
 
-By its decision 15/COP.13, the COP approved a four-year frequency for national reporting (table 6).
+By its decision 15/COP.13, the COP approved a four-year frequency for national reporting (Table 6).
 
 During the 2018 reporting process, Parties reported data and information for the period 2000–2015, which serves as the baseline for SDG indicator 15.3.1 and its sub-indicators.
 After this initial reporting, Parties continue to report the status of land condition and the SDG indicator 15.3.1 every four years, thereby increasing the reporting periods in four-year increments.
@@ -393,7 +393,7 @@ align: center
 Advances in methodologies and data availability may require periodic recalculations of previously submitted national estimates.
 While recalculations may require refinements in terms of target-setting, they ensure the consistency of the time series and the comparability between the baseline and future monitoring data.
 
-For instance, given the evolution of the calculation methods presented in version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) and its addendum, it is recommended that previously submitted estimates of all SO 1 indicators, including SDG Indicator 15.3.1, be recalculated and included in the national report to be submitted in 2026.
+For instance, given the evolution of the calculation methods presented in version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) and its [Addendum](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land), it is recommended that previously submitted estimates of all SO1 indicators, including SDG Indicator 15.3.1, be recalculated and included in the national report to be submitted in 2026.
 Default national estimates provided through the PRAIS forms have already been recalculated for country Parties using the new calculation methods.
 
 For a broader discussion on the issue of recalculations, see chapter 6 of version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).
@@ -422,7 +422,7 @@ When no further clarifications or amendments are required, the form is considere
 
 Building on the lessons learned from the 2022 reporting process, a number of system validation rules have been implemented in PRAIS for 2026 reporting.
 These will appear as errors when users try to save the reporting form.
-Errors (arising from the application of system validation rules) appear on the forms to highlight any major discrepancies in reported data (see inter-tabular consistency section below).
+Errors (arising from the application of system validation rules) appear on the forms to highlight any major discrepancies in reported data (see inter-tabular consistency paragraph below).
 The error message will help the user understand the issue and indicate to the user how to rectify the problem before being allowed to save the form.
 
 Inter-tabular consistency: The total country area and demographics, as presented in the country profile (CP-1.T1 and CP-1.T2), constitute the basis for reporting in many of the other reporting tables.
