@@ -316,15 +316,15 @@ stub-columns: 1
 Land cover change processes are color coded as improvement ([green]{.bg-green}), stable ([yellow]{.bg-yellow}) or degradation ([purple]{.bg-purple}). Unlikely transitions are written in _italics_. Note that this is an example of a transition matrix and should not be interpreted as appropriate for countries to adopt without consideration of local conditions and key degradation processes.
 ```
 
-Depending on the land cover legend selected in Step 2, Parties will need to provide their interpretation of land cover transitions using tables SO1-1.T3 for (i) UNCCD default land cover classes; (ii) or national land cover classes.
+Depending on the land cover legend selected in Step 2, Parties will need to provide their interpretation of land cover transitions using table SO1-1.T3 for UNCCD default land cover classes or national land cover classes.
 
 Table SO1-1.T3 gives the option to provide one transition matrix covering the total land area of the country or up to five region specific transition matrices.
 This may be appropriate where a country has more than one ecoregion and transitions vary regionally.
 See Box 2 for an example of a country that took this approach in the 2022 reporting.
-If this option is chosen, Parties should give each added region a unique name and upload a vector file delineating the regional border.
+If this option is chosen, Parties should give each added region a unique name and upload a vector file delineating the regional boundary.
 The relevant land cover transitions for each region should then be defined.
 The combined land area for the region-specific transition matrices must sum to the total land area for the country.
-These calculations should be carried out external to PRAIS in Trends.Earth or another computing environment.
+These calculations should be carried out externally to PRAIS in Trends.Earth or another computing environment.
 
 The PRAIS 4 platform includes functions to modify the default transition matrix data and assign a ‘–’ or ‘+’ sign to each transition depending on whether it causes a degradation or improvement of the land according to national circumstances.
 However, if opting to modify the default transition matrix (i.e. table SO1-1.T3), the transition matrix should first be edited in Trends.Earth so that the reported transitions can be integrated into the calculations of the SO 1-1 outputs and SDG indicator 15.3.1.
@@ -359,9 +359,9 @@ UNCCD provides prefilled default land cover extent data in the PRAIS 4 platform 
 
 - global land cover derived from the latest ESA CCI-LC dataset.
 
-Parties opting to use an alternative source of national data may enter the relevant national annual values in table SO1-1.T4. Parties should click on the “National Data” button above the tables in order to edit the tables. Basic metadata, as outlined in Annex II, for the datasets to be used should be provided in the Data Sources form that opens when “Edit Data Sources” is selected.
+Parties opting to use an alternative source of national data may enter the relevant national annual values in table SO1-1.T4. Parties should click on the “National Data” button above the table in order to edit the table. Basic metadata, as outlined in Annex II, for the datasets to be used should be provided in the Data Sources form that opens when “Edit Data Sources” is selected.
 
-Two additional datasets are available at 30m spatial resolution and potentially useful for Small Island Developing States (SIDS) reporting:
+Two additional datasets are available at 30m spatial resolution and are potentially useful for Small Island Developing States (SIDS) reporting:
 
 - The Global Land Analysis and Discovery (GLAD) land cover (available for years 2000, 2005, 2010, 2015 and 2020)
 - The GLC_FCS30D land cover (available every five years from 1985 to 2000, then annually up to 2022)
@@ -370,7 +370,7 @@ To help SIDS select the most appropriate land cover map, the Land Cover Comparis
 
 However, Parties may report their estimates using alternative national land cover data if they meet the specifications listed in table 10.
 
-Parties should report the annual land cover extent (in km2) per land cover class for the initial and final years within the baseline and reporting periods in SO1-1.T4 as well as 2019 which is used in the SDG Indicator 15.3.1 2019 status assessment. Please note that due to the absence of default land cover data for the final year of the reporting period (2023) the closest available year (2022) is pre-filled instead.
+Parties should report the annual land cover extent (in km2) per land cover class for the initial and final years within the baseline and reporting periods in SO1-1.T4 as well as 2019 which is used in the SDG Indicator 15.3.1 2019 status assessment. Please note that due to the absence of default land cover data for the final year of the reporting period (2023) the closest available year (2022) is pre-filled in the 2023 row instead.
 
 [^3]: <https://apacheta.projects.earthengine.app/view/compare-lct-sids>
 
@@ -527,7 +527,7 @@ Key actions for reporting on land cover changes are as follows:
 
 6. **Estimate land cover degradation in the reporting period** using the selected data, legend and transition matrix for the reporting period and based on an assessment of change from the baseline. If national land cover data is used, run the calculations in Trends.Earth and enter this information in tables SO1-1.T6 and SO1-1.T7.
 
-7. **Verify the results**: It is recommended that land cover and related land degradation estimates are verified by the concerned national authorities to assess the accuracy of the results and identify any false positive and negative situations which can be reported on in the SO 1-4 forms (SDG indicator 15.3.1).
+7. **Verify the results**: It is recommended that land cover and related land degradation estimates are verified by the concerned national authorities to assess the accuracy of the results and identify any false positive and negative situations which can be reported in the SO 1-4 forms (SDG indicator 15.3.1).
 
 8. **Save form and make available for review**: Verify the accuracy of the quantitative information entered in the report and include the narrative information on methods and process used in the various comment fields provided. Then, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for review by the UNCCD.
 
