@@ -1292,7 +1292,7 @@ Land degradation is defined as ‘the reduction or loss of the biological or eco
 
 [^7]: Article 1 of the United Nations Convention to Combat Desertification.
 
-Using the three indicators SO 1-1, SO 1-2 and SO 1-3 (hereinafter referred to as subindicators), UNCCD reporting will estimate the proportion of land that is degraded over total land area, which is also SDG indicator 15.3.1 and the only indicator used to track progress towards target 15.3: ‘By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land-degradation neutral world’.
+Using the three indicators SO 1-1, SO 1-2 and SO 1-3 (hereinafter referred to as sub-indicators), UNCCD reporting will estimate the proportion of land that is degraded over total land area, which is also SDG indicator 15.3.1 and the only indicator used to track progress towards target 15.3: ‘By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land-degradation neutral world’.
 In line with decision 15/COP.13, the estimates of SDG indicator 15.3.1 contained in national reports will be submitted by the secretariat, in its capacity as the custodian agency for this indicator, to the United Nations Statistics Division for publication in the SDG Report and Global Database.
 
 Knowing the extent and location of degraded land is instrumental to achieving land degradation neutrality (LDN) at national level and supporting Parties in setting national voluntary targets.
@@ -1326,7 +1326,7 @@ The step-by-step procedure for reporting is described in the following. If Parti
 Related areas in the PRAIS 4 platform: table SO1-4.T1 and SO1-4.T2
 ```
 
-In order to calculate SDG indicator 15.3.1, the results of the degradation analysis for each of the subindicators are integrated using a One-Out All-Out (1OAO) method in which a significant reduction or negative change in any one of the three subindicators is considered to represent land degradation. The result is a binary assessment where a land unit (pixel) is either degraded or not degraded (stable or improved).
+In order to calculate SDG indicator 15.3.1, the results of the degradation analysis for each of the sub-indicators are integrated using a One-Out All-Out (1OAO) method in which a significant reduction or negative change in any one of the three sub-indicators is considered to represent land degradation. The result is a binary assessment where a land unit (pixel) is either degraded or not degraded (stable or improved).
 
 The analysis of change in degradation involves first establishing a baseline of land degradation. The baseline sets the benchmark extent of land degradation against which progress towards achieving SDG target 15.3 and LDN is assessed in the reporting period.
 
@@ -1389,14 +1389,14 @@ Therefore, in reporting Parties have the option to identify both of these types 
 
 In areas where a false positive or false negative degradation outcome is identified, Parties can use the PRAIS 4 spatial data viewer to provide further spatial detail in addition to the reporting fields in table SO1-4.T3. Spatial delineation of false positive and negative areas should only be carried out where countries are confident that they know the timing, location and extent of these counterintuitive processes. However, in reporting spatially, Parties can then opt to recalculate the outcomes of the 1OAO process through Trends.Earth and import the recalculated results. Without spatial delineation of the false positive and/or negative area, there will be no material impact on the reporting data.
 
-Reporting on false positive and negative extents using the PRAIS 4 platform requires filling in table SO1-4.T3. The PRAIS 4 spatial data viewer supports the filling in of this table with spatial information (in vector format). However, it remains an optional element and the table can still be filled in without the provision of spatial data. Information about the location of the sites, the areal extent of the site (auto-filled by the PRAIS 4 spatial data viewer, if used), the processes behind the false positive/false negative outcome and the basis for their judgement should be  reported in addition to the period when the false negative or false positive process started. For those Parties using the PRAIS 4 spatial data viewer to delineate the extents, an informative graphic can be used to interpret the percentage of the total area delineated that is degraded or improved per subindicator. This graphic chart should be used as a guide to understand what subindicator is driving the false positive or negative process being reported within the polygon extent provided.
+Reporting on false positive and negative extents using the PRAIS 4 platform requires table SO1-4.T3 to be filled in. The PRAIS 4 spatial data viewer supports the filling in of this table with spatial information (in vector format). However, it remains an optional element and the table can still be filled in without the provision of spatial data. Information about the location of the sites, the areal extent of the site (auto-filled by the PRAIS 4 spatial data viewer, if used), the processes behind the false positive/false negative outcome and the basis for their judgement should be  reported in addition to the period when the false negative or false positive process started. For those Parties using the PRAIS 4 spatial data viewer to delineate the extents, an informative graphic can be used to interpret the percentage of the total area delineated that is degraded or improved per sub-indicator. This graphic chart should be used as a guide to understand what sub-indicator is driving the false positive or negative process being reported within the polygon extent provided.
 
 For example, during the 2022 reporting cycle, Türkiye identified false positive cases where areas had been originally coded as improved.
 These were then recoded to degraded as they had in fact been converted to artificial surfaces.
 Some false negative areas were also highlighted as they had been marked as degraded, when in reality the land was improved due to afforestation.
 Türkiye’s land degradation analysis was based on a set of nationally generated data sets, and the analysis of false positives and negatives was carried out in a workshop where participants were able to use a decision support system to aid the analysis.
 Ultimately, discussions and interpretation made among the experts led to the results reported.
-Further details on this as well as other examples of the identification of false positives/negatives are described in The Land Story (UNCCD, 2024).
+Further details on this as well as other examples of the identification of false positives/negatives are described in The [Land Story (UNCCD, 2024)](<https://www.unccd.int/resources/publications/land-story-country-experiences-reporting-land-degradation-and-drought>).
 
 #### Step 3. Assess hotspots and brightspots
 
@@ -1462,8 +1462,8 @@ The ‘Area’ fields of the spatial tables SO1-4.T3,  SO1-4.T4 and SO1-4.T5 hav
 
 Key actions for reporting on the SDG indicator 15.3.1 are as follows:
 
-1. **Calculate the proportion of land that is degraded over total land area (SDG indicator 15.3.1)**: Using the 1OAO approach to combine the three subindicators, calculate the extent of degradation in the baseline period and in the two reporting periods (2019 and 2023 respectively).
-The extent of degradation in the reporting periods is calculated by summing (i) areas of land where changes in the subindicators are considered to indicate new degradation; and (ii) areas of land that have persisted in a degraded state since the baseline period (i.e. have not improved to a non-degraded state).
+1. **Calculate the proportion of land that is degraded over total land area (SDG indicator 15.3.1)**: Using the 1OAO approach to combine the three sub-indicators, calculate the extent of degradation in the baseline period and in the two reporting periods (2019 and 2023 respectively).
+The extent of degradation in the reporting periods is calculated by summing (i) areas of land where changes in the sub-indicators are considered to indicate new degradation; and (ii) areas of land that have persisted in a degraded state since the baseline period (i.e. have not improved to a non-degraded state).
 
 2. **Identify false positive and false negative processes** and provide the relevant justification to support their assessment. Where countries are confident in reporting the location and extent of these processes and in recalculating the 1OAO process for SDG indicator 15.3.1 with the identified areas accounted for, they should use the PRAIS 4 spatial data viewer to do so (table SO1-4.T3).
 
