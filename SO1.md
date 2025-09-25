@@ -1416,7 +1416,7 @@ In previous reporting countries have taken different approaches to identifying l
 - **Use of existing data and tools**: Countries use pre-identified polygons (e.g., from forest fire, mining, or overgrazing zones) and national degradation maps integrated into their Land Degradation Neutrality Decision Support System (LDN DSS).
 - **Convergence of evidence**: Some countries apply a multicriteria analysis in the LDN DSS, combining various indicators (e.g., erosion, salinization, biomass loss, NPP decline) to identify priority areas through evidence convergence.
 
-Brightspots are generally associated with areas where countries have implemented sustainable land management (SLM) practices, and actual improvements have been noted.
+Brightspots are generally associated with areas where countries have implemented sustainable land management (SLM) practices, and actual improvements on the ground have been noted.
 
 Knowledge about location and type of hotspots/brightspots may facilitate the development of plans of action to redress degradation, including through the conservation, rehabilitation, restoration and sustainable management of land resources.
 
@@ -1467,7 +1467,7 @@ The extent of degradation in the reporting periods is calculated by summing (i) 
 
 2. **Identify false positive and false negative processes** and provide the relevant justification to support their assessment. Where countries are confident in reporting the location and extent of these processes and in recalculating the 1OAO process for SDG indicator 15.3.1 with the identified areas accounted for, they should use the PRAIS 4 spatial data viewer to do so (table SO1-4.T3).
 
-3. **Assess hotspots of land degradation and brightspots of land improvement**, indicating their locations, extents, and actions taken and/or planned to manage them and ensure the sustainable development of the areas (tables SO1-4.T4 and SO1-4.T5). Countries are encouraged to report on hotspots and brightspots using the PRAIS 4 spatial data viewer.
+3. **Assess hotspots of land degradation and brightspots of land improvement**, indicating their locations, extents, and actions taken and/or planned to manage them and ensure the sustainable development of the areas (tables SO1-4.T4 and SO1-4.T5). Countries are encouraged to report spatially on hotspots and brightspots using the PRAIS 4 spatial data viewer.
 
 4. **Verify the results**: It is recommended that the data, methods and analyses that led to the calculation of SDG indicator 15.3.1 are thoroughly verified by the concerned national authorities to assess the accuracy of the results and confirm any false positive and negative situations, as well as hotspots and brightspots reported;
 
