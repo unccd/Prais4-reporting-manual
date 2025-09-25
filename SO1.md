@@ -654,7 +654,7 @@ Further indications on options to estimate the start and length of the growing s
 
 #### Step 5: Calculate land productivity metrics
 
-There are various approaches to determining changes in land productivity over time. Three algorithmic approaches are described in section 3.2.2 of the Addendum and these may be explored with various data sets using the apps deployed in Google Earth Engine, mentioned in step 2 above.  
+There are various approaches to determining changes in land productivity over time. Three algorithmic approaches are described in section 3.2.2 of the  [Addendum](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land) and these may be explored with various data sets using the apps deployed in Google Earth Engine, mentioned in step 2 above.  
 
 The Trends.Earth LPD algorithm is the one implemented on the default data available through PRAIS. It estimates changes in productivity over time based on the multi-temporal analysis of the annual productivity using three metrics:
 
@@ -666,7 +666,7 @@ The Trends.Earth LPD algorithm is the one implemented on the default data availa
 
 The changes observed in each of the three metrics are combined to determine persistent land productivity trajectories represented in five classes (see table 13 below). They are also used to determine whether a pixel is degraded, improved or stable in the baseline and reporting periods (see Step 6).
 
-Instead of the z-score approach described in the UNCCD Good Practice Guidance, the implementation in Trends.Earth uses alternative statistical methods for calculating the “trend” and ‘state’ metrics, as described below.  These methods are less sensitive to outliers and annual fluctuations, providing more robust and interpretable results for national and global reporting 
+Instead of the z-score approach described in the UNCCD Good Practice Guidance, the implementation in Trends.Earth uses alternative statistical methods for calculating the “trend” and “state” metrics, as described below.  These methods are less sensitive to outliers and annual fluctuations, providing more robust and interpretable results for national and global reporting 
 
 ##### Productivity Trend
 
