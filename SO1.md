@@ -566,11 +566,11 @@ National reporting is facilitated though the provision of default data derived f
 
 ### 1.2.3. Reporting process and step-by-step procedure
 
-The step-by-step procedure for reporting is described in the following. If the default data is used, steps 3 to 7 are unnecessary.
+The step-by-step procedure for reporting is described in the following. If the default data is used, steps 1 to 7 are unnecessary.
 
 #### Step 1: Select land cover legend to stratify land productivity
 
-Decide whether to stratify this indicator using the seven UNCCD land cover classes or a custom land cover legend, if such a legend was reported in SO1-1.T2, by answering the related opening question on the form.
+If a custom land cover legend was reported in SO1-1.T2, then there is an opening question on the form that Parties must answer. They should decide whether to stratify this indicator using the seven UNCCD land cover classes or the custom land cover legend used for SO1-1 reporting.  
 
 Note: if answering ‘Yes’, the subsequent tables will be dynamically updated with the names of the custom land cover classes, replacing the default UNCCD seven classes.
 
