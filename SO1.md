@@ -1396,7 +1396,7 @@ These were then recoded to degraded as they had in fact been converted to artifi
 Some false negative areas were also highlighted as they had been marked as degraded, when in reality the land was improved due to afforestation.
 Türkiye’s land degradation analysis was based on a set of nationally generated data sets, and the analysis of false positives and negatives was carried out in a workshop where participants were able to use a decision support system to aid the analysis.
 Ultimately, discussions and interpretation made among the experts led to the results reported.
-Further details on this as well as other examples of the identification of false positives/negatives are described in The [Land Story (UNCCD, 2024)](<https://www.unccd.int/resources/publications/land-story-country-experiences-reporting-land-degradation-and-drought>).
+Further details on this as well as other examples of the identification of false positives/negatives are described in [The Land Story (UNCCD, 2024)](<https://www.unccd.int/resources/publications/land-story-country-experiences-reporting-land-degradation-and-drought>).
 
 #### Step 3. Assess hotspots and brightspots
 
