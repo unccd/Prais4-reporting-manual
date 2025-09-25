@@ -1078,11 +1078,11 @@ Generally, it uses nationally derived land cover classes and data for baseline S
 
 Comprehensive guidance on the application of all the tiers is provided in chapter 5 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land).
 
-If Parties decide to use the default data (i.e., adopt the Tier 1 method), steps 2 to 5 are unnecessary.
+If Parties decide to use the default data (i.e., adopt the UNCCD modified Tier 1 method), steps 2 to 5 are unnecessary.
 
 #### Step 2: Establish SOC reference values
 
-This step is required if the UNCCD default data are not used (i.e., if a modified tier 1 or a tier 2 approach is adopted). SOC values should be established for the reference year 2000. The default reference map used in the reporting process is the ISRIC SoilGrids 250m carbon stock map, which estimates SOC stocks for the top 30 cm of soil. However, given the high uncertainty in ISRIC datasets where in-situ soil data are sparse, countries are encouraged to use alternative datasets, including global or national SOC maps, to improve accuracy. Countries which participate in the Global Soil Organic Carbon Map (GSOCmap) initiative of the Food and Agriculture Organization of the United Nations (FAO) may choose to use the national SOC maps developed through that process. Table 14 lists the specification regarding data requirements for indicator SO1-3.
+This step is required if the UNCCD default data are not used (i.e., if a user specific modified tier 1 or a tier 2 approach is adopted). SOC values should be established for the reference year 2000. The default reference map used in the reporting process is the ISRIC SoilGrids 250m carbon stock map, which estimates SOC stocks for the top 30 cm of soil. However, given the high uncertainty in ISRIC datasets where in-situ soil data are sparse, countries are encouraged to use alternative datasets, including global or national SOC maps, to improve accuracy. Countries which participate in the [Global Soil Organic Carbon Map (GSOCmap)](https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/global-soil-organic-carbon-map-gsocmap/en/) initiative of the Food and Agriculture Organization of the United Nations (FAO) may choose to use the national SOC maps developed through that process. Table 14 lists the specification regarding data requirements for indicator SO1-3.
 
 {{pagebreak}}
 
