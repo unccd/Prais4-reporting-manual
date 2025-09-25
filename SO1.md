@@ -1124,14 +1124,14 @@ widths: 2 4 4
 
 #### Step 3: Map land cover changes for SOC change estimation
 
-This step is required if the UNCCD default data are not used (i.e.,if a modified tier 1 or a tier 2 approach is adopted).
+This step is required if the UNCCD default data are not used (i.e.,if a user specific modified tier 1 or a tier 2 approach is adopted).
 Changes in SOC stocks over time are modeled using land cover conversion coefficients as proxies for land use, meaning that accurate identification of land cover transitions is essential for reliable results.
 
 For the default dataset used in SOC stock change estimation, seven land cover classes, adapted from the IPCC land use categories, are used.
 The information on the changes in land cover over time is derived from the ESA-CCI default land cover dataset.
 Default conversion coefficients are available allowing for estimation of SOC changes.
 Parties may decide to use a custom land cover legend.
-In this case they should answer “Yes” to the opening question on the form and the subsequent tables will be dynamically updated with the custom land cover classes, replacing the default UNCCD seven classes.
+In this case they should answer “Yes” to the opening question on the form and the subsequent tables will be dynamically updated with the custom land cover class names, replacing the default UNCCD seven classes.
 However, nationally determined conversion coefficients will be required.
 
 When possible, countries may prefer to use national land cover maps.
@@ -1145,7 +1145,7 @@ Further refinements can be achieved through subnational stratification, where co
 Related areas in the PRAIS 4 platform: table SO1-3.T2
 ```
 
-This step is required if the UNCCD default data are not used (i.e.,if a modified tier 1 or a tier 2 approach is adopted).
+This step is required if the UNCCD default data are not used (i.e.,if a user specific modified tier 1 or a tier 2 approach is adopted).
 Approaches to estimating SOC changes for a Tier 3 implementation are presented in step 5.
 As mentioned in the previous step, to estimate changes in soil organic carbon (SOC) stocks, conversion coefficients for land cover transitions are applied.
 The default conversion coefficients represent the proportional change in SOC stocks over a 20-year period following a land cover conversion.
@@ -1189,7 +1189,7 @@ Then, for SOC stocks, the method of determining the status of change will be def
 
 - **Degraded**: Reporting units with more than, for example, a 10 % average net reduction in SOC stocks between the beginning and end of the baseline period ( 2000 – 2015) and the beginning and end of the reporting period (2016 – 2023);
 
-- **Stable**: Reporting units with less than, for example, a 10 per cent average net reduction or net increase, or no change in SOC stocks between baseline and current observations;
+- **Stable**: Reporting units with less than, for example, a 10 % average net reduction or net increase, or no change in SOC stocks between baseline and current observations;
 
 - **Improved**: Reporting units with more than, for example, a 10 % average net increase in SOC stocks between the beginning and end of the baseline period (2000 – 2015) and the beginning and end of the reporting period (2016 – 2023).
 
@@ -1260,7 +1260,7 @@ Estimates of SOC stock per land cover class in SO1-3.T1 are dependent on the lan
 
 ### 1.3.6. Summary (main actions)
 
-If Parties adopt a Tier 1 approach or elements of a Tier 2 approach they should follow the main actions listed below. In case a Tier 3 process is implemented, they should follow the process as described in the Good Practice Guidance, but still ensure they follow steps 6 and 7 below.
+If Parties adopt their own Tier 1 approach or elements of a Tier 2 approach they should follow the main actions listed below. In case a Tier 3 process is implemented, they should follow the process as described in the Good Practice Guidance, but still ensure they follow steps 6 and 7 below.
 
 1. **Select tier for SOC assessment based on data availability:** Parties may opt for one of the three proposed Tier methods to report national data to UNCCD, depending on their technical capacity to estimate SOC stock changes and on the availability of national data;
 
