@@ -682,9 +682,9 @@ While it is recommended to maintain a 13-year historical period and a 3-year rec
 
 The vegetation index values are then grouped into percentile classes to detect shifts in productivity: 
 
-- A drop of ≥2 classes between the baseline and the recent comparison period suggests potential degradation; 
+- A drop of ≥2 classes between the historical period and the recent comparison period suggests potential degradation; 
 
- - A rise of ≥2 classes between the baseline and the recent comparison period indicates potential improvement; 
+ - A rise of ≥2 classes between the historical period and the recent comparison period indicates potential improvement; 
 
 - Small changes reflect stability. 
 
