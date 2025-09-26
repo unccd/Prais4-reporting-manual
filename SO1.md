@@ -525,7 +525,7 @@ Key actions for reporting on land cover changes are as follows:
 
 5. **Determine the baseline extent of land cover degradation** using the selected data, legend and transition matrix for the baseline period 2000–2015. If national land cover data is used, run the calculations in Trends.Earth and enter this information in tables SO1-1.T5 and SO1-1.T7.
 
-6. **Estimate land cover degradation in the reporting period** using the selected data, legend and transition matrix for the reporting period and based on an assessment of change from the baseline. If national land cover data is used, run the calculations in Trends.Earth and enter this information in tables SO1-1.T6 and SO1-1.T7.
+6. **Estimate land cover degradation in the reporting period** using the selected data, legend and transition matrix for the reporting period. If national land cover data is used, run the calculations in Trends.Earth and enter this information in tables SO1-1.T6 and SO1-1.T7.
 
 7. **Verify the results**: It is recommended that land cover and related land degradation estimates are verified by the concerned national authorities to assess the accuracy of the results and identify any false positive and negative situations which can be reported in the SO 1-4 forms (SDG indicator 15.3.1).
 
