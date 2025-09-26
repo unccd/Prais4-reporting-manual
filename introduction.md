@@ -320,7 +320,7 @@ Parties should engage with the SALB program directly by sending an email to <sal
 
 Careful consideration should be given to the use of an alternative national border in that it must be consistent with the total land area reported under SO 1-1. Otherwise, discrepancies may arise in the reporting data derived from geospatial analysis using that border.
 
-[^3]: The United Nations Geospatial Data, or Geodata, is a worldwide geospatial dataset of the United Nations. The United Nations Geodata is provided to facilitate the preparation of cartographic materials in the United Nations includes geometry, attributes and labels to facilitate the adequate depiction and naming of geographic features for the preparation of maps in accordance with United Nations policies and practices. Clear Map is accessble here: <https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887>.
+[^3]: The United Nations Geospatial Data, or Geodata, is a worldwide geospatial dataset of the United Nations. The United Nations Geodata is provided to facilitate the preparation of cartographic materials in the United Nations includes geometry, attributes and labels to facilitate the adequate depiction and naming of geographic features for the preparation of maps in accordance with United Nations policies and practices. Clear Map is accessible here: <https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887>.
 
 ## Open data sharing
 
