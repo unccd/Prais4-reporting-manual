@@ -40,7 +40,7 @@ The alternative dataset available via Trends.Earth is the Climate Hazards Group 
 
 The decision tree in figure 5 can help Parties to decide which data set and approach is most appropriate to support reporting for their national situation.
 
-_**Figure 5.** Decision tree to help Parties chose the best precipitation data source to derive indicator SO 3-1_
+_**Figure 5.** Decision tree to help Parties chose the best precipitation or drought index data source to derive indicator SO 3-1_
 
 ![](/img/fig5.png)
 
