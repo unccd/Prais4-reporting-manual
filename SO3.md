@@ -443,7 +443,7 @@ The vulnerability factors (listed in figure 7) recommended by the UNCCD to deriv
 
 These were selected because they were identified by experts as critical to understanding vulnerability and due to their use for other reporting requirements such as SO 2 and the Sustainable Development Goals.
 
-_**Figure 7.** Social, economic, and infrastructural components and their associated factors recommended for calculating the Drought Vulnerability Index_
+_**Figure 7.** Social, economic, and infrastructural components and their associated factors recommended for calculating the Drought Vulnerability Index. Core factors are highlighted in the dark green boxes_
 
 ![](/img/fig7.png)
 
