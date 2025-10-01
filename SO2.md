@@ -6,7 +6,7 @@
 
 Indicator SO 2-1 estimates the living standard of populations in monetary terms.
 
-Two metrics may be used for this purpose and Parties should specify which of the two metrics to report:
+Two metrics may be used for this purpose and Parties should specify which one is to be used for reporting:
 
 - Proportion of the population below the international poverty line, or
 
@@ -114,7 +114,7 @@ Key actions for reporting on indicator SO 2-1 are as follows:
 
 4. **Verify the results**: If Gini index or national data are used, rather than the default data on Proportion of population below the international poverty line, then Parties should consult with national experts to qualitatively assess the reliability of the estimates. Default data on the Proportion of population below the international poverty line has already been validated by national authorities through the SDG process.
 
-5. **Save form and make available for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for review by the UNCCD..
+5. **Save form and make available for review**: Once verified by the Parties, the data and supporting narrative should be marked as “In Review” and saved thereby making it available for review by the UNCCD.
 
 ### 2.1.7. Additional Resources
 
@@ -233,7 +233,7 @@ Indicator SO 2-3 was developed in response to decision 11/COP.14 to align the re
 
 The indicator estimates the proportion of populations exposed to land degradation, disaggregated by sex, as a first step towards addressing the gender data gap on land degradation within the UNCCD reporting framework. The methodology uses the spatial distribution of the population or sub-population group (i.e., by sex) to establish its exposure to land degradation, as determined by indicator SO 1-4 (i.e., SDG Indicator 15.3.1).
 
-The indicator trends in the proportion of population exposed to land degradation, disaggregated by sex, uses the following three metrics:
+The indicator _trends in the proportion of population exposed to land degradation, disaggregated by sex, uses the following three metrics:
 
 - Percentage of the female population exposed to land degradation
 
@@ -241,12 +241,14 @@ The indicator trends in the proportion of population exposed to land degradation
 
 - Percentage of the total (female and male) population exposed to land degradation
 
-National reporting is facilitated though the provision of default data derived from the Worldpop global dataset on population distributions, demographics and dynamics and the default indicator SO 1-4 estimates. Therefore, indicator SO1-4 needs to be completed first before addressing this indicator.
+National reporting is facilitated though the provision of default data derived from the WorldPop global dataset on population distributions, demographics and dynamics and the default indicator SO 1-4 estimates. Therefore, indicator SO1-4 needs to be completed first before addressing this indicator.
 
 ### 2.3.2. Prerequisites for reporting
 
 - An in-depth reading of the methodological note on trends in population exposure to land degradation (SO2-3) (<https://www.unccd.int/sites/default/files/inline-files/MethodologicalNote_PopExposureToLD.pdf>).
 
+- Completion of reporting on indicator SO 1-4.
+  
 - Population data complying with the specifications listed in table 17.
 
 - A pool of national experts officially nominated by the national authorities to verify the suitability and consistency of the default data against the situation in their country, or to identify and compile data using national sources for the three metrics. Key institutions might include a country’s national statistical office, ministry of environment and ministry of agriculture, as well as universities and research centres.
@@ -382,5 +384,5 @@ Key actions for reporting on population exposure to land degradation are as foll
    
 ### 2.3.7. Additional Resources
 
-- Public Release Statement on the WorldPop dataset production: <https://data.worldpop.org/repo/prj/Global_2015_2030/R2024B/doc/Global2_Release_Statement_R2024B_v1.pdf>
+- Public Release Statement on the new WorldPop dataset (beta version) production: <https://data.worldpop.org/repo/prj/Global_2015_2030/R2024B/doc/Global2_Release_Statement_R2024B_v1.pdf>
 - Beta Test Our New Global Population Data – 2015 to 2030, WorldPop (<https://www.worldpop.org/blog/beta-test-our-new-global-population-data-2015-to-2030/>)
