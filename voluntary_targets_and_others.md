@@ -185,7 +185,7 @@ Countries are encouraged to identify complementary indicators for SOs 1 to 4 to 
 
 While sex-disaggregated data related to exposure of population to land degradation and drought are now collected through indicators SO 2-3 and SO 3-2, Parties are encouraged to identify further gender-responsive socio-economic and demographic indicators that may provide a better understanding of how and why specific populations are affected by land degradation and drought.
 
-Additional indicators can be added on the PRAIS 4 platform via a dedicated form (referred to as AI for brevity in PRAIS 4). The form can be found on the main banner of the PRAIS 4 platform after the SO5 tab. Parties may specify the name of the indicators, the associated SOs and their direction of change. They may also add an extra image representing a map or a chart visualizing the indicator. The type of image won’t be verified automatically by the PRAIS system. The images added will be displayed in the Appendices of the National Report with footnotes mentioning them in the Additional Indicators national report section. A brief description of the indicators, any images uploaded and other relevant information may be reported in the “Comments” field. Metadata describing the dataset used to calculate the additional indicator can be reported by filling out the metadata form provided in the table. One metadata form can be completed per additional indicator reported.
+Additional indicators can be added on the PRAIS 4 platform via a dedicated form (referred to as AI for brevity in PRAIS 4). The form can be found on the overview page or on the main banner of the PRAIS 4 platform after the SO5 tab. Parties may specify the name of the indicators, the associated SOs and their direction of change. They may also add additional information such as an image representing a map or a chart visualizing the indicator. The type of image won’t be verified automatically by the PRAIS system. The images added will be displayed in the Appendices of the National Report with footnotes mentioning them in the Additional Indicators national report section. A brief description of the indicators, any images uploaded and other relevant information may be reported in the “Comments” field. Metadata describing the dataset used to calculate the additional indicator can be reported by filling out the metadata form provided in the table. One metadata form can be completed per additional indicator reported.
 
 Complementary information may be reported in the “General Comments” field.
 
@@ -224,9 +224,9 @@ Digitization tools in any GIS software (e.g., ArcGIS, QGIS) could be used for th
 
 #### Step 3: Calculation of affected area estimates for all indicators
 
-Using the shapefile of the affected area produced in Step 2, Parties should calculate affected area estimates of all indicators for SOs 1 to 4.
+Using the geospatial data of the affected area produced in Step 2, Parties should calculate affected area estimates of all indicators for SOs 1 to 4.
 
-Trends.Earth can be used to run these calculations on the affected area defined. When calculating the indicators in Trends.Earth, Parties should upload the shapefile of the affected area produced in Step 2 and use it as the area of analysis. Parties should refer to the Trends.Earth documentation for further information on how to use their own area file in the calculations. Once the indicators have been calculated in Trends.Earth and are ready for packaging for upload to PRAIS, Parties should ensure that the checkbox indicating the results are for Affected Areas only is ticked in Trends.Earth. This will ensure that when the results are uploaded to the PRAIS platform the results will automatically populate the Affected Area forms.
+Trends.Earth can be used to run these calculations on the affected area defined. When calculating the indicators in Trends.Earth, Parties should upload the geospatial data of the affected area produced in Step 2 and use it as the area of analysis. Parties should refer to the Trends.Earth documentation for further information on how to use their own area file in the calculations. Once the indicators have been calculated in Trends.Earth and are ready for packaging for upload to PRAIS, Parties should ensure that the checkbox indicating the results are for Affected Areas only is ticked in Trends.Earth. This will ensure that when the results are uploaded to the PRAIS platform the results will automatically populate the Affected Area forms.
 However, any uploaded geospatial information for affected areas will overwrite any existing national data in PRAIS. Parties may also manually fill in the affected area forms with the required information.
 
 For non-geospatial indicators (e.g., SO2-1, SO2-2, SO4-2 and SO 4-3), Parties may wish to assess the availability of sub-national information specific to the affected areas defined in Step 1, and report it in the forms provided.
@@ -255,6 +255,6 @@ Key actions for reporting on affected areas are as follows:
 
 2. **Delineate affected areas**: Parties should spatially delineate the area that corresponds to the definition provided in Step 1 outside of the PRAIS platform.
 
-3. **Calculation of affected area estimates for all indicators**: using the shapefile of the affected area produced in Step 2, Parties should calculate affected area estimates for all indicators ideally in Trends.Earth.
+3. **Calculation of affected area estimates for all indicators**: using the spatial data of the affected area produced in Step 2, Parties should calculate affected area estimates for all indicators ideally in Trends.Earth.
 
 4. **Save forms and make available for review**: After completion and verification, the forms should be marked “in review” and saved.
