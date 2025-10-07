@@ -41,6 +41,8 @@ Sharing experience in:
 
 (iv) alternative livelihoods.
 
+For SO5 the focus of the implementation actions is on: 
+
 #### c) Financial and non-financial resources
 
 Sharing experiences in:
@@ -55,7 +57,7 @@ Sharing experiences in:
 
 Reporting on the implementation framework is generally in a tabular and narrative format, and is voluntary.
 
-A specific reporting template (SOx-IF) can be found as the final element for each of the SOs in the PRAIS 4 platform and includes one or more of the applicable sections.
+A specific reporting template (SOx-IF) can be found as the final element for each of the SOs in the overview page or within the separate SO tabs on the PRAIS 4 platform and includes one or more of the applicable sections.
 
 The template poses a series of high-level questions to which the Parties can answer “Yes/No”. If the answer is “Yes”, then the Parties have the opportunity to provide additional information on each topic detailing the country's experience. This additional information can be provided by filling in the tables, containing a combination of selections from drop-down menus and free descriptive text.
 
@@ -148,7 +150,7 @@ Parties may indicate to which policy areas the synergies apply. These policy are
 
 ## 7.3. Action on the ground
 
-This is a critical element of reporting within the implementation framework. Its aim is to demonstrate real-world impact, identify successful strategies, and enable the sharing of experience and lessons across countries.
+This is a critical element of reporting within the implementation framework. Its aim is to demonstrate real-world impact, identify successful strategies, and enable the sharing of experience and lessons across countries. Parties are encouraged to answer questions related to the following four main topics. Not all SOs address all of these topics.
 
 ### 7.3.1. Sustainable land management practices
 
@@ -234,7 +236,7 @@ Furthermore, Parties may describe any support provided to another country to dev
 
 ## 7.4. Financial and non-financial resources
 
-Parties are encouraged to answer questions related to the following three main topics
+Parties are encouraged to answer questions related to the following three main topics relevant to SO5: 
 
 ### 7.4.1. Resource mobilization strategy
 
@@ -271,7 +273,7 @@ Relevant to SO5
 Information on the reporting process for SO-5 helps to ensure understanding, clarity and transparency, in relation to implementing the Convention.
 It allows Parties to share how they organise, coordinate and validate their national reporting process as well as reflect on lessons learned and challenges.
 
-Therefore, Parties are asked to offer information on national circumstances and institutional arrangements relevant to the reporting process on Strategic Objective 5 and its progress indicators.
+Therefore, Parties are asked to offer information on national circumstances and institutional arrangements relevant to the reporting process on SO5 and its progress indicators.
 To this effect, a table for reporting qualitative information is provided.
 Details on the national entities involved in the reporting process can be provided using both the drop-down menus and the narrative fields.
 In particular the role of the entities involved should be described as comprehensively as possible.
