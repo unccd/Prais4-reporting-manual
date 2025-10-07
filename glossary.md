@@ -991,8 +991,6 @@ UNCCD National Action Programmes (NAPs)
 Vector data
     A representation of the world using points, lines and polygons. Vector models are useful for storing data that has discrete boundaries, such as country borders, land parcels and streets.
 
-    _(Source: <https://support.esri.com/en/other-resources/gis-dictionary/term/vector%20data%20model>)_
-
 Vegetation Index
     Vegetation indices (VIs) are spectral transformations of two or more bands designed to enhance the contribution of vegetation properties and allow reliable spatial and temporal inter-comparisons of terrestrial photosynthetic activity and canopy structural variations.
     NDVI and EVI are two well know vegetation indices.
