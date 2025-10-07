@@ -53,7 +53,7 @@ Either of these options will ensure national data can be legally, confidently, a
 
 However, licences with the SA constraint are NOT recommended as it makes reuse of the national report more complicated due to the need for licence stacking - combining multiple licenses with different and sometimes conflicting use conditions. For example, the secretariat will not be able to use national reports licensed with NC-SA or SA in the regional and global aggregate statistics and maps that are licensed with the BY-NC.
 
-For these reasons, Parties that license data with SA must grant the secretariat explicit permission on the USL form to use that data in regional and global aggregates. Alternatively, if none of the Creative Commons licenses are appropriate, Parties can report a custom licence, but still must grant the secretariat explicit permission on the USL form to use that data in regional and global aggregates.
+For these reasons, Parties that license data with SA must grant the secretariat explicit permission on the User Specific Licence (USL) form to use that data in regional and global aggregates. Alternatively, if none of the Creative Commons licenses are appropriate, Parties can report a custom licence, but still must grant the secretariat explicit permission on the USL form to use that data in regional and global aggregates.
 
 ### 3.2 User Specific Licence (USL)
 
