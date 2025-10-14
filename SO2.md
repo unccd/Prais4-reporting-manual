@@ -386,4 +386,4 @@ Key actions for reporting on population exposure to land degradation are as foll
 ### 2.3.7. Additional Resources
 
 - A comprehensive discussion of the new WorldPop dataset can be found here: <https://www.linkedin.com/pulse/global-high-resolution-population-estimates-2015-2030-andy-tatem-yt5ve/>
-- Information on choosing the most appropriate WOrldPop dataset <https://www.worldpop.org/choosing-the-right-worldpop-population-data-for-you/>
+- Information on choosing the most appropriate WorldPop dataset: <https://www.worldpop.org/choosing-the-right-worldpop-population-data-for-you/>
