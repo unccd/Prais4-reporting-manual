@@ -548,22 +548,23 @@ msgstr "2.2.3.报告流程和分步程序"
 msgid "Step 1: Identify the relevant dataset"
 msgstr "第1步：确定相关数据集"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:150
-#, fuzzy
 msgid ""
 "Default data for this indicator is pre-filled from the SDG database (SDG "
 "indicator 6.1.1); estimates of the proportion of population using improved "
 "drinking water services are regularly produced by the WHO/UNICEF JMP. If "
 "used, this data does not require further validation by the Party."
 msgstr ""
-"该指标的默认数据是根据可持续发展目标数据库（可持续发展目标指标6.1.1）预先填充的；使用经改善的饮用水服务的人口比例估计数是由世卫组织/儿基会联合监测方案（JMP）定期编制的。"
+"该指标的默认数据由可持续发展目标数据库（可持续发展目标指标 "
+"6.1.1）预先填入；世卫组织/儿童基金会联合管理计划定期编制使用改良饮用水服务的人口比例估计值。如果使用，该数据无需缔约方进一步验证。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:152
-#, fuzzy
 msgid ""
 "Parties may use national data instead, by clicking on the button above the "
 "table, provided it complies with the data specifications listed in table 16."
-msgstr "缔约方也可以使用国家数据，只要国家数据符合表16所列的数据规格。"
+msgstr "缔约方可点击表格上方的按钮，使用国家数据，但必须符合表 16 所列的数据规格。"
 
 #: ../../SO2.md:157
 msgid "*__Table 16__. Data specifications for SO 2-2 Indicator*"
@@ -606,8 +607,8 @@ msgstr "第2步：报告国家年度值并解释数据"
 msgid "Related areas in the PRAIS 4 platform: tables SO2-2.T1 and SO2-2.T2"
 msgstr "PRAIS 4平台中的相关区域：表SO2-2.T1和SO2-2.T2"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:186
-#, fuzzy
 msgid ""
 "Parties opting to use an alternative source of national data may enter the "
 "relevant data in table SO2-2.T1. They may do so by clicking on the “National"
@@ -617,10 +618,13 @@ msgid ""
 "information on the dominant change in the metric using the “Qualitative "
 "Assessment” table SO2-2.T2."
 msgstr ""
-"选择使用替代国家数据来源的缔约方可在表SO2-2.T1中输入相关数据。缔约方还可利用“定性评估”表SO2-2.T2提供关于该指标的主要变化的信息。"
+"选择使用其他国家数据来源的缔约方可在表 SO2-2.T1 中输入相关数据。缔约方可点击表上方的 \"国家数据 \"按钮。应在选择 \"编辑数据源 "
+"\"时打开的 \"数据源 \"表格中提供附件二所列的所用数据集的基本元数据。缔约方也可使用 \"定性评估 \"表 "
+"SO2-2.T2，提供有关指标主要变化的信息。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:188
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "To assist in the data interpretation, countries are encouraged to visualize "
 "their respective SDG Indicator 6.1.1 by means of a graph (graphs for each "
@@ -632,13 +636,13 @@ msgid ""
 "behind the observed changes and report this information in the Qualitative "
 "Assessment table."
 msgstr ""
-"为了帮助解释数据，鼓励各国以图表方式直观地展示各自的可持续发展目标指标6.1.1（每个国家的图表，代表每个分列，即% r农村人口、% u城市人口、% "
-"总人口，可从JMP和世界银行网站查看和下载）[^2]。虽然可能很难将具体的因果因素归结到指标的变化上，但各国可以指出观察到的变化背后可能有哪些直接和/或间接的驱动因素，并在定性评估表中报告这一信息。"
+"为帮助解释数据，鼓励各国通过图表将其各自的可持续发展目标指标 6.1.1 可视化（可从 JMP、世界银行和 \"我们的数据世界 "
+"\"网站上查看和下载各国的图表，代表每种分类，即农村人口百分比、城市人口百分比、总人口百分比）[^4]。虽然可能难以确定指标变化的具体因果因素，但各国可指出观察到的变化背后可能有哪些直接和/或间接的驱动因素，并在定性评估表中报告这些信息。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:192
-#, fuzzy
 msgid "Step 3: Verify the results"
-msgstr "第3步：验证结果"
+msgstr "步骤 3：验证结果"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:194
@@ -648,8 +652,8 @@ msgid ""
 "PRAIS. Therefore, it does not require additional verification."
 msgstr "如果缔约方使用所提供的默认数据，这些数据已经由国家统计局通过可持续发展目标进程进行了验证，并与PRAIS同步。因此，不需要额外的核实。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:196
-#, fuzzy
 msgid ""
 "Disaggregated data may be used by the Parties to calculate this metric "
 "(e.g., per administrative division, urban vs rural, affected areas or other "
@@ -658,10 +662,10 @@ msgid ""
 "may include additional information to describe specific country situations "
 "and provide more details on data interpretation."
 msgstr ""
-"该指标的分列数据（例如，每个行政区划、城市与农村、受影响地区或其他社会经济阶层，例如，按性别分列的数据）可能有助于确定最重要的热点/亮点所在的地方。另外，缔约方还可以包括补充信息，以描述具体国家的情况，并提供关于数据解释的更多细节。"
+"缔约方可使用分类数据来计算该指标（例如，按行政区划、城市与农村、受影响地区或其他社会经济阶层，例如，按性别分类的数据），因为这可能有助于确定最重要的地区位于何处。缔约方也可选择提供补充信息，说明具体国家的情况，并提供数据解释的更多细节。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:198
-#, fuzzy
 msgid ""
 "If Parties enter their own national data, then its reliability requires "
 "inputs from national experts to detect and highlight situations where the "
@@ -671,18 +675,17 @@ msgid ""
 " with table SO2-2.T1 on the methodology, data sources and data accuracy in "
 "the event that the estimates are derived from national data."
 msgstr ""
-"来自全球数据源的估计数的可靠性需要国家专家的投入，才能发现和强调所获结果的置信度可能较低的情况。这种投入将有助于对估计数的可靠性进行定性评估。"
+"如果缔约方输入自己的国家数据，那么其可靠性就需要国家专家的投入，以发现并强调所获结果置信度可能较低的情况。这种输入将有助于对估计值的可靠性进行定性评估。如果估算值来自国家数据，鼓励缔约方在表"
+" SO2-2.T1 的相关评论栏中提交有关方法、数据来源和数据准确性的说明。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:200
-#, fuzzy
 msgid ""
 "It would also be beneficial to report on special cases and issues, "
 "describing any deviation from the default method and providing the rationale"
 " for the adoption of a different methodology. Such information can be "
 "entered in the General Comments field."
-msgstr ""
-"还鼓励缔约方在估计数来自国家数据的情况下，提交关于方法、数据来源和数据准确性的说明。报告特殊情况和问题也是有益的，能说明任何偏离默认方法的情况并提供采用不同方法的理由。为此，PRAIS"
-" 4平台提供了一个“一般性注释”栏。"
+msgstr "报告特殊情况和问题，说明任何偏离默认方法的情况，并提供采用不同方法的理由，也是有益的。此类信息可输入 \"一般评论 \"栏。"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:202
@@ -693,23 +696,25 @@ msgstr "第 4 步：保存表格并提供审查"
 msgid "2.2.4. Dependencies"
 msgstr "2.2.4. 依赖性"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:208
-#, fuzzy
 msgid ""
 "Indicator SO 2-2 has no dependencies from other SOs. However, it could be "
 "used, as one of the infrastructural components, in the calculation of the "
 "Drought Vulnerability Index (DVI) for indicator SO 3-3. See chapter 3 of "
 "this manual for more information."
-msgstr "指标SO 2-2与其他SO没有依赖关系，但可用于计算指标SO 3-3的干旱脆弱性指数（DVI）。"
+msgstr ""
+"指标 SO 2-2 与其他 SO 无关。不过，在计算指标 SO 3-3 的干旱脆弱性指数 (DVI) "
+"时，可将其作为基础设施组成部分之一。更多信息请参见本手册第 3 章。"
 
 #: ../../SO2.md:210
 msgid "2.2.5. Challenges"
 msgstr "2.2.5. 挑战"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:212 ../../SO2.md:359
-#, fuzzy
 msgid "Default data availability and quality"
-msgstr "数据可用性和质量"
+msgstr "默认数据的可用性和质量"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:214
@@ -737,12 +742,12 @@ msgid ""
 " default international data or alternative national sources."
 msgstr "**确定相关数据集**：缔约方可决定使用建议的默认国际数据或替代国家来源。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:222
-#, fuzzy
 msgid ""
 "**Report national annual values and interpret the data**: Parties are "
 "invited to report, visualize and interpret any national data used."
-msgstr "**报告国家年度值并解释数据**：请缔约方报告、展示和解释国家年度数据。"
+msgstr "**报告国家年度数值并解释数据**：请缔约方报告、直观显示和解释所使用的任何国家数据。"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:224
@@ -757,27 +762,27 @@ msgstr ""
 "**验证结果**：如果使用默认数据，则国家统计局已通过可持续发展目标流程对其进行验证，并与 PRAIS "
 "同步。因此，缔约方无需进行额外验证。但是，使用替代（非默认）国家数据源需要国家专家的投入，以便根据专家知识定性评估估计值的可靠性。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:228
-#, fuzzy
 msgid ""
 "2.3. SO 2-3 – Trends in the Proportion of Population Exposed to Land "
 "Degradation Disaggregated by Sex"
-msgstr "2.3. SO 2-3 – 受土地退化影响的人口比例趋势，按性别分列"
+msgstr "2.3.SO 2-3 - 按性别分列的受土地退化影响人口比例的变化趋势"
 
 #: ../../SO2.md:230
 msgid "2.3.1. Introduction"
 msgstr "2.3.1. 简介"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:232
-#, fuzzy
 msgid ""
 "Indicator SO 2-3 was developed in response to decision 11/COP.14 to align "
 "the reporting process for SO 1 to 5 with gender-responsive indicators and "
 "guidelines and ensure that the gender dimensions of land degradation are "
 "captured."
 msgstr ""
-"指标SO 3-2是根据第11/COP.14号决定编制的，目的是使SO "
-"1至5的报告过程与促进性别平等的指标和准则保持一致，并确保土地退化的性别层面得到体现。"
+"指标 SO 2-3 是根据第 11/COP.14 号决定制定的，目的是使 SO 1 至 5 "
+"的报告程序与促进性别平等的指标和指南相一致，并确保土地退化的性别层面得到反映。"
 
 #: ../../SO2.md:234
 msgid ""
@@ -791,12 +796,12 @@ msgstr ""
 "该指标按性别分列，估计受土地退化影响的人口比例，作为在《荒漠化公约》报告框架内解决土地退化方面性别数据差距的第一步。该方法利用人口或亚人口群体的空间分布(（即按性别）来确定其受土地退化影响的程度，如指标SO"
 " 1-4（即可持续发展目标指标15.3.1）所确定的那样。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:236
-#, fuzzy
 msgid ""
 "The indicator _trends in the proportion of population exposed to land "
 "degradation, disaggregated by sex, uses the following three metrics:"
-msgstr "按性别分列的受土地退化影响的人口比例趋势指标使用了以下衡量标准："
+msgstr "按性别分列的受土地退化影响的人口比例趋势指标采用以下三个衡量标准："
 
 #: ../../SO2.md:238
 msgid "Percentage of the female population exposed to land degradation"
@@ -812,8 +817,8 @@ msgid ""
 "degradation"
 msgstr "受土地退化影响的总人口（女性和男性）的百分比"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:244
-#, fuzzy
 msgid ""
 "National reporting is facilitated though the provision of default data "
 "derived from the WorldPop global dataset on population distributions, "
@@ -821,27 +826,29 @@ msgid ""
 "Therefore, indicator SO1-4 needs to be completed first before addressing "
 "this indicator."
 msgstr ""
-"通过提供源自全球人口与健康（WorldPop）全球数据集关于人口分布、人口统计和动态的默认数据以及默认指标SO 1-4估计数，为国家报告提供了便利。"
+"通过提供来自 WorldPop 全球人口分布、人口统计和动态数据集的默认数据以及默认指标 SO 1-4 "
+"估计值，可为国家报告提供便利。因此，在处理本指标之前，需要首先完成指标 SO1-4。"
 
 #: ../../SO2.md:246
 msgid "2.3.2. Prerequisites for reporting"
 msgstr "2.3.2.报告的先决条件"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:248
-#, fuzzy
 msgid ""
 "An in-depth reading of the methodological note on trends in population "
 "exposure to land degradation (SO2-3) "
 "(<https://www.unccd.int/sites/default/files/inline-"
 "files/MethodologicalNote_PopExposureToLD.pdf>)."
 msgstr ""
-"关于受土地退化影响的人口趋势的方法说明 (<https://www.unccd.int/sites/default/files/inline-"
-"files/MethodologicalNote_PopExposureToLD.pdf>)"
+"深入解读关于人口受土地退化影响趋势的方法说明(SO2-3) "
+"(<https://www.unccd.int/sites/default/files/inline-"
+"files/MethodologicalNote_PopExposureToLD.pdf>)。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:250
-#, fuzzy
 msgid "Completion of reporting on indicator SO 1-4."
-msgstr "报告指标SO 2-2时需采取的关键行动如下："
+msgstr "完成指标 SO 1-4 的报告。"
 
 #: ../../SO2.md:252
 msgid "Population data complying with the specifications listed in table 17."
@@ -872,8 +879,8 @@ msgstr "报告的分步程序在下文中描述。如果缔约方决定使用默
 msgid "Step 1: Select the population dataset"
 msgstr "第1步：选择人口数据集"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:262
-#, fuzzy
 msgid ""
 "The dataset to be chosen should cover the full extent of the country. The "
 "required format is a gridded count of the human population. If the initial "
@@ -885,8 +892,8 @@ msgid ""
 "the date timestamp should be at least one of the years within the baseline "
 "and reporting periods)."
 msgstr ""
-"用于计算指标SO "
-"2-3的合适数据是按性别分列的人口网格化计数，或覆盖全国范围的一套地理参照的次国家数据。它必须代表每个网格单元的男性和女性人数，最好是在有关时间段内每年计算一次（即，日期时间戳应至少是基线期和报告期内的其中一年）。"
+"所选数据集应覆盖全国。所需的格式是网格化的人口数量。如果初始数据采用其他格式（例如提供行政区域人口数量的地理参照矢量数据集），则需要在 PRAIS "
+"之外将其重新格式化为网格数据集。最终产品必须按性别分列，代表每个网格单元的男性和女性人数，并在相关时间段内具有代表性（即日期时间戳应至少是基线和报告期内的某一年）。"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:264
@@ -915,12 +922,12 @@ msgstr ""
 "io.earthengine.app/view/worldpop)，可以全面浏览数据集。如果认为这些数据集合适，缔约方可将其上传到Trends.Earth，计算相应的指标数据，并将结果导入PRAIS"
 " 4，以取代默认数据。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:266
-#, fuzzy
 msgid ""
 "Parties may also use alternative global population data sets or national "
 "data, provided they comply with the data specifications listed in table 17."
-msgstr "缔约方也可以使用国家数据，只要国家数据符合表17所列的数据规格。"
+msgstr "缔约方也可使用其他全球人口数据集或国家数据，但必须符合表 17 所列的数据规格。"
 
 #: ../../SO2.md:272
 msgid "*__Table 17__. Data specifications for SO 2-3 Indicator*"
@@ -934,21 +941,23 @@ msgstr "默认数据"
 msgid "National data"
 msgstr "国家数据"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:281
-#, fuzzy
 msgid ""
 "__Input data__  (Data needed to estimate the population exposed to land "
 "degradation)"
-msgstr "（估计受土地退化影响的人口所需的数据）"
+msgstr "输入数据___（估算受土地退化影响的人口所需的数据）"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:283
-#, fuzzy
 msgid ""
 "WorldPop data disaggregated by sex for the baseline year (2015) and the "
 "latest available year of the reporting period (2023) – (with the 2020 data "
 "duplicated for 2023 due to the lack of updated WorldPop population data "
 "post-2020)."
-msgstr "按性别分列的基线年（2015年）和报告期最近一年（2019年）的全球人口与健康（WorldPop）数据。"
+msgstr ""
+"基线年（2015 年）和报告期最近一年（2023 年）按性别分列的 WorldPop 数据--（由于 2020 年后缺乏最新的 WorldPop "
+"人口数据，2020 年的数据与 2023 年的数据重复）。"
 
 #: ../../SO2.md:285 ../../SO2.md:288
 msgid ""
@@ -956,20 +965,20 @@ msgid ""
 "baseline and reporting periods."
 msgstr "基线期和报告期由指标SO 1-4确定的土地退化的网格化数据。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:286
-#, fuzzy
 msgid ""
 "Gridded population products derived from national official statistics, "
 "disaggregated by sex for the baseline year (ideally the year 2015) and the "
 "latest available year of the reporting period (e.g., 2023)."
-msgstr "按性别分列的基线年（最好是2015年）和报告期最近一年（如2019年）的、源自国家官方统计数据的网格化人口产品。"
+msgstr "从国家官方统计数据中提取的网格人口产品，按基线年（理想情况下为 2015 年）和报告期最近一年（如 2023 年）的性别分列。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:289
-#, fuzzy
 msgid ""
 "__Output data__  (Gridded products resulting from the analysis of the three "
 "metrics)"
-msgstr "（通过分析三个指标得到的网格化产品）"
+msgstr "__输出数据__（对三个指标进行分析后得出的网格产品）"
 
 #: ../../SO2.md:291 ../../SO2.md:292
 msgid ""
@@ -988,13 +997,13 @@ msgstr "WorldPop 数据：3 弧秒（~100 米） 陆地退化数据：250 m 输�
 msgid "Assessed by national authorities based on available data."
 msgstr "由国家主管部门根据现有数据进行评估。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:303
-#, fuzzy
 msgid "Step 2: Standardize the selected datasets"
-msgstr "第2步：将选定的数据集标准化"
+msgstr "步骤 2：将选定的数据集标准化"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:305
-#, fuzzy
 msgid ""
 "The population and the land degradation datasets must be harmonized to the "
 "same grid cell size. For example, the WorldPop dataset and the SO 1-4 land "
@@ -1007,11 +1016,12 @@ msgid ""
 "standardize them through a resampling process in order to combine them in "
 "the analysis of population exposure to land degradation."
 msgstr ""
-"人口和土地退化数据集必须统一为相同的网格单元大小。例如，WorldPop数据集和SO "
-"1-4土地退化默认数据集的分辨率分别为100米和300米时，应重新取样到一个通用的网格单元大小。对于默认数据，用于分析的网格单元大小固定为需为之重新采样人口数据的土地退化数据集的300米分辨率。使用国家数据集的国家应在预测和分辨率方面对数据集进行评估，并通过重新取样过程使其标准化，以便能够在分析受土地退化影响的人口时将其结合起来。"
+"人口和土地退化数据集必须统一到相同的网格单元大小。例如，WorldPop 数据集和 SO 1-4 土地退化缺省数据集的分辨率分别为 100 米和 250"
+" 米，因此应按照相同的网格单元大小进行重采样。对于默认数据，用于分析的网格单元大小固定为土地退化数据集的 250 "
+"米分辨率，而人口数据则被重新采样。使用其他全球或国家数据集的国家应从地理投影和空间分辨率的角度对这些数据集进行评估，并通过重新采样过程使其标准化，以便在分析人口受土地退化影响的程度时将这些数据集结合起来。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:307
-#, fuzzy
 msgid ""
 "The resampling, which must be carried out in a spatial data analysis "
 "software outside of PRAIS, should take into consideration that, for datasets"
@@ -1020,14 +1030,15 @@ msgid ""
 "integrity of the numerical data should be used, such as bilinear "
 "interpolation (avoid nearest neighbour techniques)."
 msgstr ""
-"在重新取样时应考虑到，在代表人口数量的数据集中，单元格大小的变化代表每个单元格中的人数变化；应使用确保连续数据完整性的重新取样方法，如双线性内插法（避免使用最近邻技术）。"
+"重新取样必须在 PRAIS "
+"之外的空间数据分析软件中进行，应考虑到对于表示人口数量的数据集，单元大小的变化意味着每个单元中人口数量的变化；应使用可确保数字数据完整性的重新取样方法，如双线性内插法（避免使用近邻技术）。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:309
-#, fuzzy
 msgid ""
 "Step 3: Estimate the female, male and total population count and percentage "
 "of each population cohort exposed to land degradation"
-msgstr "第3步：估计受土地退化影响的女性人口、男性人口和总人口数量以及百分比"
+msgstr "步骤 3：估算女性、男性和总人口数量，以及各人口组群受土地退化影响的百分比"
 
 #: ../../SO2.md:312
 msgid "Related areas in the PRAIS 4 platform: tables SO2-3.T1 and SO2-3.T2"
@@ -1044,8 +1055,8 @@ msgid ""
 msgstr ""
 "基线期和报告期的女性和男性人口网格与各自的土地退化网格相交。然后，将属于退化土地的单元格的数值合并，算出受土地退化影响的女性和男性人口数量。通过合并所获得的女性和男性人口数值，得到受土地退化影响的总人口数量。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:317
-#, fuzzy
 msgid ""
 "This analysis, which is to be implemented outside of the PRAIS platform "
 "should be carried out over two time periods (i.e., the baseline and "
@@ -1060,7 +1071,10 @@ msgid ""
 " it is recommended that the population grid closest to the above-mentioned "
 "years be used."
 msgstr ""
-"这一分析应在两个时间段（即基线期和报告期）内进行，以便测量随时间推移而发生的变化，并在表SO2-3.T2中报告观察到的变化。然而，应该注意的是，土地退化空间数据集（即SO1-4产出）反映的是三个子指标（土地覆盖、土地生产力和土壤有机碳（SOC））在一定年限内的时间趋势，而人口数据则反映了特定年份（如2015年和2019年）的人口数量。为了提高在两个参考年份（即基准期为2015年，报告期为2019年）记录受土地退化影响的人数的准确性，建议使用最接近上述年份的人口网格。"
+"这一分析将在 PRAIS 平台之外进行，应在两个时间段（即基线和报告期）内进行，以衡量随时间的变化，然后在表 SO2-3.T1 "
+"中报告。然而，应该注意的是，土地退化空间数据集（即 SO1-4 输出）捕捉的是三个子指标（土地覆被，土地生产力和土壤有机碳 "
+"(SOC)）在一定年份内的时间趋势，而人口数据反映的是特定年份（如 2015 年和 2023 年）的人口数量。为了更准确地捕捉两个参考年份（即基线为 "
+"2015 年，报告期为 2023 年）受土地退化影响的人口数量，建议使用最接近上述年份的人口网格。"
 
 #: ../../SO2.md:319
 msgid ""
@@ -1070,57 +1084,57 @@ msgid ""
 " by 100."
 msgstr "为了计算女性人口、男性人口和总人口中受土地退化影响人数的百分比，将各自受土地退化影响的人口除以相应性别类型的总人口，再乘以100。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:321
-#, fuzzy
 msgid ""
 "Default maps are preloaded in the PRAIS platform. Maps generated by the "
 "Parties in Trends.Earth using national data representing population exposure"
 " to land degradation by sex should be uploaded to the PRAIS 4 platform. More"
 " specifically, the following maps should be available online:"
 msgstr ""
-"默认地图或在Trends.Earth中使用代表按性别分列的受土地退化影响的人口的国家数据生成的地图，可在PRAIS "
-"4平台上获得。更具体地说，下列地图将在网上提供："
+"PRAIS平台已预载默认地图。缔约方在Trends.Earth中利用按性别分列的人口受土地退化影响的国家数据生成的地图应上传到PRAIS "
+"4平台。更具体地说，应在线提供以下地图："
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:323
-#, fuzzy
 msgid ""
 "Total population exposed to land degradation for the baseline and latest "
 "reporting year"
-msgstr "基线期和报告期内受土地退化影响的女性人口、男性人口和总人口的网格化产品。"
+msgstr "基线年和最近报告年受土地退化影响的人口总数"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:324
-#, fuzzy
 msgid ""
 "Female population exposed to land degradation for the baseline and latest "
 "reporting year"
-msgstr "基线期和报告期内受土地退化影响的女性人口、男性人口和总人口的网格化产品。"
+msgstr "基线年和最近报告年遭受土地退化影响的女性人口"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:325
-#, fuzzy
 msgid ""
 "Male population exposed to land degradation for the baseline and latest "
 "reporting year"
-msgstr "基线期和报告期内受土地退化影响的女性人口、男性人口和总人口的网格化产品。"
+msgstr "基线年和最近报告年遭受土地退化影响的男性人口"
 
 #: ../../SO2.md:327
 msgid "Step 4: Qualitatively assess the results"
 msgstr "第4步：对结果进行定性评估"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:330
-#, fuzzy
 msgid "Related areas in the PRAIS 4 platform: table SO2-3.T2"
-msgstr "PRAIS 4平台中的相关区域：表SO2-3.T3"
+msgstr "PRAIS 4 平台的相关领域：表 SO2-3.T2"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:333
-#, fuzzy
 msgid ""
 "Observed changes in the indicator and their interpretation may be described "
 "in the “Qualitative Assessment” table of the PRAIS 4 platform (table "
 "SO2-3.T2)."
-msgstr "观察到的指标变化及其解释可在PRAIS 4平台的“定性评估”表中描述（表SO2-3.T3）。"
+msgstr "观察到的指标变化及其解释可在 PRAIS 4 平台的 \"定性评估 \"表（表 SO2-3.T2）中说明。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:335
-#, fuzzy
 msgid ""
 "It is important to note that changes in the proportion of population "
 "exposure to land degradation may not only be due to the expansion of land "
@@ -1129,7 +1143,10 @@ msgid ""
 "If the population increases by 10 people, all of whom settle in degraded "
 "areas, the total becomes 40 out of 110—meaning approximately 36% now live in"
 " degraded areas."
-msgstr "需要注意的是，受土地退化影响的人口比例的变化可能不仅是由于土地退化范围扩大导致的，还可能是人口增长等因素导致的。"
+msgstr ""
+"需要注意的是，受土地退化影响的人口比例的变化不仅可能是由于土地退化的扩大，也可能是由于人口增长等因素造成的。例如，如果 100 人中有 30 "
+"人生活在土地退化地区，这就意味着 30%。如果人口增加了 10 人，而这些人都居住在退化地区，那么总人数就会变成 110 人中的 40 "
+"人，这意味着现在约有 36% 的人居住在退化地区。"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:337
@@ -1142,45 +1159,43 @@ msgstr ""
 "鼓励缔约方在与表 SO2-3.T1 和 SO2-3.T2 相关的 \"评论 "
 "\"栏中提交说明，如果估算值来自非默认的替代性全球或国家数据，则说明方法、数据来源和数据准确性。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:339
-#, fuzzy
 msgid "Step 5: Verify the results"
-msgstr "第5步：验证结果"
+msgstr "步骤 5：验证结果"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:341
-#, fuzzy
 msgid ""
 "The reliability of the estimates require inputs from national experts to "
 "identify and highlight situations where the confidence level of the obtained"
 " results might be low."
-msgstr "来自全球数据源的估计数的可靠性需要国家专家的投入，才能发现和强调所获结果的置信度可能较低的情况。"
+msgstr "估算结果的可靠性需要各国专家的投入，以确定并强调所获结果置信度可能较低的情况。"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:343
 msgid "Step 6: Save form and make available for review"
 msgstr "第 6 步：保存表格并提供审查"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:345
-#, fuzzy
 msgid ""
 "It would be beneficial to report on special cases and issues, describing any"
 " deviation from the default method and providing the rationale for adoption "
 "of a different methodology. A “General comments” field is provided in the "
 "PRAIS 4 platform for this purpose."
-msgstr ""
-"还鼓励缔约方在估计数来自国家数据的情况下，提交关于方法、数据来源和数据准确性的说明。报告特殊情况和问题也是有益的，能说明任何偏离默认方法的情况并提供采用不同方法的理由。为此，PRAIS"
-" 4平台提供了一个“一般性注释”栏。"
+msgstr "报告特殊情况和问题，说明任何偏离默认方法的情况，并提供采用不同方法的理由，将是有益的。PRAIS 4 平台为此提供了一个 \"一般评论 \"字段。"
 
 #: ../../SO2.md:349
 msgid "2.3.4. Dependencies"
 msgstr "2.3.4. 依赖性"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:351
-#, fuzzy
 msgid ""
 "Indicator SO 2-3 relies on the SO 1-4 indicator spatial datasets, both for "
 "the baseline and reporting periods, as a basis to identify degraded areas."
-msgstr "指标SO 2-3依赖于SO 4指标的空间数据集，包括基线期和报告期，作为确定已退化地区的依据。"
+msgstr "指标 SO 2-3 依赖基线期和报告期的 SO 1-4 指标空间数据集，作为确定退化区域的基础。"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:353
@@ -1208,8 +1223,8 @@ msgstr "此外，应该指出的是，理想情况下，CP-1.T2 和指标 SO2-3 
 msgid "2.3.5. Challenges"
 msgstr "2.3.5. 挑战"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:361
-#, fuzzy
 msgid ""
 "Spatial resolution of international data might not always be suitable to "
 "produce a sufficiently detailed representation of the population exposed to "
@@ -1219,10 +1234,10 @@ msgid ""
 "population datasets to a finer resolution which might lead to further "
 "errors. Capacity in performing downscaling processes is therefore required."
 msgstr ""
-"国际数据的空间分辨率可能并不总是适合于充分详细地反映受土地退化及其变化影响的人口。可能需要更详细的次国家一级的数据，以更准确地代表当地情况。然而，这需要将现有的网格化人口数据集按比例缩小到更精细的分辨率，这可能会产生更多的误差。因此，需要具备执行按比例缩小过程的能力。"
+"国际数据的空间分辨率可能并不总是适合充分详细地反映受土地退化及其变化影响的人口。缔约方可能需要更详细的国家以下各级数据，以便更准确地反映当地情况。然而，这需要将现有的网格人口数据集缩小到更精细的分辨率，这可能会导致更多的误差。因此，需要有进行降尺度处理的能力。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:362
-#, fuzzy
 msgid ""
 "The WorldPop sex-disaggregated national datasets are presented as several "
 "individual raster format datasets, each representing an age/sex class per "
@@ -1231,15 +1246,15 @@ msgid ""
 "power, e.g., a cloud service, is required to store and process the data, "
 "especially for large countries."
 msgstr ""
-"WorldPop按性别分列的国家数据集以几个单独栅格的形式呈现，每个栅格代表每年的一个年龄/性别类别。这相当于大量的Geotiff格式的空间数据。存储和处理数据需要栅格数据处理能力和获得适当的计算能力，例如云服务，对于大国来说尤其如此。《防治荒漠化公约》正在开发一个栅格数据的批量预处理程序，最终将在PRAIS"
-" 4平台上提供按性别分列的数据作为默认数据。此挑战得到解决后，将通知各缔约方，并在表格中预先填入默认数据。"
+"世界人口按性别分列的国家数据集以多个单独的栅格格式数据集的形式呈现，每个数据集代表每年的一个年龄/性别类别。这相当于大量 Geotiff "
+"格式的空间数据。要存储和处理这些数据，尤其是大国的数据，需要具备栅格数据处理能力和适当的计算能力，例如云服务。"
 
 #: ../../SO2.md:364
 msgid "Limitation of the analytical approach"
 msgstr "分析方法的局限性"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:366
-#, fuzzy
 msgid ""
 "Sex-disaggregated data alone might not be sufficient to represent the gender"
 " dynamics and related issues in a specific region. Further socio-economic "
@@ -1247,10 +1262,10 @@ msgid ""
 "analysis in order to better understand how and why specific populations are "
 "affected by land degradation."
 msgstr ""
-"仅仅是按性别分列的数据可能不足以反映特定地区的性别动态和相关问题。需要进一步的社会经济和人口指标来进行性别分析，以便更好地了解特定人群如何以及为何受到土地退化的影响。"
+"仅凭按性别分列的数据可能不足以反映特定区域的性别动态和相关问题。缔约方需要更多的社会经济和人口指标来进行性别分析，以便更好地了解特定人群如何以及为何受到土地退化的影响。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:367
-#, fuzzy
 msgid ""
 "By considering only the populations residing in the areas affected directly "
 "by land degradation, the indicator may underestimate exposure rates. In "
@@ -1260,7 +1275,7 @@ msgid ""
 " of data in urban and rural populations could be useful to improve the "
 "indicator."
 msgstr ""
-"以受土地退化影响的现场人口为依据，可能会得出对受土地退化影响的人口的下限估计数。事实上，特定地区的土地退化不仅影响居住在退化土地上的人口，而且还通过环境、经济和社会联系影响其他地方的人口。此外，对城市和农村人口的数据进一步分列，可能有助于改进该指标。"
+"如果只考虑居住在直接受土地退化影响地区的人口，该指标可能会低估暴露率。事实上，特定地区的土地退化不仅影响居住在退化土地上的人口，而且通过环境、经济和社会联系影响其他地区的人口。此外，进一步细分城市和农村人口的数据也有助于改进该指标。"
 
 #: ../../SO2.md:368
 msgid ""
@@ -1290,18 +1305,18 @@ msgid ""
 "specifications listed in table 17."
 msgstr "**选择人口数据集**：缔约方可以决定使用默认数据或替代国家来源的数据，只要数据符合表17中所列的数据规格。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:376
-#, fuzzy
 msgid ""
 "**Standardize the selected datasets**: the land degradation and the "
 "population gridded data datasets must be harmonized to the same grid cell "
 "size in order to combine them in the analysis of population exposure to land"
 " degradation."
 msgstr ""
-"**将选定的数据集标准化**：土地退化数据集必须统一到与人口网格化数据（假设分辨率更高）相同的网格单元大小，以便在分析受土地退化影响的人口时将它们结合起来。"
+"**对选定的数据集进行标准化**：土地退化数据集和人口网格数据集必须统一到相同的网格单元大小，以便在分析人口受土地退化影响的情况时将二者结合起来。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:378
-#, fuzzy
 msgid ""
 "**Estimate the number and percentage of the female, male and total "
 "population exposed to land degradation**: the male and female population "
@@ -1311,23 +1326,24 @@ msgid ""
 "demographic data have been reported in the country profile ‘Demographics’ "
 "section (table CP-1.T2)."
 msgstr ""
-"**估计受土地退化影响的女性人口、男性人口和总人口的数量和百分比**：将男性和女性人口网格与土地退化网格相交，得出受土地退化影响的总人口、男性人口和女性人口以及占总人口的百分比。数据应输入表SO2-3.T1中。"
+"**估算受土地退化影响的女性、男性和总人口的数量和百分比**：将男性和女性人口网格与土地退化网格相交，得出受土地退化影响的总人口、男性和女性人口以及占总人口的百分比。数据应填入表"
+" SO2-3.T1。确保人口数据已在国家概况 \"人口 \"部分（表 CP-1.T2）中报告。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:380
-#, fuzzy
 msgid ""
 "**Qualitatively assess the results**: changes over time in the proportion of"
 " populations exposed to land degradation as well as their direct or indirect"
 " drivers should be described in table SO2-3.T2."
-msgstr "**对结果进行定性评估**：应在表SO2-3.T3中描述受土地退化影响的人口比例变化及其直接或间接驱动因素。"
+msgstr "**定性评估结果**：表 SO2-3.T2 应说明随着时间推移，遭受土地退化的人口比例的变化及其直接或间接的驱动因素。"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:382
-#, fuzzy
 msgid ""
 "**Verify the results**: the reliability of the estimates from alternative "
 "(non-default) data sources should be assessed in consultation with national "
 "experts."
-msgstr "**核实结果**：应与国家专家协商，评估来自全球数据来源的估计数的可靠性。"
+msgstr "**核实结果**：应与国内专家协商，评估其他（非默认）数据来源的估计值的可靠性。"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:386
@@ -1359,22 +1375,22 @@ msgstr ""
 msgid "<https://unstats.un.org/sdgs/dataportal/database>"
 msgstr "<https://unstats.un.org/sdgs/dataportal/database>"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:24
-#, fuzzy
 msgid ""
 "<https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map>"
 msgstr ""
-"https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map"
+"<https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map>"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:190
-#, fuzzy
 msgid ""
 "<https://washdata.org/data/household>, "
 "<https://datatopics.worldbank.org/sdgs/index.html> and "
 "<https://ourworldindata.org/sdgs/clean-water-sanitation>"
 msgstr ""
-"<https://washdata.org/data/household> and "
-"<https://datatopics.worldbank.org/sdgs/index.html>"
+"<https://washdata.org/data/household>、<https://datatopics.worldbank.org/sdgs/index.html>"
+" 和 <https://ourworldindata.org/sdgs/clean-water-sanitation>"
 
 #~ msgid ""
 #~ "These metrics can be used interchangeably according to country-specific "
