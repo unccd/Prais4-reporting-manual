@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-18 17:31+0300\n"
+"POT-Creation-Date: 2025-11-03 15:18+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../introduction.md:1
 msgid "Introduction"
@@ -26,53 +26,89 @@ msgid "Background"
 msgstr "Общая информация"
 
 #: ../../introduction.md:5
+#, fuzzy
 msgid ""
 "By its decision 7/COP.13, the Conference of the Parties (COP) to the "
 "United Nations Convention to Combat Desertification (UNCCD) adopted the "
-"UNCCD 2018–2030 Strategic Framework, containing five strategic objectives"
-" (SOs) and an implementation framework. The SOs are:"
-msgstr "Своим решением 7/СОР.13 Конференция Сторон (КС) Конвенции Организации Объединенных Наций по борьбе с опустыниванием (КБОООН) приняла Стратегическую рамочную программу КБОООН на 2018–2030 годы, содержащую пять стратегических целей (СЦ) и механизм их осуществления. СЦ заключаются в следующем:"
+"UNCCD 2018–2030 Strategic Framework, containing (a) five strategic "
+"objectives (SOs) and (b) an implementation framework. The SOs are:"
+msgstr ""
+"Своим решением 7/СОР.13 Конференция Сторон (КС) Конвенции Организации "
+"Объединенных Наций по борьбе с опустыниванием (КБОООН) приняла "
+"Стратегическую рамочную программу КБОООН на 2018–2030 годы, содержащую "
+"пять стратегических целей (СЦ) и механизм их осуществления. СЦ "
+"заключаются в следующем:"
 
 #: ../../introduction.md:7
+#, fuzzy
 msgid ""
-"SO 1: To improve the condition of affected ecosystems, combat "
+"SO1: To improve the condition of affected ecosystems, combat "
 "desertification/land degradation, promote sustainable land management and"
 " contribute to land degradation neutrality;"
-msgstr "СЦ 1: улучшение состояния затронутых экосистем, борьба с опустыниванием/деградацией земель, содействие устойчивому управлению земельными ресурсами и обеспечение нейтрального баланса деградации земель;"
+msgstr ""
+"СЦ 1: улучшение состояния затронутых экосистем, борьба с "
+"опустыниванием/деградацией земель, содействие устойчивому управлению "
+"земельными ресурсами и обеспечение нейтрального баланса деградации "
+"земель;"
 
 #: ../../introduction.md:9
-msgid "SO 2: To improve the living conditions of affected populations;"
+#, fuzzy
+msgid "SO2: To improve the living conditions of affected populations;"
 msgstr "СЦ 2: улучшение условий жизни пострадавшего населения;"
 
 #: ../../introduction.md:11
+#, fuzzy
 msgid ""
-"SO 3: To mitigate, adapt to, and manage the effects of drought in order "
-"to enhance resilience of vulnerable populations and ecosystems;"
-msgstr "СЦ 3: смягчение последствий засухи, адаптация к ним и управление ими в целях повышения устойчивости уязвимых групп населения и экосистем;"
+"SO3: To mitigate, adapt to, and manage the effects of drought in order to"
+" enhance resilience of vulnerable populations and ecosystems;"
+msgstr ""
+"СЦ 3: смягчение последствий засухи, адаптация к ним и управление ими в "
+"целях повышения устойчивости уязвимых групп населения и экосистем;"
 
 #: ../../introduction.md:13
+#, fuzzy
 msgid ""
-"SO 4: To generate global environmental benefits through effective "
+"SO4: To generate global environmental benefits through effective "
 "implementation of the UNCCD; and"
-msgstr "СЦ 4: получение глобальных экологических выгод за счет эффективного осуществления КБОООН; и"
+msgstr ""
+"СЦ 4: получение глобальных экологических выгод за счет эффективного "
+"осуществления КБОООН; и"
 
 #: ../../introduction.md:15
+#, fuzzy
 msgid ""
-"SO 5: To mobilize substantial and additional financial and non-financial "
+"SO5: To mobilize substantial and additional financial and non-financial "
 "resources to support the implementation of the Convention by building "
 "effective partnerships at global and national level."
-msgstr "СЦ 5: мобилизация значительных и дополнительных финансовых и нематериальных ресурсы для поддержки осуществления Конвенции путем налаживания эффективных партнерских отношений на глобальном и национальном уровнях."
+msgstr ""
+"СЦ 5: мобилизация значительных и дополнительных финансовых и "
+"нематериальных ресурсы для поддержки осуществления Конвенции путем "
+"налаживания эффективных партнерских отношений на глобальном и "
+"национальном уровнях."
 
 #: ../../introduction.md:17
 msgid ""
-"The implementation framework defines the roles and responsibilities of "
-"Parties and Convention institutions in meeting the SOs. For Parties, the "
-"implementation framework sets specific aims under three broad headings: "
-"(a) financial and non-financial resources; (b) policy and planning; and "
-"(c) actions on the ground."
-msgstr "Механизм осуществления определяет роли и обязанности Сторон и учреждений Конвенции в процессе выполнения СЦ. Механизм осуществления устанавливает для Сторон конкретные цели по трем широким направлениям: а) финансовые и нематериальные ресурсы; b) политика и планирование; и с) действия на местах."
+"The implementation framework (IF) defines the roles and responsibilities "
+"of Parties and Convention institutions in meeting the SOs. Based on a "
+"comprehensive review of the IF reporting forms after the 2022 reporting "
+"process, it will not be presented as a stand-alone section in the 2026 "
+"national reporting cycle. Instead, its elements will be integrated into "
+"the appropriate sections under each Strategic Objective (SO). Internal "
+"consultations within the secretariat further identified potential "
+"overlaps between questions in the framework and the data required under "
+"individual SOs. Consequently, the three core components of the framework "
+"— Policy and Planning, Actions on the Ground, and Financial and Non-"
+"Financial Resources — have been reviewed and restructured to align with "
+"the most relevant SOs. Additionally, information on vulnerable and "
+"marginalized groups can be captured, where relevant, via reporting on  "
+"the involvement of women, engagement of youth, and Indigenous Peoples and"
+" local communities. Parties can now find the respective section of the IF"
+" listed as an additional form under each SO with the form denoted with "
+"its respective SO number and ‘IF’ for Implementation Framework, e.g. the "
+"Implementation Framework form for SO1 is entitled ‘SO1-IF’."
+msgstr ""
 
-#: ../../introduction.md:19
+#: ../../introduction.md:25
 msgid ""
 "Progress made in the implementation of the UNCCD 2018–2030 Strategic "
 "Framework has been regularly reviewed through the national reporting "
@@ -80,573 +116,738 @@ msgid ""
 "responsibilities of the Committee for the Review of the Implementation of"
 " the Convention (CRIC) in reviewing the reports, are spelled out in "
 "decisions 13/COP.13 and 15/COP.13."
-msgstr "Прогресс, достигнутый в осуществлении Стратегической рамочной программы КБОООН на период с 2018 по 2030 год, с 2018 года подвергается регулярному анализу в рамках процесса национальной отчетности. Процедуры представления докладов, а также роль и обязанности Комитета по рассмотрению осуществления Конвенции (КРОК) при рассмотрении докладов изложены в решениях 13/СОР.13 и 15/СОР.13."
+msgstr ""
+"Прогресс, достигнутый в осуществлении Стратегической рамочной программы "
+"КБОООН на период с 2018 по 2030 год, с 2018 года подвергается регулярному"
+" анализу в рамках процесса национальной отчетности. Процедуры "
+"представления докладов, а также роль и обязанности Комитета по "
+"рассмотрению осуществления Конвенции (КРОК) при рассмотрении докладов "
+"изложены в решениях 13/СОР.13 и 15/СОР.13."
 
-#: ../../introduction.md:21
+#: ../../introduction.md:27
 msgid "Purpose of national reporting"
 msgstr "Цель национальной отчетности"
 
-#: ../../introduction.md:23
+#: ../../introduction.md:29
 msgid ""
-"Up-to-date information on measures taken, results achieved and challenges"
-" faced by country Parties is of critical importance for the COP to be "
-"able to adopt targeted decisions and guidance aimed at supporting the "
-"effective achievement of the SOs. The information communicated by Parties"
-" through reporting is valuable also for other stakeholders that work on "
-"the implementation of the UNCCD at national and local levels. From these "
-"viewpoints, national reporting is an indispensable tool to bringing "
-"forward effective planning and implementation of the Convention and the "
-"achievement of the SOs at global and national level."
-msgstr "Обновленная информация о принятых мерах, достигнутых результатах и проблемах, с которыми сталкиваются страны, являющиеся Сторонами Конвенции, имеет решающее значение для КС в вопросах принятия целенаправленных решений и руководящих указаний в поддержку эффективного достижения СЦ. Информация, сообщаемая Сторонами посредством представления отчетности, ценна также для других заинтересованных сторон, задействованных в процессе осуществления КБОООН на национальном и местном уровнях. С этих точек зрения национальная отчетность является незаменимым инструментом для обеспечения эффективного планирования и осуществления Конвенции и достижения СЦ на глобальном и национальном уровнях."
+"Information reported by Parties under the Convention is used in several "
+"ways. It is employed to monitor progress towards achieving SDG target "
+"15.3 and to help guide policy formulation at the national and "
+"international level to combat desertification/land degradation and "
+"drought (DLDD). The information helps policymakers to better understand "
+"the geographical areas that are most affected in their countries and "
+"allows more targeted measures and interventions to be designed and "
+"implemented. A number of countries have leveraged the data and "
+"information provided in the latest round of reporting (2022) to produce "
+"national action plans to address land degradation or used some of the "
+"material as part of project proposals to seek national and international "
+"funding to implement concrete actions on the ground. Comprehensive "
+"reports by Parties provide practical demonstrations of how to optimise "
+"the reporting and implement on the ground interventions while motivating "
+"other Parties and build understanding of successes and challenges in "
+"implementing the Convention. Finally, the reported information plays an "
+"important role in raising awareness of the importance of sustainable land"
+" management and advocating for land restoration initiatives that can help"
+" combat DLDD and their impacts on populations. In a nutshell, national "
+"reporting puts data and information on land to good use."
+msgstr ""
 
-#: ../../introduction.md:25
-msgid ""
-"Since 2018, the UNCCD reporting process has also contributed to the "
-"follow-up of progress in implementing the 2030 Agenda for Sustainable "
-"Development. As the custodian agency for Sustainable Development Goal "
-"(SDG) indicator 15.3.1 “Proportion of land that is degraded over total "
-"land area”, the UNCCD secretariat is requested to use relevant "
-"information submitted in the national reports as a contribution to the "
-"overall follow-up and review by the High-level Political Forum on "
-"Sustainable Development."
-msgstr "С 2018 года процесс представления отчетности по КБОООН также способствовал отслеживанию прогресса в осуществлении Повестки дня в области устойчивого развития на период до 2030 года. В качестве учреждения-хранителя показателя 15.3.1 Целей устойчивого развития (ЦУР) «Отношение площади деградированных земель к общей площади земель» секретариату КБОООН предлагается использовать соответствующую информацию, представленную в национальных отчетах, в качестве вклада в общую последующую деятельность и обзор, подготовленный в рамках Политического форума высокого уровня по устойчивому развитию."
-
-#: ../../introduction.md:27
+#: ../../introduction.md:37
 msgid "Indicator and monitoring framework"
 msgstr "Система показателей и мониторинга"
 
-#: ../../introduction.md:29
+#: ../../introduction.md:39
 msgid ""
 "The UNCCD indicator and monitoring framework has a hierarchical structure"
 " that makes it possible to distinguish what to measure (progress "
 "indicators) and how it should be measured (metrics/proxies)."
-msgstr "Система показателей и мониторинга КБОООН имеет иерархическую структуру, благодаря которой возможно провести различие между тем, что измерять (показатели прогресса), и тем, как это следует измерять (метрики/вспомогательные параметры)."
+msgstr ""
+"Система показателей и мониторинга КБОООН имеет иерархическую структуру, "
+"благодаря которой возможно провести различие между тем, что измерять "
+"(показатели прогресса), и тем, как это следует измерять "
+"(метрики/вспомогательные параметры)."
 
-#: ../../introduction.md:31
+#: ../../introduction.md:41
 msgid ""
 "Indicators used for reporting on progress towards the SOs are those "
-"adopted by Parties in decision 7/COP.13, 9/COP.13 and 11/COP.14. In "
-"addition to the indicators adopted by the COP, five newly proposed "
-"indicators (i.e. SO 2-3, SO 4-3, SO 5-3, SO 5-4 and SO 5-5) will be "
-"tested during the 2022 reporting process. All newly proposed indicators "
-"will be considered optional in reporting until the COP takes a decision "
-"on whether to formally adopt them. Integrating them in the forthcoming "
-"reporting process will enable Parties to assess the suitability of the "
-"indicators for measuring progress towards the SOs and take an informed "
-"decision at the twentieth session of the CRIC held in conjunction with "
-"the COP. Table 1 through table 5 below contain an overview of the "
-"indicators, their related metrics/proxies and their statuses (i.e. "
-"whether the indicator is officially adopted, and if so, when it was "
-"adopted; or whether it is newly proposed and will be tested in the "
-"forthcoming reporting process). The tables also provide information on "
-"the reporting attributions."
-msgstr "Показатели, используемые для представления отчетности о прогрессе в достижении СЦ, приняты Сторонами в решениях 7/СОР.13, 9/СОР.13 и 11/СОР.14. В дополнение к показателям, принятым КС, пять новых предложенных показателей (т. е. СЦ 2-3, СЦ 4-3, СЦ 5-3, СЦ 5-4 и СЦ 5-5) будут протестированы в ходе процесса отчетности 2022 года. Все вновь предлагаемые показатели будут считаться необязательными для использования в отчетности до тех пор, пока КС не примет решение об их официальном утверждении. Включение их в предстоящий процесс представления отчетности позволит Сторонам оценить пригодность показателей для измерения прогресса в достижении СЦ и принять обоснованное решение на двадцатой сессии КРОК, проводимой совместно с КС. Таблицы 1-5 ниже содержат обзор показателей, связанных с ними метрик/вспомогательных параметров и их состояний (т.е. официально ли принят показатель, и если да, то когда он был принят; или он недавно предложен и будет протестирован в ходе предстоящего процесса отчетности). В таблицах также содержится информация о компетенциях отчетности."
+"adopted by Parties in decision 7/COP.13, 9/COP.13, 11/COP.14 and "
+"4/COP.16. Table 1 through Table 5 below contain an overview of the "
+"indicators, their related metrics/proxies, the decisions in which they "
+"have been adopted, and the reporting attributions (i.e., whether the "
+"indicators are required or optional for reporting by affected and "
+"developed country Parties). While some indicators are marked as not "
+"applicable for developed country Parties, each developed country Party "
+"may choose whether to report on them or not. If a developed country Party"
+" decides to report on an indicator marked as not applicable, it can do so"
+" by changing the indicator form’s status from 'not applicable' to 'open' "
+"in PRAIS."
+msgstr ""
 
-#: ../../introduction.md:33
+#: ../../introduction.md:46
+#, fuzzy
 msgid ""
-"Reporting on the implementation framework will be done through "
-"qualitative information, largely by narratives on national experiences, "
-"and on a voluntary basis."
-msgstr "Отчетность, касающаяся механизма осуществления, будет основана на качественной информации, в основном полученной из нарративных докладов, посвященных национальному опыту; предоставление отчетности пройдет на добровольной основе."
+"Reporting on the implementation framework is done through qualitative "
+"information, largely by narratives on national experiences, and on a "
+"voluntary basis."
+msgstr ""
+"Отчетность, касающаяся механизма осуществления, будет основана на "
+"качественной информации, в основном полученной из нарративных докладов, "
+"посвященных национальному опыту; предоставление отчетности пройдет на "
+"добровольной основе."
 
-#: ../../introduction.md:38
+#: ../../introduction.md:51
+#, fuzzy
 msgid ""
 "*__Table 1__. Strategic objective (SO) 1 indicators and reporting "
-"attribution*"
-msgstr "*__Таблица 1__. Показатели и компетенция отчетности Стратегической цели (СЦ) 1*"
+"attribution.*"
+msgstr ""
+"*__Таблица 1__. Показатели и компетенция отчетности Стратегической цели "
+"(СЦ) 1*"
 
-#: ../../introduction.md:1
+#: ../../introduction.md:56 ../../introduction.md:96 ../../introduction.md:135
+#: ../../introduction.md:170 ../../introduction.md:201
+#, python-brace-format
 msgid "{rspan}`1` Indicator code"
 msgstr " Код показателя"
 
-#: ../../introduction.md:2
+#: ../../introduction.md:57 ../../introduction.md:97 ../../introduction.md:136
+#: ../../introduction.md:171 ../../introduction.md:202
+#, python-brace-format
 msgid "{rspan}`1` Indicator name"
 msgstr " Наименование показателя"
 
-#: ../../introduction.md:3
+#: ../../introduction.md:58 ../../introduction.md:98 ../../introduction.md:137
+#: ../../introduction.md:172 ../../introduction.md:203
+#, python-brace-format
 msgid "{rspan}`1` Metrics / proxies"
 msgstr " Метрики / вспомогательные параметры"
 
-#: ../../introduction.md:4
-msgid "{rspan}`1` Adopted / proposed"
-msgstr " Принято / предложено"
+#: ../../introduction.md:59 ../../introduction.md:99 ../../introduction.md:138
+#: ../../introduction.md:204
+#, fuzzy, python-brace-format
+msgid "{rspan}`1` Adoption Decision"
+msgstr " Наименование показателя"
 
-#: ../../introduction.md:5
+#: ../../introduction.md:60 ../../introduction.md:100 ../../introduction.md:139
+#: ../../introduction.md:174 ../../introduction.md:205
+#, python-brace-format
 msgid "{cspan}`1` Reporting attribution"
 msgstr " Компетенция отчетности"
 
-#: ../../introduction.md:6
+#: ../../introduction.md:61 ../../introduction.md:101 ../../introduction.md:140
+#: ../../introduction.md:175 ../../introduction.md:206
 msgid "Affected country Parties"
 msgstr "Затрагиваемые страны — Стороны Конвенции"
 
-#: ../../introduction.md:7
+#: ../../introduction.md:62 ../../introduction.md:102 ../../introduction.md:141
+#: ../../introduction.md:176 ../../introduction.md:207
 msgid "Developed country Parties"
 msgstr "Развитые страны — Стороны конвенции"
 
-#: ../../introduction.md:8
+#: ../../introduction.md:63
 msgid "SO 1-1"
 msgstr "СЦ 1-1"
 
-#: ../../introduction.md:9
+#: ../../introduction.md:64
 msgid "Trends in land cover"
 msgstr "Тенденции в области почвенно-растительного покрова"
 
-#: ../../introduction.md:10
+#: ../../introduction.md:65
 msgid "Land cover change"
 msgstr "Изменение почвенно-растительного покрова"
 
-#: ../../introduction.md:11 ../../introduction.md:15 ../../introduction.md:16
-#: ../../introduction.md:17 ../../introduction.md:21 ../../introduction.md:22
-msgid "Indicator adopted in decision 7/COP.13"
-msgstr "Показатель принят решением 7/СОР.13"
+#: ../../introduction.md:66 ../../introduction.md:74 ../../introduction.md:79
+#: ../../introduction.md:110 ../../introduction.md:116
+#: ../../introduction.md:185
+msgid "7/COP.13"
+msgstr ""
 
-#: ../../introduction.md:12 ../../introduction.md:14 ../../introduction.md:16
-#: ../../introduction.md:17 ../../introduction.md:18 ../../introduction.md:19
-#: ../../introduction.md:20 ../../introduction.md:22 ../../introduction.md:23
-#: ../../introduction.md:24 ../../introduction.md:28
-msgid "X"
-msgstr "X"
+#: ../../introduction.md:67 ../../introduction.md:75 ../../introduction.md:80
+#: ../../introduction.md:85 ../../introduction.md:111 ../../introduction.md:117
+#: ../../introduction.md:146 ../../introduction.md:152
+#: ../../introduction.md:158 ../../introduction.md:186
+#: ../../introduction.md:212 ../../introduction.md:213
+#: ../../introduction.md:218 ../../introduction.md:219
+msgid "Required"
+msgstr ""
 
-#: ../../introduction.md:13
-msgid "{rspan}`3` *[^1]"
-msgstr " *[^1]"
+#: ../../introduction.md:68
+#, python-brace-format
+msgid "{rspan}`3`Optional."
+msgstr ""
 
-#: ../../introduction.md:14
+#: ../../introduction.md:70
+#, fuzzy
+msgid ""
+"Developed country Parties may wish to submit information on SO1 "
+"indicators, including SDG indicator 15.3.1, on a voluntary basis for the "
+"purpose of reporting on progress towards the SDGs."
+msgstr ""
+"Показатели в рамках СЦ 1 и показатель 15.3.1 ЦУР являются необязательными"
+" для использования в ходе представления отчетности развитыми странами – "
+"Сторонами Конвенции. Развитые страны — Стороны Конвенции могут по желанию"
+" представить информацию по этим показателям на добровольной основе для "
+"целей отчетности о прогрессе в достижении ЦУР."
+
+#: ../../introduction.md:71
 msgid "SO 1-2"
 msgstr "СЦ 1-2"
 
-#: ../../introduction.md:15
+#: ../../introduction.md:72
 msgid "Trends in land productivity or functioning of the land"
 msgstr "Тенденции в области производительности угодий или функционирования земель"
 
-#: ../../introduction.md:16
+#: ../../introduction.md:73
 msgid "Land productivity dynamics"
 msgstr "Динамика производительности угодий"
 
-#: ../../introduction.md:19
+#: ../../introduction.md:76
 msgid "SO 1-3"
 msgstr "СЦ 1-3"
 
-#: ../../introduction.md:9 ../../introduction.md:20
+#: ../../introduction.md:77 ../../introduction.md:178
 msgid "Trends in carbon stocks above and below ground"
 msgstr "Тенденции в области накопления углерода над и под землей"
 
-#: ../../introduction.md:21
+#: ../../introduction.md:78
 msgid "Soil organic carbon stock"
 msgstr "Запас органического углерода в почве"
 
-#: ../../introduction.md:24
+#: ../../introduction.md:81
 msgid "SO 1-4"
 msgstr "СЦ 1-4"
 
-#: ../../introduction.md:25
+#: ../../introduction.md:82
 msgid "Proportion of land that is degraded over total land area"
 msgstr "Отношение площади деградированных земель к общей площади земель"
 
-#: ../../introduction.md:10 ../../introduction.md:13 ../../introduction.md:17
-#: ../../introduction.md:18 ../../introduction.md:19 ../../introduction.md:23
-#: ../../introduction.md:25 ../../introduction.md:26 ../../introduction.md:30
-#: ../../introduction.md:33 ../../introduction.md:38
-msgid "\\---"
+#: ../../introduction.md:83 ../../introduction.md:210 ../../introduction.md:216
+#: ../../introduction.md:222 ../../introduction.md:228
+#: ../../introduction.md:234
+#, fuzzy
+msgid "*---*"
 msgstr "\\---"
 
-#: ../../introduction.md:27
-msgid "Background for indicator adopted in decision 9/COP.13"
-msgstr "Справочная информация по показателю принята решением 9/СОР.13"
+#: ../../introduction.md:84
+msgid "9/COP.13"
+msgstr ""
 
-#: ../../introduction.md:78
+#: ../../introduction.md:91
 msgid ""
 "*__Table 2__. Strategic objective (SO) 2 indicators and reporting "
 "attributions*"
-msgstr "*__Таблица 2__. Показатели и компетенции отчетности Стратегической цели (СЦ) 2*"
+msgstr ""
+"*__Таблица 2__. Показатели и компетенции отчетности Стратегической цели "
+"(СЦ) 2*"
 
-#: ../../introduction.md:8
+#: ../../introduction.md:103
 msgid "SO 2-1"
 msgstr "СЦ 2-1"
 
-#: ../../introduction.md:9
+#: ../../introduction.md:104
 msgid ""
 "Trends in population living below the relative poverty line and/or income"
 " inequality in affected areas"
-msgstr "Тенденции в численности населения, живущего ниже относительной черты бедности, и/или неравенство доходов в затронутых районах"
+msgstr ""
+"Тенденции в численности населения, живущего ниже относительной черты "
+"бедности, и/или неравенство доходов в затронутых районах"
 
-#: ../../introduction.md:10
+#: ../../introduction.md:105
 msgid "Proportion of the population below the international poverty line"
 msgstr "Доля населения, живущего ниже международной черты бедности"
 
-#: ../../introduction.md:12
+#: ../../introduction.md:107
 msgid "OR"
 msgstr "ИЛИ"
 
-#: ../../introduction.md:14
+#: ../../introduction.md:109
 msgid "Income inequality"
 msgstr "Неравенство доходов"
 
-#: ../../introduction.md:18
+#: ../../introduction.md:112 ../../introduction.md:118
+#: ../../introduction.md:147 ../../introduction.md:153
+#: ../../introduction.md:159 ../../introduction.md:187
+#: ../../introduction.md:193
+msgid "Not applicable"
+msgstr ""
+
+#: ../../introduction.md:113
 msgid "SO 2-2"
 msgstr "СЦ 2-2"
 
-#: ../../introduction.md:19
+#: ../../introduction.md:114
 msgid "Trends in access to safe drinking water in affected areas"
-msgstr "Тенденции в области доступа к безопасной питьевой воде в затронутых районах"
+msgstr ""
+"Тенденции в области доступа к безопасной питьевой воде в затронутых "
+"районах"
 
-#: ../../introduction.md:20
+#: ../../introduction.md:115
 msgid "Proportion of population using safely managed drinking water services"
 msgstr "Доля населения, имеющего доступ к услугам безопасной питьевой воды"
 
-#: ../../introduction.md:24
+#: ../../introduction.md:119
 msgid "SO 2-3"
 msgstr "СЦ 2-3"
 
-#: ../../introduction.md:25
+#: ../../introduction.md:120
 msgid ""
 "Trends in the proportion of the population exposed to land degradation, "
 "disaggregated by sex"
-msgstr "Тенденции изменения доли населения, затронутого деградацией земель, в разбивке по полу"
+msgstr ""
+"Тенденции изменения доли населения, затронутого деградацией земель, в "
+"разбивке по полу"
 
-#: ../../introduction.md:26
+#: ../../introduction.md:121
 msgid ""
 "Proportion of the population exposed to land degradation, disaggregated "
 "by sex"
 msgstr "Доля населения, затронутого деградацией земель, в разбивке по полу"
 
-#: ../../introduction.md:27
-msgid ""
-"Indicator proposed in response to decision 11/COP.14, which requested the"
-" Secretariat to align reporting for SOs 1– 5 with gender-responsive "
-"indicators"
-msgstr "Показатель представлен в ответ на решение 11/СОР.14, в котором Секретариату было предложено согласовать отчетность по СЦ 1-5 с показателями, учитывающими гендерные аспекты"
+#: ../../introduction.md:122 ../../introduction.md:191
+#: ../../introduction.md:223 ../../introduction.md:229
+#: ../../introduction.md:235
+msgid "4/COP.16"
+msgstr ""
 
-#: ../../introduction.md:24 ../../introduction.md:29 ../../introduction.md:30
-#: ../../introduction.md:34 ../../introduction.md:35 ../../introduction.md:39
-#: ../../introduction.md:40
+#: ../../introduction.md:123 ../../introduction.md:124
+#: ../../introduction.md:192 ../../introduction.md:224
+#: ../../introduction.md:225 ../../introduction.md:230
+#: ../../introduction.md:231 ../../introduction.md:236
+#: ../../introduction.md:237
 msgid "Optional"
 msgstr "Необязательный"
 
-#: ../../introduction.md:115
+#: ../../introduction.md:130
 msgid ""
 "*__Table 3__. Strategic objective (SO) 3 indicators and reporting "
 "attributions*"
-msgstr "*__Таблица 3__. Показатели и компетенции отчетности Стратегической цели (СЦ) 3*"
+msgstr ""
+"*__Таблица 3__. Показатели и компетенции отчетности Стратегической цели "
+"(СЦ) 3*"
 
-#: ../../introduction.md:8
+#: ../../introduction.md:142
 msgid "SO 3-1"
 msgstr "СЦ 3-1"
 
-#: ../../introduction.md:9
+#: ../../introduction.md:143
 msgid "Trends in the proportion of land under drought over the total land area"
-msgstr "Тенденции изменения отношения площади земель, подверженных засухе, к общей площади земель"
+msgstr ""
+"Тенденции изменения отношения площади земель, подверженных засухе, к "
+"общей площади земель"
 
-#: ../../introduction.md:10
+#: ../../introduction.md:144
 msgid ""
 "Proportion of land in each drought intensity class as defined by the "
 "Standardized Precipitation Index"
-msgstr "Доля земель в каждом классе интенсивности засухи, определяемая стандартизированным индексом осадков"
+msgstr ""
+"Доля земель в каждом классе интенсивности засухи, определяемая "
+"стандартизированным индексом осадков"
 
-#: ../../introduction.md:11 ../../introduction.md:17 ../../introduction.md:23
-msgid "Indicator adopted in decision 7/COP.14"
-msgstr "Показатель принят решением 7/СОР.14"
+#: ../../introduction.md:145 ../../introduction.md:151
+#: ../../introduction.md:157
+msgid "11/COP.14"
+msgstr ""
 
-#: ../../introduction.md:14
+#: ../../introduction.md:148
 msgid "SO 3-2"
 msgstr "СЦ 3-2"
 
-#: ../../introduction.md:15
+#: ../../introduction.md:149
 msgid "Trends in the proportion of the total population exposed to drought"
 msgstr "Тенденции изменения доли всего населения, затронутого засухой"
 
-#: ../../introduction.md:16
+#: ../../introduction.md:150
 msgid "Proportion of the population exposed to drought, disaggregated by sex"
 msgstr "Доля населения, затронутого засухой, в разбивке по полу"
 
-#: ../../introduction.md:20
+#: ../../introduction.md:154
 msgid "SO 3-3"
 msgstr "СЦ 3-3"
 
-#: ../../introduction.md:21
+#: ../../introduction.md:155
 msgid "Trends in the degree of drought vulnerability"
 msgstr "Тенденции в степени уязвимости к засухе"
 
-#: ../../introduction.md:22
+#: ../../introduction.md:156
 msgid "Drought Vulnerability Index"
 msgstr "Индекс уязвимости к засухе"
 
-#: ../../introduction.md:147
+#: ../../introduction.md:165
 msgid ""
 "*__Table 4__. Strategic objective (SO) 4 indicators and reporting "
 "attributions*"
-msgstr "*__Таблица 4__. Показатели и компетенции отчетности Стратегической цели (СЦ) 4*"
+msgstr ""
+"*__Таблица 4__. Показатели и компетенции отчетности Стратегической цели "
+"(СЦ) 4*"
 
-#: ../../introduction.md:8
+#: ../../introduction.md:173
+#, fuzzy, python-brace-format
+msgid "{rspan}`1` Adoption Decision / proposed"
+msgstr " Принято / предложено"
+
+#: ../../introduction.md:177
 msgid "SO 4-1"
 msgstr "СЦ 4-1"
 
-#: ../../introduction.md:10
+#: ../../introduction.md:179
+#, fuzzy, python-brace-format
 msgid ""
-"{cspan}`3` Trends in carbon stocks above and below ground is a "
+"{cspan}`2` Trends in carbon stocks above and below ground is a "
 "multipurpose indicator used to measure progress towards both strategic "
 "objectives 1 and 4. See progress indicator SO 1-3."
-msgstr "Тенденции в области накопления углерода над и под землей — это многофункциональный показатель, используемый для измерения прогресса в достижении как стратегической цели 1, так и стратегической цели 4. См. показатели прогресса в рамках СЦ 1-3."
+msgstr ""
+"Тенденции в области накопления углерода над и под землей — это "
+"многофункциональный показатель, используемый для измерения прогресса в "
+"достижении как стратегической цели 1, так и стратегической цели 4. См. "
+"показатели прогресса в рамках СЦ 1-3."
 
-#: ../../introduction.md:13
+#: ../../introduction.md:182
 msgid "SO 4-2"
 msgstr "СЦ 4-2"
 
-#: ../../introduction.md:14
+#: ../../introduction.md:183
 msgid "Trends in abundance and distribution of selected species"
 msgstr "Тенденции в численности и ареале распределения отдельных видов"
 
-#: ../../introduction.md:15
+#: ../../introduction.md:184
 msgid "Red List Index"
 msgstr "Индекс Красного списка"
 
-#: ../../introduction.md:19
+#: ../../introduction.md:188
 msgid "SO 4-3"
 msgstr "СЦ 4-3"
 
-#: ../../introduction.md:20
+#: ../../introduction.md:189
 msgid "Trends in protected area coverage of important biodiversity areas"
-msgstr "Тенденции в области охвата заповедными зонами важных районов биоразнообразия"
+msgstr ""
+"Тенденции в области охвата заповедными зонами важных районов "
+"биоразнообразия"
 
-#: ../../introduction.md:21
+#: ../../introduction.md:190
 msgid ""
 "Average proportion of Terrestrial Key Biodiversity Areas covered by "
 "protected areas"
-msgstr "Средняя доля ключевых наземных районов биоразнообразия, охваченных заповедными зонами"
+msgstr ""
+"Средняя доля ключевых наземных районов биоразнообразия, охваченных "
+"заповедными зонами"
 
-#: ../../introduction.md:22
-msgid ""
-"Complementary indicator and corresponding metric proposed  in response to"
-" CRIC 17 recommendations and decision 7/COP.13."
-msgstr "Дополнительный показатель и соответствующая метрика предложены в ответ на рекомендации КРОК 17 и решение 7/СОР.13."
-
-#: ../../introduction.md:179
+#: ../../introduction.md:196
 msgid ""
 "*__Table 5__. Strategic objective (SO) 5 indicators and reporting "
 "attributions*"
-msgstr "*__Таблица 5__. Показатели и компетенции отчетности Стратегической цели (СЦ) 5*"
+msgstr ""
+"*__Таблица 5__. Показатели и компетенции отчетности Стратегической цели "
+"(СЦ) 5*"
 
-#: ../../introduction.md:8
+#: ../../introduction.md:208
 msgid "SO 5-1"
 msgstr "СЦ 5-1"
 
-#: ../../introduction.md:9
+#: ../../introduction.md:209
 msgid "Bilateral and multilateral public resources"
 msgstr "Двусторонние и многосторонние государственные ресурсы"
 
-#: ../../introduction.md:11
-msgid ""
-"Indicator adopted in decision 7/COP.13 as ‘Trends in international "
-"bilateral and multilateral official development assistance’"
-msgstr "Показатель принят решением 7/СОР.13 как «Тенденции в области международной двусторонней и многосторонней официальной помощи в целях развития»"
+#: ../../introduction.md:211
+msgid "7/COP.13 [^1]"
+msgstr ""
 
-#: ../../introduction.md:15
+#: ../../introduction.md:214
 msgid "SO 5-2"
 msgstr "СЦ 5-2"
 
-#: ../../introduction.md:16
+#: ../../introduction.md:215
 msgid "Domestic public resources"
 msgstr "Внутренние государственные ресурсы"
 
-#: ../../introduction.md:18
-msgid ""
-"Indicator adopted in decision 7/COP.13 as ‘Trends in domestic public "
-"resources’"
-msgstr "Показатель принят решением 7/СОР.13 как «Тенденции в области внутренних государственных ресурсов»"
+#: ../../introduction.md:217
+msgid "7/COP.13 [^2]"
+msgstr ""
 
-#: ../../introduction.md:21
+#: ../../introduction.md:220
 msgid "SO 5-3"
 msgstr "СЦ 5-3"
 
-#: ../../introduction.md:22
+#: ../../introduction.md:221
 msgid "International and domestic private resources"
 msgstr "Международные и внутренние ресурсы частного сектора"
 
-#: ../../introduction.md:24
-msgid ""
-"{rspan}`2` Indicators proposed in response to decision 11/COP.14, which "
-"requested the Global Mechanism to include additional quantitative data in"
-" the reporting template for SO 5 and provide information before the start"
-" of  the next reporting process on the possible development of progress "
-"indicators  on technology transfer under SO 5"
-msgstr "Показатели представлены в ответ на решение 11/COP.14, в котором Глобальному механизму было предложено включить дополнительные количественные данные в шаблон отчетности для СЦ 5 и предоставить до начала следующего процесса отчетности информацию о возможной разработке показателей прогресса в области передачи технологий в рамках СЦ 5"
-
-#: ../../introduction.md:31
+#: ../../introduction.md:226
 msgid "SO 5-4"
 msgstr "СЦ 5-4"
 
-#: ../../introduction.md:32
+#: ../../introduction.md:227
 msgid "Technology transfer"
 msgstr "Передача технологий"
 
-#: ../../introduction.md:36
+#: ../../introduction.md:232
 msgid "SO 5-5"
 msgstr "СЦ 5-5"
 
-#: ../../introduction.md:37
+#: ../../introduction.md:233
 msgid ""
 "Future support for activities related to the implementation of the "
 "Convention"
 msgstr "Будущая поддержка деятельности, связанной с осуществлением Конвенции"
 
-#: ../../introduction.md:226
+#: ../../introduction.md:244
 msgid "Reporting tools"
 msgstr "Инструменты отчетности"
 
-#: ../../introduction.md:228
+#: ../../introduction.md:246
 msgid ""
-"Since the 2018 reporting process, the performance review and assessment "
-"of implementation system (PRAIS) has been upgraded to bring it into line "
-"with modern systems architecture and the requests made by Parties at the "
-"fourteenth session of the COP. PRAIS 4 will offer the following "
-"improvements over PRAIS 3, among other things:"
-msgstr "После процесса представления отчетности за 2018 год система обзора результативности и оценки осуществления (СОРОО) была модернизирована в целях приведения ее в соответствие с современной архитектурой систем и просьбами, высказанными Сторонами на четырнадцатой сессии КС. В рамках СОРОО 4, среди прочего, будут предложены следующие улучшения по сравнению с СОРОО 3:"
+"For the 2026 reporting process, the performance review and assessment of "
+"implementation system (PRAIS 4) has been further improved to facilitate "
+"the reporting process. The most significant changes are:"
+msgstr ""
 
-#: ../../introduction.md:230
+#: ../../introduction.md:248
 msgid ""
-"A more user-friendly interface, including web-based reporting forms pre-"
-"filled with default data derived from global data sources. Information "
-"entered in the forms will be summarized in standalone country reports, "
-"downloadable and sharable outside the system. The system will also "
-"include additional data fields specific to affected areas for SOs 1 to 4;"
-msgstr "Более удобный интерфейс, включая веб-формы отчетности, предварительно заполненные данными по умолчанию, полученными из глобальных источников данных. Информация, введенная в формы, будет обобщена в отдельных отчетах по странам, доступных для загрузки и обмена за пределами системы. В системе также будут доступны дополнительные поля данных, относящихся к затронутым районам и предназначенных для СЦ 1 – СЦ 4."
+"The Overview tab allows each Party to monitor the status of all their SO "
+"and indicators, and to track progress in completing the national report. "
+"By default, forms are labelled as either “open” or “not applicable”. If a"
+" Party wishes to report on an indicator marked as “not applicable” they "
+"can simply change the form status to “open” and enter the required "
+"information. Once a form is ready for quality assurance, the Party should"
+" change its status to “in review” to notify the secretariat. The review "
+"process is iterative: after resolving any comments posted during the "
+"review, the Party should resubmit the form by setting it to “in review” "
+"again. Once the Secretariat approves the form, its status should be "
+"updated to “Finalized” prior to the formal submission of SO1 and/or the "
+"overall report;"
+msgstr ""
 
-#: ../../introduction.md:232
+#: ../../introduction.md:254
 msgid ""
-"A centralized database to securely store and manage country-submitted "
-"data;"
-msgstr "Централизованная база данных для безопасного хранения и управления данными, представленными странами."
+"A specific tab entitled CP to capture Country Profile information "
+"including land area and population;"
+msgstr ""
 
-#: ../../introduction.md:234
+#: ../../introduction.md:256
 msgid ""
-"New functionality to ingest and manage large geospatial datasets; this "
-"will permit the user to define, for instance, the location and boundaries"
-" of land degradation hotspots or zones of voluntary land degradation "
-"neutrality targets;"
-msgstr "Новые функциональные возможности для приема и управления большими геопространственными наборами данных; это позволит пользователю определять, например, местоположение и границы очагов максимальной деградации земель или зон добровольных целевых показателей обеспечения нейтральности деградации земель."
+"New functionality for SO1-1 to report one or more (max. five) regional "
+"land cover transition matrices which allow better capture of regional and"
+" local conditions;"
+msgstr ""
 
-#: ../../introduction.md:236
+#: ../../introduction.md:258
 msgid ""
-"Analytical, synthesis and visualization functions for the submitted data "
-"[^2]."
-msgstr "Функции анализа, синтеза и визуализации представленных данных [^2]."
+"Parties can now stratify the land productivity and soil organic carbon "
+"stock indicators using custom/national land cover classes as an "
+"alternative to the default UNCCD seven land cover classes;"
+msgstr ""
 
-#: ../../introduction.md:238
+#: ../../introduction.md:260
+msgid ""
+"The SO1 forms now also support the reporting of land improvement, in "
+"addition to land degradation, providing valuable insights in the context "
+"of achieving LDN;"
+msgstr ""
+
+#: ../../introduction.md:262
+msgid ""
+"Data on SDG indicators — excluding SDG indicator 15.3.1 — have been "
+"imported from the SDG Global Database as default data and synchronized "
+"with PRAIS to reduce the reporting burden and avoid duplication of data "
+"validation efforts;"
+msgstr ""
+
+#: ../../introduction.md:264
+msgid ""
+"The reporting forms have been simplified to the extent possible — for "
+"example, by removing non-essential tables and limiting reporting to key "
+"years necessary to capture the baseline and reporting periods;"
+msgstr ""
+
+#: ../../introduction.md:266
+msgid ""
+"Parties are encouraged to provide more narrative information and stories "
+"on their national and regional situations. Additional comment fields have"
+" been added after many of the tables under the indicators to facilitate "
+"this;"
+msgstr ""
+
+#: ../../introduction.md:268
+msgid ""
+"Geospatial information is now grouped by indicator making it easier to "
+"visualize raster layers that are relevant for each indicator reported. "
+"Geospatial information supporting indicator calculation is now "
+"dynamically linked to its respective reporting table such that if "
+"information reported in the table changes the geospatial information is "
+"automatically removed from the national report. In addition, transparency"
+" has been added to the spatial viewer to allow basemaps, such as high-"
+"resolution satellite imagery to be seen, underneath the geospatial layers"
+" used for reporting."
+msgstr ""
+
+#: ../../introduction.md:272
 msgid ""
 "The following reporting tools will be made available to country Parties "
 "in the six official United Nations languages:"
-msgstr "Странам — Сторонам Конвенции будут предоставлены следующие инструменты отчетности на шести официальных языках Организации Объединенных Наций:"
+msgstr ""
+"Странам — Сторонам Конвенции будут предоставлены следующие инструменты "
+"отчетности на шести официальных языках Организации Объединенных Наций:"
 
-#: ../../introduction.md:240
+#: ../../introduction.md:274
+#, fuzzy
 msgid ""
-"The PRAIS 4 user manual, which provides step-by-step procedures for "
-"system access and use;"
-msgstr "руководство пользователя СОРОО 4, в котором содержатся пошаговые процедуры доступа к системе и ее использования;"
+"The updated PRAIS 4 user manual, which provides step-by-step procedures "
+"for system access and use;"
+msgstr ""
+"руководство пользователя СОРОО 4, в котором содержатся пошаговые "
+"процедуры доступа к системе и ее использования;"
 
-#: ../../introduction.md:242
+#: ../../introduction.md:276
+#, fuzzy
 msgid ""
-"This reporting manual, which provides step-by-step methodological "
-"guidance for the preparation of national reports;"
-msgstr "настоящее руководство по отчетности, в котором содержится пошаговое методологическое руководство по подготовке национальных отчетов;"
+"This updated reporting manual, which provides step-by-step methodological"
+" guidance for the preparation of national reports;"
+msgstr ""
+"настоящее руководство по отчетности, в котором содержится пошаговое "
+"методологическое руководство по подготовке национальных отчетов;"
 
-#: ../../introduction.md:244
-msgid "An updated glossary of reporting terms and definitions."
+#: ../../introduction.md:278
+#, fuzzy
+msgid ""
+"An updated glossary of reporting terms and definitions included in this "
+"reporting manual;"
 msgstr "обновленный глоссарий терминов и определений отчетности."
 
-#: ../../introduction.md:246
+#: ../../introduction.md:280
 msgid ""
-"In addition, Parties can also refer to the following methodological "
-"reference documents (in English only):"
-msgstr "Кроме того, Стороны могут также ссылаться на следующие методологические справочные документы (только на английском языке):"
+"A set of e-learning videos for each SO providing information on the "
+"reporting steps required;"
+msgstr ""
 
-#: ../../introduction.md:248
+#: ../../introduction.md:282
+msgid ""
+"A chat functionality, which is embedded in PRAIS and accessible to "
+"country Parties and UNCCD technical experts to facilitate communication "
+"among them in a less formal way. Discussion forums on topics relevant to "
+"national reporting will also be set up for all users of the PRAIS "
+"platform to exchange ideas and communicate with UNCCD technical experts. "
+"Users have the option to choose a language to use in the chat app."
+msgstr ""
+
+#: ../../introduction.md:284
+#, fuzzy
+msgid ""
+"In addition, Parties should also refer to the following methodological "
+"reference documents (in English only):"
+msgstr ""
+"Кроме того, Стороны могут также ссылаться на следующие методологические "
+"справочные документы (только на английском языке):"
+
+#: ../../introduction.md:286
 msgid ""
 "Version 2 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land): Proportion of "
 "land that is degraded over total land area;"
-msgstr "версия 2 [Руководства по эффективной практике для достижения показателя 15.3.1 ЦУР](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land): Доля деградированных земель в общей площади земель;"
+msgstr ""
+"версия 2 [Руководства по эффективной практике для достижения показателя "
+"15.3.1 ЦУР](https://www.unccd.int/publications/good-practice-guidance-"
+"sdg-indicator-1531-proportion-land-degraded-over-total-land): Доля "
+"деградированных земель в общей площади земель;"
 
-#: ../../introduction.md:250
+#: ../../introduction.md:288
+#, fuzzy
 msgid ""
-"Good Practice Guidance for National Reporting on UNCCD Strategic "
-"Objective 3."
-msgstr "Руководство по эффективной практике для национальной отчетности по Стратегической цели 3 КБОООН."
+"The [Addendum to Version 2 of the Good Practice Guidance for SDG "
+"Indicator 15.3.1](https://www.unccd.int/resources/manuals-and-guides"
+"/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land);"
+msgstr ""
+"расчет показателей СЦ 1, включая показатель 15.3.1 ЦУР, в соответствии с "
+"версией 2 [Руководства по эффективной практике для достижения показателя "
+"15.3.1 ЦУР](https://www.unccd.int/publications/good-practice-guidance-"
+"sdg-indicator-1531-proportion-land-degraded-over-total-land);"
 
-#: ../../introduction.md:254
+#: ../../introduction.md:290
+msgid ""
+"[Good Practice Guidance for National Reporting on UNCCD Strategic "
+"Objective 3](https://www.unccd.int/resources/manuals-and-guides/good-"
+"practice-guidance-national-reporting-unccd-strategic-objective-3);"
+msgstr ""
+
+#: ../../introduction.md:292
+msgid ""
+"[Good Practice Guidance for National Reporting on UNCCD Strategic "
+"Objective 5](https://www.unccd.int/resources/manuals-and-guides/good-"
+"practice-guidance-national-reporting-unccd-strategic-objective-5)."
+msgstr ""
+
+#: ../../introduction.md:294
+msgid ""
+"Furthermore, a report, entitled [The Land "
+"Story](https://www.unccd.int/resources/publications/land-story-country-"
+"experiences-reporting-land-degradation-and-drought) (UNCCD, 2024) "
+"presents examples of best practices adopted by countries during the 2022 "
+"reporting cycle and is available for consultation."
+msgstr ""
+
+#: ../../introduction.md:296
 msgid "Data analytics tools"
 msgstr "Инструменты анализа данных"
 
-#: ../../introduction.md:256
+#: ../../introduction.md:298
 msgid ""
-"In line with decision 11/COP.14, Conservation International has further "
-"enhanced and expanded [Trends.Earth](http://trends.earth/docs/en/) to "
-"support the preparation and analysis of data for UNCCD national reporting"
-" in a format that can be automatically transferred to PRAIS."
-msgstr "В соответствии с решением 11/СОР.14 Международная организация по охране природы еще больше усилила и расширила [Trends.Earth](http://trends.earth/docs/en/) для поддержки подготовки и анализа данных для национальной отчетности по КБОООН в формате, который может быть автоматически передан в СОРОО."
+"In line with decision 4/COP.16, Conservation International has further "
+"enhanced Trends.Earth to address the critical technical issues raised by "
+"country Parties during the 2022 UNCCD reporting process. Trends.Earth has"
+" been upgraded to reflect the refinements contained in the Addendum to "
+"version 2 of the Good Practice Guidance for SDG Indicator 15.3.1. Further"
+" information on Trends.Earth functionality and updates can be found in "
+"the [Trends.Earth documentation](https://docs.trends.earth/en/latest/)."
+msgstr ""
 
-#: ../../introduction.md:258
-msgid ""
-"Trends.Earth is a free and open-source tool for monitoring indicators of "
-"land change. More specifically, Trends.Earth supports:"
-msgstr "Trends.Earth — это бесплатный инструмент с открытым исходным кодом для мониторинга показателей изменения земель. А именно, в Trends.Earth доступны:"
-
-#: ../../introduction.md:260
-msgid ""
-"The calculation of the SO 1 indicators, including SDG Indicator 15.3.1, "
-"following version 2 of the [Good Practice Guidance for SDG Indicator "
-"15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
-"indicator-1531-proportion-land-degraded-over-total-land);"
-msgstr "расчет показателей СЦ 1, включая показатель 15.3.1 ЦУР, в соответствии с версией 2 [Руководства по эффективной практике для достижения показателя 15.3.1 ЦУР](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land);"
-
-#: ../../introduction.md:262
-msgid ""
-"The recalculation of SDG indicator 15.3.1, accounting for any reported "
-"false positive and false negative degradation processes;"
-msgstr "пересчет показателя 15.3.1 ЦУР с учетом любых зарегистрированных ложноположительных и ложноотрицательных процессов деградации;"
-
-#: ../../introduction.md:264
-msgid ""
-"The calculation of indicator SO 2-3: Trends in the proportion of "
-"population exposed to land degradation, disaggregated by sex;"
-msgstr "расчет показателя СЦ 2-3: Тенденции изменения доли населения, затронутого деградацией земель, в разбивке по полу;"
-
-#: ../../introduction.md:266
-msgid ""
-"The calculation of the SO 3 indicators following the Good Practice "
-"Guidance for National Reporting on UNCCD Strategic Objective 3;"
-msgstr "расчет показателей SO 3 в соответствии с Руководством по эффективной практике для национальной отчетности по Стратегической цели 3 КБОООН;"
-
-#: ../../introduction.md:268
-msgid ""
-"Access to global data sources, including default data sources for "
-"national reporting;"
-msgstr "доступ к глобальным источникам данных, включая источники данных по умолчанию для национальной отчетности;"
-
-#: ../../introduction.md:270
-msgid ""
-"Integration of nationally or locally available data and nationally "
-"determined assumptions;"
-msgstr "интеграция имеющихся на национальном или местном уровне данных и определяемых на национальном уровне предположений;"
-
-#: ../../introduction.md:272
-msgid "Data transfer to PRAIS."
-msgstr "Передача данных в СОРОО."
-
-#: ../../introduction.md:274
+#: ../../introduction.md:300
 msgid "Default data"
 msgstr "Данные по умолчанию"
 
-#: ../../introduction.md:276
+#: ../../introduction.md:302
+#, fuzzy
 msgid ""
 "With a view to reducing the reporting burden and in accordance with the "
 "procedure established in decision 22/COP.11, the PRAIS 4 forms will be "
 "pre-filled with default national estimates based on available global data"
 " sources. Country Parties will have the possibility to verify or replace "
-"these national estimates using data sourced/computed nationally/locally."
-msgstr "В целях снижения бремени отчетности и в соответствии с процедурой, установленной решением 22/СОР.11, формы СОРОО 4 будут предварительно заполнены национальными оценками по умолчанию на основе имеющихся глобальных источников данных. Страны — Стороны Конвенции будут иметь возможность проверить или заменить эти национальные оценки с использованием данных, полученных/рассчитанных на национальном/местном уровне."
+"these national estimates using other datasets sourced/computed "
+"nationally/locally."
+msgstr ""
+"В целях снижения бремени отчетности и в соответствии с процедурой, "
+"установленной решением 22/СОР.11, формы СОРОО 4 будут предварительно "
+"заполнены национальными оценками по умолчанию на основе имеющихся "
+"глобальных источников данных. Страны — Стороны Конвенции будут иметь "
+"возможность проверить или заменить эти национальные оценки с "
+"использованием данных, полученных/рассчитанных на национальном/местном "
+"уровне."
 
-#: ../../introduction.md:278
+#: ../../introduction.md:304
+msgid ""
+"For reporting on indicators related to SO1, SO2 or SO3, countries wishing"
+" to replace the default national estimates using nationally or locally "
+"available data are advised and encouraged to use Trends.Earth for the "
+"preparation, analysis and transfer of their data into PRAIS. Other tools "
+"may also be used for data preparation if preferred as long as the "
+"methodology used is consistent with the Good Practice Guidance document "
+"on SDG Indicator 15.3.1 and its Addendum and the outputs are compatible "
+"with the requirements for upload to PRAIS."
+msgstr ""
+
+#: ../../introduction.md:306
+msgid ""
+"For reporting on indicators related to SO5, default data is also provided"
+" in a set of Excel files. Parties are requested to download these files "
+"and verify the activity-level default data provided therein. Further "
+"details on validating the default data are provided in this manual in the"
+" chapter related to SO5 reporting."
+msgstr ""
+
+#: ../../introduction.md:308
+msgid "National boundaries"
+msgstr ""
+
+#: ../../introduction.md:310
+#, fuzzy
 msgid ""
 "In order to provide national-level extracts of the global data sources "
 "for national reporting, the United Nations Geospatial Hub (hereinafter "
@@ -655,269 +856,709 @@ msgid ""
 "coherent alignment of national boundaries for consistent representation "
 "on a global scale. UN Map Data includes geospatial web services, which "
 "aim to provide a contextual global webservices background to the "
-"international community. The current flagship United Nations geospatial "
+"international community. The current flagship United Nations web map "
 "service is entitled Clear Map[^3] (hereinafter referred to as UN Clear "
 "Map). UN Clear Map was originally designed and created for the use of the"
 " United Nations Secretariat and system for their website and related web "
-"products, but is now a publicly available resource subject to the terms "
-"of use. The UN Clear Map service is available in PRAIS 4 in different "
+"products but is now a publicly available resource subject to the terms of"
+" use. The UN Clear Map service is available in PRAIS 4 in different "
 "cartographic styles and web canvases to give countries context for the "
 "geospatial reporting data. However, the UN Clear Map has scale "
-"constraints, as it cannot be used beyond a map scale of 1:4.5 million. As"
-" the PRAIS 4 map view is fixed to the extent of the country boundaries, "
-"countries which are fixed at scales finer than this will not be able to "
-"use UN Clear Map. Alternative web map services are provided for context "
-"at finer scales to compensate for the scale constraints of UN Clear Map."
-msgstr "Для предоставления на национальном уровне выборки данных из глобальных источников данных для национальной отчетности использовался Центр геопространственных данных Организации Объединенных Наций (далее именуемый Картографическими данными ООН), представляющий собой всемирную геопространственную базу данных, состоящую из информации о странах и географических названиях и согласованного выравнивания национальных границ для последовательного представления в глобальном масштабе. Картографические данные ООН включают геопространственные веб-сервисы, целью которых является предоставление международному сообществу контекстуальной информации о глобальных веб-сервисах. Нынешняя флагманская геопространственная служба Организации Объединенных Наций носит название Clear Map[^3] (здесь и далее именуемая UN Clear Map). UN Clear Map изначально была разработана и создана для использования Секретариатом и системой Организации Объединенных Наций для их веб-сайта и связанных с ним веб-продуктов, но в настоящее время является общедоступным ресурсом в соответствии с условиями использования. Картографический сервис UN Clear Map доступен в СОРОО 4 в различных картографических стилях и веб-холстах в целях предоставления странам контекста для данных геопространственной отчетности. Однако у UN Clear Map имеется ограничения по масштабу, поскольку использование сервиса за пределами масштаба карты 1:4,5 миллиона невозможно. Поскольку представление карты СОРОО 4 фиксировано в пределах границ страны, государства, чье масштабирование меньше указанного, не смогут использовать карту UN Clear. Предоставляются альтернативные сервисы веб-карт для контекста в более мелких масштабах, чтобы компенсировать ограничения масштаба UN Clear Map."
+"constraints, as it cannot be used beyond a map scale of 1:4.5 million. "
+"Alternative web map services are provided for context at finer scales to "
+"compensate for the scale constraints of UN Clear Map."
+msgstr ""
+"Для предоставления на национальном уровне выборки данных из глобальных "
+"источников данных для национальной отчетности использовался Центр "
+"геопространственных данных Организации Объединенных Наций (далее "
+"именуемый Картографическими данными ООН), представляющий собой всемирную "
+"геопространственную базу данных, состоящую из информации о странах и "
+"географических названиях и согласованного выравнивания национальных "
+"границ для последовательного представления в глобальном масштабе. "
+"Картографические данные ООН включают геопространственные веб-сервисы, "
+"целью которых является предоставление международному сообществу "
+"контекстуальной информации о глобальных веб-сервисах. Нынешняя "
+"флагманская геопространственная служба Организации Объединенных Наций "
+"носит название Clear Map[^3] (здесь и далее именуемая UN Clear Map). UN "
+"Clear Map изначально была разработана и создана для использования "
+"Секретариатом и системой Организации Объединенных Наций для их веб-сайта "
+"и связанных с ним веб-продуктов, но в настоящее время является "
+"общедоступным ресурсом в соответствии с условиями использования. "
+"Картографический сервис UN Clear Map доступен в СОРОО 4 в различных "
+"картографических стилях и веб-холстах в целях предоставления странам "
+"контекста для данных геопространственной отчетности. Однако у UN Clear "
+"Map имеется ограничения по масштабу, поскольку использование сервиса за "
+"пределами масштаба карты 1:4,5 миллиона невозможно. Поскольку "
+"представление карты СОРОО 4 фиксировано в пределах границ страны, "
+"государства, чье масштабирование меньше указанного, не смогут "
+"использовать карту UN Clear. Предоставляются альтернативные сервисы "
+"веб-карт для контекста в более мелких масштабах, чтобы компенсировать "
+"ограничения масштаба UN Clear Map."
 
-#: ../../introduction.md:280
+#: ../../introduction.md:312
+#, fuzzy
 msgid ""
-"The UN Map Data has been prepared by the United Nations Geospatial "
+"The UN Clear Map Data has been prepared by the United Nations Geospatial "
 "Information Section (formerly Cartographic Section) in New York. The "
 "designations employed and the presentation of material contained in the "
-"UN Map Data do not imply the expression of any opinion whatsoever on the "
-"part of the UNCCD concerning the legal status of any country, territory, "
-"city or area or of its authorities, or concerning the delimitation of its"
-" frontiers or boundaries."
-msgstr "Картографические данные ООН были подготовлены Секцией геопространственной информации Организации Объединенных Наций (бывшая картографическая секция) в Нью-Йорке. Используемые обозначения и представление материалов, содержащихся в Картографических данных ООН, не подразумевают выражения какого-либо мнения со стороны КБОООН относительно правового статуса какой-либо страны, территории, города или района или их властей или относительно делимитации их границ или пределов."
+"UN Clear Map Data do not imply the expression of any opinion whatsoever "
+"on the part of the UNCCD concerning the legal status of any country, "
+"territory, city or area or of its authorities, or concerning the "
+"delimitation of its frontiers or boundaries."
+msgstr ""
+"Картографические данные ООН были подготовлены Секцией геопространственной"
+" информации Организации Объединенных Наций (бывшая картографическая "
+"секция) в Нью-Йорке. Используемые обозначения и представление материалов,"
+" содержащихся в Картографических данных ООН, не подразумевают выражения "
+"какого-либо мнения со стороны КБОООН относительно правового статуса "
+"какой-либо страны, территории, города или района или их властей или "
+"относительно делимитации их границ или пределов."
 
-#: ../../introduction.md:282
+#: ../../introduction.md:314
 msgid ""
-"Countries wishing to replace the default national estimates using "
-"nationally or locally available data are advised and encouraged to use "
-"Trends.Earth for the preparation, analysis and transfer of their data "
-"into PRAIS. This includes the use of a national border which differs from"
-" the UN Map Data used for the preparation of the default datasets "
-"described above. Careful consideration should be given to the use of an "
-"alternative national border in that it must be consistent with the total "
-"land area reported under SO 1-1. Otherwise, discrepancies may arise in "
-"the reporting data derived from geospatial analysis using that border."
-msgstr "Странам, желающим изменить национальные оценки по умолчанию с использованием имеющихся на национальном или местном уровнях данных, настоятельно рекомендуется использовать Trends.Earth для подготовки, анализа и передачи их данных в систему СОРОО. Сюда также относится использование национальной границы, которая отличается от картографических данных ООН, применяемых для подготовки наборов данных по умолчанию, описанных выше. Следует тщательно рассмотреть вопрос об использовании альтернативной национальной границы, поскольку она должна соответствовать общей площади земель, указанной в СЦ 1-1. В противном случае могут возникнуть расхождения в отчетных данных, полученных в результате геопространственного анализа с использованием данной границы."
+"For cartographic representation and preparation of the default data, "
+"PRAIS uses the international boundaries of countries taken from the "
+"United Nations Map 0 geodata which is suitable for 1:1 million scale "
+"representation and serves global mapping purposes as opposed to local "
+"mapping. Countries can opt to use an alternative country border by "
+"uploading the polygon directly to the PRAIS spatial data viewer. However,"
+" should Parties opt to use an alternative country boundary layer, they "
+"are encouraged to engage with the Second Administrative Level Boundaries "
+"([SALB](https://salb.un.org/)) programme of the Geospatial Information "
+"Section & Statistics Division. The programme’s objective is to promote "
+"accessible, interoperable and global data and information on subnational "
+"units and boundaries. Participation in the programme will ensure Member "
+"States of the United Nations will avail of a global repository of "
+"authoritative information and geospatial data about the administrative "
+"unit structure of countries down to the second subnational level, and "
+"through time. Parties should engage with the SALB program directly by "
+"sending an email to <salb@un.org>."
+msgstr ""
 
-#: ../../introduction.md:286
+#: ../../introduction.md:321
+msgid ""
+"Careful consideration should be given to the use of an alternative "
+"national border in that it must be consistent with the total land area "
+"reported under SO 1-1. Otherwise, discrepancies may arise in the "
+"reporting data derived from geospatial analysis using that border."
+msgstr ""
+
+#: ../../introduction.md:325
 msgid "Open data sharing"
 msgstr "Открытый обмен данными"
 
-#: ../../introduction.md:288
+#: ../../introduction.md:327
+#, fuzzy
 msgid ""
 "By its decision 16/COP.11, the COP requested the secretariat to ensure "
 "that data and information from the reporting process are available and "
-"accessible to all, especially at the national and local levels."
-msgstr "В своем решении 16/СОР.11 КС просила секретариат обеспечить, чтобы данные и информация, полученные в ходе процесса представления отчетности, были открыты и доступны для всех, особенно на национальном и местном уровнях."
+"accessible to all, especially at the national and local levels. Decision "
+"11/COP.14 requests the secretariat to further analyse and present global "
+"and regional data in interactive formats."
+msgstr ""
+"В своем решении 16/СОР.11 КС просила секретариат обеспечить, чтобы данные"
+" и информация, полученные в ходе процесса представления отчетности, были "
+"открыты и доступны для всех, особенно на национальном и местном уровнях."
 
-#: ../../introduction.md:290
+#: ../../introduction.md:330
 msgid ""
-"When uploading data to PRAIS, particularly spatial data and associated "
-"attribute data, country Parties will be prompted to choose whether to: "
-"(i) use an existing Creative Commons licence; or (ii) use an existing "
-"licence of their own."
-msgstr "При загрузке данных в СОРОО, в частности пространственных данных и связанных с ними атрибутивных данных, странам — Сторонам Конвенции будет предложено выбрать, следует ли: (i) использовать предложенную общую творческую лицензию; или (ii) использовать существующую собственную лицензию."
+"In order to maximize the interoperability and impact of data submitted by"
+" Parties and to allow the secretariat to make regional and global "
+"aggregate information from the national reports, all Parties are "
+"encouraged to openly license nationally reported data under either the "
+"Creative Commons Universal Public Domain Dedication 1.0 (CC0), or the "
+"most open Creative Commons Attribution 4.0 International (CC BY) licence."
+msgstr ""
 
-#: ../../introduction.md:292
+#: ../../introduction.md:332
 msgid ""
-"These options aim to empower country Parties reporting through PRAIS to "
-"set the terms of use of the national data uploaded or created as part of "
-"the reporting process. Country Parties are free to choose a licence that "
-"meets their requirements. However, most of the default data provided to "
-"Parties through PRAIS and Trends.Earth is already in the public domain as"
-" described here, while other default datasets have been licenced by their"
-" respective data providers, namely the European Space Agency Climate "
-"Change Initiative Land Cover and the International Soil Reference and "
-"Information Centre SoilGrids, under an Attribution-ShareAlike licence. "
-"Thus, these datasets are subject to the terms of the Attribution-"
-"ShareAlike license. Users of these datasets, such as the UNCCD and its "
-"Parties, must reshare the data on the same terms granted by the licensor "
-"and with proper attribution to them. For more information on the issue of"
-" data sharing, see Annex I of this reporting manual."
-msgstr "Такие варианты дают странам — Сторонам Конвенции, представляющим отчетность с помощью СОРОО, возможность устанавливать условия использования национальных данных, загруженных или созданных в рамках процесса представления отчетности. Страны — Стороны Конвенции могут без ограничений выбирать лицензию, соответствующую их требованиям. Однако большая часть данных по умолчанию, предоставляемых Сторонам Конвенции через СОРОО и Trends.Earth, уже находится в общественном доступе, как описано здесь, в то время как другие наборы данных по умолчанию были лицензированы их соответствующими поставщиками данных, а именно инициативой в области изменения климата Европейского космического агентства European Space Agency Climate Change Initiative Land Cover и Международным справочно-информационным центром по почвам SoilGrids, в соответствии с лицензией на совместное использование. Таким образом, эти наборы данных подпадают под действие условий лицензии Attribution-ShareAlike. Пользователи этих наборов данных, такие как КБОООН и ее Стороны, должны повторно предоставлять данные на тех же условиях, что и лицензиар, и с надлежащим указанием авторства. Для получения дополнительной информации по вопросу обмена данными см. Приложение I к настоящему руководству по отчетности."
+"The CC0 public domain dedication enables unrestricted reuse without the "
+"need for attribution, which can be especially useful for foundational "
+"datasets or where reuse by researchers or international agencies is a "
+"priority, as is typically the case for those datasets related to land "
+"cover and land degradation assessments."
+msgstr ""
 
-#: ../../introduction.md:294
+#: ../../introduction.md:334
+msgid ""
+"The CC BY licence is the most open of the Creative Commons licenses, "
+"making it a fundamental legal tool for data interoperability and "
+"supporting broad reuse and adaptation. The CC BY licence only has one "
+"condition: attribution. When more licencing conditions are added, it "
+"becomes harder to combine data that uses other licences and control the "
+"licence of the resulting dataset, report, or product. The CC BY licence "
+"is also recognized by global data communities as a gold standard for "
+"maximized sharing, including across the UN system and as required by the "
+"European Commission’s requirement on high-value datasets."
+msgstr ""
+
+#: ../../introduction.md:336
+msgid ""
+"By applying the CC0 public domain dedication or CC BY licences to "
+"national datasets:"
+msgstr ""
+
+#: ../../introduction.md:338
+msgid ""
+"Parties contribute to efficient, evidence-based policy and scientific "
+"cooperation at all levels;"
+msgstr ""
+
+#: ../../introduction.md:340
+msgid ""
+"Parties strengthen the global visibility and impact of their national "
+"work on land and sustainability;"
+msgstr ""
+
+#: ../../introduction.md:342
+msgid ""
+"Parties’ data can easily be reused by other agencies and organizations, "
+"including regional hubs, giving them most freedom of the licence they "
+"want to publish under;"
+msgstr ""
+
+#: ../../introduction.md:344
+msgid ""
+"Parties enable the seamless integration of their data into the UNCCD’s "
+"aggregate information products based on national reports such as those "
+"displayed on the UNCCD Data Dashboard (that is licensed as CC BY-NC)."
+msgstr ""
+
+#: ../../introduction.md:346
+msgid ""
+"These guidelines are designed to maximize the interoperability of "
+"submitted national data by clearly defining its conditions of reuse. "
+"Interoperability and synergies in information exchange between "
+"Conventions is only possible when data can be legally, confidently, and "
+"consistently reused across systems, which requires reuse conditions that "
+"are both explicit and standardized."
+msgstr ""
+
+#: ../../introduction.md:348
+msgid ""
+"You can read more about the licences in Annex I of these guidelines and "
+"you can find comprehensive information at the [Creative Commons "
+"website](https://creativecommons.org/share-your-work/cclicenses/)."
+msgstr ""
+
+#: ../../introduction.md:350
+msgid ""
+"Taking the above guidelines into account, Parties have the option to fill"
+" out a User Specific Licence (USL) form in PRAIS and choose whether to: "
+"(i) use an existing Creative Commons licence; or (ii) opt for an "
+"exemption and select a custom licence."
+msgstr ""
+
+#: ../../introduction.md:352
+msgid ""
+"It is important to note that most of the default datasets have been "
+"licensed by their respective data providers under a Creative Commons "
+"Attribution 4.0 International (CC BY 4.0) licence. Thus, these datasets "
+"are subject to the one condition of that licence: attribution. Users of "
+"these datasets, such as the UNCCD and its Parties, must therefore "
+"attribute the source of the licence if using these default datasets in "
+"their national report. For more information on the issue of data sharing "
+"and how to complete the USL form, see Annex I of this reporting manual."
+msgstr ""
+
+#: ../../introduction.md:354
 msgid "Reporting frequency"
 msgstr "Периодичность представления отчетов"
 
-#: ../../introduction.md:296
+#: ../../introduction.md:356
 msgid ""
-"By its decision 15/COP. 13, the COP approved a four-year frequency for "
-"national reporting. During the first reporting process under the UNCCD "
-"2018–2030 Strategic Framework in 2018, Parties reported data and "
-"information for the baseline period 2000–2015. From the 2022 reporting "
-"process onward, Parties will quantify the indicators and report national "
-"estimates for four-year reporting periods as indicated in table 6 below."
-msgstr "Своим решением 15/СОР. 13 КС утвердила периодичность представления национальных отчетов, равную четырем годам. В ходе первого процесса представления отчетности в соответствии со Стратегической рамочной программой КБОООН на 2018–2030 годы в 2018 году Стороны представили данные и информацию за базовый период 2000–2015 годов. Начиная с процесса представления отчетности за 2022 год, Стороны будут количественно оценивать показатели и представлять национальные оценки за четырехлетние отчетные периоды, как указано в таблице 6 ниже."
+"By its decision 15/COP.13, the COP approved a four-year frequency for "
+"national reporting (Table 6)."
+msgstr ""
 
-#: ../../introduction.md:298
+#: ../../introduction.md:358
 msgid ""
-"*__Table 6__. UNCCD reporting process and corresponding reporting periods"
-" (current reporting process and period in bold)*"
-msgstr "*__Таблица 6__. Процесс представления отчетности в рамках КБОООН и соответствующие отчетные периоды (текущий процесс представления отчетности и период выделены жирным шрифтом) *"
+"During the 2018 reporting process, Parties reported data and information "
+"for the period 2000–2015, which serves as the baseline for SDG indicator "
+"15.3.1 and its sub-indicators. After this initial reporting, Parties "
+"continue to report the status of land condition and the SDG indicator "
+"15.3.1 every four years, thereby increasing the reporting periods in "
+"four-year increments."
+msgstr ""
 
-#: ../../introduction.md:1
+#: ../../introduction.md:361
+msgid ""
+"Figure 1 shows that the first reporting period (Period 1) completed in "
+"2022, covered the timeframe from January 1st, 2016, to December 31st, "
+"2019. The results of the Period 1 assessment included the estimation of "
+"the proportion of degraded land (SDG Indicator 15.3.1) for 2019 (t1). "
+"Subsequent reports will reflect the land condition at the end of 2023 "
+"(t2), 2027 (t3) and, potentially, 2031 (t4), integrating changes that "
+"have occurred since the end of the baseline period (from January 1st, "
+"2016). Therefore the reporting is incremental in time, each reporting "
+"period incorporating four additional years compared to the previous one."
+msgstr ""
+
+#: ../../introduction.md:366
+msgid ""
+"_**Figure 1.** Timeline illustrating the four-year UNCCD reporting "
+"frequency for SDG indicator 15.3.1_"
+msgstr ""
+
+#: ../../introduction.md:368
+msgid "![](/img/fig1.png)"
+msgstr ""
+
+#: ../../introduction.md:370
+msgid ""
+"_**Table 6**. The first column shows the year of reporting to the UNCCD; "
+"the second column shows the relevant reporting periods for each report "
+"submission._"
+msgstr ""
+
+#: ../../introduction.md:377
 msgid "UNCCD Reporting Process"
 msgstr "Процесс представления отчетности согласно КБОООН"
 
-#: ../../introduction.md:2
+#: ../../introduction.md:378
 msgid "UNCCD Reporting Periods"
 msgstr "Отчетные периоды КБОООН"
 
-#: ../../introduction.md:3
+#: ../../introduction.md:379
 msgid "2018"
 msgstr "2018 г."
 
-#: ../../introduction.md:4
+#: ../../introduction.md:380
 msgid "Baseline 2000-2015"
 msgstr "Базовый уровень 2000–2015 гг."
 
-#: ../../introduction.md:5
-msgid "__2022__"
-msgstr "__2022 г.__"
-
-#: ../../introduction.md:6
-msgid "__2016-2019__"
-msgstr "__2016–2019 гг.__"
-
-#: ../../introduction.md:7
-msgid "2026"
+#: ../../introduction.md:381
+#, fuzzy
+msgid "2022"
 msgstr "2026 г."
 
-#: ../../introduction.md:8
-msgid "2020-2023"
+#: ../../introduction.md:382
+#, fuzzy
+msgid "2016-2019"
+msgstr "__2016–2019 гг.__"
+
+#: ../../introduction.md:383
+#, fuzzy
+msgid "**2026**"
+msgstr "2026 г."
+
+#: ../../introduction.md:384
+#, fuzzy
+msgid "**2016-2023**"
 msgstr "2020–2023 гг."
 
-#: ../../introduction.md:9
+#: ../../introduction.md:385
 msgid "2030"
 msgstr "2030 г."
 
-#: ../../introduction.md:10
-msgid "2024-2027"
+#: ../../introduction.md:386
+#, fuzzy
+msgid "2016-2027"
 msgstr "2024–2027 гг."
 
-#: ../../introduction.md:11
+#: ../../introduction.md:387
 msgid "2034"
 msgstr "2034 г."
 
-#: ../../introduction.md:12
-msgid "2028-2031"
+#: ../../introduction.md:388
+#, fuzzy
+msgid "2016-2031"
 msgstr "2028–2031 гг."
 
-#: ../../introduction.md:319
+#: ../../introduction.md:391
 msgid "Recalculations and time series consistency"
 msgstr "Пересчет и согласованность временных рядов"
 
-#: ../../introduction.md:321
+#: ../../introduction.md:393
 msgid ""
 "Advances in methodologies and data availability may require periodic "
 "recalculations of previously submitted national estimates. While "
 "recalculations may require refinements in terms of target-setting, they "
 "ensure the consistency of the time series and the comparability between "
 "the baseline and future monitoring data."
-msgstr "Достижения в области методологий и доступности данных могут потребовать периодических пересчетов ранее представленных национальных оценок. Несмотря на то, что пересчет может потребовать уточнения с точки зрения установления целевых показателей, он обеспечивает согласованность временных рядов и сопоставимость между базовыми и будущими данными мониторинга."
+msgstr ""
+"Достижения в области методологий и доступности данных могут потребовать "
+"периодических пересчетов ранее представленных национальных оценок. "
+"Несмотря на то, что пересчет может потребовать уточнения с точки зрения "
+"установления целевых показателей, он обеспечивает согласованность "
+"временных рядов и сопоставимость между базовыми и будущими данными "
+"мониторинга."
 
-#: ../../introduction.md:323
-msgid ""
-"In this reporting process, the key reasons for recalculation, accompanied"
-" by explanatory information (including the quantitative impact of the "
-"recalculation on (i) the baseline estimates compared with the baseline "
-"reported in 2018; and (ii) previously submitted national targets), should"
-" be reported. A separate reporting form has been created in PRAIS 4 for "
-"this purpose."
-msgstr "В ходе данного процесса предоставления отчетности следует сообщать об основных причинах пересчета, сопровождаемых пояснительной информацией (включая количественное влияние пересчета на (i) базовые оценки по сравнению с базовыми показателями, представленными в 2018 году; и (ii) ранее представленные национальные целевые показатели). С этой целью в СОРОО 4 была создана отдельная форма отчетности."
-
-#: ../../introduction.md:325
+#: ../../introduction.md:396
+#, fuzzy
 msgid ""
 "For instance, given the evolution of the calculation methods presented in"
 " version 2 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
-"indicator-1531-proportion-land-degraded-over-total-land), it is "
-"recommended that previously submitted baseline estimates of all SO 1 "
-"indicators, including SDG Indicator 15.3.1, be recalculated and included "
-"in the national report to be submitted in 2022. Default national "
-"estimates provided through the PRAIS forms have already been recalculated"
-" for country Parties using the new calculation methods. Therefore, "
-"recalculation methods should only be reported if opting to use national "
-"datasets."
-msgstr "Например, учитывая эволюцию методов расчета, представленных в версии 2 [Руководства по эффективной практике для показателя 15.3.1 ЦУР](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land), рекомендуется, чтобы ранее представленные базовые оценки всех показателей СЦ 1, включая показатель 15.3.1 ЦУР, были пересчитаны и включены в национальный отчет, который будет представлен в 2022 году. Пересчет национальных оценок по умолчанию, представленных в формах СОРОО, уже были произведен для стран — Сторон Конвенции с использованием новых методов расчета. Поэтому о методах пересчета следует сообщать только в случае, если будет принято решение использовать национальные наборы данных."
+"indicator-1531-proportion-land-degraded-over-total-land) and its "
+"[Addendum](https://www.unccd.int/resources/manuals-and-guides/addendum-"
+"good-practice-guidance-sdg-indicator-1531-proportion-land), it is "
+"recommended that previously submitted estimates of all SO1 indicators, "
+"including SDG Indicator 15.3.1, be recalculated and included in the "
+"national report to be submitted in 2026. Default national estimates "
+"provided through the PRAIS forms have already been recalculated for "
+"country Parties using the new calculation methods."
+msgstr ""
+"Например, учитывая эволюцию методов расчета, представленных в версии 2 "
+"[Руководства по эффективной практике для показателя 15.3.1 "
+"ЦУР](https://www.unccd.int/publications/good-practice-guidance-sdg-"
+"indicator-1531-proportion-land-degraded-over-total-land), рекомендуется, "
+"чтобы ранее представленные базовые оценки всех показателей СЦ 1, включая "
+"показатель 15.3.1 ЦУР, были пересчитаны и включены в национальный отчет, "
+"который будет представлен в 2022 году. Пересчет национальных оценок по "
+"умолчанию, представленных в формах СОРОО, уже были произведен для стран —"
+" Сторон Конвенции с использованием новых методов расчета. Поэтому о "
+"методах пересчета следует сообщать только в случае, если будет принято "
+"решение использовать национальные наборы данных."
 
-#: ../../introduction.md:327
+#: ../../introduction.md:399
 msgid ""
 "For a broader discussion on the issue of recalculations, see chapter 6 of"
 " version 2 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
-msgstr "Для более широкого обсуждения вопроса о перерасчетах см. главу 6 версии 2 [Руководства по эффективной практике для показателя 15.3.1 ЦУР](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)."
+msgstr ""
+"Для более широкого обсуждения вопроса о перерасчетах см. главу 6 версии 2"
+" [Руководства по эффективной практике для показателя 15.3.1 "
+"ЦУР](https://www.unccd.int/publications/good-practice-guidance-sdg-"
+"indicator-1531-proportion-land-degraded-over-total-land)."
 
-#: ../../introduction.md:329
-msgid "Process and schedule for the 2022 reporting process"
+#: ../../introduction.md:401
+msgid "Submission of the national report, validation and review process"
+msgstr ""
+
+#: ../../introduction.md:403
+msgid ""
+"Building on the experiences and lessons learned from the use of PRAIS in "
+"the 2022 reporting process, a next generation of the on-line platform was"
+" developed for the 2026 reporting process to improve data entry, review, "
+"communication and quality assurance functionalities. The design and "
+"upgrade of the platform was carried out bearing in mind the following "
+"objectives:"
+msgstr ""
+
+#: ../../introduction.md:405
+msgid ""
+"A) Quality Assurance - To ensure that national reports are comprehensive,"
+" internally consistent, aligned with UNCCD guidelines and well-"
+"integrated, the platform should implement robust validation rules. These "
+"rules serve as quality control mechanisms to verify the accuracy, "
+"completeness, and coherence of submitted data before it is used by the "
+"secretariat in aggregate reports and derivative information products."
+msgstr ""
+
+#: ../../introduction.md:407
+msgid ""
+"B) Transparency – the platform should enable access to all the "
+"documentation necessary for understanding how the indicators should be "
+"reported, including explanations of key terms, the default data sources, "
+"definitions and the methodologies used."
+msgstr ""
+
+#: ../../introduction.md:409
+msgid ""
+"C) Ease of use – the platform should have an intuitive interface with an "
+"overview country management dashboard, forms which allow easy data entry,"
+" switching between national and default data sources, and upload of other"
+" datasets and/or documentation."
+msgstr ""
+
+#: ../../introduction.md:411
+msgid ""
+"D) Improved communication – the platform should have a transparent review"
+" and revision functionality, which allows tracking of changes in the "
+"reported figures and facilitates understanding of the review process "
+"flow."
+msgstr ""
+
+#: ../../introduction.md:413
+msgid ""
+"E) Flexibility – the platform should clearly outline the differentiated "
+"reporting obligations of Affected Country Parties and Developed Country "
+"Parties, while allowing countries the flexibility to adjust the "
+"indicators they report—for example, by choosing to report on optional "
+"indicators or on indicators generally considered not applicable to their "
+"country category."
+msgstr ""
+
+#: ../../introduction.md:415
+msgid ""
+"Once a reporting form has been completed and all the tables in that form "
+"have been filled in, the Reporting Officer can make the form  available "
+"to the secretariat for review. This will lock the form so that no further"
+" editing can take place and allow the review process to begin. The review"
+" is carried out by the UNCCD secretariat, and is necessary to ensure that"
+" reported figures are consistent and that the  reporting methodology is "
+"applied correctly. To make a form available for review, its status in the"
+" platform must be set to “In Review”. If during the review process the "
+"need for clarifications or amendments arises, the reviewers can insert "
+"feedback via comments and send back the form to the national reporting "
+"officer. The national reporting officer is notified when the review "
+"process is completed and if comments need to be addressed. The form will "
+"then be again set to “Open” mode and the reporting officer can address "
+"the comments and modify the report accordingly and resubmit it for "
+"another review cycle. When no further clarifications or amendments are "
+"required, the form is considered finalized and ready for the final "
+"submission to the secretariat."
+msgstr ""
+
+#: ../../introduction.md:423
+msgid ""
+"Building on the lessons learned from the 2022 reporting process, a number"
+" of system validation rules have been implemented in PRAIS for 2026 "
+"reporting. These will appear as errors when users try to save the "
+"reporting form. Errors (arising from the application of system validation"
+" rules) appear on the forms to highlight any major discrepancies in "
+"reported data (see inter-tabular consistency paragraph below). The error "
+"message will help the user understand the issue and indicate to the user "
+"how to rectify the problem before being allowed to save the form."
+msgstr ""
+
+#: ../../introduction.md:428
+msgid ""
+"Inter-tabular consistency: the total country area and demographics, as "
+"presented in the country profile (CP-1.T1 and CP-1.T2), constitute the "
+"basis for reporting in many of the other reporting tables. For inter-"
+"tabular consistency, the total country, land and water body area as well "
+"as total population must not be less than the corresponding area or "
+"population estimates in SO1, SO2-3, SO3-1 and SO3-2 tables. The system "
+"automatically prefills the total country, land and water body areas and "
+"national population in the country profile based on default data. If any "
+"reported degraded area, area under drought or populations exposed exceed "
+"the values reported in the country profile an error will appear since the"
+" percentage value reported cannot normally exceed 100%."
+msgstr ""
+
+#: ../../introduction.md:433
+msgid ""
+"Having negative numbers in tables where only positive numbers are allowed"
+" or having non-numeric characters in numeric-only fields also trigger "
+"error messages. Regardless of what validation rule triggers the error, "
+"the error will prevent the saving of a form and must be rectified by the "
+"user before the form can be saved or submitted for review."
+msgstr ""
+
+#: ../../introduction.md:435
+#, fuzzy
+msgid "Process and schedule for the 2026 reporting process"
 msgstr "Процесс и график процесса отчетности 2022 года"
 
-#: ../../introduction.md:331
+#: ../../introduction.md:437
 msgid ""
-"The 2022 reporting process is expected to commence in November 2021, "
-"contingent on the timing of the PRAIS 4 launch. If reporting commences at"
-" the beginning of November 2021, the deadline for submission of national "
-"reports could be May 2022, still pending a final decision by the "
-"Executive Secretary and the CRIC Bureau, who will assess progress made in"
-" reporting by Parties early next year."
-msgstr "Ожидается, что процесс отчетности 2022 года будет начат в ноябре 2021 года, в зависимости от сроков запуска СОРОО 4. Если представление отчетности стартует в начале ноября 2021 года, крайним сроком представления национальных отчетов может быть май 2022 года, однако этот вопрос все еще остается на рассмотрении до принятия окончательного решения Исполнительным секретарем и Бюро КРОК, которые оценят прогресс, достигнутый Сторонами в представлении отчетности в начале следующего года."
+"The deadlines for submission of national reports are tentatively set for "
+"November 2026 for reporting on SO1, and February 2027 for the remaining "
+"SOs. The CRIC Bureau will monitor progress made throughout the 2026 "
+"reporting process to decide on adjustments to this timeline, if needed."
+msgstr ""
 
-#: ../../introduction.md:333
+#: ../../introduction.md:439
+#, fuzzy
 msgid ""
-"Various measures will be taken to support Parties in preparing the "
-"national reports and providing high quality information:"
-msgstr "Будут приняты различные меры для оказания поддержки Сторонам в подготовке национальных отчетов и предоставлении высококачественной информации:"
+"Various measures will be taken by the secretariat to support Parties in "
+"preparing the national reports and providing high quality information:"
+msgstr ""
+"Будут приняты различные меры для оказания поддержки Сторонам в подготовке"
+" национальных отчетов и предоставлении высококачественной информации:"
 
-#: ../../introduction.md:335
+#: ../../introduction.md:441
+#, fuzzy
 msgid ""
-"Capacity development activities will be organized starting in November "
-"2021. Due to COVID-19 and related travel restrictions, those capacity "
-"development activities will have to be designed as online tuition and "
-"webinars aimed at introducing national focal points and assigned "
-"reporting officers to the new reporting requirements, methodologies, data"
-" and tools;"
-msgstr "С ноября 2021 года будут организованы мероприятия по наращиванию потенциала. Из-за COVID-19 и связанных с этим ограничений на поездки мероприятия по наращиванию потенциала должны быть представлены в виде онлайн-курсов и вебинаров, направленных на ознакомление национальных координаторов и назначенных сотрудников по отчетности с новыми требованиями, методологиями, данными и инструментами отчетности."
+"In-person regional capacity development activities will be organized. "
+"These aim to introduce national focal points and assigned reporting "
+"officers to the updated reporting requirements, methodologies, data and "
+"tools;"
+msgstr ""
+"С ноября 2021 года будут организованы мероприятия по наращиванию "
+"потенциала. Из-за COVID-19 и связанных с этим ограничений на поездки "
+"мероприятия по наращиванию потенциала должны быть представлены в виде "
+"онлайн-курсов и вебинаров, направленных на ознакомление национальных "
+"координаторов и назначенных сотрудников по отчетности с новыми "
+"требованиями, методологиями, данными и инструментами отчетности."
 
-#: ../../introduction.md:337
+#: ../../introduction.md:443
+#, fuzzy
 msgid ""
 "The secretariat and the Global Mechanism, with the assistance of "
-"consultants, will provide technical backstopping throughout the reporting"
-" process;"
-msgstr "Секретариат и Глобальный механизм при содействии консультантов будут оказывать техническую поддержку на протяжении всего процесса представления отчетности."
+"consultants and/or regional institutions, will provide technical "
+"backstopping throughout the reporting process;"
+msgstr ""
+"Секретариат и Глобальный механизм при содействии консультантов будут "
+"оказывать техническую поддержку на протяжении всего процесса "
+"представления отчетности."
 
-#: ../../introduction.md:339
+#: ../../introduction.md:445
+#, fuzzy
 msgid ""
-"An online helpdesk facility will be available via PRAIS 4 to respond to "
+"An online helpdesk facility, which can be accessed at "
+"<https://support.unccd.int/> will be available via PRAIS to respond to "
 "queries from Parties;"
-msgstr "Онлайн-служба поддержки будет доступна через СОРОО 4 для оказания помощи в ответ на запросы Сторон Конвенции."
+msgstr ""
+"Онлайн-служба поддержки будет доступна через СОРОО 4 для оказания помощи "
+"в ответ на запросы Сторон Конвенции."
 
-#: ../../introduction.md:341
+#: ../../introduction.md:447
+msgid ""
+"A multi-lingual chat functionality, which is embedded in PRAIS and "
+"accessible to country Parties and UNCCD technical experts to facilitate "
+"communication among them in a less formal way,"
+msgstr ""
+
+#: ../../introduction.md:449
 msgid ""
 "National reports will undergo a quality assurance procedure prior to "
 "final submission to ensure the provision of consistent, transparent, "
 "comparable, accurate and complete information."
-msgstr "До окончательного представления национальные отчеты будут проходить процедуру обеспечения качества в целях обеспечения последовательности, прозрачности, сопоставимости, точности и полноты информации."
+msgstr ""
+"До окончательного представления национальные отчеты будут проходить "
+"процедуру обеспечения качества в целях обеспечения последовательности, "
+"прозрачности, сопоставимости, точности и полноты информации."
 
-#: ../../introduction.md:343
+#: ../../introduction.md:451
+#, fuzzy
 msgid ""
-"At its twenty-first session, the CRIC will review and analyse the "
-"information submitted during the 2022 reporting process."
-msgstr "На своей двадцать первой сессии КРОК рассмотрит и проанализирует информацию, собранную в ходе процесса представления отчетности в 2022 году."
+"At its twenty-fifth session, the CRIC will review and analyse the "
+"information submitted during the 2026 reporting process."
+msgstr ""
+"На своей двадцать первой сессии КРОК рассмотрит и проанализирует "
+"информацию, собранную в ходе процесса представления отчетности в 2022 "
+"году."
 
-#: ../../introduction.md:73
+#: ../../introduction.md:453
+#, fuzzy
+msgid "Country profile"
+msgstr "Затрагиваемые страны — Стороны Конвенции"
+
+#: ../../introduction.md:455
 msgid ""
-"Indicators under SO 1 and SDG indicator 15.3.1 are optional for reporting"
-" by developed country Parties. Developed country Parties may wish to "
-"submit information on these indicators on a voluntary basis for the "
-"purpose of reporting on progress towards the SDGs."
-msgstr "Показатели в рамках СЦ 1 и показатель 15.3.1 ЦУР являются необязательными для использования в ходе представления отчетности развитыми странами – Сторонами Конвенции. Развитые страны — Стороны Конвенции могут по желанию представить информацию по этим показателям на добровольной основе для целей отчетности о прогрессе в достижении ЦУР."
+"Information on the total country area, as well as its division into total"
+" land area and area covered by water bodies are prerequisites for the "
+"calculation of amount of degraded or improved land and other indicators. "
+"Information on national population size and its composition in terms of "
+"number of males and females is necessary for the calculation of a number "
+"of the indicators. This information is gathered in a Country Profile Form"
+" and the data is used by indicators with related dependencies."
+msgstr ""
 
-#: ../../introduction.md:252
+#: ../../introduction.md:457
+msgid "Land Area"
+msgstr ""
+
+#: ../../introduction.md:460
+msgid "Related areas in the PRAIS 4 platform: table CP-1.T1"
+msgstr ""
+
+#: ../../introduction.md:463
 msgid ""
-"Delivery of analytical, synthesis and visualization functions expected in"
-" September - December 2022."
-msgstr "Реализация функций анализа, синтеза и визуализации ожидается в сентябре — декабре 2022 года."
+"Information on the total land area, area covered by water bodies, and "
+"total country area is required to calculate the proportion of land that "
+"is degraded over total land area (SDG indicator 15.3.1), but also to "
+"calculate indicators to track progress towards other SOs (e.g. SO 3-1: "
+"Trends in the proportion of land under drought over the total land area)."
+msgstr ""
 
-#: ../../introduction.md:284
-msgid "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
-msgstr "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
+#: ../../introduction.md:465
+msgid ""
+"Total land area, total water bodies area and total country area require "
+"respective estimates to be reported in square kilometres (km2) for 2000, "
+"2015, 2019 and 2023 or closest available years (to align with the initial"
+" and final years of the baseline and reporting periods for SDG indicator "
+"15.3.1). Land area data is pre-filled in the reporting table CP-1.T1. "
+"Estimates are based on the default land cover data and, as such, they "
+"could differ from official national statistics. The pre-filled data can "
+"be changed by clicking on the ‘National Data’ switch above the table. "
+"However, it is important to ensure consistency with the land cover data "
+"and the SDG indicator 15.3.1 estimates. Parties should note that the "
+"total country area is auto-calculated in PRAIS from the addition of the "
+"total land area and water bodies and is therefore not an editable field."
+msgstr ""
+
+#: ../../introduction.md:472
+msgid ""
+"Any changes to the default estimates are to be justified in the "
+"‘Comments’ column or ´Comments´ field below the table."
+msgstr ""
+
+#: ../../introduction.md:474
+msgid "Demographics"
+msgstr ""
+
+#: ../../introduction.md:477
+msgid "Related areas in the PRAIS 4 platform: table CP-1.T2"
+msgstr ""
+
+#: ../../introduction.md:480
+msgid ""
+"Information on total population as well as number of females and males is"
+" important to understand the impacts of land degradation and drought, and"
+" their gender dimension."
+msgstr ""
+
+#: ../../introduction.md:482
+msgid ""
+"If available, national estimates of the female, male, and total "
+"population on an annual basis since 2000 should be provided, expressed in"
+" thousands. Demographic data is pre-filled in the reporting table CP-1.T2"
+" using data from the WorldPop dataset from 2000 to 2023. Parties should "
+"note that this dataset has not been updated for the 2026 reporting and "
+"therefore the final three years (2021, 2022, and 2023) duplicate values "
+"for 2020. Moreover it should be noted that while the School of Geography "
+"and Environmental Science at the University of Southampton (UK) has "
+"recently released a new global demographic dataset for 2015–2030, it was "
+"still in beta format at the time the 2026 reporting process was launched "
+"and will not be made available as default data. Beta versions of datasets"
+" can contain inconsistencies, errors or anomalies. As soon as this new "
+"global demographic dataset is formally published, Parties will be able to"
+" download it from Trends.Earth and import it to PRAIS 4 to replace the "
+"default data."
+msgstr ""
+
+#: ../../introduction.md:489
+msgid ""
+"If better national estimates are available, the Parties should click on "
+"the “National Data” button and enter their own annual population "
+"estimates. However, it is important to ensure consistency with the data "
+"used to report the proportion of population exposure to land degradation "
+"and drought. Any changes are to be justified in the “Comments” field "
+"following the table."
+msgstr ""
+
+#: ../../introduction.md:493
+msgid ""
+"A field for “General Comments” is also provided if any additional "
+"information or clarifications are to be provided in relation to the land "
+"area and demographics data provided."
+msgstr ""
+
+#: ../../introduction.md:240
+#, fuzzy
+msgid ""
+"Indicator adopted in decision 7/COP.13 as “Trends in international "
+"bilateral and multilateral official development assistance.”"
+msgstr ""
+"Показатель принят решением 7/СОР.13 как «Тенденции в области "
+"международной двусторонней и многосторонней официальной помощи в целях "
+"развития»"
+
+#: ../../introduction.md:242
+#, fuzzy
+msgid ""
+"Indicator adopted in decision 7/COP.13 as “Trends in domestic public "
+"resources”"
+msgstr ""
+"Показатель принят решением 7/СОР.13 как «Тенденции в области внутренних "
+"государственных ресурсов»"
+
+#: ../../introduction.md:323
+msgid ""
+"The United Nations Geospatial Data, or Geodata, is a worldwide geospatial"
+" dataset of the United Nations. The United Nations Geodata is provided to"
+" facilitate the preparation of cartographic materials in the United "
+"Nations includes geometry, attributes and labels to facilitate the "
+"adequate depiction and naming of geographic features for the preparation "
+"of maps in accordance with United Nations policies and practices. Clear "
+"Map is accessible here: "
+"<https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887>."
+msgstr ""
 
 #~ msgid ""
 #~ "*__Table 1__. Strategic objective (SO) 1"
@@ -1025,4 +1666,615 @@ msgstr "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449
 #~ "Practice Guidance for SDG Indicator "
 #~ "15.3.1."
 #~ msgstr ""
+
+#~ msgid ""
+#~ "The implementation framework defines the "
+#~ "roles and responsibilities of Parties "
+#~ "and Convention institutions in meeting "
+#~ "the SOs. For Parties, the implementation"
+#~ " framework sets specific aims under "
+#~ "three broad headings: (a) financial and"
+#~ " non-financial resources; (b) policy "
+#~ "and planning; and (c) actions on "
+#~ "the ground."
+#~ msgstr ""
+#~ "Механизм осуществления определяет роли и "
+#~ "обязанности Сторон и учреждений Конвенции "
+#~ "в процессе выполнения СЦ. Механизм "
+#~ "осуществления устанавливает для Сторон "
+#~ "конкретные цели по трем широким "
+#~ "направлениям: а) финансовые и нематериальные"
+#~ " ресурсы; b) политика и планирование; "
+#~ "и с) действия на местах."
+
+#~ msgid ""
+#~ "Up-to-date information on measures "
+#~ "taken, results achieved and challenges "
+#~ "faced by country Parties is of "
+#~ "critical importance for the COP to "
+#~ "be able to adopt targeted decisions "
+#~ "and guidance aimed at supporting the "
+#~ "effective achievement of the SOs. The"
+#~ " information communicated by Parties "
+#~ "through reporting is valuable also for"
+#~ " other stakeholders that work on the"
+#~ " implementation of the UNCCD at "
+#~ "national and local levels. From these"
+#~ " viewpoints, national reporting is an "
+#~ "indispensable tool to bringing forward "
+#~ "effective planning and implementation of "
+#~ "the Convention and the achievement of"
+#~ " the SOs at global and national "
+#~ "level."
+#~ msgstr ""
+#~ "Обновленная информация о принятых мерах, "
+#~ "достигнутых результатах и проблемах, с "
+#~ "которыми сталкиваются страны, являющиеся "
+#~ "Сторонами Конвенции, имеет решающее значение"
+#~ " для КС в вопросах принятия "
+#~ "целенаправленных решений и руководящих "
+#~ "указаний в поддержку эффективного достижения"
+#~ " СЦ. Информация, сообщаемая Сторонами "
+#~ "посредством представления отчетности, ценна "
+#~ "также для других заинтересованных сторон, "
+#~ "задействованных в процессе осуществления "
+#~ "КБОООН на национальном и местном "
+#~ "уровнях. С этих точек зрения "
+#~ "национальная отчетность является незаменимым "
+#~ "инструментом для обеспечения эффективного "
+#~ "планирования и осуществления Конвенции и "
+#~ "достижения СЦ на глобальном и "
+#~ "национальном уровнях."
+
+#~ msgid ""
+#~ "Since 2018, the UNCCD reporting process"
+#~ " has also contributed to the "
+#~ "follow-up of progress in implementing "
+#~ "the 2030 Agenda for Sustainable "
+#~ "Development. As the custodian agency for"
+#~ " Sustainable Development Goal (SDG) "
+#~ "indicator 15.3.1 “Proportion of land "
+#~ "that is degraded over total land "
+#~ "area”, the UNCCD secretariat is "
+#~ "requested to use relevant information "
+#~ "submitted in the national reports as "
+#~ "a contribution to the overall follow-"
+#~ "up and review by the High-level"
+#~ " Political Forum on Sustainable "
+#~ "Development."
+#~ msgstr ""
+#~ "С 2018 года процесс представления "
+#~ "отчетности по КБОООН также способствовал "
+#~ "отслеживанию прогресса в осуществлении "
+#~ "Повестки дня в области устойчивого "
+#~ "развития на период до 2030 года. В"
+#~ " качестве учреждения-хранителя показателя 15.3.1"
+#~ " Целей устойчивого развития (ЦУР) "
+#~ "«Отношение площади деградированных земель к"
+#~ " общей площади земель» секретариату КБОООН"
+#~ " предлагается использовать соответствующую "
+#~ "информацию, представленную в национальных "
+#~ "отчетах, в качестве вклада в общую "
+#~ "последующую деятельность и обзор, "
+#~ "подготовленный в рамках Политического форума"
+#~ " высокого уровня по устойчивому развитию."
+
+#~ msgid ""
+#~ "Indicators used for reporting on "
+#~ "progress towards the SOs are those "
+#~ "adopted by Parties in decision 7/COP.13,"
+#~ " 9/COP.13 and 11/COP.14. In addition "
+#~ "to the indicators adopted by the "
+#~ "COP, five newly proposed indicators "
+#~ "(i.e. SO 2-3, SO 4-3, SO 5-3, "
+#~ "SO 5-4 and SO 5-5) will be "
+#~ "tested during the 2022 reporting "
+#~ "process. All newly proposed indicators "
+#~ "will be considered optional in reporting"
+#~ " until the COP takes a decision "
+#~ "on whether to formally adopt them. "
+#~ "Integrating them in the forthcoming "
+#~ "reporting process will enable Parties to"
+#~ " assess the suitability of the "
+#~ "indicators for measuring progress towards "
+#~ "the SOs and take an informed "
+#~ "decision at the twentieth session of "
+#~ "the CRIC held in conjunction with "
+#~ "the COP. Table 1 through table 5"
+#~ " below contain an overview of the "
+#~ "indicators, their related metrics/proxies and"
+#~ " their statuses (i.e. whether the "
+#~ "indicator is officially adopted, and if"
+#~ " so, when it was adopted; or "
+#~ "whether it is newly proposed and "
+#~ "will be tested in the forthcoming "
+#~ "reporting process). The tables also "
+#~ "provide information on the reporting "
+#~ "attributions."
+#~ msgstr ""
+#~ "Показатели, используемые для представления "
+#~ "отчетности о прогрессе в достижении СЦ,"
+#~ " приняты Сторонами в решениях 7/СОР.13, "
+#~ "9/СОР.13 и 11/СОР.14. В дополнение к "
+#~ "показателям, принятым КС, пять новых "
+#~ "предложенных показателей (т. е. СЦ 2-3,"
+#~ " СЦ 4-3, СЦ 5-3, СЦ 5-4 и "
+#~ "СЦ 5-5) будут протестированы в ходе "
+#~ "процесса отчетности 2022 года. Все вновь"
+#~ " предлагаемые показатели будут считаться "
+#~ "необязательными для использования в отчетности"
+#~ " до тех пор, пока КС не примет"
+#~ " решение об их официальном утверждении. "
+#~ "Включение их в предстоящий процесс "
+#~ "представления отчетности позволит Сторонам "
+#~ "оценить пригодность показателей для измерения"
+#~ " прогресса в достижении СЦ и принять"
+#~ " обоснованное решение на двадцатой сессии"
+#~ " КРОК, проводимой совместно с КС. "
+#~ "Таблицы 1-5 ниже содержат обзор "
+#~ "показателей, связанных с ними "
+#~ "метрик/вспомогательных параметров и их "
+#~ "состояний (т.е. официально ли принят "
+#~ "показатель, и если да, то когда он"
+#~ " был принят; или он недавно предложен"
+#~ " и будет протестирован в ходе "
+#~ "предстоящего процесса отчетности). В таблицах"
+#~ " также содержится информация о компетенциях"
+#~ " отчетности."
+
+#~ msgid "Indicator adopted in decision 7/COP.13"
+#~ msgstr "Показатель принят решением 7/СОР.13"
+
+#~ msgid "X"
+#~ msgstr "X"
+
+#~ msgid "{rspan}`3` *[^1]"
+#~ msgstr " *[^1]"
+
+#~ msgid "Background for indicator adopted in decision 9/COP.13"
+#~ msgstr "Справочная информация по показателю принята решением 9/СОР.13"
+
+#~ msgid ""
+#~ "Indicator proposed in response to "
+#~ "decision 11/COP.14, which requested the "
+#~ "Secretariat to align reporting for SOs"
+#~ " 1– 5 with gender-responsive "
+#~ "indicators"
+#~ msgstr ""
+#~ "Показатель представлен в ответ на "
+#~ "решение 11/СОР.14, в котором Секретариату "
+#~ "было предложено согласовать отчетность по "
+#~ "СЦ 1-5 с показателями, учитывающими "
+#~ "гендерные аспекты"
+
+#~ msgid "Indicator adopted in decision 7/COP.14"
+#~ msgstr "Показатель принят решением 7/СОР.14"
+
+#~ msgid ""
+#~ "Complementary indicator and corresponding "
+#~ "metric proposed  in response to CRIC "
+#~ "17 recommendations and decision 7/COP.13."
+#~ msgstr ""
+#~ "Дополнительный показатель и соответствующая "
+#~ "метрика предложены в ответ на "
+#~ "рекомендации КРОК 17 и решение 7/СОР.13."
+
+#~ msgid ""
+#~ "{rspan}`2` Indicators proposed in response "
+#~ "to decision 11/COP.14, which requested "
+#~ "the Global Mechanism to include "
+#~ "additional quantitative data in the "
+#~ "reporting template for SO 5 and "
+#~ "provide information before the start of"
+#~ "  the next reporting process on the"
+#~ " possible development of progress "
+#~ "indicators  on technology transfer under "
+#~ "SO 5"
+#~ msgstr ""
+#~ "Показатели представлены в ответ на "
+#~ "решение 11/COP.14, в котором Глобальному "
+#~ "механизму было предложено включить "
+#~ "дополнительные количественные данные в шаблон"
+#~ " отчетности для СЦ 5 и предоставить"
+#~ " до начала следующего процесса отчетности"
+#~ " информацию о возможной разработке "
+#~ "показателей прогресса в области передачи "
+#~ "технологий в рамках СЦ 5"
+
+#~ msgid ""
+#~ "Since the 2018 reporting process, the"
+#~ " performance review and assessment of "
+#~ "implementation system (PRAIS) has been "
+#~ "upgraded to bring it into line "
+#~ "with modern systems architecture and the"
+#~ " requests made by Parties at the "
+#~ "fourteenth session of the COP. PRAIS "
+#~ "4 will offer the following improvements"
+#~ " over PRAIS 3, among other things:"
+#~ msgstr ""
+#~ "После процесса представления отчетности за "
+#~ "2018 год система обзора результативности "
+#~ "и оценки осуществления (СОРОО) была "
+#~ "модернизирована в целях приведения ее в"
+#~ " соответствие с современной архитектурой "
+#~ "систем и просьбами, высказанными Сторонами "
+#~ "на четырнадцатой сессии КС. В рамках "
+#~ "СОРОО 4, среди прочего, будут предложены"
+#~ " следующие улучшения по сравнению с "
+#~ "СОРОО 3:"
+
+#~ msgid ""
+#~ "A more user-friendly interface, "
+#~ "including web-based reporting forms "
+#~ "pre-filled with default data derived "
+#~ "from global data sources. Information "
+#~ "entered in the forms will be "
+#~ "summarized in standalone country reports, "
+#~ "downloadable and sharable outside the "
+#~ "system. The system will also include "
+#~ "additional data fields specific to "
+#~ "affected areas for SOs 1 to 4;"
+#~ msgstr ""
+#~ "Более удобный интерфейс, включая веб-формы "
+#~ "отчетности, предварительно заполненные данными "
+#~ "по умолчанию, полученными из глобальных "
+#~ "источников данных. Информация, введенная в "
+#~ "формы, будет обобщена в отдельных "
+#~ "отчетах по странам, доступных для "
+#~ "загрузки и обмена за пределами системы."
+#~ " В системе также будут доступны "
+#~ "дополнительные поля данных, относящихся к "
+#~ "затронутым районам и предназначенных для "
+#~ "СЦ 1 – СЦ 4."
+
+#~ msgid ""
+#~ "A centralized database to securely store"
+#~ " and manage country-submitted data;"
+#~ msgstr ""
+#~ "Централизованная база данных для безопасного"
+#~ " хранения и управления данными, "
+#~ "представленными странами."
+
+#~ msgid ""
+#~ "New functionality to ingest and manage"
+#~ " large geospatial datasets; this will "
+#~ "permit the user to define, for "
+#~ "instance, the location and boundaries of"
+#~ " land degradation hotspots or zones "
+#~ "of voluntary land degradation neutrality "
+#~ "targets;"
+#~ msgstr ""
+#~ "Новые функциональные возможности для приема"
+#~ " и управления большими геопространственными "
+#~ "наборами данных; это позволит пользователю "
+#~ "определять, например, местоположение и границы"
+#~ " очагов максимальной деградации земель или"
+#~ " зон добровольных целевых показателей "
+#~ "обеспечения нейтральности деградации земель."
+
+#~ msgid ""
+#~ "Analytical, synthesis and visualization "
+#~ "functions for the submitted data [^2]."
+#~ msgstr "Функции анализа, синтеза и визуализации представленных данных [^2]."
+
+#~ msgid ""
+#~ "Good Practice Guidance for National "
+#~ "Reporting on UNCCD Strategic Objective "
+#~ "3."
+#~ msgstr ""
+#~ "Руководство по эффективной практике для "
+#~ "национальной отчетности по Стратегической цели"
+#~ " 3 КБОООН."
+
+#~ msgid ""
+#~ "In line with decision 11/COP.14, "
+#~ "Conservation International has further "
+#~ "enhanced and expanded "
+#~ "[Trends.Earth](http://trends.earth/docs/en/) to support"
+#~ " the preparation and analysis of data"
+#~ " for UNCCD national reporting in a"
+#~ " format that can be automatically "
+#~ "transferred to PRAIS."
+#~ msgstr ""
+#~ "В соответствии с решением 11/СОР.14 "
+#~ "Международная организация по охране природы"
+#~ " еще больше усилила и расширила "
+#~ "[Trends.Earth](http://trends.earth/docs/en/) для поддержки"
+#~ " подготовки и анализа данных для "
+#~ "национальной отчетности по КБОООН в "
+#~ "формате, который может быть автоматически "
+#~ "передан в СОРОО."
+
+#~ msgid ""
+#~ "Trends.Earth is a free and open-"
+#~ "source tool for monitoring indicators of"
+#~ " land change. More specifically, "
+#~ "Trends.Earth supports:"
+#~ msgstr ""
+#~ "Trends.Earth — это бесплатный инструмент "
+#~ "с открытым исходным кодом для "
+#~ "мониторинга показателей изменения земель. А"
+#~ " именно, в Trends.Earth доступны:"
+
+#~ msgid ""
+#~ "The recalculation of SDG indicator "
+#~ "15.3.1, accounting for any reported "
+#~ "false positive and false negative "
+#~ "degradation processes;"
+#~ msgstr ""
+#~ "пересчет показателя 15.3.1 ЦУР с учетом"
+#~ " любых зарегистрированных ложноположительных и"
+#~ " ложноотрицательных процессов деградации;"
+
+#~ msgid ""
+#~ "The calculation of indicator SO 2-3: "
+#~ "Trends in the proportion of population"
+#~ " exposed to land degradation, disaggregated"
+#~ " by sex;"
+#~ msgstr ""
+#~ "расчет показателя СЦ 2-3: Тенденции "
+#~ "изменения доли населения, затронутого "
+#~ "деградацией земель, в разбивке по полу;"
+
+#~ msgid ""
+#~ "The calculation of the SO 3 "
+#~ "indicators following the Good Practice "
+#~ "Guidance for National Reporting on UNCCD"
+#~ " Strategic Objective 3;"
+#~ msgstr ""
+#~ "расчет показателей SO 3 в соответствии"
+#~ " с Руководством по эффективной практике "
+#~ "для национальной отчетности по Стратегической"
+#~ " цели 3 КБОООН;"
+
+#~ msgid ""
+#~ "Access to global data sources, including"
+#~ " default data sources for national "
+#~ "reporting;"
+#~ msgstr ""
+#~ "доступ к глобальным источникам данных, "
+#~ "включая источники данных по умолчанию "
+#~ "для национальной отчетности;"
+
+#~ msgid ""
+#~ "Integration of nationally or locally "
+#~ "available data and nationally determined "
+#~ "assumptions;"
+#~ msgstr ""
+#~ "интеграция имеющихся на национальном или "
+#~ "местном уровне данных и определяемых на"
+#~ " национальном уровне предположений;"
+
+#~ msgid "Data transfer to PRAIS."
+#~ msgstr "Передача данных в СОРОО."
+
+#~ msgid ""
+#~ "Countries wishing to replace the default"
+#~ " national estimates using nationally or "
+#~ "locally available data are advised and"
+#~ " encouraged to use Trends.Earth for "
+#~ "the preparation, analysis and transfer "
+#~ "of their data into PRAIS. This "
+#~ "includes the use of a national "
+#~ "border which differs from the UN "
+#~ "Map Data used for the preparation "
+#~ "of the default datasets described above."
+#~ " Careful consideration should be given "
+#~ "to the use of an alternative "
+#~ "national border in that it must be"
+#~ " consistent with the total land area"
+#~ " reported under SO 1-1. Otherwise, "
+#~ "discrepancies may arise in the reporting"
+#~ " data derived from geospatial analysis "
+#~ "using that border."
+#~ msgstr ""
+#~ "Странам, желающим изменить национальные оценки"
+#~ " по умолчанию с использованием имеющихся"
+#~ " на национальном или местном уровнях "
+#~ "данных, настоятельно рекомендуется использовать "
+#~ "Trends.Earth для подготовки, анализа и "
+#~ "передачи их данных в систему СОРОО. "
+#~ "Сюда также относится использование "
+#~ "национальной границы, которая отличается от"
+#~ " картографических данных ООН, применяемых "
+#~ "для подготовки наборов данных по "
+#~ "умолчанию, описанных выше. Следует тщательно"
+#~ " рассмотреть вопрос об использовании "
+#~ "альтернативной национальной границы, поскольку "
+#~ "она должна соответствовать общей площади "
+#~ "земель, указанной в СЦ 1-1. В "
+#~ "противном случае могут возникнуть расхождения"
+#~ " в отчетных данных, полученных в "
+#~ "результате геопространственного анализа с "
+#~ "использованием данной границы."
+
+#~ msgid ""
+#~ "When uploading data to PRAIS, "
+#~ "particularly spatial data and associated "
+#~ "attribute data, country Parties will be"
+#~ " prompted to choose whether to: (i)"
+#~ " use an existing Creative Commons "
+#~ "licence; or (ii) use an existing "
+#~ "licence of their own."
+#~ msgstr ""
+#~ "При загрузке данных в СОРОО, в "
+#~ "частности пространственных данных и связанных"
+#~ " с ними атрибутивных данных, странам "
+#~ "— Сторонам Конвенции будет предложено "
+#~ "выбрать, следует ли: (i) использовать "
+#~ "предложенную общую творческую лицензию; или"
+#~ " (ii) использовать существующую собственную "
+#~ "лицензию."
+
+#~ msgid ""
+#~ "These options aim to empower country "
+#~ "Parties reporting through PRAIS to set"
+#~ " the terms of use of the "
+#~ "national data uploaded or created as "
+#~ "part of the reporting process. Country"
+#~ " Parties are free to choose a "
+#~ "licence that meets their requirements. "
+#~ "However, most of the default data "
+#~ "provided to Parties through PRAIS and"
+#~ " Trends.Earth is already in the "
+#~ "public domain as described here, while"
+#~ " other default datasets have been "
+#~ "licenced by their respective data "
+#~ "providers, namely the European Space "
+#~ "Agency Climate Change Initiative Land "
+#~ "Cover and the International Soil "
+#~ "Reference and Information Centre SoilGrids,"
+#~ " under an Attribution-ShareAlike licence."
+#~ " Thus, these datasets are subject to"
+#~ " the terms of the Attribution-"
+#~ "ShareAlike license. Users of these "
+#~ "datasets, such as the UNCCD and "
+#~ "its Parties, must reshare the data "
+#~ "on the same terms granted by the"
+#~ " licensor and with proper attribution "
+#~ "to them. For more information on "
+#~ "the issue of data sharing, see "
+#~ "Annex I of this reporting manual."
+#~ msgstr ""
+#~ "Такие варианты дают странам — Сторонам"
+#~ " Конвенции, представляющим отчетность с "
+#~ "помощью СОРОО, возможность устанавливать "
+#~ "условия использования национальных данных, "
+#~ "загруженных или созданных в рамках "
+#~ "процесса представления отчетности. Страны —"
+#~ " Стороны Конвенции могут без ограничений"
+#~ " выбирать лицензию, соответствующую их "
+#~ "требованиям. Однако большая часть данных "
+#~ "по умолчанию, предоставляемых Сторонам "
+#~ "Конвенции через СОРОО и Trends.Earth, "
+#~ "уже находится в общественном доступе, "
+#~ "как описано здесь, в то время как"
+#~ " другие наборы данных по умолчанию "
+#~ "были лицензированы их соответствующими "
+#~ "поставщиками данных, а именно инициативой "
+#~ "в области изменения климата Европейского "
+#~ "космического агентства European Space Agency"
+#~ " Climate Change Initiative Land Cover "
+#~ "и Международным справочно-информационным центром "
+#~ "по почвам SoilGrids, в соответствии с"
+#~ " лицензией на совместное использование. "
+#~ "Таким образом, эти наборы данных "
+#~ "подпадают под действие условий лицензии "
+#~ "Attribution-ShareAlike. Пользователи этих наборов"
+#~ " данных, такие как КБОООН и ее "
+#~ "Стороны, должны повторно предоставлять данные"
+#~ " на тех же условиях, что и "
+#~ "лицензиар, и с надлежащим указанием "
+#~ "авторства. Для получения дополнительной "
+#~ "информации по вопросу обмена данными см."
+#~ " Приложение I к настоящему руководству "
+#~ "по отчетности."
+
+#~ msgid ""
+#~ "By its decision 15/COP. 13, the "
+#~ "COP approved a four-year frequency "
+#~ "for national reporting. During the first"
+#~ " reporting process under the UNCCD "
+#~ "2018–2030 Strategic Framework in 2018, "
+#~ "Parties reported data and information "
+#~ "for the baseline period 2000–2015. From"
+#~ " the 2022 reporting process onward, "
+#~ "Parties will quantify the indicators and"
+#~ " report national estimates for four-"
+#~ "year reporting periods as indicated in"
+#~ " table 6 below."
+#~ msgstr ""
+#~ "Своим решением 15/СОР. 13 КС утвердила"
+#~ " периодичность представления национальных "
+#~ "отчетов, равную четырем годам. В ходе"
+#~ " первого процесса представления отчетности "
+#~ "в соответствии со Стратегической рамочной "
+#~ "программой КБОООН на 2018–2030 годы в"
+#~ " 2018 году Стороны представили данные "
+#~ "и информацию за базовый период 2000–2015"
+#~ " годов. Начиная с процесса представления"
+#~ " отчетности за 2022 год, Стороны "
+#~ "будут количественно оценивать показатели и "
+#~ "представлять национальные оценки за "
+#~ "четырехлетние отчетные периоды, как указано"
+#~ " в таблице 6 ниже."
+
+#~ msgid ""
+#~ "*__Table 6__. UNCCD reporting process "
+#~ "and corresponding reporting periods (current"
+#~ " reporting process and period in "
+#~ "bold)*"
+#~ msgstr ""
+#~ "*__Таблица 6__. Процесс представления "
+#~ "отчетности в рамках КБОООН и "
+#~ "соответствующие отчетные периоды (текущий "
+#~ "процесс представления отчетности и период "
+#~ "выделены жирным шрифтом) *"
+
+#~ msgid "__2022__"
+#~ msgstr "__2022 г.__"
+
+#~ msgid ""
+#~ "In this reporting process, the key "
+#~ "reasons for recalculation, accompanied by "
+#~ "explanatory information (including the "
+#~ "quantitative impact of the recalculation "
+#~ "on (i) the baseline estimates compared"
+#~ " with the baseline reported in 2018;"
+#~ " and (ii) previously submitted national "
+#~ "targets), should be reported. A separate"
+#~ " reporting form has been created in"
+#~ " PRAIS 4 for this purpose."
+#~ msgstr ""
+#~ "В ходе данного процесса предоставления "
+#~ "отчетности следует сообщать об основных "
+#~ "причинах пересчета, сопровождаемых пояснительной "
+#~ "информацией (включая количественное влияние "
+#~ "пересчета на (i) базовые оценки по "
+#~ "сравнению с базовыми показателями, "
+#~ "представленными в 2018 году; и (ii) "
+#~ "ранее представленные национальные целевые "
+#~ "показатели). С этой целью в СОРОО "
+#~ "4 была создана отдельная форма "
+#~ "отчетности."
+
+#~ msgid ""
+#~ "The 2022 reporting process is expected"
+#~ " to commence in November 2021, "
+#~ "contingent on the timing of the "
+#~ "PRAIS 4 launch. If reporting commences"
+#~ " at the beginning of November 2021,"
+#~ " the deadline for submission of "
+#~ "national reports could be May 2022, "
+#~ "still pending a final decision by "
+#~ "the Executive Secretary and the CRIC "
+#~ "Bureau, who will assess progress made"
+#~ " in reporting by Parties early next"
+#~ " year."
+#~ msgstr ""
+#~ "Ожидается, что процесс отчетности 2022 "
+#~ "года будет начат в ноябре 2021 "
+#~ "года, в зависимости от сроков запуска"
+#~ " СОРОО 4. Если представление отчетности "
+#~ "стартует в начале ноября 2021 года, "
+#~ "крайним сроком представления национальных "
+#~ "отчетов может быть май 2022 года, "
+#~ "однако этот вопрос все еще остается "
+#~ "на рассмотрении до принятия окончательного "
+#~ "решения Исполнительным секретарем и Бюро "
+#~ "КРОК, которые оценят прогресс, достигнутый "
+#~ "Сторонами в представлении отчетности в "
+#~ "начале следующего года."
+
+#~ msgid ""
+#~ "Delivery of analytical, synthesis and "
+#~ "visualization functions expected in September"
+#~ " - December 2022."
+#~ msgstr ""
+#~ "Реализация функций анализа, синтеза и "
+#~ "визуализации ожидается в сентябре — "
+#~ "декабре 2022 года."
+
+#~ msgid "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
+#~ msgstr "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-22 09:58+0300\n"
+"POT-Creation-Date: 2025-11-03 15:18+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../implementationFramework.md:1
-msgid "7. Implementation framework: financial and non-financial resources, policy and planning, and action on the ground"
+msgid "7. Implementation framework: policy and planning, actions on the ground and financial and non-financial resources"
 msgstr ""
 
 #: ../../implementationFramework.md:3
@@ -29,369 +29,455 @@ msgid "7.1.1. Introduction"
 msgstr ""
 
 #: ../../implementationFramework.md:7
-msgid "The implementation framework describes the approach adopted to support and implement the strategic objectives and furthermore provides Parties with an opportunity to share their knowledge and experiences. It focuses on three broad areas:"
+msgid "The implementation framework describes the approach adopted to support and implement the strategic objectives and furthermore provides Parties with an opportunity to share their knowledge and experiences. Although voluntary, this is a vital part of reporting as it helps to contextualise the quantitative information provided for each SO and indicator and it also provides additional narrative information about the actions on the ground that are being implemented by the Parties. Where relevant, Parties should report concrete cases of effective interventions, measurable improvements, tangible impacts and success stories demonstrating practical implementation at national and local level since the adoption of the strategic framework. Stories shared here can help to motivate other Parties and build understanding of successes and challenges in implementing the Convention. The main objectives of this part of reporting are to:"
 msgstr ""
 
-#: ../../implementationFramework.md:9
-msgid "**(a) Financial and non-financial resources**"
+#: ../../implementationFramework.md:10
+msgid "Understand how policies and plans are being implemented to reach the goals of the Convention;"
 msgstr ""
 
-#: ../../implementationFramework.md:11
-msgid "Sharing experiences in (i) successfully mobilized financial and non-financial resources; (ii) uses of land degradation neutrality (LDN) as a catalyst for leveraging investments; and (iii) improved use of existing and/or innovative financial processes and institutions."
+#: ../../implementationFramework.md:12
+msgid "Identify practical actions on the ground that illustrate how the Convention can be successfully implemented;"
 msgstr ""
 
-#: ../../implementationFramework.md:13
-msgid "**(b) Policy and planning**"
+#: ../../implementationFramework.md:14
+msgid "Highlight how financial resources from different sources are mobilised to fund implementation of the actions."
 msgstr ""
 
-#: ../../implementationFramework.md:15
-msgid "Sharing experiences in (i) the development, implementation and monitoring of national, subregional and regional action programmes and/or plans for UNCCD implementation; (ii) the establishment of policies and enabling environments; (iii) leveraging of synergies; (iv) mainstreaming of desertification/land degradation and drought (DLDD);  and (v) improvements in drought preparedness and management."
+#: ../../implementationFramework.md:16
+msgid "For the 2026 reporting process, the relevant part of the implementation framework is placed separately under each SO. For SO1- SO4 these sections focus on two broad areas:"
 msgstr ""
 
-#: ../../implementationFramework.md:17
-msgid "**\\(c\\) Actions on the ground**"
+#: ../../implementationFramework.md:18
+msgid "a) Policy and planning"
 msgstr ""
 
-#: ../../implementationFramework.md:19
-msgid "Sharing experience in (i) successful implementation practices used to achieve sustainable land management; (ii) increasing restoration efforts and/or rehabilitating ecosystems; (iii) drought risk management and early warning systems; (iv) alternative livelihoods; and (v) the establishment of effective systems for sharing information and knowledge."
+#: ../../implementationFramework.md:20
+#: ../../implementationFramework.md:48
+msgid "Sharing experiences in:"
 msgstr ""
 
-#: ../../implementationFramework.md:21
+#: ../../implementationFramework.md:22
+msgid "(i) the development, implementation and monitoring of national, subregional and regional action programmes and/or plans for UNCCD implementation;"
+msgstr ""
+
+#: ../../implementationFramework.md:24
+msgid "(ii) the establishment of policies and enabling environments;"
+msgstr ""
+
+#: ../../implementationFramework.md:26
+msgid "(iii) mainstreaming of efforts to combat desertification/land degradation and drought (DLDD);"
+msgstr ""
+
+#: ../../implementationFramework.md:28
+msgid "(iv) improvements in drought preparedness and management."
+msgstr ""
+
+#: ../../implementationFramework.md:30
+msgid "(v) leveraging of synergies with other Conventions and goals."
+msgstr ""
+
+#: ../../implementationFramework.md:32
+msgid "b) Actions on the ground"
+msgstr ""
+
+#: ../../implementationFramework.md:34
+msgid "Sharing experience in:"
+msgstr ""
+
+#: ../../implementationFramework.md:36
+msgid "(i) successful implementation practices used to achieve sustainable land management;"
+msgstr ""
+
+#: ../../implementationFramework.md:38
+msgid "(ii) establishing knowledge sharing systems;"
+msgstr ""
+
+#: ../../implementationFramework.md:40
+msgid "(iii) drought risk management and early warning systems;"
+msgstr ""
+
+#: ../../implementationFramework.md:42
+msgid "(iv) alternative livelihoods."
+msgstr ""
+
+#: ../../implementationFramework.md:44
+msgid "For SO5 the focus of the implementation actions is on:"
+msgstr ""
+
+#: ../../implementationFramework.md:46
+msgid "c) Financial and non-financial resources"
+msgstr ""
+
+#: ../../implementationFramework.md:50
+msgid "(i) the development, implementation and monitoring of national strategies for mobilizing resources for UNCCD implementation;"
+msgstr ""
+
+#: ../../implementationFramework.md:52
+msgid "(ii) leveraging of synergies with other Conventions and goals, especially in relation to mobilizing resources;"
+msgstr ""
+
+#: ../../implementationFramework.md:54
+msgid "(iii) national circumstances and institutional arrangements relevant to the reporting process on Strategic Objective 5 and the progress indicators."
+msgstr ""
+
+#: ../../implementationFramework.md:56
 msgid "7.1.2. Approach to reporting and structure of the reporting template"
 msgstr ""
 
-#: ../../implementationFramework.md:23
-msgid "Reporting on the implementation framework is qualitative and voluntary."
+#: ../../implementationFramework.md:58
+msgid "Reporting on the implementation framework is generally in a tabular and narrative format, and is voluntary."
 msgstr ""
 
-#: ../../implementationFramework.md:25
-msgid "The reporting template of the PRAIS 4 platform includes a section for each of the above-mentioned areas ((a), (b) and \\(c\\)), organized as follows:"
+#: ../../implementationFramework.md:60
+msgid "A specific reporting template (SOx-IF) can be found as the final element for each of the SOs in the overview page or within the separate SO tabs on the PRAIS 4 platform and includes one or more of the applicable sections."
 msgstr ""
 
-#: ../../implementationFramework.md:27
-msgid "The title and a brief description of each topic;"
+#: ../../implementationFramework.md:62
+msgid "The template poses a series of high-level questions to which the Parties can answer “Yes/No”. If the answer is “Yes”, then the Parties have the opportunity to provide additional information on each topic detailing the country's experience. This additional information can be provided by filling in the tables, containing a combination of selections from drop-down menus and free descriptive text."
 msgstr ""
 
-#: ../../implementationFramework.md:29
-msgid "The key question(s) related to the topics;"
+#: ../../implementationFramework.md:64
+msgid "Additionally, comment boxes are included at the end of each form where other relevant information which is not easily or fully described in the tables or through answers to the specific questions can be added. The narrative nature of the implementation framework section gives Parties an opportunity to provide and share information on experiences and challenges. Parties are also encouraged to add one or more examples in support of the stated experiences, including the approach/procedure that was used, how the reported examples were successful, and what factors contributed to their success."
 msgstr ""
 
-#: ../../implementationFramework.md:31
-msgid "Complementary information on the topics (countries’ experiences as narrative)."
+#: ../../implementationFramework.md:66
+msgid "7.1.3. Reporting for Action"
 msgstr ""
 
-#: ../../implementationFramework.md:33
-msgid "Many questions in the reporting template of the implementation framework are self-explanatory, and guidance is provided only for selected terminology that may need explanation."
-msgstr ""
-
-#: ../../implementationFramework.md:35
-msgid "'Yes’ responses to questions enable fields where Parties may provide details on the topic. These fields may change from topic to topic, although a few of them are recurrent, such as:"
-msgstr ""
-
-#: ../../implementationFramework.md:37
-msgid "Use this space to describe the experience."
-msgstr ""
-
-#: ../../implementationFramework.md:39
-msgid "What were the challenges faced, if any?"
-msgstr ""
-
-#: ../../implementationFramework.md:41
-msgid "What do you consider to be the lessons learned?"
-msgstr ""
-
-#: ../../implementationFramework.md:43
-msgid "How did you engage women and youth in X?"
-msgstr ""
-
-#: ../../implementationFramework.md:45
-msgid "The narrative nature of the reporting process gives Parties an opportunity to provide and share information on experiences and challenges. Parties are also encouraged to add one or more examples in support of the stated experiences, including the approach/procedure that was used, how the reported examples were successful and what factors contributed to the success. Each experience and example should be provided as text and should not exceed 1,000 words (approximately two pages of normal text in font size 12)."
-msgstr ""
-
-#: ../../implementationFramework.md:47
-msgid "Some sections in the implementation framework include questions about the support provided to other Parties for implementing the Convention with details on modalities and contexts. Those questions are addressed in principle to those Parties to the Convention which may not suffer from DLDD, but which support those that do. However, it may also address those Parties that engage in South–South cooperation as part of the implementation of this Convention."
-msgstr ""
-
-#: ../../implementationFramework.md:49
-msgid "7.1.3. Review"
-msgstr ""
-
-#: ../../implementationFramework.md:51
-msgid "The information provided through reporting on the implementation framework will be used, inter alia, for the official sessions of the Committee for the Review of the Implementation of the Convention to showcase experiences gained in the implementation of the Convention. The reporting manual provides advice on the specific content and type of information that is required in the narratives concerning each area/aim, and hence contributes to focused reporting on current UNCCD priorities and enables a lively, targeted exchange during sessions."
-msgstr ""
-
-#: ../../implementationFramework.md:53
-msgid "7.2. Financial and non-financial resources"
-msgstr ""
-
-#: ../../implementationFramework.md:55
-msgid "Parties are encouraged to answer questions related to the following three main topics."
-msgstr ""
-
-#: ../../implementationFramework.md:57
-msgid "7.2.1. Increasing the mobilization of resources"
-msgstr ""
-
-#: ../../implementationFramework.md:59
-msgid "This section relates to strategies and actions aimed at increasing the mobilization of financial and non-financial resources for the implementation of the Convention from international and domestic, public and private sources as well as from local communities, including non-traditional funding sources and climate finance."
-msgstr ""
-
-#: ../../implementationFramework.md:61
-msgid "Examples of financial resources are funding from grants or credit, non-financial resources (e.g. goods, materials, capacity-building and volunteer time) and non-traditional funding sources (e.g. private investments and public–private partnerships, remittances, solidarity taxes, risk guarantees and insurances). International multilateral finance refers to the Adaptation Fund, Green Climate Fund, and the Global Environment Facility (GEF) land degradation focal area and its special funds focusing on climate, dedicated multilateral and bilateral funds, and carbon markets."
-msgstr ""
-
-#: ../../implementationFramework.md:63
-msgid "The narrative preferably should include information on the type of resources that were mobilized, the source of funding, the purpose of funding (brief description of the project/activity) and the approach/procedure that was used to mobilize resources. Parties may also explain how this experience represents an increase in resource mobilization (i.e. what is different about it) and the main challenges, main factors of success, and lessons learned."
-msgstr ""
-
-#: ../../implementationFramework.md:65
-msgid "The narrative may also describe a country’s support to the mobilization of financial and non-financial resources for the implementation of the Convention in another country, including information on the partner that was supported, the type of resources mobilized, the source of funding, the purpose of funding (brief description of the project/activity), the approach/procedure used to mobilize resources, lessons learned, challenges and the main factors of success."
-msgstr ""
-
-#: ../../implementationFramework.md:67
-msgid "7.2.2. Using land degradation neutrality as a framework to increase investment"
-msgstr ""
-
-#: ../../implementationFramework.md:69
-msgid "This relates to strategies and actions for taking advantage of the opportunity to use LDN as a framework to enhance the coherence, effectiveness and multiple benefits of investments. Parties are encouraged to clarify how the implementation of the LDN concept has influenced/is influencing investments. In particular, the aim is to find out whether the implementation of the LDN concept has facilitated support to land activities from different funding sources and assisted in bringing together different types of investors."
-msgstr ""
-
-#: ../../implementationFramework.md:71
-msgid "Experience(s) and examples to be reported should focus on Parties that use or have used LDN as a framework to enhance the coherence, effectiveness and multiple benefits of investments. Such experiences may include supporting land activities through investments targeting climate action, biodiversity, forests, water and similar; or engaging a variety of funding sources (governments, financial institutions, private sector and others) in land activities. Information about the size of the investment, its use (brief description of the project/activity), challenges faced, lessons learned and the partners involved should also be reported."
+#: ../../implementationFramework.md:68
+msgid "The information provided through reporting on the implementation framework will be used, inter alia, for the official sessions of the Committee for the Review of the Implementation of the Convention to highlight experiences gained in the implementation of the Convention. For example, the information from the 2022 reporting cycle was used to compile examples of interventions made by countries to halt and reverse land degradation. These examples are presented in the publication [The Land Story](https://www.unccd.int/resources/publications/land-story-country-experiences-reporting-land-degradation-and-drought) (UNCCD, 2024). Material contributed to the implementation framework in this reporting cycle can provide additional examples and case studies for a future edition of a similar publication. Such case studies can serve as an inspiration to all countries and provide practical ideas on how they can address land degradation in their own countries."
 msgstr ""
 
 #: ../../implementationFramework.md:73
-msgid "7.2.3. Improving existing and/or innovative financial processes and institutions"
+msgid "The following sections in this reporting manual provide advice on the specific content and type of information that is required in the tables and narratives concerning each area/aim within the Implementation Framework part of the reporting."
 msgstr ""
 
 #: ../../implementationFramework.md:75
-msgid "Parties are encouraged to report on their approach to improve the use of existing and/or innovative financial processes and institutions, such as the GEF or other newer funds. Existing financial processes refer to national budgets, bilateral development cooperation and multilateral development banks, while innovative financial processes are climate finance (e.g. Adaptation Fund, Green Climate Fund, dedicated multilateral and bilateral climate funds other than those of the GEF, and carbon markets), private investments and public–private partnerships, remittances, solidarity taxes, risk guarantees, insurances or similar."
+msgid "7.2. Policy and planning"
 msgstr ""
 
 #: ../../implementationFramework.md:77
-msgid "Parties may report experiences in improving climate investments (policies, regulations or approaches that facilitate investments in UNCCD implementation); increasing coherence among commitments (integration of LDN or land activities to financial considerations of other priorities and sectors); or improving capacity for the preparation of high-quality project proposals."
+msgid "Parties are encouraged to answer questions related to the following five main topics. Not all SOs address all of these topics."
 msgstr ""
 
 #: ../../implementationFramework.md:79
-msgid "In the description of each experience, Parties may include information on the type(s) of financial processes that were addressed (existing, innovative, GEF or other) and the measures that were taken to improve the use of the financial process concerned. The narrative should explain how the measures worked, the way they improved the use of the financial process, the challenges faced, lessons learned, and the main factors of success."
+msgid "7.2.1. Action plans and programmes"
 msgstr ""
 
-#: ../../implementationFramework.md:81
-msgid "Parties are encouraged to provide one or more examples of support provided in another country to improve the use of existing and/or innovative financial processes and institutions. In the description, it is recommended to include examples of support that was provided, information on the type(s) of financial processes that were addressed (existing, innovative, GEF or other) and measures that were taken to improve the use of the financial process concerned. The description of the outcome may include information on how the measures worked, the way they improved the use of the financial process and the specific challenges, lessons learned and main factors of success."
-msgstr ""
-
-#: ../../implementationFramework.md:83
-msgid "7.3. Policy and planning"
+#: ../../implementationFramework.md:82
+#: ../../implementationFramework.md:158
+msgid "Relevant to SO1"
 msgstr ""
 
 #: ../../implementationFramework.md:85
-msgid "Parties are encouraged to answer questions related to the following five main topics."
-msgstr ""
-
-#: ../../implementationFramework.md:87
-msgid "7.3.1. Action programmes"
-msgstr ""
-
-#: ../../implementationFramework.md:89
 msgid "This relates to the development, implementation, revision and monitoring of national, subregional and regional action programmes and/or plans as effective tools for UNCCD implementation, such as the national action programmes (NAPs). NAPs are developed through participatory approaches involving various stakeholders at national, subregional and regional levels, and they encompass practical steps and measures that contribute to combating land degradation/desertification and mitigating the effects of drought."
 msgstr ""
 
-#: ../../implementationFramework.md:91
-msgid "The narrative should report experience(s) in developing, implementing, revising and/or regularly monitoring national, subregional or regional action programmes and include information on the types of action programmes, the main measures taken in developing, implementing, revising or monitoring them, and the current status/results achieved. The narrative should also explain how the adopted measures were effective for UNCCD implementation and the main factors of success."
+#: ../../implementationFramework.md:87
+msgid "The reporting template encourages Parties to list and describe the most important action programmes related to desertification, land degradation and drought (DLDD). Parties should be as comprehensive as possible in describing the action plan or programme, identifying the status of the action, any successes achieved and the challenges that are being addressed in its implementation. Parties should also specify whether the plan was developed using a participatory process and, if so, whether women, youth, indigenous people and local communities and their representatives were involved in planning and decision-making."
 msgstr ""
 
-#: ../../implementationFramework.md:93
-msgid "7.3.2. Policies and enabling environment"
+#: ../../implementationFramework.md:89
+msgid "7.2.2. Policies and enabling environment"
+msgstr ""
+
+#: ../../implementationFramework.md:92
+msgid "Relevant to SO1, SO2, SO3"
 msgstr ""
 
 #: ../../implementationFramework.md:95
-msgid "This section focuses on establishing policies and legislative measures to ensure an enabling environment for promoting and implementing solutions to combat desertification/land degradation and mitigate the effects of drought."
+msgid "This section focuses on identifying policies, legislative measures, funding mechanisms and other organizational processes that have been established to ensure an enabling environment for promoting and implementing solutions to:"
 msgstr ""
 
 #: ../../implementationFramework.md:97
-msgid "DLDD approaches can be designed to deliver other social, economic and environmental benefits, including climate change mitigation and adaptation, biodiversity conservation and disaster risk reduction, among other things. Noting the link between gender equality and land degradation, DLDD approaches can also be developed with a clear gender dimension in implementation design."
+msgid "combat desertification/land degradation (SO1);"
+msgstr ""
+
+#: ../../implementationFramework.md:98
+msgid "address inclusion of underrepresented groups in the implementation of the Convention (SO2) and"
 msgstr ""
 
 #: ../../implementationFramework.md:99
-msgid "Experience(s) and examples to be reported (including those from the LDN Target-Setting Programme, where applicable) may focus on the setting of policy and legislative measures to minimize drought risks, including regulations limiting deforestation or managing grazing, the establishment of protected areas, regulations prohibiting the use of certain chemicals or practices, and policies related to land-use planning, water harvesting or crop insurance, etc. More generally, the narrative may report on regulations and policies that cover all agricultural practices and land use at national level, and even subregional level (transboundary agreements ensuring the mobility of pastoralists, etc.), including information on the area covered by the policy or legislative measure (national/local/subregional), the targeted audience, main provisions, and institution(s) adopting the measure, as well as information on how the measure has succeeded in meeting its aim and the main factors of success."
+msgid "combat drought and promote drought resilience (SO3)."
 msgstr ""
 
 #: ../../implementationFramework.md:101
-msgid "Experience in setting up policy measures to mainstream gender in the implementation of the UNCCD should also be reported. Such experiences may involve, for example, enhancing women’s participation in decision-making concerning land, improving women’s land rights and access to related resources, or building women’s capacity for effective UNCCD implementation."
+msgid "The reporting template encourages Parties to list and describe the most important enabling activities related to the SO. Parties should be as comprehensive as possible in describing these, identifying the status of the activity, any successes achieved and the challenges that are being addressed in its implementation."
 msgstr ""
 
-#: ../../implementationFramework.md:103
-msgid "Parties are encouraged to provide one or more examples of support provided in the setting of policy and legislative measures in another country, including those related to mainstreaming gender in the implementation of the UNCCD. The brief description of the policy or legislative measure should include information on the area covered (national/local), targeted audience, main provisions, institutions adopting the measure, and main factors of success."
-msgstr ""
-
-#: ../../implementationFramework.md:105
-msgid "7.3.3. Synergies"
-msgstr ""
-
-#: ../../implementationFramework.md:107
-msgid "This refers to strategies and actions aimed at leveraging synergies in DLDD-related activities and integrating DLDD in planning and implementation to generate simultaneous benefits and added value for other multilateral environmental agreements or international commitments."
+#: ../../implementationFramework.md:104
+msgid "For SO1 and SO3 there are questions about the support provided to other Parties for implementing the Convention. Details on the type of support provided can be presented. These questions are addressed in principle to Parties to the Convention which may not suffer from DLDD, but which support those that do. However, they may also address Parties that engage in South–South cooperation as part of the implementation of this Convention."
 msgstr ""
 
 #: ../../implementationFramework.md:109
-msgid "DLDD processes can contribute to greenhouse gas emissions, habitat loss and decline in biodiversity. As a result, United Nations Framework Convention on Climate Change nationally determined contributions and national adaptation plans and the Convention on Biological Diversity National Biodiversity Strategies and Action Plans may contribute to meeting targets under one or more of the Rio convention mechanisms mentioned as well as under the UNCCD, NAPs and/or LDN targets. Land-based interventions can help integrate and accelerate progress against the Sustainable Development Goals (SDGs), many of which compete for limited land resources. Implementation measures may include the adoption of conservation measures, sustainable land management (SLM) practices and/or ecological rehabilitation/restoration of past land degradation, and may be pursued in ecosystem-based approaches such as ecosystem-based adaptation, ecosystem-based disaster risk reduction and any other nature-based solution that involves land. Thus, the implementation of actions to address DLDD can be pursued in a holistic approach to achieve the objectives of the three Rio conventions as well as relevant targets under all 17 SDGs, in particular SDG target 15.3."
+msgid "For SO2 it is important to report on how women, youth, Indigenous people and local communities have been fully engaged in all policy processes, as they are too often excluded or their involvement is minimized, while they are also among the most vulnerable to the harsh impacts of DLDD. At the same time, policies should take into account the resourcefulness demonstrated by these population groups on some occasions in drought adaptation and mitigation, and give due recognition and encouragement of this resourcefulness. In order for any country to successfully address and manage DLDD, actions must be taken to fully engage the entirety of the population, and leverage their various perspectives, experiences and abilities. Further information on these issues, with several country-based examples, can be found in the recent UNCCD publication \"[Differentiated impacts of desertification, land degradation and drought on women and men](https://www.unccd.int/resources/brief/study-differentiated-impacts-dldd-women-and-men-summary-decision-makers)\" and \"[Women-led solutions for drought resilience](https://www.unccd.int/resources/publications/women-led-solutions-drought-resilience)”."
 msgstr ""
 
-#: ../../implementationFramework.md:111
-msgid "Parties may provide information on relevant activities or plans (LDN targets, climate or biodiversity commitments or plans, SDGs, NAPs or similar) and include information on their linkages, including with regard to synergies generated and the main factors of success."
-msgstr ""
-
-#: ../../implementationFramework.md:113
-msgid "7.3.4. Mainstreaming desertification/land degradation and drought"
-msgstr ""
-
-#: ../../implementationFramework.md:115
-msgid "Parties are encouraged to report on their approach to mainstreaming DLDD in economic, environmental and social policies, with a view to increasing the impact and effectiveness of the implementation of the Convention."
+#: ../../implementationFramework.md:114
+msgid "7.2.3. Mainstreaming efforts to combat desertification/land degradation and drought"
 msgstr ""
 
 #: ../../implementationFramework.md:117
-msgid "The responses should provide information on experience gained in mainstreaming DLDD in economic, environmental and social policies (including experience gained from the LDN Target-Setting Programme), such as adopting SLM in policies for income generation/poverty reduction, gender equality, unemployment, migration, disaster preparedness, energy efficiency or wildlife conservation, among other things."
+#: ../../implementationFramework.md:176
+msgid "Relevant to SO1, SO3"
 msgstr ""
 
-#: ../../implementationFramework.md:119
-msgid "Parties may include the rationale behind the mainstreaming of DLDD in policies, information on coverage/users of the policy, and details of the process for preparing and deciding on the methods for DLDD mainstreaming. A description on how DLDD mainstreaming in policies increases the impact and effectiveness of the implementation of the Convention and generates added value for the policy should also be included, as well as the main factors of success."
+#: ../../implementationFramework.md:120
+msgid "Parties are encouraged to report on their approach to mainstreaming DLDD in a range of policy areas with a view to increasing the impact and effectiveness of the implementation of the Convention. These policy areas cover (i) economic, (ii) environmental, (iii) social, (iv) land, (v) gender and (VI) agricultural policies. Parties may choose to address issues related to income generation/poverty reduction, gender equality, unemployment, migration, disaster preparedness, energy efficiency or wildlife conservation, among others."
 msgstr ""
 
-#: ../../implementationFramework.md:121
-msgid "7.3.5. Drought-related policies"
-msgstr ""
-
-#: ../../implementationFramework.md:123
-msgid "Parties are encouraged to describe experiences in establishing national policies, measures and governance for drought preparedness and management, including drought contingency plans at national or subnational levels that outline modalities to manage drought, possibilities for drought to happen, expected impacts and measures to be taken to minimize impacts."
-msgstr ""
-
-#: ../../implementationFramework.md:125
-msgid "Such experiences may include, for example, establishment of a multi-stakeholder coordination mechanism (body) on drought preparedness, establishment and maintenance of a drought monitoring and early warning system, drought vulnerability and impact assessments at various levels (sector wide, regional or national), and/or implementation of practical drought risk mitigation measures (such as water harvesting, crop insurance and/or irrigation practices). They may also be about gender-responsive drought management, preparedness and resilience-building. In this regard, of special interest would be a description of the approach/procedure used to develop drought preparedness and/or contingency plans."
+#: ../../implementationFramework.md:124
+msgid "Parties may include the rationale behind the mainstreaming of DLDD in policies, information on coverage/users of the policy, and details of the process for preparing and deciding on the methods for the mainstreaming. Where possible the impact and effectiveness of the actions should also be discussed, as well as the main success factors and challenges encountered."
 msgstr ""
 
 #: ../../implementationFramework.md:127
-msgid "Parties may include information on the coverage (national/local) of the drought policy/measure and list the authorities and other main stakeholders involved in the implementation. They may also include the main aims and activities of the drought policy/measure, the action taken and the results achieved so far, including the main factors of success. Experiences from the LDN Target-Setting Programme should be reported, when applicable."
+msgid "7.2.4 National drought plans"
 msgstr ""
 
-#: ../../implementationFramework.md:129
-msgid "Parties may provide examples on the support provided in establishing national policies, measures and governance for drought preparedness and management in another country. The description may include information on the coverage (national/local) of the drought policy/measure, a list of the authorities and other main stakeholders involved in the implementation, as well as the main aims and activities of the drought policy/measure, the action taken, and the results achieved so far, including the main factors of success."
-msgstr ""
-
-#: ../../implementationFramework.md:131
-msgid "7.4. Action on the ground"
+#: ../../implementationFramework.md:130
+#: ../../implementationFramework.md:218
+msgid "Relevant to SO3"
 msgstr ""
 
 #: ../../implementationFramework.md:133
-msgid "Parties are encouraged to answer questions related to  the following five main topics."
+msgid "Parties are invited to identify any national drought plans. Should such a plan exist, Parties are encouraged to describe the processes used to develop it, indicate how successful it has been and comment on any challenges faced during its development or implementation. Parties should also specify whether the plan was developed using a participatory process and, if so, whether women, youth, indigenous people and local communities and their representatives were involved in planning and decision-making. A link to the national drought plan should be provided if available."
 msgstr ""
 
 #: ../../implementationFramework.md:135
-msgid "7.4.1. Sustainable land management practices"
+msgid "A file with further information may also be uploaded. This might include additional information, for example on the establishment of a multi-stakeholder coordination mechanism (body) on drought preparedness, establishment and maintenance of a drought monitoring and early warning system, drought vulnerability and impact assessments at various levels (sector wide, regional or national), and/or implementation of practical drought risk mitigation measures (such as water harvesting, crop insurance and/or irrigation practices). Additional information may also report on gender-responsive drought management, preparedness and resilience-building. In this regard, of special interest would be a description of the approach/procedure used to develop drought preparedness and/or contingency plans."
 msgstr ""
 
 #: ../../implementationFramework.md:137
-msgid "Parties may provide a summary of one or more successful SLM practices based on the list developed using the World Overview of Conservation Approaches and Technologies (WOCAT) Global SLM Database and included in the PRAIS 4 platform[^1]."
+msgid "Parties may include information on the coverage (national/local) of the drought policy/measure and list the authorities and other main stakeholders involved in the implementation. They may also include the main aims and activities of the drought policy/measure, the actions taken and the results achieved so far, including the main success factors."
 msgstr ""
 
 #: ../../implementationFramework.md:139
-msgid "The description of the practice may include information on the type of practice, main activities, main stakeholders involved, resources used, reasons for its success in avoiding or reducing land degradation in the long term, and main factors of success. When applicable, experiences from the LDN Target-Setting Programme should also be reported."
+msgid "7.2.5 Synergies"
 msgstr ""
 
-#: ../../implementationFramework.md:141
-msgid "Additionally, a full description of the best practice can also be submitted through the WOCAT system to the dedicated knowledge base. Detailed information on how to submit to the WOCAT system can be found at this link: <http://knowledge.unccd.int/WOCAT-SLM>."
-msgstr ""
-
-#: ../../implementationFramework.md:143
-msgid "Parties are encouraged to provide one or more examples of support provided to another country to implement successful SLM practices. In the description, it is recommended to include information on the type of practice, main activities, main stakeholders involved, duration, and resources used. The reasons for the successful implementation of this practice, how it has avoided or reduced land degradation in the long term, and the main factors of success should also be reported."
+#: ../../implementationFramework.md:142
+msgid "Relevant to SO4"
 msgstr ""
 
 #: ../../implementationFramework.md:145
-msgid "If the practice is already included in the WOCAT system or another similar online database, a link to these systems should be included."
-msgstr ""
-
-#: ../../implementationFramework.md:149
-msgid "7.4.2. Restoration and rehabilitation"
-msgstr ""
-
-#: ../../implementationFramework.md:151
-msgid "Parties are encouraged to describe their experience in implementing restoration and rehabilitation practices to (i) reverse land degradation and improve land-based natural capital; (ii) assist in the recovery of a degraded ecosystem by re-establishing the pre-existing ecological structure and function; or (iii) reinstate ecosystem functionality, with a focus on the provision of goods and services. Such practices may include, for example, soil nutrient replenishment through organic amendment, water harvesting, counter-erosion measures and reforestation."
-msgstr ""
-
-#: ../../implementationFramework.md:153
-msgid "In the description, Parties may include information on the type of practice, main activities, the ecosystem in question, main stakeholders involved and resources used. The narrative should also describe the main reasons for success, what support was provided for the recovery of ecosystem functions and services in the long term, and the main factors of success. If the restoration and rehabilitation refer to cases/examples that were mentioned in the question on SLM under the ‘Action on the ground’ section of the reporting form, Parties may refer to them or elaborate more specifically on one or more. Experiences from the LDN Target-Setting Programme should be reported when applicable."
-msgstr ""
-
-#: ../../implementationFramework.md:155
-msgid "Parties are encouraged to provide one or more examples of the support provided to another country to implement restoration and rehabilitation practices, including information of the type of practice, main activities, areas/ecosystems restored and rehabilitated, main stakeholders involved, and resources used. The narrative should also describe the main reasons for success, what support was provided to the recovery of ecosystem functions and services in the long term, and the main factors of success."
-msgstr ""
-
-#: ../../implementationFramework.md:157
-msgid "7.4.3. Drought risk management and early warning systems"
-msgstr ""
-
-#: ../../implementationFramework.md:159
-msgid "Parties are encouraged to describe their experience in developing and operationalizing drought risk management, monitoring, and early warning systems and safety net programmes. Such experiences may include, for example, capacity-building and extension services, national strategies in place that cover drought risk management, and ways to monitor the early warning systems. The information may address questions relating to:"
-msgstr ""
-
-#: ../../implementationFramework.md:161
-msgid "What are the current procedures/challenges relating to early warning systems in your country?"
-msgstr ""
-
-#: ../../implementationFramework.md:163
-msgid "What mechanisms are in place for fostering the liaison and communication of drought monitoring and early warning information between national institutions in your country?"
-msgstr ""
-
-#: ../../implementationFramework.md:165
-msgid "What are the causes of/reasons for vulnerability to drought in your country?"
-msgstr ""
-
-#: ../../implementationFramework.md:167
-msgid "What criteria are used to prioritize vulnerability?"
-msgstr ""
-
-#: ../../implementationFramework.md:169
-msgid "What are general challenges in developing a national drought policy in your country?"
-msgstr ""
-
-#: ../../implementationFramework.md:171
-msgid "What steps have been taken for establishing a drought policy in your country?"
-msgstr ""
-
-#: ../../implementationFramework.md:173
-msgid "In the description, Parties may include information on the type of activities, people involved, aim of the activities, and action taken. The narrative should also describe the outcomes of the activities and the main factors of success. Experiences from the LDN Target-Setting Programme should be reported, when applicable."
-msgstr ""
-
-#: ../../implementationFramework.md:175
-msgid "Parties may provide a summary of one or more examples of support provided in another country to develop and operationalize drought risk management, monitoring and early warning systems and safety net programmes. In the description, it is recommended to include information of the type of practice, main activities, main stakeholders involved, duration, and resources used. The reasons for the successful implementation of this practice, how it has avoided or reduced land degradation in the long term, and the main factors of success should also be reported."
-msgstr ""
-
-#: ../../implementationFramework.md:177
-msgid "7.4.4. Alternative livelihoods"
-msgstr ""
-
-#: ../../implementationFramework.md:179
-msgid "Parties are encouraged to describe their experience in promoting alternative livelihoods, so as to ensure subsistence and generate income using natural resources in a (new) manner that prevents or reduces land degradation. This may include, for example, crop diversification, agroforestry practices, rotational grazing, or rain-fed and irrigated agricultural systems. It could also include income generation activities that are not directly dependent on natural resources, such as production of artisanal goods, renewable energy generation, eco-tourism, production of medicinal and aromatic plants, and aquaculture using recycled wastewater. The reported experiences may include capacity-building and extension services, provision of incentives, infrastructure improvements (roads, telecommunication) or support to product processing and/or marketing."
-msgstr ""
-
-#: ../../implementationFramework.md:181
-msgid "In the description, Parties may provide a brief description of the area/people that were involved, the aim of the activities, action that was taken, role of women and youth, and measures taken to encourage their participation in the activities. The narrative should also describe the outcomes of the activities and the main factors of success. Experiences from the LDN Target-Setting Programme should be reported, when applicable."
-msgstr ""
-
-#: ../../implementationFramework.md:183
-msgid "7.4.5. Establishing knowledge-sharing systems"
-msgstr ""
-
-#: ../../implementationFramework.md:185
-msgid "Parties are encouraged to describe their experience in establishing systems for sharing information and knowledge and facilitating networking on best practices and approaches to drought management. Such systems cover a large selection, ranging from community-level farmers’ networks to national databanks and multi-country peer learning networks. They have a variety of functions, such as facilitating communication and alerts on drought, the sharing of experiences, information and technologies, institutional coordination, provision of scientific data and information, and promotion of the upscaling of good practices. The description may also include information on experiences in promoting women’s access to knowledge and technology."
-msgstr ""
-
-#: ../../implementationFramework.md:187
-msgid "When available, a list of the national or subnational information/knowledge-sharing systems and networks on drought preparedness should be included, together with a list of subregional, regional and international systems and networks on drought preparedness in which the country takes part. If possible, a link to each system/network website should be added. The list, together with the links, will be made available on the UNCCD Knowledge Hub."
-msgstr ""
-
-#: ../../implementationFramework.md:189
-msgid "In the description of each experience, Parties are encouraged to include information of the purpose and coverage (area/population) of the information/knowledge system or network, its specific focus/topic if any, the language(s) the information is available in, and a brief description of the main activities. They may also explain how the system/network has been used/useful so far, and the main factors of success."
+msgid "This refers to strategies and actions aimed at leveraging synergies in DLDD-related activities and integrating DLDD in planning and implementation to generate simultaneous benefits and added value for other multilateral environmental agreements or international commitments."
 msgstr ""
 
 #: ../../implementationFramework.md:147
-msgid "https://www.wocat.net/en/global-slm-database/slm-practices-technologies-and-approaches/classifications-technologies."
+msgid "For example, DLDD processes can contribute to greenhouse gas emissions, habitat loss and decline in biodiversity. However, the implementation of SLM to address DLDD may not only help achieve the goals of the UNCCD, but may also support achievement of the goals of the United Nations Framework Convention on Climate Change (UNFCCC) and the Convention on Biological Diversity (CBD) as well as relevant targets under all 17 SDGs, in particular SDG target 15.3."
+msgstr ""
+
+#: ../../implementationFramework.md:149
+msgid "Parties may indicate to which policy areas the synergies apply. These policy areas cover (i) economic, (ii) environmental, (iii) social, (iv) land, (v) gender and (VI) agricultural policies. Furthermore, Parties may provide information on relevant activities or plans (LDN targets, climate or biodiversity commitments or plans, SDGs, NAPs or similar) and include information on their linkages, including any synergies generated and the main success factors."
+msgstr ""
+
+#: ../../implementationFramework.md:151
+msgid "7.3. Action on the ground"
+msgstr ""
+
+#: ../../implementationFramework.md:153
+msgid "This is a critical element of reporting within the implementation framework. Its aim is to demonstrate real-world impact, identify successful strategies, and enable the sharing of experience and lessons across countries. Parties are encouraged to answer questions related to the following four main topics. Not all SOs address all of these topics."
+msgstr ""
+
+#: ../../implementationFramework.md:155
+msgid "7.3.1. Sustainable land management practices"
+msgstr ""
+
+#: ../../implementationFramework.md:161
+msgid "This form allows Parties to report on their implementation of sustainable land management (SLM) practices, including rehabilitation, restoration and drought management practices. In particular, Parties can:"
+msgstr ""
+
+#: ../../implementationFramework.md:163
+msgid "Highlight proven practices (e.g., agroforestry, forest plantation management, erosion control, water harvesting, etc.) that effectively address DLDD;"
+msgstr ""
+
+#: ../../implementationFramework.md:165
+msgid "Record which vulnerable or marginalized groups (e.g., women, Indigenous peoples, youth) are participating in, benefiting from, or leading these efforts;"
+msgstr ""
+
+#: ../../implementationFramework.md:167
+msgid "Identify the major challenges (e.g. institutional, knowledge of SLM, legal framework, etc.) encountered in the implementation."
+msgstr ""
+
+#: ../../implementationFramework.md:169
+msgid "In addition to the table to be completed, Parties can expand on their experience through the Comments field or by uploading a file. Furthermore, Parties may provide links to documented good practices that have been uploaded to the UNCCD´s designated/accredited World Overview of Conservation Approaches and Technologies (WOCAT) database[^1] or another similar online database. Parties wishing to document new good practices are encouraged to do so using the WOCAT database"
+msgstr ""
+
+#: ../../implementationFramework.md:173
+msgid "7.3.2. Establishing knowledge-sharing systems"
+msgstr ""
+
+#: ../../implementationFramework.md:179
+msgid "Parties are encouraged to describe their experience in establishing systems for sharing information and knowledge and facilitating networking on good practices and approaches to DLDD, including rehabilitation and restoration and drought management. This has the goal of:"
+msgstr ""
+
+#: ../../implementationFramework.md:181
+msgid "Offering examples of scalable and replicable interventions that could benefit other countries or regions."
+msgstr ""
+
+#: ../../implementationFramework.md:183
+msgid "Encouraging the use of platforms like WOCAT for documenting and disseminating good SLM practices."
+msgstr ""
+
+#: ../../implementationFramework.md:185
+msgid "Knowledge-sharing systems range from community-level farmers’ networks to national databanks and multi-country peer learning networks. They have a variety of functions, such as facilitating communication on SLM and alerts on drought, the sharing of experiences, information and technologies, institutional coordination, provision of scientific data and information, and promotion of the upscaling of good practices. The description to be included on the form or uploaded as a separate file may also include information on experiences in promoting women’s access to knowledge and technology."
+msgstr ""
+
+#: ../../implementationFramework.md:187
+msgid "Via the available reporting table, when available, a list of the international, regional, national or subnational information/knowledge-sharing systems and networks on DLDD in which the country participates should be included. If possible, a link to each system/network website should be added. The list, together with the links, will be made available on the UNCCD website at <https://www.unccd.int/resources/knowledge-sharing-systems>."
+msgstr ""
+
+#: ../../implementationFramework.md:189
+msgid "The table also allows Parties to provide a description of each experience, They are encouraged to include information on the purpose and coverage (area/population) of the information/knowledge system or network, its specific focus/topic if any, the language(s) the information is available in, and a brief description of the main activities. They may also explain how the system/network has been used/useful so far, and the main success factors and challenges encountered."
+msgstr ""
+
+#: ../../implementationFramework.md:191
+msgid "7.3.3. Alternative livelihoods"
+msgstr ""
+
+#: ../../implementationFramework.md:194
+msgid "Relevant to SO2"
+msgstr ""
+
+#: ../../implementationFramework.md:197
+msgid "Parties are encouraged to describe their experience in promoting alternative livelihoods, so as to ensure subsistence and generate income using natural resources in a (new) manner that prevents or reduces land degradation while enhancing the resilience of communities in degraded areas. Among the experiences presented Parties may choose to:"
+msgstr ""
+
+#: ../../implementationFramework.md:199
+msgid "Highlight livelihood options that decrease reliance on unsustainable land-use practices (e.g., overgrazing, slash-and-burn agriculture);"
+msgstr ""
+
+#: ../../implementationFramework.md:201
+msgid "Describe activities that encourage a shift away from activities that exacerbate degradation toward rehabilitation and restoration;"
+msgstr ""
+
+#: ../../implementationFramework.md:203
+msgid "Show how alternative livelihoods diversify income sources, making communities less vulnerable to environmental and economic shocks;"
+msgstr ""
+
+#: ../../implementationFramework.md:205
+msgid "Demonstrate how alternative livelihoods contribute to long-term rural development and help break cycles of poverty and land degradation."
+msgstr ""
+
+#: ../../implementationFramework.md:207
+msgid "In the table to be completed, an overview of the action program or project should be provided, complemented by the category of the program or project and relevant examples. The reported experiences may address different categories of livelihood focused interventions (i.e., alternative livelihoods, compensation schemes, incentive schemes) and completed, ongoing or planned examples of these experiences should be provided in the table."
+msgstr ""
+
+#: ../../implementationFramework.md:209
+msgid "In the description, Parties may provide a brief description of the area/people that were involved, the aim of the activities, action that was taken, role of women, youth, indigenous people and local communities, and measures taken to ensure their participation in the activities. The narrative should also describe the outcomes of the activities and the main success factors and challenges encountered. Experiences from the LDN Target-Setting Programme should be reported, when applicable."
+msgstr ""
+
+#: ../../implementationFramework.md:211
+msgid "Parties are also invited to report on the actions being taken to reduce migration forced by desertification and land degradation."
+msgstr ""
+
+#: ../../implementationFramework.md:213
+msgid "In addition to the table Parties can expand on their experience through the Comments field or by uploading an additional file."
+msgstr ""
+
+#: ../../implementationFramework.md:215
+msgid "7.3.4. Drought risk management and early warning systems"
+msgstr ""
+
+#: ../../implementationFramework.md:221
+msgid "Parties are encouraged to describe their experience in developing and operationalizing drought risk management, monitoring, and early warning systems and safety net programmes. Reporting can help to:"
+msgstr ""
+
+#: ../../implementationFramework.md:223
+msgid "Strengthen preparedness and resilience by highlighting measures that help communities and ecosystems anticipate, respond to, and recover from drought impacts;"
+msgstr ""
+
+#: ../../implementationFramework.md:225
+msgid "Demonstrate progress in early warning capabilities, including monitoring, forecasting, and information dissemination systems that reduce vulnerability and enable timely action;"
+msgstr ""
+
+#: ../../implementationFramework.md:227
+msgid "Support integrated drought risk reduction strategies by linking early warning systems to policy, planning, and local-level implementation."
+msgstr ""
+
+#: ../../implementationFramework.md:229
+msgid "In addition to the table to be completed, Parties can expand on their experience through the Comments field or by uploading an additional file. Such experiences may include, for example, capacity-building and extension services, implemented national strategies that cover drought risk management, and ways to monitor the early warning systems."
+msgstr ""
+
+#: ../../implementationFramework.md:231
+msgid "In the description, Parties may include information on the type of activities, people involved, aim of the activities, and action taken. In reporting on capacity-building, extension services and other activities, if possible indicate the numbers or percentage of participants who were women, youth, indigenous people and/or local community members. The narrative should also describe the outcomes of the activities and the main success factors."
+msgstr ""
+
+#: ../../implementationFramework.md:233
+msgid "Parties are also asked to indicate how the UNCCD Community of Learning and Practice on Drought Management has supported the efforts in developing drought risk management plans and early warning systems."
+msgstr ""
+
+#: ../../implementationFramework.md:235
+msgid "Furthermore, Parties may describe any support provided to another country to develop and operationalize drought risk management, monitoring and early warning systems and safety net programmes. In the description, it is recommended to include information on the type of practice, main activities, main stakeholders involved, duration, and resources used. The reasons for the successful implementation of this practice, how it has avoided or reduced land degradation in the long term, and the main success factors should also be reported."
+msgstr ""
+
+#: ../../implementationFramework.md:237
+msgid "7.4. Financial and non-financial resources"
+msgstr ""
+
+#: ../../implementationFramework.md:239
+msgid "Parties are encouraged to answer questions related to the following three main topics relevant to SO5:"
+msgstr ""
+
+#: ../../implementationFramework.md:241
+msgid "7.4.1. Resource mobilization strategy"
+msgstr ""
+
+#: ../../implementationFramework.md:244
+#: ../../implementationFramework.md:262
+#: ../../implementationFramework.md:270
+msgid "Relevant to SO5"
+msgstr ""
+
+#: ../../implementationFramework.md:247
+msgid "Reporting on resource mobilization helps to:"
+msgstr ""
+
+#: ../../implementationFramework.md:249
+msgid "Identify and highlight financial needs, sources, and gaps for implementing UNCCD activities and achieving Land Degradation Neutrality (LDN) targets;"
+msgstr ""
+
+#: ../../implementationFramework.md:251
+msgid "Track progress in mobilising resources from domestic, international, and private sources to support sustainable land management;"
+msgstr ""
+
+#: ../../implementationFramework.md:253
+msgid "Highlight partnerships and mechanisms used to leverage funding, such as blended finance or public-private partnerships."
+msgstr ""
+
+#: ../../implementationFramework.md:255
+msgid "To this end, Parties are therefore encouraged to indicate whether they have a national strategy for mobilizing resources for the implementation of the Convention in place, or at least, whether they are in the process of devising such a national resource mobilization strategy. If so, country Parties are requested to provide further details, as a minimum, in relation to the issues stated above and any relevant weblinks."
+msgstr ""
+
+#: ../../implementationFramework.md:257
+msgid "If no such strategy is in place or is under development, then country Parties should provide information regarding any other current or planned measures to enable the mobilization of resources for DLDD."
+msgstr ""
+
+#: ../../implementationFramework.md:259
+msgid "7.4.2. Synergies"
+msgstr ""
+
+#: ../../implementationFramework.md:265
+msgid "This refers to strategies and actions aimed at leveraging synergies in DLDD-related activities and integrating DLDD in planning and implementation to generate simultaneous benefits and added value for other multilateral environmental agreements or international commitments. In relation to SO5 Parties can provide information on synergies in the mobilization of financial and non-financial resources for the three Rio Conventions. If such synergies exist, Parties are asked to describe their experience, including challenges and opportunities. Parties could also indicate and provide details if relevant on whether they plan to mobilize resources jointly for the three Rio Conventions in the future."
+msgstr ""
+
+#: ../../implementationFramework.md:267
+msgid "7.4.3. Reporting process"
+msgstr ""
+
+#: ../../implementationFramework.md:273
+msgid "Information on the reporting process for SO-5 helps to ensure understanding, clarity and transparency, in relation to implementing the Convention. It allows Parties to share how they organise, coordinate and validate their national reporting process as well as reflect on lessons learned and challenges."
+msgstr ""
+
+#: ../../implementationFramework.md:276
+msgid "Therefore, Parties are asked to offer information on national circumstances and institutional arrangements relevant to the reporting process on SO5 and its progress indicators. To this effect, a table for reporting qualitative information is provided. Details on the national entities involved in the reporting process can be provided using both the drop-down menus and the narrative fields. In particular the role of the entities involved should be described as comprehensively as possible."
+msgstr ""
+
+#: ../../implementationFramework.md:281
+msgid "Finally, country Parties can offer any other concluding general comments on the reporting process in the General Comments field."
+msgstr ""
+
+#: ../../implementationFramework.md:171
+msgid "<https://qcat.wocat.net/en/wocat/>"
 msgstr ""
