@@ -28,13 +28,13 @@ SINGULAR_FORMS_EXCEPTIONS = {
     "ar": 1,
 }
 
-ALL_LANGUAGES = [
-    "ar",
-    "es",
-    "fr",
-    "ru",
-    "zh_CN",
-]
+ALL_LANGUAGES = {
+    "ar": "ar",
+    "es": "es",
+    "fr": "fr",
+    "ru": "ru",
+    "zh_CN": "zh-hans",
+}
 
 
 class PoTranslator:
@@ -118,7 +118,7 @@ class PoTranslator:
 
             results = deepl_client.translate_text(
                 text=texts,
-                target_lang=self.code,
+                target_lang=ALL_LANGUAGES[self.code],
                 tag_handling="xml",
                 ignore_tags="x",
                 formality=self.formality,
