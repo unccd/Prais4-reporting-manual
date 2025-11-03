@@ -2,6 +2,7 @@
 
 """Automatically translate po files with deepl."""
 import argparse
+import html
 
 import itertools
 import logging
@@ -124,7 +125,12 @@ class PoTranslator:
             )
 
             for entry, result in zip(entries, results, strict=True):
-                self.set_string(entry, self.unwrap_placeholders(result.text))
+                translated_text = self.unwrap_placeholders(result.text)
+                # The DeepL library would have escaped the HTML entities for us, so
+                # return it to its original form.
+                translated_text = html.unescape(translated_text)
+
+                self.set_string(entry, translated_text)
                 entry.tcomment = self.comment
                 # Reset entry if it was fuzzy before
                 entry.fuzzy = False
