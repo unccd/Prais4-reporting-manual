@@ -758,7 +758,7 @@ msgstr ""
 # Requires manual validation; translated with DeepL
 #: ../../SO3.md:161
 msgid "$P_{j} = \\frac{cellCount_{j}}{\\text{Total number of cells}} \\times 100$"
-msgstr "$P_{j} = \\\\frac{cellCount_{j}}{ \\\\\\نص{ إجمالي عدد الخلايا}} \\ضرب 100$$"
+msgstr "$P_{j} = \\frac{cellCount_{j}}{\\text{ إجمالي عدد الخلايا}} \\times 100$"
 
 #: ../../SO3.md:163 ../../SO3.md:514
 msgid "Where:"
@@ -2464,7 +2464,7 @@ msgid ""
 "$DVI = \\frac{C_{\\text{social}} + C_{\\text{economic}} + "
 "C_{\\text{infrastructural}}}{3}$"
 msgstr ""
-"$\\text{مؤشر قابلية التأثر بالجفاف }= \\frac{C_{\\text{اجتماعي}} + "
+"$DVI = \\frac{C_{\\text{اجتماعي}} + "
 "C_{\\text{اقتصادي}} + C_{\\text{متعلق بالهياكل الأساسية}}}{3}$"
 
 #: ../../SO3.md:552

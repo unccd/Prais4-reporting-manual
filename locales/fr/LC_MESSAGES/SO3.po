@@ -808,8 +808,7 @@ msgstr ""
 #: ../../SO3.md:161
 msgid "$P_{j} = \\frac{cellCount_{j}}{\\text{Total number of cells}} \\times 100$"
 msgstr ""
-"$P_{j} = \\frac{compte_de_cellules_{j}}{\\text{nombre_total_de_cellules}} "
-"\\n- fois 100$"
+"$P_{j} = \\frac{cellCount_{j}}{\\text{Nombre_total_de_cellules}} \\times 100$"
 
 #: ../../SO3.md:163 ../../SO3.md:514
 msgid "Where:"
@@ -2685,7 +2684,7 @@ msgid ""
 "$DVI = \\frac{C_{\\text{social}} + C_{\\text{economic}} + "
 "C_{\\text{infrastructural}}}{3}$"
 msgstr ""
-"$IVS = \\frac{C_{\\text{sociale}} + C_{\\text{économique}} + "
+"$DVI = \\frac{C_{\\text{sociale}} + C_{\\text{économique}} + "
 "C_{\\text{infrastructurelle}}}{3}$"
 
 #: ../../SO3.md:552
