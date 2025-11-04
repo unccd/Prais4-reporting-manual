@@ -45,6 +45,19 @@ PDF version is available [here](https://buildmedia.readthedocs.org/media/pdf/pra
     texlive-lang-chinese
     texlive-lang-cjk
 
+## Updating translation strings
+
+After changes are made to the source strings, run the following command to update the 
+po files to include the new changes:
+
+    ./make_messages.sh
+
+## Automatically translate po files with DeepL
+
+After strings are updated, run the following command to automatically translate the po files:
+
+    DEEPL_API_KEY=XXXXXXXXXX ./translate_po_files.py
+
 ## Other stuff
 
 To see less noise when diffing po files, add in `.gitconfig`

@@ -6,1090 +6,2012 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PRAIS4 Reporting Manual \n"
+"Project-Id-Version: PRAIS4 Reporting Manual\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-04 19:41+0200\n"
+"POT-Creation-Date: 2025-11-03 15:18+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../SO2.md:1
 msgid ""
 "2. Strategic objective 2: To improve the living conditions of affected "
 "populations"
-msgstr "2. Objetivo estratégico 2: mejorar las condiciones de vida de las poblaciones afectadas"
+msgstr ""
+"2. Objetivo estratégico 2: mejorar las condiciones de vida de las "
+"poblaciones afectadas"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:3
 msgid ""
-"2.1. SO 2-1 – Trends in population living below the relative poverty line"
-" and/or income inequality in affected areas"
-msgstr "2.1. OE 2-1 - Tendencias en la población que vive por debajo del umbral de pobreza relativa o en la desigualdad de ingresos en las zonas afectadas"
+"2.1. SO 2-1 – Trends in population living below the relative poverty line or"
+" income inequality in affected areas"
+msgstr ""
+"2.1. OE 2-1 - Tendencias de la población que vive por debajo del umbral de "
+"pobreza relativa o de la desigualdad de ingresos en las zonas afectadas"
 
 #: ../../SO2.md:5
 msgid "2.1.1. Introduction"
 msgstr "2.1.1. Introducción"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:7
 msgid ""
-"Indicator SO 2-1 estimates the well-being of populations in monetary "
+"Indicator SO 2-1 estimates the living standard of populations in monetary "
 "terms."
-msgstr "El indicador OE 2-1 estima el bienestar de las poblaciones en términos monetarios a través de dos criterios de medición; las Partes deben especificar cuál de los dos es el que desean utilizar:"
+msgstr ""
+"El indicador SO 2-1 estima el nivel de vida de las poblaciones en términos "
+"monetarios."
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:9
 msgid ""
-"Two metrics are used for this purpose and Parties should specify which "
-"metrics they would like to use:"
+"Two metrics may be used for this purpose and Parties should specify which "
+"one is to be used for reporting:"
 msgstr ""
+"Se pueden utilizar dos métricas para este fin y las Partes deben especificar"
+" cuál se utilizará para la elaboración de informes:"
 
 #: ../../SO2.md:11
 msgid "Proportion of the population below the international poverty line, or"
-msgstr "la proporción de la población que vive por debajo del umbral internacional de pobreza o"
+msgstr ""
+"la proporción de la población que vive por debajo del umbral internacional "
+"de pobreza o"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:13
-msgid "Income inequality."
-msgstr "la desigualdad de ingresos."
+msgid "Income inequality (Gini Index)."
+msgstr "Desigualdad de ingresos (Índice de Gini)."
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:15
 msgid ""
-"These metrics can be used interchangeably according to country-specific "
-"conditions."
-msgstr "Ambos criterios de medición pueden emplearse indistintamente en función de las condiciones propias de cada país."
+"The choice of the metric to use depends on the country-specific income "
+"category or poverty level."
+msgstr ""
+"La elección de la métrica a utilizar depende de la categoría de ingresos o "
+"del nivel de pobreza específicos del país."
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:17
 msgid ""
-"The proportion of the population below the international poverty line is "
-"generally considered relevant to less developed countries, where extreme "
-"poverty and destitution are core development challenges. The "
-"international poverty line is currently set at USD 1.90 a day, based on "
-"2011 purchasing power parity. Therefore, the proportion of the population"
-" below the international poverty line is defined as the percentage of the"
-" population living on less than USD 1.90 a day at 2011 international "
-"prices."
-msgstr "Por lo general, se considera que la proporción de la población que vive por debajo del umbral internacional de pobreza es pertinente para los países menos adelantados, donde la pobreza extrema y la indigencia constituyen importantes problemas de desarrollo. Actualmente, el umbral internacional de pobreza se encuentra fijado en 1,90 dólares de los Estados Unidos diarios sobre la base de la paridad del poder adquisitivo de 2011, lo que significa que la proporción de la población que vive por debajo del umbral internacional de pobreza se define como el porcentaje de la población que vive con menos de 1,90 dólares diarios a precios internacionales de 2011."
+"The metric represented by the proportion of the population below the "
+"international poverty line is generally considered relevant to less "
+"developed countries, where extreme poverty and destitution are core "
+"development challenges. The international poverty line is currently set at "
+"USD 2.15 a day, based on 2017 purchasing power parity. Therefore, the "
+"proportion of the population below the international poverty line is defined"
+" as the percentage of the population living on less than USD 2.15 a day at "
+"2017 international prices."
+msgstr ""
+"La métrica representada por la proporción de la población por debajo del "
+"umbral internacional de pobreza se considera generalmente relevante para los"
+" países menos desarrollados, en los que la pobreza extrema y la indigencia "
+"son retos centrales del desarrollo. El umbral internacional de pobreza está "
+"fijado actualmente en 2,15 USD al día, según la paridad del poder "
+"adquisitivo de 2017. Por lo tanto, la proporción de la población por debajo "
+"del umbral internacional de pobreza se define como el porcentaje de la "
+"población que vive con menos de 2,15 USD al día a precios internacionales de"
+" 2017."
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:19
 msgid ""
-"Income inequality is a useful metric for both low-income and middle-"
-"income countries as it estimates the extent of wealth distribution in a "
-"region. It is estimated through the Gini index. The Gini index measures "
-"the extent to which the distribution of income (or, in some cases, "
-"consumption expenditure) among individuals or households within an "
-"economy deviates from perfectly equal distribution. A Gini index of 0 "
-"represents perfect equality, while an index of 100 implies perfect "
-"inequality."
-msgstr "La desigualdad de ingresos, por otro lado, es un criterio de medición útil tanto para los países de ingreso bajo como para los países de ingreso mediano, ya que estima el grado de distribución de la riqueza dentro de una región. Dicha estimación se obtiene a través del índice de Gini, con el que se calcula el grado en que la distribución de los ingresos (o, en algunos casos, del gasto de consumo) entre individuos u hogares de una misma economía se desvía de una distribución perfectamente igualitaria. Así, un valor de 0 en el índice de Gini representa la igualdad absoluta, mientras que un valor de 100 equivale a la desigualdad absoluta."
+"On the other hand, income inequality is a useful alternative to the poverty "
+"metric for those countries where poverty is no longer an issue, as it "
+"estimates the extent of wealth distribution in a region. It is estimated "
+"through the Gini index. The Gini index measures the extent to which the "
+"distribution of income (or, in some cases, consumption expenditure) among "
+"individuals or households within an economy deviates from perfectly equal "
+"distribution. A Gini index of 0 represents perfect equality, while an index "
+"of 100 implies perfect inequality."
+msgstr ""
+"Por otro lado, la desigualdad de ingresos es una alternativa útil a la "
+"métrica de la pobreza para aquellos países en los que ésta ya no es un "
+"problema, ya que estima el alcance de la distribución de la riqueza en una "
+"región. Se estima a través del índice de Gini. El índice de Gini mide hasta "
+"qué punto la distribución de la renta (o, en algunos casos, del gasto de "
+"consumo) entre individuos u hogares dentro de una economía se desvía de una "
+"distribución perfectamente equitativa. Un índice de Gini de 0 representa una"
+" igualdad perfecta, mientras que un índice de 100 implica una desigualdad "
+"perfecta."
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:21
 msgid ""
-"National reporting is facilitated though the provision of default data. "
-"As the proportion of population below the international poverty line by "
-"sex, age, employment status and geographical location (urban/rural) is "
-"also a Sustainable Development Goal (SDG) indicator (SDG indicator "
-"1.1.1), default data is pre-filled from the SDG database. For income "
-"inequality (i.e., the Gini index), default data is pre-filled from the "
-"World Bank database[^1]."
-msgstr "La presentación de informes nacionales se facilita mediante el suministro de datos por defecto. Dado que la proporción de la población que vive por debajo del umbral internacional de pobreza según el sexo, la edad, la situación laboral y la ubicación geográfica (urbana o rural) constituye también un indicador de los Objetivos de Desarrollo Sostenible (indicador 1.1.1 de los ODS), los datos por defecto se rellenan previamente a partir de la base de datos de los ODS. Sin embargo, en el caso de la desigualdad de ingresos (es decir, el índice de Gini), los datos por defecto se rellenan previamente a partir de la base de datos del Banco Mundial[^1]."
+"National reporting is facilitated though the provision of default data. As "
+"the proportion of population below the international poverty line by sex, "
+"age, employment status and geographical location (urban/rural) is also a "
+"Sustainable Development Goal (SDG) indicator (SDG indicator 1.1.1), default "
+"data is pre-filled from the United Nations Department of Economic and Social"
+" Affairs (UN-DESA) SDG Indicators database[^1] for indicator 1.1.1. If used,"
+" this data does not require further validation by the Party. For income "
+"inequality (i.e., the Gini index), default data is pre-filled from the World"
+" Bank database[^2]. If income inequality data is used, it may require "
+"validation by the Party."
+msgstr ""
+"La presentación de informes nacionales se facilita mediante el suministro de"
+" datos por defecto. Dado que la proporción de la población por debajo del "
+"umbral internacional de pobreza por sexo, edad, situación laboral y "
+"ubicación geográfica (urbana/rural) es también un indicador de los Objetivos"
+" de Desarrollo Sostenible (ODS) (indicador ODS 1.1.1), los datos por defecto"
+" se rellenan previamente a partir de la base de datos de indicadores ODS del"
+" Departamento de Asuntos Económicos y Sociales de las Naciones Unidas "
+"(DAES)[^1] para el indicador 1.1.1. Si se utilizan, estos datos no requieren"
+" validación adicional por la Parte. Para la desigualdad de ingresos (es "
+"decir, el índice de Gini), los datos por defecto se rellenan previamente a "
+"partir de la base de datos del Banco Mundial[^2]. Si se utilizan datos de "
+"desigualdad de ingresos, es posible que requieran validación por la Parte."
 
-#: ../../SO2.md:25
+#: ../../SO2.md:26
 msgid "2.1.2. Prerequisites for reporting"
 msgstr "2.1.2. Requisitos previos para la presentación de informes"
 
-#: ../../SO2.md:27
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:28
 msgid ""
-"An in-depth reading of SDG indicator 1.1.1 metadata and Gini index "
-"metadata (see section 2.1.7)."
-msgstr "Una lectura exhaustiva de los metadatos del indicador 1.1.1 de los ODS y de los metadatos del índice de Gini (véase la sección 2.1.7)."
+"An in-depth reading of SDG indicator 1.1.1 metadata "
+"(<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>) and "
+"Gini index metadata (<https://databank.worldbank.org/metadataglossary/world-"
+"development-indicators/series/SI.POV.GINI>)."
+msgstr ""
+"Una lectura en profundidad de los metadatos del indicador 1.1.1 de los ODS "
+"(<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>) y del "
+"índice de Gini (<https://databank.worldbank.org/metadataglossary/world-"
+"development-indicators/series/SI.POV.GINI>)."
 
-#: ../../SO2.md:29
+#: ../../SO2.md:30
 msgid "Data complying with the specifications listed in table 15."
 msgstr "Datos que cumplan las especificaciones de la tabla 15."
 
-#: ../../SO2.md:31
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:32
 msgid ""
-"A pool of national experts officially nominated by the national "
-"authorities to verify the suitability and consistency of the default data"
-" against the situation in their country, or to identify and compile data "
-"using national sources for the three metrics. Key institutions might "
-"include a country’s national statistical office and the ministry of "
-"finance, as well as universities and research centres."
-msgstr "Un grupo de expertos nacionales designado oficialmente por las autoridades nacionales con el objetivo de verificar la idoneidad y la coherencia de los datos por defecto con respecto a la situación de su país o de obtener y recopilar datos para los tres criterios de medición a través de fuentes nacionales. Entre las instituciones clave se podrían incluir la oficina nacional de estadística del país y el ministerio de finanzas, así como las universidades y los centros de investigación."
+"A pool of national experts officially nominated by the national authorities "
+"to verify the suitability and consistency of the default data against the "
+"situation in their country, or to identify and compile data using national "
+"sources for the two metrics. Key institutions might include a country’s "
+"national statistical office and the ministry of finance, as well as "
+"universities and research centres."
+msgstr ""
+"Un grupo de expertos nacionales designados oficialmente por las autoridades "
+"nacionales para verificar la adecuación y coherencia de los datos por "
+"defecto con la situación de su país, o para identificar y recopilar datos "
+"utilizando fuentes nacionales para las dos métricas. Las instituciones clave"
+" podrían incluir la oficina nacional de estadística de un país y el "
+"ministerio de finanzas, así como universidades y centros de investigación."
 
-#: ../../SO2.md:33
+#: ../../SO2.md:34
 msgid "2.1.3. Reporting process and step-by-step procedure"
-msgstr "2.1.3. Proceso de presentación de informes e instrucciones detalladas paso por paso"
+msgstr ""
+"2.1.3. Proceso de presentación de informes e instrucciones detalladas paso "
+"por paso"
 
-#: ../../SO2.md:35 ../../SO2.md:146
-msgid "The step-by-step procedure for reporting is described in the following."
-msgstr "A continuación se describen las instrucciones detalladas paso por paso para la presentación de informes."
+#: ../../SO2.md:36 ../../SO2.md:146
+msgid ""
+"The step-by-step procedure for reporting is described in the following."
+msgstr ""
+"A continuación se describen las instrucciones detalladas paso por paso para "
+"la presentación de informes."
 
-#: ../../SO2.md:37
+#: ../../SO2.md:38
 msgid "Step 1: Choose the most suitable metric"
 msgstr "Paso 1: seleccionar el criterio de medición más idóneo"
 
-#: ../../SO2.md:39
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:40
 msgid ""
-"Parties are invited to choose the most suitable metric to represent the "
-"well-being of the population in their countries."
-msgstr "Se invita a las Partes a seleccionar el criterio de medición más idóneo para representar el bienestar de la población en sus respectivos países."
+"Parties are invited to choose the most suitable metric from the two options "
+"provided to represent the well-being of the population in their countries by"
+" clicking on one of the toggle buttons under the “Relevant Metric” heading. "
+"This will cause either table SO2-1.T1 or table SO2-1.T2 to open."
+msgstr ""
+"Se invita a las Partes a elegir la métrica más adecuada de entre las dos "
+"opciones proporcionadas para representar el bienestar de la población en sus"
+" países haciendo clic en uno de los botones basculantes bajo el epígrafe "
+"\"Métrica relevante\". Esto hará que se abra la tabla SO2-1.T1 o la tabla "
+"SO2-1.T2."
 
-#: ../../SO2.md:41
+#: ../../SO2.md:42
 msgid "Step 2: Identify the relevant dataset"
 msgstr "Paso 2: identificar el conjunto de datos pertinente"
 
-#: ../../SO2.md:43
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:44
 msgid ""
-"The proportion of population below the international poverty line data is"
-" pre-filled from the SDG database, while income inequality (Gini index) "
-"data is pre-filled from the World Bank database."
-msgstr "Los datos sobre la proporción de la población que vive por debajo del umbral internacional de pobreza se rellenan previamente a partir de la base de datos de los ODS, mientras que los datos sobre la desigualdad de ingresos (índice de Gini), se rellenan previamente a partir de la base de datos del Banco Mundial."
+"The proportion of population below the international poverty line data is "
+"pre-filled in table SO2-1.T1 from the SDG database, while income inequality "
+"(Gini index) data is pre-filled in table SO2-1.T2 from the World Bank "
+"database."
+msgstr ""
+"Los datos sobre la proporción de la población por debajo del umbral "
+"internacional de pobreza están precumplimentados en la tabla SO2-1.T1 de la "
+"base de datos de los ODS, mientras que los datos sobre la desigualdad de "
+"ingresos (índice de Gini) están precumplimentados en la tabla SO2-1.T2 de la"
+" base de datos del Banco Mundial."
 
-#: ../../SO2.md:45
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:46
 msgid ""
-"Parties may also use national data, provided it complies with the data "
-"specifications listed in table 15."
-msgstr "Las Partes también pueden emplear datos nacionales, siempre y cuando estos cumplan las especificaciones de datos que figuran en la tabla 15."
+"Nevertheless, Parties may choose to use national data, provided it complies "
+"with the data specifications listed in table 15."
+msgstr ""
+"No obstante, las Partes pueden optar por utilizar datos nacionales, siempre "
+"que cumplan las especificaciones de datos que figuran en el cuadro 15."
 
-#: ../../SO2.md:50
+#: ../../SO2.md:51
 msgid "*__Table 15__. Data specifications for SO 2-1 Indicator*"
-msgstr "*__Tabla 15__. Especificaciones de los datos para el indicador OE 2-1*"
+msgstr ""
+"*__Tabla 15__. Especificaciones de los datos para el indicador OE 2-1*"
 
-#: ../../SO2.md:1
+#: ../../SO2.md:57 ../../SO2.md:163 ../../SO2.md:277
+#, python-brace-format
 msgid "{rspan}`1` Item"
 msgstr " Elemento"
 
-#: ../../SO2.md:2
+#: ../../SO2.md:58 ../../SO2.md:164 ../../SO2.md:278
+#, python-brace-format
 msgid "{cspan}`1` Specifications"
 msgstr " Especificaciones"
 
-#: ../../SO2.md:3
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:59
 msgid ""
-"__Default data__ (Sustainable Development Goal indicator 1.1.1 data and "
-"Gini index World Bank data)"
-msgstr "__Datos por defecto__ (datos del indicador 1.1.1 de los Objetivos de Desarrollo Sostenible y datos del índice de Gini procedentes del Banco Mundial)"
+"__Default data__ (Sustainable Development Goal indicator 1.1.1 data or Gini "
+"index World Bank data)"
+msgstr ""
+"Datos por defecto__ (datos del indicador 1.1.1 de los Objetivos de "
+"Desarrollo Sostenible o datos del índice de Gini del Banco Mundial)"
 
-#: ../../SO2.md:5 ../../SO2.md:6
+#: ../../SO2.md:61 ../../SO2.md:168
 msgid "__National data__"
 msgstr "__Datos nacionales__"
 
-#: ../../SO2.md:6
+#: ../../SO2.md:62
 msgid "Data type"
 msgstr "Tipo de datos"
 
-#: ../../SO2.md:7
-msgid "Annual data on one of the two metrics for the period 2000–2019."
-msgstr "Datos anuales sobre uno de los dos criterios de medición, correspondientes al período 2000-2019."
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:63
+msgid "Annual data on one of the two metrics for the period 2000–2023."
+msgstr "Datos anuales de una de las dos métricas para el periodo 2000-2023."
 
-#: ../../SO2.md:8
+#: ../../SO2.md:64
 msgid ""
-"Annual data on one of the two metrics for the period from 2000 to the "
-"latest available year for the reporting period."
-msgstr "Datos anuales sobre uno de los dos criterios de medición, correspondientes al período que abarca desde el 2000 hasta el último año disponible del período de presentación de informes."
+"Annual data on one of the two metrics for the period from 2000 to the latest"
+" available year for the reporting period."
+msgstr ""
+"Datos anuales sobre uno de los dos criterios de medición, correspondientes "
+"al período que abarca desde el 2000 hasta el último año disponible del "
+"período de presentación de informes."
 
-#: ../../SO2.md:9 ../../SO2.md:10 ../../SO2.md:19
+#: ../../SO2.md:65 ../../SO2.md:172 ../../SO2.md:293
 msgid "__Spatial resolution__"
 msgstr "__Resolución espacial__"
 
-#: ../../SO2.md:10 ../../SO2.md:11
+#: ../../SO2.md:66 ../../SO2.md:173
 msgid "Country level"
 msgstr "Escala nacional"
 
-#: ../../SO2.md:11 ../../SO2.md:12
+#: ../../SO2.md:67 ../../SO2.md:174
 msgid "Country or sub-national levels"
 msgstr "Escala nacional o subnacional"
 
-#: ../../SO2.md:12 ../../SO2.md:13 ../../SO2.md:22
-msgid "__Quality__"
-msgstr "__Calidad__"
-
-#: ../../SO2.md:13 ../../SO2.md:14 ../../SO2.md:23
-msgid "Specified in the datasets’ metadata."
-msgstr "Especificada en los metadatos de los conjuntos de datos."
-
-#: ../../SO2.md:14 ../../SO2.md:15 ../../SO2.md:24
-msgid "To be indicated in the dataset metadata."
-msgstr "Debe indicarse en los metadatos del conjunto de datos."
-
-#: ../../SO2.md:15 ../../SO2.md:16 ../../SO2.md:25
+#: ../../SO2.md:68 ../../SO2.md:175 ../../SO2.md:298
 msgid "__Metadata__"
 msgstr "__Metadatos__"
 
-#: ../../SO2.md:16 ../../SO2.md:17 ../../SO2.md:26
+#: ../../SO2.md:69 ../../SO2.md:176 ../../SO2.md:299
 msgid "Metadata information is provided with default data."
-msgstr "La información sobre los metadatos se proporciona con los datos por defecto."
+msgstr ""
+"La información sobre los metadatos se proporciona con los datos por defecto."
 
-#: ../../SO2.md:17 ../../SO2.md:18 ../../SO2.md:27
-msgid "Minimum metadata content as per the mandatory fields listed in {doc}`Annex II <annex_II>`."
-msgstr "El contenido mínimo de los metadatos, según los campos obligatorios, figura en el anexo II."
-
-#: ../../SO2.md:75
+#: ../../SO2.md:70 ../../SO2.md:177 ../../SO2.md:300
+#, python-brace-format
 msgid ""
-"Step 3: Report national annual values of the chosen metric and interpret "
-"the data"
-msgstr "Paso 3: presentar informes sobre los valores anuales nacionales del criterio de medición seleccionado e interpretar los datos"
+"Minimum metadata content as per the mandatory fields listed in {doc}`Annex "
+"II <annex_II>`."
+msgstr ""
+"El contenido mínimo de los metadatos, según los campos obligatorios, figura "
+"en el anexo II."
 
-#: ../../SO2.md:1
+#: ../../SO2.md:73
+msgid ""
+"Step 3: Report national annual values of the chosen metric and interpret the"
+" data"
+msgstr ""
+"Paso 3: presentar informes sobre los valores anuales nacionales del criterio"
+" de medición seleccionado e interpretar los datos"
+
+#: ../../SO2.md:76
 msgid ""
 "Related areas in the PRAIS 4 platform: tables SO2-1.T1, SO2-1.T2 and "
 "SO2-1.T3"
-msgstr "Áreas relacionas en la plataforma PRAIS 4: tabla SO2-1.T1, SO2-1.T2 y SO2-1.T3"
+msgstr ""
+"Áreas relacionas en la plataforma PRAIS 4: tabla SO2-1.T1, SO2-1.T2 y "
+"SO2-1.T3"
 
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:79
+msgid ""
+"Parties opting to use an alternative source of national data may enter the "
+"relevant national annual values in tables SO2-1.T1 or SO2-1.T2, according to"
+" the chosen metric. Parties should click on the “National Data” button above"
+" the tables in order to edit the tables. Basic metadata, as outlined in "
+"Annex II, for the datasets to be used should be provided in the Data Sources"
+" form that opens when “Edit Data Sources” is selected."
+msgstr ""
+"Las Partes que opten por utilizar una fuente alternativa de datos nacionales"
+" pueden introducir los valores anuales nacionales pertinentes en las tablas "
+"SO2-1.T1 o SO2-1.T2, según la métrica elegida. Las Partes deberán hacer clic"
+" en el botón \"Datos nacionales\" situado encima de las tablas para "
+"editarlas. Los metadatos básicos, como se indica en el Anexo II, de los "
+"conjuntos de datos que se vayan a utilizar deberán facilitarse en el "
+"formulario Fuentes de datos que se abre al seleccionar \"Editar fuentes de "
+"datos\"."
+
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:81
 msgid ""
-"Parties opting to use an alternative source of national data may enter "
-"the relevant national annual values in tables SO2-1.T1 or SO2-1.T2, "
-"according to the chosen metric."
-msgstr "Las Partes que opten por utilizar una fuente de datos nacionales alternativa deberán introducir los valores anuales nacionales que resulten pertinentes en las tablas SO2-1.T1 o SO2-1.T2, dependiendo del criterio de medición seleccionado."
+"To assist in the data interpretation, countries are encouraged to visualize "
+"their respective metrics by means of a graph (graphs for each country are "
+"available on the [World Bank "
+"website](https://datatopics.worldbank.org/sdgs/index.html)). While it may be"
+" difficult to attribute specific causal factors to changes in the metrics, "
+"countries may indicate which direct and/or indirect drivers are presumably "
+"behind the observed changes and report this information in the Qualitative "
+"Assessment table (i.e., Table SO2-1.T3)."
+msgstr ""
+"Para ayudar en la interpretación de los datos, se anima a los países a "
+"visualizar sus respectivas métricas mediante un gráfico (los gráficos de "
+"cada país están disponibles en la [página web del Banco "
+"Mundial](https://datatopics.worldbank.org/sdgs/index.html)). Aunque puede "
+"resultar difícil atribuir factores causales específicos a los cambios en las"
+" métricas, los países pueden indicar qué impulsores directos y/o indirectos "
+"están presumiblemente detrás de los cambios observados y comunicar esta "
+"información en la tabla de evaluación cualitativa (es decir, la tabla "
+"SO2-1.T3)."
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:83
-msgid ""
-"To assist in the data interpretation, countries are encouraged to "
-"visualize their respective metrics by means of a graph (graphs for each "
-"country are available on the [World Bank "
-"website](https://datatopics.worldbank.org/sdgs/index.html)).  While it "
-"may be difficult to attribute specific causal factors to changes in the "
-"metrics, countries may indicate which direct and/or indirect drivers are "
-"presumably behind the observed changes and report this information in the"
-" Qualitative Assessment table (i.e., Table SO2-1.T3)."
-msgstr "A fin de facilitar la interpretación de los datos, se alienta a los países a visualizar sus respectivos criterios de medición a través de un gráfico (los gráficos de cada país están disponibles en el [sitio web del Banco Mundial] (https://datatopics.worldbank.org/sdgs/index.html)). Si bien puede resultar difícil atribuir un cambio en los criterios de medición a factores causales concretos, los países pueden indicar qué factores directos o indirectos habrían podido propiciar presumiblemente los cambios observados e incluir esta información en la tabla de evaluación cualitativa (es decir, la tabla SO2-1.T3)."
+msgid "Step 4: Verify the results"
+msgstr "Paso 4: Verificar los resultados"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:85
-msgid "Step 4:  Verify the results"
-msgstr "Paso 4: verificar los resultados"
-
-#: ../../SO2.md:87 ../../SO2.md:197
 msgid ""
-"The reliability of the estimates from global data sources requires inputs"
-" from national experts to detect and highlight situations where the "
-"confidence level of the obtained results might be low. This input would "
-"contribute to a qualitative assessment of the reliability of the "
-"estimates."
-msgstr "Para garantizar la fiabilidad de las estimaciones procedentes de fuentes de datos mundiales, es preciso contar con las aportaciones de expertos nacionales, a fin de detectar y destacar aquellos casos en los que el nivel de confianza de los resultados obtenidos podría ser bajo. Esta aportación contribuiría a una evaluación cualitativa de la fiabilidad de las estimaciones."
+"If Parties use the default Gini index or enter their own national data for "
+"either metric, then its reliability requires verification from national "
+"experts to detect and highlight situations where the confidence level of the"
+" obtained results might be low. These checks would contribute to a "
+"qualitative assessment of the reliability of the estimates. Parties should "
+"report this assessment in a narrative form in the comments field below the "
+"tables."
+msgstr ""
+"Si las Partes utilizan el índice de Gini por defecto o introducen sus "
+"propios datos nacionales para cualquiera de las dos métricas, su fiabilidad "
+"requiere una verificación por parte de expertos nacionales para detectar y "
+"destacar las situaciones en las que el nivel de confianza de los resultados "
+"obtenidos podría ser bajo. Estas comprobaciones contribuirían a una "
+"evaluación cualitativa de la fiabilidad de las estimaciones. Las Partes "
+"deberían informar de esta evaluación de forma narrativa en el campo de "
+"comentarios que aparece debajo de las tablas."
 
-#: ../../SO2.md:89
-msgid "Step 5: Generate reports"
-msgstr "Paso 5: generar informes"
-
-#: ../../SO2.md:91
-msgid ""
-"Once verified by the Parties, the estimates of the proportion of "
-"population below the international poverty line, or income inequality "
-"should be officially submitted to the United Nations Convention to Combat"
-" Desertification (UNCCD). Observed changes and their interpretation may "
-"be described in the “Qualitative Assessment” table of the PRAIS 4 "
-"platform."
-msgstr "Una vez que las Partes hayan llevado a cabo la verificación, deberán remitir oficialmente las estimaciones sobre la proporción de la población que vive por debajo del umbral internacional de pobreza o sobre la desigualdad de ingresos a la Convención de las Naciones Unidas de Lucha contra la Desertificación (CLD). Los cambios observados podrán describirse, junto con su correspondiente interpretación, en la tabla de “evaluación cualitativa” de la plataforma PRAIS 4."
-
-#: ../../SO2.md:93
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:87
 msgid ""
 "Optionally, Parties may include additional information in the General "
-"Comment field to describe specific country situations. Sub-national "
+"Comments field to describe specific country situations. Sub-national "
 "disaggregated data (e.g., per administrative division, urban vs rural, "
-"affected areas or other socio-economic strata, e.g., sex-disaggregated "
-"data) may be useful to identify where the most significant poverty/income"
-" inequality hotspots/brightspots are located."
-msgstr "Si lo desean, las Partes pueden incluir información adicional en el campo de comentarios generales para describir situaciones específicas del país. En este sentido, los datos subnacionales desglosados (p. ej., por división administrativa, por zonas urbanas en comparación con zonas rurales, por zonas afectadas, o en función de otros estratos socioeconómicos, como datos desglosados por sexo) podrían resultar útiles para distinguir donde se encuentran las zonas críticas y las zonas prometedoras más importantes con respecto a la pobreza o la desigualdad de ingresos."
+"affected areas or other socio-economic strata, e.g., sex-disaggregated data)"
+" may be useful to identify where the most significant poverty/income "
+"inequality areas are located."
+msgstr ""
+"Opcionalmente, las Partes pueden incluir información adicional en el campo "
+"Comentarios generales para describir situaciones específicas de cada país. "
+"Los datos subnacionales desglosados (por ejemplo, por división "
+"administrativa, urbana frente a rural, zonas afectadas u otros estratos "
+"socioeconómicos, por ejemplo, datos desglosados por sexo) pueden ser útiles "
+"para identificar dónde se encuentran las zonas de pobreza/desigualdad de "
+"ingresos más significativas."
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:89
+msgid ""
+"Parties are also encouraged to submit narratives via the General Comments "
+"field on the methodology, data sources and data accuracy in the event that "
+"the estimates are derived using national data. It would also be beneficial "
+"to report on special cases and issues, describing any deviation from the "
+"default method and providing the rationale for the adoption of a different "
+"methodology."
+msgstr ""
+"También se anima a las Partes a que envíen descripciones a través del campo "
+"Comentarios generales sobre la metodología, las fuentes de datos y la "
+"exactitud de los datos en caso de que las estimaciones se deriven utilizando"
+" datos nacionales. También sería beneficioso informar sobre casos y "
+"cuestiones especiales, describiendo cualquier desviación del método por "
+"defecto y proporcionando la justificación para la adopción de una "
+"metodología diferente."
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:91
+msgid "Step 5: Save form and make available for review"
+msgstr ""
+"Paso 5: Guardar el formulario y ponerlo a disposición para su revisión"
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:93 ../../SO2.md:204 ../../SO2.md:347
+msgid ""
+"Once the form has been completed and verified by the Parties, it should be "
+"marked as “In Review” and then saved. Once the UNCCD has completed its "
+"review and all comments have been resolved, the form can be marked as "
+"“Finalized” and then Saved."
+msgstr ""
+"Una vez que el formulario haya sido completado y verificado por las Partes, "
+"debe marcarse como \"En revisión\" y luego guardarse. Una vez que la CLD "
+"haya completado su revisión y se hayan resuelto todos los comentarios, el "
+"formulario puede marcarse como \"Finalizado\" y luego guardarse."
 
 #: ../../SO2.md:95
-msgid ""
-"Parties are also encouraged to submit narratives on the methodology, data"
-" sources and data accuracy in the event that the estimates are derived "
-"from national data. It would also be beneficial to report on special "
-"cases and issues, describing any deviation from the default method and "
-"providing the rationale to adopt a different methodology."
-msgstr "Asimismo, se alienta a las Partes a presentar descripciones sobre los métodos, las fuentes de datos y la exactitud de los datos, en caso de que las estimaciones se hayan obtenido a partir de datos nacionales. También resultaría beneficioso informar sobre casos y cuestiones de carácter especial, describiendo cualquier desviación del método por defecto y proporcionando una justificación para adoptar una metodología diferente."
-
-#: ../../SO2.md:97
 msgid "2.1.4. Dependencies"
 msgstr "2.1.4. Dependencias"
 
-#: ../../SO2.md:99
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:97
 msgid ""
-"Indicator SO 2-1 has no dependencies from other SO, however it could be "
-"used in the calculation of the Drought Vulnerability Index (DVI) for "
-"indicator SO 3-3."
-msgstr "El indicador OE 2-1 no tiene dependencias con respecto a otros OE, no obstante podría emplearse en el cálculo del Índice de Vulnerabilidad a la Sequía (IVS) del indicador OE 3-3."
+"Indicator SO 2-1 has no dependencies from other SOs, however it could be "
+"used in the calculation of one of the economic components in the Drought "
+"Vulnerability Index (DVI) for indicator SO 3-3. See chapter 3 of this manual"
+" for more information."
+msgstr ""
+"El indicador OE 2-1 no tiene dependencias de otros OE, sin embargo podría "
+"utilizarse en el cálculo de uno de los componentes económicos en el Índice "
+"de Vulnerabilidad a la Sequía (IVS) para el indicador OE 3-3. Consulte el "
+"capítulo 3 de este manual para obtener más información."
 
-#: ../../SO2.md:101
+#: ../../SO2.md:99
 msgid "2.1.5. Challenges"
 msgstr "2.1.5. Retos"
 
-#: ../../SO2.md:103 ../../SO2.md:213 ../../SO2.md:362
+#: ../../SO2.md:101
 msgid "Data availability and quality"
 msgstr "Disponibilidad y calidad de los datos"
 
-#: ../../SO2.md:105 ../../SO2.md:215
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:103
 msgid ""
-"International global data only generically describes the well-being of "
-"the population in a country and might not capture specific situations in "
-"need of consideration. More detailed sub-national data might be needed to"
-" represent the economic situation at the local level."
-msgstr "Los datos mundiales internacionales solo describen el bienestar de la población de un país de forma genérica y cabe la posibilidad de que no capten situaciones específicas que deban tenerse en cuenta. Por este motivo, podrían necesitarse datos subnacionales más detallados a la hora de representar la situación económica a escala local."
+"International global data only generically describes the well-being of the "
+"population in a country and might not capture specific situations in need of"
+" consideration. More detailed sub-national data might be needed by Parties "
+"to represent the economic situation at the local level."
+msgstr ""
+"Los datos globales internacionales sólo describen de forma genérica el "
+"bienestar de la población de un país y podrían no captar situaciones "
+"específicas que necesiten consideración. Las Partes podrían necesitar datos "
+"subnacionales más detallados para representar la situación económica a nivel"
+" local."
 
-#: ../../SO2.md:107
+#: ../../SO2.md:105
 msgid "2.1.6. Summary (main actions)"
 msgstr "2.1.6. Resumen (acciones principales)"
 
-#: ../../SO2.md:109
+#: ../../SO2.md:107
 msgid "Key actions for reporting on indicator SO 2-1 are as follows:"
-msgstr "Las acciones clave para la presentación de informes sobre el indicador OE 2-1 son las siguientes:"
+msgstr ""
+"Las acciones clave para la presentación de informes sobre el indicador OE "
+"2-1 son las siguientes:"
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:109
+msgid ""
+"**Choose the most suitable metric**: Parties should choose the most suitable"
+" metric from the two available to represent the living standard of the "
+"population in monetary terms in their countries."
+msgstr ""
+"**Elija la métrica más adecuada**: Las Partes deben elegir la métrica más "
+"adecuada de las dos disponibles para representar el nivel de vida de la "
+"población en términos monetarios en sus países."
 
 #: ../../SO2.md:111
 msgid ""
-"**Choose the most suitable metric**: Parties are encouraged to choose the"
-" most suitable metric to represent the well-being of the population in "
-"their countries."
-msgstr "**Seleccionar el criterio de medición más idóneo**: se invita a las Partes a elegir el criterio de medición más idóneo para representar el bienestar de la población en sus países."
+"**Identify the relevant dataset**: Parties may decide to use the default "
+"data or alternative national sources."
+msgstr ""
+"**Identificar el conjunto de datos pertinente**: las Partes pueden optar por"
+" utilizar los datos por defecto o fuentes nacionales alternativas."
 
 #: ../../SO2.md:113
 msgid ""
-"**Identify the relevant dataset**: Parties may decide to use the default "
-"data or alternative national sources."
-msgstr "**Identificar el conjunto de datos pertinente**: las Partes pueden optar por utilizar los datos por defecto o fuentes nacionales alternativas."
+"**Report national annual values of the chosen metric and interpret the "
+"data**: Parties are invited to report, visualize and interpret the national "
+"annual data."
+msgstr ""
+"**Presentar informes sobre los valores anuales nacionales del criterio de "
+"medición seleccionado e interpretar los datos**: se insta a las partes a "
+"notificar, visualizar e interpretar los datos anuales nacionales."
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:115
 msgid ""
-"**Report national annual values of the chosen metric and interpret the "
-"data**: Parties are invited to report, visualize and interpret the "
-"national annual data."
-msgstr "**Presentar informes sobre los valores anuales nacionales del criterio de medición seleccionado e interpretar los datos**: se insta a las partes a notificar, visualizar e interpretar los datos anuales nacionales."
+"**Verify the results**: If Gini index or national data are used, rather than"
+" the default data on Proportion of population below the international "
+"poverty line, then Parties should consult with national experts to "
+"qualitatively assess the reliability of the estimates. Default data on the "
+"Proportion of population below the international poverty line has already "
+"been validated by national authorities through the SDG process."
+msgstr ""
+"**Verificar los resultados**: Si se utilizan el índice de Gini o datos "
+"nacionales, en lugar de los datos por defecto sobre la Proporción de "
+"población por debajo del umbral internacional de pobreza, las Partes deberán"
+" consultar con expertos nacionales para evaluar cualitativamente la "
+"fiabilidad de las estimaciones. Los datos por defecto sobre la Proporción de"
+" población por debajo del umbral internacional de pobreza ya han sido "
+"validados por las autoridades nacionales a través del proceso de los ODS."
 
-#: ../../SO2.md:117 ../../SO2.md:225
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:117 ../../SO2.md:226 ../../SO2.md:384
 msgid ""
-"**Verify the results**: the reliability of the estimates from global data"
-" sources requires inputs from national experts to qualitatively assess "
-"the reliability of the estimates based on expert knowledge."
-msgstr "**Verificar los resultados**: para garantizar la fiabilidad de las estimaciones procedentes de fuentes de datos mundiales es preciso contar con las aportaciones de expertos nacionales, a fin de llevar a cabo una evaluación cualitativa sobre la fiabilidad de las estimaciones, basada en conocimientos especializados."
+"**Save form and make available for review**: Once verified by the Parties, "
+"the data and supporting narrative should be marked as “In Review” and saved "
+"thereby making it available for review by the UNCCD."
+msgstr ""
+"**Guardar el formulario y ponerlo a disposición para su revisión**: Una vez "
+"verificados por las Partes, los datos y la narrativa de apoyo deben marcarse"
+" como \"En revisión\" y guardarse, quedando así disponibles para su revisión"
+" por la CLD."
 
-#: ../../SO2.md:119 ../../SO2.md:227 ../../SO2.md:387
-msgid ""
-"**Generate reports**: once verified by the Parties, the data and "
-"supporting narrative should be officially submitted to the UNCCD."
-msgstr "**Generar informes**: una vez que las Partes hayan llevado a cabo la verificación, deberán remitir oficialmente los datos y las descripciones de apoyo a la CLD."
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:119
+msgid "2.1.7. Additional Resources"
+msgstr "2.1.7. Recursos adicionales"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:121
-msgid "2.1.7. Further reading"
-msgstr "2.1.7. Lecturas complementarias"
-
-#: ../../SO2.md:123
 msgid ""
-"SDG indicator 1.1.1 metadata "
-"(<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)"
-msgstr "Metadatos del indicador 1.1.1 de los ODS (<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)"
+"Limitations of the SDG Indicator 1.1.1 are discussed in section 4.b of the "
+"related metadata document ( "
+"<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)"
+msgstr ""
+"Las limitaciones del indicador 1.1.1 de los ODS se discuten en la sección "
+"4.b del documento de metadatos relacionado ( "
+"<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)"
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:122
+msgid ""
+"Limitations and exceptions in relation to the Gini index are discussed in "
+"this World Bank document "
+"(<https://databank.worldbank.org/metadataglossary/jobs/series/SI.POV.GINI>)"
+msgstr ""
+"Las limitaciones y excepciones en relación con el índice de Gini se discuten"
+" en este documento del Banco Mundial "
+"(<https://databank.worldbank.org/metadataglossary/jobs/series/SI.POV.GINI>)"
 
 #: ../../SO2.md:124
 msgid ""
-"Gini index metadata (<https://databank.worldbank.org/metadataglossary"
-"/world-development-indicators/series/SI.POV.GINI>)"
-msgstr "Metadatos del índice de Gini (<https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SI.POV.GINI>)"
+"2.2. SO 2-2 – Trends in access to safe drinking water in affected areas"
+msgstr ""
+"2.2. OE 2-2: tendencias en el acceso a agua potable salubre en las zonas "
+"afectadas"
 
 #: ../../SO2.md:126
-msgid "2.2. SO 2-2 – Trends in access to safe drinking water in affected areas"
-msgstr "2.2. OE 2-2: tendencias en el acceso a agua potable salubre en las zonas afectadas"
-
-#: ../../SO2.md:128
 msgid "2.2.1. Introduction"
 msgstr "2.2.1. Introducción"
 
-#: ../../SO2.md:130
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:128
 msgid ""
-"Having access to water is a key determinant of child survival, maternal "
-"and child health, family well-being and economic productivity. "
-"Accordingly, an increasing trend in access to safe drinking water would "
-"help improve the living conditions of affected populations."
-msgstr "El acceso al agua es determinante clave para la supervivencia del niño, la salud maternoinfantil, el bienestar familiar y la productividad económica. Por lo tanto, una tendencia al alza en el acceso a agua potable salubre ayudaría a mejorar las condiciones de vida de las poblaciones afectadas."
+"Access to water is a key determinant of child survival, maternal and child "
+"health, family well-being and economic productivity. Accordingly, an "
+"increasing trend in access to safe drinking water would help improve the "
+"living conditions of affected populations."
+msgstr ""
+"El acceso al agua es un determinante clave de la supervivencia infantil, la "
+"salud materno-infantil, el bienestar familiar y la productividad económica. "
+"Por consiguiente, una tendencia al alza en el acceso al agua potable "
+"contribuiría a mejorar las condiciones de vida de las poblaciones afectadas."
 
-#: ../../SO2.md:132
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:130
 msgid ""
 "In order to quantify safely managed drinking water, the proportion of "
 "population using improved drinking water services is determined. This is "
-"currently being measured by the proportion of population using an "
-"improved basic drinking water source. ‘Improved’ drinking water sources "
-"are defined as piped (into dwellings, yards or plots; public taps or "
-"standpipes) and non-piped (boreholes or tube wells; protected dug wells; "
-"protected springs; rainwater; packaged or delivered water) sources which "
-"are located on the premises, available when needed, and free from fecal "
-"and priority chemical contamination."
-msgstr "Para poder cuantificar el agua potable gestionada sin riesgos, se determina la proporción de población que utiliza servicios de suministro de agua potable mejorados. Esta, a su vez, se mide actualmente por la proporción de población que utiliza fuentes básicas de agua potable mejoradas. Las fuentes de agua potable mejoradas se definen como fuentes de agua corriente (situadas en casas, patios o terrenos; así como grifos públicos o fuentes de agua pública) y no corriente (pozos de sondeo o pozos entubados; pozos excavados protegidos, manantiales protegidos; agua de lluvia; y agua envasada o suministrada) situadas en unas instalaciones determinadas, que están disponibles siempre que existe la necesidad y que se encuentran libres de contaminación fecal y de contaminación por productos químicos prioritarios."
+"currently measured by the proportion of population using an improved basic "
+"drinking water source."
+msgstr ""
+"Para cuantificar el agua potable gestionada de forma segura, se determina la"
+" proporción de población que utiliza servicios de agua potable mejorados. "
+"Actualmente se mide por la proporción de población que utiliza una fuente de"
+" agua potable básica mejorada."
 
-#: ../../SO2.md:134
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:132
 msgid ""
-"National reporting is facilitated through the provision of default data "
-"derived from the SDG database. The proportion of population using safely "
-"managed drinking water services is SDG indicator 6.1.1. The indicator is "
-"disaggregated by urban and rural populations, and expressed as a "
-"percentage. Custodian agencies for this indicator are the World Health "
-"Organization (WHO) and the United Nations Children's Fund (UNICEF) which,"
-" through the Joint Monitoring Programme (JMP) for Water, Sanitation and "
-"Hygiene (WASH), have produced regular estimates of national, regional and"
-" global progress on drinking water, sanitation and hygiene since 1990."
-msgstr "La presentación de informes nacionales se facilita mediante el suministro de datos por defecto procedentes de la base de datos de los ODS. En este sentido, la proporción de la población que utiliza servicios de suministro de agua potable gestionados sin riesgos se corresponde con el indicador 6.1.1 de los ODS, que se desglosa por poblaciones urbanas y rurales, y se expresa en forma de porcentaje. Los organismos custodios del indicador son la Organización Mundial de la Salud (OMS) y el Fondo de las Naciones Unidas para la Infancia (UNICEF), los cuales han generado, desde 1990 y de forma periódica, estimaciones sobre los progresos nacionales, regionales y mundiales relacionados con el agua potable, el saneamiento y la higiene, a través del Programa Conjunto de Monitoreo del Abastecimiento del Agua, el Saneamiento y la Higiene."
+"National reporting is facilitated through the provision of default data pre-"
+"filled from the United Nations Department of Economic and Social Affairs "
+"(UN-DESA) SDG database[^3]. The proportion of population using safely "
+"managed drinking water services is SDG Indicator 6.1.1. The indicator is "
+"disaggregated by urban and rural populations, and expressed as a percentage."
+" Custodian agencies for this indicator are the World Health Organization "
+"(WHO) and the United Nations Children’s Fund (UNICEF) which, through the "
+"Joint Monitoring Programme (JMP) for Water, Sanitation and Hygiene (WASH), "
+"have produced regular estimates of national, regional and global progress on"
+" drinking water, sanitation and hygiene since 1990."
+msgstr ""
+"La presentación de informes nacionales se facilita mediante la provisión de "
+"datos por defecto rellenados previamente a partir de la base de datos de los"
+" ODS del Departamento de Asuntos Económicos y Sociales de las Naciones "
+"Unidas (UN-DESA)[^3]. La proporción de población que utiliza servicios de "
+"agua potable gestionados de forma segura es el indicador 6.1.1 de los ODS. "
+"El indicador se desglosa por poblaciones urbanas y rurales, y se expresa en "
+"porcentaje. Los organismos custodios de este indicador son la Organización "
+"Mundial de la Salud (OMS) y el Fondo de las Naciones Unidas para la Infancia"
+" (UNICEF) que, a través del Programa Conjunto de Monitoreo (PCM) para el "
+"Agua, el Saneamiento y la Higiene (WASH), han elaborado estimaciones "
+"periódicas de los progresos nacionales, regionales y mundiales en materia de"
+" agua potable, saneamiento e higiene desde 1990."
 
 #: ../../SO2.md:136
 msgid "2.2.2. Prerequisites for reporting"
 msgstr "2.2.2. Requisitos previos para la presentación de informes"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:138
 msgid ""
-"An in-depth reading of the SDG indicator 6.1.1 metadata (see section "
-"2.2.7)."
-msgstr "Una lectura exhaustiva de los metadatos del indicador 6.1.1 de los ODS (véase la sección 2.2.7)."
+"An in-depth reading of the SDG indicator 6.1.1 metadata "
+"(<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>)."
+msgstr ""
+"Una lectura en profundidad de los metadatos del indicador 6.1.1 de los ODS "
+"(<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>)."
 
 #: ../../SO2.md:140
 msgid "Data complying with the specifications listed in table 16."
 msgstr "Datos que cumplan las especificaciones de la tabla 16."
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:142
 msgid ""
-"A pool of national experts officially nominated by the national "
-"authorities to verify the suitability and consistency of the default data"
-" against the situation in their country, or to identify and compile data "
-"using national sources for the three metrics. Key institutions might "
-"include a country’s national statistical office, ministry of health and "
-"ministry of water resources, as well as universities and research "
-"centres."
-msgstr "Un grupo de expertos nacionales designado oficialmente por las autoridades nacionales con el objetivo de verificar la idoneidad y la coherencia de los datos por defecto con respecto a la situación de su país o de obtener y recopilar datos para los tres criterios de medición a través de fuentes nacionales. Entre las instituciones clave se podría incluir la oficina nacional de estadística del país, el ministerio de salud y el ministerio de recursos hídricos, así como las universidades y los centros de investigación."
+"A pool of national experts officially nominated by the national authorities "
+"to verify the suitability and consistency of the default data against the "
+"situation in their country, or to identify and compile data using national "
+"sources for the indicator. Key institutions might include a country’s "
+"national statistical office, ministry of health and ministry of water "
+"resources, as well as universities and research centres."
+msgstr ""
+"Un grupo de expertos nacionales designados oficialmente por las autoridades "
+"nacionales para verificar la adecuación y coherencia de los datos por "
+"defecto con la situación de su país, o para identificar y recopilar datos "
+"utilizando fuentes nacionales para el indicador. Entre las instituciones "
+"clave podrían figurar la oficina nacional de estadística, el ministerio de "
+"sanidad y el ministerio de recursos hídricos de un país, así como "
+"universidades y centros de investigación."
 
 #: ../../SO2.md:144
 msgid "2.2.3. Reporting process and step-by-step procedure"
-msgstr "2.2.3. Proceso de presentación de informes e instrucciones detalladas paso por paso"
+msgstr ""
+"2.2.3. Proceso de presentación de informes e instrucciones detalladas paso "
+"por paso"
 
 #: ../../SO2.md:148
 msgid "Step 1: Identify the relevant dataset"
 msgstr "Paso 1: Identificar el conjunto de datos pertinente"
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:150
 msgid ""
 "Default data for this indicator is pre-filled from the SDG database (SDG "
-"indicator 6.1.1); estimates of the proportion of population using "
-"improved drinking water services are regularly produced by the WHO/UNICEF"
-" JMP."
-msgstr "Los datos por defecto de este indicador se rellenan previamente a partir de la base de datos de los ODS (indicador 6.1.1 de los ODS); las estimaciones sobre la proporción de la población que utiliza servicios de suministro de agua potable mejorados las genera periódicamente el Programa Conjunto de Monitoreo de la OMS y UNICEF."
+"indicator 6.1.1); estimates of the proportion of population using improved "
+"drinking water services are regularly produced by the WHO/UNICEF JMP. If "
+"used, this data does not require further validation by the Party."
+msgstr ""
+"Los datos por defecto para este indicador están pre-rellenados a partir de "
+"la base de datos de los ODS (indicador 6.1.1 de los ODS); las estimaciones "
+"de la proporción de población que utiliza servicios mejorados de agua "
+"potable son elaboradas regularmente por el PCM de la OMS/UNICEF. Si se "
+"utilizan, estos datos no requieren mayor validación por la Parte."
 
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:152
 msgid ""
-"Parties may also use national data, provided it complies with the data "
-"specifications listed in table 16."
-msgstr "Las Partes pueden emplear datos nacionales, siempre y cuando estos cumplan las especificaciones de datos que figuran en la tabla 16."
+"Parties may use national data instead, by clicking on the button above the "
+"table, provided it complies with the data specifications listed in table 16."
+msgstr ""
+"Las Partes pueden utilizar en su lugar los datos nacionales, pulsando el "
+"botón situado encima de la tabla, siempre que cumplan las especificaciones "
+"de datos que figuran en la tabla 16."
 
 #: ../../SO2.md:157
 msgid "*__Table 16__. Data specifications for SO 2-2 Indicator*"
-msgstr "*__Tabla 16__. Especificaciones de los datos para el indicador OE 2-2 *"
+msgstr ""
+"*__Tabla 16__. Especificaciones de los datos para el indicador OE 2-2 *"
 
-#: ../../SO2.md:3
+#: ../../SO2.md:165
 msgid "__Default data__"
 msgstr "__Datos por defecto__"
 
-#: ../../SO2.md:5
+#: ../../SO2.md:167
 msgid ""
-"(Sustainable Development Goal indicator 6.1.1 / World Health Organization"
-" / United Nations Children’s Fund Joint Monitoring Programme)"
-msgstr "(Indicador 6.1.1 de los Objetivos de Desarrollo Sostenible / Programa Conjunto de Monitoreo de la Organización Mundial de la Salud y del Fondo de las Naciones Unidas para la Infancia)"
+"(Sustainable Development Goal indicator 6.1.1 / World Health Organization / "
+"United Nations Children’s Fund Joint Monitoring Programme)"
+msgstr ""
+"(Indicador 6.1.1 de los Objetivos de Desarrollo Sostenible / Programa "
+"Conjunto de Monitoreo de la Organización Mundial de la Salud y del Fondo de "
+"las Naciones Unidas para la Infancia)"
 
-#: ../../SO2.md:7
+#: ../../SO2.md:169
 msgid "__Type of data__"
 msgstr "__Tipo de datos__"
 
-#: ../../SO2.md:8
+#: ../../SO2.md:170
 #, python-format
 msgid ""
-"Annual data on the total, urban and rural population using safely managed"
-" drinking water services (% of population) for the period 2000–2020."
-msgstr "Datos anuales sobre la población total y la población urbana y rural que utiliza servicios de suministro de agua potable gestionados sin riesgos (% oporcentaje de población), correspondientes al período 2000-2020."
+"Annual data on the total, urban and rural population using safely managed "
+"drinking water services (% of population) for the period 2000–2020."
+msgstr ""
+"Datos anuales sobre la población total y la población urbana y rural que "
+"utiliza servicios de suministro de agua potable gestionados sin riesgos (% "
+"oporcentaje de población), correspondientes al período 2000-2020."
 
-#: ../../SO2.md:9
+#: ../../SO2.md:171
 #, python-format
 msgid ""
-"Annual data on the total, urban and rural population using safely managed"
-" drinking water services (% of population) for the period from 2000 to "
-"the latest available year for the reporting period."
-msgstr "Datos anuales sobre la población total y la población urbana y rural que utiliza servicios de suministro de agua potable gestionados sin riesgos (% oporcentaje de población) correspondientes al período que abarca desde el año 2000 hasta el último año disponible del período de presentación de informes."
+"Annual data on the total, urban and rural population using safely managed "
+"drinking water services (% of population) for the period from 2000 to the "
+"latest available year for the reporting period."
+msgstr ""
+"Datos anuales sobre la población total y la población urbana y rural que "
+"utiliza servicios de suministro de agua potable gestionados sin riesgos (% "
+"oporcentaje de población) correspondientes al período que abarca desde el "
+"año 2000 hasta el último año disponible del período de presentación de "
+"informes."
+
+#: ../../SO2.md:180
+msgid "Step 2: Report national annual values and interpret the data"
+msgstr ""
+"Paso 2: presentar informes sobre los valores anuales nacionales e "
+"interpretar los datos"
 
 #: ../../SO2.md:183
-msgid "Step 2: Report national annual values and interpret the data"
-msgstr "Paso 2: presentar informes sobre los valores anuales nacionales e interpretar los datos"
-
-#: ../../SO2.md:1
 msgid "Related areas in the PRAIS 4 platform: tables SO2-2.T1 and SO2-2.T2"
-msgstr "Áreas relacionadas en la plataforma PRAIS 4: tablas SO2-2.T1 y SO2-2.T2"
+msgstr ""
+"Áreas relacionadas en la plataforma PRAIS 4: tablas SO2-2.T1 y SO2-2.T2"
 
-#: ../../SO2.md:189
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:186
 msgid ""
-"Parties opting to use an alternative source of national data may enter "
-"the relevant data in table SO2-2.T1. Parties may also provide information"
-" on the dominant change in the metric using the “Qualitative Assessment” "
-"table SO2-2.T2."
-msgstr "Las Partes que opten por utilizar una fuente de datos nacionales alternativa deberán introducir los datos pertinentes en la tabla SO2-2.T1 y proporcionar información sobre el cambio dominante en el criterio de medición, utilizando la tabla “evaluación cualitativa” SO2-2.T2."
+"Parties opting to use an alternative source of national data may enter the "
+"relevant data in table SO2-2.T1. They may do so by clicking on the “National"
+" Data” button above the table. Basic metadata, as outlined in Annex II, for "
+"the datasets to be used should be provided in the Data Sources form that "
+"opens when “Edit Data Sources” is selected. Parties may also provide "
+"information on the dominant change in the metric using the “Qualitative "
+"Assessment” table SO2-2.T2."
+msgstr ""
+"Las Partes que opten por utilizar una fuente alternativa de datos nacionales"
+" pueden introducir los datos pertinentes en la tabla SO2-2.T1. Pueden "
+"hacerlo pulsando el botón \"Datos nacionales\" situado encima de la tabla. "
+"Los metadatos básicos, tal y como se describen en el Anexo II, de los "
+"conjuntos de datos que se vayan a utilizar deberán facilitarse en el "
+"formulario Fuentes de datos que se abre al seleccionar \"Editar fuentes de "
+"datos\". Las Partes también pueden proporcionar información sobre el cambio "
+"dominante en la métrica utilizando la tabla \"Evaluación cualitativa\" "
+"SO2-2.T2."
 
-#: ../../SO2.md:191
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:188
 #, python-format
 msgid ""
-"To assist in the data interpretation, countries are encouraged to "
-"visualize their respective SDG Indicator 6.1.1 by means of a graph "
-"(graphs for each country, representing each disaggregation, i.e., % rural"
-" population, % urban population, % total population, are available to "
-"view and download from the JMP and World Bank websites)[^2].  While it "
-"may be difficult to attribute specific causal factors to changes in the "
-"metrics, countries may indicate which direct and/or indirect drivers are "
-"presumably behind the observed changes and report this information in the"
-" Qualitative Assessment table."
-msgstr "A fin de facilitar la interpretación de los datos, se alienta a los países a visualizar su respectivo indicador 6.1.1 de los ODS a través de un gráfico (los gráficos de cada país que representan cada uno de los desgloses, es decir, la población % urural, la población % uurbana y la población % total, se pueden consultar y descargar a través de los sitios web del Programa Conjunto de Monitoreo y del Banco Mundial)[^2]. Si bien puede resultar difícil atribuir un cambio en los criterios de medición a factores causales concretos, los países pueden indicar qué factores directos o indirectos habrían podido propiciar presumiblemente los cambios observados e incluir esta información en la tabla de evaluación cualitativa."
+"To assist in the data interpretation, countries are encouraged to visualize "
+"their respective SDG Indicator 6.1.1 by means of a graph (graphs for each "
+"country, representing each disaggregation, i.e., % rural population, % urban"
+" population, % total population, are available to view and download from the"
+" JMP, World Bank and Our World in Data websites)[^4]. While it may be "
+"difficult to attribute specific causal factors to changes in the metrics, "
+"countries may indicate which direct and/or indirect drivers are presumably "
+"behind the observed changes and report this information in the Qualitative "
+"Assessment table."
+msgstr ""
+"Para ayudar en la interpretación de los datos, se anima a los países a "
+"visualizar su respectivo indicador 6.1.1 de los ODS mediante un gráfico (los"
+" gráficos de cada país, que representan cada desglose, es decir, % de "
+"población rural, % de población urbana, % de población total, están "
+"disponibles para su visualización y descarga en los sitios web del PCM, el "
+"Banco Mundial y Our World in Data)[^4]. Aunque puede resultar difícil "
+"atribuir factores causales específicos a los cambios en las métricas, los "
+"países pueden indicar qué impulsores directos y/o indirectos están "
+"presumiblemente detrás de los cambios observados e informar de ello en la "
+"tabla de evaluación cualitativa."
 
-#: ../../SO2.md:195
-msgid "Step 3:  Verify the results"
-msgstr "Paso 3: verificar los resultados"
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:192
+msgid "Step 3: Verify the results"
+msgstr "Paso 3: Verificar los resultados"
 
-#: ../../SO2.md:199
-msgid "Step 4: Generate reports"
-msgstr "Paso 4: generar informes"
-
-#: ../../SO2.md:201
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:194
 msgid ""
-"Once verified by the Parties, the estimates of the proportion of "
-"population using safely managed drinking water services should be "
-"officially submitted to the UNCCD."
-msgstr "Una vez que las Partes hayan llevado a cabo la verificación, deberán remitir oficialmente las estimaciones relativas a la proporción de la población que utiliza servicios de suministro de agua potable gestionados sin riesgos a la CLD."
+"If Parties use the default data provided, this has already been validated by"
+" national statistics offices through the SDG process, and synchronized with "
+"PRAIS. Therefore, it does not require additional verification."
+msgstr ""
+"Si las Partes utilizan los datos proporcionados por defecto, éstos ya han "
+"sido validados por las oficinas nacionales de estadística a través del "
+"proceso de los ODS y sincronizados con PRAIS. Por lo tanto, no requiere "
+"verificación adicional."
 
-#: ../../SO2.md:203
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:196
 msgid ""
-"Disaggregated data for this metric (e.g., per administrative division, "
-"urban vs rural, affected areas or other socio-economic strata, e.g., sex-"
-"disaggregated data) may be useful to identify where the most significant "
-"hotspots/brightspots are located. Optionally, Parties may include "
-"additional information to describe specific country situations and "
-"provide more details on data interpretation."
-msgstr "Los datos desglosados de este criterio de medición (p. ej., por división administrativa, por zonas urbanas en comparación con zonas rurales, por zonas afectadas, o en función de otros estratos socioeconómicos, como datos desglosados por sexo) podrían resultar útiles para distinguir donde se encuentran las zonas críticas y las zonas prometedoras más importantes. Las Partes también tienen la posibilidad de incluir información adicional para describir situaciones específicas del país y proporcionar más información relacionada con la interpretación de los datos."
+"Disaggregated data may be used by the Parties to calculate this metric "
+"(e.g., per administrative division, urban vs rural, affected areas or other "
+"socio-economic strata, e.g., sex-disaggregated data) as it may be useful to "
+"identify where the most significant areas are located. Optionally, Parties "
+"may include additional information to describe specific country situations "
+"and provide more details on data interpretation."
+msgstr ""
+"Las Partes pueden utilizar datos desglosados para calcular esta métrica (por"
+" ejemplo, por división administrativa, zonas urbanas frente a rurales, zonas"
+" afectadas u otros estratos socioeconómicos, por ejemplo, datos desglosados "
+"por sexo), ya que pueden ser útiles para identificar dónde se encuentran las"
+" zonas más significativas. Opcionalmente, las Partes pueden incluir "
+"información adicional para describir situaciones específicas de cada país y "
+"proporcionar más detalles sobre la interpretación de los datos."
 
-#: ../../SO2.md:205
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:198
 msgid ""
-"Parties are also encouraged to submit narratives on the methodology, data"
-" sources and data accuracy in the event that the estimates are derived "
-"from national data. It would also be beneficial to report on special "
-"cases and issues, describing any deviation from the default method and "
-"providing the rationale to adopt a different methodology. A General "
-"Comment field is provided in the PRAIS 4 platform for this purpose."
-msgstr "Asimismo, se alienta a las Partes a remitir descripciones sobre la metodología, las fuentes de datos y la exactitud de los datos, en caso de que las estimaciones se hayan obtenido a partir de datos nacionales. También resultaría beneficioso informar sobre casos y cuestiones de carácter especial, describiendo cualquier desviación del método por defecto y proporcionando una justificación para adoptar una metodología diferente; la plataforma PRAIS 4 proporciona un campo de comentarios generales para tal fin. "
+"If Parties enter their own national data, then its reliability requires "
+"inputs from national experts to detect and highlight situations where the "
+"confidence level of the obtained results might be low. This input would "
+"contribute to a qualitative assessment of the reliability of the estimates. "
+"Parties are encouraged to submit narratives in the Comments field associated"
+" with table SO2-2.T1 on the methodology, data sources and data accuracy in "
+"the event that the estimates are derived from national data."
+msgstr ""
+"Si las Partes introducen sus propios datos nacionales, su fiabilidad "
+"requiere aportaciones de expertos nacionales para detectar y destacar las "
+"situaciones en las que el nivel de confianza de los resultados obtenidos "
+"podría ser bajo. Esta aportación contribuiría a una evaluación cualitativa "
+"de la fiabilidad de las estimaciones. Se anima a las Partes a presentar "
+"descripciones en el campo Comentarios asociado a la tabla SO2-2.T1 sobre la "
+"metodología, las fuentes de datos y la exactitud de los datos en caso de que"
+" las estimaciones se deriven de datos nacionales."
 
-#: ../../SO2.md:207
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:200
+msgid ""
+"It would also be beneficial to report on special cases and issues, "
+"describing any deviation from the default method and providing the rationale"
+" for the adoption of a different methodology. Such information can be "
+"entered in the General Comments field."
+msgstr ""
+"También sería beneficioso informar sobre casos y cuestiones especiales, "
+"describiendo cualquier desviación del método por defecto y proporcionando la"
+" justificación para la adopción de una metodología diferente. Dicha "
+"información puede introducirse en el campo Comentarios generales."
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:202
+msgid "Step 4: Save form and make available for review"
+msgstr ""
+"Paso 4: Guardar el formulario y ponerlo a disposición para su revisión"
+
+#: ../../SO2.md:206
 msgid "2.2.4. Dependencies"
 msgstr "2.2.4. Dependencias"
 
-#: ../../SO2.md:209
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:208
 msgid ""
-"Indicator SO 2-2 has no dependencies from other SOs. However, it could be"
-" used in the calculation of the Drought Vulnerability Index (DVI) for "
-"indicator SO 3-3."
-msgstr "El indicador OE 2-1 no tiene dependencias con respecto a otros OE; no obstante, podría emplearse en el cálculo del Índice de Vulnerabilidad a la Sequía (IVS) del indicador OE 3-3."
+"Indicator SO 2-2 has no dependencies from other SOs. However, it could be "
+"used, as one of the infrastructural components, in the calculation of the "
+"Drought Vulnerability Index (DVI) for indicator SO 3-3. See chapter 3 of "
+"this manual for more information."
+msgstr ""
+"El indicador OE 2-2 no depende de otros OE. Sin embargo, podría utilizarse, "
+"como uno de los componentes infraestructurales, en el cálculo del Índice de "
+"Vulnerabilidad a la Sequía (IVS) para el indicador SO 3-3. Para más "
+"información, consulte el capítulo 3 de este manual."
 
-#: ../../SO2.md:211
+#: ../../SO2.md:210
 msgid "2.2.5. Challenges"
 msgstr "2.2.5. Retos"
 
-#: ../../SO2.md:217
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:212 ../../SO2.md:359
+msgid "Default data availability and quality"
+msgstr "Disponibilidad y calidad de los datos por defecto"
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:214
+msgid ""
+"JMP estimates are based on official national data, but differences from "
+"national figures may occur due to variations in definitions, methods, and "
+"population estimates. While national figures may use recent data points, JMP"
+" applies regression analysis using all available data as well as UN "
+"population estimates and projections."
+msgstr ""
+"Las estimaciones del PCM se basan en datos nacionales oficiales, pero pueden"
+" producirse diferencias con las cifras nacionales debido a variaciones en "
+"las definiciones, los métodos y las estimaciones de población. Mientras que "
+"las cifras nacionales pueden utilizar puntos de datos recientes, el PCM "
+"aplica un análisis de regresión utilizando todos los datos disponibles, así "
+"como las estimaciones y proyecciones de población de la ONU."
+
+#: ../../SO2.md:216
 msgid "2.2.6. Summary (main actions)"
 msgstr "2.2.6. Resumen (acciones principales)"
 
-#: ../../SO2.md:219
+#: ../../SO2.md:218
 msgid "Key actions for reporting on indicator SO 2-2 are as follows:"
-msgstr "Las acciones clave para la presentación de informes relativos al indicador OE 2-2 son las siguientes:"
+msgstr ""
+"Las acciones clave para la presentación de informes relativos al indicador "
+"OE 2-2 son las siguientes:"
 
-#: ../../SO2.md:221
+#: ../../SO2.md:220
 msgid ""
-"**Identify the relevant dataset**: Parties may decide to use the "
-"recommended default international data or alternative national sources."
-msgstr "**Identificar el conjunto de datos pertinente**:  Las partes pueden optar por utilizar los datos internacionales por defecto recomendados o fuentes nacionales alternativas. "
+"**Identify the relevant dataset**: Parties may decide to use the recommended"
+" default international data or alternative national sources."
+msgstr ""
+"**Identificar el conjunto de datos pertinente**:  Las partes pueden optar "
+"por utilizar los datos internacionales por defecto recomendados o fuentes "
+"nacionales alternativas. "
 
-#: ../../SO2.md:223
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:222
 msgid ""
 "**Report national annual values and interpret the data**: Parties are "
-"invited to report, visualize and interpret the national annual data."
-msgstr "**Presentar informes sobre los valores anuales nacionales e interpretar los datos**: se insta a las Partes a notificar, visualizar e interpretar los datos anuales nacionales."
+"invited to report, visualize and interpret any national data used."
+msgstr ""
+"**Informar de los valores anuales nacionales e interpretar los datos**: Se "
+"invita a las partes a informar, visualizar e interpretar los datos "
+"nacionales utilizados."
 
-#: ../../SO2.md:229
-msgid "2.2.7. Further reading"
-msgstr "2.2.7. Lecturas complementarias"
-
-#: ../../SO2.md:231
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:224
 msgid ""
-"SDG indicator 6.1.1 metadata "
-"(<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>)"
-msgstr "Metadatos del indicador 6.1.1 de los ODS\n"
-"(<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>)"
+"**Verify the results**: If the default data is used this has already been "
+"validated by national statistics office through the SDG process, and "
+"synchronized with PRAIS. Therefore, it does not require additional "
+"verification by Parties. However, the use of alternative (non-default) "
+"national data sources requires input from national experts to qualitatively "
+"assess the reliability of the estimates based on expert knowledge."
+msgstr ""
+"**Verificar los resultados**: Si se utilizan los datos por defecto, éstos ya"
+" han sido validados por la oficina nacional de estadística a través del "
+"proceso ODS y sincronizados con PRAIS. Por lo tanto, no requiere "
+"verificación adicional por las Partes. Sin embargo, el uso de fuentes de "
+"datos nacionales alternativas (no predeterminadas) requiere la aportación de"
+" expertos nacionales para evaluar cualitativamente la fiabilidad de las "
+"estimaciones basándose en los conocimientos de los expertos."
 
-#: ../../SO2.md:233
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:228
 msgid ""
-"2.3. SO 2-3 – Trends in Population Exposure to Land Degradation "
-"Disaggregated by Sex"
-msgstr "2.3. OE 2-3: Tendencias en la exposición de la población a la degradación de las tierras, desglosadas por sexo"
+"2.3. SO 2-3 – Trends in the Proportion of Population Exposed to Land "
+"Degradation Disaggregated by Sex"
+msgstr ""
+"2.3. OE 2-3 - Tendencias en la proporción de población expuesta a la "
+"degradación de la tierra desglosada por sexo"
 
-#: ../../SO2.md:235
+#: ../../SO2.md:230
 msgid "2.3.1. Introduction"
 msgstr "2.3.1. Introducción"
 
-#: ../../SO2.md:237
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:232
 msgid ""
-"Indicator SO 3-2 was developed in response to decision 11/COP.14 to align"
-" the reporting process for SO 1 to 5 with gender-responsive indicators "
-"and guidelines and ensure that the gender dimensions of land degradation "
-"are captured."
-msgstr "El indicador OE 3-2 se ha desarrollado en virtud de la decisión 11/COP.14, con el objetivo de adecuar el proceso de presentación de informes sobre los OE 1 a 5 a los indicadores y las directrices con perspectiva de género, así como de garantizar que se capten los aspectos de género con respecto a la degradación de las tierras."
+"Indicator SO 2-3 was developed in response to decision 11/COP.14 to align "
+"the reporting process for SO 1 to 5 with gender-responsive indicators and "
+"guidelines and ensure that the gender dimensions of land degradation are "
+"captured."
+msgstr ""
+"El indicador OE 2-3 se desarrolló en respuesta a la decisión 11/COP.14 para "
+"alinear el proceso de elaboración de informes para los OE 1 a 5 con los "
+"indicadores y directrices sensibles al género y garantizar que se capten las"
+" dimensiones de género de la degradación de la tierra."
 
-#: ../../SO2.md:239
+#: ../../SO2.md:234
 msgid ""
 "The indicator estimates the proportion of populations exposed to land "
-"degradation, disaggregated by sex, as a first step towards addressing the"
-" gender data gap on land degradation within the UNCCD reporting "
-"framework. The methodology uses the spatial distribution of the "
-"population or sub-population group (i.e., by sex) to establish its "
-"exposure to land degradation, as determined by indicator SO 1-4 (i.e., "
-"SDG Indicator 15.3.1)."
-msgstr "Este indicador estima la proporción de poblaciones expuestas a la degradación de las tierras, desglosándolas por sexo, como primer paso para subsanar la carencia de datos de género con respecto a la degradación de las tierras, de conformidad con el marco de presentación de informes de la CLD. La metodología consiste en utilizar la distribución espacial de la población o del subgrupo de población (es decir, según el sexo) para determinar su exposición a la degradación de las tierras, tal y como establece el indicador OE 1-4 (indicador 15.3.1 de los ODS)."
+"degradation, disaggregated by sex, as a first step towards addressing the "
+"gender data gap on land degradation within the UNCCD reporting framework. "
+"The methodology uses the spatial distribution of the population or sub-"
+"population group (i.e., by sex) to establish its exposure to land "
+"degradation, as determined by indicator SO 1-4 (i.e., SDG Indicator 15.3.1)."
+msgstr ""
+"Este indicador estima la proporción de poblaciones expuestas a la "
+"degradación de las tierras, desglosándolas por sexo, como primer paso para "
+"subsanar la carencia de datos de género con respecto a la degradación de las"
+" tierras, de conformidad con el marco de presentación de informes de la CLD."
+" La metodología consiste en utilizar la distribución espacial de la "
+"población o del subgrupo de población (es decir, según el sexo) para "
+"determinar su exposición a la degradación de las tierras, tal y como "
+"establece el indicador OE 1-4 (indicador 15.3.1 de los ODS)."
 
-#: ../../SO2.md:241
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:236
 msgid ""
-"The indicator trends in the proportion of population exposed to land "
-"degradation, disaggregated by sex, uses the following metrics:"
-msgstr "El indicador de las tendencias en la proporción de la población expuesta a la degradación de las tierras, desglosadas por sexo, emplea los siguientes criterios de medición:"
+"The indicator _trends in the proportion of population exposed to land "
+"degradation, disaggregated by sex, uses the following three metrics:"
+msgstr ""
+"El indicador _tendencias en la proporción de población expuesta a la "
+"degradación de la tierra, desglosado por sexo, utiliza las tres métricas "
+"siguientes:"
 
-#: ../../SO2.md:243
+#: ../../SO2.md:238
 msgid "Percentage of the female population exposed to land degradation"
-msgstr "Porcentaje de la población femenina expuesta a la degradación de las tierras"
+msgstr ""
+"Porcentaje de la población femenina expuesta a la degradación de las tierras"
 
-#: ../../SO2.md:245
+#: ../../SO2.md:240
 msgid "Percentage of the male population exposed to land degradation"
-msgstr "Porcentaje de la población masculina expuesta a la degradación de las tierras"
+msgstr ""
+"Porcentaje de la población masculina expuesta a la degradación de las "
+"tierras"
 
-#: ../../SO2.md:247
+#: ../../SO2.md:242
 msgid ""
 "Percentage of the total (female and male) population exposed to land "
 "degradation"
-msgstr "Porcentaje de la población total (femenina y masculina) expuesta a la degradación de las tierras"
+msgstr ""
+"Porcentaje de la población total (femenina y masculina) expuesta a la "
+"degradación de las tierras"
 
-#: ../../SO2.md:249
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:244
 msgid ""
 "National reporting is facilitated though the provision of default data "
-"derived from the Worldpop global dataset on population distributions, "
-"demographics and dynamics and the default indicator SO 1-4 estimates."
-msgstr "La presentación de informes nacionales se facilita mediante el suministro de datos por defecto procedentes del conjunto de datos mundiales de WorldPop sobre distribución, demografía y dinámica de la población, así como mediante las estimaciones por defecto del indicador OE 1-4."
+"derived from the WorldPop global dataset on population distributions, "
+"demographics and dynamics and the default indicator SO 1-4 estimates. "
+"Therefore, indicator SO1-4 needs to be completed first before addressing "
+"this indicator."
+msgstr ""
+"La elaboración de informes nacionales se facilita mediante el suministro de "
+"datos por defecto derivados del conjunto de datos globales WorldPop sobre "
+"distribuciones, demografía y dinámica de la población y las estimaciones por"
+" defecto del indicador SO 1-4. Por lo tanto, es necesario completar primero "
+"el indicador SO1-4 antes de abordar este indicador."
 
-#: ../../SO2.md:251
+#: ../../SO2.md:246
 msgid "2.3.2. Prerequisites for reporting"
 msgstr "2.3.2. Requisitos previos para la presentación de informes"
 
-#: ../../SO2.md:253
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:248
 msgid ""
-"An in-depth reading of the methodological note for indicator SO 3-2 (see "
-"section 2.3.7)."
-msgstr "Una lectura exhaustiva de la nota metodológica del indicador OE 3-2 (véase la sección 2.3.7)."
+"An in-depth reading of the methodological note on trends in population "
+"exposure to land degradation (SO2-3) "
+"(<https://www.unccd.int/sites/default/files/inline-"
+"files/MethodologicalNote_PopExposureToLD.pdf>)."
+msgstr ""
+"Una lectura en profundidad de la nota metodológica sobre las tendencias de "
+"la exposición de la población a la degradación de la tierra (SO2-3) "
+"(<https://www.unccd.int/sites/default/files/inline-"
+"files/MethodologicalNote_PopExposureToLD.pdf>)."
 
-#: ../../SO2.md:255
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:250
+msgid "Completion of reporting on indicator SO 1-4."
+msgstr "Finalización de la elaboración de informes sobre el indicador SO 1-4."
+
+#: ../../SO2.md:252
 msgid "Population data complying with the specifications listed in table 17."
-msgstr "Datos sobre población que cumplan las especificaciones que figuran en la tabla 17."
+msgstr ""
+"Datos sobre población que cumplan las especificaciones que figuran en la "
+"tabla 17."
 
-#: ../../SO2.md:257
+#: ../../SO2.md:254
 msgid ""
-"A pool of national experts officially nominated by the national "
-"authorities to verify the suitability and consistency of the default data"
-" against the situation in their country, or to identify and compile data "
-"using national sources for the three metrics. Key institutions might "
-"include a country’s national statistical office, ministry of environment "
-"and ministry of agriculture, as well as universities and research "
-"centres."
-msgstr "Un grupo de expertos nacionales designado oficialmente por las autoridades nacionales con el objetivo de verificar la idoneidad y la coherencia de los datos por defecto con respecto a la situación de su país o de obtener y recopilar datos para los tres criterios de medición a través de fuentes nacionales. Entre las instituciones clave se podría incluir la oficina nacional de estadística del país, el ministerio de medio ambiente y el ministerio de agricultura, así como las universidades y los centros de investigación."
+"A pool of national experts officially nominated by the national authorities "
+"to verify the suitability and consistency of the default data against the "
+"situation in their country, or to identify and compile data using national "
+"sources for the three metrics. Key institutions might include a country’s "
+"national statistical office, ministry of environment and ministry of "
+"agriculture, as well as universities and research centres."
+msgstr ""
+"Un grupo de expertos nacionales designado oficialmente por las autoridades "
+"nacionales con el objetivo de verificar la idoneidad y la coherencia de los "
+"datos por defecto con respecto a la situación de su país o de obtener y "
+"recopilar datos para los tres criterios de medición a través de fuentes "
+"nacionales. Entre las instituciones clave se podría incluir la oficina "
+"nacional de estadística del país, el ministerio de medio ambiente y el "
+"ministerio de agricultura, así como las universidades y los centros de "
+"investigación."
 
-#: ../../SO2.md:259
+#: ../../SO2.md:256
 msgid "2.3.3. Reporting process and step-by-step procedure"
-msgstr "2.3.3. Proceso de presentación de informes e instrucciones detalladas paso por paso"
+msgstr ""
+"2.3.3. Proceso de presentación de informes e instrucciones detalladas paso "
+"por paso"
 
-#: ../../SO2.md:261
+#: ../../SO2.md:258
 msgid ""
-"The step-by-step procedure for reporting is described in the following. "
-"If Parties decide to use the default data, steps 2 and 3 are unnecessary."
-msgstr "A continuación se describen las instrucciones detalladas paso por paso para la presentación de informes. En caso de que las Partes decidan utilizar los datos por defecto, no sería necesario seguir los pasos 2 y 3."
+"The step-by-step procedure for reporting is described in the following. If "
+"Parties decide to use the default data, steps 2 and 3 are unnecessary."
+msgstr ""
+"A continuación se describen las instrucciones detalladas paso por paso para "
+"la presentación de informes. En caso de que las Partes decidan utilizar los "
+"datos por defecto, no sería necesario seguir los pasos 2 y 3."
 
-#: ../../SO2.md:263
+#: ../../SO2.md:260
 msgid "Step 1: Select the population dataset"
 msgstr "Paso 1: seleccionar el conjunto de datos sobre población"
 
-#: ../../SO2.md:265
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:262
 msgid ""
-"Suitable data for the calculation of indicator SO 2-3 is a sex-"
-"disaggregated gridded count of the human population, or a georeferenced "
-"set of sub-national data that covers the full extent of the country. It "
-"must represent the number of male and female individuals per grid cell, "
-"ideally annually, in the time period in question (i.e., the date "
-"timestamp should be at least one of the years within the baseline and "
-"reporting period)."
-msgstr "Los datos idóneos para el cálculo del indicador SO 2-3 son un recuento reticular de la población humana desglosado por sexo o un conjunto georreferenciado de datos subnacionales que abarque toda la extensión del país. Es preciso que represente el número de hombres y mujeres por celda de la cuadrícula, preferentemente de forma anual, en el periodo de tiempo en cuestión (es decir, el sello temporal debería ser al menos uno de los años dentro del período de referencia y de presentación de informes)."
+"The dataset to be chosen should cover the full extent of the country. The "
+"required format is a gridded count of the human population. If the initial "
+"data is in another format (e.g. georeferenced vector dataset providing "
+"population counts at administrative region level), then it will need to be "
+"reformatted outside of PRAIS to a gridded dataset. The final product must be"
+" sex-disaggregated and represent the number of male and female individuals "
+"per grid cell and be representative of the time period in question (i.e., "
+"the date timestamp should be at least one of the years within the baseline "
+"and reporting periods)."
+msgstr ""
+"El conjunto de datos que se elija debe cubrir toda la extensión del país. El"
+" formato requerido es un recuento cuadriculado de la población humana. Si "
+"los datos iniciales están en otro formato (por ejemplo, un conjunto de datos"
+" vectoriales georreferenciados que proporcione recuentos de población a "
+"nivel de región administrativa), será necesario reformatearlos fuera de "
+"PRAIS para convertirlos en un conjunto de datos cuadriculados. El producto "
+"final debe estar desagregado por sexo y representar el número de individuos "
+"masculinos y femeninos por celda cuadriculada y ser representativo del "
+"periodo de tiempo en cuestión (es decir, la fecha de referencia debe ser al "
+"menos uno de los años dentro de los periodos de referencia y de "
+"notificación)."
 
-#: ../../SO2.md:267
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:264
 msgid ""
-"Among the publicly available population datasets at the global scale, the"
-" WorldPop dataset is used by default by the UNCCD for calculating "
-"indicator SO2-3 and provided to Parties in Trends.Earth."
-msgstr "De entre los conjuntos de datos sobre población disponibles al público a escala mundial, es el conjunto de datos de WorldPop el que la CLD utiliza por defecto para calcular el indicador OE2-3 y el que se proporciona a las Partes en Trends.Earth."
+"Among the publicly available global population datasets, the WorldPop "
+"dataset is used by default by the UNCCD for calculating indicator SO2-3 and "
+"provided to Parties in Trends.Earth. Parties should note that this 2000-2020"
+" WorldPop dataset has not been updated and therefore the final three years "
+"(2021, 2022, and 2023) duplicate values for 2020. It should also be noted "
+"that while the School of Geography and Environmental Science at the "
+"University of Southampton (UK) has recently released a new global "
+"demographic dataset for 2015–2030, it was published after the launch of the "
+"2026 reporting process, therefore it could not be integrated into the "
+"default datasets provided to Parties.  Nonetheless, Parties can download the"
+" new sex-disaggregated datasets directly from here: "
+"<https://hub.worldpop.org/project/categories?id=8>. A [third-party GEE "
+"app](https://sat-io.earthengine.app/view/worldpop) allows comprehensive "
+"exploration of the dataset. If these datasets are deemed appropriate, "
+"Parties can upload them to Trends.Earth, calculate the respective indicator "
+"data and import the results to PRAIS 4 to replace the default data."
+msgstr ""
+"Entre los conjuntos de datos de población mundial a disposición del público,"
+" el conjunto de datos WorldPop es utilizado por defecto por la CLD para "
+"calcular el indicador SO2-3 y facilitado a las Partes en Trends.Earth. Las "
+"Partes deben tener en cuenta que este conjunto de datos WorldPop 2000-2020 "
+"no ha sido actualizado y, por tanto, los tres últimos años (2021, 2022 y "
+"2023) duplican los valores de 2020. También debe tenerse en cuenta que, "
+"aunque la Escuela de Geografía y Ciencias Medioambientales de la Universidad"
+" de Southampton (Reino Unido) ha publicado recientemente un nuevo conjunto "
+"de datos demográficos mundiales para 2015-2030, se publicó después del "
+"lanzamiento del proceso de presentación de informes de 2026, por lo que no "
+"pudo integrarse en los conjuntos de datos por defecto proporcionados a las "
+"Partes.  No obstante, las Partes pueden descargar los nuevos conjuntos de "
+"datos desglosados por sexo directamente desde aquí: "
+"<https://hub.worldpop.org/project/categories?id=8>. Una [aplicación GEE de "
+"terceros](https://sat-io.earthengine.app/view/worldpop) permite una "
+"exploración exhaustiva del conjunto de datos. Si estos conjuntos de datos se"
+" consideran apropiados, las Partes pueden cargarlos en Trends.Earth, "
+"calcular los datos de los indicadores respectivos e importar los resultados "
+"a PRAIS 4 para sustituir los datos por defecto."
 
-#: ../../SO2.md:269
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:266
 msgid ""
-"An alternative dataset is the Gridded Population of the World, version 4 "
-"(GPWv4)."
-msgstr "La versión 4 de Gridded Population of the World (GPWv4) puede ser un conjunto de datos alternativo."
+"Parties may also use alternative global population data sets or national "
+"data, provided they comply with the data specifications listed in table 17."
+msgstr ""
+"Las Partes también pueden utilizar conjuntos de datos de población mundial "
+"alternativos o datos nacionales, siempre que cumplan las especificaciones de"
+" datos enumeradas en el cuadro 17."
 
-#: ../../SO2.md:271
-msgid ""
-"Parties may also use national data, provided it complies with the data "
-"specifications listed in table 17."
-msgstr "Asimismo, las Partes pueden emplear datos nacionales, siempre y cuando estos cumplan las especificaciones de datos que figuran en la tabla 17."
-
-#: ../../SO2.md:276
+#: ../../SO2.md:272
 msgid "*__Table 17__. Data specifications for SO 2-3 Indicator*"
-msgstr "*__Tabla 17__. Especificaciones de los datos para el indicador OE 2-3*"
+msgstr ""
+"*__Tabla 17__. Especificaciones de los datos para el indicador OE 2-3*"
 
-#: ../../SO2.md:3
+#: ../../SO2.md:279
 msgid "Default data"
 msgstr "Datos por defecto"
 
-#: ../../SO2.md:4
+#: ../../SO2.md:280
 msgid "National data"
 msgstr "Datos nacionales"
 
-#: ../../SO2.md:5
-msgid "__Input data__"
-msgstr "__Datos de entrada__"
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:281
+msgid ""
+"__Input data__  (Data needed to estimate the population exposed to land "
+"degradation)"
+msgstr ""
+"__Datos de entrada__ (Datos necesarios para estimar la población expuesta a "
+"la degradación de la tierra)"
 
-#: ../../SO2.md:7
-msgid "(Data needed to estimate the population exposed to land degradation)"
-msgstr "(Datos necesarios para estimar la población expuesta a la degradación de las tierras)"
-
-#: ../../SO2.md:8
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:283
 msgid ""
 "WorldPop data disaggregated by sex for the baseline year (2015) and the "
-"latest available year of the reporting period (2019)."
-msgstr "Datos de WorldPop desglosados por sexo, correspondientes al año de referencia (2015) y al último año disponible del periodo de presentación de informes (2019) "
+"latest available year of the reporting period (2023) – (with the 2020 data "
+"duplicated for 2023 due to the lack of updated WorldPop population data "
+"post-2020)."
+msgstr ""
+"Datos de WorldPop desglosados por sexo para el año de referencia (2015) y el"
+" último año disponible del periodo de notificación (2023) - (con los datos "
+"de 2020 duplicados para 2023 debido a la falta de datos actualizados de "
+"población de WorldPop posteriores a 2020)."
 
-#: ../../SO2.md:10 ../../SO2.md:13
+#: ../../SO2.md:285 ../../SO2.md:288
 msgid ""
-"Gridded data on land degradation as determined by indicator SO 1-4 for "
-"the baseline and reporting periods."
-msgstr "Datos reticulares sobre la degradación de las tierras, tal y como establece el indicador OE 1-4, correspondientes a los períodos de referencia y de presentación de informes."
+"Gridded data on land degradation as determined by indicator SO 1-4 for the "
+"baseline and reporting periods."
+msgstr ""
+"Datos reticulares sobre la degradación de las tierras, tal y como establece "
+"el indicador OE 1-4, correspondientes a los períodos de referencia y de "
+"presentación de informes."
 
-#: ../../SO2.md:11
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:286
 msgid ""
 "Gridded population products derived from national official statistics, "
-"disaggregated by sex for the baseline year (ideally the year 2015) and "
-"the latest available year of the reporting period (e.g., 2019)."
-msgstr "Productos de población reticulares derivados de estadísticas nacionales oficiales, desglosados por sexo, correspondientes al año de referencia (preferentemente el año 2015) y al último año disponible del período de presentación de informes (p. ej., 2019)."
+"disaggregated by sex for the baseline year (ideally the year 2015) and the "
+"latest available year of the reporting period (e.g., 2023)."
+msgstr ""
+"Productos de población cuadriculados derivados de las estadísticas oficiales"
+" nacionales, desglosados por sexo para el año de referencia (idealmente el "
+"año 2015) y el último año disponible del periodo de notificación (por "
+"ejemplo, 2023)."
 
-#: ../../SO2.md:14
-msgid "__Output data__"
-msgstr "__Datos de salida__"
-
-#: ../../SO2.md:16
-msgid "(Gridded products resulting from the analysis of the three metrics)"
-msgstr "(Productos reticulares resultantes del análisis de los tres criterios de medición)"
-
-#: ../../SO2.md:17 ../../SO2.md:18
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:289
 msgid ""
-"Gridded products of the female, male and total population exposed to land"
-" degradation in the baseline and reporting periods."
-msgstr "Productos reticulares sobre la población femenina, masculina y total, expuesta a la degradación de las tierras, en los períodos de referencia y de presentación de informes."
+"__Output data__  (Gridded products resulting from the analysis of the three "
+"metrics)"
+msgstr ""
+"__Datos de salida__ (Productos cuadriculados resultantes del análisis de las"
+" tres métricas)"
 
-#: ../../SO2.md:20
-msgid "WorldPop data: 3-arc seconds (~100 m)"
-msgstr "Datos de WorldPop: 3 segundos de arco (~100 m)"
+#: ../../SO2.md:291 ../../SO2.md:292
+msgid ""
+"Gridded products of the female, male and total population exposed to land "
+"degradation in the baseline and reporting periods."
+msgstr ""
+"Productos reticulares sobre la población femenina, masculina y total, "
+"expuesta a la degradación de las tierras, en los períodos de referencia y de"
+" presentación de informes."
 
-#: ../../SO2.md:21
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:294
+msgid ""
+"WorldPop data: 3-arc seconds (~100 m)  Land degradation data: 250 m  Output "
+"data: 250 m"
+msgstr ""
+"Datos de WorldPop: 3 segundos de arco (~100 m) Datos de degradación del "
+"terreno: 250 m Datos de producción: 250 m"
+
+#: ../../SO2.md:297
 msgid "Assessed by national authorities based on available data."
-msgstr "Evaluada por las autoridades nacionales con base en los datos disponibles."
+msgstr ""
+"Evaluada por las autoridades nacionales con base en los datos disponibles."
 
-#: ../../SO2.md:310
-msgid "Step 2:  Standardize the selected datasets"
-msgstr "Paso 2: normalizar los conjuntos de datos seleccionados"
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:303
+msgid "Step 2: Standardize the selected datasets"
+msgstr "Paso 2: Normalizar los conjuntos de datos seleccionados"
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:305
+msgid ""
+"The population and the land degradation datasets must be harmonized to the "
+"same grid cell size. For example, the WorldPop dataset and the SO 1-4 land "
+"degradation default dataset have resolutions of 100 and 250 metres, "
+"respectively and should be resampled to a common grid cell size. For the "
+"default data, the grid cell size for the analysis is fixed at the 250 metre "
+"resolution of the land degradation dataset to which the population data is "
+"resampled. Countries using alternative global or national datasets should "
+"assess them in terms of geographical projection and spatial resolution and "
+"standardize them through a resampling process in order to combine them in "
+"the analysis of population exposure to land degradation."
+msgstr ""
+"Los conjuntos de datos de población y de degradación de la tierra deben "
+"armonizarse al mismo tamaño de celda de cuadrícula. Por ejemplo, el conjunto"
+" de datos WorldPop y el conjunto de datos por defecto de degradación de la "
+"tierra SO 1-4 tienen resoluciones de 100 y 250 metros, respectivamente, y "
+"deben remuestrearse a un tamaño de celda de cuadrícula común. Para los datos"
+" por defecto, el tamaño de la celda de la cuadrícula para el análisis se "
+"fija en la resolución de 250 metros del conjunto de datos de degradación de "
+"la tierra al que se remuestrean los datos de población. Los países que "
+"utilicen conjuntos de datos mundiales o nacionales alternativos deberán "
+"evaluarlos en términos de proyección geográfica y resolución espacial y "
+"normalizarlos mediante un proceso de remuestreo para combinarlos en el "
+"análisis de la exposición de la población a la degradación de la tierra."
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:307
+msgid ""
+"The resampling, which must be carried out in a spatial data analysis "
+"software outside of PRAIS, should take into consideration that, for datasets"
+" representing population counts, changes in cell size implies changes in the"
+" number of people in each cell; a resampling method that ensures the "
+"integrity of the numerical data should be used, such as bilinear "
+"interpolation (avoid nearest neighbour techniques)."
+msgstr ""
+"El remuestreo, que debe realizarse en un software de análisis de datos "
+"espaciales ajeno a PRAIS, debe tener en cuenta que, para los conjuntos de "
+"datos que representan recuentos de población, los cambios en el tamaño de "
+"las celdas implican cambios en el número de personas de cada celda; debe "
+"utilizarse un método de remuestreo que garantice la integridad de los datos "
+"numéricos, como la interpolación bilineal (evite las técnicas del vecino más"
+" próximo)."
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:309
+msgid ""
+"Step 3: Estimate the female, male and total population count and percentage "
+"of each population cohort exposed to land degradation"
+msgstr ""
+"Paso 3: Estimar el recuento de la población femenina, masculina y total y el"
+" porcentaje de cada cohorte de población expuesta a la degradación de la "
+"tierra."
 
 #: ../../SO2.md:312
-msgid ""
-"The population and the land degradation datasets must be harmonized to "
-"the same grid cell size. For example, the WorldPop dataset and the SO 1-4"
-" land degradation default dataset have resolutions of 100 and 300 metres,"
-" respectively and should be resampled to a common grid cell size. For the"
-" default data, the grid cell size for the analysis is fixed at the 300 "
-"metre resolution of the land degradation dataset to which the population "
-"data is resampled. Countries using national datasets should assess them "
-"in terms of projection and resolution and standardize them through a "
-"resampling process in order to be able to combine them in the analysis of"
-" population exposure to land degradation."
-msgstr "Los conjuntos de datos sobre población y degradación de las tierras deben armonizarse en celdas de la cuadrícula del mismo tamaño. Por ejemplo, el conjunto de datos WorldPop y el conjunto de datos por defecto sobre degradación de las tierras del OE 1-4 tienen resoluciones de 100 y 300 metros respectivamente, de manera que se debe llevar a cabo un nuevo muestreo empleando una celda de la cuadrícula del mismo tamaño para ambos. Para los datos por defecto, el tamaño de la celda de la cuadrícula empleada para el análisis se fija en la resolución de 300 metros correspondiente al conjunto de datos sobre la degradación de las tierras, conforme a la cual se lleva a cabo el nuevo muestreo de los datos sobre población. Los países que empleen conjuntos de datos nacionales deberán evaluarlos atendiendo a su proyección y resolución, así como normalizarlos, a través de un nuevo proceso de muestreo que les permita combinarlos al realizar el análisis de la exposición de la población a la degradación de las tierras."
-
-#: ../../SO2.md:314
-msgid ""
-"The resampling should take into consideration that, for datasets "
-"representing population counts, changes in cell size implies changes in "
-"the number of people in each cell; a resampling method that ensures the "
-"integrity of the continuous data should be used, such as bilinear "
-"interpolation (avoid nearest neighbour techniques)."
-msgstr "El nuevo muestreo debe tener en cuenta que, en el caso de los conjuntos de datos que representan recuentos de población, los cambios en el tamaño de las cuadrículas comportan también un cambio en el número de personas por cuadrícula; por lo tanto, al llevar a cabo el nuevo muestreo es preciso emplear un método que garantice la integridad de los datos continuos, por ejemplo, la interpolación bilineal (evítense las técnicas del vecino más cercano)."
-
-#: ../../SO2.md:316
-msgid ""
-"Step 3: Estimate the female, male and total population count and "
-"percentage exposed to land degradation"
-msgstr "Paso 3: estimar el recuento de la población femenina, masculina y total y el porcentaje expuesto a la degradación de las tierras"
-
-#: ../../SO2.md:1
 msgid "Related areas in the PRAIS 4 platform: tables SO2-3.T1 and SO2-3.T2"
-msgstr "Áreas relacionadas en la plataforma PRAIS 4: tablas SO2-3.T1 y SO2-3.T2"
+msgstr ""
+"Áreas relacionadas en la plataforma PRAIS 4: tablas SO2-3.T1 y SO2-3.T2"
 
-#: ../../SO2.md:322
+#: ../../SO2.md:315
 msgid ""
-"The female and male population grids for the baseline and reporting "
-"periods are intersected with the respective land degradation grids. The "
-"values of the cells falling on degraded land are then combined to derive "
-"the female and male population exposed to land degradation. The total "
-"population exposed to land degradation is obtained by combining the "
-"obtained female and male population values."
-msgstr "Las cuadrículas de población masculina y femenina de los períodos de referencia y de presentación de informes se intersecan con las correspondientes cuadrículas de la degradación de las tierras. De esta manera, los valores de aquellas celdas que recaen en tierras degradadas se combinan posteriormente para obtener la población femenina y masculina expuesta a la degradación de las tierras. Asimismo, la población total expuesta a la degradación de las tierras se calcula combinando los valores de la población femenina y masculina obtenidos."
+"The female and male population grids for the baseline and reporting periods "
+"are intersected with the respective land degradation grids. The values of "
+"the cells falling on degraded land are then combined to derive the female "
+"and male population exposed to land degradation. The total population "
+"exposed to land degradation is obtained by combining the obtained female and"
+" male population values."
+msgstr ""
+"Las cuadrículas de población masculina y femenina de los períodos de "
+"referencia y de presentación de informes se intersecan con las "
+"correspondientes cuadrículas de la degradación de las tierras. De esta "
+"manera, los valores de aquellas celdas que recaen en tierras degradadas se "
+"combinan posteriormente para obtener la población femenina y masculina "
+"expuesta a la degradación de las tierras. Asimismo, la población total "
+"expuesta a la degradación de las tierras se calcula combinando los valores "
+"de la población femenina y masculina obtenidos."
 
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:317
+msgid ""
+"This analysis, which is to be implemented outside of the PRAIS platform "
+"should be carried out over two time periods (i.e., the baseline and "
+"reporting period) in order to measure changes over time and then reported in"
+" table SO2-3.T1. However, it should be noted that the land degradation "
+"spatial dataset (i.e., the SO1-4 output) captures temporal trends in the "
+"three sub-indicators (land cover, land productivity and soil organic carbon "
+"(SOC)) over a certain number of years, whereas population data reflects the "
+"populations in specific years (e.g., 2015 and 2023). To increase accuracy in"
+" capturing the number of people exposed to land degradation in the two "
+"reference years (i.e., 2015 for the baseline and 2023 for reporting period),"
+" it is recommended that the population grid closest to the above-mentioned "
+"years be used."
+msgstr ""
+"Este análisis, que debe realizarse fuera de la plataforma PRAIS, debe "
+"llevarse a cabo durante dos periodos de tiempo (es decir, el periodo de "
+"referencia y el periodo de información) para medir los cambios a lo largo "
+"del tiempo y, a continuación, informar de ellos en la tabla SO2-3.T1. Sin "
+"embargo, debe tenerse en cuenta que el conjunto de datos espaciales sobre la"
+" degradación de la tierra (es decir, el resultado SO1-4) capta las "
+"tendencias temporales de los tres subindicadores (cubierta terrestre, "
+"productividad de la tierra y carbono orgánico del suelo (COT)) a lo largo de"
+" un determinado número de años, mientras que los datos de población reflejan"
+" las poblaciones en años concretos (por ejemplo, 2015 y 2023). Para aumentar"
+" la precisión a la hora de captar el número de personas expuestas a la "
+"degradación de la tierra en los dos años de referencia (es decir, 2015 para "
+"la línea de base y 2023 para el periodo de información), se recomienda "
+"utilizar la cuadrícula de población más cercana a los años mencionados."
+
+#: ../../SO2.md:319
+msgid ""
+"To calculate the percentage of female, male and total population exposed to "
+"land degradation, the respective populations exposed to land degradation are"
+" divided by the total populations of the corresponding sex types, multiplied"
+" by 100."
+msgstr ""
+"Para calcular el porcentaje de población femenina, masculina y total "
+"expuesta a la degradación de las tierras, se dividen las respectivas "
+"poblaciones expuestas a la degradación de las tierras entre los totales de "
+"población de los sexos correspondientes, multiplicadas por 100."
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:321
+msgid ""
+"Default maps are preloaded in the PRAIS platform. Maps generated by the "
+"Parties in Trends.Earth using national data representing population exposure"
+" to land degradation by sex should be uploaded to the PRAIS 4 platform. More"
+" specifically, the following maps should be available online:"
+msgstr ""
+"Los mapas por defecto están precargados en la plataforma PRAIS. Los mapas "
+"generados por las Partes en Trends.Earth utilizando datos nacionales que "
+"representan la exposición de la población a la degradación de la tierra por "
+"sexo deberían cargarse en la plataforma PRAIS 4. Más concretamente, los "
+"siguientes mapas deberían estar disponibles en línea:"
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:323
+msgid ""
+"Total population exposed to land degradation for the baseline and latest "
+"reporting year"
+msgstr ""
+"Población total expuesta a la degradación de la tierra para el año de "
+"referencia y el último año del informe"
+
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:324
 msgid ""
-"This analysis should be carried out over two time periods (i.e., the "
-"baseline and reporting period) in order to measure changes over time and "
-"report the observed change in table SO2-3.T2. However, it should be noted"
-" that the land degradation spatial dataset (i.e., the SO1-4 output) "
-"captures temporal trends in the three subindicators (land cover, land "
-"productivity and soil organic carbon (SOC)) over a certain number of "
-"years, whereas population data reflects the populations in specific years"
-" (e.g., 2015 and 2019). To increase accuracy in capturing the number of "
-"people exposed to land degradation in the two reference years (i.e., 2015"
-" for the baseline and 2019 for reporting period), it is recommended that "
-"the population gird closest to the above-mentioned years be used."
-msgstr "Este análisis debe llevarse a cabo a lo largo de dos períodos de tiempo (el período de referencia y el de presentación de informes), con el objetivo de medir los cambios que se han producido a lo largo del tiempo y de notificar el cambio observado en la tabla SO2-3.T2. No obstante, es preciso tener en cuenta que el conjunto de datos espaciales sobre la degradación de las tierras (es decir, el producto del OE1-4) capta las tendencias temporales de los tres subindicadores (cubierta terrestre, productividad de la tierra y carbono orgánico del suelo [COS]) a lo largo de un determinado número de años, mientras que los datos sobre población reflejan las poblaciones de años específicos (por ejemplo, 2015 y 2019). A fin de captar con mayor precisión el número de personas expuestas a la degradación de las tierras en los dos años de referencia (es decir, 2015 para el período de referencia y 2019 para el período de presentación de informes), se recomienda utilizar la cuadrícula de población más próxima a los años anteriormente referenciados."
+"Female population exposed to land degradation for the baseline and latest "
+"reporting year"
+msgstr ""
+"Población femenina expuesta a la degradación de la tierra para el año de "
+"referencia y el último año del informe"
 
-#: ../../SO2.md:326
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:325
 msgid ""
-"To calculate the percentage of female, male and total population exposed "
-"to land degradation, the respective populations exposed to land "
-"degradation are divided by the total populations of the corresponding sex"
-" types, multiplied by 100."
-msgstr "Para calcular el porcentaje de población femenina, masculina y total expuesta a la degradación de las tierras, se dividen las respectivas poblaciones expuestas a la degradación de las tierras entre los totales de población de los sexos correspondientes, multiplicadas por 100."
+"Male population exposed to land degradation for the baseline and latest "
+"reporting year"
+msgstr ""
+"Población masculina expuesta a la degradación de la tierra para el año de "
+"referencia y el último año del informe"
 
-#: ../../SO2.md:328
+#: ../../SO2.md:327
 msgid "Step 4: Qualitatively assess the results"
 msgstr "Paso 4: realizar una evaluación cualitativa de los resultados"
 
-#: ../../SO2.md:1
-msgid "Related areas in the PRAIS 4 platform: table SO2-3.T3"
-msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO2-3.T3"
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:330
+msgid "Related areas in the PRAIS 4 platform: table SO2-3.T2"
+msgstr "Áreas relacionadas en la plataforma PRAIS 4: tabla SO2-3.T2"
 
-#: ../../SO2.md:334
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:333
 msgid ""
-"Observed changes in the indicator and their interpretation may be "
-"described in the “Qualitative Assessment” table of the PRAIS 4 platform "
-"(table SO2-3.T3)."
-msgstr "Los cambios observados en el indicador, junto con su correspondiente interpretación, pueden describirse en la tabla “evaluación cualitativa” de la plataforma PRAIS 4 (tabla SO2-3.T3)."
+"Observed changes in the indicator and their interpretation may be described "
+"in the “Qualitative Assessment” table of the PRAIS 4 platform (table "
+"SO2-3.T2)."
+msgstr ""
+"Los cambios observados en el indicador y su interpretación pueden "
+"describirse en la tabla \"Evaluación cualitativa\" de la plataforma PRAIS 4 "
+"(tabla SO2-3.T2)."
 
-#: ../../SO2.md:336
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:335
 msgid ""
 "It is important to note that changes in the proportion of population "
-"exposure to land degradation may not only be due to the expansion of land"
-" degradation but also to population growth, among other factors."
-msgstr "Es importante tener presente que los cambios en la proporción de la exposición de la población a la degradación de las tierras podrían deberse no solo a la expansión de la degradación de las tierras, sino también al crecimiento de la población, entre otros factores."
+"exposure to land degradation may not only be due to the expansion of land "
+"degradation but also to population growth, among other factors. For example,"
+" if 30 out of 100 people live in a land degraded area, that represents 30%. "
+"If the population increases by 10 people, all of whom settle in degraded "
+"areas, the total becomes 40 out of 110—meaning approximately 36% now live in"
+" degraded areas."
+msgstr ""
+"Es importante señalar que los cambios en la proporción de población expuesta"
+" a la degradación de la tierra pueden deberse no sólo a la expansión de la "
+"degradación de la tierra, sino también al crecimiento de la población, entre"
+" otros factores. Por ejemplo, si 30 de cada 100 personas viven en una zona "
+"degradada de la tierra, eso representa el 30%. Si la población aumenta en 10"
+" personas, todas las cuales se asientan en zonas degradadas, el total se "
+"convierte en 40 de 110, lo que significa que aproximadamente el 36% vive "
+"ahora en zonas degradadas."
 
-#: ../../SO2.md:338
-msgid "Step 5:  Verify the results"
-msgstr "Paso 5: verificar los resultados"
-
-#: ../../SO2.md:340
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:337
 msgid ""
-"The reliability of the estimates from global data sources requires inputs"
-" from national experts to identify and highlight situations where the "
-"confidence level of the obtained results might be low."
-msgstr "Para garantizar la fiabilidad de las estimaciones procedentes de fuentes de datos mundiales, es preciso contar con las aportaciones de expertos nacionales, a fin de detectar y destacar aquellos casos en los que el nivel de confianza de los resultados obtenidos podría ser bajo."
+"Parties are encouraged to submit narratives in the Comments field associated"
+" with tables SO2-3.T1and SO2-3.T2 on the methodology, data sources and data "
+"accuracy in the event that the estimates are derived from non-default "
+"alternative global or national data."
+msgstr ""
+"Se anima a las Partes a que envíen descripciones en el campo Comentarios "
+"asociado a las tablas SO2-3.T1y SO2-3.T2 sobre la metodología, las fuentes "
+"de datos y la exactitud de los datos en caso de que las estimaciones se "
+"deriven de datos globales o nacionales alternativos no predeterminados."
 
-#: ../../SO2.md:342
-msgid "Step 6: Generate reports"
-msgstr "Paso 6: Generar informes"
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:339
+msgid "Step 5: Verify the results"
+msgstr "Paso 5: Verificar los resultados"
 
-#: ../../SO2.md:344
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:341
 msgid ""
-"Once verified by the Parties, the estimates of the female, male and total"
-" population exposed to land degradation should be officially submitted to"
-" the UNCCD."
-msgstr "Una vez que las Partes hayan llevado a cabo la verificación, deberán remitir oficialmente las estimaciones sobre la proporción de población femenina, masculina y total expuesta a la degradación de las tierras a la CLD."
+"The reliability of the estimates require inputs from national experts to "
+"identify and highlight situations where the confidence level of the obtained"
+" results might be low."
+msgstr ""
+"La fiabilidad de las estimaciones requiere las aportaciones de los expertos "
+"nacionales para identificar y destacar las situaciones en las que el nivel "
+"de confianza de los resultados obtenidos podría ser bajo."
 
-#: ../../SO2.md:346
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:343
+msgid "Step 6: Save form and make available for review"
+msgstr ""
+"Paso 6: Guardar el formulario y ponerlo a disposición para su revisión"
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:345
 msgid ""
-"Default maps or maps generated in Trends.Earth using national data "
-"representing population exposure to land degradation by sex are made "
-"available in the PRAIS 4 platform. More specifically, the following maps "
-"will be available online:"
-msgstr "Los mapas por defecto o los mapas generados en Trends.Earth mediante el uso de datos nacionales que representan la exposición de la población a la degradación de las tierras en función del sexo están disponibles en la plataforma PRAIS 4. Más concretamente, he aquí los mapas que estarán disponibles:"
+"It would be beneficial to report on special cases and issues, describing any"
+" deviation from the default method and providing the rationale for adoption "
+"of a different methodology. A “General comments” field is provided in the "
+"PRAIS 4 platform for this purpose."
+msgstr ""
+"Sería beneficioso informar sobre casos y cuestiones especiales, describiendo"
+" cualquier desviación del método por defecto y proporcionando la "
+"justificación para la adopción de una metodología diferente. En la "
+"plataforma PRAIS 4 existe un campo \"Comentarios generales\" para este fin."
 
-#: ../../SO2.md:348
-msgid "Total population exposed to land degradation"
-msgstr "Población total expuesta a la degradación de las tierras"
-
-#: ../../SO2.md:350
-msgid "Female population exposed to land degradation"
-msgstr "Población femenina expuesta a la degradación de las tierras"
-
-#: ../../SO2.md:352
-msgid "Male population exposed to land degradation"
-msgstr "Población masculina expuesta a la degradación de las tierras"
-
-#: ../../SO2.md:354
-msgid ""
-"Parties are also encouraged to submit narratives on the methodology, data"
-" sources and data accuracy in the event that the estimates are derived "
-"from national data. It would also be beneficial to report on special "
-"cases and issues, describing any deviation from the default method and "
-"providing the rationale to adopt a different methodology. A “General "
-"comment” field is provided in the PRAIS 4 platform for this purpose."
-msgstr "Se alienta a las Partes a presentar descripciones sobre la metodología, las fuentes de datos y la exactitud de los datos, en caso de que las estimaciones se hayan obtenido a partir de datos nacionales. También resultaría beneficioso informar sobre casos y cuestiones de carácter especial, describiendo cualquier desviación del método por defecto y proporcionando una justificación para adoptar una metodología diferente; la plataforma PRAIS 4 proporciona un campo de “comentarios generales” para tal fin."
-
-#: ../../SO2.md:356
+#: ../../SO2.md:349
 msgid "2.3.4. Dependencies"
 msgstr "2.3.4. Dependencias"
 
-#: ../../SO2.md:358
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:351
 msgid ""
-"Indicator SO 2-3 relies on the SO 4 indicator spatial datasets, both for "
-"the baseline and reporting periods, as a basis to identify degraded "
-"areas."
-msgstr "El indicador OE 2-3 emplea los conjuntos de datos espaciales del indicador OE 4 tanto para período de referencia como para el período de presentación de informes, como base para identificar zonas degradadas."
+"Indicator SO 2-3 relies on the SO 1-4 indicator spatial datasets, both for "
+"the baseline and reporting periods, as a basis to identify degraded areas."
+msgstr ""
+"El indicador SO 2-3 se basa en los conjuntos de datos espaciales del "
+"indicador SO 1-4, tanto para el periodo de referencia como para el periodo "
+"de notificación, como base para identificar las zonas degradadas."
 
-#: ../../SO2.md:360
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:353
+msgid ""
+"Indicator SO 2-3 is dependent on the population counts reported for the "
+"respective years in the country profile Demographics section, in table "
+"CP-1.T2. If the total, male or female populations are not reported the "
+"indicator cannot be calculated. Note that the population counts reported in "
+"CP-1.T2 are in multiples of thousands and PRAIS will account for this in the"
+" calculation of the proportion of population exposed to land degradation in "
+"SO2-3.T1."
+msgstr ""
+"El indicador SO 2-3 depende de los recuentos de población comunicados para "
+"los años respectivos en la sección Demografía del perfil del país, en la "
+"tabla CP-1.T2. Si no se informa de la población total, masculina o femenina,"
+" el indicador no puede calcularse. Tenga en cuenta que los recuentos de "
+"población comunicados en CP-1.T2 están en múltiplos de miles y PRAIS lo "
+"tendrá en cuenta en el cálculo de la proporción de población expuesta a la "
+"degradación de la tierra en SO2-3.T1."
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:355
+msgid ""
+"Furthermore, it should be noted that ideally the same source of population "
+"estimates should be used in both CP-1.T2 and in the calculation of indicator"
+" SO2-3, to avoid discrepancies in reporting."
+msgstr ""
+"Además, cabe señalar que lo ideal sería utilizar la misma fuente de "
+"estimaciones de población tanto en CP-1.T2 como en el cálculo del indicador "
+"SO2-3, para evitar discrepancias en los informes."
+
+#: ../../SO2.md:357
 msgid "2.3.5. Challenges"
 msgstr "2.3.5. Retos"
 
-#: ../../SO2.md:364
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:361
 msgid ""
 "Spatial resolution of international data might not always be suitable to "
-"produce a sufficiently detailed representation of the population exposed "
-"to land degradation and its changes. More detailed sub-national data "
-"might be needed to represent local situations with a higher degree of "
+"produce a sufficiently detailed representation of the population exposed to "
+"land degradation and its changes. More detailed sub-national data might be "
+"needed by the Parties to represent local situations with a higher degree of "
 "accuracy. However, this will require downscaling of existing gridded "
-"population datasets to a finer resolution which might incur further "
-"errors. Capacity in performing downscaling processes is therefore "
-"required."
-msgstr "Es posible que la resolución espacial de los datos internacionales no siempre sea adecuada para generar una representación suficientemente detallada de la población expuesta a la degradación de las tierras y sus cambios, por lo que podrían necesitarse datos subnacionales más detallados a fin de representar la situación del ámbito local con mayor exactitud. No obstante, para realizar esta tarea será necesario reducir la escala de los actuales conjuntos de datos de población reticulares hasta obtener una mayor resolución, lo que podría ocasionar errores adicionales. Por este motivo, es preciso disponer de capacidad para llevar a cabo procesos de reducción de escalas."
+"population datasets to a finer resolution which might lead to further "
+"errors. Capacity in performing downscaling processes is therefore required."
+msgstr ""
+"La resolución espacial de los datos internacionales podría no ser siempre "
+"adecuada para producir una representación suficientemente detallada de la "
+"población expuesta a la degradación de la tierra y sus cambios. Las Partes "
+"podrían necesitar datos subnacionales más detallados para representar las "
+"situaciones locales con un mayor grado de precisión. Sin embargo, para ello "
+"será necesario reducir la escala de los conjuntos de datos de población "
+"cuadriculados existentes a una resolución más fina, lo que podría dar lugar "
+"a más errores. Por lo tanto, se requiere capacidad para llevar a cabo "
+"procesos de reducción de escala."
 
-#: ../../SO2.md:365
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:362
 msgid ""
-"The WorldPop sex-disaggregated national datasets are presented as several"
-" individual rasters, each representing an age/sex class per year. This "
-"amounts to a large volume of spatial data in Geotiff format. Capacity in "
-"raster data processing and access to appropriate computing power, e.g., a"
-" cloud service, is required to store and process the data, especially for"
-" large countries. The UNCCD is developing a procedure for the bulk "
-"preprocessing of raster data, which will eventually make sex-"
-"disaggregated data available on the PRAIS 4 platform as default data. "
-"Parties will be notified when the challenge is solved and the forms pre-"
-"filled with the default data."
-msgstr "Los conjuntos de datos nacionales desglosados por sexo pertenecientes a WorldPop se ofrecen en forma de múltiples rásteres individuales. Cada uno de ellos representa una clase de edad o sexo por año, lo que equivale a una gran cantidad de datos espaciales en formato Geotiff. Almacenar y procesar estos datos, especialmente en el caso de países de gran tamaño, requiere tanto capacidad para procesar datos ráster como acceso a la potencia informática adecuada, por ejemplo, un servicio en la nube. Actualmente, la CLD está desarrollando un procedimiento para el preprocesamiento masivo de datos ráster que, en un futuro, permitirá que los datos desglosados por sexo estén disponibles en la plataforma PRAIS 4 en forma de datos por defecto. Las Partes recibirán la notificación correspondiente una vez se haya superado este reto y se hayan rellenado previamente los formularios con los datos por defecto."
+"The WorldPop sex-disaggregated national datasets are presented as several "
+"individual raster format datasets, each representing an age/sex class per "
+"year. This amounts to a large volume of spatial data in Geotiff format. "
+"Capacity in raster data processing and access to appropriate computing "
+"power, e.g., a cloud service, is required to store and process the data, "
+"especially for large countries."
+msgstr ""
+"Los conjuntos de datos nacionales desagregados por sexo de WorldPop se "
+"presentan como varios conjuntos de datos individuales en formato raster, "
+"cada uno de los cuales representa una clase de edad/sexo por año. Esto "
+"supone un gran volumen de datos espaciales en formato Geotiff. Se requiere "
+"capacidad en el procesamiento de datos ráster y acceso a la potencia "
+"informática adecuada, por ejemplo, un servicio en la nube, para almacenar y "
+"procesar los datos, especialmente en el caso de los países grandes."
 
-#: ../../SO2.md:367
+#: ../../SO2.md:364
 msgid "Limitation of the analytical approach"
 msgstr "Limitaciones del enfoque analítico"
 
-#: ../../SO2.md:369
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:366
 msgid ""
-"Sex-disaggregated data alone might not be sufficient to represent the "
-"gender dynamics and related issues in a specific region. Further socio-"
-"economic and demographic indicators are required to conduct gender "
-"analysis in order to better understand how and why specific populations "
-"are affected by land degradation."
-msgstr "Es posible que los datos desglosados por sexo no sean suficientes, por sí solos, para representar la dinámica de género y otras cuestiones relacionadas en una región concreta. Son precisos más indicadores socioeconómicos y demográficos que permitan llevar a cabo un análisis de género con el que poder entender cómo y por qué la degradación de las tierras afecta a poblaciones concretas."
+"Sex-disaggregated data alone might not be sufficient to represent the gender"
+" dynamics and related issues in a specific region. Further socio-economic "
+"and demographic indicators are required by Parties to conduct gender "
+"analysis in order to better understand how and why specific populations are "
+"affected by land degradation."
+msgstr ""
+"Los datos desglosados por sexo por sí solos podrían no ser suficientes para "
+"representar la dinámica de género y los problemas relacionados en una región"
+" específica. Las Partes necesitan más indicadores socioeconómicos y "
+"demográficos para realizar análisis de género con el fin de comprender mejor"
+" cómo y por qué poblaciones específicas se ven afectadas por la degradación "
+"de la tierra."
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:367
+msgid ""
+"By considering only the populations residing in the areas affected directly "
+"by land degradation, the indicator may underestimate exposure rates. In "
+"fact, land degradation in a specific area affects not only populations "
+"residing on degraded land, but also – through environmental, economic and "
+"social linkages – populations elsewhere. In addition, further disaggregation"
+" of data in urban and rural populations could be useful to improve the "
+"indicator."
+msgstr ""
+"Al considerar únicamente las poblaciones que residen en las zonas afectadas "
+"directamente por la degradación de la tierra, el indicador puede subestimar "
+"las tasas de exposición. De hecho, la degradación de la tierra en una zona "
+"específica afecta no sólo a las poblaciones que residen en las tierras "
+"degradadas, sino también -a través de los vínculos medioambientales, "
+"económicos y sociales- a las poblaciones de otros lugares. Además, un mayor "
+"desglose de los datos en poblaciones urbanas y rurales podría ser útil para "
+"mejorar el indicador."
+
+#: ../../SO2.md:368
+msgid ""
+"There are two challenges related to the temporality of the analysis: i) the "
+"land degradation spatial dataset (i.e., the SO1-4 output) captures temporal "
+"trends over a certain number of years, whereas population data reflects the "
+"populations in specific years; ii) changes in the proportion of population "
+"exposure to land degradation over time may not only be due to the expansion "
+"of land degradation but also to population growth, among other factors."
+msgstr ""
+"Existen dos dificultades relacionadas con la temporalidad del análisis: i) "
+"el conjunto de datos espaciales sobre la degradación de las tierras (es "
+"decir, el producto del OE1-4) capta tendencias temporales durante un "
+"determinado número de años, mientras que los datos sobre población reflejan "
+"la población en años concretos; ii) es posible que los cambios en la "
+"proporción de la población expuesta a la degradación de las tierras a lo "
+"largo del tiempo no solo se produzcan debido a la expansión de la "
+"degradación de las tierras, sino también como resultado del crecimiento "
+"poblacional, entre otros factores. "
 
 #: ../../SO2.md:370
-msgid ""
-"On-site exposed populations to land degradation may produce lower-bound "
-"estimates of the exposure of populations to land degradation. In fact, "
-"land degradation in a specific area affects not only populations residing"
-" on degraded land, but also – through environmental, economic and social "
-"linkages – populations elsewhere. In addition, further disaggregation of "
-"data in urban and rural populations could be useful to improve the "
-"indicator."
-msgstr "Las poblaciones expuestas in situ a la degradación de las tierras podrían dar como resultado estimaciones de límite inferior sobre la exposición de las poblaciones a la degradación de las tierras. De hecho, la degradación de las tierras en una zona concreta no afecta solo a las poblaciones que residen en las tierras degradadas, sino también a las poblaciones de otros lugares, a través de vínculos ambientales, económicos y sociales. Por otra parte, llevar a cabo un desglose ulterior de los datos en las poblaciones urbanas y rurales podría ayudar a mejorar el indicador."
-
-#: ../../SO2.md:371
-msgid ""
-"There are two challenges related to the temporality of the analysis: i) "
-"the land degradation spatial dataset (i.e., the SO1-4 output) captures "
-"temporal trends over a certain number of years, whereas population data "
-"reflects the populations in specific years; ii) changes in the proportion"
-" of population exposure to land degradation over time may not only be due"
-" to the expansion of land degradation but also to population growth, "
-"among other factors."
-msgstr "Existen dos dificultades relacionadas con la temporalidad del análisis: i) el conjunto de datos espaciales sobre la degradación de las tierras (es decir, el producto del OE1-4) capta tendencias temporales durante un determinado número de años, mientras que los datos sobre población reflejan la población en años concretos; ii) es posible que los cambios en la proporción de la población expuesta a la degradación de las tierras a lo largo del tiempo no solo se produzcan debido a la expansión de la degradación de las tierras, sino también como resultado del crecimiento poblacional, entre otros factores. "
-
-#: ../../SO2.md:373
 msgid "2.3.6. Summary (main actions)"
 msgstr "2.3.6. Resumen (acciones principales)"
 
-#: ../../SO2.md:375
+#: ../../SO2.md:372
 msgid ""
-"Key actions for reporting on population exposure to land degradation are "
-"as follows:"
-msgstr "A continuación, figuran las acciones clave para la presentación de informes sobre la exposición de la población a la degradación de las tierras:"
+"Key actions for reporting on population exposure to land degradation are as "
+"follows:"
+msgstr ""
+"A continuación, figuran las acciones clave para la presentación de informes "
+"sobre la exposición de la población a la degradación de las tierras:"
 
-#: ../../SO2.md:377
+#: ../../SO2.md:374
 msgid ""
 "**Select the population dataset**: Parties may decide to use the default "
 "data or alternative national sources, provided they comply with the data "
 "specifications listed in table 17."
-msgstr "**Seleccionar el conjunto de datos sobre población**: las Partes pueden optar por utilizar los datos por defecto o fuentes nacionales alternativas, siempre y cuando se cumplan las especificaciones de datos que figuran la tabla 17."
+msgstr ""
+"**Seleccionar el conjunto de datos sobre población**: las Partes pueden "
+"optar por utilizar los datos por defecto o fuentes nacionales alternativas, "
+"siempre y cuando se cumplan las especificaciones de datos que figuran la "
+"tabla 17."
 
-#: ../../SO2.md:379
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:376
 msgid ""
-"**Standardize the selected datasets**: the land degradation datasets must"
-" be harmonized to the same grid cell size as the population gridded data "
-"(assuming it is the finer resolution) in order to combine them in the "
-"analysis of population exposure to land degradation."
-msgstr "**Normalizar los conjuntos de datos seleccionados**: los conjuntos de datos sobre la degradación de las tierras deben armonizarse en celdas de la cuadrícula del mismo tamaño que las de los datos reticulares sobre población (suponiendo que estas sean las de mayor resolución), de manera que resulte posible combinarlas al realizar el análisis de la exposición de la población a la degradación de las tierras."
+"**Standardize the selected datasets**: the land degradation and the "
+"population gridded data datasets must be harmonized to the same grid cell "
+"size in order to combine them in the analysis of population exposure to land"
+" degradation."
+msgstr ""
+"**Estandarizar los conjuntos de datos seleccionados**: los conjuntos de "
+"datos de degradación de la tierra y de población cuadriculados deben "
+"armonizarse con el mismo tamaño de celda cuadriculada para poder combinarlos"
+" en el análisis de la exposición de la población a la degradación de la "
+"tierra."
 
-#: ../../SO2.md:381
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:378
 msgid ""
 "**Estimate the number and percentage of the female, male and total "
 "population exposed to land degradation**: the male and female population "
-"grids are intersected with the land degradation grid to derive the total,"
-" male and female population exposed to land degradation and the "
-"percentage of the total population. Data should be entered in tables "
-"SO2-3.T1."
-msgstr "**Estimar el número y el porcentaje de población femenina, masculina y total expuesta a la degradación de las tierras**: las cuadrículas de población masculina y femenina se intersecan con las cuadrículas de degradación de las tierras para derivar la población total y la población masculina y femenina expuesta a la degradación de las tierras, así como el porcentaje de la población total. Los datos deben introducirse en las tablas SO2-3.T1."
+"grids are intersected with the land degradation grid to derive the total, "
+"male and female population exposed to land degradation and the percentage of"
+" the total population. Data should be entered in table SO2-3.T1. Ensure "
+"demographic data have been reported in the country profile ‘Demographics’ "
+"section (table CP-1.T2)."
+msgstr ""
+"**Estime el número y el porcentaje de la población femenina, masculina y "
+"total expuesta a la degradación de la tierra**: las cuadrículas de población"
+" masculina y femenina se intersecan con la cuadrícula de degradación de la "
+"tierra para obtener la población total, masculina y femenina expuesta a la "
+"degradación de la tierra y el porcentaje de la población total. Los datos "
+"deben introducirse en la tabla SO2-3.T1. Asegúrese de que los datos "
+"demográficos se han consignado en la sección \"Demografía\" del perfil del "
+"país (tabla CP-1.T2)."
 
-#: ../../SO2.md:383
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:380
 msgid ""
-"**Qualitatively assess the results**: changes in the proportion of "
-"populations exposed to land degradation as well as their direct or "
-"indirect drivers should be described in table SO2-3.T3."
-msgstr "**Realizar una evaluación cualitativa de los resultados**: los cambios en la proporción de las poblaciones expuestas a la degradación de las tierras, así como sus factores directos o indirectos, deben describirse en la tabla SO2-3.T3."
+"**Qualitatively assess the results**: changes over time in the proportion of"
+" populations exposed to land degradation as well as their direct or indirect"
+" drivers should be described in table SO2-3.T2."
+msgstr ""
+"**Evaluar cualitativamente los resultados**: los cambios a lo largo del "
+"tiempo en la proporción de poblaciones expuestas a la degradación de la "
+"tierra, así como sus causas directas o indirectas, deben describirse en el "
+"cuadro SO2-3.T2."
 
-#: ../../SO2.md:385
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:382
 msgid ""
-"**Verify the results**: the reliability of the estimates from global data"
-" sources should be assessed in consultation with national experts."
-msgstr "**Verificar los resultados**: la fiabilidad de las estimaciones procedentes de fuentes de datos mundiales debe evaluarse en consulta con expertos nacionales."
+"**Verify the results**: the reliability of the estimates from alternative "
+"(non-default) data sources should be assessed in consultation with national "
+"experts."
+msgstr ""
+"**Verificar los resultados**: la fiabilidad de las estimaciones procedentes "
+"de fuentes de datos alternativas (no predeterminadas) debe evaluarse en "
+"consulta con expertos nacionales."
 
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:386
+msgid "2.3.7. Additional Resources"
+msgstr "2.3.7. Recursos adicionales"
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:388
+msgid ""
+"A comprehensive discussion of the new WorldPop dataset can be found here: "
+"<https://www.linkedin.com/pulse/global-high-resolution-population-"
+"estimates-2015-2030-andy-tatem-yt5ve/>"
+msgstr ""
+"Puede encontrar un amplio debate sobre el nuevo conjunto de datos WorldPop "
+"aquí: <https://www.linkedin.com/pulse/global-high-resolution-population-"
+"estimates-2015-2030-andy-tatem-yt5ve/>"
+
+# Requires manual validation; translated with DeepL
 #: ../../SO2.md:389
-msgid "2.3.7. Further reading"
-msgstr "2.3.7. Lecturas complementarias"
-
-#: ../../SO2.md:391
 msgid ""
-"Methodological note on trends in population exposure to land degradation "
-"(<https://www.unccd.int/sites/default/files/inline-"
-"files/MethodologicalNote_PopExposureToLD.pdf>)"
-msgstr "Methodological note on trends in population exposure to land degradation (<https://www.unccd.int/sites/default/files/inline-files/MethodologicalNote_PopExposureToLD.pdf>)"
+"Information on choosing the most appropriate WorldPop dataset: "
+"<https://www.worldpop.org/choosing-the-right-worldpop-population-data-for-"
+"you/>"
+msgstr ""
+"Información sobre la elección del conjunto de datos WorldPop más adecuado: "
+"<https://www.worldpop.org/choosing-the-right-worldpop-population-data-for-"
+"you/>"
 
-#: ../../SO2.md:23
-msgid "https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map"
-msgstr "https://datos.bancomundial.org/indicador/SI.POV.GINI?end=2015&start=1979&view=map"
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:23 ../../SO2.md:134
+msgid "<https://unstats.un.org/sdgs/dataportal/database>"
+msgstr "<https://unstats.un.org/sdgs/dataportal/database>"
 
-#: ../../SO2.md:193
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:24
 msgid ""
-"<https://washdata.org/data/household> and "
-"<https://datatopics.worldbank.org/sdgs/index.html>"
-msgstr "<https://washdata.org/data/household> y <https://datatopics.worldbank.org/sdgs/index.html>"
+"<https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map>"
+msgstr ""
+"<https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map>"
+
+# Requires manual validation; translated with DeepL
+#: ../../SO2.md:190
+msgid ""
+"<https://washdata.org/data/household>, "
+"<https://datatopics.worldbank.org/sdgs/index.html> and "
+"<https://ourworldindata.org/sdgs/clean-water-sanitation>"
+msgstr ""
+"<https://washdata.org/data/household>, "
+"<https://datatopics.worldbank.org/sdgs/index.html> y "
+"<https://ourworldindata.org/sdgs/clean-water-sanitation>"
+
+#~ msgid ""
+#~ "Two metrics are used for this purpose and Parties should specify which "
+#~ "metrics they would like to use:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "These metrics can be used interchangeably according to country-specific "
+#~ "conditions."
+#~ msgstr ""
+#~ "Ambos criterios de medición pueden emplearse indistintamente en función de "
+#~ "las condiciones propias de cada país."
+
+#~ msgid ""
+#~ "An in-depth reading of SDG indicator 1.1.1 metadata and Gini index metadata "
+#~ "(see section 2.1.7)."
+#~ msgstr ""
+#~ "Una lectura exhaustiva de los metadatos del indicador 1.1.1 de los ODS y de "
+#~ "los metadatos del índice de Gini (véase la sección 2.1.7)."
+
+#~ msgid ""
+#~ "Parties are invited to choose the most suitable metric to represent the "
+#~ "well-being of the population in their countries."
+#~ msgstr ""
+#~ "Se invita a las Partes a seleccionar el criterio de medición más idóneo para"
+#~ " representar el bienestar de la población en sus respectivos países."
+
+#~ msgid "__Quality__"
+#~ msgstr "__Calidad__"
+
+#~ msgid "Specified in the datasets’ metadata."
+#~ msgstr "Especificada en los metadatos de los conjuntos de datos."
+
+#~ msgid "To be indicated in the dataset metadata."
+#~ msgstr "Debe indicarse en los metadatos del conjunto de datos."
+
+#~ msgid ""
+#~ "Parties opting to use an alternative source of national data may enter the "
+#~ "relevant national annual values in tables SO2-1.T1 or SO2-1.T2, according to"
+#~ " the chosen metric."
+#~ msgstr ""
+#~ "Las Partes que opten por utilizar una fuente de datos nacionales alternativa"
+#~ " deberán introducir los valores anuales nacionales que resulten pertinentes "
+#~ "en las tablas SO2-1.T1 o SO2-1.T2, dependiendo del criterio de medición "
+#~ "seleccionado."
+
+#~ msgid "Step 5: Generate reports"
+#~ msgstr "Paso 5: generar informes"
+
+#~ msgid ""
+#~ "Once verified by the Parties, the estimates of the proportion of population "
+#~ "below the international poverty line, or income inequality should be "
+#~ "officially submitted to the United Nations Convention to Combat "
+#~ "Desertification (UNCCD). Observed changes and their interpretation may be "
+#~ "described in the “Qualitative Assessment” table of the PRAIS 4 platform."
+#~ msgstr ""
+#~ "Una vez que las Partes hayan llevado a cabo la verificación, deberán remitir"
+#~ " oficialmente las estimaciones sobre la proporción de la población que vive "
+#~ "por debajo del umbral internacional de pobreza o sobre la desigualdad de "
+#~ "ingresos a la Convención de las Naciones Unidas de Lucha contra la "
+#~ "Desertificación (CLD). Los cambios observados podrán describirse, junto con "
+#~ "su correspondiente interpretación, en la tabla de “evaluación cualitativa” "
+#~ "de la plataforma PRAIS 4."
+
+#~ msgid ""
+#~ "**Verify the results**: the reliability of the estimates from global data "
+#~ "sources requires inputs from national experts to qualitatively assess the "
+#~ "reliability of the estimates based on expert knowledge."
+#~ msgstr ""
+#~ "**Verificar los resultados**: para garantizar la fiabilidad de las "
+#~ "estimaciones procedentes de fuentes de datos mundiales es preciso contar con"
+#~ " las aportaciones de expertos nacionales, a fin de llevar a cabo una "
+#~ "evaluación cualitativa sobre la fiabilidad de las estimaciones, basada en "
+#~ "conocimientos especializados."
+
+#~ msgid "2.1.7. Further reading"
+#~ msgstr "2.1.7. Lecturas complementarias"
+
+#~ msgid ""
+#~ "In order to quantify safely managed drinking water, the proportion of "
+#~ "population using improved drinking water services is determined. This is "
+#~ "currently being measured by the proportion of population using an improved "
+#~ "basic drinking water source. ‘Improved’ drinking water sources are defined "
+#~ "as piped (into dwellings, yards or plots; public taps or standpipes) and "
+#~ "non-piped (boreholes or tube wells; protected dug wells; protected springs; "
+#~ "rainwater; packaged or delivered water) sources which are located on the "
+#~ "premises, available when needed, and free from fecal and priority chemical "
+#~ "contamination."
+#~ msgstr ""
+#~ "Para poder cuantificar el agua potable gestionada sin riesgos, se determina "
+#~ "la proporción de población que utiliza servicios de suministro de agua "
+#~ "potable mejorados. Esta, a su vez, se mide actualmente por la proporción de "
+#~ "población que utiliza fuentes básicas de agua potable mejoradas. Las fuentes"
+#~ " de agua potable mejoradas se definen como fuentes de agua corriente "
+#~ "(situadas en casas, patios o terrenos; así como grifos públicos o fuentes de"
+#~ " agua pública) y no corriente (pozos de sondeo o pozos entubados; pozos "
+#~ "excavados protegidos, manantiales protegidos; agua de lluvia; y agua "
+#~ "envasada o suministrada) situadas en unas instalaciones determinadas, que "
+#~ "están disponibles siempre que existe la necesidad y que se encuentran libres"
+#~ " de contaminación fecal y de contaminación por productos químicos "
+#~ "prioritarios."
+
+#~ msgid ""
+#~ "An in-depth reading of the SDG indicator 6.1.1 metadata (see section 2.2.7)."
+#~ msgstr ""
+#~ "Una lectura exhaustiva de los metadatos del indicador 6.1.1 de los ODS "
+#~ "(véase la sección 2.2.7)."
+
+#~ msgid "Step 4: Generate reports"
+#~ msgstr "Paso 4: generar informes"
+
+#~ msgid ""
+#~ "Once verified by the Parties, the estimates of the proportion of population "
+#~ "using safely managed drinking water services should be officially submitted "
+#~ "to the UNCCD."
+#~ msgstr ""
+#~ "Una vez que las Partes hayan llevado a cabo la verificación, deberán remitir"
+#~ " oficialmente las estimaciones relativas a la proporción de la población que"
+#~ " utiliza servicios de suministro de agua potable gestionados sin riesgos a "
+#~ "la CLD."
+
+#~ msgid "2.2.7. Further reading"
+#~ msgstr "2.2.7. Lecturas complementarias"
+
+#~ msgid ""
+#~ "An in-depth reading of the methodological note for indicator SO 3-2 (see "
+#~ "section 2.3.7)."
+#~ msgstr ""
+#~ "Una lectura exhaustiva de la nota metodológica del indicador OE 3-2 (véase "
+#~ "la sección 2.3.7)."
+
+#~ msgid ""
+#~ "Among the publicly available population datasets at the global scale, the "
+#~ "WorldPop dataset is used by default by the UNCCD for calculating indicator "
+#~ "SO2-3 and provided to Parties in Trends.Earth."
+#~ msgstr ""
+#~ "De entre los conjuntos de datos sobre población disponibles al público a "
+#~ "escala mundial, es el conjunto de datos de WorldPop el que la CLD utiliza "
+#~ "por defecto para calcular el indicador OE2-3 y el que se proporciona a las "
+#~ "Partes en Trends.Earth."
+
+#~ msgid ""
+#~ "An alternative dataset is the Gridded Population of the World, version 4 "
+#~ "(GPWv4)."
+#~ msgstr ""
+#~ "La versión 4 de Gridded Population of the World (GPWv4) puede ser un "
+#~ "conjunto de datos alternativo."
+
+#~ msgid "__Input data__"
+#~ msgstr "__Datos de entrada__"
+
+#~ msgid "__Output data__"
+#~ msgstr "__Datos de salida__"
+
+#~ msgid "WorldPop data: 3-arc seconds (~100 m)"
+#~ msgstr "Datos de WorldPop: 3 segundos de arco (~100 m)"
+
+#~ msgid "Step 6: Generate reports"
+#~ msgstr "Paso 6: Generar informes"
+
+#~ msgid ""
+#~ "Once verified by the Parties, the estimates of the female, male and total "
+#~ "population exposed to land degradation should be officially submitted to the"
+#~ " UNCCD."
+#~ msgstr ""
+#~ "Una vez que las Partes hayan llevado a cabo la verificación, deberán remitir"
+#~ " oficialmente las estimaciones sobre la proporción de población femenina, "
+#~ "masculina y total expuesta a la degradación de las tierras a la CLD."
+
+#~ msgid "Total population exposed to land degradation"
+#~ msgstr "Población total expuesta a la degradación de las tierras"
+
+#~ msgid "Female population exposed to land degradation"
+#~ msgstr "Población femenina expuesta a la degradación de las tierras"
+
+#~ msgid "Male population exposed to land degradation"
+#~ msgstr "Población masculina expuesta a la degradación de las tierras"
+
+#~ msgid "2.3.7. Further reading"
+#~ msgstr "2.3.7. Lecturas complementarias"
