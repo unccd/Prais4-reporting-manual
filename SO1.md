@@ -666,13 +666,13 @@ The Trends.Earth LPD algorithm is the one implemented on the default data availa
 
 The changes observed in each of the three metrics are combined to determine persistent land productivity trajectories represented in five classes (see table 13 below). They are also used to determine whether a pixel is degraded, improved or stable in the baseline and reporting periods (see Step 6).
 
-Instead of the z-score approach described in the UNCCD Good Practice Guidance, the implementation in Trends.Earth uses alternative statistical methods for calculating the “trend” and “state” metrics, as described below.  These methods are less sensitive to outliers and annual fluctuations, providing more robust and interpretable results for national and global reporting 
+Instead of the z-score approach described in the UNCCD Good Practice Guidance, the implementation in Trends.Earth uses alternative statistical methods for calculating the “trend” and “state” metrics, as described below.  These methods are less sensitive to outliers and annual fluctuations, providing more robust and interpretable results for national and global reporting.
 
 ##### Productivity Trend
 
 To calculate the productivity Trend (also known as Trajectory), Parties should determine the trajectory of change in productivity over a 16-year time interval on a pixel level. The Trend metric is calculated over an interval of 16 years for both the baseline (2000–2015) and the reporting period (i.e. a 16-year period ending in the last year of data being reported (i.e. 2008–2023).
 
-The Trend metric is calculated by fitting a linear regression model to the time series and determining the significance of the trend slope using a Mann-Kendall significance test. Trends with p ≤ 0.05 are considered significant, which if positive are considered potential improvement and if negative are considered potential degradation. Parties who wish to use this approach within Trends.Earth also have the option to apply corrections to account for climatic variability, especially rainfall.
+The Trend metric is calculated by fitting a linear regression model to the time series and determining the significance of the trend slope using a Mann-Kendall significance test. Trends with p $\le$ 0.05 are considered significant, which if positive are considered potential improvement and if negative are considered potential degradation. Parties who wish to use this approach within Trends.Earth also have the option to apply corrections to account for climatic variability, especially rainfall.
 
 ##### Productivity State
 
@@ -680,14 +680,13 @@ Productivity State is determined by comparing the mean annual NPP of the three m
 
 While it is recommended to maintain a 13-year historical period and a 3-year recent comparison period for consistency and comparability, the length of the two periods can be parameterized in the Trends.Earth software to suit specific conditions.
 
-The vegetation index values are then grouped into percentile classes to detect shifts in productivity: 
+The vegetation index values are then grouped into percentile classes to detect shifts in productivity:
 
-- A drop of ≥2 classes between the historical period and the recent comparison period suggests potential degradation; 
+- A drop of $\ge$ 2 classes between the historical period and the recent comparison period suggests potential degradation;
 
- - A rise of ≥2 classes between the historical period and the recent comparison period indicates potential improvement; 
+- A rise of $\ge$ 2 classes between the historical period and the recent comparison period indicates potential improvement;
 
-- Small changes reflect stability. 
-
+- Small changes reflect stability.
 
 ##### Productivity Performance
 
