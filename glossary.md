@@ -683,7 +683,7 @@ Poverty line
     A line drawn at a particular level of income or at a particular value of consumption.
     Households whose incomes fall below the level of the poverty line or whose consumption level is valued at less than the value of the poverty line are classified as poor.
     Households with incomes or consumption levels valued above this line are described as the non-poor.
-    The international poverty line is currently set at USD 2.15 a day.
+    The international poverty line is currently set at USD 3.00 per day at 2021 international prices.
 
 Protected Area
     A legally or effectively managed geographic unit dedicated to long-term biodiversity conservation.
