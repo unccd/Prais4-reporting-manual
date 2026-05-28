@@ -14,7 +14,7 @@ Two metrics may be used for this purpose and Parties should specify which one is
 
 The choice of the metric to use depends on the country-specific income category or poverty level.
 
-The metric represented by the proportion of the population below the international poverty line is generally considered relevant to less developed countries, where extreme poverty and destitution are core development challenges. The international poverty line is currently set at $3.00 per day at 2021 international prices. Therefore, the proportion of the population below the international poverty line is defined as the percentage of the population living on less than $3.00 per day at 2021 international prices.
+The metric represented by the proportion of the population below the international poverty line is generally considered relevant to less developed countries, where extreme poverty and destitution are core development challenges. The international poverty line is currently set at USD 3.00 per day at 2021 international prices. Therefore, the proportion of the population below the international poverty line is defined as the percentage of the population living on less than USD 3.00 per day at 2021 international prices.
 
 On the other hand, income inequality is a useful alternative to the poverty metric for those countries where poverty is no longer an issue, as it estimates the extent of wealth distribution in a region. It is estimated through the Gini index. The Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from perfectly equal distribution. A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.
 
