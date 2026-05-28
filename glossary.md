@@ -670,7 +670,7 @@ Population aged 15-64 years (per cent of total population)
     _See also {term}`Drought Vulnerability Index (DVI)`._
 
 Population below the international poverty line (per cent)
-    The percentage of the population living on less than $2.15 a day at 2017 purchasing power.
+    The percentage of the population living on less than $3.00 per day at 2021 international prices.
 
     _See also {term}`Drought Vulnerability Index (DVI)`._
 
