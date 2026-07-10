@@ -1,0 +1,31 @@
+flowchart TD
+    A("Are national annual SPI datasets from National Meteorological and/or Hydrological services available?")
+    B("Is the default data provided by UNCCD assessed to be more suitable to characterize drought conditions for the periods considered?")
+    C("Use national SPI data")
+    D("Use GMID default data")
+    E("Is the UNCCD default data assessed as suitable to characterize drought conditions for the periods considered?")
+    F("Are gridded precipitation data available, or can they be developed with reasonable accuracy from national annual precipitation datasets (e.g. rain gauges, etc)?")
+    G("Use national precipitation gridded data to calculate SPI")
+    H("Is the country within <br/> 50° N and 50° S")
+    I("Use CHIRPS data to calculate SPI")
+    J("Use other regional precipitation data to calculate SPI")
+
+    A -- "YES" --> B
+    A -- "NO" --> E
+
+    B -- "YES" --> D
+    B -- "NO" --> C
+
+    E -- "YES" --> D
+    E -- "NO" --> F
+
+    F -- "YES" --> G
+    F -- "NO" --> H
+
+    H -- "YES" --> I
+    H -- "NO" --> J
+
+    classDef question fill:#ffffff,stroke:#2aa7c8,stroke-width:2px,color:#0f172a,font-size:12px,font-weight:500;
+    classDef outcomeFinal fill:#dff4ff,stroke:#2aa7c8,stroke-width:2px,color:#0f172a,font-size:12px,font-weight:500;
+    class A,B,E,F,H question;
+    class C,D,G,I,J outcomeFinal;

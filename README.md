@@ -47,8 +47,7 @@ PDF version is available [here](https://buildmedia.readthedocs.org/media/pdf/pra
 
 ## Updating translation strings
 
-After changes are made to the source strings, run the following command to update the 
-po files to include the new changes:
+After changes are made to the source strings, run the following command to update the .po files to include the new changes:
 
     ./make_messages.sh
 

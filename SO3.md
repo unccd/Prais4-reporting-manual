@@ -42,7 +42,10 @@ The decision tree in figure 5 can help Parties to decide which data set and appr
 
 _**Figure 5.** Decision tree to help Parties chose the best precipitation or drought index data source to derive indicator SO 3-1_
 
-![](/img/fig5.png)
+```{mermaid} img/fig5.mmd
+:align: center
+:alt: Decision tree to help Parties choose the best precipitation or drought index data source to derive indicator SO 3-1
+```
 
 _GMID: Global Multi-Index Drought,_{{br}}
 _SPI: Standardized Precipitation Index,_{{br}}

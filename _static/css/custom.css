@@ -218,6 +218,23 @@ html.writer-html5 .rst-content table.docutils.table-22 th>p, html.writer-html5 .
 .rst-content table.table-22 tr:nth-child(1) th:nth-child(4) {min-width: 8rem;}
 
 /* Table 24 in SO5 */
+
+/* Mermaid diagrams */
+.rst-content pre.mermaid {
+  display: flex;
+  justify-content: center;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-bottom: 0.5rem;
+}
+
+.rst-content pre.mermaid > svg {
+  width: 80%;
+  max-width: 600px;
+  min-width: 0;
+  height: auto;
+}
+
 html.writer-html5 .rst-content table.docutils.table-24 th>p, html.writer-html5 .rst-content table.docutils.table-24 td>p {
   font-size: 0.7rem;
 }

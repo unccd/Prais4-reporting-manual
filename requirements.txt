@@ -124,6 +124,8 @@ sphinx-new-tab-link==0.8.0
     # via -r requirements.in
 sphinx-rtd-theme==3.0.2
     # via -r requirements.in
+sphinxcontrib-mermaid==2.0.3
+    # via -r requirements.in
 sphinxcontrib-applehelp==2.0.0
     # via sphinx
 sphinxcontrib-devhelp==2.0.0

@@ -38,6 +38,7 @@ extensions = [
     "sphinx.ext.ifconfig",  # https://www.sphinx-doc.org/en/master/usage/extensions/ifconfig.html
     "docxbuilder",  # https://docxbuilder.readthedocs.io/en/latest/docxbuilder.html
     "sphinx_new_tab_link",  # https://github.com/ftnext/sphinx-new-tab-link
+    "sphinxcontrib.mermaid",
 ]
 
 myst_enable_extensions = [
@@ -117,6 +118,35 @@ html_theme = "sphinx_rtd_theme"
 html_static_path = ["_static"]
 
 html_css_files = ["css/custom.css", "css/rtl.css"]
+
+mermaid_output_format = "raw"
+mermaid_light_theme = "neutral"
+mermaid_dark_theme = "dark"
+mermaid_height = "380px"
+mermaid_init_config = {
+    "startOnLoad": False,
+    "themeVariables": {
+        # Shared baseline for Mermaid diagrams in this manual.
+        "fontSize": "10px",
+        "fontFamily": "Lato, Arial, sans-serif",
+        "primaryColor": "#ffffff",
+        "primaryBorderColor": "#2aa7c8",
+        "primaryTextColor": "#0f172a",
+        "lineColor": "#2aa7c8",
+        "clusterBkg": "#ffffff",
+        "clusterBorder": "#2aa7c8",
+        "tertiaryColor": "#ffffff",
+    },
+    "flowchart": {
+        "useMaxWidth": True,
+        "htmlLabels": True,
+        "nodeSpacing": 24,
+        "rankSpacing": 46,
+        "padding": 10,
+        "curve": "basis",
+    },
+}
+mermaid_fullscreen = False
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
