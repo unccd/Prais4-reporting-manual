@@ -37,16 +37,16 @@ msgid ""
 "{term}`U <UNCCD National Action Programmes (NAPs)>` | {term}`V <Vector "
 "data>` | {term}`W <Water bodies>`|"
 msgstr ""
-"<Safely managed drinking water source(s)> {term} <Target> {term} <UNCCD "
-"National Action Programmes (NAPs)> {term} <Vector data> {term} <Water "
-"bodies>| {term}`A <Above ground biomass>` | {term}`B <Baseline>` | {term}`C "
-"<Capacity building, capacity development>` | {term}`D <Data>` | {term}` E "
+"| {term}`A <Above ground biomass>` | {term}`B <Baseline>` | {term}`C "
+"<Capacity building, capacity development>` | {term}`D <Data>` | {term}`E "
 "<Economic vulnerability factors>` | {term}`F <False negative>` | {term}`G "
 "<Gain (monitored)>` | {term}`H <Hazard>` | {term}`I <Implementation "
 "Framework>` | {term}`K <Key Biodiversity Area>` | {term}`L <Land cover>` | "
 "{term}`M <Mainstreaming gender>` | {term}`N <Natural capital>` | {term}`O "
 "<OECD DAC CRS>` | {term}`P <Partnership>` | {term}`R <Raster data>` | "
-"{term}`S xml-ph-0033@deep"
+"{term}`S <Safely managed drinking water source(s)>` | {term}`T <Target>` | "
+"{term}`U <UNCCD National Action Programmes (NAPs)>` | {term}`V <Vector "
+"data>` | {term}`W <Water bodies>`|"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md
@@ -259,7 +259,7 @@ msgstr ""
 #, python-brace-format
 msgid "_See also {term}`Compensation Schemes` and {term}`Incentive schemes`._"
 msgstr ""
-"_Véase también {term}`Regímenes de compensación` y {term}`Regímenes de "
+"_Véase también {term}`Sistemas de compensación` y {term}`Sistemas de "
 "incentivos`._"
 
 # Requires manual validation; translated with DeepL
@@ -400,7 +400,7 @@ msgstr ""
 #: ../../glossary.md:74
 #, python-brace-format
 msgid "_See also {term}`Above ground biomass`._"
-msgstr "_Véase también {term}`Biomasa por encima del suelo`._"
+msgstr "_Véase también {term}`Biomasa sobre el suelo`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:60
@@ -664,7 +664,7 @@ msgstr ""
 "restricciones de acceso que afectan negativamente a los medios de "
 "subsistencia de la población local, y pretenden compensar adecuadamente las "
 "pérdidas sufridas. _Véase también {term}`Medios de vida alternativos` y "
-"{term}`Esquemas de incentivos`._"
+"{term}`Sistemas de incentivos`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:102
@@ -964,7 +964,7 @@ msgid ""
 "_See also {term}`Desertification`, {term}`Land degradation` and "
 "{term}`Drought`._"
 msgstr ""
-"_Véase también {term}`Desertificación`, {term}`Degradación de las tierras` y"
+"_Véase también {term}`Desertificación`, {term}`Degradación del suelo` y"
 " {term}`Sequía`._"
 
 # Requires manual validation; translated with DeepL
@@ -1072,7 +1072,7 @@ msgstr ""
 #: ../../glossary.md:203
 #, python-brace-format
 msgid "_See also {term}`Standardized Precipitation Index (SPI)`._"
-msgstr "_Véase también {term}`Índice de Precipitación Estandarizado (SPI)`."
+msgstr "_Véase también {term}`Índice estandarizado de precipitaciones (SPI)`."
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:189
@@ -1514,7 +1514,7 @@ msgstr ""
 #: ../../glossary.md:295
 #, python-brace-format
 msgid "_See also {term}`False negative`._"
-msgstr "_Véase también {term}`Falso negativo`._"
+msgstr "_Véase también {term}`Falsos negativos`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:281
@@ -2068,7 +2068,7 @@ msgstr ""
 msgid ""
 "_See also {term}`Alternative livelihoods` and {term}`Compensation schemes`._"
 msgstr ""
-"_Véase también {term}`Medios de vida alternativos` y {term}`Regímenes de "
+"_Véase también {term}`Medios de vida alternativos` y {term}`Sistemas de "
 "compensación`._"
 
 # Requires manual validation; translated with DeepL

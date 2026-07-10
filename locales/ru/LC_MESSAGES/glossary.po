@@ -37,16 +37,16 @@ msgid ""
 "{term}`U <UNCCD National Action Programmes (NAPs)>` | {term}`V <Vector "
 "data>` | {term}`W <Water bodies>`|"
 msgstr ""
-"<Safely managed drinking water source(s)> {term} <Target> {term} <UNCCD "
-"National Action Programmes (NAPs)> {term} <Vector data> {term} <Water "
-"bodies>| {term}`A <Above ground biomass>` | {term}`B <Baseline>` | {term}`C "
+"| {term}`A <Above ground biomass>` | {term}`B <Baseline>` | {term}`C "
 "<Capacity building, capacity development>` | {term}`D <Data>` | {term}`E "
 "<Economic vulnerability factors>` | {term}`F <False negative>` | {term}`G "
 "<Gain (monitored)>`| {term}`H <Hazard>` | {term}`I <Implementation "
 "Framework>` | {term}`K <Key Biodiversity Area>` | {term}`L <Land cover>` | "
 "{term}`M <Mainstreaming gender>` | {term}`N <Natural capital>` | {term}`O "
 "<OECD DAC CRS>` | {term}`P <Partnership>` | {term}`R <Raster data>` | "
-"{term}`S xml-ph-0033@deep"
+"{term}`S <Safely managed drinking water source(s)>` | {term}`T <Target>` | "
+"{term}`U <UNCCD National Action Programmes (NAPs)>` | {term}`V <Vector "
+"data>` | {term}`W <Water bodies>`|"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md
@@ -260,7 +260,7 @@ msgstr ""
 #: ../../glossary.md:51
 #, python-brace-format
 msgid "_See also {term}`Compensation Schemes` and {term}`Incentive schemes`._"
-msgstr "См. также {term}`Схемы вознаграждения` и {term}`Схемы поощрения`._"
+msgstr "См. также {term}`Компенсационные схемы` и {term}`Стимулирующие схемы`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:37
@@ -400,7 +400,7 @@ msgstr ""
 #: ../../glossary.md:74
 #, python-brace-format
 msgid "_See also {term}`Above ground biomass`._"
-msgstr "См. также {term}`Наземная биомасса`._"
+msgstr "См. также {term}`Надземная биомасса`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:60
@@ -660,8 +660,8 @@ msgstr ""
 "сохранения природы, особенно в отношении ограничений доступа, которые "
 "негативно влияют на средства к существованию местного населения, и "
 "направлены на адекватную компенсацию понесенных потерь. См. также "
-"{term}`Альтернативные источники средств к существованию` и {term}`Схемы "
-"поощрения`._"
+"{term}`Альтернативные средства к существованию` и {term}`Стимулирующие "
+"схемы`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:102
@@ -1479,7 +1479,7 @@ msgstr ""
 #: ../../glossary.md:289
 #, python-brace-format
 msgid "_See also {term}`False positive`._"
-msgstr "См. также {term}`Ложноположительный результат`._"
+msgstr "См. также {term}`Ложный положительный результат`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:275
@@ -1506,7 +1506,7 @@ msgstr ""
 #: ../../glossary.md:295
 #, python-brace-format
 msgid "_See also {term}`False negative`._"
-msgstr "_См. также {term}`Ложноотрицательный`._"
+msgstr "_См. также {term}`Ложные негативы`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:281
@@ -1972,7 +1972,7 @@ msgstr ""
 #: ../../glossary.md:391
 #, python-brace-format
 msgid "_See also {term}`Brightspots`._"
-msgstr "_См. также {term}`Правильные точки`._"
+msgstr "_См. также {term}`Brightspots`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:380
@@ -2052,8 +2052,8 @@ msgstr ""
 msgid ""
 "_See also {term}`Alternative livelihoods` and {term}`Compensation schemes`._"
 msgstr ""
-"См. также {term}`Альтернативные средства к существованию` и {term}`Схемы "
-"компенсаций`._"
+"См. также {term}`Альтернативные средства к существованию` и "
+"{term}`Компенсационные схемы`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:396
@@ -2188,7 +2188,7 @@ msgid ""
 "{term}`Land Cover`._"
 msgstr ""
 "См. также {term}`Классификатор, класс`, {term}`Система классификации`, "
-"{term}`Земельный покров`._"
+"{term}`Почвенно-растительный покров`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:425
