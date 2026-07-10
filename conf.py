@@ -21,7 +21,7 @@ from sphinx.application import Sphinx
 
 project = "PRAIS4 Reporting Manual"
 author = "United Nations Convention to Combat Desertification (UNCCD)"
-copyright = "2025, UNCCD"
+copyright = "2022-2026, UNCCD"
 
 
 # -- General configuration ---------------------------------------------------
@@ -134,6 +134,7 @@ html_theme_options = {
 
 html_context = {
     "display_github": True,
+    "show_sphinx": False,
     "github_user": "unccd",
     "github_repo": "Prais4-reporting-manual",
     "github_version": "master",
