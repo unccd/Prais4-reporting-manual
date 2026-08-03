@@ -311,12 +311,9 @@ In order to provide national-level extracts of the global data sources for natio
 
 The UN Clear Map Data has been prepared by the United Nations Geospatial Information Section (formerly Cartographic Section) in New York. The designations employed and the presentation of material contained in the UN Clear Map Data do not imply the expression of any opinion whatsoever on the part of the UNCCD concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
 
-For cartographic representation and preparation of the default data, PRAIS uses the international boundaries of countries taken from the United Nations Map 0 geodata which is suitable for 1:1 million scale representation and serves global mapping purposes as opposed to local mapping.
+For cartographic representation and preparation of the default data, PRAIS uses the international boundaries of countries taken from the UN Geodata which is suitable for 1:1 million scale representation and serves global mapping purposes as opposed to local mapping.
 Countries can opt to use an alternative country border by uploading the polygon directly to the PRAIS spatial data viewer.
-However, should Parties opt to use an alternative country boundary layer, they are encouraged to engage with the Second Administrative Level Boundaries ([SALB](https://salb.un.org/)) programme of the Geospatial Information Section & Statistics Division.
-The programme’s objective is to promote accessible, interoperable and global data and information on subnational units and boundaries.
-Participation in the programme will ensure Member States of the United Nations will avail of a global repository of authoritative information and geospatial data about the administrative unit structure of countries down to the second subnational level, and through time.
-Parties should engage with the SALB program directly by sending an email to <salb@un.org>.
+Should Parties opt to use an alternative country border to that provided in PRAIS, they can upload it directly to the PRAIS spatial data viewer, recalculate all geospatial indicators via Trends.Earth and upload the results to PRAIS. Please note: all polygon files uploaded to PRAIS should be simplified as much as possible. The spatial data viewer has limitations on the number of vertices it can process in a browser. Highly detailed or complex polygons will be simplified automatically for display purposes in the PRAIS spatial viewer.
 
 Careful consideration should be given to the use of an alternative national border in that it must be consistent with the total land area reported under SO 1-1. Otherwise, discrepancies may arise in the reporting data derived from geospatial analysis using that border.
 
