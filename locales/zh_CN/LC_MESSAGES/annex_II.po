@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-03 15:18+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-08-27 15:26+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -29,8 +29,7 @@ msgid ""
 "set of metadata, to identify the data source must be entered by completing "
 "the pop-up form associated with these new data sources. Four fields have to "
 "be completed using free text:"
-msgstr ""
-"缔约方在报告任何SO指标时，可决定不使用所提供的默认数据。当缔约方使用替代数据集时，必须通过填写与这些新数据源相关的弹出式表格来输入最低限度的元数据集，以确定数据源。有四个字段必须使用自由文本填写："
+msgstr "缔约方在报告任何SO指标时，可决定不使用所提供的默认数据。当缔约方使用替代数据集时，必须通过填写与这些新数据源相关的弹出式表格来输入最低限度的元数据集，以确定数据源。有四个字段需使用自由文本填写："
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_II.md:5
@@ -43,7 +42,7 @@ msgid ""
 "**Source Link/Identifier**: this can be a hyperlink to the dataset itself or"
 " a unique identifier of the dataset. If a DOI exists it can be inserted "
 "here."
-msgstr "**源链接/标识符**：可以是数据集本身的超链接，也可以是数据集的唯一标识符。如果存在 DOI，可将其插入此处。"
+msgstr "**来源链接/标识符**：可以是数据集本身的超链接，也可以是数据集的唯一标识符。如果存在DOI，可将其插入此处。"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_II.md:9
@@ -60,8 +59,7 @@ msgid ""
 "year of publication, the full title of the dataset or a related publication,"
 " the publication in which the dataset is cited (e.g. journal, report, book) "
 "and the place of publication."
-msgstr ""
-"**文献引用**：这应该是对数据集的完整而全面的引用，如有可能，应包括数据集作者、出版年份、数据集或相关出版物的全称、引用数据集的出版物（如期刊、报告、书籍）以及出版地。"
+msgstr "**文献引用**：这应该是对数据集的完整而全面的引用，如有可能，应包括数据集作者、出版年份、数据集或相关出版物的全称、引用数据集的出版物（如期刊、报告、书籍）以及出版地。"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_II.md:13
@@ -70,9 +68,7 @@ msgid ""
 "are being reported, when the user switches from ‘Default’ to ‘National’ data"
 " and clicks on the ‘Edit Default Data’ button. There is one metadata form "
 "for each relevant indicator form."
-msgstr ""
-"只有在报告定量数据的报告表格中，当用户从 \"默认 \"数据切换到 \"国家 \"数据并点击 \"编辑默认数据 "
-"\"按钮时，元数据表格才会出现。每个相关指标表格都有一个元数据表格。"
+msgstr "只有在报告定量数据的报告表格中，当用户从\"默认\"数据切换到\"国家\"数据并点击\"编辑默认数据\"按钮时，元数据表格才会出现。每个相关指标表格有一个元数据表格。"
 
 #~ msgid "1. Introduction"
 #~ msgstr "1. 简介"

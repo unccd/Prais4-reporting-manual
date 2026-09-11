@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-28 12:53+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-08-27 15:16+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,53 +21,48 @@ msgstr ""
 msgid ""
 "2. Strategic objective 2: To improve the living conditions of affected "
 "populations"
-msgstr "2- الهدف الاستراتيجي 2: تحسين الظروف المعيشية للسكان المُتضرِّرين"
+msgstr "الهدف الاستراتيجي 2: تحسين الظروف المعيشية للسكان المتأثرين"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:3
 msgid ""
 "2.1. SO 2-1 – Trends in population living below the relative poverty line or"
 " income inequality in affected areas"
-msgstr ""
-"2.1. SO 2-1 - اتجاهات السكان الذين يعيشون تحت خط الفقر النسبي أو عدم "
-"المساواة في الدخل في المناطق المتأثرة"
+msgstr "2-1. الهدف الاستراتيجي 2-1 – الاتجاهات السائدة في نسبة السكان الذين يعيشون تحت خط الفقر النسبى أو التفاوت في الدخل في المناطق المتأثرة"
 
 #: ../../SO2.md:5
 msgid "2.1.1. Introduction"
-msgstr "2-1-1 مقدمة"
+msgstr "2-1-1. مقدمة"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:7
 msgid ""
 "Indicator SO 2-1 estimates the living standard of populations in monetary "
 "terms."
-msgstr "يقدّر المؤشر SO 2-1 مستوى معيشة السكان من الناحية النقدية."
+msgstr "يقدر مؤشر الهدف الاستراتيجي 2-1 المستوى المعيشي للسكان باللغة النقدية."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:9
 msgid ""
 "Two metrics may be used for this purpose and Parties should specify which "
 "one is to be used for reporting:"
-msgstr ""
-"ويجوز استخدام مقياسين لهذا الغرض، وينبغي للأطراف تحديد أيهما سيستخدم في "
-"إعداد التقارير:"
+msgstr "ويمكن استخدام مقياسين لهذا الغرض، ويتعين على الأطراف تحديد المقياس الذي سيتم اعتماده عند تقديم التقارير:"
 
 #: ../../SO2.md:11
 msgid "Proportion of the population below the international poverty line, or"
-msgstr "نسبة السكان الذين يعيشون تحت الخط الدولي للفقر، أو"
+msgstr "نسبة السكان الذين يعيشون تحت خط الفقر الدولي، أو"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:13
 msgid "Income inequality (Gini Index)."
-msgstr "عدم المساواة في الدخل (مؤشر جيني)."
+msgstr "التفاوت في الدخل (مؤشر جيني)."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:15
 msgid ""
 "The choice of the metric to use depends on the country-specific income "
 "category or poverty level."
-msgstr ""
-"يعتمد اختيار المقياس المستخدم على فئة الدخل أو مستوى الفقر الخاص بكل بلد."
+msgstr "ويعتمد اختيار المقياس المناسب على فئة الدخل أو مستوى الفقر الخاص بكل بلد."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:17
@@ -80,13 +75,7 @@ msgid ""
 "the population below the international poverty line is defined as the "
 "percentage of the population living on less than USD 3.00 per day at 2021 "
 "international prices."
-msgstr ""
-"يُعتبر المؤشر الذي يمثله نسبة السكان الذين يعيشون تحت خط الفقر الدولي مؤشراً"
-" ذا صلة بشكل عام بالبلدان الأقل نمواً، حيث يُشكل الفقر المدقع والحرمان التام"
-" تحديات إنمائية جوهرية. ويُحدد خط الفقر الدولي حالياً بمبلغ 3.00 دولارات "
-"أمريكية في اليوم وفقاً لأسعار عام 2021 الدولية. وبالتالي، تُعرَّف نسبة "
-"السكان الذين يعيشون تحت خط الفقر الدولي بأنها النسبة المئوية للسكان الذين "
-"يعيشون على أقل من 3.00 دولارات أمريكية في اليوم بالأسعار الدولية لعام 2021."
+msgstr "ويُعد المقياس الممثل بنسبة السكان تحت خط الفقر الدولي مناسبًا بوجه عام للدول الأقل نموًا، حيث يمثل الفقرقع والأشكال الصريحة للحرمان تحديات تنموية جوهرية. ويحدد خط الفقر الدولي حاليًا بـ 3.00 دولار أمريكي يوميًا بأسعار عام 2021 الدولية. وبناءً عليه، تُعرف نسبة السكان تحت خط الفقر الدولي بأنها النسبة المئوية للسكان الذين يعيشون على أقل من 3.00 دولار أمريكي في اليوم بأسعار عام 2021 الدولية."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:19
@@ -99,14 +88,7 @@ msgid ""
 "individuals or households within an economy deviates from perfectly equal "
 "distribution. A Gini index of 0 represents perfect equality, while an index "
 "of 100 implies perfect inequality."
-msgstr ""
-"من ناحية أخرى، يعد عدم المساواة في الدخل بديلاً مفيدًا لمقياس الفقر في "
-"البلدان التي لم يعد الفقر فيها مشكلة، حيث أنه يقدر مدى توزيع الثروة في منطقة"
-" ما. ويتم تقديره من خلال مؤشر جيني. يقيس مؤشر جيني مدى انحراف توزيع الدخل "
-"(أو في بعض الحالات، نفقات الاستهلاك) بين الأفراد أو الأسر المعيشية داخل "
-"اقتصاد ما عن التوزيع المتساوي تمامًا. ويمثل مؤشر جيني الذي يساوي صفر "
-"المساواة التامة، في حين أن مؤشر جيني الذي يساوي 100 يعني عدم المساواة "
-"التامة."
+msgstr "ومن ناحية أخرى، يُعد التفاوت في الدخل بديلًا مفيدًا لمقياس الفقر بالنسبة للبلدان التي لم يعد الفقر يمثل مشكلة ملحة فيها، حيث يقدر مدى توزيع الثروة في إقليم ما. ويتم تقديره من خلال مؤشر جيني. ويقيس مؤشر جيني مدى انحراف توزيع الدخل (أو الإنفاق الاستهلاكي في بعض الحالات) بين الأفراد أو الأسر المعيشية داخل الاقتصاد عن التوزيع المماثل التام. وتمثل قيمة مؤشر جيني 0 المساواة التامة، بينما تعني القيمة 100 التفاوت واللانامساواة التامة."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:21
@@ -121,21 +103,11 @@ msgid ""
 "inequality (i.e., the Gini index), default data is pre-filled from the World"
 " Bank database[^2]. If income inequality data is used, it may require "
 "validation by the Party."
-msgstr ""
-"يتم تيسير إعداد التقارير الوطنية من خلال توفير البيانات الافتراضية. نظرًا "
-"لأن نسبة السكان الذين يعيشون تحت خط الفقر الدولي حسب الجنس والعمر والحالة "
-"الوظيفية والموقع الجغرافي (حضري/ريفي) هي أيضًا مؤشر من مؤشرات أهداف التنمية "
-"المستدامة (المؤشر 1-1-1)، فإن البيانات الافتراضية مملوءة مسبقًا من قاعدة "
-"بيانات مؤشرات أهداف التنمية المستدامة التابعة لإدارة الشؤون الاقتصادية "
-"والاجتماعية بالأمم المتحدة [^1] للمؤشر 1-1-1. في حالة استخدامها، لا تتطلب "
-"هذه البيانات مزيدًا من التحقق من صحة هذه البيانات من قبل الطرف. بالنسبة لعدم"
-" المساواة في الدخل (أي مؤشر جيني)، يتم ملء البيانات الافتراضية مسبقًا من "
-"قاعدة بيانات البنك الدولي[^2]. إذا تم استخدام بيانات عدم المساواة في الدخل، "
-"فقد يتطلب الأمر التحقق من صحتها من قبل الطرف."
+msgstr "وتتيسر عملية تقديم التقارير الوطنية من خلال توفير بيانات افتراضية. وبما أن نسبة السكان تحت خط الفقر الدولي حسب الجنس والعمر والحالة التوظيفية والموقع الجغرافي (حضر/ريف) تُعد أيضًا مؤشرًا من مؤشرات أهداف التنمية المستدامة (المؤشر 1.1.1)، فإن البيانات الافتراضية تعبأ مسبقًا من قاعدة بيانات[^1] مؤشرات أهداف التنمية المستدامة التابعة لإدارة الشؤون الاقتصادية والاجتماعية بالأمم المتحدة (UN-DESA) للمؤشر 1.1.1. وفي حال استخدامها، لا تتطلب هذه البيانات مراجعة إضافية من الطرف. أما بالنسبة للتفاوت في الدخل (مؤشر جيني)، فتعبأ البيانات الافتراضية مسبقًا من قاعدة بيانات البنك الدولي[^2]. وفي حال استخدام بيانات التفاوت في الدخل، فقد تتطلب التحقق والمصادقة من قِبل الطرف."
 
 #: ../../SO2.md:26
 msgid "2.1.2. Prerequisites for reporting"
-msgstr "2-1-2 الشروط المسبقة للإبلاغ"
+msgstr "2.1.2. متطلبات إعداد التقارير"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:28
@@ -144,16 +116,11 @@ msgid ""
 "(<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>) and "
 "Gini index metadata (<https://databank.worldbank.org/metadataglossary/world-"
 "development-indicators/series/SI.POV.GINI>)."
-msgstr ""
-"قراءة متعمقة للبيانات الوصفية للمؤشر 1-1-1 "
-"(<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>) "
-"والبيانات الوصفية لمؤشر جيني "
-"(<https://databank.worldbank.org/metadataglossary/world-development-"
-"indicators/series/SI.POV.GINI>)."
+msgstr "قراءة متعمقة للبيانات الوصفية الخاصة بمؤشر أهداف التنمية المستدامة 1.1.1 (<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>) والبيانات الوصفية الخاصة بمؤشر جيني (<https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SI.POV.GINI>)."
 
 #: ../../SO2.md:30
 msgid "Data complying with the specifications listed in table 15."
-msgstr "البيانات المستوفية للمواصفات الواردة في الجدول 15."
+msgstr "توفر بيانات تتوافق مع المواصفات المحددة في الجدول 15."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:32
@@ -164,25 +131,20 @@ msgid ""
 "sources for the two metrics. Key institutions might include a country’s "
 "national statistical office and the ministry of finance, as well as "
 "universities and research centres."
-msgstr ""
-"مجموعة من الخبراء الوطنيين المعينين رسمياً من قبل السلطات الوطنية للتحقق من "
-"ملاءمة واتساق البيانات الافتراضية مع الوضع في بلدهم، أو لتحديد وتجميع "
-"البيانات باستخدام المصادر الوطنية للمقياسين. ويمكن أن تشمل المؤسسات الرئيسية"
-" المكتب الإحصائي الوطني في بلد ما ووزارة المالية، وكذلك الجامعات ومراكز "
-"البحوث."
+msgstr "تشكيل فريق من الخبراء الوطنيين المعينين رسميًا من السلطات الوطنية للتحقق من ملاءمة واتساق البيانات الافتراضية مع الوضع في بلدهم، أو لتحديد وتجميع البيانات باستخدام المصادر الوطنية للمقياسين. وتشمل المؤسسات الرئيسية الجهاز الوطني للإحصاء ووزارة المالية، بالإضافة إلى الجامعات ومراكز البحوث."
 
 #: ../../SO2.md:34
 msgid "2.1.3. Reporting process and step-by-step procedure"
-msgstr "2-1-3 عملية الإبلاغ والإجراءات التدريجية"
+msgstr "2.1.3. عملية تقديم التقارير والإجراءات الخطوة بخطوة"
 
 #: ../../SO2.md:36 ../../SO2.md:146
 msgid ""
 "The step-by-step procedure for reporting is described in the following."
-msgstr "يرد في ما يلي وصف للإجراءات التدريجية للإبلاغ."
+msgstr "تتمثل الإجراءات المتبعة لإعداد التقارير خطوة بخطوة فيما يلي:"
 
 #: ../../SO2.md:38
 msgid "Step 1: Choose the most suitable metric"
-msgstr "الخطوة 1: اختيار المقياس الأنسب"
+msgstr "الخطوة 1: اختيار المقياس الأكثر ملاءمة"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:40
@@ -191,10 +153,7 @@ msgid ""
 "provided to represent the well-being of the population in their countries by"
 " clicking on one of the toggle buttons under the “Relevant Metric” heading. "
 "This will cause either table SO2-1.T1 or table SO2-1.T2 to open."
-msgstr ""
-"الأطراف مدعوة إلى اختيار المقياس الأنسب من الخيارين المقدمين لتمثيل رفاهية "
-"السكان في بلدانها من خلال النقر على أحد أزرار التبديل تحت عنوان \"المقياس ذو"
-" الصلة\". سيؤدي ذلك إلى فتح الجدول SO2-1.T1 أو الجدول SO2-1.T2."
+msgstr "تُدعى الأطراف إلى اختيار المقياس الأكثر ملاءمة من الخيارين المتاحين لتمثيل المستوى المعيشي والسكان في بلدانها بالنقر على أحد أزرار الاختيار تحت عنوان \"المقياس الذاتي الصلة\". وسيؤدي ذلك إلى فتح الجدول SO2-1.T1 أو الجدول SO2-1.T2."
 
 #: ../../SO2.md:42
 msgid "Step 2: Identify the relevant dataset"
@@ -207,43 +166,35 @@ msgid ""
 "pre-filled in table SO2-1.T1 from the SDG database, while income inequality "
 "(Gini index) data is pre-filled in table SO2-1.T2 from the World Bank "
 "database."
-msgstr ""
-"تم ملء بيانات نسبة السكان الذين يعيشون تحت خط الفقر الدولي مسبقًا في الجدول "
-"SO2-1.T1 من قاعدة بيانات أهداف التنمية المستدامة، في حين أن بيانات عدم "
-"المساواة في الدخل (مؤشر جيني) تم ملؤها مسبقًا في الجدول SO2-1.T2 من قاعدة "
-"بيانات البنك الدولي."
+msgstr "تعبأ بيانات نسبة السكان تحت خط الفقر الدولي مسبقًا في الجدول SO2-1.T1 من قاعدة بيانات أهداف التنمية المستدامة، بينما تعبأ بيانات التفاوت في الدخل (مؤشر جيني) مسبقًا في الجدول SO2-1.T2 من قاعدة بيانات البنك الدولي."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:46
 msgid ""
 "Nevertheless, Parties may choose to use national data, provided it complies "
 "with the data specifications listed in table 15."
-msgstr ""
-"ومع ذلك، يجوز للأطراف أن تختار استخدام البيانات الوطنية، شريطة أن تتوافق مع "
-"مواصفات البيانات المدرجة في الجدول 15."
+msgstr "ومع ذلك، يجوز للأطراف اختيار استخدام بيانات وطنية، بشرط توافقها مع مواصفات البيانات المحددة في الجدول 15."
 
 #: ../../SO2.md:51
 msgid "*__Table 15__. Data specifications for SO 2-1 Indicator*"
-msgstr "*__الجدول 15__. مواصفات البيانات للمؤشر SO 2-1*"
+msgstr "*__الجدول 15__. مواصفات البيانات لمؤشر الهدف الاستراتيجي 2-1"
 
 #: ../../SO2.md:57 ../../SO2.md:163 ../../SO2.md:277
 #, python-brace-format
 msgid "{rspan}`1` Item"
-msgstr " العنصر"
+msgstr " {rspan}`1` العنصر"
 
 #: ../../SO2.md:58 ../../SO2.md:164 ../../SO2.md:278
 #, python-brace-format
 msgid "{cspan}`1` Specifications"
-msgstr " المواصفات"
+msgstr " {cspan}`1` المواصفات"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:59
 msgid ""
 "__Default data__ (Sustainable Development Goal indicator 1.1.1 data or Gini "
 "index World Bank data)"
-msgstr ""
-"__ البيانات الافتراضية ___ (بيانات المؤشر 1-1-1-1 من أهداف التنمية المستدامة"
-" أو بيانات مؤشر جيني البنك الدولي)"
+msgstr "__البيانات الافتراضية__ (بيانات مؤشر أهداف التنمية المستدامة 1.1.1 أو بيانات مؤشر جيني من البنك الدولي)"
 
 #: ../../SO2.md:61 ../../SO2.md:168
 msgid "__National data__"
@@ -256,15 +207,13 @@ msgstr "نوع البيانات"
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:63
 msgid "Annual data on one of the two metrics for the period 2000–2023."
-msgstr "بيانات سنوية عن أحد المقياسين للفترة 2000-2023."
+msgstr "بيانات سنوية لأحد المقياسين للفترة 2000–2023."
 
 #: ../../SO2.md:64
 msgid ""
 "Annual data on one of the two metrics for the period from 2000 to the latest"
 " available year for the reporting period."
-msgstr ""
-"بيانات سنوية عن أحد المقياسين للفترة من عام 2000 إلى آخر سنة متاحة لفترة "
-"الإبلاغ."
+msgstr "بيانات سنوية لأحد المقياسين للفترة من عام 2000 إلى أحدث عام متاح من فترة التقرير."
 
 #: ../../SO2.md:65 ../../SO2.md:172 ../../SO2.md:293
 msgid "__Spatial resolution__"
@@ -272,11 +221,11 @@ msgstr "__الدقة المكانية__"
 
 #: ../../SO2.md:66 ../../SO2.md:173
 msgid "Country level"
-msgstr "الصعيد القُطري"
+msgstr "على مستوى البلد"
 
 #: ../../SO2.md:67 ../../SO2.md:174
 msgid "Country or sub-national levels"
-msgstr "الصعيدان القُطري ودون الوطني"
+msgstr "على مستوى البلد أو المستويات دون الوطنية"
 
 #: ../../SO2.md:68 ../../SO2.md:175 ../../SO2.md:298
 msgid "__Metadata__"
@@ -284,31 +233,26 @@ msgstr "__البيانات الوصفية__"
 
 #: ../../SO2.md:69 ../../SO2.md:176 ../../SO2.md:299
 msgid "Metadata information is provided with default data."
-msgstr "تُقَدَم معلومات البيانات الوصفية مع البيانات الافتراضية."
+msgstr "تتوفر معلومات البيانات الوصفية مع البيانات الافتراضية."
 
 #: ../../SO2.md:70 ../../SO2.md:177 ../../SO2.md:300
 #, python-brace-format
 msgid ""
 "Minimum metadata content as per the mandatory fields listed in {doc}`Annex "
 "II <annex_II>`."
-msgstr ""
-"يرد في المرفق الثاني الحد الأدنى لمحتوى البيانات الوصفية حسب الحقول "
-"الإلزامية."
+msgstr "الحد الأدنى من محتوى البيانات الوصفية وفقًا للحقول الإلزامية المدرجة في {doc}` الملحق الثاني <annex_II>`."
 
 #: ../../SO2.md:73
 msgid ""
 "Step 3: Report national annual values of the chosen metric and interpret the"
 " data"
-msgstr ""
-"الخطوة 3: الإبلاغ عن القيم السنوية الوطنية للمقياس المختار وتفسير البيانات"
+msgstr "الخطوة 3: تقديم القيم السنوية الوطنية للمقياس المختار وتفسير البيانات"
 
 #: ../../SO2.md:76
 msgid ""
 "Related areas in the PRAIS 4 platform: tables SO2-1.T1, SO2-1.T2 and "
 "SO2-1.T3"
-msgstr ""
-"المناطق ذات الصلة في منصة نظام استعراض الأداء وتقييم التنفيذ 4 (PRAIS 4): "
-"جداول الأهداف الاستراتيجية SO2-1.T1 وSO2-1.T2 وSO2-1.T3"
+msgstr "الأجزاء ذات الصلة في منصة 4 PRAIS: الجداول SO2-1.T1 و SO2-1.T2 و SO2-1.T3"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:79
@@ -319,13 +263,7 @@ msgid ""
 " the tables in order to edit the tables. Basic metadata, as outlined in "
 "Annex II, for the datasets to be used should be provided in the Data Sources"
 " form that opens when “Edit Data Sources” is selected."
-msgstr ""
-"ويجوز للأطراف التي تختار استخدام مصدر بديل للبيانات الوطنية أن تدخل القيم "
-"السنوية الوطنية ذات الصلة في الجدولين SO2-1.T1 أو SO2-1.T2، وفقاً للمقياس "
-"المختار. وينبغي للأطراف النقر على زر \"البيانات الوطنية\" أعلى الجداول من "
-"أجل تحرير الجداول. وينبغي تقديم البيانات الوصفية الأساسية، على النحو المبين "
-"في المرفق الثاني، لمجموعات البيانات التي سيتم استخدامها في نموذج مصادر "
-"البيانات الذي يفتح عند اختيار \"تحرير مصادر البيانات\"."
+msgstr "يجوز للأطراف التي تختار استخدام مصدر بديل للبيانات الوطنية إدخال القيم السنوية الوطنية ذات الصلة في الجدول SO2-1.T1 أو الجدول SO2-1.T2 وفقًا للمقياس المختار. ويتعين على الأطراف النقر على زر \"البيانات الوطنية\" أعلى الجداول من أجل تعديلها. كما يجب تقديم البيانات الوصفية الأساسية لمجموعات البيانات المستخدمة (وفق الملحق الثاني) في نموذج \"مصادر البيانات\" الذي يظهر عند اختيار \"تعديل مصادر البيانات\"."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:81
@@ -338,13 +276,7 @@ msgid ""
 "countries may indicate which direct and/or indirect drivers are presumably "
 "behind the observed changes and report this information in the Qualitative "
 "Assessment table (i.e., Table SO2-1.T3)."
-msgstr ""
-"للمساعدة في تفسير البيانات، تُشجَّع البلدان على عرض المقاييس الخاصة بكل منها"
-" عن طريق رسم بياني (الرسوم البيانية لكل بلد متاحة على [موقع البنك الدولي] "
-"(https://datatopics.worldbank.org/sdgs/index.html)). وفي حين أنه قد يكون من "
-"الصعب عزو عوامل سببية محددة للتغييرات في المقاييس، يمكن للبلدان أن تشير إلى "
-"العوامل المباشرة و/أو غير المباشرة التي يُفترض أنها وراء التغييرات المرصودة "
-"والإبلاغ عن هذه المعلومات في جدول التقييم النوعي (أي الجدول SO2-1.T3)."
+msgstr "وللمساعدة في تفسير البيانات، تُشجع الدول على تمثيل مقاييسها بيانية (تتوفر المخططات البيانية لكل دولة على موقع البنك الدولي). ورغم صعوبة عزو عوامل سببية محددة إلى التغيرات في المقاييس، يمكن للدول تحديد المسببات المباشرة و/أو غير المباشرة المرجح وقوفها خلف التغيرات الملاحظة وإدراجها في جدول التقييم النوعي (الجدول SO2-1.T3)."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:83
@@ -361,13 +293,7 @@ msgid ""
 "qualitative assessment of the reliability of the estimates. Parties should "
 "report this assessment in a narrative form in the comments field below the "
 "tables."
-msgstr ""
-"إذا استخدمت الأطراف مؤشر جيني الافتراضي أو أدخلت بياناتها الوطنية الخاصة بها"
-" لأي من المقياسين، فإن موثوقيتها تتطلب التحقق من موثوقيتها من الخبراء "
-"الوطنيين لاكتشاف وإبراز الحالات التي قد يكون فيها مستوى الثقة في النتائج "
-"المحصلة منخفضاً. ومن شأن هذه الفحوصات أن تسهم في إجراء تقييم نوعي لموثوقية "
-"التقديرات. وينبغي للأطراف الإبلاغ عن هذا التقييم في شكل سردي في حقل "
-"التعليقات أسفل الجداول."
+msgstr "في حال استخدام مؤشر جيني الافتراضي أو إدخال بيانات وطنية لأي من المقياسين، فإن موثوقيتها تتطلب التحقق من الخبراء الوطنيين لتحديد الحالات التي قد ينخفض فيها مستوى الثقة في النتائج المحصلة. وستسهم هذه الفحوصات في التقييم النوعي لموثوقية التقديرات. ويجب على الأطراف تقديم هذا التقييم في شكل سردي في حقل التعليقات أسفل الجداول."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:87
@@ -378,13 +304,7 @@ msgid ""
 "affected areas or other socio-economic strata, e.g., sex-disaggregated data)"
 " may be useful to identify where the most significant poverty/income "
 "inequality areas are located."
-msgstr ""
-"يمكن للأطراف، اختيارياً، إدراج معلومات إضافية في حقل التعليقات العامة لوصف "
-"حالات قطرية محددة. قد تكون البيانات المصنفة على المستوى دون الوطني (على سبيل"
-" المثال، حسب التقسيم الإداري، أو المناطق الحضرية مقابل المناطق الريفية، أو "
-"المناطق المتأثرة أو غيرها من الطبقات الاجتماعية والاقتصادية الأخرى، مثل "
-"البيانات المصنفة حسب الجنس) مفيدة لتحديد المناطق التي توجد فيها أهم مناطق "
-"الفقر/التفاوت في الدخل."
+msgstr "واختياريًا، يجوز للأطراف تضمين معلومات إضافية في حقل التعليقات العامة لوصف أوضاع وطنية محددة. وقد تكون البيانات المفككة دون الوطنية (مثل التقسيم الإداري، الحضر مقابل الريف، المناطق المتأثرة، أو الفئات الاجتماعية والاقتصادية الأخرى) مفيدة لتحديد مناطق الفقر/التفاوت في الدخل الأكثر كثافة."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:89
@@ -395,11 +315,7 @@ msgid ""
 "to report on special cases and issues, describing any deviation from the "
 "default method and providing the rationale for the adoption of a different "
 "methodology."
-msgstr ""
-"كما تُشجَّع الأطراف على تقديم سرد عن طريق حقل التعليقات العامة بشأن المنهجية"
-" ومصادر البيانات ودقة البيانات في حالة اشتقاق التقديرات باستخدام البيانات "
-"الوطنية. وسيكون من المفيد أيضاً الإبلاغ عن الحالات والقضايا الخاصة، ووصف أي "
-"انحراف عن المنهجية الافتراضية وتقديم الأساس المنطقي لاعتماد منهجية مختلفة."
+msgstr "كما يُحث الأطراف على تقديم نصوص سردية عبر حقل التعليقات العامة حول المنهجية ومصادر البيانات ودقتها في حال استخلاص التقديرات باستخدام بيانات وطنية. وسيكون من المفيد أيضًا تقديم تقارير عن الحالات الخاصة، مع بيان أي انحراف عن المنهجية الافتراضية وتوضيح مبررات اعتماد منهجية مختلفة."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:91
@@ -413,15 +329,11 @@ msgid ""
 "marked as “In Review” and then saved. Once the UNCCD has completed its "
 "review and all comments have been resolved, the form can be marked as "
 "“Finalized” and then Saved."
-msgstr ""
-"بمجرد استكمال الاستمارة والتحقق منها من قبل الأطراف، ينبغي وضع علامة \"قيد "
-"المراجعة\" ثم حفظها. وحالما تستكمل اتفاقية الأمم المتحدة لمكافحة التصحر "
-"استعراضها ويتم البت في جميع التعليقات، يمكن وضع علامة \"قيد الاستعراض\" على "
-"الاستمارة ثم حفظها."
+msgstr "بمجرد اكتمال النموذج والتحقق منه من قِبل الأطراف، ينبغي وضع علامة عليه كـ \"قيد المراجعة\" ثم حفظه. وبمجرد استكمال اتفاقية الأمم المتحدة لمكافحة التصحُّر مراجعتها وحل جميع التعليقات، يمكن وضع علامة على النموذج كـ \"نهائي\" ثم حفظه."
 
 #: ../../SO2.md:95
 msgid "2.1.4. Dependencies"
-msgstr "2-1-4 التبعيات"
+msgstr "2.1.4. التبعيات والروابط"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:97
@@ -430,18 +342,15 @@ msgid ""
 "used in the calculation of one of the economic components in the Drought "
 "Vulnerability Index (DVI) for indicator SO 3-3. See chapter 3 of this manual"
 " for more information."
-msgstr ""
-"ليس للمؤشر SO 2-1 أي تبعيات من مؤشرات SO الأخرى، ولكن يمكن استخدامه في حساب "
-"أحد المكونات الاقتصادية في مؤشر الضعف في مواجهة الجفاف (DVI) للمؤشر SO 3-3. "
-"انظر الفصل 3 من هذا الدليل لمزيد من المعلومات."
+msgstr "لا يملك مؤشر الهدف الاستراتيجي 2-1 أي روابط اعتماد مباشر من الأهداف الاستراتيجية الأخرى، ولكنه قد يُستخدم في حساب أحد المكونات الاقتصادية ضمن مؤشر الهشاشة أمام الجفاف (DVI) للمؤشر 3-3. انظر الفصل الثالث من هذا الدليل لمزيد من المعلومات."
 
 #: ../../SO2.md:99
 msgid "2.1.5. Challenges"
-msgstr "2-1-5 التحديات"
+msgstr "2.1.5. التحديات"
 
 #: ../../SO2.md:101
 msgid "Data availability and quality"
-msgstr "توافر البيانات ونوعيتها"
+msgstr "توفر البيانات وجودتها"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:103
@@ -450,19 +359,15 @@ msgid ""
 "population in a country and might not capture specific situations in need of"
 " consideration. More detailed sub-national data might be needed by Parties "
 "to represent the economic situation at the local level."
-msgstr ""
-"لا تصف البيانات العالمية الدولية إلا بشكل عام رفاهية السكان في بلد ما وقد لا"
-" تعكس أوضاعاً محددة تحتاج إلى النظر فيها. وقد تحتاج الأطراف إلى بيانات دون "
-"وطنية أكثر تفصيلاً من جانب الأطراف لتمثيل الوضع الاقتصادي على المستوى "
-"المحلي."
+msgstr "تقتصر البيانات الدولية العالمية على تقديم وصف عام لرفاه السكان، وقد لا ترصد الحالات الخاصة التي تتطلب دراسة دقيقة. وقد تحتاج الأطراف إلى بيانات دون وطنية أكثر تفصيلًا لتمثيل الوضع الاقتصادي على المستوى المحلي."
 
 #: ../../SO2.md:105
 msgid "2.1.6. Summary (main actions)"
-msgstr "2-1-6 الموجز (الإجراءات الرئيسية)"
+msgstr "2.1.6. ملخص (الإجراءات الرئيسية)"
 
 #: ../../SO2.md:107
 msgid "Key actions for reporting on indicator SO 2-1 are as follows:"
-msgstr "الإجراءات الرئيسية للإبلاغ عن المؤشر SO 2-1 هي كما يلي:"
+msgstr "تتلخص الإجراءات الرئيسية لإعداد التقارير الخاصة بمؤشر الهدف الاستراتيجي 2-1 فيما يلي:"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:109
@@ -470,27 +375,20 @@ msgid ""
 "**Choose the most suitable metric**: Parties should choose the most suitable"
 " metric from the two available to represent the living standard of the "
 "population in monetary terms in their countries."
-msgstr ""
-"**اختر المقياس الأنسب**: يجب على الأطراف اختيار المقياس الأنسب من بين "
-"المقياسين المتاحين لتمثيل مستوى معيشة السكان من الناحية النقدية في بلدانهم."
+msgstr "اختيار المقياس الأكثر ملاءمة: يجب على الأطراف اختيار المقياس الأكثر ملاءمة من الخيارين المتاحين لتمثيل المستوى المعيشي للسكان باللغة النقدية في بلدانها."
 
 #: ../../SO2.md:111
 msgid ""
 "**Identify the relevant dataset**: Parties may decide to use the default "
 "data or alternative national sources."
-msgstr ""
-"**تحديد مجموعة البيانات ذات الصلة**: بوسع الأطراف أن تقرر استخدام البيانات "
-"الافتراضية أو المصادر الوطنية البديلة."
+msgstr "**تحديد مجموعة البيانات ذات الصلة**: تملك الأطراف حرية استخدام البيانات الافتراضية أو مصادر وطنية بديلة."
 
 #: ../../SO2.md:113
 msgid ""
 "**Report national annual values of the chosen metric and interpret the "
 "data**: Parties are invited to report, visualize and interpret the national "
 "annual data."
-msgstr ""
-"**الإبلاغ عن القيم السنوية الوطنية للمقياس المختار وتفسير البيانات**: تكون "
-"الأطراف مدعوّة إلى الإبلاغ عن البيانات السنوية الوطنية ووضع تصور لها "
-"وتفسيرها."
+msgstr "**تقديم القيم السنوية الوطنية للمقياس المختار وتفسير البيانات**: تُدعى الأطراف إلى تقديم البيانات السنوية الوطنية وتمثيلها بيانية وتفسيرها."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:115
@@ -501,12 +399,7 @@ msgid ""
 "qualitatively assess the reliability of the estimates. Default data on the "
 "Proportion of population below the international poverty line has already "
 "been validated by national authorities through the SDG process."
-msgstr ""
-"** التحقق من النتائج**: إذا استُخدم مؤشر جيني أو البيانات الوطنية، بدلاً من "
-"البيانات الافتراضية المتعلقة بنسبة السكان تحت خط الفقر الدولي، فينبغي "
-"للأطراف التشاور مع الخبراء الوطنيين لإجراء تقييم نوعي لموثوقية التقديرات. "
-"وقد تم التحقق بالفعل من صحة البيانات الافتراضية عن نسبة السكان تحت خط الفقر "
-"الدولي من قبل السلطات الوطنية من خلال عملية أهداف التنمية المستدامة."
+msgstr "**التحقق من النتائج**: في حال استخدام مؤشر جيني أو بيانات وطنية بدلًا من البيانات الافتراضية لنسبة السكان تحت خط الفقر، يتوجب استشارة الخبراء الوطنيين للتقييم النوعي لموثوقية التقديرات. بينما جرت المصادقة على البيانات الافتراضية لنسبة الفقر سلفًا من السلطات الوطنية عبر مسار أهداف التنمية المستدامة."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:117 ../../SO2.md:226 ../../SO2.md:384
@@ -514,15 +407,12 @@ msgid ""
 "**Save form and make available for review**: Once verified by the Parties, "
 "the data and supporting narrative should be marked as “In Review” and saved "
 "thereby making it available for review by the UNCCD."
-msgstr ""
-"** حفظ النموذج وإتاحته للاستعراض**: بمجرد التحقق منها من قبل الأطراف، ينبغي "
-"وضع علامة \"قيد الاستعراض\" على البيانات والسرد الداعم لها وحفظها وبالتالي "
-"إتاحتها للاستعراض من قبل اتفاقية الأمم المتحدة لمكافحة التصحر."
+msgstr "**حفظ النموذج وإتاحته للمراجعة**: بعد تحقق الأطراف من البيانات والنصوص السردية الداعمة، يتم تعيين حالة النموذج إلى \"قيد المراجعة\" وحفظه ليكون متاحًا لمراجعة أمانة اتفاقية الأمم المتحدة لمكافحة التصحُّر."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:119
 msgid "2.1.7. Additional Resources"
-msgstr "2.1.7. الموارد الإضافية"
+msgstr "2.1.7. موارد إضافية"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:121
@@ -530,9 +420,7 @@ msgid ""
 "Limitations of the SDG Indicator 1.1.1 are discussed in section 4.b of the "
 "related metadata document ( "
 "<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)"
-msgstr ""
-"تتم مناقشة قيود المؤشر 1.1.1.1 في القسم 4.ب من وثيقة البيانات الوصفية ذات "
-"الصلة (<https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)"
+msgstr "تُناقش محددات مؤشر أهداف التنمية المستدامة 1.1.1 في القسم 4-ب من وثيقة البيانات الوصفية ذات الصلة ( <https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf>)"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:122
@@ -540,21 +428,16 @@ msgid ""
 "Limitations and exceptions in relation to the Gini index are discussed in "
 "this World Bank document "
 "(<https://databank.worldbank.org/metadataglossary/jobs/series/SI.POV.GINI>)"
-msgstr ""
-"تتم مناقشة القيود والاستثناءات فيما يتعلق بمؤشر جيني في وثيقة البنك الدولي "
-"هذه "
-"(<https://databank.worldbank.org/metadataglossary/jobs/series/SI.POV.GINI>)"
+msgstr "تُناقش المحددات والاستثناءات الخاصة بمؤشر جيني في وثيقة البنك الدولي هذه (<https://databank.worldbank.org/metadataglossary/jobs/series/SI.POV.GINI>)"
 
 #: ../../SO2.md:124
 msgid ""
 "2.2. SO 2-2 – Trends in access to safe drinking water in affected areas"
-msgstr ""
-"2-2 الهدف الاستراتيجي SO 2-2 - الاتجاهات في سُبل الحصول على مياه الشرب "
-"المأمونة في المناطق المُتضرِّرة"
+msgstr "2.2. الهدف الاستراتيجي 2-2 – الاتجاهات السائدة في الحصول على مياه الشرب الآمنة في المناطق المتأثرة"
 
 #: ../../SO2.md:126
 msgid "2.2.1. Introduction"
-msgstr "2-2-1 مقدمة"
+msgstr "2.2.1. مقدمة"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:128
@@ -563,11 +446,7 @@ msgid ""
 "health, family well-being and economic productivity. Accordingly, an "
 "increasing trend in access to safe drinking water would help improve the "
 "living conditions of affected populations."
-msgstr ""
-"إن الحصول على المياه هو أحد المحددات الرئيسية لبقاء الطفل وصحة الأم والطفل "
-"ورفاه الأسرة والإنتاجية الاقتصادية. وبناءً على ذلك، فإن الاتجاه المتزايد في "
-"الحصول على مياه الشرب المأمونة من شأنه أن يساعد في تحسين الظروف المعيشية "
-"للسكان المتضررين."
+msgstr "يُعد الحصول على المياه محدًا رئيسيًا لبقاء الأطفال على قيد الحياة، وصحة الأمهات والأطفال، ورفاه الأسرة المعيشية، والإنتاجية الاقتصادية. وبناءً عليه، فإن الاتجاه التصاعدي في الحصول على مياه الشرب الآمنة يسهم في تحسين الظروف المعيشية للسكان المتأثرين."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:130
@@ -576,10 +455,7 @@ msgid ""
 "population using improved drinking water services is determined. This is "
 "currently measured by the proportion of population using an improved basic "
 "drinking water source."
-msgstr ""
-"من أجل تحديد كمية مياه الشرب المدارة بأمان، يتم تحديد نسبة السكان الذين "
-"يستخدمون خدمات مياه الشرب المحسنة. ويقاس ذلك حالياً بنسبة السكان الذين "
-"يستخدمون مصدراً أساسياً محسناً لمياه الشرب."
+msgstr "ولقياس مياه الشرب المدارة بشكل آمن كميًا، يتم تحديد نسبة السكان الذين يستفيدون من خدمات مياه الشرب المحسنة. ويُقاس ذلك حاليًا بنسبة السكان الذين يستخدمون مصادر مياه الشرب الأساسية المحسنة."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:132
@@ -594,34 +470,22 @@ msgid ""
 "Joint Monitoring Programme (JMP) for Water, Sanitation and Hygiene (WASH), "
 "have produced regular estimates of national, regional and global progress on"
 " drinking water, sanitation and hygiene since 1990."
-msgstr ""
-"يتم تيسير إعداد التقارير الوطنية من خلال توفير بيانات افتراضية مملوءة مسبقًا"
-" من قاعدة بيانات أهداف التنمية المستدامة التابعة لإدارة الشؤون الاقتصادية "
-"والاجتماعية بالأمم المتحدة [^3]. نسبة السكان الذين يستخدمون خدمات مياه الشرب"
-" المدارة بأمان هي المؤشر 6.1.1 من مؤشرات أهداف التنمية المستدامة. والمؤشر "
-"مصنف حسب سكان الحضر والريف، ويتم التعبير عنه كنسبة مئوية. والوكالات الأمينة "
-"على هذا المؤشر هي منظمة الصحة العالمية ومنظمة الأمم المتحدة للطفولة "
-"(اليونيسيف) اللتان قامتا، من خلال برنامج الرصد المشترك للمياه والصرف الصحي "
-"والنظافة الصحية، بإعداد تقديرات منتظمة للتقدم المحرز على المستويات الوطنية "
-"والإقليمية والعالمية في مجال مياه الشرب والصرف الصحي والنظافة الصحية منذ عام"
-" 1990."
+msgstr "وتتيسر عملية تقديم التقارير الوطنية من خلال توفير بيانات افتراضية تعبأ مسبقًا من قاعدة بيانات أهداف التنمية المستدامة التابعة لإدارة الشؤون الاقتصادية والاجتماعية بالأمم المتحدة (UN-DESA). وتُعد نسبة السكان الذين يستفيدون من خدمات مياه الشرب المدارة بشكل آمن مؤشرًا من مؤشرات أهداف التنمية المستدامة (المؤشر 6.1.1). ويتم تفكيك هذا المؤشر حسب سكان الحضر والريف، ويُعبر عنه بنسبة مئوية. والجهات الراعية لهذا المؤشر هي منظمة الصحة العالمية (WHO) ومنظمة الأمم المتحدة للطفولة (UNICEF)، اللتان تنتجان عبر برنامج الرصد المشترك (JMP) لرموز المياه وإصحاح البيئة والنظافة العامة تقادير منتظمة عن التقدم الوطني والإقليمي والعالمي منذ عام 1990."
 
 #: ../../SO2.md:136
 msgid "2.2.2. Prerequisites for reporting"
-msgstr "2-2-2 الشروط المسبقة للإبلاغ"
+msgstr "2.2.2. متطلبات إعداد التقارير"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:138
 msgid ""
 "An in-depth reading of the SDG indicator 6.1.1 metadata "
 "(<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>)."
-msgstr ""
-"قراءة متعمقة للمؤشر 6-1-1 البيانات الوصفية للمؤشر 6-1-1 "
-"(<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>)."
+msgstr "القراءة المتعمقة لوثيقة البيانات الوصفية لمؤشر التنمية المستدامة 6.1.1 (<https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf>)."
 
 #: ../../SO2.md:140
 msgid "Data complying with the specifications listed in table 16."
-msgstr "البيانات المستوفية للمواصفات الواردة في الجدول 16."
+msgstr "توفر بيانات تتوافق مع المواصفات المحددة في الجدول 16."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:142
@@ -632,16 +496,11 @@ msgid ""
 "sources for the indicator. Key institutions might include a country’s "
 "national statistical office, ministry of health and ministry of water "
 "resources, as well as universities and research centres."
-msgstr ""
-"مجموعة من الخبراء الوطنيين المعينين رسمياً من قبل السلطات الوطنية للتحقق من "
-"ملاءمة واتساق البيانات الافتراضية مع الوضع في بلدهم، أو لتحديد وتجميع "
-"البيانات باستخدام المصادر الوطنية للمؤشر. ويمكن أن تشمل المؤسسات الرئيسية "
-"المكتب الإحصائي الوطني لبلد ما ووزارة الصحة ووزارة الموارد المائية، وكذلك "
-"الجامعات ومراكز البحوث."
+msgstr "تشكيل فريق من الخبراء الوطنيين المعينين رسميًا من السلطات الوطنية للتحقق من ملاءمة واتساق البيانات الافتراضية مع الوضع في بلدهم، أو لتحديد وتجميع البيانات باستخدام المصادر الوطنية للمؤشر. وتشمل المؤسسات الرئيسية الجهاز الوطني للإحصاء، ووزارة الصحة، ووزارة الموارد المائية، بالإضافة إلى الجامعات ومراكز البحوث."
 
 #: ../../SO2.md:144
 msgid "2.2.3. Reporting process and step-by-step procedure"
-msgstr "2-2-3 عملية الإبلاغ والإجراءات التدريجية"
+msgstr "2.2.3. عملية تقديم التقارير والإجراءات الخطوة بخطوة"
 
 #: ../../SO2.md:148
 msgid "Step 1: Identify the relevant dataset"
@@ -654,26 +513,18 @@ msgid ""
 "indicator 6.1.1); estimates of the proportion of population using improved "
 "drinking water services are regularly produced by the WHO/UNICEF JMP. If "
 "used, this data does not require further validation by the Party."
-msgstr ""
-"البيانات الافتراضية لهذا المؤشر مملوءة مسبقاً من قاعدة بيانات أهداف التنمية "
-"المستدامة (المؤشر 6-1-1)؛ وتصدر تقديرات نسبة السكان الذين يستخدمون خدمات "
-"مياه الشرب المحسنة بانتظام عن برنامج الرصد المشترك بين منظمة الصحة العالمية "
-"واليونيسيف. ولا تتطلب هذه البيانات، في حالة استخدامها، مزيداً من التحقق من "
-"صحة هذه البيانات من قبل الطرف."
+msgstr "تُعبأ البيانات الافتراضية لهذا المؤشر مسبقًا من قاعدة بيانات أهداف التنمية المستدامة (المؤشر 6.1.1)؛ وتنتج تقديرات نسبة السكان الذين يستخدمون خدمات مياه الشرب المحسنة بانتظام من قِبل برنامج الرصد المشترك (WHO/UNICEF JMP). وفي حال استخدامها، لا تتطلب هذه البيانات تحققا إضافيًا من الطرف."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:152
 msgid ""
 "Parties may use national data instead, by clicking on the button above the "
 "table, provided it complies with the data specifications listed in table 16."
-msgstr ""
-"يمكن للأطراف استخدام البيانات الوطنية بدلاً من ذلك، من خلال النقر على الزر "
-"الموجود أعلى الجدول، شريطة أن تتوافق مع مواصفات البيانات المدرجة في الجدول "
-"16."
+msgstr "ويجوز للأطراف استخدام بيانات وطنية بدلًا من ذلك للنقر على الزر أعلى الجدول، بشرط توافقها مع مواصفات البيانات المحددة في الجدول 16."
 
 #: ../../SO2.md:157
 msgid "*__Table 16__. Data specifications for SO 2-2 Indicator*"
-msgstr "*__الجدول 16__. مواصفات البيانات للمؤشر SO 2-2*"
+msgstr "*__الجدول 16__. مواصفات البيانات لمؤشر الهدف الاستراتيجي 2-2"
 
 #: ../../SO2.md:165
 msgid "__Default data__"
@@ -683,9 +534,7 @@ msgstr "__البيانات الافتراضية__"
 msgid ""
 "(Sustainable Development Goal indicator 6.1.1 / World Health Organization / "
 "United Nations Children’s Fund Joint Monitoring Programme)"
-msgstr ""
-"(مؤشر هدف التنمية المستدامة 6-1-1 / منظمة الصحة العالمية / برنامج الرصد "
-"المشترك لصندوق الأمم المتحدة للطفولة)"
+msgstr "(مؤشر هدف التنمية المستدامة 6.1.1 / منظمة الصحة العالمية / البرنامج المشترك لرصد المياه والإصحاح التابع لمنظمة الصحة العالمية ومنظمة الأمم المتحدة للطفولة)"
 
 #: ../../SO2.md:169
 msgid "__Type of data__"
@@ -696,9 +545,7 @@ msgstr "__نوع البيانات__"
 msgid ""
 "Annual data on the total, urban and rural population using safely managed "
 "drinking water services (% of population) for the period 2000–2020."
-msgstr ""
-"البيانات السنوية عن مجموع سكان الحضر والريف الذين يستخدمون خدمات مياه الشرب "
-"المُدارة بأمان (% oنسبة مئوية من السكان) للفترة 2000-2020."
+msgstr "بيانات سنوية عن إجمالي وسكان الحضر والريف الذين يستفيدون من خدمات مياه الشرب المدارة بشكل آمن (% من السكان) للفترة 2000–2020."
 
 #: ../../SO2.md:171
 #, python-format
@@ -706,18 +553,15 @@ msgid ""
 "Annual data on the total, urban and rural population using safely managed "
 "drinking water services (% of population) for the period from 2000 to the "
 "latest available year for the reporting period."
-msgstr ""
-"البيانات السنوية عن مجموع سكان الحضر والريف الذين يستخدمون خدمات مياه الشرب "
-"المُدارة بأمان (% oنسبة مئوية من السكان) للفترة من 2000 إلى آخر سنة متاحة من"
-" فترة الإبلاغ."
+msgstr "بيانات سنوية عن إجمالي وسكان الحضر والريف الذين يستفيدون من خدمات مياه الشرب المدارة بشكل آمن (% من السكان) للفترة من عام 2000 إلى أحدث عام متاح من فترة التقرير."
 
 #: ../../SO2.md:180
 msgid "Step 2: Report national annual values and interpret the data"
-msgstr "الخطوة 2: الإبلاغ عن القيم السنوية الوطنية وتفسير البيانات"
+msgstr "الخطوة 2: تقديم القيم السنوية الوطنية وتفسير البيانات"
 
 #: ../../SO2.md:183
 msgid "Related areas in the PRAIS 4 platform: tables SO2-2.T1 and SO2-2.T2"
-msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: الجدولان SO2-2.T1 وSO2-2.T2"
+msgstr "الأجزاء ذات الصلة في منصة 4 PRAIS: الجداول SO2-2.T1 و SO2-2.T2"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:186
@@ -729,14 +573,7 @@ msgid ""
 "opens when “Edit Data Sources” is selected. Parties may also provide "
 "information on the dominant change in the metric using the “Qualitative "
 "Assessment” table SO2-2.T2."
-msgstr ""
-"يجوز للأطراف التي تختار استخدام مصدر بديل للبيانات الوطنية أن تدخل البيانات "
-"ذات الصلة في الجدول SO2-2.T1. ويمكنها القيام بذلك عن طريق النقر على زر "
-"\"البيانات الوطنية\" أعلى الجدول. وينبغي تقديم البيانات الوصفية الأساسية، "
-"على النحو المبين في المرفق الثاني، لمجموعات البيانات التي سيتم استخدامها في "
-"نموذج مصادر البيانات الذي يفتح عند اختيار \"تحرير مصادر البيانات\". ويمكن "
-"للأطراف أيضاً تقديم معلومات عن التغيير السائد في المقياس باستخدام جدول "
-"\"التقييم النوعي\" SO2-2.T2."
+msgstr "يجوز للأطراف التي تختار استخدام مصدر بديل للبيانات الوطنية إدخال البيانات ذات الصلة في الجدول SO2-2.T1 بالنقر على زر \"البيانات الوطنية\" أعلى الجدول. ويجب تقديم البيانات الوصفية الأساسية لمجموعات البيانات المستخدمة في نموذج مصادر البيانات الذي يظهر عند اختيار \"تعديل مصادر البيانات\". كما يمكن تقديم معلومات عن التغير السائد في المقياس باستخدام جدول \"التقييم النوعي\" SO2-2.T2."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:188
@@ -751,15 +588,7 @@ msgid ""
 "countries may indicate which direct and/or indirect drivers are presumably "
 "behind the observed changes and report this information in the Qualitative "
 "Assessment table."
-msgstr ""
-"للمساعدة في تفسير البيانات، تُشجَّع البلدان على عرض المؤشر 6-1-1-1 الخاص بكل"
-" منها عن طريق رسم بياني (الرسوم البيانية لكل بلد، والتي تمثل كل تصنيف، أي "
-"النسبة المئوية لسكان الريف، والنسبة المئوية لسكان الحضر، والنسبة المئوية "
-"لمجموع السكان، متاحة للعرض والتنزيل من مواقع برنامج الرصد المشترك والبنك "
-"الدولي وموقع عالمنا في البيانات)[^4]. في حين أنه قد يكون من الصعب عزو عوامل "
-"سببية محددة للتغييرات في المقاييس، يمكن للبلدان أن تشير إلى الدوافع المباشرة"
-" و/أو غير المباشرة التي يُفترض أنها وراء التغييرات المرصودة والإبلاغ عن هذه "
-"المعلومات في جدول التقييم النوعي."
+msgstr "وللمساعدة في تفسير البيانات، تُشجع الدول على تمثيل مؤشر التنمية المستدامة 6.1.1 الخاص بها بيانية (تتوفر المخططات الرسمية لكل دولة مفرزة حسب سكان الريف والحضر والتوتال للعرض والتحميل عبر مواقع JMP، والبنك الدولي، وموقع Our World in Data). ورغم صعوبة عزو عوامل سببية محددة للتغيرات، يمكن للدول تحديد المسببات المباشرة و/أو غير المباشرة المرجح وقوفها خلف التغيرات الملاحظة وإدراجها في جدول التقييم النوعي."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:192
@@ -772,11 +601,7 @@ msgid ""
 "If Parties use the default data provided, this has already been validated by"
 " national statistics offices through the SDG process, and synchronized with "
 "PRAIS. Therefore, it does not require additional verification."
-msgstr ""
-"إذا استخدمت الأطراف البيانات الافتراضية المقدمة، فقد تم التحقق من صحتها "
-"بالفعل من قبل مكاتب الإحصاء الوطنية من خلال عملية أهداف التنمية المستدامة، "
-"وتمت مزامنتها مع نظام استعراض الأداء وتقييم التنفيذ. ولذلك، فهي لا تتطلب "
-"تحققاً إضافياً."
+msgstr "في حال استخدام البيانات الافتراضية، فقد جرى التحقق منها سلفًا من المكاتب الوطنية للإحصاء عبر مسار أهداف التنمية المستدامة، ومزامنتها مع PRAIS. وبالتالي لا تتطلب مراجعة إضافية."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:196
@@ -787,13 +612,7 @@ msgid ""
 "identify where the most significant areas are located. Optionally, Parties "
 "may include additional information to describe specific country situations "
 "and provide more details on data interpretation."
-msgstr ""
-"ويمكن للأطراف استخدام بيانات مصنفة لحساب هذا المقياس (على سبيل المثال، حسب "
-"التقسيم الإداري، أو المناطق الحضرية مقابل المناطق الريفية، أو المناطق "
-"المتأثرة أو غيرها من الطبقات الاجتماعية والاقتصادية الأخرى، مثل البيانات "
-"المصنفة حسب الجنس) حيث قد يكون من المفيد تحديد المناطق الأكثر أهمية. ويمكن "
-"للأطراف اختيارياً إدراج معلومات إضافية لوصف حالات قطرية محددة وتقديم المزيد "
-"من التفاصيل حول تفسير البيانات."
+msgstr "وقد تستخدم البيانات المفككة لحساب هذا المقياس (مثل التقسيم الإداري، الحضر مقابل الريف، المناطق المتأثرة، أو الفئات الاجتماعية والاقتصادية) لتحديد المناطق الأكثر أهمية. واختياريًا، يمكن تضمين معلومات إضافية لوصف أوضاع وطنية محددة وتوفير تفاصيل أكثر عن التفسير."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:198
@@ -805,13 +624,7 @@ msgid ""
 "Parties are encouraged to submit narratives in the Comments field associated"
 " with table SO2-2.T1 on the methodology, data sources and data accuracy in "
 "the event that the estimates are derived from national data."
-msgstr ""
-"إذا قامت الأطراف بإدخال بياناتها الوطنية الخاصة بها، فإن موثوقيتها تتطلب "
-"مدخلات من الخبراء الوطنيين للكشف عن الحالات التي قد يكون فيها مستوى الثقة في"
-" النتائج التي تم الحصول عليها منخفضاً وإبرازها. ومن شأن هذه المدخلات أن تسهم"
-" في إجراء تقييم نوعي لموثوقية التقديرات. وتشجَّع الأطراف على تقديم سرد في "
-"خانة التعليقات المرتبطة بالجدول SO2-2.T1 بشأن المنهجية ومصادر البيانات ودقة "
-"البيانات في حالة استخلاص التقديرات من البيانات الوطنية."
+msgstr "في حال قيام الأطراف بإدخال بياناتها الوطنية، فإن التحقق من موثوقية هذه البيانات يتطلب الاستعانة بخبراء وطنيين لتحديد الحالات التي قد يكون فيها مستوى الثقة في النتائج المحصلة منخفضًا وتسليط الضوء عليها؛ إذ تساهم هذه المدخلات في إجراء تقييم نوعي لموثوقية التقديرات. كما يُشجَّع الأطراف على تقديم شروحات تفصيلية في حقل \"التعليقات\" المرتبط بالجدول SO2-2.T1، تتناول المنهجية ومصادر البيانات ودقتها، وذلك في الحالات التي تكون فيها التقديرات مستمدة من بيانات وطنية."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:200
@@ -820,10 +633,7 @@ msgid ""
 "describing any deviation from the default method and providing the rationale"
 " for the adoption of a different methodology. Such information can be "
 "entered in the General Comments field."
-msgstr ""
-"سيكون من المفيد أيضًا الإبلاغ عن الحالات والمشكلات الخاصة، ووصف أي انحراف عن"
-" الطريقة الافتراضية وتقديم الأساس المنطقي لاعتماد منهجية مختلفة. ويمكن إدخال"
-" هذه المعلومات في حقل التعليقات العامة."
+msgstr "من المفيد أيضًا تقديم تقارير حول الحالات والمسائل الخاصة، مع وصف أي انحراف عن الطريقة المعتادة وتوضيح المبررات لاعتماد منهجية مختلفة؛ ويمكن إدراج هذه المعلومات في حقل \"التعليقات العامة\"."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:202
@@ -832,7 +642,7 @@ msgstr "الخطوة 4: حفظ النموذج وإتاحته للمراجعة"
 
 #: ../../SO2.md:206
 msgid "2.2.4. Dependencies"
-msgstr "2-2-4 التبعيات"
+msgstr "2.2.4. التبعيات والروابط"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:208
@@ -841,19 +651,16 @@ msgid ""
 "used, as one of the infrastructural components, in the calculation of the "
 "Drought Vulnerability Index (DVI) for indicator SO 3-3. See chapter 3 of "
 "this manual for more information."
-msgstr ""
-"ليس لمؤشر الهدف الاستراتيجي 2-2 أي تبعيات من مؤشرات الأهداف الأخرى. ومع ذلك،"
-" يمكن استخدامه، كأحد مكونات البنية التحتية، في حساب مؤشر ضعف الجفاف (DVI) "
-"للمؤشر SO 3-3. انظر الفصل 3 من هذا الدليل لمزيد من المعلومات."
+msgstr "لا يملك المؤشر 2-2 أي روابط اعتماد مباشر من الأهداف الاستراتيجية الأخرى، ولكنه قد يُستخدم كمكون من مكونات البنية التحتية في حساب مؤشر الهشاشة أمام الجفاف (DVI) للمؤشر 3-3. انظر الفصل الثالث لمزيد من التفاصيل."
 
 #: ../../SO2.md:210
 msgid "2.2.5. Challenges"
-msgstr "2-2-5 التحديات"
+msgstr "2.2.5. التحديات"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:212 ../../SO2.md:359
 msgid "Default data availability and quality"
-msgstr "توافر البيانات الافتراضية وجودتها"
+msgstr "توفر البيانات الافتراضية وجودتها"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:214
@@ -863,37 +670,28 @@ msgid ""
 "population estimates. While national figures may use recent data points, JMP"
 " applies regression analysis using all available data as well as UN "
 "population estimates and projections."
-msgstr ""
-"تستند تقديرات برنامج الرصد المشترك إلى البيانات الوطنية الرسمية، ولكن قد "
-"تحدث اختلافات عن الأرقام الوطنية بسبب الاختلافات في التعاريف والأساليب "
-"والتقديرات السكانية. في حين أن الأرقام الوطنية قد تستخدم نقاط بيانات حديثة، "
-"يطبق برنامج الرصد المشترك تحليل الانحدار باستخدام جميع البيانات المتاحة "
-"بالإضافة إلى تقديرات وإسقاطات الأمم المتحدة للسكان."
+msgstr "تستند تقديرات برنامج JMP إلى بيانات وطنية رسمية، ولكن قد تظهر فروق عن الأرقام الوطنية بسبب الاختلافات في التعاريف والأساليب وتقديرات السكان. وبينما قد تستخدم الأرقام الوطنية نقاط بيانات حديثة، يطبق برنامج JMP تحليل الانحدار باستخدام كافة البيانات المتاحة وتقديرات وإسقاطات الأمم المتحدة للسكان."
 
 #: ../../SO2.md:216
 msgid "2.2.6. Summary (main actions)"
-msgstr "2-2-6 الموجز (الإجراءات الرئيسية)"
+msgstr "2.2.6. ملخص (الإجراءات الرئيسية)"
 
 #: ../../SO2.md:218
 msgid "Key actions for reporting on indicator SO 2-2 are as follows:"
-msgstr "الإجراءات الرئيسية للإبلاغ عن المؤشر SO 2-2 هي كما يلي:"
+msgstr "تتلخص الإجراءات الرئيسية لإعداد التقارير الخاصة بالمؤشر 2-2 فيما يلي:"
 
 #: ../../SO2.md:220
 msgid ""
 "**Identify the relevant dataset**: Parties may decide to use the recommended"
 " default international data or alternative national sources."
-msgstr ""
-"**تحديد مجموعة البيانات ذات الصلة**: بوسع الأطراف أن تقرر استخدام البيانات "
-"الافتراضية المُوصَى بها أو المصادر الوطنية البديلة."
+msgstr "**تحديد مجموعة البيانات ذات الصلة**: تملك الأطراف خيار استخدام البيانات الدولية الافتراضية الموصى بها أو مصادر وطنية بديلة."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:222
 msgid ""
 "**Report national annual values and interpret the data**: Parties are "
 "invited to report, visualize and interpret any national data used."
-msgstr ""
-"** الإبلاغ عن القيم السنوية الوطنية وتفسير البيانات**: الأطراف مدعوة إلى "
-"الإبلاغ عن أي بيانات وطنية مستخدمة وتصورها وتفسيرها."
+msgstr "**تقديم القيم السنوية الوطنية وتفسير البيانات**: تُدعى الأطراف إلى تقديم البيانات الوطنية المستخدمة وتمثيلها بيانية وتفسيرها."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:224
@@ -904,26 +702,18 @@ msgid ""
 "verification by Parties. However, the use of alternative (non-default) "
 "national data sources requires input from national experts to qualitatively "
 "assess the reliability of the estimates based on expert knowledge."
-msgstr ""
-"**تحقق من صحة النتائج**: إذا تم استخدام البيانات الافتراضية فقد تم التحقق من"
-" صحتها بالفعل من قبل مكتب الإحصاء الوطني من خلال عملية SDG، وتمت مزامنتها مع"
-" نظام استعراض الأداء وتقييم التنفيذ. لذلك، فهي لا تتطلب تحققًا إضافيًا من "
-"قبل الأطراف. ومع ذلك، فإن استخدام مصادر بيانات وطنية بديلة (غير افتراضية) "
-"يتطلب مدخلات من الخبراء الوطنيين لتقييم موثوقية التقديرات نوعياً استناداً "
-"إلى معرفة الخبراء."
+msgstr "**التحقق من النتائج**: في حال استخدام البيانات الافتراضية، تكون هذه البيانات قد خضعت بالفعل للتحقق من قِبَل المكتب الوطني للإحصاء من خلال عملية أهداف التنمية المستدامة (SDG)، وجرت مواءمتها مع نظام PRAIS؛ ولذلك، فهي لا تتطلب تحققًا إضافيًا من قِبَل الأطراف. ومع ذلك، فإن استخدام مصادر بيانات وطنية بديلة (غير افتراضية) يتطلب الاستعانة بخبراء وطنيين لتقييم موثوقية التقديرات نوعيًا استنادًا إلى المعرفة والخبرة الفنية."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:228
 msgid ""
 "2.3. SO 2-3 – Trends in the Proportion of Population Exposed to Land "
 "Degradation Disaggregated by Sex"
-msgstr ""
-"2.3. SO 2-3 - الاتجاهات في نسبة السكان المعرضين لتدهور الأراضي مصنفة حسب نوع"
-" الجنس"
+msgstr "2.3. الهدف الاستراتيجي 2-3 – الاتجاهات السائدة في نسبة السكان المعرضين لتدهور الأراضي موزعة حسب الجنس"
 
 #: ../../SO2.md:230
 msgid "2.3.1. Introduction"
-msgstr "2-3-1 مقدمة"
+msgstr "2.3.1. مقدمة"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:232
@@ -932,11 +722,7 @@ msgid ""
 "the reporting process for SO 1 to 5 with gender-responsive indicators and "
 "guidelines and ensure that the gender dimensions of land degradation are "
 "captured."
-msgstr ""
-"تم تطوير المؤشر SO 2-3 استجابةً للمقرر 11/م أ-14 لمواءمة عملية الإبلاغ عن "
-"المؤشرات والمبادئ التوجيهية الخاصة بالهدف الاستراتيجي 1 إلى 5 مع المؤشرات "
-"والمبادئ التوجيهية المراعية للمنظور الجنساني وضمان استيعاب الأبعاد الجنسانية"
-" لتدهور الأراضي."
+msgstr "طُوِّر المؤشر 2-3 استجابة للقرار 11/COP.14 لمواءمة عملية إعداد التقارير للأهداف الاستراتيجية من 1 إلى 5 مع المؤشرات والإرشادات الميراعية للفروق بين الجنسين، ولضمان رصد الأبعاد الجنسانية لتدهور الأراضي."
 
 #: ../../SO2.md:234
 msgid ""
@@ -946,36 +732,28 @@ msgid ""
 "The methodology uses the spatial distribution of the population or sub-"
 "population group (i.e., by sex) to establish its exposure to land "
 "degradation, as determined by indicator SO 1-4 (i.e., SDG Indicator 15.3.1)."
-msgstr ""
-"يُقدِر المؤشر نسبة السكان المعرَّضين لتدهور الأراضي، مصنَّفة حسب نوع الجنس، "
-"كخطوة أولى نحو معالجة الفجوة في البيانات القائمة على النوع الاجتماعي عن "
-"تدهور الأراضي في إطار الإبلاغ الخاص باتفاقية الأمم المتحدة لمكافحة التصحر. "
-"وتستخدم المنهجية التوزيع المكاني للسكان أو المجموعة السكانية الفرعية (أي حسب"
-" نوع الجنس) لإثبات تعرُّضها لتدهور الأراضي، على النحو المحدَّد بالمؤشر SO "
-"1-4 (أي مؤشر هدف التنمية المستدامة 15-3-1)."
+msgstr "ويقدر المؤشر نسبة السكان المعرضين لتدهور الأراضي، موزعة حسب الجنس، كخطوة أولى نحو معالجة الفجوة في البيانات الجنسانية المتعلقة بتدهور الأراضي ضمن إطار تقارير الاتفاقية. وتعتمد المنهجية على التوزيع المكاني للسكان أو المجموعات السكانية الفرعية (أي حسب الجنس) لتحديد مدى تعرُّضهم لتدهور الأراضي الممتد عبر مؤشر الهدف الاستراتيجي 1-4 (مؤشر هدف التنمية المستدامة 15.3.1)."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:236
 msgid ""
 "The indicator _trends in the proportion of population exposed to land "
 "degradation, disaggregated by sex, uses the following three metrics:"
-msgstr ""
-"يستخدم المؤشر _الاتجاهات في نسبة السكان المعرضين لتدهور الأراضي، مصنفة حسب "
-"الجنس، المقاييس الثلاثة التالية:"
+msgstr "ويعتمد مؤشر _الاتجاهات السائدة في نسبة السكان المعرضين لتدهور الأراضي، موزعة حسب الجنس على المقاييس الثلاثة التالية:"
 
 #: ../../SO2.md:238
 msgid "Percentage of the female population exposed to land degradation"
-msgstr "النسبة المئوية للسكان الإناث المعرَّضات لتدهور الأراضي"
+msgstr "النسبة المئوية للإناث المعرضات لتدهور الأراضي"
 
 #: ../../SO2.md:240
 msgid "Percentage of the male population exposed to land degradation"
-msgstr "النسبة المئوية للسكان الذكور المعرَّضين لتدهور الأراضي"
+msgstr "النسبة المئوية للذكور المعرضين لتدهور الأراضي"
 
 #: ../../SO2.md:242
 msgid ""
 "Percentage of the total (female and male) population exposed to land "
 "degradation"
-msgstr "النسبة المئوية للسكان (الذكور والإناث) المعرَّضين لتدهور الأراضي"
+msgstr "النسبة المئوية لإجمالي السكان (إناث وذكور) المعرضين لتدهور الأراضي"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:244
@@ -985,15 +763,11 @@ msgid ""
 "demographics and dynamics and the default indicator SO 1-4 estimates. "
 "Therefore, indicator SO1-4 needs to be completed first before addressing "
 "this indicator."
-msgstr ""
-"يتم تيسير إعداد التقارير الوطنية من خلال توفير البيانات الافتراضية المستمدة "
-"من مجموعة بيانات WorldPop العالمية حول التوزيعات السكانية والتركيبة السكانية"
-" والديناميكيات والمؤشر الافتراضي SO 1-4 التقديرات. لذلك، يجب استكمال المؤشر "
-"SO1-4 أولاً قبل معالجة هذا المؤشر."
+msgstr "وتتيسر عملية تقديم التقارير الوطنية من خلال توفير بيانات افتراضية مشتقة من قاعدة بيانات WorldPop العالمية الخاصة بتوزيع السكان والديموغرافيا والديناميكيات، إلى جانب تقديرات مؤشر الهدف الاستراتيجي 1-4 الافتراضي. وبناءً عليه، يتوجب استكمال التقرير الخاص بالمؤشر 1-4 أولًا قبل البدء بهذا المؤشر."
 
 #: ../../SO2.md:246
 msgid "2.3.2. Prerequisites for reporting"
-msgstr "2-3-2 الشروط المسبقة للإبلاغ"
+msgstr "2.3.2. متطلبات إعداد التقارير"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:248
@@ -1002,19 +776,16 @@ msgid ""
 "exposure to land degradation (SO2-3) "
 "(<https://www.unccd.int/sites/default/files/inline-"
 "files/MethodologicalNote_PopExposureToLD.pdf>)."
-msgstr ""
-"قراءة متعمقة للمذكرة المنهجية حول اتجاهات تعرض السكان لتدهور الأراضي (SO2-3)"
-" (<https://www.unccd.int/sites/default/files/inline-"
-"files/MethodologicalNote_PopExposureToLD.pdf>)."
+msgstr "القراءة المتعمقة للمذكرة المنهجية حول الاتجاهات السائدة في تعرُّض السكان لتدهور الأراضي (الهدف الاستراتيجي 2-3) (<https://www.unccd.int/sites/default/files/inline-files/MethodologicalNote_PopExposureToLD.pdf>)؛"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:250
 msgid "Completion of reporting on indicator SO 1-4."
-msgstr "استكمال إعداد التقارير عن المؤشر SO 1-4."
+msgstr "استكمال تقديم التقارير الخاصة بمؤشر الهدف الاستراتيجي 1-4؛"
 
 #: ../../SO2.md:252
 msgid "Population data complying with the specifications listed in table 17."
-msgstr "بيانات السكان المستوفية للمواصفات الواردة في الجدول 17."
+msgstr "توفر بيانات سكانية تتوافق مع المواصفات المحددة في الجدول 17؛"
 
 #: ../../SO2.md:254
 msgid ""
@@ -1024,28 +795,21 @@ msgid ""
 "sources for the three metrics. Key institutions might include a country’s "
 "national statistical office, ministry of environment and ministry of "
 "agriculture, as well as universities and research centres."
-msgstr ""
-"مجموعة من الخبراء الوطنيين ترشحهم السلطات الوطنية رسمياً للتحقّق من ملاءمة "
-"البيانات الافتراضية واتساقها وفقاً للحالة في بلدهم، أو لتحديد البيانات "
-"وتجميعها باستخدام المصادر الوطنية لأغراض المقاييس الثلاثة. وقد تشمل المؤسسات"
-" الرئيسية المكتب الإحصائي الوطني في البلاد، ووزارة البيئة ووزارة الزراعة، "
-"فضلاً عن الجامعات ومراكز البحوث."
+msgstr "تشكيل فريق من الخبراء الوطنيين المعينين رسميًا من السلطات الوطنية للتحقق من ملاءمة واتساق البيانات الافتراضية، أو لتحديد وتجميع البيانات باستخدام المصادر الوطنية للمقاييس الثلاثة. وتشمل المؤسسات الرئيسية الجهاز الوطني للإحصاء، ووزارة البيئة، ووزارة الزراعة، بالإضافة إلى الجامعات ومراكز البحوث."
 
 #: ../../SO2.md:256
 msgid "2.3.3. Reporting process and step-by-step procedure"
-msgstr "2-3-3 عملية الإبلاغ والإجراءات التدريجية"
+msgstr "2-3-3. عملية تقديم التقارير والإجراءات الخطوة بخطوة"
 
 #: ../../SO2.md:258
 msgid ""
 "The step-by-step procedure for reporting is described in the following. If "
 "Parties decide to use the default data, steps 2 and 3 are unnecessary."
-msgstr ""
-"يرد في ما يلي وصف للإجراءات التدريجية للإبلاغ. فإذا قررت الأطراف استخدام "
-"البيانات الافتراضية، تكون الخطوتان 2 و3 غير ضرورتين."
+msgstr "تتمثل الإجراءات المتبعة لتقديم التقارير خطوة بخطوة فيما يلي. وإذا قررت الأطراف استخدام البيانات الافتراضية، فلا داعي للخطوتين 2 و3."
 
 #: ../../SO2.md:260
 msgid "Step 1: Select the population dataset"
-msgstr "الخطوة 1: اختيار مجموعة بيانات السكان"
+msgstr "الخطوة 1: اختيار مجموعة البيانات السكانية"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:262
@@ -1059,15 +823,7 @@ msgid ""
 "per grid cell and be representative of the time period in question (i.e., "
 "the date timestamp should be at least one of the years within the baseline "
 "and reporting periods)."
-msgstr ""
-"يجب أن تغطي مجموعة البيانات التي سيتم اختيارها النطاق الكامل للبلد. الشكل "
-"المطلوب هو تعداد شبكي للسكان. إذا كانت البيانات الأولية بصيغة أخرى (على سبيل"
-" المثال مجموعة بيانات متجهة ذات مرجعية جغرافية توفر تعداد السكان على مستوى "
-"المنطقة الإدارية)، فيجب إعادة تنسيقها خارج نظام استعراض الأداء وتقييم "
-"التنفيذ إلى مجموعة بيانات شبكية. يجب أن يكون المنتج النهائي مفصلاً حسب الجنس"
-" وأن يمثل عدد الأفراد الذكور والإناث لكل خلية شبكية وأن يكون ممثلاً للفترة "
-"الزمنية المعنية (أي أن يكون الطابع الزمني للتاريخ يجب أن يكون على الأقل سنة "
-"واحدة من السنوات ضمن خط الأساس وفترات الإبلاغ)."
+msgstr "ينبغي أن تغطي مجموعة البيانات المجهزة النطاق الجغرافي الكامل للبلد. وتتمثل الصيغة المطلوبة في تعداد شبكي للسكان البشريين (gridded count). وإذا كانت البيانات الأولية بصيغة أخرى (مثل بيانات متجهات معرفة جغرافيًا توفِّر أعداد السكان على مستوى المناطق الإدارية)، فسيلزم إعادة تهيئتها خارج منصة PRAIS لتتحول إلى شبكة بيانات. ويجب أن تكون المخرجات النهائية موزعة حسب الجنس، وتمثل عدد الذكور والإناث في كل خلية شبكية، وأن تكون ممثلة للفترة الزمنية المعنية (أي أن يكون الخاتم الزمني مساويًا لسنة واحدة على الأقل ضمن فترات خط الأساس والتقرير)."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:264
@@ -1088,36 +844,18 @@ msgid ""
 "exploration of the dataset. If these datasets are deemed appropriate, "
 "Parties can upload them to Trends.Earth, calculate the respective indicator "
 "data and import the results to PRAIS 4 to replace the default data."
-msgstr ""
-"من بين مجموعات البيانات السكانية العالمية المتاحة للجمهور، تستخدم اتفاقية "
-"الأمم المتحدة لمكافحة التصحر مجموعة بيانات WorldPop بشكل افتراضي لحساب "
-"المؤشر SO2-3 وتقدمها للأطراف في Trends.Earth. وينبغي أن تلاحظ الأطراف أن "
-"مجموعة بيانات WorldPop للفترة 2000-2020 لم يتم تحديثها، وبالتالي فإن السنوات"
-" الثلاث الأخيرة (2021 و2022 و2023) تكرر قيم عام 2020. تجدر الإشارة أيضًا إلى"
-" أنه على الرغم من أن كلية الجغرافيا والعلوم البيئية في جامعة ساوثهامبتون "
-"(المملكة المتحدة) قد أصدرت مؤخرًا مجموعة بيانات ديموغرافية عالمية جديدة "
-"للفترة 2015-2030، إلا أنها نُشرت بعد إطلاق عملية إعداد التقارير لعام 2026، "
-"وبالتالي لم يكن من الممكن دمجها في مجموعات البيانات الافتراضية المقدمة "
-"للأطراف.  ومع ذلك، يمكن للأطراف تنزيل مجموعات البيانات الجديدة المصنفة حسب "
-"الجنس مباشرة من هنا: <https://hub.worldpop.org/project/categories?id=8>. "
-"يسمح [تطبيق GEE من طرف ثالث] (https://sat-io.earthengine.app/view/worldpop) "
-"باستكشاف شامل لمجموعة البيانات. إذا اعتُبرت مجموعات البيانات هذه مناسبة، "
-"يمكن للأطراف تحميلها على Trends.Earth، وحساب بيانات المؤشرات ذات الصلة "
-"واستيراد النتائج إلى نظام استعراض الأداء وتقييم التنفيذ 4 لاستبدال البيانات "
-"الافتراضية."
+msgstr "ومن بين مجموعات البيانات السكانية العالمية المتاحة للعموم، تعتمد الاتفاقية بيانات WorldPop افتراضيًا لحساب المؤشر 2-3 وتوفيرها للأطراف في Trends.Earth. وينبغي للأطراف ملاحظة أن مجموعة بيانات WorldPop للفترة 2000-2020 لم يتم تحديثها، وبالتالي فإن السنوات الثلاث الأخيرة (2021 و2022 و2023) تكرر قيم عام 2020. كما يشار إلى أن مدرسة الجغرافيا وعلوم البيئة بجامعة ساوثهامبتون (المملكة المتحدة) قد أصدرت حديثًا مجموعة بيانات ديموغرافية عالمية جديدة للفترة 2015–2030، ولكن نشرها تم بعد إطلاق دورة تقارير 2026، ولذا تعذر دمجها ضمن البيانات الافتراضية. ومع ذلك، يمكن للأطراف تنزيل المجموعات الجديدة الموزَّعة حسب الجنس مباشرة من هنا: <https://hub.worldpop.org/project/categories?id=8>. يتيح [تطبيق GEE من طرف ثالث](https://sat-io.earthengine.app/view/worldpop) استكشافًا شاملًا لمجموعة البيانات. وفي حال اعتُبرت مجموعات البيانات هذه مناسبة، يمكن للأطراف تحميلها على منصة Trends.Earth، وحساب بيانات المؤشرات المعنية، واستيراد النتائج إلى نظام PRAIS 4 لاستبدال البيانات الافتراضية."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:266
 msgid ""
 "Parties may also use alternative global population data sets or national "
 "data, provided they comply with the data specifications listed in table 17."
-msgstr ""
-"ويجوز للأطراف أيضاً استخدام مجموعات بيانات سكانية عالمية بديلة أو بيانات "
-"وطنية شريطة أن تتوافق مع مواصفات البيانات المدرجة في الجدول 17."
+msgstr "كما يجوز للأطراف استخدام مجموعات بيانات سكانية عالمية بديلة أو بيانات وطنية، بشرط توافقها مع مواصفات البيانات المحددة في الجدول 17."
 
 #: ../../SO2.md:272
 msgid "*__Table 17__. Data specifications for SO 2-3 Indicator*"
-msgstr "*__الجدول 17__. مواصفات البيانات للمؤشر SO 2-3*"
+msgstr "*__الجدول 17__. مواصفات البيانات لمؤشر الهدف الاستراتيجي 2-3*"
 
 #: ../../SO2.md:279
 msgid "Default data"
@@ -1132,9 +870,7 @@ msgstr "البيانات الوطنية"
 msgid ""
 "__Input data__  (Data needed to estimate the population exposed to land "
 "degradation)"
-msgstr ""
-"__ بيانات المدخلات__ (البيانات اللازمة لتقدير عدد السكان المعرضين لتدهور "
-"الأراضي)"
+msgstr "__البيانات المدخلة__ (البيانات المطلوبة لتقدير السكان المعرضين لتدهور الأراضي)"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:283
@@ -1143,18 +879,13 @@ msgid ""
 "latest available year of the reporting period (2023) – (with the 2020 data "
 "duplicated for 2023 due to the lack of updated WorldPop population data "
 "post-2020)."
-msgstr ""
-"بيانات WorldPop مصنفة حسب الجنس لسنة الأساس (2015) وآخر سنة متاحة من الفترة "
-"المشمولة بالتقرير (2023) - (مع تكرار بيانات 2020 لعام 2023 بسبب عدم وجود "
-"بيانات محدثة عن سكان العالم بعد عام 2020)."
+msgstr "بيانات WorldPop موزعة حسب الجنس لسنة خط الأساس (2015) وأحدث عام متاح من فترة التقرير (2023) – (مع تكرار بيانات 2020 لعام 2023 لعدم توفِّر بيانات محدثة لـ WorldPop بعد 2020)."
 
 #: ../../SO2.md:285 ../../SO2.md:288
 msgid ""
 "Gridded data on land degradation as determined by indicator SO 1-4 for the "
 "baseline and reporting periods."
-msgstr ""
-"البيانات الشبكية عن تدهور الأراضي على النحو المُحدَّد في المؤشر SO 1-4 "
-"لفترتَي خط الأساس والإبلاغ."
+msgstr "بيانات شبكية عن تدهور الأراضي المحددة بموجب المؤشر 1-4 لفترات خط الأساس والتقرير."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:286
@@ -1162,43 +893,36 @@ msgid ""
 "Gridded population products derived from national official statistics, "
 "disaggregated by sex for the baseline year (ideally the year 2015) and the "
 "latest available year of the reporting period (e.g., 2023)."
-msgstr ""
-"المنتجات السكانية الشبكية المستمدة من الإحصاءات الرسمية الوطنية، مصنفة حسب "
-"الجنس لسنة الأساس (من الناحية المثالية عام 2015) وآخر سنة متاحة من الفترة "
-"المشمولة بالتقرير (على سبيل المثال، 2023)."
+msgstr "مخرجات بيانات سكانية شبكية مشتقة من الإحصاءات الرسمية الوطنية، موزعة حسب الجنس لسنة خط الأساس (يفضل عام 2015) وأحدث عام متاح من فترة التقرير (مثل 2023)."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:289
 msgid ""
 "__Output data__  (Gridded products resulting from the analysis of the three "
 "metrics)"
-msgstr "__بيانات المخرجات ___ (نواتج شبكية ناتجة عن تحليل المقاييس الثلاثة)"
+msgstr "__البيانات المخرجة__ (منتجات شبكية ناتجة عن تحليل المقاييس الثلاثة)"
 
 #: ../../SO2.md:291 ../../SO2.md:292
 msgid ""
 "Gridded products of the female, male and total population exposed to land "
 "degradation in the baseline and reporting periods."
-msgstr ""
-"المنتجات الشبكية للسكان الذكور والإناث ومجموع السكان المعرَّضين لتدهور "
-"الأراضي في فترتَي خط الأساس والإبلاغ."
+msgstr "منتجات شبكية لإجمالي الإناث والذكور والسكان المعرضين لتدهور الأراضي في فترتي خط الأساس والتقرير."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:294
 msgid ""
 "WorldPop data: 3-arc seconds (~100 m)  Land degradation data: 250 m  Output "
 "data: 250 m"
-msgstr ""
-"بيانات WorldPop: 3 ثوانٍ قوسية (حوالي 100 م) بيانات تدهور الأرض: 250 م "
-"بيانات الإخراج: 250 m"
+msgstr "بيانات WorldPop: 3 ثوان قوسية (~100 متر) بيانات تدهور الأراضي: 250 مترًا البيانات المخرجة: 250 مترًا"
 
 #: ../../SO2.md:297
 msgid "Assessed by national authorities based on available data."
-msgstr "مقيَّمة من قبل السلطات الوطنية استناداً إلى البيانات المتاحة."
+msgstr "وفقًا لتقييم السلطات الوطنية بناءً على البيانات المتاحة."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:303
 msgid "Step 2: Standardize the selected datasets"
-msgstr "الخطوة 2: توحيد مجموعات البيانات المختارة"
+msgstr "الخطوة 2: توحيد ومعايرة مجموعات البيانات المختارة"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:305
@@ -1213,16 +937,7 @@ msgid ""
 "assess them in terms of geographical projection and spatial resolution and "
 "standardize them through a resampling process in order to combine them in "
 "the analysis of population exposure to land degradation."
-msgstr ""
-"يجب مواءمة مجموعات بيانات السكان وتدهور الأراضي مع نفس حجم الخلية الشبكية. "
-"وعلى سبيل المثال، فإن مجموعة بيانات WorldPop ومجموعة البيانات الافتراضية "
-"لتدهور الأراضي SO 1-4 ذات الاستبانة 100 و250 متراً على التوالي، ويجب إعادة "
-"قياسها إلى حجم خلية شبكية موحدة. بالنسبة للبيانات الافتراضية، يتم تثبيت حجم "
-"خلية الشبكة للتحليل عند دقة 250 مترًا لمجموعة بيانات تدهور الأراضي التي "
-"أعيدت عينة البيانات السكانية إليها. وينبغي للبلدان التي تستخدم مجموعات "
-"بيانات عالمية أو وطنية بديلة تقييمها من حيث الإسقاط الجغرافي والاستبانة "
-"المكانية وتوحيدها من خلال عملية إعادة أخذ العينات من أجل دمجها في تحليل تعرض"
-" السكان لتدهور الأراضي."
+msgstr "يجب توحيد مجموعات بيانات السكان وتدهور الأراضي لتتوافق مع حجم موحد لخلايا الشبكة. فعلى سبيل المثال، تبلغ دقة مجموعة بيانات \"WorldPop\" ومجموعة البيانات الافتراضية لتدهور الأراضي (الهدف الاستراتيجي 1-4) 100 متر و250 مترًا على التوالي، ولذا ينبغي إعادة أخذ عينات منها لتتوافق مع حجم موحد لخلايا الشبكة. وفيما يتعلق بالبيانات الافتراضية، تم تحديد حجم خلية الشبكة للتحليل عند مستوى دقة 250 مترًا —وهو مستوى دقة مجموعة بيانات تدهور الأراضي— حيث تتم إعادة أخذ عينات بيانات السكان لتتوافق معه. أما البلدان التي تستخدم مجموعات بيانات بديلة (سواء كانت عالمية أو وطنية)، فيتعين عليها تقييم تلك البيانات من حيث الإسقاط الجغرافي والدقة المكانية، والعمل على توحيدها من خلال عملية إعادة أخذ العينات، وذلك لتمكين دمجها في تحليل مدى تعرُّض السكان لتدهور الأراضي."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:307
@@ -1233,26 +948,18 @@ msgid ""
 " number of people in each cell; a resampling method that ensures the "
 "integrity of the numerical data should be used, such as bilinear "
 "interpolation (avoid nearest neighbour techniques)."
-msgstr ""
-"يجب أن تأخذ عملية إعادة أخذ العينات، التي يجب إجراؤها في برنامج لتحليل "
-"البيانات المكانية خارج نظام تحليل البيانات المكانية PRAIS، في الاعتبار أنه "
-"بالنسبة لمجموعات البيانات التي تمثل تعداد السكان، فإن التغييرات في حجم "
-"الخلية تعني تغييرات في عدد الأشخاص في كل خلية؛ يجب استخدام طريقة إعادة أخذ "
-"العينات التي تضمن سلامة البيانات العددية، مثل الاستيفاء الثنائي الخط (تجنب "
-"تقنيات الجوار الأقرب)."
+msgstr "وينبغي أن تراعي عملية إعادة العينات (التي تجرى في برنامج تحليل بيانات مكانية خارج PRAIS) أن التغير في حجم الخلية لمجموعات البيانات الممثلة لأعداد السكان يعني تغيرًا في عدد الأفراد داخل كل خلية؛ لذا يتوجب استخدام طريقة تجديد العينات تضمن سلامة البيانات الرقمية، مثل الاستيفاء المزدوج الخطي (مع تجنب تقنيات الجار الأقرب)."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:309
 msgid ""
 "Step 3: Estimate the female, male and total population count and percentage "
 "of each population cohort exposed to land degradation"
-msgstr ""
-"الخطوة 3: تقدير عدد السكان من الإناث والذكور وإجمالي عدد السكان والنسبة "
-"المئوية لكل فئة سكانية معرضة لتدهور الأراضي"
+msgstr "الخطوة 3: تقدير أعداد الإناث والذكور وإجمالي السكان والنسب المئوية لكل فئة معرضة لتدهور الأراضي"
 
 #: ../../SO2.md:312
 msgid "Related areas in the PRAIS 4 platform: tables SO2-3.T1 and SO2-3.T2"
-msgstr "المناطق ذات الصلة في منصة نظام PRAIS 4: الجدولان SO2-3.T1 وSO2-3.T2"
+msgstr "الأجزاء ذات الصلة في منصة 4 PRAIS: الجداول SO2-3.T1 و SO2-3.T2"
 
 #: ../../SO2.md:315
 msgid ""
@@ -1262,12 +969,7 @@ msgid ""
 "and male population exposed to land degradation. The total population "
 "exposed to land degradation is obtained by combining the obtained female and"
 " male population values."
-msgstr ""
-"تتداخل شبكات السكان من الإناث والذكور لفترتَي خط الأساس والإبلاغ مع شبكات "
-"تدهور الأراضي ذات الصلة. ثم يُجمَع بين قيم الخلايا التي تقع على الأراضي "
-"المتدهورة لاستخلاص السكان من الإناث والذكور المعرَّضين لتدهور الأراضي. "
-"ويُستمد مجموع السكان المعرَّضين لتدهور الأراضي عن طريق جمع القيم المُتحصَّل "
-"عليها من السكان الذكور والإناث."
+msgstr "تُتقاطع شبكات السكان من الإناث والذكور لفترتي خط الأساس والتقرير مع شبكات تدهور الأراضي المناظرة. وتُدمج قيم الخلايا الواقعة على أراض متدهورة لاستخلاص أعداد الإناث والذكور المعرضين للتدهور. ويتم الحصول على إجمالي السكان المعرضين بدمج القيم المحصلة للإناث والذكور."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:317
@@ -1284,17 +986,7 @@ msgid ""
 "reference years (i.e., 2015 for the baseline and 2023 for reporting period),"
 " it is recommended that the population grid closest to the above-mentioned "
 "years be used."
-msgstr ""
-"وينبغي إجراء هذا التحليل، الذي سيتم تنفيذه خارج منصة نظام استعراض الأداء "
-"وتقييم التنفيذ، على فترتين زمنيتين (أي خط الأساس وفترة الإبلاغ) من أجل قياس "
-"التغيرات بمرور الوقت ثم الإبلاغ عنها في الجدول SO2-3.T1. ومع ذلك، تجدر "
-"الإشارة إلى أن مجموعة البيانات المكانية لتدهور الأراضي (أي مخرجات SO1-4) "
-"تلتقط الاتجاهات الزمنية في المؤشرات الفرعية الثلاثة (الغطاء الأرضي وإنتاجية "
-"الأراضي وكربون التربة العضوي (SOC)) على مدى عدد معين من السنوات، في حين تعكس"
-" بيانات السكان عدد السكان في سنوات محددة (على سبيل المثال، 2015 و2023). "
-"ولزيادة الدقة في التقاط عدد الأشخاص المعرضين لتدهور الأراضي في السنتين "
-"المرجعيتين (أي 2015 لخط الأساس و2023 لفترة الإبلاغ)، يوصى باستخدام شبكة "
-"السكان الأقرب إلى السنوات المذكورة أعلاه."
+msgstr "ينبغي إجراء هذا التحليل -الذي سيتم تنفيذه خارج نطاق منصة PRAIS- على مرحلتين زمنيتين (أي الفترة المرجعية وفترة إعداد التقارير) لقياس التغيرات بمرور الوقت، ومن ثم إدراج النتائج في الجدول SO2-3.T1. ومع ذلك، تجدر الإشارة إلى أن مجموعة البيانات المكانية المتعلقة بتدهور الأراضي (أي مخرجات المؤشر SO1-4) ترصد الاتجاهات الزمنية للمؤشرات الفرعية الثلاثة (الغطاء الأرضي، وإنتاجية الأراضي، والكربون العضوي في التربة (SOC)) على مدار عدد معين من السنوات، في حين تعكس بيانات السكان أعداد السكان في سنوات محددة (مثل عامي 2015 و2023). ولزيادة دقة تقدير أعداد الأشخاص المعرضين لتدهور الأراضي في السنتين المرجعيتين (أي عام 2015 للفترة المرجعية وعام 2023 لفترة إعداد التقارير)، يُوصى باستخدام شبكة البيانات السكانية الأقرب إلى السنتين المذكورتين آنفًا."
 
 #: ../../SO2.md:319
 msgid ""
@@ -1302,10 +994,7 @@ msgid ""
 "land degradation, the respective populations exposed to land degradation are"
 " divided by the total populations of the corresponding sex types, multiplied"
 " by 100."
-msgstr ""
-"في سبيل حساب النسبة المئوية للسكان من الإناث والذكور ومجموع السكان "
-"المعرَّضين لتدهور الأراضي، يُقسَم عدد السكان المعرَّضين لتدهور الأراضي على "
-"مجموع السكان من الأنواع الجنسانية المقابلة، مضروباً في 100."
+msgstr "لحساب النسبة المئوية للإناث والذكور وإجمالي السكان المعرضين لتدهور الأراضي، تُقسَم أعداد السكان المعرضين لتدهور الأراضي (لكل فئة) على إجمالي عدد السكان من الجنس المقابل، ثم يُضرب الناتج في 100."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:321
@@ -1314,47 +1003,37 @@ msgid ""
 "Parties in Trends.Earth using national data representing population exposure"
 " to land degradation by sex should be uploaded to the PRAIS 4 platform. More"
 " specifically, the following maps should be available online:"
-msgstr ""
-"الخرائط الافتراضية محملة مسبقاً في منصة نظام استعراض الأداء وتقييم التنفيذ. "
-"وينبغي تحميل الخرائط التي أنشأتها الأطراف في Trends.Earth باستخدام البيانات "
-"الوطنية التي تمثل تعرض السكان لتدهور الأراضي حسب الجنس على منصة نظام استعراض"
-" الأداء وتقييم التنفيذ 4. وبشكل أكثر تحديداً، ينبغي أن تكون الخرائط التالية "
-"متاحة على الإنترنت:"
+msgstr "وتُحمل الخرائط الافتراضية مسبقًا في منصة PRAIS. أم الخرائط المنشأة من الأطراف في Trends.Earth باستخدام بيانات وطنية تمثل تعرُّض السكان حسب الجنس، فيجب رفعها إلى منصة PRAIS 4. وبشكل أكثر تحديدًا، ينبغي أن تتوفر الخرائط التالية عبر الإنترنت:"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:323
 msgid ""
 "Total population exposed to land degradation for the baseline and latest "
 "reporting year"
-msgstr ""
-"إجمالي عدد السكان المعرضين لتدهور الأراضي بالنسبة لخط الأساس وآخر سنة إبلاغ"
+msgstr "إجمالي السكان المعرضين لتدهور الأراضي لسنة خط الأساس وأحدث سنة تقرير"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:324
 msgid ""
 "Female population exposed to land degradation for the baseline and latest "
 "reporting year"
-msgstr "السكان الإناث المعرضات لتدهور الأراضي في سنة الأساس وآخر سنة إبلاغ"
+msgstr "السكان من الإناث المعرضات لتدهور الأراضي لسنة خط الأساس وأحدث سنة تقرير"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:325
 msgid ""
 "Male population exposed to land degradation for the baseline and latest "
 "reporting year"
-msgstr ""
-"السكان الذكور الذين تعرضوا لتدهور الأراضي في سنة الأساس وآخر سنة مشمولة "
-"بالتقرير"
+msgstr "السكان من الذكور المعرضين لتدهور الأراضي لسنة خط الأساس وأحدث سنة تقرير"
 
 #: ../../SO2.md:327
 msgid "Step 4: Qualitatively assess the results"
-msgstr "الخطوة 4: تقييم النتائج نوعياً"
+msgstr "الخطوة 4: التقييم النوعي للنتائج"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:330
 msgid "Related areas in the PRAIS 4 platform: table SO2-3.T2"
-msgstr ""
-"المجالات ذات الصلة في منصة نظام استعراض الأداء وتقييم التنفيذ 4: الجدول "
-"SO2-3.T2"
+msgstr "الأجزاء ذات الصلة في منصة 4 PRAIS: الجدول SO2-3.T2"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:333
@@ -1362,9 +1041,7 @@ msgid ""
 "Observed changes in the indicator and their interpretation may be described "
 "in the “Qualitative Assessment” table of the PRAIS 4 platform (table "
 "SO2-3.T2)."
-msgstr ""
-"يمكن وصف التغييرات الملحوظة في المؤشر وتفسيرها في جدول \"التقييم النوعي\" في"
-" منصة نظام استعراض الأداء وتقييم التنفيذ 4 (الجدول SO2-3.T2)."
+msgstr "يمكن وصف التغيرات الملاحظة في المؤشر وتفسيرها في جدول \"التقييم النوعي\" على منصة PRAIS 4 (الجدول SO2-3.T2)."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:335
@@ -1376,13 +1053,7 @@ msgid ""
 "If the population increases by 10 people, all of whom settle in degraded "
 "areas, the total becomes 40 out of 110—meaning approximately 36% now live in"
 " degraded areas."
-msgstr ""
-"من المهم أن نلاحظ أن التغيرات في نسبة السكان المعرضين لتدهور الأراضي قد لا "
-"ترجع فقط إلى توسع نطاق تدهور الأراضي بل أيضاً إلى النمو السكاني، من بين "
-"عوامل أخرى. على سبيل المثال، إذا كان 30 من أصل 100 شخص يعيشون في منطقة "
-"متدهورة الأراضي، فإن ذلك يمثل 30%. أما إذا زاد عدد السكان بمقدار 10 أشخاص، "
-"جميعهم يستقرون في المناطق المتدهورة، يصبح المجموع 40 من أصل 110 - مما يعني "
-"أن 36% تقريباً يعيشون الآن في مناطق متدهورة."
+msgstr "ومن المهم الإشارة إلى أن التغيرات في نسبة السكان المعرضين لتدهور الأراضي قد لا تعزى فقط إلى توسع التدهور، بل قد ترجع أيضًا إلى النمو السكاني بين عوامل أخرى. فعلى سبيل المثال، إذا كان 30 شخصًا من أصل 100 يعيشون في منطقة متدهورة، فإن ذلك يمثل 30%. وإذا زاد السكان بمقدار 10 أفراد واستقروا جميعهم في المناطق المتدهورة، يصبح الإجمالي 40 من أصل 110 - مما يعني أن 36% تقريبًا يعيشون الآن في مناطق متدهورة."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:337
@@ -1391,10 +1062,7 @@ msgid ""
 " with tables SO2-3.T1and SO2-3.T2 on the methodology, data sources and data "
 "accuracy in the event that the estimates are derived from non-default "
 "alternative global or national data."
-msgstr ""
-"وتشجَّع الأطراف على تقديم سرد في حقل التعليقات المرتبط بالجدولين SO2-3.T1 "
-"وSO2-3.T2 بشأن المنهجية ومصادر البيانات ودقة البيانات في حالة اشتقاق "
-"التقديرات من بيانات عالمية أو وطنية بديلة غير افتراضية."
+msgstr "تُشجَّع الأطراف على تقديم نصوص سردية في حقل التعليقات المقترن بالجدولين SO2-3.T1 و SO2-3.T2 حول المنهجية ومصادر البيانات ودقتها في حال استخلاص التقديرات من بيانات بديلة غير افتراضية."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:339
@@ -1407,10 +1075,7 @@ msgid ""
 "The reliability of the estimates require inputs from national experts to "
 "identify and highlight situations where the confidence level of the obtained"
 " results might be low."
-msgstr ""
-"وتتطلب موثوقية التقديرات مدخلات من الخبراء الوطنيين لتحديد وتسليط الضوء على "
-"الحالات التي قد يكون فيها مستوى الثقة في النتائج التي تم الحصول عليها "
-"منخفضاً."
+msgstr "تتطلب موثوقية التقديرات مدخلات من الخبراء الوطنيين لتحديد الحالات التي قد ينخفض فيها مستوى الثقة في النتائج المحصلة."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:343
@@ -1424,23 +1089,18 @@ msgid ""
 " deviation from the default method and providing the rationale for adoption "
 "of a different methodology. A “General comments” field is provided in the "
 "PRAIS 4 platform for this purpose."
-msgstr ""
-"سيكون من المفيد الإبلاغ عن الحالات والقضايا الخاصة، ووصف أي انحراف عن "
-"الطريقة الافتراضية وتقديم الأساس المنطقي لاعتماد منهجية مختلفة. تم توفير حقل"
-" \"تعليقات عامة\" في منصة نظام استعراض الأداء وتقييم التنفيذ 4 لهذا الغرض."
+msgstr "سيكون من المفيد تقديم تقارير عن الحالات والمسائل الخاصة، ووصف أي انحراف عن الطريقة الافتراضية مع توضيح مبررات اعتماد منهجية مختلفة. ويتوفر حقل \"ملاحظات عامة\" في منصة PRAIS 4 لهذا الغرض."
 
 #: ../../SO2.md:349
 msgid "2.3.4. Dependencies"
-msgstr "2-3-4 التبعيات"
+msgstr "2-3-4. التبعيات والروابط"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:351
 msgid ""
 "Indicator SO 2-3 relies on the SO 1-4 indicator spatial datasets, both for "
 "the baseline and reporting periods, as a basis to identify degraded areas."
-msgstr ""
-"ويعتمد المؤشر SO 2-3 على مجموعات البيانات المكانية للمؤشر SO 1-4، لكل من خط "
-"الأساس وفترات الإبلاغ، كأساس لتحديد المناطق المتدهورة."
+msgstr "يعتمد المؤشر 2-3 على مجموعات البيانات المكانية للمؤشر 1-4، لكل من فترتي خط الأساس والتقرير، كقاعدة لتحديد المناطق المتدهورة."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:353
@@ -1452,13 +1112,7 @@ msgid ""
 "CP-1.T2 are in multiples of thousands and PRAIS will account for this in the"
 " calculation of the proportion of population exposed to land degradation in "
 "SO2-3.T1."
-msgstr ""
-"يعتمد المؤشر SO 2-3 على عدد السكان المبلغ عنه للسنوات المعنية في قسم الخصائص"
-" الديموغرافية للبلد في الجدول CP-1.T2. إذا لم يتم الإبلاغ عن إجمالي عدد "
-"السكان أو الذكور أو الإناث، فلا يمكن حساب المؤشر. لاحظ أن أعداد السكان "
-"المبلغ عنها في الجدول CP-1.T2 هي بمضاعفات الآلاف، وسيأخذ نظام استعراض الأداء"
-" وتقييم التنفيذ في الحسبان ذلك عند حساب نسبة السكان المعرضين لتدهور الأراضي "
-"في المؤشر SO2-3.T1."
+msgstr "ويعتمد المؤشر 2-3 على أعداد السكان المسجلة للسنوات المعنية في قسم الديموغرافيا ضمن الملف الشخصي للبلد (الجدول CP-1.T2). وفي حال عدم تسجيل إجمالي السكان أو الذكور أو الإناث، فلا يمكن حساب المؤشر. علمًا بأن أعداد السكان في CP-1.T2 تسجل بمضاعفات الآلاف، وستأخذ منصة PRAIS ذلك في الحسبان عند حساب نسبة التعرُّض في الجدول SO2-3.T1."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:355
@@ -1466,14 +1120,11 @@ msgid ""
 "Furthermore, it should be noted that ideally the same source of population "
 "estimates should be used in both CP-1.T2 and in the calculation of indicator"
 " SO2-3, to avoid discrepancies in reporting."
-msgstr ""
-"علاوة على ذلك، تجدر الإشارة إلى أنه من الناحية المثالية ينبغي استخدام نفس "
-"مصدر التقديرات السكانية في كل من CP-1.T2 وفي حساب المؤشر SO2-3، لتجنب "
-"التباين في الإبلاغ."
+msgstr "فضلًا عن ذلك، يُراعى أنه يفضل استخدام مصدر التقديرات السكانية نفسه في كل من الجدول CP-1.T2 وحساب المؤشر 2-3 لتجنب أي تضارب في التقارير."
 
 #: ../../SO2.md:357
 msgid "2.3.5. Challenges"
-msgstr "2-3-5 التحديات"
+msgstr "2.3.5. التحديات"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:361
@@ -1485,13 +1136,7 @@ msgid ""
 "accuracy. However, this will require downscaling of existing gridded "
 "population datasets to a finer resolution which might lead to further "
 "errors. Capacity in performing downscaling processes is therefore required."
-msgstr ""
-"قد لا تكون الدقة المكانية للبيانات الدولية مناسبة دائماً لإنتاج تمثيل مفصل "
-"بما فيه الكفاية للسكان المعرضين لتدهور الأراضي وتغيراتها. وقد تحتاج الأطراف "
-"إلى بيانات دون وطنية أكثر تفصيلاً لتمثيل الأوضاع المحلية بدرجة أعلى من "
-"الدقة. ومع ذلك، سيتطلب ذلك تقليص حجم مجموعات البيانات السكانية الشبكية "
-"الحالية إلى دقة أكثر دقة مما قد يؤدي إلى مزيد من الأخطاء. ولذلك فإن القدرة "
-"على إجراء عمليات تصغير النطاق مطلوبة."
+msgstr "قد لا تكون الدقة المكانية للبيانات الدولية مناسبة دائمًا لإنتاج تمثيل تفصيلي كافٍ للسكان المعرضين لتدهور الأراضي والتغيرات الطارئة عليه. وقد تحتاج الأطراف إلى بيانات دون وطنية أكثر تفصيلًا لتمثيل الأوضاع المحلية بدرجة أعلى من الدقة. ومع ذلك، سيتطلب هذا تقليل مقياس مجموعات البيانات السكانية الشبكية الحالية إلى دقة أفضل مما قد يؤدي إلى أخطاء إضافية، وتتطلب هذه العملية قدرات مخصصة في تقليل المقياس."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:362
@@ -1502,16 +1147,11 @@ msgid ""
 "Capacity in raster data processing and access to appropriate computing "
 "power, e.g., a cloud service, is required to store and process the data, "
 "especially for large countries."
-msgstr ""
-"يتم عرض مجموعات البيانات الوطنية المصنفة حسب الجنس في WorldPop على شكل عدة "
-"مجموعات بيانات فردية بتنسيق نقطي يمثل كل منها فئة عمرية/جنسية في السنة. ويصل"
-" ذلك إلى حجم كبير من البيانات المكانية في صيغة جيوتف. إن القدرة على معالجة "
-"البيانات النقطية والوصول إلى القدرة الحاسوبية المناسبة، على سبيل المثال، "
-"خدمة سحابية، مطلوبة لتخزين البيانات ومعالجتها، خاصة بالنسبة للبلدان الكبيرة."
+msgstr "تُعرض مجموعات بيانات WorldPop الوطنية الموزَّعة حسب الجنس في صورة عدة مجموعات بيانات بصيغة راستر، تمثل كل منها فئة عمرية/جنسية سنويًا. ويشكل ذلك حجمًا كبيرًا من البيانات المكانية بصيغة Geotiff. وتتطلب معالجة بيانات الراستر والوصول إلى قدرات حاسوبية مناسبة (مثل الخدمات السحابية) لتخزين البيانات ومعالجتها، لا سيما للدول ذات المساحات الكبيرة."
 
 #: ../../SO2.md:364
 msgid "Limitation of the analytical approach"
-msgstr "حدود النهج التحليلي"
+msgstr "محددات النهج التحليلي"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:366
@@ -1521,11 +1161,7 @@ msgid ""
 "and demographic indicators are required by Parties to conduct gender "
 "analysis in order to better understand how and why specific populations are "
 "affected by land degradation."
-msgstr ""
-"قد لا تكفي البيانات المصنفة حسب نوع الجنس وحدها لتمثيل الديناميات الجنسانية "
-"والقضايا ذات الصلة في منطقة معينة. وتحتاج الأطراف إلى مزيد من المؤشرات "
-"الاجتماعية والاقتصادية والديمغرافية لإجراء تحليل جنساني من أجل فهم أفضل "
-"لكيفية وسبب تأثر مجموعات سكانية محددة بتدهور الأراضي."
+msgstr "قد لا تكون البيانات الموزَّعة حسب الجنس وحدها كافية لتمثيل الديناميكيات الجنسانية والقضايا ذات الصلة في منطقة معينة. وهناك حاجة إلى المزيد من المؤشرات الديموغرافية والاجتماعية والاقتصادية للقيام بتحليل جنساني لتعميق الفهم حول كيفية وأسباب تأثر فئات سكانية بعينها بتدهور الأراضي."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:367
@@ -1537,13 +1173,7 @@ msgid ""
 "social linkages – populations elsewhere. In addition, further disaggregation"
 " of data in urban and rural populations could be useful to improve the "
 "indicator."
-msgstr ""
-"ومن خلال النظر فقط في السكان المقيمين في المناطق المتأثرة مباشرة بتدهور "
-"الأراضي، قد يقلل المؤشر من معدلات التعرض للتدهور. في الواقع، لا يؤثر تدهور "
-"الأراضي في منطقة معينة على السكان المقيمين في الأراضي المتدهورة فحسب، بل "
-"يؤثر أيضًا - من خلال الروابط البيئية والاقتصادية والاجتماعية - على السكان في"
-" أماكن أخرى. بالإضافة إلى ذلك، قد يكون من المفيد زيادة تصنيف البيانات في "
-"المناطق الحضرية والريفية لتحسين المؤشر."
+msgstr "من خلال الاقتصار على السكان المقيمين في المناطق المتأثرة مباشرة بتدهور الأراضي، قد يقلل المؤشر من تقدير معدلات التعرُّض. ففي واقع الأمر، لا يقتصر أثر تدهور الأراضي في منطقة معينة على السكان المقيمين فوق الأراضي المتدهورة فحسب، بل يمتد - عبر الترابطات البيئية والاقتصادية والاجتماعية - إلى السكان في أماكن أخرى. إضافة إلى ذلك، قد يكون تفكيك البيانات إلى سكان الحضر والريف مفيدًا لتحسين المؤشر."
 
 #: ../../SO2.md:368
 msgid ""
@@ -1553,33 +1183,24 @@ msgid ""
 "populations in specific years; ii) changes in the proportion of population "
 "exposure to land degradation over time may not only be due to the expansion "
 "of land degradation but also to population growth, among other factors."
-msgstr ""
-"هناك تحديان متعلقان بزمانية التحليل، وهما: (1) مجموعة البيانات المكانية عن "
-"تدهور الأراضي (أي ناتج الهدف الاستراتيجي SO1-4) تستوعب اتجاهات زمنية عن مدى "
-"عدد معين من السنوات، في حين تعكس البيانات السكانية السكان في سنوات محددة؛ "
-"(2) التغيرات في نسبة تعرُّض السكان لتدهور الأراضي بمرور الوقت قد لا تكون "
-"بسبب التوسع في تدهور الأراضي فحسب بل النمو السكاني كذلك، من بين عوامل أخرى."
+msgstr "هناك تحديان يتعلقان بالبعد الزمني للتحليل: أولًا، ترصد مجموعة البيانات المكانية الخاصة بتدهور الأراضي (أي مخرجات المؤشر SO1-4) الاتجاهات الزمنية على مدار عدد معين من السنوات، في حين تعكس بيانات السكان أعدادهم في سنوات محددة؛ وثانيًا، قد لا تُعزى التغيرات في نسبة السكان المعرضين لتدهور الأراضي بمرور الوقت إلى توسع نطاق تدهور الأراضي فحسب، بل أيضًا إلى النمو السكاني، من بين عوامل أخرى."
 
 #: ../../SO2.md:370
 msgid "2.3.6. Summary (main actions)"
-msgstr "2-3-6 الموجز (الإجراءات الرئيسية)"
+msgstr "2.3.6. ملخص (الإجراءات الرئيسية)"
 
 #: ../../SO2.md:372
 msgid ""
 "Key actions for reporting on population exposure to land degradation are as "
 "follows:"
-msgstr ""
-"الإجراءات الرئيسية للإبلاغ عن تعرُّض السكان لتدهور الأراضي هي كما يلي:"
+msgstr "تتلخص الإجراءات الرئيسية لإعداد التقارير الخاصة بتعرُّض السكان لتدهور الأراضي فيما يلي:"
 
 #: ../../SO2.md:374
 msgid ""
 "**Select the population dataset**: Parties may decide to use the default "
 "data or alternative national sources, provided they comply with the data "
 "specifications listed in table 17."
-msgstr ""
-"**اختيار مجموعة بيانات السكان**: يجوز للأطراف أن تقرر استخدام البيانات "
-"الافتراضية أو البيانات الوطنية البديلة، شريطة أن تمتثل لمواصفات البيانات "
-"المُدرَجة في الجدول 17."
+msgstr "اختيار مجموعة البيانات السكانية: تملك الأطراف حرية استخدام البيانات الافتراضية أو مصادر وطنية بديلة، بشرط توافقها مع مواصفات البيانات المحددة في الجدول 17."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:376
@@ -1588,10 +1209,7 @@ msgid ""
 "population gridded data datasets must be harmonized to the same grid cell "
 "size in order to combine them in the analysis of population exposure to land"
 " degradation."
-msgstr ""
-"** مواءمة مجموعات البيانات المختارة**: يجب مواءمة مجموعات بيانات تدهور "
-"الأراضي والبيانات السكانية الشبكية على نفس حجم الخلية الشبكية من أجل دمجها "
-"في تحليل تعرض السكان لتدهور الأراضي."
+msgstr "**توحيد ومعايرة مجموعات البيانات المختارة**: يجب اتساق وتطابق مجموعتي بيانات تدهور الأراضي والسكان الشبكية على حجم الخلية الشبكية ذاته لدمجها في تحليل تعرُّض السكان لتدهور الأراضي."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:378
@@ -1603,13 +1221,7 @@ msgid ""
 " the total population. Data should be entered in table SO2-3.T1. Ensure "
 "demographic data have been reported in the country profile ‘Demographics’ "
 "section (table CP-1.T2)."
-msgstr ""
-"**تقدير عدد ونسبة السكان من الإناث والذكور وإجمالي السكان المعرضين لتدهور "
-"الأراضي**: يتم تقاطع شبكتي السكان الذكور والإناث مع شبكة تدهور الأراضي "
-"لاستخلاص إجمالي عدد السكان الذكور والإناث المعرضين لتدهور الأراضي والنسبة "
-"المئوية من إجمالي السكان. يجب إدخال البيانات في الجدول SO2-3.T1. تأكد من "
-"الإبلاغ عن البيانات الديموغرافية في قسم \"الخصائص الديموغرافية\" في الملف "
-"القطري (الجدول CP-1.T2)."
+msgstr "**تقدير أعداد والنسب المئوية للإناث والذكور وإجمالي السكان المعرضين لتدهور الأراضي**: تُتقاطع شبكات السكان من الذكور والإناث مع شبكة تدهور الأراضي لاستخلاص إجمالي والإناث والذكور المعرضين للتدهور والنسبة المئوية من إجمالي السكان. ويتم إدخال البيانات في الجدول SO2-3.T1. ويجب التأكد من تسجيل البيانات الديموغرافية في قسم \"الديموغرافيا\" ضمن الملف الشخصي للبلد (الجدول CP-1.T2)."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:380
@@ -1617,10 +1229,7 @@ msgid ""
 "**Qualitatively assess the results**: changes over time in the proportion of"
 " populations exposed to land degradation as well as their direct or indirect"
 " drivers should be described in table SO2-3.T2."
-msgstr ""
-"**التقييم الكمي للنتائج**: ينبغي وصف التغيرات بمرور الوقت في نسبة السكان "
-"المعرضين لتدهور الأراضي وكذلك العوامل المباشرة أو غير المباشرة المؤثرة في "
-"الجدول SO2-3.T2."
+msgstr "**التقييم النوعي للنتائج**: يجب وصف التغيرات الحاصلة بمرور الوقت في نسبة التعرُّض ومسبباتها المباشرة أو غير المباشرة في الجدول SO2-3.T2."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:382
@@ -1628,14 +1237,12 @@ msgid ""
 "**Verify the results**: the reliability of the estimates from alternative "
 "(non-default) data sources should be assessed in consultation with national "
 "experts."
-msgstr ""
-"**التحقق من النتائج**: ينبغي تقييم موثوقية التقديرات من مصادر البيانات "
-"البديلة (غير الافتراضية) بالتشاور مع الخبراء الوطنيين."
+msgstr "**التحقق من النتائج**: ينبغي تقييم موثوقية التقديرات المستخلصة من مصادر بيانات بديلة (غير افتراضية) بالتشاور مع الخبراء الوطنيين."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:386
 msgid "2.3.7. Additional Resources"
-msgstr "2.3.7. الموارد الإضافية"
+msgstr "2.3.7. موارد إضافية"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:388
@@ -1643,10 +1250,7 @@ msgid ""
 "A comprehensive discussion of the new WorldPop dataset can be found here: "
 "<https://www.linkedin.com/pulse/global-high-resolution-population-"
 "estimates-2015-2030-andy-tatem-yt5ve/>"
-msgstr ""
-"يمكن الاطلاع على مناقشة شاملة لمجموعة بيانات WorldPop الجديدة هنا: "
-"<https://www.linkedin.com/pulse/global-high-resolution-population-"
-"estimates-2015-2030-andy-tatem-yt5ve/>"
+msgstr "يمكن الاطلاع على مناقشة شاملة لمجموعة بيانات WorldPop الجديدة هنا: <https://www.linkedin.com/pulse/global-high-resolution-population-estimates-2015-2030-andy-tatem-yt5ve/>"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:389
@@ -1654,10 +1258,7 @@ msgid ""
 "Information on choosing the most appropriate WorldPop dataset: "
 "<https://www.worldpop.org/choosing-the-right-worldpop-population-data-for-"
 "you/>"
-msgstr ""
-"معلومات حول اختيار مجموعة بيانات WorldPop الأكثر ملاءمة: "
-"<https://www.worldpop.org/choosing-the-right-worldpop-population-data-for-"
-"you/>"
+msgstr "معلومات حول اختيار مجموعة بيانات WorldPop الأكثر ملاءمة: <https://www.worldpop.org/choosing-the-right-worldpop-population-data-for-you/>"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:23 ../../SO2.md:134
@@ -1668,8 +1269,7 @@ msgstr "<https://unstats.un.org/sdgs/dataportal/database>"
 #: ../../SO2.md:24
 msgid ""
 "<https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map>"
-msgstr ""
-"<https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map>"
+msgstr "<https://data.worldbank.org/indicator/SI.POV.GINI?end=2015&start=1979&view=map>"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO2.md:190
@@ -1677,10 +1277,7 @@ msgid ""
 "<https://washdata.org/data/household>, "
 "<https://datatopics.worldbank.org/sdgs/index.html> and "
 "<https://ourworldindata.org/sdgs/clean-water-sanitation>"
-msgstr ""
-"<https://washdata.org/data/household> و "
-"<https://datatopics.worldbank.org/sdgs/index.html> و "
-"<https://ourworldindata.org/sdgs/clean-water-sanitation>"
+msgstr "<https://washdata.org/data/household> و <https://datatopics.worldbank.org/sdgs/index.html> و <https://ourworldindata.org/sdgs/clean-water-sanitation>"
 
 #~ msgid ""
 #~ "These metrics can be used interchangeably according to country-specific "

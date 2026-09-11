@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-03 15:18+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-08-27 15:16+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,24 +22,18 @@ msgstr ""
 msgid ""
 "Annex I: User-specific licence options for national data uploaded to the "
 "UNCCD Performance Review and Assessment of Implementation System (PRAIS)"
-msgstr ""
-"المرفق الأول: خيارات الترخيص الخاصة بالمستخدمين للبيانات الوطنية التي تم "
-"تحميلها على نظام استعراض الأداء وتقييم التنفيذ الخاص باتفاقية الأمم المتحدة "
-"لمكافحة التصحر"
+msgstr "الملحق الأول: خيارات الترخيص الخاصة ببيانات المستخدمين الوطنية التي تم تحميلها على نظام مراجعة وتقييم الأداء (PRAIS) التابع لاتفاقية الأمم المتحدة لمكافحة التصحُّر (UNCCD)"
 
 #: ../../annex_I.md:3
 msgid "1. UNCCD Mandate"
-msgstr "1- ولاية اتفاقية الأمم المتحدة لمكافحة التصحر"
+msgstr "1. ولاية اتفاقية الأمم المتحدة لمكافحة التصحُّر"
 
 #: ../../annex_I.md:5
 msgid ""
 "Decision 16/COP.11 para. 9 requests the secretariat to ensure that data and "
 "information from the reporting process are available and accessible to all, "
 "especially at the national and local levels."
-msgstr ""
-"يطلب المقرر رقم 16/م أ-11 فقرة 9 إلى الأمانة العامة أن تكفل توافر البيانات "
-"والمعلومات المستمدة من عملية الإبلاغ وإتاحتها للجميع، لا سيما على الصعيدين "
-"الوطني والمحلي."
+msgstr "يهيب القرار 16/COP.11 الفقرة 9 بالأمانة العامة ضمان إتاحة كافة البيانات والمعلومات الناتجة عن عملية إعداد التقارير وسهولة الوصول إليها للجميع، ولا سيما على المستويين الوطني والمحلي."
 
 #: ../../annex_I.md:7
 msgid ""
@@ -50,60 +44,45 @@ msgid ""
 "other conventions and multilateral bodies, and to utilize intellectual "
 "property provisions to protect innovations submitted as best practices while"
 " implementing this data access policy."
-msgstr ""
-"يطلب المقرر رقم 17/م أ-11 فقرة 14 إلى الأمانة العامة أن تضع سياسة للدخول إلى"
-" البيانات والمعلومات المقدَّمة من الأطراف وغيرها من الكيانات المبلِّغة، بما "
-"في ذلك من خلال نظام استعراض الأداء وتقييم التنفيذ (PRAIS)، بناءً على ممارسات"
-" وسياسات الاتفاقيات الأخرى والهيئات المتعددة الأطراف، وأن تستفيد من أحكام "
-"الملكية الفكرية لحماية الابتكارات المقدَّمة باعتبارها أفضل الممارسات عند "
-"تنفيذ سياسة الوصول إلى البيانات هذه."
+msgstr "كما يهيب القرار 17/COP.11 الفقرة 14 من الأمانة العامة صياغة سياسة لتنظيم الوصول إلى البيانات والمعلومات المقدَّمة من الأطراف والجهات المحدَّدة لإعداد التقارير، بما في ذلك البيانات المتاحة عبر نظام مراجعة وتقييم الأداء (PRAIS)، وهذه السياسة تستند إلى الممارسات والسياسات المتبعة في الاتفاقيات والهيئات الهامة الأخرى، وذلك مع تفعيل أحكام الملكية الفكرية لحماية الابتكارات والممارسات الفضلى المودعة في إطار تطبيق سياسة الوصول إلى البيانات."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:9
 msgid "2. Submitting national datasets to PRAIS"
-msgstr ""
-"2. إرسال مجموعات البيانات الوطنية إلى نظام استعراض الأداء وتقييم التنفيذ"
+msgstr "2. تقديم مجموعات البيانات الوطنية إلى نظام PRAIS"
 
 #: ../../annex_I.md:11
 msgid ""
 "There are three mechanisms to share non-default reporting datasets in PRAIS:"
-msgstr ""
-"توجد ثلاث آليات لمشاركة مجموعات بيانات الإبلاغ غير الافتراضية في نظام "
-"استعراض الأداء وتقييم التنفيذ (PRAIS):"
+msgstr "يمكن مشاركة مجموعات بيانات التقرير الوطني غير الافتراضية عبر نظام PRAIS من خلال ثلاث طرق:"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:13
 msgid ""
 "Uploading data directly to PRAIS and supplying metadata (information about "
 "the dataset) on the forms provided;"
-msgstr ""
-"تحميل البيانات مباشرةً إلى نظام استعراض الأداء وتحميل البيانات الوصفية "
-"(معلومات حول مجموعة البيانات) على النماذج المتوفرة;"
+msgstr "تحميل البيانات مباشرةً على نظام PRAIS وتعبئة البيانات الوصفية (المعلومات التعريفية بمجموعة البيانات) في النماذج المخصَّصة؛"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:14
 msgid ""
 "Via data transfer from Trends.Earth (when using national data for "
 "calculating UNCCD indicators in Trends.Earth);"
-msgstr ""
-"عن طريق نقل البيانات من Trends.Earth (عند استخدام البيانات الوطنية لحساب "
-"مؤشرات اتفاقية الأمم المتحدة لمكافحة التصحر في Trends.Earth);"
+msgstr "نقل البيانات مباشرة من منصة Trends.Earth (عند اعتماد البيانات الوطنية لحساب مؤشرات الاتفاقية عبر المنصة)؛"
 
 #: ../../annex_I.md:15
 msgid "Creating spatial reporting data on the Spatial Data Viewer in PRAIS."
-msgstr ""
-"إنشاء بيانات الإبلاغ المكانية على عارض البيانات المكانية في نظام استعراض "
-"الأداء وتقييم التنفيذ (PRAIS)."
+msgstr "إنشاء البيانات المكانية للتقارير باستخدام عارض البيانات المكانية ضمن نظام PRAIS."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:17
 msgid "3. Licence Instructions"
-msgstr "3. تعليمات الترخيص"
+msgstr "3. إرشادات الترخيص"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:19
 msgid "3.1. Creative Commons Licences for National Reports"
-msgstr "3.1. تراخيص المشاع الإبداعي للتقارير الوطنية"
+msgstr "‎3.1.‎ تراخيص المشاع الإبداعي للتقارير الوطنية"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:21
@@ -113,21 +92,14 @@ msgid ""
 "to Parties in the PRAIS User Specific Licence (USL) form are– from most open"
 " to most restrictive – CC BY, CC BY-SA, CC BY-NC and CC BY-NC-SA. Each "
 "licence requires one or more of the following conditions:"
-msgstr ""
-"إن تراخيص المشاع الإبداعي (CC) هي مجموعة تراخيص متطورة ومختبرة بشكل جيد "
-"ومعيارية لمشاركة البيانات. خيارات الترخيص المتاحة للأطراف في نموذج الترخيص "
-"الخاص بالمستخدم (USL) في نظام استعراض الأداء وتقييم الأداء هي - من الأكثر "
-"انفتاحًا إلى الأكثر تقييدًا - CC BY و CC BY-SA و CC BY-NC و CC BY-NC-SA. "
-"يتطلب كل ترخيص واحد أو أكثر من الشروط التالية:"
+msgstr "تُعتبر تراخيص المشاع الإبداعي (CC) منظومة متكاملة ومجرَّبة من التراخيص القياسية المُستخدمة لمشاركة البيانات. وتتدرج خيارات التراخيص المتاحة للأطراف عبر نموذج \"ترخيص المستخدم المخصَّص\" أو (USL) في نظام PRAIS وتتدرج من الأكثر انفتاحًا إلى الأكثر تقييدًا على النحو التالي: CC BY، وCC BY-SA، وCC BY-NC، وCC BY-NC-SA. ويتضمن كل ترخيص شرطًا أو أكثر من الشروط التالية:"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:23
 msgid ""
 "Attribution (BY): Attribution is important to give you credit for the data "
 "and show its provenance. It is a required condition for all CC licenses."
-msgstr ""
-"الإسناد (BY): الإسناد مهم لمنحك الفضل في البيانات وإظهار مصدرها. وهو شرط "
-"مطلوب لجميع تراخيص CC."
+msgstr "الإسناد (BY): يُعد هذا الشرط ضروريًا لضمان ربط البيانات بأصحابها الأصليين وبيان مصدرها، وهو شرط أساسي في جميع تراخيص المشاع الإبداعي."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:25
@@ -138,13 +110,7 @@ msgid ""
 "the same terms, but may make it difficult to reuse when combined with data "
 "licensed without the SA condition and under more open terms. In short, SA-"
 "licensed work is able to be remixed, but only into other SA outputs."
-msgstr ""
-"المشاركة على حد سواء (SA): يشير هذا الشرط إلى أن أي محتوى جديد يتم إنشاؤه من"
-" خلال دمج هذه البيانات، يجب أن تتم مشاركته بموجب نفس ترخيص SA. وذلك لضمان أن"
-" تظل البيانات قابلة لإعادة الاستخدام عند دمجها مع البيانات المرخصة بموجب نفس"
-" الشروط، ولكن قد يصعب إعادة استخدامها عند دمجها مع البيانات المرخصة دون شرط "
-"SA وبموجب شروط أكثر انفتاحًا. باختصار، يمكن إعادة مزج العمل المرخص من قبل "
-"SA، ولكن فقط في مخرجات SA أخرى."
+msgstr "المشاركة بالمثل (SA): ينص هذا الشرط على أن أي محتوى جديد يُنتج عن طريق دمج هذه البيانات يجب أن يُطرح تحت ترخيص المشاركة بالمثل (SA) نفسه. والهدف من ذلك هو إعادة استخدام البيانات مع أي مواد أخرى خاضعة للترخيص ذاته، غير أن هذا الشرط قد يعوق إعادة الاستخدام إذا صُهرت البيانات مع مواد تُرخِّصها شروط أكثر انفتاحًا ولا تتضمن شرط المشاركة بالمثل. واختصارًا، يتيح هذا الشرط تعديل العمل ودمجه، بشرط أن تصدر المخرجات الجديدة تحت الترخيص نفسه."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:27
@@ -153,11 +119,7 @@ msgid ""
 "and combined, but not for commercial purposes. This ensures that "
 "corporations cannot make profit on your data, but there are use cases that "
 "are not so clear-cut and may hinder reuse that you would be okay with."
-msgstr ""
-"غير تجارية (NC): يشير هذا الشرط إلى إمكانية إعادة استخدام البيانات ودمجها، "
-"ولكن ليس لأغراض تجارية. وهذا يضمن عدم قدرة الشركات على تحقيق الربح من "
-"بياناتك، ولكن هناك حالات استخدام ليست واضحة المعالم وقد تعيق إعادة الاستخدام"
-" التي قد تكون مقبولة لديك."
+msgstr "غير تجاري (NC): يتيح هذا الشرط إعادة استخدام البيانات ودمجها لأي غرض باستثناء الأغراض التجارية. وهذا الأمر قد يمنع الشركات من الاستفادة الربحية من بياناتكم، ورغم ذلك، قد توجد بعض حالات الاستخدام غير الواضحة تمامًا والتي قد تحد من إعادة استخدام البيانات في مجالات قد لا تعترضون عليها."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:29
@@ -167,11 +129,7 @@ msgid ""
 "worldwide public domain. See "
 "<https://creativecommons.org/publicdomain/zero/1.0/deed.en> for further "
 "information."
-msgstr ""
-"بالإضافة إلى ذلك، يتوفر إهداء النطاق العام العالمي للمشاع الإبداعي 1.0 (CC0)"
-" للتنازل عن حقوق النشر وإهداء البيانات إلى النطاق العام العالمي. انظر "
-"<https://creativecommons.org/publicdomain/zero/1.0/deed.en> لمزيد من "
-"المعلومات."
+msgstr "بالإضافة إلى ذلك، يمكن استخدام ترخيص التنازل عن حقوق الملكية الفكرية 1.0 أو (CC0) لإسقاط حقوق المؤلف وتخصيص البيانات للملكية العامة عالميًا. لمزيد من المعلومات، يُرجى زيارة: <https://creativecommons.org/publicdomain/zero/1.0/deed.en>."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:31
@@ -179,15 +137,12 @@ msgid ""
 "Figure 10 provides an overview of the public domain dedication and each "
 "Creative Commons licence and whether they allow remixes, commercial use, "
 "free cultural works and if they meet the ‘open’ definition."
-msgstr ""
-"يقدم الشكل 10 لمحة عامة عن إهداء المجال العام وكل رخصة من رخص المشاع "
-"الإبداعي وما إذا كانت تسمح بإعادة المزج والاستخدام التجاري والأعمال الثقافية"
-" المجانية وما إذا كانت تستوفي تعريف \"المفتوح\"."
+msgstr "يوضِّح الشكل 10 نظرة عامة على التنازل للملكية العامة ومختلف تراخيص المشاع الإبداعي، مبينًا مدى سماحها بالتعديل والدمج، والاستخدام التجاري، ومدى توافقها مع مفهوم الأعمال الثقافية الحرة وتعريف \"المصدر المفتوح\"."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:33
 msgid "![](/img/fig10.png)"
-msgstr "![] (/img/fig10.png)"
+msgstr "![](/img/fig10.png)"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:35
@@ -195,10 +150,7 @@ msgid ""
 "_**Figure 10**. Overview of various CC license options (source: Wikipedia, "
 "further information can be found at <https://creativecommons.org/share-your-"
 "work/cclicenses/>)_"
-msgstr ""
-"_**الشكل 10**. نظرة عامة على خيارات ترخيص CC المختلفة (المصدر: ويكيبيديا، "
-"يمكن الاطلاع على مزيد من المعلومات في <https://creativecommons.org/share-"
-"your-work/cclicenses/>) ____"
+msgstr "_**الشكل 10**. نظرة عامة على خيارات تراخيص المشاع الإبداعي المتنوعة (المصدر: ويكيبيديا، لمزيد من المعلومات يمكن زيارة <https://creativecommons.org/share-your-work/cclicenses/>)_"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:37
@@ -208,11 +160,7 @@ msgid ""
 "reported data and support legal, confident, and consistent reuse of national"
 " data by the secretariat. Therefore, they are encouraged to select an open "
 "licence for their national country Party data, choosing either:"
-msgstr ""
-"كما هو موضح في مقدمة دليل الإبلاغ هذا، يوصى الأطراف بشدة بزيادة قابلية "
-"التشغيل البيني للبيانات المبلغ عنها وأثرها إلى أقصى حد ودعم إعادة استخدام "
-"الأمانة للبيانات الوطنية بشكل قانوني وواثق ومتسق. ولذلك، تُشجَّع الأطراف على"
-" اختيار ترخيص مفتوح لبيانات بلدانها الوطنية الأطراف، باختيار إما"
+msgstr "وكما أُشير في مقدمة دليل إعداد التقارير، يُوصى الأطراف بشدة بتبني أقصى درجات التوافق والفاعلية لبياناتهم المرفوعة، ودعم الاستخدام القانوني والآمن والمنتظم للبيانات الوطنية من قِبل الأمانة العامة. وبناءً عليه، تُشجِّع الأطراف على اختيار ترخيص مفتوح لبيانات بلدانهم الوطنية عبر أحد الخيارين التاليين:"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:39
@@ -220,35 +168,28 @@ msgid ""
 "The Creative Commons Universal **Public Domain Dedication 1.0 (CC0)**. See "
 "<https://creativecommons.org/publicdomain/zero/1.0/deed.en> for further "
 "information;"
-msgstr ""
-"المشاع الإبداعي العالمي **إهداء المشاع العام 1.0 (CC0)**. انظر "
-"<https://creativecommons.org/publicdomain/zero/1.0/deed.en> لمزيد من "
-"المعلومات;"
+msgstr "**التنازل العام عن حقوق الملكية الفكرية للمشاع الإبداعي 1.0 أو (CC0)**. لمزيد من المعلومات، يُرجى زيارة: <https://creativecommons.org/publicdomain/zero/1.0/deed.en>؛"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:41
 msgid ""
 "The open Creative Commons **Attribution 4.0 International (CC BY) licence**,"
 " which means users of the data are free to:"
-msgstr ""
-"رخصة المشاع الإبداعي المفتوح ** رخصة المشاع الإبداعي 4.0 الدولية (CC BY)**، "
-"مما يعني أن مستخدمي البيانات أحرار في"
+msgstr "**ترخيص الإسناد 4.0 الدولي للمشاع الإبداعي (CC BY) المفتوح**، والذي يمنح مستخدمي البيانات حرية القيام بما يلي:"
 
 #: ../../annex_I.md:43
 msgid "Share — Copy and redistribute the material in any medium or format."
-msgstr "المشاركة - نسخ وإعادة توزيع المواد بأي وسيلة أو تنسيق."
+msgstr "المشاركة — نسخ المادة وإعادة توزيعها بأي وسيلة أو صيغة."
 
 #: ../../annex_I.md:44
 msgid "Adapt — Remix, transform, and build upon the material."
-msgstr "التكييف - إعادة مزج أي مواد وتحويلها والبناء عليها."
+msgstr "التعديل — مزج المادة وتحويلها والبناء عليها لأي غرض."
 
 #: ../../annex_I.md:46
 msgid ""
 "However, in return for using the data, users must respect the following "
 "terms:"
-msgstr ""
-"غير أنَّه، في مقابل استخدام البيانات، يجب على المستخدمين احترام الشروط "
-"التالية:"
+msgstr "وعلى الرغم من هذا، يتعين على المستخدمين الالتزام بالشروط التالية:"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:48
@@ -256,19 +197,14 @@ msgid ""
 "Attribution — Users must give appropriate credit, provide a link to the "
 "licence and indicate if changes were made. Users may do so in any reasonable"
 " manner."
-msgstr ""
-"الإسناد - يجب على المستخدمين إعطاء الفضل المناسب، وتوفير رابط للرخصة "
-"والإشارة إلى ما إذا تم إجراء تغييرات. ويجوز للمستخدمين القيام بذلك بأي طريقة"
-" معقولة."
+msgstr "نسب المصنف — يتعين على المستخدمين إرجاع الفضل إلى صاحب العمل الأصلي، وتقديم رابط للترخيص، وبيان ما إذا كانت هناك أي تعديلات قد أُجريت على المادة، وذلك بأي طريقة معقولة."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:50
 msgid ""
 "See <https://creativecommons.org/licenses/by/4.0/deed.en> for further "
 "information (translated into all United Nations languages)."
-msgstr ""
-"انظر <https://creativecommons.org/licenses/by/4.0/deed.en> لمزيد من "
-"المعلومات (مترجمة إلى جميع لغات الأمم المتحدة)."
+msgstr "لمزيد من المعلومات يُرجى زيارة: <https://creativecommons.org/licenses/by/4.0/deed.en> (وهو متاح بكل لغات الأمم المتحدة)."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:52
@@ -277,11 +213,7 @@ msgid ""
 "confidently, and consistently reused across systems for better tracking of "
 "global and regional status and trends in land degradation and drought and "
 "for seamless data sharing with UNCCD partners."
-msgstr ""
-"سيضمن أي من هذين الخيارين إمكانية إعادة استخدام البيانات الوطنية بشكل قانوني"
-" وموثوق ومتسق عبر الأنظمة من أجل تتبع أفضل للحالة والاتجاهات العالمية "
-"والإقليمية في تدهور الأراضي والجفاف، ومن أجل تبادل البيانات بسلاسة مع شركاء "
-"اتفاقية الأمم المتحدة لمكافحة التصحر."
+msgstr "يضمن أي من الخيارين المذكورين إعادة استخدام البيانات الوطنية بشكل قانوني وبكل موثوقية واتساق عبر الأنظمة المختلفة، مما يساهم في تحقيق أفضل رصد للوضع العالمي والإقليمي والاتجاهات السائدة في تدهور الأراضي والجفاف، وتسهيل مشاركتها مع شركاء اتفاقية الأمم المتحدة لمكافحة التصحُّر (UNCCD)."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:54
@@ -292,12 +224,7 @@ msgid ""
 "conflicting use conditions. For example, the secretariat will not be able to"
 " use national reports licensed with NC-SA or SA in the regional and global "
 "aggregate statistics and maps that are licensed with the BY-NC."
-msgstr ""
-"ومع ذلك، لا يوصى بالتراخيص مع القيد SA لأنه يجعل إعادة استخدام التقرير "
-"الوطني أكثر تعقيدًا بسبب الحاجة إلى تكديس التراخيص - الجمع بين تراخيص متعددة"
-" بشروط استخدام مختلفة وأحيانًا متضاربة. على سبيل المثال، لن تتمكن الأمانة "
-"العامة من استخدام التقارير الوطنية المرخصة بقيد \"BY-NC\" أو قيد \"SA\" في "
-"الإحصاءات والخرائط الإقليمية والعالمية المجمعة المرخصة بقيد \"BY-NC\"."
+msgstr "ومن ناحية أخرى، لا يُنصح باختيار التراخيص التي تشتمل على قيد المشاركة بالمثل (SA)؛ كونها تجعل إعادة استخدام التقرير الوطني أكثر تعقيدًا بسبب تراكم التراخيص (أي دمج تراخيص متعددة بشروط استخدام مختلفة أو متعارضة أحيانًا). فعلى سبيل المثال، لن تتمكن الأمانة العامة من استخدام التقارير الوطنية المرخصة بـ NC-SA أو SA ضمن الإحصاءات والخرائط المجمعة إقليميًا وعالميًا المرخصة بـ BY-NC."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:56
@@ -308,18 +235,12 @@ msgid ""
 "the Creative Commons licenses are appropriate, Parties can report a custom "
 "licence, but still must grant the secretariat explicit permission on the USL"
 " form to use that data in regional and global aggregates."
-msgstr ""
-"ولهذه الأسباب، يجب على الأطراف التي ترخص البيانات مع رخصة المشاع الإبداعي أن"
-" تمنح الأمانة إذناً صريحاً في استمارة الترخيص الخاص بالمستخدم لاستخدام تلك "
-"البيانات في المجاميع الإقليمية والعالمية. وبدلاً من ذلك، إذا لم يكن أي من "
-"تراخيص المشاع الإبداعي مناسبًا، يمكن للأطراف الإبلاغ عن ترخيص مخصص، ولكن يجب"
-" أن تمنح الأمانة إذنًا صريحًا في نموذج رخصة المستخدم الخاص لاستخدام تلك "
-"البيانات في المجاميع الإقليمية والعالمية."
+msgstr "ولاستيفاء هذه الدواعي، يتعين على الأطراف التي تختار ترخيص بياناتها باستخدام قيد SA منح الأمانة العامة موافقة صريحة عبر نموذج ترخيص المستخدم المخصَّص (USL) لاستخدام تلك البيانات في المجموعات الإقليمية والعالمية. وبالمثل، إذا لم تكن أي من تراخيص المشاع الإبداعي مناسبة، يمكن للأطراف تحديد ترخيص مخصَّص، مع ضرورة منح الأمانة العامة موافقة صريحة في نموذج USL لاستخدام البيانات في التجميعات الإقليمية والعالمية."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:58
 msgid "3.2 User Specific Licence (USL)"
-msgstr "3.2 الترخيص الخاص بالمستخدم (USL)"
+msgstr "‎3.2 ترخيص المستخدم المخصَّص (USL)"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:60
@@ -330,21 +251,13 @@ msgid ""
 "out the licence form provided in PRAIS, which can be accessed from the "
 "\"Spatial Layers\" tab or directly from the country “Overview” page in the "
 "list of menu items on the right hand side."
-msgstr ""
-"مع أخذ شرح خيارات الترخيص الواردة في القسم 3-1 في الاعتبار، ينبغي للأطراف "
-"اختيار ترخيص خاص بالمستخدم لتحديد شروط استخدام البيانات الواردة في تقاريرها "
-"الوطنية من خلال ملء نموذج الترخيص المقدم في نظام استعراض الأداء وتقييم "
-"التنفيذ، والذي يمكن الوصول إليه من علامة التبويب \"الطبقات المكانية\" أو "
-"مباشرة من صفحة \"نظرة عامة\" على البلد في قائمة عناصر القائمة على الجانب "
-"الأيمن."
+msgstr "بالاستناد إلى التوضيحات الواردة في القسم 3.1 بخصوص خيارات الترخيص، ينبغي للأطراف تحديد ترخيص المستخدم المخصص (USL) لضبط أحكام استخدام البيانات المدرجة في تقاريرها الوطنية، ويتم ذلك عبر تعبئة نموذج الترخيص المتاح في نظام PRAIS، والوصول إليه إما عبر علامة تبويب Spatial Layers \"الطبقات المكانية\" أو مباشرة من صفحة Overview \"نظرة عامة\" للبلد من القائمة الجانبية في الجهة اليمنى."
 
 #: ../../annex_I.md:62
 msgid ""
 "By choosing a USL, the user consents to the chosen licence. It is understood"
 " that the following terms and conditions are agreed to:"
-msgstr ""
-"يوافق المستخدم باختياره الرخصة الخاصة بالمستخدم على الرخصة المختارة. ومن "
-"المفهوم أن الأحكام والشروط التالية متفَق عليها:"
+msgstr "يُعد اختيار ترخيص USL بمثابة موافقة من المستخدم على الترخيص المختار، وإقرارًا بالالتزام بالشروط والأحكام التالية:"
 
 #: ../../annex_I.md:64
 msgid ""
@@ -352,20 +265,14 @@ msgid ""
 "implied, of any of the privileges and immunities of the United Nations "
 "Convention to Combat Desertification (UNCCD) or the United Nations, "
 "including its subsidiary organs."
-msgstr ""
-"لا يُعدّ أي شيء في الرخصة الخاصة بالمستخدم هذه أو ما يتعلق بها تنازلاً "
-"صريحاً أو ضمنياً عن أي من امتيازات وحصانات اتفاقية الأمم المتحدة لمكافحة "
-"التصحر أو الأمم المتحدة، بما في ذلك هيئاتها الفرعية."
+msgstr "لا يجوز اعتبار أي بند في ترخيص USL هذا أو ما يتعلق به تنازلًا - بشكل صريح أو ضمي - عن أي من امتيازات وحصانات اتفاقية الأمم المتحدة لمكافحة التصحُّر (UNCCD) أو الأمم المتحدة، بما في ذلك أجهزتها الفرعية."
 
 #: ../../annex_I.md:65
 msgid ""
 "The name and emblem of the UNCCD is the property of the UNCCD, which owns "
 "all rights to its use. The logo can only be used to identify events and "
 "activities related to the UNCCD."
-msgstr ""
-"يُعدّ اسم وشعار اتفاقية مكافحة التصحر ملكاً لاتفاقية الأمم المتحدة لمكافحة "
-"التصحر، التي تمتلك جميع حقوق استخدامهما. ولا يمكن استخدام الشعار إلا في "
-"تعريف الفعاليات والأنشطة المتصلة بالاتفاقية."
+msgstr "تُعد التسمية الشعار الخاص باتفاقية الأمم المتحدة لمكافحة التصحُّر ملكًا حصريًا لها، وتحتفظ بكافة الحقوق المتعلقة باستخدامهما. ولا يُسمح باستخدام الشعار إلا للتعريف بالفعاليات والأنشطة المرتبطة بالاتفاقية."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:67
@@ -387,43 +294,21 @@ msgid ""
 "be bound by the terms and conditions of use set out in the USL (if the data "
 "is not already in the public domain or its source licence applies additional"
 " restriction on use of the data)."
-msgstr ""
-"لن تكون اتفاقية الأمم المتحدة لمكافحة التصحر مسؤولة عن أي استخدام للمعلومات "
-"يتجاوز ما هو منصوص عليه في سجل بيانات اتفاقية الأمم المتحدة لمكافحة التصحر، "
-"حيث لم يتم طلب إذن مسبق ومنحه وفقاً للشروط التي حددتها الاتفاقية وأبلغت بها."
-" ستحدد اتفاقية سجل بيانات الولايات المتحدة شروط إعادة استخدام مجموعات "
-"البيانات الوطنية المستضافة على نظام استعراض الأداء وتقييم التنفيذ والتي "
-"تديرها أمانة اتفاقية الأمم المتحدة لمكافحة التصحر لأغراض إعداد التقارير "
-"الوطنية. لأغراض هذا الاتفاق، تشمل \"البيانات\" أي بيانات وطنية، مع الاعتراف "
-"بشكل خاص بالبيانات المكانية وبيانات السمات المرتبطة بها التي يقدمها البلد "
-"الطرف في عملية الإبلاغ إلى اتفاقية الأمم المتحدة لمكافحة التصحر من خلال "
-"إنشائها على عارض البيانات المكانية لنظام استعراض الأداء وتقييم التنفيذ، "
-"باستخدام أداة التحميل الخاصة بنظام استعراض الأداء وتقييم التنفيذ أو عبر "
-"Trends.Earth أو أدوات برمجية أخرى تابعة لجهات خارجية. وستستخدم الأمانة هذه "
-"البيانات في الخرائط الإقليمية والعالمية المجمعة والإحصاءات والمنتجات "
-"الإعلامية الأخرى في تنفيذ ولايتها بموجب المقرر 11/م أ-14، ويمكن أن تُقدم إلى"
-" شركاء اتفاقية الأمم المتحدة لمكافحة التصحر عند الطلب وعلى أساس أن يقرأوا "
-"ويوافقوا على الالتزام بأحكام وشروط الاستخدام المنصوص عليها في سجل بيانات "
-"الأمم المتحدة (إذا لم تكن البيانات متاحة بالفعل في المجال العام أو كان ترخيص"
-" مصدرها يفرض قيوداً إضافية على استخدام البيانات)."
+msgstr "لا تتحمل الاتفاقية أي مسؤولية عن أي استخدام للمعلومات يتجاوز نطاق الشروط المحدَّدة في ترخيص USL هذا، ما لم يتم طلب إذن مسبق والحصول عليه وفق الضوابط التي تعتمدها وتعلنها الاتفاقية. يحدد ترخيص USL ضوابط إعادة استخدام مجموعات البيانات الوطنية المستضافة على نظام PRAIS والتي تديرها أمانة الاتفاقية لأغراض إعداد التقارير الوطنية. ولأغراض هذا الاتفاق، تشمل \"البيانات\" أي بيانات وطنية، مع تركيز خاص على البيانات المكانية والبيانات الوصفية المرتبطة بها التي تقدِّمها الدولة الطرف أثناء عملية إعداد التقارير للاتفاقية، سواءً تم إنشاؤها عبر عارض البيانات المكانية لنظام PRAIS، أو تحميلها بأداة التحميل الخاصة بنظام PRAIS، أو نقلها عبر منصة Trends.Earth أو غيرها من البرمجيات الخارجية. وسوف تُستخدم هذه البيانات من قِبل الأمانة العامة لإعداد الخرائط والإحصاءات والمخرجات المعلوماتية المجمعة إقليميًا وعالميًا تنفيذًا لولايتها بموجب القرار 11/COP.14، كما يجوز توفيرها لشركاء الاتفاقية عند الطلب، شريطة الاطلاع والموافقة على الالتزام بشروط وأحكام الاستخدام المحدَّدة في ترخيص USL (ما لم تكن البيانات مشمولة بالملكية العامة أصلًا أو كان ترخيصها الأصلي يفرض قيودًا إضافية على الاستخدام)."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:72
 msgid ""
 "Therefore, country Parties should familiarize themselves with the options "
 "described above and fill out the licence form accordingly."
-msgstr ""
-"لذلك، يجب على الدول الأطراف أن تكون على دراية بالخيارات الموضحة أعلاه وملء "
-"استمارة الترخيص وفقاً لذلك."
+msgstr "وعليه، يُهيب بالدول الأطراف الاطلاع بتمعن على الخيارات الموضَّحة أعلاه وتعبئة نموذج الترخيص بناءً على ذلك."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:74
 msgid ""
 "Parties should note that if no USL form is submitted then the default CC BY-"
 "NC 4.0 license will apply to the submitted Data."
-msgstr ""
-"يجب على الأطراف ملاحظة أنه في حالة عدم تقديم أي نموذج رخصة استخدام عامة "
-"(USL)، فسيتم تطبيق رخصة CC BY-NC 4.0 الافتراضية على البيانات المقدمة."
+msgstr "يُرجى من الأطراف الانتباه إلى أنه في حال عدم تقديم نموذج ترخيص USL، فإن ترخيص المشاع الإبداعي الافتراضي CC BY-NC 4.0 هو الذي سيُطبَّق تلقائيًا على البيانات المودَعة."
 
 #~ msgid "2. Introduction"
 #~ msgstr "2- مقدمة"

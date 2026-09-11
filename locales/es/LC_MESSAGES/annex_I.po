@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-03 15:18+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-08-27 15:19+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,25 +22,18 @@ msgstr ""
 msgid ""
 "Annex I: User-specific licence options for national data uploaded to the "
 "UNCCD Performance Review and Assessment of Implementation System (PRAIS)"
-msgstr ""
-"Anexo I: Opciones de licencia específicas del usuario para los datos "
-"nacionales cargados en el Sistema de examen del desempeño y evaluación de la"
-" aplicación (PRAIS) de la CLD"
+msgstr "Anexo I: Opciones de licencia específicas del usuario para los datos nacionales cargados en el Sistema de Examen del Desempeño y Evaluación de la Implementación (PRAIS) de la UNCCD"
 
 #: ../../annex_I.md:3
 msgid "1. UNCCD Mandate"
-msgstr "1. Mandato de la CLD"
+msgstr "1. Mandato de la UNCCD"
 
 #: ../../annex_I.md:5
 msgid ""
 "Decision 16/COP.11 para. 9 requests the secretariat to ensure that data and "
 "information from the reporting process are available and accessible to all, "
 "especially at the national and local levels."
-msgstr ""
-"En la decisión 16/COP.11, párrafo 9, se pide a la Secretaría que se "
-"garantice que los datos y la información del proceso de presentación de "
-"informes estén disponibles y accesibles para todos, especialmente a escala "
-"nacional y local."
+msgstr "La decisión 16/COP.11, párrafo 9, solicita a la secretaría garantizar que los datos y la información derivados del proceso de presentación de informes estén disponibles y sean accesibles para todos, especialmente en los ámbitos nacional y local."
 
 #: ../../annex_I.md:7
 msgid ""
@@ -51,58 +44,40 @@ msgid ""
 "other conventions and multilateral bodies, and to utilize intellectual "
 "property provisions to protect innovations submitted as best practices while"
 " implementing this data access policy."
-msgstr ""
-"En su decisión 17/COP.11, párrafo 14, se pide a la Secretaría que desarrolle"
-" una política de acceso a los datos y la información presentados por las "
-"Partes y otras entidades informantes, incluida la información presentada a "
-"través del sistema de examen del desempeño y evaluación de la aplicación "
-"(PRAIS), basándose en las prácticas y políticas de otras convenciones y "
-"organismos multilaterales, y que se recurra a las disposiciones en materia "
-"de propiedad intelectual para proteger las innovaciones presentadas como "
-"buenas prácticas cuando se ponga en práctica dicha política de acceso a los "
-"datos."
+msgstr "La decisión 17/COP.11, párrafo 14, solicita a la secretaría elaborar una política de acceso a los datos y la información proporcionados por las Partes y otras entidades informantes, incluidos los aportados a través del Sistema de Examen del Desempeño y Evaluación de la Implementación (PRAIS), tomando como base las prácticas y políticas de otras convenciones y organismos multilaterales, y utilizar las disposiciones sobre propiedad intelectual para proteger las innovaciones presentadas como buenas prácticas durante la aplicación de dicha política de acceso a los datos."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:9
 msgid "2. Submitting national datasets to PRAIS"
-msgstr "2. Envío de conjuntos de datos nacionales a PRAIS"
+msgstr "2. Presentación de conjuntos de datos nacionales en PRAIS"
 
 #: ../../annex_I.md:11
 msgid ""
 "There are three mechanisms to share non-default reporting datasets in PRAIS:"
-msgstr ""
-"En PRAIS existen tres mecanismos para el intercambio de conjuntos de datos "
-"de informes que no sean datos por defecto:"
+msgstr "Existen tres mecanismos para compartir conjuntos de datos de informes distintos de los predeterminados en PRAIS:"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:13
 msgid ""
 "Uploading data directly to PRAIS and supplying metadata (information about "
 "the dataset) on the forms provided;"
-msgstr ""
-"Cargar los datos directamente en PRAIS y suministrar los metadatos "
-"(información sobre el conjunto de datos) en los formularios previstos para "
-"ello;"
+msgstr "Cargar los datos directamente en PRAIS y proporcionar sus metadatos (información sobre el conjunto de datos) en los formularios correspondientes."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:14
 msgid ""
 "Via data transfer from Trends.Earth (when using national data for "
 "calculating UNCCD indicators in Trends.Earth);"
-msgstr ""
-"Mediante transferencia de datos desde Trends.Earth (cuando se utilicen datos"
-" nacionales para calcular los indicadores de la CLD en Trends.Earth);"
+msgstr "Transferir datos desde Trends.Earth (cuando se utilizan datos nacionales para calcular indicadores de la UNCCD en Trends.Earth)."
 
 #: ../../annex_I.md:15
 msgid "Creating spatial reporting data on the Spatial Data Viewer in PRAIS."
-msgstr ""
-"Creando datos de informes espaciales en el visualizador de datos espaciales "
-"de PRAIS."
+msgstr "Crear datos espaciales para la presentación de informes mediante el Visor de Datos Espaciales de PRAIS."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:17
 msgid "3. Licence Instructions"
-msgstr "3. Instrucciones para la licencia"
+msgstr "3. Instrucciones sobre licencias"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:19
@@ -117,23 +92,14 @@ msgid ""
 "to Parties in the PRAIS User Specific Licence (USL) form are– from most open"
 " to most restrictive – CC BY, CC BY-SA, CC BY-NC and CC BY-NC-SA. Each "
 "licence requires one or more of the following conditions:"
-msgstr ""
-"Las licencias Creative Commons (CC) son un conjunto de licencias bien "
-"desarrolladas y probadas que constituyen un estándar para compartir datos. "
-"Las opciones de licencia disponibles para las Partes en el formulario de "
-"licencia específica de usuario (USL) de PRAIS son -de la más abierta a la "
-"más restrictiva- CC BY, CC BY-SA, CC BY-NC y CC BY-NC-SA. Cada licencia "
-"requiere una o más de las siguientes condiciones:"
+msgstr "Las licencias Creative Commons (CC) constituyen un conjunto consolidado y ampliamente probado de licencias estándar para el intercambio de datos. Las opciones de licencia disponibles para las Partes en el formulario Licencia Específica del Usuario (USL) de PRAIS son, de la más abierta a la más restrictiva: CC BY, CC BY-SA, CC BY-NC y CC BY-NC-SA. Cada licencia exige una o más de las siguientes condiciones:"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:23
 msgid ""
 "Attribution (BY): Attribution is important to give you credit for the data "
 "and show its provenance. It is a required condition for all CC licenses."
-msgstr ""
-"Atribución (BY): La atribución es importante para dar crédito a los datos y "
-"mostrar su procedencia. Es una condición necesaria para todas las licencias "
-"CC."
+msgstr "Atribución (BY): La atribución es importante para reconocer la autoría de los datos e indicar su procedencia. Es un requisito obligatorio en todas las licencias Creative Commons."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:25
@@ -144,15 +110,7 @@ msgid ""
 "the same terms, but may make it difficult to reuse when combined with data "
 "licensed without the SA condition and under more open terms. In short, SA-"
 "licensed work is able to be remixed, but only into other SA outputs."
-msgstr ""
-"Compartir igual (SA): Esta condición indica que cualquier nuevo contenido "
-"creado mediante la combinación de estos datos, tiene que ser compartido bajo"
-" la misma licencia SA. Con ello se pretende garantizar que los datos sigan "
-"siendo reutilizables cuando se combinen con datos con licencia bajo las "
-"mismas condiciones, pero puede dificultar su reutilización cuando se "
-"combinen con datos con licencia sin la condición SA y bajo condiciones más "
-"abiertas. En resumen, el trabajo con licencia SA puede remezclarse, pero "
-"sólo en otros productos SA."
+msgstr "Compartir Igual (SA): Esta condición establece que cualquier contenido nuevo creado al combinar estos datos debe compartirse bajo la misma licencia SA. Su objetivo es garantizar que los datos sigan siendo reutilizables cuando se combinen con otros datos sujetos a las mismas condiciones, aunque puede dificultar la reutilización cuando se combinan con datos licenciados sin la condición SA o bajo condiciones más abiertas. En resumen, una obra con licencia SA puede remezclarse, pero únicamente para generar nuevas obras que también mantengan la licencia SA."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:27
@@ -161,12 +119,7 @@ msgid ""
 "and combined, but not for commercial purposes. This ensures that "
 "corporations cannot make profit on your data, but there are use cases that "
 "are not so clear-cut and may hinder reuse that you would be okay with."
-msgstr ""
-"No comercial (NC): Esta condición indica que los datos pueden reutilizarse y"
-" combinarse, pero no con fines comerciales. Esto garantiza que las empresas "
-"no puedan lucrarse con sus datos, pero hay casos de uso que no están tan "
-"claros y pueden dificultar una reutilización con la que usted estaría de "
-"acuerdo."
+msgstr "No Comercial (NC): Esta condición indica que los datos pueden reutilizarse y combinarse, pero no con fines comerciales. Garantiza que las empresas no puedan obtener beneficios económicos a partir de sus datos, aunque existen situaciones menos claras en las que esta restricción podría impedir reutilizaciones que usted sí estaría dispuesto a permitir."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:29
@@ -176,12 +129,7 @@ msgid ""
 "worldwide public domain. See "
 "<https://creativecommons.org/publicdomain/zero/1.0/deed.en> for further "
 "information."
-msgstr ""
-"Además, está disponible la Dedicación Universal al Dominio Público 1.0 de "
-"Creative Commons (CC0) para renunciar a los derechos de autor y dedicar los "
-"datos al dominio público mundial. Consulte "
-"<https://creativecommons.org/publicdomain/zero/1.0/deed.en> para obtener más"
-" información."
+msgstr "Además, la Dedicación Universal al Dominio Público 1.0 de Creative Commons (CC0) está disponible para renunciar a los derechos de autor y dedicar los datos al dominio público mundial. Para obtener más información, consulte: <https://creativecommons.org/publicdomain/zero/1.0/deed.en>"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:31
@@ -189,11 +137,7 @@ msgid ""
 "Figure 10 provides an overview of the public domain dedication and each "
 "Creative Commons licence and whether they allow remixes, commercial use, "
 "free cultural works and if they meet the ‘open’ definition."
-msgstr ""
-"La figura 10 ofrece una visión general de la dedicación al dominio público y"
-" de cada una de las licencias Creative Commons y de si permiten remezclas, "
-"uso comercial, obras culturales libres y si se ajustan a la definición de "
-"\"abierto\"."
+msgstr "La Figura 10 presenta una visión general de la dedicación al dominio público y de cada una de las licencias Creative Commons, e indica si permiten la creación de obras derivadas (remixes), el uso comercial, las obras culturales libres y si cumplen la definición de \"abierta\"."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:33
@@ -206,10 +150,7 @@ msgid ""
 "_**Figure 10**. Overview of various CC license options (source: Wikipedia, "
 "further information can be found at <https://creativecommons.org/share-your-"
 "work/cclicenses/>)_"
-msgstr ""
-"Figura 10**. Visión general de las distintas opciones de licencia CC "
-"(fuente: Wikipedia, más información en <https://creativecommons.org/share-"
-"your-work/cclicenses/>)_."
+msgstr "_**Figura 10**. Visión general de las distintas opciones de licencias Creative Commons (fuente: Wikipedia; puede encontrarse más información en <https://creativecommons.org/share-your-work/cclicenses/>)_"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:37
@@ -219,13 +160,7 @@ msgid ""
 "reported data and support legal, confident, and consistent reuse of national"
 " data by the secretariat. Therefore, they are encouraged to select an open "
 "licence for their national country Party data, choosing either:"
-msgstr ""
-"Como se explica en la introducción de este manual de presentación de "
-"informes, se recomienda encarecidamente a las Partes que maximicen la "
-"interoperabilidad y el impacto de los datos que comunican y que apoyen la "
-"reutilización legal, segura y coherente de los datos nacionales por parte de"
-" la secretaría. Por lo tanto, se les anima a seleccionar una licencia "
-"abierta para sus datos nacionales de los países Parte, eligiendo entre:"
+msgstr "Como se explica en la introducción de este manual de presentación de informes, se recomienda encarecidamente a las Partes maximizar la interoperabilidad y el impacto de los datos que presentan, así como facilitar la reutilización legal, fiable y coherente de los datos nacionales por parte de la secretaría. Por ello, se las alienta a seleccionar una licencia abierta para los datos nacionales de su país, eligiendo una de las siguientes opciones:"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:39
@@ -233,36 +168,28 @@ msgid ""
 "The Creative Commons Universal **Public Domain Dedication 1.0 (CC0)**. See "
 "<https://creativecommons.org/publicdomain/zero/1.0/deed.en> for further "
 "information;"
-msgstr ""
-"Creative Commons Universal **Dedicación al dominio público 1.0 (CC0)**. "
-"Consulte <https://creativecommons.org/publicdomain/zero/1.0/deed.en> para "
-"más información;"
+msgstr "La Dedicación Universal al **Dominio Público 1.0 de Creative Commons (CC0)**. Para más información, consulte: <https://creativecommons.org/publicdomain/zero/1.0/deed.en>."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:41
 msgid ""
 "The open Creative Commons **Attribution 4.0 International (CC BY) licence**,"
 " which means users of the data are free to:"
-msgstr ""
-"La licencia abierta Creative Commons **Atribución 4.0 Internacional (CC "
-"BY)**, lo que significa que los usuarios de los datos son libres de:"
+msgstr "La licencia abierta **Creative Commons Atribución 4.0 Internacional (CC BY)**, que permite a los usuarios de los datos:"
 
 #: ../../annex_I.md:43
 msgid "Share — Copy and redistribute the material in any medium or format."
-msgstr ""
-"Compartir: copiar y redistribuir el material en cualquier medio o formato."
+msgstr "Compartir: copiar y redistribuir el material en cualquier medio o formato."
 
 #: ../../annex_I.md:44
 msgid "Adapt — Remix, transform, and build upon the material."
-msgstr "Adaptar: remezclar, transformar y construir a partir del material."
+msgstr "Adaptar: remezclar, transformar y desarrollar el material."
 
 #: ../../annex_I.md:46
 msgid ""
 "However, in return for using the data, users must respect the following "
 "terms:"
-msgstr ""
-"Sin embargo, a cambio de usar los datos, los usuarios deben respetar los "
-"siguientes términos:"
+msgstr "No obstante, como contraprestación por el uso de los datos, los usuarios deberán cumplir las siguientes condiciones:"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:48
@@ -270,19 +197,14 @@ msgid ""
 "Attribution — Users must give appropriate credit, provide a link to the "
 "licence and indicate if changes were made. Users may do so in any reasonable"
 " manner."
-msgstr ""
-"Atribución - Los usuarios deben dar el crédito apropiado, proporcionar un "
-"enlace a la licencia e indicar si se han realizado cambios. Los usuarios "
-"pueden hacerlo de cualquier manera razonable."
+msgstr "Atribución (BY): Los usuarios deberán otorgar el reconocimiento correspondiente, proporcionar un enlace a la licencia e indicar si se realizaron modificaciones. Podrán hacerlo de cualquier manera razonable."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:50
 msgid ""
 "See <https://creativecommons.org/licenses/by/4.0/deed.en> for further "
 "information (translated into all United Nations languages)."
-msgstr ""
-"Consulte <https://creativecommons.org/licenses/by/4.0/deed.en> para más "
-"información (traducido a todas las lenguas de las Naciones Unidas)."
+msgstr "Para obtener más información, consulte: https://creativecommons.org/licenses/by/4.0/deed.es (disponible en todos los idiomas oficiales de las Naciones Unidas)."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:52
@@ -291,12 +213,7 @@ msgid ""
 "confidently, and consistently reused across systems for better tracking of "
 "global and regional status and trends in land degradation and drought and "
 "for seamless data sharing with UNCCD partners."
-msgstr ""
-"Cualquiera de estas opciones garantizará que los datos nacionales puedan "
-"reutilizarse de forma legal, segura y coherente en todos los sistemas para "
-"un mejor seguimiento de la situación y las tendencias mundiales y regionales"
-" de la degradación de la tierra y la sequía, y para un intercambio de datos "
-"sin fisuras con los socios de la CNULD."
+msgstr "Cualquiera de estas opciones garantizará que los datos nacionales puedan reutilizarse de manera legal, fiable y coherente en distintos sistemas, facilitando un mejor seguimiento del estado y las tendencias mundiales y regionales en materia de degradación de la tierra y sequía, así como el intercambio fluido de datos con los socios de la UNCCD."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:54
@@ -307,13 +224,7 @@ msgid ""
 "conflicting use conditions. For example, the secretariat will not be able to"
 " use national reports licensed with NC-SA or SA in the regional and global "
 "aggregate statistics and maps that are licensed with the BY-NC."
-msgstr ""
-"Sin embargo, NO se recomiendan las licencias con la restricción SA, ya que "
-"complica la reutilización del informe nacional debido a la necesidad de "
-"apilar licencias, es decir, combinar varias licencias con condiciones de uso"
-" diferentes y a veces contradictorias. Por ejemplo, la secretaría no podrá "
-"utilizar los informes nacionales con licencia NC-SA o SA en las estadísticas"
-" y mapas agregados regionales y globales que tengan licencia BY-NC."
+msgstr "No obstante, no se recomienda utilizar licencias con la condición SA (Compartir Igual), ya que complican la reutilización de los informes nacionales debido a la necesidad de compatibilizar múltiples licencias (licence stacking), es decir, combinar licencias con condiciones de uso diferentes y, en ocasiones, incompatibles. Por ejemplo, la secretaría no podrá utilizar informes nacionales con licencias NC-SA o SA para elaborar estadísticas y mapas regionales y mundiales agregados que estén sujetos a una licencia BY-NC."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:56
@@ -324,20 +235,12 @@ msgid ""
 "the Creative Commons licenses are appropriate, Parties can report a custom "
 "licence, but still must grant the secretariat explicit permission on the USL"
 " form to use that data in regional and global aggregates."
-msgstr ""
-"Por estas razones, las Partes que otorguen licencias de datos con SA deben "
-"conceder a la secretaría un permiso explícito en el formulario de Licencia "
-"Específica del Usuario (LSU) para utilizar esos datos en los agregados "
-"regionales y mundiales. Alternativamente, si ninguna de las licencias "
-"Creative Commons es apropiada, las Partes pueden informar de una licencia "
-"personalizada, pero aún así deben conceder a la secretaría permiso explícito"
-" en el formulario de USL para utilizar esos datos en agregados regionales y "
-"globales."
+msgstr "Por estas razones, las Partes que utilicen una licencia con la condición SA deberán conceder autorización expresa a la secretaría, mediante el formulario de Licencia Específica del Usuario (USL), para utilizar esos datos en agregados regionales y mundiales. Asimismo, si ninguna de las licencias Creative Commons resulta adecuada, las Partes podrán declarar una licencia personalizada; sin embargo, también deberán otorgar autorización expresa a la secretaría, a través del formulario USL, para utilizar esos datos en agregados regionales y mundiales."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:58
 msgid "3.2 User Specific Licence (USL)"
-msgstr "3.2 Licencia específica de usuario (USL)"
+msgstr "3.2. Licencia Específica del Usuario (USL)"
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:60
@@ -348,23 +251,13 @@ msgid ""
 "out the licence form provided in PRAIS, which can be accessed from the "
 "\"Spatial Layers\" tab or directly from the country “Overview” page in the "
 "list of menu items on the right hand side."
-msgstr ""
-"Teniendo en cuenta la explicación de las opciones de licencia proporcionada "
-"en la sección 3.1, las Partes deberán seleccionar una Licencia Específica de"
-" Usuario (LSU) para determinar las condiciones de uso de los Datos "
-"contenidos en sus informes nacionales rellenando el formulario de licencia "
-"proporcionado en PRAIS, al que se puede acceder desde la pestaña \"Capas "
-"espaciales\" o directamente desde la página \"Visión general\" del país en "
-"la lista de elementos del menú de la derecha."
+msgstr "Teniendo en cuenta la explicación sobre las opciones de licencia presentada en la sección 3.1, las Partes deberán seleccionar una Licencia Específica del Usuario (USL) para determinar las condiciones de uso de los datos contenidos en sus informes nacionales. Para ello, deberán completar el formulario de licencia disponible en PRAIS, al que puede accederse desde la pestaña \"Capas espaciales\" o directamente desde la página \"Resumen\" del país, en la lista de opciones del menú situada en el lado derecho."
 
 #: ../../annex_I.md:62
 msgid ""
 "By choosing a USL, the user consents to the chosen licence. It is understood"
 " that the following terms and conditions are agreed to:"
-msgstr ""
-"Al escoger una USL, el usuario da su consentimiento para la licencia "
-"escogida. Se entiende que está de acuerdo con los siguientes términos y "
-"condiciones:"
+msgstr "Al seleccionar una USL, el usuario acepta la licencia elegida. Se entiende que acepta los siguientes términos y condiciones:"
 
 #: ../../annex_I.md:64
 msgid ""
@@ -372,22 +265,14 @@ msgid ""
 "implied, of any of the privileges and immunities of the United Nations "
 "Convention to Combat Desertification (UNCCD) or the United Nations, "
 "including its subsidiary organs."
-msgstr ""
-"La USL no contendrá ni estará relacionada con nada que deba considerarse una"
-" exención, explícita o implícita, de cualquiera de los privilegios e "
-"inmunidades de la Convención de las Naciones Unidas de Lucha contra la "
-"Desertificación (CLD) o de las Naciones Unidas, incluidos sus órganos "
-"subsidiarios."
+msgstr "Nada de lo dispuesto en esta USL, ni relacionado con ella, se interpretará como una renuncia, expresa o implícita, a ninguno de los privilegios e inmunidades de la Convención de las Naciones Unidas de Lucha contra la Desertificación (UNCCD) ni de las Naciones Unidas, incluidos sus órganos subsidiarios."
 
 #: ../../annex_I.md:65
 msgid ""
 "The name and emblem of the UNCCD is the property of the UNCCD, which owns "
 "all rights to its use. The logo can only be used to identify events and "
 "activities related to the UNCCD."
-msgstr ""
-"El nombre y el emblema de la CLD es propiedad de la CLD, que es titular de "
-"todos sus derechos de uso. El logo solo podrá usarse para identificar "
-"eventos y actividades relativas a la CLD."
+msgstr "El nombre y el emblema de la UNCCD son propiedad de la Convención, que posee todos los derechos sobre su uso. El logotipo solo podrá utilizarse para identificar eventos y actividades relacionados con la UNCCD."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:67
@@ -409,44 +294,21 @@ msgid ""
 "be bound by the terms and conditions of use set out in the USL (if the data "
 "is not already in the public domain or its source licence applies additional"
 " restriction on use of the data)."
-msgstr ""
-"La CLD no será responsable de ningún uso de la información más allá de lo "
-"estipulado en esta LSU, cuando no se haya solicitado y concedido una "
-"autorización previa de acuerdo con las condiciones expresadas y comunicadas "
-"por la CLD. La LSU determinará las condiciones de reutilización de los "
-"conjuntos de datos nacionales alojados en PRAIS y gestionados por la "
-"secretaría de la CLD a efectos de la presentación de informes nacionales. A "
-"efectos del presente acuerdo, los \"Datos\" comprenden cualquier dato "
-"nacional, con especial reconocimiento de los datos espaciales y los datos de"
-" atributos asociados proporcionados por el país Parte en el proceso de "
-"presentación de informes a la CLD mediante su creación en el Visor de Datos "
-"Espaciales de PRAIS, utilizando la herramienta de carga de PRAIS o a través "
-"de Trends.Earth u otras herramientas de software de terceros. Los Datos se "
-"utilizarán en mapas agregados regionales y mundiales, estadísticas y otros "
-"productos de información por la secretaría, en cumplimiento de su mandato en"
-" virtud de la Decisión 11/COP.14, y podrán facilitarse a los asociados de la"
-" CLD previa solicitud y en el entendimiento de que leen y consienten en "
-"someterse a los términos y condiciones de uso establecidos en la LSU (si los"
-" datos no son ya de dominio público o su licencia de origen aplica una "
-"restricción adicional al uso de los datos)."
+msgstr "La UNCCD no será responsable de ningún uso de la información que exceda lo estipulado en esta USL, cuando no se haya solicitado ni obtenido autorización previa conforme a las condiciones establecidas y comunicadas por la UNCCD. La USL determinará las condiciones de reutilización de los conjuntos de datos nacionales alojados en PRAIS y gestionados por la secretaría de la UNCCD para fines de presentación de informes nacionales. A efectos de este acuerdo, el término \"Datos\" comprende cualquier dato nacional, con especial referencia a los datos espaciales y a los datos de atributos asociados proporcionados por la Parte durante el proceso de presentación de informes a la UNCCD, ya sea mediante su creación en el Visor de Datos Espaciales de PRAIS, mediante la herramienta de carga de PRAIS o a través de Trends.Earth u otras herramientas de software de terceros. La secretaría utilizará estos datos para elaborar mapas, estadísticas y otros productos de información agregados a escala regional y mundial, en cumplimiento de su mandato conforme a la decisión 11/COP.14. Asimismo, los datos podrán facilitarse, previa solicitud, a los asociados de la UNCCD, siempre que estos hayan leído y aceptado quedar sujetos a los términos y condiciones de uso establecidos en la USL (salvo que los datos ya pertenezcan al dominio público o que la licencia de origen imponga restricciones adicionales sobre su uso)."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:72
 msgid ""
 "Therefore, country Parties should familiarize themselves with the options "
 "described above and fill out the licence form accordingly."
-msgstr ""
-"Por lo tanto, los países Partes deben familiarizarse con las opciones "
-"descritas y rellenar el formulario de licencia en consecuencia."
+msgstr "Por consiguiente, las Partes deberán familiarizarse con las opciones descritas anteriormente y completar el formulario de licencia en consecuencia."
 
 # Requires manual validation; translated with DeepL
 #: ../../annex_I.md:74
 msgid ""
 "Parties should note that if no USL form is submitted then the default CC BY-"
 "NC 4.0 license will apply to the submitted Data."
-msgstr ""
-"Las Partes deben tener en cuenta que si no se presenta un formulario de USL,"
-" se aplicará a los Datos enviados la licencia CC BY-NC 4.0 por defecto."
+msgstr "Las Partes deberán tener presente que, si no presentan un formulario USL, a los datos enviados se les aplicará por defecto la licencia CC BY-NC 4.0."
 
 #~ msgid "2. Introduction"
 #~ msgstr "2. Introducción"
