@@ -271,32 +271,32 @@ msgstr ""
 #: ../../introduction.md:170 ../../introduction.md:201
 #, python-brace-format
 msgid "{rspan}`1` Indicator code"
-msgstr "{rspan}`1` Código del indicador"
+msgstr " Código del indicador"
 
 #: ../../introduction.md:57 ../../introduction.md:97 ../../introduction.md:136
 #: ../../introduction.md:171 ../../introduction.md:202
 #, python-brace-format
 msgid "{rspan}`1` Indicator name"
-msgstr "{rspan}`1` Nombre del indicador"
+msgstr " Nombre del indicador"
 
 #: ../../introduction.md:58 ../../introduction.md:98 ../../introduction.md:137
 #: ../../introduction.md:172 ../../introduction.md:203
 #, python-brace-format
 msgid "{rspan}`1` Metrics / proxies"
-msgstr "{rspan}`1` Métricas / proxies"
+msgstr " Métricas / proxies"
 
 # Requires manual validation; translated with DeepL
 #: ../../introduction.md:59 ../../introduction.md:99 ../../introduction.md:138
 #: ../../introduction.md:204
 #, python-brace-format
 msgid "{rspan}`1` Adoption Decision"
-msgstr " {rspan}`1` Decisión de adopción"
+msgstr " Decisión de adopción"
 
 #: ../../introduction.md:60 ../../introduction.md:100 ../../introduction.md:139
 #: ../../introduction.md:174 ../../introduction.md:205
 #, python-brace-format
 msgid "{cspan}`1` Reporting attribution"
-msgstr "{cspan}`1` Criterios de presentación de informes"
+msgstr " Criterios de presentación de informes"
 
 #: ../../introduction.md:61 ../../introduction.md:101 ../../introduction.md:140
 #: ../../introduction.md:175 ../../introduction.md:206
@@ -341,7 +341,7 @@ msgstr "Obligatorio"
 #: ../../introduction.md:68
 #, python-brace-format
 msgid "{rspan}`3`Optional."
-msgstr "{rspan}`3`Opcional."
+msgstr " Opcional."
 
 # Requires manual validation; translated with DeepL
 #: ../../introduction.md:70
@@ -561,7 +561,7 @@ msgstr ""
 #: ../../introduction.md:173
 #, python-brace-format
 msgid "{rspan}`1` Adoption Decision / proposed"
-msgstr " {rspan}`1` Decisión de adopción / propuesta"
+msgstr " Decisión de adopción / propuesta"
 
 #: ../../introduction.md:177
 msgid "SO 4-1"
@@ -575,7 +575,7 @@ msgid ""
 "multipurpose indicator used to measure progress towards both strategic "
 "objectives 1 and 4. See progress indicator SO 1-3."
 msgstr ""
-" {cspan}`2` Las tendencias de las reservas de carbono sobre y bajo el "
+" Las tendencias de las reservas de carbono sobre y bajo el "
 "suelo constituyen un indicador de uso múltiple que se utiliza para medir "
 "los avances hacia los objetivos estratégicos 1 y 4. Véase el indicador de"
 " progreso OE 1-3."
@@ -2928,4 +2928,3 @@ msgstr ""
 #~ "en contacto directamente con el programa"
 #~ " SALB enviando un correo electrónico "
 #~ "a <salb@un.org>."
-
