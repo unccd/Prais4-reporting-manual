@@ -23,17 +23,17 @@ msgid ""
 "ecosystems, combat desertification/ land degradation, promote sustainable"
 " land management and contribute to land degradation neutrality"
 msgstr ""
-"1. الهدف الاستراتيجي 1: تحسين حالة النُظم الإيكولوجية المتأثرة، ومكافحة "
+"‎1.‎ الهدف الاستراتيجي 1: تحسين حالة النُظم الإيكولوجية المتأثرة، ومكافحة "
 "التصحُّر/ تدهور الأراضي، وتعزيز الإدارة المستدامة للأراضي، والمساهمة في "
 "تحقيق الحياد في تدهور الأراضي"
 
 #: ../../SO1.md:3
 msgid "1.1. SO 1-1 – Trends in land cover"
-msgstr "1.1. الهدف الاستراتيجي 1-1 – الاتجاهات السائدة في الغطاء الأرضي"
+msgstr "‎1.1.‎ الهدف الاستراتيجي 1-1 – الاتجاهات السائدة في الغطاء الأرضي"
 
 #: ../../SO1.md:5
 msgid "1.1.1. Introduction"
-msgstr "1.1.1. مقدمة"
+msgstr "‎1.1.1.‎ مقدمة"
 
 #: ../../SO1.md:7
 msgid ""
@@ -84,7 +84,7 @@ msgstr ""
 
 #: ../../SO1.md:15
 msgid "1.1.2. Prerequisites for reporting"
-msgstr "1.1.2. المتطلبات المسبقة لإعداد التقارير"
+msgstr "‎1.1.2.‎ المتطلبات المسبقة لإعداد التقارير"
 
 #: ../../SO1.md:17
 msgid ""
@@ -143,7 +143,7 @@ msgstr ""
 
 #: ../../SO1.md:25
 msgid "1.1.3. Reporting process and step-by-step procedure"
-msgstr "1.1.3. عملية إعداد التقارير والإجراءات خطوة بخطوة"
+msgstr "‎1.1.3.‎ عملية إعداد التقارير والإجراءات خطوة بخطوة"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:27
@@ -539,13 +539,13 @@ msgstr ""
 #: ../../SO1.md:119
 #, python-brace-format
 msgid "{cspan}`1` UNCCD"
-msgstr "{cspan}`1` اتفاقية الأمم المتحدة لمكافحة التصحُّر (UNCCD)"
+msgstr " اتفاقية الأمم المتحدة لمكافحة التصحُّر (UNCCD)"
 
 #: ../../SO1.md:120
 #, python-brace-format
 msgid "{cspan}`1` European Space Agency Climate Change Initiative Land Cover"
 msgstr ""
-" {cspan}`1` الغطاء الأرضي لمبادرة تغيُّر المناخ التابعة لوكالة الفضاء "
+" الغطاء الأرضي لمبادرة تغيُّر المناخ التابعة لوكالة الفضاء "
 "الأوروبية"
 
 #: ../../SO1.md:121 ../../SO1.md:123
@@ -559,12 +559,12 @@ msgstr "المسمى"
 #: ../../SO1.md:125
 #, python-brace-format
 msgid "{rspan}`11` 1"
-msgstr " {rspan}`11` 1"
+msgstr " 1"
 
 #: ../../SO1.md:126
 #, python-brace-format
 msgid "{rspan}`11` Tree-covered areas"
-msgstr " {rspan}`11` المناطق المغطاة بالأشجار"
+msgstr " المناطق المغطاة بالأشجار "
 
 #: ../../SO1.md:127
 msgid "50"
@@ -665,12 +665,12 @@ msgstr "فسيفساء أشجار وشجيرات (>50%)/غطاء عشبي (< 50%
 #: ../../SO1.md:151
 #, python-brace-format
 msgid "{rspan}`8` 2"
-msgstr " {rspan}`8` 2"
+msgstr " 2"
 
 #: ../../SO1.md:152
 #, python-brace-format
 msgid "{rspan}`8` Grassland"
-msgstr " {rspan}`8` أراضي المروج والمراعي"
+msgstr " أراضي المروج والمراعي"
 
 #: ../../SO1.md:153
 msgid "110"
@@ -747,12 +747,12 @@ msgstr "غطاء عشبي متناثر (<15%)"
 #: ../../SO1.md:171
 #, python-brace-format
 msgid "{rspan}`5` 3"
-msgstr " {rspan}`5` 3"
+msgstr " 3"
 
 #: ../../SO1.md:172
 #, python-brace-format
 msgid "{rspan}`5` Cropland"
-msgstr " {rspan}`5` الأراضي الزراعية"
+msgstr " الأراضي الزراعية"
 
 #: ../../SO1.md:173 ../../SO1.md:826
 msgid "10"
@@ -813,12 +813,12 @@ msgstr ""
 #: ../../SO1.md:185
 #, python-brace-format
 msgid "{rspan}`2` 4"
-msgstr " {rspan}`2` 4"
+msgstr " 4"
 
 #: ../../SO1.md:186
 #, python-brace-format
 msgid "{rspan}`2` Wetland"
-msgstr " {rspan}`2` الأراضي الرطبة"
+msgstr " الأراضي الرطبة"
 
 #: ../../SO1.md:187
 msgid "160"
@@ -861,12 +861,12 @@ msgstr "المناطق الحضرية"
 #: ../../SO1.md:197
 #, python-brace-format
 msgid "{rspan}`3` 6"
-msgstr " {rspan}`3` 6"
+msgstr " 6"
 
 #: ../../SO1.md:198
 #, python-brace-format
 msgid "{rspan}`3` Other land"
-msgstr " {rspan}`3` أراضي أخرى"
+msgstr " أراضي أخرى"
 
 #: ../../SO1.md:199
 msgid "200"
@@ -996,12 +996,12 @@ msgstr ""
 #: ../../SO1.md:239
 #, python-brace-format
 msgid "{rspan}`1`"
-msgstr "{rspan}`1`"
+msgstr ""
 
 #: ../../SO1.md:240
 #, python-brace-format
 msgid "{cspan}`7` FINAL CLASS"
-msgstr " {cspan}`7` الفئة النهائية"
+msgstr " الفئة النهائية"
 
 #: ../../SO1.md:241 ../../SO1.md:250
 msgid "Tree-covered areas"
@@ -1018,7 +1018,7 @@ msgstr "الفئة الأصلية"
 #: ../../SO1.md:249
 #, python-brace-format
 msgid "{cspan}`7`"
-msgstr "{cspan}`7`"
+msgstr ""
 
 #: ../../SO1.md:251 ../../SO1.md:257 ../../SO1.md:260 ../../SO1.md:265
 #: ../../SO1.md:269 ../../SO1.md:273 ../../SO1.md:278 ../../SO1.md:281
@@ -1391,12 +1391,12 @@ msgstr "*__الجدول 10__. مواصفات بيانات الغطاء الأر�
 #: ../../SO1.md:386 ../../SO1.md:595
 #, python-brace-format
 msgid "{rspan}`1` Item"
-msgstr " {rspan}`1` العنصر"
+msgstr " العنصر"
 
 #: ../../SO1.md:387 ../../SO1.md:596
 #, python-brace-format
 msgid "{cspan}`1` Specifications"
-msgstr " {cspan}`1` المواصفات"
+msgstr " المواصفات"
 
 #: ../../SO1.md:388
 msgid ""
@@ -1532,8 +1532,8 @@ msgid ""
 "A list of minimum metadata information is listed in {doc}`Annex II "
 "<annex_II>` to this document."
 msgstr ""
-"ترد قائمة بحد أدنى من معلومات البيانات الوصفية في {doc}الملحق الثاني "
-"<annex_II> لهذا المستند."
+"ترد قائمة بحد أدنى من معلومات البيانات الوصفية في {doc}`الملحق الثاني "
+"<annex_II>` لهذا المستند."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:420
@@ -1829,7 +1829,7 @@ msgstr ""
 
 #: ../../SO1.md:488
 msgid "1.1.4. Dependencies"
-msgstr "1.1.4. التبعيات"
+msgstr "‎1.1.4.‎ التبعيات"
 
 #: ../../SO1.md:490
 msgid ""
@@ -1875,7 +1875,7 @@ msgstr ""
 
 #: ../../SO1.md:496
 msgid "1.1.5. Challenges"
-msgstr "1.1.5. التحديات"
+msgstr "‎1.1.5.‎ التحديات"
 
 #: ../../SO1.md:498
 msgid "Data availability and quality"
@@ -1984,7 +1984,7 @@ msgstr ""
 
 #: ../../SO1.md:514
 msgid "1.1.6. Summary (main actions)"
-msgstr "1.1.6. ملخص (الإجراءات الرئيسية)"
+msgstr "‎1.1.6.‎ ملخص (الإجراءات الرئيسية)"
 
 #: ../../SO1.md:516
 msgid "Key actions for reporting on land cover changes are as follows:"
@@ -2095,7 +2095,7 @@ msgstr ""
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:534
 msgid "1.1.7. Additional Resources"
-msgstr "1.1.7. موارد إضافية"
+msgstr "‎1.1.7.‎ موارد إضافية"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:536
@@ -2138,12 +2138,12 @@ msgstr ""
 #: ../../SO1.md:542
 msgid "1.2. SO 1-2 – Trends in land productivity or functioning of the land"
 msgstr ""
-"1.2. الهدف الاستراتيجي 1-2 – الاتجاهات السائدة في إنتاجية الأراضي أو أداء"
+"‎1.2.‎ الهدف الاستراتيجي 1-2 – الاتجاهات السائدة في إنتاجية الأراضي أو أداء"
 " وظائف الأراضي"
 
 #: ../../SO1.md:544
 msgid "1.2.1. Introduction"
-msgstr "1.2.1. مقدمة"
+msgstr "‎1.2.1.‎ مقدمة"
 
 #: ../../SO1.md:546
 msgid ""
@@ -2220,7 +2220,7 @@ msgstr ""
 
 #: ../../SO1.md:557
 msgid "1.2.2. Prerequisites for reporting"
-msgstr "1.2.2. المتطلبات المسبقة لإعداد التقارير"
+msgstr "‎1.2.2.‎ المتطلبات المسبقة لإعداد التقارير"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:559
@@ -2278,7 +2278,7 @@ msgstr ""
 
 #: ../../SO1.md:567
 msgid "1.2.3. Reporting process and step-by-step procedure"
-msgstr "1.2.3. عملية إعداد التقارير والإجراءات خطوة بخطوة"
+msgstr "‎1.2.3.‎ عملية إعداد التقارير والإجراءات خطوة بخطوة"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:569
@@ -2563,7 +2563,7 @@ msgid ""
 "{doc}`Annex II <annex_II>`."
 msgstr ""
 "يرد الحد الأدنى من محتوى البيانات الوصفية وفقًا للحقول الإلزامية في "
-"{doc}الملحق الثاني <annex_II>."
+"{doc}`الملحق الثاني <annex_II>`."
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:643
@@ -2935,31 +2935,31 @@ msgstr ""
 #: ../../SO1.md:718
 #, python-brace-format
 msgid "{cspan}`3` Trends in Land Productivity"
-msgstr " {cspan}`3` الاتجاهات السائدة في إنتاجية الأراضي"
+msgstr " الاتجاهات السائدة في إنتاجية الأراضي"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:719
 #, python-brace-format
 msgid "{rspan}`1` Period"
-msgstr " {rspan}`1` الفترة"
+msgstr " الفترة"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:720
 #, python-brace-format
 msgid "{rspan}`1` Trend / Trajectory{{br}}(16 years)"
-msgstr " {rspan}`1` الاتجاه / المسار{{br}}(16 عامًا)"
+msgstr " الاتجاه / المسار{{br}}(16 عامًا)"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:721
 #, python-brace-format
 msgid "{cspan}`1` State (16 years)"
-msgstr " {cspan}`1` الحالة (16 عامًا)"
+msgstr " الحالة (16 عامًا)"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:722
 #, python-brace-format
 msgid "{rspan}`1` Performance{{br}}(16 years)"
-msgstr " {rspan}`1` الأداء{{br}}(16 عامًا)"
+msgstr " الأداء{{br}}(16 عامًا)"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:723
@@ -3070,7 +3070,7 @@ msgstr ""
 #: ../../SO1.md:760
 #, python-brace-format
 msgid "{cspan}`2` Changes observed in the three input productivity metrics"
-msgstr " {cspan}`2` التغيُّرات المرصودة في مقاييس الإنتاجية المدخلة الثلاثة"
+msgstr " التغيُّرات المرصودة في مقاييس الإنتاجية المدخلة الثلاثة"
 
 #: ../../SO1.md:761
 #, python-brace-format
@@ -3078,7 +3078,7 @@ msgid ""
 "{cspan}`1` Land productivity dynamics and land productivity degradation "
 "status derived from the combination of the three productivity metrics"
 msgstr ""
-" {cspan}`1` ديناميكيات إنتاجية الأراضي وحالة تدهور إنتاجية الأراضي "
+" ديناميكيات إنتاجية الأراضي وحالة تدهور إنتاجية الأراضي "
 "المستمدة من دمج مقاييس الإنتاجية الثلاثة"
 
 #: ../../SO1.md:762
@@ -3514,7 +3514,7 @@ msgstr ""
 
 #: ../../SO1.md:947
 msgid "1.2.4. Dependencies"
-msgstr "1.2.4. التبعيات"
+msgstr "‎1.2.4.‎ التبعيات"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:949
@@ -3531,7 +3531,7 @@ msgstr ""
 
 #: ../../SO1.md:951
 msgid "1.2.5. Challenges"
-msgstr "1.2.5. التحديات"
+msgstr "‎1.2.5.‎ التحديات"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:953
@@ -3624,7 +3624,7 @@ msgstr ""
 
 #: ../../SO1.md:963
 msgid "1.2.6. Summary (main actions)"
-msgstr "1.2.6. ملخص (الإجراءات الرئيسية)"
+msgstr "‎1.2.6.‎ ملخص (الإجراءات الرئيسية)"
 
 #: ../../SO1.md:965
 msgid "Key actions for reporting on land productivity dynamics are as follows:"
@@ -3740,7 +3740,7 @@ msgstr ""
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:976
 msgid "1.2.7. Additional Resources"
-msgstr "1.2.7. موارد إضافية"
+msgstr "‎1.2.7.‎ موارد إضافية"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:978
@@ -3791,12 +3791,12 @@ msgstr ""
 #: ../../SO1.md:983
 msgid "1.3. SO 1-3 – Trends in carbon stocks above and below ground"
 msgstr ""
-"1.3. الهدف الاستراتيجي 1-3 – الاتجاهات السائدة في مخزونات الكربون فوق "
+"‎1.3.‎ الهدف الاستراتيجي 1-3 – الاتجاهات السائدة في مخزونات الكربون فوق "
 "الأرض وتحت الأرض"
 
 #: ../../SO1.md:985
 msgid "1.3.1. Introduction"
-msgstr "1.3.1. مقدمة"
+msgstr "‎1.3.1.‎ مقدمة"
 
 #: ../../SO1.md:987
 msgid ""
@@ -3911,7 +3911,7 @@ msgstr ""
 
 #: ../../SO1.md:1001
 msgid "1.3.2. Prerequisites for reporting"
-msgstr "1.3.2. متطلبات إعداد التقارير"
+msgstr "‎1.3.2.‎ متطلبات إعداد التقارير"
 
 #: ../../SO1.md:1003
 msgid ""
@@ -3983,7 +3983,7 @@ msgstr ""
 
 #: ../../SO1.md:1013
 msgid "1.3.3. Reporting process and step-by-step procedure"
-msgstr "1.3.3. عملية إعداد التقارير والإجراءات خطوة بخطوة"
+msgstr "‎1.3.3.‎ عملية إعداد التقارير والإجراءات خطوة بخطوة"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:1015
@@ -4389,12 +4389,12 @@ msgstr "*__الجدول 14__. مواصفات البيانات لمؤشر اله�
 #: ../../SO1.md:1096
 #, python-brace-format
 msgid "{rspan}`1`Item"
-msgstr "{rspan}`1` العُنصر"
+msgstr " العُنصر"
 
 #: ../../SO1.md:1097
 #, python-brace-format
 msgid "{cspan}`1`Specifications"
-msgstr "{cspan}`1` المواصفات"
+msgstr " المواصفات"
 
 #: ../../SO1.md:1098
 msgid "Default data"
@@ -4713,7 +4713,7 @@ msgstr ""
 "السطحية لكل فئة من فئات الغطاء الأرضي الافتراضية السبع للفترات المرجعية "
 "والأساس وإعداد التقارير. وإذا استخدمت الأطراف بيانات وطنية بديلة، فيجب "
 "عليها تقديم هذه القيم وتوفير البيانات الوصفية الأساسية أيضًا (انظر "
-"{doc}الملحق الثاني <annex_II>) لمجموعات البيانات المقرر استخدامها في "
+"{doc}`الملحق الثاني <annex_II>`) لمجموعات البيانات المقرر استخدامها في "
 "نموذج مصادر البيانات الذي يفتح عند تحديد \"تحرير مصادر البيانات\"."
 
 # Requires manual validation; translated with DeepL
@@ -5015,7 +5015,7 @@ msgstr "تدهور الكربون العضوي في التربة في فترة �
 
 #: ../../SO1.md:1240
 msgid "1.3.4. Dependencies"
-msgstr "1.3.4. التبعيات"
+msgstr "‎1.3.4.‎ التبعيات"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:1242
@@ -5034,7 +5034,7 @@ msgstr ""
 
 #: ../../SO1.md:1244
 msgid "1.3.5. Challenges"
-msgstr "1.3.5. التحديات"
+msgstr "‎1.3.5.‎ التحديات"
 
 #: ../../SO1.md:1246
 msgid "Data availability"
@@ -5112,7 +5112,7 @@ msgstr ""
 
 #: ../../SO1.md:1260
 msgid "1.3.6. Summary (main actions)"
-msgstr "1.3.6. ملخص (الإجراءات الرئيسية)"
+msgstr "‎1.3.6.‎ ملخص (الإجراءات الرئيسية)"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:1262
@@ -5249,7 +5249,7 @@ msgstr ""
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:1278
 msgid "1.3.7. Additional Resources"
-msgstr "1.3.7. موارد إضافية"
+msgstr "‎1.3.7.‎ موارد إضافية"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:1280
@@ -5317,12 +5317,12 @@ msgid ""
 "1.4. SO 1-4 – Proportion of land that is degraded over total land area "
 "(Sustainable Development Goal indicator 15.3.1)"
 msgstr ""
-"1.4. الهدف الاستراتيجي 1-4 – نسبة الأراضي المتدهورة إلى إجمالي مساحة "
+"‎1.4.‎ الهدف الاستراتيجي 1-4 – نسبة الأراضي المتدهورة إلى إجمالي مساحة "
 "الأراضي (مؤشر هدف التنمية المستدامة 15.3.1)"
 
 #: ../../SO1.md:1288
 msgid "1.4.1. Introduction"
-msgstr "1.4.1. مقدمة"
+msgstr "‎1.4.1.‎ مقدمة"
 
 #: ../../SO1.md:1290
 msgid ""
@@ -5428,7 +5428,7 @@ msgstr ""
 
 #: ../../SO1.md:1308
 msgid "1.4.2. Prerequisites for reporting"
-msgstr "1.4.2. متطلبات إعداد التقارير"
+msgstr "‎1.4.2.‎ متطلبات إعداد التقارير"
 
 #: ../../SO1.md:1310
 msgid ""
@@ -5477,7 +5477,7 @@ msgstr ""
 
 #: ../../SO1.md:1318
 msgid "1.4.3. Reporting process and step-by-step procedure"
-msgstr "1.4.3. عملية إعداد التقارير والإجراءات خطوة بخطوة"
+msgstr "‎1.4.3.‎ عملية إعداد التقارير والإجراءات خطوة بخطوة"
 
 #: ../../SO1.md:1320
 msgid ""
@@ -6116,7 +6116,7 @@ msgstr "البؤر المضيئة للتحسين (للبلدان التي تقد
 
 #: ../../SO1.md:1453
 msgid "1.4.4. Dependencies"
-msgstr "1.4.4. التبعيات"
+msgstr "‎1.4.4.‎ التبعيات"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:1455
@@ -6142,7 +6142,7 @@ msgstr ""
 
 #: ../../SO1.md:1460
 msgid "1.4.5. Summary (main actions)"
-msgstr "1.4.5. ملخص (الإجراءات الرئيسية)"
+msgstr "‎1.4.5.‎ ملخص (الإجراءات الرئيسية)"
 
 #: ../../SO1.md:1462
 msgid "Key actions for reporting on the SDG indicator 15.3.1 are as follows:"
@@ -6230,7 +6230,7 @@ msgstr ""
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:1475
 msgid "1.4.6. Additional Resources"
-msgstr "1.4.6. موارد إضافية"
+msgstr "‎1.4.6.‎ موارد إضافية"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:1477

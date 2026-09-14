@@ -36,7 +36,17 @@ msgid ""
 "{term}`S <Safely managed drinking water source(s)>` | {term}`T <Target>` | "
 "{term}`U <UNCCD National Action Programmes (NAPs)>` | {term}`V <Vector "
 "data>` | {term}`W <Water bodies>`|"
-msgstr "| {term} A <الكتلة الحيوية فوق سطح الأرض> | {term} B <الخط الأساسي> | {term} C <بناء القدرات، تنمية القدرات> | {term} D <البيانات> | E <عوامل الضعف الاقتصادي> | {term} F <النتائج السلبية الخاطئة> | {term}  G <الربح (المراقب)> | {term} H <المخاطر> | {term} I <إطار التنفيذ> | {term} K <منطقة التنوُّع البيولوجي الرئيسية> | {term} L <الغطاء الأرضي> | {term} M <إدماج منظور النوع الاجتماعي> | {term} N <رأس المال الطبيعي> | {term} O <لجنة المساعدة الإنمائية التابعة لمنظمة التعاون الاقتصادي والتنمية> | {term} P <الشراكة> | {term} R <بيانات نقطية> | {term}`S <مصدر (مصادر) مياه الشرب المُدارة بشكل آمن>` | {term}`T <الهدف>` | {term}`U <برامج العمل الوطنية لاتفاقية الأمم المتحدة لمكافحة التصحُّر>` | {term}`V <بيانات المتجهات>` | {term}`W <المسطحات المائية>`|"
+msgstr ""
+"| {term}`A <Above ground biomass>` | {term}`B <Baseline>` | {term}`C "
+"<Capacity building, capacity development>` | {term}`D <Data>` | {term}`E "
+"<Economic vulnerability factors>` | {term}`F <False negative>` | {term}`G "
+"<Gain (monitored)>`| {term}`H <Hazard>` | {term}`I <Implementation "
+"Framework>` | {term}`K <Key Biodiversity Area>` | {term}`L <Land cover>` | "
+"{term}`M <Mainstreaming gender>` | {term}`N <Natural capital>` | {term}`O "
+"<OECD DAC CRS>` | {term}`P <Partnership>` | {term}`R <Raster data>` | "
+"{term}`S <Safely managed drinking water source(s)>` | {term}`T <Target>` | "
+"{term}`U <UNCCD National Action Programmes (NAPs)>` | {term}`V <Vector "
+"data>` | {term}`W <Water bodies>`|"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md
@@ -54,7 +64,7 @@ msgstr "الكتلة الحيوية للنباتات الحية، الخشبية
 #: ../../glossary.md:19
 #, python-brace-format
 msgid "_See also {term}`Below ground biomass`._"
-msgstr "_انظر أيضًا {term} \"الكتلة الحيوية تحت الأرض\"._"
+msgstr "_انظر أيضًا {term}`الكتلة الحيوية تحت الأرض`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:5
@@ -145,7 +155,7 @@ msgstr "يُعدّ أحد العوامل الموصى بها لتقدير الم
 #: ../../glossary.md:839 ../../glossary.md:966 ../../glossary.md:1002
 #, python-brace-format
 msgid "_See also {term}`Drought Vulnerability Index (DVI)`._"
-msgstr "_انظر أيضًا {term} \"مؤشر قابلية التأثر بالجفاف (DVI)\"._"
+msgstr "_انظر أيضًا {term}`مؤشر قابلية التأثر بالجفاف (DVI)`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:25
@@ -204,12 +214,12 @@ msgstr "التدخلات التي تشجع على اتباع أسلوب بديل
 #: ../../glossary.md:51
 #, python-brace-format
 msgid "_See also {term}`Compensation Schemes` and {term}`Incentive schemes`._"
-msgstr "_انظر أيضًا {term} \"مخططات التعويض\" و {term} \"مخططات الحوافز\"."
+msgstr "_انظر أيضًا {term}`برامج التعويض` و {term}`برامج التحفيز`."
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:37
 msgid "Aridity"
-msgstr "الجفاف"
+msgstr " (Aridity) الجفاف"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:54
@@ -313,7 +323,7 @@ msgstr "جميع الكتلة الحيوية للجذور الحية. غالبً
 #: ../../glossary.md:74
 #, python-brace-format
 msgid "_See also {term}`Above ground biomass`._"
-msgstr "_انظر أيضًا {term} \"الكتلة الحيوية فوق سطح الأرض\"._"
+msgstr "_انظر أيضًا {term}`الكتلة الحيوية فوق سطح الأرض`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:60
@@ -334,7 +344,7 @@ msgstr "مصطلح يُستخدم لوصف منطقة تشهد تغييرًا و
 #: ../../glossary.md:79
 #, python-brace-format
 msgid "_See also {term}`Hotspots`._"
-msgstr "_انظر أيضًا {term} \"النقاط الساخنة\"._"
+msgstr "_انظر أيضًا {term}`النقاط الساخنة`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:65
@@ -383,7 +393,7 @@ msgstr "تمثيل مجرد لظواهر العالم الحقيقي باستخ�
 #: ../../glossary.md:90
 #, python-brace-format
 msgid "_See also {term}`Classifier, class`._"
-msgstr "_انظر أيضًا {term} \"المصنف، الفئة\"._"
+msgstr "_انظر أيضًا {term}`المصنف، الفئة`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:76
@@ -431,7 +441,7 @@ msgstr "التعريف المستخدم لتعيين الكائنات لفئات
 #: ../../glossary.md:101
 #, python-brace-format
 msgid "_See also {term}`Classification system`._"
-msgstr "_انظر أيضًا {term} \"نظام التصنيف\"._"
+msgstr "_انظر أيضًا {term}`نظام التصنيف`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:87
@@ -508,7 +518,7 @@ msgid ""
 "negatively affect local people's livelihoods, and aim to adequately "
 "compensate for the losses incurred. _See also {term}`Alternative "
 "livelihoods` and {term}`Incentive schemes`._"
-msgstr "تتضمن هذه الإجراءات إقرارًا صريحًا بالتكاليف الاجتماعية والفردية للحفاظ على البيئة، لا سيما فيما يتعلق بقيود الوصول التي تؤثر سلبًا على سبل عيش السكان المحليين، وتهدف إلى التعويض بشكل كافٍ عن الخسائر المتكبدة. _انظر أيضًا {term} \"سبل العيش البديلة\" و {term} \"مخططات التحفيز\"._"
+msgstr "تتضمن هذه الإجراءات إقرارًا صريحًا بالتكاليف الاجتماعية والفردية للحفاظ على البيئة، لا سيما فيما يتعلق بقيود الوصول التي تؤثر سلبًا على سبل عيش السكان المحليين، وتهدف إلى التعويض بشكل كافٍ عن الخسائر المتكبدة. _انظر أيضًا {term}`سبل العيش البديلة` و {term}`برامج التحفيز`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:102
@@ -728,7 +738,7 @@ msgstr "يلخص هذا التقرير القضايا والآثار المشت�
 msgid ""
 "_See also {term}`Desertification`, {term}`Land degradation` and "
 "{term}`Drought`._"
-msgstr "_انظر أيضًا {term} \"التصحُّر\"، و{term} \"تدهور الأراضي\"، و{term} \"الجفاف\"._"
+msgstr "_انظر أيضًا {term}`التصحُّر`، و{term}`تدهور الأراضي`، و{term}`الجفاف`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:168
@@ -808,7 +818,7 @@ msgstr "تصنيف شدة الجفاف وفقًا لمؤشر الجفاف. با�
 #: ../../glossary.md:203
 #, python-brace-format
 msgid "_See also {term}`Standardized Precipitation Index (SPI)`._"
-msgstr "_انظر أيضًا {term} \"مؤشر هطول الأمطار المعياري (SPI)\"._"
+msgstr "_انظر أيضًا {term}`مؤشر هطول الأمطار المعياري (SPI)`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:189
@@ -1105,7 +1115,7 @@ msgstr "نتيجة تشير خطأً إلى غياب حالة أو سمة معي
 #: ../../glossary.md:289
 #, python-brace-format
 msgid "_See also {term}`False positive`._"
-msgstr "_انظر أيضًا {term} \"النتيجة الإيجابية الخاطئة\"._"
+msgstr "_انظر أيضًا {term}`نتيجة إيجابية خاطئة`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:275
@@ -1126,7 +1136,7 @@ msgstr "نتيجة تشير خطأً إلى وجود حالة أو سمة معي
 #: ../../glossary.md:295
 #, python-brace-format
 msgid "_See also {term}`False negative`._"
-msgstr "_انظر أيضًا {term} \"النتيجة السلبية الكاذبة\"._"
+msgstr "_انظر أيضًا {term}`نتيجة سلبية خاطئة`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:281
@@ -1201,7 +1211,7 @@ msgstr "في سياق تكامل الأراضي، يُقصد بزيادة رأس
 #: ../../glossary.md:313
 #, python-brace-format
 msgid "See also {term}`loss (monitored)`."
-msgstr "_انظر أيضًا {term} \"الخسارة \"المراقبة\"."
+msgstr "_انظر أيضًا {term}`الخسارة (المراقبة)`."
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:299
@@ -1460,7 +1470,7 @@ msgstr "مصطلح يُستخدم لوصف منطقة تشهد تغيرًا وا
 #: ../../glossary.md:391
 #, python-brace-format
 msgid "_See also {term}`Brightspots`._"
-msgstr "_انظر أيضًا {term} \"النقاط المضيئة\"._"
+msgstr "_انظر أيضًا {term}`نقاط مضيئة`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:380
@@ -1522,7 +1532,7 @@ msgstr "لا توفِّر برامج التحفيز مثل الدفع مقابل
 #, python-brace-format
 msgid ""
 "_See also {term}`Alternative livelihoods` and {term}`Compensation schemes`._"
-msgstr "_انظر أيضًا {term} \"سبل العيش البديلة\" و{term} \"مخططات التعويض\"._"
+msgstr "_انظر أيضًا {term}`سبل العيش البديلة` و{term}`برامج التعويض`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:396
@@ -1631,7 +1641,7 @@ msgstr "فئة من فئات الغطاء الأرضي ضمن مجموعة أو�
 msgid ""
 "_See also {term}`Classifier, class`, {term}`Classification system`, "
 "{term}`Land Cover`._"
-msgstr "_انظر أيضًا {term} \"المصنف\"، الفئة\"، {term} \"نظام التصنيف\"، {term} \"الغطاء الأرضي\"._"
+msgstr "_انظر أيضًا {term}`المصنف، الفئة`، {term}`نظام التصنيف`، {term}`الغطاء الأرضي`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:425
@@ -1915,7 +1925,7 @@ msgstr "تطبيق تصنيف في منطقة محددة باستخدام مقي
 #: ../../glossary.md:515
 #, python-brace-format
 msgid "_See also {term}`Classification`._"
-msgstr "_انظر أيضًا {term} \"التصنيف\"._"
+msgstr "_انظر أيضًا {term}`التصنيف`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:501
@@ -2020,7 +2030,7 @@ msgstr "في سياق تناقص الغطاء الأرضي، يُقاس انخف
 #: ../../glossary.md:549
 #, python-brace-format
 msgid "_See also {term}`gain<Gain (monitored)>`._"
-msgstr "انظر أيضًا {term} <الربح (المراقب)>."
+msgstr "انظر أيضًا {term}`الربح (المراقب)<Gain (monitored)>`."
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:535
@@ -2081,7 +2091,7 @@ msgstr "تتشكل التربة المعدنية في البداية نتيجة 
 #: ../../glossary.md:566
 #, python-brace-format
 msgid "_See also {term}`Organic soils`._"
-msgstr "_انظر أيضًا {term} \"التربة العضوية\"._"
+msgstr "_انظر أيضًا {term}`التربة العضوية`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:552
@@ -2531,7 +2541,7 @@ msgstr "نسبة السكان الذين يستخدمون مصدرًا محسن�
 msgid ""
 "_See also {term}`Drought Vulnerability Index (DVI)`, {term}`Improved "
 "drinking water source`._"
-msgstr "_انظر أيضًا {term} \"مؤشر قابلية التأثر بالجفاف (DVI)\"، و{term} \"مصدر مياه الشرب المحسّن\"._"
+msgstr "_انظر أيضًا {term}`مؤشر قابلية التأثر بالجفاف (DVI)`، و{term}`مصدر مياه شرب محسّن`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:664
@@ -3077,7 +3087,7 @@ msgstr "مصدر مياه شرب محسّن يقع في الموقع، ومتا�
 #: ../../glossary.md:827
 #, python-brace-format
 msgid "_See also {term}`Improved drinking water source`._"
-msgstr "_انظر أيضًا {term} \"مصدر مياه شرب مُحسَّن\"._"
+msgstr "_انظر أيضًا {term}`مصدر مياه شرب محسّن`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:813

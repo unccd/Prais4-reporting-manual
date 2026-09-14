@@ -243,42 +243,42 @@ msgstr "الجدول 1. مؤشرات الهدف الاستراتيجي 1 وإس�
 #: ../../introduction.md:170 ../../introduction.md:201
 #, python-brace-format
 msgid "{rspan}`1` Indicator code"
-msgstr "{rspan}`1` رمز المؤشر"
+msgstr " رمز المؤشر"
 
 #: ../../introduction.md:57 ../../introduction.md:97 ../../introduction.md:136
 #: ../../introduction.md:171 ../../introduction.md:202
 #, python-brace-format
 msgid "{rspan}`1` Indicator name"
-msgstr "{rspan}`1` اسم المؤشر"
+msgstr " اسم المؤشر"
 
 #: ../../introduction.md:58 ../../introduction.md:98 ../../introduction.md:137
 #: ../../introduction.md:172 ../../introduction.md:203
 #, python-brace-format
 msgid "{rspan}`1` Metrics / proxies"
-msgstr "{rspan}`1` المقاييس / المؤشرات البديلة"
+msgstr " المقاييس / المؤشرات البديلة"
 
 # Requires manual validation; translated with DeepL
 #: ../../introduction.md:59 ../../introduction.md:99 ../../introduction.md:138
 #: ../../introduction.md:204
 #, python-brace-format
 msgid "{rspan}`1` Adoption Decision"
-msgstr " {rspan}`1` قرار الاعتماد"
+msgstr " قرار الاعتماد"
 
 #: ../../introduction.md:60 ../../introduction.md:100 ../../introduction.md:139
 #: ../../introduction.md:174 ../../introduction.md:205
 #, python-brace-format
 msgid "{cspan}`1` Reporting attribution"
-msgstr "{rspan}`1` إسناد تقديم التقارير"
+msgstr " إسناد تقديم التقارير"
 
 #: ../../introduction.md:61 ../../introduction.md:101 ../../introduction.md:140
 #: ../../introduction.md:175 ../../introduction.md:206
 msgid "Affected country Parties"
-msgstr "{rspan}`1` البلدان الأطراف المتأثرة"
+msgstr " البلدان الأطراف المتأثرة"
 
 #: ../../introduction.md:62 ../../introduction.md:102 ../../introduction.md:141
 #: ../../introduction.md:176 ../../introduction.md:207
 msgid "Developed country Parties"
-msgstr "{rspan}`1` البلدان الأطراف المتقدمة"
+msgstr " البلدان الأطراف المتقدمة"
 
 #: ../../introduction.md:63
 msgid "SO 1-1"
@@ -313,7 +313,7 @@ msgstr "إلزامي"
 #: ../../introduction.md:68
 #, python-brace-format
 msgid "{rspan}`3`Optional."
-msgstr "{rspan}`3` اختياري."
+msgstr " اختياري."
 
 # Requires manual validation; translated with DeepL
 #: ../../introduction.md:70
@@ -528,7 +528,7 @@ msgid ""
 "multipurpose indicator used to measure progress towards both strategic "
 "objectives 1 and 4. See progress indicator SO 1-3."
 msgstr ""
-" {cspan}`2` تُعد الاتجاهات السائدة في مخزونات الكربون فوق الأرض وتحتها "
+" تُعد الاتجاهات السائدة في مخزونات الكربون فوق الأرض وتحتها "
 "مؤشرًا متعدد الأغراض يُستخدم لقياس التقدم المحرز نحو تحقيق الهدفين "
 "الاستراتيجيين 1 و4. انظر مؤشر تقدم الهدف الاستراتيجي 1-3."
 
@@ -993,13 +993,13 @@ msgid ""
 "compensate for the scale constraints of UN Clear Map."
 msgstr ""
 "من أجل توفير مستخرجات على المستوى الوطني من مصادر البيانات العالمية "
-"للتقارير الوطنية، تم استخدام مركز البيانات المكانية للأمم المتحدة (المشار"
-" إليه فيما يلي بـ UN Map Data)، وهو قاعدة بيانات جغرافية مكانية عالمية "
+"للتقارير الوطنية، تم استخدام مركز البيانات المكانية للأمم المتحدة (المشار "
+"إليه فيما يلي بـ UN Map Data)، وهو قاعدة بيانات جغرافية مكانية عالمية "
 "تتكون من معلومات الأسماء الجغرافية والدول والتنسيق المتسق للحدود الوطنية "
 "للتمثيل الموحد على مستوى عالمي. وتتضمن بيانات خرائط الأمم المتحدة خدمات "
 "جغرافية مكانية عبر الشبكة تهدف إلى توفير خلفية سياق للخدمات العالمية "
 "للمجتمع الدولي. وتُسمى خدمة خرائط الشبكة الرئيسية الحالية للأمم المتحدة "
-"بـ Clear Map (المشار إليها فيما يلي بـ UN Clear Map). وصُممت وأنِشئت UN "
+"بـ Clear Map[^3] (المشار إليها فيما يلي بـ UN Clear Map). وصُممت وأنِشئت UN "
 "Clear Map أصلًا لاستخدام الأمانة العامة للأمم المتحدة ومنظومتها لمواقعها "
 "ومخرجاتها عبر الشبكة، ولكنها أصبحت الآن موردًا متاحًا للعموم يخضع لشروط "
 "الاستخدام. وتتوفر خدمة UN Clear Map في PRAIS 4 بأنماط كارتوجرافية ولوحات "
@@ -2664,4 +2664,3 @@ msgstr ""
 #~ " ويمكن للأطراف التواصل مع برنامج SALB"
 #~ " مباشرة بإرسال بريد إلكتروني إلى "
 #~ "<salb@un.org>."
-
