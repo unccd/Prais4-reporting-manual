@@ -17,12 +17,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:1
 msgid ""
 "Annex I: User-specific licence options for national data uploaded to the "
 "UNCCD Performance Review and Assessment of Implementation System (PRAIS)"
-msgstr "Приложение I. Варианты пользовательских лицензий для национальных данных, загружаемых в Систему обзора результатов деятельности и оценки осуществления КБОООН (СОРОО)"
+msgstr ""
+"Приложение I. Варианты пользовательских лицензий для национальных данных, "
+"загружаемых в Систему обзора результатов деятельности и оценки осуществления"
+" КБОООН (СОРОО)"
 
 #: ../../annex_I.md:3
 msgid "1. UNCCD Mandate"
@@ -33,7 +35,11 @@ msgid ""
 "Decision 16/COP.11 para. 9 requests the secretariat to ensure that data and "
 "information from the reporting process are available and accessible to all, "
 "especially at the national and local levels."
-msgstr "В пункте 9 решения 16/COP.11 Секретариату поручается обеспечить доступность и открытость данных и информации, полученных в ходе процесса представления отчетности, для всех заинтересованных сторон, особенно на национальном и местном уровнях."
+msgstr ""
+"В пункте 9 решения 16/COP.11 Секретариату поручается обеспечить доступность "
+"и открытость данных и информации, полученных в ходе процесса представления "
+"отчетности, для всех заинтересованных сторон, особенно на национальном и "
+"местном уровнях."
 
 #: ../../annex_I.md:7
 msgid ""
@@ -44,9 +50,16 @@ msgid ""
 "other conventions and multilateral bodies, and to utilize intellectual "
 "property provisions to protect innovations submitted as best practices while"
 " implementing this data access policy."
-msgstr "В пункте 14 решения 17/COP.11 секретариату поручается разработать политику доступа к данным и информации, предоставляемым Сторонами и другими субъектами, предоставляющими отчетность, в том числе посредством Системы обзора результатов деятельности и оценки осуществления (СОРОО), учитывая практику и политику других конвенций и многосторонних органов, и использовать положения об интеллектуальной собственности для защиты инноваций, представленных в качестве передовой практики, при осуществлении этой политики доступа к данным."
+msgstr ""
+"В пункте 14 решения 17/COP.11 секретариату поручается разработать политику "
+"доступа к данным и информации, предоставляемым Сторонами и другими "
+"субъектами, предоставляющими отчетность, в том числе посредством Системы "
+"обзора результатов деятельности и оценки осуществления (СОРОО), учитывая "
+"практику и политику других конвенций и многосторонних органов, и "
+"использовать положения об интеллектуальной собственности для защиты "
+"инноваций, представленных в качестве передовой практики, при осуществлении "
+"этой политики доступа к данным."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:9
 msgid "2. Submitting national datasets to PRAIS"
 msgstr "2. Предоставление национальных наборов данных в СОРОО"
@@ -54,37 +67,40 @@ msgstr "2. Предоставление национальных наборов
 #: ../../annex_I.md:11
 msgid ""
 "There are three mechanisms to share non-default reporting datasets in PRAIS:"
-msgstr "В рамках СОРОО существует три механизма обмена наборами данных отчетности, отличающихся от наборов данных по умолчанию:"
+msgstr ""
+"В рамках СОРОО существует три механизма обмена наборами данных отчетности, "
+"отличающихся от наборов данных по умолчанию:"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:13
 msgid ""
 "Uploading data directly to PRAIS and supplying metadata (information about "
 "the dataset) on the forms provided;"
-msgstr "Загрузка данных непосредственно в СОРОО и добавление метаданных (информации о наборе данных) в предоставленных формах;"
+msgstr ""
+"Загрузка данных непосредственно в СОРОО и добавление метаданных (информации "
+"о наборе данных) в предоставленных формах;"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:14
 msgid ""
 "Via data transfer from Trends.Earth (when using national data for "
 "calculating UNCCD indicators in Trends.Earth);"
-msgstr "Через передачу данных из Trends.Earth (при использовании национальных данных для расчета показателей КБОООН в Trends.Earth);"
+msgstr ""
+"Через передачу данных из Trends.Earth (при использовании национальных данных"
+" для расчета показателей КБОООН в Trends.Earth);"
 
 #: ../../annex_I.md:15
 msgid "Creating spatial reporting data on the Spatial Data Viewer in PRAIS."
-msgstr "Создание данных пространственной отчетности в средстве просмотра пространственных данных в СОРОО."
+msgstr ""
+"Создание данных пространственной отчетности в средстве просмотра "
+"пространственных данных в СОРОО."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:17
 msgid "3. Licence Instructions"
 msgstr "3. Инструкции по лицензированию"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:19
 msgid "3.1. Creative Commons Licences for National Reports"
 msgstr "3.1. Лицензии Creative Commons для национальных отчетов"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:21
 msgid ""
 "The Creative Commons (CC) licences are a well-developed, tested suite of "
@@ -92,16 +108,23 @@ msgid ""
 "to Parties in the PRAIS User Specific Licence (USL) form are– from most open"
 " to most restrictive – CC BY, CC BY-SA, CC BY-NC and CC BY-NC-SA. Each "
 "licence requires one or more of the following conditions:"
-msgstr "Лицензии Creative Commons (CC) — это хорошо проработанный и проверенный на практике набор лицензий, ставших стандартом для обмена данными. В рамках СОРОО Сторонам доступны следующие варианты лицензий в форме пользовательской лицензии — от наиболее открытой до наиболее ограничительной — CC BY, CC BY-SA, CC BY-NC и CC BY-NC-SA. Каждая лицензия требует соблюдения одного или нескольких из следующих условий:"
+msgstr ""
+"Лицензии Creative Commons (CC) — это хорошо проработанный и проверенный на "
+"практике набор лицензий, ставших стандартом для обмена данными. В рамках "
+"СОРОО Сторонам доступны следующие варианты лицензий в форме пользовательской"
+" лицензии — от наиболее открытой до наиболее ограничительной — CC BY, CC BY-"
+"SA, CC BY-NC и CC BY-NC-SA. Каждая лицензия требует соблюдения одного или "
+"нескольких из следующих условий:"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:23
 msgid ""
 "Attribution (BY): Attribution is important to give you credit for the data "
 "and show its provenance. It is a required condition for all CC licenses."
-msgstr "Указание авторства (BY): указание авторства необходимо для того, чтобы отметить ваш вклад в создание данных и показать их происхождение. Это обязательное условие для всех лицензий CC."
+msgstr ""
+"Указание авторства (BY): указание авторства необходимо для того, чтобы "
+"отметить ваш вклад в создание данных и показать их происхождение. Это "
+"обязательное условие для всех лицензий CC."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:25
 msgid ""
 "Share Alike (SA): This condition indicates that any new content created by "
@@ -110,18 +133,31 @@ msgid ""
 "the same terms, but may make it difficult to reuse when combined with data "
 "licensed without the SA condition and under more open terms. In short, SA-"
 "licensed work is able to be remixed, but only into other SA outputs."
-msgstr "Распространение на тех же условиях (SA): это условие означает, что любой новый контент, созданный путем объединения этих данных с другими данными, должен распространяться на условиях той же лицензии SA. Это необходимо для того, чтобы данные оставались пригодными для повторного использования при объединении с данными, лицензированными на тех же условиях, но может затруднить их повторное использование при объединении с данными, лицензированными без условия SA и на более открытых условиях. Иными словами, материалы, лицензированные на условиях SA, могут перерабатываться, но только для создания других материалов, распространяемых на условиях SA."
+msgstr ""
+"Распространение на тех же условиях (SA): это условие означает, что любой "
+"новый контент, созданный путем объединения этих данных с другими данными, "
+"должен распространяться на условиях той же лицензии SA. Это необходимо для "
+"того, чтобы данные оставались пригодными для повторного использования при "
+"объединении с данными, лицензированными на тех же условиях, но может "
+"затруднить их повторное использование при объединении с данными, "
+"лицензированными без условия SA и на более открытых условиях. Иными словами,"
+" материалы, лицензированные на условиях SA, могут перерабатываться, но "
+"только для создания других материалов, распространяемых на условиях SA."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:27
 msgid ""
 "Non-Commercial (NC): This condition indicates that the data can be reused "
 "and combined, but not for commercial purposes. This ensures that "
 "corporations cannot make profit on your data, but there are use cases that "
 "are not so clear-cut and may hinder reuse that you would be okay with."
-msgstr "Некоммерческое использование (NC): это условие означает, что данные могут повторно использоваться и объединяться, но не в коммерческих целях. Это гарантирует, что коммерческие организации не смогут извлекать прибыль из ваших данных, однако существуют случаи использования, которые не являются столь однозначными и могут ограничивать повторное использование, которое могло бы быть приемлемым."
+msgstr ""
+"Некоммерческое использование (NC): это условие означает, что данные могут "
+"повторно использоваться и объединяться, но не в коммерческих целях. Это "
+"гарантирует, что коммерческие организации не смогут извлекать прибыль из "
+"ваших данных, однако существуют случаи использования, которые не являются "
+"столь однозначными и могут ограничивать повторное использование, которое "
+"могло бы быть приемлемым."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:29
 msgid ""
 "Additionally, the Creative Commons Universal Public Domain Dedication 1.0 "
@@ -129,30 +165,38 @@ msgid ""
 "worldwide public domain. See "
 "<https://creativecommons.org/publicdomain/zero/1.0/deed.en> for further "
 "information."
-msgstr "Кроме того, доступен документ Creative Commons Universal Public Domain Dedication 1.0 (CC0), предназначенный для отказа от авторских прав и передачи данных в общественное достояние во всем мире. См. <https://creativecommons.org/publicdomain/zero/1.0/deed.en> для получения дополнительной информации."
+msgstr ""
+"Кроме того, доступен документ Creative Commons Universal Public Domain "
+"Dedication 1.0 (CC0), предназначенный для отказа от авторских прав и "
+"передачи данных в общественное достояние во всем мире. См. "
+"<https://creativecommons.org/publicdomain/zero/1.0/deed.en> для получения "
+"дополнительной информации."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:31
 msgid ""
 "Figure 10 provides an overview of the public domain dedication and each "
 "Creative Commons licence and whether they allow remixes, commercial use, "
 "free cultural works and if they meet the ‘open’ definition."
-msgstr "На рисунке 10 представлен обзор передачи в общественное достояние и каждой лицензии Creative Commons, а также указано, допускают ли они создание производных материалов, коммерческое использование, свободное использование произведений культуры и соответствуют ли определению «открытых»."
+msgstr ""
+"На рисунке 10 представлен обзор передачи в общественное достояние и каждой "
+"лицензии Creative Commons, а также указано, допускают ли они создание "
+"производных материалов, коммерческое использование, свободное использование "
+"произведений культуры и соответствуют ли определению «открытых»."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:33
 msgid "![](/img/fig10.png)"
 msgstr "![](/img/fig10.png)"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:35
 msgid ""
 "_**Figure 10**. Overview of various CC license options (source: Wikipedia, "
 "further information can be found at <https://creativecommons.org/share-your-"
 "work/cclicenses/>)_"
-msgstr "_**Рисунок 10**. Обзор различных вариантов лицензии CC (источник: Википедия, дополнительную информацию можно найти по адресу <https://creativecommons.org/share-your-work/cclicenses/>)_"
+msgstr ""
+"_**Рисунок 10**. Обзор различных вариантов лицензии CC (источник: Википедия,"
+" дополнительную информацию можно найти по адресу "
+"<https://creativecommons.org/share-your-work/cclicenses/>)_"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:37
 msgid ""
 "As explained in the introduction of this reporting manual, Parties are "
@@ -160,62 +204,85 @@ msgid ""
 "reported data and support legal, confident, and consistent reuse of national"
 " data by the secretariat. Therefore, they are encouraged to select an open "
 "licence for their national country Party data, choosing either:"
-msgstr "Как объясняется во введении к настоящему руководству по представлению отчетности, Сторонам настоятельно рекомендуется максимально повысить функциональную совместимость и практическую значимость представляемых ими данных, а также обеспечить законное, надежное и последовательное повторное использование национальных данных секретариатом. Поэтому им рекомендуется использовать открытую лицензию для своих национальных данных Сторон, выбрав один из следующих вариантов:"
+msgstr ""
+"Как объясняется во введении к настоящему руководству по представлению "
+"отчетности, Сторонам настоятельно рекомендуется максимально повысить "
+"функциональную совместимость и практическую значимость представляемых ими "
+"данных, а также обеспечить законное, надежное и последовательное повторное "
+"использование национальных данных секретариатом. Поэтому им рекомендуется "
+"использовать открытую лицензию для своих национальных данных Сторон, выбрав "
+"один из следующих вариантов:"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:39
 msgid ""
 "The Creative Commons Universal **Public Domain Dedication 1.0 (CC0)**. See "
 "<https://creativecommons.org/publicdomain/zero/1.0/deed.en> for further "
 "information;"
-msgstr "Creative Commons Universal **Public Domain Dedication 1.0 (CC0)**. См. <https://creativecommons.org/publicdomain/zero/1.0/deed.en> для получения дополнительной информации;"
+msgstr ""
+"Creative Commons Universal **Public Domain Dedication 1.0 (CC0)**. См. "
+"<https://creativecommons.org/publicdomain/zero/1.0/deed.en> для получения "
+"дополнительной информации;"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:41
 msgid ""
 "The open Creative Commons **Attribution 4.0 International (CC BY) licence**,"
 " which means users of the data are free to:"
-msgstr "Открытая лицензия Creative Commons **Attribution 4.0 International (CC BY)**, которая означает, что пользователи данных вправе:"
+msgstr ""
+"Открытая лицензия Creative Commons **Attribution 4.0 International (CC "
+"BY)**, которая означает, что пользователи данных вправе:"
 
 #: ../../annex_I.md:43
 msgid "Share — Copy and redistribute the material in any medium or format."
-msgstr "Делиться данными — копировать и распространять материалы на любом носителе или в любом формате."
+msgstr ""
+"Делиться данными — копировать и распространять материалы на любом носителе "
+"или в любом формате."
 
 #: ../../annex_I.md:44
 msgid "Adapt — Remix, transform, and build upon the material."
-msgstr "Адаптировать данные — перерабатывать, изменять и создавать производные материалы на основе данного материала."
+msgstr ""
+"Адаптировать данные — перерабатывать, изменять и создавать производные "
+"материалы на основе данного материала."
 
 #: ../../annex_I.md:46
 msgid ""
 "However, in return for using the data, users must respect the following "
 "terms:"
-msgstr "Однако в обмен на возможность использования данных пользователи должны соблюдать следующие условия:"
+msgstr ""
+"Однако в обмен на возможность использования данных пользователи должны "
+"соблюдать следующие условия:"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:48
 msgid ""
 "Attribution — Users must give appropriate credit, provide a link to the "
 "licence and indicate if changes were made. Users may do so in any reasonable"
 " manner."
-msgstr "Указание авторства — пользователи должны надлежащим образом указывать авторство, предоставлять ссылку на лицензию и сообщать о внесенных изменениях. Это может быть сделано любым разумным способом."
+msgstr ""
+"Указание авторства — пользователи должны надлежащим образом указывать "
+"авторство, предоставлять ссылку на лицензию и сообщать о внесенных "
+"изменениях. Это может быть сделано любым разумным способом."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:50
 msgid ""
 "See <https://creativecommons.org/licenses/by/4.0/deed.en> for further "
 "information (translated into all United Nations languages)."
-msgstr "Дополнительная информация: <https://creativecommons.org/licenses/by/4.0/deed.en> (переведено на все официальные языки Организации Объединенных Наций)."
+msgstr ""
+"Дополнительная информация: "
+"<https://creativecommons.org/licenses/by/4.0/deed.en> (переведено на все "
+"официальные языки Организации Объединенных Наций)."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:52
 msgid ""
 "Either of these options will ensure national data can be legally, "
 "confidently, and consistently reused across systems for better tracking of "
 "global and regional status and trends in land degradation and drought and "
 "for seamless data sharing with UNCCD partners."
-msgstr "Любой из этих вариантов обеспечит возможность законного, надежного и последовательного повторного использования национальных данных в различных системах для более эффективного отслеживания глобального и регионального состояния и тенденций деградации земель и засухи, а также для беспрепятственного обмена данными с партнерами КБОООН."
+msgstr ""
+"Любой из этих вариантов обеспечит возможность законного, надежного и "
+"последовательного повторного использования национальных данных в различных "
+"системах для более эффективного отслеживания глобального и регионального "
+"состояния и тенденций деградации земель и засухи, а также для "
+"беспрепятственного обмена данными с партнерами КБОООН."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:54
 msgid ""
 "However, licences with the SA constraint are NOT recommended as it makes "
@@ -224,9 +291,15 @@ msgid ""
 "conflicting use conditions. For example, the secretariat will not be able to"
 " use national reports licensed with NC-SA or SA in the regional and global "
 "aggregate statistics and maps that are licensed with the BY-NC."
-msgstr "Однако лицензии с условием SA НЕ рекомендуются, поскольку они усложняют повторное использование национального отчета из-за необходимости совмещения лицензий — объединения нескольких лицензий с различными, а иногда и противоречащими друг другу условиями использования. Например, секретариат не сможет использовать национальные отчеты, лицензированные на условиях NC-SA или SA, при подготовке региональной и глобальной агрегированной статистики и карт, распространяемых по лицензии BY-NC."
+msgstr ""
+"Однако лицензии с условием SA НЕ рекомендуются, поскольку они усложняют "
+"повторное использование национального отчета из-за необходимости совмещения "
+"лицензий — объединения нескольких лицензий с различными, а иногда и "
+"противоречащими друг другу условиями использования. Например, секретариат не"
+" сможет использовать национальные отчеты, лицензированные на условиях NC-SA "
+"или SA, при подготовке региональной и глобальной агрегированной статистики и"
+" карт, распространяемых по лицензии BY-NC."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:56
 msgid ""
 "For these reasons, Parties that license data with SA must grant the "
@@ -235,14 +308,20 @@ msgid ""
 "the Creative Commons licenses are appropriate, Parties can report a custom "
 "licence, but still must grant the secretariat explicit permission on the USL"
 " form to use that data in regional and global aggregates."
-msgstr "По этим причинам Стороны, лицензирующие данные на условиях SA, должны предоставить секретариату явное разрешение в форме пользовательской лицензии на использование этих данных в региональных и глобальных агрегированных материалах. В качестве альтернативы, если ни одна из лицензий Creative Commons не является подходящей, Стороны могут указать собственную лицензию, но при этом они также должны предоставить секретариату явное разрешение в форме пользовательской лицензии на использование этих данных в региональных и глобальных агрегированных материалах."
+msgstr ""
+"По этим причинам Стороны, лицензирующие данные на условиях SA, должны "
+"предоставить секретариату явное разрешение в форме пользовательской лицензии"
+" на использование этих данных в региональных и глобальных агрегированных "
+"материалах. В качестве альтернативы, если ни одна из лицензий Creative "
+"Commons не является подходящей, Стороны могут указать собственную лицензию, "
+"но при этом они также должны предоставить секретариату явное разрешение в "
+"форме пользовательской лицензии на использование этих данных в региональных "
+"и глобальных агрегированных материалах."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:58
 msgid "3.2 User Specific Licence (USL)"
 msgstr "3.2. Пользовательская лицензия"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:60
 msgid ""
 "Taking the explanation of the licence options provided in section 3.1 into "
@@ -251,13 +330,23 @@ msgid ""
 "out the licence form provided in PRAIS, which can be accessed from the "
 "\"Spatial Layers\" tab or directly from the country “Overview” page in the "
 "list of menu items on the right hand side."
-msgstr "С учетом разъяснений относительно вариантов лицензирования, приведенных в разделе 3.1, Сторонам следует выбрать пользовательскую лицензию, определяющую условия использования данных, содержащихся в их национальных отчетах, путем заполнения формы лицензии, предусмотренной в СОРОО, доступ к которой можно получить на вкладке «Пространственные слои» или непосредственно со страницы «Обзор» соответствующей страны в списке пунктов меню, расположенном справа."
+msgstr ""
+"С учетом разъяснений относительно вариантов лицензирования, приведенных в "
+"разделе 3.1, Сторонам следует выбрать пользовательскую лицензию, "
+"определяющую условия использования данных, содержащихся в их национальных "
+"отчетах, путем заполнения формы лицензии, предусмотренной в СОРОО, доступ к "
+"которой можно получить на вкладке «Пространственные слои» или "
+"непосредственно со страницы «Обзор» соответствующей страны в списке пунктов "
+"меню, расположенном справа."
 
 #: ../../annex_I.md:62
 msgid ""
 "By choosing a USL, the user consents to the chosen licence. It is understood"
 " that the following terms and conditions are agreed to:"
-msgstr "Выбирая пользовательскую лицензию, пользователь соглашается с выбранной лицензией. При этом подразумевается, что пользователь принимает следующие положения и условия:"
+msgstr ""
+"Выбирая пользовательскую лицензию, пользователь соглашается с выбранной "
+"лицензией. При этом подразумевается, что пользователь принимает следующие "
+"положения и условия:"
 
 #: ../../annex_I.md:64
 msgid ""
@@ -265,16 +354,23 @@ msgid ""
 "implied, of any of the privileges and immunities of the United Nations "
 "Convention to Combat Desertification (UNCCD) or the United Nations, "
 "including its subsidiary organs."
-msgstr "Ничто, содержащееся в настоящей пользовательской лицензии или относящееся к ней, не считается явным или подразумеваемым отказом от каких-либо привилегий и иммунитетов Конвенции Организации Объединенных Наций по борьбе с опустыниванием (КБОООН) или Организации Объединенных Наций, включая ее вспомогательные органы."
+msgstr ""
+"Ничто, содержащееся в настоящей пользовательской лицензии или относящееся к "
+"ней, не считается явным или подразумеваемым отказом от каких-либо привилегий"
+" и иммунитетов Конвенции Организации Объединенных Наций по борьбе с "
+"опустыниванием (КБОООН) или Организации Объединенных Наций, включая ее "
+"вспомогательные органы."
 
 #: ../../annex_I.md:65
 msgid ""
 "The name and emblem of the UNCCD is the property of the UNCCD, which owns "
 "all rights to its use. The logo can only be used to identify events and "
 "activities related to the UNCCD."
-msgstr "Название и эмблема КБОООН являются собственностью КБОООН, которой принадлежат все права на их использование. Логотип может использоваться только для обозначения событий и мероприятий, связанных с КБОООН."
+msgstr ""
+"Название и эмблема КБОООН являются собственностью КБОООН, которой "
+"принадлежат все права на их использование. Логотип может использоваться "
+"только для обозначения событий и мероприятий, связанных с КБОООН."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:67
 msgid ""
 "The UNCCD shall not be held responsible for any use of information beyond "
@@ -294,21 +390,45 @@ msgid ""
 "be bound by the terms and conditions of use set out in the USL (if the data "
 "is not already in the public domain or its source licence applies additional"
 " restriction on use of the data)."
-msgstr "КБОООН не несет ответственности за любое использование информации сверх предусмотренного настоящей пользовательской лицензией, если предварительное разрешение не было запрошено и предоставлено в соответствии с условиями, установленными и изложенными КБОООН. Пользовательская лицензия определяет условия повторного использования национальных наборов данных, размещенных в СОРОО и администрируемых секретариатом КБОООН в целях национальной отчетности. Для целей настоящего соглашения термин «Данные» означает любые национальные данные, при этом особое внимание уделяется пространственным данным и связанным с ними атрибутивным данным, предоставляемым страной, являющейся Стороной, в процессе представления отчетности в КБОООН посредством их создания в средстве просмотра пространственных данных СОРОО, с использованием инструмента загрузки СОРОО либо посредством программного обеспечения Trends.Earth или других программных средств сторонних разработчиков. Эти данные будут использоваться секретариатом при подготовке региональных и глобальных агрегированных карт, статистических материалов и других информационных продуктов во исполнение его мандата в соответствии с решением 11/COP.14, а также могут предоставляться партнерам КБОООН по запросу при условии, что они ознакомятся с условиями использования, изложенными в пользовательской лицензии, и согласятся соблюдать их (если данные уже не находятся в общественном достоянии или если лицензия источника данных не устанавливает дополнительных ограничений на их использование)."
+msgstr ""
+"КБОООН не несет ответственности за любое использование информации сверх "
+"предусмотренного настоящей пользовательской лицензией, если предварительное "
+"разрешение не было запрошено и предоставлено в соответствии с условиями, "
+"установленными и изложенными КБОООН. Пользовательская лицензия определяет "
+"условия повторного использования национальных наборов данных, размещенных в "
+"СОРОО и администрируемых секретариатом КБОООН в целях национальной "
+"отчетности. Для целей настоящего соглашения термин «Данные» означает любые "
+"национальные данные, при этом особое внимание уделяется пространственным "
+"данным и связанным с ними атрибутивным данным, предоставляемым страной, "
+"являющейся Стороной, в процессе представления отчетности в КБОООН "
+"посредством их создания в средстве просмотра пространственных данных СОРОО, "
+"с использованием инструмента загрузки СОРОО либо посредством программного "
+"обеспечения Trends.Earth или других программных средств сторонних "
+"разработчиков. Эти данные будут использоваться секретариатом при подготовке "
+"региональных и глобальных агрегированных карт, статистических материалов и "
+"других информационных продуктов во исполнение его мандата в соответствии с "
+"решением 11/COP.14, а также могут предоставляться партнерам КБОООН по "
+"запросу при условии, что они ознакомятся с условиями использования, "
+"изложенными в пользовательской лицензии, и согласятся соблюдать их (если "
+"данные уже не находятся в общественном достоянии или если лицензия источника"
+" данных не устанавливает дополнительных ограничений на их использование)."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:72
 msgid ""
 "Therefore, country Parties should familiarize themselves with the options "
 "described above and fill out the licence form accordingly."
-msgstr "Поэтому странам-Сторонам следует ознакомиться с описанными выше вариантами и соответствующим образом заполнить форму лицензии."
+msgstr ""
+"Поэтому странам-Сторонам следует ознакомиться с описанными выше вариантами и"
+" соответствующим образом заполнить форму лицензии."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:74
 msgid ""
 "Parties should note that if no USL form is submitted then the default CC BY-"
 "NC 4.0 license will apply to the submitted Data."
-msgstr "Сторонам следует учитывать, что если форма пользовательской лицензии не будет представлена, к представленным данным по умолчанию будет применяться лицензия CC BY-NC 4.0."
+msgstr ""
+"Сторонам следует учитывать, что если форма пользовательской лицензии не "
+"будет представлена, к представленным данным по умолчанию будет применяться "
+"лицензия CC BY-NC 4.0."
 
 #~ msgid "2. Introduction"
 #~ msgstr "2. Введение"

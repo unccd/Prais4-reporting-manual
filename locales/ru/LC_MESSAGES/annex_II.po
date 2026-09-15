@@ -21,7 +21,6 @@ msgstr ""
 msgid "Annex II: Metadata"
 msgstr "Приложение II. Метаданные"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:3
 msgid ""
 "Parties may decide not to use the default data provided when reporting on "
@@ -29,29 +28,37 @@ msgid ""
 "set of metadata, to identify the data source must be entered by completing "
 "the pop-up form associated with these new data sources. Four fields have to "
 "be completed using free text:"
-msgstr "Стороны могут принять решение не использовать данные по умолчанию при представлении отчетности по любому из показателей стратегических целей (СЦ). Если Стороны используют альтернативные наборы данных, необходимо ввести минимальный набор метаданных для идентификации источника данных, заполнив всплывающую форму, связанную с этими новыми источниками данных. Необходимо заполнить четыре поля в свободной текстовой форме:"
+msgstr ""
+"Стороны могут принять решение не использовать данные по умолчанию при "
+"представлении отчетности по любому из показателей стратегических целей (СЦ)."
+" Если Стороны используют альтернативные наборы данных, необходимо ввести "
+"минимальный набор метаданных для идентификации источника данных, заполнив "
+"всплывающую форму, связанную с этими новыми источниками данных. Необходимо "
+"заполнить четыре поля в свободной текстовой форме:"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:5
 msgid "**Title**: The text label used to uniquely identify the dataset"
-msgstr "**Название**: текстовая метка, используемая для уникальной идентификации набора данных."
+msgstr ""
+"**Название**: текстовая метка, используемая для уникальной идентификации "
+"набора данных."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:7
 msgid ""
 "**Source Link/Identifier**: this can be a hyperlink to the dataset itself or"
 " a unique identifier of the dataset. If a DOI exists it can be inserted "
 "here."
-msgstr "**Ссылка на источник/идентификатор**: это может быть гиперссылка на сам набор данных или его уникальный идентификатор. При наличии DOI его можно указать в этом поле."
+msgstr ""
+"**Ссылка на источник/идентификатор**: это может быть гиперссылка на сам "
+"набор данных или его уникальный идентификатор. При наличии DOI его можно "
+"указать в этом поле."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:9
 msgid ""
 "**Author/Publisher**: the person(s) or institution which publishes the "
 "dataset"
-msgstr "**Автор/издатель**: лицо (лица) или учреждение, опубликовавшее набор данных."
+msgstr ""
+"**Автор/издатель**: лицо (лица) или учреждение, опубликовавшее набор данных."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:11
 msgid ""
 "**Bibliographical Citation**: This should be a full and comprehensive "
@@ -59,16 +66,25 @@ msgid ""
 "year of publication, the full title of the dataset or a related publication,"
 " the publication in which the dataset is cited (e.g. journal, report, book) "
 "and the place of publication."
-msgstr "**Библиографическая цитата**: необходимо привести полную библиографическую ссылку на набор данных, включая, по возможности, авторов набора данных, год публикации, полное название набора данных или связанной с ним публикации, издание, в котором приводится данный набор данных (например, журнал, отчет или книга), а также место публикации."
+msgstr ""
+"**Библиографическая цитата**: необходимо привести полную библиографическую "
+"ссылку на набор данных, включая, по возможности, авторов набора данных, год "
+"публикации, полное название набора данных или связанной с ним публикации, "
+"издание, в котором приводится данный набор данных (например, журнал, отчет "
+"или книга), а также место публикации."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:13
 msgid ""
 "The metadata form only appears in reporting forms where quantitative data "
 "are being reported, when the user switches from ‘Default’ to ‘National’ data"
 " and clicks on the ‘Edit Default Data’ button. There is one metadata form "
 "for each relevant indicator form."
-msgstr "Форма метаданных отображается только в формах отчетности, в которых представляются количественные данные, после того как пользователь переключается с варианта «Данные по умолчанию» на вариант «Национальные данные» и нажимает кнопку «Редактировать данные по умолчанию». Для каждой соответствующей формы показателя предусмотрена отдельная форма метаданных."
+msgstr ""
+"Форма метаданных отображается только в формах отчетности, в которых "
+"представляются количественные данные, после того как пользователь "
+"переключается с варианта «Данные по умолчанию» на вариант «Национальные "
+"данные» и нажимает кнопку «Редактировать данные по умолчанию». Для каждой "
+"соответствующей формы показателя предусмотрена отдельная форма метаданных."
 
 #~ msgid "1. Introduction"
 #~ msgstr "1. Введение"

@@ -21,7 +21,6 @@ msgstr ""
 msgid "Annex II: Metadata"
 msgstr "Annexe II : Métadonnées"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:3
 msgid ""
 "Parties may decide not to use the default data provided when reporting on "
@@ -38,14 +37,12 @@ msgstr ""
 "ces nouvelles sources de données. Quatre champs doivent être remplis en "
 "texte libre :"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:5
 msgid "**Title**: The text label used to uniquely identify the dataset"
 msgstr ""
 "**Title** : L'étiquette textuelle utilisée pour identifier l'ensemble de "
 "données de manière unique."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:7
 msgid ""
 "**Source Link/Identifier**: this can be a hyperlink to the dataset itself or"
@@ -56,7 +53,6 @@ msgstr ""
 "l'ensemble de données lui-même ou d'un identifiant unique de l'ensemble de "
 "données. Si un DOI existe, il peut être inséré ici."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:9
 msgid ""
 "**Author/Publisher**: the person(s) or institution which publishes the "
@@ -65,7 +61,6 @@ msgstr ""
 "**Auteur/éditeur** : la personne ou l'institution qui publie l'ensemble de "
 "données."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:11
 msgid ""
 "**Bibliographical Citation**: This should be a full and comprehensive "
@@ -81,7 +76,6 @@ msgstr ""
 "laquelle l'ensemble de données est cité (par exemple, journal, rapport, "
 "livre) et le lieu de publication."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:13
 msgid ""
 "The metadata form only appears in reporting forms where quantitative data "
