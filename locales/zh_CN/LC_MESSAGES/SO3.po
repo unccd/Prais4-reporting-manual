@@ -215,12 +215,12 @@ msgstr "*__表18__. SO 3-1指标的数据规格*"
 #: ../../SO3.md:63 ../../SO3.md:287 ../../SO3.md:473
 #, python-brace-format
 msgid "{rspan}`1` Item"
-msgstr "{rspan}`1` 项目"
+msgstr " 项目"
 
 #: ../../SO3.md:64 ../../SO3.md:288 ../../SO3.md:474
 #, python-brace-format
 msgid "{cspan}`1` Specifications"
-msgstr "{cspan}`1` 规格"
+msgstr " 规格"
 
 #: ../../SO3.md:65 ../../SO3.md:289
 msgid "Default data"

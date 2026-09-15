@@ -22,7 +22,7 @@ msgid ""
 "1. Strategic objective 1: To improve the condition of affected "
 "ecosystems, combat desertification/ land degradation, promote sustainable"
 " land management and contribute to land degradation neutrality"
-msgstr "1. 战略目标1：改善受影响生态系统的状况，防治荒漠化/土地退化，促进可持续土地管理，并为实现土地退化中性作出贡献"
+msgstr "1. 战略目标1：改善受影响生态系统的状况，防治荒漠化/土地退化，促进可持续土地管理，并为实现土地退化中性作出贡献"
 
 #: ../../SO1.md:3
 msgid "1.1. SO 1-1 – Trends in land cover"
@@ -436,12 +436,12 @@ msgstr "*__表8__. 欧洲航天局气候变化倡议“土地覆盖”图例的�
 #: ../../SO1.md:119
 #, python-brace-format
 msgid "{cspan}`1` UNCCD"
-msgstr "{cspan}`1` UNCCD"
+msgstr " UNCCD"
 
 #: ../../SO1.md:120
 #, python-brace-format
 msgid "{cspan}`1` European Space Agency Climate Change Initiative Land Cover"
-msgstr "{cspan}`1` 欧洲航天局气候变化倡议“土地覆盖”"
+msgstr " 欧洲航天局气候变化倡议“土地覆盖”"
 
 #: ../../SO1.md:121 ../../SO1.md:123
 msgid "Code"
@@ -454,12 +454,12 @@ msgstr "标签"
 #: ../../SO1.md:125
 #, python-brace-format
 msgid "{rspan}`11` 1"
-msgstr " {rspan}`11` 1"
+msgstr " 1"
 
 #: ../../SO1.md:126
 #, python-brace-format
 msgid "{rspan}`11` Tree-covered areas"
-msgstr "{rspan}`11` 树木覆盖区"
+msgstr " 树木覆盖区"
 
 #: ../../SO1.md:127
 msgid "50"
@@ -560,12 +560,12 @@ msgstr "镶嵌式乔木和灌木（(>50%）/草本植物覆盖（<50%）"
 #: ../../SO1.md:151
 #, python-brace-format
 msgid "{rspan}`8` 2"
-msgstr " {rspan}`8` 2"
+msgstr " 2"
 
 #: ../../SO1.md:152
 #, python-brace-format
 msgid "{rspan}`8` Grassland"
-msgstr "{rspan}`8` 草地"
+msgstr " 草地"
 
 #: ../../SO1.md:153
 msgid "110"
@@ -642,12 +642,12 @@ msgstr "稀疏草本植物覆盖（<15%）"
 #: ../../SO1.md:171
 #, python-brace-format
 msgid "{rspan}`5` 3"
-msgstr " {rspan}`5` 3"
+msgstr " 3"
 
 #: ../../SO1.md:172
 #, python-brace-format
 msgid "{rspan}`5` Cropland"
-msgstr "{rspan}`5` 耕地"
+msgstr " 耕地"
 
 #: ../../SO1.md:173 ../../SO1.md:826
 msgid "10"
@@ -704,12 +704,12 @@ msgstr "镶嵌式自然植被（乔木、灌木、草本植物覆盖）（>50%�
 #: ../../SO1.md:185
 #, python-brace-format
 msgid "{rspan}`2` 4"
-msgstr " {rspan}`2` 4"
+msgstr " 4"
 
 #: ../../SO1.md:186
 #, python-brace-format
 msgid "{rspan}`2` Wetland"
-msgstr "{rspan}`2` 湿地"
+msgstr " 湿地"
 
 #: ../../SO1.md:187
 msgid "160"
@@ -752,12 +752,12 @@ msgstr "城市地区"
 #: ../../SO1.md:197
 #, python-brace-format
 msgid "{rspan}`3` 6"
-msgstr " {rspan}`3` 6"
+msgstr " 6"
 
 #: ../../SO1.md:198
 #, python-brace-format
 msgid "{rspan}`3` Other land"
-msgstr "{rspan}`3` 其他土地"
+msgstr " 其他土地"
 
 #: ../../SO1.md:199
 msgid "200"
@@ -864,12 +864,12 @@ msgstr "*__表9__. 使用《联合国防治荒漠化公约》七个土地覆盖�
 #: ../../SO1.md:239
 #, python-brace-format
 msgid "{rspan}`1`"
-msgstr "{rspan}`1`"
+msgstr ""
 
 #: ../../SO1.md:240
 #, python-brace-format
 msgid "{cspan}`7` FINAL CLASS"
-msgstr "{cspan}`7` 最终类别"
+msgstr " 最终类别"
 
 #: ../../SO1.md:241 ../../SO1.md:250
 msgid "Tree-covered areas"
@@ -886,7 +886,7 @@ msgstr "原始类别"
 #: ../../SO1.md:249
 #, python-brace-format
 msgid "{cspan}`7`"
-msgstr "{cspan}`7`"
+msgstr ""
 
 #: ../../SO1.md:251 ../../SO1.md:257 ../../SO1.md:260 ../../SO1.md:265
 #: ../../SO1.md:269 ../../SO1.md:273 ../../SO1.md:278 ../../SO1.md:281
@@ -1185,12 +1185,12 @@ msgstr "*__表10__. SO 1-1指标的土地覆盖数据规格*"
 #: ../../SO1.md:386 ../../SO1.md:595
 #, python-brace-format
 msgid "{rspan}`1` Item"
-msgstr "{rspan}`1` 项目"
+msgstr " 项目"
 
 #: ../../SO1.md:387 ../../SO1.md:596
 #, python-brace-format
 msgid "{cspan}`1` Specifications"
-msgstr "{cspan}`1` 规格"
+msgstr " 规格"
 
 #: ../../SO1.md:388
 msgid ""
@@ -2402,31 +2402,31 @@ msgstr "*__表12__. 为估算多个报告期的每个土地生产力指标（趋
 #: ../../SO1.md:718
 #, python-brace-format
 msgid "{cspan}`3` Trends in Land Productivity"
-msgstr "{cspan}`3` 土地生产力趋势"
+msgstr " 土地生产力趋势"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:719
 #, python-brace-format
 msgid "{rspan}`1` Period"
-msgstr "{rspan}`1` 时期"
+msgstr " 时期"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:720
 #, python-brace-format
 msgid "{rspan}`1` Trend / Trajectory{{br}}(16 years)"
-msgstr "{rspan}`1` 趋势/轨迹{{br}}（16年）"
+msgstr " 趋势/轨迹{{br}}（16年）"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:721
 #, python-brace-format
 msgid "{cspan}`1` State (16 years)"
-msgstr "{cspan}`1` 状态（16年）"
+msgstr " 状态（16年）"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:722
 #, python-brace-format
 msgid "{rspan}`1` Performance{{br}}(16 years)"
-msgstr "{rspan}`1` 绩效{{br}}（16年）"
+msgstr " 绩效{{br}}（16年）"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:723
@@ -2527,14 +2527,14 @@ msgstr "*__表13__. 结合生产力指标，确定基线和报告期每个像素
 #: ../../SO1.md:760
 #, python-brace-format
 msgid "{cspan}`2` Changes observed in the three input productivity metrics"
-msgstr "{cspan}`2` 在三个输入生产力指标中观察到的变化"
+msgstr " 在三个输入生产力指标中观察到的变化"
 
 #: ../../SO1.md:761
 #, python-brace-format
 msgid ""
 "{cspan}`1` Land productivity dynamics and land productivity degradation "
 "status derived from the combination of the three productivity metrics"
-msgstr "{cspan}`1` 由三个生产力指标组合得出的土地生产力动态和土地生产力退化状态"
+msgstr " 由三个生产力指标组合得出的土地生产力动态和土地生产力退化状态"
 
 #: ../../SO1.md:762
 msgid "Class combination"
@@ -3568,12 +3568,12 @@ msgstr "*__表14__. SO 1-3指标的数据规格*"
 #: ../../SO1.md:1096
 #, python-brace-format
 msgid "{rspan}`1`Item"
-msgstr "{rspan}`1`项目"
+msgstr " 项目"
 
 #: ../../SO1.md:1097
 #, python-brace-format
 msgid "{cspan}`1`Specifications"
-msgstr "{cspan}`1`规格"
+msgstr " 规格"
 
 #: ../../SO1.md:1098
 msgid "Default data"
