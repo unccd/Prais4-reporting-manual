@@ -139,7 +139,7 @@ html_context = {
     "github_repo": "Prais4-reporting-manual",
     "github_version": "master",
     "conf_py_path": "/",
-    "current_version": "latest",
+    "current_version": os.environ.get("READTHEDOCS_VERSION", "latest"),
 }
 
 # The name for this set of Sphinx documents.  If None, it defaults to
