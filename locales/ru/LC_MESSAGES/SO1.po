@@ -582,13 +582,13 @@ msgstr ""
 #: ../../SO1.md:119
 #, python-brace-format
 msgid "{cspan}`1` UNCCD"
-msgstr " {cspan}`1` КБОООН"
+msgstr " КБОООН"
 
 #: ../../SO1.md:120
 #, python-brace-format
 msgid "{cspan}`1` European Space Agency Climate Change Initiative Land Cover"
 msgstr ""
-" {cspan}`1` Инициатива Европейского космического агентства по изменению "
+" Инициатива Европейского космического агентства по изменению "
 "климата в области земного покрова"
 
 #: ../../SO1.md:121 ../../SO1.md:123
@@ -602,12 +602,12 @@ msgstr "Наименование"
 #: ../../SO1.md:125
 #, python-brace-format
 msgid "{rspan}`11` 1"
-msgstr " {rspan}`11` 1"
+msgstr " 1"
 
 #: ../../SO1.md:126
 #, python-brace-format
 msgid "{rspan}`11` Tree-covered areas"
-msgstr " {rspan}`11` Земли, покрытые древесной растительностью"
+msgstr " Земли, покрытые древесной растительностью"
 
 #: ../../SO1.md:127
 msgid "50"
@@ -716,12 +716,12 @@ msgstr "Мозаика деревьев и кустарников (> 50 %) / �
 #: ../../SO1.md:151
 #, python-brace-format
 msgid "{rspan}`8` 2"
-msgstr " {rspan}`8` 2"
+msgstr " 2"
 
 #: ../../SO1.md:152
 #, python-brace-format
 msgid "{rspan}`8` Grassland"
-msgstr " {rspan}`8` Луга"
+msgstr " Луга"
 
 #: ../../SO1.md:153
 msgid "110"
@@ -798,12 +798,12 @@ msgstr "Разреженный травянистый покров (< 15 %)"
 #: ../../SO1.md:171
 #, python-brace-format
 msgid "{rspan}`5` 3"
-msgstr " {rspan}`5` 3"
+msgstr " 3"
 
 #: ../../SO1.md:172
 #, python-brace-format
 msgid "{rspan}`5` Cropland"
-msgstr " {rspan}`5` Пахотные земли"
+msgstr " Пахотные земли"
 
 #: ../../SO1.md:173 ../../SO1.md:826
 msgid "10"
@@ -864,12 +864,12 @@ msgstr ""
 #: ../../SO1.md:185
 #, python-brace-format
 msgid "{rspan}`2` 4"
-msgstr " {rspan}`2` 4"
+msgstr " 4"
 
 #: ../../SO1.md:186
 #, python-brace-format
 msgid "{rspan}`2` Wetland"
-msgstr " {rspan}`2` Водно-болотные угодья"
+msgstr " Водно-болотные угодья"
 
 #: ../../SO1.md:187
 msgid "160"
@@ -918,12 +918,12 @@ msgstr "Городские территории"
 #: ../../SO1.md:197
 #, python-brace-format
 msgid "{rspan}`3` 6"
-msgstr " {rspan}`3` 6"
+msgstr " 6"
 
 #: ../../SO1.md:198
 #, python-brace-format
 msgid "{rspan}`3` Other land"
-msgstr " {rspan}`3` Прочие земли"
+msgstr " Прочие земли"
 
 #: ../../SO1.md:199
 msgid "200"
@@ -1057,12 +1057,12 @@ msgstr ""
 #: ../../SO1.md:239
 #, python-brace-format
 msgid "{rspan}`1`"
-msgstr "{rspan}`1`"
+msgstr ""
 
 #: ../../SO1.md:240
 #, python-brace-format
 msgid "{cspan}`7` FINAL CLASS"
-msgstr " {cspan}`7` КОНЕЧНЫЙ КЛАСС"
+msgstr " КОНЕЧНЫЙ КЛАСС"
 
 #: ../../SO1.md:241 ../../SO1.md:250
 msgid "Tree-covered areas"
@@ -1079,7 +1079,7 @@ msgstr "ИСХОДНЫЙ КЛАСС"
 #: ../../SO1.md:249
 #, python-brace-format
 msgid "{cspan}`7`"
-msgstr "{cspan}`7`"
+msgstr ""
 
 #: ../../SO1.md:251 ../../SO1.md:257 ../../SO1.md:260 ../../SO1.md:265
 #: ../../SO1.md:269 ../../SO1.md:273 ../../SO1.md:278 ../../SO1.md:281
@@ -1469,12 +1469,12 @@ msgstr ""
 #: ../../SO1.md:386 ../../SO1.md:595
 #, python-brace-format
 msgid "{rspan}`1` Item"
-msgstr " {rspan}`1` Позиция"
+msgstr " Позиция"
 
 #: ../../SO1.md:387 ../../SO1.md:596
 #, python-brace-format
 msgid "{cspan}`1` Specifications"
-msgstr " {cspan}`1` Спецификации"
+msgstr " Спецификации"
 
 #: ../../SO1.md:388
 msgid ""
@@ -3100,31 +3100,31 @@ msgstr ""
 #: ../../SO1.md:718
 #, python-brace-format
 msgid "{cspan}`3` Trends in Land Productivity"
-msgstr " {cspan}`3` Тенденции изменения продуктивности земель"
+msgstr " Тенденции изменения продуктивности земель"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:719
 #, python-brace-format
 msgid "{rspan}`1` Period"
-msgstr " {rspan}`1` Период"
+msgstr " Период"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:720
 #, python-brace-format
 msgid "{rspan}`1` Trend / Trajectory{{br}}(16 years)"
-msgstr " {rspan}`1` Тренд/траектория {{br}}(16 лет)"
+msgstr " Тренд/траектория {{br}}(16 лет)"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:721
 #, python-brace-format
 msgid "{cspan}`1` State (16 years)"
-msgstr " {cspan}`1` Состояние (16 лет)"
+msgstr " Состояние (16 лет)"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:722
 #, python-brace-format
 msgid "{rspan}`1` Performance{{br}}(16 years)"
-msgstr " {rspan}`1` Продуктивность {{br}}(16 лет)"
+msgstr " Продуктивность {{br}}(16 лет)"
 
 # Requires manual validation; translated with DeepL
 #: ../../SO1.md:723
@@ -3240,7 +3240,7 @@ msgstr ""
 #, python-brace-format
 msgid "{cspan}`2` Changes observed in the three input productivity metrics"
 msgstr ""
-" {cspan}`2` Изменения, наблюдаемые по трем исходным показателям "
+" Изменения, наблюдаемые по трем исходным показателям "
 "продуктивности"
 
 #: ../../SO1.md:761
@@ -3249,7 +3249,7 @@ msgid ""
 "{cspan}`1` Land productivity dynamics and land productivity degradation "
 "status derived from the combination of the three productivity metrics"
 msgstr ""
-" {cspan}`1` Динамика продуктивности земель и состояние деградации "
+" Динамика продуктивности земель и состояние деградации "
 "продуктивности земель, определяемые на основе сочетания трех показателей "
 "продуктивности"
 
@@ -4649,12 +4649,12 @@ msgstr "*__Таблица 14__. Спецификации данных для п�
 #: ../../SO1.md:1096
 #, python-brace-format
 msgid "{rspan}`1`Item"
-msgstr " {rspan}`1`Показатель"
+msgstr " Показатель"
 
 #: ../../SO1.md:1097
 #, python-brace-format
 msgid "{cspan}`1`Specifications"
-msgstr " {cspan}`1`Спецификации"
+msgstr " Спецификации"
 
 #: ../../SO1.md:1098
 msgid "Default data"

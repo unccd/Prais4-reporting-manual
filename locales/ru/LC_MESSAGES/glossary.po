@@ -36,7 +36,17 @@ msgid ""
 "{term}`S <Safely managed drinking water source(s)>` | {term}`T <Target>` | "
 "{term}`U <UNCCD National Action Programmes (NAPs)>` | {term}`V <Vector "
 "data>` | {term}`W <Water bodies>`|"
-msgstr "| {term}`A <Надземная биомасса>` | {term}`B <Базовый уровень>` | {term}`C <Наращивание потенциала, развитие потенциала>` | {term}`D <Данные>` | {term}`E <Факторы экономической уязвимости>` | {term}`F <Ложноотрицательный результат>` | {term}`G <Прирост (по результатам мониторинга)>`| {term}`H <Опасное явление>` | {term}`I <Нормативная основа осуществления>` | {term}`K <Ключевой район биоразнообразия>` | {term}`L <Земный покров>` | {term}`M <Учет гендерных аспектов>` | {term}`N <Природный капитал>` | {term}`O <Система отчетности кредиторов КСР ОЭСР>` | {term}`P <Партнерство>` | {term}`R <Растровые данные>` | {term}`S <Источник питьевой воды, обеспечивающий безопасное водоснабжение>` | {term}`T <Целевой показатель>` | {term}`U <Национальные программы действий (НАП) КБОООН>` | {term}`V <Векторные данные>` | {term}`W <Водные объекты>`|"
+msgstr ""
+"| {term}`A <Above ground biomass>` | {term}`B <Baseline>` | {term}`C "
+"<Capacity building, capacity development>` | {term}`D <Data>` | {term}`E "
+"<Economic vulnerability factors>` | {term}`F <False negative>` | {term}`G "
+"<Gain (monitored)>`| {term}`H <Hazard>` | {term}`I <Implementation "
+"Framework>` | {term}`K <Key Biodiversity Area>` | {term}`L <Land cover>` | "
+"{term}`M <Mainstreaming gender>` | {term}`N <Natural capital>` | {term}`O "
+"<OECD DAC CRS>` | {term}`P <Partnership>` | {term}`R <Raster data>` | "
+"{term}`S <Safely managed drinking water source(s)>` | {term}`T <Target>` | "
+"{term}`U <UNCCD National Action Programmes (NAPs)>` | {term}`V <Vector "
+"data>` | {term}`W <Water bodies>`|"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md
@@ -145,7 +155,7 @@ msgstr "Один из факторов, рекомендуемых для оце
 #: ../../glossary.md:839 ../../glossary.md:966 ../../glossary.md:1002
 #, python-brace-format
 msgid "_See also {term}`Drought Vulnerability Index (DVI)`._"
-msgstr "_См. также {term}`Индекс уязвимости к засухе (DVI)`._"
+msgstr "_См. также {term}`Индекс уязвимости к засухе (Drought Vulnerability Index, DVI)`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:25
@@ -808,7 +818,7 @@ msgstr "Класс интенсивности засухи, определяем
 #: ../../glossary.md:203
 #, python-brace-format
 msgid "_See also {term}`Standardized Precipitation Index (SPI)`._"
-msgstr "_См. также {term}`Стандартизированный индекс осадков (SPI)`._"
+msgstr "_См. также {term}`Стандартизированный индекс осадков (Standardized Precipitation Index, SPI)`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:189
@@ -1522,7 +1532,7 @@ msgstr "Схемы стимулирования, такие как платеж�
 #, python-brace-format
 msgid ""
 "_See also {term}`Alternative livelihoods` and {term}`Compensation schemes`._"
-msgstr "_См. также {term}`Альтернативные средства к существованию` и {term}`Схемы компенсации`._"
+msgstr "_См. также {term}`Альтернативные источники средств к существованию` и {term}`Схемы компенсации`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:396
@@ -2020,7 +2030,7 @@ msgstr "В контексте НБДЗ — снижение природного
 #: ../../glossary.md:549
 #, python-brace-format
 msgid "_See also {term}`gain<Gain (monitored)>`._"
-msgstr "_См. также {term}`<Прирост (по данным мониторинга)>`._"
+msgstr "_См. также {term}`прирост<Прирост (по данным мониторинга)>`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:535
@@ -2531,7 +2541,7 @@ msgstr "Доля населения, использующего улучшенн
 msgid ""
 "_See also {term}`Drought Vulnerability Index (DVI)`, {term}`Improved "
 "drinking water source`._"
-msgstr "_См. также {term}`Индекс уязвимости к засухе (DVI)`, {term}`Улучшенный источник питьевой воды`._"
+msgstr "_См. также {term}`Индекс уязвимости к засухе (Drought Vulnerability Index, DVI)`, {term}`Улучшенный источник питьевой воды`._"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:664
@@ -2951,7 +2961,7 @@ msgstr "Периодическое представление Сторонами
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:776
 msgid "Resilience"
-msgstr "Устойчивость"
+msgstr "Устойчивость (Resilience)"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:793
@@ -3382,7 +3392,7 @@ msgstr "Стратегическая цель 5: мобилизация знач
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:889
 msgid "Sustainability"
-msgstr "Устойчивость"
+msgstr "Устойчивость (Sustainability)"
 
 # Requires manual validation; translated with DeepL
 #: ../../glossary.md:906

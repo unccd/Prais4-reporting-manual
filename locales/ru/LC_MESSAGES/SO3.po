@@ -215,12 +215,12 @@ msgstr "*__Таблица 18__. Спецификации данных для п�
 #: ../../SO3.md:63 ../../SO3.md:287 ../../SO3.md:473
 #, python-brace-format
 msgid "{rspan}`1` Item"
-msgstr " {rspan}`1` Позиция"
+msgstr " Позиция"
 
 #: ../../SO3.md:64 ../../SO3.md:288 ../../SO3.md:474
 #, python-brace-format
 msgid "{cspan}`1` Specifications"
-msgstr " {cspan}`1` Спецификации"
+msgstr " Спецификации"
 
 #: ../../SO3.md:65 ../../SO3.md:289
 msgid "Default data"
