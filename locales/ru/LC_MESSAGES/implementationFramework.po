@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-03 15:18+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-08-27 15:18+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,24 +17,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:1
 msgid ""
 "7. Implementation framework: policy and planning, actions on the ground and "
 "financial and non-financial resources"
 msgstr ""
-"7. Система реализации: политика и планирование, действия на местах, "
-"финансовые и нефинансовые ресурсы"
+"7. Нормативная основа осуществления: политика и планирование, практические "
+"меры, финансовые и нефинансовые ресурсы"
 
 #: ../../implementationFramework.md:3
 msgid "7.1. About the implementation framework"
-msgstr "7.1. О механизме осуществления"
+msgstr "7.1. О нормативной основе осуществления"
 
 #: ../../implementationFramework.md:5
 msgid "7.1.1. Introduction"
 msgstr "7.1.1. Введение"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:7
 msgid ""
 "The implementation framework describes the approach adopted to support and "
@@ -51,154 +49,137 @@ msgid ""
 "understanding of successes and challenges in implementing the Convention. "
 "The main objectives of this part of reporting are to:"
 msgstr ""
-"Система реализации описывает подход, принятый для поддержки и реализации "
-"стратегических целей, и, кроме того, предоставляет Сторонам возможность "
-"поделиться своими знаниями и опытом. Хотя эта работа является добровольной, "
-"она представляет собой жизненно важную часть отчетности, поскольку помогает "
-"контекстуализировать количественную информацию, представленную по каждой СЦ "
-"и индикатору, а также предоставляет дополнительную описательную информацию о"
-" действиях на местах, которые осуществляются Сторонами. Там, где это "
-"уместно, Стороны должны сообщать конкретные примеры эффективных "
-"вмешательств, измеримых улучшений, ощутимых воздействий и историй успеха, "
-"демонстрирующих практическую реализацию на национальном и местном уровне с "
-"момента принятия стратегических рамок. Рассказанные здесь истории могут "
-"помочь мотивировать другие Стороны и углубить понимание успехов и проблем в "
-"реализации Конвенции. Основными целями этой части отчетности являются:"
+"Нормативная основа осуществления описывает подход, принятый для поддержки и "
+"осуществления стратегических целей, а также предоставляет Сторонам "
+"возможность обмениваться своими знаниями и опытом. Хотя представление этой "
+"информации носит добровольный характер, она является важнейшей частью "
+"отчетности, поскольку позволяет контекстуализировать количественную "
+"информацию, представленную по каждой стратегической цели и показателю, а "
+"также предоставляет дополнительную описательную информацию о практических "
+"мерах, осуществляемых Сторонами. В соответствующих случаях Сторонам следует "
+"представлять конкретные примеры эффективных мер, измеримых улучшений, "
+"ощутимых результатов и успешных инициатив, демонстрирующих практическое "
+"осуществление на национальном и местном уровнях после принятия "
+"стратегической рамочной программы. Представленные здесь примеры могут "
+"способствовать мотивации других Сторон и углублению понимания успехов и "
+"проблем, связанных с осуществлением Конвенции. Основные цели этой части "
+"отчетности:"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:10
 msgid ""
 "Understand how policies and plans are being implemented to reach the goals "
 "of the Convention;"
 msgstr ""
-"Поймите, как реализуются политики и планы для достижения целей Конвенции;"
+"Понять, каким образом осуществляется политика и реализуются планы для "
+"достижения целей Конвенции;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:12
 msgid ""
 "Identify practical actions on the ground that illustrate how the Convention "
 "can be successfully implemented;"
 msgstr ""
-"Определите практические действия на местах, которые иллюстрируют, как "
-"Конвенция может быть успешно реализована;"
+"Выявить практические меры, осуществляемые на местах, которые демонстрируют, "
+"каким образом Конвенция может успешно осуществляться;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:14
 msgid ""
 "Highlight how financial resources from different sources are mobilised to "
 "fund implementation of the actions."
 msgstr ""
-"Укажите, как мобилизуются финансовые ресурсы из различных источников для "
-"финансирования реализации мероприятий."
+"Показать, каким образом финансовые ресурсы из различных источников "
+"мобилизуются для финансирования осуществления этих мер."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:16
 msgid ""
 "For the 2026 reporting process, the relevant part of the implementation "
 "framework is placed separately under each SO. For SO1- SO4 these sections "
 "focus on two broad areas:"
 msgstr ""
-"Для процесса отчетности за 2026 год соответствующая часть схемы реализации "
-"размещена отдельно в каждой СЦ. Для СЦ1-СЦ4 эти разделы посвящены двум "
-"широким областям:"
+"В рамках процесса представления отчетности за 2026 год соответствующая часть"
+" нормативной основы осуществления размещена отдельно для каждой "
+"стратегической цели. Для стратегических целей 1–4 эти разделы сосредоточены "
+"на двух основных направлениях:"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:18
 msgid "a) Policy and planning"
 msgstr "a) Политика и планирование"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:20 ../../implementationFramework.md:48
 msgid "Sharing experiences in:"
-msgstr "Обмен опытом в:"
+msgstr "Обмен опытом в следующих областях:"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:22
 msgid ""
 "(i) the development, implementation and monitoring of national, subregional "
 "and regional action programmes and/or plans for UNCCD implementation;"
 msgstr ""
-"(i) разработка, реализация и мониторинг национальных, субрегиональных и "
-"региональных программ действий и/или планов по реализации КБОООН;"
+"(i) разработка, осуществление и мониторинг национальных, субрегиональных и "
+"региональных программ действий и (или) планов по осуществлению КБОООН;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:24
 msgid "(ii) the establishment of policies and enabling environments;"
-msgstr "(ii) создание политики и благоприятной среды;"
+msgstr "(ii) разработка политики и создание благоприятных условий;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:26
 msgid ""
 "(iii) mainstreaming of efforts to combat desertification/land degradation "
 "and drought (DLDD);"
 msgstr ""
-"(iii) включение в основную деятельность усилий по борьбе с "
-"опустыниванием/деградацией земель и засухой (ОДЗЗ);"
+"(iii) учет вопросов борьбы с опустыниванием/деградацией земель и засухой "
+"(ОДДЗ) в основных направлениях деятельности;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:28
 msgid "(iv) improvements in drought preparedness and management."
-msgstr "(iv) улучшения в области готовности к засухе и управления ею."
+msgstr "(iv) повышение готовности к засухе и улучшение управления засухой;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:30
 msgid "(v) leveraging of synergies with other Conventions and goals."
 msgstr "(v) использование синергии с другими конвенциями и целями."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:32
 msgid "b) Actions on the ground"
-msgstr "b) Действия на земле"
+msgstr "b) Практические меры"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:34
 msgid "Sharing experience in:"
-msgstr "Поделитесь опытом в:"
+msgstr "Обмен опытом в следующих областях:"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:36
 msgid ""
 "(i) successful implementation practices used to achieve sustainable land "
 "management;"
 msgstr ""
-"(i) успешные методы реализации, используемые для достижения устойчивого "
+"(i) успешные методы осуществления, применяемые для достижения устойчивого "
 "управления земельными ресурсами;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:38
 msgid "(ii) establishing knowledge sharing systems;"
 msgstr "(ii) создание систем обмена знаниями;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:40
 msgid "(iii) drought risk management and early warning systems;"
-msgstr "(iii) управление рисками засухи и системы раннего оповещения;"
+msgstr "(iii) управление рисками засухи и системы раннего предупреждения;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:42
 msgid "(iv) alternative livelihoods."
-msgstr "(iv) альтернативные средства к существованию."
+msgstr "(iv) альтернативные источники средств к существованию."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:44
 msgid "For SO5 the focus of the implementation actions is on:"
-msgstr "Для СЦ5 основное внимание уделяется действиям по реализации:"
+msgstr "Для СЦ 5 осуществление мер сосредоточено на следующем:"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:46
 msgid "c) Financial and non-financial resources"
 msgstr "c) Финансовые и нефинансовые ресурсы"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:50
 msgid ""
 "(i) the development, implementation and monitoring of national strategies "
 "for mobilizing resources for UNCCD implementation;"
 msgstr ""
-"(i) разработка, внедрение и мониторинг национальных стратегий по мобилизации"
-" ресурсов для реализации UNCCD;"
+"(i) разработка, осуществление и мониторинг национальных стратегий по "
+"мобилизации ресурсов для осуществления КБОООН;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:52
 msgid ""
 "(ii) leveraging of synergies with other Conventions and goals, especially in"
@@ -207,40 +188,39 @@ msgstr ""
 "(ii) использование синергии с другими конвенциями и целями, особенно в "
 "отношении мобилизации ресурсов;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:54
 msgid ""
 "(iii) national circumstances and institutional arrangements relevant to the "
 "reporting process on Strategic Objective 5 and the progress indicators."
 msgstr ""
 "(iii) национальные условия и институциональные механизмы, имеющие отношение "
-"к процессу отчетности по Стратегической цели 5 и индикаторам прогресса."
+"к процессу представления отчетности по стратегической цели 5 и показателям "
+"прогресса."
 
 #: ../../implementationFramework.md:56
 msgid "7.1.2. Approach to reporting and structure of the reporting template"
-msgstr "7.1.2. Подход к отчетности и структура шаблона отчетности"
+msgstr ""
+"7.1.2. Подход к представлению отчетности и структура шаблона отчетности"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:58
 msgid ""
 "Reporting on the implementation framework is generally in a tabular and "
 "narrative format, and is voluntary."
 msgstr ""
-"Отчетность о системе внедрения обычно представляется в табличной и "
-"описательной форме и является добровольной."
+"Отчетность по нормативной основе осуществления, как правило, представляется "
+"в табличной и описательной форме и носит добровольный характер."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:60
 msgid ""
 "A specific reporting template (SOx-IF) can be found as the final element for"
 " each of the SOs in the overview page or within the separate SO tabs on the "
 "PRAIS 4 platform and includes one or more of the applicable sections."
 msgstr ""
-"Специальный шаблон отчетности (SOx-IF) можно найти в качестве завершающего "
-"элемента для каждой СЦ на обзорной странице или на отдельных вкладках СЦ на "
-"платформе PRAIS 4, и он включает один или несколько применимых разделов."
+"Специальный шаблон отчетности (SOx-IF) представлен в качестве "
+"заключительного элемента для каждой стратегической цели на странице обзора "
+"или на отдельных вкладках стратегических целей на платформе СОРОО 4 и "
+"включает один или несколько применимых разделов."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:62
 msgid ""
 "The template poses a series of high-level questions to which the Parties can"
@@ -250,14 +230,13 @@ msgid ""
 " in the tables, containing a combination of selections from drop-down menus "
 "and free descriptive text."
 msgstr ""
-"В шаблоне задается ряд вопросов высокого уровня, на которые Стороны могут "
-"ответить \"Да/Нет\". Если ответ \"Да\", то у Сторон есть возможность "
-"предоставить дополнительную информацию по каждой теме, подробно описывающую "
-"опыт страны. Эта дополнительная информация может быть предоставлена путем "
-"заполнения таблиц, содержащих комбинацию выбора из выпадающих меню и "
-"свободного описательного текста."
+"В шаблоне содержится ряд общих вопросов, на которые Стороны могут ответить "
+"«Да/Нет». В случае ответа «Да» Стороны имеют возможность предоставить "
+"дополнительную информацию по каждой теме с подробным описанием опыта страны."
+" Эта дополнительная информация может быть представлена путем заполнения "
+"таблиц, содержащих комбинацию вариантов, выбираемых из раскрывающихся меню, "
+"и свободного описательного текста."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:64
 msgid ""
 "Additionally, comment boxes are included at the end of each form where other"
@@ -270,22 +249,20 @@ msgid ""
 "reported examples were successful, and what factors contributed to their "
 "success."
 msgstr ""
-"Кроме того, в конце каждой формы предусмотрены поля для комментариев, куда "
-"можно добавить другую необходимую информацию, которая не может быть легко "
-"или полно описана в таблицах или в ответах на конкретные вопросы. "
-"Повествовательный характер раздела \"Система реализации\" дает Сторонам "
-"возможность предоставить и поделиться информацией об опыте и проблемах. "
-"Сторонам также предлагается добавить один или несколько примеров в поддержку"
-" заявленного опыта, включая подход/процедуру, которая была использована, как"
-" представленные примеры были успешными и какие факторы способствовали их "
-"успеху."
+"Кроме того, в конце каждой формы предусмотрены поля для комментариев, в "
+"которых можно добавить другую соответствующую информацию, которую трудно или"
+" невозможно в полной мере описать в таблицах или в ответах на конкретные "
+"вопросы. Описательный характер раздела, посвященного нормативной основе "
+"осуществления, предоставляет Сторонам возможность представлять информацию об"
+" опыте и проблемах и обмениваться ею. Сторонам также рекомендуется приводить"
+" один или несколько примеров в подтверждение описанного опыта, включая "
+"использованный подход/процедуру, сведения о том, почему приведенные примеры "
+"оказались успешными, и факторы, способствовавшие их успеху."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:66
 msgid "7.1.3. Reporting for Action"
-msgstr "7.1.3. Отчетность для действий"
+msgstr "7.1.3. Отчетность для принятия мер"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:68
 msgid ""
 "The information provided through reporting on the implementation framework "
@@ -303,22 +280,23 @@ msgid ""
 "countries and provide practical ideas on how they can address land "
 "degradation in their own countries."
 msgstr ""
-"Информация, предоставленная в рамках отчетности по системе реализации, будет"
-" использоваться, в частности, на официальных сессиях Комитета по обзору хода"
-" реализации Конвенции для освещения опыта, накопленного в ходе реализации "
-"Конвенции. Например, информация, полученная в ходе цикла отчетности 2022 "
-"года, была использована для сбора примеров мер, принятых странами для "
-"остановки и обращения вспять деградации земель. Эти примеры представлены в "
-"публикации [The Land "
-"Story](https://www.unccd.int/resources/publications/land-story-country-"
-"experiences-reporting-land-degradation-and-drought) (UNCCD, 2024). "
-"Материалы, внесенные в систему реализации в этом отчетном цикле, могут "
-"послужить дополнительными примерами и тематическими исследованиями для "
-"будущего издания аналогичной публикации. Такие тематические исследования "
-"могут послужить вдохновением для всех стран и дать практические идеи о том, "
-"как они могут решить проблему деградации земель в своих странах."
+"Информация, представленная в рамках отчетности по нормативной основе "
+"осуществления, будет, среди прочего, использоваться на официальных "
+"заседаниях Комитета по рассмотрению хода осуществления Конвенции для "
+"освещения опыта, накопленного в процессе осуществления Конвенции. Например, "
+"информация из цикла представления отчетности в 2022 году использовалась для "
+"подготовки примеров мер, принятых странами для прекращения и обращения "
+"вспять деградации земель. Эти примеры представлены в публикации [«История "
+"земель» (The Land Story)] "
+"(https://www.unccd.int/resources/publications/land-story-country-"
+"experiences-reporting-land-degradation-and-drought) (КБООН, 2024 год). "
+"Материалы, внесенные в систему нормативной основы осуществления в ходе "
+"настоящего цикла отчетности, могут послужить дополнительными примерами и "
+"тематическими исследованиями для будущего издания аналогичной публикации. "
+"Такие тематические исследования могут служить источником вдохновения для "
+"всех стран и содержать практические идеи относительно того, как они могут "
+"решать проблему деградации земель в своих странах."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:73
 msgid ""
 "The following sections in this reporting manual provide advice on the "
@@ -326,34 +304,31 @@ msgid ""
 "narratives concerning each area/aim within the Implementation Framework part"
 " of the reporting."
 msgstr ""
-"В следующих разделах данного руководства по отчетности даются рекомендации "
-"по конкретному содержанию и типу информации, которая должна быть "
-"представлена в таблицах и описаниях по каждой области/цели в части отчета "
-"\"Рамки реализации\"."
+"В следующих разделах настоящего руководства по представлению отчетности "
+"содержатся рекомендации относительно конкретного содержания и типа "
+"информации, которая требуется в таблицах и описательной части по каждому "
+"направлению/цели в рамках раздела отчетности, посвященного нормативной "
+"основе осуществления."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:75
 msgid "7.2. Policy and planning"
 msgstr "7.2. Политика и планирование"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:77
 msgid ""
 "Parties are encouraged to answer questions related to the following five "
 "main topics. Not all SOs address all of these topics."
 msgstr ""
 "Сторонам предлагается ответить на вопросы, относящиеся к следующим пяти "
-"основным темам. Не все СЦ затрагивают все эти темы."
+"основным темам. Не все стратегические цели охватывают все эти темы."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:79
 msgid "7.2.1. Action plans and programmes"
 msgstr "7.2.1. Планы действий и программы"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:82 ../../implementationFramework.md:158
 msgid "Relevant to SO1"
-msgstr "Имеет отношение к СЦ1"
+msgstr "Имеет отношение к СЦ 1"
 
 #: ../../implementationFramework.md:85
 msgid ""
@@ -366,16 +341,15 @@ msgid ""
 "combating land degradation/desertification and mitigating the effects of "
 "drought."
 msgstr ""
-"Сюда относятся разработка, осуществление, пересмотр и мониторинг "
-"национальных, субрегиональных и региональных программ действий и/или планов "
-"в качестве эффективных инструментов осуществления КБО ООН, таких как "
-"национальные программы действий (НПД). НПД разрабатываются на основе "
-"подходов, основанных на широком участии различных заинтересованных сторон на"
-" национальном, субрегиональном и региональном уровнях, и охватывают "
+"Этот раздел касается разработки, осуществления, пересмотра и мониторинга "
+"национальных, субрегиональных и региональных программ действий и (или) "
+"планов в качестве эффективных инструментов осуществления КБОООН, таких как "
+"национальные программы действий (НПД). НПД разрабатываются с применением "
+"подходов, предусматривающих участие различных заинтересованных сторон на "
+"национальном, субрегиональном и региональном уровнях, и охватывают "
 "практические шаги и меры, способствующие борьбе с деградацией "
 "земель/опустыниванием и смягчению последствий засухи."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:87
 msgid ""
 "The reporting template encourages Parties to list and describe the most "
@@ -390,54 +364,49 @@ msgid ""
 msgstr ""
 "Шаблон отчетности предлагает Сторонам перечислить и описать наиболее важные "
 "программы действий, связанные с опустыниванием, деградацией земель и засухой"
-" (ОДЗЗ). Сторонам следует как можно полнее описать план действий или "
-"программу, определить статус действий, любые достигнутые успехи и проблемы, "
-"которые решаются в ходе их реализации. Стороны также должны указать, был ли "
-"план разработан с использованием процесса широкого участия, и если да, то "
-"были ли вовлечены в планирование и принятие решений женщины, молодежь, "
-"коренные народы и местные общины, а также их представители."
+" (ОДДЗ). Сторонам следует как можно более полно описать план или программу "
+"действий, указав статус осуществления соответствующих мер, достигнутые "
+"успехи и проблемы, решаемые в ходе их осуществления. Сторонам также следует "
+"указать, разрабатывался ли план с использованием процесса, "
+"предусматривающего участие заинтересованных сторон, и если да, участвовали "
+"ли в планировании и принятии решений женщины, молодежь, коренные народы и "
+"местные общины и их представители."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:89
 msgid "7.2.2. Policies and enabling environment"
-msgstr "7.2.2. Политика и благоприятная среда"
+msgstr "7.2.2. Политика и благоприятные условия"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:92
 msgid "Relevant to SO1, SO2, SO3"
-msgstr "Имеет отношение к СЦ1, СЦ2, СЦ3"
+msgstr "Имеет отношение к СЦ 1, 2 и 3"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:95
 msgid ""
 "This section focuses on identifying policies, legislative measures, funding "
 "mechanisms and other organizational processes that have been established to "
 "ensure an enabling environment for promoting and implementing solutions to:"
 msgstr ""
-"Этот раздел посвящен определению политики, законодательных мер, механизмов "
-"финансирования и других организационных процессов, которые были созданы для "
-"обеспечения благоприятной среды для продвижения и реализации решений:"
+"В этом разделе основное внимание уделяется выявлению политики, "
+"законодательных мер, механизмов финансирования и других организационных "
+"процессов, созданных для обеспечения благоприятных условий для продвижения и"
+" осуществления решений, направленных на:"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:97
 msgid "combat desertification/land degradation (SO1);"
-msgstr "борьба с опустыниванием/деградацией земель (СЦ1);"
+msgstr "борьбу с опустыниванием/деградацией земель (СЦ 1);"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:98
 msgid ""
 "address inclusion of underrepresented groups in the implementation of the "
 "Convention (SO2) and"
 msgstr ""
-"решить проблему вовлечения недопредставленных групп в осуществление "
-"Конвенции (СЦ2) и"
+"обеспечение учета интересов недостаточно представленных групп при "
+"осуществлении Конвенции (СЦ 2); и"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:99
 msgid "combat drought and promote drought resilience (SO3)."
-msgstr "бороться с засухой и повышать устойчивость к засухе (SO3)."
+msgstr "борьбу с засухой и повышение устойчивости к засухе (СЦ 3)."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:101
 msgid ""
 "The reporting template encourages Parties to list and describe the most "
@@ -447,11 +416,11 @@ msgid ""
 "addressed in its implementation."
 msgstr ""
 "Шаблон отчетности предлагает Сторонам перечислить и описать наиболее важные "
-"стимулирующие мероприятия, связанные с СЦ. Сторонам следует как можно полнее"
-" описать их, указать статус деятельности, любые достигнутые успехи и "
-"проблемы, которые решаются в ходе ее реализации."
+"меры по созданию благоприятных условий, связанные со стратегической целью. "
+"Сторонам следует как можно более полно описать эти меры, указав статус их "
+"осуществления, достигнутые успехи и проблемы, решаемые в ходе их "
+"осуществления."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:104
 msgid ""
 "For SO1 and SO3 there are questions about the support provided to other "
@@ -461,14 +430,14 @@ msgid ""
 "those that do. However, they may also address Parties that engage in "
 "South–South cooperation as part of the implementation of this Convention."
 msgstr ""
-"Для СЦ1 и СЦ3 есть вопросы о поддержке, оказываемой другим Сторонам в "
-"осуществлении Конвенции. Можно представить подробную информацию о типе "
-"оказываемой поддержки. В принципе, эти вопросы адресованы Сторонам "
-"Конвенции, которые, возможно, не страдают от ОДЗЗ, но поддерживают тех, кто "
-"страдает. Однако они также могут касаться Сторон, которые участвуют в "
-"сотрудничестве Юг-Юг в рамках реализации настоящей Конвенции."
+"Для СЦ 1 и 3 предусмотрены вопросы о поддержке, оказываемой другим Сторонам "
+"в целях осуществления Конвенции. Можно представить подробную информацию о "
+"видах предоставленной поддержки. Эти вопросы в первую очередь адресованы "
+"Сторонам Конвенции, которые, возможно, не сталкиваются с ОДДЗ, но оказывают "
+"поддержку Сторонам, которые сталкиваются с этими проблемами. Вместе с тем "
+"они также могут относиться к Сторонам, участвующим в сотрудничестве Юг–Юг в "
+"рамках осуществления настоящей Конвенции."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:109
 msgid ""
 "For SO2 it is important to report on how women, youth, Indigenous people and"
@@ -489,40 +458,40 @@ msgid ""
 " drought resilience](https://www.unccd.int/resources/publications/women-led-"
 "solutions-drought-resilience)”."
 msgstr ""
-"Для SO2 важно сообщить, как женщины, молодежь, коренное население и местные "
-"общины были полностью вовлечены во все политические процессы, поскольку они "
-"слишком часто исключаются или их участие сводится к минимуму, в то время как"
-" они также являются одними из наиболее уязвимых к суровым последствиям ОДЗЗ."
-" В то же время, политика должна учитывать изобретательность, которую эти "
-"группы населения в некоторых случаях демонстрировали при адаптации к засухе "
-"и смягчении ее последствий, и должным образом признавать и поощрять эту "
-"изобретательность. Для того чтобы любая страна могла успешно решать проблемы"
-" ОДЗЗ и управлять ими, необходимо предпринять действия, направленные на "
-"полное вовлечение всего населения и использование его различных перспектив, "
-"опыта и способностей. Более подробную информацию по этим вопросам, а также "
-"несколько примеров из практики стран, можно найти в недавней публикации "
-"UNCCD \"[Дифференцированное воздействие опустынивания, деградации земель и "
-"засухи на женщин и мужчин] (https://www.unccd.int/resources/brief/study-"
-"differentiated-impacts-dldd-women-and-men-summary-decision-makers)\" и "
-"\"[Решения под руководством женщин для обеспечения устойчивости к засухе] "
-"(https://www.unccd.int/resources/publications/women-led-solutions-drought-"
-"resilience)\"."
+"Для СЦ 2 важно сообщать о том, каким образом женщины, молодежь, коренные "
+"народы и местные сообщества в полной мере участвуют во всех процессах "
+"разработки политики, поскольку слишком часто они исключаются из таких "
+"процессов или их участие ограничивается, хотя именно эти группы населения "
+"относятся к числу наиболее уязвимых к тяжелым последствиям ОДДЗ. В то же "
+"время политика должна учитывать изобретательность, которую эти группы "
+"населения в ряде случаев демонстрируют в адаптации к засухе и смягчении ее "
+"последствий, а также должным образом признавать и поощрять такую "
+"изобретательность. Для того чтобы любая страна могла успешно решать "
+"проблемы, связанные с ОДДЗ, и управлять ими, необходимо принимать меры для "
+"обеспечения полноценного участия всего населения и использования "
+"разнообразных взглядов, опыта и способностей людей. Дополнительную "
+"информацию по этим вопросам, включая несколько примеров из разных стран, "
+"можно найти в недавно опубликованных КБОООН материалах [«Дифференцированное "
+"воздействие опустынивания, деградации земель и засухи на женщин и мужчин» "
+"(Differentiated impacts of desertification, land degradation and drought on "
+"women and men)] https://www.unccd.int/resources/brief/study-differentiated-"
+"impacts-dldd-women-and-men-summary-decision-makers) и [«Решения по повышению"
+" устойчивости к засухе, предложенные женщинами» (Women-led solutions for "
+"drought resilience)] (https://www.unccd.int/resources/publications/women-"
+"led-solutions-drought-resilience)."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:114
 msgid ""
 "7.2.3. Mainstreaming efforts to combat desertification/land degradation and "
 "drought"
 msgstr ""
-"7.2.3. Включение в основную деятельность усилий по борьбе с "
-"опустыниванием/деградацией земель и засухой"
+"7.2.3. Учет вопросов борьбы с опустыниванием/деградацией земель и засухой в "
+"основных направлениях политики"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:117 ../../implementationFramework.md:176
 msgid "Relevant to SO1, SO3"
-msgstr "Имеет отношение к СЦ1, СЦ3"
+msgstr "Имеет отношение к СЦ 1 и 3"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:120
 msgid ""
 "Parties are encouraged to report on their approach to mainstreaming DLDD in "
@@ -534,16 +503,16 @@ msgid ""
 "migration, disaster preparedness, energy efficiency or wildlife "
 "conservation, among others."
 msgstr ""
-"Сторонам предлагается сообщить о своем подходе к учету ОДЗЗ в ряде областей "
-"политики с целью повышения воздействия и эффективности реализации Конвенции."
-" Эти области политики охватывают (i) экономическую, (ii) экологическую, "
-"(iii) социальную, (iv) земельную, (v) гендерную и (VI) сельскохозяйственную "
-"политику. Стороны могут выбрать для решения вопросы, связанные с получением "
-"дохода/сокращением бедности, гендерным равенством, безработицей, миграцией, "
-"готовностью к стихийным бедствиям, энергоэффективностью или сохранением "
-"дикой природы, среди прочих."
+"Сторонам рекомендуется сообщать о своем подходе к учету ОДДЗ в различных "
+"областях политики с целью повышения воздействия и эффективности "
+"осуществления Конвенции. Эти области политики охватывают (i) экономическую, "
+"(ii) экологическую, (iii) социальную политику, (iv) политику в области "
+"землепользования, (v) гендерную политику и (vi) сельскохозяйственную "
+"политику. Стороны могут, в частности, рассматривать вопросы, связанные с "
+"получением доходов / сокращением масштабов нищеты, гендерным равенством, "
+"безработицей, миграцией, готовностью к бедствиям, энергоэффективностью или "
+"охраной дикой природы."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:124
 msgid ""
 "Parties may include the rationale behind the mainstreaming of DLDD in "
@@ -552,23 +521,20 @@ msgid ""
 "Where possible the impact and effectiveness of the actions should also be "
 "discussed, as well as the main success factors and challenges encountered."
 msgstr ""
-"Стороны могут включить обоснование необходимости учета ОДЗЗ в политике, "
-"информацию об охвате/пользователях политики, а также подробности процесса "
-"подготовки и принятия решения о методах учета. По возможности, следует также"
-" обсудить влияние и эффективность действий, а также основные факторы успеха "
-"и возникшие проблемы."
+"Стороны могут включить обоснование необходимости учета ОДДЗ в политике, "
+"информацию об охвате/пользователях политики, а также подробную информацию о "
+"процессе подготовки и принятия решений относительно методов такого учета. По"
+" возможности следует также рассмотреть воздействие и эффективность принятых "
+"мер, а также основные факторы успеха и возникавшие проблемы."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:127
 msgid "7.2.4 National drought plans"
 msgstr "7.2.4 Национальные планы по борьбе с засухой"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:130 ../../implementationFramework.md:218
 msgid "Relevant to SO3"
-msgstr "Имеет отношение к SO3"
+msgstr "Имеет отношение к СЦ 3"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:133
 msgid ""
 "Parties are invited to identify any national drought plans. Should such a "
@@ -580,17 +546,17 @@ msgid ""
 "representatives were involved in planning and decision-making. A link to the"
 " national drought plan should be provided if available."
 msgstr ""
-"Сторонам предлагается назвать любые национальные планы по борьбе с засухой. "
-"Если такой план существует, Сторонам рекомендуется описать процессы, "
-"использованные для его разработки, указать, насколько успешным он был, и "
-"прокомментировать любые проблемы, возникшие в ходе его разработки или "
-"реализации. Стороны также должны указать, был ли план разработан с "
-"использованием процесса широкого участия, и если да, то были ли вовлечены в "
-"планирование и принятие решений женщины, молодежь, коренные народы и местные"
-" общины, а также их представители. Если есть возможность, следует указать "
-"ссылку на национальный план по борьбе с засухой."
+"Сторонам предлагается указать наличие каких-либо национальных планов по "
+"борьбе с засухой. В случае наличия такого плана Сторонам рекомендуется "
+"описать процессы, использованные для его разработки, указать, насколько "
+"успешно он реализуется, и привести информацию о любых проблемах, возникших в"
+" ходе его разработки или осуществления. Сторонам также следует указать, "
+"разрабатывался ли план с использованием процесса, предусматривающего участие"
+" заинтересованных сторон, и если да, участвовали ли в планировании и "
+"принятии решений женщины, молодежь, коренные народы и местные сообщества и "
+"их представители. При наличии следует предоставить ссылку на национальный "
+"план по борьбе с засухой."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:135
 msgid ""
 "A file with further information may also be uploaded. This might include "
@@ -606,20 +572,21 @@ msgid ""
 "approach/procedure used to develop drought preparedness and/or contingency "
 "plans."
 msgstr ""
-"Также может быть загружен файл с дополнительной информацией. Это может быть "
-"дополнительная информация, например, о создании многостороннего "
+"Также может быть загружен файл с дополнительной информацией. Он может "
+"содержать, например, дополнительную информацию о создании многостороннего "
 "координационного механизма (органа) по обеспечению готовности к засухе, "
-"создании и поддержании системы мониторинга и раннего оповещения о засухе, "
-"оценке уязвимости и воздействия засухи на различных уровнях (общеотраслевом,"
-" региональном или национальном) и/или реализации практических мер по "
-"снижению риска засухи (таких как сбор воды, страхование урожая и/или "
-"ирригационные методы). Дополнительная информация может также сообщать об "
-"управлении засухой, готовности к ней и повышении устойчивости к ней с учетом"
-" гендерных факторов. В этой связи особый интерес представляет описание "
-"подхода/процедуры, используемой для разработки планов готовности к засухе "
-"и/или планов действий в чрезвычайных ситуациях."
+"создании и поддержании системы мониторинга засухи и раннего предупреждения, "
+"оценках уязвимости к засухе и ее воздействия на различных уровнях (по "
+"отдельным секторам, на региональном или национальном уровне) и (или) "
+"осуществлении практических мер по снижению риска засухи (таких как сбор "
+"дождевой воды, страхование сельскохозяйственных культур и (или) методы "
+"орошения). Дополнительная информация также может содержать сведения об учете"
+" гендерных аспектов в управлении засухой, обеспечении готовности к ней и "
+"повышении устойчивости к ее последствиям. В этой связи особый интерес "
+"представляет описание подхода/процедуры, использованных для разработки "
+"планов обеспечения готовности к засухе и (или) планов действий на случай "
+"непредвиденных обстоятельств."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:137
 msgid ""
 "Parties may include information on the coverage (national/local) of the "
@@ -629,21 +596,19 @@ msgid ""
 "achieved so far, including the main success factors."
 msgstr ""
 "Стороны могут включить информацию об охвате (национальном/местном) "
-"политики/мер по борьбе с засухой и перечислить органы власти и другие "
-"основные заинтересованные стороны, участвующие в реализации. Они также могут"
-" включить основные цели и мероприятия политики/меры по борьбе с засухой, "
-"предпринятые действия и достигнутые на данный момент результаты, включая "
+"политики/меры по борьбе с засухой и перечислить органы власти и других "
+"основных заинтересованных сторон, участвующих в ее осуществлении. Они также "
+"могут указать основные цели и мероприятия в рамках политики/меры по борьбе с"
+" засухой, принятые меры и достигнутые на данный момент результаты, включая "
 "основные факторы успеха."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:139
 msgid "7.2.5 Synergies"
-msgstr "7.2.5 Синергия"
+msgstr "7.2.5. Синергия"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:142
 msgid "Relevant to SO4"
-msgstr "Имеет отношение к SO4"
+msgstr "Имеет отношение к СЦ 4"
 
 #: ../../implementationFramework.md:145
 msgid ""
@@ -652,13 +617,12 @@ msgid ""
 "generate simultaneous benefits and added value for other multilateral "
 "environmental agreements or international commitments."
 msgstr ""
-"Это относится к стратегиям и действиям, направленным на усиление синергизма "
-"в деятельности, связанной с ОДЗЗ, и интеграцию ОДЗЗ в планирование и "
-"реализацию для получения одновременных выгод и дополнительных преимуществ "
-"для других многосторонних природоохранных соглашений или международных "
-"обязательств."
+"Речь идет о стратегиях и мерах, направленных на использование синергии в "
+"деятельности, связанной с ОДДЗ, и включение вопросов ОДДЗ в процессы "
+"планирования и осуществления для получения одновременных выгод и "
+"дополнительной ценности в рамках других многосторонних природоохранных "
+"соглашений или международных обязательств."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:147
 msgid ""
 "For example, DLDD processes can contribute to greenhouse gas emissions, "
@@ -669,14 +633,16 @@ msgid ""
 "Diversity (CBD) as well as relevant targets under all 17 SDGs, in particular"
 " SDG target 15.3."
 msgstr ""
-"Например, процессы ОДЗЗ могут способствовать выбросам парниковых газов, "
-"потере среды обитания и снижению биоразнообразия. Однако внедрение УУЗР для "
-"решения проблемы ОДЗЗ может не только помочь в достижении целей КООНБО, но и"
-" способствовать достижению целей Рамочной конвенции ООН об изменении климата"
-" (РКИК ООН) и Конвенции о биологическом разнообразии (КБР), а также "
-"соответствующих задач в рамках всех 17 ЦУР, в частности задачи 15.3 ЦУР."
+"Например, процессы, связанные с ОДДЗ, могут способствовать выбросам "
+"парниковых газов, утрате местообитаний и сокращению биоразнообразия. Однако "
+"осуществление устойчивого управления земельными ресурсами для решения "
+"проблем, связанных с ОДДЗ, может не только способствовать достижению целей "
+"КБОООН, но и поддерживать достижение целей Рамочной конвенции Организации "
+"Объединенных Наций об изменении климата (РКИК ООН) и Конвенции о "
+"биологическом разнообразии (КБР), а также соответствующих целевых "
+"показателей в рамках всех 17 Целей в области устойчивого развития (ЦУР), в "
+"частности задачи ЦУР 15.3."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:149
 msgid ""
 "Parties may indicate to which policy areas the synergies apply. These policy"
@@ -687,21 +653,20 @@ msgid ""
 "information on their linkages, including any synergies generated and the "
 "main success factors."
 msgstr ""
-"Стороны могут указать, к каким областям политики относится синергия. Эти "
-"области политики охватывают (i) экономическую, (ii) экологическую, (iii) "
-"социальную, (iv) земельную, (v) гендерную и (VI) сельскохозяйственную "
+"Стороны могут указать, к каким областям политики относится соответствующая "
+"синергия. Эти области политики охватывают (i) экономическую, (ii) "
+"экологическую, (iii) социальную политику, (iv) политику в области "
+"землепользования, (v) гендерную политику и (vi) сельскохозяйственную "
 "политику. Кроме того, Стороны могут предоставить информацию о "
-"соответствующих видах деятельности или планах (целевые показатели ДЛН, "
-"обязательства или планы по климату или биоразнообразию, ЦУР, НПД или "
-"аналогичные) и включить информацию об их взаимосвязях, в том числе о любом "
-"возникшем синергизме и основных факторах успеха."
+"соответствующих мероприятиях или планах (целевых показателях НБДЗ, "
+"обязательствах или планах в области климата или биоразнообразия, ЦУР, НПД "
+"или аналогичных документах) и включить информацию об их взаимосвязях, "
+"включая возникающую синергию и основные факторы успеха."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:151
 msgid "7.3. Action on the ground"
-msgstr "7.3. Действия на местах"
+msgstr "7.3. Практические меры"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:153
 msgid ""
 "This is a critical element of reporting within the implementation framework."
@@ -710,60 +675,56 @@ msgid ""
 "countries. Parties are encouraged to answer questions related to the "
 "following four main topics. Not all SOs address all of these topics."
 msgstr ""
-"Это важнейший элемент отчетности в рамках системы реализации. Его цель - "
-"продемонстрировать реальное воздействие, выявить успешные стратегии и "
-"обеспечить обмен опытом и уроками между странами. Сторонам предлагается "
-"ответить на вопросы, относящиеся к следующим четырем основным темам. Не все "
-"СЦ затрагивают все эти темы."
+"Это важнейший элемент отчетности в нормативной основе осуществления. Его "
+"цель заключается в демонстрации реального воздействия, выявлении успешных "
+"стратегий и обеспечении обмена опытом и извлеченными уроками между странами."
+" Сторонам предлагается ответить на вопросы, относящиеся к следующим четырем "
+"основным темам. Не все стратегические цели охватывают все эти темы."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:155
 msgid "7.3.1. Sustainable land management practices"
 msgstr "7.3.1. Практика устойчивого управления земельными ресурсами"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:161
 msgid ""
 "This form allows Parties to report on their implementation of sustainable "
 "land management (SLM) practices, including rehabilitation, restoration and "
 "drought management practices. In particular, Parties can:"
 msgstr ""
-"Эта форма позволяет Сторонам сообщать о внедрении ими практик устойчивого "
-"управления земельными ресурсами (УУЗР), включая реабилитацию, восстановление"
-" и борьбу с засухой. В частности, Стороны могут:"
+"Эта форма позволяет Сторонам представлять информацию об осуществлении ими "
+"практики устойчивого управления земельными ресурсами, включая практику "
+"реабилитации, восстановления и управления засухой. В частности, Стороны "
+"могут:"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:163
 msgid ""
 "Highlight proven practices (e.g., agroforestry, forest plantation "
 "management, erosion control, water harvesting, etc.) that effectively "
 "address DLDD;"
 msgstr ""
-"Выделите проверенные практики (например, агролесоводство, управление лесными"
-" плантациями, борьба с эрозией, сбор воды и т.д.), которые эффективно решают"
-" проблему ОДЗЗ;"
+"Выделить проверенные на практике методы (например, агролесоводство, "
+"управление лесными плантациями, борьбу с эрозией, сбор дождевой воды и "
+"т. д.), которые эффективно решают проблемы, связанные с ОДДЗ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:165
 msgid ""
 "Record which vulnerable or marginalized groups (e.g., women, Indigenous "
 "peoples, youth) are participating in, benefiting from, or leading these "
 "efforts;"
 msgstr ""
-"Запишите, какие уязвимые или маргинализированные группы (например, женщины, "
-"коренные народы, молодежь) участвуют в этих усилиях, получают от них пользу "
+"Указать, какие уязвимые или маргинализированные группы (например, женщины, "
+"коренные народы, молодежь) участвуют в этих усилиях, получают от них выгоды "
 "или возглавляют их;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:167
 msgid ""
 "Identify the major challenges (e.g. institutional, knowledge of SLM, legal "
 "framework, etc.) encountered in the implementation."
 msgstr ""
-"Определите основные проблемы (например, институциональные, знания об УУЗР, "
-"законодательная база и т.д.), возникшие в ходе реализации."
+"Определить основные проблемы (например, институциональные проблемы, уровень "
+"знаний об устойчивом управлении земельными ресурсами, нормативно-правовая "
+"база и т. д.), возникающие в процессе осуществления."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:169
 msgid ""
 "In addition to the table to be completed, Parties can expand on their "
@@ -774,21 +735,19 @@ msgid ""
 "database. Parties wishing to document new good practices are encouraged to "
 "do so using the WOCAT database"
 msgstr ""
-"В дополнение к таблице, которую необходимо заполнить, Стороны могут "
-"рассказать о своем опыте в поле \"Комментарии\" или загрузив файл. Кроме "
-"того, Стороны могут предоставить ссылки на задокументированные примеры "
-"передовой практики, которые были загружены в базу данных UNCCD's "
-"designated/accredited World Overview of Conservation Approaches and "
-"Technologies (WOCAT)[^1] или другую аналогичную онлайновую базу данных. "
-"Сторонам, желающим задокументировать новые примеры передовой практики, "
-"рекомендуется сделать это с помощью базы данных WOCAT"
+"В дополнение к заполняемой таблице Стороны могут более подробно изложить "
+"свой опыт в поле «Комментарии» или загрузив файл. Кроме того, Стороны могут "
+"предоставлять ссылки на документально подтвержденные передовые методы, "
+"загруженные в предназначенную для КБОООН / аккредитованную базу данных "
+"«Мировой обзор подходов и технологий в области сохранения» (WOCAT)[^1] или "
+"другую аналогичную онлайн-базу данных. Сторонам, желающим документировать "
+"новые надлежащие практики, рекомендуется делать это с использованием базы "
+"данных WOCAT."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:173
 msgid "7.3.2. Establishing knowledge-sharing systems"
 msgstr "7.3.2. Создание систем обмена знаниями"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:179
 msgid ""
 "Parties are encouraged to describe their experience in establishing systems "
@@ -796,30 +755,29 @@ msgid ""
 "practices and approaches to DLDD, including rehabilitation and restoration "
 "and drought management. This has the goal of:"
 msgstr ""
-"Сторонам предлагается рассказать о своем опыте создания систем обмена "
-"информацией и знаниями и содействия созданию сетей по передовой практике и "
-"подходам к ОДЗЗ, включая реабилитацию и восстановление, а также управление "
-"засухой. Это преследует следующие цели:"
+"Сторонам рекомендуется описывать свой опыт создания систем обмена "
+"информацией и знаниями и содействия установлению сетевых связей в области "
+"надлежащих практик и подходов к решению проблем, связанных с ОДДЗ, включая "
+"реабилитацию, восстановление и управление засухой. Эти действия преследуют "
+"следующие цели:"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:181
 msgid ""
 "Offering examples of scalable and replicable interventions that could "
 "benefit other countries or regions."
 msgstr ""
-"Предложите примеры масштабируемых и воспроизводимых вмешательств, которые "
-"могут принести пользу другим странам или регионам."
+"Представление примеров масштабируемых и воспроизводимых мер, которые могли "
+"бы быть полезны другим странам или регионам."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:183
 msgid ""
 "Encouraging the use of platforms like WOCAT for documenting and "
 "disseminating good SLM practices."
 msgstr ""
-"Поощрение использования таких платформ, как WOCAT, для документирования и "
-"распространения передовых методов УУЗР."
+"Содействие использованию таких платформ, как WOCAT, для документирования и "
+"распространения надлежащих практик устойчивого управления земельными "
+"ресурсами."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:185
 msgid ""
 "Knowledge-sharing systems range from community-level farmers’ networks to "
@@ -832,17 +790,16 @@ msgid ""
 "information on experiences in promoting women’s access to knowledge and "
 "technology."
 msgstr ""
-"Системы обмена знаниями варьируются от фермерских сетей на уровне общин до "
-"национальных банков данных и многострановых сетей взаимного обучения. Они "
-"выполняют различные функции, такие как содействие обмену информацией об УУЗР"
-" и предупреждениями о засухе, обмен опытом, информацией и технологиями, "
-"институциональная координация, предоставление научных данных и информации, а"
-" также содействие распространению передового опыта. Описание, которое должно"
-" быть включено в форму или загружено в виде отдельного файла, может также "
-"включать информацию об опыте расширения доступа женщин к знаниям и "
-"технологиям."
+"Системы обмена знаниями варьируются от сетей фермеров на уровне сообществ до"
+" национальных банков данных и многострановых сетей взаимного обучения. Они "
+"выполняют различные функции, такие как содействие обмену информацией по "
+"вопросам устойчивого управления земельными ресурсами и оповещениям о засухе,"
+" обмен опытом, информацией и технологиями, институциональная координация, "
+"предоставление научных данных и информации и содействие расширению масштабов"
+" применения надлежащих практик. Описание, которое необходимо включить в "
+"форму или загрузить в виде отдельного файла, также может содержать "
+"информацию об опыте содействия доступу женщин к знаниям и технологиям."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:187
 msgid ""
 "Via the available reporting table, when available, a list of the "
@@ -853,14 +810,13 @@ msgid ""
 "on the UNCCD website at <https://www.unccd.int/resources/knowledge-sharing-"
 "systems>."
 msgstr ""
-"В таблицу отчетности следует включить список международных, региональных, "
-"национальных или субнациональных систем и сетей обмена информацией/знаниями "
-"по ОДЗЗ, в которых участвует страна. Если возможно, следует добавить ссылку "
-"на веб-сайт каждой системы/сети. Список вместе со ссылками будет размещен на"
-" веб-сайте UNCCD по адресу <https://www.unccd.int/resources/knowledge-"
-"sharing-systems>."
+"В представленной таблице отчетности, если она доступна, следует привести "
+"перечень международных, региональных, национальных или субнациональных "
+"систем и сетей обмена информацией/знаниями по вопросам ОДДЗ, в которых "
+"участвует страна. По возможности следует добавить ссылку на веб-сайт каждой "
+"системы/сети. Перечень вместе со ссылками будет размещен на веб-сайте "
+"КБОООН: <https://www.unccd.int/resources/knowledge-sharing-systems>."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:189
 msgid ""
 "The table also allows Parties to provide a description of each experience, "
@@ -871,25 +827,23 @@ msgid ""
 "how the system/network has been used/useful so far, and the main success "
 "factors and challenges encountered."
 msgstr ""
-"В таблице Стороны также могут дать описание каждого опыта. Сторонам "
-"рекомендуется включить информацию о назначении и охвате "
-"(территория/население) системы или сети информации/знаний, ее специфической "
-"направленности/теме, если таковая имеется, языке(ах), на котором доступна "
-"информация, и краткое описание основных видов деятельности. Они также могут "
-"объяснить, как система/сеть использовалась/полезна до сих пор, а также "
-"основные факторы успеха и проблемы, с которыми пришлось столкнуться."
+"В таблице Стороны также могут представить описание каждого примера опыта. Им"
+" рекомендуется включить информацию о цели и охвате (территории/населения) "
+"системы или сети обмена информацией/знаниями, ее конкретной "
+"направленности/тематике, если таковая имеется, языках, на которых доступна "
+"информация, и краткое описание основных мероприятий. Они также могут "
+"объяснить, каким образом система/сеть использовалась до настоящего времени и"
+" какую пользу она принесла, а также указать основные факторы успеха и "
+"возникшие проблемы."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:191
 msgid "7.3.3. Alternative livelihoods"
 msgstr "7.3.3. Альтернативные средства к существованию"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:194
 msgid "Relevant to SO2"
-msgstr "Имеет отношение к SO2"
+msgstr "Имеет отношение к СЦ 2"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:197
 msgid ""
 "Parties are encouraged to describe their experience in promoting alternative"
@@ -898,53 +852,48 @@ msgid ""
 "enhancing the resilience of communities in degraded areas. Among the "
 "experiences presented Parties may choose to:"
 msgstr ""
-"Сторонам предлагается описать свой опыт в продвижении альтернативных "
-"источников средств к существованию, чтобы обеспечить пропитание и получить "
-"доход, используя природные ресурсы (новым) способом, который предотвращает "
-"или уменьшает деградацию земель, повышая при этом устойчивость сообществ на "
-"деградированных территориях. Среди представленного опыта Стороны могут "
-"выбрать следующие:"
+"Сторонам предлагается описать свой опыт содействия развитию альтернативных "
+"источников средств к существованию с целью обеспечения средств к "
+"существованию и получения дохода за счет использования природных ресурсов "
+"новым способом, предотвращающим или сокращающим деградацию земель и "
+"одновременно повышающим устойчивость сообществ на деградированных землях. "
+"Среди представленных примеров опыта Стороны могут:"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:199
 msgid ""
 "Highlight livelihood options that decrease reliance on unsustainable land-"
 "use practices (e.g., overgrazing, slash-and-burn agriculture);"
 msgstr ""
-"Выделите варианты получения средств к существованию, которые уменьшают "
-"зависимость от неустойчивых методов землепользования (например, перевыпас "
-"скота, подсечно-огневое земледелие);"
+"Выделить варианты источников средств к существованию, которые снижают "
+"зависимость от неустойчивых методов землепользования (например, чрезмерного "
+"выпаса скота, подсечно-огневого земледелия);"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:201
 msgid ""
 "Describe activities that encourage a shift away from activities that "
 "exacerbate degradation toward rehabilitation and restoration;"
 msgstr ""
-"Опишите мероприятия, которые способствуют переходу от деятельности, "
-"усугубляющей деградацию, к реабилитации и восстановлению;"
+"Описать мероприятия, стимулирующие переход от видов деятельности, "
+"усугубляющих деградацию, к реабилитации и восстановлению;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:203
 msgid ""
 "Show how alternative livelihoods diversify income sources, making "
 "communities less vulnerable to environmental and economic shocks;"
 msgstr ""
-"Покажите, как альтернативные средства к существованию диверсифицируют "
-"источники дохода, делая сообщества менее уязвимыми к экологическим и "
-"экономическим потрясениям;"
+"Показать, каким образом альтернативные источники средств к существованию "
+"диверсифицируют источники дохода, делая сообщества менее уязвимыми к "
+"экологическим и экономическим потрясениям;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:205
 msgid ""
 "Demonstrate how alternative livelihoods contribute to long-term rural "
 "development and help break cycles of poverty and land degradation."
 msgstr ""
-"Продемонстрируйте, как альтернативные средства к существованию способствуют "
-"долгосрочному развитию сельских районов и помогают разорвать порочный круг "
-"бедности и деградации земель."
+"Продемонстрировать, каким образом альтернативные источники средств к "
+"существованию способствуют долгосрочному развитию сельских районов и "
+"помогают разорвать циклы нищеты и деградации земель."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:207
 msgid ""
 "In the table to be completed, an overview of the action program or project "
@@ -954,15 +903,14 @@ msgid ""
 "livelihoods, compensation schemes, incentive schemes) and completed, ongoing"
 " or planned examples of these experiences should be provided in the table."
 msgstr ""
-"В таблице, которую необходимо заполнить, должен быть представлен обзор "
-"программы действий или проекта, дополненный категорией программы или проекта"
-" и соответствующими примерами. Представленный опыт может относиться к "
-"различным категориям мероприятий, направленных на обеспечение средств к "
-"существованию (например, альтернативные средства к существованию, схемы "
-"компенсации, схемы стимулирования), и в таблице следует привести примеры "
-"завершенных, текущих или планируемых мероприятий."
+"В заполняемой таблице следует представить обзор программы действий или "
+"проекта, дополненный указанием категории программы или проекта и "
+"соответствующих примеров. Представленный опыт может относиться к различным "
+"категориям мер, ориентированных на источники средств к существованию (т. е. "
+"альтернативные источники средств к существованию, схемы компенсации и схемы "
+"стимулирования), а в таблице следует привести завершенные, текущие или "
+"планируемые примеры такого опыта."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:209
 msgid ""
 "In the description, Parties may provide a brief description of the "
@@ -973,81 +921,75 @@ msgid ""
 "success factors and challenges encountered. Experiences from the LDN Target-"
 "Setting Programme should be reported, when applicable."
 msgstr ""
-"В описании Стороны могут дать краткое описание района/людей, которые были "
-"задействованы, цель деятельности, предпринятые действия, роль женщин, "
-"молодежи, коренных народов и местных общин, а также меры, принятые для "
-"обеспечения их участия в деятельности. В описании также должны быть указаны "
-"результаты деятельности, основные факторы успеха и возникшие проблемы. В "
-"соответствующих случаях следует рассказать об опыте, полученном в рамках "
-"программы целеполагания LDN."
+"В описании Стороны могут представить краткую характеристику "
+"территории/людей, участвовавших в деятельности, цели мероприятий, принятых "
+"мер, роли женщин, молодежи, коренных народов и местных сообществ, а также "
+"мер, принятых для обеспечения их участия в мероприятиях. В описательной "
+"части также следует представить результаты мероприятий и основные факторы "
+"успеха и возникшие проблемы. В соответствующих случаях следует сообщать об "
+"опыте, полученном в рамках Программы по установлению целевых показателей "
+"НБДЗ."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:211
 msgid ""
 "Parties are also invited to report on the actions being taken to reduce "
 "migration forced by desertification and land degradation."
 msgstr ""
-"Сторонам также предлагается сообщить о действиях, предпринимаемых для "
-"сокращения миграции, вызванной опустыниванием и деградацией земель."
+"Сторонам также предлагается сообщать о принимаемых мерах по сокращению "
+"миграции, вызванной опустыниванием и деградацией земель."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:213
 msgid ""
 "In addition to the table Parties can expand on their experience through the "
 "Comments field or by uploading an additional file."
 msgstr ""
-"В дополнение к таблице участники могут рассказать о своем опыте в поле "
-"\"Комментарии\" или загрузив дополнительный файл."
+"В дополнение к таблице Стороны могут расширить описание своего опыта в поле "
+"«Комментарии» или загрузив дополнительный файл."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:215
 msgid "7.3.4. Drought risk management and early warning systems"
-msgstr "7.3.4. Управление рисками засухи и системы раннего оповещения"
+msgstr "7.3.4. Управление рисками засухи и системы раннего предупреждения"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:221
 msgid ""
 "Parties are encouraged to describe their experience in developing and "
 "operationalizing drought risk management, monitoring, and early warning "
 "systems and safety net programmes. Reporting can help to:"
 msgstr ""
-"Сторонам предлагается описать свой опыт в разработке и внедрении систем "
-"управления рисками засухи, мониторинга и раннего предупреждения, а также "
-"программ социальной защиты. Отчетность может помочь:"
+"Сторонам предлагается описать свой опыт разработки и введения в действие "
+"систем управления рисками засухи, мониторинга засухи и раннего "
+"предупреждения, а также программ социальной защиты. Представление такой "
+"информации может способствовать следующему:"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:223
 msgid ""
 "Strengthen preparedness and resilience by highlighting measures that help "
 "communities and ecosystems anticipate, respond to, and recover from drought "
 "impacts;"
 msgstr ""
-"Повысьте готовность и устойчивость к засухе, выделив меры, которые помогают "
-"сообществам и экосистемам предвидеть последствия засухи, реагировать на них "
-"и восстанавливаться после них;"
+"Укреплению готовности и устойчивости посредством освещения мер, которые "
+"помогают сообществам и экосистемам прогнозировать последствия засухи, "
+"реагировать на них и восстанавливаться после них;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:225
 msgid ""
 "Demonstrate progress in early warning capabilities, including monitoring, "
 "forecasting, and information dissemination systems that reduce vulnerability"
 " and enable timely action;"
 msgstr ""
-"Продемонстрируйте прогресс в развитии возможностей раннего оповещения, "
+"Демонстрации прогресса в развитии возможностей раннего предупреждения, "
 "включая системы мониторинга, прогнозирования и распространения информации, "
-"которые снижают уязвимость и позволяют принять своевременные меры;"
+"которые снижают уязвимость и обеспечивают своевременное принятие мер;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:227
 msgid ""
 "Support integrated drought risk reduction strategies by linking early "
 "warning systems to policy, planning, and local-level implementation."
 msgstr ""
-"Поддерживайте комплексные стратегии снижения риска засухи, связывая системы "
-"раннего оповещения с политикой, планированием и реализацией на местном "
-"уровне."
+"Поддержке комплексных стратегий снижения риска засухи посредством увязки "
+"систем раннего предупреждения с политикой, планированием и осуществлением "
+"мер на местном уровне."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:229
 msgid ""
 "In addition to the table to be completed, Parties can expand on their "
@@ -1056,14 +998,13 @@ msgid ""
 "services, implemented national strategies that cover drought risk "
 "management, and ways to monitor the early warning systems."
 msgstr ""
-"В дополнение к таблице, которую необходимо заполнить, Стороны могут "
-"рассказать о своем опыте в поле \"Комментарии\" или загрузив дополнительный "
-"файл. Такой опыт может включать, например, создание потенциала и служб "
-"распространения знаний, реализацию национальных стратегий, охватывающих "
-"управление рисками засухи, и способы мониторинга систем раннего "
+"В дополнение к заполняемой таблице Стороны могут расширить описание своего "
+"опыта в поле «Комментарии» или загрузив дополнительный файл. Такой опыт "
+"может включать, например, мероприятия по наращиванию потенциала и "
+"консультационные услуги, осуществленные национальные стратегии, охватывающие"
+" управление рисками засухи, а также способы мониторинга систем раннего "
 "предупреждения."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:231
 msgid ""
 "In the description, Parties may include information on the type of "
@@ -1074,26 +1015,24 @@ msgid ""
 "should also describe the outcomes of the activities and the main success "
 "factors."
 msgstr ""
-"В описание Стороны могут включить информацию о типе деятельности, "
-"вовлеченных людях, цели деятельности и предпринятых действиях. Сообщая о "
-"мероприятиях по наращиванию потенциала, распространению знаний и других "
-"видах деятельности, по возможности укажите количество или процент "
-"участников, среди которых были женщины, молодежь, коренные народы и/или "
-"члены местных общин. В описании также должны быть указаны результаты "
-"деятельности и основные факторы успеха."
+"В описание Стороны могут включить информацию о типе мероприятий, участвующих"
+" лицах, целях мероприятий и принятых мерах. При представлении отчетности о "
+"мероприятиях по наращиванию потенциала, консультационных услугах и других "
+"мероприятиях по возможности следует указывать численность или процентную "
+"долю участников, составляющих женщин, молодежь, представителей коренных "
+"народов и (или) членов местных сообществ. В описательной части также следует"
+" представить результаты мероприятий и основные факторы успеха."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:233
 msgid ""
 "Parties are also asked to indicate how the UNCCD Community of Learning and "
 "Practice on Drought Management has supported the efforts in developing "
 "drought risk management plans and early warning systems."
 msgstr ""
-"Сторонам также предлагается указать, каким образом Сообщество по обучению и "
-"практике UNCCD по борьбе с засухой поддержало усилия по разработке планов "
-"управления рисками засухи и систем раннего оповещения."
+"Сторонам также предлагается указать, каким образом Сообщество обучения и "
+"практики по управлению засухой КБОООН поддержало усилия по разработке планов"
+" управления рисками засухи и систем раннего предупреждения."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:235
 msgid ""
 "Furthermore, Parties may describe any support provided to another country to"
@@ -1105,77 +1044,69 @@ msgid ""
 "reduced land degradation in the long term, and the main success factors "
 "should also be reported."
 msgstr ""
-"Кроме того, Стороны могут описать любую поддержку, оказанную другой стране "
-"для разработки и введения в действие систем управления рисками засухи, "
-"мониторинга и раннего предупреждения, а также программ социальной защиты. В "
-"описание рекомендуется включить информацию о типе практики, основных видах "
-"деятельности, основных вовлеченных заинтересованных сторонах, "
-"продолжительности и использованных ресурсах. Также следует указать причины "
-"успешного внедрения этой практики, то, как она позволила избежать или "
-"уменьшить деградацию земель в долгосрочной перспективе, и основные факторы "
-"успеха."
+"Кроме того, Стороны могут описать любую поддержку, оказанную другой стране в"
+" целях разработки и введения в действие систем управления рисками засухи, "
+"мониторинга засухи и раннего предупреждения, а также программ социальной "
+"защиты. В описании рекомендуется включить информацию о типе практики, "
+"основных мероприятиях, основных заинтересованных сторонах, продолжительности"
+" и использованных ресурсах. Также следует сообщить о причинах успешного "
+"осуществления этой практики, о том, каким образом она позволила избежать или"
+" сократить деградацию земель в долгосрочной перспективе, и об основных "
+"факторах успеха."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:237
 msgid "7.4. Financial and non-financial resources"
 msgstr "7.4. Финансовые и нефинансовые ресурсы"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:239
 msgid ""
 "Parties are encouraged to answer questions related to the following three "
 "main topics relevant to SO5:"
 msgstr ""
-"Сторонам предлагается ответить на вопросы, относящиеся к следующим трем "
-"основным темам, имеющим отношение к СЦ5:"
+"Сторонам предлагается ответить на вопросы, касающиеся следующих трех "
+"основных тем, имеющих отношение к СЦ 5:"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:241
 msgid "7.4.1. Resource mobilization strategy"
 msgstr "7.4.1. Стратегия мобилизации ресурсов"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:244 ../../implementationFramework.md:262
 #: ../../implementationFramework.md:270
 msgid "Relevant to SO5"
-msgstr "Имеет отношение к SO5"
+msgstr "Имеет отношение к СЦ 5"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:247
 msgid "Reporting on resource mobilization helps to:"
-msgstr "Отчетность о мобилизации ресурсов помогает:"
+msgstr "Представление информации о мобилизации ресурсов позволяет:"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:249
 msgid ""
 "Identify and highlight financial needs, sources, and gaps for implementing "
 "UNCCD activities and achieving Land Degradation Neutrality (LDN) targets;"
 msgstr ""
-"Определите и выделите финансовые потребности, источники и пробелы для "
-"осуществления деятельности UNCCD и достижения целей нейтрализации деградации"
-" земель (НДЗ);"
+"Выявлять и освещать финансовые потребности, источники финансирования и "
+"дефицит ресурсов, необходимые для осуществления деятельности в рамках КБОООН"
+" и достижения целей по обеспечению нейтрального баланса деградации земель "
+"(НБДЗ);"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:251
 msgid ""
 "Track progress in mobilising resources from domestic, international, and "
 "private sources to support sustainable land management;"
 msgstr ""
-"Отслеживайте прогресс в привлечении ресурсов из внутренних, международных и "
+"Отслеживать прогресс в мобилизации ресурсов из внутренних, международных и "
 "частных источников для поддержки устойчивого управления земельными "
 "ресурсами;"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:253
 msgid ""
 "Highlight partnerships and mechanisms used to leverage funding, such as "
 "blended finance or public-private partnerships."
 msgstr ""
-"Выделите партнерства и механизмы, используемые для привлечения "
+"Освещать партнерства и механизмы, используемые для привлечения "
 "финансирования, такие как смешанное финансирование или государственно-"
-"частное партнерство."
+"частные партнерства."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:255
 msgid ""
 "To this end, Parties are therefore encouraged to indicate whether they have "
@@ -1185,30 +1116,28 @@ msgid ""
 "Parties are requested to provide further details, as a minimum, in relation "
 "to the issues stated above and any relevant weblinks."
 msgstr ""
-"В связи с этим Сторонам предлагается указать, существует ли у них "
-"национальная стратегия мобилизации ресурсов для реализации Конвенции, или, "
-"по крайней мере, находятся ли они в процессе разработки такой национальной "
-"стратегии мобилизации ресурсов. Если да, то страны-Стороны просят "
-"предоставить более подробную информацию, как минимум, по вышеуказанным "
-"вопросам и любые соответствующие веб-ссылки."
+"В связи с этим Сторонам предлагается указать, располагают ли они "
+"национальной стратегией мобилизации ресурсов для осуществления Конвенции "
+"или, по крайней мере, находятся ли они в процессе разработки такой "
+"национальной стратегии мобилизации ресурсов. В таком случае Сторонам "
+"предлагается предоставить дополнительную информацию как минимум по указанным"
+" выше вопросам и соответствующие веб-ссылки."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:257
 msgid ""
 "If no such strategy is in place or is under development, then country "
 "Parties should provide information regarding any other current or planned "
 "measures to enable the mobilization of resources for DLDD."
 msgstr ""
-"Если такой стратегии нет или она находится в стадии разработки, то страны-"
-"Стороны должны предоставить информацию о любых других текущих или "
-"планируемых мерах, позволяющих мобилизовать ресурсы для ОДЗЗ."
+"Если такая стратегия отсутствует или находится в стадии разработки, Сторонам"
+" следует предоставить информацию о любых других осуществляемых или "
+"планируемых мерах по обеспечению мобилизации ресурсов для борьбы с "
+"опустыниванием, деградацией земель и засухой (ОДЗЗ)."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:259
 msgid "7.4.2. Synergies"
-msgstr "7.4.2 Синергия"
+msgstr "7.4.2. Синергия"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:265
 msgid ""
 "This refers to strategies and actions aimed at leveraging synergies in DLDD-"
@@ -1222,23 +1151,22 @@ msgid ""
 "details if relevant on whether they plan to mobilize resources jointly for "
 "the three Rio Conventions in the future."
 msgstr ""
-"Это относится к стратегиям и действиям, направленным на использование "
-"синергии в деятельности, связанной с ОДЗЗ, и интеграцию ОДЗЗ в планирование "
-"и реализацию с целью получения одновременных выгод и добавленной стоимости "
-"для других многосторонних экологических соглашений или международных "
-"обязательств. В связи с СЦ5 Стороны могут предоставить информацию о синергии"
-" в мобилизации финансовых и нефинансовых ресурсов для трех Рио-де-Жанейрских"
-" конвенций. Если такая синергия существует, Стороны просят описать свой "
-"опыт, включая проблемы и возможности. Стороны также могут указать и, при "
-"необходимости, предоставить подробную информацию о том, планируют ли они в "
-"будущем совместно мобилизовать ресурсы для трех Рио-де-Жанейрских конвенций."
+"Речь идет о стратегиях и мерах, направленных на использование синергии в "
+"деятельности, связанной с ОДДЗ, и включение вопросов ОДДЗ в процессы "
+"планирования и осуществления для получения одновременных выгод и "
+"дополнительной ценности в рамках других многосторонних природоохранных "
+"соглашений или международных обязательств. В отношении СЦ 5 Стороны могут "
+"предоставить информацию о синергии при мобилизации финансовых и нефинансовых"
+" ресурсов для осуществления трех Рио-де-Жанейрских конвенций. При наличии "
+"такой синергии Сторонам предлагается описать свой опыт, включая проблемы и "
+"возможности. Стороны также могут указать и, при необходимости, предоставить "
+"подробную информацию о том, планируют ли они в будущем осуществлять "
+"совместную мобилизацию ресурсов для трех Рио-де-Жанейрских конвенций."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:267
 msgid "7.4.3. Reporting process"
-msgstr "7.4.3. Процесс отчетности"
+msgstr "7.4.3. Процесс представления отчетности"
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:273
 msgid ""
 "Information on the reporting process for SO-5 helps to ensure understanding,"
@@ -1247,13 +1175,12 @@ msgid ""
 "national reporting process as well as reflect on lessons learned and "
 "challenges."
 msgstr ""
-"Информация о процессе отчетности по СЦ-5 помогает обеспечить понимание, "
-"ясность и прозрачность в отношении выполнения Конвенции. Она позволяет "
-"Сторонам поделиться тем, как они организуют, координируют и утверждают свой "
-"национальный процесс отчетности, а также поразмышлять об извлеченных уроках "
-"и проблемах."
+"Информация о процессе представления отчетности по СЦ 5 способствует "
+"обеспечению понимания, ясности и прозрачности в отношении осуществления "
+"Конвенции. Она позволяет Сторонам рассказать о том, как они организуют, "
+"координируют и валидируют национальный процесс представления отчетности, а "
+"также осмыслить извлеченные уроки и возникающие проблемы."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:276
 msgid ""
 "Therefore, Parties are asked to offer information on national circumstances "
@@ -1264,25 +1191,24 @@ msgid ""
 "narrative fields. In particular the role of the entities involved should be "
 "described as comprehensively as possible."
 msgstr ""
-"Поэтому Сторонам предлагается предоставить информацию о национальных "
+"В связи с этим Сторонам предлагается предоставить информацию о национальных "
 "обстоятельствах и институциональных механизмах, имеющих отношение к процессу"
-" отчетности по СЦ5 и ее индикаторам прогресса. С этой целью приводится "
-"таблица для представления качественной информации. Подробную информацию о "
-"национальных организациях, участвующих в процессе отчетности, можно "
-"предоставить как с помощью выпадающих меню, так и в описательных полях. В "
-"частности, роль участвующих организаций должна быть описана как можно более "
-"полно."
+" представления отчетности по СЦ 5 и его показателям прогресса. Для этого "
+"предусмотрена таблица для представления качественной информации. Подробная "
+"информация о национальных учреждениях, участвующих в процессе представления "
+"отчетности, может быть предоставлена как с использованием раскрывающихся "
+"меню, так и в текстовых полях. В частности, следует как можно более подробно"
+" описать роль участвующих учреждений."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:281
 msgid ""
 "Finally, country Parties can offer any other concluding general comments on "
 "the reporting process in the General Comments field."
 msgstr ""
-"Наконец, страны-участницы могут предложить любые другие заключительные общие"
-" комментарии по процессу отчетности в поле \"Общие комментарии\"."
+"Наконец, Стороны могут представить любые другие заключительные общие "
+"замечания относительно процесса представления отчетности в поле «Общие "
+"комментарии»."
 
-# Requires manual validation; translated with DeepL
 #: ../../implementationFramework.md:171
 msgid "<https://qcat.wocat.net/en/wocat/>"
 msgstr "<https://qcat.wocat.net/en/wocat/>"

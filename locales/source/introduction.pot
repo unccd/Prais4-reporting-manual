@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-10 15:57+0300\n"
+"POT-Creation-Date: 2026-09-10 16:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -576,290 +576,290 @@ msgid "The UN Clear Map Data has been prepared by the United Nations Geospatial 
 msgstr ""
 
 #: ../../introduction.md:314
-msgid "For cartographic representation and preparation of the default data, PRAIS uses the international boundaries of countries taken from the United Nations Map 0 geodata which is suitable for 1:1 million scale representation and serves global mapping purposes as opposed to local mapping. Countries can opt to use an alternative country border by uploading the polygon directly to the PRAIS spatial data viewer. However, should Parties opt to use an alternative country boundary layer, they are encouraged to engage with the Second Administrative Level Boundaries ([SALB](https://salb.un.org/)) programme of the Geospatial Information Section & Statistics Division. The programme’s objective is to promote accessible, interoperable and global data and information on subnational units and boundaries. Participation in the programme will ensure Member States of the United Nations will avail of a global repository of authoritative information and geospatial data about the administrative unit structure of countries down to the second subnational level, and through time. Parties should engage with the SALB program directly by sending an email to <salb@un.org>."
+msgid "For cartographic representation and preparation of the default data, PRAIS uses the international boundaries of countries taken from the UN Geodata which is suitable for 1:1 million scale representation and serves global mapping purposes as opposed to local mapping. Countries can opt to use an alternative country border by uploading the polygon directly to the PRAIS spatial data viewer. Should Parties opt to use an alternative country border to that provided in PRAIS, they can upload it directly to the PRAIS spatial data viewer, recalculate all geospatial indicators via Trends.Earth and upload the results to PRAIS. Please note: all polygon files uploaded to PRAIS should be simplified as much as possible. The spatial data viewer has limitations on the number of vertices it can process in a browser. Highly detailed or complex polygons will be simplified automatically for display purposes in the PRAIS spatial viewer."
 msgstr ""
 
-#: ../../introduction.md:321
+#: ../../introduction.md:318
 msgid "Careful consideration should be given to the use of an alternative national border in that it must be consistent with the total land area reported under SO 1-1. Otherwise, discrepancies may arise in the reporting data derived from geospatial analysis using that border."
 msgstr ""
 
-#: ../../introduction.md:325
+#: ../../introduction.md:322
 msgid "Open data sharing"
 msgstr ""
 
-#: ../../introduction.md:327
+#: ../../introduction.md:324
 msgid "By its decision 16/COP.11, the COP requested the secretariat to ensure that data and information from the reporting process are available and accessible to all, especially at the national and local levels. Decision 11/COP.14 requests the secretariat to further analyse and present global and regional data in interactive formats."
 msgstr ""
 
-#: ../../introduction.md:330
+#: ../../introduction.md:327
 msgid "In order to maximize the interoperability and impact of data submitted by Parties and to allow the secretariat to make regional and global aggregate information from the national reports, all Parties are encouraged to openly license nationally reported data under either the Creative Commons Universal Public Domain Dedication 1.0 (CC0), or the most open Creative Commons Attribution 4.0 International (CC BY) licence."
 msgstr ""
 
-#: ../../introduction.md:332
+#: ../../introduction.md:329
 msgid "The CC0 public domain dedication enables unrestricted reuse without the need for attribution, which can be especially useful for foundational datasets or where reuse by researchers or international agencies is a priority, as is typically the case for those datasets related to land cover and land degradation assessments."
 msgstr ""
 
-#: ../../introduction.md:334
+#: ../../introduction.md:331
 msgid "The CC BY licence is the most open of the Creative Commons licenses, making it a fundamental legal tool for data interoperability and supporting broad reuse and adaptation. The CC BY licence only has one condition: attribution. When more licencing conditions are added, it becomes harder to combine data that uses other licences and control the licence of the resulting dataset, report, or product. The CC BY licence is also recognized by global data communities as a gold standard for maximized sharing, including across the UN system and as required by the European Commission’s requirement on high-value datasets."
 msgstr ""
 
-#: ../../introduction.md:336
+#: ../../introduction.md:333
 msgid "By applying the CC0 public domain dedication or CC BY licences to national datasets:"
 msgstr ""
 
-#: ../../introduction.md:338
+#: ../../introduction.md:335
 msgid "Parties contribute to efficient, evidence-based policy and scientific cooperation at all levels;"
 msgstr ""
 
-#: ../../introduction.md:340
+#: ../../introduction.md:337
 msgid "Parties strengthen the global visibility and impact of their national work on land and sustainability;"
 msgstr ""
 
-#: ../../introduction.md:342
+#: ../../introduction.md:339
 msgid "Parties’ data can easily be reused by other agencies and organizations, including regional hubs, giving them most freedom of the licence they want to publish under;"
 msgstr ""
 
-#: ../../introduction.md:344
+#: ../../introduction.md:341
 msgid "Parties enable the seamless integration of their data into the UNCCD’s aggregate information products based on national reports such as those displayed on the UNCCD Data Dashboard (that is licensed as CC BY-NC)."
 msgstr ""
 
-#: ../../introduction.md:346
+#: ../../introduction.md:343
 msgid "These guidelines are designed to maximize the interoperability of submitted national data by clearly defining its conditions of reuse. Interoperability and synergies in information exchange between Conventions is only possible when data can be legally, confidently, and consistently reused across systems, which requires reuse conditions that are both explicit and standardized."
 msgstr ""
 
-#: ../../introduction.md:348
+#: ../../introduction.md:345
 msgid "You can read more about the licences in Annex I of these guidelines and you can find comprehensive information at the [Creative Commons website](https://creativecommons.org/share-your-work/cclicenses/)."
 msgstr ""
 
-#: ../../introduction.md:350
+#: ../../introduction.md:347
 msgid "Taking the above guidelines into account, Parties have the option to fill out a User Specific Licence (USL) form in PRAIS and choose whether to: (i) use an existing Creative Commons licence; or (ii) opt for an exemption and select a custom licence."
 msgstr ""
 
-#: ../../introduction.md:352
+#: ../../introduction.md:349
 msgid "It is important to note that most of the default datasets have been licensed by their respective data providers under a Creative Commons Attribution 4.0 International (CC BY 4.0) licence. Thus, these datasets are subject to the one condition of that licence: attribution. Users of these datasets, such as the UNCCD and its Parties, must therefore attribute the source of the licence if using these default datasets in their national report. For more information on the issue of data sharing and how to complete the USL form, see Annex I of this reporting manual."
 msgstr ""
 
-#: ../../introduction.md:354
+#: ../../introduction.md:351
 msgid "Reporting frequency"
 msgstr ""
 
-#: ../../introduction.md:356
+#: ../../introduction.md:353
 msgid "By its decision 15/COP.13, the COP approved a four-year frequency for national reporting (Table 6)."
 msgstr ""
 
-#: ../../introduction.md:358
+#: ../../introduction.md:355
 msgid "During the 2018 reporting process, Parties reported data and information for the period 2000–2015, which serves as the baseline for SDG indicator 15.3.1 and its sub-indicators. After this initial reporting, Parties continue to report the status of land condition and the SDG indicator 15.3.1 every four years, thereby increasing the reporting periods in four-year increments."
 msgstr ""
 
-#: ../../introduction.md:361
+#: ../../introduction.md:358
 msgid "Figure 1 shows that the first reporting period (Period 1) completed in 2022, covered the timeframe from January 1st, 2016, to December 31st, 2019. The results of the Period 1 assessment included the estimation of the proportion of degraded land (SDG Indicator 15.3.1) for 2019 (t1). Subsequent reports will reflect the land condition at the end of 2023 (t2), 2027 (t3) and, potentially, 2031 (t4), integrating changes that have occurred since the end of the baseline period (from January 1st, 2016). Therefore the reporting is incremental in time, each reporting period incorporating four additional years compared to the previous one."
 msgstr ""
 
-#: ../../introduction.md:366
+#: ../../introduction.md:363
 msgid "_**Figure 1.** Timeline illustrating the four-year UNCCD reporting frequency for SDG indicator 15.3.1_"
 msgstr ""
 
-#: ../../introduction.md:368
+#: ../../introduction.md:365
 msgid "![](/img/fig1.png)"
 msgstr ""
 
-#: ../../introduction.md:370
+#: ../../introduction.md:367
 msgid "_**Table 6**. The first column shows the year of reporting to the UNCCD; the second column shows the relevant reporting periods for each report submission._"
 msgstr ""
 
-#: ../../introduction.md:377
+#: ../../introduction.md:374
 msgid "UNCCD Reporting Process"
 msgstr ""
 
-#: ../../introduction.md:378
+#: ../../introduction.md:375
 msgid "UNCCD Reporting Periods"
 msgstr ""
 
-#: ../../introduction.md:379
+#: ../../introduction.md:376
 msgid "2018"
 msgstr ""
 
-#: ../../introduction.md:380
+#: ../../introduction.md:377
 msgid "Baseline 2000-2015"
 msgstr ""
 
-#: ../../introduction.md:381
+#: ../../introduction.md:378
 msgid "2022"
 msgstr ""
 
-#: ../../introduction.md:382
+#: ../../introduction.md:379
 msgid "2016-2019"
 msgstr ""
 
-#: ../../introduction.md:383
+#: ../../introduction.md:380
 msgid "**2026**"
 msgstr ""
 
-#: ../../introduction.md:384
+#: ../../introduction.md:381
 msgid "**2016-2023**"
 msgstr ""
 
-#: ../../introduction.md:385
+#: ../../introduction.md:382
 msgid "2030"
 msgstr ""
 
-#: ../../introduction.md:386
+#: ../../introduction.md:383
 msgid "2016-2027"
 msgstr ""
 
-#: ../../introduction.md:387
+#: ../../introduction.md:384
 msgid "2034"
 msgstr ""
 
-#: ../../introduction.md:388
+#: ../../introduction.md:385
 msgid "2016-2031"
 msgstr ""
 
-#: ../../introduction.md:391
+#: ../../introduction.md:388
 msgid "Recalculations and time series consistency"
 msgstr ""
 
-#: ../../introduction.md:393
+#: ../../introduction.md:390
 msgid "Advances in methodologies and data availability may require periodic recalculations of previously submitted national estimates. While recalculations may require refinements in terms of target-setting, they ensure the consistency of the time series and the comparability between the baseline and future monitoring data."
 msgstr ""
 
-#: ../../introduction.md:396
+#: ../../introduction.md:393
 msgid "For instance, given the evolution of the calculation methods presented in version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land) and its [Addendum](https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land), it is recommended that previously submitted estimates of all SO1 indicators, including SDG Indicator 15.3.1, be recalculated and included in the national report to be submitted in 2026. Default national estimates provided through the PRAIS forms have already been recalculated for country Parties using the new calculation methods."
 msgstr ""
 
-#: ../../introduction.md:399
+#: ../../introduction.md:396
 msgid "For a broader discussion on the issue of recalculations, see chapter 6 of version 2 of the [Good Practice Guidance for SDG Indicator 15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)."
 msgstr ""
 
-#: ../../introduction.md:401
+#: ../../introduction.md:398
 msgid "Submission of the national report, validation and review process"
 msgstr ""
 
-#: ../../introduction.md:403
+#: ../../introduction.md:400
 msgid "Building on the experiences and lessons learned from the use of PRAIS in the 2022 reporting process, a next generation of the on-line platform was developed for the 2026 reporting process to improve data entry, review, communication and quality assurance functionalities. The design and upgrade of the platform was carried out bearing in mind the following objectives:"
 msgstr ""
 
-#: ../../introduction.md:405
+#: ../../introduction.md:402
 msgid "A) Quality Assurance - To ensure that national reports are comprehensive, internally consistent, aligned with UNCCD guidelines and well-integrated, the platform should implement robust validation rules. These rules serve as quality control mechanisms to verify the accuracy, completeness, and coherence of submitted data before it is used by the secretariat in aggregate reports and derivative information products."
 msgstr ""
 
-#: ../../introduction.md:407
+#: ../../introduction.md:404
 msgid "B) Transparency – the platform should enable access to all the documentation necessary for understanding how the indicators should be reported, including explanations of key terms, the default data sources, definitions and the methodologies used."
 msgstr ""
 
-#: ../../introduction.md:409
+#: ../../introduction.md:406
 msgid "C) Ease of use – the platform should have an intuitive interface with an overview country management dashboard, forms which allow easy data entry, switching between national and default data sources, and upload of other datasets and/or documentation."
 msgstr ""
 
-#: ../../introduction.md:411
+#: ../../introduction.md:408
 msgid "D) Improved communication – the platform should have a transparent review and revision functionality, which allows tracking of changes in the reported figures and facilitates understanding of the review process flow."
 msgstr ""
 
-#: ../../introduction.md:413
+#: ../../introduction.md:410
 msgid "E) Flexibility – the platform should clearly outline the differentiated reporting obligations of Affected Country Parties and Developed Country Parties, while allowing countries the flexibility to adjust the indicators they report—for example, by choosing to report on optional indicators or on indicators generally considered not applicable to their country category."
 msgstr ""
 
-#: ../../introduction.md:415
+#: ../../introduction.md:412
 msgid "Once a reporting form has been completed and all the tables in that form have been filled in, the Reporting Officer can make the form  available to the secretariat for review. This will lock the form so that no further editing can take place and allow the review process to begin. The review is carried out by the UNCCD secretariat, and is necessary to ensure that reported figures are consistent and that the  reporting methodology is applied correctly. To make a form available for review, its status in the platform must be set to “In Review”. If during the review process the need for clarifications or amendments arises, the reviewers can insert feedback via comments and send back the form to the national reporting officer. The national reporting officer is notified when the review process is completed and if comments need to be addressed. The form will then be again set to “Open” mode and the reporting officer can address the comments and modify the report accordingly and resubmit it for another review cycle. When no further clarifications or amendments are required, the form is considered finalized and ready for the final submission to the secretariat."
 msgstr ""
 
-#: ../../introduction.md:423
+#: ../../introduction.md:420
 msgid "Building on the lessons learned from the 2022 reporting process, a number of system validation rules have been implemented in PRAIS for 2026 reporting. These will appear as errors when users try to save the reporting form. Errors (arising from the application of system validation rules) appear on the forms to highlight any major discrepancies in reported data (see inter-tabular consistency paragraph below). The error message will help the user understand the issue and indicate to the user how to rectify the problem before being allowed to save the form."
 msgstr ""
 
-#: ../../introduction.md:428
+#: ../../introduction.md:425
 msgid "Inter-tabular consistency: the total country area and demographics, as presented in the country profile (CP-1.T1 and CP-1.T2), constitute the basis for reporting in many of the other reporting tables. For inter-tabular consistency, the total country, land and water body area as well as total population must not be less than the corresponding area or population estimates in SO1, SO2-3, SO3-1 and SO3-2 tables. The system automatically prefills the total country, land and water body areas and national population in the country profile based on default data. If any reported degraded area, area under drought or populations exposed exceed the values reported in the country profile an error will appear since the percentage value reported cannot normally exceed 100%."
 msgstr ""
 
-#: ../../introduction.md:433
+#: ../../introduction.md:430
 msgid "Having negative numbers in tables where only positive numbers are allowed or having non-numeric characters in numeric-only fields also trigger error messages. Regardless of what validation rule triggers the error, the error will prevent the saving of a form and must be rectified by the user before the form can be saved or submitted for review."
 msgstr ""
 
-#: ../../introduction.md:435
+#: ../../introduction.md:432
 msgid "Process and schedule for the 2026 reporting process"
 msgstr ""
 
-#: ../../introduction.md:437
+#: ../../introduction.md:434
 msgid "The deadlines for submission of national reports are tentatively set for November 2026 for reporting on SO1, and February 2027 for the remaining SOs. The CRIC Bureau will monitor progress made throughout the 2026 reporting process to decide on adjustments to this timeline, if needed."
 msgstr ""
 
-#: ../../introduction.md:439
+#: ../../introduction.md:436
 msgid "Various measures will be taken by the secretariat to support Parties in preparing the national reports and providing high quality information:"
 msgstr ""
 
-#: ../../introduction.md:441
+#: ../../introduction.md:438
 msgid "In-person regional capacity development activities will be organized. These aim to introduce national focal points and assigned reporting officers to the updated reporting requirements, methodologies, data and tools;"
 msgstr ""
 
-#: ../../introduction.md:443
+#: ../../introduction.md:440
 msgid "The secretariat and the Global Mechanism, with the assistance of consultants and/or regional institutions, will provide technical backstopping throughout the reporting process;"
 msgstr ""
 
-#: ../../introduction.md:445
+#: ../../introduction.md:442
 msgid "An online helpdesk facility, which can be accessed at <https://support.unccd.int/> will be available via PRAIS to respond to queries from Parties;"
 msgstr ""
 
-#: ../../introduction.md:447
+#: ../../introduction.md:444
 msgid "A multi-lingual chat functionality, which is embedded in PRAIS and accessible to country Parties and UNCCD technical experts to facilitate communication among them in a less formal way,"
 msgstr ""
 
-#: ../../introduction.md:449
+#: ../../introduction.md:446
 msgid "National reports will undergo a quality assurance procedure prior to final submission to ensure the provision of consistent, transparent, comparable, accurate and complete information."
 msgstr ""
 
-#: ../../introduction.md:451
+#: ../../introduction.md:448
 msgid "At its twenty-fifth session, the CRIC will review and analyse the information submitted during the 2026 reporting process."
 msgstr ""
 
-#: ../../introduction.md:453
+#: ../../introduction.md:450
 msgid "Country profile"
 msgstr ""
 
-#: ../../introduction.md:455
+#: ../../introduction.md:452
 msgid "Information on the total country area, as well as its division into total land area and area covered by water bodies are prerequisites for the calculation of amount of degraded or improved land and other indicators. Information on national population size and its composition in terms of number of males and females is necessary for the calculation of a number of the indicators. This information is gathered in a Country Profile Form and the data is used by indicators with related dependencies."
 msgstr ""
 
-#: ../../introduction.md:457
+#: ../../introduction.md:454
 msgid "Land Area"
 msgstr ""
 
-#: ../../introduction.md:460
+#: ../../introduction.md:457
 msgid "Related areas in the PRAIS 4 platform: table CP-1.T1"
 msgstr ""
 
-#: ../../introduction.md:463
+#: ../../introduction.md:460
 msgid "Information on the total land area, area covered by water bodies, and total country area is required to calculate the proportion of land that is degraded over total land area (SDG indicator 15.3.1), but also to calculate indicators to track progress towards other SOs (e.g. SO 3-1: Trends in the proportion of land under drought over the total land area)."
 msgstr ""
 
-#: ../../introduction.md:465
+#: ../../introduction.md:462
 msgid "Total land area, total water bodies area and total country area require respective estimates to be reported in square kilometres (km2) for 2000, 2015, 2019 and 2023 or closest available years (to align with the initial and final years of the baseline and reporting periods for SDG indicator 15.3.1). Land area data is pre-filled in the reporting table CP-1.T1. Estimates are based on the default land cover data and, as such, they could differ from official national statistics. The pre-filled data can be changed by clicking on the ‘National Data’ switch above the table. However, it is important to ensure consistency with the land cover data and the SDG indicator 15.3.1 estimates. Parties should note that the total country area is auto-calculated in PRAIS from the addition of the total land area and water bodies and is therefore not an editable field."
 msgstr ""
 
-#: ../../introduction.md:472
+#: ../../introduction.md:469
 msgid "Any changes to the default estimates are to be justified in the ‘Comments’ column or ´Comments´ field below the table."
 msgstr ""
 
-#: ../../introduction.md:474
+#: ../../introduction.md:471
 msgid "Demographics"
 msgstr ""
 
-#: ../../introduction.md:477
+#: ../../introduction.md:474
 msgid "Related areas in the PRAIS 4 platform: table CP-1.T2"
 msgstr ""
 
-#: ../../introduction.md:480
+#: ../../introduction.md:477
 msgid "Information on total population as well as number of females and males is important to understand the impacts of land degradation and drought, and their gender dimension."
 msgstr ""
 
-#: ../../introduction.md:482
+#: ../../introduction.md:479
 msgid "If available, national estimates of the female, male, and total population on an annual basis since 2000 should be provided, expressed in thousands. Demographic data is pre-filled in the reporting table CP-1.T2 using data from the WorldPop dataset from 2000 to 2023. Parties should note that this dataset has not been updated for the 2026 reporting and therefore the final three years (2021, 2022, and 2023) duplicate values for 2020. Moreover it should be noted that while the School of Geography and Environmental Science at the University of Southampton (UK) has recently released a new global demographic dataset for 2015–2030, it was still in beta format at the time the 2026 reporting process was launched and will not be made available as default data. Beta versions of datasets can contain inconsistencies, errors or anomalies. As soon as this new global demographic dataset is formally published, Parties will be able to download it from Trends.Earth and import it to PRAIS 4 to replace the default data."
 msgstr ""
 
-#: ../../introduction.md:489
+#: ../../introduction.md:486
 msgid "If better national estimates are available, the Parties should click on the “National Data” button and enter their own annual population estimates. However, it is important to ensure consistency with the data used to report the proportion of population exposure to land degradation and drought. Any changes are to be justified in the “Comments” field following the table."
 msgstr ""
 
-#: ../../introduction.md:493
+#: ../../introduction.md:490
 msgid "A field for “General Comments” is also provided if any additional information or clarifications are to be provided in relation to the land area and demographics data provided."
 msgstr ""
 
@@ -871,6 +871,6 @@ msgstr ""
 msgid "Indicator adopted in decision 7/COP.13 as “Trends in domestic public resources”"
 msgstr ""
 
-#: ../../introduction.md:323
+#: ../../introduction.md:320
 msgid "The United Nations Geospatial Data, or Geodata, is a worldwide geospatial dataset of the United Nations. The United Nations Geodata is provided to facilitate the preparation of cartographic materials in the United Nations includes geometry, attributes and labels to facilitate the adequate depiction and naming of geographic features for the preparation of maps in accordance with United Nations policies and practices. Clear Map is accessible here: <https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887>."
 msgstr ""

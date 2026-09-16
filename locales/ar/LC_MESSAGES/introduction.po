@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-03 15:18+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2026-09-10 16:48+0300\n"
+"PO-Revision-Date: 2026-08-27 15:16+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -23,9 +23,8 @@ msgstr "مقدمة"
 
 #: ../../introduction.md:3
 msgid "Background"
-msgstr "معلومات أساسية"
+msgstr "الخلفية"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:5
 msgid ""
 "By its decision 7/COP.13, the Conference of the Parties (COP) to the United "
@@ -33,55 +32,50 @@ msgid ""
 "2018–2030 Strategic Framework, containing (a) five strategic objectives "
 "(SOs) and (b) an implementation framework. The SOs are:"
 msgstr ""
-"اعتمد مؤتمر الأطراف في اتفاقية الأمم المتحدة لمكافحة التصحر، بموجب مقرره 7/م"
-" أ-13، الإطار الاستراتيجي للاتفاقية للفترة 2018-2030، الذي يتضمن (أ) خمسة "
-"أهداف استراتيجية (SOs) و(ب) إطاراً تنفيذياً. والأهداف الاستراتيجية هي:"
+"بموجب القرار 7/COP.13، اعتمد مؤتمر الأطراف (COP) في اتفاقية الأمم المتحدة "
+"لمكافحة التصحُّر (UNCCD) الإطار الاستراتيجي للاتفاقية للفترة 2018–2030، "
+"والذي يتضمن (أ) خمسة أهداف استراتيجية (SOs) و(ب) إطارًا للتنفيذ. والأهداف "
+"الاستراتيجية هي:"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:7
 msgid ""
 "SO1: To improve the condition of affected ecosystems, combat "
 "desertification/land degradation, promote sustainable land management and "
 "contribute to land degradation neutrality;"
 msgstr ""
-"الهدف الاستراتيجي 1: تحسين حالة النظم الإيكولوجية المتأثرة، ومكافحة "
-"التصحر/تدهور الأراضي، وتعزيز الإدارة المستدامة للأراضي والمساهمة في تحييد "
-"تدهور الأراضي;"
+"الهدف الاستراتيجي الأول: تحسين حالة النظم البيئية المتأثرة، ومكافحة "
+"التصحُّر/تدهور الأراضي، وتعزيز الإدارة المستدامة للأراضي، والمساهمة في تحقيق"
+" تحييد تدهور الأراضي؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:9
 msgid "SO2: To improve the living conditions of affected populations;"
-msgstr "الهدف الاستراتيجي 2: تحسين الظروف المعيشية للسكان المتضررين;"
+msgstr "الهدف الاستراتيجي الثاني: تحسين الظروف المعيشية للسكان المتأثرين؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:11
 msgid ""
 "SO3: To mitigate, adapt to, and manage the effects of drought in order to "
 "enhance resilience of vulnerable populations and ecosystems;"
 msgstr ""
-"الهدف الاستراتيجي 3: التخفيف من آثار الجفاف والتكيف معها وإدارتها من أجل "
-"تعزيز قدرة السكان والنظم الإيكولوجية الضعيفة على الصمود;"
+"الهدف الاستراتيجي الثالث: التخفيف من آثار الجفاف والتكيف معها وإدارتها "
+"لتعزيز صمود السكان والنظم البيئية الهشة؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:13
 msgid ""
 "SO4: To generate global environmental benefits through effective "
 "implementation of the UNCCD; and"
 msgstr ""
-"الهدف الاستراتيجي 4: تحقيق منافع بيئية عالمية من خلال التنفيذ الفعال "
-"لاتفاقية الأمم المتحدة لمكافحة التصحر؛ و"
+"الهدف الاستراتيجي الرابع: تحقيق منافع بيئية عالمية من خلال التنفيذ الفعال "
+"لاتفاقية الأمم المتحدة لمكافحة التصحُّر؛ و"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:15
 msgid ""
 "SO5: To mobilize substantial and additional financial and non-financial "
 "resources to support the implementation of the Convention by building "
 "effective partnerships at global and national level."
 msgstr ""
-"الهدف الاستراتيجي 5: تعبئة موارد مالية وغير مالية كبيرة وإضافية لدعم تنفيذ "
-"الاتفاقية من خلال بناء شراكات فعالة على المستويين العالمي والوطني."
+"الهدف الاستراتيجي الخامس: حشد موارد مالية وغير مالية كبيرة وإضافية لدعم "
+"تنفيذ الاتفاقية من خلال بناء شراكات فعالة على المستويين العالمي والوطني."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:17
 msgid ""
 "The implementation framework (IF) defines the roles and responsibilities of "
@@ -103,21 +97,21 @@ msgid ""
 "for Implementation Framework, e.g. the Implementation Framework form for SO1"
 " is entitled ‘SO1-IF’."
 msgstr ""
-"يحدد إطار التنفيذ أدوار ومسؤوليات الأطراف ومؤسسات الاتفاقية في الوفاء "
-"بالأهداف الاستراتيجية. واستناداً إلى استعراض شامل لنماذج الإبلاغ عن الإطار "
-"المتكامل بعد عملية الإبلاغ لعام 2022، لن يتم تقديمه كقسم مستقل في دورة "
-"الإبلاغ الوطني لعام 2026. وبدلاً من ذلك، سيتم دمج عناصره في الأقسام المناسبة"
-" تحت كل هدف استراتيجي. كما حددت المشاورات الداخلية داخل الأمانة التداخلات "
-"المحتملة بين الأسئلة الواردة في الإطار والبيانات المطلوبة في إطار كل هدف "
-"استراتيجي على حدة. وبالتالي، تمت مراجعة المكونات الأساسية الثلاثة للإطار - "
-"السياسة والتخطيط، والإجراءات على أرض الواقع، والموارد المالية وغير المالية -"
-" وأعيدت هيكلتها لتتماشى مع الأهداف الاستراتيجية الأكثر صلة. بالإضافة إلى "
-"ذلك، يمكن الحصول على معلومات عن الفئات الضعيفة والمهمشة، حيثما كان ذلك "
-"مناسبًا، من خلال الإبلاغ عن مشاركة المرأة وإشراك الشباب والشعوب الأصلية "
-"والمجتمعات المحلية. يمكن للأطراف الآن أن تجد القسم المعني من إطار التنفيذ "
-"مدرجًا كنموذج إضافي تحت كل هدف من الأهداف الاستراتيجية مع الإشارة إلى "
-"النموذج برقم الهدف الاستراتيجي الخاص به و\"IF\" لإطار التنفيذ، على سبيل "
-"المثال نموذج إطار التنفيذ للهدف الاستراتيجي 1 بعنوان \"SO1-IF\"."
+"يحدد إطار التنفيذ (IF) أدوار ومسؤوليات الأطراف ومؤسسات الاتفاقية في تلبية "
+"الأهداف الاستراتيجية. وبناءً على مراجعة شاملة لنماذج تقارير إطار التنفيذ بعد"
+" دورة تقديم التقارير لعام 2022، لن يُعرض إطار التنفيذ كقسم مستقل في دورة "
+"التقارير الوطنية لعام 2026. وبدلًا من ذلك، ستُدمج عناصره ضمن الأقسام "
+"المناسبة تحت كل هدف استراتيجي (SO). وقد حددت المشاورات الداخلية داخل الأمانة"
+" العامة التداخلات المحتملة بين الأسئلة في الإطار والبيانات المطلوبة تحت "
+"الأهداف الاستراتيجية الفردية. ونتيجة لذلك، جرت مراجعة وإعادة هيكلة المكونات "
+"الأساسية الثلاثة للإطار — السياسات والتخطيط، والإجراءات الميدانية، والموارد "
+"المالية وغير المالية — لتتوافق مع الأهداف الاستراتيجية الأكثر صلة. بالإضافة "
+"إلى ذلك، يمكن رصد المعلومات المتعلقة بالفئات الهشة والمهمشة، حيثما كان ذلك "
+"مناسبًا، عبر تقارير مشاركة المرأة، وإشراك الشباب، والشعوب الأصلية والمجتمعات"
+" المحلية. ويمكن للأطراف الآن العثور على القسم الخاص بإطار التنفيذ كنموذج "
+"إضافي تحت كل هدف استراتيجي مع ترميز النموذج برقم الهدف الاستراتيجي المناظر "
+"متبوعًا بـ ‘IF’ لإطار التنفيذ، على سبيل المثال يسمى نموذج إطار التنفيذ للهدف"
+" الاستراتيجي الأول ‘SO1-IF’."
 
 #: ../../introduction.md:25
 msgid ""
@@ -128,17 +122,15 @@ msgid ""
 "the Convention (CRIC) in reviewing the reports, are spelled out in decisions"
 " 13/COP.13 and 15/COP.13."
 msgstr ""
-"تجري مراجعة التقدم في تنفيذ الإطار الاستراتيجي لاتفاقية الأمم المتحدة "
-"لمكافحة التَصحُّر 2018-2030 بانتظام من خلال عملية الإبلاغ الوطنية منذ عام "
-"2018. وترد إجراءات الإبلاغ، وكذلك دور لجنة استعراض تنفيذ الاتفاقية الدولية "
-"لمكافحة التَصحُّر ومسؤولياتها بشأن مراجعة البلاغات في المقررين \"13/م أ-13 "
-"و15/م أ-13."
+"ويُراجع التقدم المحرز في تنفيذ الإطار الاستراتيجي للاتفاقية 2018–2030 "
+"بانتظام عبر عملية تقديم التقارير الوطنية منذ عام 2018. وتتحدد إجراءات تقديم "
+"التقارير، فضلًا عن دور ومسؤوليات لجنة مراجعة تنفيذ الاتفاقية (CRIC) في "
+"مراجعة التقارير، في القرارين 13/COP.13 و15/COP.13."
 
 #: ../../introduction.md:27
 msgid "Purpose of national reporting"
-msgstr "الغرض من عملية الإبلاغ الوطنية"
+msgstr "الغرض من تقديم التقارير الوطنية"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:29
 msgid ""
 "Information reported by Parties under the Convention is used in several "
@@ -161,26 +153,26 @@ msgid ""
 "that can help combat DLDD and their impacts on populations. In a nutshell, "
 "national reporting puts data and information on land to good use."
 msgstr ""
-"تُستخدم المعلومات التي تبلغ عنها الأطراف بموجب الاتفاقية بعدة طرق. فهي "
-"تُستخدم لرصد التقدم المحرز نحو تحقيق الغاية 15-3 من أهداف التنمية المستدامة "
-"والمساعدة في توجيه صياغة السياسات على الصعيدين الوطني والدولي لمكافحة "
-"التصحر/تدهور الأراضي والجفاف. وتساعد المعلومات صانعي السياسات على فهم أفضل "
-"للمناطق الجغرافية الأكثر تضرراً في بلدانهم وتسمح بتصميم وتنفيذ تدابير "
-"وتدخلات أكثر استهدافاً. وقد استفاد عدد من البلدان من البيانات والمعلومات "
-"المقدمة في الجولة الأخيرة من التقارير (2022) لإعداد خطط عمل وطنية لمعالجة "
-"تدهور الأراضي أو استخدمت بعض المواد كجزء من مقترحات المشاريع للحصول على "
-"تمويل وطني ودولي لتنفيذ إجراءات ملموسة على أرض الواقع. وتوفر التقارير "
-"الشاملة التي تقدمها الأطراف عروضًا عملية لكيفية تحسين الإبلاغ وتنفيذ "
-"التدخلات على أرض الواقع مع تحفيز الأطراف الأخرى وبناء فهم للنجاحات والتحديات"
-" في تنفيذ الاتفاقية. وأخيرًا، تلعب المعلومات المبلغ عنها دورًا مهمًا في "
-"زيادة الوعي بأهمية الإدارة المستدامة للأراضي والدعوة إلى مبادرات استعادة "
-"الأراضي التي يمكن أن تساعد في مكافحة التصحر وتدهور الأراضي والجفاف وآثارها "
-"على السكان. وباختصار، فإن الإبلاغ الوطني يضع البيانات والمعلومات المتعلقة "
-"بالأراضي في موضع الاستخدام الجيد."
+"تُستخدم المعلومات المُبلغ عنها من الأطراف بموجب الاتفاقية بعدة طرق. إذ تُوظف"
+" لرصد التقدم المحرز نحو تحقيق الهدف 15.3 من أهداف التنمية المستدامة "
+"وللمساعدة في توجيه صياغة السياسات على المستويين الوطني والدولي لمكافحة "
+"التصحُّر/تدهور الأراضي والجفاف (DLDD). وتساعد المعلومات صانعي السياسات على "
+"فهم المناطق الجغرافية الأكثر تأثرًا في بلدانهم بشكل أفضل، وتسمح بتصميم "
+"وتنفيذ تدابير وتدخلات أكثر استهدافًا. وقد استفادت عدة دول من البيانات "
+"والمعلومات المقدمة في الجولة الأخيرة من تقديم التقارير (2022) لإنتاج خطط عمل"
+" وطنية لمعالجة تدهور الأراضي، أو استخدمت بعض المواد كجزء من مقترحات المشاريع"
+" للسعي للحصول على تمويل وطني ودولي لتنفيذ تدخلات ملموسة على الأرض. وتوفر "
+"التقارير الشاملة للأطراف استعراضًا عمليًا لكيفية تحسين تقديم التقارير وتنفيذ"
+" التدخلات الميدانية مع تحفيز الأطراف الأخرى وبناء الفهم حول النجاحات "
+"والتحديات في تنفيذ الاتفاقية. وأخيرًا، تؤدي المعلومات المُبلغ عنها دورًا "
+"مهمًا في رفع الوعي بأهمية الإدارة المستدامة للأراضي والدعوة لمبادرات استعادة"
+" الأراضي التي يمكن أن تساعد في مكافحة التصحُّر وتدهور الأراضي والجفاف "
+"وآثارها على السكان. وبإيجاز، تضع التقارير الوطنية بيانات ومعلومات الأراضي "
+"قيد الاستخدام الأمثل."
 
 #: ../../introduction.md:37
 msgid "Indicator and monitoring framework"
-msgstr "المؤشر وإطار الرصد"
+msgstr "مؤشرات وإطار الرصد"
 
 #: ../../introduction.md:39
 msgid ""
@@ -188,11 +180,10 @@ msgid ""
 "that makes it possible to distinguish what to measure (progress indicators) "
 "and how it should be measured (metrics/proxies)."
 msgstr ""
-"يحتوي مؤشر اتفاقية الأمم المتحدة لمكافحة التَصحُّر وإطار الرصد على هيكل هرمي"
-" يجعل من الممكن التمييز بين ما يجب قياسه (مؤشرات التقدم) وكيف ينبغي قياسه "
-"(المقاييس/ البدائل)."
+"يتكون إطار مؤشرات ورصد اتفاقية الأمم المتحدة لمكافحة التصحُّر من هيكل هرمي "
+"يتيح التمييز بين ما يجب قياسه (مؤشرات التقدم) وكيفية قياسه "
+"(المقاييس/المؤشرات البديلة)."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:41
 msgid ""
 "Indicators used for reporting on progress towards the SOs are those adopted "
@@ -207,78 +198,74 @@ msgid ""
 "applicable, it can do so by changing the indicator form’s status from 'not "
 "applicable' to 'open' in PRAIS."
 msgstr ""
-"والمؤشرات المستخدمة للإبلاغ عن التقدم المحرز في تحقيق الأهداف الاستراتيجية "
-"هي تلك التي اعتمدتها الأطراف في المقررات 7/م أ-13، و9/م أ-13، و11/م أ-14، "
-"و4/م أ-16. ويتضمن الجدول من 1 إلى الجدول 5 أدناه لمحة عامة عن المؤشرات، "
-"والمقاييس/المقاييس البديلة ذات الصلة، والمقررات التي اعتُمدت فيها، وخصائص "
-"الإبلاغ (أي ما إذا كانت المؤشرات مطلوبة أو اختيارية للإبلاغ من جانب البلدان "
-"الأطراف المتأثرة والبلدان الأطراف المتقدمة). وفي حين أن بعض المؤشرات محددة "
-"على أنها غير قابلة للتطبيق بالنسبة للبلدان الأطراف المتقدمة، يجوز لكل بلد "
-"طرف متقدم أن يختار ما إذا كان سيقدم تقريراً عنها أم لا. وإذا قرر أحد البلدان"
-" الأطراف المتقدمة الإبلاغ عن مؤشر موسوم بأنه غير قابل للتطبيق، فيمكنه القيام"
-" بذلك عن طريق تغيير حالة استمارة المؤشر من \"غير قابل للتطبيق\" إلى "
-"\"مفتوح\" في نظام استعراض الأداء وتقييم التنفيذ."
+"والمؤشرات المستخدمة لتقديم التقارير عن التقدم المحرز نحو الأهداف "
+"الاستراتيجية هي تلك التي اعتمدتها الأطراف في القرارات 7/COP.13، و9/COP.13، "
+"و11/COP.14، و4/COP.16. وتتضمن الجداول من 1 إلى 5 أدناه نظرة عامة على "
+"المؤشرات والمقاييس/المؤشرات البديلة المرتبطة بها، والقرارات التي اعتمدتها، "
+"وإسنادات تقديم التقارير (أي ما إذا كانت المؤشرات إلزامية أم اختيارية لتقديم "
+"التقارير من قِبل البلدان الأطراف المتأثرة والبلدان الأطراف المتقدمة). ورغم "
+"أن بعض المؤشرات مُعلمة كـ \"غير طباقية\" للبلدان الأطراف المتقدمة، يجوز لكل "
+"دولة طرف متقدمة اختيار تقديم التقارير عنها أم لا. وإذا قررت دولة طرف متقدمة "
+"تقديم تقرير عن مؤشر مُعلم كـ \"غير طباقية\"، فيمكنها القيام بذلك عن طريق "
+"تغيير حالة نموذج المؤشر من \"غير طباقية\" إلى \"مفتوح\" في منصة PRAIS."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:46
 msgid ""
 "Reporting on the implementation framework is done through qualitative "
 "information, largely by narratives on national experiences, and on a "
 "voluntary basis."
 msgstr ""
-"يتم الإبلاغ عن إطار التنفيذ من خلال معلومات نوعية، إلى حد كبير عن طريق السرد"
-" عن التجارب الوطنية، وعلى أساس طوعي."
+"ويتم تقديم التقارير عن إطار التنفيذ من خلال معلومات نوعية، يعتمد معظمها على "
+"النصوص السردية والتجارب الوطنية، وعلى أساس طوعي."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:51
 msgid ""
 "*__Table 1__. Strategic objective (SO) 1 indicators and reporting "
 "attribution.*"
-msgstr "* ___ الجدول 1 ___. مؤشرات الهدف الاستراتيجي 1 وإسناد الإبلاغ*."
+msgstr "الجدول 1. مؤشرات الهدف الاستراتيجي 1 وإسنادات تقديم التقارير."
 
 #: ../../introduction.md:56 ../../introduction.md:96 ../../introduction.md:135
 #: ../../introduction.md:170 ../../introduction.md:201
 #, python-brace-format
 msgid "{rspan}`1` Indicator code"
-msgstr "رمز المؤشر"
+msgstr " رمز المؤشر"
 
 #: ../../introduction.md:57 ../../introduction.md:97 ../../introduction.md:136
 #: ../../introduction.md:171 ../../introduction.md:202
 #, python-brace-format
 msgid "{rspan}`1` Indicator name"
-msgstr "اسم المؤشر"
+msgstr " اسم المؤشر"
 
 #: ../../introduction.md:58 ../../introduction.md:98 ../../introduction.md:137
 #: ../../introduction.md:172 ../../introduction.md:203
 #, python-brace-format
 msgid "{rspan}`1` Metrics / proxies"
-msgstr "المقاييس/البدائل"
+msgstr " المقاييس / المؤشرات البديلة"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:59 ../../introduction.md:99 ../../introduction.md:138
 #: ../../introduction.md:204
 #, python-brace-format
 msgid "{rspan}`1` Adoption Decision"
-msgstr " قرار التبني"
+msgstr " قرار الاعتماد"
 
 #: ../../introduction.md:60 ../../introduction.md:100
 #: ../../introduction.md:139 ../../introduction.md:174
 #: ../../introduction.md:205
 #, python-brace-format
 msgid "{cspan}`1` Reporting attribution"
-msgstr "تأصيل عمليات الإبلاغ"
+msgstr " إسناد تقديم التقارير"
 
 #: ../../introduction.md:61 ../../introduction.md:101
 #: ../../introduction.md:140 ../../introduction.md:175
 #: ../../introduction.md:206
 msgid "Affected country Parties"
-msgstr "البلدان الأطراف المُتضرِّرة"
+msgstr " البلدان الأطراف المتأثرة"
 
 #: ../../introduction.md:62 ../../introduction.md:102
 #: ../../introduction.md:141 ../../introduction.md:176
 #: ../../introduction.md:207
 msgid "Developed country Parties"
-msgstr "البلدان الأطراف المتقدمة"
+msgstr " البلدان الأطراف المتقدمة"
 
 #: ../../introduction.md:63
 msgid "SO 1-1"
@@ -286,20 +273,18 @@ msgstr "الهدف الاستراتيجي 1-1"
 
 #: ../../introduction.md:64
 msgid "Trends in land cover"
-msgstr "الاتجاهات في الغطاء الأرضي"
+msgstr "الاتجاهات السائدة في الغطاء الأرضي"
 
 #: ../../introduction.md:65
 msgid "Land cover change"
-msgstr "تغيير الغطاء الأرضي"
+msgstr "تغير الغطاء الأرضي"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:66 ../../introduction.md:74 ../../introduction.md:79
 #: ../../introduction.md:110 ../../introduction.md:116
 #: ../../introduction.md:185
 msgid "7/COP.13"
-msgstr "7/م أ-13"
+msgstr "7/COP.13"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:67 ../../introduction.md:75 ../../introduction.md:80
 #: ../../introduction.md:85 ../../introduction.md:111
 #: ../../introduction.md:117 ../../introduction.md:146
@@ -308,24 +293,22 @@ msgstr "7/م أ-13"
 #: ../../introduction.md:213 ../../introduction.md:218
 #: ../../introduction.md:219
 msgid "Required"
-msgstr "مطلوب"
+msgstr "إلزامي"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:68
 #, python-brace-format
 msgid "{rspan}`3`Optional."
-msgstr "اختياري."
+msgstr " اختياري."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:70
 msgid ""
 "Developed country Parties may wish to submit information on SO1 indicators, "
 "including SDG indicator 15.3.1, on a voluntary basis for the purpose of "
 "reporting on progress towards the SDGs."
 msgstr ""
-"قد ترغب البلدان الأطراف المتقدمة النمو في تقديم معلومات عن مؤشرات الهدف "
-"الاستراتيجي 1، بما في ذلك المؤشر 15-3-1، على أساس طوعي لغرض الإبلاغ عن "
-"التقدم المحرز نحو تحقيق أهداف التنمية المستدامة."
+"يجوز للبلدان الأطراف المتقدمة تقديم معلومات عن مؤشرات الهدف الاستراتيجي 1، "
+"بما في ذلك مؤشر التنمية المستدامة 15.3.1، على أساس طوعي لأغراض تقديم "
+"التقارير عن التقدم المحرز نحو أهداف التنمية المستدامة."
 
 #: ../../introduction.md:71
 msgid "SO 1-2"
@@ -333,11 +316,11 @@ msgstr "الهدف الاستراتيجي 1-2"
 
 #: ../../introduction.md:72
 msgid "Trends in land productivity or functioning of the land"
-msgstr "الاتجاهات في إنتاجية الأراضي أو أداء الأراضي"
+msgstr "الاتجاهات السائدة في إنتاجية الأراضي أو أدائها الوظيفي"
 
 #: ../../introduction.md:73
 msgid "Land productivity dynamics"
-msgstr "ديناميّات إنتاجية الأراضي"
+msgstr "ديناميكيات إنتاجية الأراضي"
 
 #: ../../introduction.md:76
 msgid "SO 1-3"
@@ -345,7 +328,7 @@ msgstr "الهدف الاستراتيجي 1-3"
 
 #: ../../introduction.md:77 ../../introduction.md:178
 msgid "Trends in carbon stocks above and below ground"
-msgstr "الاتجاهات في مخزونات الكربون فوق الأرض وتحتها"
+msgstr "الاتجاهات السائدة في مخزونات الكربون فوق الأرض وتحتها"
 
 #: ../../introduction.md:78
 msgid "Soil organic carbon stock"
@@ -357,25 +340,23 @@ msgstr "الهدف الاستراتيجي 1-4"
 
 #: ../../introduction.md:82
 msgid "Proportion of land that is degraded over total land area"
-msgstr "نسبة الأراضي المتدهورة إلى إجمالي مساحة الأرض"
+msgstr "نسبة الأراضي المتدهورة من إجمالي مساحة الأراضي"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:83 ../../introduction.md:210
 #: ../../introduction.md:216 ../../introduction.md:222
 #: ../../introduction.md:228 ../../introduction.md:234
 msgid "*---*"
-msgstr "*---*"
+msgstr "---"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:84
 msgid "9/COP.13"
-msgstr "9/م أ-13"
+msgstr "9/COP.13"
 
 #: ../../introduction.md:91
 msgid ""
 "*__Table 2__. Strategic objective (SO) 2 indicators and reporting "
 "attributions*"
-msgstr "__الجدول 2__. مؤشرات الهدف الاستراتيجي 2 وتأصيل عمليات الإبلاغ"
+msgstr "الجدول 2. مؤشرات الهدف الاستراتيجي 2 وإسنادات تقديم التقارير"
 
 #: ../../introduction.md:103
 msgid "SO 2-1"
@@ -386,12 +367,12 @@ msgid ""
 "Trends in population living below the relative poverty line and/or income "
 "inequality in affected areas"
 msgstr ""
-"الاتجاهات لدى السكان ممّن يعيشون تحت خط الفقر النسبي و/أو عدم المساواة في "
-"الدخل في المناطق المُتضرِّرة"
+"الاتجاهات السائدة في نسبة السكان الذين يعيشون تحت خط الفقر النسبي و/أو "
+"التفاوت في الدخل في المناطق المتأثرة"
 
 #: ../../introduction.md:105
 msgid "Proportion of the population below the international poverty line"
-msgstr "نسبة السكان الذين يعيشون تحت الخط الدولي للفقر"
+msgstr "نسبة السكان تحت خط الفقر الدولي"
 
 #: ../../introduction.md:107
 msgid "OR"
@@ -399,15 +380,14 @@ msgstr "أو"
 
 #: ../../introduction.md:109
 msgid "Income inequality"
-msgstr "عدم المساواة في توزيع الدخل"
+msgstr "التفاوت في الدخل"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:112 ../../introduction.md:118
 #: ../../introduction.md:147 ../../introduction.md:153
 #: ../../introduction.md:159 ../../introduction.md:187
 #: ../../introduction.md:193
 msgid "Not applicable"
-msgstr "لا ينطبق"
+msgstr "غير طباقية"
 
 #: ../../introduction.md:113
 msgid "SO 2-2"
@@ -415,12 +395,11 @@ msgstr "الهدف الاستراتيجي 2-2"
 
 #: ../../introduction.md:114
 msgid "Trends in access to safe drinking water in affected areas"
-msgstr ""
-"الاتجاهات في سُبل الحصول على مياه الشرب المأمونة في المناطق المُتضرِّرة"
+msgstr "الاتجاهات السائدة في الحصول على مياه الشرب الآمنة في المناطق المتأثرة"
 
 #: ../../introduction.md:115
 msgid "Proportion of population using safely managed drinking water services"
-msgstr "نسبة السكان الذين يستخدمون خدمات مياه الشرب المُدارة بأمان"
+msgstr "نسبة السكان الذين يستفيدون من خدمات مياه الشرب المدارة بشكل آمن"
 
 #: ../../introduction.md:119
 msgid "SO 2-3"
@@ -431,20 +410,19 @@ msgid ""
 "Trends in the proportion of the population exposed to land degradation, "
 "disaggregated by sex"
 msgstr ""
-"الاتجاهات في نسبة السكان المعرّضين لتدهور الأراضي، مصنفة حسب نوع الجنس"
+"الاتجاهات السائدة في نسبة السكان المعرضين لتدهور الأراضي موزعة حسب الجنس"
 
 #: ../../introduction.md:121
 msgid ""
 "Proportion of the population exposed to land degradation, disaggregated by "
 "sex"
-msgstr "نسبة السكان المعرّضين لتدهور الأراضي، مصنفة حسب نوع الجنس"
+msgstr "نسبة السكان المعرضين لتدهور الأراضي موزعة حسب الجنس"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:122 ../../introduction.md:191
 #: ../../introduction.md:223 ../../introduction.md:229
 #: ../../introduction.md:235
 msgid "4/COP.16"
-msgstr "4/م أ-16"
+msgstr "4/COP.16"
 
 #: ../../introduction.md:123 ../../introduction.md:124
 #: ../../introduction.md:192 ../../introduction.md:224
@@ -458,7 +436,7 @@ msgstr "اختياري"
 msgid ""
 "*__Table 3__. Strategic objective (SO) 3 indicators and reporting "
 "attributions*"
-msgstr "__الجدول 3__. مؤشرات الهدف الاستراتيجي 3 وتأصيل عمليات الإبلاغ"
+msgstr "الجدول 3. مؤشرات الهدف الاستراتيجي 3 وإسنادات تقديم التقارير"
 
 #: ../../introduction.md:142
 msgid "SO 3-1"
@@ -467,34 +445,32 @@ msgstr "الهدف الاستراتيجي 3-1"
 #: ../../introduction.md:143
 msgid ""
 "Trends in the proportion of land under drought over the total land area"
-msgstr "الاتجاهات في نسبة الأراضي المعرّضة للجفاف إلى إجمالي مساحة الأرض"
+msgstr ""
+"الاتجاهات السائدة في نسبة الأراضي المتأثرة بالجفاف من إجمالي مساحة الأراضي"
 
 #: ../../introduction.md:144
 msgid ""
 "Proportion of land in each drought intensity class as defined by the "
 "Standardized Precipitation Index"
 msgstr ""
-"نسبة الأراضي في كل فئة من فئات شدّة الجفاف حسب تعريفها في المؤشر المعياري "
-"للهطول"
+"نسبة الأراضي في كل فئة من فئات شدة الجفاف كما هي محددة بمؤشر الهطول المعياري"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:145 ../../introduction.md:151
 #: ../../introduction.md:157
 msgid "11/COP.14"
-msgstr "11/م أ-14"
+msgstr "11/COP.14"
 
 #: ../../introduction.md:148
 msgid "SO 3-2"
 msgstr "الهدف الاستراتيجي 3-2"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:149
 msgid "Trends in the proportion of the total population exposed to drought"
-msgstr "الاتجاهات في نسبة إجمالي عدد السكان المعرضين للجفاف"
+msgstr "الاتجاهات السائدة في نسبة إجمالي السكان المعرضين للجفاف"
 
 #: ../../introduction.md:150
 msgid "Proportion of the population exposed to drought, disaggregated by sex"
-msgstr "نسبة السكان المعرّضين للجفاف، مصنفة حسب نوع الجنس"
+msgstr "نسبة السكان المعرضين للجفاف موزعة حسب الجنس"
 
 #: ../../introduction.md:154
 msgid "SO 3-3"
@@ -502,29 +478,27 @@ msgstr "الهدف الاستراتيجي 3-3"
 
 #: ../../introduction.md:155
 msgid "Trends in the degree of drought vulnerability"
-msgstr "الاتجاهات في درجة التعرّض للجفاف"
+msgstr "الاتجاهات السائدة في درجة الهشاشة أمام الجفاف"
 
 #: ../../introduction.md:156
 msgid "Drought Vulnerability Index"
-msgstr "مؤشر قابلية التأثر بالجفاف"
+msgstr "مؤشر الهشاشة أمام الجفاف"
 
 #: ../../introduction.md:165
 msgid ""
 "*__Table 4__. Strategic objective (SO) 4 indicators and reporting "
 "attributions*"
-msgstr "__الجدول 4__. مؤشرات الهدف الاستراتيجي 4 وتأصيل عمليات الإبلاغ"
+msgstr "*__الجدول 4__. مؤشرات الهدف الاستراتيجي 4 وإسنادات تقديم التقارير"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:173
 #, python-brace-format
 msgid "{rspan}`1` Adoption Decision / proposed"
-msgstr " قرار الاعتماد/مقترح الاعتماد"
+msgstr " قرار الاعتماد / المقتَرَح"
 
 #: ../../introduction.md:177
 msgid "SO 4-1"
 msgstr "الهدف الاستراتيجي 4-1"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:179
 #, python-brace-format
 msgid ""
@@ -532,9 +506,9 @@ msgid ""
 "indicator used to measure progress towards both strategic objectives 1 and "
 "4. See progress indicator SO 1-3."
 msgstr ""
-" الاتجاهات في مخزونات الكربون فوق الأرض وتحتها هو مؤشر متعدد الأغراض يستخدم "
-"لقياس التقدم المحرز نحو تحقيق الهدفين الاستراتيجيين 1 و4. انظر مؤشر التقدم "
-"المحرز SO 1-3."
+" تُعد الاتجاهات السائدة في مخزونات الكربون فوق الأرض وتحتها مؤشرًا متعدد "
+"الأغراض يُستخدم لقياس التقدم المحرز نحو تحقيق الهدفين الاستراتيجيين 1 و4. "
+"انظر مؤشر تقدم الهدف الاستراتيجي 1-3."
 
 #: ../../introduction.md:182
 msgid "SO 4-2"
@@ -542,7 +516,7 @@ msgstr "الهدف الاستراتيجي 4-2"
 
 #: ../../introduction.md:183
 msgid "Trends in abundance and distribution of selected species"
-msgstr "الاتجاهات في وفرة وتوزيع الأنواع المختارة"
+msgstr "الاتجاهات السائدة في وفرة وانتشار أنواع مختارة"
 
 #: ../../introduction.md:184
 msgid "Red List Index"
@@ -554,21 +528,21 @@ msgstr "الهدف الاستراتيجي 4-3"
 
 #: ../../introduction.md:189
 msgid "Trends in protected area coverage of important biodiversity areas"
-msgstr "الاتجاهات في تغطية المناطق المحمية لمناطق التنوع البيولوجي الهامّة"
+msgstr ""
+"الاتجاهات السائدة في تغطية المناطق المحمية للمناطق الهامة للتنوع البيولوجي"
 
 #: ../../introduction.md:190
 msgid ""
 "Average proportion of Terrestrial Key Biodiversity Areas covered by "
 "protected areas"
 msgstr ""
-"متوسط نسبة مناطق التنوع البيولوجي الأرضية الرئيسية التي تغطيها المناطق "
-"المحمية"
+"متوسط نسبة المناطق الرئيسية للتنوع البيولوجي البري المشمولة بالمناطق المحمية"
 
 #: ../../introduction.md:196
 msgid ""
 "*__Table 5__. Strategic objective (SO) 5 indicators and reporting "
 "attributions*"
-msgstr "__الجدول 5__. مؤشرات الهدف الاستراتيجي 5 وتأصيل عمليات الإبلاغ"
+msgstr "*__الجدول 5__. مؤشرات الهدف الاستراتيجي 5 وإسنادات تقديم التقارير"
 
 #: ../../introduction.md:208
 msgid "SO 5-1"
@@ -576,12 +550,11 @@ msgstr "الهدف الاستراتيجي 5-1"
 
 #: ../../introduction.md:209
 msgid "Bilateral and multilateral public resources"
-msgstr "موارد عامة ثنائية ومتعددة الأطراف"
+msgstr "الموارد العامة الثنائية والمتعددة الأطراف"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:211
 msgid "7/COP.13 [^1]"
-msgstr "7/م أ-13 [^ 1]"
+msgstr "7/COP.13 [^1]"
 
 #: ../../introduction.md:214
 msgid "SO 5-2"
@@ -591,10 +564,9 @@ msgstr "الهدف الاستراتيجي 5-2"
 msgid "Domestic public resources"
 msgstr "الموارد العامة المحلية"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:217
 msgid "7/COP.13 [^2]"
-msgstr "7/م أ-13 [^ 2]"
+msgstr "7/COP.13 [^2]"
 
 #: ../../introduction.md:220
 msgid "SO 5-3"
@@ -602,7 +574,7 @@ msgstr "الهدف الاستراتيجي 5-3"
 
 #: ../../introduction.md:221
 msgid "International and domestic private resources"
-msgstr "الموارد الدولية والمحلية الخاصة"
+msgstr "الموارد الخاصة الدولية والمحلية"
 
 #: ../../introduction.md:226
 msgid "SO 5-4"
@@ -624,20 +596,18 @@ msgstr "الدعم المستقبلي للأنشطة المتعلقة بتنفي
 
 #: ../../introduction.md:244
 msgid "Reporting tools"
-msgstr "أدوات الإبلاغ"
+msgstr "أدوات تقديم التقارير"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:246
 msgid ""
 "For the 2026 reporting process, the performance review and assessment of "
 "implementation system (PRAIS 4) has been further improved to facilitate the "
 "reporting process. The most significant changes are:"
 msgstr ""
-"بالنسبة لعملية إعداد التقارير لعام 2026، تم إدخال المزيد من التحسينات على "
-"نظام استعراض الأداء وتقييم التنفيذ (PRAIS 4) لتسهيل عملية إعداد التقارير. "
-"وأهم التغييرات هي:"
+"بالنسبة لدورة تقديم التقارير لعام 2026، تم إدخال تحسينات إضافية على نظام "
+"مراجعة الأداء وتقييم التنفيذ (PRAIS 4) لتيسير عملية تقديم التقارير. وتتمثل "
+"التغييرات الأكثر أهمية فيما يلي:"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:248
 msgid ""
 "The Overview tab allows each Party to monitor the status of all their SO and"
@@ -652,60 +622,54 @@ msgid ""
 "approves the form, its status should be updated to “Finalized” prior to the "
 "formal submission of SO1 and/or the overall report;"
 msgstr ""
-"تسمح علامة التبويب \"نظرة عامة\" لكل طرف بمراقبة حالة جميع النماذج والمؤشرات"
-" الخاصة به، وتتبع التقدم المحرز في استكمال التقرير الوطني. بشكل افتراضي، يتم"
-" تصنيف النماذج على أنها إما \"مفتوحة\" أو \"غير قابلة للتطبيق\". إذا رغب أحد"
-" الأطراف في الإبلاغ عن مؤشر يحمل علامة \"غير قابل للتطبيق\"، فيمكنه ببساطة "
-"تغيير حالة النموذج إلى \"مفتوح\" وإدخال المعلومات المطلوبة. وبمجرد أن تصبح "
-"الاستمارة جاهزة لضمان الجودة، ينبغي للطرف تغيير حالتها إلى \"قيد الاستعراض\""
-" لإخطار الأمانة. وعملية الاستعراض هي عملية تكرارية: بعد حل أي تعليقات تم "
-"نشرها أثناء الاستعراض، ينبغي للطرف إعادة تقديم الاستمارة من خلال وضعها على "
-"\"قيد الاستعراض\" مرة أخرى. وحالما توافق الأمانة على الاستمارة، ينبغي تحديث "
-"حالتها إلى \"قيد الاستعراض\" قبل تقديم الاستمارة و/أو التقرير الإجمالي "
-"رسمياً;"
+"تبويب الاستعراض العام يتيح لكل طرف رصد حالة جميع أهدافه الاستراتيجية "
+"ومؤشراته، وتتبع التقدم المحرز في إكمال التقرير الوطني. وافتراضيًا، تُعلم "
+"النماذج إما كـ \"مفتوح\" أو \"غير طباقية\". وإذا رغب طرف في التقرير عن مؤشر "
+"مُعلم كـ \"غير طباقية\"، فيمكنه ببساطة تغيير حالة النموذج إلى \"مفتوح\" "
+"وإدخال المعلومات المطلوبة. وفور جاهزية النموذج لضمان الجودة، ينبغي للطرف "
+"تغيير حالته إلى \"قيد المراجعة\" لإخطار الأمانة العامة. وتتسم عملية المراجعة"
+" بكونها تكرارية: بعد حل أي ملاحظات تُدون أثناء المراجعة، يعيد الطرف تقديم "
+"النموذج بضبطه على حالة \"قيد المراجعة\" مجددًا. وفور اعتماد الأمانة العامة "
+"للنموذج، تُحدث حالته إلى \"مكتمل\" قبل التقديم الرسمي للهدف الاستراتيجي "
+"الأول و/أو التقرير الشامل؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:254
 msgid ""
 "A specific tab entitled CP to capture Country Profile information including "
 "land area and population;"
 msgstr ""
-"علامة تبويب محددة بعنوان CP لالتقاط معلومات الملف الشخصي للبلد بما في ذلك "
-"مساحة الأرض والسكان;"
+"تبويب مخصص بعنوان CP لرصد معلومات الملف الشخصي للبلد بما في ذلك مساحة "
+"الأراضي والسكان؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:256
 msgid ""
 "New functionality for SO1-1 to report one or more (max. five) regional land "
 "cover transition matrices which allow better capture of regional and local "
 "conditions;"
 msgstr ""
-"خاصية جديدة للهدف الاستراتيجي 1-1 للإبلاغ عن مصفوفة أو أكثر (خمسة كحد أقصى) "
-"من مصفوفات انتقال الغطاء الأرضي الإقليمي التي تسمح بالتقاط الظروف الإقليمية "
-"والمحلية بشكل أفضل;"
+"خاصية جديدة للمؤشر الهدف الاستراتيجي 1-1 لتقديم تقارير عن مصفوفة واحدة أو "
+"أكثر (بحد أقصى 5 مصفوفات) لانتقال الغطاء الأرضي الإقليمي بما يتيح رصد الظروف"
+" الإقليمية والمحلية بشكل أفضل؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:258
 msgid ""
 "Parties can now stratify the land productivity and soil organic carbon stock"
 " indicators using custom/national land cover classes as an alternative to "
 "the default UNCCD seven land cover classes;"
 msgstr ""
-"يمكن للأطراف الآن تصنيف إنتاجية الأراضي ومؤشرات مخزون الكربون العضوي في "
-"التربة باستخدام فئات الغطاء الأرضي المخصصة/الوطنية كبديل لفئات الغطاء الأرضي"
-" السبع الافتراضية لاتفاقية الأمم المتحدة لمكافحة التصحر;"
+"يمكن للأطراف الآن تقسيم مؤشرات إنتاجية الأراضي ومخزون الكربون العضوي في "
+"التربة باستخدام فئات غطاء أرضي مخصصة/وطنية كبديل لفئات الغطاء الأرضي السبع "
+"الافتراضية للاتفاقية؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:260
 msgid ""
 "The SO1 forms now also support the reporting of land improvement, in "
 "addition to land degradation, providing valuable insights in the context of "
 "achieving LDN;"
 msgstr ""
-"تدعم استمارات SO1 الآن أيضًا الإبلاغ عن تحسين الأراضي، بالإضافة إلى تدهور "
-"الأراضي، مما يوفر رؤى قيمة في سياق تحقيق شبكة التنمية المحلية;"
+"تدعم نماذج الهدف الاستراتيجي الأول الآن أيضًا تقارير تحسين الأراضي، بالإضافة"
+" إلى تدهور الأراضي، مما يقدم رؤى قيمة في سياق تحقيق تحييد تدهور الأراضي؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:262
 msgid ""
 "Data on SDG indicators — excluding SDG indicator 15.3.1 — have been imported"
@@ -713,34 +677,31 @@ msgid ""
 " reduce the reporting burden and avoid duplication of data validation "
 "efforts;"
 msgstr ""
-"تم استيراد البيانات المتعلقة بمؤشرات أهداف التنمية المستدامة - باستثناء "
-"المؤشر 15-3-1 - من قاعدة البيانات العالمية لأهداف التنمية المستدامة كبيانات "
-"افتراضية ومزامنتها مع نظام استعراض الأداء وتقييم التنفيذ لتخفيف عبء الإبلاغ "
-"وتجنب ازدواجية جهود التحقق من صحة البيانات;"
+"تم استيراد بيانات مؤشرات أهداف التنمية المستدامة — باستثناء مؤشر التنمية "
+"المستدامة 15.3.1 — من قاعدة البيانات العالمية لأهداف التنمية المستدامة "
+"كبيانات افتراضية ومزامنتها مع PRAIS لتقليل عبء تقديم التقارير وتجنب تكرار "
+"جهود المصادقة على البيانات؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:264
 msgid ""
 "The reporting forms have been simplified to the extent possible — for "
 "example, by removing non-essential tables and limiting reporting to key "
 "years necessary to capture the baseline and reporting periods;"
 msgstr ""
-"تم تبسيط نماذج الإبلاغ إلى أقصى حد ممكن - على سبيل المثال، عن طريق إزالة "
-"الجداول غير الأساسية وقصر الإبلاغ على السنوات الرئيسية اللازمة لالتقاط خط "
-"الأساس وفترات الإبلاغ;"
+"تم تبسيط نماذج تقديم التقارير بأكبر قدر ممكن — على سبيل المثال، بحذف الجداول"
+" غير الضرورية والاقتصار في التقارير على السنوات الرئيسية اللازمة لرصد فترات "
+"خط الأساس والتقرير؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:266
 msgid ""
 "Parties are encouraged to provide more narrative information and stories on "
 "their national and regional situations. Additional comment fields have been "
 "added after many of the tables under the indicators to facilitate this;"
 msgstr ""
-"يتم تشجيع الأطراف على تقديم المزيد من المعلومات السردية والقصص عن أوضاعها "
-"الوطنية والإقليمية. وقد أضيفت خانات إضافية للتعليق بعد العديد من الجداول "
-"الواردة تحت المؤشرات لتيسير ذلك;"
+"تُشجع الأطراف على تقديم المزيد من المعلومات النصوص السردية والقصص حول "
+"أوضاعها الوطنية والإقليمية. وتمت إضافة حقول ملاحظات إضافية بعد العديد من "
+"الجداول تحت المؤشرات لتيسير ذلك؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:268
 msgid ""
 "Geospatial information is now grouped by indicator making it easier to "
@@ -752,60 +713,52 @@ msgid ""
 "spatial viewer to allow basemaps, such as high-resolution satellite imagery "
 "to be seen, underneath the geospatial layers used for reporting."
 msgstr ""
-"يتم الآن تجميع المعلومات الجغرافية المكانية الآن حسب المؤشر مما يسهل تصور "
-"الطبقات النقطية ذات الصلة بكل مؤشر تم الإبلاغ عنه. يتم الآن ربط المعلومات "
-"الجغرافية المكانية الداعمة لحساب المؤشرات ديناميكيًا بجدول الإبلاغ الخاص بها"
-" بحيث إذا تغيرت المعلومات المبلغ عنها في الجدول يتم إزالة المعلومات "
-"الجغرافية المكانية تلقائيًا من التقرير الوطني. وبالإضافة إلى ذلك، تمت إضافة "
-"الشفافية إلى العارض المكاني للسماح برؤية خرائط الأساس، مثل صور الأقمار "
-"الصناعية عالية الدقة، أسفل الطبقات الجغرافية المكانية المستخدمة في إعداد "
-"التقارير."
+"تم تجميع المعلومات الجغرافية المكانية حسب المؤشر مما يسهل عرض طبقات الراستر "
+"ذات الصلة بكل مؤشر مُبلغ عنه. وتترابط المعلومات المكانية الداعمة لحساب "
+"المؤشر ديناميكيًا مع جدول التقرير المناظر بحيث إذا تغيرت المعلومات المُسجلة "
+"في الجدول، تُزال المعلومات المكانية تلقائيًا من التقرير الوطني. بالإضافة إلى"
+" ذلك، أضيفت خاصية الشفافية إلى عارض البيانات المكانية للسماح برؤية الخرائط "
+"الأساسية، مثل صور الأقمار الصناعية عالية الدقة، تحت الطبقات المكانية "
+"المستخدمة للتقارير."
 
 #: ../../introduction.md:272
 msgid ""
 "The following reporting tools will be made available to country Parties in "
 "the six official United Nations languages:"
 msgstr ""
-"ستتاح أدوات الإبلاغ التالية للبلدان الأطراف في لغات الأمم المتحدة الرسمية "
-"الست:"
+"وتُتاح أدوات تقديم التقارير التالية للبلدان الأطراف باللغات الرسمية الست "
+"للأمم المتحدة:"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:274
 msgid ""
 "The updated PRAIS 4 user manual, which provides step-by-step procedures for "
 "system access and use;"
 msgstr ""
-"دليل مستخدم PRAIS 4 المحدث، والذي يوفر إجراءات خطوة بخطوة للوصول إلى النظام "
-"واستخدامه;"
+"دليل مستخدم PRAIS 4 المُحدث، والذي يتيح إجراءات خطوة بخطوة لدخول النظام "
+"واستخدامه؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:276
 msgid ""
 "This updated reporting manual, which provides step-by-step methodological "
 "guidance for the preparation of national reports;"
 msgstr ""
-"يقدم هذا الدليل المحدث لإعداد التقارير، والذي يوفر إرشادات منهجية خطوة بخطوة"
-" لإعداد التقارير الوطنية;"
+"دليل تقديم التقارير المُحدث هذا، والذي يوفر توجيهات منهجية خطوة بخطوة لإعداد"
+" التقارير الوطنية؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:278
 msgid ""
 "An updated glossary of reporting terms and definitions included in this "
 "reporting manual;"
-msgstr ""
-"مسرد مصطلحات وتعاريف محدثة لمصطلحات وتعاريف إعداد التقارير المتضمنة في دليل "
-"إعداد التقارير هذا;"
+msgstr "مسرد مصطلحات وتعاريف التقارير المُحدث المُدرج ضمن دليل التقارير هذا؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:280
 msgid ""
 "A set of e-learning videos for each SO providing information on the "
 "reporting steps required;"
 msgstr ""
-"مجموعة من مقاطع الفيديو التعليمية الإلكترونية لكل مكتب من مكاتب الدعم تقدم "
-"معلومات عن خطوات إعداد التقارير المطلوبة;"
+"مجموعة مقاطع فيديو للتعليم الإلكتروني لكل هدف استراتيجي لتقديم معلومات عن "
+"خطوات تقديم التقارير المطلوبة؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:282
 msgid ""
 "A chat functionality, which is embedded in PRAIS and accessible to country "
@@ -815,21 +768,19 @@ msgid ""
 "exchange ideas and communicate with UNCCD technical experts. Users have the "
 "option to choose a language to use in the chat app."
 msgstr ""
-"وظيفة الدردشة، وهي وظيفة مدمجة في نظام استعراض الأداء وتقييم التنفيذ ومتاحة "
-"للبلدان الأطراف والخبراء التقنيين في اتفاقية الأمم المتحدة لمكافحة التصحر "
-"لتيسير التواصل فيما بينهم بطريقة أقل رسمية. كما سيتم إنشاء منتديات للمناقشة "
-"حول الموضوعات ذات الصلة بإعداد التقارير الوطنية لجميع مستخدمي منصة نظام "
-"استعراض الأداء وتقييم التنفيذ لتبادل الأفكار والتواصل مع الخبراء الفنيين في "
-"الاتفاقية. ويتاح للمستخدمين خيار اختيار لغة لاستخدامها في تطبيق الدردشة."
+"خاصية المحادثة المباشرة المدمجة في PRAIS والمتاحة للبلدان الأطراف والخبراء "
+"التقنيين لاتفاقية الأمم المتحدة لمكافحة التصحُّر لتسهيل التواصل بينهم بطريقة"
+" غير رسمية. كما ستُنشأ منتديات مناقشة حول الموضوعات ذات الصلة بالتقارير "
+"الوطنية لجميع مستخدمي منصة PRAIS لتبادل الأفكار والتواصل مع الخبراء التقنيين"
+" للاتفاقية. ويتوفر للمستخدمين خيار اختيار اللغة المستخدمة في تطبيق المحادثة."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:284
 msgid ""
 "In addition, Parties should also refer to the following methodological "
 "reference documents (in English only):"
 msgstr ""
-"وبالإضافة إلى ذلك، ينبغي للأطراف أيضاً الرجوع إلى الوثائق المرجعية المنهجية "
-"التالية (باللغة الإنجليزية فقط):"
+"بالإضافة إلى ذلك، ينبغي للأطراف أيضًا الرجوع إلى المراجع المنهجية التالية "
+"(باللغة الإنجليزية فقط):"
 
 #: ../../introduction.md:286
 msgid ""
@@ -838,47 +789,41 @@ msgid ""
 "indicator-1531-proportion-land-degraded-over-total-land): Proportion of land"
 " that is degraded over total land area;"
 msgstr ""
-"الإصدار الثاني من [الدليل الإرشادي للممارسات السليمة لمؤشر هدف التنمية "
-"المستدامة 15-3-1] (https://www.unccd.int/publications/good-practice-"
-"guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land): نسبة "
-"الأراضي المتدهورة إلى إجمالي مساحة الأرض؛"
+"النسخة 2 من دليل الممارسات الجيدة لمؤشر أهداف التنمية المستدامة 15.3.1: نسبة"
+" الأراضي المتدهورة من إجمالي مساحة الأراضي؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:288
 msgid ""
 "The [Addendum to Version 2 of the Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/resources/manuals-and-guides/addendum-good-"
 "practice-guidance-sdg-indicator-1531-proportion-land);"
 msgstr ""
-"[الإضافة إلى الإصدار 2 من إرشادات الممارسة الجيدة للمؤشر 15-3-1 من مؤشرات "
-"التنمية المستدامة] (https://www.unccd.int/resources/manuals-and-"
-"guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land);"
+"[إضافة النسخة 2 من دليل الممارسات الجيدة لمؤشر أهداف التنمية المستدامة "
+"15.3.1](https://www.unccd.int/resources/manuals-and-guides/addendum-good-"
+"practice-guidance-sdg-indicator-1531-proportion-land)؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:290
 msgid ""
 "[Good Practice Guidance for National Reporting on UNCCD Strategic Objective "
 "3](https://www.unccd.int/resources/manuals-and-guides/good-practice-"
 "guidance-national-reporting-unccd-strategic-objective-3);"
 msgstr ""
-"[إرشادات الممارسات الجيدة لإعداد التقارير الوطنية بشأن الهدف الاستراتيجي 3 "
-"لاتفاقية الأمم المتحدة لمكافحة التصحر] "
-"(https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-"
-"national-reporting-unccd-strategic-objective-3);"
+"[دليل الممارسات الجيدة لتقديم التقارير الوطنية الخاصة بالهدف الاستراتيجي 3 "
+"لاتفاقية الأمم المتحدة لمكافحة "
+"التصحُّر](https://www.unccd.int/resources/manuals-and-guides/good-practice-"
+"guidance-national-reporting-unccd-strategic-objective-3)؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:292
 msgid ""
 "[Good Practice Guidance for National Reporting on UNCCD Strategic Objective "
 "5](https://www.unccd.int/resources/manuals-and-guides/good-practice-"
 "guidance-national-reporting-unccd-strategic-objective-5)."
 msgstr ""
-"[إرشادات الممارسات الجيدة لإعداد التقارير الوطنية بشأن الهدف الاستراتيجي 5 "
-"لاتفاقية الأمم المتحدة لمكافحة التصحر] "
-"(https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-"
-"national-reporting-unccd-strategic-objective-5)."
+"[دليل الممارسات الجيدة لتقديم التقارير الوطنية الخاصة بالهدف الاستراتيجي 5 "
+"لاتفاقية الأمم المتحدة لمكافحة "
+"التصحُّر](https://www.unccd.int/resources/manuals-and-guides/good-practice-"
+"guidance-national-reporting-unccd-strategic-objective-5)."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:294
 msgid ""
 "Furthermore, a report, entitled [The Land "
@@ -887,17 +832,16 @@ msgid ""
 "examples of best practices adopted by countries during the 2022 reporting "
 "cycle and is available for consultation."
 msgstr ""
-"وعلاوة على ذلك، يقدم تقرير بعنوان [قصة الأرض] "
-"(https://www.unccd.int/resources/publications/land-story-country-"
+"فضلًا عن ذلك، يستعرض تقرير بعنوان [قصة "
+"الأراضي](https://www.unccd.int/resources/publications/land-story-country-"
 "experiences-reporting-land-degradation-and-drought) (اتفاقية الأمم المتحدة "
-"لمكافحة التصحر، 2024) أمثلة على أفضل الممارسات التي اعتمدتها البلدان خلال "
-"دورة الإبلاغ لعام 2022، وهو متاح للاطلاع عليه."
+"لمكافحة التصحُّر (UNCCD)، لعام 2024) أمثلة لأفضل الممارسات المعتمدة من الدول"
+" خلال دورة تقارير 2022 وهو متاح للاطلاع."
 
 #: ../../introduction.md:296
 msgid "Data analytics tools"
 msgstr "أدوات تحليل البيانات"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:298
 msgid ""
 "In line with decision 4/COP.16, Conservation International has further "
@@ -908,19 +852,17 @@ msgid ""
 "information on Trends.Earth functionality and updates can be found in the "
 "[Trends.Earth documentation](https://docs.trends.earth/en/latest/)."
 msgstr ""
-"تماشيًا مع المقرر 4/م أ-16، قامت منظمة الحفظ الدولية بتعزيز Trends.Earth "
-"لمعالجة القضايا التقنية الحرجة التي أثارتها البلدان الأطراف خلال عملية "
-"الإبلاغ عن اتفاقية الأمم المتحدة لمكافحة التصحر لعام 2022. وقد تم تحديث "
-"Trends.Earth ليعكس التحسينات الواردة في الإضافة إلى الإصدار 2 من إرشادات "
-"الممارسة الجيدة للمؤشر 15-3-1 من مؤشرات أهداف التنمية المستدامة. يمكن "
-"الاطلاع على مزيد من المعلومات حول وظائف Trends.Earth والتحديثات في [وثائق "
-"Trends.Earth] (https://docs.trends.earth/en/latest/)."
+"تماشيًا مع القرار 4/COP.16، قامت منظمة الحفظ الدولية بتطوير أداة "
+"Trends.Earth لمعالجة المشكلات التقنية الحرجة التي أثارها البلدان الأطراف "
+"خلال دورة تقارير 2022 للاتفاقية. وتم تحديث Trends.Earth لتعكس التحسينات "
+"الواردة في إضافة النسخة 2 من دليل الممارسات الجيدة لمؤشر هدف التنمية "
+"المستدامة 15.3.1. ويمكن الاطلاع على مزيد من المعلومات حول وظائف Trends.Earth"
+" وتحديثاتها في [وثائق Trends.Earth](https://docs.trends.earth/en/latest/)."
 
 #: ../../introduction.md:300
 msgid "Default data"
 msgstr "البيانات الافتراضية"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:302
 msgid ""
 "With a view to reducing the reporting burden and in accordance with the "
@@ -930,13 +872,12 @@ msgid ""
 "these national estimates using other datasets sourced/computed "
 "nationally/locally."
 msgstr ""
-"وبغية التخفيف من عبء الإبلاغ ووفقاً للإجراء المنصوص عليه في المقرر 22/م "
-"أ-11، ستُملأ استمارات نظام استعراض الأداء وتقييم التنفيذ 4 مسبقاً بتقديرات "
-"وطنية افتراضية تستند إلى مصادر البيانات العالمية المتاحة. وستتاح للبلدان "
-"الأطراف إمكانية التحقق من هذه التقديرات الوطنية أو الاستعاضة عنها باستخدام "
-"مجموعات بيانات أخرى يتم الحصول عليها/حسابها وطنياً/محلياً."
+"بهدف تقليل عبء تقديم التقارير ووفقًا للإجراءات المحددة في القرار 22/COP.11، "
+"ستُعبأ نماذج PRAIS 4 مسبقًا بتقديرات وطنية افتراضية تستند إلى مصادر البيانات"
+" العالمية المتاحة. وستتوفر للبلدان الأطراف إمكانية التحقق من هذه التقديرات "
+"الوطنية أو الاستعاضة عنها باستخدام مجموعات بيانات أخرى مُستخرجة/مُحسوبة "
+"وطنيًا/محليًا."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:304
 msgid ""
 "For reporting on indicators related to SO1, SO2 or SO3, countries wishing to"
@@ -948,16 +889,14 @@ msgid ""
 " 15.3.1 and its Addendum and the outputs are compatible with the "
 "requirements for upload to PRAIS."
 msgstr ""
-"بالنسبة للإبلاغ عن المؤشرات المتعلقة بالهدف الاستراتيجي 1 أو الهدف "
-"الاستراتيجي 2 أو الهدف الاستراتيجي 3، تُنصح البلدان الراغبة في استبدال "
-"التقديرات الوطنية الافتراضية باستخدام البيانات المتاحة على المستوى الوطني أو"
-" المحلي وتشجع على استخدام Trends.Earth لإعداد وتحليل ونقل بياناتها إلى نظام "
-"استعراض الأداء وتقييم التنفيذ. ويمكن أيضاً استخدام أدوات أخرى لإعداد "
-"البيانات إذا كان ذلك مفضلاً طالما أن المنهجية المستخدمة تتفق مع وثيقة "
-"إرشادات الممارسات الجيدة بشأن المؤشر 15-3-1 وإضافته وتتوافق المخرجات مع "
-"متطلبات التحميل إلى نظام استعراض الأداء وتقييم التنفيذ."
+"ولتقديم التقارير عن المؤشرات المتعلقة بالأهداف الاستراتيجية 1 أو 2 أو 3، "
+"يُنصح وتُشجع الدول الراغبة في استبدال التقديرات الوطنية الافتراضية باستخدام "
+"بيانات وطنية أو محلية متاحة باستعمال أداة Trends.Earth لإعداد بياناتها "
+"وتحليلها ونقلها إلى PRAIS. ويجوز أيضًا استخدام أدوات أخرى لإعداد البيانات "
+"إذا فُضلت، شريطة أن تتوافق المنهجية المستخدمة مع وثيقة دليل الممارسات الجيدة"
+" لمؤشر هدف التنمية المستدامة 15.3.1 وإضافتها، وأن تكون المخرجات متوافقة مع "
+"متطلبات الرفع إلى PRAIS."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:306
 msgid ""
 "For reporting on indicators related to SO5, default data is also provided in"
@@ -966,18 +905,16 @@ msgid ""
 "validating the default data are provided in this manual in the chapter "
 "related to SO5 reporting."
 msgstr ""
-"بالنسبة للإبلاغ عن المؤشرات المتعلقة بالهدف الاستراتيجي 5، يتم توفير "
-"البيانات الافتراضية أيضًا في مجموعة من ملفات Excel. ويرجى من الأطراف تنزيل "
-"هذه الملفات والتحقق من صحة البيانات الافتراضية على مستوى النشاط المقدمة "
-"فيها. ويرد المزيد من التفاصيل حول التحقق من صحة البيانات الافتراضية في هذا "
-"الدليل في الفصل المتعلق بالإبلاغ عن الهدف الاستراتيجي 5."
+"ولتقديم التقارير عن المؤشرات المتعلقة بالهدف الاستراتيجي 5، تُوفر بيانات "
+"افتراضية أيضًا في مجموعة ملفات Excel. وتُطالب الأطراف بتنزيل هذه الملفات "
+"والتحقق من البيانات الافتراضية الموفرة على مستوى الأنشطة فيها. وتتوفر تفاصيل"
+" إضافية حول المصادقة على البيانات الافتراضية في هذا الدليل في الفصل المتعلق "
+"بتقارير الهدف 5."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:308
 msgid "National boundaries"
 msgstr "الحدود الوطنية"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:310
 msgid ""
 "In order to provide national-level extracts of the global data sources for "
@@ -998,26 +935,22 @@ msgid ""
 "1:4.5 million. Alternative web map services are provided for context at "
 "finer scales to compensate for the scale constraints of UN Clear Map."
 msgstr ""
-"من أجل توفير مقتطفات على المستوى الوطني من مصادر البيانات العالمية لإعداد "
-"التقارير الوطنية، تم استخدام مركز الأمم المتحدة للبيانات الجغرافية المكانية "
-"(المشار إليها فيما يلي باسم بيانات خرائط الأمم المتحدة)، وهي قاعدة بيانات "
-"جغرافية مكانية عالمية تتألف من معلومات عن البلدان والأسماء الجغرافية ومواءمة"
-" متماسكة للحدود الوطنية من أجل تمثيل متسق على نطاق عالمي. وتتضمن بيانات "
-"خرائط الأمم المتحدة خدمات الويب الجغرافية المكانية الجغرافية المكانية التي "
-"تهدف إلى توفير خلفية عالمية سياقية لخدمات الويب العالمية للمجتمع الدولي. "
-"وتحمل خدمة خرائط الأمم المتحدة الرئيسية الحالية على شبكة الإنترنت عنوان "
-"\"خريطة الأمم المتحدة الواضحة\" [^3] (يشار إليها فيما يلي باسم خريطة الأمم "
-"المتحدة الواضحة). وقد صُممت خريطة الأمم المتحدة الواضحة وأنشئت في الأصل "
-"لاستخدام الأمانة العامة للأمم المتحدة ونظامها لموقعها على شبكة الإنترنت "
-"والمنتجات الشبكية ذات الصلة، ولكنها الآن مورد متاح للجمهور يخضع لشروط "
-"الاستخدام. وتتوفر خدمة خريطة الأمم المتحدة الواضحة في نظام الأمم المتحدة "
-"للمعلومات الجغرافية المكانية 4 في أنماط خرائطية مختلفة ولوحات ويب مختلفة "
-"لإعطاء البلدان سياقاً لبيانات التقارير الجغرافية المكانية. ومع ذلك، فإن "
-"خريطة الأمم المتحدة الواضحة لها قيود على مقياس الرسم، حيث لا يمكن استخدامها "
-"بمقياس رسم 1:4.5 مليون. ويتم توفير خدمات خرائط الويب البديلة للسياق بمقاييس "
-"أدق للتعويض عن قيود مقياس رسم خريطة الأمم المتحدة الواضحة."
+"من أجل توفير مستخرجات على المستوى الوطني من مصادر البيانات العالمية للتقارير"
+" الوطنية، تم استخدام مركز البيانات المكانية للأمم المتحدة (المشار إليه فيما "
+"يلي بـ UN Map Data)، وهو قاعدة بيانات جغرافية مكانية عالمية تتكون من معلومات"
+" الأسماء الجغرافية والدول والتنسيق المتسق للحدود الوطنية للتمثيل الموحد على "
+"مستوى عالمي. وتتضمن بيانات خرائط الأمم المتحدة خدمات جغرافية مكانية عبر "
+"الشبكة تهدف إلى توفير خلفية سياق للخدمات العالمية للمجتمع الدولي. وتُسمى "
+"خدمة خرائط الشبكة الرئيسية الحالية للأمم المتحدة بـ Clear Map[^3] (المشار "
+"إليها فيما يلي بـ UN Clear Map). وصُممت وأنِشئت UN Clear Map أصلًا لاستخدام "
+"الأمانة العامة للأمم المتحدة ومنظومتها لمواقعها ومخرجاتها عبر الشبكة، ولكنها"
+" أصبحت الآن موردًا متاحًا للعموم يخضع لشروط الاستخدام. وتتوفر خدمة UN Clear "
+"Map في PRAIS 4 بأنماط كارتوجرافية ولوحات عرض مختلفة لمنح الدول السياق "
+"الجغرافي المكاني لبيانات التقرير. ومع ذلك، فإن لـ UN Clear Map قيودًا على "
+"المقياس، حيث لا يمكن استخدامها لخرائط بمقياس يتجاوز 1:4.5 مليون. وتتوفر "
+"خدمات خرائط بديلة عبر الشبكة للسياق بمقاييس أدق للتعويض عن قيود المقياس في "
+"UN Clear Map."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:312
 msgid ""
 "The UN Clear Map Data has been prepared by the United Nations Geospatial "
@@ -1028,67 +961,46 @@ msgid ""
 "city or area or of its authorities, or concerning the delimitation of its "
 "frontiers or boundaries."
 msgstr ""
-"وقد أعد قسم المعلومات الجغرافية المكانية للأمم المتحدة (قسم رسم الخرائط "
-"سابقاً) في نيويورك بيانات خريطة الأمم المتحدة الواضحة. والتسميات المستخدمة "
-"وطريقة عرض المواد الواردة في بيانات خرائط الأمم المتحدة الواضحة لا تنطوي على"
-" التعبير عن أي رأي كان من جانب اتفاقية الأمم المتحدة لمكافحة التصحر فيما "
-"يتعلق بالوضع القانوني لأي بلد أو إقليم أو مدينة أو منطقة أو سلطاتها، أو فيما"
-" يتعلق بتعيين حدودها أو تخومها."
+"وأُعدت بيانات UN Clear Map من قِبل قسم المعلومات الجغرافية المكانية بالأمم "
+"المتحدة (قسم الكارتوجرافيا سابقًا) في نيويورك. ولا تنطوي التسميات المستخدمة "
+"وعرض المواد الواردة في بيانات UN Clear Map على التعبير عن أي رأي مهما كان من"
+" جانب الاتفاقية بشأن الوضع القانوني لأي بلد أو إقليم أو مدينة أو منطقة أو "
+"سلطاتها، أو بشأن تحديد حدودها أو تخومها."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:314
 msgid ""
 "For cartographic representation and preparation of the default data, PRAIS "
-"uses the international boundaries of countries taken from the United Nations"
-" Map 0 geodata which is suitable for 1:1 million scale representation and "
-"serves global mapping purposes as opposed to local mapping. Countries can "
-"opt to use an alternative country border by uploading the polygon directly "
-"to the PRAIS spatial data viewer. However, should Parties opt to use an "
-"alternative country boundary layer, they are encouraged to engage with the "
-"Second Administrative Level Boundaries ([SALB](https://salb.un.org/)) "
-"programme of the Geospatial Information Section & Statistics Division. The "
-"programme’s objective is to promote accessible, interoperable and global "
-"data and information on subnational units and boundaries. Participation in "
-"the programme will ensure Member States of the United Nations will avail of "
-"a global repository of authoritative information and geospatial data about "
-"the administrative unit structure of countries down to the second "
-"subnational level, and through time. Parties should engage with the SALB "
-"program directly by sending an email to <salb@un.org>."
+"uses the international boundaries of countries taken from the UN Geodata "
+"which is suitable for 1:1 million scale representation and serves global "
+"mapping purposes as opposed to local mapping. Countries can opt to use an "
+"alternative country border by uploading the polygon directly to the PRAIS "
+"spatial data viewer. Should Parties opt to use an alternative country border"
+" to that provided in PRAIS, they can upload it directly to the PRAIS spatial"
+" data viewer, recalculate all geospatial indicators via Trends.Earth and "
+"upload the results to PRAIS. Please note: all polygon files uploaded to "
+"PRAIS should be simplified as much as possible. The spatial data viewer has "
+"limitations on the number of vertices it can process in a browser. Highly "
+"detailed or complex polygons will be simplified automatically for display "
+"purposes in the PRAIS spatial viewer."
 msgstr ""
-"لتمثيل الخرائط وإعداد البيانات الافتراضية وإعداد البيانات الافتراضية، يستخدم"
-" نظام استعراض الأداء وتقييم التنفيذ الحدود الدولية للبلدان المأخوذة من "
-"البيانات الجغرافية لخريطة الأمم المتحدة 0 وهي مناسبة للتمثيل بمقياس رسم 1:1 "
-"مليون وتخدم أغراض رسم الخرائط العالمية بدلاً من رسم الخرائط المحلية. يمكن "
-"للبلدان أن تختار استخدام حدود قطرية بديلة عن طريق تحميل المضلع مباشرة إلى "
-"عارض البيانات المكانية لنظام استعراض الأداء وتقييم التنفيذ. ومع ذلك، إذا "
-"اختارت الأطراف استخدام طبقة حدود قطرية بديلة، يتم تشجيعها على المشاركة في "
-"برنامج حدود المستوى الإداري الثاني ([SALB](https://salb.un.org/) التابع "
-"لشعبة المعلومات الجغرافية المكانية وشعبة الإحصاءات. ويتمثل هدف البرنامج في "
-"تعزيز إمكانية الوصول إلى بيانات ومعلومات عن الوحدات والحدود دون الوطنية "
-"وقابليتها للتشغيل البيني وعالميتها. وستكفل المشاركة في البرنامج استفادة "
-"الدول الأعضاء في الأمم المتحدة من مستودع عالمي للمعلومات والبيانات الجغرافية"
-" المكانية الموثوقة عن هيكل الوحدات الإدارية للبلدان وصولاً إلى المستوى دون "
-"الوطني الثاني، وعبر الزمن. وينبغي للأطراف المشاركة في برنامج SALB مباشرة عن "
-"طريق إرسال بريد إلكتروني إلى <salb@un.org>."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:321
+#: ../../introduction.md:318
 msgid ""
 "Careful consideration should be given to the use of an alternative national "
 "border in that it must be consistent with the total land area reported under"
 " SO 1-1. Otherwise, discrepancies may arise in the reporting data derived "
 "from geospatial analysis using that border."
 msgstr ""
-"ينبغي النظر بعناية في استخدام حدود وطنية بديلة من حيث أنها يجب أن تكون متسقة"
-" مع إجمالي مساحة الأرض المبلغ عنها في إطار SO 1-1. وإلا فقد تنشأ اختلافات في"
-" بيانات الإبلاغ المستمدة من التحليل الجغرافي المكاني باستخدام تلك الحدود."
+"وينبغي إيلاء اهتمام عناية لاستخدام حدود وطنية بديلة بحيث تكون متسقة مع "
+"إجمالي مساحة الأراضي المُسجلة تحت مؤشر الهدف الاستراتيجي 1-1. وإلا قد تنشأ "
+"التناقضات والتفاوتات في بيانات التقارير المشتقة من التحليل المكاني باستخدام "
+"تلك الحدود."
 
-#: ../../introduction.md:325
+#: ../../introduction.md:322
 msgid "Open data sharing"
-msgstr "فتح مشاركة البيانات"
+msgstr "المشاركة المفتوحة للبيانات"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:327
+#: ../../introduction.md:324
 msgid ""
 "By its decision 16/COP.11, the COP requested the secretariat to ensure that "
 "data and information from the reporting process are available and accessible"
@@ -1096,13 +1008,13 @@ msgid ""
 "requests the secretariat to further analyse and present global and regional "
 "data in interactive formats."
 msgstr ""
-"طلب مؤتمر الأطراف، في مقرره 16/م أ-11، إلى الأمانة أن تكفل إتاحة البيانات "
-"والمعلومات المستمدة من عملية الإبلاغ وإتاحتها للجميع، ولا سيما على الصعيدين "
-"الوطني والمحلي. ويطلب المقرر 11/م أ-14 إلى الأمانة أن تواصل تحليل البيانات "
-"العالمية والإقليمية وعرضها في أشكال تفاعلية."
+"بموجب القرار 16/COP.11، طلب مؤتمر الأطراف من الأمانة العامة كفالة أن تكون "
+"البيانات والمعلومات الناتجة عن عملية تقديم التقارير متاحة ويمكن الوصول إليها"
+" من الجميع، لا سيما على المستويين الوطني والمحلي. ويطلب القرار 11/COP.14 من "
+"الأمانة العامة إجراء المزيد من التحليل وعرض البيانات العالمية والإقليمية في "
+"صيغ تفاعلية."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:330
+#: ../../introduction.md:327
 msgid ""
 "In order to maximize the interoperability and impact of data submitted by "
 "Parties and to allow the secretariat to make regional and global aggregate "
@@ -1111,14 +1023,13 @@ msgid ""
 " Public Domain Dedication 1.0 (CC0), or the most open Creative Commons "
 "Attribution 4.0 International (CC BY) licence."
 msgstr ""
-"من أجل تعظيم قابلية التشغيل البيني للبيانات المقدمة من الأطراف وأثرها "
-"وللسماح للأمانة بإعداد معلومات مجمعة إقليمية وعالمية من التقارير الوطنية، "
-"تُشجَّع جميع الأطراف على ترخيص البيانات المبلغة وطنياً بشكل مفتوح إما بموجب "
-"رخصة المشاع الإبداعي العالمي للملكية العامة المشاع 1.0 (CC0)، أو رخصة المشاع"
-" الإبداعي الأكثر انفتاحاً نَسب الإسناد 4.0 الدولي (CC BY)."
+"وبغية تعظيم إمكانية التشغيل البيني وأثر البيانات المقدمة من الأطراف ولتمكين "
+"الأمانة العامة من إعداد معلومات تجميعية إقليمية وعالمية من التقارير الوطنية،"
+" يُحث جميع الأطراف على التجميع المفتوح وتدبير البيانات الوطنية المجهزة بموجب"
+" ترخيص المشاع الإبداعي المشاع العام المخصص 1.0 (CC0)، أو ترخيص المشاع "
+"الإبداعي نَسب المُصنَّف 4.0 الدولي (CC BY) الأكثر انفتاحًا."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:332
+#: ../../introduction.md:329
 msgid ""
 "The CC0 public domain dedication enables unrestricted reuse without the need"
 " for attribution, which can be especially useful for foundational datasets "
@@ -1126,14 +1037,12 @@ msgid ""
 " typically the case for those datasets related to land cover and land "
 "degradation assessments."
 msgstr ""
-"يتيح الإهداء الخاص بالمجال العام CC0 إعادة الاستخدام غير المقيد دون الحاجة "
-"إلى الإسناد، وهو ما يمكن أن يكون مفيدًا بشكل خاص لمجموعات البيانات التأسيسية"
-" أو عندما تكون إعادة الاستخدام من قبل الباحثين أو الوكالات الدولية أولوية، "
-"كما هو الحال عادةً بالنسبة لمجموعات البيانات المتعلقة بتقييمات الغطاء الأرضي"
-" وتدهور الأراضي."
+"يتيح ترخيص المشاع العام CC0 إمكانية إعادة الاستخدام دون قيود ودون الحاجة "
+"لنَسب المصدر، وهو ما يكون مفيدًا خصوصًا لمجموعات البيانات الأساسية أو عندما "
+"تكون إعادة الاستخدام من قِبل الباحثين أو الوكالات الدولية أولوية، كما هو "
+"الحال عادة لمجموعات البيانات المتعلقة بتقييمات الغطاء الأرضي وتدهور الأراضي."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:334
+#: ../../introduction.md:331
 msgid ""
 "The CC BY licence is the most open of the Creative Commons licenses, making "
 "it a fundamental legal tool for data interoperability and supporting broad "
@@ -1145,67 +1054,58 @@ msgid ""
 "UN system and as required by the European Commission’s requirement on high-"
 "value datasets."
 msgstr ""
-"رخصة CC BY هي أكثر تراخيص المشاع الإبداعي انفتاحًا، مما يجعلها أداة قانونية "
-"أساسية للتشغيل البيني للبيانات ودعم إعادة الاستخدام والتكييف على نطاق واسع. "
-"رخصة CC BY لها شرط واحد فقط: الإسناد. عند إضافة المزيد من شروط الترخيص، يصبح"
-" من الصعب دمج البيانات التي تستخدم تراخيص أخرى والتحكم في ترخيص مجموعة "
-"البيانات أو التقرير أو المنتج الناتج. كما أن رخصة CC BY معترف بها من قبل "
-"مجتمعات البيانات العالمية كمعيار ذهبي لتحقيق أقصى قدر من المشاركة، بما في "
-"ذلك عبر منظومة الأمم المتحدة وكما هو مطلوب من قبل المفوضية الأوروبية بشأن "
-"مجموعات البيانات عالية القيمة."
+"يُعد ترخيص CC BY الأكثر انفتاحًا بين تراخيص المشاع الإبداعي، مما يجعله أداة "
+"قانونية أساسية للتشغيل البيني للبيانات ودعم إعادة الاستخدام والتكيف على نطاق"
+" واسع. ويتضمن ترخيص CC BY شرطًا واحدًا فقط: نَسب المصدر. وعند إضافة المزيد "
+"من شروط الترخيص، يصبح من الصعب دمج البيانات التي تستخدم تراخيص أخرى والتحكم "
+"في ترخيص مجموعة البيانات أو التقرير أو المنتج الناتج. وتعتبر المجتمعات "
+"العالمية للبيانات ترخيص CC BY معيارًا ذهبيًا لتعظيم المشاركة، بما في ذلك عبر"
+" منظومة الأمم المتحدة ووفقًا لمتطلبات الكوميسيون الأوروبي بشأن البيانات "
+"عالية القيمة."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:336
+#: ../../introduction.md:333
 msgid ""
 "By applying the CC0 public domain dedication or CC BY licences to national "
 "datasets:"
 msgstr ""
-"من خلال تطبيق إهداء المجال العام CC0 أو تراخيص CC BY على مجموعات البيانات "
-"الوطنية:"
+"بتطبيق ترخيص المشاع العام CC0 أو تراخيص CC BY على مجموعات البيانات الوطنية:"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:338
+#: ../../introduction.md:335
 msgid ""
 "Parties contribute to efficient, evidence-based policy and scientific "
 "cooperation at all levels;"
 msgstr ""
-"تساهم الأطراف في وضع سياسات فعالة قائمة على الأدلة والتعاون العلمي على جميع "
-"المستويات;"
+"تسهم الأطراف في بناء سياسات قائمة على الأدلة والتعاون العلمي الفعال على جميع"
+" المستويات؛"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:340
+#: ../../introduction.md:337
 msgid ""
 "Parties strengthen the global visibility and impact of their national work "
 "on land and sustainability;"
 msgstr ""
-"تعزز الأطراف الرؤية العالمية والأثر العالمي لعملها الوطني في مجال الأراضي "
-"والاستدامة;"
+"تعزز الأطراف الرؤية العالمية وأثر عملها الوطني بشأن الأراضي والاستدامة؛"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:342
+#: ../../introduction.md:339
 msgid ""
 "Parties’ data can easily be reused by other agencies and organizations, "
 "including regional hubs, giving them most freedom of the licence they want "
 "to publish under;"
 msgstr ""
-"يمكن إعادة استخدام بيانات الأطراف بسهولة من قبل الوكالات والمنظمات الأخرى، "
-"بما في ذلك المراكز الإقليمية، مما يتيح لهم معظم الحرية في الترخيص الذي "
-"يريدون النشر بموجبه;"
+"يمكن إعادة استخدام بيانات الأطراف بسهولة من قِبل الوكالات والمؤسسات الأخرى، "
+"بما في ذلك المراكز الإقليمية، مما يمنحها حرية الترخيص الذي ترغب في النشر "
+"بموجبه؛"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:344
+#: ../../introduction.md:341
 msgid ""
 "Parties enable the seamless integration of their data into the UNCCD’s "
 "aggregate information products based on national reports such as those "
 "displayed on the UNCCD Data Dashboard (that is licensed as CC BY-NC)."
 msgstr ""
-"تمكن الأطراف من إدماج بياناتها بسلاسة في منتجات المعلومات المجمعة لاتفاقية "
-"الأمم المتحدة لمكافحة التصحر استنادًا إلى التقارير الوطنية مثل تلك المعروضة "
-"على لوحة بيانات اتفاقية الأمم المتحدة لمكافحة التصحر (المرخصة بموجب CC BY-"
-"NC)."
+"تمكن الأطراف من الدمج السلس لبياناتها ضمن المنتجات المعلوماتية التجميعية "
+"للاتفاقية القائمة على التقارير الوطنية مثل تلك المعروضة في لوحة بيانات "
+"الاتفاقية (المُرخصة بـ CC BY-NC)."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:346
+#: ../../introduction.md:343
 msgid ""
 "These guidelines are designed to maximize the interoperability of submitted "
 "national data by clearly defining its conditions of reuse. Interoperability "
@@ -1214,38 +1114,34 @@ msgid ""
 "systems, which requires reuse conditions that are both explicit and "
 "standardized."
 msgstr ""
-"وقد صُممت هذه المبادئ التوجيهية لزيادة قابلية التشغيل البيني للبيانات "
-"الوطنية المقدمة من خلال تحديد شروط إعادة استخدامها بوضوح. ولا يمكن تحقيق "
-"قابلية التشغيل البيني والتآزر في تبادل المعلومات بين الاتفاقيات إلا عندما "
-"يمكن إعادة استخدام البيانات بشكل قانوني وموثوق ومتسق عبر الأنظمة، وهو ما "
-"يتطلب شروط إعادة الاستخدام الواضحة والموحدة."
+"وصُممت هذه الإرشادات لتعظيم التشغيل البيني للبيانات الوطنية المقدمة من خلال "
+"تحديد شروط إعادة استخدامها بوضوح. ولا تتاح إمكانية التشغيل البيني والتآزر في"
+" تبادل المعلومات بين الاتفاقيات إلا عندما يمكن إعادة استخدام البيانات "
+"قانونيًا وبثقة واتساق عبر الأنظمة، وهو ما يتطلب شروط إعادة استخدام صريحة "
+"ومعيارية."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:348
+#: ../../introduction.md:345
 msgid ""
 "You can read more about the licences in Annex I of these guidelines and you "
 "can find comprehensive information at the [Creative Commons "
 "website](https://creativecommons.org/share-your-work/cclicenses/)."
 msgstr ""
-"يمكنك قراءة المزيد عن التراخيص في الملحق الأول من هذه الإرشادات ويمكنك "
-"العثور على معلومات شاملة على [موقع المشاع الإبداعي] "
-"(https://creativecommons.org/share-your-work/cclicenses/)."
+"ويمكن قراءة المزيد حول التراخيص في الملحق الأول لهذه الإرشادات، وتتوفر "
+"معلومات شاملة على [موقع المشاع الإبداعي](https://creativecommons.org/share-"
+"your-work/cclicenses/)."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:350
+#: ../../introduction.md:347
 msgid ""
 "Taking the above guidelines into account, Parties have the option to fill "
 "out a User Specific Licence (USL) form in PRAIS and choose whether to: (i) "
 "use an existing Creative Commons licence; or (ii) opt for an exemption and "
 "select a custom licence."
 msgstr ""
-"مع أخذ المبادئ التوجيهية المذكورة أعلاه في الاعتبار، يتاح للأطراف خيار ملء "
-"استمارة الترخيص الخاص بالمستخدم (USL) في نظام استعراض الأداء وتقييم الأداء "
-"واختيار ما إذا كان (1) استخدام ترخيص المشاع الإبداعي الحالي؛ أو (2) اختيار "
-"الإعفاء واختيار ترخيص مخصص."
+"وبالأخذ بالإرشادات أعلاه في الحسبان، تتور للأطراف إمكانية تعبئة نموذج ترخيص "
+"محدد للمستخدم (USL) في PRAIS والاختيار بين: (أ) استخدام ترخيص المشاع "
+"الإبداعي قائم؛ أو (ب) اختيار استثناء وتحديد ترخيص مخصص."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:352
+#: ../../introduction.md:349
 msgid ""
 "It is important to note that most of the default datasets have been licensed"
 " by their respective data providers under a Creative Commons Attribution 4.0"
@@ -1256,30 +1152,27 @@ msgid ""
 "information on the issue of data sharing and how to complete the USL form, "
 "see Annex I of this reporting manual."
 msgstr ""
-"من المهم أن نلاحظ أن معظم مجموعات البيانات الافتراضية مرخصة من قبل مزودي "
-"البيانات الخاصة بها بموجب رخصة المشاع الإبداعي نَسب المُصنَّف 4.0 دولي (CC "
-"BY 4.0). وبالتالي، تخضع مجموعات البيانات هذه للشرط الوحيد لهذا الترخيص: "
-"الإسناد. وبالتالي، يجب على مستخدمي مجموعات البيانات هذه، مثل اتفاقية الأمم "
-"المتحدة لمكافحة التصحر وأطرافها، أن يشيروا إلى مصدر الترخيص في حال استخدام "
-"مجموعات البيانات الافتراضية هذه في تقاريرهم الوطنية. للمزيد من المعلومات حول"
-" مسألة مشاركة البيانات وكيفية ملء استمارة رخصة استخدام البيانات الافتراضية، "
-"انظر المرفق الأول من دليل الإبلاغ هذا."
+"ومن المهم الإشارة إلى أن معظم مجموعات البيانات الافتراضية مرخصة من مزودي "
+"البيانات الأصليين بموجب ترخيص المشاع الإبداعي نَسب المُصنَّف 4.0 الدولي (CC "
+"BY 4.0). وبذلك تخضع هذه البيانات للشرط الوحيد لذلك الترخيص: نَسب المصدر. "
+"ويجب على مستخدمي مجموعات البيانات هذه (مثل الاتفاقية وأطرافها) نَسب مصدر "
+"الترخيص عند استخدام هذه البيانات الافتراضية في تقاريرهم الوطنية. وللمزيد من "
+"المعلومات حول قضية مشاركة البيانات وكيفية إكمال نموذج USL، انظر الملحق الأول"
+" من دليل التقارير هذا."
 
-#: ../../introduction.md:354
+#: ../../introduction.md:351
 msgid "Reporting frequency"
-msgstr "معدل تكرار عمليات الإبلاغ"
+msgstr "دورية تقديم التقارير"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:356
+#: ../../introduction.md:353
 msgid ""
 "By its decision 15/COP.13, the COP approved a four-year frequency for "
 "national reporting (Table 6)."
 msgstr ""
-"ووافق مؤتمر الأطراف، بموجب مقرره 15/م أ-13، على تواتر تقديم التقارير الوطنية"
-" كل أربع سنوات (الجدول 6)."
+"بموجب القرار 15/COP.13، اعتمد مؤتمر الأطراف دورية أربع سنوات لتقديم التقارير"
+" الوطنية (الجدول 6)."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:358
+#: ../../introduction.md:355
 msgid ""
 "During the 2018 reporting process, Parties reported data and information for"
 " the period 2000–2015, which serves as the baseline for SDG indicator 15.3.1"
@@ -1287,13 +1180,13 @@ msgid ""
 "report the status of land condition and the SDG indicator 15.3.1 every four "
 "years, thereby increasing the reporting periods in four-year increments."
 msgstr ""
-"خلال عملية الإبلاغ في عام 2018، أبلغت الأطراف عن بيانات ومعلومات عن الفترة "
-"2000-2015، والتي تُستخدم كخط أساس للمؤشر 15-3-1 والمؤشرات الفرعية التابعة "
-"له. بعد هذا الإبلاغ الأولي، ستواصل الأطراف الإبلاغ عن حالة الأراضي والمؤشر "
-"15-3-1 كل أربع سنوات، وبالتالي زيادة فترات الإبلاغ بزيادات مدتها أربع سنوات."
+"خلال عملية تقديم التقارير لعام 2018، قدمت الأطراف بيانات ومعلومات للفترة "
+"2000–2015، والتي تُعد خط الأساس لمؤشر هدف التنمية المستدامة 15.3.1 ومؤشراته "
+"الفرعية. وبعد هذا التقرير الأولي، تواصل الأطراف الإبلاغ عن حالة الأراضي "
+"ومؤشر هدف التنمية المستدامة 15.3.1 كل أربع سنوات، مما يزيد فترات التقارير "
+"بزيادات قدرها أربع سنوات."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:361
+#: ../../introduction.md:358
 msgid ""
 "Figure 1 shows that the first reporting period (Period 1) completed in 2022,"
 " covered the timeframe from January 1st, 2016, to December 31st, 2019. The "
@@ -1305,99 +1198,88 @@ msgid ""
 " incremental in time, each reporting period incorporating four additional "
 "years compared to the previous one."
 msgstr ""
-"يوضح الشكل 1 أن فترة الإبلاغ الأولى (الفترة 1) التي اكتملت في عام 2022، غطت "
-"الإطار الزمني من 1 يناير/كانون الثاني 2016 إلى 31 ديسمبر/كانون الأول 2019. "
-"وشملت نتائج تقييم الفترة الأولى تقدير نسبة الأراضي المتدهورة (المؤشر 15-3-1 "
-"من أهداف التنمية المستدامة) لعام 2019 (t1). ستعكس التقارير اللاحقة حالة "
-"الأراضي في نهاية عام 2023 (t2) و2027 (t3) وربما 2031 (t4)، مع دمج التغييرات "
-"التي حدثت منذ نهاية فترة خط الأساس (من 1 يناير/كانون الثاني 2016). وبالتالي "
-"فإن الإبلاغ يكون تدريجيًا من حيث الزمن، حيث تتضمن كل فترة إبلاغ أربع سنوات "
-"إضافية مقارنة بالفترة السابقة."
+"ويوضِّح الشكل 1 أن فترة التقرير الأولى (الفترة 1) المكتملة في عام 2022، غطت "
+"الإطار الزمني من 1 يناير 2016 إلى 31 ديسمبر 2019. وتضمنت نتائج تقييم الفترة "
+"الأولى تقدير نسبة الأراضي المتدهورة (مؤشر التنمية المستدامة 15.3.1) لعام "
+"2019 (t1). وستعكس التقارير اللاحقة حالة الأراضي في نهاية عام 2023 (t2)، "
+"و2027 (t3)، واحتماليًا 2031 (t4)، مدمجة التغيرات التي حدثت منذ نهاية فترة خط"
+" الأساس (من 1 يناير 2016). وبناءً عليه، فإن تقديم التقارير يتصاعد زمنيًا، "
+"وتدمج كل فترة تقرير أربع سنوات إضافية مقارنة بالفترة السابقة."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:366
+#: ../../introduction.md:363
 msgid ""
 "_**Figure 1.** Timeline illustrating the four-year UNCCD reporting frequency"
 " for SDG indicator 15.3.1_"
 msgstr ""
-"_**** الشكل 1.** الجدول الزمني الذي يوضح تواتر الإبلاغ عن اتفاقية الأمم "
-"المتحدة لمكافحة التصحر كل أربع سنوات للمؤشر 15-3-1_"
+"_**الشكل 1**. الجدول الزمني الموضَّح لدورية تقارير الاتفاقية كل أربع سنوات "
+"لمؤشر هدف التنمية المستدامة 15.3.1_"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:368
+#: ../../introduction.md:365
 msgid "![](/img/fig1.png)"
-msgstr "![] (/img/fig1.png)"
+msgstr "![](/img/fig1.png)"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:370
+#: ../../introduction.md:367
 msgid ""
 "_**Table 6**. The first column shows the year of reporting to the UNCCD; the"
 " second column shows the relevant reporting periods for each report "
 "submission._"
 msgstr ""
-"_** الجدول 6**. يبين العمود الأول سنة تقديم التقرير إلى اتفاقية الأمم "
-"المتحدة لمكافحة التصحر؛ ويبين العمود الثاني فترات الإبلاغ ذات الصلة لكل "
-"تقرير مقدم."
+"_**الجدول 6**. يوضِّح العمود الأول سنة تقديم التقرير للاتفاقية؛ ويوضِّح "
+"العمود الثاني فترات التقارير ذات الصلة لكل تقرير."
 
-#: ../../introduction.md:377
+#: ../../introduction.md:374
 msgid "UNCCD Reporting Process"
-msgstr "عملية الإبلاغ الخاصة باتفاقية الأمم المتحدة لمكافحة التَصحُّر"
+msgstr "عملية تقديم التقارير للاتفاقية"
 
-#: ../../introduction.md:378
+#: ../../introduction.md:375
 msgid "UNCCD Reporting Periods"
-msgstr "فترات الإبلاغ الخاصة باتفاقية الأمم المتحدة لمكافحة التَصحُّر"
+msgstr "فترات تقارير الاتفاقية"
 
-#: ../../introduction.md:379
+#: ../../introduction.md:376
 msgid "2018"
 msgstr "2018"
 
-#: ../../introduction.md:380
+#: ../../introduction.md:377
 msgid "Baseline 2000-2015"
 msgstr "خط الأساس 2000-2015"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:381
+#: ../../introduction.md:378
 msgid "2022"
 msgstr "2022"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:382
+#: ../../introduction.md:379
 msgid "2016-2019"
 msgstr "2016-2019"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:383
+#: ../../introduction.md:380
 msgid "**2026**"
 msgstr "**2026**"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:384
+#: ../../introduction.md:381
 msgid "**2016-2023**"
-msgstr "**2016-2023"
+msgstr "**2016-2023**"
 
-#: ../../introduction.md:385
+#: ../../introduction.md:382
 msgid "2030"
 msgstr "2030"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:386
+#: ../../introduction.md:383
 msgid "2016-2027"
 msgstr "2016-2027"
 
-#: ../../introduction.md:387
+#: ../../introduction.md:384
 msgid "2034"
 msgstr "2034"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:388
+#: ../../introduction.md:385
 msgid "2016-2031"
 msgstr "2016-2031"
 
-#: ../../introduction.md:391
+#: ../../introduction.md:388
 msgid "Recalculations and time series consistency"
-msgstr "عمليات إعادة الحساب واتساق السلاسل الزمنية"
+msgstr "إعادة الحسابات واتساق السلاسل الزمنية"
 
-#: ../../introduction.md:393
+#: ../../introduction.md:390
 msgid ""
 "Advances in methodologies and data availability may require periodic "
 "recalculations of previously submitted national estimates. While "
@@ -1405,13 +1287,12 @@ msgid ""
 "ensure the consistency of the time series and the comparability between the "
 "baseline and future monitoring data."
 msgstr ""
-"قد يتطلب التقدم في المنهجيات وتوافر البيانات عمليات إعادة حساب دورية "
-"لتقديرات وطنية سبق تقديمها. في حين أن عمليات إعادة الحساب قد تتطلب تحسينات "
-"من حيث تحديد الهدف، فإنها تضمن اتساق التسلسل الزمني وإمكانية المقارنة بين "
-"بيانات خط الأساس وبيانات الرصد المستقبلية."
+"قد تتطلب التطورات في المنهجيات وتوافر البيانات إجراء إعادة حسابات دورية "
+"للتقديرات الوطنية المقدمة سابقًا. وبينما قد تتطلب إعادة الحسابات تعديلات من "
+"حيث وضع الغايات، إلا أنها تكفل اتساق السلسلة الزمنية والمقارنة بين خط الأساس"
+" وبيانات الرصد المستقبلية."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:396
+#: ../../introduction.md:393
 msgid ""
 "For instance, given the evolution of the calculation methods presented in "
 "version 2 of the [Good Practice Guidance for SDG Indicator "
@@ -1425,36 +1306,34 @@ msgid ""
 "forms have already been recalculated for country Parties using the new "
 "calculation methods."
 msgstr ""
-"فعلى سبيل المثال، نظرًا لتطور طرق الحساب المعروضة في الإصدار 2 من [إرشادات "
-"الممارسات الجيدة للمؤشر 15-3-1 من مؤشرات أهداف التنمية المستدامة] "
-"(https://www.unccd.int/publications/good-practice-guidance-sdg-"
-"indicator-1531-proportion-land-degraded-over-total-land) و[الإضافة] "
-"(https://www.unccd.int/resources/manuals-and-guides/addendum-good-practice-"
-"guidance-sdg-indicator-1531-proportion-land)، يوصى بإعادة حساب التقديرات "
-"المقدمة سابقًا لجميع مؤشرات الهدف الاستراتيجي 1، بما في ذلك المؤشر 15-3-1، "
-"وإدراجها في التقرير الوطني الذي سيقدم في عام 2026. وقد أعيد بالفعل حساب "
-"التقديرات الوطنية الافتراضية المقدمة من خلال استمارات نظام استعراض الأداء "
-"وتقييم التنفيذ للبلدان الأطراف باستخدام طرق الحساب الجديدة."
+"فعلى سبيل المثال، بالنظر إلى تطور طرق الحساب المعروضة في النسخة 2 من [دليل "
+"الممارسات الجيدة لمؤشر هدف التنمية المستدامة "
+"15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
+"indicator-1531-proportion-land-degraded-over-total-land) "
+"و[إضافتها](https://www.unccd.int/resources/manuals-and-guides/addendum-good-"
+"practice-guidance-sdg-indicator-1531-proportion-land)، يُوصى بإعادة حساب "
+"التقديرات المقدمة سابقًا لجميع مؤشرات الهدف الاستراتيجي 1، بما في ذلك مؤشر "
+"التنمية المستدامة 15.3.1، وتضمينها في التقرير الوطني المقرر تقديمه في عام "
+"2026. وتتم إعادة حساب التقديرات الوطنية الافتراضية الموفرة عبر نماذج PRAIS "
+"بالفعل للبلدان الأطراف باستخدام طرق الحساب الجديدة."
 
-#: ../../introduction.md:399
+#: ../../introduction.md:396
 msgid ""
 "For a broader discussion on the issue of recalculations, see chapter 6 of "
 "version 2 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
 msgstr ""
-"للاطلاع على مناقشةٍ أوسع نطاقاً بشأن مسألة إعادة الحساب، يُرجى الرجوع إلى "
-"الفصل 6 من الإصدار الثاني من [الدليل الإرشادي للممارسات السليمة لمؤشر هدف "
-"التنمية المستدام 15-3-1](https://www.unccd.int/publications/good-practice-"
-"guidance-sdg-indicator-1531-proportion-land-degraded-over-total-land)."
+"وللاطلاع على مناقشة أوسع حول قضية إعادة الحسابات، انظر الفصل 6 من النسخة 2 "
+"من [دليل الممارسات الجيدة لمؤشر هدف التنمية المستدامة "
+"15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
+"indicator-1531-proportion-land-degraded-over-total-land)."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:401
+#: ../../introduction.md:398
 msgid "Submission of the national report, validation and review process"
-msgstr "عملية تقديم التقرير الوطني والتحقق من صحته ومراجعته"
+msgstr "تقديم التقرير الوطني والمصادقة وعملية المراجعة"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:403
+#: ../../introduction.md:400
 msgid ""
 "Building on the experiences and lessons learned from the use of PRAIS in the"
 " 2022 reporting process, a next generation of the on-line platform was "
@@ -1462,14 +1341,12 @@ msgid ""
 "communication and quality assurance functionalities. The design and upgrade "
 "of the platform was carried out bearing in mind the following objectives:"
 msgstr ""
-"استنادًا إلى الخبرات والدروس المستفادة من استخدام نظام استعراض الأداء وتقييم"
-" التنفيذ في عملية إعداد تقارير عام 2022، تم تطوير الجيل التالي من المنصة "
-"الإلكترونية لعملية إعداد تقارير عام 2026 لتحسين وظائف إدخال البيانات "
-"والمراجعة والاتصال وضمان الجودة. تم تصميم المنصة وتحديثها مع مراعاة الأهداف "
-"التالية:"
+"استنادًا إلى التجارب والدروس المستفادة من استخدام PRAIS في دورة تقارير 2022،"
+" تم تطوير الجيل التالي من المنصة عبر الشبكة لدورة تقارير 2026 لتحسين إدخال "
+"البيانات والمراجعة والتواصل وخاصيات ضمان الجودة. وتم تصميم وتحديث المنصة مع "
+"مراعاة الأهداف التالية:"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:405
+#: ../../introduction.md:402
 msgid ""
 "A) Quality Assurance - To ensure that national reports are comprehensive, "
 "internally consistent, aligned with UNCCD guidelines and well-integrated, "
@@ -1478,50 +1355,44 @@ msgid ""
 "coherence of submitted data before it is used by the secretariat in "
 "aggregate reports and derivative information products."
 msgstr ""
-"أ) ضمان الجودة - لضمان أن تكون التقارير الوطنية شاملة ومتسقة داخلياً ومتسقة "
-"مع المبادئ التوجيهية لاتفاقية الأمم المتحدة لمكافحة التصحر ومتكاملة بشكل "
-"جيد، ينبغي للمنصة تنفيذ قواعد تحقق قوية. تعمل هذه القواعد كآليات لمراقبة "
-"الجودة للتحقق من دقة واكتمال واتساق البيانات المقدمة قبل أن تستخدمها الأمانة"
-" في التقارير المجمعة ومنتجات المعلومات المشتقة."
+"أ) ضمان الجودة - لكفالة أن تكون التقارير الوطنية شاملة ومتسقة داخليًا "
+"ومتوافقة مع إرشادات الاتفاقية ومدمجة جيدًا، يجب أن تطبق المنصة قواعد مصادقة "
+"قوية. وتخدم هذه القواعد كميكانيزمات ضبط جودة للتحقق من دقة واكتمال واتساق "
+"البيانات المقدمة قبل استخدامها من الأمانة العامة في التقارير التجميعية "
+"والمنتجات المعلوماتية المشتقة."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:407
+#: ../../introduction.md:404
 msgid ""
 "B) Transparency – the platform should enable access to all the documentation"
 " necessary for understanding how the indicators should be reported, "
 "including explanations of key terms, the default data sources, definitions "
 "and the methodologies used."
 msgstr ""
-"ب) الشفافية - يجب أن تتيح المنصة إمكانية الوصول إلى جميع الوثائق اللازمة "
-"لفهم كيفية الإبلاغ عن المؤشرات، بما في ذلك تفسيرات المصطلحات الرئيسية ومصادر"
-" البيانات الافتراضية والتعاريف والمنهجيات المستخدمة."
+"ب) الشفافية – ينبغي للمنصة تمكين الوصول إلى جميع الوثائق الضرورية لفهم كيفية"
+" التقرير عن المؤشرات، بما في ذلك شروح المصطلحات الرئيسية ومصادر البيانات "
+"الافتراضية والتعاريف والمنهجيات المستخدمة."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:409
+#: ../../introduction.md:406
 msgid ""
 "C) Ease of use – the platform should have an intuitive interface with an "
 "overview country management dashboard, forms which allow easy data entry, "
 "switching between national and default data sources, and upload of other "
 "datasets and/or documentation."
 msgstr ""
-"C) سهولة الاستخدام - يجب أن تحتوي المنصة على واجهة سهلة الاستخدام مع لوحة "
-"تحكم للإدارة القطرية العامة، ونماذج تسمح بإدخال البيانات بسهولة، والتبديل "
-"بين مصادر البيانات الوطنية والافتراضية، وتحميل مجموعات البيانات و/أو الوثائق"
-" الأخرى."
+"ج) سهولة الاستخدام – ينبغي للمنصة أن تمتلك واجهة بديهية مع لوحة تحكم لإدارة "
+"الدولة، ونماذج تتيح إدخال البيانات بسهولة، والتبديل بين مصادر البيانات "
+"الوطنية والافتراضية، ورفع مجموعات البيانات الأخرى و/أو الوثائق."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:411
+#: ../../introduction.md:408
 msgid ""
 "D) Improved communication – the platform should have a transparent review "
 "and revision functionality, which allows tracking of changes in the reported"
 " figures and facilitates understanding of the review process flow."
 msgstr ""
-"د) تحسين التواصل - يجب أن تتمتع المنصة بوظيفة المراجعة والمراجعة الشفافة، "
-"مما يسمح بتتبع التغييرات في الأرقام المبلغ عنها ويسهل فهم تدفق عملية "
-"المراجعة."
+"د) تحسين التواصل – ينبغي للمنصة إتاحة خاصية مراجعة وتعديل شفافة تسمح بتتبع "
+"التغيرات في الأرقام المُسجلة وتسهل فهم مسار عملية المراجعة."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:413
+#: ../../introduction.md:410
 msgid ""
 "E) Flexibility – the platform should clearly outline the differentiated "
 "reporting obligations of Affected Country Parties and Developed Country "
@@ -1529,13 +1400,13 @@ msgid ""
 "they report—for example, by choosing to report on optional indicators or on "
 "indicators generally considered not applicable to their country category."
 msgstr ""
-"(ه) المرونة - ينبغي أن يحدد المنهاج بوضوح التزامات الإبلاغ المتباينة للبلدان"
-" الأطراف المتأثرة والبلدان الأطراف المتقدمة، مع السماح للبلدان بالمرونة في "
-"تعديل المؤشرات التي تبلغ عنها - على سبيل المثال، عن طريق اختيار الإبلاغ عن "
-"مؤشرات اختيارية أو عن مؤشرات تعتبر عموماً غير منطبقة على فئة بلدانها."
+"هـ) المرونة – ينبغي للمنصة أن تحدد بوضوح الالتزامات المتباينة لتقديم "
+"التقارير بين البلدان الأطراف المتأثرة والبلدان الأطراف المتقدمة، مع منح "
+"الدول المرونة لتعديل المؤشرات التي يبلغون عنها — على سبيل المثال، باختيار "
+"التقرير عن مؤشرات اختيارية أو عن مؤشرات تُعتبر بوجه عام غير طباقية لفئة "
+"بلدهم."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:415
+#: ../../introduction.md:412
 msgid ""
 "Once a reporting form has been completed and all the tables in that form "
 "have been filled in, the Reporting Officer can make the form  available to "
@@ -1554,23 +1425,21 @@ msgid ""
 "further clarifications or amendments are required, the form is considered "
 "finalized and ready for the final submission to the secretariat."
 msgstr ""
-"بمجرد استكمال استمارة الإبلاغ وملء جميع الجداول الواردة في تلك الاستمارة، "
-"يمكن لموظف الإبلاغ إتاحة الاستمارة للأمانة لمراجعتها. وسيؤدي ذلك إلى قفل "
-"الاستمارة بحيث لا يمكن إجراء أي تعديل آخر عليها والسماح ببدء عملية المراجعة."
-" تقوم أمانة اتفاقية الأمم المتحدة لمكافحة التصحر بإجراء المراجعة وهي ضرورية "
-"لضمان اتساق الأرقام المبلغ عنها وتطبيق منهجية الإبلاغ بشكل صحيح. لإتاحة "
-"نموذج ما للمراجعة، يجب ضبط حالته في المنصة على \"قيد المراجعة\". إذا برزت "
-"الحاجة إلى توضيحات أو تعديلات أثناء عملية المراجعة، يمكن للمراجعين إدراج "
-"الملاحظات من خلال التعليقات وإعادة إرسال النموذج إلى مسؤول الإبلاغ الوطني. "
-"يتم إخطار مسؤول الإبلاغ الوطني عند اكتمال عملية المراجعة وإذا كانت هناك حاجة"
-" إلى معالجة التعليقات. ثم يتم ضبط الاستمارة مرة أخرى على الوضع \"مفتوح\" "
-"ويمكن لموظف الإبلاغ الوطني معالجة التعليقات وتعديل التقرير وفقًا لذلك وإعادة"
-" إرساله لدورة مراجعة أخرى. عندما لا تكون هناك حاجة إلى مزيد من التوضيحات أو "
-"التعديلات الإضافية، تعتبر الاستمارة في صيغتها النهائية وجاهزة للتقديم "
-"النهائي إلى الأمانة."
+"وفور إكمال نموذج تقديم التقارير وتعبئة جميع الجداول فيه، يمكن لمسؤول "
+"التقارير تقديم النموذج للأمانة العامة للمراجعة. وسيؤدي ذلك إلى قفل النموذج "
+"بحيث لا يمكن إجراء المزيد من التعديلات وبدء عملية المراجعة. وتُجرى المراجعة "
+"من الأمانة العامة لاتفاقية الأمم المتحدة لمكافحة التصحُّر (UNCCD)، وتُعد "
+"ضرورية لكفالة اتساق الأرقام المُسجلة والتطبيق الصحيح لمنهجية التقارير. "
+"ولتقديم نموذج للمراجعة، يتوجب ضبط حالته في المنصة إلى \"قيد المراجعة\". وإذا"
+" ظهرت الحاجة لتوضيحات أو تعديلات أثناء المراجعة، يمكن للمراجعين إدراج "
+"الملاحظات عبر التعليقات وإعادة النموذج لمسؤول التقارير الوطني. ويُخطر مسؤول "
+"التقارير الوطني عند إتمام عملية المراجعة وإذا كانت هناك ملاحظات يتوجب "
+"معالجتها. وسيُعاد ضبط النموذج إلى وضع \"مفتوح\" ويمكن لمسؤول التقارير معالجة"
+" التعليقات وتعديل التقرير وبصورة مناظرة إعادة تقديمه لدورة مراجعة أخرى. "
+"وعندما لا تتطلب العملية المزيد من التوضيحات أو التعديلات، يُعتبر النموذج "
+"مكتملًا وجاهزًا للتقديم النهائي للأمانة العامة."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:423
+#: ../../introduction.md:420
 msgid ""
 "Building on the lessons learned from the 2022 reporting process, a number of"
 " system validation rules have been implemented in PRAIS for 2026 reporting. "
@@ -1581,16 +1450,14 @@ msgid ""
 "understand the issue and indicate to the user how to rectify the problem "
 "before being allowed to save the form."
 msgstr ""
-"بناءً على الدروس المستفادة من عملية إعداد تقارير عام 2022، تم تنفيذ عدد من "
-"قواعد التحقق من صحة النظام في نظام استعراض الأداء وتقييم التنفيذ لإعداد "
-"تقارير عام 2026. ستظهر هذه القواعد على شكل أخطاء عندما يحاول المستخدمون حفظ "
-"نموذج الإبلاغ. تظهر الأخطاء (الناشئة عن تطبيق قواعد التحقق من صحة النظام) في"
-" النماذج لتسليط الضوء على أي اختلافات كبيرة في البيانات المبلغ عنها (انظر "
-"فقرة الاتساق بين الجداول أدناه). ستساعد رسالة الخطأ المستخدم على فهم المشكلة"
-" وتوضح للمستخدم كيفية تصحيح المشكلة قبل السماح له بحفظ النموذج."
+"واستنادًا إلى الدروس المستفادة من دورة تقارير 2022، تم تطبيق عدد من قواعد "
+"مصادقة النظام في منصة PRAIS لتقارير 2026. وتظهر هذه القواعد في صورة أخطاء "
+"عندما يحاول المستخدمون حفظ نموذج التقارير. وتظهر الأخطاء (الناتجة عن تطبيق "
+"قواعد مصادقة النظام) تسليطًا للضوء على أي تفاوتات رئيسية في البيانات "
+"المُسجلة (انظر فقرة الاتساق بين الجداول أدناه). وتساعد رسالة الخطأ المستخدم "
+"في فهم المشكلة وتوضح له كيفية تصحيحها قبل السماح بحفظ النموذج."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:428
+#: ../../introduction.md:425
 msgid ""
 "Inter-tabular consistency: the total country area and demographics, as "
 "presented in the country profile (CP-1.T1 and CP-1.T2), constitute the basis"
@@ -1604,19 +1471,18 @@ msgid ""
 "reported in the country profile an error will appear since the percentage "
 "value reported cannot normally exceed 100%."
 msgstr ""
-"الاتساق بين الجداول: يشكل إجمالي مساحة البلد والتركيبة السكانية، كما هو "
-"معروض في الموجز القطري (CP-1.T1 و CP-1.T2)، أساس الإبلاغ في العديد من جداول "
-"الإبلاغ الأخرى. ولتحقيق الاتساق بين الجداول، يجب ألا يقل إجمالي مساحة البلد "
-"ومساحة الأراضي والمسطحات المائية وكذلك إجمالي عدد السكان عن المساحة أو "
-"التقديرات السكانية المقابلة في جداول SO1 وSO2-3 وSO3-1 وSO3-2. يقوم النظام "
-"تلقائيًا بتعبئة إجمالي مساحة البلد ومساحات الأراضي والمسطحات المائية والسكان"
-" الوطنيين في الملف الشخصي للبلد تلقائيًا استنادًا إلى البيانات الافتراضية. "
-"وفي حال تجاوز أي مساحة متدهورة أو مساحة تحت الجفاف أو عدد السكان المعرضين "
-"للتدهور المبلغ عنها القيم المبلغ عنها في الملف القطري سيظهر خطأ لأن قيمة "
-"النسبة المئوية المبلغ عنها لا يمكن أن تتجاوز عادةً 100٪."
+"الاتساق بين الجداول: تُشكِّل المساحة الإجمالية للدولة والديموغرافيا، كما هما"
+" معروضان في الملف الشخصي للبلد (CP-1.T1 وCP-1.T2)، الأساس لتقديم التقارير في"
+" العديد من جداول التقارير الأخرى. وللاتساق بين الجداول، يجب ألا تقل المساحة "
+"الإجمالية للدولة والأراضي والمسطحات المائية وكذلك إجمالي السكان عن المساحة "
+"المناظرة أو التقديرات السكانية في جداول SO1 وSO2-3 وSO3-1 وSO3-2. ويقوم "
+"النظام تلقائيًا بتعبئة مساحات الدولة والأراضي والمسطحات المائية وإجمالي "
+"السكان في الملف الشخصي للبلد مسبقًا بناءً على البيانات الافتراضية. وإذا "
+"تجاوزت أي مساحة متدهورة أو مساحة متأثرة بالجفاف أو أعداد سكان معرَّضين قيمَ "
+"الملف الشخصي للبلد، سيظهر خطأ نظرًا لأن النسبة المئوية المُسجلة لا يمكن أن "
+"تتجاوز عادة 100%."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:433
+#: ../../introduction.md:430
 msgid ""
 "Having negative numbers in tables where only positive numbers are allowed or"
 " having non-numeric characters in numeric-only fields also trigger error "
@@ -1624,107 +1490,94 @@ msgid ""
 "will prevent the saving of a form and must be rectified by the user before "
 "the form can be saved or submitted for review."
 msgstr ""
-"يؤدي وجود أرقام سالبة في الجداول التي يُسمح فيها بالأرقام الموجبة فقط أو "
-"وجود أحرف غير رقمية في الحقول الرقمية فقط إلى ظهور رسائل خطأ. بغض النظر عن "
-"قاعدة التحقق من الصحة التي تؤدي إلى حدوث الخطأ، فإن الخطأ سيمنع حفظ النموذج "
-"ويجب تصحيحه من قبل المستخدم قبل أن يتم حفظ النموذج أو إرساله للمراجعة."
+"كما يؤدي وجود أرقام سالبة في الجداول التي تسمح فقط بالأرقام الموجبة أو وجود "
+"أحرف غير رقمية في الحقول المخصصة للأرقام فقط إلى إطلاق رسائل خطأ. وبغض النظر"
+" عن قاعدة المصادقة التي أطلقت الخطأ، فإن الخطأ سيمنع حفظ النموذج ويجب تصحيحه"
+" من المستخدم قبل إمكانية حفظ النموذج أو تقديمه للمراجعة."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:435
+#: ../../introduction.md:432
 msgid "Process and schedule for the 2026 reporting process"
-msgstr "العملية والجدول الزمني لعملية إعداد التقارير لعام 2026"
+msgstr "جدول وعملية تقديم التقارير لدورة 2026"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:437
+#: ../../introduction.md:434
 msgid ""
 "The deadlines for submission of national reports are tentatively set for "
 "November 2026 for reporting on SO1, and February 2027 for the remaining SOs."
 " The CRIC Bureau will monitor progress made throughout the 2026 reporting "
 "process to decide on adjustments to this timeline, if needed."
 msgstr ""
-"تم تحديد المواعيد النهائية لتقديم التقارير الوطنية مبدئياً في نوفمبر/تشرين "
-"الثاني 2026 لتقديم التقارير عن الهدف الاستراتيجي 1، وشباط/فبراير 2027 لبقية "
-"الأهداف الاستراتيجية. سيراقب مكتب لجنة استعراض تنفيذ الاتفاقية التقدم المحرز"
-" خلال عملية إعداد التقارير لعام 2026 لاتخاذ قرار بشأن التعديلات على هذا "
-"الجدول الزمني، إذا لزم الأمر."
+"تُحدد المواعيد النهائية لتقديم التقارير الوطنية مبدئيًا في نوفمبر 2026 "
+"لتقديم التقارير عن الهدف الاستراتيجي 1، وفبراير 2027 لبقية الأهداف "
+"الاستراتيجية. وسيرصد مكتب لجنة مراجعة تنفيذ الاتفاقية (CRIC) التقدم المحرز "
+"خلال دورة تقارير 2026 للبت في تعديلات هذا الجدول الزمني إذا لزم الأمر."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:439
+#: ../../introduction.md:436
 msgid ""
 "Various measures will be taken by the secretariat to support Parties in "
 "preparing the national reports and providing high quality information:"
 msgstr ""
-"ستتخذ الأمانة تدابير مختلفة لدعم الأطراف في إعداد التقارير الوطنية وتقديم "
-"معلومات عالية الجودة:"
+"وستتخذ الأمانة العامة تدابير متنوعة لدعم الأطراف في إعداد التقارير الوطنية "
+"وتوفير معلومات عالية الجودة:"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:441
+#: ../../introduction.md:438
 msgid ""
 "In-person regional capacity development activities will be organized. These "
 "aim to introduce national focal points and assigned reporting officers to "
 "the updated reporting requirements, methodologies, data and tools;"
 msgstr ""
-"سيتم تنظيم أنشطة تنمية القدرات الإقليمية الشخصية. وتهدف هذه الأنشطة إلى "
-"تعريف جهات التنسيق الوطنية وموظفي الإبلاغ المعينين بمتطلبات الإبلاغ المحدثة "
-"والمنهجيات والبيانات والأدوات;"
+"تنظيم أنشطة تنمية القدرات الإقليمية الحضورية. وتهدف هذه الأنشطة إلى تعريف "
+"نقاط الاتصال الوطنية ومسؤولي التقارير المحددين بالمتطلبات والمنهجيات "
+"والبيانات والأدوات المُحدثة؛"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:443
+#: ../../introduction.md:440
 msgid ""
 "The secretariat and the Global Mechanism, with the assistance of consultants"
 " and/or regional institutions, will provide technical backstopping "
 "throughout the reporting process;"
 msgstr ""
-"ستقدم الأمانة والآلية العالمية، بمساعدة الخبراء الاستشاريين و/أو المؤسسات "
-"الإقليمية، الدعم الفني طوال عملية الإبلاغ;"
+"تقديم الدعم التقني من الأمانة العامة والآلية العالمية، بمساعدة الاستشاريين "
+"و/أو المؤسسات الإقليمية، طوال عملية تقديم التقارير؛"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:445
+#: ../../introduction.md:442
 msgid ""
 "An online helpdesk facility, which can be accessed at "
 "<https://support.unccd.int/> will be available via PRAIS to respond to "
 "queries from Parties;"
 msgstr ""
-"سيكون مكتب المساعدة عبر الإنترنت، والذي يمكن الوصول إليه من خلال "
-"<https://support.unccd.int/> متاحًا عبر نظام استعراض الأداء وتقييم التنفيذ "
-"للرد على استفسارات الأطراف;"
+"توفير مكتب مساعدة عبر الشبكة، يمكن الوصول إليه على "
+"<https://support.unccd.int/> عبر منصة PRAIS للرد على استفسارات الأطراف؛"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:447
+#: ../../introduction.md:444
 msgid ""
 "A multi-lingual chat functionality, which is embedded in PRAIS and "
 "accessible to country Parties and UNCCD technical experts to facilitate "
 "communication among them in a less formal way,"
 msgstr ""
-"وظيفة محادثة متعددة اللغات، مدمجة في نظام استعراض الأداء وتقييم التنفيذ "
-"ومتاحة للبلدان الأطراف والخبراء الفنيين في اتفاقية الأمم المتحدة لمكافحة "
-"التصحر لتيسير التواصل فيما بينهم بطريقة أقل رسمية,"
+"إتاحة خاصية محادثة متعددة اللغات مدمجة في PRAIS ومتاحة للبلدان الأطراف "
+"والخبراء التقنيين للاتفاقية لتسهيل التواصل بينهم بطريقة غير رسمية،"
 
-#: ../../introduction.md:449
+#: ../../introduction.md:446
 msgid ""
 "National reports will undergo a quality assurance procedure prior to final "
 "submission to ensure the provision of consistent, transparent, comparable, "
 "accurate and complete information."
 msgstr ""
-"ستخضع البلاغات الوطنية لإجراءات ضمان الجودة قبل تقديمها النهائي لضمان توفير "
-"معلومات متسقة وشفافة وقابلة للمقارنة ودقيقة وتامّة."
+"خضوع التقارير الوطنية لإجراءات ضمان الجودة قبل التقديم النهائي لكفالة توفير "
+"معلومات متسقة وشفافة ومقابلة للمقارنة ودقيقة وشاملة."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:451
+#: ../../introduction.md:448
 msgid ""
 "At its twenty-fifth session, the CRIC will review and analyse the "
 "information submitted during the 2026 reporting process."
 msgstr ""
-"ستقوم لجنة استعراض تنفيذ الاتفاقية في دورتها الخامسة والعشرين بمراجعة وتحليل"
-" المعلومات المقدمة خلال عملية إعداد التقارير لعام 2026."
+"وفي دورتها الخامسة والعشرين، ستراجع لجنة مراجعة تنفيذ الاتفاقية وتحلل "
+"المعلومات المقدمة خلال دورة تقارير 2026."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:453
+#: ../../introduction.md:450
 msgid "Country profile"
-msgstr "الملف التعريفي للبلد"
+msgstr "الملف الشخصي للبلد"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:455
+#: ../../introduction.md:452
 msgid ""
 "Information on the total country area, as well as its division into total "
 "land area and area covered by water bodies are prerequisites for the "
@@ -1734,26 +1587,22 @@ msgid ""
 "the indicators. This information is gathered in a Country Profile Form and "
 "the data is used by indicators with related dependencies."
 msgstr ""
-"وتعتبر المعلومات عن المساحة الإجمالية للبلد، وكذلك تقسيمها إلى إجمالي مساحة "
-"الأراضي والمساحة التي تغطيها المسطحات المائية من المتطلبات الأساسية لحساب "
-"مساحة الأراضي المتدهورة أو المحسنة وغيرها من المؤشرات. المعلومات عن حجم "
-"السكان الوطنيين وتكوينهم من حيث عدد الذكور والإناث ضرورية لحساب عدد من "
-"المؤشرات. ويتم جمع هذه المعلومات في استمارة الموجز القطري وتستخدم البيانات "
-"في المؤشرات ذات الصلة."
+"تُعد المعلومات المتعلقة بالمساحة الإجمالية للدولة، وتقسيمها إلى إجمالي مساحة"
+" الأراضي والمساحة المغطاة بالمسطحات المائية متطلبات أساسية لحساب مساحة "
+"الأراضي المتدهورة أو المحسنة والمؤشرات الأخرى. وتُعد المعلومات المتعلقة بحجم"
+" السكان الوطني وتكوينه من حيث عدد الذكور والإناث ضرورية لحساب عدد من "
+"المؤشرات. وتُجمع هذه المعلومات في نموذج الملف الشخصي للبلد وتُستخدم البيانات"
+" بواسطة المؤشرات ذات الروابط والتبعيات المناظرة."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:457
+#: ../../introduction.md:454
 msgid "Land Area"
-msgstr "مساحة الأرض"
+msgstr "مساحة الأراضي"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:460
+#: ../../introduction.md:457
 msgid "Related areas in the PRAIS 4 platform: table CP-1.T1"
-msgstr ""
-"المجالات ذات الصلة في نظام استعراض الأداء وتقييم التنفيذ 4: الجدول CP-1.T1"
+msgstr "الأجزاء ذات الصلة في منصة PRAIS 4: الجدول CP-1.T1"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:463
+#: ../../introduction.md:460
 msgid ""
 "Information on the total land area, area covered by water bodies, and total "
 "country area is required to calculate the proportion of land that is "
@@ -1761,14 +1610,13 @@ msgid ""
 "indicators to track progress towards other SOs (e.g. SO 3-1: Trends in the "
 "proportion of land under drought over the total land area)."
 msgstr ""
-"المعلومات عن إجمالي مساحة الأراضي، والمساحة التي تغطيها المسطحات المائية، "
-"وإجمالي مساحة البلد مطلوبة لحساب نسبة الأراضي المتدهورة على إجمالي مساحة "
-"الأراضي (المؤشر 15-3-1)، وكذلك لحساب مؤشرات تتبع التقدم المحرز نحو تحقيق "
-"أهداف التنمية المستدامة الأخرى (على سبيل المثال الهدف الاستراتيجي 3-1: "
-"الاتجاهات في نسبة الأراضي التي تعاني من الجفاف على إجمالي مساحة الأراضي)."
+"تُطلب المعلومات المتعلقة بالمساحة الإجمالية للأراضي، والمساحة المغطاة "
+"بالمسطحات المائية، والمساحة الإجمالية للدولة لحساب نسبة الأراضي المتدهورة من"
+" إجمالي مساحة الأراضي (مؤشر التنمية المستدامة 15.3.1)، وأيضًا لحساب المؤشرات"
+" لرصد التقدم المحرز نحو الأهداف الاستراتيجية الأخرى (مثل SO 3-1: الاتجاهات "
+"السائدة في نسبة الأراضي المتأثرة بالجفاف من إجمالي مساحة الأراضي)."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:465
+#: ../../introduction.md:462
 msgid ""
 "Total land area, total water bodies area and total country area require "
 "respective estimates to be reported in square kilometres (km2) for 2000, "
@@ -1783,51 +1631,44 @@ msgid ""
 "is auto-calculated in PRAIS from the addition of the total land area and "
 "water bodies and is therefore not an editable field."
 msgstr ""
-"يتطلب إجمالي مساحة الأراضي وإجمالي مساحة المسطحات المائية وإجمالي مساحة "
-"البلد الإبلاغ عن التقديرات ذات الصلة بالكيلومترات المربعة (كم2) للأعوام 2000"
-" و2015 و2019 و2023 أو أقرب السنوات المتاحة (للتوافق مع السنوات الأولى "
-"والأخيرة من خط الأساس وفترات الإبلاغ للمؤشر 15-3-1). بيانات مساحة الأراضي "
-"مملوءة مسبقًا في جدول الإبلاغ CP-1.T1. تستند التقديرات إلى بيانات الغطاء "
-"الأرضي الافتراضية، وبالتالي قد تختلف عن الإحصاءات الوطنية الرسمية. يمكن "
-"تغيير البيانات المعبأة مسبقاً بالنقر على مفتاح \"البيانات الوطنية\" أعلى "
-"الجدول. ومع ذلك، من المهم ضمان الاتساق مع بيانات الغطاء الأرضي وتقديرات "
-"المؤشر 15-3-1 من مؤشرات أهداف التنمية المستدامة. يجب على الأطراف ملاحظة أن "
-"المساحة الإجمالية للبلد يتم حسابها تلقائيًا في نظام استعراض الأداء وتقييم "
-"التنفيذ من إضافة إجمالي مساحة الأراضي والمسطحات المائية، وبالتالي فهي ليست "
-"حقلاً قابلاً للتحرير."
+"ويتطلب إجمالي مساحة الأراضي، وإجمالي مساحة المسطحات المائية، وإجمالي مساحة "
+"الدولة تقديم التقديرات المناظرة بالكيلومتر المربع (km2) للأعوام 2000، 2015، "
+"2019، و2023 أو أقرب سنوات متاحة (للتوافق مع السنتين الأولية والنهائية لفترات"
+" خط الأساس والتقرير لمؤشر التنمية المستدامة 15.3.1). وتُعبأ بيانات مساحة "
+"الأراضي مسبقًا في جدول التقارير CP-1.T1. وتستند التقديرات إلى بيانات الغطاء "
+"الأرضي الافتراضية، ولذلك قد تختلف عن الإحصاءات الرسمية الوطنية. ويمكن تغيير "
+"البيانات المعبأة مسبقًا بالنقر على مفتاح \"البيانات الوطنية\" أعلى الجدول. "
+"ومع ذلك، من المهم كفالة الاتساق مع بيانات الغطاء الأرضي وتقديرات مؤشر "
+"التنمية المستدامة 15.3.1. وينبغي للأطراف ملاحظة أن المساحة الإجمالية للدولة "
+"يُحسب تلقائيًا في PRAIS من جمع إجمالي مساحة الأراضي والمسطحات المائية ولذلك "
+"فهو ليس حتلًا قابلًا للتعديل."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:472
+#: ../../introduction.md:469
 msgid ""
 "Any changes to the default estimates are to be justified in the ‘Comments’ "
 "column or ´Comments´ field below the table."
 msgstr ""
-"يجب تبرير أي تغييرات على التقديرات الافتراضية في عمود \"التعليقات\" أو حقل "
+"ويجب تبرير أي تغييرات على التقديرات الافتراضية في عمود \"التعليقات\" أو حقل "
 "\"التعليقات\" أسفل الجدول."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:474
+#: ../../introduction.md:471
 msgid "Demographics"
-msgstr "التركيبة السكانية"
+msgstr "الديموغرافيا"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:477
+#: ../../introduction.md:474
 msgid "Related areas in the PRAIS 4 platform: table CP-1.T2"
-msgstr ""
-"المجالات ذات الصلة في نظام استعراض الأداء وتقييم التنفيذ 4: الجدول CP-1.T2"
+msgstr "الأجزاء ذات الصلة في منصة PRAIS 4: الجدول CP-1.T2"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:480
+#: ../../introduction.md:477
 msgid ""
 "Information on total population as well as number of females and males is "
 "important to understand the impacts of land degradation and drought, and "
 "their gender dimension."
 msgstr ""
-"إن المعلومات المتعلقة بإجمالي عدد السكان وكذلك عدد الإناث والذكور مهمة لفهم "
-"آثار تدهور الأراضي والجفاف، وبُعدها الجنساني."
+"تُعد المعلومات المتعلقة بإجمالي السكان وعدد الإناث والذكور مهمة لفهم آثار "
+"تدهور الأراضي والجفاف وأبعادها الجنسانية."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:482
+#: ../../introduction.md:479
 msgid ""
 "If available, national estimates of the female, male, and total population "
 "on an annual basis since 2000 should be provided, expressed in thousands. "
@@ -1844,23 +1685,20 @@ msgid ""
 "published, Parties will be able to download it from Trends.Earth and import "
 "it to PRAIS 4 to replace the default data."
 msgstr ""
-"ينبغي تقديم التقديرات الوطنية للسكان الإناث والذكور وإجمالي عدد السكان على "
-"أساس سنوي منذ عام 2000، إذا كانت متاحة، معبراً عنها بالآلاف. تم ملء البيانات"
-" الديموغرافية مسبقًا في جدول الإبلاغ CP-1.T2 باستخدام بيانات من مجموعة "
-"بيانات WorldPop من عام 2000 إلى عام 2023. وينبغي للأطراف ملاحظة أن مجموعة "
-"البيانات هذه لم يتم تحديثها لإعداد تقرير عام 2026، وبالتالي فإن السنوات "
-"الثلاث الأخيرة (2021 و2022 و2023) تكرر قيم عام 2020. وعلاوة على ذلك، تجدر "
-"الإشارة إلى أنه على الرغم من أن كلية الجغرافيا والعلوم البيئية في جامعة "
-"ساوثهامبتون (المملكة المتحدة) قد أصدرت مؤخرًا مجموعة بيانات ديموغرافية "
-"عالمية جديدة للفترة 2015-2030، إلا أنها كانت لا تزال في شكل تجريبي في وقت "
-"إطلاق عملية إعداد تقارير عام 2026 ولن يتم إتاحتها كبيانات افتراضية. يمكن أن "
-"تحتوي الإصدارات التجريبية من مجموعات البيانات على تناقضات أو أخطاء أو حالات "
-"شاذة. وبمجرد نشر مجموعة البيانات الديموغرافية العالمية الجديدة هذه رسميًا، "
-"ستتمكن الأطراف من تنزيلها من Trends.Earth واستيرادها إلى نظام استعراض الأداء"
-" وتقييم السياسات 4 لتحل محل البيانات الافتراضية."
+"وإذا توفرت، ينبغي تقديم التقديرات الوطنية للإناث والذكور وإجمالي السكان على "
+"أساس سنوي منذ عام 2000، معبرًا عنها بالآلاف. وتُعبأ البيانات الديموغرافية "
+"مسبقًا في جدول التقرير CP-1.T2 باستخدام بيانات من مجموعة بيانات WorldPop من "
+"2000 إلى 2023. وينبغي للأطراف ملاحظة أن مجموعة البيانات هذه لم يتم تحديثها "
+"لتقارير 2026 وبالتالي فإن السنوات الثلاث الأخيرة (2021، 2022، و2023) تكرر "
+"قيم عام 2020. علاوة على ذلك، يشار إلى أنه بينما أصدرت مدرسة الجغرافيا وعلوم "
+"البيئة بجامعة ساوثهامبتون (المملكة المتحدة) حديثًا مجموعة بيانات ديموغرافية "
+"عالمية جديدة للفترة 2015–2030، إلا أنها كانت لا تزال صيغة تجريبية وقت إطلاق "
+"دورة تقارير 2026 ولن تتاح كبيانات افتراضية. ويمكن أن تحتوي النسخ التجريبية "
+"من مجموعات البيانات على تفاوتات أو أخطاء أو حالات شاذة. وفور نشر مجموعة "
+"البيانات الديموغرافية العالمية الجديدة رسميًا، ستتمكن الأطراف من تنزيلها من "
+"Trends.Earth واستيرادها إلى PRAIS 4 للاستعاضة بها عن البيانات الافتراضية."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:489
+#: ../../introduction.md:486
 msgid ""
 "If better national estimates are available, the Parties should click on the "
 "“National Data” button and enter their own annual population estimates. "
@@ -1868,41 +1706,37 @@ msgid ""
 "the proportion of population exposure to land degradation and drought. Any "
 "changes are to be justified in the “Comments” field following the table."
 msgstr ""
-"وفي حال توفر تقديرات وطنية أفضل، ينبغي للأطراف النقر على زر \"البيانات "
-"الوطنية\" وإدخال التقديرات السكانية السنوية الخاصة بها. ومع ذلك، من المهم "
-"ضمان الاتساق مع البيانات المستخدمة للإبلاغ عن نسبة السكان المعرضين لتدهور "
-"الأراضي والجفاف. وينبغي تبرير أي تغييرات في حقل \"التعليقات\" التالي للجدول."
+"وإذا توفرت تقديرات وطنية أفضل، ينبغي للأطراف النقر على زر \"البيانات "
+"الوطنية\" وإدخال تقديراتها السكانية السنوية الخاصة. ومع ذلك، من المهم كفالة "
+"الاتساق مع البيانات المستخدمة للتقرير عن نسبة تعرض السكان لتدهور الأراضي "
+"والجفاف. ويجب تبرير أي تغييرات في حقل \"التعليقات\" الممتد بعد الجدول."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:493
+#: ../../introduction.md:490
 msgid ""
 "A field for “General Comments” is also provided if any additional "
 "information or clarifications are to be provided in relation to the land "
 "area and demographics data provided."
 msgstr ""
-"كما يتم توفير حقل ل \"تعليقات عامة\" في حالة تقديم أي معلومات أو توضيحات "
-"إضافية فيما يتعلق بمساحة الأرض والبيانات السكانية المقدمة."
+"كما يتوفر حقل لـ \"التعليقات العامة\" إذا رُغب في تقديم أي معلومات أو "
+"توضيحات إضافية فيما يتعلق ببيانات مساحة الأراضي والديموغرافيا الموفرة."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:240
 msgid ""
 "Indicator adopted in decision 7/COP.13 as “Trends in international bilateral"
 " and multilateral official development assistance.”"
 msgstr ""
-"المؤشر المعتمد في المقرر 7/م أ-13 بوصفه \"اتجاهات المساعدة الإنمائية الرسمية"
-" الدولية الثنائية والمتعددة الأطراف\"."
+"المؤشر المعتمد بموجب القرار 7/COP.13 كـ \"الاتجاهات السائدة في المساعدات "
+"الإنمائية الرسمية الثنائية والمتعددة الأطراف الدولية.\""
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:242
 msgid ""
 "Indicator adopted in decision 7/COP.13 as “Trends in domestic public "
 "resources”"
 msgstr ""
-"المؤشر المعتمد في المقرر 7/م أ-13 باعتباره \"الاتجاهات في الموارد العامة "
-"المحلية\""
+"المؤشر المعتمد بموجب القرار 7/COP.13 كـ \"الاتجاهات السائدة في الموارد "
+"العامة المحلية\""
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:323
+#: ../../introduction.md:320
 msgid ""
 "The United Nations Geospatial Data, or Geodata, is a worldwide geospatial "
 "dataset of the United Nations. The United Nations Geodata is provided to "
@@ -1913,12 +1747,12 @@ msgid ""
 "accessible here: "
 "<https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887>."
 msgstr ""
-"البيانات الجغرافية المكانية للأمم المتحدة، أو البيانات الجغرافية المكانية، "
-"هي مجموعة بيانات جغرافية مكانية عالمية للأمم المتحدة. ويتم توفير البيانات "
-"الجغرافية المكانية للأمم المتحدة لتيسير إعداد مواد رسم الخرائط في الأمم "
-"المتحدة وتشمل الهندسة والسمات والتسميات لتسهيل تصوير وتسمية المعالم "
-"الجغرافية بشكل ملائم لإعداد الخرائط وفقاً لسياسات وممارسات الأمم المتحدة. "
-"يمكن الوصول إلى الخريطة الواضحة هنا "
+"البيانات المكانية للأمم المتحدة، أو Geodata، هي مجموعة بيانات جغرافية مكانية"
+" عالمية تابعة للأمم المتحدة. وتُوفر البيانات الجغرافية المكانية للأمم "
+"المتحدة لتيسير إعداد المواد الكارتوجرافية في الأمم المتحدة، وتتضمن الهندسة "
+"والسمات والتسميات لتيسير الوصف والتسمية المناسبين للملامح الجغرافية لإعداد "
+"الخرائط وفقًا لسياسات وممارسات الأمم المتحدة. ويمكن الوصول إلى Clear Map "
+"هنا: "
 "<https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887>."
 
 #~ msgid ""
@@ -2356,3 +2190,35 @@ msgstr ""
 #~ "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
 #~ msgstr ""
 #~ "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
+
+#~ msgid ""
+#~ "For cartographic representation and preparation of the default data, PRAIS "
+#~ "uses the international boundaries of countries taken from the United Nations"
+#~ " Map 0 geodata which is suitable for 1:1 million scale representation and "
+#~ "serves global mapping purposes as opposed to local mapping. Countries can "
+#~ "opt to use an alternative country border by uploading the polygon directly "
+#~ "to the PRAIS spatial data viewer. However, should Parties opt to use an "
+#~ "alternative country boundary layer, they are encouraged to engage with the "
+#~ "Second Administrative Level Boundaries ([SALB](https://salb.un.org/)) "
+#~ "programme of the Geospatial Information Section & Statistics Division. The "
+#~ "programme’s objective is to promote accessible, interoperable and global "
+#~ "data and information on subnational units and boundaries. Participation in "
+#~ "the programme will ensure Member States of the United Nations will avail of "
+#~ "a global repository of authoritative information and geospatial data about "
+#~ "the administrative unit structure of countries down to the second "
+#~ "subnational level, and through time. Parties should engage with the SALB "
+#~ "program directly by sending an email to <salb@un.org>."
+#~ msgstr ""
+#~ "وللتمثيل الكارتوجرافي وإعداد البيانات الافتراضية، تستخدم منصة PRAIS الحدود "
+#~ "الدولية للدول المأخوذة من بيانات الخرائط الجغرافية للأمم المتحدة Map 0 "
+#~ "المناسبة لتمثيل بمقياس 1:1 مليون وتخدم أغراض الخرائط العالمية خلافًا للخرائط"
+#~ " المحلية. ويمكن للدول اختيار استخدام حدود بديلة لبلدانها برفع المضلع مباشرة "
+#~ "إلى عارض البيانات المكانية في PRAIS. ومع ذلك، في حال اختيار الأطراف استخدام "
+#~ "طبقة حدود وطنية بديلة، تُشجع على التواصل مع برنامج حدود المستوى الإداري "
+#~ "الثاني (SALB) التابع لقسم المعلومات الجغرافية المكانية وشعبة الإحصاء. ويهدف "
+#~ "البرنامج إلى تعزيز بيانات ومعلومات عالمية وقابلة للتشغيل البيني ومتاحة حول "
+#~ "الوحدات والحدود دون الوطنية. وستكفل مشاركة الدول الأعضاء في الأمم المتحدة في"
+#~ " البرنامج الاستفادة من مستودع عالمي للمعلومات الموثوقة والبيانات المكانية "
+#~ "حول الهيكل الإداري للدول حتى المستوى دون الوطني الثاني عبر الزمن. ويمكن "
+#~ "للأطراف التواصل مع برنامج SALB مباشرة بإرسال بريد إلكتروني إلى "
+#~ "<salb@un.org>."

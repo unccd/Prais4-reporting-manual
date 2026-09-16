@@ -463,7 +463,7 @@ The PRAIS 4 platform enables the reporting of quantitative information on land c
 
 Information on land cover, land cover changes and land cover degradation should be reported in km2 for the entire country.
 
-If the default datasets have been replaced with national land cover data, countries are encouraged to upload the relevant geospatial data to PRAIS 4. Any spatial data uploaded to the system must be supported by appropriate metadata describing the spatial data, as indicated in the data source form and further described in [Annex II](annex_II.md) of this manual.
+If the default datasets have been replaced with national land cover data, countries are encouraged to upload the relevant geospatial data to PRAIS 4. Any spatial data uploaded to the system must be supported by appropriate metadata describing the spatial data, as indicated in the data source form and further described in {doc}`Annex II <annex_II>` of this manual.
 
 Default maps or maps generated in Trends.Earth using national data representing land cover, land cover change and land cover degradation for the baseline/reporting period are made available in the PRAIS 4 platform. More specifically, the following maps will be available online:
 

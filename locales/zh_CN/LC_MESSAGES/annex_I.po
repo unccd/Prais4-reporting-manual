@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-03 15:18+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-08-27 15:26+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,23 +17,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:1
 msgid ""
 "Annex I: User-specific licence options for national data uploaded to the "
 "UNCCD Performance Review and Assessment of Implementation System (PRAIS)"
-msgstr "附件一：上载至《荒漠化公约》执行情况业绩审评和评估系统 (PRAIS) 的国家数据的特定用户许可选项"
+msgstr "附件一：上传至《联合国防治荒漠化公约》执行情况审查和评估系统（PRAIS）的国家数据的特定用户许可选项"
 
 #: ../../annex_I.md:3
 msgid "1. UNCCD Mandate"
-msgstr "1. 《荒漠化公约》的任务"
+msgstr "1.《联合国防治荒漠化公约》授权"
 
 #: ../../annex_I.md:5
 msgid ""
 "Decision 16/COP.11 para. 9 requests the secretariat to ensure that data and "
 "information from the reporting process are available and accessible to all, "
 "especially at the national and local levels."
-msgstr "第16/COP.11号决定第9段要求秘书处确保报告过程中的数据和信息可供所有人获取，特别是在国家和地方层面。"
+msgstr "第16/COP.11号决定第9段要求秘书处确保报告过程中的数据和信息可供所有人访问，特别是在国家和地方层面。"
 
 #: ../../annex_I.md:7
 msgid ""
@@ -45,47 +44,41 @@ msgid ""
 "property provisions to protect innovations submitted as best practices while"
 " implementing this data access policy."
 msgstr ""
-"第17/COP.11号决定第14段要求秘书处在其他公约和多边机构的做法和政策的基础上，制定一项政策，以获取缔约方和其他报告实体提供的数据和信息，包括通过业绩审评和执行情况评估系统（PRAIS）提供的数据和信息，并利用知识产权条款保护作为最佳做法提交的创新成果，同时执行这一数据获取政策。"
+"第17/COP.11号决定第14段要求秘书处在其他公约和多边机构的做法和政策的基础上制定一项政策，以访问缔约方和其他报告实体提供的数据和信息，包括通过执行情况审查和评估系统（PRAIS）提供的数据和信息，并利用知识产权条款保护作为最佳实践提交的创新成果，同时执行这一数据访问政策。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:9
 msgid "2. Submitting national datasets to PRAIS"
-msgstr "2.向 PRAIS 提交国家数据集"
+msgstr "2. 向PRAIS提交国家数据集"
 
 #: ../../annex_I.md:11
 msgid ""
 "There are three mechanisms to share non-default reporting datasets in PRAIS:"
-msgstr "在PRAIS中，有三种机制可以分享非默认报告数据集："
+msgstr "在PRAIS中，有三种分享非默认报告数据集的机制："
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:13
 msgid ""
 "Uploading data directly to PRAIS and supplying metadata (information about "
 "the dataset) on the forms provided;"
-msgstr "将数据直接上传到 PRAIS，并在提供的表格上提供元数据（关于数据集的信息）；"
+msgstr "将数据直接上传到PRAIS，并在提供的表格上提供元数据（关于数据集的信息）；"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:14
 msgid ""
 "Via data transfer from Trends.Earth (when using national data for "
 "calculating UNCCD indicators in Trends.Earth);"
-msgstr "通过从 Trends.Earth（在使用国家数据计算 Trends.Earth 中的《荒漠化公约》指标时）传输数据；"
+msgstr "通过从Trends.Earth（在使用国家数据计算Trends.Earth中的《联合国防治荒漠化公约》指标时）传输数据；"
 
 #: ../../annex_I.md:15
 msgid "Creating spatial reporting data on the Spatial Data Viewer in PRAIS."
 msgstr "在PRAIS的空间数据查看器上创建空间报告数据。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:17
 msgid "3. Licence Instructions"
-msgstr "3.许可证说明"
+msgstr "3. 许可说明"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:19
 msgid "3.1. Creative Commons Licences for National Reports"
-msgstr "3.1.国家报告的知识共享许可协议"
+msgstr "3.1. 国家报告的知识共享许可"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:21
 msgid ""
 "The Creative Commons (CC) licences are a well-developed, tested suite of "
@@ -94,18 +87,15 @@ msgid ""
 " to most restrictive – CC BY, CC BY-SA, CC BY-NC and CC BY-NC-SA. Each "
 "licence requires one or more of the following conditions:"
 msgstr ""
-"知识共享 (CC) 许可是一套成熟的、经过测试的许可，是共享数据的标准。PRAIS 用户特定许可证 (USL) "
-"表格中提供给缔约方的许可证选项从最开放到最严格依次为 CC BY、CC BY-SA、CC BY-NC 和 CC BY-NC-"
-"SA。每种许可都要求满足以下一个或多个条件："
+"知识共享（CC）许可是一套经过测试的成熟许可，是共享数据的标准。PRAIS用户特定许可（USL）表格中提供给缔约方的许可选项从最开放到最严格依次为CC "
+"BY、CC BY-SA、CC BY-NC和CC BY-NC-SA。每种许可都要求满足以下一个或多个条件："
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:23
 msgid ""
 "Attribution (BY): Attribution is important to give you credit for the data "
 "and show its provenance. It is a required condition for all CC licenses."
-msgstr "署名 (BY)：署名非常重要，可为数据提供信用并显示其出处。这是所有 CC 许可的必要条件。"
+msgstr "署名（BY）：署名非常重要，可为数据提供信用并显示其出处。这是所有CC许可的必要条件。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:25
 msgid ""
 "Share Alike (SA): This condition indicates that any new content created by "
@@ -115,11 +105,8 @@ msgid ""
 "licensed without the SA condition and under more open terms. In short, SA-"
 "licensed work is able to be remixed, but only into other SA outputs."
 msgstr ""
-"相同共享 (SA)：该条件表明，通过组合这些数据创建的任何新内容都必须在相同的 SA "
-"许可下共享。这样做是为了确保数据在与相同条款下许可的数据结合时保持可重复使用性，但在与没有 SA "
-"条件和更开放条款下许可的数据结合时，可能难以重复使用。简而言之，获得 SA 许可的作品可以进行再混合，但只能混合到其他 SA 成果中。"
+"相同方式共享（SA）：该条件表明，通过组合这些数据创建的任何新内容都必须在相同的SA许可下共享。这样做是为了确保数据在与相同条款下许可的数据结合时保持可重复使用性，但在与没有SA条件和更开放条款下许可的数据结合时，可能难以重复使用。简而言之，获得SA许可的作品可以进行再混合，但只能混合到其他SA成果中。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:27
 msgid ""
 "Non-Commercial (NC): This condition indicates that the data can be reused "
@@ -127,10 +114,8 @@ msgid ""
 "corporations cannot make profit on your data, but there are use cases that "
 "are not so clear-cut and may hinder reuse that you would be okay with."
 msgstr ""
-"非商业 "
-"(NC)：这种情况表明数据可以重复使用和组合，但不能用于商业目的。这确保了企业不能利用您的数据牟利，但有些使用情况并不那么明确，可能会阻碍您可以接受的再利用。"
+"非商业性（NC）：这种情况表明数据可以重复使用和组合，但不能用于商业目的。这确保了企业不能利用你的数据牟利，但有些使用情况并不那么明确，可能会阻碍你可以接受的再使用。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:29
 msgid ""
 "Additionally, the Creative Commons Universal Public Domain Dedication 1.0 "
@@ -139,33 +124,28 @@ msgid ""
 "<https://creativecommons.org/publicdomain/zero/1.0/deed.en> for further "
 "information."
 msgstr ""
-"此外，知识共享通用公共领域奉献 1.0 (CC0) 可用于放弃版权并将数据奉献给全球公共领域。详情请参见 "
-"<https://creativecommons.org/publicdomain/zero/1.0/deed.en>。"
+"此外，知识共享通用公共领域奉献1.0（CC0）可用于放弃版权并将数据奉献给全球公共领域。详情请参见<https://creativecommons.org/publicdomain/zero/1.0/deed.en>。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:31
 msgid ""
 "Figure 10 provides an overview of the public domain dedication and each "
 "Creative Commons licence and whether they allow remixes, commercial use, "
 "free cultural works and if they meet the ‘open’ definition."
-msgstr "图10概述了公有领域的专用性和每种知识共享许可协议，以及它们是否允许混音、商业使用、免费文化作品和是否符合 \"开放 \"定义。"
+msgstr "图10概述了公共领域奉献和每种知识共享许可以及它们是否允许再混合、商业使用、免费文化作品和是否符合\"开放\"定义。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:33
 msgid "![](/img/fig10.png)"
 msgstr "![](/img/fig10.png)"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:35
 msgid ""
 "_**Figure 10**. Overview of various CC license options (source: Wikipedia, "
 "further information can be found at <https://creativecommons.org/share-your-"
 "work/cclicenses/>)_"
 msgstr ""
-"_***图 10**.各种 CC 许可选项概览（来源：维基百科，更多信息请参见 <>）_*** 图 10维基百科，更多信息请访问 "
-"<https://creativecommons.org/share-your-work/cclicenses/>)_"
+"_**图10**. 各种CC许可选项概览（来源：维基百科，更多信息请参见<https://creativecommons.org/share-your-"
+"work/cclicenses/>）_"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:37
 msgid ""
 "As explained in the introduction of this reporting manual, Parties are "
@@ -174,56 +154,50 @@ msgid ""
 " data by the secretariat. Therefore, they are encouraged to select an open "
 "licence for their national country Party data, choosing either:"
 msgstr ""
-"如本报告手册导言所述，强烈建议缔约方最大限度地提高其报告数据的互操作性和影响，并支持秘书处合法、可靠和一致地重复使用国家数据。因此，鼓励缔约方为其国家缔约方数据选择开放式许可，可选择以下任一种："
+"如本报告手册导言所述，强烈建议缔约方最大限度地提高其报告数据的互操作性和影响，并支持秘书处合法、可靠和一致地重复使用国家数据。因此，鼓励缔约方为其国家缔约方数据选择开放式许可，可选择其中之一："
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:39
 msgid ""
 "The Creative Commons Universal **Public Domain Dedication 1.0 (CC0)**. See "
 "<https://creativecommons.org/publicdomain/zero/1.0/deed.en> for further "
 "information;"
 msgstr ""
-"知识共享通用 ** 公共领域专用 1.0 (CC0)**。详见 "
-"<https://creativecommons.org/publicdomain/zero/1.0/deed.en>；"
+"知识共享通用**公共领域奉献1.0（CC0）**。详情请参见<https://creativecommons.org/publicdomain/zero/1.0/deed.en>；"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:41
 msgid ""
 "The open Creative Commons **Attribution 4.0 International (CC BY) licence**,"
 " which means users of the data are free to:"
-msgstr "开放式知识共享 ** 署名 4.0 国际 (CC BY) 许可**，这意味着数据用户可以自由使用："
+msgstr "开放式知识共享**署名4.0国际（CC BY）许可**，这意味着数据用户可以自由地："
 
 #: ../../annex_I.md:43
 msgid "Share — Copy and redistribute the material in any medium or format."
-msgstr "分享 — 在任何媒介以任何形式复制、再分发本作品。"
+msgstr "分享 — 在任何媒介或以任何形式复制、再分发作品。"
 
 #: ../../annex_I.md:44
 msgid "Adapt — Remix, transform, and build upon the material."
-msgstr "演绎 — 再混合、转换或以本作品为基础进行创作。"
+msgstr "演绎 — 再混合、转换作品以及基于作品进行创作。"
 
 #: ../../annex_I.md:46
 msgid ""
 "However, in return for using the data, users must respect the following "
 "terms:"
-msgstr "但是，作为使用这些数据的回报，用户必须遵守以下条款："
+msgstr "但是，在使用这些数据时，用户必须遵守以下条款："
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:48
 msgid ""
 "Attribution — Users must give appropriate credit, provide a link to the "
 "licence and indicate if changes were made. Users may do so in any reasonable"
 " manner."
-msgstr "署名--用户必须适当署名，提供许可链接，并说明是否进行了修改。用户可以任何合理的方式这样做。"
+msgstr "署名 — 用户必须适当署名，提供许可链接，并说明是否进行了修改。用户可以任何合理的方式来做到这点。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:50
 msgid ""
 "See <https://creativecommons.org/licenses/by/4.0/deed.en> for further "
 "information (translated into all United Nations languages)."
 msgstr ""
-"更多信息见 <https://creativecommons.org/licenses/by/4.0/deed.en>（译成联合国所有语文）。"
+"更多信息见<https://creativecommons.org/licenses/by/4.0/deed.en>（已译成所有联合国语言）。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:52
 msgid ""
 "Either of these options will ensure national data can be legally, "
@@ -231,9 +205,8 @@ msgid ""
 "global and regional status and trends in land degradation and drought and "
 "for seamless data sharing with UNCCD partners."
 msgstr ""
-"这两种方案中的任何一种都将确保国家数据可以合法、可靠和一致地在各系统间重复使用，以便更好地跟踪全球和区域土地退化和干旱的状况和趋势，并与《荒漠化公约》合作伙伴进行无缝数据共享。"
+"这两种选项中的任何一种都将确保国家数据可以合法、可靠和一致地在各系统间重复使用，以便更好地跟踪全球和区域土地退化和干旱的状况和趋势，并与《联合国防治荒漠化公约》合作伙伴进行无缝数据共享。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:54
 msgid ""
 "However, licences with the SA constraint are NOT recommended as it makes "
@@ -243,11 +216,10 @@ msgid ""
 " use national reports licensed with NC-SA or SA in the regional and global "
 "aggregate statistics and maps that are licensed with the BY-NC."
 msgstr ""
-"但是，不建议使用具有 SA 约束的许可，因为这将使国家报告的再利用变得更加复杂，因为需要进行许可堆叠--"
-"将多个许可与不同的、有时是相互冲突的使用条件结合在一起。例如，秘书处将无法在 BY-NC 许可的区域和全球汇总统计数据和地图中使用 NC-SA 或 SA"
-" 许可的国家报告。"
+"但是，不建议使用具有SA约束的许可，因为这将使国家报告的再使用变得更加复杂，因为需要进行许可堆叠 - "
+"将多个具有不同的、有时是相互冲突的使用条件的许可结合。例如，秘书处将无法在BY-NC许可的区域和全球汇总统计数据和地图中使用NC-"
+"SA或SA许可的国家报告。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:56
 msgid ""
 "For these reasons, Parties that license data with SA must grant the "
@@ -257,15 +229,12 @@ msgid ""
 "licence, but still must grant the secretariat explicit permission on the USL"
 " form to use that data in regional and global aggregates."
 msgstr ""
-"由于这些原因，使用 SA 许可的缔约方必须在用户特定许可 (USL) 表上明确允许秘书处在区域和全球汇总中使用该数据。或者，如果 \"知识共享 "
-"\"许可都不合适，缔约方可以报告自定义许可，但仍然必须在 \"用户特定许可 \"表格上明确允许秘书处在区域和全球汇总中使用该数据。"
+"由于这些原因，使用SA许可的缔约方必须在用户特定许可（USL）表上明确允许秘书处在区域和全球汇总中使用该数据。或者，如果知识共享许可都不合适，缔约方可以报告自定义许可，但仍然必须在用户特定许可表格上明确允许秘书处在区域和全球汇总中使用该数据。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:58
 msgid "3.2 User Specific Licence (USL)"
-msgstr "3.2 特定用户许可证（USL）"
+msgstr "3.2 特定用户许可（USL）"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:60
 msgid ""
 "Taking the explanation of the licence options provided in section 3.1 into "
@@ -275,15 +244,13 @@ msgid ""
 "\"Spatial Layers\" tab or directly from the country “Overview” page in the "
 "list of menu items on the right hand side."
 msgstr ""
-"考虑到第 3.1 节对许可证选项的解释，缔约方应选择特定用户许可证 (USL)，通过填写 PRAIS "
-"中提供的许可证表格来确定其国家报告中所载数据的使用条款，该表格可从 \"空间图层 \"选项卡中 访问，或直接从右侧菜单项列表中的国家 \"概览 "
-"\"页面访问。"
+"考虑到第3.1节对许可选项的解释，缔约方应选择特定用户许可（USL），通过填写PRAIS中提供的许可表格来确定其国家报告中所载数据的使用条款，该表格可从\"空间图层\"选项卡中访问，或直接从右侧菜单项列表中的国家\"概览\"页面访问。"
 
 #: ../../annex_I.md:62
 msgid ""
 "By choosing a USL, the user consents to the chosen licence. It is understood"
 " that the following terms and conditions are agreed to:"
-msgstr "通过选择用户特定许可（USL），即表示用户同意了所选择的许可证，并且双方同意以下条款和条件："
+msgstr "选择用户特定许可（USL），即表示用户同意选定的许可。已知悉同意以下条款和条件："
 
 #: ../../annex_I.md:64
 msgid ""
@@ -292,16 +259,16 @@ msgid ""
 "Convention to Combat Desertification (UNCCD) or the United Nations, "
 "including its subsidiary organs."
 msgstr ""
-"本用户特定许可（USL）中的任何内容或与之相关的内容都不应被视为明示或暗示放弃《联合国防治荒漠化公约》（《荒漠化公约》）或联合国（包括其附属机构）的任何特权和豁免权。"
+"本用户特定许可（USL）中的任何内容或与之相关的内容都不应被视为明示或暗示放弃《联合国防治荒漠化公约（UNCCD）》或联合国（包括其附属机构）的任何特权和豁免权。"
 
 #: ../../annex_I.md:65
 msgid ""
 "The name and emblem of the UNCCD is the property of the UNCCD, which owns "
 "all rights to its use. The logo can only be used to identify events and "
 "activities related to the UNCCD."
-msgstr "《荒漠化公约》的名称和标志是《荒漠化公约》的财产，《荒漠化公约》拥有其所有使用权。该标志只能用于识别与《荒漠化公约》有关的事件和活动。"
+msgstr ""
+"《联合国防治荒漠化公约》的名称和徽标是《联合国防治荒漠化公约》的财产，《联合国防治荒漠化公约》拥有其所有使用权。徽标只能用于识别与《联合国防治荒漠化公约》有关的事件和活动。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:67
 msgid ""
 "The UNCCD shall not be held responsible for any use of information beyond "
@@ -322,24 +289,19 @@ msgid ""
 "is not already in the public domain or its source licence applies additional"
 " restriction on use of the data)."
 msgstr ""
-"如果事先未按照《荒漠化公约》明示和通知的条件寻求并获得授权，则《荒漠化公约》不应对超出本USL规定的任何信息使用负责。为国家报告之目的，USL将确定PRAIS上托管并由《荒漠化公约》秘书处管理的国家数据集的再利用条件。就本协议而言，\"数据"
-" \"包括任何国家数据，特别是国家缔约方在向 UNCCD 提交报告过程中通过在 PRAIS 空间数据查看器上创建、使用 PRAIS 上传工具或通过 "
-"Trends.Earth 或其他第三方软件工具提供的空间数据和相关属性数据。秘书处在履行第 11/COP.14 "
-"号决定规定的任务时，将在区域和全球汇总地图、统计数据和其他信息产品中使用这些数据，并可应要求向《荒漠化公约》的合作伙伴提供这些数据，但有一项谅解，即合作伙伴应阅读并同意受统一使用标准中规定的使用条款和条件的约束（如果数据尚未进入公共领域，或其源许可证对数据的使用施加了额外限制）。"
+"如果事先未按照《联合国防治荒漠化公约》明示和通知的条件寻求并获得授权，则《联合国防治荒漠化公约》不应对超出本USL规定的任何信息使用负责。为国家报告之目的，USL将确定在PRAIS上托管并由《联合国防治荒漠化公约》秘书处管理的国家数据集的再使用条件。就本协议而言，\"数据\"包括任何国家数据，特别是国家缔约方在向UNCCD提交报告过程中，通过在PRAIS空间数据查看器s上创建、使用PRAIS上传工具或者通过Trends.Earth或其他第三方软件工具提供的空间数据和相关属性数据。秘书处在履行第11/COP.14号决定规定的任务时，将在区域和全球汇总地图、统计数据和其他信息产品中使用这些数据，并可应要求向《联合国防治荒漠化公约》的合作伙伴提供这些数据，但有一项谅解，即合作伙伴应阅读并同意受统一使用标准中规定的使用条款和条件的约束（如果数据尚未进入公共领域，或其源许可对数据的使用施加了额外限制）。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:72
 msgid ""
 "Therefore, country Parties should familiarize themselves with the options "
 "described above and fill out the licence form accordingly."
-msgstr "因此，国家缔约方应熟悉上述选项，并据此填写许可证表格。"
+msgstr "因此，国家缔约方应熟悉上述选项，并据此填写许可表格。"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_I.md:74
 msgid ""
 "Parties should note that if no USL form is submitted then the default CC BY-"
 "NC 4.0 license will apply to the submitted Data."
-msgstr "缔约方应注意，如果没有提交 USL 表格，则默认的 CC BY-NC 4.0 许可将适用于所提交的数据。"
+msgstr "缔约方应注意，如果没有提交USL表格，则默认的CC BY-NC 4.0许可将适用于所提交的数据。"
 
 #~ msgid "2. Introduction"
 #~ msgstr "2. 简介"

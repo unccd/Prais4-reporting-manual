@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-03 15:18+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-08-27 15:16+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,9 +19,8 @@ msgstr ""
 
 #: ../../annex_II.md:1
 msgid "Annex II: Metadata"
-msgstr "المرفق الثاني: البيانات الوصفية"
+msgstr "الملحق الثاني: البيانات الوصفية"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:3
 msgid ""
 "Parties may decide not to use the default data provided when reporting on "
@@ -30,37 +29,33 @@ msgid ""
 "the pop-up form associated with these new data sources. Four fields have to "
 "be completed using free text:"
 msgstr ""
-"يجوز للأطراف أن تقرر عدم استخدام البيانات الافتراضية المقدمة عند الإبلاغ عن "
-"أي من مؤشرات SO. وعندما تستخدم الأطراف مجموعات بيانات بديلة، يجب إدخال "
-"مجموعة دنيا من البيانات الفوقية لتحديد مصدر البيانات عن طريق ملء الاستمارة "
-"المنبثقة المرتبطة بمصادر البيانات الجديدة هذه. ويجب ملء أربعة حقول باستخدام "
-"نص حر:"
+"يجوز للأطراف عدم استخدام البيانات الافتراضية المقدَّمة عند تقديم التقارير "
+"بشأن أي من مؤشرات الأهداف الاستراتيجية. وعندما تستخدم الأطراف مجموعات بيانات"
+" بديلة، يجب إدخال حد أدنى من البيانات الوصفية لتحديد مصدر البيانات عن طريق "
+"استكمال النموذج المنبثق المرتبط بمصادر البيانات الجديدة هذه. ويتعين تعبئة "
+"أربعة حقول باستخدام نص حر:"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:5
 msgid "**Title**: The text label used to uniquely identify the dataset"
 msgstr "**العنوان**: التسمية النصية المستخدمة للتعريف الفريد لمجموعة البيانات"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:7
 msgid ""
 "**Source Link/Identifier**: this can be a hyperlink to the dataset itself or"
 " a unique identifier of the dataset. If a DOI exists it can be inserted "
 "here."
 msgstr ""
-"** رابط/معرّف المصدر**: يمكن أن يكون هذا رابطًا تشعبيًا لمجموعة البيانات "
+"**رابط/معرّف المصدر**: يمكن أن يكون هذا رابطًا تشعبيًا لمجموعة البيانات "
 "نفسها أو معرّفًا فريدًا لمجموعة البيانات. في حالة وجود معرّف DOI يمكن إدراجه"
 " هنا."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:9
 msgid ""
 "**Author/Publisher**: the person(s) or institution which publishes the "
 "dataset"
 msgstr ""
-"**المؤلف/الناشر**: الشخص (الأشخاص) أو المؤسسة التي تنشر مجموعة البيانات"
+"**المؤلف/الناشر**: الشخص(الأشخاص) أو المؤسسة التي تنشر مجموعة البيانات"
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:11
 msgid ""
 "**Bibliographical Citation**: This should be a full and comprehensive "
@@ -69,12 +64,11 @@ msgid ""
 " the publication in which the dataset is cited (e.g. journal, report, book) "
 "and the place of publication."
 msgstr ""
-"** الاقتباس الببليوغرافي**: يجب أن يكون هذا اقتباساً كاملاً وشاملاً لمجموعة "
+"**الاقتباس الببليوغرافي**: يجب أن يكون هذا اقتباسًا كاملًا وشاملًا لمجموعة "
 "البيانات، بما في ذلك إن أمكن، مؤلفي مجموعة البيانات، وسنة النشر، والعنوان "
 "الكامل لمجموعة البيانات أو منشور ذي صلة، والمنشور الذي تم الاستشهاد فيه "
 "بمجموعة البيانات (مثل مجلة، تقرير، كتاب) ومكان النشر."
 
-# Requires manual validation; translated with DeepL
 #: ../../annex_II.md:13
 msgid ""
 "The metadata form only appears in reporting forms where quantitative data "
@@ -84,8 +78,8 @@ msgid ""
 msgstr ""
 "لا يظهر نموذج البيانات الوصفية إلا في نماذج الإبلاغ التي يتم فيها الإبلاغ عن"
 " البيانات الكمية، عندما يتحول المستخدم من البيانات \"الافتراضية\" إلى "
-"البيانات \"الوطنية\" وينقر على زر \"تحرير البيانات الافتراضية\". يوجد نموذج "
-"بيانات وصفية واحد لكل نموذج مؤشر ذي صلة."
+"البيانات \"الوطنية\" وينقر فوق زر \"Edit Default Data\" (تحرير البيانات "
+"الافتراضية). يوجد نموذج بيانات وصفية واحد لكل نموذج مؤشر ذي صلة."
 
 #~ msgid "1. Introduction"
 #~ msgstr "1- مقدمة"

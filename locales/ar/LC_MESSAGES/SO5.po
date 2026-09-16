@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-03 15:18+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-08-27 15:16+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -23,14 +23,13 @@ msgid ""
 "and non-financial resources to support the implementation of the Convention "
 "by building effective partnerships at global and national level"
 msgstr ""
-"5- الهدف الاستراتيجي 5: تعبئة موارد مالية وغير مالية كبيرة وإضافية لدعم "
+"‎5.‎ الهدف الاستراتيجي 5: تعبئة موارد مالية وغير مالية كبيرة وإضافية لدعم "
 "تنفيذ الاتفاقية من خلال بناء شراكات فعّالة على الصعيدَين العالمي والوطني"
 
 #: ../../SO5.md:3
 msgid "Structure and aim of the SO 5 indicator framework"
-msgstr "هيكل وهدف إطار المؤشر SO 5"
+msgstr "هيكل وهدف إطار مؤشر الهدف الاستراتيجي 5"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:5
 msgid ""
 "The SO5 indicator framework builds on the previous 2022 UNCCD reporting "
@@ -44,30 +43,27 @@ msgid ""
 "of the CBD, with the aim of increasing synergies in data collection and "
 "reporting."
 msgstr ""
-"يستند إطار مؤشرات الهدف الاستراتيجي الخامس إلى عملية الإبلاغ السابقة "
-"لاتفاقية الأمم المتحدة لمكافحة التصحر لعام 2022، وقد تم تنقيحه مع مراعاة "
-"التوجيهات المقدمة من خلال توصيات لجنة استعراض تنفيذ الاتفاقية ومقررات مؤتمر "
-"الأطراف (المقرر 11/م أ-14، والمقرر 11/م أ-15، والمقرر 12/م أ-16) وتعليقات "
-"مستخدمي نظام استعراض الأداء وتقييم التنفيذ 4. ويأخذ إطار الإبلاغ المنقح "
-"الخاص بالهدف الاستراتيجي 5 في الاعتبار تجارب الإبلاغ الحالية بموجب اتفاقيات "
-"ريو الأخرى، بما في ذلك إطار الشفافية المعزز لاتفاقية الأمم المتحدة الإطارية "
-"بشأن تغير المناخ وآخر التطورات في إطار رصد إطار كونمينغ - مونتريال العالمي "
-"للتنوع البيولوجي لاتفاقية التنوع البيولوجي، بهدف زيادة التآزر في جمع "
-"البيانات والإبلاغ."
+"يستند إطار مؤشرات الهدف الاستراتيجي 5 إلى عملية الإبلاغ السابقة لاتفاقية "
+"الأمم المتحدة لمكافحة التصحُّر (UNCCD) لعام 2022، وقد تم تنقيحه مع مراعاة "
+"التوجيهات المقدَّمة من خلال توصيات لجنة استعراض تنفيذ الاتفاقية ومقررات "
+"مؤتمر الأطراف (المقرر 11/COP14، والمقرر 11/COP15، والمقرر 12/ COP16) "
+"وتعليقات مستخدمي نظام استعراض الأداء وتقييم التنفيذ 4. ويأخذ إطار الإبلاغ "
+"المنقح الخاص بالهدف الاستراتيجي 5 في الاعتبار تجارب الإبلاغ الحالية بموجب "
+"اتفاقيات ريو الأخرى، بما في ذلك إطار الشفافية المعزز لاتفاقية الأمم المتحدة "
+"الإطارية بشأن تغير المناخ وآخر التطورات في إطار رصد إطار كونمينغ - مونتريال "
+"العالمي للتنوُّع البيولوجي لاتفاقية التنوُّع البيولوجي، بهدف زيادة التآزر في"
+" جمع البيانات والإبلاغ."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:7
 msgid "The main improvements concern:"
 msgstr "تتعلق التحسينات الرئيسية بـ"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:9
 msgid "the provision of expanded default data (for SO5-1, SO5-2 and SO5-3);"
 msgstr ""
 "توفير البيانات الافتراضية الموسعة (للهدف الاستراتيجي 5-1 والهدف الاستراتيجي "
-"5-2 والهدف الاستراتيجي 5-3);"
+"5-2 والهدف الاستراتيجي 5-3)؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:11
 msgid ""
 "the provision of enhanced methodological guidance through a Good Practice "
@@ -76,20 +72,18 @@ msgstr ""
 "توفير إرشادات منهجية معززة من خلال وثيقة إرشادات الممارسة الجيدة للهدف "
 "الاستراتيجي 5 (بدلاً من مذكرة منهجية);"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:13
 msgid ""
 "collection of quantitative data for indicator SO5-5 on future support for "
 "activities related to the implementation of the Convention."
 msgstr ""
-"جمع البيانات الكمية للمؤشر SO5-5 بشأن الدعم المستقبلي للأنشطة المتعلقة "
-"بتنفيذ الاتفاقية."
+"جمع البيانات الكمية للمؤشر الهدف الاستراتيجي 5-5 بشأن الدعم المستقبلي "
+"للأنشطة المتعلقة بتنفيذ الاتفاقية."
 
 #: ../../SO5.md:15
 msgid "Tier approach for SO 5"
-msgstr "نهج المستوى للهدف الاستراتيجي SO 5"
+msgstr "نهج المستوى للهدف الاستراتيجي الهدف الاستراتيجي 5"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:17
 msgid ""
 "The SO5 indicator framework offers flexibility in reporting by using Tiers "
@@ -100,16 +94,14 @@ msgstr ""
 "للمؤشرات من الهدف الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-4، مما يسهل "
 "الإبلاغ للبلدان الأطراف التي تفتقر إلى البيانات الكمية و/أو التفصيلية."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:19
 msgid ""
 "**Reporting trends for SO5-1 and SO5-2 constitute the minimum reporting "
 "requirement against the SO5 indicator.**"
 msgstr ""
-"** يشكل الإبلاغ عن الاتجاهات بالنسبة للهدف الاستراتيجي 5-1 والهدف "
+"**يشكِّل الإبلاغ عن الاتجاهات بالنسبة للهدف الاستراتيجي 5-1 والهدف "
 "الاستراتيجي 5-2 الحد الأدنى المطلوب للإبلاغ عن مؤشر الهدف الاستراتيجي 5.**."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:21
 msgid ""
 "Tier 1 (qualitative reporting) includes information on trends (i.e. "
@@ -124,7 +116,6 @@ msgstr ""
 " عن معلومات وصفية ونوعية ذات صلة بالمؤشر. ويتم توجيه تقديم المعلومات النوعية"
 " من خلال شكل جدولي مع قوائم منسدلة تسمح بإدراج معلومات وصفية."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:23
 msgid ""
 "Tier 2 (quantitative reporting) is additional to Tier 1 reporting and "
@@ -133,15 +124,13 @@ msgstr ""
 "المستوى 2 (الإبلاغ الكمي) هو مستوى إضافي للإبلاغ عن المستوى 1 ويوفر تنسيقات "
 "جدولية يتم ملؤها بالقيم النقدية. وهو يشمل:"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:24
 msgid ""
 "A summary table, filled with aggregate values for the specific indicator, "
 "integrated in the PRAIS4 interface;"
 msgstr ""
-"جدول ملخص، مملوء بالقيم الإجمالية للمؤشر المحدد، مدمج في واجهة PRAIS4;"
+"جدول ملخص، مملوء بالقيم الإجمالية للمؤشر المحدد، مدمج في واجهة PRAIS4؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:26
 msgid ""
 "An Excel spreadsheet aimed at collecting detailed quantitative and "
@@ -154,16 +143,15 @@ msgid ""
 "disaggregated information will be reflected in the summary tables (see "
 "section “Validating default data for SO5-1 to SO5-3\")."
 msgstr ""
-"جدول بيانات \"إكسل\" يهدف إلى جمع معلومات كمية ووصفية مفصلة على أعلى مستوى "
-"تصنيف متاح (أي على مستوى المشاريع والمبادرات الفردية التي تكافح التصحر "
+"جدول بيانات Excel يهدف إلى جمع معلومات كمية ووصفية مفصلة على أعلى مستوى "
+"تصنيف متاح (أي على مستوى المشاريع والمبادرات الفردية التي تكافح التصحُّر "
 "وتدهور الأراضي والجفاف) على طول البارامترات المحددة المدرجة في الأعمدة. "
 "يتضمن جدول بيانات برنامج Excel البيانات الافتراضية حسب البلد المتاح. تجميع "
 "البيانات على مستوى النشاط هو الخيار الموصى به. وتستند المجاميع المعروضة في "
-"الجداول الموجزة إلى جدول بيانات إكسل على مستوى النشاط، وستنعكس أي تغييرات في"
-" المعلومات المصنفة في الجداول الموجزة (انظر القسم \"التحقق من صحة البيانات "
-"الافتراضية للهدف الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-3\")."
+"الجداول الموجزة إلى جدول بيانات Excel على مستوى النشاط، وستنعكس أي تغييرات "
+"في المعلومات المصنفة في الجداول الموجزة (انظر القسم \"التحقق من صحة البيانات"
+" الافتراضية للهدف الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-3\")."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:28
 msgid ""
 "Country Parties may choose to provide aggregate information only, according "
@@ -175,7 +163,6 @@ msgstr ""
 "المبلغة. وينبغي أن تُستكمل جداول البيانات بمعلومات عن التعاريف والمنهجيات "
 "المستخدمة للبارامترات ذات الصلة."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:30
 msgid ""
 "To the extent possible the Global Mechanism seeks to pre-populate "
@@ -198,12 +185,12 @@ msgstr ""
 "مسبقاً وتعديل المعلومات الكمية حسب الحاجة باستخدام بياناتها المالية المتاحة "
 "على المستوى القطري."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:32
 msgid "Validating default data for SO5-1 to SO5-3"
-msgstr "التحقق من صحة البيانات الافتراضية ل SO5-1 إلى SO5-3"
+msgstr ""
+"التحقق من صحة البيانات الافتراضية للهدف الاستراتيجي 5-1 إلى الهدف "
+"الاستراتيجي 3"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:34
 msgid ""
 "For indicators SO5-1, SO5-2 and SO5-3, Parties are requested to validate the"
@@ -216,13 +203,12 @@ msgid ""
 msgstr ""
 "بالنسبة للمؤشرات الهدف الاستراتيجي 5-1 والهدف الاستراتيجي 5-2 والهدف "
 "الاستراتيجي 5-3، يُطلب من الأطراف التحقق من صحة البيانات الافتراضية الكمية "
-"المقدمة من الآلية العالمية. ولهذا الغرض، يُطلب من الأطراف ** تنزيل البيانات "
-"الافتراضية على مستوى النشاط لبلدانها** بالنقر على زر \"تنزيل\" في قسم "
-"\"البيانات الكمية\" تحت كل مؤشر من مؤشرات التقدم الثلاثة في منصة نظام "
+"المقدَّمة من الآلية العالمية. ولهذا الغرض، يُطلب من الأطراف ** تنزيل "
+"البيانات الافتراضية على مستوى النشاط لبلدانها** بالنقر على زر \"تنزيل\" في "
+"قسم \"البيانات الكمية\" تحت كل مؤشر من مؤشرات التقدم الثلاثة في منصة نظام "
 "استعراض الأداء وتقييم التنفيذ 4. ويوفر هذا الزر ملف Excel يُطلب من الأطراف "
 "حفظه على نظمها الحاسوبية الخاصة بها."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:36
 msgid ""
 "Parties are asked to verify the activity-level default data provided in the "
@@ -233,14 +219,13 @@ msgid ""
 "Practice Guidance and following the methodologies and approaches explained "
 "therein."
 msgstr ""
-"يُطلب من الأطراف التحقق من البيانات الافتراضية على مستوى النشاط المقدمة في "
-"ملف Excel للتأكد من دقتها. وسيتضمن ذلك على الأرجح الرجوع إلى مختلف الوزارات "
-"والوكالات للتحقق من سجلات المعلومات المتعلقة بتدفقات الموارد المتعلقة "
-"بالتصحر وتدهور الأراضي والجفاف والأنشطة ذات الصلة. وينبغي أن تضع الأطراف في "
-"اعتبارها أن البيانات الافتراضية يتم توفيرها من مصادر البيانات كما هو موضح في"
-" إرشادات الممارسة الجيدة واتباع المنهجيات والنهج الموضحة فيها."
+"يُطلب من الأطراف التحقق من البيانات الافتراضية على مستوى النشاط المقدَّمة في"
+" ملف Excel للتأكد من دقتها. وسيتضمن ذلك على الأرجح الرجوع إلى مختلف الوزارات"
+" والوكالات للتحقق من سجلات المعلومات المتعلقة بتدفقات الموارد المتعلقة "
+"بالتصحُّر وتدهور الأراضي والجفاف والأنشطة ذات الصلة. وينبغي أن تضع الأطراف "
+"في اعتبارها أن البيانات الافتراضية يتم توفيرها من مصادر البيانات كما هو "
+"موضَّح في إرشادات الممارسة الجيدة واتباع المنهجيات والنهج الموضَّحة فيها."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:38
 msgid ""
 "Thereafter, Parties will select one of three options: confirming default "
@@ -249,7 +234,6 @@ msgstr ""
 "بعد ذلك، ستختار الأطراف أحد الخيارات الثلاثة: تأكيد البيانات الافتراضية أو "
 "تصحيح البيانات الافتراضية أو رفض البيانات الافتراضية."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:40
 msgid ""
 "**Confirming the default data provided** in the Excel spreadsheet does not "
@@ -258,12 +242,11 @@ msgid ""
 "of the national reporting of the country. In case no default data is "
 "provided, see “correcting default data”."
 msgstr ""
-"** لا يترتب على تأكيد البيانات الافتراضية المقدمة** في جدول بيانات إكسل أي "
+"** لا يترتب على تأكيد البيانات الافتراضية المقدمة** في جدول بيانات Excel أي "
 "إجراء من جانب الطرف. وستظل المبالغ المبينة في الجداول الموجزة كما هي، وسيؤدي"
 " تقديمها إلى تأكيد الأرقام كجزء من الإبلاغ الوطني للبلد. وفي حالة عدم تقديم "
 "بيانات افتراضية، انظر \"تصحيح البيانات الافتراضية\"."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:42
 msgid ""
 "**Correcting default data** entails that Parties will **upload modified "
@@ -291,7 +274,6 @@ msgstr ""
 "ولن تكون هناك حاجة إلى إدخال بيانات يدوية أخرى في الجداول الموجزة الخاصة "
 "بمؤشرات التقدم هذه."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:44
 msgid ""
 "In providing updated data, Parties are asked to compile the Excel "
@@ -299,12 +281,11 @@ msgid ""
 " updating activity-level information, **Parties are requested to avoid "
 "double-counting across SO5-1, SO5-2 and SO5-3** progress indicators."
 msgstr ""
-"يُطلب من الأطراف، عند تقديم بيانات محدثة، تجميع جدول بيانات برنامج إكسل "
+"يُطلب من الأطراف، عند تقديم بيانات محدثة، تجميع جدول بيانات برنامج Excel "
 "بالبيانات على أعلى مستوى متاح من التفصيل. وعند تحديث المعلومات على مستوى "
 "الأنشطة، **يُطلب من الأطراف تجنب الحساب المزدوج عبر مؤشرات التقدم الخاصة "
 "بالهدف الاستراتيجي 5-1 والهدف الاستراتيجي 5-2 والهدف الاستراتيجي 5-3**."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:46
 msgid ""
 "**Reject all activity-level data**. Through this option, country Parties "
@@ -315,16 +296,15 @@ msgid ""
 "resource flows into the summary data tables provided under the SO5-1 through"
 " SO5-4 indicators, as part of their Tier 2 reporting."
 msgstr ""
-"** رفض جميع البيانات على مستوى النشاط**. من خلال هذا الخيار، تختار البلدان "
+"**رفض جميع البيانات على مستوى النشاط**. من خلال هذا الخيار، تختار البلدان "
 "الأطراف عدم استخدام أي من البيانات الافتراضية المتعلقة بالأنشطة المتصلة "
-"بالتصحر وتدهور الأراضي والجفاف المقدمة في نظام استعراض الأداء وتقييم التنفيذ"
-" 4. في هذه الحالة، يُطلب من البلدان الأطراف تحديد خيار \"استخدام البيانات "
-"المخصصة\" في قسم \"البيانات الكمية\" تحت كل مؤشر من مؤشرات التقدم وإدخال "
-"المبالغ الإجمالية السنوية لتدفقات الموارد يدويًا في جداول البيانات الموجزة "
-"المقدمة في إطار مؤشرات الهدف الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-4، كجزء"
-" من تقارير المستوى 2."
+"بالتصحُّر وتدهور الأراضي والجفاف المقدَّمة في نظام استعراض الأداء وتقييم "
+"التنفيذ 4. في هذه الحالة، يُطلب من البلدان الأطراف تحديد خيار \"استخدام "
+"البيانات المخصصة\" في قسم \"البيانات الكمية\" تحت كل مؤشر من مؤشرات التقدم "
+"وإدخال المبالغ الإجمالية السنوية لتدفقات الموارد يدويًا في جداول البيانات "
+"الموجزة المقدَّمة في إطار مؤشرات الهدف الاستراتيجي 5-1 إلى الهدف الاستراتيجي"
+" 5-4، كجزء من تقارير المستوى 2."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:48
 msgid ""
 "In summary, Parties are asked to preferably either confirm or correct the "
@@ -335,15 +315,14 @@ msgid ""
 "data will also offer the greatest possible level of detail, at the activity "
 "level, in the reporting process on Strategic Objective 5 of the Convention."
 msgstr ""
-"وخلاصة القول، يُطلب من الأطراف أن تؤكد أو تصحح البيانات الافتراضية المقدمة "
-"إليها. وسيسهل ذلك إلى حد كبير جهود الإبلاغ اللاحقة في إطار مؤشرات الهدف "
+"وخلاصة القول، يُطلب من الأطراف أن تؤكد أو تصحح البيانات الافتراضية المقدَّمة"
+" إليها. وسيسهل ذلك إلى حد كبير جهود الإبلاغ اللاحقة في إطار مؤشرات الهدف "
 "الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-3، إذ قد لا يكون من الضروري إدخال "
-"المزيد من البيانات الكمية المتعلقة بتدفقات الموارد المتصلة بالتصحر وتدهور "
+"المزيد من البيانات الكمية المتعلقة بتدفقات الموارد المتصلة بالتصحُّر وتدهور "
 "الأراضي والجفاف يدوياً في عملية الإبلاغ. كما سيوفر تأكيد البيانات الافتراضية"
 " أو تصحيحها أكبر مستوى ممكن من التفاصيل، على مستوى النشاط، في عملية الإبلاغ "
 "عن الهدف الاستراتيجي 5 من الاتفاقية."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:50
 msgid ""
 "For SO5-4, no default data are provided, but Parties will be able to "
@@ -356,13 +335,12 @@ msgstr ""
 
 #: ../../SO5.md:52
 msgid "5.1. SO 5-1 – Bilateral and multilateral public resources"
-msgstr "5-1 الهدف الاستراتيجي SO 5-1 - موارد عامة ثنائية ومتعددة الأطراف"
+msgstr "‎5.1.‎ الهدف الاستراتيجي 5-1 - موارد عامة ثنائية ومتعددة الأطراف"
 
 #: ../../SO5.md:54
 msgid "5.1.1. Introduction"
-msgstr "5-1-1 مقدمة"
+msgstr "‎5.1.1.‎ مقدمة"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:56
 msgid ""
 "This indicator aims at capturing the information on international resources "
@@ -372,17 +350,16 @@ msgid ""
 "multilateral resources, information on both resources provided and received "
 "should be reported."
 msgstr ""
-"يهدف هذا المؤشر إلى جمع المعلومات عن الموارد الدولية المقدمة و/أو المتلقاة "
-"من خلال القنوات الثنائية والمتعددة الأطراف لتنفيذ الاتفاقية. وإذا كان البلد "
-"الطرف المبلِّغ مقدماً ومتلقياً للموارد الدولية العامة الثنائية و/أو المتعددة"
-" الأطراف، فينبغي الإبلاغ عن المعلومات المتعلقة بكل من الموارد المقدمة "
-"والمتلقاة."
+"يهدف هذا المؤشر إلى جمع المعلومات عن الموارد الدولية المقدَّمة و/أو المتلقاة"
+" من خلال القنوات الثنائية والمتعددة الأطراف لتنفيذ الاتفاقية. وإذا كان البلد"
+" الطرف المبلِّغ مقدماً ومتلقياً للموارد الدولية العامة الثنائية و/أو "
+"المتعددة الأطراف، فينبغي الإبلاغ عن المعلومات المتعلقة بكل من الموارد "
+"المقدَّمة والمتلقاة."
 
 #: ../../SO5.md:58
 msgid "5.1.2. Prerequisites for reporting"
-msgstr "5-1-2 الشروط المسبقة للإبلاغ"
+msgstr "‎5.1.2.‎ الشروط المسبقة للإبلاغ"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:60
 msgid ""
 "An in-depth reading of the [Good Practice Guidance for "
@@ -395,11 +372,10 @@ msgstr ""
 "قراءة متعمقة لـ [إرشادات الممارسة الجيدة للهدف الاستراتيجي 5] "
 "(https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-"
 "national-reporting-unccd-strategic-objective-5)، والتي تقدم لمحة عامة عن "
-"الهدف الاستراتيجي 5، والمنهجية التي تقوم عليها البيانات الافتراضية المقدمة "
-"ومصادر البيانات الأخرى المحتملة والأساليب المنهجية التي يمكن استخدامها "
-"للإبلاغ عن مؤشر الهدف الاستراتيجي 5;"
+"الهدف الاستراتيجي 5، والمنهجية التي تقوم عليها البيانات الافتراضية المقدَّمة"
+" ومصادر البيانات الأخرى المحتملة والأساليب المنهجية التي يمكن استخدامها "
+"للإبلاغ عن مؤشر الهدف الاستراتيجي 5؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:62
 msgid ""
 "Identification of experts to verify the reliability of the information "
@@ -409,22 +385,20 @@ msgid ""
 "provided for the implementation of DLDD activities and programs."
 msgstr ""
 "تحديد خبراء للتحقق من موثوقية سجلات المعلومات المتعلقة بالموارد المالية "
-"المتصلة بالتصحر وتدهور الأراضي والجفاف والأنشطة ذات الصلة. والوضع الأمثل هو "
-"أن يكون الخبراء على دراية بنظام الإبلاغ الموحد للجنة المساعدة الإنمائية "
+"المتصلة بالتصحُّر وتدهور الأراضي والجفاف والأنشطة ذات الصلة. والوضع الأمثل "
+"هو أن يكون الخبراء على دراية بنظام الإبلاغ الموحد للجنة المساعدة الإنمائية "
 "التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي و/أو جمع البيانات "
-"والإبلاغ عنها على المستوى الوطني بشأن الموارد الدولية المتلقاة و/أو المقدمة "
-"لتنفيذ أنشطة وبرامج التصحر وتدهور الأراضي والجفاف."
+"والإبلاغ عنها على المستوى الوطني بشأن الموارد الدولية المتلقاة و/أو "
+"المقدَّمة لتنفيذ أنشطة وبرامج التصحُّر وتدهور الأراضي والجفاف."
 
 #: ../../SO5.md:64
 msgid "5.1.3. Reporting process and step-by-step procedure"
-msgstr "5-1-3 عملية الإبلاغ والإجراءات التدريجية"
+msgstr "‎5.1.3.‎ عملية الإبلاغ والإجراءات التدريجية"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:66
 msgid "Step 1: Determining trends in international public resources"
 msgstr "الخطوة 1: تحديد الاتجاهات في الموارد العامة الدولية"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:68
 msgid ""
 "Tier 1 involves reporting trends in the progress indicator in qualitative "
@@ -436,18 +410,16 @@ msgid ""
 "reported figures."
 msgstr ""
 "ينطوي المستوى 1 على الإبلاغ عن الاتجاهات في مؤشر التقدم المحرز من الناحية "
-"النوعية، مع الإشارة إلى الاتجاهات في الموارد العامة الدولية المقدمة و/أو "
+"النوعية، مع الإشارة إلى الاتجاهات في الموارد العامة الدولية المقدَّمة و/أو "
 "المتلقاة (أي متزايدة أو مستقرة أو متناقصة أو غير معروفة) استناداً إلى رأي "
 "خبراء الطرف المبلغ على مدى فترة الإبلاغ الممتدة لأربع سنوات (2020-2023). "
 "ويفضل أن يستند تقييم الاتجاهات إلى بيانات كمية. وعند الإبلاغ عن المستوى 2 "
 "أيضاً، ينبغي أن تكون الاتجاهات متسقة مع الأرقام المبلغ عنها."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:70 ../../SO5.md:120 ../../SO5.md:172 ../../SO5.md:232
 msgid "Step 2: Qualitative reporting on example interventions"
 msgstr "الخطوة 2: إعداد التقارير النوعية عن أمثلة التدخلات"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:72
 msgid ""
 "Under Tier 1, SO5-1 requests descriptive and qualitative information "
@@ -458,12 +430,11 @@ msgid ""
 "for the implementation of the Convention."
 msgstr ""
 "في إطار المستوى 1، يطلب الهدف الاستراتيجي 5-1 معلومات وصفية ونوعية ذات صلة "
-"بالموارد العامة الدولية المقدمة و/أو المتلقاة من خلال القنوات الثنائية "
+"بالموارد العامة الدولية المقدَّمة و/أو المتلقاة من خلال القنوات الثنائية "
 "والمتعددة الأطراف. ويطلب إلى الأطراف ملء الجدول المرتبط بذلك، مع وصف أمثلة "
 "هامة للمبادرات أو دراسات الحالة في توفير و/أو تلقي الموارد العامة الدولية "
 "لتنفيذ الاتفاقية."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:74
 msgid ""
 "In doing so, Parties are asked to select the applicable sustainable land "
@@ -475,10 +446,9 @@ msgstr ""
 "وعند القيام بذلك، يُطلب من الأطراف اختيار تدابير الإدارة المستدامة للأراضي "
 "وتدابير التدخل في إدارة الأراضي القابلة للتطبيق، باستخدام القائمة المنسدلة "
 "المتاحة (يمكن الاختيار من بين عدة تدابير)، استناداً إلى فئات التدابير "
-"المستخدمة في تقييم الاحتياجات المالية لاتفاقية الأمم المتحدة لمكافحة التصحر "
-"(^2)."
+"المستخدمة في تقييم الاحتياجات المالية لاتفاقية الأمم المتحدة لمكافحة "
+"التصحُّر [^2]."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:76 ../../SO5.md:126
 msgid ""
 "Parties should also choose the most appropriate option in the drop-down "
@@ -492,12 +462,10 @@ msgstr ""
 "المستفادة لكل مبادرة مقدمة. هناك أيضًا مجال لمشاركة معلومات إضافية، ويفضل أن"
 " يكون ذلك من خلال توفير رابط للوثائق الأساسية."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:80 ../../SO5.md:130 ../../SO5.md:182 ../../SO5.md:242
 msgid "Step 3: Providing quantitative data"
 msgstr "الخطوة 3: توفير البيانات الكمية"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:82
 msgid ""
 "Under Tier 2, the template provides a summary table (Table 1) with "
@@ -517,25 +485,23 @@ msgid ""
 msgstr ""
 "وفي إطار المستوى 2، يقدم النموذج جدولاً موجزاً (الجدول 1) يتضمن بيانات كمية "
 "مجمعة استناداً إلى البيانات الافتراضية (حيثما توافرت البيانات الافتراضية). "
-"ويبين الجدول المبالغ الإجمالية للموارد العامة الدولية المقدمة و/أو الموارد "
-"العامة الدولية المتلقاة لكل سنة من سنوات فترة الإبلاغ. في هذه المرحلة، يُطلب"
-" من الأطراف تنزيل البيانات الافتراضية على مستوى النشاط للهدف الاستراتيجي "
-"5-1، بالنقر على الزر المخصص، والتحقق منها. إذا لزم الأمر، يمكن للأطراف تصحيح"
-" البيانات الافتراضية (أو تقديم بيانات إذا لم تكن هناك بيانات افتراضية مدرجة)"
-" عن طريق تعديل جدول بيانات Excel وتحميل الملف إلى النظام. إذا تم تصحيح "
-"البيانات الافتراضية أو تقديمها من قبل الطرف، فإن البيانات الموجزة المعروضة "
-"ستعكس هذه المعلومات المحدثة. يمكن الإبلاغ عن المعلومات في جدول بيانات Excel "
-"بأي مستوى مرغوب فيه من التفاصيل. وبخلاف ذلك، يمكن للأطراف رفض البيانات "
-"الافتراضية وتجميع الجدول الموجز يدوياً بالبيانات المجمعة، كما هو موضح أعلاه "
-"تحت عنوان \"التحقق من صحة البيانات الافتراضية للهدف الاستراتيجي 5-1 إلى "
-"الهدف الاستراتيجي 5-3\"."
+"ويبين الجدول المبالغ الإجمالية للموارد العامة الدولية المقدَّمة و/أو الموارد"
+" العامة الدولية المتلقاة لكل سنة من سنوات فترة الإبلاغ. في هذه المرحلة، "
+"يُطلب من الأطراف تنزيل البيانات الافتراضية على مستوى النشاط للهدف "
+"الاستراتيجي 5-1، بالنقر على الزر المخصص، والتحقق منها. إذا لزم الأمر، يمكن "
+"للأطراف تصحيح البيانات الافتراضية (أو تقديم بيانات إذا لم تكن هناك بيانات "
+"افتراضية مدرجة) عن طريق تعديل جدول بيانات Excel وتحميل الملف إلى النظام. إذا"
+" تم تصحيح البيانات الافتراضية أو تقديمها من قِبل الطرف، فإن البيانات الموجزة"
+" المعروضة ستعكس هذه المعلومات المحدثة. يمكن الإبلاغ عن المعلومات في جدول "
+"بيانات Excel بأي مستوى مرغوب فيه من التفاصيل. وبخلاف ذلك، يمكن للأطراف رفض "
+"البيانات الافتراضية وتجميع الجدول الموجز يدوياً بالبيانات المجمعة، كما هو "
+"موضَّح أعلاه تحت عنوان \"التحقق من صحة البيانات الافتراضية للهدف الاستراتيجي"
+" 5-1 إلى الهدف الاستراتيجي 5-3\"."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:84 ../../SO5.md:136
 msgid "Step 4:  Offering general comments"
 msgstr "الخطوة 4: تقديم تعليقات عامة"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:86
 msgid ""
 "Reporting Parties are invited to offer any further comments and information "
@@ -544,12 +510,10 @@ msgstr ""
 "الأطراف المبلغة مدعوة إلى تقديم أي تعليقات ومعلومات إضافية تعتبر ذات صلة في "
 "حقل النص الحر المتاح."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:88 ../../SO5.md:140 ../../SO5.md:192 ../../SO5.md:252
 msgid "Step 5: Verify the results"
 msgstr "الخطوة 5: التحقق من النتائج"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:90 ../../SO5.md:142 ../../SO5.md:194
 msgid ""
 "Parties are requested to validate any default quantitative data from the "
@@ -561,12 +525,10 @@ msgstr ""
 " استخدامها في تجميع الاستمارات. وينبغي للخبراء أيضاً التحقق من اكتمال وصحة "
 "أي بيانات نوعية أو وطنية مستخدمة في استكمال التقارير."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:92 ../../SO5.md:144 ../../SO5.md:196 ../../SO5.md:256
 msgid "Step 6: Save form and make available for review"
 msgstr "الخطوة 6: حفظ النموذج وإتاحته للمراجعة"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:94 ../../SO5.md:146 ../../SO5.md:198 ../../SO5.md:258
 #: ../../SO5.md:306
 msgid ""
@@ -575,17 +537,15 @@ msgid ""
 "review and all comments have been resolved, the form can be marked as "
 "“Finalized” and then Saved."
 msgstr ""
-"بمجرد استكمال الاستمارة والتحقق منها من قبل الأطراف، ينبغي وضع علامة \"قيد "
-"المراجعة\" ثم حفظها. وحالما تستكمل اتفاقية الأمم المتحدة لمكافحة التصحر "
-"استعراضها ويتم البت في جميع التعليقات، يمكن وضع علامة \"قيد الاستعراض\" على "
-"الاستمارة ثم حفظها."
+"بمجرد اكتمال النموذج والتحقق منه من قِبل الأطراف، ينبغي وضع علامة عليه كـ "
+"\"قيد المراجعة\" ثم حفظه. وبمجرد استكمال اتفاقية الأمم المتحدة لمكافحة "
+"التصحُّر مراجعتها وحل جميع التعليقات، يمكن وضع علامة على النموذج كـ "
+"\"نهائي\" ثم حفظه."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:96
 msgid "5.1.3 Challenges"
-msgstr "5.1.3 التحديات"
+msgstr "‎5.1.3‎ التحديات"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:98
 msgid ""
 "In complementing default data with additional data in the activity-level "
@@ -596,7 +556,6 @@ msgstr ""
 "مستوى النشاط، يجب على الأطراف الانتباه إلى تجنب العد المزدوج أو الإبلاغ "
 "المزدوج عن الأنشطة والبرامج."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:100 ../../SO5.md:152 ../../SO5.md:204
 msgid ""
 "In reporting financial resources related to a single project financed "
@@ -616,13 +575,12 @@ msgstr ""
 
 #: ../../SO5.md:102
 msgid "5.2. SO5-2 – Domestic public resources"
-msgstr "5-2 الهدف الاستراتيجي SO5-2 - الموارد العامة المحلية"
+msgstr "‎5.2.‎ الهدف الاستراتيجي 2 - الموارد العامة المحلية"
 
 #: ../../SO5.md:104
 msgid "5.2.1. Introduction"
-msgstr "5-2-1 مقدمة"
+msgstr "‎5.2.1.‎ مقدمة"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:106
 msgid ""
 "Domestic resources are at the core of the implementation of the Convention. "
@@ -632,12 +590,10 @@ msgstr ""
 "تقع الموارد المحلية في صميم تنفيذ الاتفاقية. ويهدف هذا المؤشر إلى الحصول على"
 " معلومات عن الموارد العامة المحلية المعبأة لتنفيذ الاتفاقية."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:108
 msgid "5.2.2. Prerequisites for reporting"
-msgstr "5.2.2. المتطلبات الأساسية للإبلاغ"
+msgstr "‎5.2.2.‎ المتطلبات الأساسية للإبلاغ"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:110
 msgid ""
 "An in-depth reading of the [Good Practice Guidance for "
@@ -650,11 +606,10 @@ msgstr ""
 "قراءة متعمقة لـ [إرشادات الممارسة الجيدة للهدف الاستراتيجي 5] "
 "(https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-"
 "national-reporting-unccd-strategic-objective-5) التي تقدم لمحة عامة عن الهدف"
-" الاستراتيجي 5، والمنهجية التي تقوم عليها البيانات الافتراضية المقدمة ومصادر"
-" البيانات الأخرى المحتملة والأساليب المنهجية التي يمكن استخدامها للإبلاغ عن "
-"مؤشر الهدف الاستراتيجي 5;"
+" الاستراتيجي 5، والمنهجية التي تقوم عليها البيانات الافتراضية المقدَّمة "
+"ومصادر البيانات الأخرى المحتملة والأساليب المنهجية التي يمكن استخدامها "
+"للإبلاغ عن مؤشر الهدف الاستراتيجي 5؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:112
 msgid ""
 "Identification of experts to verify the reliability of the information "
@@ -665,23 +620,21 @@ msgid ""
 "national budgetary processes."
 msgstr ""
 "تحديد الخبراء للتحقق من موثوقية سجلات المعلومات المتعلقة بتدفقات الموارد "
-"المتعلقة بالتصحر وتدهور الأراضي والجفاف والأنشطة والبرامج ذات الصلة. والوضع "
-"الأمثل هو أن يكون الخبراء على دراية بنظام الإبلاغ عن نظام الإبلاغ الخاص "
-"بمنظمة التعاون والتنمية في الميدان الاقتصادي و/أو جمع البيانات والإبلاغ عنها"
-" على المستوى الوطني بشأن الموارد المحلية المخصصة لتنفيذ أنشطة وبرامج التصحر "
-"وتدهور الأراضي والجفاف، بما في ذلك من خلال عمليات الميزانية الوطنية."
+"المتعلقة بالتصحُّر وتدهور الأراضي والجفاف والأنشطة والبرامج ذات الصلة. "
+"والوضع الأمثل هو أن يكون الخبراء على دراية بنظام الإبلاغ عن نظام الإبلاغ "
+"الخاص بمنظمة التعاون والتنمية في الميدان الاقتصادي و/أو جمع البيانات "
+"والإبلاغ عنها على المستوى الوطني بشأن الموارد المحلية المخصصة لتنفيذ أنشطة "
+"وبرامج التصحُّر وتدهور الأراضي والجفاف، بما في ذلك من خلال عمليات الميزانية "
+"الوطنية."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:114
 msgid "5.2.3 Reporting process and step-by-step procedure"
-msgstr "5.2.3 عملية الإبلاغ والإجراءات خطوة بخطوة"
+msgstr "‎5.2.3‎ عملية الإبلاغ والإجراءات خطوة بخطوة"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:116
 msgid "Step 1: Determining trends in domestic public resources"
 msgstr "الخطوة 1: تحديد الاتجاهات في الموارد العامة المحلية"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:118
 msgid ""
 "Tier 1 involves reporting trends in the progress indicator in qualitative "
@@ -700,7 +653,6 @@ msgstr ""
 "الإبلاغ عن المستوى 2 أيضاً، ينبغي أن تكون الاتجاهات متسقة مع الأرقام المبلغ "
 "عنها."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:122
 msgid ""
 "Under Tier 1, SO5-2 requests descriptive and qualitative information "
@@ -715,7 +667,6 @@ msgstr ""
 "العام. ويطلب من الأطراف ملء الجدول المرتبط بذلك، مع وصف أمثلة هامة للمبادرات"
 " أو دراسات الحالة التي تعبئ الموارد العامة المحلية لتنفيذ الاتفاقية."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:124
 msgid ""
 "In doing so, Parties are asked to select the applicable sustainable land "
@@ -727,10 +678,9 @@ msgstr ""
 "وعند القيام بذلك، يُطلب من الأطراف اختيار تدابير الإدارة المستدامة للأراضي "
 "وتدابير التدخل في إدارة الأراضي القابلة للتطبيق، باستخدام القائمة المنسدلة "
 "المتاحة (يمكن الاختيار من بين عدة تدابير)، استناداً إلى فئات التدابير "
-"المستخدمة في تقييم الاحتياجات المالية لاتفاقية الأمم المتحدة لمكافحة التصحر "
-"(FNA)[^3]."
+"المستخدمة في تقييم الاحتياجات المالية لاتفاقية الأمم المتحدة لمكافحة "
+"التصحُّر (FNA)[^3]."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:132
 msgid ""
 "Under Tier 2, the template provides a summary table with quantitative "
@@ -743,7 +693,6 @@ msgstr ""
 "العام) والتمويل العام المحلي (الإيرادات العامة والاقتراض العام) لكل سنة من "
 "سنوات الفترة المشمولة بالتقرير."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:134
 msgid ""
 "At this stage, Parties are required to download activity-level default data "
@@ -761,14 +710,13 @@ msgstr ""
 "للهدف الاستراتيجي 5-2، بالنقر على الزر المخصص، والتحقق منها. إذا لزم الأمر، "
 "يمكن للأطراف تصحيح البيانات الافتراضية (أو تقديم البيانات إذا لم تكن هناك "
 "بيانات افتراضية مدرجة) عن طريق تعديل جدول بيانات Excel وتحميل الملف إلى "
-"النظام. إذا تم تصحيح البيانات الافتراضية أو تقديمها من قبل الطرف، فإن "
+"النظام. إذا تم تصحيح البيانات الافتراضية أو تقديمها من قِبل الطرف، فإن "
 "البيانات الموجزة المعروضة ستعكس هذه المعلومات المحدثة. يمكن الإبلاغ عن "
 "المعلومات في جدول بيانات Excel بأي مستوى مرغوب فيه من التفاصيل. وبخلاف ذلك، "
 "يمكن للأطراف رفض البيانات الافتراضية وتجميع الجدول الموجز يدوياً بالبيانات "
-"المجمعة، كما هو موضح أعلاه تحت عنوان \"التحقق من صحة البيانات الافتراضية "
+"المجمعة، كما هو موضَّح أعلاه تحت عنوان \"التحقق من صحة البيانات الافتراضية "
 "للهدف الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-3\"."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:138 ../../SO5.md:250 ../../SO5.md:298
 msgid ""
 "Reporting country Parties are invited to offer any further comments and "
@@ -777,12 +725,10 @@ msgstr ""
 "يرجى من البلدان الأطراف المبلغة تقديم أي تعليقات ومعلومات إضافية تعتبر ذات "
 "صلة في حقل النص الحر المخصص لذلك."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:148
 msgid "5.2.4 Challenges"
-msgstr "5.2.4 التحديات"
+msgstr "‎5.2.4‎ التحديات"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:150
 msgid ""
 "In complementing default data with additional data in the activity-level "
@@ -795,13 +741,12 @@ msgstr ""
 
 #: ../../SO5.md:154
 msgid "5.3. SO5-3 – International and domestic private resources"
-msgstr "5-3 الهدف الاستراتيجي SO5-3 - الموارد الدولية والمحلية الخاصة"
+msgstr "‎5.3.‎ الهدف الاستراتيجي 3 - الموارد الدولية والمحلية الخاصة"
 
 #: ../../SO5.md:156
 msgid "5.3.1. Introduction"
-msgstr "5-3-1 مقدمة"
+msgstr "‎5.3.1.‎ مقدمة"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:158
 msgid ""
 "The indicator aims at capturing information on private (non-public) "
@@ -814,15 +759,14 @@ msgid ""
 msgstr ""
 "يهدف المؤشر إلى الحصول على معلومات عن الموارد الخاصة (غير العامة) المعبأة من"
 " مصادر دولية ومحلية لتنفيذ الاتفاقية. وتشمل الموارد الخاصة الدولية تلك "
-"المقدمة إلى بلدان ثالثة والموارد الواردة من القطاع الخاص الأجنبي. أما "
+"المقدَّمة إلى بلدان ثالثة والموارد الواردة من القطاع الخاص الأجنبي. أما "
 "الموارد الخاصة المحلية فتشمل الموارد من القطاع الخاص في الطرف المبلغ. ويسمح "
 "المؤشر بالإبلاغ عن مصادر التمويل المبتكرة وعدد شركاء التمويل المشترك."
 
 #: ../../SO5.md:160
 msgid "5.3.2. Prerequisites for reporting"
-msgstr "5-3-2 الشروط المسبقة للإبلاغ"
+msgstr "‎5.3.2.‎ الشروط المسبقة للإبلاغ"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:162 ../../SO5.md:218 ../../SO5.md:274
 msgid ""
 "An in-depth reading of the [Good Practice Guidance for "
@@ -835,11 +779,10 @@ msgstr ""
 "قراءة متعمقة لـ [إرشادات الممارسة الجيدة للهدف الاستراتيجي 5] "
 "(https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-"
 "national-reporting-unccd-strategic-objective-5) التي تقدم لمحة عامة عن الهدف"
-" الاستراتيجي 5، والمنهجية التي تقوم عليها البيانات الافتراضية المقدمة ومصادر"
-" البيانات الأخرى المحتملة والأساليب المنهجية التي يمكن استخدامها للإبلاغ عن "
-"مؤشر الهدف الاستراتيجي 5;"
+" الاستراتيجي 5، والمنهجية التي تقوم عليها البيانات الافتراضية المقدَّمة "
+"ومصادر البيانات الأخرى المحتملة والأساليب المنهجية التي يمكن استخدامها "
+"للإبلاغ عن مؤشر الهدف الاستراتيجي 5؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:164
 msgid ""
 "Identification of experts to verify the reliability of the information "
@@ -853,26 +796,24 @@ msgid ""
 "the reporting country and the OECD DAC Private Development Finance database."
 msgstr ""
 "تحديد الخبراء للتحقق من موثوقية سجلات المعلومات المتعلقة بتدفقات الموارد "
-"المتعلقة بالتصحر وتدهور الأراضي والجفاف والأنشطة والبرامج ذات الصلة. ومن "
+"المتعلقة بالتصحُّر وتدهور الأراضي والجفاف والأنشطة والبرامج ذات الصلة. ومن "
 "الناحية المثالية، يتمتع الخبراء بمعارف تشمل ما يلي: أطر الإبلاغ الطوعية التي"
 " تستخدمها الشركات الخاصة الوطنية للإبلاغ عن استثماراتها وأنشطتها المتصلة "
 "بالبيئة داخل البلد المبلغ أو في بلدان ثالثة؛ وكيانات القطاع الخاص الوطنية "
-"الناشطة في مكافحة التصحر وتدهور الأراضي والجفاف أو المجالات ذات الصلة داخل "
-"البلد أو في بلدان ثالثة؛ وتدخلات تمويل المؤسسات الخيرية الدولية الخاصة في "
+"الناشطة في مكافحة التصحُّر وتدهور الأراضي والجفاف أو المجالات ذات الصلة داخل"
+" البلد أو في بلدان ثالثة؛ وتدخلات تمويل المؤسسات الخيرية الدولية الخاصة في "
 "البلد المبلغ وقاعدة بيانات تمويل التنمية الخاصة التابعة للجنة المساعدة "
 "الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي."
 
 #: ../../SO5.md:166
 msgid "5.3.3. Reporting process and step-by-step procedure"
-msgstr "5-3-3 عملية الإبلاغ والإجراءات التدريجية"
+msgstr "‎5.3.3.‎ عملية الإبلاغ والإجراءات التدريجية"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:168
 msgid ""
 "Step 1: Determining trends in international and domestic private resources"
 msgstr "الخطوة 1: تحديد الاتجاهات في الموارد الدولية والمحلية الخاصة"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:170
 msgid ""
 "Tier 1 involves reporting trends in the progress indicator in qualitative "
@@ -891,7 +832,6 @@ msgstr ""
 "الإبلاغ عن المستوى 2 أيضاً، ينبغي أن تكون الاتجاهات متسقة مع الأرقام المبلغ "
 "عنها."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:174
 msgid ""
 "Under Tier 1, SO5-3 requests descriptive and qualitative information "
@@ -905,7 +845,6 @@ msgstr ""
 "المرتبط بذلك، مع وصف أمثلة هامة للمبادرات أو دراسات الحالة التي تعبئ الموارد"
 " الخاصة لتنفيذ الاتفاقية."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:176
 msgid ""
 "In doing so, Parties are asked to select the applicable sustainable land "
@@ -917,10 +856,9 @@ msgstr ""
 "وعند القيام بذلك، يُطلب من الأطراف اختيار تدابير الإدارة المستدامة للأراضي "
 "وتدابير التدخل في إدارة الأراضي القابلة للتطبيق، باستخدام القائمة المنسدلة "
 "المتاحة (يمكن الاختيار من بين عدة تدابير)، استناداً إلى فئات التدابير "
-"المستخدمة في تقييم الاحتياجات المالية لاتفاقية الأمم المتحدة لمكافحة التصحر "
-"(FNA)[^4]."
+"المستخدمة في تقييم الاحتياجات المالية لاتفاقية الأمم المتحدة لمكافحة "
+"التصحُّر (FNA)[^4]."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:178 ../../SO5.md:238
 msgid ""
 "Parties should choose the most appropriate option in the drop-down menus as "
@@ -934,7 +872,6 @@ msgstr ""
 "المستفادة لكل مبادرة مقدمة. هناك أيضًا مجال لمشاركة معلومات إضافية، ويفضل أن"
 " يكون ذلك من خلال توفير رابط للوثائق الأساسية."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:184
 msgid ""
 "Under Tier 2, the template provides a summary table with quantitative "
@@ -950,7 +887,6 @@ msgstr ""
 "الفترة المشمولة بالتقرير. وتتعلق جميع المبالغ بالمبالغ الفعلية للأموال التي "
 "تم دفعها أو تلقيها خلال سنة معينة."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:186
 msgid ""
 "At this stage, Parties are required to download activity-level default data "
@@ -968,19 +904,17 @@ msgstr ""
 "للهدف الاستراتيجي 5-3 بالنقر على الزر المخصص والتحقق منها. إذا لزم الأمر، "
 "يمكن للأطراف تصحيح البيانات الافتراضية (أو تقديم البيانات إذا لم تكن هناك "
 "بيانات افتراضية مدرجة) عن طريق تعديل جدول بيانات Excel وتحميل الملف إلى "
-"النظام. إذا تم تصحيح البيانات الافتراضية أو تقديمها من قبل الطرف، فإن "
+"النظام. إذا تم تصحيح البيانات الافتراضية أو تقديمها من قِبل الطرف، فإن "
 "البيانات الموجزة المعروضة ستعكس هذه المعلومات المحدثة. يمكن الإبلاغ عن "
 "المعلومات في جدول بيانات Excel بأي مستوى مرغوب فيه من التفاصيل. وبخلاف ذلك، "
 "يمكن للأطراف رفض البيانات الافتراضية وتجميع الجدول الموجز يدوياً بالبيانات "
-"المجمعة، كما هو موضح أعلاه تحت عنوان \"التحقق من صحة البيانات الافتراضية "
+"المجمعة، كما هو موضَّح أعلاه تحت عنوان \"التحقق من صحة البيانات الافتراضية "
 "للهدف الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-3\"."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:188 ../../SO5.md:248
 msgid "Step 4: Offering general comments"
 msgstr "الخطوة 4: تقديم تعليقات عامة"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:190
 msgid ""
 "Reporting country Parties are invited to offer any further comments and "
@@ -989,12 +923,10 @@ msgstr ""
 "البلدان الأطراف المبلغة مدعوة إلى تقديم أي تعليقات ومعلومات إضافية تعتبر ذات"
 " صلة في حقل النص الحر ذي الصلة."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:200
 msgid "5.3.3 Challenges"
-msgstr "5.3.3.3 التحديات"
+msgstr "‎5.3.3‎ التحديات"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:202
 msgid ""
 "In complementing default data with additional data in the activity-level "
@@ -1007,13 +939,12 @@ msgstr ""
 
 #: ../../SO5.md:206
 msgid "5.4. SO5-4 – Technology transfer"
-msgstr "5-4 الهدف الاستراتيجي SO5-4 – نقل التكنولوجيا"
+msgstr "‎5.4.‎ الهدف الاستراتيجي 5-4 – نقل التكنولوجيا"
 
 #: ../../SO5.md:208
 msgid "5.4.1. Introduction"
-msgstr "5-4-1 مقدمة"
+msgstr "‎5.4.1.‎ مقدمة"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:210
 msgid ""
 "The Convention explicitly requires Parties to promote, finance and "
@@ -1026,11 +957,10 @@ msgid ""
 msgstr ""
 "وتطلب الاتفاقية صراحة من الأطراف تعزيز وتمويل وتيسير نقل التكنولوجيات "
 "السليمة بيئياً والمجدية اقتصادياً والمقبولة اجتماعياً ذات الصلة بمكافحة "
-"التصحر و/أو التخفيف من آثار الجفاف، وحيازتها وتكييفها وتطويرها؛ وتشجع على "
+"التصحُّر و/أو التخفيف من آثار الجفاف، وحيازتها وتكييفها وتطويرها؛ وتشجع على "
 "تيسير التعاون التكنولوجي بين البلدان الأطراف المتأثرة من خلال المساعدة "
 "المالية أو غيرها من الوسائل الملائمة، ومن خلال التعاون الدولي (المادة 20)."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:212
 msgid ""
 "This indicator aims at collecting information from Parties on the transfer "
@@ -1042,14 +972,13 @@ msgid ""
 "available from both public and private sources."
 msgstr ""
 "يهدف هذا المؤشر إلى جمع المعلومات من الأطراف عن نقل التكنولوجيات لتنفيذ "
-"الاتفاقية. وتشمل التدفقات الموارد الدولية المقدمة إلى البلدان الأخرى "
+"الاتفاقية. وتشمل التدفقات الموارد الدولية المقدَّمة إلى البلدان الأخرى "
 "والواردة منها، فضلاً عن أي نوع من أنواع الإنفاق المحلي (النفقات والاستثمار) "
 "لغرض نقل التكنولوجيا، سواء من القطاعين العام والخاص، فيما يتعلق بالتصدي "
-"للتحديات والقضايا المتعلقة بالتصحر وتدهور الأراضي والجفاف. وتشمل هذه "
+"للتحديات والقضايا المتعلقة بالتصحُّر وتدهور الأراضي والجفاف. وتشمل هذه "
 "التدفقات جميع الموارد ذات الصلة المتاحة من المصادر العامة والخاصة على حد "
 "سواء."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:214
 msgid ""
 "Initiatives reported under SO5-4 should be focused on technology development"
@@ -1075,29 +1004,29 @@ msgid ""
 msgstr ""
 "ينبغي أن تركز المبادرات المبلغ عنها في إطار الهدف الاستراتيجي 5-4 على تطوير "
 "التكنولوجيا ونقلها، على النحو المحدد في المسرد وفي [إطار نقل التكنولوجيا "
-"الخاص باتفاقية الأمم المتحدة لمكافحة التصحر] "
+"الخاص باتفاقية الأمم المتحدة لمكافحة التصحُّر] "
 "(https://www.unccd.int/sites/default/files/2022-05/220509%20UNCCD%20Technology%20Transfer%20Report.pdf)،"
 " وأن تكون متماشية مع [مجموعات التكنولوجيا الخاصة بالإدارة المستدامة للأراضي "
-"التابعة لاتفاقية الأمم المتحدة لمكافحة التصحر] (https://www.unccd.int/land-"
-"and-life/land-management-and-restoration/technologies-approaches/technology-"
-"groups). والهدف من الإبلاغ في ضوء هذا المؤشر هو إفراد الأنشطة والبرامج "
-"والاستثمارات والإنفاق والتمويل الذي يركز على تطوير التكنولوجيا ونقلها. ويعني"
-" ذلك أن المبالغ المتعلقة بالمشاريع أو المبادرات أو الأنشطة ذات الصلة بالمؤشر"
-" SO5-4 ستكون قد أدرجت بالفعل وتم الإبلاغ عنها في إطار البيانات المقدمة "
-"للمؤشرات SO5-1 إلى SO5-3، مما يؤدي إلى ازدواجية ضرورية في المعلومات بين "
-"المؤشر SO5-4 والمؤشرات الثلاثة الأخرى. وفي سياق تجميع البيانات على مستوى "
-"النشاط للمؤشرات من الهدف الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-3، سيكون من"
-" الممكن \"وضع علامة\" على صلة المبادرات بنقل التكنولوجيا. في حالة تجميع عمود"
-" نقل التكنولوجيا بـ \"نعم\"، سيتم إدراج المبلغ ذي الصلة في المبلغ الإجمالي "
-"في جدول الملخص تحت الهدف الاستراتيجي 5-4. لن يتم تجميع المبالغ المدرجة في "
-"الهدف الاستراتيجي 5-4 مع المبالغ المدرجة تحت الهدف الاستراتيجي 5-1 إلى الهدف"
-" الاستراتيجي 5-3، لتجنب الحساب المزدوج."
+"التابعة لاتفاقية الأمم المتحدة لمكافحة التصحُّر] "
+"(https://www.unccd.int/land-and-life/land-management-and-"
+"restoration/technologies-approaches/technology-groups). والهدف من الإبلاغ في"
+" ضوء هذا المؤشر هو إفراد الأنشطة والبرامج والاستثمارات والإنفاق والتمويل "
+"الذي يركز على تطوير التكنولوجيا ونقلها. ويعني ذلك أن المبالغ المتعلقة "
+"بالمشاريع أو المبادرات أو الأنشطة ذات الصلة بالمؤشر SO5-4 ستكون قد أدرجت "
+"بالفعل وتم الإبلاغ عنها في إطار البيانات المقدَّمة لمؤشرات الهدف الاستراتيجي"
+" 5-1 إلى الهدف الاستراتيجي 5-3، مما يؤدي إلى ازدواجية ضرورية في المعلومات "
+"بين المؤشر الهدف الاستراتيجي 5-4 والمؤشرات الثلاثة الأخرى. وفي سياق تجميع "
+"البيانات على مستوى النشاط للمؤشرات من الهدف الاستراتيجي 5-1 إلى الهدف "
+"الاستراتيجي 5-3، سيكون من الممكن \"وضع علامة\" على صلة المبادرات بنقل "
+"التكنولوجيا. في حالة تجميع عمود نقل التكنولوجيا بـ \"نعم\"، سيتم إدراج "
+"المبلغ ذي الصلة في المبلغ الإجمالي في جدول الملخص تحت الهدف الاستراتيجي 5-4."
+" لن يتم تجميع المبالغ المدرجة في الهدف الاستراتيجي 5-4 مع المبالغ المدرجة "
+"تحت الهدف الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-3، لتجنب الحساب المزدوج."
 
 #: ../../SO5.md:216
 msgid "5.4.2. Prerequisites for reporting"
-msgstr "5-4-2 الشروط المسبقة للإبلاغ"
+msgstr "‎5.4.2.‎ الشروط المسبقة للإبلاغ"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:220
 msgid ""
 "Identification of experts to verify the reliability of the information "
@@ -1112,27 +1041,25 @@ msgid ""
 "development and transfer implemented in the country or in third countries."
 msgstr ""
 "تحديد خبراء للتحقق من موثوقية سجلات المعلومات المتعلقة بتدفقات الموارد "
-"المتصلة بالتصحر وتدهور الأراضي والجفاف والأنشطة والبرامج ذات الصلة. ومن "
+"المتصلة بالتصحُّر وتدهور الأراضي والجفاف والأنشطة والبرامج ذات الصلة. ومن "
 "الناحية المثالية، يكون الخبراء على دراية بما يلي: [إطار اتفاقية الأمم "
-"المتحدة لمكافحة التصحر لنقل التكنولوجيا] "
+"المتحدة لمكافحة التصحُّر لنقل التكنولوجيا] "
 "(https://www.unccd.int/sites/default/files/2022-05/220509%20UNCCD%20Technology%20Transfer%20Report.pdf)"
 " وعمل [مجموعات التكنولوجيا الخاصة بالإدارة المستدامة للأراضي التابعة "
 "للاتفاقية] (https://www.unccd.int/land-and-life/land-management-and-"
 "restoration/technologies-approaches/technology-groups)؛ والتكنولوجيات "
-"المتعلقة بالتصحر وتدهور الأراضي والجفاف التي تم تطويرها و/أو نقلها داخل "
+"المتعلقة بالتصحُّر وتدهور الأراضي والجفاف التي تم تطويرها و/أو نقلها داخل "
 "البلد أو إلى بلدان ثالثة؛ والمشاريع والأنشطة بما في ذلك مكونات تطوير "
 "التكنولوجيا ونقلها المنفذة في البلد أو في بلدان ثالثة."
 
 #: ../../SO5.md:222
 msgid "5.4.3. Reporting process and step-by-step procedure"
-msgstr "5-4-3 عملية الإبلاغ والإجراءات التدريجية"
+msgstr "‎5.4.3.‎ عملية الإبلاغ والإجراءات التدريجية"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:224
 msgid "No default data is provided for this indicator."
 msgstr "لم يتم توفير بيانات افتراضية لهذا المؤشر."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:226
 msgid ""
 "Step 1: Determining trends in international and domestic resources for "
@@ -1140,7 +1067,6 @@ msgid ""
 msgstr ""
 "الخطوة 1: تحديد الاتجاهات في الموارد الدولية والمحلية لنقل التكنولوجيا"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:228
 msgid ""
 "Tier 1 reporting involves reporting trends in the progress indicator in "
@@ -1156,7 +1082,6 @@ msgstr ""
 "لدعم نقل التكنولوجيا استنادًا إلى رأي خبراء الطرف المبلغ على مدى فترة "
 "الإبلاغ التي تمتد لأربع سنوات (2020-2023)."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:230
 msgid ""
 "For international (public and private) resources for technology transfer, a "
@@ -1169,14 +1094,13 @@ msgid ""
 "with the reported figures."
 msgstr ""
 "فيما يتعلق بالموارد الدولية (العامة والخاصة) لنقل التكنولوجيا، يتم التمييز "
-"بين الموارد المقدمة إلى بلدان أخرى من أجل الأنشطة المنفذة فيها، والتمويل "
+"بين الموارد المقدَّمة إلى بلدان أخرى من أجل الأنشطة المنفذة فيها، والتمويل "
 "الوارد من الخارج للأنشطة المحلية، والموارد المحلية التي تم تعبئتها وإنفاقها "
 "داخل البلد الطرف المبلغ، بما في ذلك النفقات المتكررة المحلية والإنفاق "
 "الاستثماري المحلي. ويفضل أن يستند تقييم الاتجاهات إلى بيانات كمية. وعندما "
 "يتم الإبلاغ عن المستوى 2 أيضاً، ينبغي أن تكون الاتجاهات متسقة مع الأرقام "
 "المبلغ عنها."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:234
 msgid ""
 "Under Tier 1, SO5-4 requests descriptive and qualitative information "
@@ -1191,7 +1115,6 @@ msgstr ""
 "الأطراف ملء الجدول المرتبط بذلك، مع وصف أمثلة هامة للمبادرات أو دراسات "
 "الحالة التي تعبئ الموارد ذات الصلة لتنفيذ الاتفاقية."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:236
 msgid ""
 "In doing so, Parties are asked to select the applicable sustainable land "
@@ -1203,10 +1126,9 @@ msgstr ""
 "وعند القيام بذلك، يُطلب من الأطراف اختيار تدابير الإدارة المستدامة للأراضي "
 "وتدابير التدخل في إدارة الأراضي القابلة للتطبيق، باستخدام القائمة المنسدلة "
 "المتاحة (يمكن الاختيار من بين عدة تدابير)، استناداً إلى فئات التدابير "
-"المستخدمة في تقييم الاحتياجات المالية لاتفاقية الأمم المتحدة لمكافحة التصحر "
-"[^5]."
+"المستخدمة في تقييم الاحتياجات المالية لاتفاقية الأمم المتحدة لمكافحة "
+"التصحُّر [^5]."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:244
 msgid ""
 "Under Tier 2, the template provides a summary table with quantitative "
@@ -1223,15 +1145,14 @@ msgstr ""
 "في إطار المستوى 2، يقدم النموذج جدولاً موجزاً يتضمن بيانات كمية مجمعة. ويوضح"
 " الجدول المبالغ الإجمالية للموارد الدولية (العامة والخاصة) المقدمة، والموارد"
 " الدولية (العامة والخاصة) المتلقاة، والموارد المحلية (العامة والخاصة) "
-"المنفقة (النفقات والاستثمارات) لنقل تكنولوجيا التصحر وتدهور الأراضي والجفاف "
-"لكل سنة من سنوات الفترة المشمولة بالتقرير. تتعلق جميع المبالغ بالمبالغ "
-"الفعلية للأموال التي تم دفعها أو استلامها خلال سنة معينة. وبما أنه لم تقدم "
-"أي بيانات افتراضية للهدف الاستراتيجي 5-4، فإن المبالغ الإجمالية المبينة "
-"تتعلق بالأنشطة التي أشار الطرف إلى أنها ذات صلة بنقل التكنولوجيا في جداول "
-"بيانات برنامج إكسل للهدف الاستراتيجي 5-1 والهدف الاستراتيجي 5-2 والهدف "
-"الاستراتيجي 5-3."
+"المنفقة (النفقات والاستثمارات) لنقل تكنولوجيا التصحُّر وتدهور الأراضي "
+"والجفاف لكل سنة من سنوات الفترة المشمولة بالتقرير. تتعلق جميع المبالغ "
+"بالمبالغ الفعلية للأموال التي تم دفعها أو استلامها خلال سنة معينة. وبما أنه "
+"لم تقدم أي بيانات افتراضية للهدف الاستراتيجي 5-4، فإن المبالغ الإجمالية "
+"المبينة تتعلق بالأنشطة التي أشار الطرف إلى أنها ذات صلة بنقل التكنولوجيا في "
+"جداول بيانات برنامج Excel للهدف الاستراتيجي 5-1 والهدف الاستراتيجي 5-2 "
+"والهدف الاستراتيجي 5-3."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:246
 msgid ""
 "The SO5-4 summary table is compiled automatically from the tables SO5-1 to "
@@ -1239,11 +1160,12 @@ msgid ""
 "“technology transfer” column. Any changes in the SO5-1 to SO5-3 excel files "
 "will trigger also a recalculation for SO5-4."
 msgstr ""
-"يتم تجميع جدول ملخص SO5-4 تلقائيًا من جداول SO5-1 إلى SO5-3 من خلال تجميع "
-"المعلومات من الصفوف التي تحتوي على \"نعم\" في عمود \"نقل التكنولوجيا\". "
-"ستؤدي أي تغييرات في ملفات SO5-1 إلى SO5-3 إكسل إلى إعادة حساب SO5-4 أيضًا."
+"يتم تجميع جدول ملخص الهدف الاستراتيجي 5-4 تلقائيًا من جداول الهدف "
+"الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-3 من خلال تجميع المعلومات من الصفوف "
+"التي تحتوي على \"نعم\" في عمود \"نقل التكنولوجيا\". ستؤدي أي تغييرات في "
+"ملفات الهدف الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-3 الـ Excel إلى إعادة "
+"حساب الهدف الاستراتيجي 5-4 أيضًا."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:254
 msgid ""
 "Experts should also verify completeness and correctness of any qualitative "
@@ -1252,12 +1174,10 @@ msgstr ""
 "يجب على الخبراء أيضًا التحقق من اكتمال وصحة أي بيانات نوعية أو وطنية مستخدمة"
 " لاستكمال التقارير."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:260
 msgid "5.4.4. Challenges"
-msgstr "5.4.4. التحديات"
+msgstr "‎5.4.4.‎ التحديات"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:262
 msgid ""
 "In the case where Parties compile the “Technology transfer” column with "
@@ -1268,10 +1188,10 @@ msgid ""
 "the basis of the newly uploaded file."
 msgstr ""
 "في الحالة التي تقوم فيها الأطراف بتجميع عمود \"نقل التكنولوجيا\" بـ \"نعم\" "
-"في جداول بيانات إكسل للهدف الاستراتيجي 5-1 و/أو الهدف الاستراتيجي 5-2 و/أو "
+"في جداول بيانات Excel للهدف الاستراتيجي 5-1 و/أو الهدف الاستراتيجي 5-2 و/أو "
 "الهدف الاستراتيجي 5-3، وتجميع جدول بيانات الهدف الاستراتيجي 5-4 بشكل منفصل، "
 "ينبغي للأطراف الانتباه إلى الإبلاغ مرة أخرى عن المشاريع ذات الصلة في جداول "
-"الهدف الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-3 في جدول بيانات إكسل الجديد "
+"الهدف الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-3 في جدول بيانات Excel الجديد "
 "المخصص للهدف الاستراتيجي 5-4، حيث سيتم تحديث المجاميع على أساس الملف الذي تم"
 " تحميله حديثاً."
 
@@ -1280,14 +1200,13 @@ msgid ""
 "5.5. SO5-5 – Future support for activities related to the implementation of "
 "the Convention"
 msgstr ""
-"5-5 الهدف الاستراتيجي SO5-5 - دعم الأنشطة المتصلة بتنفيذ الاتفاقية في "
+"‎5.5.‎ الهدف الاستراتيجي 5-5 - دعم الأنشطة المتصلة بتنفيذ الاتفاقية في "
 "المستقبل"
 
 #: ../../SO5.md:266
 msgid "5.5.1. Introduction"
-msgstr "5-5-1 مقدمة"
+msgstr "‎5.5.1.‎ مقدمة"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:268
 msgid ""
 "This progress indicator has a broad scope, aiming to assess future financing"
@@ -1298,13 +1217,12 @@ msgid ""
 "term objectives, including land degradation neutrality (LDN) targets."
 msgstr ""
 "لمؤشر التقدم هذا نطاق واسع يهدف إلى تقييم التمويل المستقبلي اللازم لتنفيذ "
-"الأنشطة المتعلقة بالتصحر وتدهور الأراضي والجفاف في البلد من جميع المصادر - "
-"العامة والخاصة، الدولية والمحلية. وينبغي التركيز على أنشطة الاستثمار المتصلة"
-" بالتصحر وتدهور الأراضي والجفاف على المستوى القطري التي تحتاج إلى دعم على "
-"سبيل الأولوية لتحقيق أهداف البلدان الأطراف في الأجلين القريب والمتوسط، بما "
-"في ذلك أهداف التعادل في تدهور الأراضي."
+"الأنشطة المتعلقة بالتصحُّر وتدهور الأراضي والجفاف في البلد من جميع المصادر -"
+" العامة والخاصة، الدولية والمحلية. وينبغي التركيز على أنشطة الاستثمار "
+"المتصلة بالتصحُّر وتدهور الأراضي والجفاف على المستوى القطري التي تحتاج إلى "
+"دعم على سبيل الأولوية لتحقيق أهداف البلدان الأطراف في الأجلين القريب "
+"والمتوسط، بما في ذلك أهداف التعادل في تدهور الأراضي."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:270
 msgid ""
 "The primary objective of this progress indicator is to identify and report "
@@ -1318,14 +1236,13 @@ msgstr ""
 "وتسمى أيضًا الفجوة التمويلية - المرتبطة بالأهداف والتدابير المخطط لها والتي "
 "لا تزال تفتقر إلى الموارد المالية اللازمة لها والإبلاغ عنها. ويستخدم مصطلحا "
 "\"الاحتياجات المالية\" و\"الفجوة التمويلية\" بالتبادل للإشارة إلى الموارد "
-"الإضافية التي يلزم تعبئتها لتنفيذ التدابير المتعلقة بأهداف التصحر وتدهور "
+"الإضافية التي يلزم تعبئتها لتنفيذ التدابير المتعلقة بأهداف التصحُّر وتدهور "
 "الأراضي والجفاف."
 
 #: ../../SO5.md:272
 msgid "5.5.2. Prerequisites for reporting"
-msgstr "5-5-2 الشروط المسبقة للإبلاغ"
+msgstr "‎5.5.2.‎ الشروط المسبقة للإبلاغ"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:276
 msgid ""
 "Identification of experts to verify the reliability of the information "
@@ -1337,28 +1254,26 @@ msgid ""
 "sector activities related to DLDD."
 msgstr ""
 "تحديد الخبراء للتحقق من موثوقية سجلات المعلومات المتعلقة بتدفقات الموارد "
-"المتعلقة بالتصحر وتدهور الأراضي والجفاف والأنشطة والبرامج ذات الصلة. ومن "
+"المتعلقة بالتصحُّر وتدهور الأراضي والجفاف والأنشطة والبرامج ذات الصلة. ومن "
 "الناحية المثالية، يكون الخبراء على دراية بما يلي: الأولويات السياساتية "
-"والتخطيط الوطني المتعلق بالتصحر وتدهور الأراضي والجفاف والتصحر وتدهور "
+"والتخطيط الوطني المتعلق بالتصحُّر وتدهور الأراضي والجفاف والتصحُّر وتدهور "
 "الأراضي والجفاف، والميزانيات العامة، والتعهدات المالية المتعلقة بالبيئة "
-"والسياسات والتدابير المخطط لها المتعلقة بالتصحر وتدهور الأراضي والجفاف؛ "
+"والسياسات والتدابير المخطط لها المتعلقة بالتصحُّر وتدهور الأراضي والجفاف؛ "
 "ومعلومات القطاع الخاص وخطط الاستثمار ذات الصلة، ومجموعات البيانات المخصصة عن"
-" أنشطة القطاع الخاص المتعلقة بالتصحر وتدهور الأراضي والجفاف."
+" أنشطة القطاع الخاص المتعلقة بالتصحُّر وتدهور الأراضي والجفاف."
 
 #: ../../SO5.md:278
 msgid "5.5.3. Reporting process and step-by-step procedure"
-msgstr "5-5-3 عملية الإبلاغ والإجراءات التدريجية"
+msgstr "‎5.5.3.‎ عملية الإبلاغ والإجراءات التدريجية"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:280
 msgid ""
 "Step 1: Provide information on the financial needs or gap for the "
 "implementation of DLDD-related plans"
 msgstr ""
 "الخطوة 1: تقديم معلومات عن الاحتياجات المالية أو الفجوة المالية لتنفيذ الخطط"
-" المتعلقة بالتصحر وتدهور الأراضي والجفاف"
+" المتعلقة بالتصحُّر وتدهور الأراضي والجفاف"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:282
 msgid ""
 "Unlike the case for the other progress indicators for Strategic Objective 5,"
@@ -1371,24 +1286,23 @@ msgid ""
 "possible."
 msgstr ""
 "وخلافاً لما هو الحال بالنسبة لمؤشرات التقدم الأخرى للهدف الاستراتيجي 5، لا "
-"يوجد إبلاغ من قبل مستويات منفصلة للهدف الاستراتيجي 5-5. وبدلاً من ذلك، يُطلب"
-" من الأطراف ملء الجدول المقدم بأي معلومات ذات صلة متاحة لديها. ويمكن للأطراف"
-" التي ترغب في الإبلاغ بطريقة نوعية فقط الإبلاغ عن طريق وصف نوع التدابير التي"
-" ينقصها التمويل دون أن يكون ذلك بالضرورة من حيث التكلفة. ومع ذلك، تُشجَّع "
-"الأطراف على تحديد احتياجاتها المالية بالقيمة النقدية كلما أمكن ذلك."
+"يوجد إبلاغ من قِبل مستويات منفصلة للهدف الاستراتيجي 5-5. وبدلاً من ذلك، "
+"يُطلب من الأطراف ملء الجدول المقدم بأي معلومات ذات صلة متاحة لديها. ويمكن "
+"للأطراف التي ترغب في الإبلاغ بطريقة نوعية فقط الإبلاغ عن طريق وصف نوع "
+"التدابير التي ينقصها التمويل دون أن يكون ذلك بالضرورة من حيث التكلفة. ومع "
+"ذلك، تُشجَّع الأطراف على تحديد احتياجاتها المالية بالقيمة النقدية كلما أمكن "
+"ذلك."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:284
 msgid ""
 "Reporting Parties should select the type of DLDD-related plans that they "
 "wish to report on, using the drop-down options provided which include the "
 "type of objectives to be achieved and related activities to be supported."
 msgstr ""
-"يجب على الأطراف المبلغة تحديد نوع الخطط المتعلقة بالتصحر وتدهور الأراضي "
+"يجب على الأطراف المبلغة تحديد نوع الخطط المتعلقة بالتصحُّر وتدهور الأراضي "
 "والجفاف التي ترغب في الإبلاغ عنها، باستخدام الخيارات المنسدلة المتاحة التي "
 "تشمل نوع الأهداف التي سيتم تحقيقها والأنشطة ذات الصلة التي سيتم دعمها."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:286
 msgid ""
 "For each plan and objective, the specific DLDD targets should be listed. The"
@@ -1397,12 +1311,11 @@ msgid ""
 "that apply[^6]. This is followed by a description of each intervention "
 "measure that is planned."
 msgstr ""
-"بالنسبة لكل خطة وهدف، ينبغي إدراج الأهداف المحددة للتصحر وتدهور الأراضي "
+"بالنسبة لكل خطة وهدف، ينبغي إدراج الأهداف المحددة للتصحُّر وتدهور الأراضي "
 "والجفاف. وينبغي اختيار تدابير التدخل المرتبطة بالإدارة المستدامة للأراضي "
 "وإدارة الأراضي المخطط لها من القائمة المنسدلة المقدمة، مع اختيار جميع أنواع "
 "التدابير التي تنطبق[^6]. ويلي ذلك وصف لكل تدبير من تدابير التدخل المخطط لها."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:288
 msgid ""
 "It is emphasized that the primary objective is to identify and report on the"
@@ -1415,12 +1328,11 @@ msgid ""
 msgstr ""
 "يتم التشديد على أن الهدف الأساسي هو تحديد الاحتياجات المالية المرتبطة "
 "بالأهداف والتدابير المخطط لها والتي لم يتم تأمين التمويل لها بعد لتنفيذ "
-"الالتزامات الوطنية المتعلقة بالتصحر وتدهور الأراضي والجفاف والإبلاغ عنها. "
+"الالتزامات الوطنية المتعلقة بالتصحُّر وتدهور الأراضي والجفاف والإبلاغ عنها. "
 "وينبغي تحديد الحجم الإجمالي للاحتياجات المالية بوضوح والتعبير عنها بالدولار "
 "الأمريكي. وينبغي تحديد أفق الاستثمار المرتبط بهذه النفقات، بحيث يغطي سنوات "
 "الصرف المتوقع للموارد المالية اللازمة."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:290
 msgid ""
 "Parties should elaborate on the expected impacts and results of planned "
@@ -1429,26 +1341,22 @@ msgstr ""
 "يجب على الأطراف توضيح الآثار والنتائج المتوقعة للمبادرات المخطط لها وتحديد "
 "المجتمعات التي يتم دعمها بشكل أساسي."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:292
 msgid ""
 "Finally, any additional information for the respective DLDD-related plan and"
 " objective can be added and links to related documentation can be provided."
 msgstr ""
-"أخيرًا، يمكن إضافة أي معلومات إضافية للخطة والهدف المتعلقين بالتصحر وتدهور "
-"الأراضي والجفاف، ويمكن توفير روابط للوثائق ذات الصلة."
+"أخيرًا، يمكن إضافة أي معلومات إضافية للخطة والهدف المتعلقين بالتصحُّر وتدهور"
+" الأراضي والجفاف، ويمكن توفير روابط للوثائق ذات الصلة."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:296
 msgid "Step 2: Offering general comments"
 msgstr "الخطوة 2: تقديم تعليقات عامة"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:300
 msgid "Step 3: Verify the results"
 msgstr "الخطوة 3: التحقق من النتائج"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:302
 msgid ""
 "Experts should verify the completeness and correctness of any qualitative or"
@@ -1457,17 +1365,14 @@ msgstr ""
 "يجب أن يتحقق الخبراء من اكتمال وصحة أي بيانات نوعية أو وطنية مستخدمة في "
 "استكمال التقارير."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:304
 msgid "Step 4: Save form and make available for review"
 msgstr "الخطوة 4: حفظ النموذج وإتاحته للمراجعة"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:308
 msgid "5.5.4. Challenges"
-msgstr "5.5.4. التحديات"
+msgstr "‎5.5.4.‎ التحديات"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:310
 msgid ""
 "The financial needs or financing gap is often articulated by comparing "
@@ -1477,16 +1382,14 @@ msgid ""
 "sources."
 msgstr ""
 "وغالبًا ما يتم توضيح الاحتياجات المالية أو الفجوة التمويلية من خلال مقارنة "
-"الاستثمارات المطلوبة لتنفيذ الخطط المتعلقة بالتصحر وتدهور الأراضي والجفاف مع"
-" التدفق المتوقع والمبرمج بالفعل للاستثمارات القادمة. وينطوي توفير المعلومات "
-"المطلوبة على جمع المعلومات من مجموعة واسعة من المصادر."
+"الاستثمارات المطلوبة لتنفيذ الخطط المتعلقة بالتصحُّر وتدهور الأراضي والجفاف "
+"مع التدفق المتوقع والمبرمج بالفعل للاستثمارات القادمة. وينطوي توفير "
+"المعلومات المطلوبة على جمع المعلومات من مجموعة واسعة من المصادر."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:312
 msgid "5.6. Methodological information"
-msgstr "5.6. معلومات منهجية"
+msgstr "‎5.6.‎ معلومات منهجية"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:314
 msgid ""
 "A separate section of the PRAIS4 platform for SO5 is dedicated to "
@@ -1499,7 +1402,6 @@ msgstr ""
 "البارامترات ذات صلة بالمشاريع أو المبادرات أو الأنشطة في إطار الهدف "
 "الاستراتيجي 5-1 إلى الهدف الاستراتيجي 5-4."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:316
 msgid ""
 "The table shown in the dedicated section in PRAIS4 **includes methodological"
@@ -1510,14 +1412,13 @@ msgid ""
 "information if the default data are changed or the suggested approach is not"
 " followed."
 msgstr ""
-"يتضمن الجدول الموضح في القسم المخصص في نظام استعراض الأداء وتقييم التنفيذ 4 "
-"**معلومات منهجية للبيانات الافتراضية**، كما هو موضح في [إرشادات الممارسة "
-"الجيدة للهدف الاستراتيجي 5] (https://www.unccd.int/resources/manuals-and-"
+"يتضمن الجدول الموضَّح في القسم المخصص في نظام استعراض الأداء وتقييم التنفيذ "
+"4 **معلومات منهجية للبيانات الافتراضية**، كما هو موضَّح في [إرشادات الممارسة"
+" الجيدة للهدف الاستراتيجي 5] (https://www.unccd.int/resources/manuals-and-"
 "guides/good-practice-guidance-national-reporting-unccd-strategic-"
 "objective-5). يمكن للأطراف المبلغة قبول المعلومات المنهجية، أو دمج/تنقيح "
 "المعلومات إذا تم تغيير البيانات الافتراضية أو عدم اتباع النهج المقترح."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:318
 msgid ""
 "Furthermore, initiatives relevant to the transfer of DLDD technology should "
@@ -1527,20 +1428,18 @@ msgid ""
 "example, on the basis of the UNCCD SLM technology groups. For further "
 "guidance please refer to the Good Practice Guidance."
 msgstr ""
-"وعلاوة على ذلك، ينبغي تحديد المبادرات ذات الصلة بنقل تكنولوجيا التصحر وتدهور"
-" الأراضي والجفاف من خلال تجميع عمود \"نقل التكنولوجيا\" من قبل الطرف المبلغ."
-" وبالتالي، ينبغي للطرف المبلغ أن يشرح في المعلومات المنهجية كيفية تحديد "
-"المبادرات - على سبيل المثال، على أساس مجموعات تكنولوجيا الإدارة المستدامة "
-"للأراضي التابعة لاتفاقية الأمم المتحدة لمكافحة التصحر. لمزيد من الإرشادات "
-"يرجى الرجوع إلى إرشادات الممارسة الجيدة."
+"وعلاوة على ذلك، ينبغي تحديد المبادرات ذات الصلة بنقل تكنولوجيا التصحُّر "
+"وتدهور الأراضي والجفاف من خلال تجميع عمود \"نقل التكنولوجيا\" من قِبل الطرف "
+"المبلغ. وبالتالي، ينبغي للطرف المبلغ أن يشرح في المعلومات المنهجية كيفية "
+"تحديد المبادرات - على سبيل المثال، على أساس مجموعات تكنولوجيا الإدارة "
+"المستدامة للأراضي التابعة لاتفاقية الأمم المتحدة لمكافحة التصحُّر. لمزيد من "
+"الإرشادات يرجى الرجوع إلى إرشادات الممارسة الجيدة."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:320
 msgid ""
 "5.7. Compiling the template with activity-level data (Excel spreadsheet)"
-msgstr "5.7. تجميع القالب مع البيانات على مستوى النشاط (جدول بيانات Excel)"
+msgstr "‎5.7.‎ تجميع القالب مع البيانات على مستوى النشاط (جدول بيانات Excel)"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:322
 msgid ""
 "Default data for indicators SO5-1 to SO5-3 are provided through the Excel "
@@ -1553,9 +1452,8 @@ msgstr ""
 "الاستراتيجي 5-3 من خلال جدول بيانات Excel الذي يمكن تنزيله تحت كل قسم من "
 "أقسام \"البيانات الكمية\" للمؤشر المعني. وتفيد البيانات على مستوى النشاط "
 "الواردة في جدول البيانات جداول الملخصات في منصة نظام استعراض الأداء وتقييم "
-"التنفيذ 4، والتي تقوم تلقائيًا بتجميع المبالغ المقدمة على مستوى النشاط."
+"التنفيذ 4، والتي تقوم تلقائيًا بتجميع المبالغ المقدَّمة على مستوى النشاط."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:324
 msgid ""
 "It is possible to modify or add additional data (rows) into the Excel "
@@ -1568,10 +1466,10 @@ msgstr ""
 "من الممكن تعديل أو إضافة بيانات (صفوف) إضافية في جدول بيانات Excel. تقدم "
 "الفقرة التالية إرشادات بشأن تجميع جدول بيانات Excel. وللاطلاع على الإرشادات "
 "والتعاريف المنهجية، يرجى الرجوع إلى [إرشادات الممارسات الجيدة لجدول بيانات "
-"إكسل 5] (https://www.unccd.int/resources/manuals-and-guides/good-practice-"
-"guidance-national-reporting-unccd-strategic-objective-5)."
+"Excel للهدف الاستراتيجي 5](https://www.unccd.int/resources/manuals-and-"
+"guides/good-practice-guidance-national-reporting-unccd-strategic-"
+"objective-5)."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:326
 msgid ""
 "Each row in the table represents one activity, spending or funding, or "
@@ -1586,28 +1484,24 @@ msgstr ""
 "النشاط، والتي ينبغي تجميعها باتباع القوائم المنسدلة أو بكتابة نص حر. إذا لزم"
 " الأمر، يوفر ما يلي إرشادات حول تجميع البارامترات المختلفة في الأعمدة:"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:328
 msgid ""
 "Year: indicate the year in which the financial transaction has been "
 "recorded;"
-msgstr "السنة: الإشارة إلى السنة التي تم فيها تسجيل المعاملة المالية;"
+msgstr "السنة: الإشارة إلى السنة التي تم فيها تسجيل المعاملة المالية؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:330
 msgid ""
 "Provider of the funds: indicate the country or private institution that "
 "disbursed the funds;"
 msgstr ""
-"الجهة المقدمة للأموال: حدد الدولة أو المؤسسة الخاصة التي صرفت الأموال;"
+"الجهة المقدَّمة للأموال: حدد الدولة أو المؤسسة الخاصة التي صرفت الأموال؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:332
 msgid "Country name: For SO5-2 indicate the economic unit involved;"
 msgstr ""
-"اسم البلد: بالنسبة للهدف الاستراتيجي 5-2، أشر إلى الوحدة الاقتصادية المعنية;"
+"اسم البلد: بالنسبة للهدف الاستراتيجي 5-2، أشر إلى الوحدة الاقتصادية المعنية؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:334
 msgid ""
 "Recipient/beneficiary: indicate the country/region that is the beneficiary "
@@ -1619,18 +1513,16 @@ msgstr ""
 "المتلقي/المستفيد: حدد البلد/المستفيد من الأموال. بالنسبة للهدف الاستراتيجي "
 "5-1، إذا كنت بلداً مستفيداً، يمكنك الإشارة إلى اسم بلدك. بالنسبة للهدف "
 "الاستراتيجي 5-2: أشر إلى الوحدة الاقتصادية المعنية كوجهة للتحويل "
-"(جامع/المستفيد/المستفيد من الدفع);"
+"(جامع/المستفيد/المستفيد من الدفع)؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:336
 msgid ""
 "Channel: the channel is the first implementing entity of the project, "
 "initiative or activity. For SO5-2 indicate the geographic scope;"
 msgstr ""
 "القناة: القناة هي الكيان المنفذ الأول للمشروع أو المبادرة أو النشاط. بالنسبة"
-" للهدف الاستراتيجي 5-2 تشير إلى النطاق الجغرافي;"
+" للهدف الاستراتيجي 5-2 تشير إلى النطاق الجغرافي؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:338
 msgid ""
 "Title of project, initiative or activity, or other: indicate the title / "
@@ -1638,9 +1530,8 @@ msgid ""
 "name of the instrument;"
 msgstr ""
 "عنوان المشروع أو المبادرة أو النشاط، أو غير ذلك: الإشارة إلى عنوان/وصف موجز "
-"للمبادرة المتعلقة بالمبلغ المصروف أو اسم الأداة;"
+"للمبادرة المتعلقة بالمبلغ المصروف أو اسم الأداة؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:340
 msgid ""
 "Amount USD: provide amounts disbursed in the reported year in USD (not in "
@@ -1649,20 +1540,18 @@ msgid ""
 msgstr ""
 "المبلغ بالدولار الأمريكي: اذكر المبالغ المصروفة في السنة المبلغ عنها "
 "بالدولار الأمريكي (وليس بالعملات المحلية أو العملات الأخرى). يرجى تطبيق سعر "
-"الصرف للتحويل إلى الدولار الأمريكي إن أمكن;"
+"الصرف للتحويل إلى الدولار الأمريكي إن أمكن؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:342
 msgid ""
 "Amount: for SO5-2, provide amounts in domestic currency. Note that figures "
 "in the summary tables are provided in USD, applying exchange rates as "
 "provided in the SO5-2 ST sheet of the Excel file;"
 msgstr ""
-"المبلغ: بالنسبة للهدف الاستراتيجي 5-2، قدم المبالغ بالعملة المحلية. لاحظ أن "
-"الأرقام الواردة في الجداول الموجزة مقدمة بالدولار الأمريكي، مع تطبيق أسعار "
-"الصرف كما وردت في صحيفة SO5-2 ST في ملف Excel;"
+"المبلغ: بالنسبة للهدف الاستراتيجي الهدف الاستراتيجي 5-2، قدم المبالغ بالعملة"
+" المحلية. لاحظ أن الأرقام الواردة في الجداول الموجزة مقدمة بالدولار "
+"الأمريكي، مع تطبيق أسعار الصرف كما وردت في صحيفة SO5-2 ST في ملف Excel؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:344
 msgid ""
 "Sector: indicate the macro sector selecting from the drop-down list or "
@@ -1670,9 +1559,8 @@ msgid ""
 " the drop-down list;"
 msgstr ""
 "القطاع: حدد القطاع الكلي الذي تختاره من القائمة المنسدلة أو اختر قطاعًا آخر "
-"وحدد القطاع. نوصي باستخدام الاقتراحات من القائمة المنسدلة;"
+"وحدد القطاع. نوصي باستخدام الاقتراحات من القائمة المنسدلة؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:346
 msgid ""
 "Type of flow: use the drop-down list to choose the relevant type of flow. "
@@ -1689,27 +1577,24 @@ msgstr ""
 " رسمياً، أو أداة من القطاع الخاص؛ بالنسبة للهدف الاستراتيجي 5-2، بيّن ما إذا"
 " كان التدفق إنفاقاً أو استثماراً أو إيرادات أو اقتراضاً أو غير ذلك؛ بالنسبة "
 "للهدف الاستراتيجي 5-3، بيّن ما إذا كان التدفق تمويلاً إنمائياً خاصاً، أو "
-"استثماراً مباشراً أجنبياً خاصاً، أو تدفقات خاصة أخرى بشروط السوق;"
+"استثماراً مباشراً أجنبياً خاصاً، أو تدفقات خاصة أخرى بشروط السوق؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:348
 msgid ""
 "Financial instrument: use the drop-down list to choose the relevant "
 "financial instrument;"
 msgstr ""
-"الأداة المالية: استخدم القائمة المنسدلة لاختيار الأداة المالية ذات الصلة;"
+"الأداة المالية: استخدم القائمة المنسدلة لاختيار الأداة المالية ذات الصلة؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:350
 msgid "Instrument category: for SO5-2 indicate the instrument type;"
-msgstr "فئة الأداة: بالنسبة لـ SO5-2، أشر إلى نوع الأداة;"
+msgstr "فئة الأداة: بالنسبة للهدف الاستراتيجي 5-2، أشر إلى نوع الأداة؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:352
 msgid "Instrument type: for So5-2 indicate the detailed type of instrument;"
-msgstr "نوع الأداة: بالنسبة لـ So5-2، أشر إلى نوع الأداة التفصيلي;"
+msgstr ""
+"نوع الأداة: بالنسبة للهدف الاستراتيجي 5-2، أشر إلى نوع الأداة التفصيلي؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:354
 msgid ""
 "Type of support: indicate whether the objective of the project, initiative "
@@ -1717,10 +1602,9 @@ msgid ""
 "significant (other objectives are also pursued);"
 msgstr ""
 "نوع الدعم: الإشارة إلى ما إذا كان الهدف من المشروع أو المبادرة أو النشاط "
-"رئيسي (الهدف الرئيسي أو الحصري هو مكافحة التصحر وتدهور الأراضي والجفاف) أو "
-"مهم (يتم السعي لتحقيق أهداف أخرى أيضًا);"
+"رئيسي (الهدف الرئيسي أو الحصري هو مكافحة التصحُّر وتدهور الأراضي والجفاف) أو"
+" مهم (يتم السعي لتحقيق أهداف أخرى أيضًا)؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:356
 msgid ""
 "Amount of private resources USD: for SO5-1 and SO5-2, indicate the amount of"
@@ -1732,9 +1616,8 @@ msgstr ""
 "الاستراتيجي 5-2، أشر إلى مبلغ الموارد الخاصة التي تمت تعبئتها من خلال التدخل"
 " المالي العام المبلغ عنه في عمود \"المبلغ بالدولار الأمريكي\" أو \"المبلغ\"."
 " بالنسبة للهدف الاستراتيجي 5-3، أشر إلى المبلغ بالدولار الأمريكي للمعاملة "
-"الخاصة;"
+"الخاصة؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:358
 msgid ""
 "Leveraging mechanism for private mobilization: use the drop-down list to "
@@ -1742,10 +1625,9 @@ msgid ""
 "explained in the relevant OECD DAC methodology;"
 msgstr ""
 "آلية الاستدانة للتعبئة الخاصة: استخدم القائمة المنسدلة لاختيار آلية "
-"الاستدانة ذات الصلة للتعبئة الخاصة، كما هو موضح في منهجية لجنة المساعدة "
-"الإنمائية التابعة لمنظمة التعاون الاقتصادي والتنمية ذات الصلة;"
+"الاستدانة ذات الصلة للتعبئة الخاصة، كما هو موضَّح في منهجية لجنة المساعدة "
+"الإنمائية التابعة لمنظمة التعاون الاقتصادي والتنمية ذات الصلة؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:360
 msgid ""
 "Capacity building: indicate whether the project, initiative or activity is "
@@ -1753,10 +1635,9 @@ msgid ""
 "DLDD;"
 msgstr ""
 "بناء القدرات: الإشارة إلى ما إذا كان المشروع أو المبادرة أو النشاط يركز على "
-"بناء القدرات ذات الصلة بالتصحر وتدهور الأراضي والجفاف أو يحتوي على عنصر "
-"يتعلق ببناء القدرات ذات الصلة بالتصحر وتدهور الأراضي والجفاف;"
+"بناء القدرات ذات الصلة بالتصحُّر وتدهور الأراضي والجفاف أو يحتوي على عنصر "
+"يتعلق ببناء القدرات ذات الصلة بالتصحُّر وتدهور الأراضي والجفاف؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:362
 msgid ""
 "Technology transfer: indicate whether the project, initiative or activity is"
@@ -1768,15 +1649,14 @@ msgid ""
 "groups);"
 msgstr ""
 "نقل التكنولوجيا: بيّن ما إذا كان المشروع أو المبادرة أو النشاط يركز على نقل "
-"التكنولوجيا ذات الصلة بالتصحر وتدهور الأراضي والجفاف أو يحتوي على عنصر يتعلق"
-" بنقل التكنولوجيا، مع الإشارة إلى [إطار نقل التكنولوجيا في إطار اتفاقية "
-"الأمم المتحدة لمكافحة التصحر] "
+"التكنولوجيا ذات الصلة بالتصحُّر وتدهور الأراضي والجفاف أو يحتوي على عنصر "
+"يتعلق بنقل التكنولوجيا، مع الإشارة إلى [إطار نقل التكنولوجيا في إطار اتفاقية"
+" الأمم المتحدة لمكافحة التصحُّر] "
 "(https://www.unccd.int/sites/default/files/2022-05/220509%20UNCCD%20Technology%20Transfer%20Report.pdf)"
 " و[مجموعات التكنولوجيا الخاصة بالإدارة المستدامة للأراضي في إطار اتفاقية "
-"الأمم المتحدة لمكافحة التصحر] (https://www.unccd.int/land-and-life/land-"
-"management-and-restoration/technologies-approaches/technology-groups);"
+"الأمم المتحدة لمكافحة التصحُّر] (https://www.unccd.int/land-and-life/land-"
+"management-and-restoration/technologies-approaches/technology-groups)؛"
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:364
 msgid ""
 "Gender equality: indicate whether the project, initiative or activity "
@@ -1785,22 +1665,19 @@ msgstr ""
 "المساواة بين الجنسين: الإشارة إلى ما إذا كان المشروع أو المبادرة أو النشاط "
 "يدمج الاعتبارات المتعلقة بنوع الجنس."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:78
 msgid "UNCCD (2024b). See also the GPG."
 msgstr ""
-"اتفاقية الأمم المتحدة لمكافحة التصحر (2024 ب). انظر أيضاً فريق الخبراء "
+"اتفاقية الأمم المتحدة لمكافحة التصحُّر (2024b). انظر أيضاً فريق الخبراء "
 "الحكوميين."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:128
 msgid "UNCCD (2024b). See GPG."
-msgstr "اتفاقية الأمم المتحدة لمكافحة التصحر (2024 ب). انظر GPG."
+msgstr "اتفاقية الأمم المتحدة لمكافحة التصحُّر (2024b). انظر GPG."
 
-# Requires manual validation; translated with DeepL
 #: ../../SO5.md:180 ../../SO5.md:240 ../../SO5.md:294
 msgid "UNCCD (2024b)."
-msgstr "اتفاقية الأمم المتحدة لمكافحة التصحر (2024 ب)."
+msgstr "اتفاقية الأمم المتحدة لمكافحة التصحُّر (2024b)."
 
 #~ msgid "Introduction"
 #~ msgstr "مقدمة"

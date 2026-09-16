@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-10 15:57+0300\n"
+"POT-Creation-Date: 2026-09-11 15:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1069,7 +1069,7 @@ msgid "Information on land cover, land cover changes and land cover degradation 
 msgstr ""
 
 #: ../../SO1.md:466
-msgid "If the default datasets have been replaced with national land cover data, countries are encouraged to upload the relevant geospatial data to PRAIS 4. Any spatial data uploaded to the system must be supported by appropriate metadata describing the spatial data, as indicated in the data source form and further described in [Annex II](annex_II.md) of this manual."
+msgid "If the default datasets have been replaced with national land cover data, countries are encouraged to upload the relevant geospatial data to PRAIS 4. Any spatial data uploaded to the system must be supported by appropriate metadata describing the spatial data, as indicated in the data source form and further described in {doc}`Annex II <annex_II>` of this manual."
 msgstr ""
 
 #: ../../SO1.md:468

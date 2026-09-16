@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-03 15:18+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2026-09-10 16:48+0300\n"
+"PO-Revision-Date: 2026-08-27 15:26+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,13 +19,12 @@ msgstr ""
 
 #: ../../introduction.md:1
 msgid "Introduction"
-msgstr "导言"
+msgstr "简介"
 
 #: ../../introduction.md:3
 msgid "Background"
 msgstr "背景"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:5
 msgid ""
 "By its decision 7/COP.13, the Conference of the Parties (COP) to the United "
@@ -33,45 +32,39 @@ msgid ""
 "2018–2030 Strategic Framework, containing (a) five strategic objectives "
 "(SOs) and (b) an implementation framework. The SOs are:"
 msgstr ""
-"联合国防治荒漠化公约》（UNCCD）缔约方大会（COP）在其第 7/COP.13 号决定中通过了《联合国防治荒漠化公约 2018-2030 "
-"年战略框架》，其中包含（a）五个战略目标（SOs）和（b）一个实施框架。这些战略目标是："
+"《联合国防治荒漠化公约（UNCCD）》缔约方大会（COP）在其第7/COP.13号决定中通过了《联合国防治荒漠化公约2018-2030年战略框架》，其中包含"
+" (a) 五个战略目标（SO）和 (b) 一个实施框架。战略目标是："
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:7
 msgid ""
 "SO1: To improve the condition of affected ecosystems, combat "
 "desertification/land degradation, promote sustainable land management and "
 "contribute to land degradation neutrality;"
-msgstr "战略目标 1： 改善受影响生态系统的状况，防治荒漠化/土地退化，促进可持续土地管理，并为不出现土地退化现象做出贡献；"
+msgstr "战略目标1：改善受影响生态系统的状况，应对荒漠化/土地退化，促进可持续土地管理，并为土地退化中性做出贡献；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:9
 msgid "SO2: To improve the living conditions of affected populations;"
-msgstr "SO2：改善受影响人口的生活条件；"
+msgstr "战略目标2：改善受影响人口的生活条件；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:11
 msgid ""
 "SO3: To mitigate, adapt to, and manage the effects of drought in order to "
 "enhance resilience of vulnerable populations and ecosystems;"
-msgstr "战略目标 3：减轻、适应和管理干旱的影响，以提高脆弱人群和生态系统的复原力；"
+msgstr "战略目标3：缓解、适应和管理干旱的影响，以增强脆弱人群和生态系统的韧性；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:13
 msgid ""
 "SO4: To generate global environmental benefits through effective "
 "implementation of the UNCCD; and"
-msgstr "战略目标4： 通过有效执行《防治荒漠化公约》，产生全球环境效益；以及"
+msgstr "战略目标4：通过有效实施《联合国防治荒漠化公约》，产生全球环境效益；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:15
 msgid ""
 "SO5: To mobilize substantial and additional financial and non-financial "
 "resources to support the implementation of the Convention by building "
 "effective partnerships at global and national level."
-msgstr "SO5: 通过在全球和国家层面建立有效的伙伴关系，调动大量额外的财政和非财政资源，支持《公约》的实施。"
+msgstr "战略目标5：通过在全球和国家层面建立有效的伙伴关系，调动大量额外的金融和非金融资源，支持《公约》的实施。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:17
 msgid ""
 "The implementation framework (IF) defines the roles and responsibilities of "
@@ -93,12 +86,9 @@ msgid ""
 "for Implementation Framework, e.g. the Implementation Framework form for SO1"
 " is entitled ‘SO1-IF’."
 msgstr ""
-"实施框架 (IF) 规定了缔约方和《公约》机构在实现战略目标方面的作用和责任。根据 2022 年报告进程后对 IF 报告表的全面审查，在 2026 "
-"年国家报告周期中，IF "
-"将不作为一个独立的部分。相反，其内容将被纳入每个战略目标（SO）下的适当部分。秘书处内部磋商进一步确定了框架中的问题与各战略目标下所需数据之间可能存在的重叠。因此，对框架的三个核心组成部分"
-"--政策与规划、实地行动以及财政和非财政资源--"
-"进行了审查和重组，以便与最相关的战略目标保持一致。此外，在相关情况下，还可通过报告妇女参与、青年参与、土著人民和当地社区参与的情况，获取有关弱势和边缘化群体的信息。现在，缔约方可在每项战略目标下找到作为附加表格列出的《综合框架》的相应部分，表格以相应的战略目标编号和代表《实施框架》的"
-" \"IF \"表示，例如，战略目标1的《实施框架》表格标题为 \"SO1-IF\"。"
+"实施框架（IF）定义缔约方和《公约》机构在实现战略目标方面的作用和责任。根据2022年报告进程之后对实施框架报告表的全面审查，在2026年国家报告周期中，实施框架将不作为一个独立的部分。相反，其内容将被纳入每个战略目标（SO）下的适当部分。秘书处内部磋商进一步确定了框架中的问题与各战略目标下所需数据之间可能存在的重叠。因此，对框架的三个核心组成部分"
+" — 政策和规划、实地行动以及金融和非金融资源 — "
+"进行了审查和重组，以便与最相关的战略目标保持一致。此外，在相关情况下，还可通过报告妇女参与、青年参与、土著人民和当地社区参与的情况，获取有关弱势和边缘化群体的信息。现在，缔约方可在每项战略目标下找到作为附加表格列出的实施框架相应部分，表格以相应的战略目标编号和代表《实施框架》的\"IF\"表示，例如，战略目标1的《实施框架》表格标题为\"SO1-IF\"。"
 
 #: ../../introduction.md:25
 msgid ""
@@ -109,14 +99,12 @@ msgid ""
 "the Convention (CRIC) in reviewing the reports, are spelled out in decisions"
 " 13/COP.13 and 15/COP.13."
 msgstr ""
-"自2018年以来，通过国家报告进程定期审查了在执行《〈防治荒漠化公约〉2018-2030 "
-"年战略框架》方面取得的进展。第13/COP.13号和第15/COP.13号决定规定了报告程序以及《公约》执行情况审评委员会（审评委）在审评报告方面的作用和责任。"
+"自2018年以来，通过国家报告进程定期审查了在实施《联合国防治荒漠化公约》2018-2030年战略框架方面取得的进展。第13/COP.13号和第15/COP.13号决定规定了报告程序以及《公约》执行情况审评委员会（CRIC）在审评报告方面的角色和责任。"
 
 #: ../../introduction.md:27
 msgid "Purpose of national reporting"
 msgstr "国家报告的目的"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:29
 msgid ""
 "Information reported by Parties under the Convention is used in several "
@@ -139,10 +127,7 @@ msgid ""
 "that can help combat DLDD and their impacts on populations. In a nutshell, "
 "national reporting puts data and information on land to good use."
 msgstr ""
-"缔约方在《公约》下报告的信息有多种用途。这些信息用于监测实现可持续发展目标具体目标 15.3 "
-"的进展情况，并帮助指导国家和国际层面的政策制定，以防治荒漠化/土地退化和干旱 "
-"(DLDD)。这些信息有助于决策者更好地了解本国受影响最严重的地理区域，从而设计和实施更有针对性的措施和干预行动。一些国家已利用最新一轮报告（2022 "
-"年）中提供的数据和信息，制定了解决土地退化问题的国家行动计划，或将其中一些材料作为项目提案的一部分，以寻求国家和国际资金，在实地实施具体行动。缔约方的综合报告为如何优化报告和实施实地干预措施提供了实际示范，同时激励了其他缔约方，并加深了对执行《公约》的成功经验和挑战的理解。最后，报告信息在提高对可持续土地管理重要性的认识和倡导有助于防治荒漠化/土地退化和干旱及其对人口影响的土地恢复举措方面发挥着重要作用。简而言之，国家报告将有关土地的数据和信息用于良好用途。"
+"缔约方在《公约》下报告的信息有多种用途。这些信息用于监测实现可持续发展目标具体目标15.3的进展情况，并帮助指导国家和国际层面的政策制定，以应对荒漠化/土地退化和干旱（DLDD）。这些信息有助于决策者更好地了解本国受影响最严重的地理区域，从而设计和实施更有针对性的措施和干预行动。一些国家已利用最新一轮报告（2022年）中提供的数据和信息来制定解决土地退化问题的国家行动计划，或将其中一些材料作为项目提案的一部分，以寻求国家和国际资金，在实地实施具体行动。缔约方的综合报告为如何优化报告和实施实地干预措施提供了实际示范，同时激励了其他缔约方，并加深了对实施《公约》的成功经验和挑战的理解。最后，报告信息在提高对可持续土地管理重要性的认识和倡导有助于应对荒漠化/土地退化和干旱及其对人口影响的土地恢复举措方面发挥着重要作用。简而言之，国家报告将有关土地的数据和信息用于良好用途。"
 
 #: ../../introduction.md:37
 msgid "Indicator and monitoring framework"
@@ -153,9 +138,8 @@ msgid ""
 "The UNCCD indicator and monitoring framework has a hierarchical structure "
 "that makes it possible to distinguish what to measure (progress indicators) "
 "and how it should be measured (metrics/proxies)."
-msgstr "《防治荒漠化公约》的指标和监测框架有一个层次结构，可以区分衡量什么（进展指标）和如何衡量（度量/代用指标）。"
+msgstr "《联合国防治荒漠化公约》指标和监测框架有一个层次结构，可以区分衡量什么（进展指标）和如何衡量（度量/替代指标）。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:41
 msgid ""
 "Indicators used for reporting on progress towards the SOs are those adopted "
@@ -170,24 +154,20 @@ msgid ""
 "applicable, it can do so by changing the indicator form’s status from 'not "
 "applicable' to 'open' in PRAIS."
 msgstr ""
-"缔约方在第7/COP.13、9/COP.13、11/COP.14和4/COP.16号决定中通过了用于报告战略目标进展情况的指标。下面的表 1 至表 5 "
-"包含了这些指标的概览、其相关度量/代用指标、通过这些指标的决定以及报告归属（即受影响国家缔约方和发达国家缔约方报告时这些指标是必需的还是可选的）。虽然某些指标被标记为不适用于发达国家缔约方，但每个发达国家缔约方都可以选择是否对其进行报告。如果一个发达国家缔约方决定对标记为不适用的指标进行报告，它可以通过在PRAIS中将指标表格的状态从"
-" \"不适用 \"更改为 \"开放 \"来这样做。"
+"缔约方在第7/COP.13、9/COP.13、11/COP.14和4/COP.16号决定中通过了用于报告战略目标进展情况的指标。下面的表1至表5包含了这些指标的概览、其相关度量/替代指标、通过这些指标的决定以及报告属性（即在受影响国家缔约方和发达国家缔约方报告时这些指标是必填的还是选填的）。虽然某些指标被标记为不适用于发达国家缔约方，但每个发达国家缔约方都可以选择是否对其进行报告。如果一个发达国家缔约方决定对标记为不适用的指标进行报告，可以通过在PRAIS中将指标表格的状态从\"不适用\"更改为\"开放\"来实现。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:46
 msgid ""
 "Reporting on the implementation framework is done through qualitative "
 "information, largely by narratives on national experiences, and on a "
 "voluntary basis."
-msgstr "关于实施框架的报告是通过定性信息进行的，主要是通过对国家经验的叙述，而且是在自愿的基础上进行的。"
+msgstr "关于实施框架的报告是通过定性信息进行的，其中主要是国家经验叙述，并在自愿的基础上进行。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:51
 msgid ""
 "*__Table 1__. Strategic objective (SO) 1 indicators and reporting "
 "attribution.*"
-msgstr "*表 1战略目标（SO）1 指标和报告归属*。"
+msgstr "*__表1__. 战略目标（SO）1指标和报告属性。*"
 
 #: ../../introduction.md:56 ../../introduction.md:96 ../../introduction.md:135
 #: ../../introduction.md:170 ../../introduction.md:201
@@ -205,21 +185,20 @@ msgstr " 指标名称"
 #: ../../introduction.md:172 ../../introduction.md:203
 #, python-brace-format
 msgid "{rspan}`1` Metrics / proxies"
-msgstr " 度量/代用指标"
+msgstr " 度量/替代指标"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:59 ../../introduction.md:99 ../../introduction.md:138
 #: ../../introduction.md:204
 #, python-brace-format
 msgid "{rspan}`1` Adoption Decision"
-msgstr "收养决定"
+msgstr " 适应决定"
 
 #: ../../introduction.md:60 ../../introduction.md:100
 #: ../../introduction.md:139 ../../introduction.md:174
 #: ../../introduction.md:205
 #, python-brace-format
 msgid "{cspan}`1` Reporting attribution"
-msgstr " 报告归属"
+msgstr " 报告属性"
 
 #: ../../introduction.md:61 ../../introduction.md:101
 #: ../../introduction.md:140 ../../introduction.md:175
@@ -245,14 +224,12 @@ msgstr "土地覆盖趋势"
 msgid "Land cover change"
 msgstr "土地覆盖变化"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:66 ../../introduction.md:74 ../../introduction.md:79
 #: ../../introduction.md:110 ../../introduction.md:116
 #: ../../introduction.md:185
 msgid "7/COP.13"
 msgstr "7/COP.13"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:67 ../../introduction.md:75 ../../introduction.md:80
 #: ../../introduction.md:85 ../../introduction.md:111
 #: ../../introduction.md:117 ../../introduction.md:146
@@ -261,21 +238,19 @@ msgstr "7/COP.13"
 #: ../../introduction.md:213 ../../introduction.md:218
 #: ../../introduction.md:219
 msgid "Required"
-msgstr "需要"
+msgstr "必填"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:68
 #, python-brace-format
 msgid "{rspan}`3`Optional."
-msgstr "可选。"
+msgstr " 选填。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:70
 msgid ""
 "Developed country Parties may wish to submit information on SO1 indicators, "
 "including SDG indicator 15.3.1, on a voluntary basis for the purpose of "
 "reporting on progress towards the SDGs."
-msgstr "发达国家缔约方不妨自愿提交有关 SO1 指标的信息，包括可持续发展目标指标 15.3.1，以报告在实现可持续发展目标方面取得的进展。"
+msgstr "发达国家缔约方可以自愿提交有关战略目标1指标的信息，包括可持续发展目标指标15.3.1，以报告在实现可持续发展目标方面取得的进展。"
 
 #: ../../introduction.md:71
 msgid "SO 1-2"
@@ -295,7 +270,7 @@ msgstr "SO 1-3"
 
 #: ../../introduction.md:77 ../../introduction.md:178
 msgid "Trends in carbon stocks above and below ground"
-msgstr "地上和地下碳储存的趋势"
+msgstr "地上和地下碳储量的趋势"
 
 #: ../../introduction.md:78
 msgid "Soil organic carbon stock"
@@ -307,16 +282,14 @@ msgstr "SO 1-4"
 
 #: ../../introduction.md:82
 msgid "Proportion of land that is degraded over total land area"
-msgstr "已退化土地占土地总面积的比例"
+msgstr "退化土地占土地总面积的比例"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:83 ../../introduction.md:210
 #: ../../introduction.md:216 ../../introduction.md:222
 #: ../../introduction.md:228 ../../introduction.md:234
 msgid "*---*"
 msgstr "*---*"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:84
 msgid "9/COP.13"
 msgstr "9/COP.13"
@@ -325,7 +298,7 @@ msgstr "9/COP.13"
 msgid ""
 "*__Table 2__. Strategic objective (SO) 2 indicators and reporting "
 "attributions*"
-msgstr "*__表2__.战略目标（SO）2指标和报告归属*"
+msgstr "*__表2__. 战略目标（SO）2指标和报告属性*"
 
 #: ../../introduction.md:103
 msgid "SO 2-1"
@@ -349,7 +322,6 @@ msgstr "或"
 msgid "Income inequality"
 msgstr "收入不平等"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:112 ../../introduction.md:118
 #: ../../introduction.md:147 ../../introduction.md:153
 #: ../../introduction.md:159 ../../introduction.md:187
@@ -367,7 +339,7 @@ msgstr "受影响地区获得安全饮用水的趋势"
 
 #: ../../introduction.md:115
 msgid "Proportion of population using safely managed drinking water services"
-msgstr "使用得到安全管理的饮用水服务的人口比例"
+msgstr "使用安全管理饮用水服务的人口比例"
 
 #: ../../introduction.md:119
 msgid "SO 2-3"
@@ -385,7 +357,6 @@ msgid ""
 "sex"
 msgstr "受土地退化影响的人口比例，按性别分列"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:122 ../../introduction.md:191
 #: ../../introduction.md:223 ../../introduction.md:229
 #: ../../introduction.md:235
@@ -398,13 +369,13 @@ msgstr "4/COP.16"
 #: ../../introduction.md:231 ../../introduction.md:236
 #: ../../introduction.md:237
 msgid "Optional"
-msgstr "可选"
+msgstr "选填"
 
 #: ../../introduction.md:130
 msgid ""
 "*__Table 3__. Strategic objective (SO) 3 indicators and reporting "
 "attributions*"
-msgstr "*__表3__.战略目标（SO）3指标和报告归属*"
+msgstr "*__表3__. 战略目标（SO）3指标和报告属性*"
 
 #: ../../introduction.md:142
 msgid "SO 3-1"
@@ -413,7 +384,7 @@ msgstr "SO 3-1"
 #: ../../introduction.md:143
 msgid ""
 "Trends in the proportion of land under drought over the total land area"
-msgstr "干旱土地占土地总面积的比例趋势"
+msgstr "干旱土地占土地总面积比例的趋势"
 
 #: ../../introduction.md:144
 msgid ""
@@ -421,7 +392,6 @@ msgid ""
 "Standardized Precipitation Index"
 msgstr "由标准降水指数定义的各干旱强度等级的土地比例"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:145 ../../introduction.md:151
 #: ../../introduction.md:157
 msgid "11/COP.14"
@@ -431,10 +401,9 @@ msgstr "11/COP.14"
 msgid "SO 3-2"
 msgstr "SO 3-2"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:149
 msgid "Trends in the proportion of the total population exposed to drought"
-msgstr "受干旱影响人口占总人口比例的变化趋势"
+msgstr "受干旱影响的人口比例趋势"
 
 #: ../../introduction.md:150
 msgid "Proportion of the population exposed to drought, disaggregated by sex"
@@ -456,26 +425,24 @@ msgstr "干旱脆弱性指数"
 msgid ""
 "*__Table 4__. Strategic objective (SO) 4 indicators and reporting "
 "attributions*"
-msgstr "*__表4__.战略目标（SO）4指标和报告归属*"
+msgstr "*__表4__. 战略目标（SO）4指标和报告属性*"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:173
 #, python-brace-format
 msgid "{rspan}`1` Adoption Decision / proposed"
-msgstr "通过 决定/建议"
+msgstr " 通过决定/建议"
 
 #: ../../introduction.md:177
 msgid "SO 4-1"
 msgstr "SO 4-1"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:179
 #, python-brace-format
 msgid ""
 "{cspan}`2` Trends in carbon stocks above and below ground is a multipurpose "
 "indicator used to measure progress towards both strategic objectives 1 and "
 "4. See progress indicator SO 1-3."
-msgstr "地上和地下碳储量趋势是一项多用途指标，用于衡量战略目标 1 和 4 的进展情况。见进度指标 SO 1-3。"
+msgstr " 地上和地下碳储量趋势是一项多用途指标，用于衡量战略目标1和4的进展情况。见进度指标SO 1-3。"
 
 #: ../../introduction.md:182
 msgid "SO 4-2"
@@ -495,19 +462,19 @@ msgstr "SO 4-3"
 
 #: ../../introduction.md:189
 msgid "Trends in protected area coverage of important biodiversity areas"
-msgstr "重要生物多样性地区的保护区覆盖率趋势"
+msgstr "重要生物多样性地区保护区覆盖的趋势"
 
 #: ../../introduction.md:190
 msgid ""
 "Average proportion of Terrestrial Key Biodiversity Areas covered by "
 "protected areas"
-msgstr "陆地生物多样性关键地区被保护区覆盖的平均比例"
+msgstr "陆地生物多样性关键地区保护区覆盖的平均比例"
 
 #: ../../introduction.md:196
 msgid ""
 "*__Table 5__. Strategic objective (SO) 5 indicators and reporting "
 "attributions*"
-msgstr "*__表5__.战略目标（SO）5指标和报告归属*"
+msgstr "*__表5__. 战略目标（SO）5指标和报告属性*"
 
 #: ../../introduction.md:208
 msgid "SO 5-1"
@@ -517,7 +484,6 @@ msgstr "SO 5-1"
 msgid "Bilateral and multilateral public resources"
 msgstr "双边和多边公共资源"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:211
 msgid "7/COP.13 [^1]"
 msgstr "7/COP.13 [^1]"
@@ -530,7 +496,6 @@ msgstr "SO 5-2"
 msgid "Domestic public resources"
 msgstr "国内公共资源"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:217
 msgid "7/COP.13 [^2]"
 msgstr "7/COP.13 [^2]"
@@ -549,7 +514,7 @@ msgstr "SO 5-4"
 
 #: ../../introduction.md:227
 msgid "Technology transfer"
-msgstr "技术转让"
+msgstr "技术转移"
 
 #: ../../introduction.md:232
 msgid "SO 5-5"
@@ -559,21 +524,19 @@ msgstr "SO 5-5"
 msgid ""
 "Future support for activities related to the implementation of the "
 "Convention"
-msgstr "今后对与执行《公约》有关的活动的支持"
+msgstr "对与《公约》执行相关的活动的未来支持"
 
 #: ../../introduction.md:244
 msgid "Reporting tools"
 msgstr "报告工具"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:246
 msgid ""
 "For the 2026 reporting process, the performance review and assessment of "
 "implementation system (PRAIS 4) has been further improved to facilitate the "
 "reporting process. The most significant changes are:"
-msgstr "就 2026 年报告程序而言，绩效审查和实施情况评估系统（PRAIS 4）已得到进一步改 进，以促进报告程序。最重要的变化是"
+msgstr "就2026年报告程序而言，执行情况审查和评估系统（PRAIS 4）已得到进一步改进，以促进报告程序。最显著的变化是："
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:248
 msgid ""
 "The Overview tab allows each Party to monitor the status of all their SO and"
@@ -588,44 +551,35 @@ msgid ""
 "approves the form, its status should be updated to “Finalized” prior to the "
 "formal submission of SO1 and/or the overall report;"
 msgstr ""
-"通过 \"概览 \"选项卡，各缔约方可监控其所有 SO 和指标的状态，并跟踪完成国家报告的进度。默认情况下，表格被标记为 \"开放 \"或 "
-"\"不适用\"。如果缔约方希望报告标注为 \"不适用 \"的指标，只需将表格状态更改为 "
-"\"开放\"，并输入所需信息即可。一旦表格可以进行质量保证，缔约方应将其状态改为 "
-"\"审查中\"，以通知秘书处。审查过程是反复进行的：在解决审查过程中提出的任何意见后，缔约方应再次将表格设为 "
-"\"审查中\"，重新提交。一旦秘书处批准表格，在正式提交 SO1 和/或总体报告之前，应将其状态更新为 \"最终确定\"；"
+"通过概览选项卡，各缔约方可监控其所有战略目标和指标的状态，并跟踪完成国家报告的进度。默认情况下，表格被标记为\"开放\"或\"不适用\"。如果缔约方希望报告标记为\"不适用\"的指标，只需将表格状态更改为\"开放\"，并输入所需信息即可。一旦表格可以进行质量保证，缔约方应将其状态改为\"审查中\"，以通知秘书处。审查过程是反复进行的：在解决审查过程中提出的任何意见后，缔约方应再次将表格设为\"审查中\"，重新提交。一旦秘书处批准表格，在正式提交战略目标1和/或总体报告之前，应将其状态更新为\"已定稿\"；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:254
 msgid ""
 "A specific tab entitled CP to capture Country Profile information including "
 "land area and population;"
-msgstr "一个名为 \"国家概况 \"的特定选项卡用于获取国家概况信息，包括土地面积和人口；"
+msgstr "一个名为国家概况的特定选项卡，用于获取国家概况信息，包括土地面积和人口；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:256
 msgid ""
 "New functionality for SO1-1 to report one or more (max. five) regional land "
 "cover transition matrices which allow better capture of regional and local "
 "conditions;"
-msgstr "SO1-1 新增功能，可报告一个或多个（最多五个）区域土地覆被过渡矩阵，从而更好地捕捉区域和地方条件；"
+msgstr "SO1-1新增功能，可报告一个或多个（最多五个）区域土地覆盖转变矩阵，从而更好地捕捉区域和地方条件；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:258
 msgid ""
 "Parties can now stratify the land productivity and soil organic carbon stock"
 " indicators using custom/national land cover classes as an alternative to "
 "the default UNCCD seven land cover classes;"
-msgstr "缔约方现在可使用自定义/国家土地覆被等级对土地生产力和土壤有机碳储量指标进行分层，以替代默认的《防治荒漠化公约》七种土地覆被等级；"
+msgstr "缔约方现在可使用自定义/国家土地覆盖类别对土地生产力和土壤有机碳储量指标进行分层，以替代默认的《联合国防治荒漠化公约》七个土地覆盖类别；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:260
 msgid ""
 "The SO1 forms now also support the reporting of land improvement, in "
 "addition to land degradation, providing valuable insights in the context of "
 "achieving LDN;"
-msgstr "SO1 表格现在除了支持土地退化报告外，还支持土地改良报告，为实现土地退化报告提供了宝贵的见解；"
+msgstr "SO1表格现在除了支持土地退化报告外，还支持土地改善报告，为实现土地退化报告提供宝贵的洞察；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:262
 msgid ""
 "Data on SDG indicators — excluding SDG indicator 15.3.1 — have been imported"
@@ -633,26 +587,22 @@ msgid ""
 " reduce the reporting burden and avoid duplication of data validation "
 "efforts;"
 msgstr ""
-"可持续发展目标指标的数据（不包括可持续发展目标指标 15.3.1）已作为默认数据从可持续发展目标全球数据库导入，并与 PRAIS "
-"同步，以减轻报告负担，避免重复数据验证工作；"
+"可持续发展目标指标的数据（不包括可持续发展目标指标15.3.1）已作为默认数据从可持续发展目标全球数据库导入，并与PRAIS同步，以减轻报告负担，避免重复数据验证工作；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:264
 msgid ""
 "The reporting forms have been simplified to the extent possible — for "
 "example, by removing non-essential tables and limiting reporting to key "
 "years necessary to capture the baseline and reporting periods;"
-msgstr "报告表格已尽可能简化--例如，删除了非必要的表格，并将报告限制在基线和报告期所需的关键年份；"
+msgstr "报告表格已尽可能简化，例如，删除了非必要表格，并将报告限制在基线期和报告期所需的关键年份；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:266
 msgid ""
 "Parties are encouraged to provide more narrative information and stories on "
 "their national and regional situations. Additional comment fields have been "
 "added after many of the tables under the indicators to facilitate this;"
-msgstr "鼓励缔约方提供更多关于其国家和区域情况的叙述性信息和故事。为便于说明，许多指标下的表格后都增加了评论栏；"
+msgstr "鼓励缔约方提供更多关于其国家和区域情况的叙述性信息和故事。为便于说明，许多指标下的表格后都添加了备注栏；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:268
 msgid ""
 "Geospatial information is now grouped by indicator making it easier to "
@@ -664,43 +614,38 @@ msgid ""
 "spatial viewer to allow basemaps, such as high-resolution satellite imagery "
 "to be seen, underneath the geospatial layers used for reporting."
 msgstr ""
-"地理空间信息现在按指标分组，使与所报告的每个指标相关的光栅图层更加直观。支持指标计算的地理空间信息现在与各自的报告表格动态链接，如果表格中报告的信息发生变化，地理空间信息将自动从国家报告中删除。此外，空间查看器也增加了透明度，以便在用于报告的地理空间图层下看到高分辨率卫星图像等底图。"
+"地理空间信息现在按指标分组，使与所报告的每个指标相关的栅格图层更加直观。支持指标计算的地理空间信息现在与各自的报告表格动态链接，如果表格中报告的信息发生变化，地理空间信息将自动从国家报告中删除。此外，空间查看器也增加了透明度，以便在用于报告的地理空间图层下看到高分辨率卫星图像等底图。"
 
 #: ../../introduction.md:272
 msgid ""
 "The following reporting tools will be made available to country Parties in "
 "the six official United Nations languages:"
-msgstr "将以联合国六种正式语文向国家缔约方提供下列报告工具："
+msgstr "将以联合国六种正式语言向国家缔约方提供下列报告工具："
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:274
 msgid ""
 "The updated PRAIS 4 user manual, which provides step-by-step procedures for "
 "system access and use;"
-msgstr "更新的 PRAIS 4 用户手册，提供了进入和使用系统的分步程序；"
+msgstr "更新的PRAIS 4用户手册，提供访问和使用系统的分步程序；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:276
 msgid ""
 "This updated reporting manual, which provides step-by-step methodological "
 "guidance for the preparation of national reports;"
-msgstr "这份更新的报告手册为编写国家报告提供了循序渐进的方法指导；"
+msgstr "这份更新的报告手册为编写国家报告提供分步方法指导；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:278
 msgid ""
 "An updated glossary of reporting terms and definitions included in this "
 "reporting manual;"
-msgstr "本报告手册中包含最新的报告术语和定义词汇表；"
+msgstr "该报告手册中包含最新报告术语和定义词汇表；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:280
 msgid ""
 "A set of e-learning videos for each SO providing information on the "
 "reporting steps required;"
 msgstr "为每个战略目标提供一套电子学习视频，介绍所需的报告步骤；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:282
 msgid ""
 "A chat functionality, which is embedded in PRAIS and accessible to country "
@@ -710,11 +655,8 @@ msgid ""
 "exchange ideas and communicate with UNCCD technical experts. Users have the "
 "option to choose a language to use in the chat app."
 msgstr ""
-"在 PRAIS "
-"中嵌入聊天功能，国家缔约方和《荒漠化公约》技术专家可以使用该功能，以促进他们之间不那么正式的交流。还将设立与国家报告相关主题的讨论论坛，供 PRAIS "
-"平台的所有用户与《荒漠化公约》技术专家交流意见和沟通。用户可以选择在聊天应用程序中使用的语言。"
+"在PRAIS中嵌入聊天功能，国家缔约方和《联合国防治荒漠化公约》技术专家可以使用该功能，以促进他们以较不正式的方式交流。还将设立与国家报告相关主题的讨论论坛，供PRAIS平台的所有用户与《联合国防治荒漠化公约》技术专家交流意见和沟通。用户可以选择在聊天应用程序中使用的语言。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:284
 msgid ""
 "In addition, Parties should also refer to the following methodological "
@@ -728,43 +670,39 @@ msgid ""
 "indicator-1531-proportion-land-degraded-over-total-land): Proportion of land"
 " that is degraded over total land area;"
 msgstr ""
-"[持续发展目标指标15.3.1良好做法指南]第2版(https://www.unccd.int/publications/good-practice-"
+"[可持续发展目标指标15.3.1良好实践指南]第2版（https://www.unccd.int/publications/good-practice-"
 "guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
-"land)：已退化土地占土地总面积的比例；"
+"land）：退化土地占土地总面积的比例；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:288
 msgid ""
 "The [Addendum to Version 2 of the Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/resources/manuals-and-guides/addendum-good-"
 "practice-guidance-sdg-indicator-1531-proportion-land);"
 msgstr ""
-"可持续发展目标指标 15.3.1 良好做法指导意见第二版增编](https://www.unccd.int/resources/manuals-and-"
-"guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land)；"
+"[可持续发展目标指标15.3.1良好实践指南第2版增编]（https://www.unccd.int/resources/manuals-and-"
+"guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land）；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:290
 msgid ""
 "[Good Practice Guidance for National Reporting on UNCCD Strategic Objective "
 "3](https://www.unccd.int/resources/manuals-and-guides/good-practice-"
 "guidance-national-reporting-unccd-strategic-objective-3);"
 msgstr ""
-"[《防治荒漠化公约》战略目标 3 国家报告良好做法指南](https://www.unccd.int/resources/manuals-and-"
+"[《联合国防治荒漠化公约》战略目标3国家报告良好实践指南]（https://www.unccd.int/resources/manuals-and-"
 "guides/good-practice-guidance-national-reporting-unccd-strategic-"
-"objective-3)；"
+"objective-3）；"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:292
 msgid ""
 "[Good Practice Guidance for National Reporting on UNCCD Strategic Objective "
 "5](https://www.unccd.int/resources/manuals-and-guides/good-practice-"
 "guidance-national-reporting-unccd-strategic-objective-5)."
 msgstr ""
-"[《防治荒漠化公约》战略目标 5 国家报告良好做法指南](https://www.unccd.int/resources/manuals-and-"
+"[《联合国防治荒漠化公约》战略目标5国家报告良好实践指南]（https://www.unccd.int/resources/manuals-and-"
 "guides/good-practice-guidance-national-reporting-unccd-strategic-"
-"objective-5)。"
+"objective-5）。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:294
 msgid ""
 "Furthermore, a report, entitled [The Land "
@@ -773,15 +711,14 @@ msgid ""
 "examples of best practices adopted by countries during the 2022 reporting "
 "cycle and is available for consultation."
 msgstr ""
-"此外，一份题为[土地的故事](https://www.unccd.int/resources/publications/land-story-"
+"此外，标题为[土地的故事]的报告（https://www.unccd.int/resources/publications/land-story-"
 "country-experiences-reporting-land-degradation-and-"
-"drought)的报告（《防治荒漠化公约》，2024 年）介绍了各国在 2022 年报告周期采用的最佳做法范例，可供查阅。"
+"drought）（UNCCD，2024）介绍了各国在2022年报告周期采用的最佳实践范例，可供查阅。"
 
 #: ../../introduction.md:296
 msgid "Data analytics tools"
 msgstr "数据分析工具"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:298
 msgid ""
 "In line with decision 4/COP.16, Conservation International has further "
@@ -792,16 +729,12 @@ msgid ""
 "information on Trends.Earth functionality and updates can be found in the "
 "[Trends.Earth documentation](https://docs.trends.earth/en/latest/)."
 msgstr ""
-"根据第 4/COP.16 号决定，保护国际进一步增强了 Trends.Earth，以解决国家缔约方在 2022 "
-"年《防治荒漠化公约》报告过程中提出的关键技术问题。已对 Trends.Earth 进行了升级，以反映可持续发展目标指标 15.3.1 良好做法指南第 2"
-" 版增编中所包含的改进。有关 Trends.Earth 功能和更新的更多信息，请参见 [Trends.Earth "
-"文档](https://docs.trends.earth/en/latest/)。"
+"根据第4/COP.16号决定，保护国际进一步增强了Trends.Earth，以解决国家缔约方在2022年《联合国防治荒漠化公约》报告过程中提出的关键技术问题。Trends.Earthy已进行升级，以反映可持续发展目标指标15.3.1良好实践指南第2版增编中包含的改进。有关Trends.Earth功能和更新的更多信息，请参见[Trends.Earth文档]（https://docs.trends.earth/en/latest/）。"
 
 #: ../../introduction.md:300
 msgid "Default data"
 msgstr "默认数据"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:302
 msgid ""
 "With a view to reducing the reporting burden and in accordance with the "
@@ -812,9 +745,8 @@ msgid ""
 "nationally/locally."
 msgstr ""
 "为了减轻报告负担，根据第22/COP.11号决定规定的程序，PRAIS "
-"4表格将预先填入基于现有全球数据源的默认国家估计值。国家缔约方将有可能使用国家/地方来源/计算的其他数据集核实或替换这些国家估计值。"
+"4表格将预先填入基于现有全球数据源的默认国家估计值。国家缔约方可以使用国家/地方来源/计算的其他数据集来核查或替换这些国家估计值。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:304
 msgid ""
 "For reporting on indicators related to SO1, SO2 or SO3, countries wishing to"
@@ -826,11 +758,8 @@ msgid ""
 " 15.3.1 and its Addendum and the outputs are compatible with the "
 "requirements for upload to PRAIS."
 msgstr ""
-"对于 SO1、SO2 或 SO3 相关指标的报告，建议并鼓励希望使用国家或地方可用数据取代默认国家估计值的国家使用 Trends.Earth "
-"来准备、分析和将其数据传输到 PRAIS。如果愿意，也可使用其他工具进行数据准备，只要所使用的方法符合可持续发展目标指标 15.3.1 及其增编的 "
-"\"良好做法指导文件\"，且输出符合上传到 PRAIS 的要求。"
+"对于战略目标1、战略目标2或战略目标3相关指标的报告，建议并鼓励希望使用国家或地方可用数据取代默认国家估计值的国家使用Trends.Earth来准备、分析和将其数据传输到PRAIS。如果愿意，也可使用其他工具进行数据准备，只要所使用的方法符合可持续发展目标指标15.3.1及其增编的良好实践指南文件，且输出符合上传到PRAIS的要求。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:306
 msgid ""
 "For reporting on indicators related to SO5, default data is also provided in"
@@ -839,15 +768,12 @@ msgid ""
 "validating the default data are provided in this manual in the chapter "
 "related to SO5 reporting."
 msgstr ""
-"为报告与SO5相关的指标，还提供了一套Excel文件中的缺省数据。请缔约方下载这些文件，并核实其中提供的活动级缺省数据。本手册中有关 SO5 "
-"报告的章节提供了有关验证缺省数据的更多详情。"
+"为报告与战略目标5相关的指标，还提供了一套Excel文件中的默认数据。请缔约方下载这些文件，并核查其中提供的活动级默认数据。本手册中有关战略目标5报告的章节提供了有关验证默认数据的更多详情。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:308
 msgid "National boundaries"
 msgstr "国界"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:310
 msgid ""
 "In order to provide national-level extracts of the global data sources for "
@@ -868,14 +794,10 @@ msgid ""
 "1:4.5 million. Alternative web map services are provided for context at "
 "finer scales to compensate for the scale constraints of UN Clear Map."
 msgstr ""
-"为了为国家报告提供国家一级的全球数据源摘录，使用了联合国地理空间枢纽（以下简称 "
-"\"联合国地图数据\"），这是一个世界性的地理空间数据库，由国家和地名信息组成，并对国家边界进行了统一调整，以便在全球范围内进行一致的表述。联合国地图数据包括地理空间网络服务，其目的是为国际社会提供背景全球网络服务。目前最重要的联合国网络地图服务名为"
-" \"清晰地图\"[^3]（以下简称 \"联合国清晰地图\"）。联合国清晰地图 "
-"\"最初是为联合国秘书处及其系统的网站和相关网络产品而设计和创建的，但现在已成为受使用条款限制的公开资源。PRAIS 4 "
-"中的联合国清晰地图服务具有不同的制图风格和网络画布，可为各国提供地理空间报告数据的背景。不过，联合国清晰地图有比例限制，因为其地图比例不能超过 "
-"1:450万。为了弥补联合国清晰地图的比例限制，我们提供了更精细比例的替代网络地图服务。"
+"为了为国家报告提供国家层面的全球数据源摘录，使用了联合国地理空间枢纽（以下称联合国地图数据），这是一个世界性的地理空间数据库，由国家和地名信息组成，并对国界进行了统一调整，以便在全球范围内进行一致的表述。联合国地图数据包括地理空间网络服务，其目的是为国际社会提供背景全球网络服务。目前最重要的联合国网络地图服务名为清晰地图[^3]（以下称联合国清晰地图）。联合国清晰地图最初是为联合国秘书处及其系统的网站和相关网络产品而设计和创建的，但现在已成为受使用条款限制的公开资源。PRAIS"
+" "
+"4中的联合国清晰地图服务具有不同的制图风格和网络画布，可为各国提供地理空间报告数据的背景。不过，联合国清晰地图有比例限制，因为其地图比例不能超过1:450万。为了弥补联合国清晰地图的比例限制，我们提供了更精细比例的替代网络地图服务。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:312
 msgid ""
 "The UN Clear Map Data has been prepared by the United Nations Geospatial "
@@ -886,50 +808,38 @@ msgid ""
 "city or area or of its authorities, or concerning the delimitation of its "
 "frontiers or boundaries."
 msgstr ""
-"联合国清晰地图数据由纽约联合国地理空间信息科（前制图科）编制。联合国清晰地图数据 "
-"\"中所使用的名称和材料的编排方式并不意味着《联合国防治荒漠化公约》对任何国家、领土、城市或地区或其当局的法律地位，或对其边界或界线的划分表示任何意见。"
+"联合国清晰地图数据由纽约联合国地理空间信息科（前制图处）编制。联合国清晰地图数据中所用名称和材料的编排方式并不意味着《联合国防治荒漠化公约》对任何国家、领土、城市或地区或其当局的法律地位或对其边界或界线划分表示任何意见。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:314
 msgid ""
 "For cartographic representation and preparation of the default data, PRAIS "
-"uses the international boundaries of countries taken from the United Nations"
-" Map 0 geodata which is suitable for 1:1 million scale representation and "
-"serves global mapping purposes as opposed to local mapping. Countries can "
-"opt to use an alternative country border by uploading the polygon directly "
-"to the PRAIS spatial data viewer. However, should Parties opt to use an "
-"alternative country boundary layer, they are encouraged to engage with the "
-"Second Administrative Level Boundaries ([SALB](https://salb.un.org/)) "
-"programme of the Geospatial Information Section & Statistics Division. The "
-"programme’s objective is to promote accessible, interoperable and global "
-"data and information on subnational units and boundaries. Participation in "
-"the programme will ensure Member States of the United Nations will avail of "
-"a global repository of authoritative information and geospatial data about "
-"the administrative unit structure of countries down to the second "
-"subnational level, and through time. Parties should engage with the SALB "
-"program directly by sending an email to <salb@un.org>."
+"uses the international boundaries of countries taken from the UN Geodata "
+"which is suitable for 1:1 million scale representation and serves global "
+"mapping purposes as opposed to local mapping. Countries can opt to use an "
+"alternative country border by uploading the polygon directly to the PRAIS "
+"spatial data viewer. Should Parties opt to use an alternative country border"
+" to that provided in PRAIS, they can upload it directly to the PRAIS spatial"
+" data viewer, recalculate all geospatial indicators via Trends.Earth and "
+"upload the results to PRAIS. Please note: all polygon files uploaded to "
+"PRAIS should be simplified as much as possible. The spatial data viewer has "
+"limitations on the number of vertices it can process in a browser. Highly "
+"detailed or complex polygons will be simplified automatically for display "
+"purposes in the PRAIS spatial viewer."
 msgstr ""
-"对于默认数据的制图表示和准备，PRAIS 使用从联合国地图 0 地理数据中提取的国家国际边界，该数据适合 1:100 "
-"万比例尺表示，用于全球制图目的而非地方制图。各国可选择使用替代国界，将多边形直接上传到 PRAIS "
-"空间数据查看器。但是，如果缔约方选择使用替代国边界层，则鼓励它们参与地理空间信息科和统计司的二级行政边界（[SALB](https://salb.un.org/)）方案。该计划的目标是促进关于国家以下一级单位和边界的可访问、可互操作的全球数据和信息。参与该计划将确保联合国会员国能够利用有关国家行政单位结构的全球权威信息和地理空间数据"
-" 库，直至国家以下第二级，并可随时查阅。缔约方应直接参与 SALB 计划，可发送电子邮件至<salb@un.org> 。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:321
+#: ../../introduction.md:318
 msgid ""
 "Careful consideration should be given to the use of an alternative national "
 "border in that it must be consistent with the total land area reported under"
 " SO 1-1. Otherwise, discrepancies may arise in the reporting data derived "
 "from geospatial analysis using that border."
-msgstr ""
-"应慎重考虑使用替代国界，因为替代国界必须与 SO 1-1 报告的陆地总面积一致。否则，使用该国界进行地理空间分析得出的报告数据可能会出现差异。"
+msgstr "应慎重考虑使用替代国界，因为替代国界必须与SO 1-1报告的陆地总面积一致。否则，使用该国界进行地理空间分析得出的报告数据可能会出现差异。"
 
-#: ../../introduction.md:325
+#: ../../introduction.md:322
 msgid "Open data sharing"
 msgstr "开放数据共享"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:327
+#: ../../introduction.md:324
 msgid ""
 "By its decision 16/COP.11, the COP requested the secretariat to ensure that "
 "data and information from the reporting process are available and accessible"
@@ -937,11 +847,9 @@ msgid ""
 "requests the secretariat to further analyse and present global and regional "
 "data in interactive formats."
 msgstr ""
-"在第 16/COP.11 号决定中，缔约方会议请秘书处确保所有人，特别是国家和地 方一级的所有人都能获得和利用报告进程的数据和信息。第 "
-"11/COP.14 号决定请秘书处进一步分析并以互动格式提供全球和区域数据。"
+"在第16/COP.11号决定中，缔约方会议请秘书处确保所有人，特别是国家和地方层面的所有人都能获得和利用报告进程的数据和信息。第11/COP.14号决定请秘书处进一步分析并以互动格式提供全球和区域数据。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:330
+#: ../../introduction.md:327
 msgid ""
 "In order to maximize the interoperability and impact of data submitted by "
 "Parties and to allow the secretariat to make regional and global aggregate "
@@ -950,11 +858,10 @@ msgid ""
 " Public Domain Dedication 1.0 (CC0), or the most open Creative Commons "
 "Attribution 4.0 International (CC BY) licence."
 msgstr ""
-"为了最大限度地提高缔约方提交的数据的互操作性和影响，并使秘书处能够从国家报告中获取区域和全球汇总信息，鼓励所有缔约方在知识共享通用公共领域专用 1.0 "
-"(CC0) 或最开放的知识共享署名 4.0 国际 (CC BY) 许可下公开国家报告数据。"
+"为了最大限度地提高缔约方提交的数据的互操作性和影响，并使秘书处能够从国家报告中获取区域和全球汇总信息，鼓励所有缔约方在知识共享通用公共领域专用1.0（CC0）或最开放的知识共享署名4.0国际（CC"
+" BY）许可下授权国家报告数据。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:332
+#: ../../introduction.md:329
 msgid ""
 "The CC0 public domain dedication enables unrestricted reuse without the need"
 " for attribution, which can be especially useful for foundational datasets "
@@ -962,11 +869,9 @@ msgid ""
 " typically the case for those datasets related to land cover and land "
 "degradation assessments."
 msgstr ""
-"CC0 "
-"公有领域的专用性可实现不受限制的再利用，无需注明出处，这对于基础数据集或研究人员或国际机构优先再利用的数据集尤其有用，与土地覆被和土地退化评估相关的数据集通常就是这种情况。"
+"CC0公共领域专用可实现不受限制的再利用，无需注明出处，这对于基础数据集或优先考虑研究人员或国际机构再使用的情况尤其有用，与土地覆盖和土地退化评估相关的数据集通常就是这种情况。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:334
+#: ../../introduction.md:331
 msgid ""
 "The CC BY licence is the most open of the Creative Commons licenses, making "
 "it a fundamental legal tool for data interoperability and supporting broad "
@@ -978,51 +883,45 @@ msgid ""
 "UN system and as required by the European Commission’s requirement on high-"
 "value datasets."
 msgstr ""
-"CC BY 许可是最开放的知识共享许可，使其成为数据互操作性的基本法律工具，并支持广泛的重复使用和改编。CC BY "
-"许可只有一个条件：署名。如果增加更多许可条件，就很难合并使用其他许可的数据，也很难控制由此产生的数据集、报告或产品的许可。CC BY "
-"许可证也被全球数据社区公认为最大化共享的黄金标准，包括在整个联合国系统，以及欧盟委员会对高价值数据集的要求。"
+"CC BY许可是最开放的知识共享许可，使其成为数据互操作性的基本法律工具，并支持广泛的重复使用和改编。CC "
+"BY许可只有一个条件：署名。如果增加更多许可条件，就很难合并使用其他许可的数据以及控制由此产生的数据集、报告或产品的许可。CC "
+"BY许可也被全球数据社区公认为最大化共享的黄金标准，其中包括整个联合国系统，也是欧盟委员会高价值数据集要求所需。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:336
+#: ../../introduction.md:333
 msgid ""
 "By applying the CC0 public domain dedication or CC BY licences to national "
 "datasets:"
-msgstr "将 CC0 公有领域专用或 CC BY 许可应用于国家数据集："
+msgstr "通过将CC0公共领域专用或CC BY许可应用于国家数据集："
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:338
+#: ../../introduction.md:335
 msgid ""
 "Parties contribute to efficient, evidence-based policy and scientific "
 "cooperation at all levels;"
-msgstr "缔约方为在各级开展高效、以证据为基础的政策和科学合作做出贡献；"
+msgstr "缔约方可以为在各级开展基于证据的高效政策和科学合作做出贡献；"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:340
+#: ../../introduction.md:337
 msgid ""
 "Parties strengthen the global visibility and impact of their national work "
 "on land and sustainability;"
-msgstr "缔约方加强其国家土地和可持续性工作的全球知名度和影响；"
+msgstr "缔约方可以加强其国家土地和可持续性工作的全球知名度和影响；"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:342
+#: ../../introduction.md:339
 msgid ""
 "Parties’ data can easily be reused by other agencies and organizations, "
 "including regional hubs, giving them most freedom of the licence they want "
 "to publish under;"
-msgstr "缔约方的数据可以很容易地被其他机构和组织（包括区域中心）重复使用，使它们在发布许可方面拥有最大的自由度；"
+msgstr "缔约方的数据可以很容易地被其他机构和组织（包括区域中心）重复使用，使之在发布许可方面拥有最大的自由度；"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:344
+#: ../../introduction.md:341
 msgid ""
 "Parties enable the seamless integration of their data into the UNCCD’s "
 "aggregate information products based on national reports such as those "
 "displayed on the UNCCD Data Dashboard (that is licensed as CC BY-NC)."
 msgstr ""
-"缔约方能够将其数据无缝整合到基于国家报告的《防治荒漠化公约》综合信息产品中，如《防治荒漠化公约》数据仪表板（以 CC BY-NC "
-"形式许可）上显示的数据。"
+"缔约方能够将其数据无缝整合到基于国家报告的《联合国防治荒漠化公约》综合信息产品中，如《联合国防治荒漠化公约》数据仪表板（以CC BY-"
+"NC许可）上显示的数据。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:346
+#: ../../introduction.md:343
 msgid ""
 "These guidelines are designed to maximize the interoperability of submitted "
 "national data by clearly defining its conditions of reuse. Interoperability "
@@ -1033,29 +932,26 @@ msgid ""
 msgstr ""
 "这些准则旨在通过明确界定重复使用条件，最大限度地提高已提交国家数据的互操作性。只有当数据可以合法、可靠和一致地跨系统重复使用时，公约之间信息交换的互操作性和协同作用才有可能实现，这就要求重复使用的条件既明确又标准化。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:348
+#: ../../introduction.md:345
 msgid ""
 "You can read more about the licences in Annex I of these guidelines and you "
 "can find comprehensive information at the [Creative Commons "
 "website](https://creativecommons.org/share-your-work/cclicenses/)."
 msgstr ""
-"您可以在本指南附件 I 中阅读有关许可的更多信息，也可以在[知识共享网站](https://creativecommons.org/share-"
-"your-work/cclicenses/) 上找到全面的信息。"
+"可以在本指南附件一中阅读有关许可的更多信息，也可以在[知识共享网站]（https://creativecommons.org/share-your-"
+"work/cclicenses/）上找到全面的信息。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:350
+#: ../../introduction.md:347
 msgid ""
 "Taking the above guidelines into account, Parties have the option to fill "
 "out a User Specific Licence (USL) form in PRAIS and choose whether to: (i) "
 "use an existing Creative Commons licence; or (ii) opt for an exemption and "
 "select a custom licence."
 msgstr ""
-"考虑到上述指导原则，缔约方可选择在 PRAIS 中填写用户特定许可 (USL) 表，并选择是否(i) 使用现有的知识共享许可协议；或 (ii) "
-"选择豁免并选择自定义许可协议。"
+"考虑到上述指导原则，缔约方可选择在PRAIS中填写用户特定许可（USL）表，并选择是否 (i) 使用现有知识共享许可；或 (ii) "
+"选择豁免并选择自定义许可。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:352
+#: ../../introduction.md:349
 msgid ""
 "It is important to note that most of the default datasets have been licensed"
 " by their respective data providers under a Creative Commons Attribution 4.0"
@@ -1066,23 +962,20 @@ msgid ""
 "information on the issue of data sharing and how to complete the USL form, "
 "see Annex I of this reporting manual."
 msgstr ""
-"值得注意的是，大多数默认数据集都是由各自的数据提供商根据知识共享署名 4.0 国际（CC BY "
-"4.0）许可协议授权的。因此，这些数据集必须遵守该许可的一个条件：署名。因此，这些数据集的用户，如《防治荒漠化公约》及其缔约方，如果在其国家报告中使用这些缺省数据集，必须注明许可证的来源。有关数据共享问题和如何填写"
-" USL 表格的更多信息，请参见本报告手册的附件 I。"
+"值得注意的是，大多数默认数据集是由各自的数据提供商根据知识共享署名4.0国际（CC BY "
+"4.0）许可协议授权的。因此，这些数据集必须遵守该许可的一个条件：署名。这些数据集的用户，如《联合国防治荒漠化公约》及其缔约方，如果在其国家报告中使用这些默认数据集，必须注明许可的来源。有关数据共享问题和如何填写USL表格的更多信息，请参见本报告手册的附件一。"
 
-#: ../../introduction.md:354
+#: ../../introduction.md:351
 msgid "Reporting frequency"
 msgstr "报告频率"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:356
+#: ../../introduction.md:353
 msgid ""
 "By its decision 15/COP.13, the COP approved a four-year frequency for "
 "national reporting (Table 6)."
-msgstr "在第 15/COP.13 号决定中，缔约方会议批准了四年一次的国家报告频率（表 6）。"
+msgstr "在第15/COP.13号决定中，缔约方会议批准了四年一次的国家报告频率（表6）。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:358
+#: ../../introduction.md:355
 msgid ""
 "During the 2018 reporting process, Parties reported data and information for"
 " the period 2000–2015, which serves as the baseline for SDG indicator 15.3.1"
@@ -1090,11 +983,9 @@ msgid ""
 "report the status of land condition and the SDG indicator 15.3.1 every four "
 "years, thereby increasing the reporting periods in four-year increments."
 msgstr ""
-"在2018年报告过程中，缔约方报告了2000-2015年期间的数据和信息，作为可持续发展目标指标15.3.1及其子指标的基线。初次报告后，缔约方继续每四年报告一次土地状况和可持续发展目标指标"
-" 15.3.1，从而以四年为单位增加报告期。"
+"在2018年报告流程中，缔约方报告了2000-2015年期间的数据和信息，作为可持续发展目标指标15.3.1及其子指标的基线。初次报告后，缔约方继续每四年报告一次土地状态和可持续发展目标指标15.3.1，从而以四年为单位增加报告期。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:361
+#: ../../introduction.md:358
 msgid ""
 "Figure 1 shows that the first reporting period (Period 1) completed in 2022,"
 " covered the timeframe from January 1st, 2016, to December 31st, 2019. The "
@@ -1106,92 +997,78 @@ msgid ""
 " incremental in time, each reporting period incorporating four additional "
 "years compared to the previous one."
 msgstr ""
-"图 1 显示，2022 年完成的第一个报告期（时期 1）涵盖 2016 年 1 月 1 日至 2019 年 12 月 31 日的时间范围。期间 1 "
-"的评估结果包括对 2019 年（t1）退化土地比例（可持续发展目标指标 15.3.1）的估计。后续报告将反映 2023 年底（t2）、2027 "
-"年底（t3）以及可能的 2031 年底（t4）的土地状况，并综合基线期（2016 年 1 月 1 "
-"日起）结束以来发生的变化。因此，报告在时间上是递增的，每个报告期都比上一个报告期多四年。"
+"图1显示，2022年完成的第一个报告期（时期1）涵盖2016年1月1日至2019年12月31日的时间范围。时期1的评估结果包括对2019年（t1）退化土地比例（可持续发展目标指标15.3.1）的估计。后续报告将反映2023年底（t2）、2027年底（t3）以及潜在的2031年底（t4）的土地状况，并综合基线期结束以来（自2016年1月1日）发生的变化。因此，报告在时间上是递增的，每个报告期都比上一个报告期多四年。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:366
+#: ../../introduction.md:363
 msgid ""
 "_**Figure 1.** Timeline illustrating the four-year UNCCD reporting frequency"
 " for SDG indicator 15.3.1_"
-msgstr ""
-"_***图 1.** 《荒漠化公约》可持续发展目标指标 15.3.1 的四年期报告频率时间轴__**图 1.** 《荒漠化公约》可持续发展目标指标 "
-"15.3.1 的四年期报告频率时间轴"
+msgstr "_**图1.** 阐述《联合国防治荒漠化公约》可持续发展目标指标15.3.1的四年期报告频率的时间线_"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:368
+#: ../../introduction.md:365
 msgid "![](/img/fig1.png)"
 msgstr "![](/img/fig1.png)"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:370
+#: ../../introduction.md:367
 msgid ""
 "_**Table 6**. The first column shows the year of reporting to the UNCCD; the"
 " second column shows the relevant reporting periods for each report "
 "submission._"
-msgstr "_**表 6**。第一栏显示向《防治荒漠化公约》提交报告的年份；第二栏显示每次提交报告的相关报告期。"
+msgstr "_**表6**. 第一列显示向《联合国防治荒漠化公约》提交报告的年份；第二列显示每次提交报告的相关报告期。_"
+
+#: ../../introduction.md:374
+msgid "UNCCD Reporting Process"
+msgstr "《联合国防治荒漠化公约》报告流程"
+
+#: ../../introduction.md:375
+msgid "UNCCD Reporting Periods"
+msgstr "《联合国防治荒漠化公约》报告期"
+
+#: ../../introduction.md:376
+msgid "2018"
+msgstr "2018"
 
 #: ../../introduction.md:377
-msgid "UNCCD Reporting Process"
-msgstr "《荒漠化公约》报告进程"
+msgid "Baseline 2000-2015"
+msgstr "基线2000-2015"
 
 #: ../../introduction.md:378
-msgid "UNCCD Reporting Periods"
-msgstr "《荒漠化公约》报告期"
-
-#: ../../introduction.md:379
-msgid "2018"
-msgstr "2018年"
-
-#: ../../introduction.md:380
-msgid "Baseline 2000-2015"
-msgstr "2000-2015年基线期"
-
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:381
 msgid "2022"
 msgstr "2022"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:382
+#: ../../introduction.md:379
 msgid "2016-2019"
 msgstr "2016-2019"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:383
+#: ../../introduction.md:380
 msgid "**2026**"
 msgstr "**2026**"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:384
+#: ../../introduction.md:381
 msgid "**2016-2023**"
-msgstr "**2016-2023"
+msgstr "**2016-2023**"
 
-#: ../../introduction.md:385
+#: ../../introduction.md:382
 msgid "2030"
-msgstr "2030年"
+msgstr "2030"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:386
+#: ../../introduction.md:383
 msgid "2016-2027"
 msgstr "2016-2027"
 
-#: ../../introduction.md:387
+#: ../../introduction.md:384
 msgid "2034"
-msgstr "2034年"
+msgstr "2034"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:388
+#: ../../introduction.md:385
 msgid "2016-2031"
 msgstr "2016-2031"
 
-#: ../../introduction.md:391
+#: ../../introduction.md:388
 msgid "Recalculations and time series consistency"
 msgstr "重新计算与时间序列一致性"
 
-#: ../../introduction.md:393
+#: ../../introduction.md:390
 msgid ""
 "Advances in methodologies and data availability may require periodic "
 "recalculations of previously submitted national estimates. While "
@@ -1199,10 +1076,9 @@ msgid ""
 "ensure the consistency of the time series and the comparability between the "
 "baseline and future monitoring data."
 msgstr ""
-"要在方法和数据可获得性方面取得进步，可能需要定期重新计算以前提交的国家估计数。虽然重新计算可能需要在目标设定方面加以完善，但重新计算确保了时间序列的一致性以及基线和未来监测数据之间的可比性。"
+"要在方法和数据可用性方面取得进步，可能需要定期重新计算之前提交的国家估计。虽然重新计算可能需要在目标设定方面加以完善，但重新计算确保了时间序列的一致性以及基线和未来监测数据之间的可比性。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:396
+#: ../../introduction.md:393
 msgid ""
 "For instance, given the evolution of the calculation methods presented in "
 "version 2 of the [Good Practice Guidance for SDG Indicator "
@@ -1216,31 +1092,28 @@ msgid ""
 "forms have already been recalculated for country Parties using the new "
 "calculation methods."
 msgstr ""
-"例如，鉴于[可持续发展目标指标15.3.1良好做法指南](https://www.unccd.int/publications/good-"
+"例如，鉴于[可持续发展目标指标15.3.1良好实践指南]第2版（https://www.unccd.int/publications/good-"
 "practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
-"land)第2版及其[增编](https://www.unccd.int/resources/manuals-and-guides/addendum-"
+"land）及其[增编]（https://www.unccd.int/resources/manuals-and-guides/addendum-"
 "good-practice-guidance-sdg-indicator-1531-proportion-"
-"land)中提出的计算方法的演变，建议重新计算先前提交的所有SO1指标的估计值，包括可持续发展目标指标15.3.1，并将其纳入2026年提交的国家报告中。通过"
-" PRAIS 表格提供的默认国家估计值已使用新的计算方法为国家缔约方重新计算。"
+"land）中提出的计算方法的演变，建议重新计算之前提交的所有SO1指标的估计，包括可持续发展目标指标15.3.1，并将其纳入2026年提交的国家报告中。通过PRAIS表格提供的默认国家估计已使用新计算方法为国家缔约方重新计算。"
 
-#: ../../introduction.md:399
+#: ../../introduction.md:396
 msgid ""
 "For a broader discussion on the issue of recalculations, see chapter 6 of "
 "version 2 of the [Good Practice Guidance for SDG Indicator "
 "15.3.1](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
 msgstr ""
-"关于重新计算问题的更广泛讨论，见[可持续发展目标指标15.3.1良好做法指南]第二版第六章(https://www.unccd.int/publications/good-"
+"关于重新计算问题的更广泛讨论，见[可持续发展目标指标15.3.1良好实践指南]第2版第6章（https://www.unccd.int/publications/good-"
 "practice-guidance-sdg-indicator-1531-proportion-land-degraded-over-total-"
-"land)。"
+"land）。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:401
+#: ../../introduction.md:398
 msgid "Submission of the national report, validation and review process"
-msgstr "国家报告的提交、审定和审查过程"
+msgstr "国家报告提交、验证和审查过程"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:403
+#: ../../introduction.md:400
 msgid ""
 "Building on the experiences and lessons learned from the use of PRAIS in the"
 " 2022 reporting process, a next generation of the on-line platform was "
@@ -1248,11 +1121,9 @@ msgid ""
 "communication and quality assurance functionalities. The design and upgrade "
 "of the platform was carried out bearing in mind the following objectives:"
 msgstr ""
-"根据在 2022 年报告过程中使用 PRAIS 系统的经验教训，为 2026 年报告过程开发了下 "
-"一代在线平台，以改进数据输入、审查、交流和质量保证功能。平台的设计和升级考虑到了以下目标："
+"根据在2022年报告过程中使用PRAIS系统的经验教训，为2026年报告过程开发了下一代在线平台，以改进数据输入、审查、交流和质量保证功能。平台的设计和升级考虑了以下目标："
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:405
+#: ../../introduction.md:402
 msgid ""
 "A) Quality Assurance - To ensure that national reports are comprehensive, "
 "internally consistent, aligned with UNCCD guidelines and well-integrated, "
@@ -1261,39 +1132,34 @@ msgid ""
 "coherence of submitted data before it is used by the secretariat in "
 "aggregate reports and derivative information products."
 msgstr ""
-"A) 质量保证--为确保国家报告全面、内部一致、符合《防治荒漠化公约》指 "
-"导方针并具有良好的整合性，该平台应实施强有力的验证规则。这些规则可作为质量控制机制，在秘书处将提交的数据用于汇总报告和衍生信息产品之前，对其准确性、完整性和一致性进行核实。"
+"A) 质量保证 - "
+"为确保国家报告全面、内部一致、符合《联合国防治荒漠化公约》指导方针并具有良好的整合性，平台应实施强有力的验证规则。这些规则可作为质量控制机制，在秘书处将提交的数据用于汇总报告和衍生信息产品之前，对其准确性、完整性和一致性进行核查。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:407
+#: ../../introduction.md:404
 msgid ""
 "B) Transparency – the platform should enable access to all the documentation"
 " necessary for understanding how the indicators should be reported, "
 "including explanations of key terms, the default data sources, definitions "
 "and the methodologies used."
-msgstr "B) 透明度--平台应提供所有必要的文件，包括关键术语解释、默认数据来源、 定义和使用的方法，以便了解应如何报告指标。"
+msgstr "B) 透明度 - 平台应提供所有必要的文件，包括关键术语解释、默认数据来源、定义和使用的方法，以便了解应如何报告指标。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:409
+#: ../../introduction.md:406
 msgid ""
 "C) Ease of use – the platform should have an intuitive interface with an "
 "overview country management dashboard, forms which allow easy data entry, "
 "switching between national and default data sources, and upload of other "
 "datasets and/or documentation."
 msgstr ""
-"C)C) 易用性--平台应具有直观的界面，包括国家管理仪表板概览、便于输入数 据的表格、国家数据源和默认数据源之间的切换，以及其他数据集和/或文 "
-"献的上传。"
+"C) 易用性 - 平台应具有直观的界面，包括国家管理仪表板概览、便于输入数据的表格、国家数据源和默认数据源之间的切换以及其他数据集和/或文献的上传。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:411
+#: ../../introduction.md:408
 msgid ""
 "D) Improved communication – the platform should have a transparent review "
 "and revision functionality, which allows tracking of changes in the reported"
 " figures and facilitates understanding of the review process flow."
-msgstr "D) 改进交流--平台应具有透明的审查和修订功能，可跟踪所报告数字的变化， 并促进对审查流程的了解。"
+msgstr "D) 改进交流 - 平台应具有透明的审查和修订功能，可跟踪报告数字的变化，促进对审查流程的理解。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:413
+#: ../../introduction.md:410
 msgid ""
 "E) Flexibility – the platform should clearly outline the differentiated "
 "reporting obligations of Affected Country Parties and Developed Country "
@@ -1301,11 +1167,10 @@ msgid ""
 "they report—for example, by choosing to report on optional indicators or on "
 "indicators generally considered not applicable to their country category."
 msgstr ""
-"E) 灵活性--平台应明确概述受影响国家缔约方和发达国家缔约方的不同报告义 务，同时允许各国灵活调整其报告的指标--例如，选择报告非强制性指标或 "
-"一般认为不适用于其国家类别的指标。"
+"E) 灵活性 - "
+"平台应明确概述受影响国家缔约方和发达国家缔约方的不同报告义务，同时允许各国灵活调整其报告的指标，例如，选择报告非强制性指标或通常认为不适用于其国家类别的指标。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:415
+#: ../../introduction.md:412
 msgid ""
 "Once a reporting form has been completed and all the tables in that form "
 "have been filled in, the Reporting Officer can make the form  available to "
@@ -1324,14 +1189,9 @@ msgid ""
 "further clarifications or amendments are required, the form is considered "
 "finalized and ready for the final submission to the secretariat."
 msgstr ""
-"一旦报告表格填写完毕，表格中的所有表格都已填好，报告干事可将表格提供给秘书处审查。这将锁定表格，使其无法进一步编辑，并允许开始审查过程。审查由 "
-"UNCCD 秘书处进行，对于确保报告数字的一致性和报告方法的正确应用十分必要。要将表格提供给审查，必须将其在平台中的状态设置为 "
-"\"审查中\"。如果在审查过程中需要澄清或修改，审查员可通过评论插入反馈意见，并将表格发回给国家报告干事。审查过程结束后，国家报告干事将收到通知，说明是否需要处理评论意见。然后，表格将再次设置为"
-" \"开放 "
-"\"模式，报告官员可以处理评论意见，对报告进行相应的修改，并重新提交给另一个审查周期。如果不需要进一步澄清或修改，表格即被视为定稿，可最后提交给秘书处。"
+"一旦报告表格填写完毕，表格中的所有表格都已填好，报告官员可将表格提供给秘书处审查。这将锁定表格，使其无法进一步编辑，并允许开始审查过程。审查由《联合国防治荒漠化公约》秘书处进行，确保报告数字的一致性和报告方法的正确应用十分必要。要将表格可供审查，必须将其在平台中的状态设置为\"审查中\"。如果在审查过程中需要澄清或修改，审查员可通过备注插入反馈，并将表格发回给国家报告官员。审查过程结束后，国家报告官员将收到通知，说明是否需要处理备注。然后，表格将再次设置为\"开放\"模式，报告官员可以处理备注，对报告进行相应的修改，并重新提交给另一个审查周期。如果不需要进一步澄清或修改，表格即被视为已定稿，可以向秘书处进行最终提交。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:423
+#: ../../introduction.md:420
 msgid ""
 "Building on the lessons learned from the 2022 reporting process, a number of"
 " system validation rules have been implemented in PRAIS for 2026 reporting. "
@@ -1342,11 +1202,9 @@ msgid ""
 "understand the issue and indicate to the user how to rectify the problem "
 "before being allowed to save the form."
 msgstr ""
-"根据从 2022 年报告流程中吸取的经验教训，PRAIS 为 2026 "
-"年报告实施了一系列系统验证规则。当用户尝试保存报告表格时，这些规则将显示为错误。错误（因应用系统验证规则而产生）显示在表格上，以突出报告数据中的任何重大差异（见下文表格间一致性段落）。错误信息将帮助用户了解问题所在，并向用户指出如何纠正问题，然后才允许保存表格。"
+"根据从2022年报告流程中吸取的经验教训，PRAIS为2026年报告实施了一系列系统验证规则。当用户尝试保存报告表格时，这些规则将显示为错误。错误（因应用系统验证规则而产生）显示在表格上，以突出报告数据中的任何重大差异（见下文表格间一致性段落）。错误信息将帮助用户了解问题所在，并向用户指出如何纠正问题，然后才允许保存表格。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:428
+#: ../../introduction.md:425
 msgid ""
 "Inter-tabular consistency: the total country area and demographics, as "
 "presented in the country profile (CP-1.T1 and CP-1.T2), constitute the basis"
@@ -1360,14 +1218,9 @@ msgid ""
 "reported in the country profile an error will appear since the percentage "
 "value reported cannot normally exceed 100%."
 msgstr ""
-"表间一致性：国家概况（CP-1.T1 和 "
-"CP-1.T2）中列出的国家总面积和人口构成是许多其他报告表的报告基础。为保持表间一致性，国家、陆地和水体总面积以及总人口不得少于 "
-"SO1、SO2-3、SO3-1 和 SO3-2 "
-"表中相应的面积或人口估计数。系统会根据默认数据自动预填国家概况中的国家、陆地和水体总面积以及国家人口。如果报告的退化面积、干旱面积或暴露人口超过了国家概况中的报告值，则会出现错误，因为报告的百分比值通常不能超过"
-" 100%。"
+"表间一致性：国家概况（CP-1.T1和CP-1.T2）中列出的国家总面积和人口构成是许多其他报告表的报告基础。为保持表间一致性，国家、陆地和水体总面积以及总人口不得少于SO1、SO2-3、SO3-1和SO3-2表中相应的面积或人口估计数。系统会根据默认数据自动预填国家概况中的国家、陆地和水体总面积以及国家人口。如果报告的退化面积、干旱面积或暴露人口超过国家概况中的报告值，则会出现错误，因为报告的百分比值通常不能超过100%。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:433
+#: ../../introduction.md:430
 msgid ""
 "Having negative numbers in tables where only positive numbers are allowed or"
 " having non-numeric characters in numeric-only fields also trigger error "
@@ -1375,84 +1228,73 @@ msgid ""
 "will prevent the saving of a form and must be rectified by the user before "
 "the form can be saved or submitted for review."
 msgstr ""
-"在只允许输入正数的表格中输入负数或在数字字段中输入非数字字符也会触发错误信息。无论哪种验证规则触发了错误，错误都会阻止保存表单，用户必须在保存表单或提交审核前纠正错误。"
+"在只允许输入正数的表格中输入负数或在数字字段中输入非数字字符也会触发错误信息。无论哪种验证规则触发错误，错误都会阻止保存表单，用户必须在保存表单或提交审查前纠正错误。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:435
+#: ../../introduction.md:432
 msgid "Process and schedule for the 2026 reporting process"
-msgstr "2026 年报告程序的流程和时间表"
+msgstr "2026年报告流程的程序和时间表"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:437
+#: ../../introduction.md:434
 msgid ""
 "The deadlines for submission of national reports are tentatively set for "
 "November 2026 for reporting on SO1, and February 2027 for the remaining SOs."
 " The CRIC Bureau will monitor progress made throughout the 2026 reporting "
 "process to decide on adjustments to this timeline, if needed."
 msgstr ""
-"提交国家报告的截止日期暂定为：2026 年 11 月报告战略目标 1，2027 年 2 月报告其余战略目标。审评委主席团将监测整个 2026 "
-"年报告进程的进展情况，以便在必要时决定对这一时间表进行调整。"
+"提交国家报告的截止日期暂定为：2026年11月报告战略目标1，2027年2月报告其余战略目标。公约执行情况审查委员会主席团将监测整个2026年报告流程的进展情况，以便在必要时决定对这一时间表进行调整。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:439
+#: ../../introduction.md:436
 msgid ""
 "Various measures will be taken by the secretariat to support Parties in "
 "preparing the national reports and providing high quality information:"
 msgstr "秘书处将采取各种措施，支持缔约方编写国家报告和提供高质量的信息："
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:441
+#: ../../introduction.md:438
 msgid ""
 "In-person regional capacity development activities will be organized. These "
 "aim to introduce national focal points and assigned reporting officers to "
 "the updated reporting requirements, methodologies, data and tools;"
-msgstr "将组织面对面的地区能力培养活动。这些活动旨在向国家协调中心和指定的报告干事介绍最新的报告要求、方法、数据和工具；"
+msgstr "将组织面对面区域能力培养活动。这些活动旨在向国家联络点和指定的报告官员介绍最新的报告要求、方法、数据和工具；"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:443
+#: ../../introduction.md:440
 msgid ""
 "The secretariat and the Global Mechanism, with the assistance of consultants"
 " and/or regional institutions, will provide technical backstopping "
 "throughout the reporting process;"
-msgstr "秘书处和全球机制将在顾问和/或区域机构的协助下，在整个报告过程中提供技术支持；"
+msgstr "秘书处和全球机制将在顾问和/或区域机构的协助下，在整个报告流程中提供技术支持；"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:445
+#: ../../introduction.md:442
 msgid ""
 "An online helpdesk facility, which can be accessed at "
 "<https://support.unccd.int/> will be available via PRAIS to respond to "
 "queries from Parties;"
-msgstr "将通过 PRAIS 提供在线服务台设施，回答缔约方的询问，访问网址为 <https://support.unccd.int/> ；"
+msgstr "将通过PRAIS提供在线服务台设施，回答缔约方的询问：<https://support.unccd.int/>；"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:447
+#: ../../introduction.md:444
 msgid ""
 "A multi-lingual chat functionality, which is embedded in PRAIS and "
 "accessible to country Parties and UNCCD technical experts to facilitate "
 "communication among them in a less formal way,"
-msgstr "在 PRAIS 中嵌入多语种聊天功能，国家缔约方和《荒漠化公约》技术专家可以使用该功能，以较不正式的方式促进他们之间的交流、"
+msgstr "在PRAIS中嵌入多语种聊天功能，国家缔约方和《联合国防治荒漠化公约》技术专家可以使用该功能，以较不正式的方式促进他们之间的交流、"
 
-#: ../../introduction.md:449
+#: ../../introduction.md:446
 msgid ""
 "National reports will undergo a quality assurance procedure prior to final "
 "submission to ensure the provision of consistent, transparent, comparable, "
 "accurate and complete information."
 msgstr "国家报告在最后提交之前将经过质量保证程序审核，以确保提供一致、透明、可比、准确和完整的信息。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:451
+#: ../../introduction.md:448
 msgid ""
 "At its twenty-fifth session, the CRIC will review and analyse the "
 "information submitted during the 2026 reporting process."
-msgstr "审评委第二十五届会议将审查和分析 2026 年报告进程中提交的信息。"
+msgstr "公约执行情况审查委员会将在第二十五届会议审查和分析2026年报告进程中提交的信息。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:453
+#: ../../introduction.md:450
 msgid "Country profile"
 msgstr "国家概况"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:455
+#: ../../introduction.md:452
 msgid ""
 "Information on the total country area, as well as its division into total "
 "land area and area covered by water bodies are prerequisites for the "
@@ -1462,20 +1304,17 @@ msgid ""
 "the indicators. This information is gathered in a Country Profile Form and "
 "the data is used by indicators with related dependencies."
 msgstr ""
-"有关国家总面积及其分为土地总面积和水体覆盖面积的信息是计算退化或改良土地面积和其他指标的前提条件。关于国家人口数量及其构成（男性和女性人数）的信息是计算一些指标的必要条件。这些信息在国家概况表中收集，相关指标使用这些数据。"
+"有关国家总面积及其分为土地总面积和水体覆盖面积的信息是计算退化或改善土地面积和其他指标的前提条件。关于国家人口数量及其构成（男性和女性人数）的信息是计算一些指标的必要条件。这些信息在国家概况表中收集，相关指标使用这些数据。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:457
+#: ../../introduction.md:454
 msgid "Land Area"
 msgstr "土地面积"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:460
+#: ../../introduction.md:457
 msgid "Related areas in the PRAIS 4 platform: table CP-1.T1"
-msgstr "PRAIS 4 平台的相关领域：表 CP-1.T1"
+msgstr "PRAIS 4平台的相关区域：表CP-1.T1"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:463
+#: ../../introduction.md:460
 msgid ""
 "Information on the total land area, area covered by water bodies, and total "
 "country area is required to calculate the proportion of land that is "
@@ -1483,11 +1322,9 @@ msgid ""
 "indicators to track progress towards other SOs (e.g. SO 3-1: Trends in the "
 "proportion of land under drought over the total land area)."
 msgstr ""
-"需要有关土地总面积、水体覆盖面积和国家总面积的信息，以计算退化土地占土地总面积的比例（可持续发展目标指标 "
-"15.3.1），同时也要计算跟踪其他战略目标进展情况的指标（如战略目标 3-1：干旱土地占土地总面积比例的变化趋势）。"
+"需要有关土地总面积、水体覆盖面积和国家总面积的信息，以计算退化土地占土地总面积的比例（可持续发展目标指标15.3.1），同时也要计算追踪其他战略目标进展情况的指标（如战略目标3-1：干旱土地占土地总面积比例的趋势）。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:465
+#: ../../introduction.md:462
 msgid ""
 "Total land area, total water bodies area and total country area require "
 "respective estimates to be reported in square kilometres (km2) for 2000, "
@@ -1502,39 +1339,30 @@ msgid ""
 "is auto-calculated in PRAIS from the addition of the total land area and "
 "water bodies and is therefore not an editable field."
 msgstr ""
-"土地总面积、水体总面积和国家总面积要求分别以平方公里（km2）为单位报告 2000、2015、2019 和 2023 "
-"年或最接近的可用年份的估计数（以便与可持续发展目标指标 15.3.1 的基线和报告期的初始年份和最后年份保持一致）。土地面积数据已预先填入报告表 "
-"CP-1.T1。估算值基于默认的土地覆被数据，因此可能与国家官方统计数据不同。点击表格上方的 \"国家数据 "
-"\"开关可更改预填数据。不过，重要的是要确保土地覆被数据与可持续发展目标指标 15.3.1 的估计值保持一致。缔约方应注意，PRAIS "
-"中的国家总面积是通过增加土地总面积和水体自动计算得出的，因此不是可编辑字段。"
+"土地总面积、水体总面积和国家总面积要求分别按2000、2015、2019和2023年或最接近的可用年份以平方千米（km2）为单位进行估计并报告（以便与可持续发展目标指标15.3.1的基线和报告期初始年份和最终年份保持一致）。土地面积数据已预先填入报告表CP-1.T1。估算基于默认土地覆盖数据，因此可能与国家官方统计数据不同。点击表格上方的\"国家数据\"开关可更改预填数据。不过，重要的是要确保土地覆盖数据与可持续发展目标指标15.3.1的估计保持一致。缔约方应注意，PRAIS中的国家总面积是通过加总土地总面积和水体自动计算得出的，因此不是可编辑字段。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:472
+#: ../../introduction.md:469
 msgid ""
 "Any changes to the default estimates are to be justified in the ‘Comments’ "
 "column or ´Comments´ field below the table."
-msgstr "对默认估计值的任何更改都应在表格下方的 \"注释 \"栏或 \"注释 \"字段中说明理由。"
+msgstr "对默认估计值的任何更改都应在表格下方的\"备注\"栏或\"备注\"字段中说明理由。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:474
+#: ../../introduction.md:471
 msgid "Demographics"
 msgstr "人口统计"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:477
+#: ../../introduction.md:474
 msgid "Related areas in the PRAIS 4 platform: table CP-1.T2"
-msgstr "PRAIS 4 平台的相关领域：表 CP-1.T2"
+msgstr "PRAIS 4平台的相关区域：表CP-1.T2"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:480
+#: ../../introduction.md:477
 msgid ""
 "Information on total population as well as number of females and males is "
 "important to understand the impacts of land degradation and drought, and "
 "their gender dimension."
-msgstr "有关总人口以及女性和男性人口数量的信息对于了解土地退化和干旱的影响及其性别层面非常重要。"
+msgstr "有关总人口以及女性和男性人口数量的信息对于了解土地退化和干旱的影响及其性别维度非常重要。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:482
+#: ../../introduction.md:479
 msgid ""
 "If available, national estimates of the female, male, and total population "
 "on an annual basis since 2000 should be provided, expressed in thousands. "
@@ -1551,14 +1379,10 @@ msgid ""
 "published, Parties will be able to download it from Trends.Earth and import "
 "it to PRAIS 4 to replace the default data."
 msgstr ""
-"如果有，应提供自 2000 年以来每年的女性、男性和总人口的国家估计数，以千为单位。报告表 CP-1.T2 使用世界人口数据集 2000 年至 2023"
-" 年的数据预填了人口数据。缔约方应注意，该数据集未在 2026 年报告中更新，因此最后三年（2021 年、2022 年和 2023 年）的数据与 "
-"2020 年的数据重复。此外，应该注意的是，虽然英国南安普顿大学地理与环境科学学院最近发布了 2015-2030 年新的全球人口数据集，但在 2026 "
-"年报告程序启动时，该数据集仍处于测试版，不会作为默认数据提供。测试版数据集可能包含不一致、错误或异常。一旦这一新的全球人口数据集正式发布，缔约方将能够从"
-" Trends.Earth 下载该数据集，并将其导入 PRAIS 4 以替换默认数据。"
+"如果有，应提供自2000年以来每年的女性、男性和总人口的国家估计数（以千为单位）。报告表CP-1.T2使用世界人口数据集2000年至2023年的数据预填了人口数据。缔约方应注意，该数据集未在2026年报告中更新，因此最后三年（2021年、2022年和2023年）的数据与2020年的数据重复。此外，应该注意的是，尽管英国南安普顿大学地理与环境科学学院最近发布了2015-2030年的新全球人口数据集，但在2026年报告程序启动时，该数据集仍处于测试版，不会作为默认数据提供。测试版数据集可能包含不一致、错误或异常。一旦这个新全球人口数据集正式发布，缔约方将能够从Trends.Earth下载该数据集，并将其导入PRAIS"
+" 4以替换默认数据。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:489
+#: ../../introduction.md:486
 msgid ""
 "If better national estimates are available, the Parties should click on the "
 "“National Data” button and enter their own annual population estimates. "
@@ -1566,34 +1390,28 @@ msgid ""
 "the proportion of population exposure to land degradation and drought. Any "
 "changes are to be justified in the “Comments” field following the table."
 msgstr ""
-"如果有更好的国家估计数，缔约方应点击 \"国家数据 "
-"\"按钮，输入自己的年度人口估计数。但是，必须确保与用于报告受土地退化和干旱影响的人口比例的数据保持一致。任何更改都应在表格后的 \"评论 "
-"\"栏中说明理由。"
+"如果有更好的国家估计，缔约方应点击\"国家数据\"按钮，输入自己的年度人口估计。但是，必须确保与用于报告受土地退化和干旱影响的人口比例的数据保持一致。任何更改都应在表格后的\"备注\"栏中说明理由。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:493
+#: ../../introduction.md:490
 msgid ""
 "A field for “General Comments” is also provided if any additional "
 "information or clarifications are to be provided in relation to the land "
 "area and demographics data provided."
-msgstr "如果需要就所提供的土地面积和人口统计数据提供任何补充信息或说明，还可填写 \"一 般意见\"。"
+msgstr "如果需要就所提供的土地面积和人口统计数据提供任何补充信息或说明，还可填写\"常规备注\"。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:240
 msgid ""
 "Indicator adopted in decision 7/COP.13 as “Trends in international bilateral"
 " and multilateral official development assistance.”"
-msgstr "第 7/COP.13 号决定通过的指标，即 \"国际双边和多边官方发展援助趋势\"。"
+msgstr "第7/COP.13号决定通过的指标\"国际双边和多边官方发展援助趋势\"。"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:242
 msgid ""
 "Indicator adopted in decision 7/COP.13 as “Trends in domestic public "
 "resources”"
-msgstr "第 7/COP.13 号决定通过的指标为 \"国内公共资源趋势\""
+msgstr "第7/COP.13号决定通过的指标\"国内公共资源趋势\"。"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:323
+#: ../../introduction.md:320
 msgid ""
 "The United Nations Geospatial Data, or Geodata, is a worldwide geospatial "
 "dataset of the United Nations. The United Nations Geodata is provided to "
@@ -1604,10 +1422,7 @@ msgid ""
 "accessible here: "
 "<https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887>."
 msgstr ""
-"联合国地理空间数据（或称 "
-"Geodata）是联合国的全球地理空间数据集。提供联合国地理数据是为了便于联合国编制制图材料，其中包括几何图形、属性和标签，以便于充分描述和命名地理特征，从而按照联合国的政策和做法编制地图。Clear"
-" Map "
-"可在此处访问：<https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887>。"
+"联合国地理空间数据（或称Geodata）是联合国的全球地理空间数据集。提供联合国地理数据是为了便于联合国编制制图材料，其中包括几何图形、属性和标签，以便于充分描述和命名地理特征，从而按照联合国的政策和做法编制地图。清晰地图可在此处访问：<https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887>。"
 
 #~ msgid ""
 #~ "*__Table 1__. Strategic objective (SO) 1 indicators and reporting "
@@ -1940,3 +1755,23 @@ msgstr ""
 #~ "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
 #~ msgstr ""
 #~ "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
+
+#~ msgid ""
+#~ "For cartographic representation and preparation of the default data, PRAIS "
+#~ "uses the international boundaries of countries taken from the United Nations"
+#~ " Map 0 geodata which is suitable for 1:1 million scale representation and "
+#~ "serves global mapping purposes as opposed to local mapping. Countries can "
+#~ "opt to use an alternative country border by uploading the polygon directly "
+#~ "to the PRAIS spatial data viewer. However, should Parties opt to use an "
+#~ "alternative country boundary layer, they are encouraged to engage with the "
+#~ "Second Administrative Level Boundaries ([SALB](https://salb.un.org/)) "
+#~ "programme of the Geospatial Information Section & Statistics Division. The "
+#~ "programme’s objective is to promote accessible, interoperable and global "
+#~ "data and information on subnational units and boundaries. Participation in "
+#~ "the programme will ensure Member States of the United Nations will avail of "
+#~ "a global repository of authoritative information and geospatial data about "
+#~ "the administrative unit structure of countries down to the second "
+#~ "subnational level, and through time. Parties should engage with the SALB "
+#~ "program directly by sending an email to <salb@un.org>."
+#~ msgstr ""
+#~ "对于默认数据的制图表示和准备，PRAIS使用从联合国地图0地理数据中提取的国家国际边界，该数据适合1:100万比例尺表示，用于全球制图目的而非地方制图。各国可选择使用替代国界，将多边形直接上传到PRAIS空间数据查看器。但是，如果缔约方选择使用替代国界层，则鼓励其参与地理空间信息处和统计司的二级行政边界（[SALB]（https://salb.un.org/））方案。该方案的目标是促进关于次国家单元和边界的可访问、可互操作全球数据和信息。参与该方案将确保联合国会员国能够利用有关国家行政单元结构的全球权威信息和地理空间数据库，直至次国家二级，并可随时查阅。缔约方应通过发送电子邮件至<salb@un.org>直接参与SALB方案。"

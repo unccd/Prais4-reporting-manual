@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PRAIS4 Reporting Manual\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-03 15:18+0200\n"
+"POT-Creation-Date: 2026-09-10 16:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,6 @@ msgstr "Introduction"
 msgid "Background"
 msgstr "Contexte"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:5
 msgid ""
 "By its decision 7/COP.13, the Conference of the Parties (COP) to the United "
@@ -39,7 +38,6 @@ msgstr ""
 "stratégiques (OS) et (b) un cadre de mise en œuvre. Les objectifs "
 "stratégiques sont les suivants :"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:7
 msgid ""
 "SO1: To improve the condition of affected ecosystems, combat "
@@ -50,12 +48,10 @@ msgstr ""
 "désertification et la dégradation des terres, promouvoir la gestion durable "
 "des terres et contribuer à la neutralité de la dégradation des terres ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:9
 msgid "SO2: To improve the living conditions of affected populations;"
 msgstr "SO2 : Améliorer les conditions de vie des populations touchées ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:11
 msgid ""
 "SO3: To mitigate, adapt to, and manage the effects of drought in order to "
@@ -64,7 +60,6 @@ msgstr ""
 "OS3 : Atténuer les effets de la sécheresse, s'y adapter et les gérer afin de"
 " renforcer la résilience des populations et des écosystèmes vulnérables ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:13
 msgid ""
 "SO4: To generate global environmental benefits through effective "
@@ -73,7 +68,6 @@ msgstr ""
 "OS4 : Générer des bénéfices environnementaux globaux grâce à une mise en "
 "œuvre efficace de la CNULCD ; et"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:15
 msgid ""
 "SO5: To mobilize substantial and additional financial and non-financial "
@@ -85,7 +79,6 @@ msgstr ""
 "convention en établissant des partenariats efficaces aux niveaux mondial et "
 "national."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:17
 msgid ""
 "The implementation framework (IF) defines the roles and responsibilities of "
@@ -150,7 +143,6 @@ msgstr ""
 msgid "Purpose of national reporting"
 msgstr "Objectif de la présentation de rapports nationaux"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:29
 msgid ""
 "Information reported by Parties under the Convention is used in several "
@@ -213,7 +205,6 @@ msgstr ""
 " et de l’autre côté les méthodes de mesure utilisées (éléments "
 "mesurés/indicateurs supplétifs)."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:41
 msgid ""
 "Indicators used for reporting on progress towards the SOs are those adopted "
@@ -243,7 +234,6 @@ msgstr ""
 "statut du formulaire de l'indicateur de \"non applicable\" à \"ouvert\" dans"
 " PRAIS."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:46
 msgid ""
 "Reporting on the implementation framework is done through qualitative "
@@ -254,7 +244,6 @@ msgstr ""
 "d'informations qualitatives, essentiellement des récits d'expériences "
 "nationales, et sur une base volontaire."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:51
 msgid ""
 "*__Table 1__. Strategic objective (SO) 1 indicators and reporting "
@@ -281,7 +270,6 @@ msgstr "Nom de l’indicateur"
 msgid "{rspan}`1` Metrics / proxies"
 msgstr "Éléments mesurés/indicateurs supplétifs"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:59 ../../introduction.md:99 ../../introduction.md:138
 #: ../../introduction.md:204
 #, python-brace-format
@@ -319,14 +307,12 @@ msgstr "Évolution de la structure du couvert terrestre"
 msgid "Land cover change"
 msgstr "Modification du couvert terrestre"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:66 ../../introduction.md:74 ../../introduction.md:79
 #: ../../introduction.md:110 ../../introduction.md:116
 #: ../../introduction.md:185
 msgid "7/COP.13"
 msgstr "7/COP.13"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:67 ../../introduction.md:75 ../../introduction.md:80
 #: ../../introduction.md:85 ../../introduction.md:111
 #: ../../introduction.md:117 ../../introduction.md:146
@@ -337,13 +323,11 @@ msgstr "7/COP.13"
 msgid "Required"
 msgstr "Exigée"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:68
 #, python-brace-format
 msgid "{rspan}`3`Optional."
 msgstr "En option."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:70
 msgid ""
 "Developed country Parties may wish to submit information on SO1 indicators, "
@@ -387,14 +371,12 @@ msgstr "OBJECTIF STRATÉGIQUE 1-4 :"
 msgid "Proportion of land that is degraded over total land area"
 msgstr "Surface des terres dégradées, en proportion de la surface terrestre"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:83 ../../introduction.md:210
 #: ../../introduction.md:216 ../../introduction.md:222
 #: ../../introduction.md:228 ../../introduction.md:234
 msgid "*---*"
 msgstr "*---*"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:84
 msgid "9/COP.13"
 msgstr "9/COP.13"
@@ -431,7 +413,6 @@ msgstr "OU"
 msgid "Income inequality"
 msgstr "inégalités de revenu"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:112 ../../introduction.md:118
 #: ../../introduction.md:147 ../../introduction.md:153
 #: ../../introduction.md:159 ../../introduction.md:187
@@ -472,7 +453,6 @@ msgid ""
 msgstr ""
 "Part de la population exposée à la dégradation des terres, ventilée par sexe"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:122 ../../introduction.md:191
 #: ../../introduction.md:223 ../../introduction.md:229
 #: ../../introduction.md:235
@@ -514,7 +494,6 @@ msgstr ""
 "Surface des terres pour chaque niveau d’intensité de la sécheresse tel que "
 "défini par l’indice de précipitations normalisé"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:145 ../../introduction.md:151
 #: ../../introduction.md:157
 msgid "11/COP.14"
@@ -552,7 +531,6 @@ msgstr ""
 "*__Table 4__. Indicateurs et obligations de rapport pour l’objectif "
 "stratégique (OS) 4"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:173
 #, python-brace-format
 msgid "{rspan}`1` Adoption Decision / proposed"
@@ -562,7 +540,6 @@ msgstr " Décision d'adoption / proposée"
 msgid "SO 4-1"
 msgstr "OBJECTIF STRATÉGIQUE 4-1 :"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:179
 #, python-brace-format
 msgid ""
@@ -620,7 +597,6 @@ msgstr "OBJECTIF STRATÉGIQUE 5-1 :"
 msgid "Bilateral and multilateral public resources"
 msgstr "Ressources publiques bilatérales et multilatérales"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:211
 msgid "7/COP.13 [^1]"
 msgstr "7/COP.13 [^1]"
@@ -633,7 +609,6 @@ msgstr "OBJECTIF STRATÉGIQUE 5-2 :"
 msgid "Domestic public resources"
 msgstr "Ressources publiques nationales"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:217
 msgid "7/COP.13 [^2]"
 msgstr "7/COP.13 [^2]"
@@ -668,7 +643,6 @@ msgstr "Appui futur aux activités liées à la mise en œuvre de la Convention"
 msgid "Reporting tools"
 msgstr "Outils de présentation de rapports"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:246
 msgid ""
 "For the 2026 reporting process, the performance review and assessment of "
@@ -680,7 +654,6 @@ msgstr ""
 "faciliter le processus de rapport. Les changements les plus importants sont "
 "les suivants :"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:248
 msgid ""
 "The Overview tab allows each Party to monitor the status of all their SO and"
@@ -710,7 +683,6 @@ msgstr ""
 "formulaire, son statut doit être mis à jour et devenir \"finalisé\" avant la"
 " soumission officielle de l'OS1 et/ou du rapport global ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:254
 msgid ""
 "A specific tab entitled CP to capture Country Profile information including "
@@ -719,7 +691,6 @@ msgstr ""
 "Un onglet spécifique intitulé CP permet de saisir les informations relatives"
 " au profil du pays, notamment la superficie et la population ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:256
 msgid ""
 "New functionality for SO1-1 to report one or more (max. five) regional land "
@@ -730,7 +701,6 @@ msgstr ""
 "(max. cinq) matrices régionales de transition de l'occupation du sol qui "
 "permettent une meilleure capture des conditions régionales et locales ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:258
 msgid ""
 "Parties can now stratify the land productivity and soil organic carbon stock"
@@ -742,7 +712,6 @@ msgstr ""
 "d'occupation des sols personnalisées/nationales au lieu des sept classes "
 "d'occupation des sols par défaut de la CNULD ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:260
 msgid ""
 "The SO1 forms now also support the reporting of land improvement, in "
@@ -753,7 +722,6 @@ msgstr ""
 "des terres, en plus de la dégradation des terres, ce qui fournit des "
 "informations précieuses dans le contexte de la réalisation de la LDN ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:262
 msgid ""
 "Data on SDG indicators — excluding SDG indicator 15.3.1 — have been imported"
@@ -766,7 +734,6 @@ msgstr ""
 "par défaut et synchronisées avec PRAIS afin de réduire la charge de travail "
 "et d'éviter la duplication des efforts de validation des données ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:264
 msgid ""
 "The reporting forms have been simplified to the extent possible — for "
@@ -778,7 +745,6 @@ msgstr ""
 "limitant la déclaration aux années clés nécessaires pour définir la période "
 "de référence et la période de déclaration ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:266
 msgid ""
 "Parties are encouraged to provide more narrative information and stories on "
@@ -790,7 +756,6 @@ msgstr ""
 " des champs de commentaires supplémentaires ont été ajoutés à la suite de "
 "nombreux tableaux sous les indicateurs ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:268
 msgid ""
 "Geospatial information is now grouped by indicator making it easier to "
@@ -821,7 +786,6 @@ msgstr ""
 "Plusieurs outils de présentation de rapports seront mis à la disposition des"
 " pays parties dans les six langues officielles des Nations Unies :"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:274
 msgid ""
 "The updated PRAIS 4 user manual, which provides step-by-step procedures for "
@@ -830,7 +794,6 @@ msgstr ""
 "La mise à jour du manuel de l'utilisateur de PRAIS 4, qui fournit des "
 "procédures étape par étape pour l'accès au système et son utilisation ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:276
 msgid ""
 "This updated reporting manual, which provides step-by-step methodological "
@@ -839,7 +802,6 @@ msgstr ""
 "Cette mise à jour du manuel de rapport, qui fournit des conseils "
 "méthodologiques étape par étape pour la préparation des rapports nationaux ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:278
 msgid ""
 "An updated glossary of reporting terms and definitions included in this "
@@ -848,7 +810,6 @@ msgstr ""
 "Un glossaire actualisé des termes et définitions utilisés dans le cadre de "
 "l'établissement des rapports est inclus dans le présent manuel ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:280
 msgid ""
 "A set of e-learning videos for each SO providing information on the "
@@ -857,7 +818,6 @@ msgstr ""
 "Une série de vidéos d'apprentissage en ligne pour chaque OS fournissant des "
 "informations sur les étapes de déclaration requises ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:282
 msgid ""
 "A chat functionality, which is embedded in PRAIS and accessible to country "
@@ -876,7 +836,6 @@ msgstr ""
 "utilisateurs ont la possibilité de choisir une langue à utiliser dans "
 "l'application de chat."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:284
 msgid ""
 "In addition, Parties should also refer to the following methodological "
@@ -897,7 +856,6 @@ msgstr ""
 "terrestre](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land) ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:288
 msgid ""
 "The [Addendum to Version 2 of the Good Practice Guidance for SDG Indicator "
@@ -908,7 +866,6 @@ msgstr ""
 "15.3.1 des ODD] (https://www.unccd.int/resources/manuals-and-"
 "guides/addendum-good-practice-guidance-sdg-indicator-1531-proportion-land) ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:290
 msgid ""
 "[Good Practice Guidance for National Reporting on UNCCD Strategic Objective "
@@ -920,7 +877,6 @@ msgstr ""
 "(https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-"
 "national-reporting-unccd-strategic-objective-3) ;"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:292
 msgid ""
 "[Good Practice Guidance for National Reporting on UNCCD Strategic Objective "
@@ -932,7 +888,6 @@ msgstr ""
 "(https://www.unccd.int/resources/manuals-and-guides/good-practice-guidance-"
 "national-reporting-unccd-strategic-objective-5)."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:294
 msgid ""
 "Furthermore, a report, entitled [The Land "
@@ -951,7 +906,6 @@ msgstr ""
 msgid "Data analytics tools"
 msgstr "Outils statistiques"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:298
 msgid ""
 "In line with decision 4/COP.16, Conservation International has further "
@@ -975,7 +929,6 @@ msgstr ""
 msgid "Default data"
 msgstr "Données par défaut"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:302
 msgid ""
 "With a view to reducing the reporting burden and in accordance with the "
@@ -993,7 +946,6 @@ msgstr ""
 "utilisant d'autres ensembles de données provenant/calculées au niveau "
 "national/local."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:304
 msgid ""
 "For reporting on indicators related to SO1, SO2 or SO3, countries wishing to"
@@ -1016,7 +968,6 @@ msgstr ""
 "les résultats soient compatibles avec les exigences de téléchargement dans "
 "PRAIS."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:306
 msgid ""
 "For reporting on indicators related to SO5, default data is also provided in"
@@ -1032,12 +983,10 @@ msgstr ""
 "détails sur la validation des données par défaut sont fournis dans le "
 "présent manuel, dans le chapitre relatif à la déclaration du SO5."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:308
 msgid "National boundaries"
 msgstr "Frontières nationales"
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:310
 msgid ""
 "In order to provide national-level extracts of the global data sources for "
@@ -1079,7 +1028,6 @@ msgstr ""
 " sont fournis pour fournir un contexte à des échelles plus fines afin de "
 "compenser les contraintes d'échelle de l'UN Clear Map."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:312
 msgid ""
 "The UN Clear Map Data has been prepared by the United Nations Geospatial "
@@ -1098,48 +1046,24 @@ msgstr ""
 "territoire, d'une ville ou d'une zone ou de ses autorités, ou concernant la "
 "délimitation de ses frontières ou limites."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:314
 msgid ""
 "For cartographic representation and preparation of the default data, PRAIS "
-"uses the international boundaries of countries taken from the United Nations"
-" Map 0 geodata which is suitable for 1:1 million scale representation and "
-"serves global mapping purposes as opposed to local mapping. Countries can "
-"opt to use an alternative country border by uploading the polygon directly "
-"to the PRAIS spatial data viewer. However, should Parties opt to use an "
-"alternative country boundary layer, they are encouraged to engage with the "
-"Second Administrative Level Boundaries ([SALB](https://salb.un.org/)) "
-"programme of the Geospatial Information Section & Statistics Division. The "
-"programme’s objective is to promote accessible, interoperable and global "
-"data and information on subnational units and boundaries. Participation in "
-"the programme will ensure Member States of the United Nations will avail of "
-"a global repository of authoritative information and geospatial data about "
-"the administrative unit structure of countries down to the second "
-"subnational level, and through time. Parties should engage with the SALB "
-"program directly by sending an email to <salb@un.org>."
+"uses the international boundaries of countries taken from the UN Geodata "
+"which is suitable for 1:1 million scale representation and serves global "
+"mapping purposes as opposed to local mapping. Countries can opt to use an "
+"alternative country border by uploading the polygon directly to the PRAIS "
+"spatial data viewer. Should Parties opt to use an alternative country border"
+" to that provided in PRAIS, they can upload it directly to the PRAIS spatial"
+" data viewer, recalculate all geospatial indicators via Trends.Earth and "
+"upload the results to PRAIS. Please note: all polygon files uploaded to "
+"PRAIS should be simplified as much as possible. The spatial data viewer has "
+"limitations on the number of vertices it can process in a browser. Highly "
+"detailed or complex polygons will be simplified automatically for display "
+"purposes in the PRAIS spatial viewer."
 msgstr ""
-"Pour la représentation cartographique et la préparation des données par "
-"défaut, PRAIS utilise les frontières internationales des pays tirées des "
-"géodonnées de la carte 0 des Nations Unies, qui sont adaptées à une "
-"représentation à l'échelle 1:1 million et servent à la cartographie mondiale"
-" plutôt qu'à la cartographie locale. Les pays peuvent choisir d'utiliser une"
-" frontière alternative en téléchargeant le polygone directement dans le "
-"visualisateur de données spatiales PRAIS. Cependant, si les Parties "
-"choisissent d'utiliser une couche de frontière alternative, elles sont "
-"encouragées à s'engager dans le programme Second Administrative Level "
-"Boundaries ([SALB](https://salb.un.org/)) de la Section de l'information "
-"géospatiale et de la Division des statistiques. L'objectif du programme est "
-"de promouvoir des données et des informations accessibles, interopérables et"
-" globales sur les unités et les frontières infranationales. La participation"
-" au programme permettra aux États membres des Nations unies de disposer d'un"
-" référentiel mondial d'informations et de données géospatiales faisant "
-"autorité sur la structure des unités administratives des pays jusqu'au "
-"deuxième niveau infranational et à travers le temps. Les parties peuvent "
-"s'engager directement dans le programme SALB en envoyant un courriel à "
-"<salb@un.org>."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:321
+#: ../../introduction.md:318
 msgid ""
 "Careful consideration should be given to the use of an alternative national "
 "border in that it must be consistent with the total land area reported under"
@@ -1152,12 +1076,11 @@ msgstr ""
 "contraire, des divergences peuvent apparaître dans les données de "
 "déclaration dérivées de l'analyse géospatiale utilisant cette frontière."
 
-#: ../../introduction.md:325
+#: ../../introduction.md:322
 msgid "Open data sharing"
 msgstr "Partage des données ouvertes"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:327
+#: ../../introduction.md:324
 msgid ""
 "By its decision 16/COP.11, the COP requested the secretariat to ensure that "
 "data and information from the reporting process are available and accessible"
@@ -1172,8 +1095,7 @@ msgstr ""
 "poursuivre l'analyse et la présentation des données mondiales et régionales "
 "dans des formats interactifs."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:330
+#: ../../introduction.md:327
 msgid ""
 "In order to maximize the interoperability and impact of data submitted by "
 "Parties and to allow the secretariat to make regional and global aggregate "
@@ -1190,8 +1112,7 @@ msgstr ""
 "Universal Public Domain Dedication 1.0 (CC0), soit sous la licence Creative "
 "Commons Attribution 4.0 International (CC BY), qui est la plus ouverte."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:332
+#: ../../introduction.md:329
 msgid ""
 "The CC0 public domain dedication enables unrestricted reuse without the need"
 " for attribution, which can be especially useful for foundational datasets "
@@ -1206,8 +1127,7 @@ msgstr ""
 "généralement le cas pour les jeux de données liés à l'évaluation de "
 "l'occupation et de la dégradation des sols."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:334
+#: ../../introduction.md:331
 msgid ""
 "The CC BY licence is the most open of the Creative Commons licenses, making "
 "it a fundamental legal tool for data interoperability and supporting broad "
@@ -1231,8 +1151,7 @@ msgstr ""
 "Nations unies et comme l'exige la Commission européenne pour les ensembles "
 "de données de grande valeur."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:336
+#: ../../introduction.md:333
 msgid ""
 "By applying the CC0 public domain dedication or CC BY licences to national "
 "datasets:"
@@ -1240,8 +1159,7 @@ msgstr ""
 "En appliquant la dédicace au domaine public CC0 ou les licences CC BY aux "
 "ensembles de données nationaux :"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:338
+#: ../../introduction.md:335
 msgid ""
 "Parties contribute to efficient, evidence-based policy and scientific "
 "cooperation at all levels;"
@@ -1249,8 +1167,7 @@ msgstr ""
 "Les parties contribuent à une coopération politique et scientifique efficace"
 " et fondée sur des données probantes à tous les niveaux ;"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:340
+#: ../../introduction.md:337
 msgid ""
 "Parties strengthen the global visibility and impact of their national work "
 "on land and sustainability;"
@@ -1258,8 +1175,7 @@ msgstr ""
 "Les parties renforcent la visibilité et l'impact au niveau mondial de leurs "
 "travaux nationaux sur les terres et le développement durable ;"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:342
+#: ../../introduction.md:339
 msgid ""
 "Parties’ data can easily be reused by other agencies and organizations, "
 "including regional hubs, giving them most freedom of the licence they want "
@@ -1270,8 +1186,7 @@ msgstr ""
 " la plus grande liberté quant à la licence sous laquelle ils souhaitent "
 "publier ;"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:344
+#: ../../introduction.md:341
 msgid ""
 "Parties enable the seamless integration of their data into the UNCCD’s "
 "aggregate information products based on national reports such as those "
@@ -1282,8 +1197,7 @@ msgstr ""
 "tels que ceux affichés sur le tableau de bord des données de la CNULD (qui "
 "est sous licence CC BY-NC)."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:346
+#: ../../introduction.md:343
 msgid ""
 "These guidelines are designed to maximize the interoperability of submitted "
 "national data by clearly defining its conditions of reuse. Interoperability "
@@ -1300,8 +1214,7 @@ msgstr ""
 "manière cohérente entre les systèmes, ce qui nécessite des conditions de "
 "réutilisation à la fois explicites et normalisées."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:348
+#: ../../introduction.md:345
 msgid ""
 "You can read more about the licences in Annex I of these guidelines and you "
 "can find comprehensive information at the [Creative Commons "
@@ -1312,8 +1225,7 @@ msgstr ""
 " web de Creative Commons] (https://creativecommons.org/share-your-"
 "work/cclicenses/)."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:350
+#: ../../introduction.md:347
 msgid ""
 "Taking the above guidelines into account, Parties have the option to fill "
 "out a User Specific Licence (USL) form in PRAIS and choose whether to: (i) "
@@ -1327,8 +1239,7 @@ msgstr ""
 "licence personnalisée : (i) utiliser une licence Creative Commons existante "
 "; ou (ii) opter pour une exemption et choisir une licence personnalisée."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:352
+#: ../../introduction.md:349
 msgid ""
 "It is important to note that most of the default datasets have been licensed"
 " by their respective data providers under a Creative Commons Attribution 4.0"
@@ -1350,12 +1261,11 @@ msgstr ""
 "données et sur la manière de remplir le formulaire de LSU, voir l'annexe I "
 "du présent manuel de présentation des rapports."
 
-#: ../../introduction.md:354
+#: ../../introduction.md:351
 msgid "Reporting frequency"
 msgstr "Fréquence de présentation des rapports"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:356
+#: ../../introduction.md:353
 msgid ""
 "By its decision 15/COP.13, the COP approved a four-year frequency for "
 "national reporting (Table 6)."
@@ -1363,8 +1273,7 @@ msgstr ""
 "Par sa décision 15/COP.13, la COP a approuvé une fréquence de quatre ans "
 "pour les rapports nationaux (tableau 6)."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:358
+#: ../../introduction.md:355
 msgid ""
 "During the 2018 reporting process, Parties reported data and information for"
 " the period 2000–2015, which serves as the baseline for SDG indicator 15.3.1"
@@ -1379,8 +1288,7 @@ msgstr ""
 "et l'indicateur 15.3.1 des ODD tous les quatre ans, augmentant ainsi les "
 "périodes de rapport par incréments de quatre ans."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:361
+#: ../../introduction.md:358
 msgid ""
 "Figure 1 shows that the first reporting period (Period 1) completed in 2022,"
 " covered the timeframe from January 1st, 2016, to December 31st, 2019. The "
@@ -1403,8 +1311,7 @@ msgstr ""
 "période de rapport intégrant quatre années supplémentaires par rapport à la "
 "précédente."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:366
+#: ../../introduction.md:363
 msgid ""
 "_**Figure 1.** Timeline illustrating the four-year UNCCD reporting frequency"
 " for SDG indicator 15.3.1_"
@@ -1412,13 +1319,11 @@ msgstr ""
 "Figure 1.** Calendrier illustrant la fréquence quadriennale des rapports de "
 "la CCD pour l'indicateur 15.3.1 de l'ODD"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:368
+#: ../../introduction.md:365
 msgid "![](/img/fig1.png)"
 msgstr "![](/img/fig1.png)"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:370
+#: ../../introduction.md:367
 msgid ""
 "_**Table 6**. The first column shows the year of reporting to the UNCCD; the"
 " second column shows the relevant reporting periods for each report "
@@ -1428,65 +1333,59 @@ msgstr ""
 "rapports à la CNULD ; la deuxième colonne indique les périodes de référence "
 "pertinentes pour chaque rapport présenté."
 
-#: ../../introduction.md:377
+#: ../../introduction.md:374
 msgid "UNCCD Reporting Process"
 msgstr "Cycle de présentation de rapports de la CNULCD"
 
-#: ../../introduction.md:378
+#: ../../introduction.md:375
 msgid "UNCCD Reporting Periods"
 msgstr "Période examinée"
 
-#: ../../introduction.md:379
+#: ../../introduction.md:376
 msgid "2018"
 msgstr "2018"
 
-#: ../../introduction.md:380
+#: ../../introduction.md:377
 msgid "Baseline 2000-2015"
 msgstr "Seuil de référence 2000-2015"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:381
+#: ../../introduction.md:378
 msgid "2022"
 msgstr "2022"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:382
+#: ../../introduction.md:379
 msgid "2016-2019"
 msgstr "2016-2019"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:383
+#: ../../introduction.md:380
 msgid "**2026**"
 msgstr "**2026**"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:384
+#: ../../introduction.md:381
 msgid "**2016-2023**"
 msgstr "**2016-2023"
 
-#: ../../introduction.md:385
+#: ../../introduction.md:382
 msgid "2030"
 msgstr "2030"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:386
+#: ../../introduction.md:383
 msgid "2016-2027"
 msgstr "2016-2027"
 
-#: ../../introduction.md:387
+#: ../../introduction.md:384
 msgid "2034"
 msgstr "2034"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:388
+#: ../../introduction.md:385
 msgid "2016-2031"
 msgstr "2016-2031"
 
-#: ../../introduction.md:391
+#: ../../introduction.md:388
 msgid "Recalculations and time series consistency"
 msgstr "Recalculs et cohérence des séries chronologiques"
 
-#: ../../introduction.md:393
+#: ../../introduction.md:390
 msgid ""
 "Advances in methodologies and data availability may require periodic "
 "recalculations of previously submitted national estimates. While "
@@ -1500,8 +1399,7 @@ msgstr ""
 " la cohérence des séries chronologiques et la comparabilité entre les "
 "données de référence et les données de suivi ultérieures."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:396
+#: ../../introduction.md:393
 msgid ""
 "For instance, given the evolution of the calculation methods presented in "
 "version 2 of the [Good Practice Guidance for SDG Indicator "
@@ -1527,7 +1425,7 @@ msgstr ""
 " fournies par le biais des formulaires PRAIS ont déjà été recalculées pour "
 "les pays parties à l'aide des nouvelles méthodes de calcul."
 
-#: ../../introduction.md:399
+#: ../../introduction.md:396
 msgid ""
 "For a broader discussion on the issue of recalculations, see chapter 6 of "
 "version 2 of the [Good Practice Guidance for SDG Indicator "
@@ -1539,13 +1437,11 @@ msgstr ""
 "ODD](https://www.unccd.int/publications/good-practice-guidance-sdg-"
 "indicator-1531-proportion-land-degraded-over-total-land)."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:401
+#: ../../introduction.md:398
 msgid "Submission of the national report, validation and review process"
 msgstr "Soumission du rapport national, processus de validation et d'examen"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:403
+#: ../../introduction.md:400
 msgid ""
 "Building on the experiences and lessons learned from the use of PRAIS in the"
 " 2022 reporting process, a next generation of the on-line platform was "
@@ -1561,8 +1457,7 @@ msgstr ""
 "la mise à jour de la plateforme ont été réalisées en gardant à l'esprit les "
 "objectifs suivants :"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:405
+#: ../../introduction.md:402
 msgid ""
 "A) Quality Assurance - To ensure that national reports are comprehensive, "
 "internally consistent, aligned with UNCCD guidelines and well-integrated, "
@@ -1579,8 +1474,7 @@ msgstr ""
 "données soumises avant qu'elles ne soient utilisées par le secrétariat dans "
 "les rapports agrégés et les produits d'information dérivés."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:407
+#: ../../introduction.md:404
 msgid ""
 "B) Transparency – the platform should enable access to all the documentation"
 " necessary for understanding how the indicators should be reported, "
@@ -1592,8 +1486,7 @@ msgstr ""
 "être rapportés, y compris des explications sur les termes clés, les sources "
 "de données par défaut, les définitions et les méthodologies utilisées."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:409
+#: ../../introduction.md:406
 msgid ""
 "C) Ease of use – the platform should have an intuitive interface with an "
 "overview country management dashboard, forms which allow easy data entry, "
@@ -1606,8 +1499,7 @@ msgstr ""
 "nationale à une source de données par défaut, et de télécharger d'autres "
 "ensembles de données et/ou de la documentation."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:411
+#: ../../introduction.md:408
 msgid ""
 "D) Improved communication – the platform should have a transparent review "
 "and revision functionality, which allows tracking of changes in the reported"
@@ -1618,8 +1510,7 @@ msgstr ""
 "les modifications apportées aux chiffres communiqués et facilite la "
 "compréhension du déroulement du processus d'examen."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:413
+#: ../../introduction.md:410
 msgid ""
 "E) Flexibility – the platform should clearly outline the differentiated "
 "reporting obligations of Affected Country Parties and Developed Country "
@@ -1634,8 +1525,7 @@ msgstr ""
 "facultatifs ou des indicateurs généralement considérés comme ne s'appliquant"
 " pas à leur catégorie de pays."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:415
+#: ../../introduction.md:412
 msgid ""
 "Once a reporting form has been completed and all the tables in that form "
 "have been filled in, the Reporting Officer can make the form  available to "
@@ -1674,8 +1564,7 @@ msgstr ""
 "modification supplémentaire n'est nécessaire, le formulaire est considéré "
 "comme finalisé et prêt à être soumis au secrétariat."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:423
+#: ../../introduction.md:420
 msgid ""
 "Building on the lessons learned from the 2022 reporting process, a number of"
 " system validation rules have been implemented in PRAIS for 2026 reporting. "
@@ -1697,8 +1586,7 @@ msgstr ""
 "l'utilisateur à comprendre le problème et lui indique comment y remédier "
 "avant de pouvoir enregistrer le formulaire."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:428
+#: ../../introduction.md:425
 msgid ""
 "Inter-tabular consistency: the total country area and demographics, as "
 "presented in the country profile (CP-1.T1 and CP-1.T2), constitute the basis"
@@ -1726,8 +1614,7 @@ msgstr ""
 "valeurs indiquées dans le profil du pays, une erreur apparaît car la valeur "
 "en pourcentage indiquée ne peut normalement pas dépasser 100 %."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:433
+#: ../../introduction.md:430
 msgid ""
 "Having negative numbers in tables where only positive numbers are allowed or"
 " having non-numeric characters in numeric-only fields also trigger error "
@@ -1743,14 +1630,12 @@ msgstr ""
 "l'utilisateur avant que le formulaire puisse être enregistré ou soumis pour "
 "examen."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:435
+#: ../../introduction.md:432
 msgid "Process and schedule for the 2026 reporting process"
 msgstr ""
 "Processus et calendrier pour le processus d'établissement des rapports 2026"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:437
+#: ../../introduction.md:434
 msgid ""
 "The deadlines for submission of national reports are tentatively set for "
 "November 2026 for reporting on SO1, and February 2027 for the remaining SOs."
@@ -1764,8 +1649,7 @@ msgstr ""
 "rapports 2026 afin de décider des ajustements à apporter à ce calendrier, si"
 " nécessaire."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:439
+#: ../../introduction.md:436
 msgid ""
 "Various measures will be taken by the secretariat to support Parties in "
 "preparing the national reports and providing high quality information:"
@@ -1773,8 +1657,7 @@ msgstr ""
 "Le secrétariat prendra diverses mesures pour aider les parties à préparer "
 "les rapports nationaux et à fournir des informations de qualité :"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:441
+#: ../../introduction.md:438
 msgid ""
 "In-person regional capacity development activities will be organized. These "
 "aim to introduce national focal points and assigned reporting officers to "
@@ -1786,8 +1669,7 @@ msgstr ""
 "méthodologies, les données et les outils actualisés en matière "
 "d'établissement des rapports ;"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:443
+#: ../../introduction.md:440
 msgid ""
 "The secretariat and the Global Mechanism, with the assistance of consultants"
 " and/or regional institutions, will provide technical backstopping "
@@ -1797,8 +1679,7 @@ msgstr ""
 "d'institutions régionales, fourniront un soutien technique tout au long du "
 "processus d'élaboration des rapports ;"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:445
+#: ../../introduction.md:442
 msgid ""
 "An online helpdesk facility, which can be accessed at "
 "<https://support.unccd.int/> will be available via PRAIS to respond to "
@@ -1808,8 +1689,7 @@ msgstr ""
 "<https://support.unccd.int/>, sera disponible via PRAIS pour répondre aux "
 "questions des parties ;"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:447
+#: ../../introduction.md:444
 msgid ""
 "A multi-lingual chat functionality, which is embedded in PRAIS and "
 "accessible to country Parties and UNCCD technical experts to facilitate "
@@ -1819,7 +1699,7 @@ msgstr ""
 "aux pays parties et aux experts techniques de la CNULD pour faciliter la "
 "communication entre eux de manière moins formelle,"
 
-#: ../../introduction.md:449
+#: ../../introduction.md:446
 msgid ""
 "National reports will undergo a quality assurance procedure prior to final "
 "submission to ensure the provision of consistent, transparent, comparable, "
@@ -1830,8 +1710,7 @@ msgstr ""
 "fournies sont cohérentes, transparentes, comparables, exactes et "
 "exhaustives."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:451
+#: ../../introduction.md:448
 msgid ""
 "At its twenty-fifth session, the CRIC will review and analyse the "
 "information submitted during the 2026 reporting process."
@@ -1840,13 +1719,11 @@ msgstr ""
 "informations soumises dans le cadre du processus d'élaboration du rapport "
 "2026."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:453
+#: ../../introduction.md:450
 msgid "Country profile"
 msgstr "Profil du pays"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:455
+#: ../../introduction.md:452
 msgid ""
 "Information on the total country area, as well as its division into total "
 "land area and area covered by water bodies are prerequisites for the "
@@ -1866,18 +1743,15 @@ msgstr ""
 "les données sont utilisées par les indicateurs avec les dépendances qui s'y "
 "rapportent."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:457
+#: ../../introduction.md:454
 msgid "Land Area"
 msgstr "Superficie du terrain"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:460
+#: ../../introduction.md:457
 msgid "Related areas in the PRAIS 4 platform: table CP-1.T1"
 msgstr "Domaines connexes dans la plateforme PRAIS 4 : tableau CP-1.T1"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:463
+#: ../../introduction.md:460
 msgid ""
 "Information on the total land area, area covered by water bodies, and total "
 "country area is required to calculate the proportion of land that is "
@@ -1894,8 +1768,7 @@ msgstr ""
 "évolution de la proportion de terres touchées par la sécheresse par rapport "
 "à la superficie totale des terres)."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:465
+#: ../../introduction.md:462
 msgid ""
 "Total land area, total water bodies area and total country area require "
 "respective estimates to be reported in square kilometres (km2) for 2000, "
@@ -1927,8 +1800,7 @@ msgstr ""
 "l'addition de la superficie totale des terres et des masses d'eau et qu'il "
 "ne s'agit donc pas d'un champ modifiable."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:472
+#: ../../introduction.md:469
 msgid ""
 "Any changes to the default estimates are to be justified in the ‘Comments’ "
 "column or ´Comments´ field below the table."
@@ -1936,18 +1808,15 @@ msgstr ""
 "Toute modification des estimations par défaut doit être justifiée dans la "
 "colonne \"Commentaires\" ou dans le champ \"Commentaires\" sous le tableau."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:474
+#: ../../introduction.md:471
 msgid "Demographics"
 msgstr "Données démographiques"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:477
+#: ../../introduction.md:474
 msgid "Related areas in the PRAIS 4 platform: table CP-1.T2"
 msgstr "Domaines connexes dans la plateforme PRAIS 4 : tableau CP-1.T2"
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:480
+#: ../../introduction.md:477
 msgid ""
 "Information on total population as well as number of females and males is "
 "important to understand the impacts of land degradation and drought, and "
@@ -1957,8 +1826,7 @@ msgstr ""
 "et d'hommes sont importantes pour comprendre les effets de la dégradation "
 "des sols et de la sécheresse, ainsi que leur dimension sexospécifique."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:482
+#: ../../introduction.md:479
 msgid ""
 "If available, national estimates of the female, male, and total population "
 "on an annual basis since 2000 should be provided, expressed in thousands. "
@@ -1994,8 +1862,7 @@ msgstr ""
 "Trends.Earth et l'importer dans PRAIS 4 pour remplacer les données par "
 "défaut."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:489
+#: ../../introduction.md:486
 msgid ""
 "If better national estimates are available, the Parties should click on the "
 "“National Data” button and enter their own annual population estimates. "
@@ -2011,8 +1878,7 @@ msgstr ""
 "sécheresse. Tout changement doit être justifié dans le champ "
 "\"Commentaires\" qui suit le tableau."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:493
+#: ../../introduction.md:490
 msgid ""
 "A field for “General Comments” is also provided if any additional "
 "information or clarifications are to be provided in relation to the land "
@@ -2022,7 +1888,6 @@ msgstr ""
 "supplémentaires ou des clarifications doivent être fournies en relation avec"
 " les données démographiques et de superficie fournies."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:240
 msgid ""
 "Indicator adopted in decision 7/COP.13 as “Trends in international bilateral"
@@ -2031,7 +1896,6 @@ msgstr ""
 "Indicateur adopté dans la décision 7/COP.13 comme \"Tendances de l'aide "
 "publique au développement bilatérale et multilatérale internationale\"."
 
-# Requires manual validation; translated with DeepL
 #: ../../introduction.md:242
 msgid ""
 "Indicator adopted in decision 7/COP.13 as “Trends in domestic public "
@@ -2040,8 +1904,7 @@ msgstr ""
 "Indicateur adopté dans la décision 7/COP.13 sous le nom de \"Tendances des "
 "ressources publiques nationales\"."
 
-# Requires manual validation; translated with DeepL
-#: ../../introduction.md:323
+#: ../../introduction.md:320
 msgid ""
 "The United Nations Geospatial Data, or Geodata, is a worldwide geospatial "
 "dataset of the United Nations. The United Nations Geodata is provided to "
@@ -2518,3 +2381,41 @@ msgstr ""
 #~ "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
 #~ msgstr ""
 #~ "https://geoportal.un.org/arcgis/home/item.html?id=541557fd0d4d42efb24449be614e6887."
+
+#~ msgid ""
+#~ "For cartographic representation and preparation of the default data, PRAIS "
+#~ "uses the international boundaries of countries taken from the United Nations"
+#~ " Map 0 geodata which is suitable for 1:1 million scale representation and "
+#~ "serves global mapping purposes as opposed to local mapping. Countries can "
+#~ "opt to use an alternative country border by uploading the polygon directly "
+#~ "to the PRAIS spatial data viewer. However, should Parties opt to use an "
+#~ "alternative country boundary layer, they are encouraged to engage with the "
+#~ "Second Administrative Level Boundaries ([SALB](https://salb.un.org/)) "
+#~ "programme of the Geospatial Information Section & Statistics Division. The "
+#~ "programme’s objective is to promote accessible, interoperable and global "
+#~ "data and information on subnational units and boundaries. Participation in "
+#~ "the programme will ensure Member States of the United Nations will avail of "
+#~ "a global repository of authoritative information and geospatial data about "
+#~ "the administrative unit structure of countries down to the second "
+#~ "subnational level, and through time. Parties should engage with the SALB "
+#~ "program directly by sending an email to <salb@un.org>."
+#~ msgstr ""
+#~ "Pour la représentation cartographique et la préparation des données par "
+#~ "défaut, PRAIS utilise les frontières internationales des pays tirées des "
+#~ "géodonnées de la carte 0 des Nations Unies, qui sont adaptées à une "
+#~ "représentation à l'échelle 1:1 million et servent à la cartographie mondiale"
+#~ " plutôt qu'à la cartographie locale. Les pays peuvent choisir d'utiliser une"
+#~ " frontière alternative en téléchargeant le polygone directement dans le "
+#~ "visualisateur de données spatiales PRAIS. Cependant, si les Parties "
+#~ "choisissent d'utiliser une couche de frontière alternative, elles sont "
+#~ "encouragées à s'engager dans le programme Second Administrative Level "
+#~ "Boundaries ([SALB](https://salb.un.org/)) de la Section de l'information "
+#~ "géospatiale et de la Division des statistiques. L'objectif du programme est "
+#~ "de promouvoir des données et des informations accessibles, interopérables et"
+#~ " globales sur les unités et les frontières infranationales. La participation"
+#~ " au programme permettra aux États membres des Nations unies de disposer d'un"
+#~ " référentiel mondial d'informations et de données géospatiales faisant "
+#~ "autorité sur la structure des unités administratives des pays jusqu'au "
+#~ "deuxième niveau infranational et à travers le temps. Les parties peuvent "
+#~ "s'engager directement dans le programme SALB en envoyant un courriel à "
+#~ "<salb@un.org>."
