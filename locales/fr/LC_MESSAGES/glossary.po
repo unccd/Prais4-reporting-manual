@@ -35,17 +35,16 @@ msgid ""
 "{term}`U <UNCCD National Action Programmes (NAPs)>` | {term}`V <Vector "
 "data>` | {term}`W <Water bodies>`|"
 msgstr ""
-"| {term}`A <Biomasse aérienne>` | {term}`B <Niveau de référence>` | {term}`C"
-" <Renforcement des capacités, développement des capacités>` | {term}`D "
-"<Données>` | {term}`E <Facteurs de vulnérabilité économique>` | {term}`F "
-"<Faux négatif>` | {term}`G <Gain (suivi)>`| {term}`H <Risque>` | {term}`I "
-"<Cadre de mise en œuvre>` | {term}`K <Zone clé pour la biodiversité>` | "
-"{term}`L <Couverture terrestre>` | {term}`M <Intégration des questions de "
-"genre>` | {term}`N <Capital naturel>` | {term}`O <SNPC du CAD de l’OCDE>` | "
-"{term}`P <Partenariat>` | {term}`R <Données raster>` | {term}`S <Source(s) "
-"d’eau potable gérée(s) en toute sécurité>` | {term}`T <Objectif>` | {term}`U"
-" <Programmes d’action nationaux (PAN) de la CNULCD>` | {term}`V <Données "
-"vectorielles>` | {term}`W <Masses d’eau>`|"
+"| {term}`A <Above ground biomass>` | {term}`B <Baseline>` | {term}`C "
+"<Capacity building, capacity development>` | {term}`D <Data>` | {term}`E "
+"<Economic vulnerability factors>` | {term}`F <False negative>` | {term}`G "
+"<Gain (monitored)>`| {term}`H <Hazard>` | {term}`I <Implementation "
+"Framework>` | {term}`K <Key Biodiversity Area>` | {term}`L <Land cover>` | "
+"{term}`M <Mainstreaming gender>` | {term}`N <Natural capital>` | {term}`O "
+"<OECD DAC CRS>` | {term}`P <Partnership>` | {term}`R <Raster data>` | "
+"{term}`S <Safely managed drinking water source(s)>` | {term}`T <Target>` | "
+"{term}`U <UNCCD National Action Programmes (NAPs)>` | {term}`V <Vector "
+"data>` | {term}`W <Water bodies>`|"
 
 #: ../../glossary.md
 msgid "Above ground biomass"
@@ -164,7 +163,7 @@ msgstr ""
 #: ../../glossary.md:839 ../../glossary.md:966 ../../glossary.md:1002
 #, python-brace-format
 msgid "_See also {term}`Drought Vulnerability Index (DVI)`._"
-msgstr "_Voir aussi {term}`Index de vulnérabilité à la sécheresse (IVS)`._"
+msgstr "_Voir aussi {term}`Indice de vulnérabilité à la sécheresse (IVS)`._"
 
 #: ../../glossary.md:25
 msgid "Agroforestry"
@@ -612,7 +611,7 @@ msgstr ""
 "d’accès qui ont un impact négatif sur les moyens de subsistance des "
 "populations locales, et visent à indemniser de manière adéquate les pertes "
 "subies. _Voir également {term}`Moyens de subsistance alternatifs` et "
-"{term}`Porgrammes d’incitation`._"
+"{term}`Programmes d’incitation`._"
 
 #: ../../glossary.md:102
 msgid "Consumption"
@@ -987,7 +986,7 @@ msgstr ""
 #: ../../glossary.md:203
 #, python-brace-format
 msgid "_See also {term}`Standardized Precipitation Index (SPI)`._"
-msgstr "_Voir aussi {term}`Index de précipitation normalisé (SPI)`._"
+msgstr "_Voir aussi {term}`Indice standardisé des précipitations (SPI)`._"
 
 #: ../../glossary.md:189
 msgid "Drought mitigation"
@@ -1356,7 +1355,7 @@ msgstr ""
 
 #: ../../glossary.md:269
 msgid "False negative"
-msgstr "Faux négatifs"
+msgstr "Faux négatif"
 
 #: ../../glossary.md:286
 msgid ""
@@ -1378,7 +1377,7 @@ msgstr "_Voir aussi {term}`Faux positif`._"
 
 #: ../../glossary.md:275
 msgid "False positive"
-msgstr "Faux négatifs"
+msgstr "Faux positif"
 
 #: ../../glossary.md:292
 msgid ""
@@ -1917,7 +1916,7 @@ msgid ""
 "_See also {term}`Alternative livelihoods` and {term}`Compensation schemes`._"
 msgstr ""
 "_Voir également {term}`Moyens de subsistance alternatifs` et "
-"{term}`Porgrammes d’indemnisation`._"
+"{term}`Programmes d’indemnisation`._"
 
 #: ../../glossary.md:396
 msgid "Income"
@@ -3155,7 +3154,7 @@ msgid ""
 "_See also {term}`Drought Vulnerability Index (DVI)`, {term}`Improved "
 "drinking water source`._"
 msgstr ""
-"_Voir aussi {term}`Index de vulnérabilité à la sécheresse (IVS)`, "
+"_Voir aussi {term}`Indice de vulnérabilité à la sécheresse (IVS)`, "
 "{term}`Source d’eau potable améliorée`._"
 
 #: ../../glossary.md:664

@@ -575,13 +575,13 @@ msgstr ""
 #: ../../SO1.md:119
 #, python-brace-format
 msgid "{cspan}`1` UNCCD"
-msgstr " {cspan}`1` CNULCD"
+msgstr " CNULCD"
 
 #: ../../SO1.md:120
 #, python-brace-format
 msgid "{cspan}`1` European Space Agency Climate Change Initiative Land Cover"
 msgstr ""
-" {cspan}`1` Initiative sur le changement climatique de l’Agence spatiale "
+" Initiative sur le changement climatique de l’Agence spatiale "
 "européenne"
 
 #: ../../SO1.md:121 ../../SO1.md:123
@@ -595,12 +595,12 @@ msgstr "Étiquette"
 #: ../../SO1.md:125
 #, python-brace-format
 msgid "{rspan}`11` 1"
-msgstr " {rspan}`11` 1"
+msgstr " 1"
 
 #: ../../SO1.md:126
 #, python-brace-format
 msgid "{rspan}`11` Tree-covered areas"
-msgstr " {rspan}`11` Zones arborées"
+msgstr " Zones arborées"
 
 #: ../../SO1.md:127
 msgid "50"
@@ -707,12 +707,12 @@ msgstr "Mosaïque d’arbres et d’arbustes (> 50 %) / couvert herbacé (< 50�
 #: ../../SO1.md:151
 #, python-brace-format
 msgid "{rspan}`8` 2"
-msgstr " {rspan}`8` 2"
+msgstr " 2"
 
 #: ../../SO1.md:152
 #, python-brace-format
 msgid "{rspan}`8` Grassland"
-msgstr " {rspan}`8` Prairies"
+msgstr " Prairies"
 
 #: ../../SO1.md:153
 msgid "110"
@@ -789,12 +789,12 @@ msgstr "Couvert herbacé clairsemé (< 15 %)"
 #: ../../SO1.md:171
 #, python-brace-format
 msgid "{rspan}`5` 3"
-msgstr " {rspan}`5` 3"
+msgstr " 3"
 
 #: ../../SO1.md:172
 #, python-brace-format
 msgid "{rspan}`5` Cropland"
-msgstr " {rspan}`5` Terres cultivées"
+msgstr " Terres cultivées"
 
 #: ../../SO1.md:173 ../../SO1.md:826
 msgid "10"
@@ -855,12 +855,12 @@ msgstr ""
 #: ../../SO1.md:185
 #, python-brace-format
 msgid "{rspan}`2` 4"
-msgstr " {rspan}`2` 4"
+msgstr " 4"
 
 #: ../../SO1.md:186
 #, python-brace-format
 msgid "{rspan}`2` Wetland"
-msgstr " {rspan}`2` Zones humides"
+msgstr " Zones humides"
 
 #: ../../SO1.md:187
 msgid "160"
@@ -907,12 +907,12 @@ msgstr "Zones urbaines"
 #: ../../SO1.md:197
 #, python-brace-format
 msgid "{rspan}`3` 6"
-msgstr " {rspan}`3` 6"
+msgstr " 6"
 
 #: ../../SO1.md:198
 #, python-brace-format
 msgid "{rspan}`3` Other land"
-msgstr " {rspan}`3` Autres terres"
+msgstr " Autres terres"
 
 #: ../../SO1.md:199
 msgid "200"
@@ -1046,12 +1046,12 @@ msgstr ""
 #: ../../SO1.md:239
 #, python-brace-format
 msgid "{rspan}`1`"
-msgstr "{rspan}`1`"
+msgstr ""
 
 #: ../../SO1.md:240
 #, python-brace-format
 msgid "{cspan}`7` FINAL CLASS"
-msgstr " {cspan}`7` CLASSIFICATION FINALE"
+msgstr " CLASSIFICATION FINALE"
 
 #: ../../SO1.md:241 ../../SO1.md:250
 msgid "Tree-covered areas"
@@ -1068,7 +1068,7 @@ msgstr "CATÉGORIE D’ORIGINE"
 #: ../../SO1.md:249
 #, python-brace-format
 msgid "{cspan}`7`"
-msgstr "{cspan}`7`"
+msgstr ""
 
 #: ../../SO1.md:251 ../../SO1.md:257 ../../SO1.md:260 ../../SO1.md:265
 #: ../../SO1.md:269 ../../SO1.md:273 ../../SO1.md:278 ../../SO1.md:281
@@ -1432,12 +1432,12 @@ msgstr ""
 #: ../../SO1.md:386 ../../SO1.md:595
 #, python-brace-format
 msgid "{rspan}`1` Item"
-msgstr " {rspan}`1` Élément"
+msgstr " Élément"
 
 #: ../../SO1.md:387 ../../SO1.md:596
 #, python-brace-format
 msgid "{cspan}`1` Specifications"
-msgstr " {cspan}`1` Spécifications"
+msgstr " Spécifications"
 
 #: ../../SO1.md:388
 msgid ""
@@ -3051,27 +3051,27 @@ msgstr ""
 #: ../../SO1.md:718
 #, python-brace-format
 msgid "{cspan}`3` Trends in Land Productivity"
-msgstr " {cspan}`3` Tendances de la productivité des terres"
+msgstr " Tendances de la productivité des terres"
 
 #: ../../SO1.md:719
 #, python-brace-format
 msgid "{rspan}`1` Period"
-msgstr " {rspan}`1` Période"
+msgstr " Période"
 
 #: ../../SO1.md:720
 #, python-brace-format
 msgid "{rspan}`1` Trend / Trajectory{{br}}(16 years)"
-msgstr " {rspan}`1` Tendance / Trajectoire{{br}}(16 ans)"
+msgstr " Tendance / Trajectoire{{br}}(16 ans)"
 
 #: ../../SO1.md:721
 #, python-brace-format
 msgid "{cspan}`1` State (16 years)"
-msgstr " {cspan}`1` État (16 ans)"
+msgstr " État (16 ans)"
 
 #: ../../SO1.md:722
 #, python-brace-format
 msgid "{rspan}`1` Performance{{br}}(16 years)"
-msgstr " {rspan}`1` Performance{{br}}(16 ans)"
+msgstr " Performance{{br}}(16 ans)"
 
 #: ../../SO1.md:723
 msgid "Baseline{{br}}(13 years)"
@@ -3172,7 +3172,7 @@ msgstr ""
 #: ../../SO1.md:760
 #, python-brace-format
 msgid "{cspan}`2` Changes observed in the three input productivity metrics"
-msgstr " {cspan}`2` Évolution observée des trois mesures de la productivité"
+msgstr " Évolution observée des trois mesures de la productivité"
 
 #: ../../SO1.md:761
 #, python-brace-format
@@ -3180,7 +3180,7 @@ msgid ""
 "{cspan}`1` Land productivity dynamics and land productivity degradation "
 "status derived from the combination of the three productivity metrics"
 msgstr ""
-" {cspan}`1` Dynamiques de la productivité des terres et état de "
+" Dynamiques de la productivité des terres et état de "
 "dégradation de la productivité des terres tirés de la combinaison des "
 "trois mesures de la productivité"
 
@@ -4508,12 +4508,12 @@ msgstr "*__Tableau 14__. Spécifications des données pour l’indicateur de l�
 #: ../../SO1.md:1096
 #, python-brace-format
 msgid "{rspan}`1`Item"
-msgstr "{rspan}`1`Élément"
+msgstr " Élément"
 
 #: ../../SO1.md:1097
 #, python-brace-format
 msgid "{cspan}`1`Specifications"
-msgstr "{cspan}`1`Spécifications"
+msgstr " Spécifications"
 
 #: ../../SO1.md:1098
 msgid "Default data"
