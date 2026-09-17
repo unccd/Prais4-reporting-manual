@@ -159,7 +159,7 @@ html_logo = "img/unccd_logo.png"
 html_favicon = "img/favicon.ico"
 
 # see https://docs.readthedocs.io/en/stable/guides/pdf-non-ascii-languages.html
-latex_engine = "lualatex"
+latex_engine = "xelatex"
 
 FONT_DIR = "_fonts"
 fonts = [file for file in os.listdir(FONT_DIR)]
@@ -226,10 +226,7 @@ def setup(app: Sphinx):
     if app.config.language == "ar":
         # use babel instead of polyglossia for Arabic
         # "temporary" workaround
-        app.config.latex_elements["babel"] = r"""
-\usepackage[bidi=basic]{babel}
-\babelprovide[import, main]{arabic}
-# """
+        app.config.latex_elements["babel"] = r"\usepackage[arabic]{babel}"
         # note: it doesn't work without \usepackage{polyglossia} in the preamble
 
     # handle title and author
