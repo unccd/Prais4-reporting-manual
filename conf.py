@@ -159,7 +159,7 @@ html_logo = "img/unccd_logo.png"
 html_favicon = "img/favicon.ico"
 
 # see https://docs.readthedocs.io/en/stable/guides/pdf-non-ascii-languages.html
-latex_engine = "xelatex"
+latex_engine = "lualatex"
 
 FONT_DIR = "_fonts"
 fonts = [file for file in os.listdir(FONT_DIR)]
