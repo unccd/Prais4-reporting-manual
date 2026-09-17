@@ -223,12 +223,12 @@ def setup(app: Sphinx):
     app.config.latex_additional_files.append(preamble_file)
     app.config.latex_elements["preamble"] += r"\input{" + preamble_file + "}"
 
-    # if app.config.language == "ar":
+    if app.config.language == "ar":
         # use babel instead of polyglossia for Arabic
         # "temporary" workaround
-        # app.config.latex_elements["babel"] = r"""
-# \usepackage[bidi=basic]{babel}
-# \babelprovide[import, main]{arabic}
+        app.config.latex_elements["babel"] = r"""
+\usepackage[bidi=basic]{babel}
+\babelprovide[import, main]{arabic}
 # """
         # note: it doesn't work without \usepackage{polyglossia} in the preamble
 
