@@ -19,4 +19,4 @@
 % \setmathrm{NotoNaskhArabic} % upright Roman font in math to a CJK font
 % \setmathsf{NotoNaskhArabic}
 
-\setmainlanguage{arabic} % this seems to break the pdf build when using babel
+% \setmainlanguage{arabic} % this seems to break the pdf build when using babel
