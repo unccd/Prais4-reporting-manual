@@ -226,7 +226,10 @@ def setup(app: Sphinx):
     if app.config.language == "ar":
         # use babel instead of polyglossia for Arabic
         # "temporary" workaround
-        app.config.latex_elements["babel"] = r"\usepackage[arabic]{babel}"
+        app.config.latex_elements["babel"] = r"""
+\usepackage[bidi=basic]{babel}
+\babelprovide[import, main]{arabic}
+"""
         # note: it doesn't work without \usepackage{polyglossia} in the preamble
 
     # handle title and author
