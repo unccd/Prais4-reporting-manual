@@ -1,15 +1,6 @@
 # Annex III: Glossary
 
-```{ifconfig} language == 'en'
-|
-{term}`A <Above ground biomass>` | {term}`B <Baseline>` | {term}`C <Capacity building, capacity development>` |
-{term}`D <Data>` | {term}`E <Economic vulnerability factors>` | {term}`F <False negative>` |
-{term}`G <Gain (monitored)>`|
-{term}`H <Hazard>` | {term}`I <Implementation Framework>` | {term}`K <Key Biodiversity Area>` |
-{term}`L <Land cover>` | {term}`M <Mainstreaming gender>` | {term}`N <Natural capital>` | {term}`O <OECD DAC CRS>` |
-{term}`P <Partnership>` | {term}`R <Raster data>` | {term}`S <Safely managed drinking water source(s)>` |
-{term}`T <Target>` | {term}`U <UNCCD National Action Programmes (NAPs)>` | {term}`V <Vector data>` |
-{term}`W <Water bodies>`|
+```{multilingual-glossary-index}
 ```
 
 ```{glossary}
