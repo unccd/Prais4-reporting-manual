@@ -82,6 +82,8 @@ polib==1.2.0
     # via -r requirements.in
 pygments==2.19.1
     # via sphinx
+pypinyin==0.55.0
+    # via -r requirements.in
 python-dotenv==1.2.1
     # via -r requirements.in
 pyyaml==6.0.2

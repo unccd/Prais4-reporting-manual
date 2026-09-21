@@ -13,8 +13,8 @@
 import os
 from sphinx.application import Sphinx
 
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import sys
+sys.path.insert(0, os.path.abspath('_ext'))
 
 
 # -- Project information -----------------------------------------------------
@@ -38,6 +38,7 @@ extensions = [
     "sphinx.ext.ifconfig",  # https://www.sphinx-doc.org/en/master/usage/extensions/ifconfig.html
     "docxbuilder",  # https://docxbuilder.readthedocs.io/en/latest/docxbuilder.html
     "sphinx_new_tab_link",  # https://github.com/ftnext/sphinx-new-tab-link
+    "multilingual_glossary"
 ]
 
 myst_enable_extensions = [
